@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/gastrointestinal/portal-hypertension/"}
+{"dg-publish":true,"permalink":"/gastrointestinal/portal-hypertension/","created":"2025-02-27T21:44:00"}
 ---
 
 # Definition
