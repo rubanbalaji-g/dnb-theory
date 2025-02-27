@@ -142,6 +142,7 @@
 # Management
 ## Variceal bleed
 <img src=https://i.imgur.com/mHhP6mR.png>
+
 - pharmacological
 	- octreotide - 1 mcg/kg as slow bolus or 1-3 mcg/kg/h
 	- terlipressin
