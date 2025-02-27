@@ -141,6 +141,7 @@
 	- autoimmune, wilsons
 # Management
 ## Variceal bleed
+
 <img src=https://i.imgur.com/mHhP6mR.png>
 
 - pharmacological
