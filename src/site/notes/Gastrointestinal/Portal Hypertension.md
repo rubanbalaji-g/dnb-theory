@@ -13,7 +13,7 @@
 - Intrasplenic pressure >17 mm Hg
 - Hepatic vein pressure gradient > 4 mm Hg
 # causes
-- MC - [[Gastrointestinal/Portal Hypertension#^ff1c2c\|EHPVO]]
+- MC - [[Gastrointestinal/Portal Hypertension#EHPVO\|EHPVO]]
 - Cirrhosis
 ## prehepatic
 - portal vein agenesis/ atresia
@@ -53,8 +53,7 @@
 	- bare area of liver
 - prone to bleeding due to their postition and exposure to food and acid
 - sites around the splenorenal and retroperitoneal cause more compression symptoms
-# EHPVO{ #ff1c2c}
-
+# EHPVO
 
 - development of portal cavernoma in the absence of associated liver disease
 - obstruction of extrahepatic portal vein with or without the involvement of the intrahepatic portal vein
@@ -76,3 +75,4 @@
 - non cirrhotic portal fibrosis
 - congenital hepatic fibrosis
 - budd chiari syndrome
+- 
