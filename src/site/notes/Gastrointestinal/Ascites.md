@@ -52,5 +52,5 @@
 	- spirinolactone
 	- furosemide in severe cases
 	- supplemental albumin
-	- TIPS (Transjugular Intrahepatic portosystemic shunt)
+	- [[Gastrointestinal/Portal Hypertension#TIPS\|TIPS]] (Transjugular Intrahepatic portosystemic shunt)
 - manage SBP
