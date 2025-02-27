@@ -3,13 +3,10 @@
 ---
 
 # Definition
-- Increased pressure in the portal system of 10-12mm of Hg 
-{ #b2d310}
-
 - pressure gradiant between PV and IVC of more than 10-12 mm Hg
 	- if >10mm Hg - varices
 	- if >12 mm Hg variceal bleed and ascites
-	- ig=f 6-12 mm Hg - subclinical PHTN
+	- if 6-12 mm Hg - subclinical PHTN
 - Intrasplenic pressure >17 mm Hg
 - Hepatic vein pressure gradient > 4 mm Hg
 # causes
@@ -52,8 +49,9 @@
 	- retroperitoneal
 	- bare area of liver
 - prone to bleeding due to their postition and exposure to food and acid
+	- in stomach this can cause vascular ectasia - <span style=color:lightgreen>congestive gastropathy</span>
 - sites around the splenorenal and retroperitoneal cause more compression symptoms
-# EHPVO
+### EHPVO
 
 - development of portal cavernoma in the absence of associated liver disease
 - obstruction of extrahepatic portal vein with or without the involvement of the intrahepatic portal vein
@@ -81,11 +79,22 @@
 - SBP
 - Cirrhotic childrenn
 - non bleeding manifestations
-	- splenomegaly
+	- splenomegaly (second most common)
 	- anemia
 	- transient ascites
 	- hypersplenism
 	- epistaxis
+- portopulmonary hypertension
+- hepatopulmonary syndrome
+### portopulmonary hypertension
+-  pulmonary arterial pressure greater than 25 mm Hg at rest or left ventricular end diastolic pressure less than 15 mm Hg 
+- presents with
+	- clubbing
+	- cyanosis
+	- dyspnea
+	- spider nevi
+- histopathology
+	- laminar intimal fibrosis of pulmonary artery
 # H&P
 - h/o umblical sepsis, UVC, recurrent diarrhoes, trauma, abdominal surgery
 - h/o chronic liver disease lincluding maternal history of Hep B, hep c, 
@@ -111,7 +120,9 @@
 - USG
 	- size of liver 
 	- surface of liver
-	- collatrals
+	- collaterals
+		- doppler can demonstrate the flow of blood 
+		- reversal of portovenous flow (heptaofugal) has been assocaited with varices
 	- spleen
 	- <span style=color:violet>spleenomegaly, omental thickening and splenorenal collaterals - chronic portal hypertension</span>
 	- <span style=color:pink>altered or increased liver echoes, spleenomegaly, dialted portal vein with or without ascites - Cirrhosis</span>
@@ -119,10 +130,12 @@
 	- <span style=color:pink>liver cyst, renal cyst and colletrals - congenital heptic fibrosis </span>
 	- <span style=color:violet> biliary dialtion with similar features - cholangitic CHF</span>
 	-  <span style=color:pink>altered liver echoes and dialted hepatic veins</span>
+- Upper GI endoscopy
 ### UGI grading
 ![Grading of varices](https://i.imgur.com/d5HYpNQ.png)
 -  CECT
 	- not required routinely
+	- selective arteriography of specifuc vessels
 	- required in liver transplant
 	- advantage of displaying varices and parenchymal hepatic abnormalities
 - MRCP
@@ -144,18 +157,25 @@
 
 <img src=https://i.imgur.com/mHhP6mR.png>
 
+- emergency treatment
+	- fluid resusitation
+	- PRBC transfusion
+	- avoid over transfusion - 7 to 9 mg/dl is a reasonable goal for hemoglobin
+	- PPI
+	- Vitamin K to stop bleeding
 - pharmacological
-	- octreotide - 1 mcg/kg as slow bolus or 1-3 mcg/kg/h
+	- vasopressin - 0.33 units/kg over 20 mins then followed by same dose hourly maintainance
+	- octreotide - 1 mcg/kg as slow bolus or 1-5 mcg/kg/h
 	- terlipressin
 - endoscopic
-	- sclerotherapy 
-		- inject sclerosing agent into varices
-		- require multiple session
-		- control 80-90% bleed\
-	- ligation
+	- ligation (preferred)
 		- application of tight band around the varices to cut off the blood flow
 		- less session needed
 		- less complications
+	- sclerotherapy (can be done in smaller children when banding is not possible)
+		- inject sclerosing agent into varices
+		- require multiple session
+		- control 80-90% bleed
 - balloon tamponade
 - primary prophylaxis
 	- before first bleeding
@@ -173,6 +193,7 @@
 		- indication - profound thrombocytopenia
 		- repeated infection
 		- physical discomfort caused by massive splenomegaly
+	- orthotopic liver transplant
 ### TIPS
 - percutaneously created connection between liver and system
 - less invasive
