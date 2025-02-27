@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/gastrointestinal/ascites/","created":"2025-02-26T23:19:00"}
+{"dg-publish":true,"permalink":"/gastrointestinal/ascites/","created":"2025-02-26T23:19:00","updated":"2025-02-27T22:27:00"}
 ---
 
 # Definition
@@ -49,6 +49,7 @@
 # Treatment
 - treat etiology
 - General management 
+	- dietary sodium restriction
 	- spirinolactone
 	- furosemide in severe cases
 	- supplemental albumin
