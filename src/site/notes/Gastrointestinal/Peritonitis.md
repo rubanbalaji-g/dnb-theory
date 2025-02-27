@@ -88,5 +88,5 @@
 ### Treatment
 - abscess drinage
 - indwelling catheter
-- surgical explration abscees
+- surgical exploration of abscess
 - duration is 4-6 weeks
