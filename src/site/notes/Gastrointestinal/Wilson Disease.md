@@ -15,10 +15,8 @@
 - In chromosome 13q14.3
 - copper transporting p type adinosine triphosphatase
 - Used in biliary copper transport and copper excretion
-
 - absence of this enzyme results in defective copper excretion
 - accumulated copper is cytotoxic to liver and inhibits pyruvate oxidase in brain and ATPase in membranes
-
 - pathogenic variations have disease onset as early as 3 years
 - Milder variants can cause disease as late as 80 years
 # clinical manifestations
