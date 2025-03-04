@@ -6,4 +6,3 @@
 - then erythropoesis starts
 - In premature babies this nadir can occur early at 3-6 weeks
 - nadir can dip upto 7-9 g/dl
-- 
