@@ -6,7 +6,7 @@
 2. [[Nutrition/@ Nutrition\|Nutrition]]
 3. [[Neonatalogy/@ Neonatology\|Neonatology]]
 4. [[Neurology/@ Neurology\|Neurology]]
-5. [[Cardiology/@@ Cardiology\|Cardiology]]
+5. [[Cardiology/@ Cardiology\|Cardiology]]
 6. [[Gastrointestinal/@ Gastroenterology\|Gastroenterology]]
 7. [[Hematology/@ Hematology\|Hematology]]
 8. [[Emergencies/@ Emergencies\|Emergencies]]
