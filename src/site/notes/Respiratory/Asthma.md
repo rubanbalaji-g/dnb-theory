@@ -104,7 +104,7 @@ Types of Asthma
 - ==*Responsiveness (Reversibility)*==  - rapid improvement with bronchodilator use
 ## diagnostic #approach
 
-![Pasted image 20240528224544.png](/img/user/Pasted%20image%2020240528224544.png)
+![Pasted image 20240528224544 1.png](/img/user/+%C4%B0mages/Pasted%20image%2020240528224544%201.png)
 
 #### Already on ICS
 

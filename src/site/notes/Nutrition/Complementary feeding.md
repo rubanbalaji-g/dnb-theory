@@ -50,7 +50,7 @@
 1. continue breastfeeding
 2. Introduce vegetable protein
 3. Animal protien
-4. ![Pasted image 20240526050316.png](/img/user/Pasted%20image%2020240526050316.png)
+4. ![Pasted image 20240526050316 1.png](/img/user/+%C4%B0mages/Pasted%20image%2020240526050316%201.png)
 
 ## Feeding of children
 

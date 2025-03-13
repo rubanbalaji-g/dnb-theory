@@ -37,7 +37,7 @@
 > - evidence of clinically significant impairment in social, academic or occupational functioning
 > - not better accounted for other mental disordets
 
-![Pasted image 20240525155905.png](/img/user/Pasted%20image%2020240525155905.png)
+![Pasted image 20240525155905 1.png](/img/user/+%C4%B0mages/Pasted%20image%2020240525155905%201.png)
 
 
 | DSM 5                                                                                                                  | ICD 10                                                                                                |
@@ -104,7 +104,7 @@
 > - persist for at least 6 months
 > - present in 2 or more settings
 
-![Pasted image 20240525165106.png](/img/user/Pasted%20image%2020240525165106.png)
+![Pasted image 20240525165106 1.png](/img/user/+%C4%B0mages/Pasted%20image%2020240525165106%201.png)
 Inattentive symptoms more in females
 Hyperactivity and impulsivity more in males
 
@@ -174,7 +174,7 @@ examples
 - medications alone may not be enough, supportive therapy is essential
 - stimulant drug are associated with increased risk of cardiovascular events, stroke due to underlying problems such as hypertrophic cardiomyopathy
 - prior cardiology consult is necessary before prescription of stimulants
-- ![Pasted image 20240526032013.png](/img/user/Pasted%20image%2020240526032013.png)
+- ![Pasted image 20240526032013 1.png](/img/user/+%C4%B0mages/Pasted%20image%2020240526032013%201.png)
 
 
 ### prognosis
