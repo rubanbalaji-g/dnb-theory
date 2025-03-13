@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/hematology/iron-deficiency-anemia/"}
 ---
 
-- 30-50% prevalence
+3r4t- 30-50% prevalence
 - <10% of dietary iron is absorbed
 # Causes of Iron deficieny
 > [!faq] DNB 2005, 2013
@@ -53,6 +53,7 @@
 ![](https://i.ibb.co/cS68gCbV/image.png)
 
 # normal Hb values
+
 <img src=https://i.ibb.co/tphBPvzp/image.png>
 
 # Diagnosis of IDA

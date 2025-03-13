@@ -52,7 +52,6 @@
 	- in stomach this can cause vascular ectasia - <span style=color:lightgreen>congestive gastropathy</span>
 - sites around the splenorenal and retroperitoneal cause more compression symptoms
 ### EHPVO
-
 - development of portal cavernoma in the absence of associated liver disease
 - obstruction of extrahepatic portal vein with or without the involvement of the intrahepatic portal vein
 - MC in india of PHTN

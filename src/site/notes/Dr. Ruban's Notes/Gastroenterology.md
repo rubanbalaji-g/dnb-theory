@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/dr-ruban-s-notes/gastroenterology/"}
+{"dg-publish":true,"permalink":"/dr-ruban-s-notes/gastroenterology/","hide":true}
 ---
 
 1. [[Gastrointestinal/Ascites\|Ascites]]
