@@ -15,7 +15,7 @@
 - Polyarthritis
 	- involvement of five of more joints in the first 6 months of disease
 # ILAR Classification of JIA
-> [! FAQ] DNB 1996, 2006, 2008, 2010, 2011, 2012, 2013, 2015, 2021, 2023
+> [! Faq] DNB 1996, 2006, 2008, 2010, 2011, 2012, 2013, 2015, 2021, 2023
 > 1. Classification of JRA
 > 2. Types of JRA / JIA
 > 3. Diagnostic criteria for JIA
@@ -160,9 +160,22 @@
 - calcineurin inhibitors and IVIG can be used in case of MAS
 
 Periodic slitt lamp evalution for uveitis must be done in all children
+
+### drugs used in JIA
 > [!faq] DNB 2014, 2023
 > Drugs used in JIA
 
 ![Drugs in JIA](https://i.ibb.co/gbjSGwkJ/image.png)
 
 ![Neslon screenshot](https://i.ibb.co/pv27XkMc/df-page-0001.jpg)
+
+### TB screening for biologicals
+- Always screen latent TB before starting biologicals
+- choice of tests
+	- CXR
+	- IGRA
+	- Montoux
+- Do CXR then proceed for montoux, IGRA
+- If both IGRA and Montoux negative - start biologicals
+- If either one is positive - start ATT (3HR), start biologicals after 1 month
+- If frank TB, start appropriate TB regime, start biologicals after 3 months
