@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/neonatalogy/fetal-growth-restriction/"}
+{"dg-publish":true,"permalink":"/neonatalogy/fetal-growth-restriction/","noteIcon":""}
 ---
 
 ## Definition

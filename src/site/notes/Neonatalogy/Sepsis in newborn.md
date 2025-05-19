@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/neonatalogy/sepsis-in-newborn/","created":"2024-06-20T21:40:00"}
+{"dg-publish":true,"permalink":"/neonatalogy/sepsis-in-newborn/","noteIcon":"","created":"2024-06-20T21:40:00"}
 ---
 
 # Definition

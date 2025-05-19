@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/hematology/physiological-anemia-of-infancy/"}
+{"dg-publish":true,"permalink":"/hematology/physiological-anemia-of-infancy/","noteIcon":""}
 ---
 
 - After 1st week of life, hb declines for 6-8 weeks upto 11 g/dl

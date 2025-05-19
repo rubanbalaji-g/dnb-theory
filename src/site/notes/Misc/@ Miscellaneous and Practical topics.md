@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/misc/miscellaneous-and-practical-topics/","hide":true}
+{"dg-publish":true,"permalink":"/misc/miscellaneous-and-practical-topics/","hide":true,"noteIcon":""}
 ---
 
 1. [[Misc/ECG\|ECG]]

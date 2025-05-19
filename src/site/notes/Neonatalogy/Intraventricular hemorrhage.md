@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/neonatalogy/intraventricular-hemorrhage/"}
+{"dg-publish":true,"permalink":"/neonatalogy/intraventricular-hemorrhage/","noteIcon":""}
 ---
 
 ## Key Facts

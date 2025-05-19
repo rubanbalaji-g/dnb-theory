@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/nutrition/vitamin-a-deficiency/"}
+{"dg-publish":true,"permalink":"/nutrition/vitamin-a-deficiency/","noteIcon":""}
 ---
 
 ## Metabolism

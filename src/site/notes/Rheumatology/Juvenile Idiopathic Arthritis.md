@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/rheumatology/juvenile-idiopathic-arthritis/","created":"2025-03-15T22:48:00"}
+{"dg-publish":true,"permalink":"/rheumatology/juvenile-idiopathic-arthritis/","noteIcon":"","created":"2025-03-15T22:48:00"}
 ---
 
 - Arthritis of unknown cause of >6 week duration in a child less than 16 years of age

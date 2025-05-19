@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/nutrition/nutrition/","hide":true}
+{"dg-publish":true,"permalink":"/nutrition/nutrition/","hide":true,"noteIcon":""}
 ---
 
 1. [[Nutrition/Infant and Young child feeding\|Infant and Young child feeding]]

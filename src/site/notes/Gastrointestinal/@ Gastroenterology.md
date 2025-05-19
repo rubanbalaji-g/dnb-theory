@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/gastrointestinal/gastroenterology/","hide":true}
+{"dg-publish":true,"permalink":"/gastrointestinal/gastroenterology/","hide":true,"noteIcon":""}
 ---
 
 1. [[Gastrointestinal/Ascites\|Ascites]]

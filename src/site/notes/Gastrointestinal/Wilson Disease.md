@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/gastrointestinal/wilson-disease/"}
+{"dg-publish":true,"permalink":"/gastrointestinal/wilson-disease/","noteIcon":""}
 ---
 
 - autosomal recessive

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/contact/","hide":true}
+{"dg-publish":true,"permalink":"/contact/","hide":true,"noteIcon":""}
 ---
 
 [WhatsApp](https://api.whatsapp.com/send?phone=919486278212&text=Hi)

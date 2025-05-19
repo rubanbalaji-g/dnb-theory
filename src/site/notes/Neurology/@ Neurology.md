@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/neurology/neurology/","hide":true}
+{"dg-publish":true,"permalink":"/neurology/neurology/","hide":true,"noteIcon":""}
 ---
 
 1. [[Neurology/Headaches\|Headaches]]

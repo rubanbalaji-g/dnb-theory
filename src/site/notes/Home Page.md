@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/home-page/","hide":true,"tags":["gardenEntry"],"created":"2024-03-19T19:05:00","updated":"2025-03-01T03:05:00"}
+{"dg-publish":true,"permalink":"/home-page/","hide":true,"tags":["gardenEntry"],"noteIcon":"","created":"2024-03-19T19:05:00","updated":"2025-03-01T03:05:00"}
 ---
 
 1. [[Respiratory/@ Respiratory system\|Respiratory System]]

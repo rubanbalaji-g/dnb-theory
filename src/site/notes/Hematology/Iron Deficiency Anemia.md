@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/hematology/iron-deficiency-anemia/"}
+{"dg-publish":true,"permalink":"/hematology/iron-deficiency-anemia/","noteIcon":""}
 ---
 
 3r4t- 30-50% prevalence

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/emergencies/status-epilepticus/"}
+{"dg-publish":true,"permalink":"/emergencies/status-epilepticus/","noteIcon":""}
 ---
 
 # #definition 

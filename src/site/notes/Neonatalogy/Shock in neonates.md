@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/neonatalogy/shock-in-neonates/","created":"2024-06-12T09:22:00"}
+{"dg-publish":true,"permalink":"/neonatalogy/shock-in-neonates/","noteIcon":"","created":"2024-06-12T09:22:00"}
 ---
 
 #### Source

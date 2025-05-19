@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/neonatalogy/retinopathy-of-prematurity/"}
+{"dg-publish":true,"permalink":"/neonatalogy/retinopathy-of-prematurity/","noteIcon":""}
 ---
 
 Retinopathy of prematurity is a vascular-proliferative disorder of retina in preterm infants

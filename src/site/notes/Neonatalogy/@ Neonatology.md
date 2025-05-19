@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/neonatalogy/neonatology/","hide":true}
+{"dg-publish":true,"permalink":"/neonatalogy/neonatology/","hide":true,"noteIcon":""}
 ---
 
 1. [[Neonatalogy/Shock in neonates\|Shock in neonates]]

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/neurology/seizures/febrile-seizure/"}
+{"dg-publish":true,"permalink":"/neurology/seizures/febrile-seizure/","noteIcon":""}
 ---
 
 

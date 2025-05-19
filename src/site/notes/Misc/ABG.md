@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/misc/abg/"}
+{"dg-publish":true,"permalink":"/misc/abg/","noteIcon":""}
 ---
 
 ## Normal Values

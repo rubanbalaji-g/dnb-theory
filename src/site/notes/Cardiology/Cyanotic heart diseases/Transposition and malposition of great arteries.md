@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cardiology/cyanotic-heart-diseases/transposition-and-malposition-of-great-arteries/"}
+{"dg-publish":true,"permalink":"/cardiology/cyanotic-heart-diseases/transposition-and-malposition-of-great-arteries/","noteIcon":""}
 ---
 
 # Normal position of great arteries

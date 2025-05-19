@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/neurology/headaches/"}
+{"dg-publish":true,"permalink":"/neurology/headaches/","noteIcon":""}
 ---
 
 Type of headache
