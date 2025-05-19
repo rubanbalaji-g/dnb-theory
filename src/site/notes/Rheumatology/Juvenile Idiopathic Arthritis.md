@@ -47,7 +47,7 @@
 - MRI 
 	- erosion 
 	- edema of bone marrow
-- RA and ANA - negative
+- RF and ANA - negative
 ## systemic
 - systemic features
 - koebner's phenomenon
