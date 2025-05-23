@@ -3,6 +3,7 @@
 ---
 
 1. [[Gastrointestinal/Ascites\|Ascites]]
-2. [[Gastrointestinal/Peritonitis\|Peritonitis]]
-3. [[Gastrointestinal/Portal Hypertension\|Portal Hypertension]]
-4. [[Gastrointestinal/Wilson Disease\|Wilson Disease]]
+2. [[Gastrointestinal/Autoimmune hepatitis\|Autoimmune hepatitis]]
+3. [[Gastrointestinal/Peritonitis\|Peritonitis]]
+4. [[Gastrointestinal/Portal Hypertension\|Portal Hypertension]]
+5. [[Gastrointestinal/Wilson Disease\|Wilson Disease]]
