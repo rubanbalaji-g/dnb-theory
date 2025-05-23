@@ -3,4 +3,4 @@
 ---
 
 1. [[Neuromuscular/Congential Myopathies\|Congential Myopathies]]
-2. [[Neuromuscular/Muscular Dystrophies\|Muscular Dystrophies]]
+2. [[Muscular Dystrophies\|Muscular Dystrophies]]
