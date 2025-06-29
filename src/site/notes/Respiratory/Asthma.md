@@ -90,7 +90,7 @@ Types of Asthma
 
 #### #Diagnostic_criteria
 
-<img src="https://i.imgur.com/tSI54HG.png">
+![](https://i.ibb.co/0vC2jvj/t-SI54-HG-d.webp)
 
 | Test                                 | Variablity                                              |
 | ------------------------------------ | ------------------------------------------------------- |
@@ -104,7 +104,7 @@ Types of Asthma
 - ==*Responsiveness (Reversibility)*==  - rapid improvement with bronchodilator use
 ## diagnostic #approach
 
-![Pasted image 20240528224544.png](/img/user/+%C4%B0mages/Pasted%20image%2020240528224544.png)
+![](https://i.ibb.co/kjmFV5s/Pasted-image-20240528224544.png)
 
 #### Already on ICS
 
@@ -112,8 +112,7 @@ Types of Asthma
 
 ##### <mark style="background: #ADCCFFA6;">For children less than 5  years</mark>
 
-<img src="https://i.imgur.com/yi5LuBR.jpeg">
-
+![](https://i.ibb.co/TqLcwvTL/yi5-Lu-BR-d.webp)
 #### Other tests
 
 ###### <mark style="background: #FF5582A6;">Allergic tests</mark>
@@ -130,14 +129,12 @@ Types of Asthma
 
 <mark style="background: #ADCCFFA6;">older children</mark>
 
-<img src="https://i.imgur.com/YVRfG0N.png">
-
+![](https://i.ibb.co/0R2kZxSf/YVRfG0N.png)
 <mark style="background: #ADCCFFA6;">Younger children</mark>
 
-<img src="https://i.imgur.com/JrfrXXI.png">
+![](https://i.ibb.co/7JNvZk1n/Jrfr-XXI-d.webp)
 
-<img src="https://i.imgur.com/lm3AfOG.png">
-
+![](https://i.ibb.co/2YnD6npR/lm3AfOG.png)
 ## Treatment
 ##### Goal 
 - Remission -
@@ -178,13 +175,13 @@ Types of Asthma
 | daily asthma/ night asthma 1 per week                                             | [medium dose ICS + LABA] + SABA sos<br>(or)<br>[low dose ICS + formoterol] as MART |
 | exarcerabation                                                                    | treat as exarcerbation                                                             |
 
-<img src=https://i.imgur.com/WoAMQnC.jpeg>
+![](https://i.ibb.co/VWnF8brw/Wo-AMQn-C-d.webp)
 
-<img src="https://i.imgur.com/7dNnjAq.png">
+![](https://i.ibb.co/8T9vCBf/7d-Nnj-Aq-d.webp)
 
 ##### Step Up / Step Down
 
-<img src=https://i.imgur.com/N49EjgG.png>
+![](https://i.ibb.co/nMMSQ974/N49-Ejg-G-d.webp)
 
 ###### <mark style="background: #ABF7F7A6;">Assess</mark>
 - assess risk factors and control for at least 4 weeks or longer
@@ -216,15 +213,15 @@ Types of Asthma
 
 <mark style="background: #ADCCFFA6;">older children</mark>
 
-<img src="https://i.imgur.com/YSlZ0vZ.png">
+![](https://i.ibb.co/nsBDhh7w/YSl-Z0v-Z-d.webp)
 
 <mark style="background: #ADCCFFA6;">Young children</mark>
 
-<img src="https://i.imgur.com/LseE9PG.jpeg">
+![](https://i.ibb.co/yc8CRWXb/LseE9PG.jpg)
 
 <mark style="background: #FFB86CA6;">In Acute Care facility</mark>
 
-<img src="https://i.imgur.com/wYkjCvZ.png">
+![](https://i.ibb.co/0yfTs63x/w-Ykj-Cv-Z-d.webp)
 
 - Investigations
 	- measure lung function
@@ -253,8 +250,8 @@ Types of Asthma
 ## Asthma control 
 - symptom control
 - future risk of adverse outcomes
-- <img src="https://i.imgur.com/AR6fZIO.png">
-- <img src="https://i.imgur.com/ATNt6yt.png">
+- ![](https://i.ibb.co/20dzsmpz/AR6fZIO.png)
+- ![](https://i.ibb.co/TMwqKLvJ/ATNt6yt-d.webp)
 
 - Asthma Control Questionnaire (ACQ)
 - Asthma Control test (ACT)
@@ -287,5 +284,5 @@ Types of Asthma
 - **Uncontrolled asthma** - lack of control due to incorrect inhaler technique, poor adherence, over use of SABA, comorbidities, persistent environmental exposures
 - different meaning in different setting
 - GINA - <mark style="background: #FFB86CA6;">Retrospective diagnosis</mark> based on <mark style="background: #D2B3FFA6;">difficulty to treat</mark> in older children
-- <img src="https://i.imgur.com/KrV1xHz.png">
+- ![](https://i.ibb.co/JWq0hFxY/KrV1xHz.png)
  

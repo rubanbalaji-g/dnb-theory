@@ -121,11 +121,11 @@ Additional features includes (to strengthen the diagnosis)
 ### Choice of drugs
 - should be decided based on POCE/ BP
 
-![Imgur](https://i.imgur.com/hTHwCRL.jpg?1)
+![Imgur](https://i.ibb.co/xSSrQ2bX/hTHwCRL.jpg)
 
-<img src=https://i.imgur.com/4SxOo6Y.jpeg>
+<img src=https://i.ibb.co/1J2xs5ns/4SxOo6Y.jpg>
 
-<img src="https://i.imgur.com/mXyvWkG.jpg">
+<img src="https://i.ibb.co/tMhZZ1mD/mXyvWkG.jpg">
 
 | condition | seen in                                                                                              | drug to use                           |
 | --------- | ---------------------------------------------------------------------------------------------------- | ------------------------------------- |
@@ -137,9 +137,9 @@ Additional features includes (to strengthen the diagnosis)
 - rule out pneumothorax, cardiac tamponade, pleural collections
 - use of two separate lines to provide maintenance fluids and inotropes is preferred
 - avoid using inotropes with vasculocorrosive drugs like calcium gluconate
-<img src=https://i.imgur.com/EzDwCEW.jpeg alt="algorithm for shock management">
+<img src=https://i.ibb.co/fYcRHfdR/EzDwCEW.jpg alt="algorithm for shock management">
 ### End-points of shock and weaning
-<img src=https://i.imgur.com/x5ar56V.jpeg>
+<img src=https://i.ibb.co/RGdHt3vf/x5ar56V.jpg>
 - first in, first out principle should be used in weaning
 - if BP more than 75th percentile, faster weaning should be planned
 - trophic feeds at 10 to 20 ml/kg/day may be initiated once the therapeutic end points are met

@@ -6,17 +6,17 @@ Retinopathy of prematurity is a vascular-proliferative disorder of retina in pre
 ## Classification
 Based on **International Classification of ROP (ICROP)**
 ### Zones of ROP
-![](https://provider-rop.vision-relief.com/wp-content/uploads/2022/07/Depiction-of-zone-borders-and-clock-hour-sectors.jpg)
+![](https://i.ibb.co/9mwdwwt4/Depiction-of-zone-borders-and-clock-hour-sectors.jpg)
 ### Stages of ROP
-![](https://imgur.com/ie86ZkO.jpg)
+![](https://i.ibb.co/bMhRr890/ie86ZkO.jpg)
 Stage
 	5a - open funnel - optic disc visible under ophthalmoscopy
 	5b - closed funnel - optic disc not visible under ophthalmoscopy
 	5c - stage 5b + anterior chamber changes like uveitis, iridocorneolenticular adhesions
 ### Plus disease
-![](https://imgur.com/CNfTNrH.jpg)
+![](https://i.ibb.co/zVDYYvjW/CNfTNrH.jpg)
 ### Severity Classification
-![](https://imgur.com/sww6uIE.jpg)
+![](https://i.ibb.co/sdtHdP3F/sww6uIE.jpg)
 ### Aggressive ROP
 - developing rapidly from stage 1 to stage 5
 - no typical progression of stages

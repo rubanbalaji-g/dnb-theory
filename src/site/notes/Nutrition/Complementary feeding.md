@@ -25,8 +25,9 @@
 #### Family pot feeding
 - thickened mashed food without spices and added ghee or oil, green leafy vegetables and seasonal fruits
 
-| 6 months of age    | - cereal based porridge (ragi, suji, rice), enriched with sugar/jaggery, oil/ghee, animal milk can be started <br>- start with 1-2 spoonful and gradually raise to 1/2 to 1 cup per day<br>- 1 to 2 times per day |
+| Age                | diet                                                                                                                                                                                                              |
 | ------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 6 months of age    | - cereal based porridge (ragi, suji, rice), enriched with sugar/jaggery, oil/ghee, animal milk can be started <br>- start with 1-2 spoonful and gradually raise to 1/2 to 1 cup per day<br>- 1 to 2 times per day |
 | 6-9 months of age  | - introduced mashed items from the family pot <br>- pulses, tubers, vegetables, soups, mashed fruits, egg yolk followed by white<br>- 4 to 5 times a day                                                          |
 | 9-12 months of age | - soft foods, harder food can be made soft by adding milk<br>- 4 to 6 times a day                                                                                                                                 |
 | 1 year             | - baby should be able to eat everything cooked at home<br>- should eat half of what mother eats                                                                                                                   |
@@ -50,7 +51,7 @@
 1. continue breastfeeding
 2. Introduce vegetable protein
 3. Animal protien
-4. ![Pasted image 20240526050316 1.png](/img/user/+%C4%B0mages/Pasted%20image%2020240526050316%201.png)
+4. ![](https://i.ibb.co/Y4V5YM5M/Pasted-image-20240526050316-1.png)
 
 ## Feeding of children
 

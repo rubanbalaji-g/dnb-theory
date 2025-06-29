@@ -3,7 +3,7 @@
 ---
 
 ## Metabolism
-![Vitamin A pathway.excalidraw.png](/img/user/Excalidraw/Vitamin%20A%20pathway.excalidraw.png)
+![](https://i.ibb.co/bgpjnq8j/Vitamin-A-pathway-excalidraw.png)
 ## Clinical features
 - Xeropthalmia
 	- night blindness

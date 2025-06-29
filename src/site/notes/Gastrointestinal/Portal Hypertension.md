@@ -131,7 +131,7 @@
 	-  <span style=color:pink>altered liver echoes and dialted hepatic veins</span>
 - Upper GI endoscopy
 ### UGI grading
-![Grading of varices](https://i.imgur.com/d5HYpNQ.png)
+![Grading of varices](https://i.ibb.co/5WKVPWTg/d5HYpNQ.png)
 -  CECT
 	- not required routinely
 	- selective arteriography of specifuc vessels
@@ -154,7 +154,7 @@
 # Management
 ## Variceal bleed
 
-<img src=https://i.imgur.com/mHhP6mR.png>
+<img src=https://i.ibb.co/LzT137YB/mHhP6mR.png>
 
 - emergency treatment
 	- fluid resusitation

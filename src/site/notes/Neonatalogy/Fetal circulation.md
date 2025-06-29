@@ -7,11 +7,11 @@
 - Oval foramen - between right and left ventricle
 - Arterial duct - between pulmonary artery and descending aorta
 - venous duct - umbilical vein and inferior vena cava
-![](https://i.pinimg.com/originals/85/b5/64/85b564dd538b6ad2472dce3bf29dbdb9.jpg)
+![](https://i.ibb.co/d4tbQXSx/85b564dd538b6ad2472dce3bf29dbdb9.jpg)
 ## Flow of blood in fetus
 - systemic and pulmonary circulation are parallel to each other
 - total fetal cardiac output is 450 ml/kg/min (compared to 75 mg/kg/min in adult)
-![](https://i.imgur.com/bsGB7Up.png)
+![](https://i.ibb.co/8DBNh4fB/bsGB7Up.png)
 - Pulmonary vascular resistance > systemic vascular resistance
 # Transitional circulation
 ## Changes at birth

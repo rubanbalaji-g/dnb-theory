@@ -57,7 +57,7 @@
 > - chin close to and touching the breast
 > - lower lip everted
 > - more areola seen above the baby than below
->   ![Pasted image 20240525031809 1.png](/img/user/+%C4%B0mages/Pasted%20image%2020240525031809%201.png)
+>   ![](https://i.ibb.co/Kc5LyfnM/Pasted-image-20240525031809-1.png)
 >  - baby can make sound while suckling
 
 > [!faq] expressed breastmilk
@@ -98,11 +98,11 @@
 > > [!danger] energy rich
 > > - food to be prepared thick
 > > - thin soup and cereals fill the stomach but not fill the stomach
-> >![Pasted image 20240525031853 1.png](/img/user/+%C4%B0mages/Pasted%20image%2020240525031853%201.png)
+> > ![](https://i.ibb.co/ZpQQRy83/Pasted-image-20240525031853-1.png)
 > > - katori is 250 ml
 > > - start with 2 to 3 spoons, 2 to 3 meals everyday then gradually increase
 > > - do not force
-> >  ![Pasted image 20240525032256 1.png](/img/user/+%C4%B0mages/Pasted%20image%2020240525032256%201.png)
+> >  ![](https://i.ibb.co/RpDvDNJh/Pasted-image-20240525032256-1.png)
 >
 > > [!danger] snack
 > > - panjeeri, laddoo, halwa, upma, idli, poha
