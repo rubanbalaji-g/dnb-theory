@@ -7,3 +7,4 @@
 3. [[Gastrointestinal/Peritonitis\|Peritonitis]]
 4. [[Gastrointestinal/Portal Hypertension\|Portal Hypertension]]
 5. [[Gastrointestinal/Wilson Disease\|Wilson Disease]]
+6. [[Gastrointestinal/Celiac disease\|Celiac disease]]
