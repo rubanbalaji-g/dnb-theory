@@ -40,7 +40,7 @@
 	- If ↓ anti TG2 IgA ⟶ anti TG2 IgG testing
 - While doing biopsy at least four fragments should be obtained from the descending part of duodenum
 - HLA testing can be done in cases of uncertainty
-![Pasted image 20250629134250.png|ESPHAGN Diagnostic Algorithm](/img/user/+%C4%B0mages/Pasted%20image%2020250629134250.png)
+<img src=https://i.ibb.co/xtf8Y2K0/msedge-59-Sg7uu-Zdz.png>
 
 > [!faq] PYQ
 > 1. Explain the pathogenesis and diagnosis of celiac disease (DNB 2020/1)4 
