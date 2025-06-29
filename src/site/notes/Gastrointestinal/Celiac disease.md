@@ -119,7 +119,6 @@
 - **Oats**:
     - Generally safe for most CD patients.
     - Risk of **gluten contamination** during harvesting, milling, and shipping.
-    - Recommended to introduce oats **after GFD is well established** to monitor for adverse reactions.
 ### **Gluten Thresholds**
 - **Codex Alimentarius Guidelines**:
     - Gluten-free defined as **<20 ppm** (20 mg/kg).
