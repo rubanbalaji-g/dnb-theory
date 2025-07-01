@@ -159,8 +159,25 @@
 > [!faq] PYQ
 > 1. Define non-responsive celiac disease and refractory celiac disease (DNB 2020/1)4+2
 ## **Refractory or Nonresponsive CD**
-- Some older patients may not respond to GFD.
+- persistent of symptoms of atrophy of intestinal villi after ≥ 12 months of strict gluten free diet
+- rare in children compared to older patients 
+- Types 
+	- type 1
+		- less severe
+		- endoscopic and histological features similar to those in uncomplicated active celiac disease
+	- type 2
+		- severe malnutrition with wasting
+		- protein losing enteropathy
+		- ulcerative jejunitis 
 - Requires a **systematic diagnostic approach**:
     - Confirm diagnosis.
-    - Assess dietary compliance.
+    - Rule out alternate diagnosis
+	    - malabsorption syndromes
+	    - autoimmune enteropathy
+	    - small bowel intestinal overgrowth
+	    - milk protein allergy
+	    - pancreatic insufficiency
+    - Assess dietary compliance 
+    - look for gluten contamination
     - Explore therapeutic options.
+- Consider open-capsule budesonide or prednisolone as first line therapy

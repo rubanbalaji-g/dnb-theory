@@ -18,10 +18,8 @@ Recommended doses less than 90 mg/kg
 | 3     | 3-5 days     | Liver failure, multiorgan failure                   | Peak transaminases           |
 | 4     | 5d - 2 weeks | Clinical recovery followed by histological recovery | Resolution of liver function |
 ## Investigation
-
 Paracetamol levels after 4 hours of ingestion
 ## Treatment
-
 4 categories
 
 | Category                                            | Management                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
