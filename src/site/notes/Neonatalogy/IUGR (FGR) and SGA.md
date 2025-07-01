@@ -215,6 +215,32 @@
 > [!faq] PYQ
 > 1. Enumerate the criteria of discharge of LBW baby from SCNU (DNB 2019/1)5
 
-- 
+### Weight Criteria
+- Minimum weight of **1800 grams** (some guidelines may accept **1500 grams** if the baby is otherwise stable).
+- Consistent weight gain of **15–20 grams per day** for **3 consecutive days**.
+### Thermal Stability
+- Ability to maintain **normal body temperature (36.5–37.5°C)** in an open environment (without external heat sources) for **at least 3 consecutive days**.
+### Feeding Ability
+- Baby should be able to **breastfeed or take oral feeds** adequately.
+- No signs of **feeding intolerance**.
+- No need for **intravenous fluids or tube feeding**.
+### Clinical Stability
+- No signs of **infection**, **respiratory distress**, or other acute medical conditions.
+- No **apneic episodes** for at least **5–7 days**.
+- **Normal vital signs** (heart rate, respiratory rate, oxygen saturation).
+### Parental Readiness
+- Parents/caregivers trained in:
+  - **Kangaroo Mother Care (KMC)**
+  - **Breastfeeding techniques**
+  - **Danger signs recognition**
+  - **Hygiene and thermal care**
+- Confident and capable of caring for the baby at home.
+### Follow-Up Plan
+- A clear follow-up schedule including:
+  - **Home-Based Newborn Care (HBNC)** visits by ASHA workers.
+  - Scheduled visits to the **nearest health facility or SNCU follow-up clinic**.
+### Immunization
+- Baby should have received **age-appropriate immunizations** before discharge.
+
 
 
