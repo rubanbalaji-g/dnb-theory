@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/dr-ruban-s-notes/dr-ruban-s-notes/","hide":true,"tags":["gardenEntry"],"noteIcon":"","created":"2024-03-19T19:05:00","updated":"2025-03-01T03:05:00"}
+{"dg-publish":true,"permalink":"/dr-ruban-s-notes/dr-ruban-s-notes/","hide":true,"noteIcon":"","created":"2024-03-19T19:05:00","updated":"2025-03-01T03:05:00"}
 ---
 
 1. [[Dr. Ruban's Notes/Respiratory system\|Respiratory system]]
