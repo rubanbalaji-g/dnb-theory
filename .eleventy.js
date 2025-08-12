@@ -119,6 +119,29 @@ function getAnchorAttributes(filePath, linkTitle) {
 }
 
 const tagRegex = /(^|\s|>)(#[^\s!@#$%^&*()=+,.[{\]};:'"?><]+)(?!([^<]*>))/g;
+// ADD THIS FUNCTION AT THE TOP OF YOUR FILE
+
+function autoWrapText(text, maxWidth = 30) {
+  if (!text) return text;
+  if (text.length <= maxWidth) return text;
+
+  const words = text.split(' ');
+  let currentLine = '';
+  const lines = [];
+
+  for (const word of words) {
+    if ((currentLine + ' ' + word).trim().length > maxWidth) {
+      lines.push(currentLine.trim());
+      currentLine = word;
+    } else {
+      currentLine = (currentLine + ' ' + word).trim();
+    }
+  }
+  if (currentLine) {
+    lines.push(currentLine.trim());
+  }
+  return lines.join('<br>');
+}
 
 module.exports = function (eleventyConfig) {
   eleventyConfig.setLiquidOptions({
@@ -204,11 +227,62 @@ module.exports = function (eleventyConfig) {
     })
     .use(require("markdown-it-mark"))
     .use(require("markdown-it-footnote"))
-    .use(function (md) {
-      md.renderer.rules.hashtag_open = function (tokens, idx) {
-        return '<a class="tag" href="/tags/{{ token.content | slugify }}">#{{ token.content }}</a>';
-      };
-    })
+ // REPLACE THE OLD .use(function(md){...}) BLOCK WITH THIS ONE
+
+.use(function (md) {
+  const origFenceRule =
+    md.renderer.rules.fence ||
+    function (tokens, idx, options, env, self) {
+      return self.renderToken(tokens, idx, options, env, self);
+    };
+  md.renderer.rules.fence = (tokens, idx, options, env, slf) => {
+    const token = tokens[idx];
+
+    if (token.info === "mermaid") {
+      let code = token.content.trim();
+      const lines = code.split('\n');
+
+      const processedLines = lines.map(line => {
+        // This regex finds text inside [], (), {}, or ""
+        const labelRegex = /(\[|\(|\{|").*?(\]|\)|\}|")/g;
+        
+        // Use .replace() with a replacer function to fix the "is not a function" error
+        return line.replace(labelRegex, (fullLabel) => {
+          // `fullLabel` is now guaranteed to be a string, e.g., "[Some long text]"
+          const innerText = fullLabel.substring(1, fullLabel.length - 1);
+          const wrappedText = autoWrapText(innerText); // Use the helper function
+          return `${fullLabel[0]}${wrappedText}${fullLabel[fullLabel.length - 1]}`;
+        });
+      });
+
+      code = processedLines.join('\n');
+      return `<pre class="mermaid">${code}</pre>`;
+    }
+
+    // This preserves your original transclusion logic
+    if (token.info === "transclusion") {
+      const code = token.content.trim();
+      const { innerHTML } = getAnchorAttributes(code);
+      if (innerHTML === code) {
+        const { attributes } = getAnchorAttributes(code, "");
+        return `<div class="transclusion internal-link" ${Object.keys(
+          attributes
+        )
+          .map((key) => `${key}="${attributes[key]}"`)
+          .join(" ")}></div>`;
+      }
+      let content = parse(innerHTML).innerHTML;
+      if (content === "\n<p><a class=\"internal-link\"></a></p>\n") {
+        content = "";
+      }
+      let contentDiv = content ? `<div class="transclusion-content">${content}</div>` : "";
+      return `<div class="transclusion internal-link"><a class="transclusion-link" href="${getAnchorAttributes(code).attributes.href
+        }">${code}</a>${contentDiv}</div>`;
+    }
+    return origFenceRule(tokens, idx, options, env, slf);
+  };
+})
+
     .use(require("markdown-it-mathjax3"), {
       tex: {
         inlineMath: [["$", "$"]],
