@@ -20,28 +20,35 @@
 - pathogenic variations have disease onset as early as 3 years
 - Milder variants can cause disease as late as 80 years
 # clinical manifestations
+- 20% asymptomatic
 ## hepatic 40-60%
 - asymptomatic elevation of liver enzymes
 - Asymptomatic hepatomegaly with or without splenomegaly
 - Acute liver failure - coagulopathy, jaundice, encephalopathy (females are 3 times more likely to develop ALF)
 - Acute hepatitis - jaundice, abdominal pain
-- Liver cirrhosis
+- Liver cirrhosis (cirrhosis can bypass decompensation)
 ## neurological 40-50%
-- involuntary movements - tremor, dyskinesia, ataxia, ballismus, chorea, parkinsonism
-- Speech disturbances - dysarthria
+- earliest in basal ganglia
+- involuntary movements - tremor - wind beating tremor(most common in india), dyskinesia, ataxia, ballismus, chorea, parkinsonism, dystonia (vacuous smile)
+- Speech disturbances - dysarthria (most common)
 - Dysphagia
 - Autonomic disfunction - salivation, orthostatic hypotension
 - Gait and balance distrubances
 ## psychiatric 10-25%
 - personality disorders
-- Mood disorders
+- Mood disorders - depression
 - Psychosis
 - Cognitive impairment
 ## ophthalmic 90-100% in neurological, 40-50% in hepatic
 - KF ring
+- 1st in upper limbus followed by lower limbus
+- differential
+	- Primary biliary cirrhosis
+	- acute bilirubinemia >20
+- sunflower cataract
 ## others
 - renal - tubular disfunction, nephrolithiasis, hypercalciuria, hyperphosphaturia (fanconi’s)
-- Bone - osteophorosis, chondrocalcinosis, joint pain
+- Bone - osteophorosis, chondrocalcinosis, joint pain (large joints)
 - Skin - hyperpigmentation, azure lunulae (sky blue moon) of the nails, xerosis, acanthosis nigricans, lipomas, 
 - Hematopoietic - thrombocytopenia, leukcytopenia, <span style=color:cyan>haemolytic anemia</span> (can sometimes be the earliest presentation)
 - Gynaecological - delayed puberty, abnormal menstruration
@@ -62,6 +69,21 @@
 - genetic analysis
 	- DNA gene analysis
 	- Linkage analysis
+## Leipzig score
+- KF ring
+- Neurological symptoms
+- serum ceruloplasmin
+- combs negative Hemolytic anemia
+- liver copper
+- urinary copper
+- mutation analysis
+## Radiology
+- Face of giant panda sign at mid brain level
+	- hyperintensity of tegmentum
+	- low intensity of superior colliculus
+	- pars reticula
+- miniature 
+
 # treatment
 - limiting copper intake <1mg/day
 - Initial  (Copper chelating agents)
@@ -75,3 +97,13 @@
 - Antioxidants - vitamin E, curcumin
 - Pharmacological chaperones - 4-phenylbutyrate 
 - Liver transplant is curative
+# MENDIK disease
+- Mental deficiency
+- Enteropathy
+- Deafness
+- Neuropathy
+- Ichyiosis
+- Keratoderma
+
+- mutation of AP1S1 - involving in the trafficking of ATP7A and ATP7B gene
+- result in a syndrome with has clinical features of both Menke and Wilsons
