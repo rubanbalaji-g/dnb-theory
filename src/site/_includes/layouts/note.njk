@@ -92,5 +92,19 @@ permalink: "notes/{{ page.fileSlug | slugify }}/"
       {% include imp %}
     {% endfor %}
     {%include "components/lucideIcons.njk"%}
+<!-- This script loads and renders Mermaid diagrams with custom font size -->
+<script type="module">
+  import mermaid from 'https://cdn.jsdelivr.net/npm/mermaid@10/dist/mermaid.esm.min.mjs';
+
+  // Initialize Mermaid with our desired configuration
+  mermaid.initialize({
+    startOnLoad: true,
+    // Add this themeVariables block to control styling
+    themeVariables: {
+      fontSize: '20px' // You can adjust this value. Try 16px, 18px, or 20px.
+    }
+  });
+</script>
+
   </body>
 </html>
