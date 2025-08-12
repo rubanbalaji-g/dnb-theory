@@ -75,40 +75,33 @@
 <!-- htmlmin:ignore -->
 ```mermaid
 flowchart TD
-    A[Neonate with thrombocytopenia] --> B{Is the neonate clinically well or sick?};
-    B -->|Well| C{Is there a history of maternal antibodies orprevious affected pregnancy?};
-    B -->|Sick| D{Any evidence of infection or sepsis?};
-
-    C -->|Yes| E["Consider Fetal/ Neonatal Alloimmune Thrombocytopenia (FNAIT)"];
-    E --> F["Check maternal anti-platelet antibodies"];
-    F --> G["Monitor fetal platelet counts if antenatal"];
-    G --> H["Plan delivery: Avoid trauma, consider cesarean"];
-    H --> I["Postnatal: Platelet transfusions (antigen negative or maternal washed platelets) + IVIG"];
-
-    C -->|No| J["Consider other causes: maternal ITP, congenital thrombocytopenia"];
-    J --> K["Check maternal platelet count"];
-    K --> L{Maternal platelet low?};
-    L -->|Yes| M["Consider maternal ITP related thrombocytopenia"];
-    L -->|No| N["Consider congenital or other causes"];
-
-    D -->|Yes| O["Consider sepsis, DIC"];
-    O --> P["Investigate cultures, coagulation profile, platelet count"];
-    P --> Q["Manage infection + supportive care, platelet transfusions as needed"];
-
-    D -->|No| R["Consider other sick causes: NEC, asphyxia, antenatal hypoxia"];
-    R --> S["Investigate accordingly"];
-
-    I --> T["Monitor platelet counts and bleeding status"];
+    A["`Neonate with thrombocytopenia`"] --> B{"`Is the neonate clinically well or sick?`"};
+    B -->|Well| C{"`Is there a history of maternal antibodies or previous affected pregnancy?`"};
+    B -->|Sick| D{"`Any evidence of infection or sepsis?`"};
+    C -->|Yes| E["`Consider Fetal/ Neonatal Alloimmune Thrombocytopenia (FNAIT)`"];
+    E --> F["`Check maternal anti-platelet antibodies`"];
+    F --> G["`Monitor fetal platelet counts if antenatal`"];
+    G --> H["`Plan delivery: Avoid trauma, consider cesarean`"];
+    H --> I["`Postnatal: Platelet transfusions (antigen negative or maternal washed platelets) + IVIG`"];
+    C -->|No| J["`Consider other causes: maternal ITP, congenital thrombocytopenia`"];
+    J --> K["`Check maternal platelet count`"];
+    K --> L{"`Maternal platelet low?`"};
+    L -->|Yes| M["`Consider maternal ITP related thrombocytopenia`"];
+    L -->|No| N["`Consider congenital or other causes`"];
+    D -->|Yes| O["`Consider sepsis, DIC`"];
+    O --> P["`Investigate cultures, coagulation profile, platelet count`"];
+    P --> Q["`Manage infection + supportive care, platelet transfusions as needed`"];
+    D -->|No| R["`Consider other sick causes: NEC, asphyxia, antenatal hypoxia`"];
+    R --> S["`Investigate accordingly`"];
+    I --> T["`Monitor platelet counts and bleeding status`"];
     M --> T;
     N --> T;
     Q --> T;
     S --> T;
-
-    T --> U{Bleeding present or platelet count  &lt; threshold?};
-    U -->|Yes| V["Platelet transfusion"];
-    U -->|No| W["Observe"];
-
-    V --> X["Continue monitoring"];
+    T --> U{"`Bleeding present or platelet count < threshold?`"};
+    U -->|Yes| V["`Platelet transfusion`"];
+    U -->|No| W["`Observe`"];
+    V --> X["`Continue monitoring`"];
     W --> X;
 
 ```
