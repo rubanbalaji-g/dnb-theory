@@ -72,6 +72,7 @@
 > 3. Neonatal thrombocytopenia (DNB 2023/2)5
 > 4. Neonatal alloimmune thrombocytopenia (NAIT) (DNB 2024/2)5
 ## Approach to neonate with thrombocytopenia
+<!-- htmlmin:ignore -->
 ```mermaid
 flowchart TD
     A[Neonate with thrombocytopenia] --> B{Is the neonate clinically well or sick?};
@@ -111,3 +112,4 @@ flowchart TD
     W --> X;
 
 ```
+<!-- /htmlmin:ignore -->
