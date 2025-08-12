@@ -104,7 +104,7 @@ flowchart TD
     Q --> T;
     S --> T;
 
-    T --> U{Bleeding present or platelet count < threshold?};
+    T --> U{Bleeding present or platelet count &lt; threshold?};
     U -->|Yes| V["Platelet transfusion"];
     U -->|No| W["Observe"];
 
