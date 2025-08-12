@@ -118,7 +118,7 @@ function getAnchorAttributes(filePath, linkTitle) {
   };
 }
 
-const tagRegex = /(^|\s|>)(#[^\s!@#$%^&*()=+,.[{$$};:'"?><]+)(?!([^<]*>))/g;
+const tagRegex = /(^|\s|>)(#[^\s!@#$%^&*()=+,.[{\]};:'"?><]+)(?!([^<]*>))/g;
 
 module.exports = function (eleventyConfig) {
   eleventyConfig.setLiquidOptions({
@@ -161,7 +161,7 @@ module.exports = function (eleventyConfig) {
         "cover",
         post.data.title,
         "(max-width: 500px) 100vw, 500px",
-
+        [500, 700]
       );
       return images;
     }
@@ -226,12 +226,11 @@ module.exports = function (eleventyConfig) {
       ulClass: "task-list",
       liClass: "task-list-item",
     })
-    // ==================================================================
-    //  THIS IS THE CORRECTED PLANTUML CONFIGURATION
-    //  The broken options object has been removed.
-    // ==================================================================
     .use(require("markdown-it-plantuml"))
     .use(namedHeadingsFilter)
+    // ==================================================================
+    //  THE FINAL, CORRECTED MERMAID RULE
+    // ==================================================================
     .use(function (md) {
       const origFenceRule =
         md.renderer.rules.fence ||
@@ -244,18 +243,20 @@ module.exports = function (eleventyConfig) {
         if (token.info === "mermaid") {
           let code = token.content.trim();
           const lines = code.split('\n');
+
           const processedLines = lines.map(line => {
-            const labelRegex = /($$|$$|\{|").*?($$|$$|\}|")/g;
-            const match = line.match(labelRegex);
-            if (match) {
-              const fullLabel = match;
+            // This regex finds text inside [], (), {}, or ""
+            const labelRegex = /(\[|\(|\{|").*?(\]|\)|\}|")/g;
+            
+            // Use .replace() with a replacer function, which is the correct way to handle this.
+            return line.replace(labelRegex, (fullLabel) => {
+              // `fullLabel` is now guaranteed to be a string, e.g., "[Some long text]"
               const innerText = fullLabel.substring(1, fullLabel.length - 1);
               const wrappedText = autoWrapText(innerText);
-              const newLabel = `${fullLabel}${wrappedText}${fullLabel[fullLabel.length - 1]}`;
-              return line.replace(fullLabel, newLabel);
-            }
-            return line;
+              return `${fullLabel[0]}${wrappedText}${fullLabel[fullLabel.length - 1]}`;
+            });
           });
+
           code = processedLines.join('\n');
           return `<pre class="mermaid">${code}</pre>`;
         }
