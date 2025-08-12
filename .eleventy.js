@@ -118,7 +118,7 @@ function getAnchorAttributes(filePath, linkTitle) {
   };
 }
 
-const tagRegex = /(^|\s|>)(#[^\s!@#$%^&*()=+,.[{\]};:'"?><]+)(?!([^<]*>))/g;
+const tagRegex = /(^|\s|>)(#[^\s!@#$%^&*()=+,.[{$$};:'"?><]+)(?!([^<]*>))/g;
 
 module.exports = function (eleventyConfig) {
   eleventyConfig.setLiquidOptions({
@@ -161,7 +161,7 @@ module.exports = function (eleventyConfig) {
         "cover",
         post.data.title,
         "(max-width: 500px) 100vw, 500px",
-        [500, 700]
+
       );
       return images;
     }
@@ -228,11 +228,9 @@ module.exports = function (eleventyConfig) {
     })
     // ==================================================================
     //  THIS IS THE CORRECTED PLANTUML CONFIGURATION
+    //  The broken options object has been removed.
     // ==================================================================
-    .use(require("markdown-it-plantuml"), {
-      openMarker: "```
-      closeMarker: "```",
-    })
+    .use(require("markdown-it-plantuml"))
     .use(namedHeadingsFilter)
     .use(function (md) {
       const origFenceRule =
@@ -247,13 +245,13 @@ module.exports = function (eleventyConfig) {
           let code = token.content.trim();
           const lines = code.split('\n');
           const processedLines = lines.map(line => {
-            const labelRegex = /(\[|\(|\{|").*?(\]|\)|\}|")/g;
+            const labelRegex = /($$|$$|\{|").*?($$|$$|\}|")/g;
             const match = line.match(labelRegex);
             if (match) {
-              const fullLabel = match[0];
+              const fullLabel = match;
               const innerText = fullLabel.substring(1, fullLabel.length - 1);
               const wrappedText = autoWrapText(innerText);
-              const newLabel = `${fullLabel[0]}${wrappedText}${fullLabel[fullLabel.length - 1]}`;
+              const newLabel = `${fullLabel}${wrappedText}${fullLabel[fullLabel.length - 1]}`;
               return line.replace(fullLabel, newLabel);
             }
             return line;
