@@ -15,9 +15,6 @@ const {
 const Image = require("@11ty/eleventy-img");
 
 
-// ==================================================================
-//  1. NEW HELPER FUNCTION TO AUTOMATICALLY WRAP TEXT
-// ==================================================================
 function autoWrapText(text, maxWidth = 30) {
   if (!text) return text;
   if (text.length <= maxWidth) return text;
@@ -229,14 +226,14 @@ module.exports = function (eleventyConfig) {
       ulClass: "task-list",
       liClass: "task-list-item",
     })
+    // ==================================================================
+    //  THIS IS THE CORRECTED PLANTUML CONFIGURATION
+    // ==================================================================
     .use(require("markdown-it-plantuml"), {
       openMarker: "```
       closeMarker: "```",
     })
     .use(namedHeadingsFilter)
-    // ==================================================================
-    //  2. THE MODIFIED MERMAID RULE WITH AUTO-WRAPPING LOGIC
-    // ==================================================================
     .use(function (md) {
       const origFenceRule =
         md.renderer.rules.fence ||
@@ -249,11 +246,9 @@ module.exports = function (eleventyConfig) {
         if (token.info === "mermaid") {
           let code = token.content.trim();
           const lines = code.split('\n');
-
           const processedLines = lines.map(line => {
             const labelRegex = /(\[|\(|\{|").*?(\]|\)|\}|")/g;
             const match = line.match(labelRegex);
-
             if (match) {
               const fullLabel = match[0];
               const innerText = fullLabel.substring(1, fullLabel.length - 1);
@@ -263,7 +258,6 @@ module.exports = function (eleventyConfig) {
             }
             return line;
           });
-
           code = processedLines.join('\n');
           return `<pre class="mermaid">${code}</pre>`;
         }
@@ -279,7 +273,6 @@ module.exports = function (eleventyConfig) {
               .map((key) => `${key}="${attributes[key]}"`)
               .join(" ")}></div>`;
           }
-
           let content = parse(innerHTML).innerHTML;
           if (content === "\n<p><a class=\"internal-link\"></a></p>\n") {
             content = "";
