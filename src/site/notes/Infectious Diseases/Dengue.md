@@ -118,44 +118,42 @@ graph TD
 <!-- htmlmin:ignore -->
 ```mermaid
 graph TD
-    A[Febrile patient <br>in endemic area] --> B{Assess for <br>Dengue};
+    A["Febrile patient in endemic area"] --> B{"Assess for Dengue"};
+    B --> C{"History & Physical Exam\nLook for rash, myalgia, headache"};
+    C --> D["Tourniquet Test"];
+    C --> E["CBC with Platelet Count"];
     
-    B --> C{History & <br>Physical Exam<br>Look for rash, <br>myalgia, headache};
+    E --> F{"Any Warning Signs?"};
+    F -- No --> G["Group A: Ambulatory Care"];
+    F -- Yes --> H{"Group B: In-patient Care"};
 
-    %% The subgraph is defined here, containing its own nodes and connections
-    subgraph "Initial Assessment"
-        direction LR
-        C --> D[Tourniquet Test];
-        C --> E[CBC with <br>Platelet Count];
-    end
-
-    E --> F{Any Warning <br>Signs?};
-    F -- No --> G[Group A: <br>Ambulatory Care];
-    F -- Yes --> H{Group B: <br>In-patient Care};
-
-    G --> G1[Advise adequate <br>hydration & <br>nutrition];
-    G1 --> G2[Paracetamol for <br>fever <br>&lpar; Avoid NSAID &rpar;];
-    G2 --> G3[Educate on <br>warning signs];
-    G3 --> G4[Daily follow-up <br>until afebrile <br>for 48h];
+    G --> G1["Advise adequate hydration & nutrition"];
+    G1 --> G2["Paracetamol for fever (Avoid NSAIDs)"];
+    G2 --> G3["Educate on warning signs"];
+    G3 --> G4["Daily follow-up until afebrile for 48h"];
     G4 --> F;
 
-    H --> H1[Obtain baseline <br>Hematocrit <br>&lpar; HCT &rpar;];
-    H1 --> H2[Start IV <br>fluid therapy <br>&lpar; Isotonic <br>crystalloids &rpar; ];
-    H2 --> H3[Monitor vitals, <br>fluid balance, <br>HCT, <br>platelets];
-    H3 --> I{Patient Improves?};
+    H --> H1["Obtain baseline Hematocrit (HCT)"];
+    H1 --> H2["Start IV fluid therapy\n(Isotonic crystalloids)"];
+    H2 --> H3["Monitor vitals, fluid balance,\nHCT, platelets"];
+    H3 --> I{"Patient Improves?"};
 
-    I -- Yes --> J[Gradually reduce <br>IV fluids];
-    J --> K[Discharge when <br>stable, afebrile, <br>good urine output, <br>and rising <br>platelet count];
+    I -- Yes --> J["Gradually reduce IV fluids"];
+    J --> K["Discharge when stable, afebrile,\ngood urine output, and rising platelet count"];
     
-    %% Link text with commas is now quoted
-    I -- "No, develops <br>signs of <br>severe dengue" --> L{Group C: <br>Severe Dengue};
+    I -- "No, develops signs of severe dengue" --> L{"Group C: Severe Dengue"};
     
-    L --> M[Urgent admission <br>to HDU/ICU];
-    M --> N[Manage shock <br>with crystalloid/colloid <br>resuscitation];
-    N --> O[Manage severe <br>bleeding with <br>blood transfusion];
-    O --> P[Manage organ <br>failure];
+    L --> M["Urgent admission to HDU/ICU"];
+    M --> N["Manage shock with\ncrystalloid/colloid resuscitation"];
+    N --> O["Manage severe bleeding\nwith blood transfusion"];
+    O --> P["Manage organ failure"];
 
-    %% Styles remain the same
+    subgraph "Initial Assessment"
+        C
+        D
+        E
+    end
+
     style F fill:#ffdfba,stroke:#333,stroke-width:2px
     style L fill:#ffb3ba,stroke:#c00,stroke-width:2px
     style G fill:#baffc9,stroke:#333,stroke-width:1px
