@@ -165,6 +165,7 @@ graph TD
 
 ```
 <!-- /htmlmin:ignore -->
+Dengue severity classification
 <!-- htmlmin:ignore -->
 ```mermaid
 graph TD
