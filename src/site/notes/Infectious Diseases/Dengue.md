@@ -119,15 +119,14 @@ graph TD
 ```mermaid
 graph TD
     A[Febrile patient <br>in endemic area] --> B{Assess for <br>Dengue};
+    
     B --> C{History & <br>Physical Exam<br>Look for rash, <br>myalgia, headache};
-    C --> D[Tourniquet Test];
-    C --> E[CBC with <br>Platelet Count];
 
+    %% The subgraph is defined here, containing its own nodes and connections
     subgraph "Initial Assessment"
         direction LR
-        C
-        D
-        E
+        C --> D[Tourniquet Test];
+        C --> E[CBC with <br>Platelet Count];
     end
 
     E --> F{Any Warning <br>Signs?};
@@ -144,18 +143,19 @@ graph TD
     H1 --> H2[Start IV <br>fluid therapy <br>&lpar; Isotonic <br>crystalloids &rpar; ];
     H2 --> H3[Monitor vitals, <br>fluid balance, <br>HCT, <br>platelets];
     H3 --> I{Patient Improves?};
+
     I -- Yes --> J[Gradually reduce <br>IV fluids];
     J --> K[Discharge when <br>stable, afebrile, <br>good urine output, <br>and rising <br>platelet count];
-
-    I -- No, develops <br>signs of <br>severe dengue --> L{Group C: <br>Severe Dengue};
-
-
-
+    
+    %% Link text with commas is now quoted
+    I -- "No, develops <br>signs of <br>severe dengue" --> L{Group C: <br>Severe Dengue};
+    
     L --> M[Urgent admission <br>to HDU/ICU];
     M --> N[Manage shock <br>with crystalloid/colloid <br>resuscitation];
     N --> O[Manage severe <br>bleeding with <br>blood transfusion];
     O --> P[Manage organ <br>failure];
 
+    %% Styles remain the same
     style F fill:#ffdfba,stroke:#333,stroke-width:2px
     style L fill:#ffb3ba,stroke:#c00,stroke-width:2px
     style G fill:#baffc9,stroke:#333,stroke-width:1px
@@ -166,31 +166,20 @@ graph TD
 Dengue severity classification
 <!-- htmlmin:ignore -->
 ```mermaid
-graph TB
-    subgraph "Warning Signs"
-        direction TB
-        WS1[Abdominal pain <br>or tenderness]
-        WS2[Persistent vomiting]
-        WS3[Clinical fluid <br>accumulation]
-        WS4[Mucosal bleed]
-        WS5[Lethargy, <br>restlessness]
-        WS6[Liver <br>enlargement <br> >2 cm]
-        WS7[Lab: increase <br>in HCT concurrent <br>with rapid decrease <br>in platelet count]
-
-        %% Invisible links to force vertical stacking
-        WS1 ~~~ WS2 ~~~ WS3 ~~~ WS4 ~~~ WS5 ~~~ WS6 ~~~ WS7
-    end
-    
-    subgraph "Severe Dengue Criteria"
-        direction TB
-        SD1[Severe plasma <br>leakage leading <br>to shock <br>&lpar; DSS &rpar;]
-        SD2[Severe bleeding]
-        SD3[Severe organ <br>impairment <br>&lpar; liver, CNS, heart &rpar;]
-
-        %% Invisible links to force vertical stacking
-        SD1 ~~~ SD2 ~~~ SD3
-    end
-
+mindmap
+  root((Dengue))
+    ("Warning Signs")
+      ("Abdominal pain <br>or tenderness")
+      ("Persistent vomiting")
+      ("Clinical fluid <br>accumulation")
+      ("Mucosal bleed")
+      ("Lethargy, <br>restlessness")
+      ("Liver enlargement <br> #62; 2 cm")
+      ("Lab: increase in HCT<br>with rapid decrease<br>in platelet count")
+    ("Severe Dengue Criteria")
+      ("Severe plasma leakage<br>leading to shock<br>&lpar; DSS &rpar;")
+      ("Severe bleeding")
+      ("Severe organ impairment<br>&lpar; liver, CNS, heart &rpar;")
 
 ```
 <!-- /htmlmin:ignore -->
