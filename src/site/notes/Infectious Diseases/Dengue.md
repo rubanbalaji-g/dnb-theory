@@ -134,8 +134,6 @@ graph TD
     F -- No --> G[Group A: <br>Ambulatory Care];
     F -- Yes --> H{Group B: <br>In-patient Care};
 
-  
-
     G --> G1[Advise adequate <br>hydration & <br>nutrition];
     G1 --> G2[Paracetamol for <br>fever <br>&lpar; Avoid NSAID &rpar;];
     G2 --> G3[Educate on <br>warning signs];
@@ -168,9 +166,9 @@ graph TD
 Dengue severity classification
 <!-- htmlmin:ignore -->
 ```mermaid
-graph TD
-  subgraph "Warning Signs"
-        direction LR
+graph TB
+    subgraph "Warning Signs"
+        direction TB
         WS1[Abdominal pain <br>or tenderness]
         WS2[Persistent vomiting]
         WS3[Clinical fluid <br>accumulation]
@@ -178,14 +176,22 @@ graph TD
         WS5[Lethargy, <br>restlessness]
         WS6[Liver <br>enlargement <br> >2 cm]
         WS7[Lab: increase <br>in HCT concurrent <br>with rapid decrease <br>in platelet count]
+
+        %% Invisible links to force vertical stacking
+        WS1 ~~~ WS2 ~~~ WS3 ~~~ WS4 ~~~ WS5 ~~~ WS6 ~~~ WS7
     end
     
     subgraph "Severe Dengue Criteria"
-        direction LR
+        direction TB
         SD1[Severe plasma <br>leakage leading <br>to shock <br>&lpar; DSS &rpar;]
         SD2[Severe bleeding]
         SD3[Severe organ <br>impairment <br>&lpar; liver, CNS, heart &rpar;]
+
+        %% Invisible links to force vertical stacking
+        SD1 ~~~ SD2 ~~~ SD3
     end
+
+
 ```
 <!-- /htmlmin:ignore -->
 ### clinical classification of dengue
