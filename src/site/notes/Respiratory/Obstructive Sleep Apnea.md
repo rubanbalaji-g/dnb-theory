@@ -148,3 +148,64 @@ The American Academy of Pediatrics provides guidelines for the diagnosis and man
     - **Oral Appliances**: Mandibular advancing devices and palatal expanders may be considered in select cases, often requiring consultation with a pediatric dentist or orthodontist.
     - **Myofunctional therapy**: Exercises to re-pattern oral and facial muscles can be beneficial.
     - **Novel Treatments**: Hypoglossal nerve stimulation has shown promise in adult and select pediatric cases, especially in children with Down syndrome. High-flow nasal cannula therapy is another potential approach
+# Polysomnograph
+
+## #definition
+
+**Polysomnography (PSG)** is an in-lab, technician-supervised, overnight sleep study that documents various physiologic variables during sleep. It is considered the
+
+**gold standard** for diagnosing certain sleep disorders, most notably Obstructive Sleep Apnea (OSA), because clinical history and physical findings alone cannot accurately predict the condition. An overnight PSG is not routinely required for all childhood sleep problems but is indicated when there are symptoms of specific disorders like OSA, periodic limb movement disorder, or unexplained daytime sleepiness.
+
+---
+
+## Indications for Use in Children
+
+#### Obstructive Sleep Apnea (OSA)
+
+- PSG is the primary tool for diagnosing OSA and differentiating it from primary snoring.
+- The American Academy of Pediatrics recommends a PSG for any child who snores regularly and presents with other signs or symptoms of OSA, such as breathing pauses, restless sleep, or daytime neurobehavioral problems.
+- It is also used for reevaluation after treatment, such as an adenotonsillectomy, especially in high-risk patients (e.g., those with obesity, Down syndrome, or craniofacial anomalies) or if symptoms persist.
+#### Sleep-Related Movement Disorders
+
+- **Periodic Limb Movement Disorder (PLMD)**: The diagnosis **requires** an overnight PSG to document the characteristic, repetitive, and stereotyped limb jerks using electromyography (EMG) leads on the anterior tibialis muscles.
+- **Restless Sleep Disorder (RSD)**: The diagnosis includes objective documentation of frequent large body movements during sleep, which is recorded via videography during a PSG.
+#### Central Disorders of Hypersomnolence
+
+- **Narcolepsy & Idiopathic Hypersomnia (IH)**: An overnight PSG is a crucial part of the evaluation for a child with profound, unexplained daytime sleepiness.
+    - The primary purpose of the PSG is to rule out other causes of sleepiness, such as OSA or PLMD.
+    - The PSG is immediately followed by a **Multiple Sleep Latency Test (MSLT)**, which measures the tendency to fall asleep during the day.
+    - Specific PSG findings, such as a REM sleep latency of 15 minutes or less, are part of the diagnostic criteria for narcolepsy.
+## Parameters Monitored
+
+A comprehensive PSG records multiple physiological signals simultaneously to get a complete picture of sleep architecture and function.
+
+|Category|Parameters Monitored|
+|---|---|
+|**Sleep Staging & Arousals**|Electroencephalography (EEG), Electrooculography (EOG), Chin & Leg Electromyography (EMG)|
+|**Respiration**|Airflow (oronasal thermal sensor, nasal pressure transducer), Respiratory Effort (chest/abdominal bands), Oxygen Saturation (|O2​ pulse oximeter), Carbon Dioxide (CO2​ end-tidal or transcutaneous monitor), Snoring (microphone)|
+|**Cardiac**|Electrocardiogram (ECG)|
+|**Body Movement & Position**|Body position sensors, Video recording|
+
+## Interpretation of Results
+
+While there are no universally accepted normal PSG reference values for children, certain parameters are key to diagnosis.
+
+- The most common metric used to evaluate sleep-disordered breathing is the
+    **Apnea-Hypopnea Index (AHI)**, which represents the total number of apneas and hypopneas per hour of sleep.
+- **Normal Values & Severity in Children (≤ 12 years)**:
+    
+    - **Normal**: An obstructive AHI of **<1 event/hour** or a total AHI of **<1.5 events/hour** is generally considered normal.
+    - **Mild OSA**: AHI is between **1 and 5 events/hour**.
+    - **Moderate OSA**: AHI is between **5 and 10 events/hour**.
+    - **Severe OSA**: AHI is **>10 events/hour**.
+        
+- **Adolescents**: The adult cutoff of an $AHI \ge 5$ is typically used to diagnose OSA.
+
+## Alternatives to In-Lab PSG
+
+In situations where a full, in-lab polysomnogram is not available, the American Academy of Pediatrics suggests that clinicians may consider alternative diagnostic tests. These include:
+
+- Nocturnal video recording.
+- Nocturnal oximetry
+- Daytime nap polysomnography.
+- Ambulatory (home) polysomnography.

@@ -77,17 +77,19 @@
 - liver copper
 - urinary copper
 - mutation analysis
+- >4 - diagnostic
 ## Radiology
 - Face of giant panda sign at mid brain level
 	- hyperintensity of tegmentum
 	- low intensity of superior colliculus
 	- pars reticula
-- miniature 
+- Miniature panda
+- Multiple panda signs
 
 # treatment
 - limiting copper intake <1mg/day
 - Initial  (Copper chelating agents)
-	- Triethylene tetramine dihydrochloride 750-1500 mg/day in 2-3 divided doses
+	- Triethylene tetramine dihydrochloride 750-1500 mg/day in 2-3 divided doses - neurowilsons
 	- Children dosing 20 mg/kg/day		- D-penicillamine can be used as alternative 1000-1500 mg/day (20mg/kg/day in children) in 2-4 divided doses can be alternative
 	- Hypersensitive reaction can occur (good pasture syndrome, SLE, polymyositis) can occur in 10-20% of patient who take chelators
 	- Supplementation should be done for vitamin b6
@@ -97,6 +99,8 @@
 - Antioxidants - vitamin E, curcumin
 - Pharmacological chaperones - 4-phenylbutyrate 
 - Liver transplant is curative
+![](https://i.ibb.co/CKbDvM7F/IMG-4027.jpg)
+![](https://i.ibb.co/93bBK3n3/IMG-4028.jpg)
 # MENDIK disease
 - Mental deficiency
 - Enteropathy

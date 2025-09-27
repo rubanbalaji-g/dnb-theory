@@ -2,6 +2,33 @@
 {"dg-publish":true,"permalink":"/infectious-diseases/dengue/","noteIcon":""}
 ---
 
+1. Discuss the management of Dengue Shock Syndrome (DNB 1997/1)10
+2. 
+3. Dengue Fever (DNB 2003/2)15
+4. Define DHF and DSS and outline the treatment of DSS (DNB 2005/1)10 
+5. Diagnosis and management of DHF and DSS (DNB 2006/1)10
+6. Outline the WHO criteria for diagnosis of dengue hemorrhagic fever. Draw an algorithm for volume replacement for a child with DHF and >20% increase in hematocrit (DNB 2009/1)3+7
+7. Define DHF and DSS. How does DHF differ from dengue fever with hemorrhage? Describe treatment of DSS (DNB 2009/2)2+2+1+5
+8. Classify severity of dengue hemorrhagic fever. Write in brief the management of dengue shock syndrome (DNB 2011/1)4+6
+9. What are the fluid, metabolic and biochemical changes in a child with severe dengue? Discuss the underlying pathophysiology (DNB 2013/1)10
+10. Define severe dengue and describe the WHO guidelines for its management. Enumerate the indications for transfusion in dengue (DNB 2014/1)2+6+2
+11. Describe the WHO guidelines for its management.Enumerate complications of Severe Dengue (DNB 2016/1)4+4
+12. 
+13. 
+14. Fluid therapy in DHF (DNB 2019/1)5
+15. Fluid management in Dengue Shock Syndrome and its complications (DNB 2019/2)5 
+16. 
+17. 
+18. Management of Dengue Shock Syndrome (DNB 2022/2)5,(DCH 2024/1)5
+19. 
+20. Severe dengue management in 15 kg child (DCH 2023/2)5
+21. Management of a 10-year-child with dengue shock (DNB 2024/1)5
+> [!faq] PYQ
+> 1. Pathogenesis of bleeding and shock in Dengue fever (DNB 1998/2)10
+> 2. Pathophysiology of Dengue fever (DNB 2021/2)5
+> 3. Classification of dengue fever (DNB 2022/2)5
+> 4. Dengue and its classification (DCH 2023/2)5
+
 ## Pathophysiology of Dengue
 <!-- htmlmin:ignore -->
 ```mermaid
@@ -115,7 +142,7 @@ graph TD
 - pruritic rash
 
 ## Approach to dengue
-<!-- htmlmin:ignore -->
+  <!-- htmlmin:ignore -->
 ```mermaid
 graph TD
     A["Febrile patient in endemic area"] --> B{"Assess for Dengue"};
@@ -161,7 +188,29 @@ graph TD
 
 ```
 <!-- /htmlmin:ignore -->
-Dengue severity classification
+
+## Severe Dengue
+>[!faq] PYQ
+>1. Define severe dengue (DNB 2016/1)2
+
+- patients who have progressed form mild to moderate dengue ⟶
+	- severe plasma leakage leading to 
+		- shock
+		- fluid accumulation with respiratory distress
+	- severe bleeding
+	- severe organ dysfunction
+	- AST, ALT ≥ 1000 units/L
+	- impaired consciousness ⟶ GCS < 9
+- Risk factors for severe dengue
+	- children less than <10
+	- elderly > 65
+	- obesity
+	- pregnancy
+	- hemolytic diseases
+	- peptic ulcer
+	- CHD
+	- chronic diseases like DM, SHTN, obstructive lung disease, chronic liver failure, chronic renal failure
+	- patients on long term steroids and NSAIDs
 <!-- htmlmin:ignore -->
 ```mermaid
 mindmap
@@ -181,5 +230,36 @@ mindmap
 
 ```
 <!-- /htmlmin:ignore -->
-### clinical classification of dengue
 ![](https://i.ibb.co/Z6bG2fcS/pdfeditor-IM6u5-KTx-O2.png)
+## Lab features
+> [!faq] PYQ
+> 1.  Diagnostic lab tests for dengue fever (DNB 2018/1)4
+
+- ELISA based NS1 antigen 
+	- high specificity and sensitivity
+	- early identification
+- IgM ELISA 
+	- detectable by day 5 of illness
+	- may persists up to 90 days
+	- used in areas where dengue is not endemic for population based sero- surveillance
+- Isolation of Dengue virus
+	- collected from liver, spleen, lymph node, thymus and mosquitoes
+	- detectable in first 5 days
+	- not much role in clinical management
+- PCR
+	- RT-PCR has replaced isolation of virus 
+	- standard of detection of dengue
+- IgG ELISA
+	- differentiate primary and secondary infections
+	- indication of past infection
+- serological tests
+	- not much used
+		- Hemagglutination-Inhibition (HI)
+		- Complement fixation (CF)
+		- Neutralization test (NT)
+- Rapid diagnostic tests
+	- results within 15 to 25 minutes
+	- higher rate of false positives compared to standard tests
+	- sensitivity and specificity varies from batch to batch
+	- not recommended
+
