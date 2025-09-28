@@ -179,13 +179,12 @@ The American Academy of Pediatrics provides guidelines for the diagnosis and man
 
 A comprehensive PSG records multiple physiological signals simultaneously to get a complete picture of sleep architecture and function.
 
-|Category|Parameters Monitored|
-|---|---|
-|**Sleep Staging & Arousals**|Electroencephalography (EEG), Electrooculography (EOG), Chin & Leg Electromyography (EMG)|
-|**Respiration**|Airflow (oronasal thermal sensor, nasal pressure transducer), Respiratory Effort (chest/abdominal bands), Oxygen Saturation (|O2​ pulse oximeter), Carbon Dioxide (CO2​ end-tidal or transcutaneous monitor), Snoring (microphone)|
-|**Cardiac**|Electrocardiogram (ECG)|
-|**Body Movement & Position**|Body position sensors, Video recording|
-
+| Category                     | Parameters Monitored                                                                                                                                                                                                               |
+| ---------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Sleep Staging & Arousals** | Electroencephalography (EEG), Electrooculography (EOG), Chin & Leg Electromyography (EMG)                                                                                                                                          |
+| **Respiration**              | Airflow (oronasal thermal sensor, nasal pressure transducer), Respiratory Effort (chest/abdominal bands), Oxygen Saturation ( O2​ pulse oximeter), Carbon Dioxide (CO2​ end-tidal or transcutaneous monitor), Snoring (microphone) |
+| **Cardiac**                  | Electrocardiogram (ECG)                                                                                                                                                                                                            |
+| **Body Movement & Position** | Body position sensors, Video recording                                                                                                                                                                                             |
 ## Interpretation of Results
 
 While there are no universally accepted normal PSG reference values for children, certain parameters are key to diagnosis.
