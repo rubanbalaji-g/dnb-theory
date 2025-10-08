@@ -78,6 +78,9 @@ Here you'll find notes organized by organ systems, covering a wide range of pedi
 > Notes on conditions affecting muscles and the nerves that control them, like muscular dystrophies.
 > [[Neuromuscular/@Neuromuscular system\|View Notes →]]
 
+> [!error] 💪 Renal System
+> Notes on conditions affecting Kidneys
+> [[Nephrology/@Nephrology\|View Notes →]]
 ---
 
 ## Miscellaneous
