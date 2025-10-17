@@ -143,7 +143,7 @@ This category is for patients with SDNS who have failed treatment with at least 
 #### **B. Steroid-Resistant Nephrotic Syndrome (SRNS)**
 
 This follows a structured, stepwise algorithm:
-
+<!-- htmlmin:ignore -->
 ```mermaid
 graph TD
     A[Diagnosis: Steroid-Resistant <br> NS -SRNS] --> B{Genetic Testing Done?};
@@ -166,6 +166,7 @@ graph TD
     Q -- Yes --> R[Continue Therapy];
     Q -- No: Continued Non-Response --> S[Withdraw Immunosuppression, <br> Supportive Care #40; ACEi/ARB #41;];
 ```
+<!-- /htmlmin:ignore -->
 ##### **A. Management of Monogenic SRNS**
 
 * **Immunosuppression is NOT recommended.** These patients do not respond, and therapy only adds toxicity.  
