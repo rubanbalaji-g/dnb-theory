@@ -10,6 +10,16 @@
 or
 - decrease in GFR of less than 60 ml/min/1.73 m<sup>2</sup>
 for a period of more than 90 days
+## Staging of CKD
+
+| Stage | GFR (mL/min/1.73 m²) | Description                      |
+| ----- | -------------------- | -------------------------------- |
+| G1    | ≥90                  | Normal or high                   |
+| G2    | 60-89                | Mildly decreased                 |
+| G3a   | 45-59                | Mildly to moderately decreased   |
+| G3b   | 30-44                | Moderately to severely decreased |
+| G4    | 15-29                | Severely decreased               |
+| G5    | <15                  | Kidney failure                   |
 ## Causes
 - CAKUT (congenital anomalies of the kidney and urinary tract)
 - Glomerular diseases
@@ -105,7 +115,7 @@ for a period of more than 90 days
 - Phosphate binders - calcium based (calcium carbonate, calcium acetate) or non calcium based (sevelamer)
 - Vitamin D3 supplementation
 ### Fluid and Electrolyte balance
-- Polyuria
+- Fluid overload
 	- fluid restriction
 - Hyperkalemia
 	- restriction of dietary potassium intake
