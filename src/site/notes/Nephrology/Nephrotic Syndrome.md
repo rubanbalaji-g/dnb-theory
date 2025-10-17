@@ -146,25 +146,25 @@ This follows a structured, stepwise algorithm:
 <!-- htmlmin:ignore -->
 ```mermaid
 graph TD
-    A[Diagnosis: Steroid-Resistant <br> NS -SRNS] --> B{Genetic Testing Done?};
-    B -- Yes: Monogenic SRNS --> C[Supportive Care ONLY <br>ACEi/ARB, KRT prep <br> <b>No Immunosuppression</b>];
-    B -- No: Non-Genetic SRNS --> D(Step 1: First-Line Therapy);
-    D --> E[<b>Calcineurin Inhibitor -CNI</b> <br>+ Prednisolone Taper];
-    E --> F(Step 2: Assess Response <br>at <b>6 Months</b>);
-    F --> G{Response?};
-    G -- Complete/Partial Remission --> H[Continue CNI for >= 24 Months];
-    H --> I{Relapses on Taper? <br>CNI-Dependent};
-    I -- Yes --> J[Continue low-dose CNI <br>OR<br> Switch to Rituximab/MMF];
-    I -- No --> K[Continue Taper / Stop];
-    G -- No Response: CNI-Resistant SRNS --> L(Manage CNI-Resistance);
-    L --> M[First: Re-check/Rule <br>out Genetic Cause];
-    M --> N{Choose Add-On Therapy};
-    N --> O[Option 1: <br>Add Rituximab];
-    N --> P[Option 2: <br>Add MMF <br>#40;Triple Therapy#41;];
-    O --> Q{Response?};
+    A["Diagnosis: Steroid-Resistant <br> NS -SRNS"] --> B{"Genetic Testing Done?"};
+    B -- "Yes: Monogenic SRNS" --> C["Supportive Care ONLY <br>ACEi/ARB, KRT prep <br> <b>No Immunosuppression</b>"];
+    B -- "No: Non-Genetic SRNS" --> D("Step 1: First-Line Therapy");
+    D --> E["<b>Calcineurin Inhibitor -CNI</b> <br>+ Prednisolone Taper"];
+    E --> F("Step 2: Assess Response <br>at <b>6 Months</b>");
+    F --> G{"Response?"};
+    G -- "Complete/Partial Remission" --> H["Continue CNI for >= 24 Months"];
+    H --> I{"Relapses on Taper? <br>CNI-Dependent"};
+    I -- "Yes" --> J["Continue low-dose CNI <br>OR<br> Switch to Rituximab/MMF"];
+    I -- "No" --> K["Continue Taper / Stop"];
+    G -- "No Response: CNI-Resistant SRNS" --> L("Manage CNI-Resistance");
+    L --> M["First: Re-check/Rule <br>out Genetic Cause"];
+    M --> N{"Choose Add-On Therapy"};
+    N --> O["Option 1: <br>Add Rituximab"];
+    N --> P["Option 2: <br>Add MMF <br>(Triple Therapy)"];
+    O --> Q{"Response?"};
     P --> Q;
-    Q -- Yes --> R[Continue Therapy];
-    Q -- No: Continued Non-Response --> S[Withdraw Immunosuppression, <br> Supportive Care #40;ACEi/ARB#41;];
+    Q -- "Yes" --> R["Continue Therapy"];
+    Q -- "No: Continued Non-Response" --> S["Withdraw Immunosuppression, <br> Supportive Care (ACEi/ARB)"];
 ```
 <!-- /htmlmin:ignore -->
 ##### **A. Management of Monogenic SRNS**
