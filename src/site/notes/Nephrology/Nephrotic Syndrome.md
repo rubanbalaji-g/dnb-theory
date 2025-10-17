@@ -143,6 +143,7 @@ This category is for patients with SDNS who have failed treatment with at least 
 #### **B. Steroid-Resistant Nephrotic Syndrome (SRNS)**
 
 This follows a structured, stepwise algorithm:
+
 ```mermaid
 graph TD
     A[Diagnosis: Steroid-Resistant <br> NS -SRNS] --> B{Genetic Testing Done?};
