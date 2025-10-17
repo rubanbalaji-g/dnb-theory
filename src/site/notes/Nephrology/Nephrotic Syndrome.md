@@ -160,11 +160,11 @@ graph TD
     L --> M[First: Re-check/Rule <br>out Genetic Cause];
     M --> N{Choose Add-On Therapy};
     N --> O[Option 1: <br>Add Rituximab];
-    N --> P[Option 2: <br>Add MMF <br>#40; Triple Therapy #41;];
+    N --> P[Option 2: <br>Add MMF <br>&#40; Triple Therapy &#41;];
     O --> Q{Response?};
     P --> Q;
     Q -- Yes --> R[Continue Therapy];
-    Q -- No: Continued Non-Response --> S[Withdraw Immunosuppression, <br> Supportive Care #40; ACEi/ARB #41;];
+    Q -- No: Continued Non-Response --> S[Withdraw Immunosuppression, <br> Supportive Care &#40; ACEi/ARB &#41;];
 ```
 <!-- /htmlmin:ignore -->
 ##### **A. Management of Monogenic SRNS**
