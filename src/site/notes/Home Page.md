@@ -74,6 +74,10 @@ Here you'll find notes organized by organ systems, covering a wide range of pedi
 > Explores disorders of the central and peripheral nervous system, such as seizures and headaches.
 > [[Neurology/@ Neurology\|View Notes →]]
 
+> [!quote] 🎶 Endocrinolgy
+> Focuses on Thyroid disorders, Adrenal, pituitary, and other endocrine disorders and Diabetes
+> [[Endocrinology/@Endocrinology\|View Notes →]]
+
 > [!example] 💪 Neuromuscular System
 > Notes on conditions affecting muscles and the nerves that control them, like muscular dystrophies.
 > [[Neuromuscular/@Neuromuscular system\|View Notes →]]
