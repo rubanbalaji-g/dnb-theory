@@ -8,14 +8,12 @@
   
   <!-- Link to Question Bank -->
   <a href="https://qb.pedianotes.in" 
-     style="display: inline-block; padding: 10px 20px; background-color: #4CAF50; color: white; text-align: center; text-decoration: none; font-size: 16px; border-radius: 8px; margin: 5px;">
-     Explore the Question Bank
+     style="display: inline-block; padding: 10px 20px; background-color: #4CAF50; color: white; text-align: center; text-decoration: none; font-size: 16px; border-radius: 8px; margin: 5px;">Explore the Question Bank
   </a>
   
   <!-- Link to Tools & Calculators -->
   <a href="https://page.pedianotes.in" 
-     style="display: inline-block; padding: 10px 20px; background-color: #2196F3; color: white; text-align: center; text-decoration: none; font-size: 16px; border-radius: 8px; margin: 5px;">
-     Pediatric Tools & Calculators
+     style="display: inline-block; padding: 10px 20px; background-color: #2196F3; color: white; text-align: center; text-decoration: none; font-size: 16px; border-radius: 8px; margin: 5px;">Pediatric Tools & Calculators
   </a>
 </div>
 
