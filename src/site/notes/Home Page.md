@@ -3,9 +3,20 @@
 ---
 
 <div style="text-align: center; margin-bottom: 2rem;">
-<h1>🌱 Pediatric Notes</h1>
-<p>This is my collection of notes I made during my preparation for DNB pediatrics Exam. I hope you'll find this useful</p>
-<a href="https://qb.pedianotes.in" style="display: inline-block; padding: 10px 20px; background-color: #4CAF50; color: white; text-align: center; text-decoration: none; font-size: 16px; border-radius: 8px;">Explore the Question Bank</a>
+  <h1>🌱 Pediatric Notes</h1>
+  <p>This is my collection of notes I made during my preparation for DNB pediatrics Exam. I hope you'll find this useful</p>
+  
+  <!-- Link to Question Bank -->
+  <a href="https://qb.pedianotes.in" 
+     style="display: inline-block; padding: 10px 20px; background-color: #4CAF50; color: white; text-align: center; text-decoration: none; font-size: 16px; border-radius: 8px; margin: 5px;">
+     Explore the Question Bank
+  </a>
+  
+  <!-- Link to Tools & Calculators -->
+  <a href="https://page.pedianotes.in" 
+     style="display: inline-block; padding: 10px 20px; background-color: #2196F3; color: white; text-align: center; text-decoration: none; font-size: 16px; border-radius: 8px; margin: 5px;">
+     Pediatric Tools & Calculators
+  </a>
 </div>
 
 ## Foundations of Pediatrics
