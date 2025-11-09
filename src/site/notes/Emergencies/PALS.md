@@ -57,7 +57,7 @@ This portion of the evaluation includes a thorough head to toe physical examinat
 - Toxicologic ingestions
 - Pulmonary embolism
 ## Bradycardia
-![Pdtrcbrdycrdpls2020updt 1.gif](/img/user/+%C4%B0mages/Pdtrcbrdycrdpls2020updt%201.gif)
+![](https://i.ibb.co/b5GjwLcv/Pdtrcbrdycrdpls2020updt-1.gif)
 ### Signs of sinus bradycardia
 - slowing of heart rate relative to normal  values
 - PR interval normal
@@ -68,7 +68,7 @@ This portion of the evaluation includes a thorough head to toe physical examinat
 - QRS complex that is narrow (electrical conduction arising from the atrium or high nodal area) or wide (electrical conduction from low nodal or ventricular region)
 - P wave and QRS complex may be unrelated (ie, atrioventricular dissociation) or have an abnormally long period between them (atrioventricular block)
 ## Tachycardia
-![Pdtrctchycrdpls2020updt.gif](/img/user/+%C4%B0mages/Pdtrctchycrdpls2020updt.gif)
+![](https://i.ibb.co/VY8KjyPR/Pdtrctchycrdpls2020updt.gif)
 ### Signs of sinus Tachycardia 
 - Heart rate is usually <220/min in infants, <180/min in children, and exhibits beat to beat variability in rate.
 - P waves are present with normal appearance.
