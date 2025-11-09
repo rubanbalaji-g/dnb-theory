@@ -44,7 +44,7 @@ This section focuses on the recognition and management of pediatric emergencies 
 
 > [!danger] 🚑 Emergencies
 > Focuses on the acute management of critically ill children.
-> [[Emergencies/🦺 Emergencies and Critical Care\|View Notes →]]
+> [[Emergencies/🚑 Emergencies and Critical Care\|View Notes →]]
 
 ---
 
