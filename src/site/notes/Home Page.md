@@ -12,14 +12,12 @@
 
   <a href="https://qb.pedianotes.in"
      style="display: inline-block; padding: 10px 20px; background-color: #4CAF50; color: white;
-     text-decoration: none; font-size: 16px; border-radius: 8px; margin: 5px;">
-     Explore the Question Bank
+     text-decoration: none; font-size: 16px; border-radius: 8px; margin: 5px;">Explore the Question Bank
   </a>
 
   <a href="https://page.pedianotes.in"
      style="display: inline-block; padding: 10px 20px; background-color: #2196F3; color: white;
-     text-decoration: none; font-size: 16px; border-radius: 8px; margin: 5px;">
-     Pediatric Tools & Calculators
+     text-decoration: none; font-size: 16px; border-radius: 8px; margin: 5px;">Pediatric Tools & Calculators
   </a>
 </div>
 
