@@ -3,6 +3,7 @@
 ---
 
 
+
 Type 4 RTA, also known as hyperkalemic renal tubular acidosis, is a distinct variety of RTA characterized primarily by impaired aldosterone action. It is distinguished from other RTAs by the presence of **hyperkalemia**. This type is less common in children compared to Type 1 (Distal) and Type 2 (Proximal) RTA.
 
 ## Pathophysiology and Mechanism

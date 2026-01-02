@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/hematology/hematology/","hide":true,"noteIcon":""}
+{"dg-publish":true,"permalink":"/hematology/hematology/","noteIcon":""}
 ---
+
 
 1. [[Hematology/Iron Deficiency Anemia\|Iron Deficiency Anemia]]
 2. [[Hematology/Physiological anemia of infancy\|Physiological anemia of infancy]]

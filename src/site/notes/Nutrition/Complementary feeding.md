@@ -5,6 +5,7 @@
 
 
 
+
 > [!wow] Time of weaning - 4 to 6 months
 > - baby attains head control
 > - extrusion reflex perishes

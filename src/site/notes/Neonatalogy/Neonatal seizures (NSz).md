@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/neonatalogy/neonatal-seizures-n-sz/","noteIcon":""}
 ---
 
+
 ## Definition
 Paroxysmal alteration in neurological function i.e., motor, behavior and / or autonomic function
 

@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/misc/ecg/","noteIcon":"","created":"2024-06-09T16:48:49+05:30"}
 ---
 
+
 - Look for patient details
 - ECG date and time
 - Calibration

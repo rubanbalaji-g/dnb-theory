@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/nutrition/vitamin-d-and-rickets/","noteIcon":"","created":"2024-07-18T05:00:00"}
 ---
 
+
 ## Clinical manifestation
 
 Craniotabes - softening of skull bones

@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/nephrology/distal-rta/","noteIcon":""}
 ---
 
+
 ## Definition and Pathophysiology
 
 **Distal RTA (Type 1)** is defined by a selective defect in the **secretion of hydrogen ions ($\text{H}^+$) in the distal tubule** (specifically the cortical collecting duct), resulting in hyperchloremic metabolic acidosis. This occurs in the absence of significant impairment of the glomerular filtration rate (GFR).

@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/gastrointestinal/gastroenterology/","hide":true,"noteIcon":""}
+{"dg-publish":true,"permalink":"/gastrointestinal/gastroenterology/","noteIcon":""}
 ---
+
 
 1. [[Gastrointestinal/Ascites\|Ascites]]
 2. [[Gastrointestinal/Autoimmune hepatitis\|Autoimmune hepatitis]]

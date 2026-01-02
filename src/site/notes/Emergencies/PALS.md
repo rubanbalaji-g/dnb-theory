@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/emergencies/pals/","noteIcon":""}
 ---
 
+
 ## Initial Assessement
 ### Airway
 - Provide 100 percent inspired oxygen

@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/endocrinology/hyperthyroidism-in-children/","noteIcon":""}
 ---
 
+
 ## Definition
 
 Hyperthyroidism is a clinical syndrome resulting from hypermetabolism due to excessive synthesis and secretion of thyroid hormones (T4 and T3) by the thyroid gland. Thyrotoxicosis is the clinical state of excess thyroid hormone, which can occur without hyperthyroidism (e.g., thyroiditis, factitious).

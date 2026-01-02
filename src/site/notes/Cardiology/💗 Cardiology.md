@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/cardiology/cardiology/","hide":true,"noteIcon":""}
+{"dg-publish":true,"permalink":"/cardiology/cardiology/","noteIcon":""}
 ---
+
 
 1. [[Cardiology/💙 Cyanotic heart diseases\|Cyanotic Heart Diseases]]
 

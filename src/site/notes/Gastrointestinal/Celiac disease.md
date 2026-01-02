@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/gastrointestinal/celiac-disease/","noteIcon":""}
 ---
 
+
 ## Definitions
 ### Symptomatic
 - Frank malabsorption symptoms and signs

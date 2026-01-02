@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/respiratory/obstructive-sleep-apnea/","noteIcon":""}
 ---
 
+
 ## #definition
 
 Obstructive Sleep Apnea (OSA) is part of a spectrum of Sleep Disordered Breathing (SDB).

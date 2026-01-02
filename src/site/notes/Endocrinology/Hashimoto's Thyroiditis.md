@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/endocrinology/hashimoto-s-thyroiditis/","noteIcon":""}
 ---
 
+
 ## Definition 
 
 Hashimoto thyroiditis (chronic lymphocytic autoimmune thyroiditis) is a progressive, organ‑specific autoimmune disorder characterized by autoreactive T‑cell–mediated follicular destruction, autoantibody production, and a clinical spectrum from transient thyrotoxicosis to subclinical and overt hypothyroidism.

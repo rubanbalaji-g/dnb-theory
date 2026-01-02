@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/neonatalogy/fetal-growth-restriction/","noteIcon":""}
 ---
 
+
 ## Definition
 - SGA ≠ FGR
 - SGA is baby less than 10th percentile in intergrowth 21 charts

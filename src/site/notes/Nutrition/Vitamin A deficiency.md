@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/nutrition/vitamin-a-deficiency/","noteIcon":""}
 ---
 
+
 ## Metabolism
 ![](https://i.ibb.co/bgpjnq8j/Vitamin-A-pathway-excalidraw.png)
 ## Clinical features

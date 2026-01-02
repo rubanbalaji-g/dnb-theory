@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/misc/abg/","noteIcon":""}
 ---
 
+
 ## Normal Values
 | Component       | Value (range) | Value (for calculation) |
 | --------------- | ------------- | ----------------------- |

@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/hematology/disseminated-intravascular-coagulation/","noteIcon":""}
 ---
 
+
      
 > [!faq] PYQ
 > 1. Diagrammatically outline the Normal Coagulation Cascade (DNB 2009/1)4

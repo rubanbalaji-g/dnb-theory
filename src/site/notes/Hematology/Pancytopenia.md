@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/hematology/pancytopenia/","noteIcon":""}
 ---
 
+
 # Fanconi Anemia
 - multisystem disorder
 - AR inheritance

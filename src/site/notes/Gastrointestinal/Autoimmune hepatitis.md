@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/gastrointestinal/autoimmune-hepatitis/","noteIcon":""}
 ---
 
+
 ## Types
 - Type 1 - ANA and Anti-SMA positive
 - Type 2 - Anti LMK 1 positive

@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/cardiology/cyanotic-heart-diseases/transposition-and-malposition-of-great-arteries/","noteIcon":""}
 ---
 
+
 # Normal position of great arteries
 - Aorta is posterior and right of pulmonary artery
 

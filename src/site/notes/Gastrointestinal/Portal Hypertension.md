@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/gastrointestinal/portal-hypertension/","noteIcon":"","created":"2025-02-27T21:44:00"}
 ---
 
+
 # Definition
 - pressure gradiant between PV and IVC of more than 10-12 mm Hg
 	- if >10mm Hg - varices

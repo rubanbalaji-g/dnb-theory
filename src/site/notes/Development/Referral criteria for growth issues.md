@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/development/referral-criteria-for-growth-issues/","noteIcon":""}
 ---
 
+
 select(all_of(nor_check)) %>% pivot_longer(cols = everything(), names_to = "variable", values_to = "value")## Concerns
 
 Referral is done to specialist like pediatric endocrinologist, nutritionist and gastroenterologist

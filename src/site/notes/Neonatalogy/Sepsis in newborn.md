@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/neonatalogy/sepsis-in-newborn/","noteIcon":"","created":"2024-06-20T21:40:00"}
 ---
 
+
 # Definition
 - deep seated infection in neonates
 ## Epidemiology

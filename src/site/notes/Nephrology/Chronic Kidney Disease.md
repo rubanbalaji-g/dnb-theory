@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/nephrology/chronic-kidney-disease/","noteIcon":""}
 ---
 
+
 ## Definition
 - Functional abnormalities in Kidney Function with or without decrease in GFR with any one of
 	- abnormal urine or blood values

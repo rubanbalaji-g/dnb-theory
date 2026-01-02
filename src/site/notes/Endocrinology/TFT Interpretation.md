@@ -3,6 +3,7 @@
 ---
 
 
+
 ## The Hypothalamic-Pituitary-Thyroid (HPT) Axis
 The interpretation of thyroid function tests (TFTs) is entirely dependent on understanding the Hypothalamic-Pituitary-Thyroid (HPT) axis. This system operates on a classic negative feedback loop:
 1. Hypothalamus releases Thyrotropin-Releasing Hormone (TRH).

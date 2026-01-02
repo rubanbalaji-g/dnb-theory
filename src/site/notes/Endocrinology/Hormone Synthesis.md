@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/endocrinology/hormone-synthesis/","noteIcon":""}
 ---
 
+
 ## A. Thyroid Hormone Synthesis 
 
 Thyroid hormone synthesis is a complex, multi-step process occurring within the thyroid follicular cells and the follicular lumen (colloid). It integrates iodine trapping, oxidation, and protein synthesis under the primary control of TSH.

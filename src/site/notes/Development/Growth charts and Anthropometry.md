@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/development/growth-charts-and-anthropometry/","noteIcon":""}
 ---
 
+
 ## Types of growth charts
 - Charts based on growth standards
 	- the describe how children grow in optimal conditions

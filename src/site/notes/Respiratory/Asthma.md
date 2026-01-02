@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/respiratory/asthma/","noteIcon":"","created":"2024-06-12T20:49:00"}
 ---
 
+
 Source
 
 1. [GINA Main Report 2024 (ginasthma.org)](https://ginasthma.org/wp-content/uploads/2024/05/GINA-2024-Strategy-Report-24_05_22_WMS.pdf)

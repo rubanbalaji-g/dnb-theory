@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/hematology/iron-deficiency-anemia/","noteIcon":""}
 ---
 
+
 3r4t- 30-50% prevalence
 - <10% of dietary iron is absorbed
 # Causes of Iron deficieny

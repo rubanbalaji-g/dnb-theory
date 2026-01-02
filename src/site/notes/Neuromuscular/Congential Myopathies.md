@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/neuromuscular/congential-myopathies/","noteIcon":"","created":"2025-05-19T22:38:00"}
 ---
 
+
 ## Myotubular myopathy
 - misnomer 
 - no arrest of muscle in myotubular stage during fetal development

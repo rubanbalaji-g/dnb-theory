@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/gastrointestinal/wilson-disease/","noteIcon":""}
 ---
 
+
 - autosomal recessive
 - 3 components
 	- Liver disease

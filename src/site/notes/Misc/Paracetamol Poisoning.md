@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/misc/paracetamol-poisoning/","noteIcon":"","created":"2024-07-18T05:07:00"}
 ---
 
+
 ## Metabolism
 Paracetamol - glucorination, sulfonation - nontoxic products
 When glutathione is depleted, paracetamol is converted into NAPQI by cytochromes

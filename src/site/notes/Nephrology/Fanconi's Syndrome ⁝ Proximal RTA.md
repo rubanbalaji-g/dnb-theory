@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/nephrology/fanconi-s-syndrome-proximal-rta/","noteIcon":""}
 ---
 
+
 ### I. Definition and Pathophysiology
 
 Fanconi Syndrome is classified under **Type 2 Renal Tubular Acidosis (RTA)**.

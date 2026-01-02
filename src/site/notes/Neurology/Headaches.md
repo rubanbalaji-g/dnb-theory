@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/neurology/headaches/","noteIcon":""}
 ---
 
+
 Type of headache
 
 | primary headache      | secondary headache                     |

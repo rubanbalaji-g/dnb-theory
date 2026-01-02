@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/endocrinology/acquired-hypothyroidism/","noteIcon":""}
 ---
 
+
 ## Common causes of acquired hypothyroidism in a 12‑year‑old girl
 
 ### Chronic autoimmune lymphocytic thyroiditis / Hashimoto disease 

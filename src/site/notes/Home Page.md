@@ -1,108 +1,122 @@
 ---
-{"dg-publish":true,"permalink":"/home-page/","hide":true,"tags":["gardenEntry"],"noteIcon":"","created":"2024-03-19T19:05:00","updated":"2025-09-28T16:26:00"}
+{"dg-publish":true,"permalink":"/home-page/","tags":["gardenEntry"],"noteIcon":"","created":"2024-03-19T19:05:00","updated":"2025-09-28T16:26:00"}
 ---
 
+
 <div style="text-align: center; margin-bottom: 2rem;">
-  <h1>🌱 Pediatric Notes</h1>
-  <p>This is my collection of notes I made during my preparation for DNB pediatrics Exam. I hope you'll find this useful</p>
-  
-  <!-- Link to Question Bank -->
-  <a href="https://qb.pedianotes.in" 
-     style="display: inline-block; padding: 10px 20px; background-color: #4CAF50; color: white; text-align: center; text-decoration: none; font-size: 16px; border-radius: 8px; margin: 5px;">Explore the Question Bank
+  <h1>Pediatric Notes</h1>
+  <p>
+    A curated collection of notes compiled during preparation for the DNB Pediatrics examination.
+    These notes are intended to be concise, exam-oriented, and clinically relevant.
+  </p>
+
+  <a href="https://qb.pedianotes.in"
+     style="display: inline-block; padding: 10px 20px; background-color: #4CAF50; color: white;
+     text-decoration: none; font-size: 16px; border-radius: 8px; margin: 5px;">
+     Explore the Question Bank
   </a>
-  
-  <!-- Link to Tools & Calculators -->
-  <a href="https://page.pedianotes.in" 
-     style="display: inline-block; padding: 10px 20px; background-color: #2196F3; color: white; text-align: center; text-decoration: none; font-size: 16px; border-radius: 8px; margin: 5px;">Pediatric Tools & Calculators
+
+  <a href="https://page.pedianotes.in"
+     style="display: inline-block; padding: 10px 20px; background-color: #2196F3; color: white;
+     text-decoration: none; font-size: 16px; border-radius: 8px; margin: 5px;">
+     Pediatric Tools & Calculators
   </a>
 </div>
 
-## Foundations of Pediatrics
-This section covers the fundamental aspects of child health, including growth, development, and nutrition.
+---
 
-> [!info] 📈 Developmental Pediatrics
-> Notes on growth, milestones, and neurodevelopmental disorders.
+## Foundations of Pediatrics
+Core principles underlying child health, growth, development, and nutrition.
+
+> [!info] Developmental Pediatrics  
+> Growth patterns, developmental milestones, screening tools, and neurodevelopmental disorders.  
 > [[Development/📈 Development\|View Notes →]]
 
-> [!abstract] 🥗 Nutrition
-> Covers nutritional requirements, deficiencies, and related disorders like obesity.
-> [[Nutrition/😋 Nutrition\|View Notes →]]
+> [!abstract] Nutrition  
+> Nutritional requirements across age groups, deficiencies, malnutrition, and obesity.  
+> [[Nutrition/🥗 Nutrition\|View Notes →]]
 
 ---
 
-## Neonatology 👶
-A dedicated section on the care and diseases of the newborn infant, from fetal development to the high-risk neonate.
-
-> [!note] 👶 Neonatology
-> All about the newborn, from the healthy term infant to the critically ill neonate.
+## Neonatology
+Care of the newborn from birth through the neonatal period, including high-risk neonates.
+> [!note] Neonatology  
+> Normal newborn care, prematurity, neonatal intensive care, and common neonatal disorders.  
 > [[Neonatalogy/👶 Neonatology\|View Notes →]]
+
 
 ---
 
 ## Emergency & Acute Care
-This section focuses on the recognition and management of pediatric emergencies and critically ill children.
+Recognition and management of pediatric emergencies and critically ill children.
 
-> [!danger] 🚑 Emergencies
-> Focuses on the acute management of critically ill children.
+> [!danger] Pediatric Emergencies  
+> Initial stabilization, resuscitation, and emergency management protocols.  
 > [[Emergencies/🚑 Emergencies and Critical Care\|View Notes →]]
 
 ---
 
 ## Systemic Pediatrics
-Here you'll find notes organized by organ systems, covering a wide range of pediatric diseases.
+Organ-system–based approach to pediatric diseases.
 
-> [!summary] 🦴 Rheumatology
-> Explores autoimmune and inflammatory conditions affecting joints and connective tissues.
+> [!summary] Rheumatology  
+> Autoimmune and inflammatory disorders affecting joints and connective tissue.  
 > [[Rheumatology/🦴 Rheumatology\|View Notes →]]
 
-> [!bug] 🦠 Infectious Diseases
-> A comprehensive look at viral, bacterial, fungal, and parasitic infections in children.
+> [!bug] Infectious Diseases  
+> Viral, bacterial, fungal, and parasitic infections in children.  
 > [[Infectious Diseases/🦠 Infectious Diseases\|View Notes →]]
 
-> [!tip] 🫃 Gastroenterology
-> Covers diseases of the digestive tract, liver, and pancreas.
+> [!tip] Gastroenterology  
+> Disorders of the gastrointestinal tract, liver, and pancreas.  
 > [[Gastrointestinal/🍴 Gastroenterology\|View Notes →]]
 
-> [!tldr] 🫁 Respiratory System
-> Notes on conditions affecting the airways and lungs, from the common cold to cystic fibrosis.
+> [!tldr] Respiratory System  
+> Diseases of the airways and lungs, including asthma and cystic fibrosis.  
 > [[Respiratory/🫁 Respiratory system\|View Notes →]]
 
-> [!success] ❤️ Cardiology
-> Focuses on congenital and acquired heart diseases in the pediatric population.
+> [!success] Cardiology  
+> Congenital and acquired heart diseases in children.  
 > [[Cardiology/💗 Cardiology\|View Notes →]]
 
-> [!quote] 🩸 Hematology
-> Deals with disorders of the blood, including anemias, bleeding disorders, and polycythemia.
+> [!quote] Hematology  
+> Anemias, bleeding disorders, bone marrow failure, and hemoglobinopathies.  
 > [[Hematology/🩸 Hematology\|View Notes →]]
 
-> [!important] 🎗️ Oncology
-> Covers the diagnosis and management of childhood cancers and benign tumors.
+> [!important] Oncology  
+> Childhood malignancies and benign tumors.  
 > [[Oncology/🦀 Oncology\|View Notes →]]
 
-> [!question] 🧠 Neurology
-> Explores disorders of the central and peripheral nervous system, such as seizures and headaches.
+> [!question] Neurology  
+> Disorders of the central and peripheral nervous system, including seizures.  
 > [[Neurology/🧠 Neurology\|View Notes →]]
 
-> [!quote] 🎶 Endocrinolgy
-> Focuses on Thyroid disorders, Adrenal, pituitary, and other endocrine disorders and Diabetes
-> [[Endocrinology/🤞 Endocrinology\|View Notes →]]
+> [!quote] Endocrinology  
+> Thyroid, adrenal, pituitary disorders, growth disorders, and diabetes mellitus.  
+> [[Endocrinology/🧪 Endocrinology\|View Notes →]]
 
-> [!example] 💪 Neuromuscular System
-> Notes on conditions affecting muscles and the nerves that control them, like muscular dystrophies.
+> [!example] Neuromuscular Disorders  
+> Disorders affecting muscles, neuromuscular junctions, and motor neurons.  
 > [[Neuromuscular/💪 Neuromuscular system\|View Notes →]]
 
-> [!error] 💪 Renal System
-> Notes on conditions affecting Kidneys
+> [!error] Nephrology  
+> Renal and urinary tract disorders in children.  
 > [[Nephrology/🫘 Nephrology\|View Notes →]]
+
 ---
 
-## Miscellaneous
-> [!faq] miscellaneous Miscellaneous
-> A collection of various practical topics and other essential subjects.
+## Miscellaneous & Allied Topics
+
+> [!faq] Miscellaneous  
+> Practical pediatrics, frequently overlooked topics, and exam-oriented pearls.  
 > [[Misc/⭕ Miscellaneous and Practical topics\|View Notes →]]
 
+> [!faq] Social Pediatrics  
+> Child protection, preventive pediatrics, national programs, and community health.  
+> [[Social Pediatics/🚸 Social Pediatrics\|View Notes →]]
+
 ---
-If you find any mistakes, please [[Contact\|message me]].
 
-######  © Dr. Rubanbalaji | 2025
+If you identify errors or have suggestions for improvement, please [[Contact\|message me]].
 
+###### © Dr. RB | 2026

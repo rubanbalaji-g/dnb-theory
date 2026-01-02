@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/neonatalogy/neonatology/","hide":true,"noteIcon":""}
+{"dg-publish":true,"permalink":"/neonatalogy/neonatology/","noteIcon":""}
 ---
+
 
 1. [[Neonatalogy/Shock in neonates\|Shock in neonates]]
 2. [[Neonatalogy/Sepsis in newborn\|Sepsis in newborn]]

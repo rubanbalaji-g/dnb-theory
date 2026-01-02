@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/neonatalogy/fetal-circulation/","noteIcon":""}
 ---
 
+
 # Fetal circulation
 ## Unique structures of fetal cardiovascular system
 - Oval foramen - between right and left ventricle

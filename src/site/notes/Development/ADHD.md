@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/development/adhd/","noteIcon":""}
 ---
 
+
 > [!Def] Characteristics
 > - Inattention
 > 	- including increased distractibility and difficulty in sustaining attention

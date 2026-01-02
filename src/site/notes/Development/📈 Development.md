@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/development/development/","hide":true,"noteIcon":""}
+{"dg-publish":true,"permalink":"/development/development/","noteIcon":""}
 ---
+
 
 1. [[Development/ADHD\|ADHD]] 
 2. [[Development/Growth charts and Anthropometry\|Growth charts and Anthropometry]]

@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/endocrinology/puberty-goiter/","noteIcon":""}
 ---
 
+
 ## Definition
 
 Pubertal goitre describes thyroid enlargement occurring during puberty when rapid somatic growth and hormonal changes alter thyroid physiology.

@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/endocrinology/congenital-hypothyroidism/","noteIcon":""}
 ---
 
+
 Congenital hypothyroidism (CH) is a heterogeneous group of disorders present at birth that lead to deficient thyroid hormone action during critical periods of brain development and growth.
 
 ---

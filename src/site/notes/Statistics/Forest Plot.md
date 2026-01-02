@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/statistics/forest-plot/","noteIcon":""}
 ---
 
+
 **A forest plot is a graphical tool used in meta-analysis to visually summarize the results of multiple studies, showing both individual and overall effect sizes with confidence intervals.**
 
 ---
