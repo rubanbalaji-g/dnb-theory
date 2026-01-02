@@ -296,36 +296,3 @@ If no improvement after 72 hours, consider:
 * **Severe CAP:** Always repeat X-ray.
 * **Mild CAP:** Repeat **only** if risk factors for malignancy exist (Age > 50, Smoker).
     * *Reason:* To rule out post-obstructive pneumonia secondary to malignancy.
----
----
----
-# Pediatric Community Acquired Pneumonia (IAP Guidelines 2022)
-
-## 1. Definition & Exclusions
-* **Definition:** Acute infection of lung parenchyma in a previously healthy child, acquired outside hospital settings, and **not hospitalized within 14 days** prior to symptom onset.
-* **Exclusions:** This protocol does *not* apply to children with:
-    * Immunodeficiency.
-    * Severe Malnutrition.
-    * Post-measles state.
-
----
-
-## 2. WHO Classification & Diagnosis (The "50-40-30" Rule)
-[Image of WHO pediatric pneumonia respiratory rate chart]
-Unlike adults (CURB-65), pediatric pneumonia is diagnosed primarily by **Tachypnea** and **Chest Indrawing**.
-
-
-
-
----
-
-## 3. Clinical Differentiation of Etiology
-
----
-
-
-
----
-
-## 5. Management Guidelines
-
