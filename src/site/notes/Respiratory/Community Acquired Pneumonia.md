@@ -230,9 +230,9 @@ Simple, frequently used, but lacks sensitivity/specificity compared to others.
 * **Oseltamivir Indication:** If H1N1 suspected, initiate within 3 days.
 * **Dosing (Treatment):**
     * < 1 year: 3 mg/kg BD.
-    * > 1 year (≤15 kg): 30 mg BD.
-    * > 1 year (>15-23 kg): 45 mg BD.
-    * > 1 year (>23-40 kg): 60 mg BD.
+    * \> 1 year (≤15 kg): 30 mg BD.
+    *  \> 1 year (>15-23 kg): 45 mg BD.
+    * \> 1 year (>23-40 kg): 60 mg BD.
 ### Treatment Regimens (Adult)
 
 #### 1. Outpatient Management
