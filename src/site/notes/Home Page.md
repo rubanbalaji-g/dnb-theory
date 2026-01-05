@@ -33,6 +33,7 @@
     <strong>Disclaimer:</strong> These notes are intended for educational purposes and examination preparation only. They reflect my personal understanding and study patterns. While every effort is made to ensure accuracy, medical knowledge is constantly changing. Please cross-reference with standard textbooks and current clinical guidelines.
   </p>
 </div>
+
 > [!def] If you identify errors or have suggestions for improvement, please [[Contact\|message me]]
 
 ## Foundation of Pediatrics
