@@ -1,0 +1,8 @@
+/* Replace "my-callout-name" with the exact name you gave your callout (lowercase) */
+.callout[data-callout="Criteria"] {
+    /* The RGB color of the stripe (e.g., 255, 0, 0 for red) */
+    --callout-color: 247, 249, 118; 
+    
+    /* The icon name from Lucide.dev (e.g., lucide-pencil) */
+    --callout-icon: lucide-blend;
+}
