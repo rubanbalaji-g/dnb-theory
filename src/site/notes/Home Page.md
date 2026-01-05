@@ -109,11 +109,11 @@ Organ-system–based approach to pediatric diseases.
 
 ## Miscellaneous & Allied Topics
 
-> [!criteria] Miscellaneous  
+> [!crit] Miscellaneous  
 > Practical pediatrics, frequently overlooked topics, and exam-oriented pearls.  
 > [[Misc/⭕ Miscellaneous and Practical topics\|View Notes →]]
 
-> [!criteria] Social Pediatrics  
+> [!crit] Social Pediatrics  
 > Child protection, preventive pediatrics, national programs, and community health.  
 > [[Social Pediatics/🚸 Social Pediatrics\|View Notes →]]
 
