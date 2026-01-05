@@ -36,8 +36,7 @@
 > [!info] If you identify errors or have suggestions for improvement, please [[Contact\|message me]]
 
 ## Foundations of Pediatrics
-Core principles underlying child health, growth, development, and nutrition.> [!criteria]
-> Contents
+Core principles underlying child health, growth, development, and nutrition
 
 > [!done] Developmental Pediatrics  
 > Growth patterns, developmental milestones, screening tools, and neurodevelopmental disorders.  
@@ -49,6 +48,7 @@ Core principles underlying child health, growth, development, and nutrition.> [!
 
 ## Neonatology
 Care of the newborn from birth through the neonatal period, including high-risk neonates.
+
 > [!example] Neonatology  
 > Normal newborn care, prematurity, neonatal intensive care, and common neonatal disorders.  
 > [[Neonatalogy/👶 Neonatology\|View Notes →]]
