@@ -21,13 +21,11 @@
 
   <div style="margin-bottom: 30px;">
     <a href="https://qb.pedianotes.in"
-       style="display: inline-block; padding: 12px 24px; background-color: #4CAF50; color: white; text-decoration: none; font-size: 16px; border-radius: 8px; margin: 5px; font-weight: bold; border: 1px solid #45a049;">
-       Explore the Question Bank
+       style="display: inline-block; padding: 12px 24px; background-color: #4CAF50; color: white; text-decoration: none; font-size: 16px; border-radius: 8px; margin: 5px; font-weight: bold; border: 1px solid #45a049;">Explore the Question Bank
     </a>
 
     <a href="https://page.pedianotes.in"
-       style="display: inline-block; padding: 12px 24px; background-color: #2196F3; color: white; text-decoration: none; font-size: 16px; border-radius: 8px; margin: 5px; font-weight: bold; border: 1px solid #1976D2;">
-       Pediatric Tools & Calculators
+       style="display: inline-block; padding: 12px 24px; background-color: #2196F3; color: white; text-decoration: none; font-size: 16px; border-radius: 8px; margin: 5px; font-weight: bold; border: 1px solid #1976D2;">Pediatric Tools & Calculators
     </a>
   </div>
 
@@ -35,79 +33,72 @@
     <strong>Disclaimer:</strong> These notes are intended for educational purposes and examination preparation only. They reflect my personal understanding and study patterns. While every effort is made to ensure accuracy, medical knowledge is constantly changing. Please cross-reference with standard textbooks and current clinical guidelines.
   </p>
 </div>
-If you identify errors or have suggestions for improvement, please [[Contact\|message me]]
+> [!info] If you identify errors or have suggestions for improvement, please [[Contact\|message me]]
 
 ## Foundations of Pediatrics
 Core principles underlying child health, growth, development, and nutrition.
 
-> [!info] Developmental Pediatrics  
+> [!done] Developmental Pediatrics  
 > Growth patterns, developmental milestones, screening tools, and neurodevelopmental disorders.  
 > [[Development/📈 Development\|View Notes →]]
 
-> [!abstract] Nutrition  
+> [!done] Nutrition  
 > Nutritional requirements across age groups, deficiencies, malnutrition, and obesity.  
 > [[Nutrition/🥗 Nutrition\|View Notes →]]
 
----
-
 ## Neonatology
 Care of the newborn from birth through the neonatal period, including high-risk neonates.
-> [!note] Neonatology  
+> [!example] Neonatology  
 > Normal newborn care, prematurity, neonatal intensive care, and common neonatal disorders.  
 > [[Neonatalogy/👶 Neonatology\|View Notes →]]
-
-
----
 
 ## Emergency & Acute Care
 Recognition and management of pediatric emergencies and critically ill children.
 
-> [!danger] Pediatric Emergencies  
+> [!tip] Pediatric Emergencies  
 > Initial stabilization, resuscitation, and emergency management protocols.  
 > [[Emergencies/🚑 Emergencies and Critical Care\|View Notes →]]
-
----
 
 ## Systemic Pediatrics
 Organ-system–based approach to pediatric diseases.
 
-> [!summary] Rheumatology  
+> [!error] Rheumatology  
 > Autoimmune and inflammatory disorders affecting joints and connective tissue.  
 > [[Rheumatology/🦴 Rheumatology\|View Notes →]]
 
-> [!bug] Infectious Diseases  
+> [!error] Infectious Diseases  
 > Viral, bacterial, fungal, and parasitic infections in children.  
 > [[Infectious Diseases/🦠 Infectious Diseases\|View Notes →]]
 
-> [!tip] Gastroenterology  
+> [!error] Gastroenterology  
 > Disorders of the gastrointestinal tract, liver, and pancreas.  
 > [[Gastrointestinal/🍴 Gastroenterology\|View Notes →]]
 
-> [!tldr] Respiratory System  
+> [!error] Respiratory System  
 > Diseases of the airways and lungs, including asthma and cystic fibrosis.  
 > [[Respiratory/🫁 Respiratory system\|View Notes →]]
 
-> [!success] Cardiology  
+> [!error] Cardiology  
 > Congenital and acquired heart diseases in children.  
 > [[Cardiology/💗 Cardiology\|View Notes →]]
 
-> [!quote] Hematology  
+> [!error] Hematology  
 > Anemias, bleeding disorders, bone marrow failure, and hemoglobinopathies.  
 > [[Hematology/🩸 Hematology\|View Notes →]]
 
-> [!important] Oncology  
+> [!error] Oncology  
 > Childhood malignancies and benign tumors.  
 > [[Oncology/🦀 Oncology\|View Notes →]]
 
-> [!question] Neurology  
+> [!error] Neurology  
 > Disorders of the central and peripheral nervous system, including seizures.  
 > [[Neurology/🧠 Neurology\|View Notes →]]
 
-> [!quote] Endocrinology  
+> [!error] Endocrinology  
 > Thyroid, adrenal, pituitary disorders, growth disorders, and diabetes mellitus.  
 > [[Endocrinology/🧪 Endocrinology\|View Notes →]]
 
-> [!example] Neuromuscular Disorders  
+> [!error] Neuromuscular Disorders  
 > Disorders affecting muscles, neuromuscular junctions, and motor neurons.  
 > [[Neuromuscular/💪 Neuromuscular system\|View Notes →]]
 
