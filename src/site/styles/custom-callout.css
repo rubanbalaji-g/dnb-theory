@@ -1,8 +1,8 @@
-/* Replace "my-callout-name" with the exact name you gave your callout (lowercase) */
-.callout[data-callout="criteria"] {
-    /* The RGB color of the stripe (e.g., 255, 0, 0 for red) */
-    --callout-color: 247, 249, 118; 
+/* We use 'body' to force this rule to override the default theme */
+body .callout[data-callout="crit"] {
+    /* The RGB color (Yellow) */
+    --callout-color: 247, 249, 118;
     
-    /* The icon name from Lucide.dev (e.g., lucide-pencil) */
-    --callout-icon: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='24' height='24' viewBox='0 0 24 24' fill='none' stroke='currentColor' stroke-width='2' stroke-linecap='round' stroke-linejoin='round' class='lucide lucide-blend-icon lucide-blend'%3E%3Ccircle cx='9' cy='9' r='7'/%3E%3Ccircle cx='15' cy='15' r='7'/%3E%3C/svg%3E");;
+    /* The Icon (Blend) - We must use the SVG code for the website */
+    --callout-icon: url('data:image/svg+xml;utf8,<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-blend"><circle cx="9" cy="9" r="7"/><circle cx="15" cy="15" r="7"/></svg>');
 }
