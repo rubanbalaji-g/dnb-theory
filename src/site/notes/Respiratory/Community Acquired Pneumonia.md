@@ -2,8 +2,6 @@
 {"dg-publish":true,"permalink":"/respiratory/community-acquired-pneumonia/","noteIcon":""}
 ---
 
-# CAP 
-
 ## 1. Definition and Classification
 **Pneumonia:** Infection of the lung parenchyma.
 
