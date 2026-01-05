@@ -36,7 +36,8 @@
 > [!info] If you identify errors or have suggestions for improvement, please [[Contact\|message me]]
 
 ## Foundations of Pediatrics
-Core principles underlying child health, growth, development, and nutrition.
+Core principles underlying child health, growth, development, and nutrition.> [!criteria]
+> Contents
 
 > [!done] Developmental Pediatrics  
 > Growth patterns, developmental milestones, screening tools, and neurodevelopmental disorders.  
@@ -110,11 +111,11 @@ Organ-system–based approach to pediatric diseases.
 
 ## Miscellaneous & Allied Topics
 
-> [!faq] Miscellaneous  
+> [!Criteria] Miscellaneous  
 > Practical pediatrics, frequently overlooked topics, and exam-oriented pearls.  
 > [[Misc/⭕ Miscellaneous and Practical topics\|View Notes →]]
 
-> [!faq] Social Pediatrics  
+> [!Criteria] Social Pediatrics  
 > Child protection, preventive pediatrics, national programs, and community health.  
 > [[Social Pediatics/🚸 Social Pediatrics\|View Notes →]]
 
