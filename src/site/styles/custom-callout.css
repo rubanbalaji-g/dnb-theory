@@ -1,5 +1,5 @@
 /* Replace "my-callout-name" with the exact name you gave your callout (lowercase) */
-.callout[data-callout="Criteria"] {
+.callout[data-callout="criteria"] {
     /* The RGB color of the stripe (e.g., 255, 0, 0 for red) */
     --callout-color: 247, 249, 118; 
     
