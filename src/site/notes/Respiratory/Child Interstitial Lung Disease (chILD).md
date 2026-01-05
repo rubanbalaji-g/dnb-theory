@@ -10,7 +10,7 @@ Interstitial Lung Disease (ILD) refers to a heterogeneous group of rare respirat
 ## II. Classification of Pediatric ILDs
 The classification is age-dependent (American Thoracic Society / chILD Foundation).
 
-### A. Disorders More Prevalent in Infancy (\<2 years)
+### A. Disorders More Prevalent in Infancy (less than 2 years)
 1.  **Diffuse Developmental Disorders:**
     * Acinar Dysplasia.
     * Congenital Alveolar Dysplasia.
