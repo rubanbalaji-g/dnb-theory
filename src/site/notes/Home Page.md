@@ -5,7 +5,7 @@
 
 <div style="text-align: center; margin: 0 auto 3rem auto; max-width: 700px; padding: 20px; font-family: sans-serif; line-height: 1.6; color: #e0e0e0;">
   
-  <h1 style="color: #ffffff; margin-bottom: 20px;">Pediatric Notes</h1>
+  <h1 style="color: #ffffff; margin-bottom: 20px;">PediaNotes</h1>
   
   <p style="margin-bottom: 20px;">
     Hi, I am <strong style="color: #fff;">Dr. Ruban</strong>. This website serves as a consolidated library of the personal notes, summaries, and high-yield points I have curated during my own preparation for <strong style="color: #fff;">DNB (Pediatrics)</strong>, <strong style="color: #fff;">MRCPCH</strong>, and the <strong style="color: #fff;">NEET SS</strong> examinations.
