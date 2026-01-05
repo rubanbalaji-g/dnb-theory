@@ -3,12 +3,17 @@
    ========================================= */
 
 /* 1. DEFINE COLORS
-   NOTE: Use RGB triplet (e.g., 247, 249, 118) WITHOUT 'rgb()'.
+   NOTE: Use RGB triplet WITHOUT 'rgb()'.
    The theme adds the rgb wrapper automatically. */
 
-body .callout[data-callout="crit"],
-body .callout[data-callout="def"] {
+/* "crit": Yellow */
+body .callout[data-callout="crit"] {
     --callout-color: 247, 249, 118;
+}
+
+/* "def": Blue (New Color) */
+body .callout[data-callout="def"] {
+    --callout-color: 120, 145, 247;
 }
 
 /* 2. HIDE DEFAULT SYSTEM ICONS
