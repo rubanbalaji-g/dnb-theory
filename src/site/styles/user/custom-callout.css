@@ -1,13 +1,54 @@
-/* Custom Callout: "crit" (Miscellaneous / Social Pediatrics) */
-/* Icon: Lucide "Blend", Color: Dark Grey #404040 */
-body .callout[data-callout="crit"] {
-    --callout-color: 247, 249, 118;
-    --callout-icon: url('data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9IiM0MDQwNDAiIHN0cm9rZS13aWR0aD0iMiIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIj48Y2lyY2xlIGN4PSI5IiBjeT0iOSIgcj0iNyIvPjxjaXJjbGUgY3g9IjE1IiBjeT0iMTUiIHI9IjciLz48L3N2Zz4=');
-}
+/* =========================================
+   CUSTOM CALLOUTS: "crit" & "def"
+   ========================================= */
 
-/* Custom Callout: "def" (Definition / Disclaimer) */
-/* Icon: Lucide "Bookmark", Color: Dark Grey #404040 */
+/* 1. DEFINE COLORS
+   NOTE: Use RGB triplet (e.g., 247, 249, 118) WITHOUT 'rgb()'.
+   The theme adds the rgb wrapper automatically. */
+
+body .callout[data-callout="crit"],
 body .callout[data-callout="def"] {
     --callout-color: 247, 249, 118;
-    --callout-icon: url('data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9IiM0MDQwNDAiIHN0cm9rZS13aWR0aD0iMiIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIj48cGF0aCBkPSJtMTkgMjEtNy00LTcgNFY1YTIgMiAwIDAgMSAyLTJoMTBhMiAyIDAgMCAxIDIgMnYxNnoiLz48L3N2Zz4=');
+}
+
+/* 2. HIDE DEFAULT SYSTEM ICONS
+   We hide the internal SVG element so we can replace it with our own. */
+body .callout[data-callout="crit"] .callout-icon svg,
+body .callout[data-callout="def"] .callout-icon svg {
+    display: none;
+}
+
+/* 3. APPLY CUSTOM ICON VIA MASKING
+   This applies the SVG shape and fills it with the callout color automatically. */
+
+body .callout[data-callout="crit"] .callout-icon,
+body .callout[data-callout="def"] .callout-icon {
+    /* Define size explicitly */
+    width: 24px;
+    height: 24px;
+    
+    /* Ensure the icon takes the callout color */
+    background-color: rgb(var(--callout-color));
+    
+    /* Standard mask properties */
+    -webkit-mask-size: contain;
+    mask-size: contain;
+    -webkit-mask-repeat: no-repeat;
+    mask-repeat: no-repeat;
+    -webkit-mask-position: center;
+    mask-position: center;
+}
+
+/* --- ICON DEFINITIONS --- */
+
+/* "crit": Two Circles (Blend) */
+body .callout[data-callout="crit"] .callout-icon {
+    -webkit-mask-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' fill='none' stroke='currentColor' stroke-width='2' stroke-linecap='round' stroke-linejoin='round'%3E%3Ccircle cx='9' cy='9' r='7'/%3E%3Ccircle cx='15' cy='15' r='7'/%3E%3C/svg%3E");
+    mask-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' fill='none' stroke='currentColor' stroke-width='2' stroke-linecap='round' stroke-linejoin='round'%3E%3Ccircle cx='9' cy='9' r='7'/%3E%3Ccircle cx='15' cy='15' r='7'/%3E%3C/svg%3E");
+}
+
+/* "def": Bookmark */
+body .callout[data-callout="def"] .callout-icon {
+    -webkit-mask-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' fill='none' stroke='currentColor' stroke-width='2' stroke-linecap='round' stroke-linejoin='round'%3E%3Cpath d='m19 21-7-4-7 4V5a2 2 0 0 1 2-2h10a2 2 0 0 1 2 2v16z'/%3E%3C/svg%3E");
+    mask-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' fill='none' stroke='currentColor' stroke-width='2' stroke-linecap='round' stroke-linejoin='round'%3E%3Cpath d='m19 21-7-4-7 4V5a2 2 0 0 1 2-2h10a2 2 0 0 1 2 2v16z'/%3E%3C/svg%3E");
 }
