@@ -118,4 +118,4 @@ Organ-system–based approach to pediatric diseases.
 > Child protection, preventive pediatrics, national programs, and community health.  
 > [[Social Pediatics/🚸 Social Pediatrics\|View Notes →]]
 
-##### © Dr. Ruban | 2026
+
