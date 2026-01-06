@@ -3,14 +3,14 @@
 ---
 
 > [!abstract] Profile
-> I am **Dr. Ruban**, a Pediatric Resident currently navigating paths of **DNB** and **MRCPCH**. 
+> I am **Dr. Ruban**, a Pediatric Resident currently navigating paths of **DNB (Pediatrics)** and **MRCPCH**. 
 
 While my current clinical practice focuses on pediatrics, my long-term aspiration is to transition into the field of **General Neurology**. This site serves as a "living" repository of my learning journey.
 
 ## 🧠 The Knowledge Base
 
 This digital garden is a collection of notes, clinical pearls, and syntheses gathered during my preparation for:
-* **DNB Exit Exam**
+* **DNB (Pediatrics) Exit Exam**
 * **MRCPCH Clinicals & Theory**
 * **NEET-SS Neurology** preparation
 
@@ -25,7 +25,7 @@ This site is powered by the following tools:
 
 ## 🤝 Let's Connect 
 I am open to connecting with fellow residents, medical students, or anyone interested in the intersection of medicine and technology. 
-Whether you want to discuss **Pediatrics clinical cases**, **Exam preparation strategies (DNB/MRCPCH)**, **Neurology**, or just have a general chat about **Digital Gardening** and medical productivity—don't hesitate to reach out! 
+Whether you want to discuss **Pediatrics, clinical cases**, **Exam preparation strategies (DNB/MRCPCH)**, **Neurology**, or just have a general chat about **Digital Gardening** and medical productivity—don't hesitate to reach out! 
 
 > [!orange] 📞Get in Touch 
  > 📧 **Email**: [hi@pedianotes.in](mailto:hi@pedianotes.in) 
