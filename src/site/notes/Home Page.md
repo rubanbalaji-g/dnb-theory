@@ -24,7 +24,7 @@
     Learning is an ongoing process. Consequently, this website is <strong style="color: #fff;">continuously updated</strong>. I am constantly refining old notes and adding new topics as I encounter them in my practice and studies. I genuinely hope these materials serve as a valuable companion in your academic success. Happy studying!
   </p></div>
 
-> [!def] If you identify errors or have suggestions for improvement, please [contact me](mailto:hi@pedianotes.in)
+> [!def] If you identify errors or have suggestions for improvement, please [[About#🤝 Let's Connect\|Contact Me]]
 
 ## Foundation of Pediatrics
 Core principles underlying child health, growth, development, and nutrition
