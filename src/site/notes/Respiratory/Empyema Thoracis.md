@@ -28,7 +28,7 @@ Pleural infection progresses through a continuum of three distinct stages:
     * **Fluid:** Turbid/purulent (pus), high WBC (polymorphs), low pH (<7.2), low glucose, high LDH.
     * **Mechanics:** Fibrin strands create **loculations** and septations; lung expansion is limited.
 
-3.  **Organisational Stage (Chronic Empyema):**
+3.  **Organizational Stage (Chronic Empyema):**
     * **Pathology:** Fibroblast infiltration leads to formation of a thick, non-elastic "peel" over the visceral and parietal pleura.
     * **Mechanics:** The peel encases the lung causing **"trapped lung"**, preventing re-expansion and impairing function.
 

@@ -95,7 +95,7 @@ Testing is indicated **only** if clinical suspicion is moderate-to-high.
 2.  **First Line (Intramuscular):**
     * **Benzathine Penicillin G:** Single dose.
         * < 27 kg: 600,000 Units.
-        * > 27 kg: 1.2 Million Units.
+        * \> 27 kg: 1.2 Million Units.
         * *Advantage:* Ensures compliance (Gold standard for non-compliant patients).
 3.  **Penicillin Allergy:**
     * **Non-anaphylactic:** First-generation Cephalosporin (Cephalexin) for 10 days.

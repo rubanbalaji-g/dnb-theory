@@ -52,18 +52,18 @@ Unlike adults, clinical signs in children strongly suggest the organism type.
     * *Gram-negative bacilli*: Multi-lobar involvement.
 
 #### C. Clinical Risk Factors & Associated Pathogens
-| Risk Factor | Associated Organisms | Pathophysiology/Notes |
-| :--- | :--- | :--- |
-| **Alcoholism** | Oral Anaerobes, *Klebsiella*, *Acinetobacter*, *Mycobacterium tuberculosis* | Aspiration risk; compromised immunity. |
-| **COPD / Smokers** | *Moraxella catarrhalis*, *Pseudomonas aeruginosa* | Structural lung changes. |
-| **Structural Lung Disease** (e.g., Bronchiectasis) | *Pseudomonas aeruginosa*, *Burkholderia cepacia* | Biofilms; leads to recurrent exacerbations and poor prognosis. |
-| **Aspiration Risk** (Stroke, Dementia) | Oral Anaerobes, Enteric GNB (*E. coli*, *Klebsiella*) | Macro-aspiration. |
-| **Lung Abscess** | Anaerobes, CA-MRSA, TB, Fungi, *Nocardia* | Often polymicrobial. |
-| **Travel to Ohio/St. Lawrence River** | *Histoplasma capsulatum* | |
-| **Bird Exposure** | *Chlamydia psittaci* (Parrots), *Histoplasma* (Excreta) | |
-| **Rabbit Exposure** | *Francisella tularensis* | |
-| **Sheep/Goat/Unpasteurized Milk** | *Coxiella burnetii* (Q Fever) | |
-| **Post-Influenza** | **CA-MRSA**, *S. pneumoniae* | *Important:* Influenza predisposes to secondary bacterial superinfection. |
+| Risk Factor                                              | Associated Organisms                                                        | Pathophysiology/Notes                                                     |
+| :------------------------------------------------------- | :-------------------------------------------------------------------------- | :------------------------------------------------------------------------ |
+| **Alcoholism**                                           | Oral Anaerobes, *Klebsiella*, *Acinetobacter*, *Mycobacterium tuberculosis* | Aspiration risk; compromised immunity.                                    |
+| **COPD / Smokers**                                       | *Moraxella catarrhalis*, *Pseudomonas aeruginosa*                           | Structural lung changes.                                                  |
+| **Structural Lung Disease** (e.g., Bronchiectasis)       | *Pseudomonas aeruginosa*, *Burkholderia cepacia*                            | Biofilms; leads to recurrent exacerbations and poor prognosis.            |
+| **Aspiration Risk** (Stroke, Dementia)                   | Oral Anaerobes, Enteric GNB (*E. coli*, *Klebsiella*)                       | Macro-aspiration.                                                         |
+| **Lung Abscess**                                         | Anaerobes, CA-MRSA, TB, Fungi, *Nocardia*                                   | Often polymicrobial.                                                      |
+| **Travel to Ohio/St. Lawrence River/Ganga River Valley** | *Histoplasma capsulatum*                                                    |                                                                           |
+| **Bird Exposure**                                        | *Chlamydia psittaci* (Parrots), *Histoplasma* (Excreta)                     |                                                                           |
+| **Rabbit Exposure**                                      | *Francisella tularensis*                                                    |                                                                           |
+| **Sheep/Goat/Unpasteurized Milk**                        | *Coxiella burnetii* (Q Fever)                                               |                                                                           |
+| **Post-Influenza**                                       | **CA-MRSA**, *S. pneumoniae*                                                | *Important:* Influenza predisposes to secondary bacterial superinfection. |
 
 ## 4. Clinical Features & Extra-Pulmonary Manifestations
 
@@ -198,7 +198,7 @@ Simple, frequently used, but lacks sensitivity/specificity compared to others.
 ### Treatment Regimen (Pediatrics)
 #### A. Outpatient (Oral) Treatment
 * **Duration:** 5 days typically.
-* **No Investigations** needed for OPD cases.
+* **No Investigations** needed for OPD cases
 
 | Age Group | First Line Therapy | Notes |
 | :--- | :--- | :--- |
@@ -265,7 +265,8 @@ Simple, frequently used, but lacks sensitivity/specificity compared to others.
 * **Extension:** Extend if inadequate clinical response.
 * **De-escalation:** Can stop if Procalcitonin falls by **>80%** or value is **< 0.5**.
 
-## 8. Adjunctive Therapy: Corticosteroids
+## 8. Adjunctive Therapy: 
+### Corticosteroids (adults)
 **Evidence:** The **CAPE COD Trial**.
 
 * **Indication:** **Severe CAP Only** (Mechanical ventilation, Shock, PSI Class V, or High Flow O2 requirement).
@@ -274,6 +275,11 @@ Simple, frequently used, but lacks sensitivity/specificity compared to others.
 * **Duration:** 8 to 14 days (taper early if rapid improvement).
 * **Contraindication:** **Influenza Pneumonia.** (Steroids cause harm in influenza).
     * *Clinical Dilemma:* If patient has COPD/Asthma exacerbation + Influenza, use steroids for the exacerbation if necessary, but avoid for pure influenza pneumonia.
+### Zinc and Vitamin D3 (children)
+|**Nutrient**|**Theoretical Benefit**|**Evidence as Treatment (Adjuvant)**|**Evidence as Prevention**|
+|---|---|---|---|
+|**Zinc**|Immune boost; tissue repair|**Mixed.** Benefits likely limited to deficient/malnourished children.|**Strong.** Reduces incidence of pneumonia.|
+|**Vitamin D3**|Antimicrobial peptides; immune regulation|**Weak.** Most trials show no reduction in hospital stay or recovery time.|**Strong.** Correction of deficiency reduces risk of infection.|
 
 ## 9. Monitoring and Resolution
 
