@@ -14,7 +14,7 @@
     I created this website to share the notes and study guides I personally use to navigate these examinations. This is an open notebook—a collection of distilled concepts, high-yield facts, and organized revision tools designed to help cut through the noise of vast textbooks.
   </p>
   
-  <div style="margin-bottom: 10px;">
+  <div style="margin-bottom: 0px;">
     <a href="https://qb.pedianotes.in" 
        style="display: inline-block; padding: 12px 24px; background-color: #4CAF50; color: #ffffff !important; text-decoration: none; font-size: 16px; border-radius: 8px; margin: 5px; font-weight: bold; border: 1px solid #45a049;">Explore the Question Bank
     </a>
