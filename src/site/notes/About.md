@@ -29,5 +29,5 @@ Whether you want to discuss **Pediatrics, clinical cases**, **Exam preparation s
 
 > [!orange] 📞Get in Touch 
  > 📧 **Email**: [hi@pedianotes.in](mailto:hi@pedianotes.in) 
- > 📸 **Instagram**: [@rubanbalaji.g](https://www.instagram.com/rubanbalaji.g) 
- > 💬 **Telegram**: [Chat with me](https://t.me/rubanbalaji_g)
+ > 📸 **Instagram**: [@dr.rubanbalaji](https://www.instagram.com/dr.rubanbalaji) 
+ > 💬 **Telegram**: [Chat with me](https://t.me/dr_rubanbalaji)
