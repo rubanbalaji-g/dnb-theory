@@ -7,7 +7,7 @@
   <h1 style="color: #ffffff; margin-bottom: 10px;">PediaNotes</h1>
   
   <p style="margin-bottom: 10px;">
-    Hi, I am <strong style="color: #fff;">Dr. Ruban</strong>. This website serves as a consolidated library of the personal notes, summaries, and high-yield points I have curated during my own preparation for <strong style="color: #fff;">DNB (Pediatrics)</strong>, <strong style="color: #fff;">MRCPCH</strong>, and the <strong style="color: #fff;">NEET SS</strong> examinations.
+    Hi, This is <strong style="color: #fff;">Dr. Ruban</strong>. This website serves as a consolidated library of the personal notes, summaries, and high-yield points I have curated during my own preparation for <strong style="color: #fff;">DNB (Pediatrics)</strong>, <strong style="color: #fff;">MRCPCH</strong>, and the <strong style="color: #fff;">NEET SS</strong> examinations.
   </p>
   
   <p style="margin-bottom: 10px;">
@@ -18,94 +18,93 @@
     <a href="https://qb.pedianotes.in" 
        style="display: inline-block; padding: 12px 24px; background-color: #4CAF50; color: #ffffff !important; text-decoration: none; font-size: 16px; border-radius: 8px; margin: 5px; font-weight: bold; border: 1px solid #45a049;">Explore the Question Bank
     </a>
-
     <a href="https://page.pedianotes.in" 
        style="display: inline-block; padding: 12px 24px; background-color: #2196F3; color: #ffffff !important; text-decoration: none; font-size: 16px; border-radius: 8px; margin: 5px; font-weight: bold; border: 1px solid #1976D2;">Pediatric Tools & Calculators</a></div>
          <p style="margin-bottom: 10px;">
     Learning is an ongoing process. Consequently, this website is <strong style="color: #fff;">continuously updated</strong>. I am constantly refining old notes and adding new topics as I encounter them in my practice and studies. I genuinely hope these materials serve as a valuable companion in your academic success. Happy studying!
   </p></div>
 
-> [!def] If you identify errors or have suggestions for improvement, please [[Contact\|message me]]
+> [!def] If you identify errors or have suggestions for improvement, please [contact me](mailto:hi@pedianotes.in)
 
 ## Foundation of Pediatrics
 Core principles underlying child health, growth, development, and nutrition
 
-> [!done] Developmental Pediatrics  
+> [!green] 📈Developmental Pediatrics  
 > Growth patterns, developmental milestones, screening tools, and neurodevelopmental disorders.  
 > [[Development/📈 Development\|View Notes →]]
 
-> [!done] Nutrition  
+> [!green] 🍚Nutrition  
 > Nutritional requirements across age groups, deficiencies, malnutrition, and obesity.  
-> [[Nutrition/🥗 Nutrition\|View Notes →]]
+> [[Nutrition/🍚 Nutrition\|View Notes →]]
 
 ## Neonatology
 Care of the newborn from birth through the neonatal period, including high-risk neonates.
 
-> [!example] Neonatology  
+> [!orange] 👶Neonatology  
 > Normal newborn care, prematurity, neonatal intensive care, and common neonatal disorders.  
 > [[Neonatalogy/👶 Neonatology\|View Notes →]]
 
 ## Emergency & Acute Care
 Recognition and management of pediatric emergencies and critically ill children.
 
-> [!tip] Pediatric Emergencies  
+> [!purple] 🚑Pediatric Emergencies  
 > Initial stabilization, resuscitation, and emergency management protocols.  
 > [[Emergencies/🚑 Emergencies and Critical Care\|View Notes →]]
 
 ## Systemic Pediatrics
 Organ-system–based approach to pediatric diseases.
 
-> [!error] Rheumatology  
+> [!red] 🦴Rheumatology  
 > Autoimmune and inflammatory disorders affecting joints and connective tissue.  
 > [[Rheumatology/🦴 Rheumatology\|View Notes →]]
 
-> [!error] Infectious Diseases  
+> [!red] 🦠Infectious Diseases  
 > Viral, bacterial, fungal, and parasitic infections in children.  
 > [[Infectious Diseases/🦠 Infectious Diseases\|View Notes →]]
 
-> [!error] Gastroenterology  
+> [!red] 🍴Gastroenterology  
 > Disorders of the gastrointestinal tract, liver, and pancreas.  
 > [[Gastrointestinal/🍴 Gastroenterology\|View Notes →]]
 
-> [!error] Respiratory System  
+> [!red] 🫁Pulmonology
 > Diseases of the airways and lungs, including asthma and cystic fibrosis.  
 > [[Respiratory/🫁 Respiratory system\|View Notes →]]
 
-> [!error] Cardiology  
+> [!red] 💗Cardiology  
 > Congenital and acquired heart diseases in children.  
 > [[Cardiology/💗 Cardiology\|View Notes →]]
 
-> [!error] Hematology  
+> [!red] 🩸Hematology  
 > Anemias, bleeding disorders, bone marrow failure, and hemoglobinopathies.  
 > [[Hematology/🩸 Hematology\|View Notes →]]
 
-> [!error] Oncology  
+> [!red] 🦀Oncology  
 > Childhood malignancies and benign tumors.  
 > [[Oncology/🦀 Oncology\|View Notes →]]
 
-> [!error] Neurology  
+> [!red] 🧠Neurology  
 > Disorders of the central and peripheral nervous system, including seizures.  
 > [[Neurology/🧠 Neurology\|View Notes →]]
 
-> [!error] Endocrinology  
+> [!red] 🧪Endocrinology  
 > Thyroid, adrenal, pituitary disorders, growth disorders, and diabetes mellitus.  
 > [[Endocrinology/🧪 Endocrinology\|View Notes →]]
 
-> [!error] Neuromuscular Disorders  
+> [!red] 💪Neuromuscular Disorders  
 > Disorders affecting muscles, neuromuscular junctions, and motor neurons.  
 > [[Neuromuscular/💪 Neuromuscular system\|View Notes →]]
 
-> [!error] Nephrology  
+> [!red] 🫘Nephrology  
 > Renal and urinary tract disorders in children.  
 > [[Nephrology/🫘 Nephrology\|View Notes →]]
 
 ## Miscellaneous & Allied Topics
 
-> [!crit] Miscellaneous  
+> [!yellow] ⭕Miscellaneous  
 > Practical pediatrics, frequently overlooked topics, and exam-oriented pearls.  
 > [[Misc/⭕ Miscellaneous and Practical topics\|View Notes →]]
 
-> [!crit] Social Pediatrics  
+> [!yellow] 🚸Social Pediatrics  
 > Child protection, preventive pediatrics, national programs, and community health.  
 > [[Social Pediatics/🚸 Social Pediatrics\|View Notes →]]
 
