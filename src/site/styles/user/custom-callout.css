@@ -1,41 +1,80 @@
 /* =========================================
-   CUSTOM CALLOUTS: "crit" & "def"
+   CUSTOM CALLOUTS
    ========================================= */
 
-/* 1. DEFINE COLORS
-   NOTE: Use RGB triplet WITHOUT 'rgb()'.
-   The theme adds the rgb wrapper automatically. */
+/* --- 1. EXISTING CALLOUTS (With Custom Icons) --- */
 
-/* "crit": Yellow */
+/* "crit": Yellow (Original) */
 body .callout[data-callout="crit"] {
     --callout-color: 247, 249, 118;
 }
 
-/* "def": Blue (New Color) */
+/* "def": Blue (Original) */
 body .callout[data-callout="def"] {
     --callout-color: 120, 145, 247;
 }
 
-/* 2. HIDE DEFAULT SYSTEM ICONS
-   We hide the internal SVG element so we can replace it with our own. */
+
+/* --- 2. NEW NO-ICON CALLOUTS --- */
+
+/* 1. "blue" (#68d1eb) */
+body .callout[data-callout="blue"] {
+    --callout-color: 104, 209, 235;
+}
+
+/* 2. "red" (#eb6870) */
+body .callout[data-callout="red"] {
+    --callout-color: 235, 104, 112;
+}
+
+/* 3. "green" (#24bf8d) */
+body .callout[data-callout="green"] {
+    --callout-color: 36, 191, 141;
+}
+
+/* 4. "yellow" (#ebd468) */
+body .callout[data-callout="yellow"] {
+    --callout-color: 235, 212, 104;
+}
+
+/* 5. "purple" (#8f50e5) */
+body .callout[data-callout="purple"] {
+    --callout-color: 143, 80, 229;
+}
+
+/* 6. "orange" (#eba368) */
+body .callout[data-callout="orange"] {
+    --callout-color: 235, 163, 104;
+}
+
+
+/* --- 3. ICON LOGIC: HIDE ICONS --- */
+
+/* Completely hide icons for the 6 new color-only callouts */
+body .callout[data-callout="blue"] .callout-icon,
+body .callout[data-callout="red"] .callout-icon,
+body .callout[data-callout="green"] .callout-icon,
+body .callout[data-callout="yellow"] .callout-icon,
+body .callout[data-callout="purple"] .callout-icon,
+body .callout[data-callout="orange"] .callout-icon {
+    display: none;
+}
+
+
+/* --- 4. ICON LOGIC: CUSTOM ICONS (crit & def only) --- */
+
+/* First, hide the default internal SVG so we can replace it */
 body .callout[data-callout="crit"] .callout-icon svg,
 body .callout[data-callout="def"] .callout-icon svg {
     display: none;
 }
 
-/* 3. APPLY CUSTOM ICON VIA MASKING
-   This applies the SVG shape and fills it with the callout color automatically. */
-
+/* Set up the container for the custom mask icon */
 body .callout[data-callout="crit"] .callout-icon,
 body .callout[data-callout="def"] .callout-icon {
-    /* Define size explicitly */
     width: 24px;
     height: 24px;
-    
-    /* Ensure the icon takes the callout color */
     background-color: rgb(var(--callout-color));
-    
-    /* Standard mask properties */
     -webkit-mask-size: contain;
     mask-size: contain;
     -webkit-mask-repeat: no-repeat;
@@ -44,15 +83,15 @@ body .callout[data-callout="def"] .callout-icon {
     mask-position: center;
 }
 
-/* --- ICON DEFINITIONS --- */
+/* Apply the Icon Images */
 
-/* "crit": Two Circles (Blend) */
+/* crit: Two Circles (Blend) */
 body .callout[data-callout="crit"] .callout-icon {
     -webkit-mask-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' fill='none' stroke='currentColor' stroke-width='2' stroke-linecap='round' stroke-linejoin='round'%3E%3Ccircle cx='9' cy='9' r='7'/%3E%3Ccircle cx='15' cy='15' r='7'/%3E%3C/svg%3E");
     mask-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' fill='none' stroke='currentColor' stroke-width='2' stroke-linecap='round' stroke-linejoin='round'%3E%3Ccircle cx='9' cy='9' r='7'/%3E%3Ccircle cx='15' cy='15' r='7'/%3E%3C/svg%3E");
 }
 
-/* "def": Bookmark */
+/* def: Bookmark */
 body .callout[data-callout="def"] .callout-icon {
     -webkit-mask-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' fill='none' stroke='currentColor' stroke-width='2' stroke-linecap='round' stroke-linejoin='round'%3E%3Cpath d='m19 21-7-4-7 4V5a2 2 0 0 1 2-2h10a2 2 0 0 1 2 2v16z'/%3E%3C/svg%3E");
     mask-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' fill='none' stroke='currentColor' stroke-width='2' stroke-linecap='round' stroke-linejoin='round'%3E%3Cpath d='m19 21-7-4-7 4V5a2 2 0 0 1 2-2h10a2 2 0 0 1 2 2v16z'/%3E%3C/svg%3E");
