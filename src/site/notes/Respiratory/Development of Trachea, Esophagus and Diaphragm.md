@@ -3,7 +3,7 @@
 ---
 
 ## I. Development of the Diaphragm
-**Timeline:** Develops between the **4th and 7th weeks** of gestation.
+**Timeline:** Develops between the **4th and 7th weeks** of gestation. Descent completes by week 8.
 **Embryological Sources:** The diaphragm forms from the fusion of four distinct structures:
 
 1.  **Septum Transversum:**
@@ -20,14 +20,19 @@
 > [!crit] Failure to fuse results in eventration of Diaphragm
 
 ![](https://i.ibb.co/b5RTT3g7/thorax002b.png)
+### Nerve Supply
+- Motor - Phrenic Nerve (c3, c4, c5)
+- sensory - phrenic (central) and intercostal (Peripheral)
+- Rapid growth of the dorsal body wall results in descend of diaphragm from cervical level to thoracic level, carrying its nerve supply along with it
 ## II. Development of Trachea and Esophagus
 **Origin:** Both arise from the **Primitive Foregut**.
 **Timeline:** Begins around **Week 4**.
-
+**Signaling:** *NKX2.1* (Thyroid Transcription Factor 1) regulates respiratory differentiation.
 ### 1. Separation Process
 * A **Respiratory Diverticulum (Lung Bud)** appears on the ventral wall of the foregut.
 * **Tracheoesophageal Ridges** appear longitudinally.
 * These ridges fuse to form the **Tracheoesophageal Septum**.
+> [!crit] Failure of tracheoesophaeal septum to complete separate results in tracheoesophageal fistula
 * This septum divides the foregut into:
     * **Dorsal portion:** Esophagus.
     * **Ventral portion:** Trachea and lung buds.
@@ -35,6 +40,9 @@
 ### 2. Further Esophageal Development
 * **Elongation:** Rapidly elongates with the descent of the heart and lungs (Week 4–7).
 * **Recanalization:** The lumen is temporarily obliterated by epithelial proliferation and normally recanalizes by **Week 8**.
+* **Musculature**: 
+	* upper 1/3 (striated) - from pharyngeal arches 4 and 6
+	* lower 1/3 (smooth)- from splanchnic mesoderm
 > [!crit] *Clinical Relevance:* Failure of recanalization leads to Esophageal Atresia or Stenosis.
 ### 3. Further Tracheal Development
 * Cartilage, connective tissue, and muscle develop from the surrounding **Splanchnic Mesoderm**.
@@ -63,6 +71,10 @@
     * Fistula connects intact trachea and esophagus.
     * *Presentation:* Later in life with recurrent aspiration.
 ![](https://i.ibb.co/x8Mf5Rfw/2629492-What-is-a-Tracheoesophageal-Fistula-1296x1290-body-2.jpg)
+
+**Key Associations (VACTERL):** Seen in ~50% of TEF patients. **V**ertebral defects, **A**nal atresia, **C**ardiac defects, **T**EF, **R**enal anomalies, **L**imb defects. 
+
+**Prenatal Clue:** **Polyhydramnios** (Fetus cannot swallow amniotic fluid).
 ### Summary of Key Developmental Defects
 | Structure             | Embryological Defect                            | Resulting Anomaly               |
 | :-------------------- | :---------------------------------------------- | :------------------------------ |

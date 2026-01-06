@@ -16,6 +16,7 @@ Measures the volume of air an individual can inhale or exhale as a function of t
     * **FEV1 (Forced Expiratory Volume in 1 second):** Volume exhaled in the first second.
     * **FEV1/FVC Ratio:** The fraction of air exhaled in the first second (Normal > 80-85% in children).
     * **FEF 25–75%:** Forced expiratory flow at mid-expiration (marker of small airway disease).
+![Spirometry Measurements](https://i.ibb.co/5xB6BP4g/1000-F-441673311-yq15xta49-TBAz-DOtv-Tp-YXEf5-Sg03-QU5p.jpg)
 
 ### 2. Flow-Volume Loops
 A graphical representation of airflow (y-axis) vs. volume (x-axis).
@@ -23,6 +24,7 @@ A graphical representation of airflow (y-axis) vs. volume (x-axis).
 * **Obstructive:** "Scooped out" or concave expiratory limb.
 * **Restrictive:** Tall, narrow ("Witch’s hat") shape.
 * **Fixed Upper Airway Obstruction:** Flattening of both inspiratory and expiratory loops (Box pattern).
+![Flow Volume Loop](https://i.ibb.co/W1tbjSm/pulmonary-diagnosis-pfts-loops-patterns-original.png)
 
 ### 3. Static Lung Volumes (Body Plethysmography)
 Measures volumes that cannot be measured by spirometry alone.
@@ -48,7 +50,7 @@ Measures volumes that cannot be measured by spirometry alone.
 | **FEV1/FVC Ratio** | **Decreased** (<0.8) | **Normal or Increased** |
 | **TLC** | Normal or Increased (Hyperinflation) | **Decreased** |
 | **RV** | **Increased** (Air trapping) | Decreased |
-
+![Interpretation of PFT](https://i.ibb.co/9mP3jjy3/p362-f2.jpg)
 **Bronchodilator Reversibility Test:**
 * Significant reversibility (Asthma) is defined as an **increase in FEV1 by ≥12% AND ≥200 ml** after salbutamol inhalation.
 

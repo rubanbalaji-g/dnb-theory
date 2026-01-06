@@ -24,7 +24,7 @@ Based on Stocker’s Classification (Histological):
 * **Type 1 (Most Common, 65%):** Large cysts (>2cm). Good prognosis. Risk of malignancy (BAC).
 * **Type 2 (20%):** Small cysts (<2cm). Often associated with other anomalies (renal/cardiac).
 * **Type 3:** Solid/microcystic (echo-bright on USG). Poor prognosis if large (hydrops).
-* **Type 4:** Large peripheral cysts. High association with **Pleuropulmonary Blastoma (PPB)**.
+* **Type 4:** Large peripheral cysts. High association with **Pleuropulmonary Blastoma (PPB)**. Associated with DICER1 mutation
 
 #### B. Bronchopulmonary Sequestration (BPS)
 Crucial feature: **Systemic arterial supply** (usually thoracic/abdominal aorta).

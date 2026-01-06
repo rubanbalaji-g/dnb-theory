@@ -12,7 +12,7 @@
 2. [[Respiratory/Elastic Volume-Pressure Relationship of Lung and Chest Wall in Children\|Volume-Pressure Relationship]]
 3. [[Respiratory/Alveolar-Arterial Oxygen Gradient (A-a Gradient)\|A-a Gradient]]
 ## Asthma
-1. [[Respiratory/Asthma\|Asthma]]
+1. [[Respiratory/Asthma 2025 GINA + NRC\|Asthma 2025 GINA + NRC]]
 ## Infections
 1. [[Respiratory/Acute Bronchiolitis\|Acute Bronchiolitis]]
 2. [[Respiratory/Community Acquired Pneumonia\|Community Acquired Pneumonia]]
