@@ -35,7 +35,7 @@ Core principles underlying child health, growth, development, and nutrition
 
 > [!green] 🍚Nutrition  
 > Nutritional requirements across age groups, deficiencies, malnutrition, and obesity.  
-> [[Nutrition/🍚 Nutrition\|View Notes →]]
+> [[Nutrition/🍚Nutrition\|View Notes →]]
 
 ## Neonatology
 Care of the newborn from birth through the neonatal period, including high-risk neonates.
