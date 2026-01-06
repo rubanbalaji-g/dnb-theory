@@ -5,7 +5,7 @@
 > [!abstract] Profile
 > I am **Dr. Ruban**, a Pediatric Resident currently navigating paths of **DNB (Pediatrics)** and **MRCPCH**. 
 
-While my current clinical practice focuses on pediatrics, my long-term aspiration is to transition into the field of **General Neurology**. This site serves as a "living" repository of my learning journey.
+While my current clinical practice focuses on pediatrics, my long-term aspiration is to transition into the field of **Neurology**. This site serves as a "living" repository of my learning journey.
 
 ## 🧠 The Knowledge Base
 
