@@ -20,12 +20,12 @@
   </p>
 
   <div style="margin-bottom: 30px;">
-    <a href="https://qb.pedianotes.in"
-       style="display: inline-block; padding: 12px 24px; background-color: #4CAF50; color: white; text-decoration: none; font-size: 16px; border-radius: 8px; margin: 5px; font-weight: bold; border: 1px solid #45a049;">Explore the Question Bank
+    <a href="https://qb.pedianotes.in" 
+       style="display: inline-block; padding: 12px 24px; background-color: #4CAF50; color: #ffffff !important; text-decoration: none; font-size: 16px; border-radius: 8px; margin: 5px; font-weight: bold; border: 1px solid #45a049;">Explore the Question Bank
     </a>
 
-    <a href="https://page.pedianotes.in"
-       style="display: inline-block; padding: 12px 24px; background-color: #2196F3; color: white; text-decoration: none; font-size: 16px; border-radius: 8px; margin: 5px; font-weight: bold; border: 1px solid #1976D2;">Pediatric Tools & Calculators
+    <a href="https://page.pedianotes.in" 
+       style="display: inline-block; padding: 12px 24px; background-color: #2196F3; color: #ffffff !important; text-decoration: none; font-size: 16px; border-radius: 8px; margin: 5px; font-weight: bold; border: 1px solid #1976D2;">Pediatric Tools & Calculators
     </a>
   </div>
 
