@@ -1,0 +1,89 @@
+/* ============================================================
+   1. GLOBAL ACCENT & LINKS (#00B39F)
+   ============================================================ */
+body {
+    /* Internal variables for transparency calculations (Teal) */
+    --accent-h: 173;
+    --accent-s: 100%;
+    --accent-l: 35%;
+
+    /* Force Accent Variables */
+    --link-color: #00B39F !important;
+    --link-external-color: #00B39F !important;
+    --url-color: #00B39F !important;
+    --text-accent: #00B39F !important;
+    --interactive-accent: #00B39F !important;
+}
+
+/* Force Link Colors */
+a, a:link, a:visited,
+.markdown-preview-view a {
+    color: #00B39F !important;
+    text-decoration-color: #00B39F !important;
+    opacity: 1 !important;
+}
+
+/* ============================================================
+   2. HEADING STRUCTURE (Shared Sizes & Fonts)
+   ============================================================ */
+h1 {
+    font-size: 1.7em !important;
+    font-weight: 700 !important;
+}
+
+h2 {
+    font-size: 1.5em !important;
+    font-weight: 700 !important;
+    /* Border and padding removed */
+}
+
+h3 {
+    font-size: 1.2em !important;
+    font-weight: 600 !important;
+}
+
+/* H4 (All Caps) */
+h4 {
+    font-size: 1.1em !important;
+    font-weight: 500 !important;
+    text-transform: uppercase !important;
+    letter-spacing: 0.05em; 
+}
+
+/* H5 (All Caps) */
+h5 {
+    font-size: 1em !important;
+    font-weight: 500 !important;
+    text-transform: uppercase !important;
+    letter-spacing: 0.05em;
+}
+
+/* H6 (All Caps) */
+h6 {
+    font-size: 0.87em !important;
+    font-weight: 400 !important;
+    text-transform: uppercase !important;
+    letter-spacing: 0.05em;
+}
+
+/* ============================================================
+   3. DARK THEME COLORS
+   ============================================================ */
+/* The digital garden usually applies 'theme-dark' or 'theme-light' to the body */
+.theme-dark h1 { color: #ffffff !important; }
+.theme-dark h2 { color: #ffffff !important; }
+.theme-dark h3 { color: #CAD177 !important; }
+.theme-dark h4 { color: #CAA2F5 !important; }
+.theme-dark h5 { color: #B3FFB9 !important; }
+.theme-dark h6 { color: #F1B8B1 !important; }
+
+
+/* ============================================================
+   4. LIGHT THEME COLORS
+   ============================================================ */
+.theme-light h1 { color: #000000 !important; }
+.theme-light h2 { color: #000000 !important; }
+.theme-light h3 { color: #3C4101 !important; }
+.theme-light h4 { color: #6A3E96 !important; }
+.theme-light h5 { color: #1E5E23 !important; }
+.theme-light h6 { color: #CB1E09 !important; }
