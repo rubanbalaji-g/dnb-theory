@@ -2,7 +2,6 @@
 {"dg-publish":true,"permalink":"/home-page/","tags":["gardenEntry"],"created":"2024-03-19T19:05:00","updated":"2026-01-02T16:26:00"}
 ---
 
-
 <div style="text-align: center; margin: 0 auto 3rem auto; max-width: 700px; padding: 20px; font-family: sans-serif; line-height: 1.6; color: #e0e0e0;">
   
   <h1 style="color: #ffffff; margin-bottom: 20px;">PediaNotes</h1>
