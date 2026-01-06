@@ -47,7 +47,7 @@ Care of the newborn from birth through the neonatal period, including high-risk 
 ## Emergency & Acute Care
 Recognition and management of pediatric emergencies and critically ill children.
 
-> [!purple] 🚑Pediatric Emergencies  
+> [!blue] 🚑Pediatric Emergencies  
 > Initial stabilization, resuscitation, and emergency management protocols.  
 > [[Emergencies/🚑 Emergencies and Critical Care\|View Notes →]]
 
