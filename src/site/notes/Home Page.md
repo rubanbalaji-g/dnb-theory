@@ -2,36 +2,28 @@
 {"dg-publish":true,"permalink":"/home-page/","tags":["gardenEntry"],"created":"2024-03-19T19:05:00","updated":"2026-01-02T16:26:00"}
 ---
 
-<div style="text-align: center; margin: 0 auto 3rem auto; max-width: 700px; padding: 20px; font-family: sans-serif; line-height: 1.6; color: #e0e0e0;">
+<div style="text-align: center; margin: 0 auto 0.5rem auto; max-width: 700px; padding: 20px; font-family: sans-serif; line-height: 1.6; color: #e0e0e0;">
   
-  <h1 style="color: #ffffff; margin-bottom: 20px;">PediaNotes</h1>
+  <h1 style="color: #ffffff; margin-bottom: 10px;">PediaNotes</h1>
   
-  <p style="margin-bottom: 20px;">
+  <p style="margin-bottom: 10px;">
     Hi, I am <strong style="color: #fff;">Dr. Ruban</strong>. This website serves as a consolidated library of the personal notes, summaries, and high-yield points I have curated during my own preparation for <strong style="color: #fff;">DNB (Pediatrics)</strong>, <strong style="color: #fff;">MRCPCH</strong>, and the <strong style="color: #fff;">NEET SS</strong> examinations.
   </p>
   
-  <p style="margin-bottom: 20px;">
+  <p style="margin-bottom: 10px;">
     I created this website to share the notes and study guides I personally use to navigate these examinations. This is an open notebook—a collection of distilled concepts, high-yield facts, and organized revision tools designed to help cut through the noise of vast textbooks.
   </p>
   
-  <p style="margin-bottom: 30px;">
-    Learning is an ongoing process. Consequently, this website is <strong style="color: #fff;">continuously updated</strong>. I am constantly refining old notes and adding new topics as I encounter them in my practice and studies. I genuinely hope these materials serve as a valuable companion in your academic success. Happy studying!
-  </p>
-
-  <div style="margin-bottom: 30px;">
+  <div style="margin-bottom: 10px;">
     <a href="https://qb.pedianotes.in" 
        style="display: inline-block; padding: 12px 24px; background-color: #4CAF50; color: #ffffff !important; text-decoration: none; font-size: 16px; border-radius: 8px; margin: 5px; font-weight: bold; border: 1px solid #45a049;">Explore the Question Bank
     </a>
 
     <a href="https://page.pedianotes.in" 
-       style="display: inline-block; padding: 12px 24px; background-color: #2196F3; color: #ffffff !important; text-decoration: none; font-size: 16px; border-radius: 8px; margin: 5px; font-weight: bold; border: 1px solid #1976D2;">Pediatric Tools & Calculators
-    </a>
-  </div>
-
-  <p style="font-size: 0.85em; color: #999; border-top: 1px solid #444; padding-top: 15px; font-style: italic;">
-    <strong>Disclaimer:</strong> These notes are intended for educational purposes and examination preparation only. They reflect my personal understanding and study patterns. While every effort is made to ensure accuracy, medical knowledge is constantly changing. Please cross-reference with standard textbooks and current clinical guidelines.
-  </p>
-</div>
+       style="display: inline-block; padding: 12px 24px; background-color: #2196F3; color: #ffffff !important; text-decoration: none; font-size: 16px; border-radius: 8px; margin: 5px; font-weight: bold; border: 1px solid #1976D2;">Pediatric Tools & Calculators</a></div>
+         <p style="margin-bottom: 10px;">
+    Learning is an ongoing process. Consequently, this website is <strong style="color: #fff;">continuously updated</strong>. I am constantly refining old notes and adding new topics as I encounter them in my practice and studies. I genuinely hope these materials serve as a valuable companion in your academic success. Happy studying!
+  </p></div>
 
 > [!def] If you identify errors or have suggestions for improvement, please [[Contact\|message me]]
 
