@@ -5,12 +5,12 @@
 > [!abstract] Profile
 > I am **Dr. Ruban**, a Pediatric Resident currently navigating paths of **DNB** and **MRCPCH**. 
 
-While my current clinical practice focuses on pediatrics, my long-term aspiration is to transition into the field of **General (Adult) Neurology**. This site serves as a "living" repository of my learning journey.
+While my current clinical practice focuses on pediatrics, my long-term aspiration is to transition into the field of **General Neurology**. This site serves as a "living" repository of my learning journey.
 
 ## 🧠 The Knowledge Base
 
 This digital garden is a collection of notes, clinical pearls, and syntheses gathered during my preparation for:
-* **DNB Exit Exams**
+* **DNB Exit Exam**
 * **MRCPCH Clinicals & Theory**
 * **NEET-SS Neurology** preparation
 
