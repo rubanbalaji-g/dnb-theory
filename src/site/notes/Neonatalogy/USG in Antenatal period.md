@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/neonatalogy/usg-in-antenatal-period/","noteIcon":""}
+{"dg-publish":true,"permalink":"/neonatalogy/usg-in-antenatal-period/"}
 ---
 
 

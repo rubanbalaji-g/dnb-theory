@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cardiology/cyanotic-heart-diseases/transposition-and-malposition-of-great-arteries/","noteIcon":""}
+{"dg-publish":true,"permalink":"/cardiology/cyanotic-heart-diseases/transposition-and-malposition-of-great-arteries/"}
 ---
 
 

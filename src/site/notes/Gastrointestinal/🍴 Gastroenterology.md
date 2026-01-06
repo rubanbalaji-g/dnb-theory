@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/gastrointestinal/gastroenterology/","noteIcon":""}
+{"dg-publish":true,"permalink":"/gastrointestinal/gastroenterology/"}
 ---
 
 

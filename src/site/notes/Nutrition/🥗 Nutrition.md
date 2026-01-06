@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/nutrition/nutrition/","noteIcon":""}
+{"dg-publish":true,"permalink":"/nutrition/nutrition/"}
 ---
 
 

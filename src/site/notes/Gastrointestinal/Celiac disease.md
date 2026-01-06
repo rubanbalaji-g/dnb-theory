@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/gastrointestinal/celiac-disease/","noteIcon":""}
+{"dg-publish":true,"permalink":"/gastrointestinal/celiac-disease/"}
 ---
 
 

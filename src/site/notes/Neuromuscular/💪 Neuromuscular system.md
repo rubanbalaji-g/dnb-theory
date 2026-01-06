@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/neuromuscular/neuromuscular-system/","noteIcon":""}
+{"dg-publish":true,"permalink":"/neuromuscular/neuromuscular-system/"}
 ---
 
 

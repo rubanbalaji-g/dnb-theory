@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/gastrointestinal/autoimmune-hepatitis/","noteIcon":""}
+{"dg-publish":true,"permalink":"/gastrointestinal/autoimmune-hepatitis/"}
 ---
 
 

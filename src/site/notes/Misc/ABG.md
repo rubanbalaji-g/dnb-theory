@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/misc/abg/","noteIcon":""}
+{"dg-publish":true,"permalink":"/misc/abg/"}
 ---
 
 

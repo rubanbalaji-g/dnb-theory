@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/hematology/disseminated-intravascular-coagulation/","noteIcon":""}
+{"dg-publish":true,"permalink":"/hematology/disseminated-intravascular-coagulation/"}
 ---
 
 

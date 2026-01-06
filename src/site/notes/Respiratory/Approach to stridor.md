@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/respiratory/approach-to-stridor/","noteIcon":""}
+{"dg-publish":true,"permalink":"/respiratory/approach-to-stridor/"}
 ---
 
 ## I. Clinical Summary & Definition

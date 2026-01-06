@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/development/growth-charts-and-anthropometry/","noteIcon":""}
+{"dg-publish":true,"permalink":"/development/growth-charts-and-anthropometry/"}
 ---
 
 

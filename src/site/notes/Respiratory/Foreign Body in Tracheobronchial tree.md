@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/respiratory/foreign-body-in-tracheobronchial-tree/","noteIcon":""}
+{"dg-publish":true,"permalink":"/respiratory/foreign-body-in-tracheobronchial-tree/"}
 ---
 
 ## I. Introduction & Epidemiology

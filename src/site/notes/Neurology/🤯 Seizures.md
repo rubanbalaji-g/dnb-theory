@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/neurology/seizures/","noteIcon":""}
+{"dg-publish":true,"permalink":"/neurology/seizures/"}
 ---
 
 

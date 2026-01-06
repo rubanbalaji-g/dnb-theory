@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/respiratory/community-acquired-pneumonia/","noteIcon":""}
+{"dg-publish":true,"permalink":"/respiratory/community-acquired-pneumonia/"}
 ---
 
 ## 1. Definition and Classification

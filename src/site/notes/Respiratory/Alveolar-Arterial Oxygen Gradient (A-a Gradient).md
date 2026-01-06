@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/respiratory/alveolar-arterial-oxygen-gradient-a-a-gradient/","noteIcon":""}
+{"dg-publish":true,"permalink":"/respiratory/alveolar-arterial-oxygen-gradient-a-a-gradient/"}
 ---
 
 ## I. Definition & Concept

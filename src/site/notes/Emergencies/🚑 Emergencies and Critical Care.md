@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/emergencies/emergencies-and-critical-care/","noteIcon":""}
+{"dg-publish":true,"permalink":"/emergencies/emergencies-and-critical-care/"}
 ---
 
 

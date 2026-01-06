@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/oncology/bone-tumors/","noteIcon":""}
+{"dg-publish":true,"permalink":"/oncology/bone-tumors/"}
 ---
 
 

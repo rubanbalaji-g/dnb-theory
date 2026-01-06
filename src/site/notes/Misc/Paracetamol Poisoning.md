@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/misc/paracetamol-poisoning/","noteIcon":"","created":"2024-07-18T05:07:00"}
+{"dg-publish":true,"permalink":"/misc/paracetamol-poisoning/","created":"2024-07-18T05:07:00"}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/respiratory/acute-pharyngitis/","noteIcon":""}
+{"dg-publish":true,"permalink":"/respiratory/acute-pharyngitis/"}
 ---
 
 ## Acute Pharyngitis

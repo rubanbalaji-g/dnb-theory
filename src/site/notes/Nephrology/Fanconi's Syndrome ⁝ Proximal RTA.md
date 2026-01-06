@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/nephrology/fanconi-s-syndrome-proximal-rta/","noteIcon":""}
+{"dg-publish":true,"permalink":"/nephrology/fanconi-s-syndrome-proximal-rta/"}
 ---
 
 

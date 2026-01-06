@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/endocrinology/congenital-hypothyroidism/","noteIcon":""}
+{"dg-publish":true,"permalink":"/endocrinology/congenital-hypothyroidism/"}
 ---
 
 

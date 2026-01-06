@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/nephrology/distal-rta/","noteIcon":""}
+{"dg-publish":true,"permalink":"/nephrology/distal-rta/"}
 ---
 
 

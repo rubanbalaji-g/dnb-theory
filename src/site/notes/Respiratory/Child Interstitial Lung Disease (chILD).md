@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/respiratory/child-interstitial-lung-disease-ch-ild/","noteIcon":""}
+{"dg-publish":true,"permalink":"/respiratory/child-interstitial-lung-disease-ch-ild/"}
 ---
 
 ## I. Definition

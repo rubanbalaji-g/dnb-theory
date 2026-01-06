@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/neurology/headaches/","noteIcon":""}
+{"dg-publish":true,"permalink":"/neurology/headaches/"}
 ---
 
 

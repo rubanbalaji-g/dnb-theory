@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/respiratory/chronic-lung-disease/","noteIcon":""}
+{"dg-publish":true,"permalink":"/respiratory/chronic-lung-disease/"}
 ---
 
 ## I. Etiology

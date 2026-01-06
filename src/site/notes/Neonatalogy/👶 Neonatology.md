@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/neonatalogy/neonatology/","noteIcon":""}
+{"dg-publish":true,"permalink":"/neonatalogy/neonatology/"}
 ---
 
 

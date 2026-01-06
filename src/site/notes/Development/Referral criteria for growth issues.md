@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/development/referral-criteria-for-growth-issues/","noteIcon":""}
+{"dg-publish":true,"permalink":"/development/referral-criteria-for-growth-issues/"}
 ---
 
 

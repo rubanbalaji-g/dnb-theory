@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/neonatalogy/retinopathy-of-prematurity/","noteIcon":""}
+{"dg-publish":true,"permalink":"/neonatalogy/retinopathy-of-prematurity/"}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/nephrology/nephrology/","noteIcon":""}
+{"dg-publish":true,"permalink":"/nephrology/nephrology/"}
 ---
 
 

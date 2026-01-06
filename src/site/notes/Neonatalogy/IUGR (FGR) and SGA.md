@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/neonatalogy/iugr-fgr-and-sga/","noteIcon":""}
+{"dg-publish":true,"permalink":"/neonatalogy/iugr-fgr-and-sga/"}
 ---
 
 

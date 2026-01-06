@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/neonatalogy/role-of-antenatal-steroids/","noteIcon":""}
+{"dg-publish":true,"permalink":"/neonatalogy/role-of-antenatal-steroids/"}
 ---
 
 

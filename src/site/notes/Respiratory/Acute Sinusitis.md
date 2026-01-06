@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/respiratory/acute-sinusitis/","noteIcon":""}
+{"dg-publish":true,"permalink":"/respiratory/acute-sinusitis/"}
 ---
 
 ## I. Introduction and Definitions

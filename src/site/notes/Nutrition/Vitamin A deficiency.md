@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/nutrition/vitamin-a-deficiency/","noteIcon":""}
+{"dg-publish":true,"permalink":"/nutrition/vitamin-a-deficiency/"}
 ---
 
 

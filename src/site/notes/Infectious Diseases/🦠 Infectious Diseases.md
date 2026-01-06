@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/infectious-diseases/infectious-diseases/","noteIcon":""}
+{"dg-publish":true,"permalink":"/infectious-diseases/infectious-diseases/"}
 ---
 
 

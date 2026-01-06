@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/gastrointestinal/peritonitis/","noteIcon":"","created":"2025-02-26T23:41:00"}
+{"dg-publish":true,"permalink":"/gastrointestinal/peritonitis/","created":"2025-02-26T23:41:00"}
 ---
 
 

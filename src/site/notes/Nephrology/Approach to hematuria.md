@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/nephrology/approach-to-hematuria/","noteIcon":""}
+{"dg-publish":true,"permalink":"/nephrology/approach-to-hematuria/"}
 ---
 
 

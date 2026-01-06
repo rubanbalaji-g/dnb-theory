@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/nutrition/infant-and-young-child-feeding/","noteIcon":""}
+{"dg-publish":true,"permalink":"/nutrition/infant-and-young-child-feeding/"}
 ---
 
 

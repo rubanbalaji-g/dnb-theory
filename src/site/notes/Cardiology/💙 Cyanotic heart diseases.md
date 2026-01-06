@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cardiology/cyanotic-heart-diseases/","noteIcon":""}
+{"dg-publish":true,"permalink":"/cardiology/cyanotic-heart-diseases/"}
 ---
 
 

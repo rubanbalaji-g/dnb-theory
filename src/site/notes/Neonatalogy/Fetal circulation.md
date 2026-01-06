@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/neonatalogy/fetal-circulation/","noteIcon":""}
+{"dg-publish":true,"permalink":"/neonatalogy/fetal-circulation/"}
 ---
 
 

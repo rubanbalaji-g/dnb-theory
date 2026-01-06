@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/nutrition/complementary-feeding/","noteIcon":""}
+{"dg-publish":true,"permalink":"/nutrition/complementary-feeding/"}
 ---
 
 

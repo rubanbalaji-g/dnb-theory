@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/endocrinology/tft-interpretation/","noteIcon":""}
+{"dg-publish":true,"permalink":"/endocrinology/tft-interpretation/"}
 ---
 
 

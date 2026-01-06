@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/respiratory/elastic-volume-pressure-relationship-of-lung-and-chest-wall-in-children/","noteIcon":""}
+{"dg-publish":true,"permalink":"/respiratory/elastic-volume-pressure-relationship-of-lung-and-chest-wall-in-children/"}
 ---
 
 ## I. The Concept of Elastic Recoil

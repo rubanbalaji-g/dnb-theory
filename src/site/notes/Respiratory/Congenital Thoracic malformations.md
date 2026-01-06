@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/respiratory/congenital-thoracic-malformations/","noteIcon":""}
+{"dg-publish":true,"permalink":"/respiratory/congenital-thoracic-malformations/"}
 ---
 
 # Congenital Malformations of the Lungs (CTM)

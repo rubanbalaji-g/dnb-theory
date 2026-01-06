@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/social-pediatics/saans-campaign/","noteIcon":""}
+{"dg-publish":true,"permalink":"/social-pediatics/saans-campaign/"}
 ---
 
 **SAANS** (*Social Awareness and Actions to Neutralize Pneumonia Successfully*) was launched by MoHFW to accelerate pneumonia control.

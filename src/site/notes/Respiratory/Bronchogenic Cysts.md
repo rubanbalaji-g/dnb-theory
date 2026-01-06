@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/respiratory/bronchogenic-cysts/","noteIcon":""}
+{"dg-publish":true,"permalink":"/respiratory/bronchogenic-cysts/"}
 ---
 
 ### 1. Definition & Embryology 

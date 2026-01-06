@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/neonatalogy/apnea-of-prematurity/","noteIcon":"","created":"2024-07-12T01:12:00"}
+{"dg-publish":true,"permalink":"/neonatalogy/apnea-of-prematurity/","created":"2024-07-12T01:12:00"}
 ---
 
 
