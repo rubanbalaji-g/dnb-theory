@@ -1,0 +1,81 @@
+<footer class="site-footer">
+    <div class="footer-content">
+        <p class="garden-note">🌱 This is a Digital Garden. Notes are always growing and changing.</p>
+        
+        <div class="footer-links">
+            <a href="/">Home</a> • 
+            <a href="/about">About</a> • 
+            <a href="mailto:hi@pedianotes.in">Email</a> • 
+            <a href="https://wa.me/919486278212" target="_blank">WhatsApp</a>
+        </div>
+
+        <p class="copyright">&copy; Dr. Ruban | <span id="year">2026</span></p>
+
+        <p class="disclaimer">
+            Disclaimer: These notes are for educational and personal study purposes only. 
+            They should not be taken as professional advice.
+        </p>
+    </div>
+</footer>
+
+<script>
+    // Automatically updates the year
+    document.getElementById("year").innerHTML = new Date().getFullYear();
+</script>
+
+<style>
+    /* Footer Container */
+    .site-footer {
+        margin-top: 4rem;
+        padding: 2rem 1rem;
+        text-align: center;
+        border-top: 1px solid var(--text-muted, #ccc);
+        color: var(--text-muted, #888);
+        font-family: sans-serif;
+    }
+    
+    /* Garden Note */
+    .garden-note {
+        font-style: italic;
+        opacity: 0.9;
+        margin-bottom: 1rem;
+        color: var(--text-normal, #333);
+    }
+
+    /* Links Section */
+    .footer-links {
+        margin-bottom: 1rem;
+    }
+
+    /* Link Styling (Things 3 Teal) */
+    .footer-links a {
+        color: #00B39F !important; 
+        text-decoration: none;
+        margin: 0 6px;
+        font-weight: 500;
+        opacity: 0.9;
+        transition: opacity 0.2s;
+    }
+    
+    .footer-links a:hover {
+        opacity: 1;
+        text-decoration: underline;
+    }
+
+    /* Copyright Text */
+    .copyright {
+        font-weight: 600;
+        margin-bottom: 0.5rem;
+    }
+
+    /* Disclaimer (Small & Subtle) */
+    .disclaimer {
+        margin-top: 1rem;
+        font-size: 0.75em;
+        opacity: 0.7;
+        line-height: 1.4;
+        max-width: 600px;
+        margin-left: auto;
+        margin-right: auto;
+    }
+</style>
