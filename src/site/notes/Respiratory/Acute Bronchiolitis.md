@@ -34,7 +34,48 @@ The virus infects the terminal bronchiolar epithelial cells, causing direct dama
         * Prolonged expiratory phase.
 * **Signs of Severity:** Apnea (especially in premies/neonates), grunting, cyanosis, poor feeding (<50% normal).
 
-## IV. Essential Steps in Management 
+## IV. Diagnosis
+### **Clinical Diagnosis (AAP 2014 Guidelines):**
+Diagnosis is strictly **CLINICAL** based on history and physical examination.
+* **Inclusion:**
+    * Age < 24 months.
+    * First episode of wheezing.
+    * Prodrome of URI (coryza, nasal congestion) followed by lower respiratory signs.
+* **Exclusion:**
+    * Recurrent wheezing (think early onset asthma).
+    * Stridor (think Croup/Tracheitis).
+    * Chronic lung disease history.
+### *Routine investigations are NOT recommended for typical bronchiolitis.*
+
+* **Chest X-Ray:** Only if diagnosis is uncertain or suspicion of complications (pneumothorax/bacterial pneumonia).
+    * *Findings:* Hyperinflation (flat diaphragm, horizontal ribs), peribronchial cuffing, patchy atelectasis (often confused with consolidation).
+* **Viral Antigen/PCR:** Not routine; useful only for cohorting/infection control (RSV vs. Influenza).
+* **Blood Gas (ABG/VBG):** Indicated only in severe respiratory distress to rule out hypercapnic respiratory failure.
+### Differential Diagnosis (High Yield)
+* **Viral-induced wheeze / Asthma:** Recurrent episodes, family history of atopy, older age.
+* **Bacterial Pneumonia:** High fever, toxic look, focal consolidation on CXR.
+* **Foreign Body Aspiration:** Sudden onset, unilateral reduced air entry.
+* **Congestive Heart Failure:** Hepatomegaly, murmur, cardiomegaly on CXR.
+* **Pertussis:** Paroxysmal cough, "whoop", lack of fever/wheeze relative to cough.
+
+## V. Modified TAL scoring #scoring
+Used to assess severity and guide management (admission vs. discharge).
+*Score is calculated by summing points from 4 parameters (Max Score = 12).*
+
+| Score | Respiratory Rate | Wheezing | Retractions (Accessory Muscle Use) | O2 Saturation (Room Air) |
+| :--- | :--- | :--- | :--- | :--- |
+| **0** | < 30 / min | None | None | ≥ 95% |
+| **1** | 30 – 45 / min | End of expiration | Subcostal / Intercostal | 92 – 94% |
+| **2** | 46 – 60 / min | Entire expiration | Substernal + Intercostal | 90 – 91% |
+| **3** | > 60 / min | Inspiration & Expiration | Supraclavicular + others | < 90% |
+*(Note: RR limits may vary slightly by age in different adaptations; above is standard for infants).*
+
+**Interpretation of MTS:**
+* **Mild (Score ≤ 5):** Outpatient management with counseling.
+* **Moderate (Score 6 – 10):** Admission, trial of nebulization (hypertonic saline), O2 support.
+* **Severe (Score ≥ 11):** ICU admission, potential for HFNC/CPAP/Ventilation.
+
+## VI. Essential Steps in Management 
 Management is primarily **Supportive**. "Less is More."
 
 1.  **Airway & Oxygenation:**
@@ -49,7 +90,7 @@ Management is primarily **Supportive**. "Less is More."
     * Pulse oximetry, respiratory rate, and signs of exhaustion/apnea.
     * Isolation (contact precautions) to prevent nosocomial spread.
 
-## V. Recent Advances in Management
+## VII. Recent Advances in Management #recent
 Current "advances" focus heavily on **de-implementation** of ineffective therapies and the use of advanced non-invasive support.
 ### 1. High Flow Nasal Cannula (HFNC)
 * **Role:** Rescue therapy for moderate-to-severe distress to prevent intubation.
@@ -72,3 +113,25 @@ Strict guidelines (AAP 2014, NICE) against unnecessary medications:
 
 ### 5. Novel Antivirals (Research Phase)
 * Fusion inhibitors (e.g., Presatovir) are under investigation but not yet standard clinical practice.
+
+###  6. Prophylaxis
+- Palivizumab - Monoclonal antibody against RSV Fusion protein. especially in high risk population like preemies <29weeks, CLD, CHD
+- Nirsevimab - longer acting monoclonal antibody. one dose is sufficient. 
+
+## Comparison: Viral Pneumonia vs. Bacterial Pneumonia vs. Bronchiolitis
+
+| Feature                  | Viral Pneumonia                                          | Bacterial Pneumonia                                                            | Bronchiolitis                                                                       |
+| :----------------------- | :------------------------------------------------------- | :----------------------------------------------------------------------------- | :---------------------------------------------------------------------------------- |
+| **Primary Etiology**     | **Viruses:** RSV, Influenza, Parainfluenza, Adenovirus   | **Bacteria:** *Strep. pneumoniae* (m/c), *H. influenzae*, *S. aureus*          | **Viruses:** RSV (>70%), Human Metapneumovirus                                      |
+| **Peak Age**             | Any age (Common in < 5 years)                            | Any age (Common in < 5 years)                                                  | **< 2 years** (Peak 2–6 months)                                                     |
+| **Onset & Prodrome**     | Gradual; History of URI common                           | **Acute/Abrupt**; rapid progression                                            | Gradual; 1–3 days of coryza/nasal congestion                                        |
+| **General Appearance**   | Usually non-toxic; variable distress                     | **Toxic**, lethargic, high-grade fever (>38.5°C), chills                       | **"Happy Wheezer"** or irritable; distress often > systemic toxicity                |
+| **Respiratory Findings** | Tachypnea, increased work of breathing                   | **Grunting**, flaring, severe tachypnea                                        | Tachypnea, significant **subcostal/intercostal retractions**                        |
+| **Auscultation**         | **Diffuse** findings: Generalized crackles and/or wheeze | **Focal** findings: Decreased air entry, tubular breathing, focal crepitations | **Prolonged expiration**, diffuse polyphonic **wheeze**, fine crackles              |
+| **Chest X-Ray**          | Diffuse interstitial infiltrates, hyperinflation         | **Lobar consolidation**, air bronchograms, pleural effusion                    | **Hyperinflation** (flat diaphragm), peribronchial cuffing, patchy atelectasis      |
+| **Lab Findings (WBC)**   | Normal or Lymphocytosis; Normal CRP                      | **Leukocytosis** (Neutrophilia); Elevated CRP/Procalcitonin                    | Normal; Labs usually not indicated                                                  |
+| **Treatment**            | Supportive (Hydration, O2); Antivirals if Influenza      | **Antibiotics** (Amoxicillin/Ceftriaxone); Supportive                          | **Strictly Supportive** (Hydration, O2); No antibiotics; No routine bronchodilators |
+### Key Diagnostic Criteria 
+* **Bacterial Pneumonia:** Defined by **Alveolar** inflammation. Gold standard sign is **Consolidation** (Clinical or Radiological).
+* **Viral Pneumonia:** Defined by **Interstitial** inflammation. Diagnosis is often one of exclusion (failed antibiotic response) or viral PCR.
+* **Bronchiolitis:** Defined by **Small Airway** (Bronchiolar) obstruction. Clinical triad: **Infant (<2yr) + Viral Prodrome + First episode of Wheeze.**
