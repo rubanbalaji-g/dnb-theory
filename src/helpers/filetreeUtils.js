@@ -2,7 +2,6 @@ const sortTree = (unsorted) => {
   //Sort by folder before file, then by name
   const orderedTree = Object.keys(unsorted)
     .sort((a, b) => {
-
       let a_pinned = unsorted[a].pinned || false;
       let b_pinned = unsorted[b].pinned || false;
       if (a_pinned != b_pinned) {
@@ -24,7 +23,6 @@ const sortTree = (unsorted) => {
         return -1;
       }
 
-      //Regular expression that extracts any initial decimal number
       const aNum = parseFloat(a.match(/^\d+(\.\d+)?/));
       const bNum = parseFloat(b.match(/^\d+(\.\d+)?/));
 
@@ -32,7 +30,7 @@ const sortTree = (unsorted) => {
       const b_is_num = !isNaN(bNum);
 
       if (a_is_num && b_is_num && aNum != bNum) {
-        return aNum - bNum; //Fast comparison between numbers
+        return aNum - bNum; 
       }
 
       if (a.toLowerCase() > b.toLowerCase()) {
@@ -43,7 +41,6 @@ const sortTree = (unsorted) => {
     })
     .reduce((obj, key) => {
       obj[key] = unsorted[key];
-
       return obj;
     }, {});
 
@@ -56,7 +53,11 @@ const sortTree = (unsorted) => {
   return orderedTree;
 };
 
-function getPermalinkMeta(note, key) {
+// Added 'async' here
+async function getPermalinkMeta(note) {
+  // We call read() to ensure the note data is fully loaded for 11ty v3
+  await note.template.read();
+  
   let permalink = "/";
   let parts = note.filePathStem.split("/");
   let name = parts[parts.length - 1];
@@ -77,8 +78,6 @@ function getPermalinkMeta(note, key) {
     if (note.data.noteIcon) {
       noteIcon = note.data.noteIcon;
     }
-    // Reason for adding the hide flag instead of removing completely from file tree is to
-    // allow users to use the filetree data elsewhere without the fear of losing any data.
     if (note.data.hide) {
       hide = note.data.hide;
     }
@@ -101,9 +100,9 @@ function getPermalinkMeta(note, key) {
 }
 
 function assignNested(obj, keyPath, value) {
-  lastKeyIndex = keyPath.length - 1;
+  let lastKeyIndex = keyPath.length - 1;
   for (var i = 0; i < lastKeyIndex; ++i) {
-    key = keyPath[i];
+    let key = keyPath[i];
     if (!(key in obj)) {
       obj[key] = { isFolder: true };
     }
@@ -112,12 +111,16 @@ function assignNested(obj, keyPath, value) {
   obj[keyPath[lastKeyIndex]] = value;
 }
 
-function getFileTree(data) {
+// Changed to 'async' and replaced .forEach with for...of loop
+async function getFileTree(data) {
   const tree = {};
-  (data.collections.note || []).forEach((note) => {
-    const [meta, folders] = getPermalinkMeta(note);
+  const notes = data.collections.note || [];
+  
+  for (const note of notes) {
+    const [meta, folders] = await getPermalinkMeta(note);
     assignNested(tree, folders, { isNote: true, ...meta });
-  });
+  }
+  
   const fileTree = sortTree(tree);
   return fileTree;
 }
