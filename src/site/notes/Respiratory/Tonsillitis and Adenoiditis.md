@@ -18,18 +18,16 @@ Acute inflammation of the palatine tonsils, often involving the pharynx (pharyng
 **Symptoms:**
 * **Throat:** Sudden onset of sore throat, odynophagia (pain on swallowing).
 * **Systemic:** High fever, malaise, headache, abdominal pain (mesenteric adenitis).
-* **Voice:** "Hot potato" voice (if peritonsillar involvement) or muffled.
+* **Voice:** <span style="color:rgb(255, 255, 0)">"Hot potato"</span> voice (if peritonsillar involvement) or muffled.
 * **Ears:** Referred otalgia.
 
 **Signs:**
-* **Tonsils:** Congested, enlarged, may meet in midline (Kissing tonsils).
+* **Tonsils:** Congested, enlarged, may meet in midline (<span style="color:rgb(255, 255, 0)">Kissing tonsils</span>).
 * **Exudates:**
     * *Follicular:* Yellow spots (pus in crypts).
     * *Membranous:* Coalesced exudate forming a membrane.
 * **Lymph Nodes:** Tender, enlarged jugulodigastric nodes.
 * **Breath:** Fetor oris.
-
-
 
 ## IV. Grading of Tonsillar Hypertrophy (Brodsky Scale)
 1.  **Grade 1:** Tonsils within tonsillar fossa (<25% of width).
@@ -66,7 +64,6 @@ Acute inflammation of the palatine tonsils, often involving the pharynx (pharyng
 3.  **PANDAS:** Pediatric Autoimmune Neuropsychiatric Disorders Associated with Streptococcal infections.
 
 ## VIII. Management
-
 ### 1. General Measures
 * Bed rest and adequate hydration.
 * **Analgesia/Antipyretics:** Paracetamol (10-15 mg/kg) or Ibuprofen.
@@ -147,7 +144,7 @@ Based on Endoscopic view of Choanal obstruction:
 ## V. Investigations
 1.  **Diagnostic Nasal Endoscopy (Gold Standard):** Directly visualizes size and choanal patency.
 2.  **X-Ray Nasopharynx (Lateral View):** Soft tissue technique.
-    * **Fujioka’s Method (AN Ratio):** Ratio of Adenoidal depth (A) to Nasopharyngeal space (N).
+    * <b><span style="color:rgb(0, 176, 80)">Fujioka’s Method (AN Ratio):</span></b> Ratio of Adenoidal depth (A) to Nasopharyngeal space (N).
     * **Interpretation:** AN Ratio > 0.8 indicates significant hypertrophy.
 3.  **Tympanometry:** To rule out Otitis Media with Effusion (Type B curve).
 4.  **Polysomnography (Sleep Study):** If OSA is suspected (Gold standard for OSA).
@@ -183,7 +180,7 @@ Indicated for mild-to-moderate symptoms without severe OSA.
 4.  **Dental:** Severe malocclusion.
 
 **Surgical Techniques:**
-* **Conventional:** Curettage (St. Clair Thomson curette) - "Blind" procedure.
+* **Conventional:** Curettage (<span style="color:rgb(0, 176, 80)">St. Clair Thomson curette</span>) - "Blind" procedure.
 * **Endoscopic Assisted:**
     * **Powered Microdebrider:** Precision shaving (Shaver).
     * **Coblation:** Radiofrequency ablation (less bleeding, less pain).
