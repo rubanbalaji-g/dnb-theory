@@ -2,24 +2,25 @@
     <div class="footer-content">
         <p class="garden-note">🌱 This is a Digital Garden. Notes are always growing and changing.</p>
         
-        <div class="footer-links">
-            <a href="/">Home</a> • 
-            <a href="/about">About</a> • 
-            <a href="mailto:hi@pedianotes.in">Email</a> • 
-            <a href="https://wa.me/919486278212" target="_blank">WhatsApp</a>
+        <div class="footer-row">
+            <a href="/">Home</a>
+            <span class="separator">•</span>
+            <a href="mailto:hi@pedianotes.in">Email</a>
+            <span class="separator">•</span>
+            <span class="copyright">&copy; Dr. Ruban | <span id="year">2026</span></span>
         </div>
 
-        <p class="copyright">&copy; Dr. Ruban | <span id="year">2026</span></p>
-
         <p class="disclaimer">
-            Disclaimer: These notes are for educational and personal study purposes only. 
-            They should not be taken as professional advice.
+            These notes are intended for educational purposes and examination preparation only. 
+            They reflect my personal understanding and study patterns. 
+            While every effort is made to ensure accuracy, medical knowledge is constantly changing. 
+            Please cross-reference with standard textbooks and current clinical guidelines. 
+            Please contact my email if you find any errors or have any suggestions to make. Thank You.
         </p>
     </div>
 </footer>
 
 <script>
-    // Automatically updates the year
     document.getElementById("year").innerHTML = new Date().getFullYear();
 </script>
 
@@ -42,39 +43,41 @@
         color: var(--text-normal, #333);
     }
 
-    /* Links Section */
-    .footer-links {
-        margin-bottom: 1rem;
+    /* Single Line Row styling */
+    .footer-row {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        gap: 8px;
+        flex-wrap: wrap;
+        font-weight: 500;
+        margin-bottom: 1.5rem; /* Space between links and disclaimer */
+    }
+
+    /* Separator dots */
+    .separator {
+        opacity: 0.5;
     }
 
     /* Link Styling (Things 3 Teal) */
-    .footer-links a {
+    .footer-row a {
         color: #00B39F !important; 
         text-decoration: none;
-        margin: 0 6px;
-        font-weight: 500;
         opacity: 0.9;
         transition: opacity 0.2s;
     }
     
-    .footer-links a:hover {
+    .footer-row a:hover {
         opacity: 1;
         text-decoration: underline;
     }
 
-    /* Copyright Text */
-    .copyright {
-        font-weight: 600;
-        margin-bottom: 0.5rem;
-    }
-
-    /* Disclaimer (Small & Subtle) */
+    /* Disclaimer (New Settings) */
     .disclaimer {
-        margin-top: 1rem;
-        font-size: 0.75em;
-        opacity: 0.7;
-        line-height: 1.4;
-        max-width: 600px;
+        font-size: 0.7em;  /* Made smaller */
+        opacity: 0.6;      /* Slightly more faded to be unobtrusive */
+        line-height: 1.5;  /* Good spacing for readability */
+        max-width: 650px;  /* Keeps the text from getting too wide on desktop */
         margin-left: auto;
         margin-right: auto;
     }
