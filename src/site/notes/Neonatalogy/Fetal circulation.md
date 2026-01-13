@@ -2,9 +2,7 @@
 {"dg-publish":true,"permalink":"/neonatalogy/fetal-circulation/"}
 ---
 
-
-# Fetal circulation
-## Unique structures of fetal cardiovascular system
+# Unique structures of fetal cardiovascular system
 - Oval foramen - between right and left ventricle
 - Arterial duct - between pulmonary artery and descending aorta
 - venous duct - umbilical vein and inferior vena cava
@@ -14,6 +12,9 @@
 - total fetal cardiac output is 450 ml/kg/min (compared to 75 mg/kg/min in adult)
 ![](https://i.ibb.co/8DBNh4fB/bsGB7Up.png)
 - Pulmonary vascular resistance > systemic vascular resistance
+
+> [!blue] Preferential steaming
+>  The blood from the inferior Vena cava is preferentially diverted to left atrium through crista dividens, so that the developing brain receives the most oxygen
 # Transitional circulation
 ## Changes at birth
 
@@ -51,3 +52,12 @@
 | Oval foramen  | about 3 months of age                 | over years         |
 | Arterial duct | 10-15 hours                           | 1-3 months         |
 | Venous duct   | few minutes after removal of placenta | 3-7 days           |
+## Hemodynamic Values: PaO2 and SaO2 
+
+| Location | PaO2 (mmHg) | SaO2 (%) |
+| :--- | :---: | :---: |
+| Umbilical Vein | 30 - 35 | 80% |
+| Left Ventricle / Ascending Aorta (Brain/Heart) | 26 - 28 | 65% |
+| Descending Aorta (Lower Body) | 20 - 22 | 55 - 60% |
+| Pulmonary Artery / SVC | 12 - 15 | 40% |
+| Umbilical Arteries | 18 - 20 | 50 - 55% |
