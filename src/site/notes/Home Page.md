@@ -98,6 +98,9 @@ Organ-system–based approach to pediatric diseases.
 > Renal and urinary tract disorders in children.  
 > [[Nephrology/🫘 Nephrology\|View Notes →]]
 
+ [!red] ⚗️Metabolic Disorders
+> Renal and urinary tract disorders in children.  
+> [[Metabolic Disorders/⚗️Metabolic Disorders\|View Notes →]]
 ## Miscellaneous & Allied Topics
 
 > [!yellow] ⭕Miscellaneous  
