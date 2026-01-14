@@ -86,7 +86,7 @@ Organ-system–based approach to pediatric diseases.
 > Disorders of the central and peripheral nervous system, including seizures.  
 > [[Neurology/🧠 Neurology\|View Notes →]]
 
-> [!red] 🧪Endocrinology  
+> [!red] 🧪 Endocrinology  
 > Thyroid, adrenal, pituitary disorders, growth disorders, and diabetes mellitus.  
 > [[Endocrinology/🧪 Endocrinology\|View Notes →]]
 
@@ -98,9 +98,9 @@ Organ-system–based approach to pediatric diseases.
 > Renal and urinary tract disorders in children.  
 > [[Nephrology/🫘 Nephrology\|View Notes →]]
 
- [!red] ⚗️Metabolic Disorders
+> [!red] 💡Metabolic Disorders
 > Renal and urinary tract disorders in children.  
-> [[Metabolic Disorders/⚗️Metabolic Disorders\|View Notes →]]
+> [[Metabolic Disorders/💡 Metabolic Disorders\|View Notes →]]
 ## Miscellaneous & Allied Topics
 
 > [!yellow] ⭕Miscellaneous  
