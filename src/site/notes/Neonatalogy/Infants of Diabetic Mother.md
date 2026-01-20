@@ -5,6 +5,7 @@
 ## 1. Introduction & Pathophysiology
 * **Definition:** Neonate born to a mother with pre-existing diabetes (Type 1 or 2) or gestational diabetes (GDM).
 * **Core Pathophysiology (Pedersen Hypothesis):**
+<!-- htmlmin:ignore -->
 ```mermaid
 graph TD
     subgraph Maternal_Environment [Maternal Environment]
@@ -45,7 +46,7 @@ graph TD
     style E fill:#f96,stroke:#333,stroke-width:2px
     style A fill:#bbf,stroke:#333,stroke-width:2px
 ```
-    
+<!-- /htmlmin:ignore -->
 * **Asymptomatic:**
 	* Hct 65–69%: Monitor.
 	* Hct 70–74%: Hydration (Feed/IV) to encourage hemodilution
