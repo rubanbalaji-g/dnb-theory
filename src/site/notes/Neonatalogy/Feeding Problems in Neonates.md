@@ -8,7 +8,7 @@ Breastfeeding is the gold standard for infant nutrition. However, technical and 
 ## 2. Maternal Problems and Management
 
 ### A. Sore and Cracked Nipples
-**Causes:** * Poor attachment (most common).
+**Causes:** Poor attachment (most common).
 * Tongue-tie in infant.
 * Fungal infection (Candida).
 * Improper use of breast pump.
@@ -88,6 +88,17 @@ Breastfeeding is the gold standard for infant nutrition. However, technical and 
 * Treat underlying cause (saline drops for nose).
 * **Skin-to-skin contact** (Kangaroo Mother Care) to promote instinctual feeding.
 * Feed in a semi-reclined position if let-down is strong.
+
+### D. Cleft Lip and Palate
+* **Cleft Lip:** Usually can breastfeed (breast tissue fills the gap).
+* **Cleft Palate:** unable to generate negative pressure.
+    * Use **Special Needs Feeder (Haberman)**, spoon feeding, or obturators.
+    * Feed in upright position (prevent otitis media/choking).
+
+### E. Preterm / Weak Suck
+* **Management:**
+    * **Kangaroo Mother Care (KMC)** to promote reflexes.
+    * Express breast milk (EBM) via tube/spoon until suck-swallow-breathe coordination matures (~34 weeks).
 
 ---
 

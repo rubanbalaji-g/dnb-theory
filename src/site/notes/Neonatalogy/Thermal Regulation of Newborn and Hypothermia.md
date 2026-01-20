@@ -82,7 +82,7 @@ Management depends on the severity (axillary temperature).
 
 **3. Severe Hypothermia ($<32.0^{\circ}C$):**
 * **Admission:** Admit to NICU immediately.
-* **Rapid Rewarming:** Use radiant warmer/incubator. Rapid rewarming until $34^{\circ}C$, followed by slow rewarming to $36.5^{\circ}C$ to avoid apnea/hypotension.
+* **Rapid Rewarming:** Use radiant warmer/incubator. Rapid rewarming until $34^{\circ}C$, followed by slow rewarming to $36.5^{\circ}C$ to avoid apnea/hypotension at rate of $0.5^{\circ}C$ per hour. 
 * **Supportive Care:**
     * Start IV fluids (10% Dextrose, 60-80 mL/kg) to prevent hypoglycemia.
     * Monitor blood glucose, oxygen saturation, and blood pressure.

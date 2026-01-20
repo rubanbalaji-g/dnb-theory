@@ -2,7 +2,6 @@
 {"dg-publish":true,"permalink":"/neonatalogy/intraventricular-hemorrhage/"}
 ---
 
-
 ## Key Facts
 
 - Peri-intraventricular haemorrhage (PIVH) is a condition characterised by bleeding in and around the ventricles of the brain, typically occurring in premature infants.

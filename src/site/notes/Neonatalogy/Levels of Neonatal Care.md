@@ -39,8 +39,6 @@ Care is provided at three distinct levels corresponding to the health infrastruc
     * Management of severe sepsis, hyperbilirubinemia.
     * Exchange transfusion.
 
----
-
 ## 3. Organization and Infrastructure
 
 ### A. Newborn Care Corner (NCC)

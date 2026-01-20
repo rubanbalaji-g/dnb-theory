@@ -23,6 +23,7 @@
 ## 3. TYPES OF KMC
 * **Based on Duration:**
     * **Intermittent:** For unstable babies or initial adaptation (short sessions).
+    * minimum session should be one hour
     * **Continuous:** Ideally **>20 hours/day** (minimum 8 hours/day for benefit). Interrupted only for diapers.
 * **Based on Timing:**
     * **Late/Conventional:** Initiated after hemodynamic stability (off respiratory support).
@@ -65,6 +66,7 @@
 * **Breastfeeding:** Higher rates of exclusive breastfeeding at discharge.
 * **Neurodevelopment:** Reduced school absenteeism and behavioral problems (hyperactivity/aggression) at 20 years of age.
 * **Analgesia:** Reduces pain scores during minor procedures (e.g., heel prick).
+* **Reduced stress** - reduced cortisol levels
 
 ## 6. DISCHARGE CRITERIA
 * **Weight Gain:** 15–20 g/kg/day for 3 consecutive days.
