@@ -36,7 +36,6 @@ The injury occurs in a biphasic manner (the "Two-Hit" Hypothesis):
 ### B. Latent Phase (1–6 Hours)
 * Transient recovery of cerebral oxidative metabolism.
 * **Therapeutic Window:** This is the critical period for initiating Therapeutic Hypothermia to prevent secondary injury.
-> [!danger] HELIX trail has found in LMICs Therapeutic Hypothermia may not be beneficial, can even be harmful. 
 ### C. Secondary Energy Failure (6–72 Hours)
 * Mitochondrial failure, accumulation of free radicals (ROS), Nitric Oxide (NO) toxicity, and inflammation (cytokines).
 * **Result:** Apoptosis (delayed neuronal death).
@@ -162,7 +161,8 @@ The only proven therapy to reduce mortality and major neurodisability in moderat
     * **Method:** Servo-controlled whole-body cooling or head cooling. (Low-tech PCM mattresses like MiraCradle used in resource-limited settings).
 * **Rewarming:** Slow rewarming at $0.5^{\circ}C$ per hour over 6–12 hours.
 * **Contraindications:** Severe uncontrolled bleeding, major intracranial hemorrhage, moribund state.
-* **Caveat:** Recent HELIX trial suggests caution/potential lack of benefit in LMIC settings where "passive cooling" or lack of tertiary support may exist, or where insult is primarily antenatal.
+> [!danger] HELIX trail 
+> Recent HELIX trial suggests caution/potential lack of benefit in LMIC settings where "passive cooling" or lack of tertiary support may exist, or where insult is primarily antenatal.
 
 ## 8. Prognosis and Follow-up
 * **Mortality:** 15–20% in moderate-severe cases.
