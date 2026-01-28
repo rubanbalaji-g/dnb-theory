@@ -46,7 +46,6 @@ graph TD
    * Fetal metabolic demand $\rightarrow$ Intrauterine Hypoxia $\rightarrow$ increased Erythropoietin $\rightarrow$ **Polycythemia**.
 
 ## 2. Metabolic Complications
-
 ### A. Hypoglycemia (Most Common)
 * **Definition:** Blood glucose < 40 mg/dL (plasma glucose < 45 mg/dL) irrespective of age, though operational thresholds vary.
 * **Timing:**

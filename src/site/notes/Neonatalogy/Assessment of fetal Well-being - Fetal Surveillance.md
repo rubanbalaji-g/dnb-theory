@@ -15,8 +15,6 @@ Fetal surveillance is indicated in pregnancies where the risk of fetal demise ex
 | **Fetal Conditions** | • Intrauterine Growth Restriction (IUGR)<br>• Multiple Gestation (Twins/Triplets)<br>• Decreased Fetal Movements<br>• Oligohydramnios / Polyhydramnios<br>• Rh Isoimmunization |
 | **Obstetric Factors** | • Post-term pregnancy (>42 weeks)<br>• Previous unexplained stillbirth<br>• Antepartum Hemorrhage (APH) |
 
----
-
 ## 3. ANTEPARTUM FETAL MONITORING
 *Goal: Detect chronic hypoxia.*
 
@@ -32,7 +30,7 @@ Fetal surveillance is indicated in pregnancies where the risk of fetal demise ex
 * **Principle:** An intact fetal CNS couples fetal movement with heart rate accelerations.
 * **Procedure:** Fetal Heart Rate (FHR) monitored for 20 minutes using an external transducer.
 * **Interpretation:**
-    * **Reactive (Normal):** $\geq$2 accelerations of $\geq$15 bpm lasting $\geq$15 seconds within 20 mins (>32 weeks). *(10x10 for <32 weeks)*.
+    * **Reactive (Normal):** $\geq$ 2 accelerations of $\geq$ 15 bpm lasting $\geq$ 15 seconds within 20 mins (>32 weeks). *(10x10 for <32 weeks)*.
     * **Non-Reactive:** No accelerations in 40 mins (after accounting for fetal sleep cycle).
     * **Implication:** Reactive NST = Low probability of death in next 1 week.
 
@@ -48,18 +46,18 @@ Fetal surveillance is indicated in pregnancies where the risk of fetal demise ex
 * Combines Real-time Ultrasound (acute + chronic markers) with NST.
 * **Score:** Each parameter is 2 (Normal) or 0 (Abnormal). Max score 10/10.
 
-| Parameter | Criteria (Score 2) |
-| :--- | :--- |
-| **1. Fetal Breathing** | $\geq$1 episode of 30 sec in 30 mins |
-| **2. Fetal Movement** | $\geq$3 discrete body/limb movements |
-| **3. Fetal Tone** | $\geq$1 episode of extension with return to flexion |
-| **4. Amniotic Fluid** | Single vertical pocket >2 cm (Chronic hypoxia marker) |
-| **5. NST** | Reactive (Acute hypoxia marker) |
+| Parameter              | Criteria (Score 2)                                    |
+| :--------------------- | :---------------------------------------------------- |
+| **1. Fetal Breathing** | $\geq$ 1 episode of 30 sec in 30 mins                 |
+| **2. Fetal Movement**  | $\geq$ 3 discrete body/limb movements                 |
+| **3. Fetal Tone**      | $\geq$ 1 episode of extension with return to flexion  |
+| **4. Amniotic Fluid**  | Single vertical pocket >2 cm (Chronic hypoxia marker) |
+| **5. NST**             | Reactive (Acute hypoxia marker)                       |
 
 * **Interpretation:**
     * **8–10:** Normal.
     * **6:** Equivocal (Repeat in 24 hrs).
-    * **$\leq$4:** Abnormal (Consider delivery).
+    * **$\leq$ 4:** Abnormal (Consider delivery).
 
 **4. Modified BPP**
 * A rapid screening tool combining:
@@ -75,8 +73,6 @@ Fetal surveillance is indicated in pregnancies where the risk of fetal demise ex
     * **Brain Sparing Effect:** Hypoxia causes cerebral vasodilation $\rightarrow$ Decreased MCA resistance (Low PI).
 3.  **Ductus Venosus (DV):** reflects cardiac status.
     * Abnormal 'a' wave (reversed) indicates impending heart failure/acidemia.
-
----
 
 ## 4. INTRAPARTUM FETAL MONITORING
 *Goal: Detect acute hypoxia/acidosis during labor.*
