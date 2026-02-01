@@ -85,7 +85,6 @@ Empiric Acyclovir should be started immediately if HSV is suspected until proven
 | **Varicella** | Acyclovir (IV) | 10–20 mg/kg/dose q8h for 7–10 days. |
 | **CMV** | Ganciclovir | Induction and maintenance doses. |
 | **Influenza** | Oseltamivir | If suspected. |
-
 *Note: No specific antiviral exists for Japanese Encephalitis (supportive care only).*
 
 ## 7. Special Considerations: Japanese Encephalitis (JE)
