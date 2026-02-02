@@ -28,7 +28,7 @@
 3. [[Neonatalogy/Screening for Birth Defect at Delivery Point\|Screening for Birth Defect at Delivery Point]]
 ## Problems at birth
 1. [[Neonatalogy/Hypoxemic Ischemic Encephalopathy\|Hypoxemic Ischemic Encephalopathy]]
-2. [[Intraventricular Hemorrhage\|Intraventricular Hemorrhage]]
+2. [[Neonatalogy/Intraventricular hemorrhage\|Intraventricular Hemorrhage]]
 3. [[Neonatalogy/Probiotics in Neonates\|Probiotics in Neonates]]
 4. [[Neonatalogy/Feeding Problems in Neonates\|Feeding Problems in Neonates]]
 ## Problems after birth
