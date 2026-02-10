@@ -170,6 +170,3 @@ The outcome depends primarily on the **stage of disease** at the start of treatm
 - **BCG Vaccination:** Provides significant protection (up to 80%) against severe forms of childhood TB like TBM and miliary TB.
 - **TB Preventive Treatment (TPT):** Contact tracing of all pulmonary TB patients. Children <5 years exposed to active TB must receive TPT (Isoniazid) after ruling out active disease to prevent progression to TBM,.
 
-## Conclusion
-
-CNS tuberculosis is a medical emergency. Early diagnosis using a combination of clinical, radiological, and molecular methods (Upfront NAAT) is crucial. Treatment involves a prolonged course (12 months) of multidrug chemotherapy supplemented with corticosteroids. Despite advances, TBM remains a leading cause of death and disability, underscoring the importance of BCG vaccination and early chemoprophylaxis for child contacts.

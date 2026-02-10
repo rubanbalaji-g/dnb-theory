@@ -166,6 +166,4 @@ Steroids are indicated in disseminated TB in specific situations:
 1. **BCG Vaccination:** Highly effective in preventing hematogenous dissemination (miliary and meningeal TB) in young children.
 2. **TB Preventive Treatment (TPT):** Contact tracing of adults with pulmonary TB. All child contacts <5 years (and older TBI-positive children) should receive TPT (Isoniazid or Isoniazid+Rifapentine) to prevent progression from infection to disseminated disease.
 
-## Conclusion
 
-Disseminated (miliary) TB is a medical emergency in pediatrics. It represents a failure of the immune system to contain the primary infection. Diagnosis relies on a constellation of clinical signs (fever, hepatosplenomegaly), miliary shadows on CXR, and fundal changes. Treatment is effective but requires prompt initiation of multidrug chemotherapy and vigilance for complications like meningitis.

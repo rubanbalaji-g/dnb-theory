@@ -208,6 +208,3 @@ Indicated for individuals with short-term, high-risk exposure (e.g., soldiers, d
 - **Animals:** Vaccination of dogs and cattle reduces disease and shedding but provides serovar-specific immunity.
 - **Humans:** Vaccines exist (e.g., in Cuba, China) but are serovar-specific, offer short-term immunity, and are not widely available or WHO-prequalified for global use.
 
-## Summary
-
-Leptospirosis is a biphasic spirochetal illness ranging from mild flu-like symptoms to fatal hepatorenal syndrome. A high index of suspicion is required in febrile children with myalgia, conjunctival suffusion, and history of water/animal contact. Early diagnosis using IgM serology and prompt treatment with Penicillin/Ceftriaxone and supportive care (dialysis) are key to survival.

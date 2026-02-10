@@ -143,6 +143,3 @@ Regimens are constructed based on the following hierarchy:
     - **Contacts of MDR-TB (FQ sensitive):** Levofloxacin (daily) for 6 months is recommended for household contacts (including children) after ruling out active disease.
     - **Contacts of H-resistant TB:** Rifampicin (daily) for 4 months.
 
-## Conclusion
-
-The management of DR-TB in children has evolved from toxic, injectable-based regimens to more humane, shorter, all-oral regimens centered around Bedaquiline and Fluoroquinolones. Early detection using U-DST (molecular tests), prompt initiation of appropriate regimens, and rigorous monitoring for adverse events (especially QTc and neuropathy) are the cornerstones of successful outcomes. The inclusion of TPT for DR-TB contacts marks a significant step toward eliminating the reservoir of drug-resistant disease.

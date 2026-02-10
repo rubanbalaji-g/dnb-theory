@@ -187,6 +187,3 @@ Treatment depends on age and eligibility:
 - **Dose Adjustment:** Required for Ethambutol, Aminoglycosides, and Levofloxacin (excreted by kidneys).
 - **Safe:** Isoniazid, Rifampicin, Pyrazinamide (metabolized by liver), though metabolites may accumulate.
 
-## Conclusion
-
-The pharmacological management of TB has evolved from standard regimens to precision therapy based on molecular drug susceptibility testing. While Isoniazid and Rifampicin remain the cornerstones for drug-sensitive disease, the management of drug-resistant TB in children has shifted to safer, shorter, all-oral regimens incorporating Bedaquiline and Fluoroquinolones. Adherence monitoring and proactive management of adverse events are critical for treatment success.

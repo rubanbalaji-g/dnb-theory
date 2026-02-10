@@ -210,6 +210,3 @@ Secondary prevention is the continuous administration of antibiotics to patients
 |**Rheumatic Fever without carditis**|5 years or until age 21 (whichever is longer)|
 |**Rheumatic Fever with carditis but NO residual heart disease** (no valvular disease)|10 years or until age 21 (whichever is longer)|
 |**Rheumatic Fever with carditis AND residual heart disease** (persistent valvular disease)|10 years or until age 40 (whichever is longer); sometimes lifelong|
-## 10. Conclusion
-
-Acute Rheumatic Fever remains a significant public health challenge in developing regions. It is a multisystem autoimmune reaction to Group A _Streptococcus_. Diagnosis relies on the 2015 Revised Jones Criteria, which allow for increased sensitivity in high-risk populations. While the acute symptoms (arthritis, chorea) resolve, the cardiac involvement can lead to chronic valvular disease. Management focuses on eradicating the bacteria, suppressing inflammation with salicylates, and, most importantly, strict adherence to secondary antibiotic prophylaxis to prevent recurrences and progression of heart disease.

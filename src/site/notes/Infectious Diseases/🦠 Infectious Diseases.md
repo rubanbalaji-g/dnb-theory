@@ -9,6 +9,7 @@
 2. [[Infectious Diseases/Diagnostic Approach to Fever with Rash\|Diagnostic Approach to Fever with Rash]]
 3. [[Infectious Diseases/Nosocomial infections\|Nosocomial infections]]
 4. [[Infectious Diseases/Antibiotic Stewardship in Inpatient and Outpatient Settings in Pediatric Practice\|Antibiotic Stewardship in Inpatient and Outpatient Settings in Pediatric Practice]]
+5. [[Infectious Diseases/Healthcare Associated Infections\|Healthcare Associated Infections]]
 ## Bacterial Diseases
 1. [[Infectious Diseases/Enteric Fever\|Enteric Fever]]
 2. [[Infectious Diseases/Nontyphoidal Salmonellosis\|Nontyphoidal Salmonellosis]]
@@ -24,8 +25,7 @@
 12. [[Infectious Diseases/Leptospirosis\|Leptospirosis]]
 13. [[Infectious Diseases/Scrub Typus\|Scrub Typus]]
 14. [[Infectious Diseases/Rickettsial Diseases other than Scrub Typus\|Rickettsial Diseases other than Scrub Typus]]
-15. [[Infectious Diseases/Mycoplasma Pnemonia\|Mycoplasma Pnemonia]]
-16. 
+15. [[Infectious Diseases/Mycoplasma Pneumonia\|Mycoplasma Pneumonia]]
 ## Mycobacterial Diseases
 1. [[Infectious Diseases/Case Definitions of TB\|Case Definitions of TB]]
 2. [[Infectious Diseases/Clinical manifestation of TB\|Clinical manifestation of TB]]
@@ -38,12 +38,12 @@
 9. [[Infectious Diseases/Disseminated TB\|Disseminated TB]]
 10. [[Infectious Diseases/Congenital Tuberculosis\|Congenital Tuberculosis]]
 11. [[Infectious Diseases/Drugs used in TB\|Drugs used in TB]]
-## Viral Dieases
+## Viral Diseases
 1. [[Infectious Diseases/Dengue\|Dengue]]
 2. [[Infectious Diseases/Congenital Rubella Syndrome\|Congenital Rubella Syndrome]]
 3. [[Infectious Diseases/SSPE\|SSPE]]
 4. [[Infectious Diseases/Pulse Polio Immunization\|Pulse Polio Immunization]]
-5. [[Infectious Diseases/AFP survaillence\|AFP survaillence]]
+5. [[Infectious Diseases/AFP surveillance\|AFP surveillance]]
 6. [[Infectious Diseases/Polio Elimination\|Polio Elimination]]
 7. [[Infectious Diseases/Hand-Foot-and-Mouth Disease (HFMD)\|Hand-Foot-and-Mouth Disease (HFMD)]]
 8. [[Infectious Diseases/HSV Encephalitis\|HSV Encephalitis]]
@@ -51,6 +51,29 @@
 10. [[Infectious Diseases/Roseola infantum\|Roseola infantum]]
 11. [[Infectious Diseases/H1N1 infection\|H1N1 infection]]
 12. [[Infectious Diseases/Japanese Encephalitis\|Japanese Encephalitis]]
-13. 
+13. [[Infectious Diseases/COVID-19\|COVID-19]]
+14. [[Infectious Diseases/Psychosocial Effects of COVID-19 on Children\|Psychosocial Effects of COVID-19 on Children]]
+15. [[Infectious Diseases/Approach to a Neonate Born to a COVID-19 Positive Mother\|Approach to a Neonate Born to a COVID-19 Positive Mother]]
+16. [[Infectious Diseases/Kawasaki Vs MIS-C\|Kawasaki Vs MIS-C]]
+17. [[Infectious Diseases/Perinatal HIV\|Perinatal HIV]]
+18. [[Infectious Diseases/Dried Blood Spot (DBS) PCR in Neonatal HIV Diagnosis\|Dried Blood Spot (DBS) PCR in Neonatal HIV Diagnosis]]
+19. [[Infectious Diseases/Pediatric HIV\|Pediatric HIV]]
+20. [[Infectious Diseases/HIV Post Exposure Prophylaxis\|HIV Post Exposure Prophylaxis]]
+21. [[Infectious Diseases/HIV and TB Co-infection in Children\|HIV and TB Co-infection in Children]]
+22. [[Infectious Diseases/Opportunistic Infections in HIV\|Opportunistic Infections in HIV]]
+23. [[Infectious Diseases/ART in HIV\|ART in HIV]]
+## Protozoal and Parasitic Diseases
+1. [[Infectious Diseases/Cryptosporidial Diarrhea\|Cryptosporidial Diarrhea]]
+2. [[Infectious Diseases/Kala-azar (Visceral Leishmaniasis)\|Kala-azar (Visceral Leishmaniasis)]]
+3. [[Infectious Diseases/Malaria\|Malaria]]
+4. [[Infectious Diseases/Cerebral Malaria\|Cerebral Malaria]]
+5. [[Infectious Diseases/Drug Resistant Malaria\|Drug Resistant Malaria]]
+6. [[Infectious Diseases/Complicated (Severe) Malaria\|Complicated (Severe) Malaria]]
+7. [[Infectious Diseases/Ascariasis\|Ascariasis]]
+8. [[Infectious Diseases/Management of Worm Infestation\|Management of Worm Infestation]]
+9. [[Infectious Diseases/Neurocysticercosis\|Neurocysticercosis]]
+10. [[Infectious Diseases/Hydatid Cyst\|Hydatid Cyst]]
+11. [[Infectious Diseases/CT Findings of Toxoplasmosis and Neurocysticercosis\|CT Findings of Toxoplasmosis and Neurocysticercosis]]
+12. [[Infectious Diseases/TORCH Infections\|TORCH Infections]]
 ## Fungal Diseases
 1. [[Infectious Diseases/Invasive Fungal Diseases\|Invasive Fungal Diseases]]

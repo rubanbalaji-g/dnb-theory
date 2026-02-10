@@ -62,6 +62,3 @@ Although India is polio-free, the risk of resurgence remains due to:
 2. **Vaccine Derived Polio Virus (VDPV):** In areas with low immunization coverage, the attenuated vaccine virus can mutate and regain neurovirulence (cVDPV), causing paralysis. This is particularly problematic with type 2 virus, necessitating the switch to bOPV and IPV.
 3. **VAPP:** A rare adverse event (approx. 1 in 1 million doses) where the live vaccine virus causes paralysis in the recipient or a contact. The ultimate goal is to stop all OPV use and rely solely on IPV once wild polio transmission stops globally.
 
-## Conclusion
-
-Pulse Polio Immunization is a landmark public health success story in India. It demonstrated that even in resource-constrained settings with high population density, disease eradication is possible through political will, meticulous planning, and community participation. The program is currently in the maintenance phase, focusing on high-quality surveillance and rapid response capabilities until global certification of polio eradication is achieved.

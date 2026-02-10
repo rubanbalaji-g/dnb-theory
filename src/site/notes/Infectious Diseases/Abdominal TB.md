@@ -117,6 +117,4 @@ Surgery is conservative and reserved for complications:
 - Enterocutaneous fistulae.
 - Infertility (due to secondary involvement of fallopian tubes in females).
 
-## Summary
 
-Abdominal TB is a "great mimicker." A high index of suspicion is required in a child with chronic abdominal pain, fever, and weight loss. Ultrasound is the primary screening tool, but definitive diagnosis relies on tissue sampling for histopathology and molecular testing (NAAT). Treatment is primarily medical with standard chemotherapy, yielding excellent prognosis if diagnosed early.

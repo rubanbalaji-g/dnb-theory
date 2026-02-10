@@ -168,6 +168,3 @@ Any child with fever and petechial/purpuric rash or shock requires:
     - Airborne precautions: Measles, Varicella.
     - Droplet precautions: Meningococcal, Rubella, Mumps.
 
-## 6. Conclusion
-
-The diagnostic approach to fever with rash hinges on recognizing the morphology of the rash and the clinical status of the child. While the majority are self-limiting viral exanthems (Measles, Rubella, Roseola, Parvovirus), the clinician must remain vigilant for "red flags" such as petechiae, purpura, and shock which suggest life-threatening emergencies like meningococcemia or severe dengue. A thorough history including travel and exposure, combined with a careful physical exam, usually directs the appropriate limited laboratory testing and management.

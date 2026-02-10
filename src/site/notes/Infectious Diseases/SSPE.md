@@ -190,6 +190,3 @@ Since there is no cure, prevention is paramount.
     - The live attenuated measles vaccine virus does **not** cause SSPE. Cases of SSPE in vaccinated children are attributed to unrecognised wild-type measles infection occurring before vaccination (e.g., in infancy).
 - **Catch-up Campaigns:** Ensuring high vaccine coverage (>95%) and second-dose opportunities (as in the Measles-Rubella campaigns) are essential to prevent outbreaks and protect infants who are at highest risk of SSPE.
 
-## Summary
-
-SSPE is a tragic, preventable complication of measles infection in early childhood. It is characterized by progressive intellectual deterioration, myoclonus, and eventual vegetative state. The presence of raised anti-measles antibodies in the CSF is diagnostic. While Isoprinosine and Interferon may offer limited benefit, the disease is largely incurable. Universal measles vaccination remains the single most important intervention to eradicate this devastating condition.

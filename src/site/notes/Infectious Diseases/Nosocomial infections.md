@@ -141,6 +141,3 @@ Prevention is the cornerstone of HAI management, focusing on breaking the chain 
 
 - Routine disinfection of high-touch surfaces and medical equipment (stethoscopes) is vital. _C. difficile_ requires sporicidal agents (e.g., chlorine),.
 
-## 9. Conclusion
-
-Nosocomial infections are a major preventable cause of morbidity in pediatrics. The landscape of HAIs is dominated by multidrug-resistant organisms, making treatment challenging. Therefore, the primary focus must be on **prevention** through strict adherence to hand hygiene, implementation of care bundles, and robust antimicrobial stewardship programs. A culture of safety and "zero tolerance" for preventable infections is essential in modern pediatric care.

@@ -3,7 +3,9 @@
 ---
 
 ## **Introduction** 
-Short-course chemotherapy (SCC) represents a paradigm shift in the management of tuberculosis (TB), reducing treatment duration from the historical 12–18 months to 6 months while maintaining high cure rates and minimizing relapse. The strategy relies on the synergistic use of potent bactericidal and sterilizing drugs to rapidly reduce the bacillary load and eliminate persistent organisms. Current pediatric management under the National Tuberculosis Elimination Programme (NTEP) 2022 guidelines emphasizes **Universal Drug Susceptibility Testing (U-DST)** to stratify patients upfront into Rifampicin-Sensitive (RS-TB) or Drug-Resistant (DR-TB) categories.
+- Short-course chemotherapy (SCC) represents a paradigm shift in the management of tuberculosis (TB), reducing treatment duration from the historical 12–18 months to 6 months while maintaining high cure rates and minimizing relapse. 
+- The strategy relies on the synergistic use of potent bactericidal and sterilizing drugs to rapidly reduce the bacillary load and eliminate persistent organisms. 
+- Current pediatric management under the National Tuberculosis Elimination Programme (NTEP) 2022 guidelines emphasizes **Universal Drug Susceptibility Testing (U-DST)** to stratify patients upfront into Rifampicin-Sensitive (RS-TB) or Drug-Resistant (DR-TB) categories.
 
 ## 1. Scientific Basis of Short Course Chemotherapy
 
@@ -71,5 +73,3 @@ NTEP recommends **daily therapy** using Fixed Drug Combinations (FDCs) to improv
 - **Clinical:** Monthly assessment of weight, symptoms, and adherence.
 - **Microbiological:** Follow-up sputum/gastric aspirate at the end of the Intensive Phase (2 months) and at completion (6 months).
 - **Response:** If a child is non-responsive after 4 weeks of compliant therapy, they should be evaluated for drug resistance (using NAAT/LPA) rather than empirically extending the intensive phase.
-
-**Conclusion** Short-course chemotherapy using the 2HRZE + 4HRE daily regimen is the gold standard for pediatric drug-sensitive TB. The success of this regimen relies on ensuring adherence, appropriate weight-band-based dosing, and upfront detection of drug resistance to prevent treatment failure.

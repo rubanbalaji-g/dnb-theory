@@ -109,6 +109,3 @@ An ASP must track its performance to demonstrate value and identify areas for im
     - Cost savings (drug acquisition and administration costs).
     - Clinical outcomes (readmissions, length of stay, mortality) to ensure stewardship is safe.
 
-## 8. Conclusion
-
-Antibiotic stewardship in pediatrics is a patient safety imperative. In both inpatient and outpatient settings, it requires a shift from "just in case" prescribing to "evidence-based" optimization. By employing strategies like preauthorization, prospective audit and feedback, and delayed prescribing, pediatricians can effectively combat the global threat of antimicrobial resistance while ensuring the safety and recovery of their individual patients. The success of these programs relies on multidisciplinary collaboration, education, and a commitment to rational therapeutic principles.

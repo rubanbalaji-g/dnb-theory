@@ -140,6 +140,3 @@ Relapse of HSV encephalitis can occur after completion of therapy. It may manife
     - Developmental delay in infants.
 - **Predictors of Poor Outcome:** Coma at presentation, young age (<30 years) combined with severe CNS involvement, and delay in starting acyclovir therapy (>3 days from onset). In neonates, disseminated disease and specific CNS involvement (e.g., lethargy, coma) predict worse outcomes.
 
-## Conclusion
-
-HSV encephalitis is a devastating disease requiring immediate recognition. The standard of care is the prompt administration of high-dose intravenous acyclovir for a minimum of 21 days (in neonates) or 14–21 days (in older children/adults). For neonates, this is followed by 6 months of oral suppressive therapy. Despite advances in antiviral therapy, significant morbidity persists, underscoring the need for early diagnosis and aggressive supportive management.

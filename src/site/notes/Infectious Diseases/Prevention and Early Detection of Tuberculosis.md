@@ -112,5 +112,3 @@ The strategy for controlling pediatric TB has evolved from simple chemotherapy t
 |**TPT (Preventive Therapy)**|Contacts <5y, PLHIV|Isoniazid (6mo) or 3HP to prevent progression to active disease.|
 |**Contact Tracing**|Household|Screen all contacts of index cases; Reverse tracing for infected children.|
 |**Early Diagnosis**|Presumptive cases|**Upfront NAAT (CBNAAT)** on Gastric Aspirate/Induced Sputum.|
-
----

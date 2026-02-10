@@ -58,6 +58,3 @@ An "anamnestic response" is a critical concept in interpreting Widal tests in im
 4. **Clinical Correlation:** The Widal test should **never** be interpreted in isolation. It must be correlated with clinical signs (step-ladder fever, toxic look, hepatosplenomegaly). In the absence of clinical features, a positive Widal in an immunized child should be disregarded.
 5. **Alternative Diagnostics:** Due to these limitations, reliance should shift toward blood culture (gold standard) or more specific assays (e.g., IgM enzyme immunoassays or PCR), although Widal remains common in resource-limited settings.
 
-### 6. Conclusion
-
-In immunized children, the Widal test loses much of its specificity. Whole-cell vaccines cause persistent elevations in O and H agglutinins, rendering the test unreliable. While modern Vi-based vaccines theoretically interfere less, the high prevalence of background immunity and the phenomenon of anamnestic reactions mean that a single positive Widal titer in an endemic area has a low positive predictive value. Diagnosis should rely on blood cultures and clinical judgment rather than serology alone.

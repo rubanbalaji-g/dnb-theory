@@ -161,7 +161,3 @@ The shift from whole-cell to acellular vaccines has highlighted significant trad
 ### 6.4. Current Consensus
 
 Due to the rapid waning of immunity and the lack of mucosal protection (herd immunity) offered by aP vaccines, the World Health Organization (WHO) and many experts recommend that countries currently using wP (like India) should **continue to use wP** for the primary series to ensure robust initial priming and longer-lasting protection,. aP is preferred for boosters in adolescents and adults (Tdap) or for children with a history of severe reactions to wP.
-
-## 7. Conclusion
-
-Pertussis remains a "strangling angel" of children, particularly affecting young infants. While caused by _B. pertussis_ and mediated by toxins like PT, its resurgence in the developed world highlights the limitations of current acellular vaccines. While aP vaccines are safer (less reactogenic), they provide shorter-lived immunity and fail to prevent transmission compared to the older wP vaccines. Therefore, a hybrid schedule or continued use of wP for priming, combined with maternal immunization strategies, is essential to protect the most vulnerable population—newborns and young infants.

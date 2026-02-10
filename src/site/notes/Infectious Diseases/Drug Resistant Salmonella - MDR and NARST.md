@@ -56,6 +56,3 @@ While the question focuses on MDR and NARST, the evolution has continued toward 
 - **Antibiotic Misuse:** The misuse of antimicrobial agents in humans and the subtherapeutic use of antibiotics in animals raised for food alter competing gastrointestinal flora and induce multidrug-resistant strains.
 - **Biofilms:** _Salmonella_ can form biofilms, which increase resistance to disinfectants and antibiotics, contributing to persistence and chronic carriage.
 
-### Conclusion
-
-MDR-ST is defined by resistance to ampicillin, chloramphenicol, and TMP-SMX, primarily driven by plasmid-mediated mechanisms. NARST is defined by nalidixic acid resistance, indicating _gyrA_ chromosomal mutations that predict fluoroquinolone treatment failure. Understanding these mechanisms is crucial for selecting appropriate empiric therapy, such as third-generation cephalosporins or azithromycin, while awaiting sensitivity patterns.

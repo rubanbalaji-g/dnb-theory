@@ -175,6 +175,3 @@ If cultures (blood/urine/CSF) become positive:
 - **Blood:** Patient must be recalled immediately for admission and parenteral antibiotics.
 - **Urine:** If the child is well, oral antibiotics may be initiated based on sensitivity. If ill, admit for parenteral therapy.
 
-## 8. Conclusion
-
-The management of fever without focus in infants balances the risk of missing a life-threatening bacterial infection against the harms of unnecessary hospitalization and antibiotic use. The cornerstone of management is **age-based risk stratification**. Neonates require a "full septic workup" and admission. Young infants (1–3 months) can be risk-stratified using clinical criteria and inflammatory markers (Step-by-Step approach) to determine the need for LP and antibiotics. In older, immunized infants, the focus shifts primarily to diagnosing and treating urinary tract infections, as the risk of occult bacteremia has significantly declined.

@@ -2,8 +2,6 @@
 {"dg-publish":true,"permalink":"/infectious-diseases/congenital-syphilis/"}
 ---
 
-# Radiological Features and Confirmatory Laboratory Tests for Congenital Syphilis
-
 ## Introduction
 
 Congenital syphilis affects multiple organ systems, with the skeletal system being involved in 60–80% of infants with clinical signs. Diagnosis relies on a combination of clinical features, radiographic findings, and laboratory confirmation, as no single test is 100% sensitive in the newborn period.

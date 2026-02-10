@@ -191,7 +191,3 @@ Vaccination is the most effective control measure.
 |**Penicillin G**|300,000–400,000 U/kg/day IV q4-6h|For susceptible strains. **Requires Rifampin prophylaxis before discharge.**|
 |**Chloramphenicol**|100 mg/kg/day IV q6h|For severe beta-lactam allergy.|
 |**Rifampin**|10 mg/kg PO q12h x 4 doses|Prophylaxis for contacts & patients treated with Penicillin.|
-
----
-
-**References:**

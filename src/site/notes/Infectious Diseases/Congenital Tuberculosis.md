@@ -147,6 +147,3 @@ This is a common clinical scenario. Management depends on assessing the infant f
 - **Mortality:** Historically up to 50% without treatment. With early diagnosis and therapy, the prognosis is good.
 - **Morbidity:** Neurological sequelae (developmental delay, hydrocephalus) are common if TBM is present. Liver damage from primary hepatic TB generally resolves with therapy.
 
-## Summary
-
-Congenital TB is a medical emergency requiring a high index of suspicion in neonates with sepsis-like illness and a maternal history of TB. Diagnosis relies on identifying the primary complex (often hepatic) and microbiological confirmation via gastric aspirates or placental pathology. Treatment involves a standard 4-drug regimen. Prevention focuses on effective treatment of pregnant women and TPT for exposed neonates.
