@@ -67,6 +67,13 @@ permalink: "notes/{{ page.fileSlug | slugify }}/"
       {% for imp in dynamics.notes.beforeContent %}
         {% include imp %}
       {% endfor %}
+       {% if uplink %}
+      <div style="margin-bottom: 1rem;">
+          <a href="{{ uplink }}" style="text-decoration: none; font-weight: bold;">
+              ← {{ uptext | default("Back to Index") }}
+          </a>
+      </div>
+      {% endif %}
       {{ content | hideDataview | taggify | link | safe}}
       {% for imp in dynamics.common.afterContent %}
         {% include imp %}
