@@ -67,32 +67,7 @@ permalink: "notes/{{ page.fileSlug | slugify }}/"
       {% for imp in dynamics.notes.beforeContent %}
         {% include imp %}
       {% endfor %}
-
-<div style="background: #ffeeba; color: black; padding: 10px; border: 2px solid orange; margin-bottom: 20px;">
-  <p><strong>🕵️ VARIABLE HUNTER:</strong></p>
-  <ul>
-    <li>1. Root: "{{ uplink }}"</li>
-    <li>2. Frontmatter: "{{ frontmatter.uplink }}"</li>
-    <li>3. Page Data: "{{ page.data.uplink }}"</li>
-    <li>4. Data: "{{ data.uplink }}"</li>
-  </ul>
-</div>
-
-{% set finalLink = uplink or frontmatter.uplink or page.data.uplink %}
-
-{% if finalLink %}
-  <div style="margin-bottom: 1rem;">
-      <a href="{{ finalLink }}" style="text-decoration: none; font-weight: bold;">
-          ← {{ uptext | default(frontmatter.uptext) | default("Back to Index") }}
-      </a>
-  </div>
-{% endif %}
-
-{% if uplink %}
-  <a href="{{ uplink }}">LINK FOUND: Go Back</a>
-{% endif %}
-
-       {% if uplink %}
+      {% if uplink %}
       <div style="margin-bottom: 1rem;">
           <a href="{{ uplink }}" style="text-decoration: none; font-weight: bold;">
               ← {{ uptext | default("Back to Index") }}
