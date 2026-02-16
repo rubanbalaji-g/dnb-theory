@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cardiology/tetralogy-of-fallot/"}
+{"dg-publish":true,"permalink":"/cardiology/tetralogy-of-fallot/","dgPassFrontmatter":true}
 ---
 
 **Definition**

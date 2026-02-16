@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/neonatalogy/usg-in-antenatal-period/"}
+{"dg-publish":true,"permalink":"/neonatalogy/usg-in-antenatal-period/","noteIcon":"","dgPassFrontmatter":true}
 ---
 
 **Ultrasound is the primary tool for detecting prenatal anomalies, allowing early identification of structural malformations, guiding further investigations, and enabling timely counseling and management.**

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/nutrition/biochemical-changes-in-sam/"}
+{"dg-publish":true,"permalink":"/nutrition/biochemical-changes-in-sam/","dgPassFrontmatter":true}
 ---
 
 Protein-Energy Malnutrition (PEM), particularly its severe forms (Marasmus, Kwashiorkor, and Marasmic-Kwashiorkor), is characterized by profound biochemical, metabolic, and physiological changes. These changes are driven by the body's attempt to survive despite inadequate intake, a process known as "Reductive Adaptation."

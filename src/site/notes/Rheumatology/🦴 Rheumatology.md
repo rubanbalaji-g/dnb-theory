@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/rheumatology/rheumatology/"}
+{"dg-publish":true,"permalink":"/rheumatology/rheumatology/","hide":true,"noteIcon":"","dgPassFrontmatter":true}
 ---
 
 

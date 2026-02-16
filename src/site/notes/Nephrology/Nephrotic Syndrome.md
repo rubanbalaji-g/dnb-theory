@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/nephrology/nephrotic-syndrome/"}
+{"dg-publish":true,"permalink":"/nephrology/nephrotic-syndrome/","noteIcon":"","dgPassFrontmatter":true}
 ---
 
 

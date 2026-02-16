@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cardiology/cardiology/"}
+{"dg-publish":true,"permalink":"/cardiology/cardiology/","hide":true,"noteIcon":"","dgPassFrontmatter":true}
 ---
 
 ## Basics

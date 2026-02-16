@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/infectious-diseases/perinatal-hiv/"}
+{"dg-publish":true,"permalink":"/infectious-diseases/perinatal-hiv/","dgPassFrontmatter":true}
 ---
 
 ## Approach to HIV

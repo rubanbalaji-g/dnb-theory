@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/infectious-diseases/mycoplasma-pneumonia/"}
+{"dg-publish":true,"permalink":"/infectious-diseases/mycoplasma-pneumonia/","dgPassFrontmatter":true}
 ---
 
 ## Introduction

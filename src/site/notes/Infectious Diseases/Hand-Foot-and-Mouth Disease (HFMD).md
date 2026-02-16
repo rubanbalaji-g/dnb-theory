@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/infectious-diseases/hand-foot-and-mouth-disease-hfmd/"}
+{"dg-publish":true,"permalink":"/infectious-diseases/hand-foot-and-mouth-disease-hfmd/","dgPassFrontmatter":true}
 ---
 
 ## **Introduction** 

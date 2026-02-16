@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/neonatalogy/screening-for-birth-defect-at-delivery-point/"}
+{"dg-publish":true,"permalink":"/neonatalogy/screening-for-birth-defect-at-delivery-point/","dgPassFrontmatter":true}
 ---
 
 ### 1. Introduction

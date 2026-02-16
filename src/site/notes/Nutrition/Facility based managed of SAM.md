@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/nutrition/facility-based-managed-of-sam/"}
+{"dg-publish":true,"permalink":"/nutrition/facility-based-managed-of-sam/","dgPassFrontmatter":true}
 ---
 
 The management of Severe Acute Malnutrition (SAM) is divided into two phases: the **Stabilization Phase** (Days 1–7) and the **Rehabilitation Phase** (Weeks 2–6). The primary goal of the stabilization phase is to restore cellular function, correct fluid and electrolyte imbalances, and treat infections to prevent death. The rehabilitation phase focuses on rebuilding wasted tissues and achieving catch-up growth.

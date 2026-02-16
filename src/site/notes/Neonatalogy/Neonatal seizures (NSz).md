@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/neonatalogy/neonatal-seizures-n-sz/"}
+{"dg-publish":true,"permalink":"/neonatalogy/neonatal-seizures-n-sz/","noteIcon":"","dgPassFrontmatter":true}
 ---
 
 

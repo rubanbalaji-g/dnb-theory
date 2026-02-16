@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/infectious-diseases/sspe/"}
+{"dg-publish":true,"permalink":"/infectious-diseases/sspe/","dgPassFrontmatter":true}
 ---
 
 ## Introduction

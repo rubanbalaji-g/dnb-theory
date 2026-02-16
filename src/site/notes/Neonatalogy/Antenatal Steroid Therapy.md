@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/neonatalogy/antenatal-steroid-therapy/"}
+{"dg-publish":true,"permalink":"/neonatalogy/antenatal-steroid-therapy/","dgPassFrontmatter":true}
 ---
 
 ## 1. INTRODUCTION

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/infectious-diseases/covid-19/"}
+{"dg-publish":true,"permalink":"/infectious-diseases/covid-19/","dgPassFrontmatter":true}
 ---
 
 ## Introduction

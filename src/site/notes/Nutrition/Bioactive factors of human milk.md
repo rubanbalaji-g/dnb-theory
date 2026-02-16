@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/nutrition/bioactive-factors-of-human-milk/"}
+{"dg-publish":true,"permalink":"/nutrition/bioactive-factors-of-human-milk/","dgPassFrontmatter":true}
 ---
 
 Human milk is described as a "living fluid" and is species-specific, containing numerous host defense factors and bioactive components absent in animal milk or infant formulas. These factors go beyond simple nutrition to provide immunological protection, promote gastrointestinal maturation, and stimulate neurodevelopment.

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/neonatalogy/endocrine-issues-at-day-1-of-life/"}
+{"dg-publish":true,"permalink":"/neonatalogy/endocrine-issues-at-day-1-of-life/","dgPassFrontmatter":true}
 ---
 
 ### 1. Introduction

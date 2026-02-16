@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/nutrition/human-milk-banking/"}
+{"dg-publish":true,"permalink":"/nutrition/human-milk-banking/","dgPassFrontmatter":true}
 ---
 
 Human milk is recognized as the "gold standard" for infant nutrition. While the mother's own milk is the primary choice, **Donor Human Milk (DHM)** or **Banked Milk** is considered a superior alternative to formula when the mother's own milk is unavailable or insufficient.

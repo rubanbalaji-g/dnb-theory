@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/respiratory/aspiration-pneumonia/"}
+{"dg-publish":true,"permalink":"/respiratory/aspiration-pneumonia/","dgPassFrontmatter":true}
 ---
 
 

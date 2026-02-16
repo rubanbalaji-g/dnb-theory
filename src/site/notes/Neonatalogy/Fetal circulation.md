@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/neonatalogy/fetal-circulation/"}
+{"dg-publish":true,"permalink":"/neonatalogy/fetal-circulation/","noteIcon":"","dgPassFrontmatter":true}
 ---
 
 # Unique structures of fetal cardiovascular system

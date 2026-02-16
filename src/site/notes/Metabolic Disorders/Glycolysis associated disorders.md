@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/metabolic-disorders/glycolysis-associated-disorders/"}
+{"dg-publish":true,"permalink":"/metabolic-disorders/glycolysis-associated-disorders/","dgPassFrontmatter":true}
 ---
 
 ## I. INTRODUCTION

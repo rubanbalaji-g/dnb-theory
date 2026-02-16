@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/neurology/primary-headaches-other-than-migraine/"}
+{"dg-publish":true,"permalink":"/neurology/primary-headaches-other-than-migraine/","dgPassFrontmatter":true}
 ---
 
 ### I. Classification (ICHD-3)

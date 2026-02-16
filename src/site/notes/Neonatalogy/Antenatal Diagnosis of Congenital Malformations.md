@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/neonatalogy/antenatal-diagnosis-of-congenital-malformations/"}
+{"dg-publish":true,"permalink":"/neonatalogy/antenatal-diagnosis-of-congenital-malformations/","dgPassFrontmatter":true}
 ---
 
 ## PART 1: ANTENATAL DIAGNOSIS OF NEURAL TUBE DEFECTS (NTDs)

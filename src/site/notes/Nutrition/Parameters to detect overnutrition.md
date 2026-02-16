@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/nutrition/parameters-to-detect-overnutrition/"}
+{"dg-publish":true,"permalink":"/nutrition/parameters-to-detect-overnutrition/","dgPassFrontmatter":true}
 ---
 
 ## Introduction

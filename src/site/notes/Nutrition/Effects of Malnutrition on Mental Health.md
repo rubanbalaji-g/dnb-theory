@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/nutrition/effects-of-malnutrition-on-mental-health/"}
+{"dg-publish":true,"permalink":"/nutrition/effects-of-malnutrition-on-mental-health/","dgPassFrontmatter":true}
 ---
 
 ## Influence of Malnutrition on Mental Functions

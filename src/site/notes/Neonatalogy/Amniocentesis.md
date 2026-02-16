@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/neonatalogy/amniocentesis/"}
+{"dg-publish":true,"permalink":"/neonatalogy/amniocentesis/","dgPassFrontmatter":true}
 ---
 
 ## 1. DEFINITION

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/neonatalogy/thermal-regulation-of-newborn-and-hypothermia/"}
+{"dg-publish":true,"permalink":"/neonatalogy/thermal-regulation-of-newborn-and-hypothermia/","dgPassFrontmatter":true}
 ---
 
 ## 1. DEFINITIONS

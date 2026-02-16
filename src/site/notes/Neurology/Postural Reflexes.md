@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/neurology/postural-reflexes/"}
+{"dg-publish":true,"permalink":"/neurology/postural-reflexes/","dgPassFrontmatter":true}
 ---
 
 Postural reflexes are automatic movements that control the equilibration we require once upright and moving and having to combat the effects of gravity.

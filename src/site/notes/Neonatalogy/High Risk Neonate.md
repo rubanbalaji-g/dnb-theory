@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/neonatalogy/high-risk-neonate/"}
+{"dg-publish":true,"permalink":"/neonatalogy/high-risk-neonate/","dgPassFrontmatter":true}
 ---
 
 ## 1. The High-Risk Concept: Definition and Rationale

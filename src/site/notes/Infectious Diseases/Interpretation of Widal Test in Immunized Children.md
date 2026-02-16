@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/infectious-diseases/interpretation-of-widal-test-in-immunized-children/"}
+{"dg-publish":true,"permalink":"/infectious-diseases/interpretation-of-widal-test-in-immunized-children/","dgPassFrontmatter":true}
 ---
 
 ### 1. Introduction

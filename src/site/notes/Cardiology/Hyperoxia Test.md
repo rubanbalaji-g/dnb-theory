@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cardiology/hyperoxia-test/"}
+{"dg-publish":true,"permalink":"/cardiology/hyperoxia-test/","dgPassFrontmatter":true}
 ---
 
 ### 1. Introduction

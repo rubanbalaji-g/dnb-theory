@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/development/adhd/"}
+{"dg-publish":true,"permalink":"/development/adhd/","noteIcon":"","dgPassFrontmatter":true}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/infectious-diseases/art-in-hiv/"}
+{"dg-publish":true,"permalink":"/infectious-diseases/art-in-hiv/","dgPassFrontmatter":true}
 ---
 
 ## Introduction

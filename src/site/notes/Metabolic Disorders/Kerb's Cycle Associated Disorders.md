@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/metabolic-disorders/kerb-s-cycle-associated-disorders/"}
+{"dg-publish":true,"permalink":"/metabolic-disorders/kerb-s-cycle-associated-disorders/","dgPassFrontmatter":true}
 ---
 
 ## I. INTRODUCTION

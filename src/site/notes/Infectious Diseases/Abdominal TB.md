@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/infectious-diseases/abdominal-tb/"}
+{"dg-publish":true,"permalink":"/infectious-diseases/abdominal-tb/","dgPassFrontmatter":true}
 ---
 
 ## **Introduction** 

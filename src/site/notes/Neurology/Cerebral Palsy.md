@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/neurology/cerebral-palsy/"}
+{"dg-publish":true,"permalink":"/neurology/cerebral-palsy/","dgPassFrontmatter":true}
 ---
 
 ## Definition

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/neonatalogy/cordocentesis/"}
+{"dg-publish":true,"permalink":"/neonatalogy/cordocentesis/","dgPassFrontmatter":true}
 ---
 
 (Synonym: Percutaneous Umbilical Blood Sampling - PUBS)

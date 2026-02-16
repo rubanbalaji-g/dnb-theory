@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/neonatalogy/skin-care-in-newborns/"}
+{"dg-publish":true,"permalink":"/neonatalogy/skin-care-in-newborns/","dgPassFrontmatter":true}
 ---
 
 ## Introduction

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/metabolic-disorders/metabolic-disorders/"}
+{"dg-publish":true,"permalink":"/metabolic-disorders/metabolic-disorders/","dgPassFrontmatter":true}
 ---
 
 ## Basics

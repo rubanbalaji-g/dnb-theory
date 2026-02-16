@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/endocrinology/hyperthyroidism-in-children/"}
+{"dg-publish":true,"permalink":"/endocrinology/hyperthyroidism-in-children/","noteIcon":"","dgPassFrontmatter":true}
 ---
 
 

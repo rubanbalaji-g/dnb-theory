@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/infectious-diseases/infectious-diseases/"}
+{"dg-publish":true,"permalink":"/infectious-diseases/infectious-diseases/","noteIcon":"","dgPassFrontmatter":true}
 ---
 
 ## Immunity

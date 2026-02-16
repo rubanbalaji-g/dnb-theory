@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/misc/miscellaneous-and-practical-topics/"}
+{"dg-publish":true,"permalink":"/misc/miscellaneous-and-practical-topics/","hide":true,"noteIcon":"","dgPassFrontmatter":true}
 ---
 
 

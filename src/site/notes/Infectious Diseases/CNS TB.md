@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/infectious-diseases/cns-tb/"}
+{"dg-publish":true,"permalink":"/infectious-diseases/cns-tb/","dgPassFrontmatter":true}
 ---
 
 ## Introduction

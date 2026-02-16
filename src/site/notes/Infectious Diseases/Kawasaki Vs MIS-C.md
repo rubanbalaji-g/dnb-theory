@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/infectious-diseases/kawasaki-vs-mis-c/"}
+{"dg-publish":true,"permalink":"/infectious-diseases/kawasaki-vs-mis-c/","dgPassFrontmatter":true}
 ---
 
 ### Introduction

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/nutrition/iodide-deficiency/"}
+{"dg-publish":true,"permalink":"/nutrition/iodide-deficiency/","dgPassFrontmatter":true}
 ---
 
 ## Introduction

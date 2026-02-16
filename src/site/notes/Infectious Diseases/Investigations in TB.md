@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/infectious-diseases/investigations-in-tb/"}
+{"dg-publish":true,"permalink":"/infectious-diseases/investigations-in-tb/","dgPassFrontmatter":true}
 ---
 
 ## Introduction

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/infectious-diseases/congenital-tuberculosis/"}
+{"dg-publish":true,"permalink":"/infectious-diseases/congenital-tuberculosis/","dgPassFrontmatter":true}
 ---
 
 ## Introduction

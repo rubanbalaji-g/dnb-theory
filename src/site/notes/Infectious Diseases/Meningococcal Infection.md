@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/infectious-diseases/meningococcal-infection/"}
+{"dg-publish":true,"permalink":"/infectious-diseases/meningococcal-infection/","dgPassFrontmatter":true}
 ---
 
 ## 1. Introduction

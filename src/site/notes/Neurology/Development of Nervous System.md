@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/neurology/development-of-nervous-system/"}
+{"dg-publish":true,"permalink":"/neurology/development-of-nervous-system/","dgPassFrontmatter":true}
 ---
 
 ## 1. INTRODUCTION AND OVERVIEW

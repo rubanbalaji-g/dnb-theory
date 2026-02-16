@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/hematology/physiological-anemia-of-infancy/"}
+{"dg-publish":true,"permalink":"/hematology/physiological-anemia-of-infancy/","noteIcon":"","dgPassFrontmatter":true}
 ---
 
 

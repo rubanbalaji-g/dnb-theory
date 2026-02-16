@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/nutrition/pre-its-and-its/"}
+{"dg-publish":true,"permalink":"/nutrition/pre-its-and-its/","dgPassFrontmatter":true}
 ---
 
 ## Introduction and Definition

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/neonatalogy/tactile-intervention-in-newborns/"}
+{"dg-publish":true,"permalink":"/neonatalogy/tactile-intervention-in-newborns/","dgPassFrontmatter":true}
 ---
 
 

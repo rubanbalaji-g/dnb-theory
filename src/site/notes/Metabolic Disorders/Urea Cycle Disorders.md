@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/metabolic-disorders/urea-cycle-disorders/"}
+{"dg-publish":true,"permalink":"/metabolic-disorders/urea-cycle-disorders/","dgPassFrontmatter":true}
 ---
 
 ## Definition

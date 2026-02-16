@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/metabolic-disorders/mps-2-hunter-disease/"}
+{"dg-publish":true,"permalink":"/metabolic-disorders/mps-2-hunter-disease/","dgPassFrontmatter":true}
 ---
 
 ## 1. DEFINITION AND GENETICS

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/infectious-diseases/psychosocial-effects-of-covid-19-on-children/"}
+{"dg-publish":true,"permalink":"/infectious-diseases/psychosocial-effects-of-covid-19-on-children/","dgPassFrontmatter":true}
 ---
 
 ### Introduction

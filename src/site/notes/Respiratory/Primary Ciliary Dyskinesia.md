@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/respiratory/primary-ciliary-dyskinesia/"}
+{"dg-publish":true,"permalink":"/respiratory/primary-ciliary-dyskinesia/","dgPassFrontmatter":true}
 ---
 
 ## Respiratory Cilia 

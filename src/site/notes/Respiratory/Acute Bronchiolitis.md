@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/respiratory/acute-bronchiolitis/"}
+{"dg-publish":true,"permalink":"/respiratory/acute-bronchiolitis/","dgPassFrontmatter":true}
 ---
 
 # Acute Bronchiolitis: Definition, Etiopathogenesis, and Management

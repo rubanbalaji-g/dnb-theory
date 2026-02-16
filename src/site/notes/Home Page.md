@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/home-page/","tags":["gardenEntry"],"created":"2024-03-19T19:05:00","updated":"2026-01-02T16:26:00"}
+{"dg-publish":true,"permalink":"/home-page/","hide":true,"created":"2024-03-19T19:05:00","updated":"2026-01-02T16:26:00","dg-home":true,"tags":["gardenEntry"],"dgPassFrontmatter":true}
 ---
 
 <div style="text-align: center; margin: 0 auto 0.5rem auto; max-width: 700px; padding: 20px; font-family: sans-serif; line-height: 1.6; color: #e0e0e0;">

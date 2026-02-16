@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/infectious-diseases/disseminated-tb/"}
+{"dg-publish":true,"permalink":"/infectious-diseases/disseminated-tb/","dgPassFrontmatter":true}
 ---
 
 ## 1. Introduction and Definition

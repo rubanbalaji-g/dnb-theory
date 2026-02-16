@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/metabolic-disorders/mps-1-hurler-disease/"}
+{"dg-publish":true,"permalink":"/metabolic-disorders/mps-1-hurler-disease/","dgPassFrontmatter":true}
 ---
 
 ## 1. DEFINITION AND CLASSIFICATION

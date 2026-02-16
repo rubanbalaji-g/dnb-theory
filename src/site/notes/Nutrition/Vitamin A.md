@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/nutrition/vitamin-a/"}
+{"dg-publish":true,"permalink":"/nutrition/vitamin-a/","noteIcon":"","dgPassFrontmatter":true}
 ---
 
 

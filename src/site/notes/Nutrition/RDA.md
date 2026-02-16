@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/nutrition/rda/"}
+{"dg-publish":true,"permalink":"/nutrition/rda/","dgPassFrontmatter":true}
 ---
 
 ## Introduction to Dietary Standards

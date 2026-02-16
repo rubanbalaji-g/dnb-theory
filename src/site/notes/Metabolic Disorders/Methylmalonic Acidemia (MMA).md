@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/metabolic-disorders/methylmalonic-acidemia-mma/"}
+{"dg-publish":true,"permalink":"/metabolic-disorders/methylmalonic-acidemia-mma/","dgPassFrontmatter":true}
 ---
 
 ## 1. DEFINITION AND CLASSIFICATION

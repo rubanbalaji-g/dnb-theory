@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/neonatalogy/antenatal-diagnosis/"}
+{"dg-publish":true,"permalink":"/neonatalogy/antenatal-diagnosis/","dgPassFrontmatter":true}
 ---
 
 ## 1. INTRODUCTION

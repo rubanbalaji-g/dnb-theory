@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/infectious-diseases/drug-resistant-salmonella-mdr-and-narst/"}
+{"dg-publish":true,"permalink":"/infectious-diseases/drug-resistant-salmonella-mdr-and-narst/","dgPassFrontmatter":true}
 ---
 
 ### 1. Introduction

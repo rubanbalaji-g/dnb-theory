@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/nutrition/nutrition/"}
+{"dg-publish":true,"permalink":"/nutrition/nutrition/","hide":true,"noteIcon":"","dgPassFrontmatter":true}
 ---
 
 ## Basics

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/metabolic-disorders/tyrosinemia/"}
+{"dg-publish":true,"permalink":"/metabolic-disorders/tyrosinemia/","dgPassFrontmatter":true}
 ---
 
 ## Overview

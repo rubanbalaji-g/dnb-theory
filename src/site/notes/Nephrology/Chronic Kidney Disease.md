@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/nephrology/chronic-kidney-disease/"}
+{"dg-publish":true,"permalink":"/nephrology/chronic-kidney-disease/","noteIcon":"","dgPassFrontmatter":true}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/neonatalogy/chorionic-villus-sampling-cvs/"}
+{"dg-publish":true,"permalink":"/neonatalogy/chorionic-villus-sampling-cvs/","dgPassFrontmatter":true}
 ---
 
 ## 1. DEFINITION

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/nutrition/strategy-to-prevent-micronutrient-deficiency/"}
+{"dg-publish":true,"permalink":"/nutrition/strategy-to-prevent-micronutrient-deficiency/","dgPassFrontmatter":true}
 ---
 
 Micronutrient deficiency, often termed "Hidden Hunger," compromises growth, development, and immunity even when energy intake is adequate. Preventing these deficiencies requires a multi-pronged strategy involving dietary diversification, supplementation, food fortification, and public health measures. The approach is often summarized as a combination of nutrition-specific and nutrition-sensitive interventions.

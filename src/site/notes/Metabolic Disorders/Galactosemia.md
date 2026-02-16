@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/metabolic-disorders/galactosemia/"}
+{"dg-publish":true,"permalink":"/metabolic-disorders/galactosemia/","dgPassFrontmatter":true}
 ---
 
 ## 1. DEFINITION AND ETIOLOGY

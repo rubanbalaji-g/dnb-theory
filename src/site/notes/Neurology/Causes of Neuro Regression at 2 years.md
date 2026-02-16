@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/neurology/causes-of-neuro-regression-at-2-years/"}
+{"dg-publish":true,"permalink":"/neurology/causes-of-neuro-regression-at-2-years/","dgPassFrontmatter":true}
 ---
 
 ### 1. Introduction

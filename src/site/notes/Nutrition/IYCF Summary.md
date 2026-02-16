@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/nutrition/iycf-summary/"}
+{"dg-publish":true,"permalink":"/nutrition/iycf-summary/","noteIcon":"","dgPassFrontmatter":true}
 ---
 
 > [!question] Early breastfeeding

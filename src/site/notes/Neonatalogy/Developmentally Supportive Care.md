@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/neonatalogy/developmentally-supportive-care/"}
+{"dg-publish":true,"permalink":"/neonatalogy/developmentally-supportive-care/","dgPassFrontmatter":true}
 ---
 
 ## A. WHAT IS DEVELOPMENTALLY SUPPORTIVE CARE?

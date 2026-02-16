@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/infectious-diseases/roseola-infantum/"}
+{"dg-publish":true,"permalink":"/infectious-diseases/roseola-infantum/","dgPassFrontmatter":true}
 ---
 
 # Roseola Infantum (Exanthem Subitum)

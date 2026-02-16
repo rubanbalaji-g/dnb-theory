@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/endocrinology/hashimoto-s-thyroiditis/"}
+{"dg-publish":true,"permalink":"/endocrinology/hashimoto-s-thyroiditis/","noteIcon":"","dgPassFrontmatter":true}
 ---
 
 

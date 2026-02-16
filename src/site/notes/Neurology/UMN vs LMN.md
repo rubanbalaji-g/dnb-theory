@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/neurology/umn-vs-lmn/"}
+{"dg-publish":true,"permalink":"/neurology/umn-vs-lmn/","dgPassFrontmatter":true}
 ---
 
 ## 1. EXAMPLES OF LESIONS (Pediatric Context)

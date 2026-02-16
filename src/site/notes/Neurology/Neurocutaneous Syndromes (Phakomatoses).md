@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/neurology/neurocutaneous-syndromes-phakomatoses/"}
+{"dg-publish":true,"permalink":"/neurology/neurocutaneous-syndromes-phakomatoses/","dgPassFrontmatter":true}
 ---
 
 * **Definition:** A heterogeneous group of congenital disorders characterized by the presence of lesions involving structures derived from the embryonic **ectoderm** (Skin and Central Nervous System).

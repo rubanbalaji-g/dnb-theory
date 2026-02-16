@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/infectious-diseases/healthcare-associated-infections/"}
+{"dg-publish":true,"permalink":"/infectious-diseases/healthcare-associated-infections/","dgPassFrontmatter":true}
 ---
 
 ### 1. Introduction and Definition

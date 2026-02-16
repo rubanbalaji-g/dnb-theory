@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/nutrition/zinc-in-diarrhoea/"}
+{"dg-publish":true,"permalink":"/nutrition/zinc-in-diarrhoea/","dgPassFrontmatter":true}
 ---
 
 ## Rationale

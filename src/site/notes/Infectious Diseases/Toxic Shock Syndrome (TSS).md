@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/infectious-diseases/toxic-shock-syndrome-tss/"}
+{"dg-publish":true,"permalink":"/infectious-diseases/toxic-shock-syndrome-tss/","dgPassFrontmatter":true}
 ---
 
 ## 1. Introduction and Definition

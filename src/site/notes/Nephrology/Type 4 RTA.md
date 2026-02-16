@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/nephrology/type-4-rta/"}
+{"dg-publish":true,"permalink":"/nephrology/type-4-rta/","noteIcon":"","dgPassFrontmatter":true}
 ---
 
 

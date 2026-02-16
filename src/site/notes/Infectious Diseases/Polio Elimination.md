@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/infectious-diseases/polio-elimination/"}
+{"dg-publish":true,"permalink":"/infectious-diseases/polio-elimination/","dgPassFrontmatter":true}
 ---
 
 ## a) Definition of Polio Eradication

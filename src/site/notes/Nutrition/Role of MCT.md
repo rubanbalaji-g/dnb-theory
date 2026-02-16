@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/nutrition/role-of-mct/"}
+{"dg-publish":true,"permalink":"/nutrition/role-of-mct/","dgPassFrontmatter":true}
 ---
 
 ## Physiology of Fat Digestion and Absorption

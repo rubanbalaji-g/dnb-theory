@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/oncology/oncology/"}
+{"dg-publish":true,"permalink":"/oncology/oncology/","hide":true,"noteIcon":"","dgPassFrontmatter":true}
 ---
 
 

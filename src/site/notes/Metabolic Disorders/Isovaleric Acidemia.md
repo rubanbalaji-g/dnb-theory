@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/metabolic-disorders/isovaleric-acidemia/"}
+{"dg-publish":true,"permalink":"/metabolic-disorders/isovaleric-acidemia/","dgPassFrontmatter":true}
 ---
 
 ## 1. DEFINITION AND ETIOLOGY

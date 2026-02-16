@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/infectious-diseases/pediatric-hiv/"}
+{"dg-publish":true,"permalink":"/infectious-diseases/pediatric-hiv/","dgPassFrontmatter":true}
 ---
 
 ## Introduction and Etiology

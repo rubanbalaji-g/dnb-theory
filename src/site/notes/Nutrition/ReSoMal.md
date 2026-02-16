@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/nutrition/re-so-mal/"}
+{"dg-publish":true,"permalink":"/nutrition/re-so-mal/","dgPassFrontmatter":true}
 ---
 
 **ReSoMal** stands for **Re**hydration **So**lution for **Mal**nutrition. It is a specialized oral rehydration fluid formulated specifically for the management of children with Severe Acute Malnutrition (SAM) who present with some or severe dehydration but are **not** in shock.

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/nutrition/thiamine-deficiency/"}
+{"dg-publish":true,"permalink":"/nutrition/thiamine-deficiency/","dgPassFrontmatter":true}
 ---
 
 ## Etiology and Risk Factors

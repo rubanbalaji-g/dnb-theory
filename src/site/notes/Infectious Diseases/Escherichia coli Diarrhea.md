@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/infectious-diseases/escherichia-coli-diarrhea/"}
+{"dg-publish":true,"permalink":"/infectious-diseases/escherichia-coli-diarrhea/","dgPassFrontmatter":true}
 ---
 
 ## 1. Introduction

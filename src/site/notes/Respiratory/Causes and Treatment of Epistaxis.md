@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/respiratory/causes-and-treatment-of-epistaxis/"}
+{"dg-publish":true,"permalink":"/respiratory/causes-and-treatment-of-epistaxis/","dgPassFrontmatter":true}
 ---
 
 ## I. Introduction & Classification

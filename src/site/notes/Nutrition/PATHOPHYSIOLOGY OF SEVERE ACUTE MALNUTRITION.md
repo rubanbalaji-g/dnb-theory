@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/nutrition/pathophysiology-of-severe-acute-malnutrition/"}
+{"dg-publish":true,"permalink":"/nutrition/pathophysiology-of-severe-acute-malnutrition/","dgPassFrontmatter":true}
 ---
 
 ## I. INTRODUCTION AND OVERVIEW

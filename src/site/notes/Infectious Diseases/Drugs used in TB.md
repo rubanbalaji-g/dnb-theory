@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/infectious-diseases/drugs-used-in-tb/"}
+{"dg-publish":true,"permalink":"/infectious-diseases/drugs-used-in-tb/","dgPassFrontmatter":true}
 ---
 
 ## Introduction

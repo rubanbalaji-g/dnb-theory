@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/neonatalogy/fetal-therapy/"}
+{"dg-publish":true,"permalink":"/neonatalogy/fetal-therapy/","dgPassFrontmatter":true}
 ---
 
 ## 1. INTRODUCTION

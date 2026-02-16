@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/nutrition/intergenerational-cycle/"}
+{"dg-publish":true,"permalink":"/nutrition/intergenerational-cycle/","dgPassFrontmatter":true}
 ---
 
 ## The Concept of the Intergenerational Cycle

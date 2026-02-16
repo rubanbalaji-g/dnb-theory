@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/infectious-diseases/acute-rheumatic-fever-arf/"}
+{"dg-publish":true,"permalink":"/infectious-diseases/acute-rheumatic-fever-arf/","dgPassFrontmatter":true}
 ---
 
 ## 1. Introduction and Definition

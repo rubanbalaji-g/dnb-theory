@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/neonatalogy/triage-of-newborn/"}
+{"dg-publish":true,"permalink":"/neonatalogy/triage-of-newborn/","dgPassFrontmatter":true}
 ---
 
 ## 1. INTRODUCTION

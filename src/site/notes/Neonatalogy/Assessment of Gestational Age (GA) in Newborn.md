@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/neonatalogy/assessment-of-gestational-age-ga-in-newborn/"}
+{"dg-publish":true,"permalink":"/neonatalogy/assessment-of-gestational-age-ga-in-newborn/","dgPassFrontmatter":true}
 ---
 
 Accurate assessment of gestational age is critical for anticipating morbidity, guiding management (e.g., respiratory support, feeding), and distinguishing prematurity from growth restriction (SGA).

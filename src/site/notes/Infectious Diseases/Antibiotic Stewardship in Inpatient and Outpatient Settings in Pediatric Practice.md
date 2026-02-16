@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/infectious-diseases/antibiotic-stewardship-in-inpatient-and-outpatient-settings-in-pediatric-practice/"}
+{"dg-publish":true,"permalink":"/infectious-diseases/antibiotic-stewardship-in-inpatient-and-outpatient-settings-in-pediatric-practice/","dgPassFrontmatter":true}
 ---
 
 ## 1. Introduction and Definition

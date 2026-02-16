@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/metabolic-disorders/tay-sach-s-disease/"}
+{"dg-publish":true,"permalink":"/metabolic-disorders/tay-sach-s-disease/","dgPassFrontmatter":true}
 ---
 
 ## 1. DEFINITION AND CLASSIFICATION

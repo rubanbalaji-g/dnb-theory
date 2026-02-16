@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/metabolic-disorders/homocystenuria/"}
+{"dg-publish":true,"permalink":"/metabolic-disorders/homocystenuria/","dgPassFrontmatter":true}
 ---
 
 ## Definition

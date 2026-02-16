@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/infectious-diseases/approach-to-fever-without-focus-in-an-infant/"}
+{"dg-publish":true,"permalink":"/infectious-diseases/approach-to-fever-without-focus-in-an-infant/","dgPassFrontmatter":true}
 ---
 
 ## 1. Introduction and Definitions

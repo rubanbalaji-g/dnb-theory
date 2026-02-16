@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/neonatalogy/infants-of-diabetic-mother/"}
+{"dg-publish":true,"permalink":"/neonatalogy/infants-of-diabetic-mother/","dgPassFrontmatter":true}
 ---
 
 ## 1. Introduction & Pathophysiology

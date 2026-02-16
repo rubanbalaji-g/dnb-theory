@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/infectious-diseases/drug-resistant-malaria/"}
+{"dg-publish":true,"permalink":"/infectious-diseases/drug-resistant-malaria/","dgPassFrontmatter":true}
 ---
 
 ### 1. Definition and Etiology

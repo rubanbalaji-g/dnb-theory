@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/neurology/acute-cerebellar-ataxia/"}
+{"dg-publish":true,"permalink":"/neurology/acute-cerebellar-ataxia/","dgPassFrontmatter":true}
 ---
 
 ### 1. Definition

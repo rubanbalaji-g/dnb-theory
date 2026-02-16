@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/neurology/hydrocephalus/"}
+{"dg-publish":true,"permalink":"/neurology/hydrocephalus/","dgPassFrontmatter":true}
 ---
 
 ## NORMAL CSF CIRCULATION & AQUEDUCTAL STENOSIS 

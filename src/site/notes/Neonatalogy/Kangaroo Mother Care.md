@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/neonatalogy/kangaroo-mother-care/"}
+{"dg-publish":true,"permalink":"/neonatalogy/kangaroo-mother-care/","dgPassFrontmatter":true}
 ---
 
 ## 1. DEFINITION

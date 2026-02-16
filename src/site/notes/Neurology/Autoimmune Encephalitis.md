@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/neurology/autoimmune-encephalitis/"}
+{"dg-publish":true,"permalink":"/neurology/autoimmune-encephalitis/","dgPassFrontmatter":true}
 ---
 
 ### 1. Introduction and Definition

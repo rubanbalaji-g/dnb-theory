@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/respiratory/tonsillitis-and-adenoiditis/"}
+{"dg-publish":true,"permalink":"/respiratory/tonsillitis-and-adenoiditis/","dgPassFrontmatter":true}
 ---
 
 # Acute Tonsillitis in Children

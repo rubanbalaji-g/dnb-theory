@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/nutrition/double-burden-of-malnutrition/"}
+{"dg-publish":true,"permalink":"/nutrition/double-burden-of-malnutrition/","dgPassFrontmatter":true}
 ---
 
 The "Double Burden of Malnutrition" refers to the coexistence of undernutrition along with overweight and obesity, or diet-related non-communicable diseases (NCDs), within individuals, households, and populations throughout life.

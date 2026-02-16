@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/infectious-diseases/pertussis-whooping-cough/"}
+{"dg-publish":true,"permalink":"/infectious-diseases/pertussis-whooping-cough/","dgPassFrontmatter":true}
 ---
 
 ## 1. Introduction

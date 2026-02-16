@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/infectious-diseases/leptospirosis/"}
+{"dg-publish":true,"permalink":"/infectious-diseases/leptospirosis/","dgPassFrontmatter":true}
 ---
 
 ## Introduction

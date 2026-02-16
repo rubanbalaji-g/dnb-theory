@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/neurology/seizures-in-infancy-and-childhood/"}
+{"dg-publish":true,"permalink":"/neurology/seizures-in-infancy-and-childhood/","dgPassFrontmatter":true}
 ---
 
 ### I. Etiology: Causes of Convulsions

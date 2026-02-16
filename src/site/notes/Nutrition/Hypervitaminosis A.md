@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/nutrition/hypervitaminosis-a/"}
+{"dg-publish":true,"permalink":"/nutrition/hypervitaminosis-a/","dgPassFrontmatter":true}
 ---
 
 Hypervitaminosis A is the toxic state resulting from the excessive ingestion of preformed Vitamin A (retinol or retinyl esters). Unlike water-soluble vitamins, Vitamin A is stored in the liver, and its capacity for storage can be exceeded, leading to toxicity. It has a relatively narrow therapeutic window compared to other vitamins.

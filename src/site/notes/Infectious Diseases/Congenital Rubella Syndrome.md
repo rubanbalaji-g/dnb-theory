@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/infectious-diseases/congenital-rubella-syndrome/"}
+{"dg-publish":true,"permalink":"/infectious-diseases/congenital-rubella-syndrome/","dgPassFrontmatter":true}
 ---
 
 ## Introduction

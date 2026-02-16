@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/neonatalogy/levels-of-neonatal-care/"}
+{"dg-publish":true,"permalink":"/neonatalogy/levels-of-neonatal-care/","dgPassFrontmatter":true}
 ---
 
 ## 1. Introduction

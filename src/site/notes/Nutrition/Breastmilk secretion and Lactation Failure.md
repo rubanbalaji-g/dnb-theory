@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/nutrition/breastmilk-secretion-and-lactation-failure/"}
+{"dg-publish":true,"permalink":"/nutrition/breastmilk-secretion-and-lactation-failure/","dgPassFrontmatter":true}
 ---
 
 ## Physiology of Breast Milk Secretion

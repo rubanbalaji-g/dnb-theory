@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/infectious-diseases/h1-n1-infection/"}
+{"dg-publish":true,"permalink":"/infectious-diseases/h1-n1-infection/","dgPassFrontmatter":true}
 ---
 
 ## a) Virology and Epidemiology of H1N1 Infection

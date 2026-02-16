@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/nutrition/human-vs-animal-milk/"}
+{"dg-publish":true,"permalink":"/nutrition/human-vs-animal-milk/","dgPassFrontmatter":true}
 ---
 
 ## Comparison of Human Milk and Cow's Milk

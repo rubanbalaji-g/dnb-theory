@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/neurology/secondary-headaches/"}
+{"dg-publish":true,"permalink":"/neurology/secondary-headaches/","dgPassFrontmatter":true}
 ---
 
 ## Characteristics

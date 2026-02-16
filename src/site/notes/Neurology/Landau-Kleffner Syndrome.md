@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/neurology/landau-kleffner-syndrome/"}
+{"dg-publish":true,"permalink":"/neurology/landau-kleffner-syndrome/","dgPassFrontmatter":true}
 ---
 
 ### 1. Definition

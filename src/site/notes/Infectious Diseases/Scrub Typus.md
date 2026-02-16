@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/infectious-diseases/scrub-typus/"}
+{"dg-publish":true,"permalink":"/infectious-diseases/scrub-typus/","dgPassFrontmatter":true}
 ---
 
 ### Introduction

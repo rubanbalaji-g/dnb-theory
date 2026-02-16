@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cardiology/transposition-and-malposition-of-great-arteries/"}
+{"dg-publish":true,"permalink":"/cardiology/transposition-and-malposition-of-great-arteries/","noteIcon":"","dgPassFrontmatter":true}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/infectious-diseases/kala-azar-visceral-leishmaniasis/"}
+{"dg-publish":true,"permalink":"/infectious-diseases/kala-azar-visceral-leishmaniasis/","dgPassFrontmatter":true}
 ---
 
 ### Introduction and Etiology

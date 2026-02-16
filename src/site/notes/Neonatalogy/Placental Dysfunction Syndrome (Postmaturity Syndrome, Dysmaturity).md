@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/neonatalogy/placental-dysfunction-syndrome-postmaturity-syndrome-dysmaturity/"}
+{"dg-publish":true,"permalink":"/neonatalogy/placental-dysfunction-syndrome-postmaturity-syndrome-dysmaturity/","dgPassFrontmatter":true}
 ---
 
 ## 1. Introduction & Definition

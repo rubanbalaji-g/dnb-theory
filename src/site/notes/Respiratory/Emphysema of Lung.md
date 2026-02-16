@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/respiratory/emphysema-of-lung/"}
+{"dg-publish":true,"permalink":"/respiratory/emphysema-of-lung/","dgPassFrontmatter":true}
 ---
 
 ### 1. Etiology of Localized Emphysema 

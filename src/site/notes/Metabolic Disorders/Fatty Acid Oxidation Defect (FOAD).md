@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/metabolic-disorders/fatty-acid-oxidation-defect-foad/"}
+{"dg-publish":true,"permalink":"/metabolic-disorders/fatty-acid-oxidation-defect-foad/","dgPassFrontmatter":true}
 ---
 
 ## I. INTRODUCTION & PATHOPHYSIOLOGY

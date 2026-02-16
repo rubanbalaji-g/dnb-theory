@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/neurology/child-with-hemiplegia/"}
+{"dg-publish":true,"permalink":"/neurology/child-with-hemiplegia/","dgPassFrontmatter":true}
 ---
 
 ## Etiopathogenesis 

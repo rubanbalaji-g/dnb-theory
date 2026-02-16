@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/infectious-diseases/neurocysticercosis/"}
+{"dg-publish":true,"permalink":"/infectious-diseases/neurocysticercosis/","dgPassFrontmatter":true}
 ---
 
 ## Introduction and Definition

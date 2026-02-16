@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/neonatalogy/scoring-to-predict-mortality-in-neonatology/"}
+{"dg-publish":true,"permalink":"/neonatalogy/scoring-to-predict-mortality-in-neonatology/","dgPassFrontmatter":true}
 ---
 
 ### 1. Introduction

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/respiratory/antibiotics-in-uri/"}
+{"dg-publish":true,"permalink":"/respiratory/antibiotics-in-uri/","dgPassFrontmatter":true}
 ---
 
 ## I. General Principles

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/nutrition/role-of-zinc-in-immunity/"}
+{"dg-publish":true,"permalink":"/nutrition/role-of-zinc-in-immunity/","dgPassFrontmatter":true}
 ---
 
 ## Overview

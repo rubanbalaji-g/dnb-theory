@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/respiratory/persistant-and-recurrent-pneumonia/"}
+{"dg-publish":true,"permalink":"/respiratory/persistant-and-recurrent-pneumonia/","dgPassFrontmatter":true}
 ---
 
 ## I. Definitions

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/neonatalogy/assessment-of-fetal-well-being-fetal-surveillance/"}
+{"dg-publish":true,"permalink":"/neonatalogy/assessment-of-fetal-well-being-fetal-surveillance/","dgPassFrontmatter":true}
 ---
 
 ## 1. INTRODUCTION

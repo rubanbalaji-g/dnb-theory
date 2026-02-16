@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/infectious-diseases/passive-immunity/"}
+{"dg-publish":true,"permalink":"/infectious-diseases/passive-immunity/","dgPassFrontmatter":true}
 ---
 
 ### Introduction

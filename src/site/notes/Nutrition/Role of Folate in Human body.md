@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/nutrition/role-of-folate-in-human-body/"}
+{"dg-publish":true,"permalink":"/nutrition/role-of-folate-in-human-body/","dgPassFrontmatter":true}
 ---
 
 ## Introduction and Chemical Nature

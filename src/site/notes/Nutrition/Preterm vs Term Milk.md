@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/nutrition/preterm-vs-term-milk/"}
+{"dg-publish":true,"permalink":"/nutrition/preterm-vs-term-milk/","dgPassFrontmatter":true}
 ---
 
 ## Introduction: Biological Specificity of Human Milk

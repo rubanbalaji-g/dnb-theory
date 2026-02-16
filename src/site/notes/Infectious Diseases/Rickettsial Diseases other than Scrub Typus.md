@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/infectious-diseases/rickettsial-diseases-other-than-scrub-typus/"}
+{"dg-publish":true,"permalink":"/infectious-diseases/rickettsial-diseases-other-than-scrub-typus/","dgPassFrontmatter":true}
 ---
 
 ## Introduction

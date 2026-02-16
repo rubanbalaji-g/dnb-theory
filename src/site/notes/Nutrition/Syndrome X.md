@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/nutrition/syndrome-x/"}
+{"dg-publish":true,"permalink":"/nutrition/syndrome-x/","dgPassFrontmatter":true}
 ---
 
 Syndrome X, widely known today as **Metabolic Syndrome**, represents a cluster of metabolic abnormalities that occur together, increasing the risk of heart disease, stroke, and type 2 diabetes. In the context of pediatrics and developing nations, its etiology is strongly linked to the "Fetal Origins of Adult Disease" (FOAD) and the double/triple burden of malnutrition.

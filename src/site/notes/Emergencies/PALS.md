@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/emergencies/pals/"}
+{"dg-publish":true,"permalink":"/emergencies/pals/","noteIcon":"","dgPassFrontmatter":true}
 ---
 
 

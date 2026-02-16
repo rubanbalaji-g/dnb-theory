@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/neonatalogy/feeding-problems-in-neonates/"}
+{"dg-publish":true,"permalink":"/neonatalogy/feeding-problems-in-neonates/","dgPassFrontmatter":true}
 ---
 
 ## 1. Introduction

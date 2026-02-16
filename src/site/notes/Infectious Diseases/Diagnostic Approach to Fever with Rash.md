@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/infectious-diseases/diagnostic-approach-to-fever-with-rash/"}
+{"dg-publish":true,"permalink":"/infectious-diseases/diagnostic-approach-to-fever-with-rash/","dgPassFrontmatter":true}
 ---
 
 

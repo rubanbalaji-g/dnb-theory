@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/nutrition/folate-deficiency/"}
+{"dg-publish":true,"permalink":"/nutrition/folate-deficiency/","dgPassFrontmatter":true}
 ---
 
 ## Clinical Features

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/respiratory/morphogenesis-malformations-and-natural-course-of-ccam/"}
+{"dg-publish":true,"permalink":"/respiratory/morphogenesis-malformations-and-natural-course-of-ccam/","dgPassFrontmatter":true}
 ---
 
 ## I. Steps in Morphogenesis of Respiratory System (3 Marks)

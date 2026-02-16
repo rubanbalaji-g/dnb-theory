@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/endocrinology/puberty-goiter/"}
+{"dg-publish":true,"permalink":"/endocrinology/puberty-goiter/","noteIcon":"","dgPassFrontmatter":true}
 ---
 
 

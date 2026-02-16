@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/neonatalogy/sncu/"}
+{"dg-publish":true,"permalink":"/neonatalogy/sncu/","dgPassFrontmatter":true}
 ---
 
 ## 1. Introduction & Definition

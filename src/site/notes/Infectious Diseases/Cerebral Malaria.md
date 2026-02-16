@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/infectious-diseases/cerebral-malaria/"}
+{"dg-publish":true,"permalink":"/infectious-diseases/cerebral-malaria/","dgPassFrontmatter":true}
 ---
 
 ### Introduction and Definition

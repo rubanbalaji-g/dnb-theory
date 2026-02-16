@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/infectious-diseases/hydatid-cyst/"}
+{"dg-publish":true,"permalink":"/infectious-diseases/hydatid-cyst/","dgPassFrontmatter":true}
 ---
 
 ### Introduction

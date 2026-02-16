@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/development/development/"}
+{"dg-publish":true,"permalink":"/development/development/","hide":true,"noteIcon":"","dgPassFrontmatter":true}
 ---
 
 

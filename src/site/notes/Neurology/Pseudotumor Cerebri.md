@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/neurology/pseudotumor-cerebri/"}
+{"dg-publish":true,"permalink":"/neurology/pseudotumor-cerebri/","dgPassFrontmatter":true}
 ---
 
 Pseudotumor Cerebri, now more accurately termed **Idiopathic Intracranial Hypertension (IIH)**, is a syndrome characterized by raised intracranial pressure (ICP) in the absence of a mass lesion, hydrocephalus, or abnormal cerebrospinal fluid (CSF) composition. Historically termed "benign intracranial hypertension," this name is now discouraged because the condition carries a significant risk of permanent visual loss if untreated.

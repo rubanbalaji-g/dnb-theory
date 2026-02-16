@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/neurology/adem/"}
+{"dg-publish":true,"permalink":"/neurology/adem/","dgPassFrontmatter":true}
 ---
 
 ### 1. Introduction and Definition

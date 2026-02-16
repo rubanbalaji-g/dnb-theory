@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/infectious-diseases/drug-resistant-tb/"}
+{"dg-publish":true,"permalink":"/infectious-diseases/drug-resistant-tb/","dgPassFrontmatter":true}
 ---
 
 ## Introduction

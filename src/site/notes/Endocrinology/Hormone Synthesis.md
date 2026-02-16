@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/endocrinology/hormone-synthesis/"}
+{"dg-publish":true,"permalink":"/endocrinology/hormone-synthesis/","noteIcon":"","dgPassFrontmatter":true}
 ---
 
 

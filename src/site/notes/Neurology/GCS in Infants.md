@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/neurology/gcs-in-infants/"}
+{"dg-publish":true,"permalink":"/neurology/gcs-in-infants/","dgPassFrontmatter":true}
 ---
 
 The Glasgow Coma Scale (GCS) was originally designed for adults. Because infants and children under age 4 cannot be assessed for verbal responses or the ability to follow commands, the Modified Glasgow Coma Scale (MGCS) is utilized. It remains the gold standard for assessing the depth and duration of impaired consciousness and predicting outcomes in pediatric traumatic brain injury (TBI).

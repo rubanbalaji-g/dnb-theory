@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/infectious-diseases/complicated-severe-malaria/"}
+{"dg-publish":true,"permalink":"/infectious-diseases/complicated-severe-malaria/","dgPassFrontmatter":true}
 ---
 
 ### Introduction

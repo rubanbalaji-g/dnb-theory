@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/infectious-diseases/prevention-and-early-detection-of-tuberculosis/"}
+{"dg-publish":true,"permalink":"/infectious-diseases/prevention-and-early-detection-of-tuberculosis/","dgPassFrontmatter":true}
 ---
 
 ## **Introduction** 

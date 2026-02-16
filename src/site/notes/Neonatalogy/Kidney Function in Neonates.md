@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/neonatalogy/kidney-function-in-neonates/"}
+{"dg-publish":true,"permalink":"/neonatalogy/kidney-function-in-neonates/","dgPassFrontmatter":true}
 ---
 
 ## 1. Introduction

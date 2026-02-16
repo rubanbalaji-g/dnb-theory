@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/infectious-diseases/short-course-chemotherapy-for-tuberculosis/"}
+{"dg-publish":true,"permalink":"/infectious-diseases/short-course-chemotherapy-for-tuberculosis/","dgPassFrontmatter":true}
 ---
 
 ## **Introduction** 

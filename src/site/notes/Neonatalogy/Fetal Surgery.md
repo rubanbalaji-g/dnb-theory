@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/neonatalogy/fetal-surgery/"}
+{"dg-publish":true,"permalink":"/neonatalogy/fetal-surgery/","dgPassFrontmatter":true}
 ---
 
 ## 1. INTRODUCTION

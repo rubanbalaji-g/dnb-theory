@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/hematology/pancytopenia/"}
+{"dg-publish":true,"permalink":"/hematology/pancytopenia/","noteIcon":"","dgPassFrontmatter":true}
 ---
 
 

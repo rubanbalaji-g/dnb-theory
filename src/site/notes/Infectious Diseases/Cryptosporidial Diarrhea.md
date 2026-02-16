@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/infectious-diseases/cryptosporidial-diarrhea/"}
+{"dg-publish":true,"permalink":"/infectious-diseases/cryptosporidial-diarrhea/","dgPassFrontmatter":true}
 ---
 
 ## Introduction and Epidemiology

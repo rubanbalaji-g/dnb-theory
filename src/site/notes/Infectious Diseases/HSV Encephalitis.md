@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/infectious-diseases/hsv-encephalitis/"}
+{"dg-publish":true,"permalink":"/infectious-diseases/hsv-encephalitis/","dgPassFrontmatter":true}
 ---
 
 # Herpes Simplex Virus (HSV) Encephalitis: Pathogenesis, Clinical Features, and Management

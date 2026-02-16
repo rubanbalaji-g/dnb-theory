@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/metabolic-disorders/sphingolipidosis-and-mucolipidosis/"}
+{"dg-publish":true,"permalink":"/metabolic-disorders/sphingolipidosis-and-mucolipidosis/","dgPassFrontmatter":true}
 ---
 
 ## 1. INTRODUCTION

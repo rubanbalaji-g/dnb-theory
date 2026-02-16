@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/nutrition/obesity-in-childhood/"}
+{"dg-publish":true,"permalink":"/nutrition/obesity-in-childhood/","dgPassFrontmatter":true}
 ---
 
 Childhood obesity is a complex, multifactorial chronic disease defined by excess body fat (adiposity) sufficient to impair health. It is emerging as a serious public health challenge in developing countries like India, coexisting with undernutrition, a phenomenon termed the "Double Burden of Malnutrition".

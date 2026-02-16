@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/infectious-diseases/nosocomial-infections/"}
+{"dg-publish":true,"permalink":"/infectious-diseases/nosocomial-infections/","dgPassFrontmatter":true}
 ---
 
 ## 1. Introduction and Definition

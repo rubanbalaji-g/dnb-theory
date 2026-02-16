@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/neurology/focal-seizures/"}
+{"dg-publish":true,"permalink":"/neurology/focal-seizures/","noteIcon":"","dgPassFrontmatter":true}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/nutrition/productive-effects-of-breastfeeding/"}
+{"dg-publish":true,"permalink":"/nutrition/productive-effects-of-breastfeeding/","dgPassFrontmatter":true}
 ---
 
 ## Low Prevalence of Hypoglycemia

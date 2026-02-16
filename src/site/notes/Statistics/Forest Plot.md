@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/statistics/forest-plot/"}
+{"dg-publish":true,"permalink":"/statistics/forest-plot/","noteIcon":"","dgPassFrontmatter":true}
 ---
 
 

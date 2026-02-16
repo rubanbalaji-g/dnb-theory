@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/infectious-diseases/malaria/"}
+{"dg-publish":true,"permalink":"/infectious-diseases/malaria/","dgPassFrontmatter":true}
 ---
 
 ## Introduction and Epidemiology

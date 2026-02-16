@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/metabolic-disorders/approach-to-iem/"}
+{"dg-publish":true,"permalink":"/metabolic-disorders/approach-to-iem/","dgPassFrontmatter":true}
 ---
 
 ## 1. INTRODUCTION

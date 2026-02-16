@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/neonatalogy/role-of-antenatal-steroids/"}
+{"dg-publish":true,"permalink":"/neonatalogy/role-of-antenatal-steroids/","noteIcon":"","dgPassFrontmatter":true}
 ---
 
 **Antenatal steroids are given to pregnant women at risk of preterm delivery to accelerate fetal lung maturation, reduce neonatal complications, and improve survival.**

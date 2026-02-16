@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/nutrition/copper-zinc-and-magnesium-in-health/"}
+{"dg-publish":true,"permalink":"/nutrition/copper-zinc-and-magnesium-in-health/","dgPassFrontmatter":true}
 ---
 
 Micronutrients, including trace elements like copper and zinc, and macrominerals like magnesium, play pivotal roles in maintaining physiological homeostasis. Their functions range from acting as cofactors for critical enzymatic reactions to maintaining structural integrity and regulating gene expression. Derangements in their metabolism lead to significant morbidity, manifesting as specific deficiency syndromes or toxicity states.

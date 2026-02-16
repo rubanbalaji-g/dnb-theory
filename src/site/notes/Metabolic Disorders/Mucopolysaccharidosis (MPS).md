@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/metabolic-disorders/mucopolysaccharidosis-mps/"}
+{"dg-publish":true,"permalink":"/metabolic-disorders/mucopolysaccharidosis-mps/","dgPassFrontmatter":true}
 ---
 
 ## 1. Definition

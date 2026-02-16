@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/endocrinology/acquired-hypothyroidism/"}
+{"dg-publish":true,"permalink":"/endocrinology/acquired-hypothyroidism/","noteIcon":"","dgPassFrontmatter":true}
 ---
 
 

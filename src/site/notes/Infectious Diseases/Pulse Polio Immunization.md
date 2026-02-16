@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/infectious-diseases/pulse-polio-immunization/"}
+{"dg-publish":true,"permalink":"/infectious-diseases/pulse-polio-immunization/","dgPassFrontmatter":true}
 ---
 
 ## Introduction

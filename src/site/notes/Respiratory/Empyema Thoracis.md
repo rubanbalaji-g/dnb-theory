@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/respiratory/empyema-thoracis/"}
+{"dg-publish":true,"permalink":"/respiratory/empyema-thoracis/","dgPassFrontmatter":true}
 ---
 
 

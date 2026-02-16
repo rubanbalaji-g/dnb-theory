@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/infectious-diseases/hiv-and-tb-co-infection-in-children/"}
+{"dg-publish":true,"permalink":"/infectious-diseases/hiv-and-tb-co-infection-in-children/","dgPassFrontmatter":true}
 ---
 
 ### 1. Introduction and Epidemiology

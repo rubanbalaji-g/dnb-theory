@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/respiratory/respiratory-system/"}
+{"dg-publish":true,"permalink":"/respiratory/respiratory-system/","hide":true,"noteIcon":"","dgPassFrontmatter":true}
 ---
 
 ## Developmental Anatomy and Congenital Anomalies

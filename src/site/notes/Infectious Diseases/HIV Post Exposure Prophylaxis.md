@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/infectious-diseases/hiv-post-exposure-prophylaxis/"}
+{"dg-publish":true,"permalink":"/infectious-diseases/hiv-post-exposure-prophylaxis/","dgPassFrontmatter":true}
 ---
 
 ## Introduction

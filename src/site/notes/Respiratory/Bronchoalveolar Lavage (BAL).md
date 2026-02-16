@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/respiratory/bronchoalveolar-lavage-bal/"}
+{"dg-publish":true,"permalink":"/respiratory/bronchoalveolar-lavage-bal/","dgPassFrontmatter":true}
 ---
 
 ## I. Introduction & Definition

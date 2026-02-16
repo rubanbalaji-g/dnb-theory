@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/infectious-diseases/case-definitions-of-tb/"}
+{"dg-publish":true,"permalink":"/infectious-diseases/case-definitions-of-tb/","dgPassFrontmatter":true}
 ---
 
 Standardized case definitions are essential for the proper registration, treatment allocation, and monitoring of tuberculosis patients. Cases are classified based on the history of previous treatment, the basis of diagnosis, and the drug resistance pattern.

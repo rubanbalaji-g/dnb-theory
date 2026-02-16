@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/neonatalogy/triple-screen-and-quadruple-screen/"}
+{"dg-publish":true,"permalink":"/neonatalogy/triple-screen-and-quadruple-screen/","dgPassFrontmatter":true}
 ---
 
 ## PART 1: ANTENATAL SCREENING FOR DOWN SYNDROME 

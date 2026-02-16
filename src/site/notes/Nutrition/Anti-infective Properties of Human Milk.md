@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/nutrition/anti-infective-properties-of-human-milk/"}
+{"dg-publish":true,"permalink":"/nutrition/anti-infective-properties-of-human-milk/","dgPassFrontmatter":true}
 ---
 
 ## Introduction 

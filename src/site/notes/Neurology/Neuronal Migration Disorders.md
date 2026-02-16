@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/neurology/neuronal-migration-disorders/"}
+{"dg-publish":true,"permalink":"/neurology/neuronal-migration-disorders/","dgPassFrontmatter":true}
 ---
 
 ## OVERVIEW OF PATHOGENESIS

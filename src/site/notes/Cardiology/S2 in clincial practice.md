@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cardiology/s2-in-clincial-practice/"}
+{"dg-publish":true,"permalink":"/cardiology/s2-in-clincial-practice/","dgPassFrontmatter":true}
 ---
 
 ## 1. INTRODUCTION AND COMPONENTS

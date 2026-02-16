@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/nutrition/admission-and-discharge-criteria-in-sam/"}
+{"dg-publish":true,"permalink":"/nutrition/admission-and-discharge-criteria-in-sam/","dgPassFrontmatter":true}
 ---
 
 The management of Severe Acute Malnutrition (SAM) is categorized into facility-based (inpatient) care and community-based (outpatient) care. The decision to admit or discharge depends on the presence of "medical complications," the child's appetite, and age.

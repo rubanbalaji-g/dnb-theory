@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/metabolic-disorders/von-gierke-s-disease/"}
+{"dg-publish":true,"permalink":"/metabolic-disorders/von-gierke-s-disease/","dgPassFrontmatter":true}
 ---
 
 ## 1. DEFINITION AND CLASSIFICATION

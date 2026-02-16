@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/infectious-diseases/management-of-worm-infestation/"}
+{"dg-publish":true,"permalink":"/infectious-diseases/management-of-worm-infestation/","dgPassFrontmatter":true}
 ---
 
 ## Introduction

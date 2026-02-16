@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/metabolic-disorders/gaucher-s-disease/"}
+{"dg-publish":true,"permalink":"/metabolic-disorders/gaucher-s-disease/","dgPassFrontmatter":true}
 ---
 
 ## 1. DEFINITION

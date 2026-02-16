@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/neurology/benign-rolandic-epilepsy/"}
+{"dg-publish":true,"permalink":"/neurology/benign-rolandic-epilepsy/","dgPassFrontmatter":true}
 ---
 
 ### 1. Definition and Classification (ILAE 2017)

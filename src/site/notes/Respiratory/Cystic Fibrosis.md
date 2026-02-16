@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/respiratory/cystic-fibrosis/"}
+{"dg-publish":true,"permalink":"/respiratory/cystic-fibrosis/","dgPassFrontmatter":true}
 ---
 
 ## Pathophysiology of CF

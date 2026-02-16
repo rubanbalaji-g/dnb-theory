@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/neonatalogy/probiotics-in-neonates/"}
+{"dg-publish":true,"permalink":"/neonatalogy/probiotics-in-neonates/","dgPassFrontmatter":true}
 ---
 
 ## 1. Introduction

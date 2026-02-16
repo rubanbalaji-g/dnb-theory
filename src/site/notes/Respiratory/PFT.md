@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/respiratory/pft/"}
+{"dg-publish":true,"permalink":"/respiratory/pft/","dgPassFrontmatter":true}
 ---
 
 # Pulmonary Function Tests (PFTs) and Clinical Utility

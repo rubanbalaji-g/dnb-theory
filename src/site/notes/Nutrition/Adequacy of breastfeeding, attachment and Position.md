@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/nutrition/adequacy-of-breastfeeding-attachment-and-position/"}
+{"dg-publish":true,"permalink":"/nutrition/adequacy-of-breastfeeding-attachment-and-position/","dgPassFrontmatter":true}
 ---
 
 ## Assessment of Breast Milk Adequacy and Attachment

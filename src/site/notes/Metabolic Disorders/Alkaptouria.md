@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/metabolic-disorders/alkaptouria/"}
+{"dg-publish":true,"permalink":"/metabolic-disorders/alkaptouria/","dgPassFrontmatter":true}
 ---
 
 ## 1. DEFINITION AND ETIOLOGY

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/neurology/ataxia-in-children/"}
+{"dg-publish":true,"permalink":"/neurology/ataxia-in-children/","dgPassFrontmatter":true}
 ---
 
 ### I. Enumeration of Causes of Ataxia

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/infectious-diseases/japanese-encephalitis/"}
+{"dg-publish":true,"permalink":"/infectious-diseases/japanese-encephalitis/","dgPassFrontmatter":true}
 ---
 
 ## 1. Introduction

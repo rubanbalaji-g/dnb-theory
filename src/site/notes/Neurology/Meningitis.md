@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/neurology/meningitis/"}
+{"dg-publish":true,"permalink":"/neurology/meningitis/","dgPassFrontmatter":true}
 ---
 
 # MENINGITIS IN CHILDREN

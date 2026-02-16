@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/neurology/viral-encephalitis/"}
+{"dg-publish":true,"permalink":"/neurology/viral-encephalitis/","dgPassFrontmatter":true}
 ---
 
 ## 1. Definition

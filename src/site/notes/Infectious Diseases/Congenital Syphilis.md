@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/infectious-diseases/congenital-syphilis/"}
+{"dg-publish":true,"permalink":"/infectious-diseases/congenital-syphilis/","dgPassFrontmatter":true}
 ---
 
 ## Introduction

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/neurology/partial-seizures/"}
+{"dg-publish":true,"permalink":"/neurology/partial-seizures/","dgPassFrontmatter":true}
 ---
 
 ### Classification 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/metabolic-disorders/ornithine-transcarbamylase-otc-deficiency/"}
+{"dg-publish":true,"permalink":"/metabolic-disorders/ornithine-transcarbamylase-otc-deficiency/","dgPassFrontmatter":true}
 ---
 
 ## 1. DEFINITION AND EPIDEMIOLOGY

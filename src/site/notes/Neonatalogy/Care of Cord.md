@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/neonatalogy/care-of-cord/"}
+{"dg-publish":true,"permalink":"/neonatalogy/care-of-cord/","dgPassFrontmatter":true}
 ---
 
 # Cord Milking: Current Guideline and Controversies

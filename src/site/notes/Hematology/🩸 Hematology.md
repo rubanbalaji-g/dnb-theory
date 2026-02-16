@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/hematology/hematology/"}
+{"dg-publish":true,"permalink":"/hematology/hematology/","hide":true,"noteIcon":"","dgPassFrontmatter":true}
 ---
 
 

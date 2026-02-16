@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/infectious-diseases/ascariasis/"}
+{"dg-publish":true,"permalink":"/infectious-diseases/ascariasis/","dgPassFrontmatter":true}
 ---
 
 ## Introduction and Etiology

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/endocrinology/endocrinology/"}
+{"dg-publish":true,"permalink":"/endocrinology/endocrinology/","noteIcon":"","dgPassFrontmatter":true}
 ---
 
 

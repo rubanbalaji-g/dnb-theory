@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/metabolic-disorders/lysosomal-storage-disorders/"}
+{"dg-publish":true,"permalink":"/metabolic-disorders/lysosomal-storage-disorders/","dgPassFrontmatter":true}
 ---
 
 ## 1. INTRODUCTION AND DEFINITION

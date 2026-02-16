@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/nutrition/complementary-feeding/"}
+{"dg-publish":true,"permalink":"/nutrition/complementary-feeding/","dgPassFrontmatter":true}
 ---
 
 ### Introduction and Definitions

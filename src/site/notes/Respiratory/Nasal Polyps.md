@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/respiratory/nasal-polyps/"}
+{"dg-publish":true,"permalink":"/respiratory/nasal-polyps/","dgPassFrontmatter":true}
 ---
 
 ## I. Introduction & Definition

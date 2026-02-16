@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/infectious-diseases/nontyphoidal-salmonellosis/"}
+{"dg-publish":true,"permalink":"/infectious-diseases/nontyphoidal-salmonellosis/","dgPassFrontmatter":true}
 ---
 
 

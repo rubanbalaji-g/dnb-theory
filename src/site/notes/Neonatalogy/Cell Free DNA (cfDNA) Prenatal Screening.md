@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/neonatalogy/cell-free-dna-cf-dna-prenatal-screening/"}
+{"dg-publish":true,"permalink":"/neonatalogy/cell-free-dna-cf-dna-prenatal-screening/","dgPassFrontmatter":true}
 ---
 
 ## 1. INTRODUCTION

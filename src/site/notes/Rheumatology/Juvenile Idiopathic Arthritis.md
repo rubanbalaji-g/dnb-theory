@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/rheumatology/juvenile-idiopathic-arthritis/","created":"2025-03-15T22:48:00"}
+{"dg-publish":true,"permalink":"/rheumatology/juvenile-idiopathic-arthritis/","noteIcon":"","created":"2025-03-15T22:48:00","dgPassFrontmatter":true}
 ---
 
 

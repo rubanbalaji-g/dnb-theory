@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/neurology/infantile-tremor-syndrome/"}
+{"dg-publish":true,"permalink":"/neurology/infantile-tremor-syndrome/","dgPassFrontmatter":true}
 ---
 
 ### 1. Introduction and Definition

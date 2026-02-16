@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/neurology/meningeal-irritation-and-signs/"}
+{"dg-publish":true,"permalink":"/neurology/meningeal-irritation-and-signs/","dgPassFrontmatter":true}
 ---
 
 ## INTRODUCTION

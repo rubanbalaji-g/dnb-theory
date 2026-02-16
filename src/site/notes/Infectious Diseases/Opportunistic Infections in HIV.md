@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/infectious-diseases/opportunistic-infections-in-hiv/"}
+{"dg-publish":true,"permalink":"/infectious-diseases/opportunistic-infections-in-hiv/","dgPassFrontmatter":true}
 ---
 
 ## Introduction and Epidemiology

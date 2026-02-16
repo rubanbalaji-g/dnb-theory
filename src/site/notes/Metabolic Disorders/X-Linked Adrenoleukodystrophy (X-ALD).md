@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/metabolic-disorders/x-linked-adrenoleukodystrophy-x-ald/"}
+{"dg-publish":true,"permalink":"/metabolic-disorders/x-linked-adrenoleukodystrophy-x-ald/","dgPassFrontmatter":true}
 ---
 
 ## 1. DEFINITION AND ETIOLOGY
