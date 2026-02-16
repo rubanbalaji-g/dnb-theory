@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/nutrition/cutaneous-manifestation-of-micronutrient-deficiency/","dgPassFrontmatter":true}
+{"dg-publish":true,"uplink":"/nutrition/nutrition/","uptext":"Back to Index (Nutrition)","permalink":"/nutrition/cutaneous-manifestation-of-micronutrient-deficiency/","dgPassFrontmatter":true}
 ---
 
 ## Protein-Energy Malnutrition (PEM)

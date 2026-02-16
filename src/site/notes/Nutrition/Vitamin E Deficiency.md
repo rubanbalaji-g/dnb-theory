@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/nutrition/vitamin-e-deficiency/","dgPassFrontmatter":true}
+{"dg-publish":true,"uplink":"/nutrition/nutrition/","uptext":"Back to Index (Nutrition)","permalink":"/nutrition/vitamin-e-deficiency/","dgPassFrontmatter":true}
 ---
 
 ## Introduction

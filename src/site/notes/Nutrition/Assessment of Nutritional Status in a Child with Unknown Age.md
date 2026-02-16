@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"tags":null,"permalink":"/nutrition/assessment-of-nutritional-status-in-a-child-with-unknown-age/","dgPassFrontmatter":true}
+{"dg-publish":true,"uplink":"/nutrition/nutrition/","uptext":"Back to Index (Nutrition)","tags":null,"permalink":"/nutrition/assessment-of-nutritional-status-in-a-child-with-unknown-age/","dgPassFrontmatter":true}
 ---
 
 Nutritional assessment usually relies heavily on age-dependent indices like Weight-for-Age and Height-for-Age. However, in many developing countries and rural settings, the exact date of birth is often unknown. In such scenarios, age-independent anthropometric indices and clinical signs become critical for identifying malnutrition.

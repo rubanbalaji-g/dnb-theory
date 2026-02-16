@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/neurology/ketogenic-diet-in-epilepsy/","dgPassFrontmatter":true}
+{"dg-publish":true,"uplink":"/neurology/neurology/","uptext":"Back to Index (Neurology)","permalink":"/neurology/ketogenic-diet-in-epilepsy/","dgPassFrontmatter":true}
 ---
 
 ### 1. Definition and Historical Context

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/nutrition/low-dose-vitamin-d-and-stoss-regimen/","dgPassFrontmatter":true}
+{"dg-publish":true,"uplink":"/nutrition/nutrition/","uptext":"Back to Index (Nutrition)","permalink":"/nutrition/low-dose-vitamin-d-and-stoss-regimen/","dgPassFrontmatter":true}
 ---
 
 The management of nutritional rickets primarily involves the administration of Vitamin D and calcium. Historically, high-dose "Stoss" therapy was popular, but current guidelines favor daily low-dose regimens due to safety concerns.

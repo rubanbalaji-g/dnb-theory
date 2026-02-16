@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/infectious-diseases/clinical-manifestation-of-tb/","dgPassFrontmatter":true}
+{"dg-publish":true,"uplink":"/infectious-diseases/infectious-diseases/","uptext":"Back to Index (Infectious Diseases)","permalink":"/infectious-diseases/clinical-manifestation-of-tb/","dgPassFrontmatter":true}
 ---
 
 # Clinical Manifestations of Tuberculosis in Children

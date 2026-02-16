@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/metabolic-disorders/biotinidase-deficiency-late-onset-multiple-carboxylase-deficiency/","dgPassFrontmatter":true}
+{"dg-publish":true,"uplink":"/metabolic-disorders/metabolic-disorders/","uptext":"Back to Index (Metabolic Disorders)","permalink":"/metabolic-disorders/biotinidase-deficiency-late-onset-multiple-carboxylase-deficiency/","dgPassFrontmatter":true}
 ---
 
 ## 1. DEFINITION AND ETIOLOGY

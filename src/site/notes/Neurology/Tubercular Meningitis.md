@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/neurology/tubercular-meningitis/","dgPassFrontmatter":true}
+{"dg-publish":true,"uplink":"/neurology/neurology/","uptext":"Back to Index (Neurology)","permalink":"/neurology/tubercular-meningitis/","dgPassFrontmatter":true}
 ---
 
 ### **1. Introduction and Epidemiology**

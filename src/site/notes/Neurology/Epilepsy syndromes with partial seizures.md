@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/neurology/epilepsy-syndromes-with-partial-seizures/","dgPassFrontmatter":true}
+{"dg-publish":true,"uplink":"/neurology/neurology/","uptext":"Back to Index (Neurology)","permalink":"/neurology/epilepsy-syndromes-with-partial-seizures/","dgPassFrontmatter":true}
 ---
 
 ### I. Introduction and Classification (ILAE 2017)

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/nutrition/fluoride-toxicity/","dgPassFrontmatter":true}
+{"dg-publish":true,"uplink":"/nutrition/nutrition/","uptext":"Back to Index (Nutrition)","permalink":"/nutrition/fluoride-toxicity/","dgPassFrontmatter":true}
 ---
 
 ## Introduction

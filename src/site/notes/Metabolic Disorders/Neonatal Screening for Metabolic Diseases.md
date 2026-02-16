@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/metabolic-disorders/neonatal-screening-for-metabolic-diseases/","dgPassFrontmatter":true}
+{"dg-publish":true,"uplink":"/metabolic-disorders/metabolic-disorders/","uptext":"Back to Index (Metabolic Disorders)","permalink":"/metabolic-disorders/neonatal-screening-for-metabolic-diseases/","dgPassFrontmatter":true}
 ---
 
 ## 1. Introduction and Role of Newborn Screening

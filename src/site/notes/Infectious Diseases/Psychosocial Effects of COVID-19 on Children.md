@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/infectious-diseases/psychosocial-effects-of-covid-19-on-children/","dgPassFrontmatter":true}
+{"dg-publish":true,"uplink":"/infectious-diseases/infectious-diseases/","uptext":"Back to Index (Infectious Diseases)","permalink":"/infectious-diseases/psychosocial-effects-of-covid-19-on-children/","dgPassFrontmatter":true}
 ---
 
 ### Introduction

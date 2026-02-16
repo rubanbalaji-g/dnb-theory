@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/neurology/internal-capsule-applied-anatomy/","dgPassFrontmatter":true}
+{"dg-publish":true,"uplink":"/neurology/neurology/","uptext":"Back to Index (Neurology)","permalink":"/neurology/internal-capsule-applied-anatomy/","dgPassFrontmatter":true}
 ---
 
 The internal capsule is a compact band of projection fibers (both ascending and descending) that separates the thalamus and caudate nucleus medially from the lentiform nucleus laterally. It is the primary conduit for sensory and motor information between the cerebral cortex and the brainstem/spinal cord.

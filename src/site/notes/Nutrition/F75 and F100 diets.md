@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/nutrition/f75-and-f100-diets/","dgPassFrontmatter":true}
+{"dg-publish":true,"uplink":"/nutrition/nutrition/","uptext":"Back to Index (Nutrition)","permalink":"/nutrition/f75-and-f100-diets/","dgPassFrontmatter":true}
 ---
 
 The management of Severe Acute Malnutrition (SAM) is physiologically divided into two distinct phases: the **Stabilization Phase** and the **Rehabilitation Phase**. This division is critical because the metabolic state of a child with SAM differs significantly between the acute, fragile state and the recovery state. Two specific therapeutic milk formulas, **F-75 (Starter Diet)** and **F-100 (Catch-up Diet)**, have been designed by the WHO to meet the specific physiological needs of each phase.

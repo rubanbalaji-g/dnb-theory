@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/respiratory/asthma/","noteIcon":"","created":"2024-06-12T20:49:00","dgPassFrontmatter":true}
+{"dg-publish":true,"uplink":"/respiratory/respiratory-system/","uptext":"Back to Index (🫁Respiratory System)","permalink":"/respiratory/asthma/","dgPassFrontmatter":true}
 ---
 
 

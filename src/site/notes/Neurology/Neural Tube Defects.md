@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/neurology/neural-tube-defects/","dgPassFrontmatter":true}
+{"dg-publish":true,"uplink":"/neurology/neurology/","uptext":"Back to Index (Neurology)","permalink":"/neurology/neural-tube-defects/","dgPassFrontmatter":true}
 ---
 
 ## DEFINITION

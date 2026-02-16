@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/nutrition/refeeding-syndrome/","dgPassFrontmatter":true}
+{"dg-publish":true,"uplink":"/nutrition/nutrition/","uptext":"Back to Index (Nutrition)","permalink":"/nutrition/refeeding-syndrome/","dgPassFrontmatter":true}
 ---
 
 Refeeding syndrome is a potentially fatal condition that occurs in response to the rapid reintroduction of nutrition (oral, enteral, or parenteral) in a malnourished patient. It is characterized by rapid electrolyte and fluid shifts resulting from the metabolic changes triggered by feeding.

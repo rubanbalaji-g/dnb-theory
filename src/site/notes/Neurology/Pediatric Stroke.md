@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/neurology/pediatric-stroke/","dgPassFrontmatter":true}
+{"dg-publish":true,"uplink":"/neurology/neurology/","uptext":"Back to Index (Neurology)","permalink":"/neurology/pediatric-stroke/","dgPassFrontmatter":true}
 ---
 
 ### 1. Introduction and Definition

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/nutrition/overview-of-micronutrients/","dgPassFrontmatter":true}
+{"dg-publish":true,"uplink":"/nutrition/nutrition/","uptext":"Back to Index (Nutrition)","permalink":"/nutrition/overview-of-micronutrients/","dgPassFrontmatter":true}
 ---
 
 - Micronutrients are essential dietary components required by the body in small quantities for the maintenance of health, growth, and normal physiological processes.

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/nutrition/hidden-hunger/","dgPassFrontmatter":true}
+{"dg-publish":true,"uplink":"/nutrition/nutrition/","uptext":"Back to Index (Nutrition)","permalink":"/nutrition/hidden-hunger/","dgPassFrontmatter":true}
 ---
 
 ## Definition and Concept

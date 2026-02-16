@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/infectious-diseases/approach-to-a-neonate-born-to-a-covid-19-positive-mother/","dgPassFrontmatter":true}
+{"dg-publish":true,"uplink":"/infectious-diseases/infectious-diseases/","uptext":"Back to Index (Infectious Diseases)","permalink":"/infectious-diseases/approach-to-a-neonate-born-to-a-covid-19-positive-mother/","dgPassFrontmatter":true}
 ---
 
 ### Introduction

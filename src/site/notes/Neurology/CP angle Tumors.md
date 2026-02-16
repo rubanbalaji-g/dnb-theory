@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/neurology/cp-angle-tumors/","dgPassFrontmatter":true}
+{"dg-publish":true,"uplink":"/neurology/neurology/","uptext":"Back to Index (Neurology)","permalink":"/neurology/cp-angle-tumors/","dgPassFrontmatter":true}
 ---
 
 ### I. DEFINITION AND OVERVIEW

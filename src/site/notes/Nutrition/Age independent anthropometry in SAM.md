@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/nutrition/age-independent-anthropometry-in-sam/","dgPassFrontmatter":true}
+{"dg-publish":true,"uplink":"/nutrition/nutrition/","uptext":"Back to Index (Nutrition)","permalink":"/nutrition/age-independent-anthropometry-in-sam/","dgPassFrontmatter":true}
 ---
 
 Age-independent anthropometric criteria are essential tools for assessing nutritional status when the exact age of a child is unknown or unreliable. These indicators rely on the relationships between different body measurements (labile vs. static tissues) that remain relatively constant or change in a predictable manner regardless of age, particularly in the 1–5 year age group.

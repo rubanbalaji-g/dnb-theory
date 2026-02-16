@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/nutrition/vitamin-d-and-rickets/","noteIcon":"","created":"2024-07-18T05:00:00","dgPassFrontmatter":true}
+{"dg-publish":true,"uplink":"/nutrition/nutrition/","uptext":"Back to Index (Nutrition)","permalink":"/nutrition/vitamin-d-and-rickets/","dgPassFrontmatter":true}
 ---
 
 ## Introduction and Nature of Vitamin D

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/neurology/raised-ict/","dgPassFrontmatter":true}
+{"dg-publish":true,"uplink":"/neurology/neurology/","uptext":"Back to Index (Neurology)","permalink":"/neurology/raised-ict/","dgPassFrontmatter":true}
 ---
 
 Raised intracranial pressure (ICP) is a critical neurological emergency in pediatrics. It is a common complication in critically ill children, potentially arising from traumatic brain injury (TBI), central nervous system (CNS) infections, mass lesions, or metabolic disorders. The prompt recognition and management of elevated ICP are vital to prevent secondary brain injury, herniation, and death.

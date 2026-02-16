@@ -7,7 +7,6 @@
 2. [[Nutrition/Overview of Micronutrients\|Overview of Micronutrients]]
 3. [[Nutrition/Hidden Hunger\|Hidden Hunger]]
 4. [[Nutrition/Parameters to detect Undernutrition\|Parameters to detect Undernutrition]]
-5. 
 ## IYCF
 1. [[Nutrition/IYCF Summary\|IYCF Summary]]
 2. [[Nutrition/Complementary Feeding\|Complementary Feeding]]
@@ -27,7 +26,7 @@
 ## Malnutrition
 1. [[Nutrition/Refeeding Syndrome\|Refeeding Syndrome]]
 2. [[Nutrition/Effects of Malnutrition on Mental Health\|Effects of Malnutrition on Mental Health]]
-3. [[Nutrition/PATHOPHYSIOLOGY OF SEVERE ACUTE MALNUTRITION\|PATHOPHYSIOLOGY OF SEVERE ACUTE MALNUTRITION]]
+3. [[Nutrition/Pathophysiology of SAM\|Pathophysiology of SAM]]
 4. [[Nutrition/Biochemical changes in SAM\|Biochemical changes in SAM]]
 5. [[Nutrition/Immunological changes in SAM\|Immunological changes in SAM]]
 6. [[Nutrition/Age independent anthropometry in SAM\|Age independent anthropometry in SAM]]

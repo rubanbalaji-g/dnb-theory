@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/nutrition/long-term-outcome-of-vitamin-b12-deficiency/","dgPassFrontmatter":true}
+{"dg-publish":true,"uplink":"/nutrition/nutrition/","uptext":"Back to Index (Nutrition)","permalink":"/nutrition/long-term-outcome-of-vitamin-b12-deficiency/","dgPassFrontmatter":true}
 ---
 
 - Vitamin B12 (cobalamin) is a water-soluble vitamin essential for DNA synthesis, erythropoiesis, and the maintenance of the nervous system.

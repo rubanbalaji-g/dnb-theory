@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/respiratory/acute-sinusitis/","dgPassFrontmatter":true}
+{"dg-publish":true,"uplink":"/respiratory/respiratory-system/","uptext":"Back to Index (🫁Respiratory System)","permalink":"/respiratory/acute-sinusitis/","dgPassFrontmatter":true}
 ---
 
 ## I. Introduction and Definitions

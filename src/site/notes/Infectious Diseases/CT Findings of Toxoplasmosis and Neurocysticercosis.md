@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/infectious-diseases/ct-findings-of-toxoplasmosis-and-neurocysticercosis/","dgPassFrontmatter":true}
+{"dg-publish":true,"uplink":"/infectious-diseases/infectious-diseases/","uptext":"Back to Index (Infectious Diseases)","permalink":"/infectious-diseases/ct-findings-of-toxoplasmosis-and-neurocysticercosis/","dgPassFrontmatter":true}
 ---
 
 ## Brain CT Findings in Congenital Toxoplasmosis

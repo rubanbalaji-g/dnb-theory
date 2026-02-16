@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/nutrition/cobalamin-vitamin-b12-deficiency/","dgPassFrontmatter":true}
+{"dg-publish":true,"uplink":"/nutrition/nutrition/","uptext":"Back to Index (Nutrition)","permalink":"/nutrition/cobalamin-vitamin-b12-deficiency/","dgPassFrontmatter":true}
 ---
 
 ## Physiological Role and Metabolism

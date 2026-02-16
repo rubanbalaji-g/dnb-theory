@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/neurology/microcephaly/","dgPassFrontmatter":true}
+{"dg-publish":true,"uplink":"/neurology/neurology/","uptext":"Back to Index (Neurology)","permalink":"/neurology/microcephaly/","dgPassFrontmatter":true}
 ---
 
 ## 1. Growth Velocity of Head Size From Birth

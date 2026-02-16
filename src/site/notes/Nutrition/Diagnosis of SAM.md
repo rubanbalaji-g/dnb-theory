@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/nutrition/diagnosis-of-sam/","dgPassFrontmatter":true}
+{"dg-publish":true,"uplink":"/nutrition/nutrition/","uptext":"Back to Index (Nutrition)","permalink":"/nutrition/diagnosis-of-sam/","dgPassFrontmatter":true}
 ---
 
 ### 1. Definition and Diagnostic Criteria (Children 6–59 Months)

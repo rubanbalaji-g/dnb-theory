@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/infectious-diseases/chickenpox-in-adolescence/","dgPassFrontmatter":true}
+{"dg-publish":true,"uplink":"/infectious-diseases/infectious-diseases/","uptext":"Back to Index (Infectious Diseases)","permalink":"/infectious-diseases/chickenpox-in-adolescence/","dgPassFrontmatter":true}
 ---
 
 Chickenpox (varicella) is a primary infection caused by the varicella-zoster virus (VZV), a neurotropic alpha-herpesvirus. While classically considered a benign disease of childhood (ages 1–9 years), chickenpox presents unique challenges and significantly higher risks when it occurs in adolescents (defined roughly as ages 10–19). In this age group, the disease is typically more severe, with a higher burden of lesions, more prolonged systemic symptoms, and a markedly increased risk of serious complications such as pneumonia. Consequently, management strategies for adolescents differ from those for younger children, specifically regarding the routine use of antiviral therapy.

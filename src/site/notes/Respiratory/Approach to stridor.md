@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/respiratory/approach-to-stridor/","dgPassFrontmatter":true}
+{"dg-publish":true,"uplink":"/respiratory/respiratory-system/","uptext":"Back to Index (🫁Respiratory System)","permalink":"/respiratory/approach-to-stridor/","dgPassFrontmatter":true}
 ---
 
 ## I. Clinical Summary & Definition

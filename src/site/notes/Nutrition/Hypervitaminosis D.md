@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/nutrition/hypervitaminosis-d/","dgPassFrontmatter":true}
+{"dg-publish":true,"uplink":"/nutrition/nutrition/","uptext":"Back to Index (Nutrition)","permalink":"/nutrition/hypervitaminosis-d/","dgPassFrontmatter":true}
 ---
 
 ## Definition and Overview

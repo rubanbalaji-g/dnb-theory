@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/nutrition/nutritional-support-of-a-critically-ill-child/","dgPassFrontmatter":true}
+{"dg-publish":true,"uplink":"/nutrition/nutrition/","uptext":"Back to Index (Nutrition)","permalink":"/nutrition/nutritional-support-of-a-critically-ill-child/","dgPassFrontmatter":true}
 ---
 
 Nutritional support is a fundamental component of pediatric critical care. Critical illness induces a hypermetabolic and hypercatabolic stress response that differs significantly from simple starvation.

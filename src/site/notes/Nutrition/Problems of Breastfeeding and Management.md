@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/nutrition/problems-of-breastfeeding-and-management/","dgPassFrontmatter":true}
+{"dg-publish":true,"uplink":"/nutrition/nutrition/","uptext":"Back to Index (Nutrition)","permalink":"/nutrition/problems-of-breastfeeding-and-management/","dgPassFrontmatter":true}
 ---
 
 ## Problems of Breastfeeding

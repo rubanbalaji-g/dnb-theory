@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/nutrition/composition-of-human-milk/","dgPassFrontmatter":true}
+{"dg-publish":true,"uplink":"/nutrition/nutrition/","uptext":"Back to Index (Nutrition)","permalink":"/nutrition/composition-of-human-milk/","dgPassFrontmatter":true}
 ---
 
 ## Nutritional Composition of Human Milk

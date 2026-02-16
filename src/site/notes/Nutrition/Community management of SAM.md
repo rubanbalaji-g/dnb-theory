@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/nutrition/community-management-of-sam/","dgPassFrontmatter":true}
+{"dg-publish":true,"uplink":"/nutrition/nutrition/","uptext":"Back to Index (Nutrition)","permalink":"/nutrition/community-management-of-sam/","dgPassFrontmatter":true}
 ---
 
 Community-based management of SAM is the strategy to treat children with **uncomplicated** severe acute malnutrition at home. This approach recognizes that the majority of children with SAM do not have medical complications and can be successfully rehabilitated in their communities without exposing them to hospital-acquired infections or incurring the social/economic costs of hospitalization.

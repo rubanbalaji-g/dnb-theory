@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/respiratory/emphysema-of-lung/","dgPassFrontmatter":true}
+{"dg-publish":true,"uplink":"/respiratory/respiratory-system/","uptext":"Back to Index (🫁Respiratory System)","permalink":"/respiratory/emphysema-of-lung/","dgPassFrontmatter":true}
 ---
 
 ### 1. Etiology of Localized Emphysema 

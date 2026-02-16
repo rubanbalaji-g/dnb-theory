@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/respiratory/cystic-fibrosis/","dgPassFrontmatter":true}
+{"dg-publish":true,"uplink":"/respiratory/respiratory-system/","uptext":"Back to Index (🫁Respiratory System)","permalink":"/respiratory/cystic-fibrosis/","dgPassFrontmatter":true}
 ---
 
 ## Pathophysiology of CF

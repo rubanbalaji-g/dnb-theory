@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/neurology/myoclonic-seizures-of-infancy/","dgPassFrontmatter":true}
+{"dg-publish":true,"uplink":"/neurology/neurology/","uptext":"Back to Index (Neurology)","permalink":"/neurology/myoclonic-seizures-of-infancy/","dgPassFrontmatter":true}
 ---
 
 ### 1. Definition of Myoclonic Epilepsy

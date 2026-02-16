@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/nutrition/parameters-to-detect-undernutrition/","dgPassFrontmatter":true}
+{"dg-publish":true,"uplink":"/nutrition/nutrition/","uptext":"Back to Index (Nutrition)","permalink":"/nutrition/parameters-to-detect-undernutrition/","dgPassFrontmatter":true}
 ---
 
 Undernutrition is a condition resulting from inadequate consumption, poor accretion, or excessive loss of nutrients. It encompasses a spectrum including underweight, stunting, wasting, and micronutrient deficiencies (hidden hunger). Accurate assessment requires a multi-modal approach involving dietary, clinical, and anthropometric evaluation.

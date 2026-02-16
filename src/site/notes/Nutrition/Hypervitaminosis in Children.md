@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/nutrition/hypervitaminosis-in-children/","dgPassFrontmatter":true}
+{"dg-publish":true,"uplink":"/nutrition/nutrition/","uptext":"Back to Index (Nutrition)","permalink":"/nutrition/hypervitaminosis-in-children/","dgPassFrontmatter":true}
 ---
 
 Hypervitaminosis refers to a condition of abnormally high storage levels of vitamins, which can lead to toxic symptoms. While the body has mechanisms to excrete excess water-soluble vitamins (B and C), fat-soluble vitamins (A, D, E, and K) are stored in the liver and adipose tissue, making them more prone to accumulation and toxicity. In children, this often results from excessive supplementation, accidental ingestion, or food faddism.

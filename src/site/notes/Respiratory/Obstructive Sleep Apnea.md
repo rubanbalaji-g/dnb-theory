@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/respiratory/obstructive-sleep-apnea/","noteIcon":"","dgPassFrontmatter":true}
+{"dg-publish":true,"uplink":"/respiratory/respiratory-system/","uptext":"Back to Index (🫁Respiratory System)","permalink":"/respiratory/obstructive-sleep-apnea/","dgPassFrontmatter":true}
 ---
 
 

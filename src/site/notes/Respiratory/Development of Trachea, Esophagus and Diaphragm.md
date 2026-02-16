@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/respiratory/development-of-trachea-esophagus-and-diaphragm/","dgPassFrontmatter":true}
+{"dg-publish":true,"uplink":"/respiratory/respiratory-system/","uptext":"Back to Index (🫁Respiratory System)","permalink":"/respiratory/development-of-trachea-esophagus-and-diaphragm/","dgPassFrontmatter":true}
 ---
 
 ## I. Development of the Diaphragm

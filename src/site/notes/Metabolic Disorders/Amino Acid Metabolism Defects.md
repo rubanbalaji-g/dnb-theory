@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/metabolic-disorders/amino-acid-metabolism-defects/","dgPassFrontmatter":true}
+{"dg-publish":true,"uplink":"/metabolic-disorders/metabolic-disorders/","uptext":"Back to Index (Metabolic Disorders)","permalink":"/metabolic-disorders/amino-acid-metabolism-defects/","dgPassFrontmatter":true}
 ---
 
 ## 1. DEFINITION AND OVERVIEW

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/infectious-diseases/torch-infections/","dgPassFrontmatter":true}
+{"dg-publish":true,"uplink":"/infectious-diseases/infectious-diseases/","uptext":"Back to Index (Infectious Diseases)","permalink":"/infectious-diseases/torch-infections/","dgPassFrontmatter":true}
 ---
 
 The acronym **TORCH** refers to a group of pathogens that can cause congenital or perinatal infections leading to significant fetal and neonatal morbidity and mortality. The components are:

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/neurology/classification-and-approach-to-headaches/","dgPassFrontmatter":true}
+{"dg-publish":true,"uplink":"/neurology/neurology/","uptext":"Back to Index (Neurology)","permalink":"/neurology/classification-and-approach-to-headaches/","dgPassFrontmatter":true}
 ---
 
 ### I. Classification of Headache

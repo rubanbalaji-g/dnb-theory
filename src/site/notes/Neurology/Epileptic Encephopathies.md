@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/neurology/epileptic-encephopathies/","dgPassFrontmatter":true}
+{"dg-publish":true,"uplink":"/neurology/neurology/","uptext":"Back to Index (Neurology)","permalink":"/neurology/epileptic-encephopathies/","dgPassFrontmatter":true}
 ---
 
 Epileptic encephalopathies (EE) are a group of severe epilepsy disorders in which the epileptic electrical discharges themselves contribute to progressive psychomotor dysfunction and cognitive decline. The International League Against Epilepsy (ILAE) defines these as conditions where the epileptic activity leads to severe cognitive and behavioral impairments above and beyond what might be expected from the underlying pathology alone.

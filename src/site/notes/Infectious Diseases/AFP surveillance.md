@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/infectious-diseases/afp-surveillance/","dgPassFrontmatter":true}
+{"dg-publish":true,"uplink":"/infectious-diseases/infectious-diseases/","uptext":"Back to Index (Infectious Diseases)","permalink":"/infectious-diseases/afp-surveillance/","dgPassFrontmatter":true}
 ---
 
 **Acute Flaccid Paralysis (AFP)** surveillance is the gold standard for detecting cases of poliomyelitis. It is a critical strategy of the Global Polio Eradication Initiative (GPEI) to detect poliovirus transmission.

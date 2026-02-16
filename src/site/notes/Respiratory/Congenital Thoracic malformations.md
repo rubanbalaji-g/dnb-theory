@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/respiratory/congenital-thoracic-malformations/","dgPassFrontmatter":true}
+{"dg-publish":true,"uplink":"/respiratory/respiratory-system/","uptext":"Back to Index (🫁Respiratory System)","permalink":"/respiratory/congenital-thoracic-malformations/","dgPassFrontmatter":true}
 ---
 
 # Congenital Malformations of the Lungs (CTM)

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/nutrition/micronutrients-in-breastmilk/","dgPassFrontmatter":true}
+{"dg-publish":true,"uplink":"/nutrition/nutrition/","uptext":"Back to Index (Nutrition)","permalink":"/nutrition/micronutrients-in-breastmilk/","dgPassFrontmatter":true}
 ---
 
 Breast milk is the "gold standard" for infant nutrition, providing a unique matrix of bioavailable nutrients, bioactive factors, and immunological components tailored to the human infant's needs. While macronutrients (proteins, fats, carbohydrates) provide the energy for growth, **micronutrients** (vitamins and minerals) in breast milk play critical roles in metabolic regulation, enzymatic function, bone mineralization, and neurodevelopment.

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/metabolic-disorders/niemann-pick-disease/","dgPassFrontmatter":true}
+{"dg-publish":true,"uplink":"/metabolic-disorders/metabolic-disorders/","uptext":"Back to Index (Metabolic Disorders)","permalink":"/metabolic-disorders/niemann-pick-disease/","dgPassFrontmatter":true}
 ---
 
 ## 1. INTRODUCTION AND CLASSIFICATION

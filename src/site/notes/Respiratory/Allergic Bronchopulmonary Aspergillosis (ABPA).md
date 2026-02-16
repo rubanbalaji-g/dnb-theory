@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/respiratory/allergic-bronchopulmonary-aspergillosis-abpa/","dgPassFrontmatter":true}
+{"dg-publish":true,"uplink":"/respiratory/respiratory-system/","uptext":"Back to Index (🫁Respiratory System)","permalink":"/respiratory/allergic-bronchopulmonary-aspergillosis-abpa/","dgPassFrontmatter":true}
 ---
 
 ## I. Introduction & Definition

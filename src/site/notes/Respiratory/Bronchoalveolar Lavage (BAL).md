@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/respiratory/bronchoalveolar-lavage-bal/","dgPassFrontmatter":true}
+{"dg-publish":true,"uplink":"/respiratory/respiratory-system/","uptext":"Back to Index (🫁Respiratory System)","permalink":"/respiratory/bronchoalveolar-lavage-bal/","dgPassFrontmatter":true}
 ---
 
 ## I. Introduction & Definition

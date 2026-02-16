@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/metabolic-disorders/pompe-s-disease/","dgPassFrontmatter":true}
+{"dg-publish":true,"uplink":"/metabolic-disorders/metabolic-disorders/","uptext":"Back to Index (Metabolic Disorders)","permalink":"/metabolic-disorders/pompe-s-disease/","dgPassFrontmatter":true}
 ---
 
 ## 1. DEFINITION AND CLASSIFICATION

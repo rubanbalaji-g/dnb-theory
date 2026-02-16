@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/metabolic-disorders/zellweger-syndrome-cerebro-hepato-renal-syndrome/","dgPassFrontmatter":true}
+{"dg-publish":true,"uplink":"/metabolic-disorders/metabolic-disorders/","uptext":"Back to Index (Metabolic Disorders)","permalink":"/metabolic-disorders/zellweger-syndrome-cerebro-hepato-renal-syndrome/","dgPassFrontmatter":true}
 ---
 
 ## 1. DEFINITION AND CLASSIFICATION

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/respiratory/chronic-lung-disease/","dgPassFrontmatter":true}
+{"dg-publish":true,"uplink":"/respiratory/respiratory-system/","uptext":"Back to Index (🫁Respiratory System)","permalink":"/respiratory/chronic-lung-disease/","dgPassFrontmatter":true}
 ---
 
 ## I. Etiology

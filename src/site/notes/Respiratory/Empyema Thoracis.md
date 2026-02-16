@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/respiratory/empyema-thoracis/","dgPassFrontmatter":true}
+{"dg-publish":true,"uplink":"/respiratory/respiratory-system/","uptext":"Back to Index (🫁Respiratory System)","permalink":"/respiratory/empyema-thoracis/","dgPassFrontmatter":true}
 ---
-
 
 ### 1. Etiology 
 Empyema is usually a complication of bacterial pneumonia (parapneumonic effusion).

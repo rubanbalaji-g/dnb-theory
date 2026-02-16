@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/nutrition/scurvy/","dgPassFrontmatter":true}
+{"dg-publish":true,"uplink":"/nutrition/nutrition/","uptext":"Back to Index (Nutrition)","permalink":"/nutrition/scurvy/","dgPassFrontmatter":true}
 ---
 
 - **Definition:** Scurvy is the clinical manifestation of severe Vitamin C (ascorbic acid) deficiency.

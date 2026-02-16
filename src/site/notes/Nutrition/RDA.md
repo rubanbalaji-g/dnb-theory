@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/nutrition/rda/","dgPassFrontmatter":true}
+{"dg-publish":true,"uplink":"/nutrition/nutrition/","uptext":"Back to Index (Nutrition)","permalink":"/nutrition/rda/","dgPassFrontmatter":true}
 ---
 
 ## Introduction to Dietary Standards

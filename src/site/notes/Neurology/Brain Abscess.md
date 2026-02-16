@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/neurology/brain-abscess/","dgPassFrontmatter":true}
+{"dg-publish":true,"uplink":"/neurology/neurology/","uptext":"Back to Index (Neurology)","permalink":"/neurology/brain-abscess/","dgPassFrontmatter":true}
 ---
 
 ## **1. Risk Factors for Brain Abscess 

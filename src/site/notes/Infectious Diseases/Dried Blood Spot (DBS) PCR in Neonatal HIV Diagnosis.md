@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/infectious-diseases/dried-blood-spot-dbs-pcr-in-neonatal-hiv-diagnosis/","dgPassFrontmatter":true}
+{"dg-publish":true,"uplink":"/infectious-diseases/infectious-diseases/","uptext":"Back to Index (Infectious Diseases)","permalink":"/infectious-diseases/dried-blood-spot-dbs-pcr-in-neonatal-hiv-diagnosis/","dgPassFrontmatter":true}
 ---
 
 Dried Blood Spot (DBS) Polymerase Chain Reaction (PCR) is the cornerstone of Early Infant Diagnosis (EID) programs for HIV, particularly in resource-limited settings. It allows for the detection of the virus itself rather than antibodies, which is crucial in infants.

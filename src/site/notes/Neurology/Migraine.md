@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/neurology/migraine/","noteIcon":"","dgPassFrontmatter":true}
+{"dg-publish":true,"uplink":"/neurology/neurology/","uptext":"Back to Index (Neurology)","permalink":"/neurology/migraine/","dgPassFrontmatter":true}
 ---
 
 # Characteristics

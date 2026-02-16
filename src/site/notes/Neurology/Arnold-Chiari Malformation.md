@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/neurology/arnold-chiari-malformation/","dgPassFrontmatter":true}
+{"dg-publish":true,"uplink":"/neurology/neurology/","uptext":"Back to Index (Neurology)","permalink":"/neurology/arnold-chiari-malformation/","dgPassFrontmatter":true}
 ---
 
 Arnold-Chiari Malformations (ACM) are a heterogeneous group of structural defects in the cerebellum, brainstem, and craniocervical junction, characterized by the downward displacement of hindbrain structures through the foramen magnum into the cervical canal.

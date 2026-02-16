@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/respiratory/viral-croup/","dgPassFrontmatter":true}
+{"dg-publish":true,"uplink":"/respiratory/respiratory-system/","uptext":"Back to Index (🫁Respiratory System)","permalink":"/respiratory/viral-croup/","dgPassFrontmatter":true}
 ---
 
 # Viral Croup (Acute Laryngotracheobronchitis)

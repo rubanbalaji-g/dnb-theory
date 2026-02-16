@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/nutrition/immunological-changes-in-sam/","dgPassFrontmatter":true}
+{"dg-publish":true,"uplink":"/nutrition/nutrition/","uptext":"Back to Index (Nutrition)","permalink":"/nutrition/immunological-changes-in-sam/","dgPassFrontmatter":true}
 ---
 
 Protein-Energy Malnutrition (PEM), particularly Severe Acute Malnutrition (SAM), is the most common cause of secondary immunodeficiency worldwide. This condition is often termed "Nutritionally Acquired Immunodeficiency Syndrome" due to the profound suppression of the immune system, which mimics acquired immunodeficiencies like AIDS,. The interaction between malnutrition and infection creates a vicious cycle where malnutrition increases susceptibility to infection, and infection further deteriorates nutritional status,.

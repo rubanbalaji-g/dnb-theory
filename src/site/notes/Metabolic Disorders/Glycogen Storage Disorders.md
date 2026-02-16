@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/metabolic-disorders/glycogen-storage-disorders/","dgPassFrontmatter":true}
+{"dg-publish":true,"uplink":"/metabolic-disorders","uptext":"Back to Index (Metabolic Disorders)","permalink":"/metabolic-disorders/glycogen-storage-disorders/","dgPassFrontmatter":true}
 ---
 
 ## I. INTRODUCTION

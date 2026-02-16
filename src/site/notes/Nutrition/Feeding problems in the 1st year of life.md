@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/nutrition/feeding-problems-in-the-1st-year-of-life/","dgPassFrontmatter":true}
+{"dg-publish":true,"uplink":"/nutrition/nutrition/","uptext":"Back to Index (Nutrition)","permalink":"/nutrition/feeding-problems-in-the-1st-year-of-life/","dgPassFrontmatter":true}
 ---
 
 ### 1. Breastfeeding Problems (0–6 Months)

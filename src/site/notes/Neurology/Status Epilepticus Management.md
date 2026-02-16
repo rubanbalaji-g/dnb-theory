@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/neurology/status-epilepticus-management/","dgPassFrontmatter":true}
+{"dg-publish":true,"uplink":"/neurology/neurology/","uptext":"Back to Index (Neurology)","permalink":"/neurology/status-epilepticus-management/","dgPassFrontmatter":true}
 ---
 
 ### 1. Definition (ILAE 2015)

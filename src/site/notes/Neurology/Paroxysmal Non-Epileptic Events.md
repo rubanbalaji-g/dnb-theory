@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/neurology/paroxysmal-non-epileptic-events/","dgPassFrontmatter":true}
+{"dg-publish":true,"uplink":"/neurology/neurology/","uptext":"Back to Index (Neurology)","permalink":"/neurology/paroxysmal-non-epileptic-events/","dgPassFrontmatter":true}
 ---
 
 ### 1. Definition
