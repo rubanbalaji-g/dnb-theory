@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"uplink":"/Nutrition/🍚Nutrition.html","uptext":"Back to Index (Nutrition)","permalink":"/nutrition/acrodermatitis-enteropathica/","dgPassFrontmatter":true}
+{"dg-publish":true,"uplink":"nutrition/nutrition/","uptext":"Back to Index (Nutrition)","permalink":"/nutrition/acrodermatitis-enteropathica/","dgPassFrontmatter":true}
 ---
 
 ## Definition and Overview

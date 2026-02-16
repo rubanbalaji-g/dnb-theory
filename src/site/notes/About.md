@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/about/","title":"About This Garden"}
+{"title":"About This Garden","dg-publish":true,"permalink":"/about/","dgPassFrontmatter":true}
 ---
 
 > [!abstract] About the Author
