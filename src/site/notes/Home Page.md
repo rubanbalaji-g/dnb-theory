@@ -36,9 +36,7 @@
     animation: shine 5s linear infinite;
 ">
     PediaNotes
-</h1>
-
-<style>
+</h1><style>
     @keyframes shine {
         to {
             background-position: 300% center;
@@ -52,9 +50,7 @@
             margin: 0;
             letter-spacing: 0.5px;
             text-transform: uppercase;
-        ">
-            Notes by Dr. Ruban
-        </p>
+        ">Notes by Dr. Ruban</p>
         <div style="
             height: 1px;
             width: 80px;
@@ -69,23 +65,15 @@
             line-height: 1.75;
             color: #94a3b8;
             margin-bottom: 24px;
-        ">
-            This platform is a dedicated resource for candidates appearing for 
-            <strong style="color: #ffffff; font-weight: 600;">DNB (Pediatrics)</strong> and 
-            <strong style="color: #ffffff; font-weight: 600;">MRCPCH</strong> exams. 
-           What began as a personal archive has now transitioned into an open digital notebook for all.
-        </p>
+        ">This platform is a dedicated resource for candidates appearing for <strong style="color: #ffffff; font-weight: 600;">DNB (Pediatrics)</strong> and <strong style="color: #ffffff; font-weight: 600;">MRCPCH</strong> exams. 
+           What began as a personal archive has now transitioned into an open digital notebook for all.</p>
 
         <p style="
             font-size: 1.15rem;
             line-height: 1.75;
             color: #94a3b8;
-        ">
-            Because learning never stops, this site is a 
-            <strong style="color: #ffffff; font-weight: 600;">"work in progress"</strong>. I regularly updated the site as my knowledge expands with new clinical insights and updated guidelines. I hope these notes help you to excel in your academic pursuits.
-        </p>
+        ">Because learning never stops, this site is a <strong style="color: #ffffff; font-weight: 600;">"work in progress"</strong>. I regularly updated the site as my knowledge expands with new clinical insights and updated guidelines. I hope these notes help you to excel in your academic pursuits.</p>
     </section>
-
     <div style="
         display: flex;
         flex-direction: column;
@@ -107,9 +95,7 @@
             transition: all 0.25s ease;
            "
            onmouseover="this.style.transform='translateY(-3px)'; this.style.backgroundColor='#4ade80';"
-           onmouseout="this.style.transform='translateY(0)'; this.style.backgroundColor='#ffffff';">
-            Explore the Notes →
-        </a>
+           onmouseout="this.style.transform='translateY(0)'; this.style.backgroundColor='#ffffff';">Explore the Notes →</a>
 
         <div style="
             display: grid;
