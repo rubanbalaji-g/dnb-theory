@@ -98,3 +98,20 @@ h1, h2, h3, h4, h5, h6, body, .content {
     max-width: 800px;
     margin: 0 auto;
 }
+
+/* Hide Sidebar and Graph when 'clean-page' class is present */
+body:has(.clean-page) .sidebar,
+body:has(.clean-page) .sidebar-left {
+    display: none !important;
+}
+
+body:has(.clean-page) .graph-container {
+    display: none !important;
+}
+
+
+/* Force hide the main page title for specific pages */
+body:has(.hide-title) .page-title,
+.hide-title h1:first-of-type {
+    display: none !important;
+}
