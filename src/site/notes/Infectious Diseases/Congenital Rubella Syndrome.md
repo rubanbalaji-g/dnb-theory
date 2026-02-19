@@ -11,7 +11,7 @@ The syndrome was first described in 1941 by the Australian ophthalmologist **Nor
 ## Etiology and Virology
 
 - **Agent:** Rubella virus.
-- **Classification:** It is the sole member of the genus _Rubivirus_ within the family _Togaviridae_.
+- **Classification:** It is the sole member of the genus _Rubivirus_ within the family _Togaviridae_
 - **Structure:** It is a spherical, enveloped, positive-sense, single-stranded RNA virus. It contains three structural proteins: a nucleocapsid protein (C) and two envelope glycoproteins (E1 and E2). E1 is the major antigenic determinant targeted by neutralizing antibodies.
 - **Host:** Humans are the only natural host.
 - **Stability:** The virus is heat-labile and inactivated by lipid solvents, extremes of pH, and ultraviolet light.

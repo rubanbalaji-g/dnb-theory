@@ -27,14 +27,14 @@ While the arthritis and chorea associated with ARF are self-limiting, the cardia
 
 ARF results exclusively from infection of the upper respiratory tract with Group A _Streptococcus_ (GAS). Skin infections (impetigo) with GAS are associated with post-streptococcal glomerulonephritis but have not been definitively proven to cause ARF, although this remains a topic of debate in some endemic regions.
 
-**Rheumatogenicity:** Not all GAS strains cause ARF. "Rheumatogenic" strains (e.g., M types 1, 3, 5, 6, 18, and 29) are heavily encapsulated (mucoid) and rich in M protein, which resists phagocytosis,.
+**Rheumatogenicity:** Not all GAS strains cause ARF. "Rheumatogenic" strains (e.g., <span style="color:rgb(0, 176, 240)">M types 1, 3, 5, 6, 18, and 29</span>) are heavily encapsulated (mucoid) and rich in M protein, which resists phagocytosis.
 
 ### 3.2. Mechanism: Molecular Mimicry
 
 The most widely accepted theory of pathogenesis is **molecular mimicry**.
 
 - **Latent Period:** There is a latent period of 10–21 days between the pharyngitis and the onset of ARF, suggesting an immune-mediated process rather than direct bacterial toxicity.
-- **Cross-Reactivity:** The GAS bacterium shares antigenic determinants (epitopes) with human host tissues. Antibodies and T-cells directed against GAS M protein, N-acetyl-beta-D-glucosamine (cell wall carbohydrate), and capsular hyaluronate cross-react with host proteins such as cardiac myosin (heart valve), laminin (valvular endothelium), synovium (joints), and basal ganglia (brain).
+- **Cross-Reactivity:** The GAS bacterium shares antigenic determinants (epitopes) with human host tissues. <span style="color:rgb(146, 208, 80)">Antibodies and T-cells directed against <span style="color:rgb(255, 192, 0)">GAS M protein</span>, <span style="color:rgb(255, 192, 0)">N-acetyl-beta-D-glucosamine</span> (cell wall carbohydrate), and <span style="color:rgb(255, 192, 0)">capsular hyaluronate</span> cross-react with host proteins such as <span style="color:rgb(255, 192, 0)">cardiac myosin</span> (heart valve), <span style="color:rgb(255, 192, 0)">laminin</span> (valvular endothelium), <span style="color:rgb(255, 192, 0)">synovium</span> (joints), and <span style="color:rgb(255, 192, 0)">basal ganglia</span> (brain)</span>.
 - **Valve Damage:** This autoimmune reaction leads to inflammation and subsequent scarring of the heart valves.
 
 ## 4. Clinical Manifestations
@@ -56,7 +56,7 @@ The clinical presentation of ARF is defined by the **Revised Jones Criteria (201
 Carditis is the most serious manifestation, occurring in 50–60% of cases. It is a **pancarditis** involving the endocardium, myocardium, and pericardium.
 
 - **Endocarditis (Valvulitis):** This is the universal and essential lesion of rheumatic carditis.
-    - **Mitral Valve:** Affected in nearly all cases. Acute inflammation causes mitral regurgitation, characterized by a high-pitched apical holosystolic murmur radiating to the axilla.
+    - **Mitral Valve:** Affected in nearly all cases. Acute inflammation causes mitral regurgitation, characterized by a <span style="color:rgb(0, 176, 240)">high-pitched apical holosystolic murmur radiating to the axilla</span>.
     - **Aortic Valve:** Less commonly involved alone; usually affected in combination with the mitral valve. Causes aortic regurgitation (high-pitched decrescendo diastolic murmur).
 - **Myocarditis:** May cause tachycardia disproportionate to fever and, in severe cases, congestive heart failure.
 - **Pericarditis:** Manifests as a friction rub, chest pain, or effusion. It rarely occurs without evidence of valvulitis.
@@ -88,7 +88,7 @@ Carditis is the most serious manifestation, occurring in 50–60% of cases. It i
 - **Frequency:** Rare (<1%), usually associated with severe carditis.
 - **Appearance:** Firm, painless, pea-sized nodules (0.5–1 cm) located over extensor surfaces of joints (knees, elbows) and the spine.
 
-## 5. Diagnosis: The Revised Jones Criteria (2015)
+## 5. Diagnosis: The Revised Jones Criteria (2015) #Diagnostic_criteria 
 
 The 2015 revision by the American Heart Association (AHA) stratifies populations into **Low Risk** and **Moderate/High Risk** to improve sensitivity in endemic areas.
 
@@ -105,20 +105,20 @@ The 2015 revision by the American Heart Association (AHA) stratifies populations
 
 ### 5.2. Major and Minor Manifestations by Risk Group
 
-|Criteria|Low-Risk Population|Moderate/High-Risk Population|
-|:--|:--|:--|
-|**MAJOR**|||
-|Carditis|Clinical or Subclinical (Echo)|Clinical or Subclinical (Echo)|
-|Arthritis|**Polyarthritis** only|**Monoarthritis** or Polyarthritis or **Polyarthralgia**|
-|Chorea|Present|Present|
-|Erythema Marginatum|Present|Present|
-|Subcutaneous Nodules|Present|Present|
-|**MINOR**|||
-|Polyarthralgia|Present (if polyarthritis not a major)|**Monoarthralgia** (if arthritis not a major)|
-|Fever|$\ge$ 38.5°C|$\ge$ 38.0°C|
-|ESR|$\ge$ 60 mm/hr|$\ge$ 30 mm/hr|
-|CRP|$\ge$ 3.0 mg/dL|$\ge$ 3.0 mg/dL|
-|Prolonged PR Interval|Present (age-adjusted)|Present (age-adjusted)|
+| Criteria              | Low-Risk Population                    | Moderate/High-Risk Population                            |
+| :-------------------- | :------------------------------------- | :------------------------------------------------------- |
+| **MAJOR**             |                                        |                                                          |
+| Carditis              | Clinical or Subclinical (Echo)         | Clinical or Subclinical (Echo)                           |
+| Arthritis             | **Polyarthritis** only                 | **Monoarthritis** or Polyarthritis or **Polyarthralgia** |
+| Chorea                | Present                                | Present                                                  |
+| Erythema Marginatum   | Present                                | Present                                                  |
+| Subcutaneous Nodules  | Present                                | Present                                                  |
+| **MINOR**             |                                        |                                                          |
+| Polyarthralgia        | Present (if polyarthritis not a major) | **Monoarthralgia** (if arthritis not a major)            |
+| Fever                 | $\ge$ 38.5°C                           | $\ge$ 38.0°C                                             |
+| ESR                   | $\ge$ 60 mm/hr                         | $\ge$ 30 mm/hr                                           |
+| CRP                   | $\ge$ 3.0 mg/dL                        | $\ge$ 3.0 mg/dL                                          |
+| Prolonged PR Interval | Present (age-adjusted)                 | Present (age-adjusted)                                   |
 ### 5.3. Evidence of Antecedent GAS Infection
 
 Evidence is mandatory and can be provided by:

@@ -98,7 +98,7 @@ Prevention strategies rely on vaccination, chemoprophylaxis, and isolation.
 
 Universal vaccination is the cornerstone of control.
 
-- **Primary Series:** Three doses of DTP-containing vaccine starting at 6 weeks of age (6, 10, 14 weeks in India; 2, 4, 6 months in the US),.
+- **Primary Series:** Three doses of DTP-containing vaccine starting at 6 weeks of age (6, 10, 14 weeks in India).
 - **Boosters:** Recommended at 15–18 months, 4–6 years, and 11–12 years (Tdap),.
 - **Maternal Immunization:** Administration of Tdap to pregnant women during _every_ pregnancy (optimally 27–36 weeks) is crucial. It facilitates the transplacental transfer of antibodies to protect the infant during the vulnerable first few months of life (before their own vaccination series begins),. This strategy is 80–91% effective in preventing pertussis in infants <2 months.
 

@@ -59,9 +59,9 @@ The hallmark of SSPE pathology is **panencephalitis** involving both grey and wh
 - **Demyelination:** Extensive demyelination occurs in the white matter, secondary to the loss of oligodendrocytes.
 - **Gliosis:** Prominent astrocytic and microglial proliferation.
 
-## Clinical Manifestations
+## Clinical Manifestations 
 
-The onset is insidious, usually occurring in children and adolescents between 5 and 15 years of age. The clinical course is classically described in four stages (Jabbour stages), although the progression can be variable.
+The onset is insidious, usually occurring in children and adolescents between 5 and 15 years of age. The clinical course is classically described in four stages #staging (Jabbour stages), although the progression can be variable.
 
 ### Stage I: Psychointellectual and Behavioral Changes
 
@@ -101,7 +101,7 @@ Visual disturbances occur in 10–50% of patients and may precede other symptoms
 
 The diagnosis is based on a characteristic clinical history in a young patient combined with specific laboratory and electrophysiological findings.
 
-### 1. Diagnostic Criteria (Dyken’s Criteria)
+### 1. Diagnostic Criteria (Dyken’s Criteria) #Diagnostic_criteria 
 
 Diagnosis requires three of the following five criteria:
 

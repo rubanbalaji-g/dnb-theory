@@ -12,7 +12,7 @@ Meningococcal disease, caused by _Neisseria meningitidis_, remains a significant
 
 - **Classification:** _N. meningitidis_ is a Gram-negative, aerobic (facultatively anaerobic), oxidase-positive, and catalase-positive diplococcus.
 - **Morphology:** It typically appears as kidney-bean-shaped pairs with flattened adjacent sides. It is non-motile and non-spore-forming.
-- **Culture Characteristics:** It is a fastidious organism requiring enriched media like chocolate agar or blood agar and an atmosphere of 3–5% $CO_2$ for optimal growth. It oxidizes glucose and maltose (differentiating it from _N. gonorrhoeae_, which oxidizes only glucose).
+- **Culture Characteristics:** It is a fastidious organism requiring enriched media like <span style="color:rgb(0, 176, 240)">chocolate agar or blood agar</span> and an atmosphere of 3–5% $CO_2$ for optimal growth. It oxidizes glucose and maltose (differentiating it from _N. gonorrhoeae_, which oxidizes only glucose).
 
 ### 2.2. Serogroups and Typing
 
@@ -49,13 +49,13 @@ Classification is crucial for epidemiology and vaccine formulation:
 - **High-Risk Groups:**
     - **Complement Deficiency:** Terminal complement pathway defects (C5–C9) or properdin deficiency increase risk by up to 600-fold, often with unusual serogroups (Y, W, X).
     - **Asplenia:** Functional or anatomic asplenia.
-    - **Medications:** Use of eculizumab (terminal complement inhibitor).
+    - **Medications:** Use of <span style="color:rgb(0, 176, 240)">eculizumab</span> (terminal complement inhibitor).
     - **HIV Infection:** Increased incidence of invasive disease.
 
 ## 4. Pathogenesis
 
 1. **Colonization:** Bacteria attach to the non-ciliated columnar epithelium of the nasopharynx via pili and outer membrane proteins.
-2. **Invasion:** Bacteria penetrate the mucosa via transcytosis and enter the bloodstream.
+2. **Invasion:** Bacteria penetrate the mucosa via <span style="color:rgb(0, 176, 240)">transcytosis</span> and enter the bloodstream.
 3. **Survival:** The capsule protects against host lysis. In susceptible hosts (lacking specific SBA), rapid multiplication occurs.
 4. **Inflammatory Cascade:**
     - Release of outer membrane vesicles containing LOS triggers a massive release of cytokines (TNF-$\alpha$, IL-1, IL-6).
@@ -71,7 +71,8 @@ The incubation period is 1–14 days, typically 3–4 days. The spectrum ranges 
 
 This is the most severe form, characterized by rapid progression.
 
-- **Early Symptoms:** Fever, irritability, "flu-like" symptoms (myalgia, leg pain), chills, and sore throat. **Leg pain**, refusal to walk, and cold hands/feet are important early red flags.
+- **Early Symptoms:** Fever, irritability, "flu-like" symptoms (myalgia, leg pain), chills, and sore throat. 
+- **Leg pain**, refusal to walk, and cold hands/feet are important early red flags.
 - **Cutaneous Signs:**
     - **Rash:** Present in >80% of cases. Initially, it may be a blanching maculopapular rash (often mistaken for a viral exanthem) but rapidly evolves into petechiae and purpura (non-blanching).
     - **Purpura Fulminans:** Extensive ecchymoses and gangrene of extremities due to DIC and thrombosis. Associated with high mortality.
