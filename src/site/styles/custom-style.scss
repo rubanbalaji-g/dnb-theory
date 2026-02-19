@@ -1,25 +1,28 @@
-/* 1. Import Short Stack from Google Fonts */
-@import url('https://fonts.googleapis.com/css2?family=Short+Stack&display=swap');
+/* 1. Import Comic Relief from Google Fonts */
+@import url('https://fonts.googleapis.com/css2?family=Comic+Relief&display=swap');
 
 /* 2. Define Site-Wide Variables */
 :root {
-    --default-font: 'Short Stack', 'Comic Sans MS', cursive !important;
+    /* Sets the default font and creates the 'Paper' aesthetic colors */
+    --default-font: 'Comic Relief', 'Comic Sans MS', cursive !important;
     --background-primary: #fdfaf3; /* Soft cream color */
     --text-normal: #333; /* Dark charcoal instead of pure black */
 }
 
 /* 3. Apply Font Globally */
 body, .markdown-rendered, .content, .title, h1, h2, h3, h4, h5, h6 {
-    font-family: 'Short Stack', 'Comic Sans MS', cursive !important;
+    font-family: 'Comic Relief', 'Comic Sans MS', cursive !important;
 }
 
 /* 4. Soft Doodle Borders */
+/* Rounds the corners of callouts and code blocks for a hand-drawn feel */
 .callout, code, .block-language-mermaid {
     border-radius: 15px !important;
     border: 2px solid #ddd !important;
 }
 
-/* 5. Custom Link Style (Targeted to Content) */
+/* 5. Custom Link Style (The Highlighter Effect) */
+/* This targets only links inside your notes so your navigation stays clean */
 .content a, .markdown-rendered a {
     text-decoration: none;
     background-image: linear-gradient(120deg, #fff176 0%, #fff176 100%); 
@@ -31,5 +34,5 @@ body, .markdown-rendered, .content, .title, h1, h2, h3, h4, h5, h6 {
 }
 
 .content a:hover, .markdown-rendered a:hover {
-    background-size: 100% 88%; /* Full highlight on hover */
+    background-size: 100% 88%; /* Full yellow highlight on hover */
 }
