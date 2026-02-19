@@ -39,7 +39,7 @@
   </p>
 
   <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px; margin-bottom: 2rem;">
-    <a href="#" 
+    <a href="https://www.pedianotes.in/index-of-notes" 
        style="flex: 1 1 100%; padding: 18px 20px; background-color: #2E7D32; color: #ffffff !important; text-decoration: none; font-size: 18px; border-radius: 10px; font-weight: bold; transition: transform 0.2s; box-shadow: 0 4px 15px rgba(0, 0, 0, 0.3); border: 1px solid #1B5E20;">
        Browse Topics : Index of Notes
     </a>
