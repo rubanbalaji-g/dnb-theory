@@ -17,11 +17,22 @@
     <link href="/styles/custom-style.css" rel="stylesheet">
 
     <style>
-        .error-container {
-            max-width: 720px;
-            margin: 6rem auto;
-            padding: 2rem;
+        html, body {
+            height: 100%;
+            margin: 0;
+        }
+
+        body {
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            min-height: 100vh;
+        }
+
+        .error-wrapper {
             text-align: center;
+            max-width: 600px;
+            padding: 2rem;
         }
 
         .error-code {
@@ -59,46 +70,39 @@
             border: 1px solid currentColor;
         }
 
-        .medical-icon {
-            font-size: 3rem;
-            margin-bottom: 1rem;
-        }
-
         .footer-note {
-            margin-top: 3rem;
+            margin-top: 2rem;
             font-size: 0.9rem;
             opacity: 0.6;
         }
     </style>
 </head>
 
-<body class="theme-{{ meta.baseTheme }} markdown-preview-view">
-    <div class="content">
-        <div class="error-container">
+<body class="theme-{{ meta.baseTheme }}">
+    <div class="error-wrapper">
 
-            <div class="medical-icon">🩺</div>
+        <div style="font-size:3rem;">🩺</div>
 
-            <div class="error-code">404</div>
+        <div class="error-code">404</div>
 
-            <div class="error-title">
-                Page Not Found
-            </div>
-
-            <div class="error-description">
-                The clinical note you’re looking for doesn’t exist, 
-                may have been moved, or is not publicly available.
-            </div>
-
-            <div class="error-actions">
-                <a href="/" class="primary-btn">Return to Home</a>
-                <a href="/search" class="secondary-btn">Search Notes</a>
-            </div>
-
-            <div class="footer-note">
-                PediaNotes – Structured Pediatric Learning
-            </div>
-
+        <div class="error-title">
+            Page Not Found
         </div>
+
+        <div class="error-description">
+            The note you’re looking for doesn’t exist,
+            may have been moved, or is not publicly available.
+        </div>
+
+        <div class="error-actions">
+            <a href="/" class="primary-btn">Return to Home</a>
+            <a href="/search" class="secondary-btn">Search Notes</a>
+        </div>
+
+        <div class="footer-note">
+            PediaNotes – Structured Pediatric Learning
+        </div>
+
     </div>
 </body>
 </html>
