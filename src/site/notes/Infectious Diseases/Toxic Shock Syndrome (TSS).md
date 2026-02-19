@@ -6,7 +6,7 @@
 
 Toxic Shock Syndrome (TSS) is an acute, life-threatening, multisystem disorder characterized by high fever, hypotension, diffuse erythroderma (rash), and multiple organ dysfunction. Historically associated with menstruation and high-absorbency tampon use in the late 1970s and early 1980s, TSS is now recognized as a complication of various staphylococcal and streptococcal infections in men, women, and children.
 
-The syndrome is primarily toxin-mediated, caused by superantigens produced by _Staphylococcus aureus_ or _Streptococcus pyogenes_ (Group A Streptococcus [GAS]). While Staphylococcal and Streptococcal TSS share pathophysiologic mechanisms, they differ significantly in clinical presentation, epidemiology, and mortality.
+The syndrome is primarily toxin-mediated, caused by superantigens produced by _Staphylococcus aureus_ or _Streptococcus pyogenes_ (Group A Streptococcus ). While Staphylococcal and Streptococcal TSS share pathophysiologic mechanisms, they differ significantly in clinical presentation, epidemiology, and mortality.
 
 ## 2. Etiology and Epidemiology
 
@@ -22,7 +22,7 @@ The syndrome is primarily toxin-mediated, caused by superantigens produced by _S
 ### 2.2. Streptococcal TSS (STSS)
 
 - **Causative Agent:** _Streptococcus pyogenes_ (Group A Streptococcus).
-- **Toxins:** Primarily Streptococcal Pyrogenic Exotoxins (SpeA and SpeC), which act as superantigens.
+- **Toxins:** Primarily Streptococcal Pyrogenic Exotoxins (<span style="color:rgb(0, 176, 240)">SpeA and SpeC</span>), which act as superantigens.
 - **Epidemiology:** Often associated with severe invasive disease (necrotizing fasciitis, bacteremia, pneumonia). The portal of entry is often the skin (cuts, burns, varicella lesions) or mucous membranes, though in 50% of cases, no portal is identified.
 
 ## 3. Pathogenesis: The Superantigen Concept
@@ -30,7 +30,7 @@ The syndrome is primarily toxin-mediated, caused by superantigens produced by _S
 The hallmark of TSS pathogenesis is the action of **superantigens**.
 
 1. **Mechanism:** Conventional antigens activate only 0.01% to 0.1% of T-cells by binding to the specific antigen-binding groove of the MHC Class II molecule and the T-cell receptor (TCR). Superantigens, however, bind directly to the outer portion of the MHC Class II molecule and the V$\beta$ region of the TCR, bypassing the need for antigen processing.
-2. **Cytokine Storm:** This "short-circuiting" activates a massive number of T-cells (up to 20% of the total T-cell pool). This results in the uncontrolled release of proinflammatory cytokines, particularly Interleukin-1 (IL-1), Interleukin-6 (IL-6), and Tumor Necrosis Factor-alpha (TNF-$\alpha$).
+2. **Cytokine Storm:** This "short-circuiting" activates a massive number of T-cells (up to 20% of the total T-cell pool). This results in the uncontrolled release of proinflammatory cytokines, particularly <span style="color:rgb(0, 176, 240)">Interleukin-1 (IL-1), Interleukin-6 (IL-6), and Tumor Necrosis Factor-alpha (TNF-α)</span>.
 3. **Clinical Effects:** These cytokines mediate the clinical features:
     - **TNF-$\alpha$ and IL-1:** Fever, hypotension, shock, and increased capillary permeability (capillary leak syndrome) leading to hypoalbuminemia and edema.
     - **Direct Tissue Injury:** Toxin-mediated endothelial damage leads to disseminated intravascular coagulation (DIC) and multiorgan failure.
@@ -57,7 +57,7 @@ Clinically distinct from Staphylococcal TSS in several ways:
 - **Rash:** A scarlatiniform or generalized rash occurs but is less common than in Staphylococcal TSS.
 - **Course:** Progression to shock and acute respiratory distress syndrome (ARDS) is often rapid and fulminant.
 
-## 5. Diagnostic Criteria
+## 5. Diagnostic Criteria #Diagnostic_criteria 
 
 Diagnosis is clinical, supported by laboratory evidence of multisystem involvement and the exclusion of other causes.
 

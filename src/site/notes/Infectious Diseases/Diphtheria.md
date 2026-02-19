@@ -4,7 +4,7 @@
 
 ### 1. Introduction and Etiology
 
-Diphtheria is an acute, toxin-mediated infectious disease caused by _Corynebacterium diphtheriae_, an aerobic, gram-positive, non-spore-forming bacillus. Occasionally, toxigenic strains of _C. ulcerans_ also cause the disease. The organism is non-invasive and remains localized to mucosal surfaces, but its virulence is attributed to the production of a potent exotoxin (diphtheria toxin). The toxin inhibits protein synthesis in host cells, leading to local tissue necrosis and systemic toxicity affecting the heart, kidneys, and nervous system.
+Diphtheria is an acute, toxin-mediated infectious disease caused by <span style="color:rgb(0, 176, 240)"><i>Corynebacterium diphtheriae</i></span>, an aerobic, gram-positive, non-spore-forming bacillus. Occasionally, toxigenic strains of _C. ulcerans_ also cause the disease. The organism is non-invasive and remains localized to mucosal surfaces, but its virulence is attributed to the production of a potent exotoxin (diphtheria toxin). The toxin inhibits protein synthesis in host cells, leading to local tissue necrosis and systemic toxicity affecting the heart, kidneys, and nervous system.
 
 ### 2. Epidemiology
 
@@ -18,7 +18,7 @@ Although the incidence has declined globally due to immunization, diphtheria rem
 
 The diphtheria toxin causes local necrosis of the epithelium, resulting in the formation of a characteristic **pseudomembrane** composed of fibrin, bacteria, epithelial cells, and inflammatory cells.
 
-- **Local Effect:** The membrane is gray-brown, leathery, and adherent; attempts to remove it cause bleeding.
+- **Local Effect:** The membrane is gray-brown, leathery, and adherent; <span style="color:rgb(0, 176, 240)">attempts to remove it cause bleeding</span>.
 - **Systemic Effect:** Absorption of the toxin leads to distant organ damage, specifically toxic cardiomyopathy, demyelinating neuropathy, and renal tubular necrosis.
 
 ### 4. Clinical Manifestations
@@ -35,8 +35,8 @@ Clinical features depend on the anatomic site of infection.
 Diagnosis is primarily clinical and treatment should not be delayed for laboratory confirmation.
 
 - **Microscopy:** Albert stain of a swab may show metachromatic granules (Chinese letter pattern), but is not definitive.
-- **Culture:** The gold standard. Requires selective media like **Tellurite blood agar** (black colonies) or Loeffler's serum slope.
-- **Toxigenicity Testing:** Essential to confirm the strain produces toxin. Methods include the **Elek test** (immunoprecipitation) or PCR for the toxin gene.
+- **Culture:** The gold standard. Requires selective media like **<mark style="background: #ABF7F7A6;">Tellurite blood agar</mark>** (black colonies) or <mark style="background: #ABF7F7A6;">Loeffler's serum slope</mark>.
+- **Toxigenicity Testing:** Essential to confirm the strain produces toxin. Methods include the <mark style="background: #ABF7F7A6;">Elek test</mark> (immunoprecipitation) or PCR for the toxin gene.
 
 ### 6. Differential Diagnosis
 
@@ -151,7 +151,7 @@ Since DAT is a foreign protein (equine), there is a significant risk of hypersen
 - **Sensitivity Testing:** Must be performed before administration.
     - **Skin Prick/Intradermal Test:** Diluted serum is injected; a wheal >3mm indicates a positive reaction.
     - **Conjunctival Test:** One drop of 1:10 dilution in the eye.
-- **Desensitization:** If the patient is sensitive, a Besredka desensitization protocol (gradual administration of increasing small doses) must be followed.
+- **Desensitization:** If the patient is sensitive, a <span style="color:rgb(0, 176, 240)">Besredka desensitization protocol</span> (gradual administration of increasing small doses) must be followed.
 - **Adverse Reactions:**
     - **Anaphylaxis:** Immediate, life-threatening reaction (<1%). Epinephrine must always be available at the bedside.
     - **Serum Sickness:** A delayed reaction occurring 7–12 days after administration, characterized by fever, rash, urticaria, arthritis, and lymphadenopathy. Occurs in up to 15% of patients.

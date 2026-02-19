@@ -2,7 +2,6 @@
 {"dg-publish":true,"uplink":"/infectious-diseases/infectious-diseases/","uptext":"Back to Index (Infectious Diseases)","permalink":"/infectious-diseases/nontyphoidal-salmonellosis/","dgPassFrontmatter":true}
 ---
 
-
 ## 1. Introduction
 
 Nontyphoidal Salmonellosis (NTS) refers to infections caused by _Salmonella_ serotypes other than _S._ Typhi and _S._ Paratyphi. While typhoidal _Salmonella_ strains are host-restricted to humans and cause systemic enteric fever, nontyphoidal strains have a broad host range involving both animals and humans. NTS is a major global public health burden, primarily causing self-limiting acute gastroenteritis in healthy individuals but capable of causing life-threatening invasive disease (bacteremia, meningitis) in young infants, the elderly, and immunocompromised hosts.
@@ -17,9 +16,9 @@ Nontyphoidal Salmonellosis (NTS) refers to infections caused by _Salmonella_ ser
 
 - **Modes of Transmission:**
     - **Foodborne:** This is the most common route. Contaminated poultry, eggs, milk, and dairy products are frequent sources.
-    - **Zoonotic:** Direct contact with infected pets, particularly **reptiles** (turtles, iguanas) and amphibians, is a significant risk factor for children.
+    - **Zoonotic:** Direct contact with infected pets, particularly **<span style="color:rgb(0, 176, 240)">reptiles</span>** (turtles, iguanas) and amphibians, is a significant risk factor for children.
     - **Fecal-Oral:** Person-to-person spread can occur but is less common than with _Shigella_ due to the higher inoculum required.
-- **Vulnerable Populations:** The incidence is highest in infants and young children. Severe invasive disease is more common in neonates, infants <3 months, and children with underlying immunodeficiencies (e.g., HIV, sickle cell disease) or malnutrition.
+- **Vulnerable Populations:** The incidence is highest in infants and young children. Severe invasive disease is more common in neonates, infants <3 months, and children with <span style="color:rgb(0, 176, 240)">underlying immunodeficiencies (e.g., HIV, sickle cell disease) or malnutrition.</span>
 - **Invasive NTS in Africa:** In sub-Saharan Africa, NTS has emerged as a leading cause of community-acquired bacteremia in children, often associated with HIV, malaria, and malnutrition, with high case fatality rates.
 
 ## 4. Pathogenesis
@@ -27,7 +26,7 @@ Nontyphoidal Salmonellosis (NTS) refers to infections caused by _Salmonella_ ser
 The severity of NTS infection depends on the inoculum size, serotype virulence, and host defense mechanisms.
 
 1. **Inoculum:** A relatively large inoculum ($10^6–10^8$ organisms) is typically required to cause disease in healthy adults, but a much lower dose can infect infants and patients with reduced gastric acidity (e.g., those on antacids).
-2. **Invasion:** Upon reaching the small intestine, bacteria adhere to and invade the intestinal epithelium, particularly M cells overlying Peyer’s patches. This process is mediated by the **Salmonella Pathogenicity Island 1 (SPI-1)**, which encodes a type III secretion system (TTSS) that injects effector proteins into host cells, causing cytoskeletal rearrangement ("membrane ruffling") and bacterial uptake.
+2. **Invasion:** Upon reaching the small intestine, bacteria adhere to and invade the intestinal epithelium, particularly M cells overlying Peyer’s patches. This process is mediated by the **<span style="color:rgb(0, 176, 240)">Salmonella Pathogenicity Island 1 (SPI-1)</span>**, which encodes a <span style="color:rgb(0, 176, 240)">type III secretion system</span> (TTSS) that injects effector proteins into host cells, causing cytoskeletal rearrangement ("membrane ruffling") and bacterial uptake.
 3. **Inflammation:** Bacterial invasion triggers the release of proinflammatory cytokines (IL-8), attracting neutrophils (PMNs). This inflammatory response, unlike in typhoid fever, remains largely localized to the intestine in immunocompetent hosts, resulting in enterocolitis and diarrhea.
 4. **Systemic Spread:** In susceptible hosts, bacteria may survive within macrophages (mediated by **SPI-2**) and disseminate to the bloodstream and distant organs.
 
@@ -70,7 +69,7 @@ Chronic carriage (excretion >1 year) is rare in children (<1%) compared to _S._ 
 
 ## 6. Diagnosis
 
-- **Stool Culture:** The gold standard for gastroenteritis. Selective media like Salmonella-Shigella (SS) agar, Xylose-Lysine-Deoxycholate (XLD), or Hektoen enteric agar are used to inhibit normal flora.
+- **Stool Culture:** The gold standard for gastroenteritis. Selective media like <span style="color:rgb(0, 176, 240)">Salmonella-Shigella (SS) agar, Xylose-Lysine-Deoxycholate (XLD), or Hektoen enteric agar</span> are used to inhibit normal flora.
 - **Blood Culture:** Essential for all febrile infants, toxic children, and those with suspected systemic disease.
 - **Fecal Leukocytes:** Often present, indicating colitis, but nonspecific.
 

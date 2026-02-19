@@ -42,13 +42,13 @@ The primary mechanism for the development of MDR-ST is the acquisition of plasmi
 Unlike the plasmid-mediated resistance seen in MDR strains, resistance to quinolones (NARST) is primarily chromosomally acquired.
 
 - **Target Mutation:** The resistance is typically caused by point mutations in the _gyrA_ gene. This gene encodes DNA gyrase, the target enzyme for quinolones.
-- **Selective Pressure:** The widespread and indiscriminate use of fluoroquinolones in both human medicine and animal husbandry has driven this selection. New minimum inhibitory concentration (MIC) breakpoints have been established to better identify these strains, as isolates with MICs between 0.06 µg/mL and 1 µg/mL (often flagged by nalidixic acid resistance) are associated with clinical failure.
+- **Selective Pressure:** The widespread and indiscriminate use of fluoroquinolones in both human medicine and animal husbandry has driven this selection. New minimum inhibitory concentration (MIC) breakpoints have been established to better identify these strains, as isolates with MICs between <span style="color:rgb(0, 176, 240)">0.06 µg/mL and 1 µg/mL</span> (often flagged by nalidixic acid resistance) are associated with clinical failure.
 
 #### C. Mechanisms for Extensively Drug-Resistant (XDR) Strains
 
 While the question focuses on MDR and NARST, the evolution has continued toward XDR strains (resistant to chloramphenicol, ampicillin, TMP-SMX, fluoroquinolones, and third-generation cephalosporins).
 
-- **Genetic Acquisition:** Recent XDR isolates have been found to possess a combination of resistance genes including _blaTEM1_ (beta-lactamase), _dhfR7_, _sul1_, _catA1_, _qnrS_, and _blaCTX-M-15_ (Extended-Spectrum Beta-Lactamase), alongside the _gyrA_ point mutation.
+- **Genetic Acquisition:** Recent XDR isolates have been found to possess a combination of resistance genes including <span style="color:rgb(0, 176, 240)"><i>blaTEM1</i> (beta-lactamase), <i>dhfR7</i>, <i>sul1</i>, <i>catA1</i>, <i>qnrS</i>, and <i>blaCTX-M-15</i> (Extended-Spectrum Beta-Lactamase), alongside the <i>gyrA</i> point mutation.</span>
 - **Enzymatic Inactivation:** Resistance to third-generation cephalosporins is mediated by the production of Extended-Spectrum Beta-Lactamases (ESBLs) such as SHV-12, CTX-M types, or AmpC beta-lactamases (e.g., ACC-1).
 
 #### D. Role of Environmental and Host Factors

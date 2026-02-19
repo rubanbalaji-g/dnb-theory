@@ -10,7 +10,7 @@ Enteric fever is a systemic infection caused by the bacterium <span style="color
 
 - **Global Burden:** Enteric fever remains a major public health problem in resource-limited settings with poor sanitation and water supply. It is endemic in the Indian subcontinent, Southeast Asia, and parts of Africa.
 - **Pediatric Prevalence:** In endemic areas, the incidence is highest in children and adolescents (5–15 years), though recent data indicates a significant burden in children under 5 years of age.
-- **Transmission:** The mode of transmission is **fecal-oral**, typically through the ingestion of food or water contaminated with human feces containing the bacteria. Humans are the only natural reservoir for _S._ Typhi.
+- **Transmission:** The mode of transmission is <span style="color:rgb(255, 255, 0)">fecal-oral</span>, typically through the ingestion of food or water contaminated with human feces containing the bacteria. Humans are the only natural reservoir for _S._ Typhi.
 - **Carriers:** Chronic carriers (excreting bacilli for >1 year) act as crucial reservoirs for infection spread. This state is less common in children than adults.
 
 ## 3. Etiopathogenesis
@@ -40,8 +40,8 @@ The clinical presentation varies by age. The classic "step-ladder" fever pattern
 - **Physical Findings:**
     - **Coated Tongue:** Central white fur with red margins.
     - **Hepatosplenomegaly:** Soft, tender splenomegaly is palpable by the end of the first week.
-    - **Rose Spots:** Blanching, erythematous maculopapular lesions (2–4 mm) on the trunk/chest. They appear around day 7–10, fade in 2–3 days, and are harder to see in dark-skinned patients.
-    - **Relative Bradycardia:** Pulse-temperature dissociation (Faget's sign) is less common in children than adults.
+    - **<span style="color:rgb(0, 176, 240)">Rose Spots:</span>** Blanching, erythematous maculopapular lesions (2–4 mm) on the trunk/chest. They appear around day 7–10, fade in 2–3 days, and are harder to see in dark-skinned patients.
+    - **Relative Bradycardia:** Pulse-temperature dissociation (<span style="color:rgb(0, 176, 240)">Faget's sign</span>) is less common in children than adults.
 
 ### 4.2. Neonatal and Infant Typhoid
 
@@ -145,7 +145,7 @@ Antibiotic choice is guided by local susceptibility patterns, specifically the p
 
 Improvement in water supply, sewage disposal, and food hygiene is the ultimate preventive strategy.
 
-### 9.2. Vaccination
+### 9.2. Vaccination #vaccine
 
 Vaccination is recommended for children in endemic areas and travelers.
 
