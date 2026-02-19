@@ -1,6 +1,6 @@
 /* 1. LAYOUT NEUTRALIZATION: Force Single Column on Homepage */
 body:has(.home-dashboard) {
-    /* Set layout variables to 0 to break the base calculation */
+    /* Set base layout variables to 0 to collapse sidebar tracks */
     --dg-filetree-width: 0px !important;
     --dg-filetree-min-width: 0px !important;
     --dg-filetree-gap: 0px !important;
@@ -8,30 +8,35 @@ body:has(.home-dashboard) {
     --dg-sidebar-gap: 0px !important;
 }
 
-/* Remove the left filetree wrapper and sidebar containers */
+/* Aggressively hide all layout wrappers from digital-garden-base.scss */
 body:has(.home-dashboard) .filetree-wrapper,
 body:has(.home-dashboard) .filetree-sidebar,
 body:has(.home-dashboard) .sidebar,
 body:has(.home-dashboard) .sidebar-container,
-body:has(.home-dashboard) #graph-component {
+body:has(.home-dashboard) #graph-component,
+body:has(.home-dashboard) .backlinks,
+body:has(.home-dashboard) aside {
     display: none !important;
     visibility: hidden !important;
     width: 0 !important;
     opacity: 0 !important;
     pointer-events: none !important;
+    position: absolute !important;
+    left: -9999px !important;
 }
 
-/* Force the content margin to 0 and center it */
+/* Center the content and override the dynamic margin-left calculation */
 body:has(.home-dashboard) .content {
     margin-left: auto !important;
     margin-right: auto !important;
     padding-left: 20px !important;
     padding-right: 20px !important;
-    max-width: 820px !important;
+    max-width: 820px !important; /* Matches your manual Home Page.md width */
     width: 100% !important;
+    left: 0 !important;
 }
 
-/* 2. Global Styling (Fonts & Links) */
+/* 2. Global Styling (Fonts & UI) */
 @import url('https://fonts.googleapis.com/css2?family=Comic+Neue:wght@400&display=swap');
 
 :root {
@@ -44,6 +49,7 @@ body, .markdown-rendered, .content, .title, h1, h2, h3, h4, h5, h6, button, bloc
     font-weight: 400;
 }
 
+/* Link Styling */
 .content a, .markdown-rendered a {
     color: var(--text-accent);
     text-decoration: underline;
@@ -51,7 +57,7 @@ body, .markdown-rendered, .content, .title, h1, h2, h3, h4, h5, h6, button, bloc
     transition: all 0.2s ease;
 }
 
-/* 3. Page Specific Tweaks */
+/* 3. Page Specific Fixes */
 /* Hide the automatic title on the Index of Notes page */
 body:has(.hide-title) .page-title,
 .hide-title h1:first-of-type {
