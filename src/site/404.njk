@@ -1,28 +1,104 @@
-
 <!DOCTYPE html>
 <html lang="{{ meta.mainLanguage }}">
-    <head>
-        <title>Nothing here</title>
-        <link href="/styles/digital-garden-base.css" rel="stylesheet">
-        {%-if meta.themeStyle%}
-            <link href="/styles/obsidian-base.css" rel="stylesheet">
-    	    <link href="{{meta.themeStyle}}" rel="stylesheet">
-        {% else %}
-            <link href="/styles/style.css" rel="stylesheet">
-        {%endif%}
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>404 – Page Not Found | PediaNotes</title>
 
-        <link href="/styles/custom-style.css" rel="stylesheet">
-        
-    </head>
-    <body class="theme-{{meta.baseTheme}} markdown-preview-view">
-        <div class="content centered">
+    <link href="/styles/digital-garden-base.css" rel="stylesheet">
 
-            {%-if not meta.themeStyle%}
-                <div class="font-bg"> &#x1F60E; </div>
-            {%endif%}
-            <h1>There is nothing here</h1>
-            <p>If you got here from a link, this note is probably not made public</p>
-            <a href="/">Go back home</a>
+    {%- if meta.themeStyle %}
+        <link href="/styles/obsidian-base.css" rel="stylesheet">
+        <link href="{{ meta.themeStyle }}" rel="stylesheet">
+    {% else %}
+        <link href="/styles/style.css" rel="stylesheet">
+    {% endif %}
+
+    <link href="/styles/custom-style.css" rel="stylesheet">
+
+    <style>
+        .error-container {
+            max-width: 720px;
+            margin: 6rem auto;
+            padding: 2rem;
+            text-align: center;
+        }
+
+        .error-code {
+            font-size: 5rem;
+            font-weight: 700;
+            margin-bottom: 1rem;
+        }
+
+        .error-title {
+            font-size: 1.8rem;
+            margin-bottom: 1rem;
+        }
+
+        .error-description {
+            font-size: 1.1rem;
+            opacity: 0.8;
+            margin-bottom: 2rem;
+        }
+
+        .error-actions a {
+            display: inline-block;
+            margin: 0.5rem;
+            padding: 0.6rem 1.2rem;
+            border-radius: 6px;
+            text-decoration: none;
+            font-weight: 500;
+        }
+
+        .primary-btn {
+            background-color: #2563eb;
+            color: white;
+        }
+
+        .secondary-btn {
+            border: 1px solid currentColor;
+        }
+
+        .medical-icon {
+            font-size: 3rem;
+            margin-bottom: 1rem;
+        }
+
+        .footer-note {
+            margin-top: 3rem;
+            font-size: 0.9rem;
+            opacity: 0.6;
+        }
+    </style>
+</head>
+
+<body class="theme-{{ meta.baseTheme }} markdown-preview-view">
+    <div class="content">
+        <div class="error-container">
+
+            <div class="medical-icon">🩺</div>
+
+            <div class="error-code">404</div>
+
+            <div class="error-title">
+                Page Not Found
+            </div>
+
+            <div class="error-description">
+                The clinical note you’re looking for doesn’t exist, 
+                may have been moved, or is not publicly available.
+            </div>
+
+            <div class="error-actions">
+                <a href="/" class="primary-btn">Return to Home</a>
+                <a href="/search" class="secondary-btn">Search Notes</a>
+            </div>
+
+            <div class="footer-note">
+                PediaNotes – Structured Pediatric Learning
+            </div>
+
         </div>
-    </body>
+    </div>
+</body>
 </html>
