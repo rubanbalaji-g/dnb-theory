@@ -84,33 +84,36 @@ h1, h2, h3, h4, h5, h6, body, .content {
     box-shadow: 0 8px 20px rgba(0, 0, 0, 0.15);
 }
 
-/* Hide Sidebar and Graph when 'clean-page' class is present */
-.clean-page .sidebar {
+/* 7. Hide Sidebar and Graph specifically for the Home Page */
+/* Aggressively hide all potential sidebar classes based on the home-dashboard cssclass */
+.home-dashboard .sidebar,
+.home-dashboard .sidebar-left,
+.home-dashboard .sidebar-right,
+.home-dashboard .sidebar-wrapper,
+.home-dashboard .file-tree,
+body.home-dashboard .sidebar,
+body.home-dashboard .file-tree,
+body:has(.home-dashboard) .sidebar,
+body:has(.home-dashboard) .file-tree {
     display: none !important;
 }
 
-.clean-page .graph-container {
+.home-dashboard .graph-container,
+body.home-dashboard .graph-container,
+body:has(.home-dashboard) .graph-container {
     display: none !important;
 }
 
-/* Optional: Center the content if the sidebar is gone */
-.clean-page .content {
-    max-width: 800px;
-    margin: 0 auto;
+/* Ensure the main content centers properly without the sidebar */
+.home-dashboard .content,
+body.home-dashboard .content,
+body:has(.home-dashboard) .content {
+    max-width: 820px !important;
+    margin: 0 auto !important;
+    width: 100% !important;
 }
 
-/* Hide Sidebar and Graph when 'clean-page' class is present */
-body:has(.clean-page) .sidebar,
-body:has(.clean-page) .sidebar-left {
-    display: none !important;
-}
-
-body:has(.clean-page) .graph-container {
-    display: none !important;
-}
-
-
-/* Force hide the main page title for specific pages */
+/* 8. Force hide the main page title for specific pages */
 body:has(.hide-title) .page-title,
 .hide-title h1:first-of-type {
     display: none !important;
