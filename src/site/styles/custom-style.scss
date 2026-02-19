@@ -53,3 +53,14 @@ blockquote {
     color: #ffffff; /* Turns pure white on hover to pop against the dark background */
     text-decoration-thickness: 2px; 
 }
+
+h1, h2, h3, h4, h5, h6, body, .content {
+    transition: color 0.3s ease, background-color 0.3s ease;
+}
+
+.popover {
+    border-radius: 12px;
+    font-family: var(--default-font);
+    border: 2px solid var(--text-accent);
+    box-shadow: 0 8px 24px rgba(0,0,0,0.2);
+}
