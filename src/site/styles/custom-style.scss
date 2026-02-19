@@ -1,37 +1,54 @@
-/* 1. Import Comic Relief */
-@import url('https://fonts.googleapis.com/css2?family=Comic+Relief&display=swap');
+/* 1. Import Sour Gummy from Google Fonts */
+@import url('https://fonts.googleapis.com/css2?family=Sour+Gummy:wght@400;500;600;700&display=swap');
 
-/* 2. Site-Wide Variables: Vintage Paper & Ink */
+/* 2. Override Variables for a Bubbly Dark Theme */
 :root {
-    --default-font: 'Comic Relief', 'Comic Sans MS', cursive !important;
-    --background-primary: #f6f4eb; /* Slightly aged, warm paper */
-    --text-normal: #3a3836; /* Faded charcoal ink instead of harsh black */
+    /* Set the font variables */
+    --default-font: 'Sour Gummy', cursive !important;
+    --font-default: 'Sour Gummy', cursive !important; /* Targets the theme-dark/light classes in your style.scss */
+
+    /* Override callout variables to make them bubbly like the font */
+    --callout-radius: 12px;
+    --callout-border-width: 1px;
+    --callout-border-opacity: 0.4;
 }
 
 /* 3. Apply Font Globally */
-body, .markdown-rendered, .content, .title, h1, h2, h3, h4, h5, h6 {
+body, .markdown-rendered, .content, .title, h1, h2, h3, h4, h5, h6, button, blockquote {
     font-family: var(--default-font);
 }
 
-/* 4. Stamped Borders for Elements */
-.callout, code, .block-language-mermaid {
-    border-radius: 4px !important; /* Slightly rounded, like a physical stamp */
-    border: 2px dashed #b5a999 !important; /* Faded, dashed ink border */
-    background-color: transparent !important;
+body {
+    font-size: 19px; /* Slightly larger for Sour Gummy's readability */
+    line-height: 1.6;
 }
 
-/* 5. Vintage Stamp Link Style */
+/* 4. Soft Bubbly Borders for Code and Quotes */
+code, .block-language-mermaid, blockquote {
+    border-radius: 8px !important;
+}
+
+/* Smooth out the blockquote border defined in your style.scss */
+blockquote {
+    border-top-right-radius: 8px;
+    border-bottom-right-radius: 8px;
+    border-top-left-radius: 4px;
+    border-bottom-left-radius: 4px;
+}
+
+/* 5. Clean Link Style (Using your native Accent Color) */
 .content a, .markdown-rendered a {
-    color: #9e3b33; /* Faded, vintage stamp red */
-    text-decoration: none;
-    border-bottom: 2px dashed #d1a3a3; /* Looks like a perforated edge or dashed pen line */
-    padding-bottom: 2px;
+    color: var(--text-accent); /* Uses the light blue (rgb(97, 186, 245)) from your style.scss */
+    text-decoration: underline;
+    text-decoration-style: solid; 
+    text-decoration-thickness: 2px; 
+    text-underline-offset: 4px; 
+    border: none; 
     transition: all 0.2s ease;
 }
 
-/* 6. Tactile Hover Effect */
+/* 6. Simple Hover Effect */
 .content a:hover {
-    color: #7a2b25; /* Darkens slightly when you hover */
-    border-bottom: 2px solid #7a2b25; /* Dashed line becomes solid */
-    background-color: #f0e6e6; /* Very subtle red "ink bleed" background */
+    color: #ffffff; /* Turns pure white on hover to pop against the dark background */
+    text-decoration-thickness: 3px; 
 }
