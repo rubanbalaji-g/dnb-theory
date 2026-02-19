@@ -1,103 +1,69 @@
 ---
-{"dg-publish":true,"permalink":"/home-page/","hide":true,"created":"2024-03-19T19:05:00","updated":"2026-01-02T16:26:00","dg-home":true,"cssclasses":["home-dashboard"],"tags":["gardenEntry"],"dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/home-page/","hide":true,"created":"2024-03-19T19:05:00","updated":"2026-01-02T16:26:00","dg-home":true,"cssclasses":["home-dashboard"],"dg-show-file-tree":true,"tags":["gardenEntry"],"dgShowFileTree":true,"dgPassFrontmatter":true}
 ---
 
-# PediaNotes
+<div style="
+    max-width: 800px; 
+    margin: 2rem auto; 
+    padding: 40px; 
+    font-family: 'Segoe UI', Roboto, Helvetica, Arial, sans-serif; 
+    line-height: 1.8; 
+    color: #f0f0f0; 
+    background: linear-gradient(145deg, #1e1e1e, #2a2a2a); 
+    border-radius: 16px; 
+    box-shadow: 0 10px 30px rgba(0,0,0,0.5);
+    border: 1px solid #333;
+    text-align: center;
+    box-sizing: border-box;">
 
-Hi, This is **Dr. Ruban**. This website serves as a consolidated library of the personal notes, summaries, and high-yield points I have curated during my own preparation for **DNB (Pediatrics)**, **MRCPCH**, and the **NEET SS** examinations.
+  <h1 style="
+      color: #ffffff; 
+      margin-bottom: 0.5rem; 
+      font-size: 2.5rem; 
+      letter-spacing: -1px;">
+    PediaNotes
+  </h1>
+  
+  <div style="width: 60px; height: 4px; background: #4CAF50; margin: 0 auto 1.5rem auto; border-radius: 2px;"></div>
 
-I created this website to share the notes and study guides I personally use to navigate these examinations. This is an open notebook—a collection of distilled concepts, high-yield facts, and organized revision tools designed to help cut through the noise of vast textbooks.
+  <p style="margin-bottom: 1.5rem; font-size: 1.1rem; color: #ccc;">
+    Hi, this is <strong style="color: #4CAF50;">Dr. Ruban</strong>. 
+    This platform is a curated library of high-yield clinical notes and summaries developed during my preparation for 
+    <span style="color: #fff; font-weight: 600;">DNB (Pediatrics)</span>, 
+    <span style="color: #fff; font-weight: 600;">MRCPCH</span>, and 
+    <span style="color: #fff; font-weight: 600;">NEET SS</span>.
+  </p>
 
-[Explore the Question Bank](https://qb.pedianotes.in)
-[Pediatric Tools & Calculators](https://page.pedianotes.in)
+  <p style="margin-bottom: 2rem;">
+    I created this website to share the notes and study guides I personally use to navigate these examinations. This is an open notebook - a collection of distilled concepts, high-yield facts, and organized revision tools designed to help cut through the noise of vast textbooks.
+  </p>
 
-Learning is an ongoing process. Consequently, this website is **continuously updated**. I am constantly refining old notes and adding new topics as I encounter them in my practice and studies. I genuinely hope these materials serve as a valuable companion in your academic success. Happy studying!
+  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px; margin-bottom: 2rem;">
+    <a href="#" 
+       style="flex: 1 1 100%; padding: 18px 20px; background-color: #2E7D32; color: #ffffff !important; text-decoration: none; font-size: 18px; border-radius: 10px; font-weight: bold; transition: transform 0.2s; box-shadow: 0 4px 15px rgba(0, 0, 0, 0.3); border: 1px solid #1B5E20;">
+       Browse Topics : Index of Notes
+    </a>
+    
+    <a href="https://qb.pedianotes.in" 
+       style="flex: 1; min-width: 240px; padding: 16px 20px; background-color: #374151; color: #e5e7eb !important; text-decoration: none; font-size: 16px; border-radius: 10px; font-weight: 600; transition: transform 0.2s; box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2); border: 1px solid #4B5563;">
+       Explore the Question Bank
+    </a>
+    
+    <a href="https://page.pedianotes.in" 
+       style="flex: 1; min-width: 240px; padding: 16px 20px; background-color: #374151; color: #e5e7eb !important; text-decoration: none; font-size: 16px; border-radius: 10px; font-weight: 600; transition: transform 0.2s; box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2); border: 1px solid #4B5563;">
+       Pediatric Tools & Calculators
+    </a>
+  </div>
+
+  <hr style="border: 0; border-top: 1px solid #444; margin: 2rem 0;">
+
+  <p style="font-size: 0.95rem; color: #aaa; line-height: 1.6;">
+    Learning is an ongoing process. PediaNotes is <strong style="color: #fff;">continuously updated</strong> with refined notes and new clinical topics. I hope these materials serve as a valuable companion in your academic success.
+  </p>
+  
+  <p style="margin-top: 1rem; font-weight: bold; color: #4CAF50;">Happy Studying!</p>
+</div>
+
 
 > [!def] If you identify errors or have suggestions for improvement, please [[About#🤝 Let's Connect\|Contact Me]]
-
-## Foundation of Pediatrics
-Core principles underlying child health, growth, development, and nutrition
-
-> [!green] 📈Developmental Pediatrics  
-> Growth patterns, developmental milestones, screening tools, and neurodevelopmental disorders.  
-> [[Development/📈 Development\|View Notes →]]
-
-> [!green] 🍚Nutrition  
-> Nutritional requirements across age groups, deficiencies, malnutrition, and obesity.  
-> [[Nutrition/🍚Nutrition\|View Notes →]]
-
-## Neonatology
-Care of the newborn from birth through the neonatal period, including high-risk neonates.
-
-> [!orange] 👶Neonatology  
-> Normal newborn care, prematurity, neonatal intensive care, and common neonatal disorders.  
-> [[Neonatalogy/👶 Neonatology\|View Notes →]]
-
-## Emergency & Acute Care
-Recognition and management of pediatric emergencies and critically ill children.
-
-> [!blue] 🚑Pediatric Emergencies  
-> Initial stabilization, resuscitation, and emergency management protocols.  
-> [[Emergencies/🚑 Emergencies and Critical Care\|View Notes →]]
-
-## Systemic Pediatrics
-Organ-system–based approach to pediatric diseases.
-
-> [!red] 🦴Rheumatology  
-> Autoimmune and inflammatory disorders affecting joints and connective tissue.  
-> [[Rheumatology/🦴 Rheumatology\|View Notes →]]
-
-> [!red] 🦠Infectious Diseases  
-> Viral, bacterial, fungal, and parasitic infections in children.  
-> [[Infectious Diseases/🦠 Infectious Diseases\|View Notes →]]
-
-> [!red] 🍴Gastroenterology  
-> Disorders of the gastrointestinal tract, liver, and pancreas.  
-> [[Gastrointestinal/🍴 Gastroenterology\|View Notes →]]
-
-> [!red] 🫁Pulmonology
-> Diseases of the airways and lungs, including asthma and cystic fibrosis.  
-> [[Respiratory/🫁 Respiratory system\|View Notes →]]
-
-> [!red] 💗Cardiology  
-> Congenital and acquired heart diseases in children.  
-> [[Cardiology/💗 Cardiology\|View Notes →]]
-
-> [!red] 🩸Hematology  
-> Anemias, bleeding disorders, bone marrow failure, and hemoglobinopathies.  
-> [[Hematology/🩸 Hematology\|View Notes →]]
-
-> [!red] 🦀Oncology  
-> Childhood malignancies and benign tumors.  
-> [[Oncology/🦀 Oncology\|View Notes →]]
-
-> [!red] 🧠Neurology  
-> Disorders of the central and peripheral nervous system, including seizures.  
-> [[Neurology/🧠 Neurology\|View Notes →]]
-
-> [!red] 🧪 Endocrinology  
-> Thyroid, adrenal, pituitary disorders, growth disorders, and diabetes mellitus.  
-> [[Endocrinology/🧪 Endocrinology\|View Notes →]]
-
-> [!red] 💪Neuromuscular Disorders  
-> Disorders affecting muscles, neuromuscular junctions, and motor neurons.  
-> [[Neuromuscular/💪 Neuromuscular system\|View Notes →]]
-
-> [!red] 🫘Nephrology  
-> Renal and urinary tract disorders in children.  
-> [[Nephrology/🫘 Nephrology\|View Notes →]]
-
-> [!red] 💡Metabolic Disorders
-> Renal and urinary tract disorders in children.  
-> [[Metabolic Disorders/💡 Metabolic Disorders\|View Notes →]]
-## Miscellaneous & Allied Topics
-
-> [!yellow] ⭕Miscellaneous  
-> Practical pediatrics, frequently overlooked topics, and exam-oriented pearls.  
-> [[Misc/⭕ Miscellaneous and Practical topics\|View Notes →]]
-
-> [!yellow] 🚸Social Pediatrics  
-> Child protection, preventive pediatrics, national programs, and community health.  
-> [[Social Pediatics/🚸 Social Pediatrics\|View Notes →]]
-
 
