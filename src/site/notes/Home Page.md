@@ -66,5 +66,3 @@
 
 
 > [!def] If you identify errors or have suggestions for improvement, please [[About#🤝 Let's Connect\|Contact Me]]
-
-[[Index of Notes\|Index of Notes]]
