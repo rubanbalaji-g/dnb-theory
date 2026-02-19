@@ -65,34 +65,6 @@ h1, h2, h3, h4, h5, h6, body, .content {
     box-shadow: 0 8px 24px rgba(0,0,0,0.2);
 }
 
-/* Turn specific links into buttons without HTML classes */
-a[href="https://qb.pedianotes.in"],
-a[href="https://page.pedianotes.in"] {
-    display: inline-block;
-    padding: 12px 24px;
-    background-color: var(--interactive-accent); /* Uses your Teal accent */
-    color: #ffffff !important;
-    text-decoration: none !important;
-    border-radius: 8px;
-    font-weight: bold;
-    text-align: center;
-    margin: 8px 8px 20px 0;
-    transition: opacity 0.2s ease, transform 0.2s ease;
-}
-
-a[href="https://qb.pedianotes.in"]:hover,
-a[href="https://page.pedianotes.in"]:hover {
-    opacity: 0.85;
-    transform: scale(1.02);
-}
-/* Home Page Dashboard Layout */
-@media (min-width: 768px) {
-    .home-dashboard .content {
-        column-count: 2;
-        column-gap: 20px;
-    }
-}
-
 /* Prevent callouts from splitting across columns */
 .home-dashboard .callout {
     break-inside: avoid;
@@ -110,4 +82,19 @@ a[href="https://page.pedianotes.in"]:hover {
 .callout:hover {
     transform: translateY(-3px);
     box-shadow: 0 8px 20px rgba(0, 0, 0, 0.15);
+}
+
+/* Hide Sidebar and Graph when 'clean-page' class is present */
+.clean-page .sidebar {
+    display: none !important;
+}
+
+.clean-page .graph-container {
+    display: none !important;
+}
+
+/* Optional: Center the content if the sidebar is gone */
+.clean-page .content {
+    max-width: 800px;
+    margin: 0 auto;
 }
