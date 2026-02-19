@@ -84,33 +84,34 @@ h1, h2, h3, h4, h5, h6, body, .content {
     box-shadow: 0 8px 20px rgba(0, 0, 0, 0.15);
 }
 
-/* 7. Hide Sidebar and Graph specifically for the Home Page */
-/* Aggressively hide all potential sidebar classes based on the home-dashboard cssclass */
-.home-dashboard .sidebar,
-.home-dashboard .sidebar-left,
-.home-dashboard .sidebar-right,
-.home-dashboard .sidebar-wrapper,
-.home-dashboard .file-tree,
-body.home-dashboard .sidebar,
-body.home-dashboard .file-tree,
+/* 7. NUCLEAR OPTION: Hide Sidebar and Graph for the Home Page */
+body:has(.home-dashboard) aside,
+body:has(.home-dashboard) nav.sidebar,
 body:has(.home-dashboard) .sidebar,
-body:has(.home-dashboard) .file-tree {
+body:has(.home-dashboard) .sidebar-left,
+body:has(.home-dashboard) .sidebar-right,
+body:has(.home-dashboard) .sidebar-wrapper,
+body:has(.home-dashboard) .sidebar-container,
+body:has(.home-dashboard) .left-sidebar,
+body:has(.home-dashboard) .file-tree,
+body:has(.home-dashboard) .file-tree-container,
+body:has(.home-dashboard) .graph-container,
+body:has(.home-dashboard) #sidebar {
     display: none !important;
+    width: 0 !important;
+    opacity: 0 !important;
+    visibility: hidden !important;
+    pointer-events: none !important;
 }
 
-.home-dashboard .graph-container,
-body.home-dashboard .graph-container,
-body:has(.home-dashboard) .graph-container {
-    display: none !important;
-}
-
-/* Ensure the main content centers properly without the sidebar */
-.home-dashboard .content,
-body.home-dashboard .content,
-body:has(.home-dashboard) .content {
+/* Force the content to take over the empty space */
+body:has(.home-dashboard) .content,
+body:has(.home-dashboard) .markdown-rendered,
+body:has(.home-dashboard) main {
     max-width: 820px !important;
     margin: 0 auto !important;
     width: 100% !important;
+    padding-left: 0 !important; 
 }
 
 /* 8. Force hide the main page title for specific pages */
