@@ -1,13 +1,12 @@
-body {
-    /***
-      ADD YOUR CUSTOM STYLING HERE. (INSIDE THE body {...} section.)
-      IT WILL TAKE PRECEDENCE OVER THE STYLING IN THE STYLE.CSS FILE.
-   ***/
-    //  background-color: white;
-    //  .content {
-    //   font-size: 14px;
-    //  }
-    //  h1 {
-    //   color: black;
-    //  }
+/* Import Comic Neue from Google Fonts */
+@import url('https://fonts.googleapis.com/css2?family=Comic+Neue:wght@400;700&display=swap');
+
+/* Apply it to the entire site */
+:root, body, .markdown-rendered {
+    --default-font: 'Comic Neue', 'Comic Sans MS', cursive !important;
+    --font-family-editor: 'Comic Neue', 'Comic Sans MS', cursive !important;
+}
+
+* {
+    font-family: 'Comic Neue', 'Comic Sans MS', cursive !important;
 }
