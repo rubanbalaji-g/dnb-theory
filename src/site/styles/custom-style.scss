@@ -1,79 +1,65 @@
-/* 1. Import Comic Neue (Weight 400 only) from Google Fonts */
+/* 1. LAYOUT RESET: Hide Sidebars & Graphs on Home Page */
+/* Targets the exact classes found in your HTML inspection */
+body:has(.home-dashboard) .filetree-sidebar,
+body:has(.home-dashboard) .sidebar-container,
+body:has(.home-dashboard) .sidebar-left,
+body:has(.home-dashboard) .sidebar-right,
+body:has(.home-dashboard) .graph,
+body:has(.home-dashboard) .backlinks {
+    display: none !important;
+    visibility: hidden !important;
+    width: 0 !important;
+    height: 0 !important;
+    position: absolute !important;
+    pointer-events: none !important;
+}
+
+/* Force the main content to center and ignore sidebar spacing */
+body:has(.home-dashboard) .content,
+body:has(.home-dashboard) main,
+body:has(.home-dashboard) .markdown-rendered {
+    max-width: 820px !important; /* Matches your Home Page container width */
+    margin-left: auto !important;
+    margin-right: auto !important;
+    width: 100% !important;
+    padding: 0 !important;
+    left: 0 !important;
+}
+
+/* 2. Global Font & Theme Settings */
 @import url('https://fonts.googleapis.com/css2?family=Comic+Neue:wght@400&display=swap');
 
-/* 2. Override Variables for a Coherent Dark Theme */
 :root {
-    /* Set the font variables */
     --default-font: 'Comic Neue', 'Comic Sans MS', cursive !important;
-    --font-default: 'Comic Neue', 'Comic Sans MS', cursive !important; /* Targets the theme-dark/light classes */
-
-    /* Soften the callout boxes slightly to match the font */
+    --font-default: 'Comic Neue', 'Comic Sans MS', cursive !important;
     --callout-radius: 8px;
     --callout-border-width: 1px;
     --callout-border-opacity: 0.3;
 }
 
-/* 3. Apply Font Globally */
 body, .markdown-rendered, .content, .title, h1, h2, h3, h4, h5, h6, button, blockquote {
     font-family: var(--default-font);
-    font-weight: 400; /* Forces the 400 weight globally */
+    font-weight: 400;
 }
 
 body {
-    font-size: 18px; /* Clean baseline size for Comic Neue */
+    font-size: 18px;
     line-height: 1.6;
 }
 
-/* 4. Soft Borders for Code and Quotes */
-code, .block-language-mermaid {
-    border-radius: 6px !important;
-}
-
-/* Smooth out the blockquote border defined in your style.scss */
-blockquote {
-    border-top-right-radius: 6px;
-    border-bottom-right-radius: 6px;
-    border-top-left-radius: 3px;
-    border-bottom-left-radius: 3px;
-}
-
-/* 5. Clean Link Style (Using your native Accent Color) */
+/* 3. Link & UI Styling */
 .content a, .markdown-rendered a {
-    color: var(--text-accent); /* Uses the light blue from your style.scss */
+    color: var(--text-accent);
     text-decoration: underline;
-    text-decoration-style: solid; 
-    text-decoration-thickness: 1px; /* Thinner line for the cleaner font */
     text-underline-offset: 4px; 
-    border: none; 
     transition: all 0.2s ease;
 }
 
-/* 6. Simple Hover Effect */
 .content a:hover {
-    color: #ffffff; /* Turns pure white on hover to pop against the dark background */
+    color: #ffffff;
     text-decoration-thickness: 2px; 
 }
 
-h1, h2, h3, h4, h5, h6, body, .content {
-    transition: color 0.3s ease, background-color 0.3s ease;
-}
-
-.popover {
-    border-radius: 12px;
-    font-family: var(--default-font);
-    border: 2px solid var(--text-accent);
-    box-shadow: 0 8px 24px rgba(0,0,0,0.2);
-}
-
-/* Prevent callouts from splitting across columns */
-.home-dashboard .callout {
-    break-inside: avoid;
-    page-break-inside: avoid;
-    margin-bottom: 20px;
-    height: auto;
-}
-
-/* Interactive Card Effect for Callouts */
 .callout {
     transition: transform 0.2s ease, box-shadow 0.2s ease;
     box-shadow: 0 4px 10px rgba(0, 0, 0, 0.05);
@@ -84,36 +70,8 @@ h1, h2, h3, h4, h5, h6, body, .content {
     box-shadow: 0 8px 20px rgba(0, 0, 0, 0.15);
 }
 
-/* 7. Hide Sidebars and Graph for the Home Page */
-
-/* Target both the left navigation and the right graph/backlinks containers */
-body:has(.home-dashboard) .filetree-sidebar,
-.home-dashboard .filetree-sidebar,
-body:has(.home-dashboard) .sidebar-container,
-.home-dashboard .sidebar-container {
-    display: none !important;
-    width: 0 !important;
-    opacity: 0 !important;
-    visibility: hidden !important;
-    pointer-events: none !important;
-    position: absolute !important; 
-    left: -9999px !important; 
-}
-
-/* Force the content to take over the empty space */
-body:has(.home-dashboard) .content,
-body:has(.home-dashboard) .markdown-rendered,
-body:has(.home-dashboard) main,
-body:has(.home-dashboard) .page-body { 
-    max-width: 820px !important;
-    margin: 0 auto !important;
-    width: 100% !important;
-    padding-left: 0 !important;
-    padding-right: 0 !important;
-    display: block !important;
-}
-
-/* 8. Force hide the main page title for specific pages */
+/* 4. Page Specific Tweaks */
+/* Hide the automatic title on the Index of Notes page */
 body:has(.hide-title) .page-title,
 .hide-title h1:first-of-type {
     display: none !important;
