@@ -2,7 +2,6 @@
 {"dg-publish":true,"uplink":"/infectious-diseases/infectious-diseases/","uptext":"Back to Index (Infectious Diseases)","permalink":"/infectious-diseases/hsv-encephalitis/","dgPassFrontmatter":true}
 ---
 
-# Herpes Simplex Virus (HSV) Encephalitis: Pathogenesis, Clinical Features, and Management
 
 Herpes simplex virus (HSV) encephalitis is a life-threatening neurological emergency and the most common cause of sporadic, fatal encephalitis in children and adults worldwide. Without prompt and appropriate antiviral therapy, the mortality rate approaches 75%, and survivors often suffer from severe long-term neurological sequelae. Management requires a high index of suspicion, rapid diagnostic evaluation, and the immediate institution of high-dose intravenous acyclovir.
 

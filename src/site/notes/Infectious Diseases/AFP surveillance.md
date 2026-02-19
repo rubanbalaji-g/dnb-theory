@@ -16,7 +16,6 @@
 
 The clinical approach involves a detailed history and neurological examination to distinguish poliomyelitis from other causes of AFP, such as Guillain-Barré Syndrome (GBS), Traumatic Neuritis, and Transverse Myelitis.
 ### 1. Clinical History
-
 A comprehensive history is essential to establish the diagnosis and rule out mimics.
 
 - **Onset and Progression:** Polio typically presents with a rapid progression of paralysis (24–48 hours) from onset to maximum paralysis. GBS may progress over days to weeks.
@@ -26,7 +25,6 @@ A comprehensive history is essential to establish the diagnosis and rule out mim
 - **Prodromal Illness:** History of gastrointestinal (diarrhea/vomiting) or respiratory illness suggests a viral etiology.
 - **Immunization History:** Number of OPV/IPV doses received (Routine and SIAs).
 ### 2. Physical Examination
-
 - **General:** Assessment for toxicity, respiratory distress (bulbar/respiratory muscle involvement), and signs of meningeal irritation.
 - **Neurological Examination:**
     - **Tone:** Hypotonia (flaccidity) is the cardinal sign.
@@ -36,7 +34,6 @@ A comprehensive history is essential to establish the diagnosis and rule out mim
     - **Cranial Nerves:** Bulbar polio can affect cranial nerves (IX, X), causing difficulty swallowing or speaking. GBS may cause facial palsy.
 - **Musculoskeletal:** Check for muscle atrophy (rapid in polio) and severe muscle tenderness/spasm.
 ### 3. Differential Diagnosis of AFP
-
 The following table summarizes the clinical characteristics distinguishing the major causes of AFP:
 
 |Feature|Poliomyelitis|Guillain-Barré Syndrome (GBS)|Traumatic Neuritis|Transverse Myelitis|
@@ -49,65 +46,51 @@ The following table summarizes the clinical characteristics distinguishing the m
 |**Reflexes**|Decreased/Absent|Absent|Decreased/Absent in affected limb|Absent early (shock), Hyperreflexia late|
 |**Sequelae**|Residual paralysis common|Usually recovers|Residual weakness possible|Spasticity later|
 ## III. Components of AFP Surveillance
-
 AFP surveillance is a comprehensive system designed to detect and investigate every case of AFP to rule out poliovirus. It consists of specific strategies, case activities, and performance monitoring.
 ### A. Surveillance Strategies
-
 To ensure no polio case is missed, surveillance relies on a multi-tiered approach:
 
 1. **Routine (Passive) Surveillance:**
-    
-    - Designated health facilities (Reporting Units) send regular reports of AFP cases.
+        - Designated health facilities (Reporting Units) send regular reports of AFP cases.
     - **"Zero Reporting"**: Sites must report even if _no_ AFP cases are seen (reporting "zero" cases) to ensure the system is active and staff are alert.
 2. **Active Surveillance (AS):**
-    
-    - Designated surveillance medical officers (SMOs) or government staff physically visit high-priority health facilities (hospitals, rehabilitation centers) to search for unreported AFP cases.
+        - Designated surveillance medical officers (SMOs) or government staff physically visit high-priority health facilities (hospitals, rehabilitation centers) to search for unreported AFP cases.
     - They review patient registers (pediatrics, neurology, physiotherapy) for diagnoses like GBS, transverse myelitis, or symptoms like "floppy weakness".
     - **Prioritization**: Sites are categorized (e.g., Very High Priority, High Priority) to determine visit frequency (weekly/monthly) based on the likelihood of seeing AFP cases.
 3. **Community-Based Surveillance (CBS):**
-    
-    - Utilized in hard-to-reach areas, nomadic populations, or conflict zones where facility-based surveillance is weak. Community informants (healers, leaders) report suspected cases.
+        - Utilized in hard-to-reach areas, nomadic populations, or conflict zones where facility-based surveillance is weak. Community informants (healers, leaders) report suspected cases.
 4. **Environmental Surveillance (ES) (Supplementary):**
-    
-    - Testing sewage/wastewater for poliovirus to detect circulation in the absence of paralytic cases (silent transmission).
+        - Testing sewage/wastewater for poliovirus to detect circulation in the absence of paralytic cases (silent transmission).
 5. **iVDPV Surveillance (Supplementary):**
-    
-    - Surveillance for poliovirus excretion among patients with Primary Immunodeficiency Disorders (PIDs) who are at risk of prolonged excretion of vaccine-derived polioviruses.
+        - Surveillance for poliovirus excretion among patients with Primary Immunodeficiency Disorders (PIDs) who are at risk of prolonged excretion of vaccine-derived polioviruses.
 ### B. Case Activities (The Surveillance Cycle)
 
 Once an AFP case is identified, a standardized sequence of activities must be followed:
 
 1. **Detection and Notification:**
-    
-    - Any case meeting the AFP case definition must be notified **immediately** (within 24 hours) to the district surveillance unit (DIO/SMO).
+        - Any case meeting the AFP case definition must be notified **immediately** (within 24 hours) to the district surveillance unit (DIO/SMO).
 2. **Investigation and Validation:**
-    
-    - Investigation must occur within **48 hours** of notification.
+        - Investigation must occur within **48 hours** of notification.
     - The investigator verifies the case definition, takes a detailed history, performs a physical exam, and assigns a unique **EPID number**.
     - **"Hot Cases"**: Cases <5 years with fever at onset and asymmetric paralysis are flagged as "Hot Cases" requiring prioritized attention.
 3. **Stool Specimen Collection (The Cornerstone):**
-    
-    - Polio is diagnosed by isolating the virus from stool.
+        - Polio is diagnosed by isolating the virus from stool.
     - **Requirement:** **Two adequate stool specimens** must be collected.
     - **Definition of Adequate:** Two samples collected **24–48 hours apart** and within **14 days** of paralysis onset.
     - **Transport:** Specimens must be transported under **reverse cold chain** (2–8°C) to a WHO-accredited laboratory within 72 hours of collection.
 4. **Laboratory Testing:**
-    
-    - Specimens are tested for poliovirus isolation, intratypic differentiation (wild vs. vaccine), and sequencing (to determine genetic origin).
+        - Specimens are tested for poliovirus isolation, intratypic differentiation (wild vs. vaccine), and sequencing (to determine genetic origin).
 5. **Outbreak Response and Active Case Search:**
-    
-    - Following case identification, an **Active Case Search** is conducted in the community (house-to-house) to find missed cases.
+        - Following case identification, an **Active Case Search** is conducted in the community (house-to-house) to find missed cases.
     - **Outbreak Response Immunization (ORI)** may be conducted in the immediate area to boost immunity.
 6. **60-Day Follow-Up Examination:**
-    
-    - Required for cases with:
+        - Required for cases with:
         - Inadequate stool specimens.
         - Isolation of vaccine virus.
         - Residual paralysis suspected.
     - The child is re-examined 60–90 days after onset to check for **residual paralysis** (a hallmark of polio).
 7. **Contact Sampling:**
-    
-    - If stool specimens from the index case are inadequate (late collection, poor condition), stool samples are collected from 3–5 close contacts (children <5 years) to increase sensitivity.
+        - If stool specimens from the index case are inadequate (late collection, poor condition), stool samples are collected from 3–5 close contacts (children <5 years) to increase sensitivity.
 ### C. AFP Case Classification (Virological Scheme)
 
 The final classification of an AFP case depends on laboratory results and the Expert Review Committee (ERC):

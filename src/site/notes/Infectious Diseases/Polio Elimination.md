@@ -72,7 +72,7 @@ To maintain immunity levels against poliovirus (especially Type 2 after the swit
 
 - **Role of IPV:** IPV induces humoral immunity (IgG) preventing paralytic disease but induces limited mucosal immunity compared to OPV. It protects the individual but is less effective at preventing transmission in the community.
 - **Supply Constraints and Fractional Dosing:** Due to a global shortage of IPV during the switch, countries like India adopted the use of **fractional dose IPV (fIPV)**. Administered intradermally (0.1 ml, 1/5th of the full dose), fIPV has been shown to be immunogenic and dose-sparing.
-- **Current Schedule in India:** As of January 1, 2023, the schedule includes three doses of fIPV at 6 weeks, 14 weeks, and 9 months, alongside bOPV.
+- **Current Schedule in India:** As of January 1, 2026, the schedule includes three doses of fIPV at 6 weeks, 14 weeks, and 9 months, alongside bOPV.
 
 #### 4. Managing Risks in the Post-Eradication Era
 

@@ -36,18 +36,15 @@ HFMD is caused by viruses belonging to the genus _Enterovirus_ within the family
 
 The incubation period is typically 3 to 7 days.
 ### 1. Prodrome
-
 The illness usually begins with a mild prodrome lasting 12 to 24 hours:
 
 - Low-grade fever (though high fever can occur, especially with CVA6).
 - Malaise, anorexia, and irritability.
 - Sore throat or mouth pain.
 ### 2. Enanthem (Oral Lesions)
-
 - **Appearance:** Small, red macules appear on the tongue, buccal mucosa, hard palate, gums, and pharynx. These rapidly progress to vesicles and then erode to form shallow, yellow-gray ulcers with an erythematous halo.
 - **Symptoms:** The ulcers are painful, leading to drooling, difficulty swallowing (odynophagia), and refusal to eat or drink, which is a common cause of dehydration in young children.
 ### 3. Exanthem (Skin Lesions)
-
 - **Distribution:** Lesions typically appear on the palms of the hands, soles of the feet, and buttocks. They may also appear on the knees, elbows, and genital area.
 - **Morphology:**
     - Starts as erythematous macules or papules.
@@ -57,7 +54,6 @@ The illness usually begins with a mild prodrome lasting 12 to 24 hours:
     - The rash is usually non-pruritic (not itchy), though CVA6 infections can be itchy.
 - **Resolution:** Skin lesions resolve in about 1 week (5–7 days) without scarring.
 ### 4. Atypical HFMD (Coxsackievirus A6)
-
 Infection with CVA6 presents with a more severe and atypical phenotype:
 
 - **Wider Distribution:** Rash extends to the trunk, face (perioral), and proximal extremities.
