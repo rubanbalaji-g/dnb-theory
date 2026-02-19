@@ -1,5 +1,5 @@
 ---
-{"hide":true,"dg-hide":true,"dg-publish":true,"dg-show-inline-title":false,"permalink":"/index-of-notes/","dgPassFrontmatter":true}
+{"hide":true,"dg-hide":true,"dg-publish":true,"dg-show-inline-title":false,"dg-content-classes":"hide-title","permalink":"/index-of-notes/","contentClasses":"hide-title","dgPassFrontmatter":true}
 ---
 
 

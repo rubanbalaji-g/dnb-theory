@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/home-page/","hide":true,"created":"2024-03-19T19:05:00","updated":"2026-01-02T16:26:00","dg-home":true,"cssclasses":["home-dashboard"],"dg-show-file-tree":true,"dg-content-classes":"clean-page","contentClasses":"clean-page","tags":["gardenEntry"],"dgShowFileTree":true,"dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/home-page/","hide":true,"created":"2024-03-19T19:05:00","updated":"2026-01-02T16:26:00","dg-home":true,"cssclasses":["home-dashboard"],"dg-show-file-tree":false,"dg-content-classes":"clean-page","contentClasses":"clean-page","tags":["gardenEntry"],"dgPassFrontmatter":true}
 ---
 
 <div style="
