@@ -24,7 +24,7 @@ The illness typically begins abruptly with a **high fever**, often ranging from 
 - **Duration:** The fever usually persists for **3 to 4 days** (range 3–7 days).
 - **General Condition:** Despite the high temperature, the infant often appears remarkably well and alert ("non-toxic"), although some irritability and fussiness are common.
 - **Associated Symptoms:** While high fever is the most consistent finding, other signs may include mild upper respiratory symptoms such as rhinorrhea, pharyngeal inflammation, and conjunctival redness. Mild cervical or occipital lymphadenopathy may be present. Palpebral edema (swelling of the eyelids) is another feature occasionally observed.
-- **Nagayama Spots:** In some cases, ulcers known as Nagayama spots may be seen at the uvulopalatoglossal junction.
+- <span style="color:rgb(0, 176, 240); font-weight:bold">Nagayama Spots:</span> In some cases, ulcers known as Nagayama spots may be seen at the uvulopalatoglossal junction.
 
 ### 2. The Exanthematous Phase
 

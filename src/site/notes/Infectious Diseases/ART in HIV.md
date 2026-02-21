@@ -129,7 +129,7 @@ Failure is categorized into three types. A single isolated abnormal value should
 ### 2. Immune Reconstitution Inflammatory Syndrome (IRIS)
 
 - Worsening of pre-existing infection (Paradoxical) or unmasking of occult infection (Unmasking) after ART initiation due to immune recovery.
-- **Management:** Continue ART. Treat the OI. Use corticosteroids for severe inflammation (e.g., CNS IRIS, respiratory compromise).
+- **Management:** Continue ART. Treat the [[Infectious Diseases/Opportunistic Infections in HIV\|OI]]. Use corticosteroids for severe inflammation (e.g., CNS IRIS, respiratory compromise).
 
 ### 3. Cotrimoxazole Prophylaxis
 

@@ -6,47 +6,56 @@
 
 ### Virology
 
-The influenza A (H1N1) virus belongs to the family _Orthomyxoviridae_ and the genus _Influenza Virus A_,. It is an enveloped, pleomorphic virus that can appear spherical or filamentous, typically ranging from 80 to 120 nm in diameter,.
+The influenza A (H1N1) virus belongs to the family _Orthomyxoviridae_ and the genus _Influenza Virus A_. It is an enveloped, pleomorphic virus that can appear spherical or filamentous, typically ranging from 80 to 120 nm in diameter,.
 
-**Genome Structure:** The viral genome consists of single-stranded, negative-sense RNA segmented into eight separate pieces,. This segmented nature is critical to the virus's evolution, as it allows for genetic reassortment (antigenic shift) when two different influenza viruses infect the same host cell simultaneously,.
+#### **Genome Structure:** 
+- The viral genome consists of single-stranded, negative-sense RNA segmented into eight separate pieces. 
+- This segmented nature is critical to the virus's evolution, as it allows for genetic reassortment (antigenic shift) when two different influenza viruses infect the same host cell simultaneously.
 
-**Surface Glycoproteins:** The viral envelope features two major surface glycoproteins that determine the subtype and are the primary targets for the host immune response:
+#### **Surface Glycoproteins:** 
+The viral envelope features two major surface glycoproteins that determine the subtype and are the primary targets for the host immune response:
 
-1. **Hemagglutinin (HA):** This rod-shaped spike facilitates the attachment of the virus to sialic acid receptors on the host's respiratory epithelial cells, initiating infection. There are 18 known HA subtypes (H1–H18), but H1, H2, and H3 are the primary subtypes adapted to humans,.
-2. **Neuraminidase (NA):** This mushroom-shaped spike is an enzyme responsible for cleaving sialic acid residues, allowing the release of newly formed viral particles from the host cell to infect adjacent cells,. There are 11 known NA subtypes (N1–N11), with N1 and N2 being the most common in human circulation,.
+1. **Hemagglutinin (HA):** This rod-shaped spike facilitates the attachment of the virus to sialic acid receptors on the host's respiratory epithelial cells, initiating infection. There are 18 known HA subtypes (H1–H18), but H1, H2, and H3 are the primary subtypes adapted to humans.
+2. **Neuraminidase (NA):** This mushroom-shaped spike is an enzyme responsible for cleaving sialic acid residues, allowing the release of newly formed viral particles from the host cell to infect adjacent cells,. There are 11 known NA subtypes (N1–N11), with N1 and N2 being the most common in human circulation.
 
-**Genetic Plasticity and Evolution:** The influenza virus undergoes continuous evolution through two primary mechanisms:
+#### **Genetic Plasticity and Evolution:** 
+The influenza virus undergoes continuous evolution through two primary mechanisms:
 
-- **Antigenic Drift:** These are minor, gradual point mutations within the genome (mainly in HA and NA genes) that occur during viral replication,. These changes allow the virus to evade pre-existing immunity in the population, necessitating the annual update of seasonal influenza vaccines,.
-- **Antigenic Shift:** This involves a major genetic change resulting from the reassortment of gene segments between human and animal (avian or swine) influenza viruses,. This abrupt change creates a novel virus to which the population has little or no immunity, potentially triggering pandemics,.
+- **Antigenic Drift:** These are minor, gradual point mutations within the genome (mainly in HA and NA genes) that occur during viral replication. These changes allow the virus to evade pre-existing immunity in the population, necessitating the annual update of seasonal influenza vaccines,.
+- **Antigenic Shift:** This involves a major genetic change resulting from the reassortment of gene segments between human and animal (avian or swine) influenza viruses,. This abrupt change creates a novel virus to which the population has little or no immunity, potentially triggering pandemics.
 
-**The 2009 Pandemic Strain (A[H1N1]pdm09):** The H1N1 virus responsible for the 2009 pandemic was a novel "triple reassortant" virus. Genetic sequencing revealed it possessed gene segments from North American swine, North American avian, human influenza, and Eurasian swine viruses,,. This unique genetic makeup allowed for efficient human-to-human transmission. This strain has now established itself as a seasonal influenza virus circulating globally,.
+#### **The 2009 Pandemic Strain (A[H1N1]pdm09):** 
+The H1N1 virus responsible for the 2009 pandemic was a novel "triple reassortant" virus. Genetic sequencing revealed it possessed gene segments from North American swine, North American avian, human influenza, and Eurasian swine viruses,,. This unique genetic makeup allowed for efficient human-to-human transmission. This strain has now established itself as a seasonal influenza virus circulating globally.
 
 ### Epidemiology
 
 Influenza is a highly contagious acute respiratory illness that causes significant global morbidity and mortality.
 
-**Reservoir and Host:** Influenza A viruses are zoonotic; wild aquatic birds are the primary natural reservoir. The virus can infect various species, including pigs, horses, seals, and poultry,. Pigs act as "mixing vessels" because they possess receptors for both avian and human influenza viruses, facilitating reassortment,.
+#### **Reservoir and Host:** 
 
-**Transmission:**
+Influenza A viruses are zoonotic; wild aquatic birds are the primary natural reservoir. The virus can infect various species, including pigs, horses, seals, and poultry,. Pigs act as "mixing vessels" because they possess receptors for both avian and human influenza viruses, facilitating reassortment,.
+
+#### **Transmission:**
 
 - **Droplet Infection:** The primary mode of transmission is via large respiratory droplets generated when an infected person coughs, sneezes, or talks. These droplets can travel up to 6 feet and infect mucosal surfaces of susceptible individuals,.
 - **Fomites:** Transmission can also occur through contact with surfaces contaminated with respiratory secretions, followed by touching the eyes, nose, or mouth,.
 - **Aerosol:** Small-particle aerosols can remain suspended in the air and may contribute to transmission in specific settings,.
 
-**Incubation and Communicability:**
+#### **Incubation and Communicability:**
 
 - **Incubation Period:** Typically 1 to 4 days, with an average of 2 days,. Some sources note a range of 1–7 days.
 - **Period of Communicability:** Adults are infectious from 1 day before symptom onset until 5–7 days after illness begins,. Children and immunocompromised individuals may shed the virus for significantly longer periods (up to 10 days or more),. Peak viral shedding often occurs on the first day of symptoms.
 
-**Seasonality in India:** Unlike temperate regions where influenza peaks strictly in winter, India exhibits distinct seasonality influenced by its geography and the monsoon:
+#### **Seasonality in India:** 
+Unlike temperate regions where influenza peaks strictly in winter, India exhibits distinct seasonality influenced by its geography and the monsoon:
 
 - **Overall Pattern:** India generally witnesses two peaks of influenza activity.
 - **Primary Peak:** During the monsoon/post-monsoon season (August to October),.
 - **Secondary Peak:** During the winter months (January to March), particularly in Northern India,.
 - This variation necessitates year-round surveillance and strategic vaccination timing.
 
-**High-Risk Groups:** Certain populations are at higher risk for severe disease, complications, and mortality:
+#### **High-Risk Groups:** 
+Certain populations are at higher risk for severe disease, complications, and mortality:
 
 - Children < 5 years, particularly those < 2 years of age,.
 - Adults ≥ 65 years of age.
@@ -122,18 +131,18 @@ This category includes patients with severe disease requiring immediate hospital
 
 Vaccination is the most effective measure to prevent influenza and its severe complications. In the context of India and IAP (Indian Academy of Pediatrics) guidelines, prioritization is essential due to disease burden and resource considerations.
 
-**1. Target Groups for Vaccination:**
+#### **1. Target Groups for Vaccination:**
 
-- **High-Priority Group (Medical Indications):** Vaccination is strongly recommended for children with chronic conditions that put them at high risk for severe influenza,,. These include:
+- **High-Priority Group (Medical Indications):** Vaccination is strongly recommended for children with chronic conditions that put them at high risk for severe influenza. These include:
     - Chronic cardiac or pulmonary diseases (e.g., Asthma, Cystic Fibrosis).
     - Chronic renal, hepatic, or metabolic disorders (e.g., Diabetes).
     - Neurodevelopmental disorders (e.g., Cerebral palsy, epilepsy).
     - Hematologic disorders (e.g., Sickle cell disease).
     - Immunodeficiency states (e.g., HIV/AIDS, malignancies, immunosuppressive therapy).
-- **Healthy Young Children:** Children aged **6 months to 5 years** are a priority group because they experience a high burden of hospitalization and mortality, particularly those **under 2 years of age**,,.
+- **Healthy Young Children:** Children aged **6 months to 5 years** are a priority group because they experience a high burden of hospitalization and mortality, particularly those **under 2 years of age**.
 - **Household Contacts:** Caregivers and household contacts of infants **< 6 months of age** (who cannot be vaccinated) and contacts of high-risk children should be vaccinated to create a "cocoon" of protection.
 
-**2. Vaccination Schedule:**
+#### **2. Vaccination Schedule:**
 
 - **Minimum Age:** Vaccination is recommended for children **≥ 6 months** of age. It is not approved for infants < 6 months,.
 - **Primary Schedule (Children 6 months to 8 years):**
@@ -142,7 +151,7 @@ Vaccination is the most effective measure to prevent influenza and its severe co
 - **Children ≥ 9 years:** Require only **1 dose** annually,.
 - **Timing:** Vaccination should ideally be completed before the onset of the influenza season (just before the monsoon or winter peak in India).
 
-**3. Types of Vaccine:**
+#### **3. Types of Vaccine:**
 
 - **Inactivated Influenza Vaccine (IIV):** Administered intramuscularly (0.5 mL). It is safe for immunocompromised children and those with chronic conditions. Both trivalent and quadrivalent formulations are available.
 - **Live Attenuated Influenza Vaccine (LAIV):** Administered intranasally. It is contraindicated in children < 2 years, immunocompromised children, and those with asthma/wheezing.
@@ -151,7 +160,8 @@ Vaccination is the most effective measure to prevent influenza and its severe co
 
 Antiviral treatment is crucial for preventing severe outcomes but must be used judiciously to prevent resistance.
 
-**1. Children Requiring Therapeutic Medication (Treatment):** Oseltamivir is the drug of choice. Treatment is indicated for:
+#### **1. Children Requiring Therapeutic Medication (Treatment):** 
+Oseltamivir is the drug of choice. Treatment is indicated for:
 
 - **Severe or Progressive Illness (Category C):** Any child requiring **hospitalization** for influenza or presenting with "red flag" signs (respiratory distress, altered sensorium, cyanosis, etc.) must be treated immediately,.
 - **High-Risk Children (Category B2):** Children with mild illness who have risk factors for complications must receive treatment,. These include:

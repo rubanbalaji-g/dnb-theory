@@ -8,7 +8,7 @@ Chickenpox (varicella) is a primary infection caused by the varicella-zoster vir
 
 - **Causative Agent:** Varicella-zoster virus (VZV) is a double-stranded DNA virus. Primary infection causes varicella (chickenpox), while reactivation of latent virus causes herpes zoster (shingles).
 - **Transmission:** VZV is highly contagious, spreading via the respiratory route (aerosolized droplets from nasopharyngeal secretions) or direct contact with vesicular fluid from skin lesions. Patients are infectious from 24–48 hours before the rash appears until all lesions have crusted (usually 4–7 days after rash onset).
-- **Adolescent Susceptibility:** In temperate climates, most individuals acquire immunity during childhood. However, in tropical and subtropical regions (including parts of India), the peak age of infection is often delayed, leading to a higher proportion of susceptible adolescents and adults. This epidemiological shift is significant because morbidity and mortality rates increase with age.
+- **Adolescent Susceptibility:** In temperate climates, most individuals acquire immunity during childhood. However, in tropical and subtropical regions (including parts of India), the peak age of infection is often delayed, leading to a higher proportion of susceptible adolescents and adults. This epidemiological shift is significant because <span style="color:rgb(0, 176, 240)">morbidity and mortality rates increase with age</span>.
 - **Pathogenesis:** Following inhalation, the virus replicates in the upper respiratory tract and regional lymph nodes (primary viremia). It then spreads to the reticuloendothelial system (liver/spleen), followed by a secondary viremia that disseminates the virus to the skin (causing the rash) and viscera. The incubation period is typically 10–21 days (average 14–16 days).
 
 ## Clinical Manifestations
@@ -39,7 +39,7 @@ This is the most serious complication in otherwise healthy adolescents and adult
 
 - **Incidence:** It occurs more frequently in adults/adolescents than in young children. Smoking is a known risk factor.
 - **Clinical Features:** Symptoms usually begin 1–6 days after the onset of the rash and include cough, dyspnea, tachypnea, fever, pleuritic chest pain, and occasionally hemoptysis.
-- **Pathology:** It is a primary viral pneumonia. Chest radiography typically shows diffuse bilateral infiltrates or nodular densities.
+- **Pathology:** It is a primary viral pneumonia. Chest radiography typically shows <span style="color:rgb(0, 176, 240)">diffuse bilateral infiltrates or nodular densities</span>.
 - **Prognosis:** It can progress rapidly to respiratory failure and acute respiratory distress syndrome (ARDS). Hypoxia can be severe.
 
 ### 2. Secondary Bacterial Infections
@@ -52,7 +52,7 @@ Superinfection of skin lesions is the most common complication in all age groups
 ### 3. Neurological Complications
 
 - **Encephalitis:** Occurs in approximately 1 per 50,000 cases. It manifests with altered sensorium, seizures, and nuchal rigidity. Morbidity is highest in patients older than 20 years and younger than 5 years.
-- **Cerebellar Ataxia:** Characterized by gait disturbance, nystagmus, and slurred speech. It is generally self-limited with a good prognosis.
+- **Cerebellar Ataxia:** Characterized by gait disturbance, nystagmus, and slurred speech. It is generally <span style="color:rgb(0, 176, 240)">self-limited</span> with a good prognosis.
 - **Other:** Transverse myelitis, Guillain-Barré syndrome, and aseptic meningitis.
 
 ### 4. Other Complications

@@ -72,19 +72,16 @@ The vast majority (>99%) of JEV infections are asymptomatic or result in a mild,
 The incubation period ranges from 4 to 14 days. The illness typically progresses through three stages:
 
 1. **Prodromal Stage (2–3 days):**
-    
     - Abrupt onset of high-grade fever, headache, and chills.
     - Nonspecific symptoms: Anorexia, nausea, vomiting, and abdominal pain.
     - Respiratory symptoms may be present.
 2. **Acute Encephalitic Stage (3–4 days):**
-    
     - **CNS Dysfunction:** Progressive clouding of consciousness ranging from confusion and delirium to stupor and deep coma.
     - **Seizures:** Generalized tonic-clonic seizures are very common, especially in children (reported in 10–24% or more).
     - **Movement Disorders:** A distinctive feature of JE is the involvement of the extrapyramidal system. Signs include mask-like facies, tremors (non-intention), cogwheel rigidity, dystonia, and choreoathetoid movements.
     - **Neurological Signs:** Neck rigidity and Kernig’s sign may be present but are often less pronounced than in bacterial meningitis. Upper motor neuron signs (spasticity, hyperreflexia, Babinski sign) are common, but rapidly changing signs (e.g., hyperreflexia becoming hyporeflexia) are characteristic.
     - **Other Features:** Cranial nerve palsies and autonomic disturbances may occur. In severe cases, central neurogenic hyperventilation and posturing (decorticate or decerebrate) may develop.
 3. **Convalescent Stage (Weeks to Months):**
-    
     - Fever subsides, and neurologic deficits may stabilize or gradually improve.
     - Persistent sequelae such as motor weakness, paresis, seizures, and cognitive impairment are common.
 

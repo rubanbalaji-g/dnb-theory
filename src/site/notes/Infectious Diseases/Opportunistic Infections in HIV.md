@@ -13,71 +13,74 @@
 ## Pneumocystis jirovecii Pneumonia (PCP/PJP)
 
 - **Epidemiology:**
-    
-    - _Pneumocystis jirovecii_ is a ubiquitous fungus that causes pneumonia almost exclusively in immunocompromised hosts,.
-    - It is the most common serious opportunistic infection in HIV-infected children, particularly in the first year of life,.
-    - The peak incidence occurs between 3 and 6 months of age, often in infants whose HIV status is yet unknown,,.
+    - _Pneumocystis jirovecii_ is a ubiquitous fungus that causes pneumonia almost exclusively in immunocompromised hosts.
+    - It is the most common serious opportunistic infection in HIV-infected children, particularly in the first year of life.
+    - The peak incidence occurs between 3 and 6 months of age, often in infants whose HIV status is yet unknown.
     - Without prophylaxis, high mortality rates (median survival of 1 month in untreated infants <1 year) are observed.
+
 - **Clinical Manifestations:**
-    
-    - **Infantile/HIV Pattern:** Onset is often insidious or subtle with tachypnea, progressing to feeding difficulties, fever (may be low grade or absent), and marked hypoxemia,,.
+    - **Infantile/HIV Pattern:** Onset is often insidious or subtle with tachypnea, progressing to feeding difficulties, fever (may be low grade or absent), and marked hypoxemia.
     - **Symptoms:** Cough (often nonproductive), dyspnea, and significant respiratory distress with intercostal/subcostal retractions and nasal flaring,.
-    - **Physical Exam:** Auscultation is often disproportionately normal relative to the degree of respiratory distress and hypoxia, though rales may be absent or minimal,.
-    - **Hypoxia:** Hypoxemia is invariable and often severe, with an elevated alveolar-arterial oxygen gradient,.
+    - **Physical Exam:** Auscultation is often disproportionately normal relative to the degree of respiratory distress and hypoxia, though rales may be absent or minimal.
+    - **Hypoxia:** Hypoxemia is invariable and often severe, with an elevated alveolar-arterial oxygen gradient.
+
 - **Diagnosis:**
-    
-    - **Radiology:** Chest X-ray typically shows diffuse, bilateral, symmetric interstitial or alveolar infiltrates extending from the perihilar region to the periphery ("ground-glass" appearance),,. Normal chest X-rays can occur early in the disease.
+    - **Radiology:** Chest X-ray typically shows diffuse, bilateral, symmetric interstitial or alveolar infiltrates extending from the perihilar region to the periphery ("ground-glass" appearance). Normal chest X-rays can occur early in the disease.
     - **Laboratory:** Serum lactate dehydrogenase (LDH) levels are often elevated but are non-specific,.
     - **Organism Detection:** Definitive diagnosis requires demonstration of the organism.
-        - **Bronchoalveolar Lavage (BAL):** Sensitivity of 75–95%; preferred diagnostic method,.
-        - **Induced Sputum:** Less sensitive (20–40%) than in adults; a negative result does not rule out PCP,.
+        - **Bronchoalveolar Lavage (BAL):** Sensitivity of 75–95%; preferred diagnostic method.
+        - **Induced Sputum:** Less sensitive (20–40%) than in adults; a negative result does not rule out PCP.
         - **Staining:** Methenamine silver, Giemsa, or immunofluorescent monoclonal antibody stains are used.
-        - **PCR:** Highly sensitive but may not distinguish colonization from active disease,.
+        - **PCR:** Highly sensitive but may not distinguish colonization from active disease.
+
 - **Treatment:**
-    
     - **First-line:** Intravenous **Trimethoprim-Sulfamethoxazole (TMP-SMX)**.
-        - **Dose:** 15–20 mg/kg/day (TMP component) divided every 6 hours,,.
-        - **Duration:** 21 days,.
+        - **Dose:** 15–20 mg/kg/day (TMP component) divided every 6 hours.
+        - **Duration:** 21 days.
     - **Adjunctive Therapy:** **Corticosteroids** (Prednisone or Methylprednisolone) are recommended for moderate to severe disease (PaO2 <70 mm Hg or A-a gradient >35 mm Hg) to prevent deterioration due to inflammatory response,,.
         - Regimen: 2 mg/kg/day for 7–10 days, followed by tapering.
-    - **Alternatives:** IV Pentamidine (4 mg/kg/day) for patients intolerant to TMP-SMX or failing therapy after 5–7 days,. Other options include Atovaquone, Clindamycin + Primaquine, or TMP + Dapsone (for mild-moderate disease),,.
+    - **Alternatives:** IV Pentamidine (4 mg/kg/day) for patients intolerant to TMP-SMX or failing therapy after 5–7 days,. Other options include Atovaquone, Clindamycin + Primaquine, or TMP + Dapsone (for mild-moderate disease).
+
 - **Prophylaxis:**
-    
     - **Mandatory:** All HIV-exposed infants starting at 4–6 weeks of age until HIV infection is excluded,.
     - **HIV-Infected Infants (<1 year):** Universal prophylaxis regardless of CD4 count,.
     - **Children 1–5 years:** Prophylaxis if CD4 <500 cells/µL or <15%,.
     - **Children ≥6 years:** Prophylaxis if CD4 <200 cells/µL or <15%,.
-    - **Regimen:** TMP-SMX (150 mg/m²/day TMP) given daily or 3 days/week,,.
+    - **Regimen:** TMP-SMX (150 mg/m²/day TMP) given daily or 3 days/week.
 
-## Tuberculosis (TB)
+## [[Infectious Diseases/HIV and TB Co-infection in Children\|Tuberculosis]]
 
 - **Interaction with HIV:**
     
     - HIV and _Mycobacterium tuberculosis_ act synergistically; HIV accelerates TB progression, and TB increases HIV viral replication,.
     - TB is a leading cause of death in HIV-infected children.
     - The risk of active TB is 5-10 times higher in HIV-infected children compared to uninfected children.
+
 - **Clinical Manifestations:**
     
     - **Pulmonary TB:**
         - Similar to HIV-uninfected children but more likely to be severe or progressive.
-        - Common symptoms: Prolonged fever, unremitting cough (>2 weeks), weight loss/failure to thrive, night sweats,.
-        - Radiographic patterns include lobar consolidation, cavitation (more common in HIV), and intrathoracic lymphadenopathy,.
+        - Common symptoms: Prolonged fever, unremitting cough (>2 weeks), weight loss/failure to thrive, night sweats.
+        - Radiographic patterns include lobar consolidation, cavitation (more common in HIV), and intrathoracic lymphadenopathy.
         - Can mimic Lymphoid Interstitial Pneumonitis (LIP) or bacterial pneumonia.
-    - **Extrapulmonary TB:** Significantly more frequent in HIV-infected children,. Sites include lymph nodes (scrofula), CNS (meningitis, tuberculoma), pleura, and disseminated (miliary) disease,.
+    - **Extrapulmonary TB:** Significantly more frequent in HIV-infected children. Sites include lymph nodes (scrofula), CNS (meningitis, tuberculoma), pleura, and disseminated (miliary) disease.
+
 - **Diagnosis:**
     
     - **Challenges:** Tuberculin Skin Test (TST) may be negative (anergy) due to immune suppression; Interferon-gamma release assays (IGRA) also have reduced sensitivity,.
     - **Criteria:** Diagnosis is often based on the "Golden Triad": Clinical features + Abnormal CXR + Positive TST/IGRA/History of contact.
     - **Microbiology:** Gastric aspirate (GA) or induced sputum for Acid-Fast Bacilli (AFB) smear and culture/NAAT (GeneXpert) is the gold standard but paucibacillary nature makes confirmation difficult,.
     - **Algorithm:** In HIV-infected children, any persistent cough or fever should trigger evaluation for TB.
+
 - **Treatment:**
     
-    - **Regimen:** Standard 4-drug therapy (Isoniazid, Rifampicin, Pyrazinamide, Ethambutol) for 2 months, followed by 4 months of Isoniazid + Rifampicin,.
+    - **Regimen:** Standard 4-drug therapy (Isoniazid, Rifampicin, Pyrazinamide, Ethambutol) for 2 months, followed by 4 months of Isoniazid + Rifampicin.
     - **Daily Dosing:** Essential for HIV-infected children; intermittent regimens are not recommended.
     - **Drug Interactions:** Rifampicin induces CYP450, lowering levels of Nevirapine (NVP) and Protease Inhibitors (PIs).
-        - If on NVP: Increase NVP dose by ~30% or switch to Efavirenz,.
-        - If on PI (Lopinavir/ritonavir): Avoid Rifampicin if possible (use Rifabutin) or super-boost Ritonavir,.
+        - If on NVP: Increase NVP dose by ~30% or switch to Efavirenz.
+        - If on PI (Lopinavir/ritonavir): Avoid Rifampicin if possible (use Rifabutin) or super-boost Ritonavir.
     - **ART Initiation:** Start ART within 2–8 weeks of starting TB treatment to reduce mortality, monitoring for IRIS.
+
 - **Prophylaxis (TPT):**
     
     - Isoniazid Preventive Therapy (IPT) is recommended for all HIV-infected children >12 months without active TB,.
@@ -87,23 +90,27 @@
 
 - **Epidemiology:**
     
-    - Occurs in children with severe immunosuppression (CD4 <50–75 cells/µL),.
+    - Occurs in children with severe immunosuppression (CD4 <50–75 cells/µL).
     - Incidence has dropped significantly with cART.
     - Acquired via inhalation or ingestion; colonization of GI/respiratory tract precedes dissemination.
+
 - **Clinical Manifestations:**
     
-    - **Disseminated Disease:** Fever, night sweats, weight loss, failure to thrive, severe anemia, neutropenia, and chronic diarrhea,.
-    - **Organ Involvement:** Generalized lymphadenopathy, hepatosplenomegaly, and abdominal pain (mesenteric adenitis),.
+    - **Disseminated Disease:** Fever, night sweats, weight loss, failure to thrive, severe anemia, neutropenia, and chronic diarrhea.
+    - **Organ Involvement:** Generalized lymphadenopathy, hepatosplenomegaly, and abdominal pain (mesenteric adenitis).
+
 - **Diagnosis:**
     
-    - Isolation of MAC from sterile sites (blood, bone marrow, lymph node),.
-    - Stool/respiratory cultures alone represent colonization, not necessarily disease,.
+    - Isolation of MAC from sterile sites (blood, bone marrow, lymph node).
+    - Stool/respiratory cultures alone represent colonization, not necessarily disease.
+
 - **Treatment:**
     
     - Combination therapy to prevent resistance.
     - **Regimen:** Clarithromycin or Azithromycin + Ethambutol,.
     - **Add-on:** Rifabutin, Ciprofloxacin, or Amikacin may be added for severe disease.
     - Lifelong therapy (secondary prophylaxis) unless immune reconstitution occurs.
+
 - **Prophylaxis:**
     
     - Indicated for severe immunosuppression (e.g., CD4 <75 cells/µL for ages 2–6; <50 for >6 years).
@@ -117,7 +124,8 @@
     - Most common fungal infection.
     - Features: White, curd-like plaques on erythematous mucosa; may cause pain and poor feeding.
     - Significance: Persistent thrush in an infant >6 months or failure to respond to topical therapy suggests HIV progression,.
-    - Treatment: Topical Nystatin or Clotrimazole; Oral Fluconazole for refractory cases,.
+    - Treatment: Topical Nystatin or Clotrimazole; Oral Fluconazole for refractory cases.
+
 - **Esophageal Candidiasis:**
     - AIDS-defining condition.
     - Features: Dysphagia, odynophagia, retrosternal pain, weight loss,.
@@ -126,7 +134,7 @@
 ### 2. Cryptococcosis
 
 - **Epidemiology:** Rare in young children; occurs in adolescents with severe immune depletion.
-- **Clinical:** Meningitis is the most common presentation (fever, headache, elevated intracranial pressure),. Can also cause pneumonia or disseminated disease.
+- **Clinical:** Meningitis is the most common presentation (fever, headache, elevated intracranial pressure). Can also cause pneumonia or disseminated disease.
 - **Diagnosis:** CSF India ink stain, Cryptococcal Antigen (CrAg) in CSF/serum (highly sensitive), Culture.
 - **Treatment:** Induction with Amphotericin B + Flucytosine followed by Fluconazole consolidation and maintenance.
 
@@ -143,10 +151,10 @@
 
 - **Epidemiology:** Disseminated disease occurs with severe immunosuppression (CD4 <50 cells/µL).
 - **Manifestations:**
-    - **Retinitis:** Most common severe manifestation (though less common in children than adults), causing "pizza pie" retinopathy (hemorrhage and necrosis) and blindness,.
+    - **Retinitis:** Most common severe manifestation (though less common in children than adults), causing "pizza pie" retinopathy (hemorrhage and necrosis) and blindness.
     - **GI Disease:** Esophagitis, colitis (bloody diarrhea, pain),.
     - **CNS:** Encephalitis, polyradiculopathy.
-- **Treatment:** IV Ganciclovir or Foscarnet. Valganciclovir for maintenance,.
+- **Treatment:** IV Ganciclovir or Foscarnet. Valganciclovir for maintenance.
 
 ### 2. Herpes Simplex Virus (HSV)
 

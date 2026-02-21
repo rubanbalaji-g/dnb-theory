@@ -43,7 +43,6 @@
             color: #4ade80;
             margin: 0;
             letter-spacing: 0.5px;
-            text-transform: uppercase;
         ">Notes by Dr. Ruban</p><div style="
             height: 1px;
             width: 80px;

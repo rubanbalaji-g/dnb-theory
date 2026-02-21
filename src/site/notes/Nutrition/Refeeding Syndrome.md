@@ -15,6 +15,7 @@ The syndrome is driven by the shift from a catabolic (starvation) state to an an
     - Fat and muscle stores are mobilized for energy.
     - Intracellular stores of electrolytes (phosphate, potassium, magnesium) become depleted, although serum levels may remain normal due to homeostatic mechanisms and reduced renal excretion.
     - The heart becomes smaller and weaker with reduced cardiac output.
+  
 - **Refeeding State:**
     
     - **Insulin Surge:** The reintroduction of carbohydrates/nutrition causes a sudden surge in insulin.

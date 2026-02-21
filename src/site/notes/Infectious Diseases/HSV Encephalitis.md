@@ -11,9 +11,9 @@ HSV is a double-stranded DNA virus belonging to the _Herpesviridae_ family.
 
 - **Causative Agents:** Beyond the neonatal period, HSV encephalitis is almost exclusively caused by **HSV type 1 (HSV-1)**. In neonates, encephalitis can be caused by either **HSV type 2 (HSV-2)** (approx. 70% of cases) or HSV-1, usually acquired vertically from the mother during passage through an infected birth canal.
 - **Pathophysiology:**
-    - **Primary Infection:** The virus typically enters through mucosal surfaces or abraded skin, replicates locally, and infects sensory nerve endings. It is then transported via retrograde axonal transport to sensory ganglia (e.g., trigeminal ganglia), where it establishes latency.
+    - **Primary Infection:** The virus typically enters through mucosal surfaces or abraded skin, replicates locally, and infects sensory nerve endings. It is then transported via retrograde axonal transport to sensory ganglia (e.g., <span style="color:rgb(0, 176, 240)">trigeminal ganglia</span>), where it establishes latency.
     - **CNS Invasion:** Encephalitis may result from primary infection or, more commonly in older children and adults, reactivation of latent virus. The virus travels along nerve fibers (e.g., olfactory or trigeminal nerves) to the brain.
-    - **Brain Damage:** HSV encephalitis is an acute, necrotizing infection with a predilection for the **temporal and frontal lobes** and the limbic system. The infection causes extensive tissue necrosis, edema, and hemorrhage. Microscopic examination reveals perivascular cuffing, lymphocytic infiltration, and intranuclear inclusion bodies.
+    - **Brain Damage:** HSV encephalitis is an acute, necrotizing infection with a predilection for the <span style="color:rgb(0, 176, 240)">temporal and frontal lobes</span> and the limbic system. The infection causes extensive tissue necrosis, edema, and hemorrhage. Microscopic examination reveals perivascular cuffing, lymphocytic infiltration, and intranuclear inclusion bodies.
     - **Neonatal Pathogenesis:** In neonates, the immature immune system allows for hematogenous dissemination or direct neuronal spread, potentially leading to global encephalitis rather than the focal temporal lobe involvement seen in older patients.
 
 ## Clinical Manifestations
@@ -96,7 +96,7 @@ Intravenous (IV) acyclovir should be started **empirically** and **immediately**
 
 #### Monitoring and Adverse Effects
 
-- **Nephrotoxicity:** Acyclovir can precipitate in renal tubules, causing obstructive nephropathy. Patients must be **well-hydrated** during therapy. Monitor renal function (creatinine/BUN) closely.
+- **Nephrotoxicity:** <span style="color:rgb(0, 176, 240)">Acyclovir can precipitate in renal tubules</span>, causing obstructive nephropathy. Patients must be **well-hydrated** during therapy. Monitor renal function (creatinine/BUN) closely.
 - **Neutropenia:** High-dose therapy, particularly in neonates, can cause neutropenia. Monitor absolute neutrophil counts (ANC) twice weekly during therapy.
 - **Neurotoxicity:** High doses may rarely cause tremors or seizures.
 - **Extravasation:** Can cause local tissue inflammation; ensure secure IV access.
@@ -137,5 +137,5 @@ Relapse of HSV encephalitis can occur after completion of therapy. It may manife
     - Epilepsy (seizure disorders).
     - Motor deficits (hemiparesis, spasticity).
     - Developmental delay in infants.
-- **Predictors of Poor Outcome:** Coma at presentation, young age (<30 years) combined with severe CNS involvement, and delay in starting acyclovir therapy (>3 days from onset). In neonates, disseminated disease and specific CNS involvement (e.g., lethargy, coma) predict worse outcomes.
+- **Predictors of Poor Outcome:** Coma at presentation, young age combined with severe CNS involvement, and delay in starting acyclovir therapy (>3 days from onset). In neonates, disseminated disease and specific CNS involvement (e.g., lethargy, coma) predict worse outcomes.
 

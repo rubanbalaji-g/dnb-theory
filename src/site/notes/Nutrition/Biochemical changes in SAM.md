@@ -6,7 +6,7 @@ Protein-Energy Malnutrition (PEM), particularly its severe forms (Marasmus, Kwas
 
 ### 1. General Pathophysiology: Reductive Adaptation
 
-- **Definition:** The systems of the body "shut down" or slow down to conserve energy and prolong life. This state effectively resembles hibernation,.
+- **Definition:** The systems of the body "shut down" or slow down to conserve energy and prolong life. This state effectively resembles hibernation.
 - **Mechanism:**
     - Basal Metabolic Rate (BMR) is reduced.
     - Functional reserve of organs is diminished.
@@ -99,7 +99,7 @@ Changes in lipid metabolism distinguish Marasmus from Kwashiorkor.
     - Defined as blood glucose < 54 mg/dL (< 3 mmol/L) in SAM.
     - **Cause:** Glycogen stores in the liver and muscle are depleted. Gluconeogenesis is the primary source of glucose but can be overwhelmed by infection or fasting,.
     - **Presentation:** Often asymptomatic; part of the lethal triad (Hypoglycemia, Hypothermia, Infection).
-- **Glucose Intolerance:** Glucose tolerance curves may be diabetic in type due to tissue insulin resistance and chromium deficiency,.
+- **Glucose Intolerance:** Glucose tolerance curves may be diabetic in type due to tissue insulin resistance and chromium deficiency.
 
 ### 6. Water and Electrolyte Disturbances
 
