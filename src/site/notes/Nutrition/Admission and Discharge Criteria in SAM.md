@@ -8,7 +8,7 @@ The management of Severe Acute Malnutrition (SAM) is categorized into facility-b
 
 A child is identified as having SAM if they meet **any one** of the following criteria:
 
-- **Weight-for-Height/Length:** Z-score < -3 SD of the WHO Child Growth Standards,,.
+- **Weight-for-Height/Length:** Z-score < -3 SD of WHO Child Growth Standards.
 - **Mid-Upper Arm Circumference (MUAC):** < 115 mm (< 11.5 cm) in children aged 6–59 months,,.
 - **Nutritional Oedema:** Bilateral pitting oedema of the feet (after excluding other medical causes),,.
 - **Visible Severe Wasting:** Severe loss of muscle and fat (e.g., gluteal wasting/baggy pants), particularly useful for infants < 6 months or where anthropometry is not possible.

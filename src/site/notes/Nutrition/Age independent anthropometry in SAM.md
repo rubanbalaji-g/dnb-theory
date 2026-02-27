@@ -107,3 +107,17 @@ While not a calculated index, this is a qualitative anthropometric sign accepted
     - Ribs and shoulder bones are easily visible.
     - "Baggy pants" appearance (loose skin folds on buttocks).
 - **Significance:** Presence of visible severe wasting confirms SAM.
+
+
+| Index / Method | Formula / Principle | Interpretation (SAM / Malnutrition) | Key Notes |
+| --- | --- | --- | --- |
+| Weight-for-Height/Length | Body mass relative to stature | < -3 SD (Z-score) | Gold standard for acute malnutrition (wasting). |
+| Mid-Upper Arm Circumference (MUAC) | Measures muscle and fat (6–59 months) | < 11.5 cm (115 mm) | Uses Shakir’s tape (Red zone = SAM). |
+| Kanawati and McLaren Index | $MUAC / Head Circumference$ | < 0.25 | Compares labile vs. static tissue. |
+| Rao and Singh Index | $Weight (kg) / [Height (cm)]^2$ | < 0.0013 | Pediatric BMI equivalent. |
+| Chest / Head Circumference Ratio | CC should exceed HC after 1 year | Ratio < 1 (CC < HC) | Indicates failure of chest muscle/fat accretion. |
+| Quac Stick | MUAC compared to height-specific standard | Actual MUAC < expected for height | Field tool; no scales required. |
+| Dugdale’s Index | $Weight (kg) / [Height (cm)]^{1.6}$ | < 0.79 | Age-independent nutritional assessment. |
+| The Bangle Test | 4 cm internal diameter bangle | Bangle passes easily over elbow | Rapid screening for children 1–5 years. |
+| Ponderal Index | $[Weight (g) / Length^3 (cm)] \times 100$ | < 2.0 | Used for neonates/IUGR assessment. |
+| Visible Severe Wasting | Qualitative clinical assessment | Ribs visible; "baggy pants" buttocks | Used when measurements are impossible. |

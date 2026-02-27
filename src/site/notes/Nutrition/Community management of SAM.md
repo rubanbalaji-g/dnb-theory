@@ -37,10 +37,10 @@ The management essentially covers **Steps 8, 9, and 10** of the standard WHO 10-
 
 Every child under home-based management must receive the following systematic medical treatments:
 
-- **Antibiotics:** Oral **Amoxicillin** for 5 days is mandatory to treat hidden infections.
-- **Vitamin A:** Single mega dose (50,000 to 200,000 IU based on age) if there are clinical signs of deficiency or if not received in the last month.
-- **Deworming:** Single dose of **Albendazole** (200 mg for 12–23 months; 400 mg for >24 months) or Mebendazole.
-- **Immunization:** Update age-appropriate vaccines, especially measles.
+- **<span style="color:rgb(255, 192, 0)">A</span>ntibiotics:** Oral **Amoxicillin** for 5 days is mandatory to treat hidden infections.
+- **Vitamin <span style="color:rgb(255, 192, 0)">A</span>:** Single mega dose (50,000 to 200,000 IU based on age) if there are clinical signs of deficiency or if not received in the last month.
+- **Deworming:** Single dose of **<span style="color:rgb(255, 192, 0)">A</span>lbendazole** (200 mg for 12–23 months; 400 mg for >24 months) or Mebendazole.
+- **Immunization:** Update <span style="color:rgb(255, 192, 0)">a</span>ge-appropriate vaccines, especially measles.
 - **Micronutrients:** Supplementation of minerals (potassium, magnesium) and vitamins. **Iron supplementation** is started in this phase (rehabilitation) once the child starts gaining weight.
 
 #### C. Sensory Stimulation

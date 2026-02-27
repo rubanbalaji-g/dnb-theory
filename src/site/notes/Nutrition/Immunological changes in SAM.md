@@ -43,3 +43,10 @@ Malnutrition disrupts the regulation of the inflammatory response.
 - **Silent Infections:** Due to "reductive adaptation" and the suppressed inflammatory response (reduced endogenous pyrogens/cytokines), classic signs of infection like fever and inflammation are often absent. A child with severe pneumonia or sepsis may present only with lethargy, hypothermia, or hypoglycemia,,.
 - **Gram-Negative Sepsis:** The combination of mucosal atrophy and immune paresis makes these children highly susceptible to gram-negative sepsis and bacteremia,.
 - **Progression of Tuberculosis:** Latent TB can easily flare up into active, severe disease (miliary TB, meningitis) due to loss of T-cell control.
+
+## Summary of Immunological Changes in SAM
+- Cell-mediated immunity is severely impaired due to thymic atrophy and T-lymphocyte reduction.
+- Humoral immunity is relatively preserved but with specific deficits in antibody response and secretory IgA.
+- Non-specific immunity is compromised with impaired phagocytosis and reduced complement system components.
+- Cytokine imbalance leads to uncontrolled inflammatory responses and increased susceptibility to infections.
+- Immunodeficiency in SAM results in silent infections, sepsis, and progression of tuberculosis.
