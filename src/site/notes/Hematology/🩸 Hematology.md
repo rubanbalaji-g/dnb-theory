@@ -4,7 +4,7 @@
 
 
 ## Inherited Bone Marrow Failure Syndromes
-1. [[Inherited bone marrow failure syndromes (IBMFS)\|Inherited bone marrow failure syndromes (IBMFS)]]
+1. [[Hematology/Inherited bone marrow failure syndromes (IBMFS)\|Inherited bone marrow failure syndromes (IBMFS)]]
 2. [[Hematology/Fanconi Anemia\|Fanconi Anemia]]
 3. [[Hematology/Shwachman-Diamond syndrome (SDS)\|Shwachman-Diamond syndrome (SDS)]]
 4. [[Hematology/Dyskeratosis congenita (DC)\|Dyskeratosis congenita (DC)]]
