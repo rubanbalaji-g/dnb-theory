@@ -6,7 +6,10 @@
 
 - Dyskeratosis congenita (DC) is a rare, inherited multisystem telomere disorder classically characterized by mucocutaneous abnormalities and progressive bone marrow failure.
 - The estimated incidence of DC in childhood is approximately 4 cases per 1 million population per year.
-- Historically, the condition was defined by a classic diagnostic mucocutaneous triad consisting of dysplastic nails, lacy reticular pigmentation of the upper chest and neck, and oral leukoplakia.
+- Historically, the condition was defined by a classic diagnostic mucocutaneous triad consisting of 
+	- <span style="color:rgb(255, 192, 0)">dysplastic nails</span>, 
+	- <span style="color:rgb(255, 192, 0)">lacy reticular pigmentation of the upper chest and neck</span>, and 
+	- <span style="color:rgb(255, 192, 0)">oral leukoplakia</span>.
 - It is now recognized that this triad is not present in all individuals, and hematological manifestations (particularly bone marrow failure) are actually the most common clinical features.
 
 ## Pathophysiology and Genetics

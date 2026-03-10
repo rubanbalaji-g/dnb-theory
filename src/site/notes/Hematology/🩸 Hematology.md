@@ -10,3 +10,6 @@
 4. [[Hematology/Dyskeratosis congenita (DC)\|Dyskeratosis congenita (DC)]]
 5. [[Hematology/Diamond-Blackfan anemia (DBA)\|Diamond-Blackfan anemia (DBA)]]
 6. [[Hematology/Congenital amegakaryocytic thrombocytopenia\|Congenital amegakaryocytic thrombocytopenia]]
+## Hemoglobinopathies
+1. [[Hematology/Sickle Cell Disease\|Sickle Cell Disease]]
+2. 

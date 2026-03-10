@@ -53,12 +53,12 @@
             line-height: 1.75;
             color: #94a3b8;
             margin-bottom: 24px;
-        ">This platform is a dedicated resource for candidates appearing for <strong style="color: #ffffff; font-weight: 600;">DNB (Pediatrics)</strong> and <strong style="color: #ffffff; font-weight: 600;">MRCPCH</strong> exams. 
+        ">This platform is a resource for candidates appearing for <strong style="color: #ffffff; font-weight: 600;">DNB (Pediatrics)</strong> and <strong style="color: #ffffff; font-weight: 600;">MRCPCH</strong> exams. 
            What began as a personal archive has now transitioned into an open digital notebook for all.</p><p style="
             font-size: 1.15rem;
             line-height: 1.75;
             color: #94a3b8;
-        ">Because learning never stops, this site is a <strong style="color: #ffffff; font-weight: 600;">"work in progress"</strong>. I regularly updated the site as my knowledge expands with new clinical insights and updated guidelines. I hope these notes help you to excel in your academic pursuits.</p></section>
+        ">Because learning never stops, this site is a <strong style="color: #ffffff; font-weight: 600;">"work in progress"</strong>. I updated the site as my knowledge expands with new clinical insights and updated guidelines. I hope these notes help you in your academic pursuits.</p></section>
     <div style="
         display: flex;
         flex-direction: column;

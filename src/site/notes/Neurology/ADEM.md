@@ -2,102 +2,49 @@
 {"dg-publish":true,"uplink":"/neurology/neurology/","uptext":"Back to Index (Neurology)","permalink":"/neurology/adem/","dgPassFrontmatter":true}
 ---
 
-### 1. Introduction and Definition
-* **Definition:** A diverse group of inflammatory disorders of the central nervous system mediated by autoantibodies targeting neuronal cell surface proteins, ion channels, or receptors.
-* **Clinical Importance:** It represents a treatable cause of encephalopathy that is often misdiagnosed as psychiatric illness or viral encephalitis.
-* **Pediatric Relevance:** Anti-NMDAR encephalitis is the most common cause, surpassing viral etiologies in some cohorts of adolescents.
+## Introduction
 
-### 2. Classification and Pathophysiology
-AIE is classified based on the location of the target antigen, which determines the mechanism of injury and response to treatment.
+Acute disseminated encephalomyelitis (ADEM) is an acute, immune-mediated, perivenous demyelinating disorder of the central nervous system. It is characterized by a rapid onset of polyfocal neurological symptoms and signs. ADEM typically occurs in early childhood (mean age 5–8 years) and is predominantly a monophasic illness.
 
-| Feature | **Neuronal Surface Antibody Syndrome** | **Paraneoplastic (Intracellular) Syndrome** |
-| :--- | :--- | :--- |
-| **Antigen Location** | Cell surface receptors (NMDAR, AMPAR, GABA) or Synaptic proteins (LGI1, CASPR2). | Intracellular/Nuclear antigens (Hu, Ma2, Yo, Ri). |
-| **Mechanism** | Antibody-mediated synaptic dysfunction (e.g., receptor internalization). Directly pathogenic. | T-cell mediated cytotoxicity. Antibodies are biomarkers but not pathogenic. |
-| **Cancer Association** | Variable (e.g., NMDAR with Teratoma). | High association (Small cell lung cancer, Neuroblastoma). |
-| **Response to Immunotherapy** | **Good to Excellent.** | Poor/Limited. |
+## Etiology and Pathogenesis
 
-### 3. Clinical Features
-The presentation is typically **subacute** (< 3 months) and progresses through characteristic phases, particularly in **Anti-NMDAR Encephalitis** (the prototype).
+ADEM most frequently occurs 1 to 3 weeks following a viral illness or immunization.
 
-#### A. Anti-NMDAR Encephalitis (Classic Progression)
-1.  **Prodromal Phase:** Viral-like illness (fever, headache, URI symptoms) 1–2 weeks prior.
-2.  **Psychiatric/Behavioral Phase:**
-    * **Children:** Temper tantrums, hyperactivity, irritability, mute/withdrawal.
-    * **Adolescents:** Acute psychosis, hallucinations, mania, insomnia, paranoia.
-3.  **Neurologic Phase (The "Storm"):**
-    * **Movement Disorders:** Orofacial dyskinesias (chewing, lip-smacking), choreoathetosis, dystonia, oculogyric crisis.
-    * **Seizures:** Focal or generalized; often resistant to standard anti-epileptics.
-    * **Autonomic Instability:** Tachycardia, hypertension, hyperthermia (central fever).
-    * **Hypoventilation:** Central respiratory failure requiring ventilation.
-    * **Language:** Mutism, echolalia.
+- **Antecedent Infections:** Varicella (chickenpox) is a frequent antecedent, occurring in 1 in 4,000 to 10,000 cases. Other triggering infections include measles, rubella, mumps, influenza, parainfluenza, Epstein-Barr virus (EBV), human herpesvirus 6 (HHV-6), HIV, dengue, Zika, _Mycoplasma pneumoniae_, and recently COVID-19.
+- **Vaccinations:** Post-vaccinal encephalomyelitis rarely follows the administration of live measles vaccine, smallpox, Semple rabies, and Japanese encephalitis vaccines. Modern vaccines have significantly reduced this risk.
+- **Pathogenesis:** The condition is presumed to result from a cross-reactive immune response (molecular mimicry) to an infectious agent or vaccine, which triggers an inflammatory demyelinating response directed against myelin antigens. Approximately 50% of children with ADEM have circulating autoantibodies against myelin oligodendrocyte glycoprotein (MOG-Ab).
 
-#### B. Other Specific Syndromes
-* **Anti-LGI1 Encephalitis:** Older children/adults. Hallmark is **Faciobrachial Dystonic Seizures (FBDS)**—brief (<3 sec) dystonic posturing of the face and arm. Associated with hyponatremia (SIADH).
-* **Anti-GABA-B Encephalitis:** Prominent seizures and limbic symptoms.
-* **Hashimoto Encephalopathy:** Associated with anti-TPO antibodies; presents with steroid-responsive tremor, myoclonus, and confusion.
+## Clinical Features
 
-### 4. Diagnostic Criteria (Graus Criteria 2016)
-Diagnosis should not rely solely on antibody testing (which takes weeks). Empiric treatment is based on "Possible AE" criteria.
+The clinical course is rapidly progressive over hours to days.
 
-**Criteria for Possible Autoimmune Encephalitis (Requires all 3):**
-1.  **Subacute onset** (rapid progression < 3 months) of working memory deficits, altered mental status, or psychiatric symptoms.
-2.  **At least one of the following:**
-    * New focal CNS findings.
-    * Seizures not explained by a known seizure disorder.
-    * CSF pleocytosis (>5 WBC/mm³).
-    * MRI suggestive of encephalitis.
-3.  **Reasonable exclusion** of alternative causes (HSV, Metabolic, Toxic).
+- **Hallmark Feature:** Encephalopathy is the hallmark of ADEM and cannot be explained by fever alone. It ranges from behavioral changes and persistent irritability to profound lethargy and coma.
+- **Initial Symptoms:** Reappearance of fever, headache, vomiting, and meningismus.
+- **Neurological Deficits:** Disseminated signs are consistently present. These include hemiparesis or paraparesis/quadriparesis, cranial nerve deficits, optic neuritis (often bilateral), visual loss, and sensory abnormalities.
+- **Other Manifestations:** Seizures (including status epilepticus), cerebellar ataxia (especially conspicuous in post-varicella ADEM), bladder/bowel disturbances, and myoclonus.
 
-### 5. Investigations
+## Diagnostic Investigations
 
-#### A. Neuroimaging (MRI Brain)
+There is no single biological marker for ADEM; diagnosis relies on clinical features supported by neuroimaging and cerebrospinal fluid (CSF) analysis.
 
-* **NMDAR:** Often **Normal** (50%) or nonspecific T2/FLAIR hyperintensities.
-* **Limbic Encephalitis (LGI1/GABA):** T2/FLAIR hyperintensity in the **medial temporal lobes** (amygdala/hippocampus).
+- **Neuroimaging (MRI Brain and Spine):** MRI is the modality of choice. It classically shows large, multiple, fluffy, and poorly demarcated T2 and FLAIR hyperintense lesions that are bilateral and asymmetric. Lesions predominantly involve the subcortical and central white matter, but frequently extend to deep gray matter structures (thalami, basal ganglia), brainstem, and the spinal cord. Contrast enhancement is variable. Follow-up MRI at 3–12 months typically demonstrates near-complete resolution with no new lesions.
+- **CSF Analysis:** May be normal or exhibit a mild lymphocytic or monocytic pleocytosis (usually <1000 cells/mm³, often $\ge$200 cells/µL) and mildly elevated protein (0.5–1.5 g/L). Unlike Multiple Sclerosis (MS), true oligoclonal bands (OCBs) are characteristically negative.
 
-#### B. Electroencephalogram (EEG)
+## Differential Diagnosis
 
+- **Multiple Sclerosis (MS):** Differentiating ADEM from a first attack of MS is crucial. ADEM occurs mostly in children <10 years, presents with fever, encephalopathy, and polysymptomatic features (e.g., bilateral optic neuritis), has negative CSF OCBs, and shows no new lesions on follow-up MRI. MS generally lacks encephalopathy, often presents monosymptomatically (e.g., unilateral optic neuritis), has positive OCBs, and shows temporal dissemination (new lesions) on follow-up MRI.
+- **Viral Encephalitis:** MRI in acute encephalitis usually produces lesions involving both gray and white matter directly due to viral invasion, whereas ADEM is post-infectious with prominent white matter demyelination. Differentiation can be difficult without a clear temporal history.
 
-[Image of Extreme Delta Brush EEG]
+## Management
 
-* **General:** Diffuse slowing or epileptiform discharges.
-* **Specific:** **"Extreme Delta Brush"**—rhythmic beta activity superimposed on diffuse delta waves. Highly specific for NMDAR encephalitis.
+The therapeutic goal is to suppress the acute autoimmune response.
 
-#### C. Cerebrospinal Fluid (CSF) & Antibody Testing
-* **Routine:** Mild lymphocytic pleocytosis, normal/mildly elevated protein, **Oligoclonal Bands (OCBs)** positive in 60%.
-* **Antibody Panel:**
-    * **NMDAR:** **CSF is more sensitive than Serum.** (False negative serum is common).
-    * **LGI1/CASPR2:** Serum testing may be more sensitive.
+- **Corticosteroids (First-line):** High-dose intravenous steroids are the mainstay of therapy. The standard regimen is IV Methylprednisolone 20–30 mg/kg/day (maximum 1000 mg/day) or Dexamethasone 5 mg/kg/day for 5 days. This is followed by an oral prednisolone taper of 1–2 mg/kg/day (maximum 40–60 mg/day) over 4 to 6 weeks.
+- **Intravenous Immunoglobulin (IVIG):** Administered at 2 g/kg over 2–5 days. It may be used in refractory/severe cases or when differentiation from viral encephalitis is uncertain.
+- **Plasmapheresis:** 5–7 exchanges administered every other day may be utilized in severe cases refractory to steroids.
 
-#### D. Tumor Screening
-* **Females:** MRI Pelvis / Ultrasound to rule out **Ovarian Teratoma** (contains neural tissue driving the immune response).
-* **General:** CT Chest/Abdomen/Pelvis for other malignancies (Neuroblastoma, Thymoma).
+## Prognosis
 
-### 6. Differential Diagnosis
-* **Infectious:** HSV Encephalitis (Acute fever, temporal lobe necrosis), Tuberculosis, JE, Enterovirus.
-* **Metabolic:** Wilson disease, Glutaric Aciduria Type 1 (dystonia), Porphyria.
-* **Psychiatric:** Primary Schizophrenia (unlikely if seizures/movement disorders are present).
-
-### 7. Management
-**"Time is Brain"**: Early immunotherapy improves long-term cognitive outcomes.
-
-#### A. First-Line Immunotherapy (Start Empirically)
-1.  **Corticosteroids:** IV Methylprednisolone (Pulse: 30 mg/kg/day for 3–5 days).
-2.  **IV Immunoglobulin (IVIG):** 2 g/kg over 2–5 days.
-3.  **Plasmapheresis (PLEX):** 5–7 cycles (if severe or no response to steroids/IVIG).
-
-#### B. Second-Line Immunotherapy (If no improvement in 10–14 days)
-1.  **Rituximab:** Anti-CD20 monoclonal antibody (375 mg/m² weekly x 4). **Standard of care** for NMDAR encephalitis.
-2.  **Cyclophosphamide:** Alkylating agent (reserved for severe/refractory cases).
-
-#### C. Tumor Management
-* Immediate surgical resection of the tumor (e.g., teratoma) is curative and prevents relapse.
-
-#### D. Chronic Maintenance
-* Mycophenolate Mofetil (MMF) or Azathioprine may be needed for 1–2 years to prevent relapse.
-
-### 8. Prognosis
-* **Recovery:** Slow (months to years). Occurs in reverse order of symptom onset (Autonomic $\rightarrow$ Movement $\rightarrow$ Psychiatric).
-* **Relapse:** Occurs in 12–25% of patients (higher risk if non-paraneoplastic or if immunotherapy is stopped early).
-* **Mortality:** ~5–10% (due to autonomic failure or ICU complications).
+- ADEM is generally a monophasic illness with a favorable prognosis. Most children experience full motor recovery, though symptoms may fluctuate during the initial days. 
+- However, residual deficits such as cognitive impairment or behavioral changes are not uncommon. 
+- If a relapse occurs 3 months or more after the initial event, it is termed multiphasic disseminated encephalomyelitis (MDEM), which is almost exclusively associated with MOG-antibody positivity.

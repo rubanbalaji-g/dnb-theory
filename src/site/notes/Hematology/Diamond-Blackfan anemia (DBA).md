@@ -21,7 +21,7 @@
 - The majority of cases are caused by pathogenic variants in small or large subunit-associated ribosomal protein (RP) genes.
 - Transmission is primarily autosomal dominant, accounting for at least 40–50% of cases, though incomplete penetrance and variable expressivity are common.
 - Two genes, _GATA1_ (an erythroid transcription regulator) and _TSR2_, exhibit X-linked inheritance.
-- _RPS19_ is the most commonly mutated gene, accounting for approximately 20–25% of cases. Other frequently implicated genes include _RPL5_, _RPL11_, _RPS10_, and _RPS26_.
+- <span style="color:rgb(255, 192, 0)"><i>RPS19</i> </span>is the most commonly mutated gene, accounting for approximately 20–25% of cases. Other frequently implicated genes include _RPL5_, _RPL11_, _RPS10_, and _RPS26_.
 
 ## Clinical Manifestations
 
