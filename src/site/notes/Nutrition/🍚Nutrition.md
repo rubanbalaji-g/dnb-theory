@@ -50,7 +50,7 @@
 6. [[Nutrition/Pre-ITS and ITS\|Pre-ITS and ITS]]
 7. [[Nutrition/Thiamine Deficiency\|Thiamine Deficiency]]
 8. [[Nutrition/Role of Folate in Human body\|Role of Folate in Human body]]
-9. [[Nutrition/Folate Deficiency\|Folate Deficiency]]
+9. [[Nutrition/Folate Deficiency\|Nutrition/Folate Deficiency]]
 10. [[Nutrition/Scurvy\|Scurvy]]
 11. [[Nutrition/Vitamin D and Rickets\|Vitamin D and Rickets]]
 12. [[Nutrition/Hypervitaminosis D\|Hypervitaminosis D]]
