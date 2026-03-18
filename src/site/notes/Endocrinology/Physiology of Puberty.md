@@ -107,7 +107,7 @@
 
 - **Thelarche (Breast Development):** The earliest physical sign of puberty in most females is the appearance of breast buds (thelarche), which represents Tanner stage 2 (SMR 2).
 - Thelarche is a direct biological response to increasing ovarian estradiol secretion.
-- In the United States, theularche typically occurs between 8 and 13 years of age; the average age is approximately 10 to 11 years, though it frequently occurs earlier in African American and Hispanic populations.
+- Thelarche typically occurs between 8 and 13 years of age; the average age is approximately 10 to 11 years.
 - Breast maturation progresses through areolar enlargement (SMR 3), the formation of a secondary mound by the areola and papilla (SMR 4), to mature adult contour (SMR 5).
 - **Pubarche:** The appearance of sexual pubic hair (SMR 2) typically follows thelarche by approximately 6 to 12 months, driven largely by adrenal androgens, though it may occasionally precede breast development.
 - **Growth Spurt:** In females, the pubertal linear growth spurt is an early event, triggered primarily by the combined actions of estrogen and growth hormone.

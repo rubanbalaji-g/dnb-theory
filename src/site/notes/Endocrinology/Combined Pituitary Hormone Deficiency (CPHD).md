@@ -21,7 +21,10 @@
 ### Diagnostic Evaluation
 
 - **Hormonal Profiling:** Requires baseline and dynamic stimulation testing to confirm deficiencies of GH (e.g., failed GH provocation), cortisol (failed ACTH stimulation), TSH (low free T4 with inappropriately low/normal TSH), and gonadotropins.
-- **Neuroimaging:** Magnetic Resonance Imaging (MRI) is the modality of choice. Many cases demonstrate a classic anatomic triad: a hypoplastic anterior pituitary gland, an attenuated or absent pituitary stalk, and an ectopic posterior pituitary bright spot.
+- **Neuroimaging:** Magnetic Resonance Imaging (MRI) is the modality of choice. Many cases demonstrate a classic anatomic triad: 
+	- a hypoplastic anterior pituitary gland, 
+	- an attenuated or absent pituitary stalk, and 
+	- an ectopic posterior pituitary bright spot.
 
 ### Management
 

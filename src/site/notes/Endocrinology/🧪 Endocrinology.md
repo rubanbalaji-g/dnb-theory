@@ -30,8 +30,9 @@
 3. [[Endocrinology/Precocious Puberty in Boys\|Precocious Puberty in Boys]]
 4. [[Endocrinology/Delayed Puberty in Girls\|Delayed Puberty in Girls]]
 5. [[Endocrinology/Precocious Puberty in girls\|Precocious Puberty in girls]]
-6. [[Endocrinology/Disorders of Sexual Development (DSD)\|Disorders of Sexual Development (DSD)]]
-7. [[Endocrinology/Approach to DSD\|Approach to DSD]]
+6. [[Endocrinology/Compare and Contrast - Precocious and Delayed puberty\|Compare and Contrast - Precocious and Delayed puberty]]
+7. [[Endocrinology/Disorders of Sexual Development (DSD)\|Disorders of Sexual Development (DSD)]]
+8. [[Endocrinology/Approach to DSD\|Approach to DSD]]
 ## Disorders of Calcium balance
 1. [[Endocrinology/Calcium Homeostasis\|Calcium Homeostasis]]
 2. [[Endocrinology/Caused of Hypocalcemia\|Caused of Hypocalcemia]]

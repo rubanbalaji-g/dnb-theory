@@ -1,11 +1,14 @@
 ---
-{"dg-publish":true,"permalink":"/endocrinology/septo-optic-dysplasia-de-morsier-syndrome/","dgPassFrontmatter":true}
+{"dg-publish":true,"uplink":"/endocrinology/endocrinology/","uptext":"Back to Index (🧪Endocrinology)","permalink":"/endocrinology/septo-optic-dysplasia-de-morsier-syndrome/","dgPassFrontmatter":true}
 ---
 
 ### Definition and Pathogenesis
 
 - Septo-optic dysplasia (SOD), also known as de Morsier syndrome, is a rare, congenital, and heterogeneous developmental anomaly.
-- The diagnosis is established clinically by the presence of any two of the following three classic features: midline forebrain defects (such as agenesis of the septum pellucidum and/or corpus callosum), optic nerve hypoplasia (ONH), and hypopituitarism secondary to hypothalamo-pituitary maldevelopment.
+- The diagnosis is established clinically by the presence of any two of the following three classic features: 
+	- midline forebrain defects (such as agenesis of the septum pellucidum and/or corpus callosum), 
+	- optic nerve hypoplasia (ONH), and 
+	- hypopituitarism secondary to hypothalamo-pituitary maldevelopment.
 - Approximately 30% of affected patients manifest the complete clinical triad, whereas roughly 60% have an absent septum pellucidum and 62% exhibit some degree of hypopituitarism.
 
 ### Clinical Features

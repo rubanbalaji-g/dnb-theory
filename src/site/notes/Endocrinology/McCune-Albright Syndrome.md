@@ -11,7 +11,10 @@
 
 ### Clinical Features
 
-- The syndrome is classically defined by a clinical triad: polyostotic fibrous dysplasia of bone, café-au-lait skin pigmentation, and gonadotropin-independent precocious puberty.
+- The syndrome is classically defined by a clinical triad: 
+	- polyostotic fibrous dysplasia of bone, 
+	- café-au-lait skin pigmentation, and 
+	- gonadotropin-independent precocious puberty.
 - The café-au-lait macules characteristically have irregular, jagged margins described as a "coast of Maine" appearance and frequently demonstrate an association with the midline of the body.
 - Fibrous dysplasia typically occurs at multiple sites (polyostotic) and commonly presents with bone pain, deformities, pathological fractures, and characteristic expansile lesions with a "ground-glass" appearance on radiographs.
 - Gonadotropin-independent precocious puberty occurs predominantly in females, presenting with recurrent autonomous ovarian cysts, widely fluctuating estradiol levels, and episodes of early vaginal bleeding.

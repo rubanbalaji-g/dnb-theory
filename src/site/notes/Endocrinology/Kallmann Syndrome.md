@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/endocrinology/kallmann-syndrome/","dgPassFrontmatter":true}
+{"dg-publish":true,"uptext":"Back to Index (🧪Endocrinology)","uplink":"/endocrinology/endocrinology/","permalink":"/endocrinology/kallmann-syndrome/","dgPassFrontmatter":true}
 ---
 
 ## Definition and Pathogenesis
