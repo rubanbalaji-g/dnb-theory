@@ -42,7 +42,7 @@
 
 ### Airway and Respiratory Support
 
-- Supplemental oxygen ($100\%$) should be administered immediately via a non-rebreather face mask to aggressively treat hypoxemia.
+- Supplemental oxygen ($100%$) should be administered immediately via a non-rebreather face mask to aggressively treat hypoxemia.
 - Severe upper airway obstruction secondary to progressive epiglottic or laryngeal edema may necessitate emergency advanced airway management.
 - Endotracheal intubation must be anticipated and prepared for early, as impending respiratory failure can progress to complete obstruction rapidly.
 - If bronchospasm and wheezing are prominent features, nebulized beta-agonists such as salbutamol should be administered alongside epinephrine.
