@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/endocrinology/congenital-adrenal-hyperplasia/","dgPassFrontmatter":true}
 ---
 
-## Overview of Congenital Adrenal Hyperplasia
+v## Overview of Congenital Adrenal Hyperplasia
 
 - Congenital adrenal hyperplasia (CAH) encompasses a family of autosomal recessive disorders characterized by genetic defects in the enzymes required for cortisol biosynthesis.
 - The fundamental pathophysiology shared by these disorders involves insufficient cortisol production, which eliminates normal negative feedback inhibition on the hypothalamus and pituitary gland.
@@ -11,6 +11,7 @@
 - Clinical phenotypes range from fatal neonatal salt-wasting crises and ambiguous genitalia to delayed puberty, hypertension, and asymptomatic nonclassic forms presenting in adulthood.
 
 ## Summary Table of Congenital Adrenal Hyperplasia Types
+![Pasted image 20260313202058.png](/img/user/+%C4%B0mages/Pasted%20image%2020260313202058.png)
 
 |Enzyme Deficiency|Gene (Locus)|Mineralocorticoid Effect|Genital Presentation (46,XX)|Genital Presentation (46,XY)|Key Diagnostic Biochemical Elevations|
 |:--|:--|:--|:--|:--|:--|

@@ -97,8 +97,6 @@ This is based on Z-scores (Standard Deviation Scores) derived from the WHO Multi
 |**Moderate**|< -2 SD|< -2 SD (Stunted)|< -2 SD (Wasted)|
 |**Severe**|< -3 SD|< -3 SD (Severely Stunted)|< -3 SD (Severely Wasted)|
 
-_[Source: 147]_
-
 ### B. IAP Classification (1972)
 
 Widely used in India historically, based on Weight-for-Age (Harvard standards).
