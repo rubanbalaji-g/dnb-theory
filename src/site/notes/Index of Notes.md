@@ -37,7 +37,7 @@ Organ-system–based approach to pediatric diseases.
 
 > [!red] 🦠Infectious Diseases  
 > Viral, bacterial, fungal, and parasitic infections in children.  
-> [[Infectious Diseases/🦠 Infectious Diseases\|View Notes →]]
+> [[Infectious Diseases/🦠 Infectious Diseases and Immunology\|View Notes →]]
 
 > [!red] 🍴Gastroenterology  
 > Disorders of the gastrointestinal tract, liver, and pancreas.  
