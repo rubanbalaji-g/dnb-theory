@@ -8,11 +8,15 @@ Core principles underlying child health, growth, development, and nutrition
 
 > [!green] 📈Developmental Pediatrics  
 > Growth patterns, developmental milestones, screening tools, and neurodevelopmental disorders.  
-> [[Development/📈 Development\|View Notes →]]
+> [[Development/📈 Developmental Pediatrics\|View Notes →]]
 
 > [!green] 🍚Nutrition  
 > Nutritional requirements across age groups, deficiencies, malnutrition, and obesity.  
 > [[Nutrition/🍚Nutrition\|View Notes →]]
+
+> [!green] 🧬Genetics
+> Dysmorphology, chromosomal anomalies, single-gene disorders, and clinical approaches to genetic testing.
+> [[Genetics/🧬 Genetics\|View Notes →]]
 
 ## Neonatology
 Care of the newborn from birth through the neonatal period, including high-risk neonates.

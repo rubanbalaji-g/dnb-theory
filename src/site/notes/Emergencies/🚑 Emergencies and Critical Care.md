@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/emergencies/emergencies-and-critical-care/","hide":true,"noteIcon":"","dgPassFrontmatter":true}
 ---
 
+
 ## PALS Algorithms
 1. [[Emergencies/Pediatric Cardiac Arrest Alogrithm 🔥🔥🔥\|Pediatric Cardiac Arrest Alogrithm 🔥🔥🔥]] 
 2. [[Emergencies/Pediatric Basic Life Support Algorithm - Single Rescuer\|Pediatric Basic Life Support Algorithm - Single Rescuer]]

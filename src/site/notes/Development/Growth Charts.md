@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/development/growth-charts/","dgPassFrontmatter":true}
+{"dg-publish":true,"uplink":"/development/development/","uptext":"Back to Index (📈 Development and Growth)","permalink":"/development/growth-charts/","dgPassFrontmatter":true}
 ---
 
 Growth charts are essential tools for monitoring the growth and development of children. Various types of charts have been developed and used over time:

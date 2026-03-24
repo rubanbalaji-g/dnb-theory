@@ -34,7 +34,7 @@
 10. [[Neurology/Epileptic Encephopathies\|Epileptic Encephopathies]]
 ### Named Syndromes
 1. [[Neurology/Benign Rolandic Epilepsy\|Benign Rolandic Epilepsy]]
-2. [[Neurology/Landau-Kleffner Syndrome\|Landau-Kleffner Syndrome]]
+2. [[Neurology/Landau-Kleffner Syndrome\|Neurology/Landau-Kleffner Syndrome]]
 3. [[Neurology/Infantile Spasms\|Infantile Spasms]]
 ## Headache
 1. [[Neurology/Classification and Approach to Headaches\|Classification and Approach to Headaches]]
