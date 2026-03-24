@@ -85,18 +85,24 @@ $$ RDA = EAR + 2 SD $$
 
 ### General Pediatric Allowances
 
-- **Sodium:** The daily requirement for maintaining extracellular fluid volume and normal cellular homeostasis is 2 to 3 mEq/kg/day.
-- In pathological states like hyponatremic dehydration, the therapeutic correction dose increases to 3 to 4 mEq/kg/day.
-- **Potassium:** Essential for intracellular fluid balance and neuromuscular function, the daily requirement is 2 to 3 mEq/kg/day.
-- In hypokalemic states triggered by severe diarrhea or malnutrition, therapeutic replacement requires 3 to 4 mEq/kg/day.
+- **Sodium:** The daily requirement for maintaining extracellular fluid volume and normal cellular homeostasis is <span style="color:rgb(241, 138, 255)">2 to 3 mEq/kg/day</span>.
+- In pathological states like hyponatremic dehydration, the therapeutic correction dose increases to <span style="color:rgb(241, 138, 255)">3 to 4 mEq/kg/day</span>.
+- **Potassium:** Essential for intracellular fluid balance and neuromuscular function, the daily requirement is <span style="color:rgb(241, 138, 255)">2 to 3 mEq/kg/day</span>.
+- In hypokalemic states triggered by severe diarrhea or malnutrition, therapeutic replacement requires <span style="color:rgb(241, 138, 255)">3 to 4 mEq/kg/day</span>.
+### Minerals
 
+- **Calcium:** The RDA is 300 mg for infants up to 12 months. It increases to 500 mg for ages 1-3 years, 550 mg for ages 4-6 years, and 650 mg for ages 7-9 years. To support the rapid skeletal mineralization during the pubertal growth spurt, adolescents (10-18 years) require 850 mg to 1050 mg daily.
+- **Iron:** Infants aged 6-12 months require 3 mg of iron. Children need 8 mg at 1-3 years, 11 mg at 4-6 years, and 15 mg at 7-9 years. Due to expanding red blood cell mass and menstrual losses, requirements peak during adolescence: 16-26 mg for boys and 28-32 mg for girls.
+- **Zinc:** The RDA is 2.5 mg for older infants (6-12 months). Children require 3.0 mg (1-3 years), 4.5 mg (4-6 years), and 5.9 mg (7-9 years). Adolescents require significantly more, ranging from 8.5 mg to 17.6 mg daily.
+- **Magnesium:** Requirements scale with age, from 30 mg in infancy to 135-215 mg in mid-childhood, reaching 255-405 mg during adolescence.
+- **Iodine:** The recommended intake is 90 μg/day from birth to 5 years, 120 μg/day for ages 6-12 years, and 150 μg/day for adolescents and adults.
 ### Preterm Infant Specific Allowances
 
-- **Calcium:** To facilitate adequate bone mineralization and prevent osteopenia of prematurity, preterm babies require 100 to 200 mg/kg/day.
-- **Phosphorus:** Required in tandem with calcium for skeletal growth, the allowance is 50 to 150 mg/kg/day.
-- **Magnesium:** Essential for cellular metabolism and acting as a calcium cofactor, the requirement is 6 to 20 mg/kg/day.
-- **Zinc:** Crucial for immune function, epithelial repair, and linear growth, preterm infants require 1 to 2 mg/kg/day.
-- **Iron:** Because preterm infants miss the massive iron transfer that occurs in the final weeks of gestation, they require early supplementation of 2.5 mg/kg/day to prevent profound anemia.
+- **Calcium:** To facilitate adequate bone mineralization and prevent osteopenia of prematurity, preterm babies require <span style="color:rgb(241, 138, 255)">100 to 200 mg/kg/day</span>.
+- **Phosphorus:** Required in tandem with calcium for skeletal growth, the allowance is <span style="color:rgb(241, 138, 255)">50 to 150 mg/kg/day</span>.
+- **Magnesium:** Essential for cellular metabolism and acting as a calcium cofactor, the requirement is <span style="color:rgb(241, 138, 255)">6 to 20 mg/kg/day</span>.
+- **Zinc:** Crucial for immune function, epithelial repair, and linear growth, preterm infants require <span style="color:rgb(241, 138, 255)">1 to 2 mg/kg/day</span>.
+- **Iron:** Because preterm infants miss the massive iron transfer that occurs in the final weeks of gestation, they require early supplementation of <span style="color:rgb(241, 138, 255)">2.5 mg/kg/day</span> to prevent profound anemia.
 
 ## Vitamins
 
