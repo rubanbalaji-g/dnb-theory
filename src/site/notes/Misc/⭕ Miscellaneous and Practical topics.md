@@ -4,5 +4,5 @@
 
 
 1. [[Misc/ECG\|ECG]]
-2. [[Misc/ABG\|ABG]] 
-3. [[Misc/Paracetamol Poisoning\|Paracetamol Poisoning]]
+2. [[Misc/SMR in Pediatrics\|SMR in Pediatrics]]
+3. 
