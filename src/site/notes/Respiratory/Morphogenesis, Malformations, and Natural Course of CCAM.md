@@ -24,9 +24,12 @@ Lung development occurs in **5 overlapping stages**.
     * Development of true alveoli.
     * **Septation:** Secondary septation increases surface area.
     * *Note:* 85-90% of alveoli form **postnatally**.
+![Pasted image 20260328181243.png](/img/user/+%C4%B0mages/Pasted%20image%2020260328181243.png)
 
-## II. Enumeration of Congenital Lung Malformations (3 Marks)
+## II. Enumeration of Congenital Lung Malformations 
 These are often grouped as **Congenital Thoracic Malformations (CTMs)**.
+
+![Pasted image 20260328181452.png](/img/user/+%C4%B0mages/Pasted%20image%2020260328181452.png)
 
 **A. Bronchopulmonary Anomalies**
 1.  **Congenital Pulmonary Airway Malformation (CPAM/CCAM):** Hamartomatous cystic lesions.

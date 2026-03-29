@@ -23,6 +23,7 @@ The relationship is best understood by plotting Lung Volume (Y-axis) against Tra
 ## III. Pediatric Specifics: The "Floppy" Chest Wall
 In infants and young children, this relationship differs significantly from adults.
 
+![Pasted image 20260328182328.png](/img/user/+%C4%B0mages/Pasted%20image%2020260328182328.png)
 ### 1. High Chest Wall Compliance
 * The pediatric chest wall is **highly compliant** ("floppy") due to cartilaginous ribs and weak musculature.
 * **Result:** The outward elastic recoil (spring-out force) of the chest wall is **very weak**.
