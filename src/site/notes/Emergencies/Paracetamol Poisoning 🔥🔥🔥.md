@@ -6,8 +6,8 @@
 
 - Paracetamol (acetaminophen) is a widely used analgesic and antipyretic agent, and its toxicity is the most common cause of acute liver failure in the Western world.
 - In therapeutic use, paracetamol is primarily detoxified in the liver via glucuronidation and sulfation into nontoxic products.
-- A small percentage (approximately $5%$) is metabolized by the hepatic cytochrome P450 enzyme (CYP2E1) into a highly reactive intermediate metabolite, N-acetyl-p-benzoquinoneimine (NAPQI).
-- Normally, NAPQI is immediately conjugated with glutathione to form a nontoxic mercapturic acid conjugate and excreted harmlessly.
+- A small percentage (approximately $5\%$) is metabolized by the hepatic cytochrome P450 enzyme (CYP2E1) into a highly reactive intermediate metabolite, N-acetyl-p-benzoquinoneimine (NAPQI).
+- Normally, NAPQI is immediately conjugated with glutathione to form a nontoxic  mercapturic acid conjugate and excreted harmlessly.
 - In an overdose scenario, glutathione stores become rapidly depleted, leaving free NAPQI to covalently bind with hepatic macromolecules, ultimately producing severe hepatocellular necrosis.
 - The acute toxic dose of paracetamol in children is generally $>200$ mg/kg.
 - Repeated administration of supratherapeutic doses ($>90$ mg/kg/day for consecutive days) can also lead to significant hepatic injury, particularly in the setting of fever, dehydration, poor nutrition, or other conditions that reduce baseline glutathione stores.
@@ -31,7 +31,8 @@
 - Levels obtained $<4$ hours post-ingestion are difficult to interpret and cannot reliably estimate the potential for hepatotoxicity.
 - The normal therapeutic level of paracetamol is $10-20$ $\mu$g/mL.
 - The $4$-hour or subsequent levels are plotted on the Rumack-Matthew nomogram to guide treatment decisions.
-- The treatment line on the Rumack-Matthew nomogram is typically plotted $25%$ below the standard line to allow for estimated errors in blood assays and timing of the overdose.
+- The treatment line on the Rumack-Matthew nomogram is typically plotted $25\%$ below the standard line to allow for estimated errors in blood assays and timing of the overdose.
+![Pasted image 20260402133557.png](/img/user/+%C4%B0mages/Pasted%20image%2020260402133557.png)
 - The nomogram is strictly intended for single acute ingestions with a known time of ingestion and cannot be utilized for chronic exposures, repeated doses, ingestions $>24$ hours old, or when co-ingestants slow gastrointestinal motility.
 - Baseline laboratory evaluations should always include hepatic transaminases (AST and ALT), total bilirubin, renal function tests (creatinine, blood urea nitrogen), and coagulation parameters (INR).
 
@@ -71,8 +72,11 @@
 ## Indications for Liver Transplantation
 
 - The King's College criteria are the standard prognostic tool used for deciding referral for liver transplantation in paracetamol-induced acute liver failure.
-- Transplantation referral is indicated if there is severe acidemia with a serum $pH < 7.3$ following adequate fluid resuscitation.
-- Alternatively, referral is strictly indicated if all three of the following criteria are met: severe coagulopathy with an $INR > 6.0$ (or $>6.5$), severe renal dysfunction with serum creatinine $> 3.3$ mg/dL (or $>3.4$ mg/dL), and grade III or IV hepatic encephalopathy.
+- Transplantation referral is indicated if there is severe acidemia with a <span style="color:rgb(255, 192, 0)">serum pH &lt;7.3</span>following adequate fluid resuscitation.
+- Alternatively, referral is strictly indicated if all three of the following criteria are met: 
+	- <span style="color:rgb(255, 192, 0)">severe coagulopathy with an INR > 6.0 (or >6.5), </span>
+	- <span style="color:rgb(255, 192, 0)">severe renal dysfunction with serum creatinine > 3.3 mg/dL (or >3.4 mg/dL)</span>, and 
+	- <span style="color:rgb(255, 192, 0)">grade III or IV hepatic encephalopathy</span>.
 - A serum lactic acid level $> 3$ mmol/L after intravenous fluid resuscitation adds significant sensitivity and specificity for predicting mortality and the need for a transplant.
 - The absolute peak value of transaminase elevation does not determine the need for liver transplantation.
 

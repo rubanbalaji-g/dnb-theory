@@ -6,30 +6,44 @@
 
 - Iron poisoning is a potentially fatal pediatric emergency, with severity directly related to the amount of elemental iron ingested.
 - Adult iron preparations and prenatal vitamins are the most toxic sources, whereas children's vitamins, multivitamin preparations, and nonionic forms (carbonyl iron, iron polysaccharide) rarely contain enough elemental iron to cause significant toxicity.
-- Patients ingesting $>40$ mg/kg of elemental iron require medical evaluation, while moderate to severe toxicity is typically seen with ingestions $>60$ mg/kg.
+### Iron Toxicity Based on Ingested Dose
+
+- The risk assessment and severity of iron toxicity are determined strictly by the amount of **elemental iron** ingested, rather than the total weight of the iron salt tablet.
+- The therapeutic dose for treating iron deficiency anemia is typically 3 to 6 mg/kg/day.
+- Acute ingestions exceeding these therapeutic limits are categorized based on the milligram per kilogram (mg/kg) of elemental iron ingested, which correlates with expected clinical manifestations.
+
+|Dose of Elemental Iron Ingested|Expected Toxicity and Clinical Features|
+|---|---|
+|<20 mg/kg|**Asymptomatic / Non-toxic:** Individuals typically do not exhibit any symptoms and require no specific treatment.|
+|20−60 mg/kg|**Mild to Moderate Toxicity:** Results primarily in local gastrointestinal (GI) symptoms such as abdominal pain, vomiting, and diarrhea.|
+|60−120 mg/kg|**Severe Toxicity:** High potential for systemic toxicity, including metabolic acidosis, shock, coagulopathy, and hepatorenal failure.|
+|>120 mg/kg|**Potentially Lethal:** Associated with life-threatening systemic collapse, severe morbidity, and high mortality.|
 - Iron has a direct corrosive effect on the gastrointestinal mucosa, leading to hematemesis, melena, ulceration, and potential perforation.
 - The presence of free iron causes massive volume losses, increased capillary membrane permeability, and vasodilation, which collectively precipitate early hypotension.
 - Iron accumulates in target tissues, notably the Kupffer cells of the liver and myocardial cells, causing hepatotoxicity, coagulopathy, and cardiac dysfunction.
 - Profound metabolic acidosis occurs due to a combination of hypovolemia, hypotension, and iron's direct interference with oxidative phosphorylation and the Krebs cycle.
 
-| Iron Preparation      | Percentage of Elemental Iron |
-| :-------------------- | :--------------------------- |
-| **Ferrous sulfate**   | 20%                          |
-| **Ferrous gluconate** | 12%                          |
-| **Ferrous fumarate**  | 33%                          |
+| Iron Salt / Preparation            | Percentage of Elemental Iron | Calculation Rule              |
+| ---------------------------------- | ---------------------------- | ----------------------------- |
+| **Ferrous Fumarate**               | 33%                          | Divide total salt dose by 3   |
+| **Ferrous Sulfate (dried)**        | ≈30%                         | Divide total salt dose by 3.3 |
+| **Ferrous Sulfate (heptahydrate)** | 20%                          | Divide total salt dose by 5   |
+| **Ferrous Gluconate**              | 12%                          | Divide total salt dose by 9   |
+| **Ferric Chloride**                | ≈28.5%                       | Divide total salt dose by 3.5 |
+| **Ferrous Chloride**               | 25%                          | Divide total salt dose by 4   |
 
 ## Clinical Manifestations
 
 - The clinical progression of acute iron toxicity is classically described in five overlapping stages.
 - Patients who remain completely asymptomatic without gastrointestinal symptoms within $6$ hours of ingestion are highly unlikely to develop serious toxicity.
 
-|Phase|Time After Ingestion|Characteristic Clinical Features|
-|:--|:--|:--|
-|**1. Gastrointestinal**|$6$ hours|Vomiting, diarrhea, hematemesis, hematochezia.|
-|**2. Latent**|$6-24$ hours|Resolution of gastrointestinal symptoms, tachycardia, acidosis, depressed mental status.|
-|**3. Systemic**|$12-24$ hours|Return of gastrointestinal symptoms, severe acidosis, leukocytosis, coagulopathy, renal failure, lethargy or coma, and cardiovascular collapse.|
-|**4. Hepatic**|$2-5$ days|Fulminant liver failure, coagulopathy.|
-|**5. Obstructive**|$3-6$ weeks|Pyloric or bowel scarring leading to obstruction.|
+| Phase                   | Time After Ingestion | Characteristic Clinical Features                                                                                                                        |
+| :---------------------- | :------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| **1. Gastrointestinal** | $6$ hours            | Vomiting, diarrhea, hematemesis, hematochezia.                                                                                                          |
+| **2. Latent**           | $6-24$ hours         | Resolution of gastrointestinal symptoms, tachycardia, acidosis, depressed mental status.                                                                |
+| **3. Systemic**         | $12-24$ hours        | Return of gastrointestinal symptoms, severe acidosis (HAGMA), leukocytosis, coagulopathy, renal failure, lethargy or coma, and cardiovascular collapse. |
+| **4. Hepatic**          | $2-5$ days           | Fulminant liver failure, coagulopathy.                                                                                                                  |
+| **5. Obstructive**      | $3-6$ weeks          | Pyloric or bowel scarring leading to obstruction.                                                                                                       |
 
 ## Diagnostic and Laboratory Evaluation
 

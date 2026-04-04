@@ -62,8 +62,7 @@
 ### Step 1: Ensuring the Consistency of ABG Measurements
 
 - The consistency of the ABG report must first be verified using the modified Henderson-Hasselbalch equation.
-- The hydrogen ion concentration ($[H^+]$) is estimated using the formula: $[H^+] = 24 \times \frac{PCO_2}{HCO_3^-}$.
-- The calculated $pH$ is then derived from the $[H^+]$ concentration using the formula: $pH = -\log_{10}[H^+]$.
+- The pH is estimated using the formula: $$[pH] = 6.1 + log_{10} \frac{HCO_3^-}{0.03 \times pCO_2}$$
 - If the calculated $pH$ does not match the measured $pH$ from the machine, the ABG report is inconsistent and invalid.
 
 ### Step 2: Identifying the Primary Acid-Base Problem

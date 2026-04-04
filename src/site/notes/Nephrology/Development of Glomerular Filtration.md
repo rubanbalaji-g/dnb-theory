@@ -33,14 +33,14 @@
 - Exogenous markers provide the most precise measurement of GFR by calculating the clearance of a substance that is freely filtered across the glomerular capillary wall and is neither reabsorbed nor secreted by the renal tubules.
 - These methods are considered the gold standard but are often expensive, invasive, and impractical for routine clinical monitoring.
 
-|Exogenous Marker|Mechanism & Clinical Utility|Limitations & Considerations|
-|:--|:--|:--|
-|**Inulin**|Fructose polymer (5.7 kDa); historical gold standard for true GFR measurement.|Highly cumbersome; continuous intravenous infusion required; expensive and rarely used clinically today.|
-|**Iohexol (Cold)**|Non-radiolabeled marker; measured via plasma clearance. Considered highly reliable and accurate for GFR estimation.|Requires multiple timed blood draws and precise pharmacokinetic two-compartment modeling.|
-|**99mTc-DTPA**|Radionuclide tracer. Computed using plasma clearance curves following a single intravenous injection.|Requires safe handling of radioactive materials; radiation exposure limits repeated testing in children.|
-|**51Cr-EDTA**|Radioactive marker widely used outside North America.|Beta-particle emission presents a carcinogenic risk; restricted availability in the USA/Canada.|
-|**125I-Iothalamate**|Radionuclide used to compute GFR via plasma clearance curves.|Requires handling of radioisotopes; technically demanding.|
-|**Fluorescent Markers**|Emerging technology utilizing fluorescein carboxymethylated dextrans for real-time transdermal or blood-based GFR assessment.|Currently experimental; prone to overestimation at lower GFR ranges.|
+| Exogenous Marker        | Mechanism & Clinical Utility                                                                                                  | Limitations & Considerations                                                                             |
+| :---------------------- | :---------------------------------------------------------------------------------------------------------------------------- | :------------------------------------------------------------------------------------------------------- |
+| **Inulin**              | Fructose polymer (5.7 kDa); historical gold standard for true GFR measurement.                                                | Highly cumbersome; continuous intravenous infusion required; expensive and rarely used clinically today. |
+| **Iohexol (Cold)**      | Non-radiolabeled marker; measured via plasma clearance. Considered highly reliable and accurate for GFR estimation.           | Requires multiple timed blood draws and precise pharmacokinetic two-compartment modeling.                |
+| **99mTc-DTPA**          | Radionuclide tracer. Computed using plasma clearance curves following a single intravenous injection.                         | Requires safe handling of radioactive materials; radiation exposure limits repeated testing in children. |
+| **51Cr-EDTA**           | Radioactive marker widely used outside North America.                                                                         | Beta-particle emission presents a carcinogenic risk; restricted availability in the USA/Canada.          |
+| **125I-Iothalamate**    | Radionuclide used to compute GFR via plasma clearance curves.                                                                 | Requires handling of radioisotopes; technically demanding.                                               |
+| **Fluorescent Markers** | Emerging technology utilizing fluorescein carboxymethylated dextrans for real-time transdermal or blood-based GFR assessment. | Currently experimental; prone to overestimation at lower GFR ranges.                                     |
 
 ### Endogenous Filtration Markers
 
@@ -64,11 +64,11 @@
 - The direct measurement of 24-hour creatinine clearance is inaccurate in children due to collection difficulties and is no longer recommended.
 - Instead, pediatric-specific mathematical equations estimating GFR (normalized to 1.73 m² body surface area) have been developed.
 
-|eGFR Equation|Formula / Parameters|Clinical Application|
-|:--|:--|:--|
-|**Classic Schwartz Formula** _(Historical)_|$eGFR = \frac{k \times height (cm)}{SCr (mg/dL)}$|Historical use. The constant '$k$' varied by age and sex: 0.33 for preterms, 0.45 for term infants, 0.55 for children/adolescent girls, and 0.70 for adolescent boys.|
-|**"Bedside" Schwartz Formula** _(Updated 2009)_|$eGFR = \frac{0.413 \times height (cm)}{SCr (mg/dL)}$|The most widely used pediatric equation. Validated for children aged 1-16 years using enzymatic IDMS-traceable creatinine.|
-|**Filler Formula**|$eGFR = 10^{1.962 + (1.123 \times \log(1/CysC))}$|Based purely on serum Cystatin C. Validated for all ages and applicable even in the hyperfiltration range.|
-|**Zappitelli Formula**|$eGFR = 75.94 \times (CysC^{-1.17})$|Cystatin C-based equation. A multiplier of 1.2 is used for renal transplant recipients.|
-|**CKiD 2012 Equation** _(Combined)_|Complex formula incorporating SCr, Cystatin C, BUN, height, and gender.|The most robust and accurate estimation of GFR in pediatric CKD patients, combining both endogenous markers.|
-|**Pottel Full Age Spectrum**|$eGFR = \frac{107.3}{SCr / Q}$ (where Q is median SCr for age/sex)|Height-independent equation useful when accurate length/height measurements are unavailable.|
+| eGFR Equation                                   | Formula / Parameters                                                    | Clinical Application                                                                                                                                                  |
+| :---------------------------------------------- | :---------------------------------------------------------------------- | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Classic Schwartz Formula** _(Historical)_     | $eGFR = \frac{k \times height (cm)}{SCr (mg/dL)}$                       | Historical use. The constant '$k$' varied by age and sex: 0.33 for preterms, 0.45 for term infants, 0.55 for children/adolescent girls, and 0.70 for adolescent boys. |
+| **"Bedside" Schwartz Formula** _(Updated 2009)_ | $eGFR = \frac{0.413 \times height (cm)}{SCr (mg/dL)}$                   | The most widely used pediatric equation. Validated for children aged 1-16 years using enzymatic IDMS-traceable creatinine.                                            |
+| **Filler Formula**                              | $eGFR = 10^{1.962 + (1.123 \times \log(1/CysC))}$                       | Based purely on serum Cystatin C. Validated for all ages and applicable even in the hyperfiltration range.                                                            |
+| **Zappitelli Formula**                          | $eGFR = 75.94 \times (CysC^{-1.17})$                                    | Cystatin C-based equation. A multiplier of 1.2 is used for renal transplant recipients.                                                                               |
+| **CKiD 2012 Equation** _(Combined)_             | Complex formula incorporating SCr, Cystatin C, BUN, height, and gender. | The most robust and accurate estimation of GFR in pediatric CKD patients, combining both endogenous markers.                                                          |
+| **Pottel Full Age Spectrum**                    | $eGFR = \frac{107.3}{SCr / Q}$ (where Q is median SCr for age/sex)      | Height-independent equation useful when accurate length/height measurements are unavailable.                                                                          |
