@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cardiology/innocent-vs-organic-murmurs/","dgPassFrontmatter":true}
+{"dg-publish":true,"uptext":"Back to Index (💗 Cardiology)","uplink":"/cardiology/cardiology/","permalink":"/cardiology/innocent-vs-organic-murmurs/","dgPassFrontmatter":true}
 ---
 
 ### 1. Definition

@@ -2,8 +2,6 @@
 {"dg-publish":true,"permalink":"/statistics/statistics/","noteIcon":"","dgPassFrontmatter":true}
 ---
 
-
-
 ## Basics of Statistics
 1. [[Statistics/Evidence Based Medicine (EBM)\|Evidence Based Medicine (EBM)]]
 2. [[Statistics/Strength and Quality of Evidence\|Strength and Quality of Evidence]]
@@ -13,7 +11,7 @@
 6. [[Statistics/Assent for a study involving children\|Assent for a study involving children]]
 ## Study Design & Methodology
 1. [[Statistics/Characteristics of a Good Research Question\|Characteristics of a Good Research Question]]
-2. [[Statistics/PICO(T) Framework\|PICO(T) Framework]]
+2. [[Statistics/PICO Framework\|PICO(T) Framework]]
 3. [[Statistics/Study Designs in Medical Research\|Study Designs in Medical Research]]
 4. [[Statistics/Observational Studies\|Observational Studies]]
 5. [[Statistics/Case Control vs Cohort Studies\|Case Control vs Cohort Studies]]

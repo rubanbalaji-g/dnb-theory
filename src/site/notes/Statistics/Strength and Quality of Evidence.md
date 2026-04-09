@@ -23,9 +23,7 @@
 - Studies affected by outcome reporting bias or p-hacking (data dredging) produce low-quality, unreliable evidence because the results are selectively published merely to highlight statistical significance.
 - In the context of meta-analyses, methodologically better-quality studies deserve more weight to ensure that the summary estimate is a true reflection of the treatment effect, rather than relying on a simplistic arithmetic average.
 
-### Examples Justifying the Definitions
-
-- The following table illustrates the concepts of EBM, strength of evidence, and quality of evidence with practical examples derived from medical literature:
+### Examples 
 
 |Concept|Justification and Example|
 |:--|:--|

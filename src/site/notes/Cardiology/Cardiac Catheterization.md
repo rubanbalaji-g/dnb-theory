@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cardiology/cardiac-catheterization/","dgPassFrontmatter":true}
+{"dg-publish":true,"uptext":"Back to Index (💗 Cardiology)","uplink":"/cardiology/cardiology/","permalink":"/cardiology/cardiac-catheterization/","dgPassFrontmatter":true}
 ---
 
 ### 1. Introduction

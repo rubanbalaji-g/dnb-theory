@@ -11,6 +11,7 @@
 ### Components and Interpretation
 
 - The graphical elements of a Forest plot convey specific statistical information regarding the individual trials and the pooled data.
+![Pasted image 20260409022750.png](/img/user/+%C4%B0mages/Pasted%20image%2020260409022750.png)
 
 |Component|Description and Interpretation|
 |:--|:--|

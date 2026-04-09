@@ -36,12 +36,12 @@ The decision to reject $H_0$ depends on the $p$-value, which is the probability 
 ## 6. Errors in Hypothesis Testing
 Because hypothesis testing is based on probabilities derived from samples, errors can occur when extrapolating to the true population.
 
-### A. Type I Error ($\alpha$ Error / False Positive)
+### A. Type I Error (α Error / False Positive)
 * **Definition:** Rejecting the Null Hypothesis ($H_0$) when it is actually true in reality.
 * **Clinical Consequence:** Concluding a drug is effective when it is actually useless. This is considered the more dangerous error in medicine, as it can lead to the adoption of ineffective or harmful treatments.
 * **Control:** Controlled by setting the significance level ($\alpha$), typically at 5% (0.05).
 
-### B. Type II Error ($\beta$ Error / False Negative)
+### B. Type II Error (β Error / False Negative)
 * **Definition:** Failing to reject the Null Hypothesis ($H_0$) when the Alternative Hypothesis ($H_1$) is actually true in reality.
 * **Clinical Consequence:** Missing a true therapeutic breakthrough. Concluding a life-saving drug has no effect when it actually does.
 * **Control:** Minimized by increasing the sample size, which increases the Statistical Power ($1 - \beta$) of the study (typically set at 80% or 0.80).

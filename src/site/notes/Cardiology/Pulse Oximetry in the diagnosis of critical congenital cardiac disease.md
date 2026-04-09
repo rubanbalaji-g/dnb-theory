@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cardiology/pulse-oximetry-in-the-diagnosis-of-critical-congenital-cardiac-disease/","dgPassFrontmatter":true}
+{"dg-publish":true,"uptext":"Back to Index (💗 Cardiology)","uplink":"/cardiology/cardiology/","permalink":"/cardiology/pulse-oximetry-in-the-diagnosis-of-critical-congenital-cardiac-disease/","dgPassFrontmatter":true}
 ---
 
 ### 1. Introduction

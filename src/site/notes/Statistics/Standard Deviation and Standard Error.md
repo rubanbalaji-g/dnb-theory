@@ -25,7 +25,7 @@
 - Standard error increases when the standard deviation (the variance of the underlying population) increases.
 - Standard error strictly decreases as the sample size increases; as the sample size expands to more closely match the true population size, sample means cluster more tightly around the true population mean.
 - Due to its formula, the standard error is inherently always a smaller numerical value than the standard deviation.
-- It is a vital parameter for inferential statistics, serving as the basis for calculating confidence intervals to infer population parameters (e.g., $95% \text{ CI} = \text{Sample Mean} \pm 1.96 \times SE$).
+- It is a vital parameter for inferential statistics, serving as the basis for calculating confidence intervals to infer population parameters (e.g., $95\% \text{ CI} = \text{Sample Mean} \pm 1.96 \times SE$).
 - It is also utilized directly in hypothesis testing to calculate test statistics, such as the t-statistic, which is derived by dividing the difference between two sample means by the standard error of the difference.
 
 ### Comparison Between Standard Deviation and Standard Error

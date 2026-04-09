@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cardiology/vsd/","dgPassFrontmatter":true}
+{"dg-publish":true,"uplink":"/cardiology/cardiology/","uptext":"Back to Index (💗 Cardiology)","permalink":"/cardiology/vsd/","dgPassFrontmatter":true}
 ---
 
 **Definition**

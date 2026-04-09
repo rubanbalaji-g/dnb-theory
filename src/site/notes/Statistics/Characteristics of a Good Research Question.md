@@ -15,12 +15,13 @@
 - **Novel:** The proposed question should seek to add new information, insights, or value to the current medical literature rather than simply duplicating already established facts.
 - **Relevant:** The question must be directly pertinent to medical knowledge, meaning the answer should have the potential to influence clinical practice, public health, or future scientific inquiries.
 
-### Tabular Summary of Research Question Characteristics
+### Research Question Characteristics
+- **SANER Approach**
 
-|Characteristic|Definition and Importance|
-|:--|:--|
-|**Interrogative**|Must be structured as a clear, direct question.|
-|**Specific**|Must explicitly detail the time, place, subjects, and condition to avoid ambiguity.|
-|**Answerable**|Must be capable of being investigated using available data and statistical tests.|
-|**Novel**|Must contribute original findings to the existing body of literature.|
-|**Relevant**|Must hold practical significance and applicability to medical knowledge.|
+| Characteristic                                               | Definition and Importance                                                           |
+| :----------------------------------------------------------- | :---------------------------------------------------------------------------------- |
+| **<span style="color:rgb(241, 138, 255)">S</span>pecific**   | Must explicitly detail the time, place, subjects, and condition to avoid ambiguity. |
+| **<span style="color:rgb(241, 138, 255)">A</span>nswerable** | Must be capable of being investigated using available data and statistical tests.   |
+| **<span style="color:rgb(241, 138, 255)">N</span>ovel**      | Must contribute original findings to the existing body of literature.               |
+| **<span style="color:rgb(241, 138, 255)">E</span>valuative** | Must be structured as a clear, direct question.                                     |
+| **<span style="color:rgb(241, 138, 255)">R</span>elevant**   | Must hold practical significance and applicability to medical knowledge.            |

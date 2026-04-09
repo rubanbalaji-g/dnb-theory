@@ -29,17 +29,17 @@
 
 - The choice of the statistical model depends on the degree of underlying heterogeneity among the included studies.
 
-|Model Type|Underlying Assumptions|Indications and Characteristics|
-|:--|:--|:--|
-|**Fixed-Effects Model**|Assumes that one true intervention effect underlies all included studies and that any observed differences in results are purely due to random chance or sampling error.|Used when there is no significant clinical or statistical heterogeneity present. It generally produces a narrower confidence interval.|
-|**Random-Effects Model**|Assumes that the true treatment effect is randomly distributed and different across studies, though all belong to the same underlying distribution.|Used when significant clinical or statistical heterogeneity is present. It generally results in a wider overall confidence interval due to the assumption of higher variability.|
+| Model Type               | Underlying Assumptions                                                                                                                                                   | Indications and Characteristics                                                                                                                                                  |
+| :----------------------- | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Fixed-Effects Model**  | Assumes that one true intervention effect underlies all included studies and that any observed differences in results are purely due to random chance or sampling error. | Used when there is no significant clinical or statistical heterogeneity present. It generally produces a narrower confidence interval.                                           |
+| **Random-Effects Model** | Assumes that the true treatment effect is randomly distributed and different across studies, though all belong to the same underlying distribution.                      | Used when significant clinical or statistical heterogeneity is present. It generally results in a wider overall confidence interval due to the assumption of higher variability. |
 
 ### Assessment of Heterogeneity
 
 - Heterogeneity represents the variation between studies, which can be clinical (differences in age, population, dose), methodological, or statistical (variation in treatment effect beyond what is expected by chance alone).
 - **Q-test for Heterogeneity:** A statistical test based on the Chi-square distribution; it indicates the presence of heterogeneity. Because it has low power with small study numbers, a p-value cutoff of <0.10 is conventionally used to establish significance.
 - **$I^2$ Statistic:** Quantifies the percentage of total variability in the effect estimates that is due to heterogeneity rather than chance; it is independent of the number of studies.
-- An $I^2$ value of 0% to 40% might not be important, 30% to 60% represents moderate heterogeneity, and >50% to 75% strongly suggests substantial to considerable heterogeneity, prompting the use of a random-effects model.
+- An $I^2$ value of 0% to 30% might not be important, 30% to 50% represents moderate heterogeneity, and >50% to 75% strongly suggests substantial to considerable heterogeneity, prompting the use of a random-effects model.
 - **L'Abbé Plot:** A scatterplot used to graphically explore statistical heterogeneity, plotting the outcome in the control group against the intervention group, where large deviations indicate heterogeneity.
 
 ### Graphical Representation: The Forest Plot

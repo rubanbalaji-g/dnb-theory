@@ -33,7 +33,7 @@
 
 - Applied when the outcome variable is binary or dichotomous, meaning it has only two possible states (e.g., disease present/absent, dead/alive, complication/no complication).
 - Because a binary outcome cannot be modelled directly on a linear scale without predicting impossible values outside the 0 to 1 range, logistic regression uses a logit transformation to model the natural logarithm of the odds of the event occurring.
-- The underlying equation is $ln[p/(1-p)] = b_0 + b_1x$, where $p$ is the probability of the outcome.
+- The underlying equation is $$ln (\frac{p}{(1-p)}) = b_0 + b_1x$$, where $p$ is the probability of the outcome.
 - The exponent of the regression coefficient ($exp(b_1)$) yields the Odds Ratio (OR), representing the multiplicative increase in the odds of the outcome for each unit increase in the predictor.
 - In multiple logistic regression, the resulting OR is an "adjusted Odds Ratio," meaning it actively accounts for and removes the simultaneous effects of other confounding variables in the model.
 

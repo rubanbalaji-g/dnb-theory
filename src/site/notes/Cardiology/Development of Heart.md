@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cardiology/development-of-heart/","dgPassFrontmatter":true}
+{"dg-publish":true,"uptext":"Back to Index (💗 Cardiology)","uplink":"/cardiology/cardiology/","permalink":"/cardiology/development-of-heart/","dgPassFrontmatter":true}
 ---
 
 ### 1. Introduction and Primary Heart Field
