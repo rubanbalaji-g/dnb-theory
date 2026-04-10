@@ -21,7 +21,7 @@ This site is powered by the following tools:
 
 ## 🤝 Let's Connect 
 I am open to connecting with fellow residents, medical students, or anyone interested in the intersection of medicine and technology. 
-Whether you want to discuss **Pediatrics, clinical cases**, **Exam preparation strategies (DNB/MRCPCH)**, **Neurology**, or just have a general chat about **Digital Gardening** and medical productivity - don't hesitate to reach out! 
+Whether you want to discuss **Pediatrics, clinical cases**, **Exam preparation strategies (DNB/MRCPCH)**, **Neurology**, or just have a general chat about **Digital Gardening** and medical productivity - don't hesitate to reach out :)
 
 > [!orange] 📞Get in Touch 
  > 📧 **Email**: [hi@pedianotes.in](mailto:hi@pedianotes.in) 
