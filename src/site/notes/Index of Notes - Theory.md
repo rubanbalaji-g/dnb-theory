@@ -84,6 +84,10 @@ Organ-system–based approach to pediatric diseases.
 > [[Metabolic Disorders/💡 Metabolic Disorders\|View Notes →]]
 ## Miscellaneous & Allied Topics
 
+> [!yellow] 🔢 Statistics
+>Basic statistics topics for DNB exam
+> [[Statistics/🔢 Statistics\|View Notes →]]
+
 > [!yellow] ⭕Miscellaneous  
 > Practical pediatrics, frequently overlooked topics, and exam-oriented pearls.  
 > [[Misc/⭕ Miscellaneous and Practical topics\|View Notes →]]
