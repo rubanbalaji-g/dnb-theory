@@ -1,0 +1,5 @@
+---
+permalink: /searchIndex.json
+eleventyExcludeFromCollections: true
+---
+[{% for post in collections.note %}{% if not post.data.noshow %}{"title":{% if post.data.title %}{{post.data.title | jsonify | safe }}{% else %}{{post.fileSlug | jsonify | safe }}{% endif %},"date":"{{ post.date }}","url":"{{ post.url }}","content":{{ post.templateContent | striptags(true) | truncate(200) | jsonify | safe }},"tags":[{{post.templateContent | searchableTags | safe }}{% if post.data.tags %}{% if post.templateContent | searchableTags %},{% endif %}{% for tag in post.data.tags %}"{{tag|validJson}}"{% if not loop.last %},{% endif %}{% endfor %}{% endif %}]}{% if not loop.last %},{% endif %}{% endif %}{% endfor %}]
