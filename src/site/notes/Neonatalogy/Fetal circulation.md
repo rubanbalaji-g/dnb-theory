@@ -3,7 +3,7 @@
 ---
 
 # Unique structures of fetal cardiovascular system
-- Oval foramen - between right and left ventricle
+- Oval foramen - between right and left atrium
 - Arterial duct - between pulmonary artery and descending aorta
 - venous duct - umbilical vein and inferior vena cava
 ![](https://i.ibb.co/d4tbQXSx/85b564dd538b6ad2472dce3bf29dbdb9.jpg)

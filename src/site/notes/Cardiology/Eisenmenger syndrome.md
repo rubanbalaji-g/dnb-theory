@@ -6,7 +6,10 @@
 
 - Eisenmenger syndrome represents the extreme end of the spectrum of pulmonary arterial hypertension associated with congenital heart disease.
 - It occurs when an uncorrected congenital cardiac defect with an initial left-to-right shunt (such as a ventricular septal defect, atrial septal defect, or patent ductus arteriosus) exposes the pulmonary vasculature to chronic high blood flow and/or high pressure.
-- This chronic exposure leads to progressive, irreversible pulmonary vascular obstructive disease, which is characterized histologically by medial hypertrophy, intimal proliferation, and eventually plexiform lesions.
+- This chronic exposure leads to progressive, irreversible pulmonary vascular obstructive disease, which is characterized histologically by 
+	- medial hypertrophy, 
+	- intimal proliferation, and 
+	- eventually plexiform lesions.
 - As pulmonary vascular resistance rises to reach near-systemic or supra-systemic levels, the initial left-to-right shunt reverses and becomes bidirectional or totally right-to-left.
 - The right-to-left shunting introduces deoxygenated blood directly into the systemic circulation, resulting in chronic central cyanosis and severe systemic hypoxemia.
 
