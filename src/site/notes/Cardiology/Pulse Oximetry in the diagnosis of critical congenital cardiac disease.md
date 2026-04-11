@@ -15,15 +15,13 @@
 
 - Screening primarily targets duct-dependent lesions where closure of the ductus arteriosus will lead to severe cardiac decompensation, profound hypoxemia, acidosis, and cardiovascular collapse.
 - The primary critical cyanotic lesions targeted by pulse oximetry screening include:
-    - Hypoplastic left heart syndrome (HLHS).
-    - Pulmonary atresia.
-    - Tetralogy of Fallot.
-    - Total anomalous pulmonary venous return (TAPVR).
-    - Transposition of the great arteries (TGA).
-    - Tricuspid atresia.
-    - Truncus arteriosus.
-    - Neonatal coarctation of the aorta.
-    - Aortic arch hypoplasia or atresia.
+
+| Category                                                       | Specific Critical Congenital Heart Lesions                                                                                                              |
+| -------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Duct-Dependent Systemic Circulation**                        | Hypoplastic left heart syndrome (HLHS) <br> Critical aortic valve stenosis <br> Severe coarctation of the aorta <br> Interrupted aortic arch            |
+| **Duct-Dependent Pulmonary Circulation / Right-Sided Lesions** | Pulmonary atresia with intact ventricular septum (PA/IVS) <br> Critical pulmonary stenosis <br> Severe Tetralogy of Fallot (TOF) <br> Tricuspid atresia |
+| **Mixing Lesions / Transposition**                             | D-Transposition of the great arteries (D-TGA) (especially at risk for restrictive atrial septum)                                                        |
+| **Severe Venous/Valvular Lesions**                             | Obstructed total anomalous pulmonary venous return (TAPVR) <br> Congenital mitral and tricuspid valve regurgitation <br> Neonatal Ebstein anomaly       |
 
 ## Screening Protocol and Algorithm
 
