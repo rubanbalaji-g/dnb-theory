@@ -2,21 +2,77 @@
 {"dg-publish":true,"uplink":"/cardiology/cardiology/","uptext":"Back to Index (💗 Cardiology)","permalink":"/cardiology/sinus-tachycardia-vs-svt/","dgPassFrontmatter":true}
 ---
 
-- Supraventricular tachycardia (SVT) is a broad term encompassing paroxysmal or incessant tachycardias originating above or within the His bundle, characteristically presenting with a narrow QRS complex.
-- Sinus tachycardia is a physiological acceleration of the heart rate originating from the normal sinus node, universally driven by an underlying systemic cause.
-- Differentiating between these two entities is critical; sinus tachycardia necessitates identifying and treating the underlying systemic illness (e.g., sepsis, hypovolemia), whereas SVT requires targeted antiarrhythmic interventions, vagal maneuvers, or direct current cardioversion.
+## Pathophysiology and Mechanisms
 
-### Comparative Clinical and Electrocardiographic Features
+### Sinus Tachycardia
+
+- Driven by increased automaticity of sinoatrial (SA) node.
+- Represents physiological response to extrinsic stressors (fever, hypovolemia, sepsis, anemia, pain, circulatory failure).
+- Characterized by gradual acceleration (warm-up) and gradual deceleration (cool-down).
+- Heart rate dynamically fluctuates with changes in autonomic tone.
+
+### Supraventricular Tachycardia (SVT)
+
+- Encompasses paroxysmal or incessant tachycardias excluding ventricular tachycardia.
+- Predominantly driven by re-entrant mechanisms (Atrioventricular Reciprocating Tachycardia [AVRT], Atrioventricular Nodal Reentry Tachycardia [AVNRT]).
+- Occasionally driven by abnormal ectopic automaticity (Ectopic Atrial Tachycardia, Junctional Ectopic Tachycardia).
+- Characterized by abrupt, sudden onset and termination.
+- Heart rate remains rigidly fixed without beat-to-beat variability.
+
+## Clinical Presentation
+
+### Sinus Tachycardia
+
+- Symptoms reflect underlying systemic illness or hemodynamic compromise.
+- Resolves completely upon correction of underlying etiology.
+
+### SVT
+
+- Infants manifest heart failure signs if prolonged: poor feeding, ashen color, tachypnea, hepatomegaly, irritability.
+- Older children report palpitations, precordial discomfort, shortness of breath, dizziness.
+- Exacerbated by caffeine, nonprescription decongestants, bronchodilators.
+- In utero SVT causes hydrops fetalis.
+
+## Electrocardiographic (ECG) Differentiation
 
 |Feature|Sinus Tachycardia|Supraventricular Tachycardia (SVT)|
 |:--|:--|:--|
-|**Onset and Termination**|Gradual acceleration ("warm-up") and gradual deceleration ("cool-down").|Abrupt, sudden onset and abrupt termination (classic for re-entrant SVT mechanisms).|
-|**Heart Rate Characteristics**|Variable rate that visibly fluctuates with changes in autonomic tone and respiration.|Rigidly fixed R-R interval showing almost no beat-to-beat variation.|
-|**Peak Heart Rate**|Varies by age and physiological stress, though it can occasionally reach up to 240 beats/min.|Usually >180 beats/min in older children/adolescents, and frequently 240–300 beats/min in neonates and infants.|
-|**P-Wave Morphology (ECG)**|Always present with a normal, upright axis (positive in leads I, II, and aVF).|P waves are often hidden within the QRS/T wave, or demonstrate an abnormal retrograde axis (inverted in inferior leads II, III, and aVF).|
-|**P-QRS Relationship (ECG)**|Strict 1:1 AV conduction.|Typically 1:1, but the P wave location depends on the specific re-entrant circuit (e.g., short VA interval in AVRT).|
-|**Response to Adenosine or Vagal Maneuvers**|Produces only a transient slowing of the heart rate, which gradually accelerates back to the previous tachycardic rate.|Results in abrupt and sudden termination of the tachycardia (specifically for AV node-dependent circuits like AVRT and AVNRT).|
-|**Underlying Etiology**|Secondary to systemic stressors such as fever, circulatory failure, severe dehydration, or pain.|Primary electrical abnormality, such as a concealed accessory pathway or dual AV nodal physiology.|
+|**Heart Rate**|Variable; typically <230 bpm (rarely up to 240 bpm).|Fixed; 180-320 bpm (240-300 bpm in infants).|
+|**Rate Dynamics**|Varies with respiration and autonomic tone.|Abrupt changes; rigidly regular rate.|
+|**P-Wave Presence**|Always present.|Often hidden within QRS or T wave.|
+|**P-Wave Axis**|Normal (Upright in leads I, aVF; inverted in aVR).|Abnormal or retrograde (Inverted in II, III, aVF).|
+|**P-QRS Relationship**|Strict 1:1 conduction.|1:1 conduction usual, but variable in specific subtypes.|
+|**QRS Duration**|Narrow.|Narrow (wide with aberrancy or antidromic AVRT).|
 
-- Echocardiography is heavily utilized in the assessment of SVT to rule out associated structural congenital heart diseases (such as Ebstein anomaly or congenitally corrected transposition of the great arteries) and to screen for tachycardia-induced cardiomyopathy (left ventricular dilation and systolic dysfunction) resulting from prolonged, unrecognized episodes.
-- During an invasive cardiac electrophysiology study (EPS), re-entrant SVT can be reliably induced and terminated using programmed electrical stimulation and overdrive pacing, whereas sinus tachycardia cannot be induced or terminated in this manner.
+## Diagnostic Maneuvers (Adenosine Challenge)
+
+### Sinus Tachycardia Response
+
+- Transient slowing of heart rate.
+- Transient atrioventricular (AV) block occurs without tachycardia termination.
+- Tachycardia resumes original rate immediately after adenosine metabolism.
+
+### SVT Response
+
+- AVNRT/AVRT abruptly terminates.
+- Retrograde P-wave often visible as final component before termination.
+- Unmasks underlying flutter waves in atrial flutter.
+- Unmasks abnormal atrial activity in ectopic atrial tachycardia via transient AV block.
+
+## Management Strategies
+
+### Sinus Tachycardia
+
+- Treat underlying physiological trigger (fluids, antipyretics, antibiotics).
+- Antiarrhythmic medications strictly contraindicated.
+
+### SVT (Acute Management)
+
+- **Vagal Maneuvers:** First-line non-pharmacological therapy. Ice bag applied to face (infants); Valsalva maneuver, straining, or breath-holding (older children). Ocular pressure absolutely contraindicated.
+- **Pharmacotherapy:** Intravenous Adenosine (0.1 mg/kg rapid IV push, maximum 6 mg initial dose). Administer via rapid push followed by rapid saline flush. Increases AV node refractoriness, blocking re-entrant circuits.
+- **Synchronized DC Cardioversion:** Indicated for severe heart failure or hemodynamic instability. Dose: 0.5-2 J/kg.
+
+### SVT (Chronic Management)
+
+- **Infants:** Often resolves spontaneously by 1 year of age. Medical therapy (Digoxin, beta-blockers) tapered by 12-18 months.
+- **Adolescents:** Lower spontaneous resolution probability. Catheter ablation (radiofrequency or cryoablation) serves as definitive curative therapy, boasting 90-98% success rates.

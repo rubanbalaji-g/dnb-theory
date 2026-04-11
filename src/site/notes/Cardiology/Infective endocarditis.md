@@ -2,125 +2,162 @@
 {"dg-publish":true,"uplink":"/cardiology/cardiology/","uptext":"Back to Index (💗 Cardiology)","permalink":"/cardiology/infective-endocarditis/","dgPassFrontmatter":true}
 ---
 
-## Definition and Epidemiology
+## Definition & Epidemiology
 
-- Infective endocarditis is defined as a microbial infection of the endothelial or endocardial surface of the heart, most commonly involving the native heart valves, prosthetic valves, mural endocardium, and the endothelium of blood vessels (infective endarteritis).
-- It may also involve intracardiac foreign materials such as surgical shunts, pericardial patches, and percutaneous devices.
-- The incidence of pediatric infective endocarditis ranges from 0.34 to 0.64 cases per 100,000 children per year.
-- In developed countries, congenital heart disease serves as the overwhelming predisposing factor for infective endocarditis.
-- High-risk patient populations include those with prosthetic cardiac valves, unrepaired cyanotic congenital heart disease (including palliative shunts and conduits), previous history of infective endocarditis, and cardiac transplant recipients who develop valvulopathy.
-- Patients who have undergone complete surgical or catheter-based repair of a congenital heart defect with prosthetic material or devices remain at high risk during the first six months after the procedure, or lifelong if there is a residual defect adjacent to the prosthetic patch or device.
-- Infective endocarditis is exceedingly rare in healthy infants; in this age group, it is predominantly associated with indwelling central venous catheters, prematurity, or following open-heart surgery.
-- Lesions characterized by high-velocity turbulent blood flow, such as restrictive ventricular septal defects, aortic stenosis, coarctation of the aorta, and tetralogy of Fallot, carry a significantly elevated risk for endocarditis.
-- In contrast, lesions with little or no turbulent flow, such as isolated secundum atrial septal defects, are not associated with an increased risk of infective endocarditis.
+- Microbial infection of endocardial/endothelial surface, heart valves (native/prosthetic), mural endocardium, septal defects, or intracardiac foreign material.
+- Infection involving great vessels/arteries termed infective endarteritis.
+- Incidence: 0.34–0.64 cases/100,000 children/year.
+- Mortality: High, ranges 10–25%.
+- Congenital Heart Disease (CHD) represents overwhelming predisposing factor in developed nations. Rheumatic Heart Disease (RHD) remains globally relevant underlying risk.
+- Right-sided IE (60–70%) more frequent in pediatrics.
 
-## Pathophysiology
+## Etiopathogenesis & Pathophysiology
 
-- The pathogenesis of infective endocarditis relies on a complex interaction between pathogenic microorganisms, the host immune system, and the valvular endothelium.
-- The initial event requires damage to the valvular endothelium, which is typically caused mechanically by unphysiological, high-velocity turbulent blood flow (jet lesions).
-- Endothelial damage leads to the exposure of underlying matrix proteins, initiating a thrombogenic response where fibrin and platelets deposit to form a sterile vegetation, termed nonbacterial thrombotic endocarditis (NBTE).
-- Concurrently, activated monocytes produce tissue factor, initiating the coagulation cascade and further fibrin deposition.
-- When a patient experiences transient bacteremia—frequently originating from the mucosal surfaces of the oropharynx, gastrointestinal tract, or genitourinary tract during routine daily activities like tooth brushing or chewing—the circulating bacteria adhere to and colonize the sterile NBTE.
-- Certain bacteria, such as _Staphylococcus aureus_, possess a high potency for adhering to and invading endothelial cells independently, enabling them to actively facilitate coagulation and increase their own pathogenicity.
-- Once bacteria attach to the fibrin-platelet matrix, they rapidly proliferate and embed within a biofilm, allowing them to escape elimination by the host's immune system and rendering them relatively inaccessible to antimicrobial agents.
+### Endothelial Injury & NBTE Formation
 
-## Microbiology
+- Pathogenesis relies on complex interaction between pathogenic bacteria and valvular endothelium.
+- Turbulent blood flow (high-pressure gradients across VSD, aortic stenosis) traumatizes vascular endothelium.
+- Endothelial damage triggers thrombogenesis. Fibrin and platelet deposition forms sterile Nonbacterial Thrombotic Endocarditis (NBTE).
+- Implanted mechanical devices (valves, catheters, pacemaker wires) develop biofilm serving as adhesive substrate.
 
-|Pathogen Category|Specific Microorganisms and Clinical Associations|
+### Bacteremia & Adhesion
+
+- Transient bacteremia originates from mucosal surfaces (oropharynx, gastrointestinal, urinary tracts).
+- Incidence of bacteremia from daily activities (tooth brushing, chewing) exceeds that from dental procedures.
+- Bacteria colonize NBTE/biofilm. Bacterial surface proteins (e.g., FimA antigen in viridans streptococci) act as adhesion factors.
+- _Staphylococcus aureus_ possesses high intrinsic pathogenicity. Invades endothelial cells directly, activates coagulation cascade via tissue factor pathway, and increases vegetation formation.
+
+## Etiology (Causative Organisms)
+
+|Pathogen Category|Specific Organisms & Clinical Context|
 |:--|:--|
-|**Streptococci**|_Viridans group streptococci_ (e.g., _S. mitis, S. mutans, S. sanguinis, S. bovis_) are the most common cause of native valve endocarditis and typically present with a subacute course. _Streptococcus pneumoniae_ and fastidious "nutritionally variant streptococci" (_Abiotrophia_ or _Granulicatella_ species) are less common but recognized causes.|
-|**Staphylococci**|_Staphylococcus aureus_ is an increasingly common and virulent cause of acute infective endocarditis, frequently associated with high mortality, infected intravascular devices, prosthetic valves, and central venous lines. Coagulase-negative staphylococci also cause device-related endocarditis but typically present later.|
-|**Gram-Negative Bacteria**|Account for less than 10% of cases and predominantly involve the HACEK group (_Haemophilus_ species, _Aggregatibacter_ species, _Cardiobacterium hominis_, _Eikenella corrodens_, and _Kingella_ species). _Pseudomonas_ species and Enterobacteria are typically seen in neonates or immunocompromised hosts.|
-|**Fungi**|_Candida_ and _Aspergillus_ species are rare, feared pathogens typically occurring in neonates, immunocompromised hosts, and patients with prolonged broad-spectrum antibiotic use, high-glucose infusions, or indwelling catheters. They produce large, friable vegetations with a high risk of thromboembolism.|
+|**Gram-Positive Cocci**|Most common cause overall (80–90%).|
+|**Viridans Group Streptococci (VGS)**|_S. mitis, S. mutans, S. sanguinis_. Most common cause of native valve IE or late post-surgical IE. Subacute presentation.|
+|**Staphylococcus aureus**|Emerging predominant cause. Associated with acute/fulminant presentation, high mortality, device infections, central lines, and structurally normal hearts.|
+|**Coagulase-Negative Staphylococci**|_S. epidermidis_. Common in indwelling central venous catheters, neonates, early prosthetic valve IE (<60 days).|
+|**Gram-Negative Bacteria**|Rare (<10%). **HACEK group** (_Haemophilus, Aggregatibacter, Cardiobacterium, Eikenella, Kingella_). Fastidious, insidious onset.|
+|**Fungal**|_Candida, Aspergillus_. Rare, severe. Associated with neonates, immunosuppression, prolonged antibiotics, central lines. High embolic risk due to large/friable vegetations.|
+|**Culture-Negative Endocarditis (CNE)**|Occurs in 5–10% of clinical IE. Primary cause: prior antibiotic use. Right-sided IE (lungs filter bacteria). Fastidious/atypical organisms (_Coxiella burnetii, Bartonella, Brucella, Legionella, Mycoplasma, Tropheryma whipplei_).|
 
 ## Clinical Manifestations
 
-- The clinical features of infective endocarditis are driven by four key pathophysiological mechanisms: continuous bacteremia, local valvular destruction, systemic embolization, and the host's immunological response.
-- Fever is the most ubiquitous symptom, present in 80% to 90% of cases, and may persist for several weeks before a definitive diagnosis is made.
-- Fever is frequently accompanied by generalized, nonspecific symptoms including fatigue, malaise, chills, night sweats, significant loss of appetite, weight loss, myalgia, and arthralgia.
-- Progressive valvular destruction and the resulting regurgitant lesions can lead to acute hemodynamic deterioration, culminating in severe congestive heart failure and cardiogenic shock.
-- Right-sided endocarditis (involving the tricuspid or pulmonary valves) frequently results in pulmonary thromboembolism, manifesting as cough, chest pain, hypoxemia, hemoptysis, pneumonitis, or septic lung abscesses.
-- Left-sided endocarditis is highly prone to systemic embolization of septic microthrombi to the brain, spleen, kidneys, and limbs.
-- Central nervous system complications include life-threatening ischemic and hemorrhagic strokes, subarachnoid hemorrhage, and the development of mycotic cerebral aneurysms.
-- Embolic and immunological vascular phenomena include Janeway lesions (nontender, erythematous, macular micro-abscesses on the palms and soles) and splinter hemorrhages in the nail beds.
-- Immunological complex deposition results in Osler nodes (tender, erythematous nodules over the finger pulps), Roth spots (retinal petechiae or microthrombi), and acute immune complex-mediated glomerulonephritis.
+Presentation highly heterogeneous. Symptoms relate to four pathophysiological mechanisms: bacteremia, valvulitis, embolization, and immunologic response.
 
-## Diagnostic Investigations
+### General Infectious Symptoms
 
-### Auscultation
+- Fever: Most common symptom (80–90%). May persist for weeks.
+- Non-specific: Chills, rigors, night sweats, anorexia, weight loss, severe fatigue, myalgia, arthralgia.
+- Neonates: Apnea, cyanosis, feeding intolerance, presentation mimicking sepsis.
 
-- A new pathologic heart murmur, or a distinct change in the character of a pre-existing murmur, is a classic finding present in up to 100% of previously healthy children who develop endocarditis.
-- The murmurs are typically regurgitant in nature, such as the pansystolic murmur of mitral regurgitation or the early diastolic decrescendo murmur of aortic regurgitation.
-- If congestive heart failure ensues secondary to severe valvular insufficiency, a pathologic gallop rhythm (S3 or S4) and pulmonary crepitations may be appreciated.
+### Cardiac & Hemodynamic Signs
 
-### Electrocardiogram (ECG)
+- New pathologic murmur or change in pre-existing murmur (50–100%).
+- Valvular destruction (perforation, chordal rupture) causes acute severe regurgitation (aortic/mitral).
+- Congestive heart failure secondary to valve insufficiency.
+- Conduction abnormalities/Heart block: Indicates extension of infection into myocardium (myocardial/septal abscess).
 
-- The ECG is routinely performed to evaluate for complications related to the infective process, specifically investigating for new conduction abnormalities.
-- The extension of a perivalvular or myocardial abscess into the cardiac conduction system can manifest as new-onset prolonged PR intervals, atrioventricular (AV) blocks, or complete heart block.
-- Ventricular ectopy and nonspecific ST-T wave changes may also be noted if there is an accompanying toxic myocarditis.
+### Embolic Phenomena
 
-### Chest Radiograph (CXR)
+Occur in ~30% of patients. High risk with vegetations >10mm, fungal etiologies, and left-sided lesions.
 
-- The chest radiograph may demonstrate bilateral pulmonary infiltrates, multiple nodular lesions, or septic pulmonary infarcts, particularly in patients with right-sided endocarditis.
-- Pleural effusions and significant cardiomegaly with perihilar pulmonary venous congestion may be present if the patient has developed congestive heart failure.
+- **Central Nervous System:** Ischemic/hemorrhagic stroke, mycotic aneurysm rupture, brain abscess. Presents with seizures, hemiparesis, altered sensorium.
+- **Pulmonary Emboli:** Common in right-sided IE. Presents with chest pain, hypoxemia, hemoptysis.
+- **Systemic Emboli:** Renal infarcts (hematuria), splenic infarcts (splenomegaly, left flank pain), mesenteric ischemia.
+- **Janeway Lesions:** Non-tender, erythematous/hemorrhagic macules on palms and soles.
 
-### Echocardiography
+### Immunologic Phenomena
 
-- Two-dimensional echocardiography is the primary modality for detecting intracardiac manifestations, localizing the vegetation, evaluating its size and mobility, and assessing the degree of valvular dysfunction via color Doppler.
-- Pathologic findings include an oscillating intracardiac mass (vegetation), newly acquired valvular regurgitation, valvular perforation, chordal rupture, perivalvular abscess, pseudo-aneurysm formation, intracardiac fistulae, and new partial dehiscence of a prosthetic valve.
-- Transthoracic echocardiography (TTE) is highly sensitive in children under 10 years of age or weighing less than 60 kg due to optimal acoustic windows.
-- Transesophageal echocardiography (TEE) is superior and highly indicated when evaluating prosthetic valves, assessing patients at high risk for aortic root abscesses, evaluating para-valvar disease, or when TTE acoustic windows are limited.
-- A negative echocardiogram does not conclusively rule out the diagnosis of infective endocarditis.
+- **Osler Nodes:** Tender, erythematous nodules on finger/toe pulps.
+- **Roth Spots:** Exudative retinal hemorrhagic lesions.
+- **Splinter Hemorrhages:** Linear hemorrhagic streaks under nail beds.
+- **Glomerulonephritis:** Immune complex deposition causing hematuria, proteinuria, renal failure.
 
-### Blood Cultures and Laboratory Studies
+## Diagnosis & Investigations
 
-- Positive blood cultures are the absolute cornerstone of diagnosis; three to five separate blood collections should be obtained using strict aseptic techniques.
-- Because bacteremia in endocarditis is continuous, blood cultures do not need to be timed with temperature spikes.
-- In clinically stable patients, it is highly recommended to withhold empirical antibiotics until all necessary blood cultures have been drawn to maximize the diagnostic yield.
-- Culture-negative endocarditis (CNE) occurs in 5% to 10% of cases, most frequently due to the prior administration of antibiotics.
-- For CNE or suspected fastidious organisms, advanced molecular techniques such as polymerase chain reaction (PCR) amplification and metagenomic next-generation sequencing of bacterial 16S rDNA or fungal 18S rDNA from blood or surgically resected valve tissue are utilized.
-- Supportive, nonspecific laboratory findings include a normocytic normochromic anemia, leukocytosis, thrombocytopenia, elevated acute phase reactants (C-reactive protein and erythrocyte sedimentation rate), hypergammaglobulinemia, hypocomplementemia, positive rheumatoid factor, and microscopic hematuria indicating glomerulonephritis.
+### Modified Duke Criteria
 
-## Diagnostic Criteria (Modified Duke Criteria)
+Definitive diagnosis requires: 2 Major OR 1 Major + 3 Minor OR 5 Minor criteria. Possible diagnosis requires: 1 Major + 1 Minor OR 3 Minor criteria.
 
-- The diagnosis of infective endocarditis is formalized using the Modified Duke Criteria, which categorizes patients into Definite, Possible, or Rejected cases based on pathological or clinical findings.
-- A clinical diagnosis of **Definite Infective Endocarditis** requires the presence of 2 Major criteria; OR 1 Major and 3 Minor criteria; OR 5 Minor criteria.
-- **Possible Infective Endocarditis** requires 1 Major and 1 Minor criterion; OR 3 Minor criteria.
-
-|Criteria Category|Specific Clinical and Diagnostic Findings|
+|Category|Specific Criteria|
 |:--|:--|
-|**Major Criteria: Blood Cultures**|1. Typical microorganisms (_Viridans streptococci, S. aureus, S. bovis,_ HACEK group, or community-acquired enterococci) from two separate blood cultures.2. Microorganisms from persistently positive blood cultures (defined as two positive cultures drawn >12 hours apart, or all of 3, or a majority of 4 separate cultures).3. Single positive blood culture for _Coxiella burnetii_ or an anti-phase I IgG titer >1:800.|
-|**Major Criteria: Echocardiography**|1. Oscillating intracardiac mass on a valve, supporting structure, or implanted material.2. Perivalvular abscess.3. New partial dehiscence of a prosthetic valve.4. New-onset valvular regurgitation.|
-|**Minor Criteria**|1. **Predisposition:** Underlying cyanotic or congenital heart disease, prosthetic valves, or intravenous drug use.2. **Fever:** Temperature > 38.0°C.3. **Vascular phenomena:** Major arterial emboli, septic pulmonary infarcts, mycotic aneurysms, intracranial hemorrhage, conjunctival hemorrhages, and Janeway lesions.4. **Immunological phenomena:** Glomerulonephritis, Osler nodes, Roth spots, and rheumatoid factor.5. **Microbiological evidence:** Positive blood culture not meeting a major criterion, or serological evidence of active infection.|
+|**Major Criteria**|**1. Positive Blood Culture:** Typical microorganisms (_VGS, S. aureus_, HACEK, Enterococci) from 2 separate cultures; OR persistently positive cultures (>12h apart); OR single positive culture for _Coxiella burnetii_ or Phase I IgG >1:800. **2. Positive Imaging for IE:** Echo showing vegetation, abscess, pseudoaneurysm, fistula, new partial dehiscence of prosthetic valve. OR Positive 18F-FDG PET/CT or SPECT/CT (in prosthetic valves >3 months post-op). OR Definite paravalvular lesions on Cardiac CT. **3. New Valvular Regurgitation**.|
+|**Minor Criteria**|**1. Predisposition:** Underlying heart disease, IV drug use. **2. Fever:** >38.0°C. **3. Vascular Phenomena:** Major arterial emboli, septic pulmonary infarcts, mycotic aneurysm, intracranial hemorrhage, conjunctival hemorrhages, Janeway lesions. **4. Immunologic Phenomena:** Glomerulonephritis, Osler nodes, Roth spots, Rheumatoid factor. **5. Microbiologic Evidence:** Positive blood culture not meeting major criteria, or serologic evidence of active infection.|
+
+### Laboratory Diagnostics
+
+- **Blood Cultures:** Cornerstone of diagnosis. Obtain 3 sets of aerobic cultures from separate venipunctures. Timing relative to fever spikes irrelevant due to continuous bacteremia. Withhold antibiotics for 48h in stable patients to optimize yield.
+- **Molecular Diagnostics:** 16S rDNA (bacteria) or 18S rDNA (fungi) sequencing/PCR on resected valve tissue or blood. Highly valuable for Culture-Negative Endocarditis or prior antibiotic administration. Metagenomic next-generation sequencing (mNGS) utilized for atypical/fastidious organisms.
+- **Supportive Labs:** Elevated CRP, ESR, procalcitonin. Leukocytosis, normocytic normochromic anemia, thrombocytopenia. Hypocomplementemia, elevated Rheumatoid factor. Microscopic hematuria/proteinuria.
+
+### Advanced Imaging
+
+- **Echocardiography (TTE/TEE):** TTE adequate for most children <60 kg. Transesophageal Echo (TEE) superior and indicated for: poor acoustic windows, prosthetic valve IE, high suspicion with negative TTE, detection of paravalvular abscess, fistula, or leaflet perforation.
+- **Cardiac CT:** Excellent for clarifying valve anatomy, diagnosing perivalvular abscess, pseudoaneurysms, and pre-operative planning.
+- **MRI:** Brain MRI detects silent ischemic lesions, mycotic aneurysms, and microbleeds (T2 sequences). Cardiac MRI evaluates myocardial extension.
+- **18F-FDG PET/CT & SPECT/CT:** Increases diagnostic accuracy for prosthetic valve IE (if >3 months post-implantation) and localizing peripheral embolic/infectious metastases.
 
 ## Management
 
-### Medical Management
+### Medical Therapy Principles
 
-- The eradication of the bacteria requires prolonged courses of parenteral, bactericidal antimicrobial therapy, typically administered intravenously for 4 to 6 weeks, because the bacteria within the vegetation are metabolically inactive and protected by a dense fibrin-platelet matrix.
-- Empirical therapy for acutely ill patients prior to culture results typically consists of Vancomycin combined with Gentamicin to broadly cover _S. aureus_, enterococci, and viridans streptococci.
+- Multidisciplinary approach (Cardiology, Infectious Disease, Cardiothoracic Surgery).
+- Prolonged parenteral administration of bactericidal antibiotics (4-6 weeks) required to penetrate avascular vegetations and clear biofilm.
+- Empirical therapy (Native valve or Prosthetic >1yr): Ampicillin-sulbactam + Gentamicin OR Ampicillin + Oxacillin + Gentamicin.
+- Empirical therapy (Prosthetic <1yr): Vancomycin + Cefepime + Rifampicin + Gentamicin.
 
-|Microorganism / Scenario|Recommended Antibiotic Regimen|
-|:--|:--|
-|**Highly Penicillin-Susceptible Streptococci (Native Valve)**|Intravenous Penicillin G, Ampicillin, or Ceftriaxone for 4 weeks.|
-|**Penicillin-Susceptible Streptococci (Prosthetic Valve)**|Intravenous Penicillin G, Ampicillin, or Ceftriaxone for 6 weeks, combined with Gentamicin for the first 2 weeks.|
-|**Methicillin-Susceptible _S. aureus_ (Native Valve)**|Intravenous Oxacillin or Nafcillin for 4 to 6 weeks, with or without Gentamicin for the first 3 to 5 days.|
-|**Methicillin-Resistant _S. aureus_ (MRSA)**|Intravenous Vancomycin for at least 6 weeks, with or without Gentamicin for the first 3 to 5 days.|
-|**HACEK Group (Gram-Negative)**|Intravenous Ceftriaxone, Cefotaxime, or Ampicillin combined with Gentamicin for 4 weeks.|
-|**Fungal Endocarditis**|Intravenous Amphotericin B combined with 5-Flucytosine; medical therapy alone is rarely successful and universally requires concomitant surgical excision of the infected tissue.|
+### Specific Antimicrobial Regimens
 
-### Surgical Management
+|Organism|Native Valve Regimen|Prosthetic Valve Regimen|
+|:--|:--|:--|
+|**Streptococci (Penicillin susceptible)**|Penicillin G, Ampicillin, or Ceftriaxone IV (4 weeks).|Penicillin G, Ampicillin, or Ceftriaxone IV (6 weeks) + Gentamicin (first 2 weeks).|
+|**Enterococci / Penicillin resistant**|Penicillin G or Ampicillin + Gentamicin IV (4-6 weeks).|Penicillin G or Ampicillin + Gentamicin IV (6 weeks).|
+|**Staphylococci (MSSA)**|Oxacillin or Nafcillin IV (4-6 weeks) ± Gentamicin (first 3-5 days).|Oxacillin IV (>6 weeks) + Rifampicin IV + Gentamicin IV (first 2 weeks).|
+|**Staphylococci (MRSA)**|Vancomycin IV (6 weeks) ± Gentamicin (first 3-5 days).|Vancomycin IV (>6 weeks) + Rifampicin IV + Gentamicin IV (first 2 weeks).|
+|**HACEK Group**|Ceftriaxone or Ampicillin + Gentamicin IV (4 weeks).|Extended-spectrum cephalosporin + Aminoglycoside (6 weeks).|
+|**Fungal**|Amphotericin B + 5-Fluorocytosine (5-FC) + Early Surgical Excision.|Universal surgical replacement required.|
 
-- Surgical intervention, involving the debridement of infected tissue and the repair or replacement of the affected cardiac valve, is frequently required to stabilize hemodynamics and achieve definitive source control.
-- **Heart Failure:** Surgery is urgently indicated for severe acute aortic or mitral valve regurgitation, valvular obstruction, or intracardiac fistulae causing cardiogenic shock or intractable pulmonary edema.
-- **Uncontrolled Infection:** Surgery is required for locally destructive expanding infections (perivalvular abscesses, mycotic aneurysms, pseudo-aneurysms), fungal endocarditis, multiresistant organisms, infections of pacing leads, or persistently positive blood cultures despite appropriate antimicrobial therapy.
-- **Prevention of Embolism:** Surgery is indicated to prevent catastrophic systemic embolization in patients harboring highly mobile vegetations greater than 10 mm accompanied by severe valvular dysfunction, or vegetations exceeding 15 mm in size.
+_Note: Monitor Gentamicin trough levels strictly to prevent nephrotoxicity/ototoxicity._
 
-## Prevention and Prophylaxis
+### Indications for Surgical Intervention
 
-- The maintenance of meticulous, routine daily oral hygiene and regular dental evaluations are heavily emphasized as the most critical interventions to prevent endocarditis, as daily activities like chewing and tooth brushing cause frequent, low-grade bacteremia that poses a greater cumulative risk than isolated invasive procedures.
-- The administration of prophylactic antibiotics before dental procedures is strictly limited to patients with the highest risk of severe adverse outcomes from infective endocarditis.
-- Conditions requiring prophylaxis include: patients with prosthetic mechanical or biological heart valves; patients with completely repaired congenital heart defects utilizing prosthetic material during the first 6 months post-procedure; patients with repaired congenital heart disease with residual hemodynamic defects adjacent to a prosthetic patch; patients with unrepaired complex cyanotic heart disease (including palliative shunts and conduits); cardiac transplant recipients with newly acquired valvulopathy; and patients with a previous history of infective endocarditis.
-- For qualifying patients, prophylaxis is indicated exclusively before dental procedures that involve the manipulation of gingival tissue, the periapical region of the teeth, or the perforation of the oral mucosa.
-- A single oral dose of Amoxicillin (50 mg/kg) is administered 30 to 60 minutes prior to the procedure.
-- If the patient has a documented penicillin allergy, appropriate alternatives include oral Clindamycin, Azithromycin, or Clarithromycin.
+Early surgical intervention improves survival in complicated IE. Do not delay surgery due to active infection if hemodynamically compromised.
+
+- **Heart Failure:** Severe acute aortic/mitral insufficiency or obstruction causing intractable heart failure, pulmonary edema, or cardiogenic shock.
+- **Uncontrolled Infection:** Perivalvular extension (abscess, pseudoaneurysm, fistula, new heart block). Persistent bacteremia (>7-10 days) despite appropriate antibiotics.
+- **High-Risk Organisms:** Fungal IE, Prosthetic valve _S. aureus_ IE, multi-resistant pathogens.
+- **Embolic Prevention:** Large vegetations (>10-15 mm) with severe valve dysfunction or recurrent embolization despite appropriate antimicrobial therapy.
+- **Prosthetic Complications:** Relapsing prosthetic valve endocarditis, partial dehiscence, infected shunts/conduits, or pacing leads.
+
+## Prevention & Prophylaxis
+
+### Shift in Paradigm
+
+- Routine antibiotic prophylaxis abandoned for majority of CHD. Risk of IE from daily activities (chewing, tooth brushing) significantly outweighs risk from isolated dental procedures.
+- Primary focus: Maintenance of meticulous oral hygiene and regular dental care.
+
+### High-Risk Conditions Requiring Prophylaxis
+
+Antibiotic prophylaxis limited to patients with highest risk of adverse IE outcomes:
+
+1. Prosthetic cardiac valves or prosthetic material used for valve repair.
+2. Previous history of Infective Endocarditis.
+3. Unrepaired cyanotic CHD (including palliative shunts/conduits).
+4. Completely repaired CHD utilizing prosthetic material or device (surgical or transcatheter), **during the first 6 months** post-procedure (allows endothelialization).
+5. Repaired CHD with residual defects at or adjacent to the site of a prosthetic patch/device.
+6. Cardiac transplantation recipients who develop cardiac valvulopathy.
+
+### Procedures Requiring Prophylaxis
+
+- **Dental:** Procedures involving manipulation of gingival tissue, periapical region of teeth, or perforation of oral mucosa (Excludes routine cleaning, shedding deciduous teeth, orthodontic bracket adjustment).
+- **Respiratory:** Invasive procedures involving incision/biopsy of respiratory mucosa (e.g., tonsillectomy, adenoidectomy).
+- **Skin/Musculoskeletal:** Procedures on infected tissue (must cover _S. aureus_ and Group A Strep).
+- _Note:_ Prophylaxis is NO LONGER recommended for routine gastrointestinal or genitourinary procedures.
+
+### Prophylactic Antibiotic Regimens
+
+Administer single dose 30-60 minutes prior to procedure.
+
+- **Standard Oral:** Amoxicillin 50 mg/kg (Max 2g).
+- **Unable to take PO:** Ampicillin, Cefazolin, or Ceftriaxone 50 mg/kg IV/IM.
+- **Penicillin Allergic (Oral):** Cephalexin 50 mg/kg, Azithromycin/Clarithromycin 15 mg/kg, or Clindamycin 20 mg/kg. _(Note: Newer 2021 AHA updates de-emphasize clindamycin due to adverse effects, but historically cited as alternative)_
+- **Penicillin Allergic (IV/IM):** Cefazolin/Ceftriaxone 50 mg/kg or Clindamycin 20 mg/kg.

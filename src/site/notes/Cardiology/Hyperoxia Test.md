@@ -2,34 +2,46 @@
 {"dg-publish":true,"uptext":"Back to Index (💗 Cardiology)","uplink":"/cardiology/cardiology/","permalink":"/cardiology/hyperoxia-test/","dgPassFrontmatter":true}
 ---
 
-### Principle and Purpose
+## Overview & Principle
 
-- The hyperoxia test is primarily utilized as a diagnostic method to distinguish cyanotic congenital heart disease (CHD) from pulmonary disease in a cyanotic or cardiorespiratory-distressed neonate.
-- The fundamental premise of the test is based on the physiological response to 100% oxygen administration: infants with pulmonary disease can overcome ventilation-perfusion abnormalities due to high levels of intraalveolar partial pressure of oxygen (PaO2), which reverses the hypoxia.
-- Conversely, neonates with cyanotic CHD generally fail to significantly raise their arterial PaO2 when administered 100% oxygen due to fixed right-to-left intracardiac shunting.
+- Distinguishes cyanotic Congenital Heart Disease (CHD) from primary pulmonary disease.
+- Premise: Neonates with cyanotic CHD cannot significantly elevate arterial partial pressure of oxygen ($PaO_2$) despite 100% oxygen administration.
+- Infants with pulmonary disease increase intraalveolar $PO_2$, overcoming ventilation-perfusion mismatch and reversing hypoxia.
 
-### Procedure and Precautions
+## Methodology
 
-- The test must be performed by administering almost 100% oxygen to the patient using an oxygen hood.
-- The use of a nasal cannula or face mask is strictly discouraged, as these methods cannot guarantee the exact delivery of 100% oxygen, potentially leading to false-positive results.
-- Arterial blood gas sampling is required to accurately measure the resulting PaO2.
+- Administer 100% oxygen.
+- Utilize oxygen hood.
+- Avoid nasal cannula or face mask.
+- Strict hood usage guarantees near 100% oxygen delivery, preventing false-positive results.
 
-### Interpretation of Results
+## Interpretation of Results
 
-| Post-100% Oxygen Arterial PaO2 | Most Likely Clinical Diagnosis / Etiology                                                                                                      |
-| :----------------------------- | :--------------------------------------------------------------------------------------------------------------------------------------------- |
-| **> 300 mm Hg**                | Healthy newborn                                                                                                                                |
-| **150 – 300 mm Hg**            | Noncardiac etiologies (Pulmonary disease, Central Nervous System (CNS) disorders, Methemoglobinemia)                                           |
-| **100 – 150 mm Hg**            | Cyanotic congenital heart lesions, Increased pulmonary blood flow (mixing lesions), or Persistent Pulmonary Hypertension of the Newborn (PPHN) |
-| **< 100 mm Hg**                | Congenital heart disease (CHD) with decreased pulmonary blood flow                                                                             |
+|$PaO_2$ Level (mm Hg)|Likely Etiology|Key Notes|
+|:--|:--|:--|
+|**> 300**|Healthy newborn|Normal response.|
+|**150 - 300**|Noncardiac etiologies (Pulmonary disease, CNS disorders, Methemoglobinemia)|Not 100% confirmative; rare cyanotic CHD cases achieve >150 mm Hg via favorable intracardiac streaming.|
+|**100 - 150**|Cyanotic CHD (mixing lesions with increased pulmonary blood flow) or PPHN|-.|
+|**< 100**|Cyanotic CHD (decreased pulmonary blood flow)|Typical of severe right ventricular outflow tract obstruction.|
 
-### Diagnostic Nuances and Clinical Correlates
+## Clinical Nuances & Differential Diagnosis
 
-- A PaO2 result between 150 and 300 mm Hg is not 100% confirmative for noncardiac etiologies; certain patients with cyanotic CHD may achieve a PaO2 > 150 mm Hg if they have favorable intracardiac streaming patterns.
-- Hypoxia secondary to congenital heart lesions remains relatively constant over time, whereas hypoxia caused by respiratory disorders or PPHN fluctuates with time or with alterations in ventilator management.
-- If cyanosis is caused by a central nervous system disorder, the infant's PaO2 will usually normalize completely upon the initiation of artificial ventilation.
-- In cases of profound hypoxemia (oxygen saturations < 70%) that is completely unresponsive to the hyperoxia test, a ductal-dependent lesion such as transposition of the great arteries (TGA) should be strongly suspected.
-- Any patient with hypoxia unresponsive to the hyperoxia test, especially with suspicion for TGA, requires the immediate initiation of a prostaglandin (PGE) infusion to promote ductal patency and intracardiac mixing.
+- **Central Nervous System (CNS) Disorders:** Hypoxia reverses completely with artificial ventilation.
+- **Transposition of the Great Arteries (TGA):** Profound hypoxemia/cyanosis (saturations <70%) remains unresponsive to hyperoxia test.
+- **Management Implication:** Lack of response to hyperoxia test in suspected TGA mandates immediate prostaglandin (PGE) initiation.
+
+## Related Fetal Variant: Maternal Hyperoxygenation (MH) Test
+
+### Purpose
+
+- Evaluates fetal pulmonary vasoreactivity to oxygen.
+- Predicts postnatal hemodynamic instability in high-risk CHD.
+
+### Procedure & Response
+
+- Administer 100% oxygen to mother via non-rebreather face mask.
+- **Normal Fetal Response:** $\geq$ 10% decrease in Doppler pulsatility indices of branch pulmonary arteries.
+- **TGA Application:** Alterations in septum primum position or foramen ovale flow during MH predict postnatal need for balloon atrial septostomy (BAS).
 
 ### Algorithmic Approach to the Hyperoxia Test
 

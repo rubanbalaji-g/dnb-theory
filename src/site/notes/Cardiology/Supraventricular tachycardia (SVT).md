@@ -2,70 +2,78 @@
 {"dg-publish":true,"uplink":"/cardiology/cardiology/","uptext":"Back to Index (💗 Cardiology)","permalink":"/cardiology/supraventricular-tachycardia-svt/","dgPassFrontmatter":true}
 ---
 
-## Introduction and Classification
+## Definition & Electrophysiology
 
-- Supraventricular tachycardia (SVT) is a general term encompassing essentially all forms of paroxysmal or incessant tachycardia originating above or within the His bundle, excluding ventricular tachycardia.
-- SVT is the most common mechanism of arrhythmia in infants and children, and is generally characterized by rapid activation of the ventricles via the normal His-Purkinje system, typically resulting in a narrow QRS complex.
-- SVT can be broadly classified into three major pathophysiologic subcategories: reentrant tachycardias using an accessory pathway (atrioventricular reciprocating tachycardia, AVRT), reentrant tachycardias without an accessory pathway (atrioventricular nodal reentry tachycardia, AVNRT), and ectopic or automatic tachycardias.
+- Encompasses paroxysmal or incessant tachycardias originating above or within the His bundle, excluding ventricular tachycardia,.
+- Characterized by narrow QRS complex (<120 ms in adolescents/young adults; <100 ms in children).
+- Neonatal SVT typically manifests with QRS <0.08 seconds.
+- Fetal SVT involves sustained rates >220 beats/min with 1:1 atrioventricular (AV) conduction.
 
-## Pathophysiology and Subtypes
+## Arrhythmia Mechanisms
 
-- **Atrioventricular Reciprocating Tachycardia (AVRT):** This is the most common mechanism of SVT in infants, utilizing an accessory bypass tract. In Orthodromic Reentry Tachycardia (ORT), the electrical impulse travels antegrade down the normal AV node and retrograde up the accessory pathway. If the pathway conducts bidirectionally, it is known as Wolff-Parkinson-White (WPW) syndrome. Permanent Junctional Reciprocating Tachycardia (PJRT) is a specific form of ORT utilizing a concealed, slowly conducting accessory pathway typically located on the posterior tricuspid valve or proximal coronary sinus, leading to an incessant tachycardia.
-- **Atrioventricular Nodal Reentry Tachycardia (AVNRT):** This involves two functional pathways within the AV node itself—a slow pathway with a short refractory period and a fast pathway with a longer refractory period. It is rare in infancy but increases in prevalence during childhood and adolescence. "Slow-fast" AVNRT accounts for 80-90% of these cases.
-- **Ectopic/Automatic Tachycardias:** These include Atrial Ectopic Tachycardia (AET) and Junctional Ectopic Tachycardia (JET). They result from an abnormal focus with enhanced automaticity rather than a reentrant circuit, meaning they typically "warm up" and "cool down" rather than exhibiting abrupt onset and termination.
+|Mechanism|Characteristics|Common Examples|
+|:--|:--|:--|
+|**Reentry**|Requires two pathways, conduction delay, and unidirectional block. Abrupt onset and termination,. Regular cycle length.|Atrioventricular Reciprocating Tachycardia (AVRT), Atrioventricular Nodal Reentry Tachycardia (AVNRT), Atrial Flutter,.|
+|**Abnormal Automaticity**|Gradual acceleration (warm-up) and deceleration (cool-down),. Single automatic focus.|Ectopic Atrial Tachycardia (EAT), Junctional Ectopic Tachycardia (JET),,.|
 
-## Clinical Manifestations
+## Etiology and Specific Syndromes
 
-- Clinical presentation varies significantly based on the patient's age and the duration of the tachycardia.
-- **Fetal Presentation:** Fetal SVT most commonly occurs between 24 and 32 weeks of gestation and can lead to hydrops fetalis (in utero heart failure) if sustained.
-- **Infants:** In neonates and infants, the heart rate frequently ranges from 240 to 300 beats per minute. Because infants cannot communicate palpitations, the tachycardia may go unrecognized for 6 to 24 hours or more until tachycardia-induced cardiomyopathy and overt congestive heart failure develop. These infants present with poor feeding, irritability, an ashen color, tachypnea, poor peripheral pulses, and hepatomegaly.
-- **Older Children and Adolescents:** Tachycardia rates generally range from 150 to 250 beats per minute. Patients typically experience an abrupt onset and termination of symptoms, which include an awareness of a rapid heart rate (palpitations), chest discomfort, dizziness, shortness of breath, and exercise intolerance. AVNRT is frequently triggered by exercise or stress and is occasionally associated with syncope.
-- **Precipitating Factors:** SVT episodes can be provoked by acute infections in infants, or by exposure to caffeine, nonprescription decongestants, and bronchodilators in older children.
+- **AVRT (Accessory Pathway-Mediated):** Most common SVT mechanism in infants. Utilizes accessory bypass tract (e.g., Wolff-Parkinson-White syndrome). Orthodromic AVRT (antegrade AV node, retrograde pathway) produces narrow QRS. Antidromic AVRT (antegrade pathway, retrograde AV node) produces wide QRS.
+- **AVNRT:** Rare in infancy; increases in childhood and adolescence. Involves slow and fast functional pathways within AV node,. Associated with exercise and syncope.
+- **Atrial Flutter:** Macroreentrant circuit,. Neonates frequently have normal hearts; older children often have congenital heart disease (e.g., stretched atria from tricuspid atresia, Ebstein anomaly, Fontan procedure).
+- **Ectopic Atrial Tachycardia (EAT):** Automatic focus in atrial myocardium remote from sinus node. Often incessant, leading to tachycardia-induced cardiomyopathy.
+- **Junctional Ectopic Tachycardia (JET):** Automatic focus near His bundle. Most commonly occurs postoperatively after congenital heart surgery,.
 
-## Diagnostic Investigations
+## Clinical Presentation
 
-### Auscultation
+- **Infants/Neonates:** May present with heart failure if unrecognized for 6–24 hours. Symptoms include poor feeding, ashen color, restlessness, irritability, tachypnea, and hepatomegaly. Heart rates range from 240–300 beats/min.
+- **Older Children/Adolescents:** Abrupt onset of palpitations, precordial discomfort, fatigue, dizziness, or dyspnea,,. Heart rates typically >180 beats/min. Exacerbated by caffeine or decongestants.
+- **Fetal Presentation:** Hydrops fetalis due to in utero heart failure. Mortality approaches 50% without treatment.
 
-- Auscultation reveals a rapid, extremely regular heart rate that does not vary significantly with respiration, distinguishing it from sinus tachycardia which fluctuates with parasympathetic and sympathetic tone.
-- If the patient has developed tachycardia-induced cardiomyopathy due to prolonged, unrecognized SVT, a pathologic gallop rhythm and signs of pulmonary congestion (respiratory crackles or wheezing) may be audible.
+## Diagnostic Evaluation
 
-### Electrocardiogram (ECG)
+### Electrocardiography (ECG) Features vs. Sinus Tachycardia
 
-- The classic ECG finding in neonates and children with SVT is a narrow QRS complex tachycardia (typically <0.08 seconds in neonates and <0.12 seconds in older adolescents) with a rigidly fixed R-R interval.
-- **AVNRT:** During tachycardia, the QRS is normal, and a retrograde P wave may be visible in lead V1, often mimicking a subtle "RSr'" pattern that is absent during normal sinus rhythm.
-- **Orthodromic AVRT:** Demonstrates a normal QRS during tachycardia with a retrograde P wave featuring a negative axis in the inferior leads (II, III, aVF) and a relatively short VA interval, though typically >70 milliseconds.
-- **Wolff-Parkinson-White (WPW) Syndrome:** During normal sinus rhythm, the ECG reveals the classic preexcitation triad: a short PR interval, a wide QRS complex, and a slurred QRS upstroke known as a delta wave.
-- **PJRT:** Characterized by a prolonged RP interval (the RP interval is greater than half of the RR interval) with inverted P waves in leads II, III, and aVF.
-- **Atrial Ectopic Tachycardia (AET):** Displays a variable rate (seldom >200 beats/min) with identifiable, abnormal P wave morphology and axis compared to baseline sinus rhythm, often with variable AV conduction.
+- **Heart Rate:** SVT exhibits fixed, rapid rates (>230 beats/min in infants) lacking normal beat-to-beat variability seen in sinus tachycardia.
+- **P Waves:** Visible in only 50–60% of neonates on standard ECG. Abnormal P-wave axis (normal is positive in I and aVF) strongly argues against sinus tachycardia,.
+- **Transesophageal Lead:** Detects P waves effectively when surface ECG is obscure.
 
-### Echocardiography
+### Differential Diagnosis of Narrow QRS Tachycardia
 
-- Echocardiography is crucial to assess for structural congenital heart disease and to evaluate left ventricular systolic function.
-- It is particularly important for identifying tachycardia-induced cardiomyopathy (ventricular dysfunction and dilation) in infants presenting with incessant tachycardias like PJRT or prolonged AVRT.
-- Certain structural lesions have highly specific associations with SVT mechanisms; for example, Ebstein anomaly, congenitally corrected transposition of the great arteries (L-TGA), and hypertrophic cardiomyopathy are highly associated with the presence of accessory pathways and WPW syndrome.
-
-### Cardiac Catheterization and Electrophysiology
-
-- Invasive intracardiac electrophysiology studies (EPS) are utilized to evaluate the conduction characteristics of the AV node and accessory pathways, to initiate the tachyarrhythmia, and to map the precise anatomic location of the arrhythmogenic focus or bypass tract.
-- During an EPS for AVRT, mapping demonstrates retrograde atrial activation via the accessory pathway.
-- For asymptomatic patients with WPW, EPS may be used for risk stratification to determine the shortest preexcited R-R interval (SPRRI) during induced atrial fibrillation; an SPRRI ≤ 250 ms indicates a high-risk pathway capable of rapid antegrade conduction that could degenerate into ventricular fibrillation.
+|Arrhythmia|P Waves|P-QRS Relation|Response to Adenosine|
+|:--|:--|:--|:--|
+|**Sinus Tachycardia**|Normal morphology & axis|1:1|Transient slowing; AV block.|
+|**Ectopic Atrial Tachycardia**|Abnormal, different from baseline|Usually 1:1|No effect or transient AV block,.|
+|**Atrial Flutter**|Saw-tooth appearance (>240/min)|2:1 or 1:1|Transient AV block unmasks flutter waves; rarely terminates,.|
+|**AV Nodal Reentry (AVNRT)**|Usually not visible (masked by QRS)|1:1|Sudden termination.|
+|**AV Reentry (AVRT)**|Inverted (retrograde VA conduction)|1:1|Sudden termination.|
+|**Junctional Ectopic (JET)**|Normal (AV dissociation) or inverted|Complete AV dissociation diagnostic|No effect on rate; transient retrograde VA block.|
 
 ## Management
 
-### Acute Management
+### Acute Termination
 
-- **Vagal Maneuvers:** In stable patients, vagal stimulation is the first-line therapy. In infants, this is achieved by applying an ice bag to the entire face for 15 to 30 seconds. Older children can perform the Valsalva maneuver, bear down, or perform a headstand. Ocular pressure is strictly contraindicated.
-- **Pharmacologic Cardioversion:** If vagal maneuvers fail, intravenous Adenosine is the drug of choice due to its rapid onset and short half-life. It is administered via rapid IV push starting at 0.1 mg/kg (maximum 6 mg), which can be increased to 0.2 mg/kg (maximum 12 mg) if unsuccessful. Adenosine blocks AV nodal conduction, terminating reentrant circuits that rely on the AV node (AVRT and AVNRT).
-- **Direct Current (DC) Cardioversion:** In cases of hemodynamic instability, cardiogenic shock, or severe heart failure, synchronized DC cardioversion at 0.5 to 2 Joules/kg is the immediate treatment of choice to restore sinus rhythm.
+- **Vagal Maneuvers:** Ice bag over entire face for 15–30 seconds in infants,. Valsalva maneuver, straining, or head-standing in older children. _Eyeball pressure contraindicated._.
+- **Adenosine:** Drug of choice for stable patients. Rapid IV push 0.1 mg/kg (up to 6 mg). May increase to 0.2 mg/kg (up to 12 mg) if ineffective. Contraindicated without direct current (DC) cardioversion standby due to risk of initiating atrial fibrillation.
+- **DC Cardioversion:** Indicated immediately for hemodynamically unstable patients or urgent heart failure. Synchronized shock at 0.5–2 J/kg,.
 
-### Chronic and Preventive Therapy
+### Chronic Pharmacotherapy
 
-- **Non-WPW SVT (e.g., AVNRT):** Beta-adrenergic blockers are the mainstay of chronic drug therapy. Digoxin may also be effective in infants but is less reliable in older children.
-- **WPW Syndrome:** Digoxin and intravenous calcium channel blockers (like verapamil) are absolutely contraindicated as they may preferentially block the AV node and accelerate antegrade conduction down the accessory pathway, risking fatal ventricular fibrillation. These patients are safely managed with beta-blockers.
-- **Refractory Cases:** For tachycardias resistant to first-line agents, stronger antiarrhythmics such as flecainide, propafenone, sotalol, or amiodarone may be required, provided the patient has structurally normal heart function without contraindications.
+|Medication|Class|Pediatric Indications & Nuances|
+|:--|:--|:--|
+|**Beta-Blockers (Propranolol, Atenolol, Nadolol)**|Class II|Mainstay therapy for patients without antegrade accessory pathways (Non-WPW). Atenolol/Nadolol dose: 0.5–2 mg/kg/day,.|
+|**Digoxin**|Class IV/Misc|Effective in infants. **Contraindicated in WPW syndrome;** increases antegrade conduction via bypass tract, risking ventricular fibrillation,.|
+|**Verapamil**|Class IV|Utilized in older children. **Contraindicated in infants <1 year** due to reduced cardiac output, hypotension, and cardiac arrest risk. **Contraindicated in WPW**.|
+|**Amiodarone / Sotalol / Flecainide**|Class III / IC|Indicated for resistant tachycardias. Flecainide limited to patients with normal ventricular function.|
 
 ### Catheter Ablation
 
-- Transcatheter radiofrequency or cryoablation is the definitive, curative treatment for pediatric SVT.
-- Ablation is indicated for older children and adolescents, for patients with arrhythmias refractory to medical therapy, for those experiencing intolerable drug side effects, and for patients with WPW who exhibit high-risk features or have survived a sudden cardiac arrest.
-- Catheter ablation offers a success rate of 90% to 98% for eliminating accessory pathways and >95% success for curing AVNRT, though it carries a small but real risk of iatrogenic complete AV block requiring permanent pacemaker placement.
+- Definitive, potentially curative therapy utilizing radiofrequency or cryoablation,.
+- **Success Rates:** 90–98% depending on pathway location.
+- **Indications (Class I):** Ventricular dysfunction, refractory to medications, avoiding long-term medication, hemodynamic compromise during SVT, resuscitated cardiac arrest (WPW), or WPW with syncope.
+- **Complications:** AV block, perforation, thrombosis. Higher complication incidence in children weighing <15 kg.
+
+### Fetal SVT Management
+
+- **Maternal Transplacental Therapy:** First-line treatment. Digoxin, flecainide, and sotalol are most common.
+- **Hydropic Fetus:** Reduced transplacental bioavailability necessitates combination therapy. Direct fetal intramuscular (IM) digoxin injection into buttock/thigh rapidly decreases time to conversion, bypassing placental transfer issues.

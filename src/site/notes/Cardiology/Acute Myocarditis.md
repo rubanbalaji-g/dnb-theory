@@ -2,120 +2,127 @@
 {"dg-publish":true,"uplink":"/cardiology/cardiology/","uptext":"Back to Index (💗 Cardiology)","permalink":"/cardiology/acute-myocarditis/","dgPassFrontmatter":true}
 ---
 
-## Introduction and Etiology
+## Definition & Epidemiology
 
-- Acute myocarditis is defined by the World Health Organization (WHO) as an inflammatory heart disease associated with cardiac dysfunction.
-- The inflammation affects the entire heart, encompassing the interstitium, coronary arteries, and the pericardium.
-- The estimated incidence of myocarditis in the pediatric population ranges from 1 to 1.95 per 100,000 children annually.
-- The etiology is highly diverse, ranging from direct infectious pathogens to immune-mediated and toxic triggers, though viral infections remain the most common cause in children and adolescents.
-
-|Etiology Category|Specific Agents and Associations|
-|:--|:--|
-|**Viral Infections (Most Common)**|Parvovirus B19, Human herpesvirus-6 (HHV-6), Enteroviruses (Coxsackievirus A and B, Echovirus, Poliovirus), Epstein-Barr virus, Cytomegalovirus (CMV), Influenza A and B, Adenovirus, Herpes simplex virus, and SARS-CoV-2 (COVID-19).|
-|**Bacterial and Parasitic Infections**|_Mycobacterium tuberculosis_, _Staphylococcus aureus_, _Streptococcus pneumoniae_, _Haemophilus influenzae_, _Borrelia burgdorferi_ (Lyme disease), _Corynebacterium diphtheriae_ (diphtheritic myocarditis), and _Trypanosoma cruzi_ (Chagas disease).|
-|**Immune-Mediated and Autoimmune**|Acute rheumatic fever, Kawasaki disease, Systemic lupus erythematosus (SLE), Rheumatoid arthritis, Churg-Strauss syndrome, inflammatory bowel disease, and post-vaccination reactions (e.g., mRNA COVID-19 vaccines).|
-|**Toxic and Hypersensitivity**|Anthracyclines, cyclophosphamide, ethanol, heavy metals (copper, iron), venom (scorpion, snake bite, spider bite), and radiation therapy.|
+- Inflammatory heart disease associated with cardiac dysfunction.
+- Characterized by myocardial injury and subsequent host immune system activation.
+- Incidence: 1–1.95/100,000/year in children.
+- High mortality rate in severe cases; frequent cause of terminal heart failure requiring mechanical circulatory support (MCS) or transplant.
 
 ## Pathophysiology
 
-- The pathophysiological progression of acute myocarditis is classically divided into three distinct stages.
-- **Phase 1 (Invasion):** The pathogenic trigger (e.g., cardiotropic virus) invades the myocardium, leading to direct myocyte degeneration, necrosis, and apoptosis.
-- **Phase 2 (Subacute/Immune Activation):** The innate immune system is activated, recruiting natural killer cells, macrophages, and T-lymphocytes into the myocardium. Virus-infected cardiomyocytes are specifically targeted and degraded by cytotoxic T-cells, which contributes to further myocardial damage. Cytokines released during this intense inflammatory response, such as tumor necrosis factor-alpha and interleukin-1, actively inhibit the myocytes' ability to respond to adrenergic stimuli, leading to profoundly diminished cardiac contractility.
-- **Phase 3 (Healing and Remodeling):** The ongoing immune reaction and virus elimination processes transition into a healing phase characterized by fibrosis of the damaged myocardium.
-- In infants and toddlers, this inflammatory process frequently involves the entire heart as a diffuse pancarditis.
-- In older children and adolescents, the inflammatory lesions tend to be more focal and localized.
-- Failure of the myocardium to fully recover during the healing phase can lead to chronic loss of myocardial functional structure, transitioning into a dilated cardiomyopathy (DCM) phenotype.
+Disease progression involves three distinct phases:
 
-## Clinical Manifestations
+- **Phase 1 (Invasion):** Pathogenic trigger (virus/bacteria) invades myocardium. Causes direct myocardial necrosis and apoptosis.
+- **Phase 2 (Subacute):** Activation of innate immune system (natural killer cells, macrophages, T-cells). T-cell mediated elimination of virus-infected cardiomyocytes causes further degradation.
+- **Phase 3 (Healing):** Fibrosis of damaged myocardium. Virus persistence and ongoing immune reaction cause loss of functional structure. Possible transition into Dilated Cardiomyopathy (DCM).
+- **Age-dependent spread:** Diffuse pancarditis in infants/toddlers. Focal myocardial involvement in adolescents.
 
-- The clinical presentation of myocarditis in the pediatric population is exceptionally heterogeneous, ranging from asymptomatic isolated ECG changes to fulminant cardiogenic shock and sudden cardiac death.
-- In neonates and children under 2 years of age, the disease frequently takes a fulminant course. These infants typically present with non-specific prodromal symptoms such as fever, apathy, feeding intolerance, and gastrointestinal symptoms, which rapidly progress to severe respiratory distress, profound tachycardia, hypotension, and shock.
-- Older children and adolescents are more likely to present with distinct complaints of chest pain, palpitations, syncope, or near-syncope.
-- A significant proportion of older pediatric patients initially present with normal or only mildly depressed left ventricular function compared to infants.
-- In advanced cases with decompensated heart failure, patients manifest with diminished peripheral perfusion, hepatic congestion, peripheral edema, and pulmonary edema characterized by rales and wheezing.
-- Arrhythmias, including new-onset supraventricular tachycardia, ventricular tachycardia, or varying degrees of atrioventricular block, are frequently the presenting sign.
+## Etiology
 
-## Diagnostic Investigations
+|Category|Specific Agents/Causes|
+|:--|:--|
+|**Viral (Most Common)**|Coxsackieviruses (A/B), Echovirus, Adenovirus, Parvovirus B19, Epstein-Barr virus (EBV), Cytomegalovirus (CMV), Influenza A/B, Human herpes virus-6 (HHV-6), SARS-CoV-2 (COVID-19).|
+|**Vaccine-Associated**|mRNA COVID-19 vaccination, Smallpox vaccine.|
+|**Bacterial/Other Infectious**|Diphtheria (toxic myocarditis with circulatory collapse), Beta-hemolytic streptococcus (Rheumatic fever), _Borrelia burgdorferi_ (Lyme disease), _Trypanosoma cruzi_ (Chagas disease), Fungal infections.|
+|**Immune/Autoimmune**|Kawasaki disease, Systemic Lupus Erythematosus (SLE), Rheumatoid Arthritis, Churg-Strauss syndrome, Hypereosinophilic syndrome, Giant cell myocarditis.|
+|**Toxic/Drug-Induced**|Anthracyclines, Immune checkpoint inhibitors, Cocaine, Heavy metals (copper, iron), Venoms.|
+|**Genetic Predisposition**|12% of affected children carry pathogenic autosomal recessive variants in cardiac genes (BAG3, DSP, LMNA, MYH7, TTN), predisposing vulnerable myocardium to inflammation.|
 
-### Auscultation
+## Clinical Presentation
 
-- The physical examination frequently reveals a tachycardia that is disproportionate to the degree of fever.
-- Muffled heart sounds and an overactive precordial impulse may be appreciated.
-- A pathologic third heart sound (S3) gallop rhythm is a classic finding indicative of ventricular dysfunction and failure.
-- An apical systolic murmur of mitral insufficiency may be audible, resulting from left ventricular and mitral annular dilation.
-- If the patient has concurrent pericardial involvement (myopericarditis), a rough, scratchy pericardial friction rub may be heard over the precordium.
+Presentation is highly heterogeneous and strongly age-dependent.
 
-### Electrocardiogram (ECG)
+|Age Group|Characteristic Clinical Findings|
+|:--|:--|
+|**Infants & Toddlers (<2 years)**|Fulminant presentation. Fever, apathy, feeding intolerance, sweating, gastrointestinal symptoms. Overt heart failure: respiratory distress, tachycardia, hypotension, gallop rhythm, cardiac murmur, cardiogenic shock.|
+|**Older Children & Adolescents**|Insidious or acute. Chest pain (predominant), respiratory distress, palpitations, easy fatigability, syncope/near-syncope. Often exhibit preserved or mildly depressed left ventricular (LV) function.|
+|**General/Advanced Signs**|Hepatomegaly, peripheral edema, pulmonary wheezes/rales, apical systolic murmur (mitral insufficiency), pericardial friction rub (if myopericarditis).|
 
-- The ECG is abnormal in up to 93% of children with myocarditis, though the findings are largely nonspecific.
-- Sinus tachycardia is the most frequent finding, occurring in 46% of patients without other identifiable causes like hypovolemia or pain.
-- Low-voltage QRS complexes (defined as zenith-to-nadir <0.5 mV in limb leads or <1.0 mV in precordial leads) are highly suggestive of fulminant myocarditis, representing decreased active myocardium or the damping effect of myocardial edema.
-- Diffuse, nonspecific ST-segment and T-wave abnormalities (inversion or flattening) are common and can closely mimic the pattern of acute myocardial infarction.
-- Pathologic Q waves and ST-segment elevations may occur, mimicking an ischemic infarct pattern.
-- High-grade conduction abnormalities, such as complete atrioventricular block or bundle branch blocks, indicate severe involvement of the conduction system.
-
-### Chest Radiograph (CXR)
-
-- The chest radiograph is a valuable initial screening tool, demonstrating cardiomegaly in approximately 60% of cases due to left ventricular dilation.
-- In fulminant or severe cases, the CXR will reveal pulmonary vascular prominence, interstitial infiltrates, and overt pulmonary edema.
-- Pleural effusions may occasionally be present, reflecting biventricular heart failure.
-- It is important to note that the cardiac silhouette may appear completely normal in the early stages of acute myocarditis before significant ventricular remodeling and dilation have occurred.
-
-### Echocardiography
-
-- Echocardiography is the primary modality for evaluating the functional and structural impact of the disease.
-- It frequently demonstrates diminished global or regional left ventricular systolic function and cardiac chamber enlargement.
-- Isolated diastolic dysfunction with a preserved ejection fraction can also be a key indicator of myocardial inflammation.
-- Functional mitral insufficiency is commonly identified secondary to left ventricular dilation.
-- A concurrent pericardial effusion may be visualized, supporting the diagnosis of myopericarditis.
-
-### Cardiac Magnetic Resonance Imaging (CMR)
-
-- CMR is currently considered the noninvasive reference standard for diagnosing acute myocarditis, offering detailed myocardial tissue characterization.
-- The diagnosis relies heavily on the revised Lake Louise Criteria, which require the presence of both a T2-based criterion and a T1-based criterion to confirm acute myocardial inflammation.
-- **T2-Weighted Imaging:** Demonstrates hyperintense signals indicative of global or regional myocardial edema.
-- **T1-Weighted Imaging and Late Gadolinium Enhancement (LGE):** LGE signifies areas of myocardial necrosis and fibrosis.
-- The LGE in myocarditis characteristically presents in a patchy, mid-myocardial, or subepicardial distribution, typically involving the inferolateral wall and basal septum, which sharply contrasts with the subendocardial distribution seen in ischemic coronary events.
-
-### Cardiac Catheterization and Endomyocardial Biopsy (EMB)
-
-- While not performed universally due to the availability of CMR, EMB remains the gold standard for definitive histological diagnosis, especially in new-onset unexplained cardiomyopathy.
-- The historical Dallas criteria (requiring inflammatory infiltrates with myocyte necrosis) have largely been replaced by the World Heart Federation (WHF) criteria due to poor interobserver reliability and sampling error.
-- The WHF criteria define myocarditis by the presence of greater than or equal to 14 leucocytes/mm2 (including up to 4 monocytes/mm2) and the presence of CD3-positive T-lymphocytes greater than or equal to 7 cells/mm2.
-- Quantitative immunohistochemistry and viral genome polymerase chain reaction (PCR) are now routinely performed on biopsy samples to identify specific viral triggers.
-- Potential severe complications of the biopsy procedure include right ventricular perforation, cardiac tamponade, hemopericardium, and the induction of malignant arrhythmias.
+## Diagnostic Evaluation
 
 ### Laboratory Studies
 
-- Cardiac biomarkers, specifically Troponin I or T, are frequently elevated, reflecting active cardiomyocyte necrosis and injury.
-- Brain natriuretic peptide (BNP) or N-terminal pro-BNP (NT-proBNP) levels are crucial for assessing the degree of ventricular wall stress and monitoring the trajectory of heart failure.
-- General inflammatory markers such as C-reactive protein (CRP), erythrocyte sedimentation rate (ESR), and procalcitonin are frequently elevated.
+- **Cardiac Biomarkers:** Troponin T/I frequently elevated. Indicates myocardial injury/inflammation. Low sensitivity (71%) and specificity (86%) for pediatric myocarditis diagnosis. Poor prognostic correlation with LV function.
+- **Heart Failure Markers:** BNP/NT-proBNP useful to assess ventricular dysfunction severity and predict clinical course.
+- **Viral Testing:** Viral genome detection via Polymerase Chain Reaction (PCR) (blood, tracheal secretions, stool) preferred. Serology obsolete.
+
+### Electrocardiogram (ECG)
+
+- Abnormal in 93% of cases. Highly nonspecific.
+- Sinus tachycardia (46%) out of proportion to fever/pain.
+- Bradycardia with AV block (22%), Right bundle branch block.
+- Repolarization changes, nonspecific ST-segment and T-wave changes (mimicking ischemia).
+- Low-voltage QRS (indicates myocardial edema or effusion damping).
+
+### Imaging (Chest X-Ray & Echocardiography)
+
+- **CXR:** Cardiomegaly (in 60%), pulmonary venous congestion, pulmonary edema, pleural effusions.
+- **Echocardiography:** Diminished ventricular systolic function, chamber enlargement, mitral insufficiency, pericardial effusion. Diastolic dysfunction may precede systolic impairment.
+
+### Cardiac Magnetic Resonance Imaging (CMR)
+
+- Noninvasive reference standard.
+- Detects edema, hyperemia, capillary leak, and myocyte necrosis.
+- Late Gadolinium Enhancement (LGE) pattern: typically subepicardial or midwall (inferolateral LV wall, basal septum). Differentiates from ischemic defects (subendocardial).
+
+|Lake Louise Criteria (CMR)|Description|
+|:--|:--|
+|**Original Criteria (2009)**|Requires 2 of 3: (1) T2-weighted edema, (2) Early Gadolinium Enhancement (EGE) hyperemia, (3) LGE necrosis/scar.|
+|**Revised Criteria (2019)**|Requires "2 of 2" combination: - **T1-based criterion:** Prolonged T1 time, increased extracellular volume, or LGE presence. - **T2-based criterion:** Increased T2 relaxation time or increased T2-weighted signal intensity.|
+
+### Endomyocardial Biopsy (EMB)
+
+- Reserved for new-onset cardiomyopathy, suspected giant cell myocarditis, or clinical deterioration.
+- Complications: Perforation, pericardial tamponade, hemopericardium, arrhythmia.
+
+|Histological Criteria|Definition|
+|:--|:--|
+|**Dallas Criteria**|Histological evidence of inflammatory infiltrates associated with myocyte degeneration/necrosis of nonischemic origin. Limited by sampling bias/interobserver variability.|
+|**World Heart Federation (WHF)**|Quantitative immunohistochemistry: $\geq$ 14 leukocytes/mm$^2$ (including up to 4 monocytes/mm$^2$) PLUS CD3+ T-lymphocytes $\geq$ 7 cells/mm$^2$. Fulminant: >50 leukocytes/mm$^2$.|
+
+## Differential Diagnosis
+
+- Anomalous Left Coronary Artery from Pulmonary Artery (ALCAPA).
+- Idiopathic Dilated Cardiomyopathy (DCM).
+- Carnitine deficiency / Inborn errors of metabolism.
+- Kawasaki disease.
+- Endocardial Fibroelastosis (EFE).
+- Acute pericarditis / Myopericarditis.
 
 ## Management
 
-### Acute Medical Stabilization
+No specific medical therapy exists; primary focus is supportive and symptomatic heart failure management.
 
-- Initial management is primarily supportive and requires admission to an intensive care setting with strict bed rest and continuous ECG monitoring.
-- In patients presenting with acute cardiogenic shock or fulminant heart failure, the judicious use of intravenous inotropes (such as milrinone, levosimendan, or epinephrine) is necessary to augment cardiac output.
-- Inotropes must be used with extreme caution due to the highly arrhythmogenic environment of the inflamed myocardium.
-- For patients with severe hemodynamic collapse unresponsive to pharmacotherapy, emergent mechanical circulatory support with Extracorporeal Membrane Oxygenation (ECMO) or a Ventricular Assist Device (VAD) is indicated as a bridge to recovery or cardiac transplantation.
+### Medical Therapy
 
-### Chronic Heart Failure and Arrhythmia Therapy
+- **Heart Failure:** Angiotensin-converting enzyme (ACE) inhibitors, beta-blockers, loop diuretics, aldosterone antagonists. Contraindicated in fulminant cardiovascular collapse.
+- **Inotropes:** Milrinone, levosimendan. Use caution due to proarrhythmic potential.
+- **Antiarrhythmics:** Amiodarone for significant atrial/ventricular arrhythmias.
 
-- In patients with compensated heart failure, standard anti-remodeling therapy is initiated, including Angiotensin-Converting Enzyme (ACE) inhibitors, beta-blockers, aldosterone antagonists, and diuretics.
-- Clinically significant arrhythmias require aggressive management with specific antiarrhythmic agents, such as amiodarone, or the placement of temporary transvenous pacemakers for high-grade heart blocks.
-- If life-threatening ventricular arrhythmias persist after a period of recovery, the implantation of an Implantable Cardioverter-Defibrillator (ICD) is strictly indicated.
+### Mechanical Circulatory Support
 
-### Immunomodulatory and Antiviral Therapy
+- Intensive care admission, mechanical ventilation.
+- Extracorporeal Membrane Oxygenation (ECMO) or Ventricular Assist Device (VAD) indicated for cardiogenic shock as a bridge to recovery or cardiac transplantation.
 
-- The use of High-Dose Intravenous Immunoglobulin (IVIG) at 1 to 2 g/kg over 24 to 48 hours is frequently considered in the pediatric population, as it provides anti-inflammatory effects and may improve survival, though definitive randomized controlled data remains uncertain.
-- Routine immunosuppressive therapy with systemic corticosteroids or azathioprine is generally contraindicated in active viral myocarditis, as it may enhance viral replication.
-- Immunosuppression is reserved for specific, biopsy-proven non-viral etiologies, such as giant cell myocarditis, eosinophilic myocarditis, or virus-negative inflammatory cardiomyopathy.
-- Specific antiviral therapy is rarely utilized but may be considered if a specific pathogen is isolated via EMB, such as the administration of ganciclovir for documented CMV myocarditis.
+### Immunomodulating & Antiviral Therapy
 
-### Long-Term Follow-Up and Lifestyle Modifications
+- **Intravenous Immunoglobulin (IVIG):** 1–2 g/kg over 24–48 hours. May reduce in-hospital mortality and improve myocardial inflammation, though evidence remains debated.
+- **Corticosteroids/Immunosuppressants:** Controversial. May increase viral replication. Considered useful specifically in virus-negative inflammation, giant cell myocarditis, or cardiac sarcoidosis.
+- **Antivirals:** Ganciclovir or Valganciclovir strictly for confirmed CMV myocarditis.
 
-- Patients require rigorous long-term follow-up with serial echocardiography, as a significant proportion will develop chronic dilated cardiomyopathy.
-- Strict restriction from all competitive and vigorous sports is mandated during the active phase of the disease.
-- Prior to resuming competitive athletic activities, the patient must undergo a comprehensive evaluation, including a resting echocardiogram, 24-hour Holter monitor, and an exercise stress test, no less than 3 to 6 months following the initial illness.
-- Clearance for sports participation absolutely requires the normalization of ventricular systolic function, the absence of active inflammation, normalized cardiac biomarkers, and the absence of clinically relevant arrhythmias.
+### Sports Clearance & Activity Restriction
+
+- Strict restriction from competitive sports and strenuous physical activity during acute phase.
+- Clearance criteria to resume sports (minimum 3–6 months post-illness):
+    - Normal ventricular systolic function.
+    - Normalization of serum markers (injury, inflammation, heart failure).
+    - Absence of clinically relevant arrhythmias on Holter monitor and graded exercise ECG.
+    - Absence of active inflammation on CMR.
+
+## Prognosis & Follow-up
+
+- Variable clinical course. Newborns with symptomatic enteroviral myocarditis face 75% mortality.
+- 10–50% of patients recover full ventricular function; remainder progress to chronic DCM or require transplantation.
+- **Poor Prognostic Risk Factors:** Female gender, age <2 years, LVEF <30% at presentation, presence of extensive septal LGE on CMR.
+- COVID-19 mRNA vaccine-associated myocarditis demonstrates excellent prognosis with full recovery typically noted by 90 days. Follow-up echocardiography required.

@@ -2,42 +2,77 @@
 {"dg-publish":true,"uplink":"/cardiology/cardiology/","uptext":"Back to Index (💗 Cardiology)","permalink":"/cardiology/atrioventricular-nodal-reentrant-tachycardia-avnrt/","dgPassFrontmatter":true}
 ---
 
-## Pathophysiology and Mechanisms
+## Definition & Pathophysiology
 
-- Atrioventricular nodal reentrant tachycardia (AVNRT) is a common form of supraventricular tachycardia (SVT) that relies on a reentrant circuit located within or immediately adjacent to the atrioventricular (AV) node.
-- The essential electrophysiological substrate for this arrhythmia is "dual AV nodal physiology," characterized by the presence of two functionally distinct conduction pathways on the atrial septum near the AV node.
-- The "slow pathway" is located inferiorly, extending toward the coronary sinus ostium, and possesses a relatively short refractory period.
-- The "fast pathway" is located higher on the septum, extending laterally away from the AV node, and possesses a comparatively longer refractory period.
-- Approximately 30% or more of the general population naturally possesses dual AV nodal pathways, though only a subset will ever develop clinical tachycardia.
-- The tachycardia is typically initiated when a premature atrial contraction arrives at the AV node while the fast pathway is still in its refractory period, causing the electrical impulse to block in the fast pathway and travel antegrade (downward) exclusively via the slow pathway.
-- Because conduction down the slow pathway takes time, the fast pathway has time to recover its excitability; the impulse then travels retrograde (upward) via the fast pathway back to the atrium, establishing a continuous "slow-fast" reentrant loop.
-- In the pediatric and young adult populations, 80% to 90% of AVNRT cases follow this typical "slow-fast" circuit.
+- Reentrant supraventricular tachycardia (SVT) utilizing two functional pathways within atrioventricular (AV) node.
+- **Dual AV Nodal Physiology:** Requires electrophysiologically distinct pathways.
+    - **Slow Pathway:** Short refractory period. Extends from AV node inferiorly toward coronary sinus ostium.
+    - **Fast Pathway:** Longer refractory period. Located higher on atrial septum, extending laterally away from AV node.
+- **"Slow-Fast" (Typical) AVNRT Mechanism:** Premature atrial beat encounters refractory fast pathway. Conduction shifts to slow pathway. Electrical impulse returns retrograde to atrium via fast pathway, establishing reentrant circuit. Represents 80–90% of AVNRT cases.
+- Lacks clear anatomic correlates for functional pathways.
+
+## Epidemiology
+
+- Dual AV nodal pathways present in ~30% of general population.
+- Rare in infancy. Incidence increases during childhood and adolescence.
+- More common in adolescents, young adults, and females.
+- Occurs in structurally normal hearts and congenital heart disease (CHD).
+- Found in adults with CHD at same frequency as general population; often identified during electrophysiology (EP) study as secondary arrhythmia.
 
 ## Clinical Manifestations
 
-- AVNRT is a rare arrhythmia during infancy, but its incidence progressively increases throughout childhood, adolescence, and young adulthood.
-- The condition demonstrates a sex predilection, being significantly more common in females than in males.
-- It frequently manifests in patients with structurally normal hearts, though it can also occur in individuals with congenital heart disease.
-- Clinical episodes are characterized by a sudden, abrupt onset and termination, and are very frequently provoked by physical exercise, adrenergic surges, or emotional stress.
-- Tachycardia rates in children and adolescents are typically extremely rapid, ranging between 150 and 250 beats per minute.
-- Patients most commonly report episodic palpitations, dizziness, chest discomfort, and shortness of breath.
-- AVNRT is one of the few forms of SVT that is occasionally associated with overt syncope due to a sudden drop in cardiac output.
+- Abrupt onset and termination.
+- Often triggered by exercise or stress.
+- **Symptoms:** Palpitations, dizziness, shortness of breath, chest pain.
+- **Syncope:** Occasional presentation.
+- No increased risk of sudden cardiac death (lacks manifest accessory pathway).
 
-## Diagnostic Investigations
+## Electrocardiographic (ECG) Features
 
-|Modality|Specific Findings and Diagnostic Utility|
-|:--|:--|
-|**Auscultation**|Physical examination during an episode reveals a perfectly regular, rapid heart rhythm that lacks the normal physiological variation typically seen with respiration.|
-|**Electrocardiogram (ECG)**|The classic presentation is a regular, narrow QRS complex tachycardia, reflecting normal antegrade ventricular activation via the His-Purkinje system. Because atrial and ventricular activation occur almost simultaneously, retrograde P waves are usually masked and hidden within the QRS complexes. However, a retrograde P wave may occasionally be visible at the terminal portion of the QRS in lead V1, appearing as a subtle "RSr'" pattern that is strictly absent during baseline normal sinus rhythm. The ventriculoatrial (VA) interval is very short, characteristically measuring less than 70 milliseconds.|
-|**Echocardiography**|Utilized to exclude underlying structural congenital heart disease and to confirm normal baseline biventricular systolic and diastolic function.|
-|**Invasive Electrophysiology (EP) Study**|Diagnostic programmed electrical stimulation (atrial extrastimulus testing) is used to map the pathways, demonstrating the characteristic "AH jump" indicative of dual AV nodal physiology, and to reliably induce the clinical tachycardia.|
+- Regular, narrow QRS complex tachycardia.
+- **Rate:** 150–250 beats/min in children and young adults.
+- **P-wave Morphology:** Retrograde P waves. Negative axis in inferior leads (II, III, aVF).
+- **P-wave Location:** Short RP interval. P wave often buried within or immediately following QRS complex.
+- **V1 Morphology:** Subtle RSr’ pattern (pseudo-R' wave) visible during tachycardia, absent during normal sinus rhythm.
+- **Ventriculoatrial (VA) Interval:** <70 ms.
+
+## Differential Diagnosis
+
+|Tachycardia|P-Wave / AV Relationship|Response to Adenosine|
+|:--|:--|:--|
+|**AVNRT**|Buried/Short RP (VA <70 ms)|Sudden termination (P-wave often last component)|
+|**AVRT (Orthodromic)**|Inverted (inferior leads); VA >70 ms|Sudden termination (P-wave typically last component)|
+|**Ectopic Atrial Tachycardia**|Abnormal P-wave axis; Warm-up/Cool-down|Transient AV block unmasking ectopic P-waves, or termination|
+|**Junctional Ectopic Tachycardia**|AV dissociation common|Transient VA dissociation; tachycardia continues|
+|**Atrial Flutter**|Saw-tooth waves; 2:1 or 3:1 conduction|Transient AV block unmasking flutter waves|
 
 ## Management
 
-|Management Phase|Targeted Interventions and Pharmacotherapy|
-|:--|:--|
-|**Acute Termination (Hemodynamically Stable)**|Vagal maneuvers are the initial first-line therapy to increase parasympathetic tone and slow AV nodal conduction. In infants, applying an ice bag to the face for 15-30 seconds is effective. Older children should be instructed to perform the Valsalva maneuver, bear down, hold their breath, or perform a headstand. Ocular pressure is strictly contraindicated.|
-|**Acute Pharmacologic Cardioversion**|If vagal maneuvers are unsuccessful, rapid intravenous administration of Adenosine (0.1 mg/kg, maximum initial dose 6 mg; may increase to 0.2 mg/kg, maximum 12 mg) is the drug of choice. Adenosine activates the inward potassium rectifier current, leading to hyperpolarization and profound transient AV nodal blockade. The ECG characteristically shows termination of the tachyarrhythmia with a P-wave as the last electrical component. Intravenous calcium channel blockers (e.g., verapamil) may be used in older adolescents but are absolutely contraindicated in infants under 1 year of age due to the risk of severe hypotension and cardiovascular collapse.|
-|**Acute Termination (Hemodynamically Unstable)**|If the patient presents with cardiovascular collapse, severe hypotension, or heart failure, immediate synchronized direct current (DC) cardioversion (0.5 to 2 Joules/kg) is the mandatory first-line treatment.|
-|**Chronic Medical Prophylaxis**|For patients requiring chronic suppression to prevent recurrent episodes, oral beta-adrenergic blockers or calcium channel blockers are the mainstays of medical therapy.|
-|**Definitive Interventional Therapy**|Transcatheter ablation of the slow pathway offers a definitive cure in greater than 95% of patients and is highly recommended for older children and adolescents with symptomatic or recurrent AVNRT. Cryoablation is frequently preferred as it causes irreversible cell damage by freezing while providing a superior safety profile around the compact AV node; no permanent AV block has been reported with its use. Radiofrequency (heat) ablation carries a small but critical risk of unintended damage to the fast pathway or the AV node itself, potentially resulting in complete heart block and the lifelong need for a permanent pacemaker.|
+### Acute Management
+
+- Hemodynamic stability dictates initial intervention.
+
+|Modality|Indication / Dosage|Nuances & Adverse Effects|
+|:--|:--|:--|
+|**Vagal Maneuvers**|First-line (stable)|Ice bag to face (15-30s) in infants. Valsalva, straining, head-stand in older children. Ocular pressure contraindicated. Carotid massage rarely effective.|
+|**Adenosine**|Drug of choice (stable)|Rapid IV push: 0.1 mg/kg (max 6 mg). May increase to 0.2 mg/kg (max 12 mg). Requires continuous ECG and immediate direct current (DC) cardioversion availability (risk of inducing atrial fibrillation).|
+|**Calcium Channel Blockers**|Alternative (older children)|Verapamil reduces cardiac output. **Contraindicated** in infants <1 year (causes severe hypotension/cardiac arrest).|
+|**DC Cardioversion**|Hemodynamic instability|Synchronized shock: 0.5–2 J/kg.|
+|**Esophageal Pacing**|Alternative termination|Pace termination using esophageal catheter.|
+
+### Chronic & Definitive Management
+
+- **Medical Therapy:** $\beta$-blockers represent drugs of choice for chronic suppression. Calcium channel blockers also utilized safely.
+- **Catheter Ablation:**
+    - Class IIa indication per PACES/HRS guidelines.
+    - Definitive cure in >95% of patients.
+    - **Target:** Slow pathway modification.
+    - **Risk:** Unintended damage to fast pathway causing complete AV block, necessitating permanent pacemaker implantation.
+    - **Energy Source:** Radiofrequency ablation or cryoablation. Cryoablation preferred near AV node; no permanent AV block reported with this energy source.
+
+## Nuances in Congenital Heart Disease (ACHD)
+
+- AV node location highly variable in specific congenital lesions.
+- **High-Risk Anatomy:** Atrioventricular septal defects (AVSD) and congenitally corrected transposition of the great arteries (L-TGA) feature displaced AV nodal conduction tissue.
+- Single ventricle anatomy severely complicates mapping and ablation procedures.
+- Medical management preferred over ablation in complex CHD variants due to high risk of inadvertent AV node injury and heart block.

@@ -2,80 +2,143 @@
 {"dg-publish":true,"uplink":"/cardiology/cardiology/","uptext":"Back to Index (💗 Cardiology)","permalink":"/cardiology/antiarrhythmic-therapy/","dgPassFrontmatter":true}
 ---
 
-## Principles of Pediatric Antiarrhythmic Therapy
+## General Principles
 
-- The majority of antiarrhythmic agents are not approved by the U.S. Food and Drug Administration (FDA) for use in children, making their prescription largely "off-label" and reliant on pediatric cardiology expertise and well-recognized dosing standards.
-- The selection of an appropriate antiarrhythmic agent requires balancing the mechanism of the arrhythmia against the potential for intolerable drug side effects and the risk of proarrhythmia (the induction of a new, dangerous arrhythmia by the drug itself).
-- Prior to initiating antiarrhythmic therapy, reversible causes of arrhythmias must be identified and corrected, including electrolyte derangements (such as hypokalemia, hypocalcemia, or hypomagnesemia), hypoxia, metabolic acidosis, and drug toxicity.
-- Antiarrhythmic medications are classically categorized using the Vaughan-Williams classification system, which divides drugs into four primary classes based on their dominant electrophysiological mechanism of action, alongside a fifth miscellaneous class.
+- Majority of antiarrhythmic agents lack FDA approval for pediatric use; off-label administration standard.
+- Initiate lowest recommended dose; titrate based on clinical response and medication tolerance.
+- Correct underlying acid-base and electrolyte disturbances (potassium, calcium, magnesium) prior to administration to restore normal cardiac conduction.
+- Close monitoring for proarrhythmia and treatment-related adverse effects mandatory.
+- Pharmacokinetics differ significantly from adults; drug interactions require careful management.
 
-## Diagnostic Investigations
+## Vaughan-Williams Classification
 
-### Auscultation
+Categorizes agents based on primary electrophysiological mechanism of action.
 
-- Auscultation is crucial for identifying the hemodynamic impact of arrhythmias and monitoring for drug-induced complications.
-- A new pathologic gallop rhythm or signs of pulmonary congestion (crackles) may indicate the development of tachycardia-induced cardiomyopathy from an incessant arrhythmia or reflect a severe negative inotropic effect from agents like flecainide, propafenone, or verapamil.
-- The relationship between the heart rate and respiratory phases can be appreciated on careful auscultation to diagnose normal phasic sinus arrhythmia, which is exaggerated by vagotonic drugs like digoxin.
+|Class|Mechanism of Action|Examples|
+|:--|:--|:--|
+|**I**|Sodium channel blockade; slows depolarization||
+|_IA (Moderate)_|Prolongs action potential|Procainamide, Quinidine, Disopyramide|
+|_IB (Weak)_|Shortens repolarization|Lidocaine, Mexiletine, Phenytoin|
+|_IC (Strong)_|Markedly slows conduction|Flecainide, Propafenone|
+|**II**|Beta-adrenergic receptor blockade; suppresses sympathetic activity|Propranolol, Atenolol, Esmolol, Nadolol|
+|**III**|Potassium channel blockade; prolongs action potential & refractoriness|Amiodarone, Sotalol, Dofetilide, Ibutilide|
+|**IV**|Calcium channel blockade; slows AV node conduction|Verapamil, Diltiazem|
+|**V (Misc)**|Variable mechanisms (AV node blockade, Na+/K+ ATPase inhibition)|Adenosine, Digoxin, Magnesium|
 
-### Electrocardiogram (ECG)
-
-- Baseline and serial ECG monitoring is mandatory during the initiation and maintenance of antiarrhythmic therapy to assess for efficacy and drug-induced conduction delays.
-- Class IA and IC agents (e.g., procainamide, flecainide) slow depolarization, requiring close monitoring for QRS complex widening; procainamide infusions must be halted if the QRS complex widens by greater than 50%.
-- Class III agents (e.g., amiodarone, sotalol) prolong repolarization, necessitating serial measurements of the QTc interval to prevent extreme prolongation and the subsequent risk of Torsades de Pointes.
-- Digoxin toxicity manifests on the ECG with PR-interval prolongation, high-grade atrioventricular (AV) block, and hyperkalemia.
-- Intravenous adenosine provides diagnostic utility on the ECG; by creating transient AV block, it terminates AV node-dependent tachycardias abruptly with a P wave, or it unmasks the underlying "saw-tooth" flutter waves in atrial flutter.
-
-### Echocardiography
-
-- A comprehensive transthoracic echocardiogram must be performed prior to the initiation of specific antiarrhythmic therapies to rule out underlying structural congenital heart disease and assess biventricular systolic function.
-- The presence of moderate to severe ventricular dysfunction or coronary artery disease is an absolute contraindication for the use of Class IC agents (flecainide, propafenone) due to their profound negative inotropic and proarrhythmic effects.
-
-### Cardiac Catheterization
-
-- Invasive electrophysiology study (EPS) in the cardiac catheterization laboratory is utilized when medical therapy is ineffective, poorly tolerated, or when precise mapping of an arrhythmic substrate (like an accessory pathway) is required for transcatheter ablation.
-- EPS evaluates the conduction characteristics of the AV node and accessory pathways, and can be used to assess the efficacy of antiarrhythmic drugs in preventing the inducibility of the tachycardia.
-
-## Vaughan-Williams Classification and Specific Agents
+## Specific Pharmacologic Agents & Dosing Profiles
 
 ### Class I: Sodium Channel Blockers
 
-- Class I agents exert their effects by inhibiting the fast sodium channels, thereby decreasing the speed of depolarization and slowing conduction velocity.
+#### Procainamide (Class IA)
 
-|Drug Subclass & Name|Indications|Mechanism & ECG Effects|Adverse Effects & Nuances|
-|:--|:--|:--|:--|
-|**Class IA: Quinidine**|Supraventricular tachycardia (SVT), atrial fibrillation (AF), atrial flutter, ventricular tachycardia (VT).|Moderately slows depolarization and prolongs repolarization. Prolongs QRS and QT intervals.|Cinchonism, hemolytic anemia, AV block, hypotension, thrombocytopenia. Therapeutic level: 4-8 μg/mL.|
-|**Class IA: Procainamide**|SVT, AF, atrial flutter, VT, antidromic AVRT.|Depresses myocardial excitability. Prolongs QRS and QT intervals.|Systemic lupus erythematosus (SLE)-like illness, positive Coombs test, hypotension during loading. Stop if QRS widens >50%.|
-|**Class IB: Lidocaine**|VT, ventricular fibrillation (VF).|Weak sodium channel blockade; shortens repolarization.|Central nervous system (CNS) toxicity (seizures, confusion, coma), high-grade AV block, asystole.|
-|**Class IB: Mexiletine**|VT, Long QT Syndrome (specifically LQT3).|Shortens action potential duration.|Nausea, dizziness, tremor.|
-|**Class IC: Flecainide**|SVT, AF, junctional ectopic tachycardia (JET), VT.|Strong sodium channel blockade; markedly slows conduction. Prolongs QRS duration.|High risk of proarrhythmia and negative inotropy. Strictly contraindicated in patients with structural heart disease or ventricular dysfunction.|
-|**Class IC: Propafenone**|SVT, atrial tachycardia, AF, VT.|Slows conduction velocity; also possesses mild beta-blocking activity.|Hepatic toxicity, decreased contractility, proarrhythmia. Increases serum digoxin levels.|
+- **Indication:** Supraventricular tachycardia (SVT), Atrial fibrillation/flutter, Ventricular tachycardia (VT).
+- **Mechanism:** Depresses myocardial excitability and conduction.
+- **Dose:** IV load 10–15 mg/kg over 30–60 min; continuous infusion 20–80 mcg/kg/min (Max: 2000 mg/day).
+- **Caution:** Monitor for hypotension during loading. Stop infusion if QRS widens >50%.
 
-### Class II: Beta-Adrenergic Blockers
+#### Lidocaine (Class IB)
 
-- Beta-blockers reduce heart rate, myocardial contractility, and myocardial oxygen demand by competitively antagonizing circulating catecholamines.
+- **Indication:** VT, Ventricular Fibrillation (VF).
+- **Mechanism:** Local anesthetic depressing myocardial irritability; prevents ventricular depolarization.
+- **Dose:** IV 1 mg/kg bolus (repeat q5 min x2); maintenance 20–50 mcg/kg/min.
+- **Caution:** Avoid exceeding 20 mcg/kg/min in shock or hepatic disease.
 
-|Drug Name|Indications|Mechanism & ECG Effects|Adverse Effects & Nuances|
-|:--|:--|:--|:--|
-|**Propranolol**|SVT, Long QT Syndrome (LQTS), Catecholaminergic Polymorphic Ventricular Tachycardia (CPVT), Tetralogy of Fallot spells.|Non-selective beta-blocker. Decreases sinus rate and slows AV nodal conduction.|Bronchospasm, hypoglycemia, bradycardia, sleep disturbances, fatigue. Can mask signs of hypoglycemia.|
-|**Nadolol**|SVT, LQTS, CPVT.|Long-acting, non-selective beta-blocker. Highly effective for CPVT and LQTS.|Similar to propranolol. Preferred agent for CPVT to reduce exercise-induced arrhythmias.|
-|**Esmolol**|Acute SVT or VT management in intensive care settings.|Ultra-short-acting selective β1-blocker. Rapid onset (2-10 min) and very short half-life (~4 min).|Hypotension, phlebitis, bradycardia. Skin necrosis may occur with extravasation.|
-|**Atenolol**|SVT.|Selective β1-blocker. Prolongs AV node refractoriness.|Bradycardia, heart block, negative inotropic effect. Generally less effective than non-selective agents for LQTS.|
+#### Flecainide (Class IC)
+
+- **Indication:** SVT, Atrial tachycardia, VT.
+- **Mechanism:** Strong sodium channel blocker; cell membrane depression.
+- **Dose:** 1–3 mg/kg/day PO divided TID (Max: 8 mg/kg/day).
+- **Caution:** Negative inotropic effect. Strictly contraindicated in structural heart disease, severe heart failure, and AV block.
+
+### Class II: Beta-Blockers
+
+#### Propranolol
+
+- **Indication:** SVT, Long QT syndrome.
+- **Dose:** PO 1–4 mg/kg/day divided Q6H. IV 0.01–0.15 mg/kg/dose slow push.
+- **Caution:** Risk of bronchospasm, hypoglycemia, bradycardia.
+
+#### Esmolol
+
+- **Indication:** Rapid heart rate control.
+- **Mechanism:** Rapid-acting selective $\beta$1-blocker.
+- **Onset/Half-life:** Rapid onset (2–10 min); ultra-short half-life (2.7–4.8 min).
+- **Dose:** IV load 100–500 mcg/kg; maintenance 25–100 mcg/kg/min (titrate up to 500 mcg/kg/min).
 
 ### Class III: Potassium Channel Blockers
 
-- Class III agents predominantly block potassium channels, thereby prolonging the action potential duration and the effective refractory period.
+#### Amiodarone
 
-|Drug Name|Indications|Mechanism & ECG Effects|Adverse Effects & Nuances|
+- **Indication:** Refractory SVT, Junctional Ectopic Tachycardia (JET), VT, cardiac arrest.
+- **Mechanism:** Prolongs action potential and refractoriness. Exhibits Class I, II, III, and IV properties.
+- **Half-life:** Extremely prolonged (40–55 days chronic oral).
+- **Dose:** IV load 5 mg/kg over 30–60 min (repeat up to 20 mg/kg); maintenance 5–15 mcg/kg/min.
+- **Drug Interactions:** Significantly increases serum levels of digoxin, warfarin, flecainide, and phenytoin. Empiric 30-50% dose reduction of digoxin/warfarin required.
+
+#### Sotalol
+
+- **Indication:** SVT, VT, Atrial flutter.
+- **Mechanism:** Combined nonselective $\beta$-blockade and Class III properties.
+- **Dose:** >2 years: 30 mg/m2/dose Q8H. Requires age-based dose reduction nomograms for <2 years.
+- **Caution:** Contraindicated in baseline prolonged QTc (>450 ms). Risk of Torsades de pointes.
+
+### Class IV: Calcium Channel Blockers
+
+#### Verapamil
+
+- **Indication:** SVT (excluding Wolff-Parkinson-White [WPW] syndrome).
+- **Dose:** IV 0.1–0.3 mg/kg/dose over 2 min (Max: 5 mg/dose).
+- **Caution:** Strictly contraindicated in infants <1 year. Causes severe apnea, profound bradycardia, hypotension, and cardiovascular collapse. Avoid in WPW due to accelerated antegrade accessory pathway conduction.
+
+### Class V: Miscellaneous
+
+#### Adenosine
+
+- **Indication:** Acute termination of narrow complex SVT (AVNRT, AVRT).
+- **Mechanism:** Activates inward K+ rectifier current; inhibits calcium current. Direct AV nodal inhibition.
+- **Onset/Half-life:** Very rapid; <10 seconds.
+- **Dose:** Rapid IV push 0.1 mg/kg (Max: 6 mg). Repeat 0.2 mg/kg (Max: 12 mg).
+- **Caution:** Contraindicated in asthma/bronchospastic disease. Must have DC cardioversion capability nearby.
+
+#### Digoxin
+
+- **Indication:** Heart failure, SVT, Atrial flutter/fibrillation.
+- **Mechanism:** Inhibits Na+/K+ ATPase, increasing intracellular calcium (positive inotrope). Enhances vagal tone (decreases AV conduction).
+- **Dose:** PO total load preterm 20-30 mcg/kg, term 25-35 mcg/kg. Maintenance 5-10 mcg/kg/day divided Q12H.
+- **Caution:** Contraindicated in WPW syndrome (risk of VF). Toxicity presents as AV block, PR prolongation, arrhythmias, visual disturbances. Hypokalemia increases toxicity risk.
+
+## Clinical Management by Arrhythmia Type
+
+### Narrow QRS Tachycardias
+
+- **Acute Termination:** Vagal maneuvers (ice bag to face in infants, Valsalva in older children). Adenosine rapid IV push. Synchronized DC cardioversion (0.5–2 J/kg) if hemodynamically unstable.
+- **Chronic Management (Non-WPW):** Beta-blockers (propranolol, atenolol) form mainstay therapy. Digoxin effective in infants.
+- **Chronic Management (WPW):** Beta-blockers preferred. Digoxin and calcium channel blockers strictly contraindicated due to risk of rapid antegrade accessory pathway conduction precipitating VF.
+- **Refractory SVT:** Class IC (flecainide, propafenone) or Class III (amiodarone, sotalol) agents. Flecainide restricted to structurally normal hearts.
+- **Atrial Flutter/Fibrillation:** Rate control via calcium channel blockers or beta-blockers. Rhythm control via procainamide, sotalol, or amiodarone. Consider anticoagulation.
+
+### Wide QRS Tachycardias (Ventricular Tachycardia)
+
+- **Hemodynamically Stable:** Intravenous amiodarone, lidocaine, or procainamide. Correct underlying electrolyte imbalances (K, Ca, Mg).
+- **Hemodynamically Unstable:** Immediate synchronized DC cardioversion. Amiodarone preferred during cardiac arrest.
+
+### Fetal Arrhythmia Management
+
+Maternal transplacental administration required. Medication doses higher than standard adult arrhythmia management due to altered maternal pharmacokinetics (increased blood volume, altered gastric emptying, heightened renal clearance). Direct fetal intramuscular or umbilical vein injection reserved for severe, refractory hydropic cases.
+
+- **First-Line SVT (No Hydrops):** Digoxin (Target maternal trough 1.5–2.0 mcg/mL).
+- **First-Line SVT (With/Without Hydrops):** Flecainide (Maternal dose 50-100 mg Q8H). Highly successful conversion rate.
+- **Fetal Atrial Flutter:** Sotalol (Maternal dose 80-160 mg BID). Superior conversion rate compared to digoxin/flecainide.
+- **Refractory Tachycardia/Severe Hydrops:** Amiodarone (Load 1800-2400 mg/day for 48h; maintain 200-600 mg/day). Risk of fetal hypothyroidism.
+- **Fetal Ventricular Tachycardia:** Maternal IV Magnesium (Max 48 hours), Lidocaine, or Propranolol.
+
+## Adverse Effects and Therapeutic Monitoring
+
+|Drug|Key Adverse Effects|Drug Interactions|Therapeutic Level|
 |:--|:--|:--|:--|
-|**Amiodarone**|SVT, JET, VT, VF, preexcited AF.|Prolongs repolarization. Also exhibits Class I, II, and IV properties. Prolongs PR, QRS, and QTc intervals.|Extremely long half-life (up to 55 days). Causes thyroid dysfunction (hypo/hyperthyroidism), pulmonary fibrosis, hepatotoxicity, corneal deposits, and blue skin discoloration. Increases digoxin and warfarin levels.|
-|**Sotalol**|SVT, atrial tachycardia, AF, VT.|Combines Class III (potassium channel blockade) and Class II (beta-blockade) properties. Prolongs QTc interval and PR interval.|Risk of Torsades de Pointes (~2.4%). Contraindicated if baseline QTc is >450 ms, or in the presence of severe asthma or renal failure.|
-
-### Class IV: Calcium Channel Blockers and Miscellaneous Agents
-
-- Calcium channel blockers inhibit the inward calcium current, predominantly slowing conduction through the AV node and depressing sinus node automaticity.
-
-|Drug Name|Indications|Mechanism & ECG Effects|Adverse Effects & Nuances|
-|:--|:--|:--|:--|
-|**Verapamil (Class IV)**|SVT (excluding Wolff-Parkinson-White syndrome).|Non-dihydropyridine calcium channel blocker. Prolongs PR interval.|**Strictly contraindicated in infants < 1 year of age** due to the risk of profound negative inotropy, severe hypotension, and cardiovascular collapse. Contraindicated in WPW as it accelerates antegrade accessory pathway conduction, risking VF.|
-|**Adenosine (Misc.)**|Acute termination of SVT (AVRT, AVNRT); diagnostic unmasking of atrial flutter.|Activates inward K+ current, causing hyperpolarization and profound transient AV block. Extremely short half-life (<10 seconds).|Flushing, dyspnea, bronchospasm, chest pain, transient asystole. Contraindicated in severe asthma/bronchospastic disease. Must be given via rapid IV push.|
-|**Digoxin (Misc.)**|SVT (excluding WPW), atrial flutter, atrial fibrillation, heart failure.|Inhibits the Na+/K+ ATPase pump, increasing intracellular calcium. Increases vagal tone, slowing AV node conduction.|Toxicity causes AV block, bradycardia, visual changes (halos), and hyperkalemia. **Strictly contraindicated in WPW syndrome** due to the risk of accelerating accessory pathway conduction.|
+|**Amiodarone**|Thyroid dysfunction, pulmonary fibrosis, hepatotoxicity, prolonged QTc, blue skin.|Increases levels of digoxin, warfarin, flecainide, phenytoin.|0.5–2.5 mg/L (correlation poor).|
+|**Flecainide**|Proarrhythmia, negative inotropy, QRS widening.|Milk inhibits absorption in infants. Amiodarone increases toxicity.|0.2–1.0 mcg/mL.|
+|**Procainamide**|SLE-like syndrome, QRS/QTc prolongation, hypotension.|Cimetidine/Amiodarone increase levels.|Procainamide: 4–10 mcg/mL. Combined (w/ NAPA): 10–30 mcg/mL.|
+|**Lidocaine**|CNS toxicity (seizures, coma), paresthesias.|Cimetidine, propranolol increase toxicity.|1.5–5.0 mcg/mL.|
+|**Digoxin**|AV block, PR prolongation, visual disturbances, vomiting.|Quinidine, amiodarone, verapamil increase levels.|0.8–2.0 ng/mL.|
+|**Sotalol**|Torsades de pointes, severe bradycardia, QTc prolongation.|Avoid concurrent QT prolonging drugs.|N/A|

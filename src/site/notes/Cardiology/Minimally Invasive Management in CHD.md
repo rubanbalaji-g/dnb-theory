@@ -2,121 +2,114 @@
 {"dg-publish":true,"uplink":"/cardiology/cardiology/","uptext":"Back to Index (💗 Cardiology)","permalink":"/cardiology/minimally-invasive-management-in-chd/","dgPassFrontmatter":true}
 ---
 
-## Overview of Minimally Invasive Management in CHD
+## Introduction to Minimally Invasive Modalities
 
-- Interventional cardiac catheterization and hybrid procedures have fundamentally transformed the management of congenital heart disease (CHD), offering effective alternatives to open-heart surgery while minimizing trauma, shortening hospitalizations, and avoiding cardiopulmonary bypass.
-- These techniques encompass balloon dilations of stenotic valves and vessels, transcatheter device closure of septal defects and shunts, and the percutaneous implantation of prosthetic valves.
+- Minimally invasive management encompasses transcatheter interventions, fetal cardiac procedures, and hybrid approaches.
+- Offers definitive or palliative treatment with reduced surgical trauma, avoidance of cardiopulmonary bypass (CPB), and rapid recovery.
+- High-technology hybrid catheterization laboratories combine fluoroscopic imaging with operating suites for complex lesion management.
 
-## Patent Ductus Arteriosus (PDA)
+## Fetal Cardiac Interventions (FCI)
 
-### Pathophysiology and Clinical Findings
+- Goal involves altering natural history in utero to improve postnatal morbidity and mortality.
+- Minimally invasive approach utilizes ultrasound-guided 18/19-gauge cannula puncture through maternal abdomen, uterine wall, and fetal chest wall directly into target cardiac chamber.
 
-- A hemodynamically significant PDA results in left-to-right shunting, which leads to left atrial and left ventricular volume overload, pulmonary overcirculation, and congestive heart failure.
-- Auscultation classically reveals a continuous "machinery-like" murmur.
-- The electrocardiogram (ECG) is often normal with a small ductus but may demonstrate left ventricular hypertrophy or biventricular hypertrophy if pulmonary hypertension develops.
-- Echocardiography is crucial for identifying the ductal ampulla, measuring the minimal diameter, and determining the total length of the ductus.
-
-### Transcatheter Interventions and Devices
-
-- Transcatheter closure is the standard of care for patients beyond the neonatal period, indicated to treat volume overload or to prevent endarteritis.
-- Small PDAs are routinely closed using catheter-delivered intravascular coils.
-- Moderate to large PDAs are occluded using plug-like or umbrella devices, including the Amplatzer Duct Occluder (I and II), Nit-Occlud PDA system, Amplatzer Vascular Plug (II, IV), and the Medtronic Microvascular Plug.
-- The Amplatzer Piccolo Occluder is specifically FDA-approved for PDA closure in extremely premature and low-birth-weight infants (<1000g).
-- In premature infants, arterial access is strictly avoided to prevent vascular injury; the device is delivered via the femoral vein utilizing real-time transthoracic echocardiography instead of angiography to evaluate the branch pulmonary arteries and aortic arch.
-
-## Atrial Septal Defect (ASD)
-
-### Pathophysiology and Clinical Findings
-
-- Secundum ASDs create a pre-tricuspid left-to-right shunt resulting in right atrial and right ventricular volume overload.
-- Auscultation features an ejection systolic murmur originating from increased flow across the pulmonary valve, and potentially a soft delayed diastolic rumble at the lower left sternal border representing increased flow across the tricuspid valve.
-- Echocardiography combined with balloon sizing in the catheterization laboratory is used to measure the stretched defect diameter and evaluate the adequacy of septal rims.
-- Transesophageal echocardiography (TEE) bicaval views and subcostal views are critical for confirming the defect type and ruling out anomalous pulmonary venous connections.
-
-### Transcatheter Interventions and Devices
-
-- Percutaneous closure is the preferred method for secundum ASDs provided there are sufficient septal rims; the absence of a posteroinferior rim significantly increases the risk of device embolization.
-- The Amplatzer Septal Occluder consists of a self-expanding, double-disc nitinol wire mesh encasing Dacron fabric and is approved for defects up to 40 mm in diameter.
-- The Gore Cardioform Septal Occluder utilizes a nitinol frame attached to expanded polytetrafluoroethylene (ePTFE) and is approved for defects up to 17 mm.
-- The Gore Cardioform ASD Occluder features a conforming central waist and is utilized for closing defects up to 35 mm.
-- Procedures are performed under TEE or intracardiac echocardiography (ICE) guidance to ensure proper deployment of the left and right atrial discs without impinging on the atrioventricular valves, pulmonary veins, or aortic root.
-
-## Ventricular Septal Defect (VSD)
-
-### Pathophysiology and Clinical Findings
-
-- VSDs cause a left-to-right shunt of oxygenated blood at the ventricular level, leading to left ventricular volume overload.
-- Auscultation reveals a harsh pansystolic murmur, frequently accompanied by a palpable thrill.
-- Cardiac MRI and echocardiography are utilized to quantify the left atrial and ventricular dilation and to estimate the Qp:Qs shunt ratio.
-
-### Transcatheter and Hybrid Interventions
-
-- Percutaneous transcatheter closure is highly successful for muscular VSDs using devices like the Amplatzer Muscular VSD Occluder.
-- Transcatheter closure of perimembranous VSDs remains challenging due to the defect's proximity to the aortic valve and the conduction system; older devices carried an unacceptably high risk of complete atrioventricular block (up to 22%), making surgical closure the preferred approach.
-- Newer devices, such as the modified double-disk occluder and the Nit-Occlud Le VSD coil, have demonstrated improved success in minimizing conduction tissue damage.
-- For small infants (<5 kg) with difficult-to-reach muscular or multiple "Swiss cheese" VSDs, a hybrid perventricular approach is utilized.
-- The hybrid approach involves a subxiphoid or median sternotomy to provide direct access to puncture the right ventricular free wall, allowing device deployment via a short sheath under continuous TEE guidance without the need for cardiopulmonary bypass.
-
-## Pulmonary Valve Stenosis (PS)
-
-### Pathophysiology and Clinical Findings
-
-- Valvar PS causes right ventricular outflow tract (RVOT) obstruction, leading to right ventricular hypertrophy and increased right ventricular systolic pressures.
-- Auscultation demonstrates a pulmonary ejection systolic murmur and a thrill in the left second interspace.
-- Echocardiography reveals thickened, restricted leaflets with systolic "doming" and post-stenotic dilation of the main pulmonary artery.
-- A continuous wave Doppler peak systolic gradient of >40-50 mmHg typically indicates the need for intervention.
-
-### Transcatheter Interventions
-
-- Balloon pulmonary valvuloplasty is the gold standard and initial treatment of choice for moderate to severe isolated valvar PS.
-- The procedure utilizes a balloon 1.2 to 1.4 times the diameter of the pulmonary valve annulus to selectively tear the fused commissures.
-- In older patients or those with a large pulmonary annulus, a double-balloon technique (simultaneous inflation of two smaller balloons) is employed to minimize systemic hypotension during balloon inflation.
-
-## Aortic Valve Stenosis (AS)
-
-### Pathophysiology and Clinical Findings
-
-- Valvar AS increases left ventricular afterload, resulting in compensatory left ventricular hypertrophy.
-- Severe critical AS in the neonate presents as ductal-dependent systemic circulation, requiring prostaglandin E1 infusion to maintain systemic perfusion.
-
-### Transcatheter Interventions
-
-- Balloon aortic valvuloplasty is indicated for children with a peak-to-peak gradient >50-60 mmHg, or those with depressed left ventricular function.
-- Vascular access is typically achieved via the femoral artery, or the umbilical or carotid artery in neonates.
-- The intervention is generally considered palliative to delay surgical intervention (e.g., the Ross procedure) and must be performed carefully to minimize the creation of severe iatrogenic aortic insufficiency.
-
-## Coarctation of the Aorta (CoA)
-
-### Pathophysiology and Clinical Findings
-
-- CoA is a discrete narrowing at the aortic isthmus resulting in upper-body hypertension and diminished or absent femoral pulses.
-- Cardiac CT and MR angiography are essential for obtaining high-resolution 3D reconstructions, defining the narrowing, and identifying associated anomalies like a bicuspid aortic valve.
-- An upper-to-lower extremity resting blood pressure gradient >20 mmHg is the primary indication for intervention.
-
-### Transcatheter Interventions and Devices
-
-- **Balloon Angioplasty:** Serves as the procedure of choice for recoarctation following previous surgery, but remains controversial for primary native coarctation in infants due to high restenosis rates and the risk of aneurysm formation.
-- **Stent Implantation:** This is the preferred modality over balloon angioplasty or surgery for older children and adults (>25 kg) due to a lower complication rate and superior sustained gradient reduction.
-- Both bare-metal and covered stents are utilized; covered stents offer an added layer of safety against acute vascular tears and can treat established pseudoaneurysms.
-- Stents implanted in children must possess the capacity to be expanded to adult dimensions via serial balloon dilations or intentional longitudinal stent fracture to accommodate somatic growth.
-
-## Transcatheter Valve Implantation
-
-### Interventions and Devices
-
-- Transcatheter pulmonary valve (TPV) replacement provides a competent valve without requiring open-heart surgery for patients with dysfunctional RV-PA conduits or severe pulmonary regurgitation following prior RVOT reconstructions (e.g., Tetralogy of Fallot repair).
-- **Melody Valve:** A bovine jugular vein valve sewn into a balloon-expandable stent, expandable up to 22 mm.
-- **Sapien Valve:** A bovine pericardial valve housed in a balloon-expandable stent, expandable up to 29 mm.
-- **Harmony TPV & Alterra Adaptive Prestent:** Newer, self-expanding devices designed to remodel and treat large, dilated native right ventricular outflow tracts previously deemed unsuitable for balloon-expandable valves.
-
-## Summary of Devices and Procedures
-
-|Congenital Heart Disease|Primary Minimally Invasive Intervention|Common Devices Utilized|
+|Fetal Lesion|Intervention|Procedural Technique & Hemodynamic Goal|
 |:--|:--|:--|
-|**Patent Ductus Arteriosus (PDA)**|Transcatheter occlusion|Coils, Amplatzer Duct Occluder (I/II), Amplatzer Piccolo Occluder, Vascular Plugs|
-|**Atrial Septal Defect (ASD)**|Percutaneous device closure|Amplatzer Septal Occluder, Gore Cardioform Septal/ASD Occluder|
-|**Ventricular Septal Defect (VSD)**|Percutaneous or perventricular hybrid closure|Amplatzer Muscular VSD Occluder, Nit-Occlud Le VSD coil|
-|**Pulmonary Stenosis (PS)**|Balloon pulmonary valvuloplasty|Low/medium pressure balloons, double-balloon technique|
-|**Aortic Stenosis (AS)**|Balloon aortic valvuloplasty|Balloon catheters (palliative prior to surgical valve replacement)|
-|**Coarctation of the Aorta (CoA)**|Balloon angioplasty or stent implantation|Bare metal stents, covered stents (e.g., CP stent)|
-|**RVOT Dysfunction (e.g., TOF)**|Transcatheter Pulmonary Valve Replacement|Melody Valve, Sapien Valve, Harmony TPV, Alterra Prestent|
+|**Severe Aortic Stenosis (AS)**|Fetal Aortic Valvuloplasty|Balloon advanced across aortic annulus; inflated 100-120% of annulus size. Goal: Prevent evolving hypoplastic left heart syndrome (HLHS) and promote biventricular circulation.|
+|**Pulmonary Atresia/Critical PS**|Fetal Pulmonary Valvuloplasty|Performed for intact ventricular septum to prevent evolving hypoplastic right heart syndrome (HRHS).|
+|**HLHS with Restrictive Atrial Septum**|Fetal Atrial Septoplasty|Balloon dilation or septal stent placement for established HLHS with intact/restrictive atrial septum. Goal: Improve neonatal stability.|
+
+## Transcatheter Septal Defect Closures
+
+### Atrial Septal Defect (ASD) & Patent Foramen Ovale (PFO)
+
+- Standard therapy for secundum ASDs and PFOs with sufficient tissue margins.
+- Procedure guided by intracardiac echocardiography (ICE) or 3D transesophageal echocardiography (TEE).
+- Femoral vein access standard; transhepatic approach preferred if bilateral femoral venous occlusion exists.
+- Superior sinus venosus ASDs may utilize covered stents (chimney technique).
+
+### Ventricular Septal Defect (VSD)
+
+- Device closure standard for muscular and perimembranous VSDs.
+- Approaches include antegrade (venous) or retrograde (arterial) delivery systems.
+- Membranous VSD closure carries small risk of complete heart block.
+
+### Patent Ductus Arteriosus (PDA)
+
+- Closure indicated to treat heart failure and prevent pulmonary vascular disease or endarteritis.
+- Small PDAs managed with intravascular coils.
+- Moderate-to-large PDAs managed with umbrella devices, vascular plugs (e.g., Nit-Occlud).
+- Stenting of PDA serves as alternative to surgical Blalock-Taussig shunt in duct-dependent pulmonary circulation.
+
+## Transcatheter Valvular Interventions
+
+|Target Valve|Pathophysiology|Catheter Intervention|Clinical Notes & Outcomes|
+|:--|:--|:--|:--|
+|**Pulmonary Valve**|Congenital Pulmonary Stenosis|Balloon Pulmonary Valvotomy|First-line treatment of choice. High procedural success replacing open valvotomy.|
+|**Pulmonary Valve**|RVOT dysfunction (stenosis/regurgitation)|Transcatheter Pulmonary Valve (TPV) Replacement|Devices include Melody (bovine jugular vein in stent), Sapien, Harmony, and Alterra prestent. Avoids redo sternotomy.|
+|**Aortic Valve**|Congenital Aortic Stenosis|Balloon Aortic Valvuloplasty|First-line therapy in neonates/children. High recurrence of stenosis and iatrogenic aortic regurgitation risk.|
+|**Aortic Valve**|Degenerative / Severe AS|Transcatheter Aortic Valve Replacement (TAVR)|Increasingly utilized in older adult CHD patients with high surgical risk.|
+|**Mitral Valve**|Rheumatic Mitral Stenosis|Balloon Mitral Valvuloplasty (PMBC)|Inoue balloon technique used. Highly successful for fused commissures. Contraindicated for significant regurgitation or LA thrombus.|
+|**Mitral Valve**|Mitral Regurgitation|MitraClip|Catheter-delivered clip creates double-orifice valve to reduce insufficiency; investigational in pediatrics.|
+|**Tricuspid Valve**|Degenerated Bioprosthesis|Transcatheter Valve-in-Valve (TVIV) Implantation|Minimally invasive treatment for failing surgical valves (e.g., in Ebstein anomaly). Excellent hemodynamic outcomes.|
+
+## Vascular Transcatheter Interventions
+
+### Coarctation of Aorta (CoA)
+
+- Balloon angioplasty with or without stent placement.
+- Preferred intervention in older children and adults.
+- Neonates optimally managed with surgery due to high risk of recurrence, arterial aneurysm, and dissection with balloon therapies.
+
+### Pulmonary Artery (PA) Stenosis
+
+- Managed with balloon dilation and stent implantation.
+- Cutting balloon angioplasty utilized for highly challenging, small-vessel PA stenoses and in-stent restenosis.
+- Major aortopulmonary collateral arteries (MAPCAs) in Tetralogy of Fallot/Pulmonary Atresia amenable to transcatheter balloon/stent dilation or coil occlusion.
+
+### Systemic Venous Stenosis & Thrombus
+
+- Superior Vena Cava (SVC) obstruction (e.g., post-Mustard/Senning or heart transplantation) managed with stent implantation.
+- Transcatheter thrombus management utilizes mechanical thrombectomy, balloon angioplasty, or acoustic pulse thrombolysis (EkoSonic Endovascular System).
+
+### Miscellaneous Interventions
+
+- **Coronary Artery Fistula:** Transcatheter coil or device closure at distal orifice. Treatment of choice for symptomatic/large fistulas to prevent steal phenomenon or volume overload.
+- **Paravalvular Leaks:** Device occlusion using vascular plugs (e.g., Amplatzer) under 3D TEE and fluoroscopic guidance. Success rates 70-90%.
+- **Balloon Atrial Septostomy (Rashkind):** Creation of atrial communication in D-TGA or HLHS with restrictive atrial septum to improve mixing.
+
+## Hybrid Procedures
+
+Hybrid therapies involve multidisciplinary collaboration between surgeons and interventional cardiologists, combining open and catheter-based techniques in a single setting to reduce CPB exposure and procedural trauma.
+
+### Stage 1 Palliation for HLHS
+
+- Bilateral pulmonary artery banding, transcatheter stent insertion into ductus arteriosus, and balloon atrial septostomy.
+- Avoids neonatal CPB exposure in high-risk patients with severe instability.
+- Requires comprehensive Stage 2 reconstruction subsequently.
+
+### Perventricular VSD Closure
+
+- Indicated for muscular VSDs in infants <5 kg where percutaneous delivery systems are too large for fragile peripheral vessels.
+- Access achieved via subxiphoid or limited median sternotomy off-pump.
+- Sheath introduced directly into RV free wall. Amplatzer muscular VSD device deployed under TEE guidance without fluoroscopy.
+
+### Intraoperative Stenting
+
+- Stent placement in pulmonary arteries or veins during open-heart surgery.
+- Allows deployment of adult-sized stents in small infants, avoiding complex patch angioplasty and limiting CPB duration.
+
+## Electrophysiology and Arrhythmia Management
+
+### Catheter Ablation
+
+- Utilizes radiofrequency (resistive/conductive heating) or cryothermal (hemispherical "iceball") energy.
+- Cryothermal ablation preferred near AV node to eliminate permanent heart block risk.
+- Electroanatomic mapping systems (magnetic/impedance-based) localize abnormal scar tissue, generate propagation maps, and minimize/eliminate fluoroscopy.
+- Indicated for recurrent supraventricular tachycardia (SVT), atrioventricular nodal reentrant tachycardia (AVNRT), Wolff-Parkinson-White (WPW) syndrome, intra-atrial reentrant tachycardia (IART), and monomorphic ventricular tachycardia (VT).
+
+### Cardiac Rhythm Devices
+
+- **Pacemakers:** Transvenous or epicardial systems for sinus node dysfunction or AV block. Leadless pacemakers available but limited in small pediatrics due to 23 French introducer sheath size.
+- **Implantable Cardioverter-Defibrillator (ICD):** Class I indication for secondary prevention in survivors of sudden cardiac arrest or sustained VT.
+- **Cardiac Resynchronization Therapy (CRT):** Biventricular pacing indicated for systemic ventricular dysfunction (EF < 35%) with wide QRS complex (>150 ms) to improve NYHA functional class and LV/RV function. May require epicardial leads due to complex CHD anatomy.

@@ -2,63 +2,139 @@
 {"dg-publish":true,"uplink":"/cardiology/cardiology/","uptext":"Back to Index (💗 Cardiology)","permalink":"/cardiology/long-qt-syndrome/","dgPassFrontmatter":true}
 ---
 
-## Pathophysiology and Genetics
+## Definition and Epidemiology
 
-- Long QT syndrome (LQTS) is a genetic abnormality affecting ventricular repolarization, with an estimated incidence ranging from 1 in 2,500 to 1 in 10,000 births,.
-- The underlying pathophysiology involves a net decrease in the repolarizing current during the cardiac action potential, which can occur either due to an increased inward positive current or a reduced outward positive current.
-- This prolongation of ventricular repolarization causes oscillations in the membrane potential known as early after-depolarizations (EADs).
-- If EADs reach a critical threshold, they can trigger ectopic beats and initiate the life-threatening polymorphic ventricular tachycardia known as Torsades de Pointes (TdP).
-- The disease is broadly categorized into two historical phenotypes: Romano-Ward syndrome (autosomal dominant, normal hearing) and Jervell and Lange-Nielsen syndrome (autosomal recessive/homozygous variants, associated with congenital sensorineural deafness),.
+- Genetic abnormality of ventricular repolarization.
+- Characterized by prolonged QT interval on surface electrocardiogram (ECG).
+- Predisposes to life-threatening polymorphic ventricular tachycardia (torsades de pointes).
+- Estimated incidence: 1 per 10,000 births to 1 in 2500-5000 individuals.
+- Inheritance: Predominantly autosomal dominant (90% familial). Rare autosomal recessive forms exist.
 
-### Major Genetic Subtypes
+## Genetics and Classification
 
-|Subtype|Gene and Channel|Pathophysiologic Mechanism|Characteristic Triggers|
-|:--|:--|:--|:--|
-|**LQT1**|_KCNQ1_ (Potassium channel, IKs)|Loss of function leading to reduced outward potassium current|Swimming, physical exertion, emotional stress,|
-|**LQT2**|_KCNH2_ (Potassium channel, IKr)|Loss of function leading to reduced outward potassium current|Auditory triggers (e.g., alarm clocks), postpartum period,|
-|**LQT3**|_SCN5A_ (Sodium channel, INa)|Gain of function causing an increased "late" inward sodium current during phases 2 and 3|Sleep, rest (carries the highest probability for sudden death),|
+- Highly genetically heterogeneous. >600 mutations identified across 14 susceptibility genes.
+- Major genes (KCNQ1, KCNH2, SCN5A) account for ~90% of confirmed genotype-positive cases.
+- Approximately 15% of variance in overall LQTS susceptibility attributable to common genetic variation (polygenic architecture).
+
+### Major LQTS Genotypes
+
+|Genotype|Gene|Chromosome Locus|Affected Ion Channel|Common Triggers|Frequency|
+|:--|:--|:--|:--|:--|:--|
+|**LQT1**|_KCNQ1_|11p15.5|IKs potassium channel alpha subunit (Loss of function)|Swimming, physical exertion, emotional stress|35%|
+|**LQT2**|_KCNH2 (HERG)_|7q35-36|IKr potassium channel alpha subunit (Loss of function)|Auditory triggers (alarm clocks), postpartum period|30%|
+|**LQT3**|_SCN5A_|3p21-p24|INa cardiac sodium channel alpha subunit (Gain of function/ increased late sodium current)|Sleep, rest|10%|
+
+### Minor and Atypical Genotypes
+
+- _CALM1, CALM2, CALM3_ (Calmodulin): Disrupts calcium/calmodulin-dependent inactivation of L-type calcium channels. Infantile/early childhood presentation. Severe bradycardia, atrioventricular (AV) block, severe QT prolongation.
+- _TRDN_ (Triadin): Autosomal recessive. Exercise-induced arrhythmias. Phenotypic overlap between LQTS and catecholaminergic polymorphic ventricular tachycardia (CPVT).
+- _CACNA1C_: Timothy syndrome. Multisystem disorder (syndactyly, autism, immune deficiency) combined with severe LQTS.
+- _KCNJ2_: Andersen-Tawil syndrome (LQT7). Skeletal/cardiac channelopathy. Prominent U-waves. Frequent ventricular ectopy and bidirectional VT. Variable QT prolongation.
+- _ANK2_: Ankyrin-B syndrome. Sinus node dysfunction, conduction block, polymorphic VT, QT prolongation.
+
+### Associated Clinical Syndromes
+
+- **Romano-Ward Syndrome:** Autosomal dominant inheritance. Isolated cardiac phenotype without extracardiac manifestations.
+- **Jervell and Lange-Nielsen Syndrome:** Autosomal recessive inheritance. Associated with congenital sensorineural deafness. Caused by homozygous or compound heterozygous mutations in _KCNE1_ or _KCNQ1_.
+
+## Pathophysiology
+
+- **Action Potential Disruption:** Prolongation of action potential results from net decrease in repolarizing current.
+- **Ionic Mechanism:** Reduced outward potassium current (LQT1, LQT2) or increased inward late sodium/calcium current (LQT3) during phases 2 and 3.
+- **Arrhythmogenesis:** Prolonged ventricular repolarization generates membrane potential oscillations called early after-depolarizations (EADs).
+- **Triggered Activity:** Reopening of L-type calcium or sodium channels drives EADs. Triggered upstrokes initiate torsades de pointes (TdP).
 
 ## Clinical Manifestations
 
-- Patients often present with syncope brought on by exercise, fright, sudden startle, or occurring during sleep.
-- Other initial presentations include generalized seizures, presyncope, or episodic palpitations.
-- Approximately 10% of patients present initially with sudden cardiac arrest.
-- In the fetal and neonatal period, LQTS can present as fetal bradycardia, second-degree heart block, or unexplained intrauterine fetal demise/stillbirth.
+- **Syncope:** Classic presentation. Brought on by exercise, fright, sudden startle (LQT1/LQT2), or during sleep (LQT3).
+- **Neurological/Nonspecific Symptoms:** Seizures, presyncope, palpitations.
+- **Sudden Cardiac Arrest (SCA):** Initial presentation in ~10% of cases.
+- **Catastrophic Outcomes:** Sudden infant death syndrome (SIDS), drowning, intrauterine fetal demise.
+- **Concealed LQTS:** Normal resting QTc (<440 ms). Found in up to 25% of genotype-positive individuals. Confers increased risk for aborted cardiac arrest and sudden death compared to genotype-negative relatives.
 
-## Diagnostic Investigations
+## Diagnosis
 
-|Modality|Specific Findings and Utility|
-|:--|:--|
-|**Electrocardiogram (ECG)**|A resting heart rate-corrected QT interval (QTc) > 0.47 seconds is highly indicative of LQTS, while >0.44 seconds is suggestive. Additional hallmark findings include notched T waves in at least three leads, macroscopic T-wave alternans, and a disproportionately low resting heart rate for the patient's age. During acute arrhythmic events, the ECG classically demonstrates Torsades de Pointes,.|
-|**Exercise Stress Testing**|Used to unmask concealed LQTS and differentiate genotypes. In LQT1, the QTc paradoxically prolongs during exercise and remains prolonged into recovery. In LQT2, the QTc may lengthen in early exercise but normalizes at higher heart rates. The modified "Schwartz score" utilizes a QTc ≥ 480 milliseconds at the 4th minute of exercise recovery as a highly predictive diagnostic criterion.|
-|**Echocardiography**|The echocardiogram typically demonstrates normal biventricular size and systolic function, as LQTS is a primary electrical channelopathy occurring in a structurally normal heart. It is primarily utilized to exclude other structural or cardiomyopathic causes of ventricular arrhythmias and syncope.|
-|**Ambulatory (Holter) Monitoring**|A 24-hour Holter monitor is utilized as a diagnostic adjunct to evaluate for intermittent T-wave alternans, macroscopic T-wave changes, and occult episodes of non-sustained ventricular tachycardia or Torsades de Pointes.|
+### Electrocardiographic (ECG) Findings
+
+- **QTc Calculation:** Bazett's formula (QT interval divided by the square root of the preceding RR interval). Inaccurate at low heart rates.
+- **Diagnostic Thresholds:** QTc >0.47 sec highly indicative; >0.44 sec suggestive. Manifest LQTS defined as QTc >470 ms in males or >480 ms in females. Normal QTc <0.45 sec.
+- **Morphological Abnormalities:** T-wave alternans. Notched T waves in three leads.
+- **Rate Abnormalities:** Low heart rate for age (sinus bradycardia).
 
 ### Schwartz Diagnostic Score
 
-- The clinical diagnosis is frequently established using the Schwartz score, which integrates ECG findings, clinical history, and family history.
-- ECG criteria include: QTc ≥ 480 ms (3 points), 460–479 ms (2 points), Torsades de pointes (2 points), T-wave alternans (1 point), notched T-wave in 3 leads (1 point), and low heart rate for age (0.5 points).
-- Clinical criteria include: Syncope with stress (2 points) or without stress (1 point), and congenital deafness (0.5 points).
-- Family history criteria include: Definite LQTS in a family member (1 point) or unexplained sudden cardiac death below age 30 (0.5 points).
-- A total score of ≥ 3.5 indicates a high probability of LQTS.
+Clinical tool estimating LQTS likelihood based on ECG, history, and family history.
+
+|Category|Finding|Points|
+|:--|:--|:--|
+|**ECG Findings**|QTc $\ge$ 480 ms|3|
+||QTc 460–479 ms|2|
+||QTc 450–459 ms (males)|1|
+||QTc 4th minute recovery from exercise test $\ge$ 480 ms|1|
+||Torsades de pointes|2|
+||T-wave alternans|1|
+||Notched T-wave in 3 leads|1|
+||Low heart rate for age (<2nd percentile)|0.5|
+|**Clinical History**|Syncope with stress|2|
+||Syncope without stress|1|
+||Congenital deafness|0.5|
+|**Family History**|Family member with definite LQTS|1|
+||Unexplained sudden cardiac death below age 30|0.5|
+
+- **Scoring Interpretation:** $\le$ 1 point: Low probability. 1.5 to 3 points: Intermediate probability. $\ge$ 3.5 points: High probability.
+
+### Adjunctive Diagnostic Modalities
+
+- **Exercise Testing (CPET):** Evaluates chronotropic response and QTc dynamics. Amplifies genotype-phenotype correlation.
+    - _LQT1:_ QTc prolongs during exercise; remains prolonged throughout recovery.
+    - _LQT2:_ QTc lengthens in early exercise; normalizes at higher heart rates.
+- **Holter Monitor:** 24-hour ambulatory ECG to evaluate occult arrhythmias, T-wave alternans, and QT dynamics.
+- **Genetic Testing:** Identifies pathogenic variant in ~80% of clinical cases. Essential for cascade screening of asymptomatic first-degree relatives.
+
+## Acquired/Secondary LQTS
+
+- **Electrolyte Derangements:** Hypokalemia, hypocalcemia, hypomagnesemia.
+- **Metabolic/Nutritional:** Starvation, anorexia nervosa, bulimia.
+- **Neurological:** Central nervous system injury.
+- **Pharmacological Triggers:**
+    - _Antiarrhythmics:_ Amiodarone, sotalol, procainamide, flecainide, quinidine.
+    - _Antimicrobials/Antifungals:_ Erythromycin, ketoconazole.
+    - _Psychotropics:_ Risperidone, amitriptyline, methadone.
 
 ## Management
 
-### Lifestyle and Preventive Measures
+### Lifestyle Modifications & Prevention
 
-- Patients must strictly avoid all medications known to prolong the QT interval (e.g., macrolide antibiotics like erythromycin, antifungals like fluconazole, tricyclic antidepressants, and certain antihistamines).
-- Electrolyte derangements, specifically hypokalemia, hypocalcemia, and hypomagnesemia, must be promptly identified and aggressively corrected to prevent proarrhythmic states.
-- Patients should be instructed to avoid specific genotype-related triggers (e.g., swimming in LQT1, loud alarm clocks in LQT2) and acquire a personal automated external defibrillator (AED) for sports safety,.
+- **Medication Avoidance:** Strict avoidance of QT-prolonging drugs (reference: crediblemeds.org).
+- **Trigger Avoidance:** Swimming/diving (LQT1). Alarm clocks/sudden noises (LQT2).
+- **Hydration/Electrolytes:** Replenishment during illness/activity. Avoid dehydration.
+- **Temperature Control:** Avoid/treat hyperthermia, febrile illnesses, heat exhaustion.
+- **Sports Participation:** Restriction historically recommended. Currently, participation considered after expert consultation, 3 months asymptomatic on targeted therapy, acquisition of personal AED, and established emergency action plan. LQT3 patients show minimal exercise risk.
 
 ### Pharmacological Therapy
 
-- Beta-adrenergic blocking agents are universally recommended as the first-line therapy for all LQTS patients, including asymptomatic individuals who are genotype-positive.
-- Nonselective beta-blockers with long-acting properties, specifically nadolol or sustained-release propranolol, are preferred and have been shown to be more effective than cardioselective agents like atenolol or metoprolol in reducing cardiac events.
-- In patients with the LQT3 subtype, the sodium channel blockers mexiletine or flecainide may be utilized to actively shorten the QT interval and reduce cardiac events,.
+- **Beta-Blockers:** Mainstay of therapy. Decreases risk of sudden cardiac arrest.
+    - _Indications:_ Recommended for all LQTS patients, including asymptomatic phenotype-negative gene carriers (unless contraindicated e.g., severe asthma).
+    - _Agent Selection:_ Non-selective beta-blockers preferred. Nadolol or sustained-release propranolol superior to metoprolol/atenolol.
+    - _Efficacy:_ Highly protective in LQT1 and LQT2. Less effective in LQT3.
+- **Sodium Channel Blockers:** Mexiletine or flecainide. Decreases late sodium current. Shortens QT interval and reduces cardiac events specifically in LQT3.
 
-### Interventional and Device Therapy
+### Device and Surgical Therapy
 
-- Implantable cardioverter-defibrillator (ICD) placement is a Class I indication for patients who have survived a prior cardiac arrest.
-- ICD therapy is also indicated for secondary prevention in patients who continue to experience recurrent syncope or ventricular arrhythmias despite maximum tolerated beta-blocker therapy.
-- Left cardiac sympathetic denervation is recommended for high-risk patients who either cannot tolerate beta-blockers, fail beta-blocker therapy, or in whom an ICD is strictly contraindicated or refused.
-- Permanent pacemaker implantation may occasionally be required to manage severe, drug-induced bradycardia resulting from high-dose beta-blocker therapy.
+- **Implantable Cardioverter-Defibrillator (ICD):**
+    - _Class I Indication:_ Secondary prevention in patients with prior cardiac arrest.
+    - _Class IIA Indication:_ Recurrent syncope despite optimal beta-blocker therapy.
+    - _Contraindication:_ Asymptomatic patients without prior trial of beta-blocker therapy.
+- **Left Cardiac Sympathetic Denervation (LCSD):**
+    - Reduces ventricular arrhythmia burden.
+    - Indicated for high-risk patients (especially LQT1).
+    - Utilized when ICD is contraindicated/refused, or when beta-blockers are ineffective or poorly tolerated.
+- **Permanent Pacing:** Indicated in rare cases for drug-induced or intrinsic severe bradycardia preventing adequate beta-blockade.
+
+## Fetal and Neonatal Presentation
+
+- **Fetal Arrhythmias:** High likelihood of ion channelopathy in unexplained fetal demise >20 weeks.
+- **Manifestations:** Fetal bradycardia, 2nd-degree AV block, ventricular tachycardia.
+- **Characteristic Pattern:** Alternating episodes of fetal tachycardia and bradycardia strongly suspect for LQTS.
+- **Diagnosis:** Fetal magnetocardiography (fMCG) accurately assesses fetal rhythm and QT intervals.
+- **Neonatal ECG:** Severe QT prolongation (>500 ms) with T-wave alternans pathognomonic. Requires prompt initiation of beta-blockade.

@@ -2,52 +2,69 @@
 {"dg-publish":true,"uplink":"/cardiology/cardiology/","uptext":"Back to Index (","permalink":"/cardiology/treatment-of-rheumatic-carditis/","dgPassFrontmatter":true}
 ---
 
-## Diagnostic Findings 
+## Acute Rheumatic Fever (ARF) and Carditis Management
 
-|Modality|Specific Clinical Findings|
-|:--|:--|
-|**Auscultation**|The hallmark is a pansystolic murmur of mitral regurgitation (best heard at the apex and radiating to the axilla). A high-pitched early diastolic decrescendo murmur indicates aortic regurgitation. An apical third heart sound (S3) gallop and a soft, delayed mid-diastolic murmur (Carey Coombs' murmur) indicate increased transmitral flow across inflamed valves. A pericardial friction rub (a scratchy sound with systolic, diastolic, and presystolic components) may be present if pericarditis accompanies the carditis.|
-|**Electrocardiogram (ECG)**|Prolonged PR interval is a classic minor criterion but is not specifically diagnostic of carditis. Sinus tachycardia is common in the acute phase. If pericarditis is present, generalized ST-segment elevation may occur, evolving into isoelectric ST segments with T-wave inversions.|
-|**Echocardiography**|Essential for detecting subclinical carditis. Acute changes include annular dilation, chordal elongation (leading to anterior leaflet prolapse and lack of coaptation), and beading/nodular thickening restricted to the leaflet tips. Color Doppler confirms pathological mitral regurgitation (jet length $\ge$ 2 cm, peak velocity >3 m/sec, pan-systolic) or aortic regurgitation (jet length $\ge$ 1 cm, peak velocity >3 m/sec, pan-diastolic).|
-|**Chest Radiograph (CXR)**|Demonstrates cardiomegaly dependent on the severity of mitral or aortic regurgitation and left ventricular failure. Signs of pulmonary venous congestion and interstitial pulmonary edema may be present with acute decompensation.|
-|**Cardiac Catheterization**|Left ventriculography visually outlines the regurgitant flow of contrast into the left atrium during systole; elevated pulmonary capillary wedge pressures with prominent 'V' waves are diagnostic of significant mitral regurgitation.|
+### Supportive Care
 
-## Medical Management
+- Bed rest recommended.
+- Prolonged bed rest (>2-3 weeks) reserved for clinically apparent carditis with heart failure.
+- Provide quiet room rest for chorea management.
 
-### Eradication of Group A Streptococcus (GAS)
+### Antimicrobial Therapy (Primary Prevention)
 
-- Regardless of throat culture results at the time of diagnosis, a therapeutic dose of antibiotics must be administered to eradicate any residual pharyngeal GAS carriage.
-- A single intramuscular injection of benzathine benzylpenicillin is highly effective.
-- Alternative regimens include oral Penicillin V (250 mg four times a day for 10 days) or azithromycin for patients with a documented penicillin allergy.
+- Eradicates streptococcal infection upon ARF diagnosis.
+- Single injection of benzathine penicillin.
+- Alternative: Oral Penicillin V (250 mg four times daily for 10 days).
+- Azithromycin utilized for penicillin-allergic patients.
 
-### Anti-Inflammatory (Suppressive) Therapy
+### Anti-Inflammatory / Suppressive Therapy
 
-- The choice between aspirin and systemic corticosteroids depends on the severity of the carditis and the presence of congestive cardiac failure (CCF).
-- In patients with carditis complicated by CCF, systemic corticosteroids are strictly indicated, as they are associated with lower mortality compared to aspirin.
-- In patients with carditis but without CCF, either steroids or aspirin can be used, although steroids are frequently preferred due to their rapid action in suppressing inflammation and resolving pericardial friction rubs (typically within 3 to 5 days).
-- **Corticosteroid Regimen:** Oral prednisolone is administered at 2 mg/kg/day (maximum dose of 60 mg) for 3 weeks, followed by a gradual taper over the subsequent 9 weeks.
-- **Aspirin Regimen:** Administered at 90-120 mg/kg/day in four divided doses for 10 weeks, and then tapered over the final 2 weeks.
-- The total duration of suppressive therapy for rheumatic carditis is generally 12 weeks.
+- Treatment duration typically 12 weeks.
+- **Aspirin:** 90-120 mg/kg/day (divided in 4 doses) for 10 weeks, tapered over final 2 weeks. Joint manifestations respond within days. Proton pump inhibitors co-prescribed to avoid gastrointestinal side effects. Naproxen is a viable alternative.
+- **Corticosteroids:** Prednisolone (2 mg/kg daily; max 60 mg) for 3 weeks, tapered gradually over 9 weeks.
+- **Therapy Selection:**
+    - Carditis with congestive heart failure: Steroids indicated.
+    - Carditis without congestive heart failure: Steroids or aspirin (steroids often preferred).
+    - No carditis: Aspirin preferred.
 
-### Management of Congestive Heart Failure
+### Chorea Management
 
-- Strict bed rest is recommended during the acute phase; prolonged bed rest (>2-3 weeks) is reserved for patients with clinically apparent carditis and active heart failure.
-- Management includes fluid restriction and conventional decongestive therapy using diuretics, such as furosemide.
-- The use of Angiotensin-Converting Enzyme (ACE) inhibitors is controversial in the acute setting but is widely utilized to decrease the regurgitant fraction and afterload in cases of severe mitral or aortic regurgitation.
-- Digoxin and beta-blockers may be cautiously considered, carefully guided by the patient's ventricular function and overall clinical stability.
-
-## Surgical Management
-
-- Surgical intervention is indicated in the acute phase if the patient rapidly deteriorates hemodynamically despite aggressive medical and decongestive measures.
-- Acute hemodynamic overload secondary to severe mitral or aortic regurgitation is the primary cause of mortality in acute rheumatic fever and may necessitate urgent valve repair or replacement.
-- Mitral valve repair is heavily favored over prosthetic replacement in the pediatric population to avoid the lifelong morbidities associated with mechanical valves (strict anticoagulation) and the inevitability of somatic growth outstripping the prosthetic valve.
+- Self-limiting disease course.
+- Does not respond well to anti-inflammatory agents or steroids.
+- Effective medications: Pimozide, haloperidol, diazepam, carbamazepine.
 
 ## Secondary Prophylaxis
 
-- Continuous secondary antibiotic prophylaxis is essential to prevent recurrent ARF episodes, which uniformly lead to progressive and cumulative valvular destruction.
-- The standard regimen is an intramuscular injection of Benzathine Penicillin G (1.2 million units for patients >30 kg; 600,000 units for <30 kg) every 3 to 4 weeks.
+- Prevents recurrent ARF episodes and RHD progression.
+- **Regimen:** Long-acting benzathine penicillin (1.2 million units IM every 3-4 weeks; 600,000 units if <30 kg) or Oral Penicillin V 250 mg twice daily.
 
-|Patient Category|Duration of Prophylaxis (American Heart Association Guidelines)|
+|Disease Status|Recommended Duration of Secondary Prophylaxis|
 |:--|:--|
-|**ARF with carditis but NO residual valvular disease**|For 10 years after the last ARF episode OR until age 21 years (whichever is longer).|
-|**ARF with carditis and residual heart disease (RHD)**|For 10 years after the last ARF episode OR until age 40 years (whichever is longer); lifelong prophylaxis may be required for severe disease or post-valve surgery.|
+|**ARF without carditis**|5 years after last episode or until age 21 (whichever is longer).|
+|**ARF with carditis (no residual heart disease)**|10 years after last ARF episode or until age 21-25 (whichever is longer).|
+|**ARF with carditis and residual heart disease / post-valve surgery**|Lifelong prophylaxis or at least until age 40 (whichever is longer).|
+
+## Management of Specific Valvular Lesions
+
+|Lesion|Medical Management|Interventional / Surgical Management|
+|:--|:--|:--|
+|**Mitral Regurgitation (MR)**|Digitalis, diuretics for symptom relief. ACE inhibitors/ARBs/Beta-blockers attenuate compensatory mechanisms, reduce regurgitant volume, and preserve Left Ventricular (LV) function. Non-vitamin K antagonist oral coagulation for RHD-associated atrial fibrillation.|Mitral valve repair (preferred) or prosthetic valve replacement. Indicated for persistent heart failure, dyspnea with moderate activity, progressive cardiomegaly, or severe MR with LV systolic dysfunction.|
+|**Mitral Stenosis (MS)**|Beta-blockers or digoxin for rate control (improves diastolic filling). Diuretics relieve pulmonary venous congestion. Vitamin K Antagonists indicated for atrial fibrillation, prior embolic event, or left atrial thrombus.|Percutaneous Mitral Valve Balloon Commissurotomy (PMBC) indicated for pliable, non-calcified valves without atrial thrombus. Surgical valvotomy or valve replacement reserved for unsuitable PMBC candidates.|
+|**Aortic Regurgitation (AR)**|ACE inhibitors or ARBs. Antihypertensive therapy indicated for elevated systolic blood pressure.|Aortic valve repair or replacement (homograft or prosthetic). Indicated before onset of significant ventricular dysfunction, heart failure, or severe LV dilation.|
+|**Tricuspid Regurgitation (TR)**|Decongestive measures (diuretics) for signs/symptoms of right-sided heart failure.|Tricuspid annuloplasty or repair. Typically performed concomitantly during required left-sided (mitral) valve surgery.|
+
+## Management of Complications
+
+### Heart Failure
+
+- **Workload Reduction:** Restrict activity, treat fever/anemia/obesity, implement mechanical ventilation for severe cases.
+- **Diuretics:** First-line therapy for congestive failure. Oral furosemide combined with potassium-sparing diuretics (spironolactone) to prevent arrhythmias and potassium loss.
+- **Afterload Reduction:** ACE inhibitors (monitor creatinine/electrolytes, withhold in dehydration). Angiotensin receptor blockers (e.g., losartan) if ACE-inhibitor cough persists.
+- **Beta-Blockers:** Carvedilol, metoprolol (improve symptoms, suppress catecholamines, prevent arrhythmias). Start low dose.
+- **Inotropes/Vasodilators:** Sodium nitroprusside or milrinone for acute care settings. Phosphodiesterase inhibitors (milrinone) utilized cautiously due to proarrhythmic potential.
+
+### Infective Endocarditis Prophylaxis
+
+- Indicated before procedures expected to produce bacteremia (e.g., dental procedures).
+- Required for patients with established RHD or prosthetic valves.
+- Routine rheumatic fever prophylaxis doses are insufficient; distinct antibiotic class required for endocarditis prevention.

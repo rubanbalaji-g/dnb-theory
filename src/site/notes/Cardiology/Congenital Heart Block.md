@@ -2,73 +2,103 @@
 {"dg-publish":true,"uplink":"/cardiology/cardiology/","uptext":"Back to Index (💗 Cardiology)","permalink":"/cardiology/congenital-heart-block/","dgPassFrontmatter":true}
 ---
 
-## Etiology and Pathophysiology
+## Definition & Classification
 
-- Congenital complete atrioventricular (AV) block is defined by the complete electrical dissociation between the atria and the ventricles during fetal or neonatal life.
-- The most common etiology, accounting for 60% to 70% of all cases and 80% of cases with a structurally normal heart, is autoimmune injury to the fetal conduction system.
-- This autoimmune destruction is driven by the transplacental transfer of maternally derived immunoglobulin G antibodies, specifically anti-SSA/Ro and anti-SSB/La, from mothers who have overt or asymptomatic systemic lupus erythematosus (SLE) or Sjögren syndrome.
-- Women who test positive for SSA/Ro and/or SSB/La antibodies have a 2% to 3% risk of having a fetus with complete heart block.
-- This risk increases significantly to approximately 15% if the mother has had a prior pregnancy complicated by fetal complete heart block.
-- Autoimmune-mediated myocarditis and endocarditis can concurrently lead to endocardial fibroelastosis (EFE), AV valve regurgitation, and poor cardiac function in 15% to 20% of these affected pregnancies.
-- Approximately 50% of fetal AV block cases are associated with structural congenital heart disease.
-- Structural complete heart block is most frequently associated with heterotaxy syndrome (specifically left atrial isomerism) and congenitally corrected transposition of the great arteries (cc-TGA).
-- In cc-TGA, the malalignment of the atrial and ventricular septums causes abnormal development and displacement of the conduction pathways between the sinoatrial (SA) node and the AV node.
-- In heterotaxy with left atrial isomerism, the SA node itself may be abnormal or entirely absent, leading to profound bradycardia.
-- From a genetic standpoint, pathogenic variants in the _NKX2-5_ gene are also known to be associated with congenital AV block, often co-presenting with an atrial septal defect (ASD).
+Disturbance in electrical impulse conduction from atria through atrioventricular (AV) node to ventricles. Spectrum ranges from transmission delay to complete electrical dissociation.
 
-## Clinical Features and Presentation
+|Block Type|Electrocardiographic (ECG) Features|Clinical Characteristics|
+|:--|:--|:--|
+|**First-Degree AV Block**|PR interval prolonged beyond upper normal limit for age.|Asymptomatic. 8% prevalence in normal children secondary to increased vagal tone.|
+|**Second-Degree (Mobitz I / Wenckebach)**|Progressive PR prolongation terminating in non-conducted P-wave.|Block at AV node level. Normal during sleep (high parasympathetic tone) or in athletes.|
+|**Second-Degree (Mobitz II)**|Stable PR interval preceding non-conducted P-wave.|Block at or below AV node (His-Purkinje). High risk of progression to complete block.|
+|**Second-Degree (High-Grade)**|Two or more consecutive non-conducted P-waves.|Suggests significant disease below AV node.|
+|**Third-Degree (Complete Heart Block - CHB)**|Complete AV dissociation. Regular ventricular escape rhythm independent of atrial rate.|Absence of impulse conduction to ventricles. High risk for syncope, sudden death, or fetal hydrops,.|
 
-- Fetal complete heart block typically develops and presents between 17 and 28 weeks of gestation and is rarely seen after 28 weeks.
-- In fetuses, complete heart block with a ventricular rate of less than 50 beats per minute is a very poor prognostic sign.
-- Risk factors for perinatal mortality include delivery at less than 34 weeks of gestation, hydrops fetalis, endocardial fibroelastosis, placental infarction, and a fetal heart rate below 50 beats per minute.
-- The presence of complete heart block in the setting of complex structural heart disease carries a grim prognosis, and if hydrops fetalis is present, the risk of in utero fetal demise is almost certain.
-- In infants and toddlers, symptoms of complete heart block can be subtle and may include night terrors, excessive tiredness with frequent naps, and irritability.
-- Older children with an otherwise structurally normal heart may remain asymptomatic for long periods, though they can present with lethargy, exertional dyspnea, syncope, or sudden cardiac death.
-- On physical examination, the peripheral pulse is usually prominent and bounding due to the compensatory large ventricular stroke volume and associated peripheral vasodilation.
-- Systolic blood pressure is typically elevated in these patients.
-- Jugular venous pulsations occur irregularly, and large "cannon a-waves" may be observed when the right atrium contracts against a closed tricuspid valve.
+## Etiology & Associations
 
-## Diagnostic Investigations
+|Category|Etiologies & High-Yield Associations|
+|:--|:--|
+|**Autoimmune (Congenital)**|Transplacental transfer of maternal IgG antibodies (+SSA/Ro, +SSB/La) in Systemic Lupus Erythematosus (SLE) or Sjögren syndrome,. Accounts for 60–70% of congenital CHB. Represents 80% of cases with structurally normal hearts.|
+|**Structural CHD**|Left atrial isomerism (Heterotaxy) (absent/abnormal SA node). Congenitally corrected transposition of great arteries (ccTGA) (40% incidence, increases 2% annually). Atrioventricular canal defects.|
+|**Genetic / Familial**|Familial AV Block (FAVB) linked to SCN5A variants (sodium channel) or Connexin 40. NKX2-5 mutations associated with CHB and Atrial Septal Defect (ASD).|
+|**Postoperative (Acquired)**|1–3% incidence following congenital cardiac surgery. Highest risk procedures involve VSD, AV canal, tetralogy of Fallot, ccTGA, and heterotaxy repairs. Transient AV block (5–10% of cases) resolves within 7–10 days.|
+|**Infectious / Inflammatory**|Viral myocarditis, Lyme carditis (heart block seen in 4-10% of cases), acute rheumatic fever, Chagas disease,,.|
+|**Pharmacologic**|Digoxin, beta-blockers, calcium channel blockers, clonidine, amiodarone, lithium,.|
 
-### Auscultation
+## Clinical Presentation
 
-- Auscultation frequently reveals systolic murmurs along the left sternal border due to the increased stroke volume being ejected.
-- Apical mid-diastolic murmurs are not unusual, reflecting increased relative flow across the mitral valve during prolonged diastole.
-- The intensity of the first heart sound (S1) varies beat-to-beat due to the changing relationship between atrial and ventricular contractions.
+### Fetal Presentation
 
-### Electrocardiogram (ECG) Findings
+- Diagnosed primarily between 17–28 weeks gestation.
+- Fetal heart rate <50 beats per minute (bpm) indicates poor prognosis,.
+- Associated with hydrops fetalis.
+- Immune-mediated endocardial fibroelastosis (EFE) or ventricular dysfunction present in 15–20% of autoimmune cases.
 
-- The hallmark ECG finding is third-degree (complete) AV block, which represents a complete electrical dissociation between the atria and the ventricles.
-- The atrial rate and the ventricular rate are completely independent of one another, with a regular ventricular escape rhythm.
-- The morphology of the QRS complex may be narrow or wide (>120 ms) depending on whether the escape pacemaker originates from the AV junction or lower within the His-Purkinje system or ventricular myocardium.
-- Administration of atropine or performing exercise testing may produce only a blunted acceleration of the ventricular rate, typically increasing by just 10 to 20 beats per minute.
+### Infant and Toddler Presentation
 
-### Echocardiography
+- Irritability, tiredness, frequent naps, night terrors.
+- Prominent peripheral pulses secondary to compensatory large stroke volume and peripheral vasodilation.
+- Elevated systolic blood pressure.
+- Irregular, large jugular venous pulsations (cannon 'a' waves) resulting from atrial contraction against closed tricuspid valve.
+- Variable first heart sound.
+- Apical mid-diastolic murmurs often auscultated.
 
-- Fetal echocardiography is the primary tool for diagnosing fetal arrhythmias, utilizing mechanical events as surrogates for electrical activity (the atrial 'A' wave represents the P wave, and the ventricular outflow 'V' wave represents the QRS complex).
-- Fetal M-mode or pulsed-wave Doppler will confirm complete dissociation, showing regular atrial contractions at a normal rate and a slow, regular ventricular rate (typically 40 to 80 beats per minute) with no relationship between the two.
-- Simultaneous Doppler assessment of the ascending aorta and the superior vena cava, or the mitral and aortic valves, is used to measure the mechanical AV conduction intervals and identify progression from first- or second-degree block.
-- Postnatal echocardiography is mandatory to exclude associated structural anomalies such as cc-TGA, heterotaxy syndrome, or left ventricular dysfunction and endocardial fibroelastosis.
+### Older Child and Adolescent Presentation
 
-## Management
+- Often asymptomatic at rest.
+- Exertional fatigue or dyspnea,.
+- Dizziness, syncope (Stokes-Adams attacks).
+- Sudden cardiac death risk.
 
-### Fetal Management
+## Diagnostic Evaluation
 
-- Mothers positive for SSA/Ro or SSB/La antibodies require close fetal echocardiographic monitoring every 1 to 2 weeks between 17 and 28 weeks of gestation.
-- There is no universal consensus on treating isolated fetal complete heart block, but beta-sympathomimetics (such as terbutaline and salbutamol) have been used in attempts to increase fetal heart rates below 55 to 60 beats per minute, though they have not proven to improve overall survival.
-- Transplacental corticosteroid therapy (Dexamethasone 4 to 8 mg/day) may be considered for fetuses with immune-mediated AV block to decrease conduction system inflammation.
-- Dexamethasone is often utilized for second-degree heart block, new-onset complete heart block, or if there is associated cardiac dysfunction or hydrops.
-- Maternal intravenous immunoglobulin (IVIG) at 1 g/kg every 2 to 3 weeks is generally utilized if there is concern for ventricular dysfunction or endocardial fibroelastosis.
-- Fetal ventricular pacing has been attempted in severely affected fetuses, but there has been little success with this invasive therapy.
+- **12-Lead Electrocardiogram (ECG):** Confirms dissociation of P waves and QRS complexes in CHB. QRS duration normal (<120 ms) if block located high in AV node/Bundle of His,. Wide QRS suggests distal block location.
+- **24-Hour Ambulatory ECG (Holter):** Assesses average diurnal heart rate, longest ventricular pauses, and occult ventricular ectopy.
+- **Echocardiography:** Excludes associated structural heart disease (e.g., ccTGA, heterotaxy). Evaluates ventricular function and rules out EFE,.
+- **Maternal Serology:** Anti-SSA/Ro and anti-SSB/La antibody testing mandated for unexplained fetal or neonatal AV block.
+- **Genetic Testing:** Indicated in Familial AV block without evidence of maternal autoimmune disease.
 
-### Postnatal and Long-Term Management
+## Management & Interventions
 
-- The definitive treatment for symptomatic or high-risk congenital complete heart block is the placement of a permanent pacing system.
-- In neonates and infants presenting with severe bradycardia (ventricular rates ≤55 beats/min), heart failure, wide complex escape rhythms, or concurrent congenital heart disease (with rates <70 beats/min), cardiac pacing is urgently recommended.
-- Temporary stabilization before pacemaker placement can be achieved using isoproterenol, atropine, or epinephrine to transiently increase the heart rate.
-- Transthoracic epicardial pacemaker implants are traditionally used in neonates and small infants to avoid venous thrombosis, while transvenous placement is preferred for older children and adults.
-- Patients with an anatomically normal heart, an average heart rate of at least 55 beats per minute, and a narrow complex escape rhythm may be observed closely in the neonatal period without immediate pacing.
-- By one year of age, the resting heart rate may naturally decrease to 50 beats per minute; these children require routine follow-up with ECG, 24-hour Holter monitors, and echocardiograms to monitor for declining heart rates or symptoms like fatigue and dizziness.
-- Implantation of a permanent pacemaker is highly recommended before participation in competitive sports for patients with symptomatic heart block, resting ventricular rates <40 beats per minute, or a ventricular escape rhythm with a QRS duration >120 ms.
-- In adults with congenital heart disease, permanent pacing is a Class I indication if they present with congenital complete heart block accompanied by ventricular dysfunction, a wide QRS escape rhythm, or complex ventricular ectopy.
-- Pacing is also deemed reasonable (Class IIa) for adults with congenital complete heart block and an average daytime resting heart rate of <50 beats per minute.
+### Fetal Heart Block Management
+
+- **Corticosteroids (Dexamethasone):** Crosses placenta. Indicated (4–8 mg/day) to decrease conduction system inflammation. Utilized for second-degree heart block, new-onset CHB, hydrops, or cardiac dysfunction,. Efficacy in reversing established CHB remains controversial.
+- **Intravenous Immunoglobulin (IVIG):** 1 g/kg every 2–3 weeks. Indicated for fetal ventricular dysfunction or EFE.
+- **Beta-Sympathomimetics:** Terbutaline or salbutamol utilized to increase fetal heart rates <55–60 bpm. Controversial efficacy; fails to demonstrate proven survival benefit and risks maternal ectopy.
+
+### Acute Symptomatic Bradycardia (Hemodynamic Compromise)
+
+- Follow Pediatric Advanced Life Support (PALS) algorithms.
+- Initiate cardiopulmonary resuscitation (CPR) if heart rate <60 bpm with poor perfusion despite oxygenation and ventilation.
+- **Epinephrine:** 0.01 mg/kg IV/IO.
+- **Atropine:** 0.02 mg/kg (Minimum: 0.1 mg; Maximum: 1 mg). Indicated for increased vagal tone or primary AV block.
+- **Cardiac Pacing:** Temporary transvenous or transcutaneous pacing indicated if pharmacologic measures fail.
+
+### Permanent Pacing Indications
+
+Guidelines direct permanent cardiac rhythm device implantation based on chronicity, symptoms, and associated anomalies.
+
+#### Class I Indications (Definitive Need)
+
+- Symptomatic bradycardia with any degree of AV block,.
+- Congenital complete AV block accompanied by wide QRS escape rhythm, complex ventricular ectopy, or ventricular dysfunction,.
+- Postoperative high-grade second-degree or third-degree AV block not expected to resolve (typically evaluated >10–14 days post-surgery),,.
+- Mobitz Type II second-degree AV block with wide QRS.
+
+#### Class IIa Indications (Reasonable to Perform)
+
+- Congenital complete AV block with average daytime resting heart rate <50 bpm in adults/adolescents.
+- Neonatal complete AV block with resting ventricular rate <55 bpm.
+- Complex congenital heart disease with awake resting heart rate <40 bpm or ventricular pauses >3 seconds.
+- Impaired hemodynamics secondary to loss of AV synchrony.
+
+#### Surgical Considerations
+
+- Epicardial pacing systems required for patients lacking systemic venous access to heart (e.g., post-Fontan or Glenn palliation).
+- Endocardial (transvenous) leads avoided in presence of right-to-left intracardiac shunting due to paradoxical embolic stroke risk,.
+
+### Sports Participation & Restrictions
+
+- **First-Degree / Mobitz I (Wenckebach):** No competitive sports restrictions if asymptomatic and structurally normal heart.
+- **Complete Right/Left Bundle Branch Block:** No restriction if asymptomatic, structurally normal heart, and absence of rate-dependent progression to complete block,.
+- **Congenital Complete Heart Block:** Contraindicated for competitive sports unless permanent pacemaker implanted. Post-implantation exercise stress testing required to ensure appropriate chronotropic response and normal HV interval.

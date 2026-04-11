@@ -10,11 +10,12 @@
 2. [[Cardiology/S2 in clinical practice\|S2 in clinical practice]]
 ## Congenital Heart Diseases
 ### Cyanotic Congenital Heart Diseases
-1. [[Cardiology/Transposition and malposition of great arteries\|Transposition and malposition of great arteries]]
+1. [[Cardiology/Transposition of great arteries\|Transposition of great arteries]]
 2. [[Cardiology/Paroxysmal hypercyanotic Spells\|Paroxysmal hypercyanotic Spells]]
 3. [[Cardiology/Tetralogy of Fallot\|Tetralogy of Fallot]]
 4. [[Cardiology/Tricuspid Atresia\|Tricuspid Atresia]]
 5. [[Cardiology/Hypoplastic left heart syndrome\|Hypoplastic left heart syndrome]]
+6. [[Cardiology/Double Outlet Right Ventricle\|Double Outlet Right Ventricle]]
 ### Acyanotic congenital Heart Diseases
 1. [[Cardiology/VSD\|VSD]]
 2. [[Cardiology/ASD\|ASD]]
@@ -33,11 +34,10 @@
 2. [[Cardiology/Rheumatic Heart Diseases\|Rheumatic Heart Diseases]]
 3. [[Cardiology/Treatment of Rheumatic Carditis\|Treatment of Rheumatic Carditis]]
 4. [[Cardiology/Acute Myocarditis\|Acute Myocarditis]]
-5. [[Cardiology/Constructive Pericarditis\|Constructive Pericarditis]]
+5. [[Cardiology/Pericarditis\|Pericarditis]]
 6. [[Cardiology/Etiology, Pathophysiology and Diagnosis of CCF\|Etiology, Pathophysiology and Diagnosis of CCF]]
 7. [[Cardiology/Vasodilator Therapy in Heart Failure\|Vasodilator Therapy in Heart Failure]]
 8. [[Cardiology/Management of CCF\|Management of CCF]]
-9. [[Cardiology/Vasodilator Therapy in Heart Failure\|Vasodilator Therapy in Heart Failure]]
 ## Other Important Topics
 1. [[Cardiology/Cardiac Catheterization\|Cardiac Catheterization]]
 2. [[Cardiology/Pulse Oximetry in the diagnosis of critical congenital cardiac disease\|Pulse Oximetry in CCHD]]
