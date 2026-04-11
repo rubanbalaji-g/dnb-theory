@@ -21,6 +21,7 @@
 - If RVOTO is severe, deoxygenated blood from the RV shunts right-to-left across the VSD into the overriding aorta, leading to persistent systemic arterial desaturation and clinical cyanosis.
 - A right-sided aortic arch is present in 20% to 30% of patients with TOF, which has surgical implications.
 - Coronary artery anomalies occur in 5% to 10% of cases, the most critical being the left anterior descending (LAD) artery arising from the right coronary artery and crossing directly anterior to the RVOT, precluding a standard right ventriculotomy during surgical repair.
+![Pasted image 20260411193416.png](/img/user/+%C4%B0mages/Pasted%20image%2020260411193416.png)
 
 ## Clinical Manifestations
 
