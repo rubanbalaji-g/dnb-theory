@@ -2,34 +2,46 @@
 {"dg-publish":true,"uptext":"Back to Index (💗 Cardiology)","uplink":"/cardiology/cardiology/","permalink":"/cardiology/hyperoxia-test/","dgPassFrontmatter":true}
 ---
 
-### 1. Introduction
-The hyperoxia test (also known as the 100% Oxygen Challenge Test) is a traditional bedside diagnostic tool used to differentiate between cyanosis of cardiac origin (Right-to-Left shunt) and non-cardiac origin (pulmonary or CNS causes).
+### Principle and Purpose
 
-### 2. Physiological Basis
-* **Pulmonary Disease:** Cyanosis is usually due to V/Q mismatch or diffusion defects. Increasing the inspired oxygen concentration (FiO2) to 100% can overcome these barriers, significantly increasing the PaO2.
-* **Cardiac Disease:** Cyanosis is due to an anatomic Right-to-Left (R-L) shunt. Since a portion of the systemic venous blood bypasses the lungs entirely, increasing FiO2 to the lungs does not significantly raise the arterial oxygen tension.
+- The hyperoxia test is primarily utilized as a diagnostic method to distinguish cyanotic congenital heart disease (CHD) from pulmonary disease in a cyanotic or cardiorespiratory-distressed neonate.
+- The fundamental premise of the test is based on the physiological response to 100% oxygen administration: infants with pulmonary disease can overcome ventilation-perfusion abnormalities due to high levels of intraalveolar partial pressure of oxygen (PaO2), which reverses the hypoxia.
+- Conversely, neonates with cyanotic CHD generally fail to significantly raise their arterial PaO2 when administered 100% oxygen due to fixed right-to-left intracardiac shunting.
 
-### 3. Procedure
-1. **Baseline:** Obtain a baseline Arterial Blood Gas (ABG) while the neonate is breathing room air (FiO2 0.21).
-2. **Intervention:** Administer 100% humidified oxygen for 10–15 minutes (via headbox or ET tube if ventilated).
-3. **Measurement:** Repeat the ABG (preferably from the Right Radial artery - pre-ductal). 
-4. **Alternative:** In resource-limited settings, pulse oximetry (SpO2) is used, though it is less sensitive than PaO2.
+### Procedure and Precautions
 
-### 4. Interpretation
-| Result | PaO2 (mmHg) | Interpretation |
-| :--- | :--- | :--- |
-| **Pass** | > 150 - 250 | Likely Pulmonary/CNS cause |
-| **Inconclusive** | 100 - 150 | Consider PPHN or mild CHD |
-| **Fail** | < 100 | Likely Cyanotic Congenital Heart Disease (CCHD) |
+- The test must be performed by administering almost 100% oxygen to the patient using an oxygen hood.
+- The use of a nasal cannula or face mask is strictly discouraged, as these methods cannot guarantee the exact delivery of 100% oxygen, potentially leading to false-positive results.
+- Arterial blood gas sampling is required to accurately measure the resulting PaO2.
 
-> [!red] **Note:**
-> If PaO2 remains < 100 mmHg despite 100% FiO2, the probability of a duct-dependent cardiac lesion is very high.
+### Interpretation of Results
 
-### 5. Specific Scenarios & Limitations
-* **PPHN (Persistent Pulmonary Hypertension):** May initially fail the test. However, if hyperventilation or vasodilators (Nitric Oxide) improve PaO2, it suggests PPHN rather than structural CHD.
-* **Mixing Lesions:** Conditions like TAPVC or HLHS may show a "blunted" response (PaO2 ~100 mmHg) because of high pulmonary blood flow.
-* **Methemoglobinemia:** Shows low SpO2 but a normal PaO2 (the "Saturation Gap").
-* **Risks:** Prolonged 100% oxygen can cause closure of the ductus arteriosus in duct-dependent lesions or cause retinopathy of prematurity (ROP) in preterms.
+| Post-100% Oxygen Arterial PaO2 | Most Likely Clinical Diagnosis / Etiology                                                                                                      |
+| :----------------------------- | :--------------------------------------------------------------------------------------------------------------------------------------------- |
+| **> 300 mm Hg**                | Healthy newborn                                                                                                                                |
+| **150 – 300 mm Hg**            | Noncardiac etiologies (Pulmonary disease, Central Nervous System (CNS) disorders, Methemoglobinemia)                                           |
+| **100 – 150 mm Hg**            | Cyanotic congenital heart lesions, Increased pulmonary blood flow (mixing lesions), or Persistent Pulmonary Hypertension of the Newborn (PPHN) |
+| **< 100 mm Hg**                | Congenital heart disease (CHD) with decreased pulmonary blood flow                                                                             |
 
-### 6. Current Status
-With the widespread availability of bedside 2D-Echocardiography, the hyperoxia test is less frequently used in tertiary centers. However, it remains a critical "bridge" test in primary care to initiate life-saving Prostaglandin E1 (PGE1) infusion before transport.
+### Diagnostic Nuances and Clinical Correlates
+
+- A PaO2 result between 150 and 300 mm Hg is not 100% confirmative for noncardiac etiologies; certain patients with cyanotic CHD may achieve a PaO2 > 150 mm Hg if they have favorable intracardiac streaming patterns.
+- Hypoxia secondary to congenital heart lesions remains relatively constant over time, whereas hypoxia caused by respiratory disorders or PPHN fluctuates with time or with alterations in ventilator management.
+- If cyanosis is caused by a central nervous system disorder, the infant's PaO2 will usually normalize completely upon the initiation of artificial ventilation.
+- In cases of profound hypoxemia (oxygen saturations < 70%) that is completely unresponsive to the hyperoxia test, a ductal-dependent lesion such as transposition of the great arteries (TGA) should be strongly suspected.
+- Any patient with hypoxia unresponsive to the hyperoxia test, especially with suspicion for TGA, requires the immediate initiation of a prostaglandin (PGE) infusion to promote ductal patency and intracardiac mixing.
+
+### Algorithmic Approach to the Hyperoxia Test
+
+```mermaid
+graph TD;
+    A[Administer 100% Oxygen <br>via Oxygen Hood] --> B{Measure Arterial PaO2};
+    B -->|> 300 mm Hg| C[Healthy Newborn];
+    B -->|150 - 300 mm Hg| D[Noncardiac Etiologies: <br>Pulmonary disease, <br>CNS disorders, <br>Methemoglobinemia];
+    B -->|100 - 150 mm Hg| E[Cyanotic CHD, <br>Mixing Lesions, <br>or PPHN];
+    B -->|< 100 mm Hg| F[CHD with Decreased <br>Pulmonary Blood Flow];
+
+    D -.-> G[Note: May also include <br>select Cyanotic CHDs <br>with favorable streaming];
+    E -.-> H[Note: Suspect TGA <br>if unresponsive and <br>profoundly hypoxemic - <br>initiate PGE];
+    F -.-> H;
+```
