@@ -2,7 +2,10 @@
 {"hide":true,"dg-hide":true,"dg-publish":true,"dg-show-inline-title":false,"dg-content-classes":"hide-title","dg-home":true,"permalink":"/index-of-notes-theory/","contentClasses":"hide-title","tags":["gardenEntry"],"dgPassFrontmatter":true}
 ---
 
-
+<a href="https://pedianotes.in" style="background-color: #0a0a0a; color: #4ade80; border: 1px solid #4ade80; padding: 10px 20px; text-decoration: none; border-radius: 12px; font-family: sans-serif; font-weight: bold; display: inline-flex; align-items: center; gap: 8px; margin-top: 10px; width: fit-content;">
+  <img src="baby-svgrepo-com.svg" width="18" height="18" alt="icon" style="display: block;">
+  Return to Home Page
+</a>
 ## Foundation of Pediatrics
 Core principles underlying child health, growth, development, and nutrition
 
