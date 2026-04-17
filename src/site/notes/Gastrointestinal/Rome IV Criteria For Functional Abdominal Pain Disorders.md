@@ -2,7 +2,6 @@
 {"dg-publish":true,"uplink":"/gastrointestinal/gastroenterology/","uptext":"Back to Index (🍴 Gastroenterology)","permalink":"/gastrointestinal/rome-iv-criteria-for-functional-abdominal-pain-disorders/","dgPassFrontmatter":true}
 ---
 
-
 ## Core Diagnostic Principles
 
 - Diagnosis requires symptoms unexplained by alternative medical conditions following appropriate medical evaluation.
