@@ -50,4 +50,3 @@
 7. [[Neonatalogy/Retinopathy of prematurity\|Retinopathy of prematurity]]
 8. [[Neonatalogy/Endocrine Issues at Day 1 of life\|Endocrine Issues at Day 1 of life]]
 9. [[Neonatalogy/Placental Dysfunction Syndrome (Postmaturity Syndrome, Dysmaturity)\|Placental Dysfunction Syndrome]]
-10. 

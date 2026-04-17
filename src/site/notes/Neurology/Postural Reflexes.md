@@ -2,83 +2,114 @@
 {"dg-publish":true,"uplink":"/neurology/neurology/","uptext":"Back to Index (Neurology)","permalink":"/neurology/postural-reflexes/","dgPassFrontmatter":true}
 ---
 
-Postural reflexes are automatic movements that control the equilibration we require once upright and moving and having to combat the effects of gravity.
-* **Origin:** Controlled by higher centers (Midbrain, Basal Ganglia, Cortex).
-* **Pattern:** unlike Primitive reflexes (which are present at birth and disappear), Postural reflexes **appear** during infancy and generally **persist** throughout life.
-* **Function:** They provide the basis for voluntary movement, posture, and balance.
+## Overview
 
-## CLASSIFICATION AND TIMELINE
-They are broadly classified into three groups based on their function.
+- Automatic movements controlling equilibration.
+- Combat gravity effects during upright posture and movement.
+- Origin: Higher centers including Midbrain, Basal Ganglia, and Cortex.
+- Pattern: Appear during infancy; persist throughout life.
+- Differentiates from primitive reflexes (present at birth, disappear over time).
+- Function: Provide basis for voluntary movement, posture, and balance.
 
-| Type | Function | Appearance | Significance |
-| :--- | :--- | :--- | :--- |
-| **Righting Reflexes** | Orient head in space; align body with head. | Birth – 6 months | Pre-requisite for head control and rolling. |
-| **Protective (Propping)** | Protect body from injury during falls. | 6 – 9 months | Essential for independent sitting. |
-| **Equilibrium Reactions** | Maintain balance when center of gravity shifts. | 6 months onwards | Essential for standing and walking. |
+## Classification and Timeline
 
-## 1. RIGHTING REFLEXES (Midbrain Level)
-These reflexes are responsible for maintaining the head in the vertical position and aligning the body segments.
+Broadly classified into three groups based on function and chronological appearance.
 
-### A. Labyrinthine & Optical Righting
-* **Test:** Blindfold child (Labyrinthine) or open eyes (Optical), suspend vertically and tilt. Head orients to vertical.
-* **Significance:** * **Head Control:** Their emergence (2-4 months) correlates directly with the acquisition of head control.
-    * **Delay:** Indicates general developmental delay or hypotonia.
+|Reflex Type|Function|Appearance|Clinical Significance|
+|:--|:--|:--|:--|
+|**Righting Reflexes**|Orient head in space; align body with head|Birth – 6 months|Pre-requisite for head control and rolling.|
+|**Protective (Propping)**|Protect body from injury during falls|6 – 9 months|Essential for independent sitting.|
+|**Equilibrium Reactions**|Maintain balance when center of gravity shifts|6 months onwards|Essential for standing and walking.|
 
-### B. Landau Reflex
-* **Test:** Suspend infant horizontally in prone position.
-* **Response:** Extension of head, trunk, and hips ("Airplane posture").
-* **Timeline:** Appears 3 months, peaks 6-8 months, disappears 12-24 months.
-* **Clinical Significance:**
-    * **Hypotonia:** The infant collapses into an inverted "U" shape (Floppy infant).
-    * **Hypertonia/Spasticity:** Excessive extension or scissoring may be seen.
-    * **Absence:** Strong indicator of motor dysfunction (e.g., Cerebral Palsy).
+## Foundational Assessment: Postural Tone
 
-### C. Body-on-Body (BOB) & Neck-on-Body (NOB)
-* **Test:** Rotate the head to one side (NOB) or rotate the hips (BOB).
-* **Response:**
-    * *Immature (0-4 mo):* Log rolling (body turns as a solid block).
-    * *Mature (6+ mo):* **Segmental rolling** (shoulders rotate, then pelvis follows).
-* **Significance:** Segmental rolling indicates cortical maturation and the ability to dissociate body parts, essential for crawling and walking.
+Postural tone creates the required resistance to passive movement, serving as the prerequisite for postural reflexes.
 
-## 2. PROTECTIVE / PARACHUTE REACTIONS (Cortical Level)
-Also known as Propping reactions. These occur when the body is displaced such that the center of gravity moves outside the base of support.
+- **Traction Response:** Pull infant to sitting position. Normal term infant shows slight head lag, then head falls forward. Severe lag indicates hypotonia.
+- **Vertical Suspension:** Hold infant by axillae. Normal infant remains suspended with flexed lower extremities. Hypotonic infant slips through hands.
+- **Horizontal (Ventral) Suspension:** Hold infant prone over hand. Normal infant raises head and flexes limbs. Hypotonic infant drapes over hand forming an inverted "U" shape.
 
-### A. Anterior Parachute
-* **Test:** Suddenly thrust the infant downwards towards the surface while holding the waist.
-* **Response:** Extension of arms and opening of hands to break the fall.
-* **Timeline:** Appears 6 months; Persists.
-* **Clinical Significance:**
-    * **Asymmetry:** The most sensitive sign for mild **Hemiplegia**. The arm on the affected side will not extend or will extend slowly with a fisted hand.
-    * **Absence:** Seen in severe quadriparesis or severe cognitive delay.
+## Righting Reflexes
 
-### B. Lateral and Posterior Propping
-* **Timeline:** Lateral (7 months), Posterior (9 months).
-* **Significance:**
-    * Determines the readiness for **Independent Sitting**. A child cannot sit safely alone until lateral propping is established (Tripod sitting).
-    * Posterior propping allows the child to pivot while sitting.
+- **Level of Control:** Midbrain.
+- **Role:** Maintain head in vertical position; align body segments.
 
-## 3. EQUILIBRIUM REACTIONS (Cortical Level)
-These are subtle adjustments of trunk tone to maintain balance when the supporting surface is tilted.
+### Labyrinthine and Optical Righting
 
-* **Test:** Tilt the child on a rocker board or bed.
-* **Response:** Curving of the trunk *against* the tilt and extension of extremities on the uphill side (to shift center of gravity back).
-* **Significance:**
-    * Prerequisite for **Standing and Walking**.
-    * If a child has righting and protective reflexes but lacks equilibrium reactions, they may stand but will fall frequently.
+- **Test:** Blindfold child (Labyrinthine) or keep eyes open (Optical); suspend vertically and tilt.
+- **Response:** Head orients to vertical axis.
+- **Timeline:** Emerges 2–4 months.
+- **Significance:**
+    - Correlates directly with acquisition of head control.
+    - Delay indicates general developmental delay or marked hypotonia.
 
-## SUMMARY OF CLINICAL UTILITY
+### Landau Reflex
 
-### 1. Early Diagnosis of Cerebral Palsy (CP)
-The "Motor Quotient" for CP diagnosis relies on the interplay of reflexes:
-* **Classic CP Pattern:** Retention of Primitive Reflexes (e.g., ATNR, Moro) + **Delayed/Absent Postural Reflexes**.
-* *Example:* A 9-month-old with a persistent Moro and absent Parachute reflex has a high probability of CP.
+- **Test:** Suspend infant horizontally in prone position.
+- **Response:** Extension of head, trunk, and hips ("Airplane posture").
+- **Timeline:** Appears 3 months; peaks 6–8 months; disappears 12–24 months.
+- **Diagnostic Significance:**
+    - **Hypotonia:** Infant collapses into inverted "U" shape (Classic floppy infant sign).
+    - **Hypertonia/Spasticity:** Excessive extension or lower extremity scissoring.
+    - **Absence:** Strong indicator of motor dysfunction (e.g., Cerebral Palsy).
+    - **Prognostication:** Favorable prognostic sign for eventual standing.
 
-### 2. Localization of Lesions
-* **Asymmetry:** In Parachute or Placing reactions suggests hemiparesis.
-* **Level of Injury:**
-    * Absent Righting = Midbrain damage.
-    * Absent Equilibrium = Cortical/Basal Ganglia damage.
+### Body-on-Body (BOB) and Neck-on-Body (NOB)
 
-### 3. Prognostication
-* The timely appearance of postural reflexes is a better predictor of eventual ambulation than the mere disappearance of primitive reflexes.
-* The presence of the Landau reflex is a good prognostic sign for eventual standing.
+- **Test:** Rotate head to one side (NOB) or rotate hips (BOB).
+- **Response by Age:**
+    - _Immature (0–4 months):_ Log rolling (body turns as a solid block).
+    - _Mature (6+ months):_ Segmental rolling (shoulders rotate, then pelvis follows).
+- **Significance:** Segmental rolling indicates cortical maturation and ability to dissociate body parts. Essential prerequisite for crawling and walking.
+
+## Protective / Parachute Reactions
+
+- **Level of Control:** Cortical.
+- **Trigger:** Body displacement shifting center of gravity outside base of support.
+
+### Anterior Parachute
+
+- **Test:** Suddenly thrust infant downwards towards surface while holding waist.
+- **Response:** Extension of arms and opening of hands to break the fall.
+- **Timeline:** Appears 6–8 months; fully developed 10–11 months; persists throughout life.
+- **Diagnostic Significance:**
+    - **Asymmetry:** Most sensitive sign for mild Hemiplegia. Affected arm extends slowly, fails to extend, or extends with fisted hand.
+    - **Absence:** Indicates severe quadriparesis or severe cognitive delay. Also signals delayed walking.
+
+### Lateral and Posterior Propping
+- **Test**: Displace body to shift center of gravity outside base of support.
+- **Response**: Observe for spontaneous arm extension and propping to prevent falling.
+- **Timeline:** Lateral appears 7 months; Posterior appears 9 months.
+- **Diagnostic Significance:**
+    - Determines readiness for independent sitting.
+    - Child cannot sit safely unassisted until lateral propping is established (Tripod sitting).
+    - Posterior propping allows child to pivot safely while sitting.
+
+## Equilibrium Reactions
+
+- **Level of Control:** Cortical.
+- **Trigger:** Subtle adjustments of trunk tone to maintain balance during supporting surface tilt.
+- **Test:** Tilt child on rocker board or bed.
+- **Response:** Curving of trunk _against_ the tilt; extension of extremities on the uphill side to shift center of gravity back.
+- **Diagnostic Significance:**
+    - Absolute prerequisite for standing and walking.
+    - Motor Discrepancy: Child exhibiting righting and protective reflexes but lacking equilibrium reactions may stand but will suffer frequent falls.
+
+## Clinical Utility and Diagnostics
+
+### Early Diagnosis of Cerebral Palsy (CP)
+
+- Diagnosis relies heavily on the "Motor Quotient" (interplay of primitive vs. postural reflexes).
+- **Classic CP Pattern:** Retention of Primitive Reflexes (e.g., ATNR, Moro) combined with Delayed or Absent Postural Reflexes.
+- **Clinical Example:** 9-month-old infant with persistent Moro reflex and absent Parachute reflex possesses high probability of CP.
+
+### Localization of Neurological Lesions
+
+- **Hemiparesis:** Asymmetry in Parachute or Placing reactions.
+- **Midbrain Damage:** Absent Righting Reflexes.
+- **Cortical/Basal Ganglia Damage:** Absent Equilibrium Reactions.
+
+### Neuromotor Prognostication
+
+- Timely appearance of postural reflexes serves as a superior predictor of eventual ambulation compared to the mere disappearance of primitive reflexes.
+- Presence of Landau reflex acts as a strong positive predictor for eventual standing capability.

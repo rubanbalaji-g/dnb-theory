@@ -1,184 +1,144 @@
 ---
-{"dg-publish":true,"permalink":"/gastrointestinal/celiac-disease/","noteIcon":"","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/gastrointestinal/celiac-disease/","uptext":"Back to Index (🍴 Gastroenterology)","uplink":"/gastrointestinal/gastroenterology/","dgPassFrontmatter":true}
 ---
 
+## DEFINITION & EPIDEMIOLOGY
 
-## Definitions
-### Symptomatic
-- Frank malabsorption symptoms and signs
-- extraintestinal symptoms
-- positive CD-specific antibodies
-- small intestinal biopsy with mucosal damage
-### Silent CD
-- asymptomatic CD with positive CD-specific antibodies and small intestinal biopsy with severe mucosal damage consistent with CD
-### Potential CD
-- Potential CD is defined when patients have positive CD-specific antibodies, but with out documented small bowel damage 
-> [!faq] PYQ
-> 1. Aetiopathogenesis and diagnosis of celiac disease (DNB 2007/2)10
-> 2. Diagnosis and management of a child with Celiac Disease (DNB 2006/1)10
-> 3. How to diagnose a case of celiac disease? (DNB 2024/2)5 
-> 4. Diagnostic evaluation of celiac disease (DNB 2022/1)5 
-> 5. Diagnosis of Celiac disease (DNB 2019/1)5,(DCH 2024/1)5 
-> 6. Serological tests for celiac disease (DNB 2018/2)5
-## Etiopathogenesis
-- immune mediated systemic disorder
-- due to gluten in wheat and related protamines from rye and barley in genetically susceptible individuals
-- environmental factors play a role in the timing of presentation
-	- large amount of gluten in early age ⟶ earlier development of autoimmune disease
-	- lower amount of gluten in first 2 years ⟶ lower risk of CD
-- Other risk factors
-	- mode of delivery
-	- socioeconomic class
-	- season of birth
-	- use of drugs
-## Diagnosis of Celiac Disease / Serological testing
-- anti TG2 IgA antibodies and total IgA 
-	- if anti TG2 IgA and total IgA are both normal  ⟶ CD unlikely
-	- if anti TG2 IgA - positive ⟶ refer to pediatric gastroenterologist for further workup
-		- if anti TG2 IgA is 1x to 10x of normal ⟶ patient to undergo multiple biopsy
-		- if anti TG2 IgA is >10x of normal ⟶ obtain EMA titers - positive⟶ Celiac is confirmed - start on lifelong anti gluten diet
-		- if anti TG2 IgA is >10x of normal ⟶ obtain EMA titers - negative ⟶ Obtain duodenal biopsy
-	- If ↓ anti TG2 IgA ⟶ anti TG2 IgG testing
-- While doing biopsy at least four fragments should be obtained from the descending part of duodenum
-- HLA testing can be done in cases of uncertainty
-<img src=https://i.ibb.co/xtf8Y2K0/msedge-59-Sg7uu-Zdz.png>
+- **Definition:** T-cell-mediated chronic inflammatory enteropathy with autoimmune component. Triggered by ingestion of gluten in genetically susceptible individuals.
+- **Prevalence:** Approximately 1% in US and Europe. Higher seroprevalence in symptomatic pediatric populations.
+- **Demographics:** Female predominance (2-3:1). Can present at any age following gluten introduction.
 
-> [!faq] PYQ
-> 1. Explain the pathogenesis and diagnosis of celiac disease (DNB 2020/1)4 
-> 2. Pathophysiology, clinical manifestations and management of gluten sensitive enteropathy (DNB 2015/2)3+4+3 
-> 3. Pathogenesis of Celiac Disease (DNB 1997/2)15 
-> 4. Discuss evaluation of a child with suspected intestinal malabsorption. Describe genetics, pathogenesis, clinical spectrum and extra intestinal manifestations of celiac disease (DNB 2013/2)5+5 
+## PATHOPHYSIOLOGY
 
-## Genetics
-- genetic predisposition in monozygous twins approach 100%
-- Strongest HLA association
-	- HLA DQ2.5 (encoded by one or two molecules of HLA DQA1\*05  and HLA DQB1\*02)
-	- HLA DQ2.2 
-	- HLA DQ8 (DQA1\*0301/DQB1\*0302)
-## Pathogenesis
-- T cell mediated chronic inflammatory disorder with an autoimmune component
-- **Initial triggers** 
-    - Altered processing by intraluminal enzymes.
-    - Increased intestinal permeability.
-    - Activation of innate immunity mechanisms.
-- Gliadin ingestion
-	- resistant to digestion
-	- incomplete digestion enhances the immunomodulatory and toxic effects
-	- tTG2 converts glutamine to glutamic acid in gliadin peptides
-	- Enhances peptide binding affinity to HLA-DQ2/DQ8
-	- stimulate innate immunity - notably IL15 and IL21
-- IL15
-	- activation of lamina propria T cells
-	- Expression of NK receptors **CD94 and NKG2D**.
-- IL-21
-	- **Intraepithelial lymphocyte (IEL) homeostasis** is severely impaired.
-	- Dominated by **interferon-γ (Th1 skewed)**.
-- Enhanced cytotoxicity, apoptosis, and villous atrophy (flat mucosa on histology).
-- Other features
-	- TG2 can present in other tissues like liver, lymph nodes, and muscle
-## Clinical features
-- in the first two years
-	- failure to thrive
-	- chronic diarrhea
-	- vomiting
-	- muscle wasting
-	- anorexia
-	- irritability
-	- abdominal distension
-- Extraintestinal manifestation
-	- Iron Deficiency Anemia unresponsive to iron therapy
-	- osteoporosis
-	- short stature
-	- delayed puberty
-	- osteoporosis
-	- aphthous stomatitis
-	- pancytopenia
-	- peripheral neuropathy
-	- enamel hypoplasia
-- Other disease associations
-	- Type 1 DM
-	- Addison's
-	- Autoimmune thyroid
-	- Sjogren
-	- Rheumatic Arthritis
-	- autoimmune cholangitis
-	- autoimmune hepatitis
-	- primary biliary cholangitis
-	- JIA
+- **Environmental Trigger:** Gluten (found in wheat, rye, barley). Composed of gliadins and glutenins.
+- **Peptide Resistance:** High glutamine and proline content prevents complete enzymatic digestion in gastrointestinal tract.
+- **Permeability:** Gliadin enhances paracellular permeability (zonulin-mediated pathway), crossing intestinal epithelium into lamina propria.
+- **Deamidation:** Tissue transglutaminase 2 (tTG) deamidates gliadin peptides.
+- **Antigen Presentation:** Deamidated peptides exhibit high affinity for HLA-DQ2 or HLA-DQ8 molecules on antigen-presenting dendritic cells.
+- **Immune Activation:** Presentation to CD4+ T-cells drives TH1-predominant cytokine response (Interferon-gamma, IL-15, IL-21).
+- **Mucosal Damage:** Cascade results in intraepithelial lymphocytosis, crypt hyperplasia, and villous atrophy.
+- **Autoantibody Production:** B-cells produce celiac-specific antibodies: anti-tTG, anti-endomysial (EMA), and anti-deamidated gliadin peptide (DGP).
 
-> [!faq] PYQ
-> 1. Management of coeliac crisis (DNB 2024/2)5
+## GENETICS & ASSOCIATIONS
 
-## Management
-### **Gluten-Free Diet (GFD)**
-- **Only effective treatment**: Lifelong, strict adherence to a gluten-free diet.
-- Requires elimination of:
-    - **Wheat**
-    - **Barley**
-    - **Rye**
-- Use only rice, corn, maize, buckwheat, millet, amaranth, quinoa, sorghum, potato or potato starch, soybean, tapioca, and teff, bean, and nut flours.
-- **Oats**:
-    - Generally safe for most CD patients.
-    - Risk of **gluten contamination** during harvesting, milling, and shipping.
-### **Gluten Thresholds**
-- **Codex Alimentarius Guidelines**:
-    - Gluten-free defined as **<20 ppm** (20 mg/kg).
-- Tolerable daily gluten intake:
-    - Suggested threshold: **<50 mg/day**.
-### **Risks of Untreated CD**
-- **Silent CD** (no symptoms but positive serology):
-    - Risks include **osteopenia**, **autoimmune disorders**, and **intestinal lymphoma**.
-- **Potential CD**:
-    - TG2 antibodies present without histologic damage.
-    - Requires:
-        - Confirmation of adequate gluten intake.
-        - Proper biopsy orientation.
-        - Monitoring at a **tertiary medical center**.
-### **Dietary Counseling and Monitoring**
-- Education by an **experienced dietitian** is essential.
-- Adolescents may struggle with compliance:
-    - Monitor for **depression**.
-    - Refer to **psychology/adolescent medicine** if needed.
-- **Regular follow-up**:
-    - Assess symptoms, growth, physical exam, and diet adherence.
-    - Recommended blood tests at diagnosis:
-        - CBC, liver panel, thyroid function, calcium, vitamin D, iron, ferritin.
-    - Follow abnormal values until normalized.
-- **TG2 antibody levels**:
-    - Used to monitor adherence to GFD.
-    - May take **2–3 years to normalize**.
-    - Check every **1–2 years** after normalization or sooner if symptoms arise.
-- **Commercial tests**:
-    - Detect gluten peptides in **urine/stool**.
-    - Under investigation for validation.
-### **Emerging Therapies**
-- Clinical trials underway for treatments targeting:
-    - **IL-15**
-    - **IL-21**
-    - **Gluten degradation**
+- **Genetic Susceptibility:** >95% possess HLA-DQ2 allele (HLA-DQA1*05/DQB1*02); remainder possess HLA-DQ8.
+- **Heritability:** 75% concordance in monozygotic twins; 10% prevalence among first-degree relatives.
 
-> [!faq] PYQ
-> 1. Define non-responsive celiac disease and refractory celiac disease (DNB 2020/1)4+2
-## **Refractory or Nonresponsive CD**
-- persistent of symptoms of atrophy of intestinal villi after ≥ 12 months of strict gluten free diet
-- rare in children compared to older patients 
-- Types 
-	- type 1
-		- less severe
-		- endoscopic and histological features similar to those in uncomplicated active celiac disease
-	- type 2
-		- severe malnutrition with wasting
-		- protein losing enteropathy
-		- ulcerative jejunitis 
-- Requires a **systematic diagnostic approach**:
-    - Confirm diagnosis.
-    - Rule out alternate diagnosis
-	    - malabsorption syndromes
-	    - autoimmune enteropathy
-	    - small bowel intestinal overgrowth
-	    - milk protein allergy
-	    - pancreatic insufficiency
-    - Assess dietary compliance 
-    - look for gluten contamination
-    - Explore therapeutic options.
-- Consider open-capsule budesonide or prednisolone as first line therapy
+### High-Risk Associated Conditions
+
+Screening recommended for asymptomatic children with:
+
+- Type 1 Diabetes Mellitus (10% prevalence)
+- Autoimmune thyroid disease (Hashimoto, Graves)
+- Selective IgA deficiency
+- Down syndrome, Turner syndrome, Williams-Beuren syndrome
+- Autoimmune liver disease
+- Juvenile idiopathic arthritis
+
+## CLINICAL PRESENTATION (OSLO DEFINITIONS)
+
+Spectrum ranges from severe malabsorption to asymptomatic.
+
+|Classification|Clinical Features & Nuances|
+|:--|:--|
+|**Classic (Malabsorptive)**|Early onset (9–24 months). Chronic diarrhea, weight loss, failure to thrive, abdominal distension, muscle wasting, anorexia, irritability, vomiting.|
+|**Nonclassic (Extra-intestinal)**|Later childhood/adolescence presentation. Short stature, delayed puberty, refractory iron deficiency anemia, dental enamel hypoplasia, recurrent aphthous stomatitis, osteoporosis, dermatitis herpetiformis, hypertransaminasemia, arthritis, alopecia areata.|
+|**Subclinical / Silent**|No apparent signs/symptoms triggering evaluation; diagnosed via screening of high-risk groups (positive serology & histology).|
+|**Potential**|Positive celiac serology; normal small intestinal mucosa. May or may not develop enteropathy later.|
+|**Refractory**|Persistent/recurrent malabsorptive symptoms and villous atrophy despite strict gluten-free diet >12 months. Rare in children.|
+
+### Celiac Crisis
+
+- Rare, acute, life-threatening presentation.
+- Explosive diarrhea, profound hypoproteinemia, metabolic acidosis, severe dehydration, lethargy.
+
+## DIAGNOSTIC EVALUATION
+
+Testing mandates concurrent gluten-containing diet.
+
+### 1. Serological Testing
+
+- **First-line Screen:** Tissue transglutaminase (tTG) IgA + Total Serum IgA.
+    - _Note:_ Total IgA excludes Selective IgA Deficiency (2% of celiac patients).
+- **IgA Deficient Patients:** Evaluate using IgG-based assays (IgG tTG, IgG DGP, or IgG EMA).
+- **Anti-Endomysial Antibody (EMA) IgA:** High specificity; observer-dependent immunofluorescence assay. Used as confirmatory test.
+- **Deamidated Gliadin Peptide (DGP):** Useful adjunct, especially IgG DGP in IgA-deficient patients or children <2 years old.
+
+### 2. ESPGHAN 2020 No-Biopsy Algorithm
+
+Diagnosis confirmed _without_ duodenal biopsy if ALL criteria met:
+
+- Symptomatic or asymptomatic child.
+- Initial tTG-IgA titer $\ge$ 10x Upper Limit of Normal (ULN).
+- Positive EMA-IgA drawn on a _second, separate_ blood sample.
+- _Note:_ HLA typing no longer mandatory for no-biopsy pathway.
+
+### 3. Endoscopy & Histology
+
+Gold standard when no-biopsy criteria unmet (tTG-IgA <10x ULN).
+
+- **Endoscopic Markers:** Scalloping of duodenal folds, mosaic pattern, nodularity, loss of circular folds, visible submucosal vessels. (50% sensitivity; normal appearance does not exclude disease).
+- **Biopsy Protocol:** Minimum 4 biopsies from distal duodenum + 1-2 biopsies from duodenal bulb (disease may be patchy or isolated to bulb).
+
+#### Modified Marsh-Oberhuber Histological Classification
+
+|Stage|Description|Histological Findings|
+|:--|:--|:--|
+|**Type 0**|Pre-infiltrative|Normal mucosa.|
+|**Type 1**|Infiltrative|Normal villous architecture; Increased intraepithelial lymphocytes (IELs >30/100 enterocytes).|
+|**Type 2**|Hyperplastic|Increased IELs + Crypt hyperplasia.|
+|**Type 3a**|Destructive (Mild)|Increased IELs + Crypt hyperplasia + Mild villous atrophy.|
+|**Type 3b**|Destructive (Moderate)|Increased IELs + Crypt hyperplasia + Marked villous atrophy.|
+|**Type 3c**|Destructive (Severe)|Increased IELs + Crypt hyperplasia + Total flattening of villi.|
+
+### 4. Genetic Testing (HLA DQ2/DQ8)
+
+- High negative predictive value.
+- Absence of DQ2/DQ8 makes celiac disease highly unlikely.
+- Useful for excluding disease in diagnostically uncertain cases or screening at-risk groups (Down syndrome, T1DM) to eliminate need for future serologic screening.
+
+## DIFFERENTIAL DIAGNOSIS
+
+|Category|Conditions|
+|:--|:--|
+|**Mucosal Damage / Enteropathy**|Autoimmune enteropathy, Crohn disease, Eosinophilic gastroenteritis, Tropical sprue, Cow's milk protein allergy.|
+|**Digestive/Enzyme Deficiency**|Lactose malabsorption, Sucrase-isomaltase deficiency, Cystic fibrosis (pancreatic insufficiency).|
+|**Non-Celiac Gluten Sensitivity**|GI/non-GI symptoms upon gluten ingestion, lacking enteropathy and lacking specific autoantibodies.|
+
+## MANAGEMENT
+
+Strict, lifelong elimination of gluten remains the sole medical therapy.
+
+### 1. Dietary Intervention
+
+- **Gluten-Free Diet (GFD):** Absolute avoidance of wheat, rye, barley, and derivatives (triticale, kamut, spelt, malt).
+- **Threshold:** Daily gluten intake must remain <10-50 mg to prevent histological damage.
+- **Oats:** Pure, uncontaminated oats are safe and tolerated by majority; add sequentially after disease remission.
+
+### 2. Nutritional Rehabilitation
+
+- Screen for and treat micronutrient deficiencies: Iron, Folate, Vitamin D, Calcium, Vitamin B12.
+- Lactose Avoidance: Transient secondary lactase deficiency common at diagnosis due to villous brush-border damage. Implement low-lactose diet temporarily.
+- Assess bone health (DEXA scan) if classical severe malabsorptive symptoms present.
+
+### 3. NIH "CELIAC" Mnemonic for Management
+
+- **C:** Consultation with skilled dietitian.
+- **E:** Education about disease.
+- **L:** Lifelong adherence to GFD.
+- **I:** Identification/treatment of nutritional deficiencies.
+- **A:** Access to advocacy group.
+- **C:** Continuous long-term follow-up.
+
+### 4. Long-Term Monitoring
+
+- Assess dietary compliance, growth (BMI, height velocity), and symptom resolution.
+- Serial tTG-IgA testing at 6 months, then annually. Titers should decline/normalize within 12 months on strict GFD.
+- Follow-up intestinal biopsy not routinely indicated if clinical and serological response achieved.
+
+## COMPLICATIONS & PROGNOSIS
+
+- **Nonresponsive Celiac Disease:** Persistent symptoms/serology. Most common cause: intentional or inadvertent ongoing gluten ingestion.
+- **Growth Failure:** Untreated disease results in permanent short stature. Excellent catch-up growth typically observed if treated before puberty.
+- **Malignancy Risk:** Enteropathy-associated T-cell lymphoma (EATL) or small bowel adenocarcinoma. Increased risk in adulthood if untreated; minimized to baseline population risk with strict GFD compliance.
+- **Autoimmune Propagation:** Continued gluten exposure hypothesized to increase risk of concurrent autoimmune diseases (T1DM, thyroiditis).

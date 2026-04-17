@@ -2,7 +2,6 @@
 {"dg-publish":true,"uplink":"/neurology/neurology/","uptext":"Back to Index (Neurology)","permalink":"/neurology/importance-of-fundoscopy/","dgPassFrontmatter":true}
 ---
 
-
 ## A. GENERAL IMPORTANCE IN NEUROLOGICAL DISORDERS 
 The retina is embryologically an extension of the diencephalon; thus, the fundus is the only location where the Central Nervous System (CNS) and its vasculature can be visualized directly and non-invasively.
 ### 1. Assessment of Intracranial Pressure (ICP)

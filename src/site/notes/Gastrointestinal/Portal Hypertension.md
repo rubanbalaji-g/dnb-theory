@@ -1,226 +1,95 @@
 ---
-{"dg-publish":true,"permalink":"/gastrointestinal/portal-hypertension/","noteIcon":"","created":"2025-02-27T21:44:00","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/gastrointestinal/portal-hypertension/","noteIcon":"","created":"2025-02-27T21:44:00","uptext":"Back to Index (🍴 Gastroenterology)","uplink":"/gastrointestinal/gastroenterology/","dgPassFrontmatter":true}
 ---
 
+## Definition And Pathophysiology
 
-# Definition
-- pressure gradiant between PV and IVC of more than 10-12 mm Hg
-	- if >10mm Hg - varices
-	- if >12 mm Hg variceal bleed and ascites
-	- if 6-12 mm Hg - subclinical PHTN
-- Intrasplenic pressure >17 mm Hg
-- Hepatic vein pressure gradient > 4 mm Hg
-# causes
-- MC - [[Gastrointestinal/Portal Hypertension#EHPVO\|EHPVO]]
-- Cirrhosis
-## prehepatic
-- portal vein agenesis/ atresia
-- portal vein thrombosis
-- spleenic vein thrombosis
-- AV fistula
-- biliary atresia
-## intra hepatic
-- cong hepatic fibrosis
-- liver cirrhosis
-- NCPF
-- non alcholic fatty liver
-- nodular regenerative hyperplasia
-- wilson disease
-- metabolic liver disease
-- autoimmune hepatitis
-## post hepatic
-- budd chiari
-- venoocclusive disease
-- busulfan induced
-- hypercoagulable states
-- constrictive disease
-# presentation
-- gastrointestinal bleeding
-	- well compensated in EHPVO unlike variceal bleed due to cirrhosis
-# pathophysiology
-- portal vein is formed by SMV and spleenic vein
-- spleenic vein is formed by IMV
-- varices - abnormal connection between systemic and portal circulation
-- develop when pressure is high in portal system to decompress it
-- sites (most to least common)
-	- lower esophagus
-	- stomach
-	- rectum
-	- peribiliary
-	- retroperitoneal
-	- bare area of liver
-- prone to bleeding due to their postition and exposure to food and acid
-	- in stomach this can cause vascular ectasia - <span style=color:lightgreen>congestive gastropathy</span>
-- sites around the splenorenal and retroperitoneal cause more compression symptoms
-### EHPVO
-- development of portal cavernoma in the absence of associated liver disease
-- obstruction of extrahepatic portal vein with or without the involvement of the intrahepatic portal vein
-- MC in india of PHTN
-## Causes
-- omphalitis
-- sepsis
-- UVC
-- dehydration
-- umblical sepsis
-- abdominal surgery
-- trauma
-- congenital anomalies of right and left vitelline veins
-- prothrombotic state
-## portal cavernoma
-### Causes
-- extrahepatic
-- intrahepatic
-- non cirrhotic portal fibrosis
-- congenital hepatic fibrosis
-- budd chiari syndrome
-# Clinical features
-- MC - variceal bleed
-- encephalopathy
-- SBP
-- Cirrhotic childrenn
-- non bleeding manifestations
-	- splenomegaly (second most common)
-	- anemia
-	- transient ascites
-	- hypersplenism
-	- epistaxis
-- portopulmonary hypertension
-- hepatopulmonary syndrome
-### portopulmonary hypertension
--  pulmonary arterial pressure greater than 25 mm Hg at rest or left ventricular end diastolic pressure less than 15 mm Hg 
-- presents with
-	- clubbing
-	- cyanosis
-	- dyspnea
-	- spider nevi
-- histopathology
-	- laminar intimal fibrosis of pulmonary artery
-# H&P
-- h/o umblical sepsis, UVC, recurrent diarrhoes, trauma, abdominal surgery
-- h/o chronic liver disease lincluding maternal history of Hep B, hep c, 
-- h/o drug abuse and tattooing
-- h/o consangunity, family history, history of liver disease, wilson disease
-- h/o recurrent jaundice, high coloured urine, pale stool, ictching and steatorrhea
-### Examination clue
-- <span style=color:pink>small liver, splenomegaly without ascites and anterior abdominal veins - EHPVO</span>
-- <span style=color:violet>firm liver, splenomegaly, ant. abdominal vein, with ascites - Cirrhosis</span>
-- <span style=color:pink>dysmorphic facies - Alagille syndrome</span>
-- <span style=color:violet>Pruritogenic skin marks, thick hyperpigmented skin over extremities - cholestasis</span>
-- <span style=color:violet>children, firm liver well appreciated below xiphisternum with moderate splenomegaly - congenital hepatic fibrosis</span>
-- <span style=color:pink>similar presentation in young adult - NCPF</span>
-- <span style=color:violet>tender hepatomegaly, ascites, dialated abdominal wall veins and presence of veins over the back - budd chiary syndrome</span>
-- <span style=color:pink>elevated jugular vein pulsation, tender hepatomegaly - cardiac cirrhosis</span>
-## investigation
-- CBC 
-	- low Hb due to blood loss or impared absorbtion due to PHTN
-	- pancytopenia or bicytopenia  due to hypersplenism
-- LFT
-	- normal in Non cirrhotic
-	- reversal of albumin globulin ration indicated chronic liver disease
-- USG
-	- size of liver 
-	- surface of liver
-	- collaterals
-		- doppler can demonstrate the flow of blood 
-		- reversal of portovenous flow (heptaofugal) has been assocaited with varices
-	- spleen
-	- <span style=color:violet>spleenomegaly, omental thickening and splenorenal collaterals - chronic portal hypertension</span>
-	- <span style=color:pink>altered or increased liver echoes, spleenomegaly, dialted portal vein with or without ascites - Cirrhosis</span>
-	- <span style=color:violet>presence of hepatic venous outlow tract obstruction iwth or without IVC obstruction - BCS</span>
-	- <span style=color:pink>liver cyst, renal cyst and colletrals - congenital heptic fibrosis </span>
-	- <span style=color:violet> biliary dialtion with similar features - cholangitic CHF</span>
-	-  <span style=color:pink>altered liver echoes and dialted hepatic veins</span>
-- Upper GI endoscopy
-### UGI grading
-![Grading of varices](https://i.ibb.co/5WKVPWTg/d5HYpNQ.png)
--  CECT
-	- not required routinely
-	- selective arteriography of specifuc vessels
-	- required in liver transplant
-	- advantage of displaying varices and parenchymal hepatic abnormalities
-- MRCP
-	- done in chidren with portal bilopathy, cholangitic type of portal bilopathy, cholangitic type of portal vein hypertension
-	- to also look for vascular anomaly
-- prothrombotic workup
-	- in familial cases
-- serum ceruloplasmin
-- KF ring
-- 24 hour urinary copper
-- Viral markers
-- serum bile acids
-- GGT
-- Cholestrol
-- liver biopsy
-	- autoimmune, wilsons
-# Management
-## Variceal bleed
+### Core Definition
 
-<img src=https://i.ibb.co/LzT137YB/mHhP6mR.png>
+- Portal pressure >10-12 mm Hg or hepatic venous pressure gradient (HVPG) >4 mm Hg.
+- Clinically significant portal hypertension exists when pressure exceeds 10-12 mm Hg, posing risk for variceal hemorrhage.
+- Governed by Ohm's law: ΔP = Q x R (Portal pressure = Portal blood flow x Hepatic vascular resistance).
 
-- emergency treatment
-	- fluid resusitation
-	- PRBC transfusion
-	- avoid over transfusion - 7 to 9 mg/dl is a reasonable goal for hemoglobin
-	- PPI
-	- Vitamin K to stop bleeding
-- pharmacological
-	- vasopressin - 0.33 units/kg over 20 mins then followed by same dose hourly maintainance
-	- octreotide - 1 mcg/kg as slow bolus or 1-5 mcg/kg/h
-	- terlipressin
-- endoscopic
-	- ligation (preferred)
-		- application of tight band around the varices to cut off the blood flow
-		- less session needed
-		- less complications
-	- sclerotherapy (can be done in smaller children when banding is not possible)
-		- inject sclerosing agent into varices
-		- require multiple session
-		- control 80-90% bleed
-- balloon tamponade
-- primary prophylaxis
-	- before first bleeding
-	- proponolol - 20 mg BD - watch for bradycardia
-	- endoscopic variceal oblitration - every 2-4 weeks
-- secondary prophylaxis
-	- after first bleeding
-	- proponalol and nadalol
-	- 1-3 mg/kg/day
-	- MOA - block beta 2 receptor and splanchnic vasoconstricton
-- Surgery
-	- recurrent variceal bleed, failed endotheraphy
-	- decompressive shunt surgery
-	- splectomy - hyperslenism is not a indication
-		- indication - profound thrombocytopenia
-		- repeated infection
-		- physical discomfort caused by massive splenomegaly
-	- orthotopic liver transplant
-### TIPS
-- percutaneously created connection between liver and system
-- less invasive
-- indication
-	- acute variceal bleed not controlled medically
-	- recurrent variceal bleed
-	- refractory ascites
-	- portal decompression in budd chiari
-- contraindication
-	- right sided heart disease
-	- polycystic liver disease
-	- severe liver failure (relative)
-- complications
-	- obstruction of shunt
-	- vascular injury
-	- biliary injury
-	- dislocation of shunt
-	- gi bleed
-	- massive spleenomegaly
-	- ascites
-	- hepatopulmonary syndrome
-	- portopulmonary syndrome
-	- growth failure
-	- portal biliopathy
-### Portal biliopathy
-- compression of bile duct due to varices around the common bile duct resulting in ischemia
-- lead to strictures, stone in bile duct, obstructive jaundice, cholangitis
-- treatment
-	- shunting
-	- endoscopic sphincterotomy
+### Pathomechanisms
+
+- **Increased Vascular Resistance (R):**
+    - Mechanical component (70%): Architectural derangement, fibrosis, nodular regeneration, thrombosis.
+    - Dynamic component (30%): Active contraction of myofibroblasts and hepatic stellate cells. Driven by imbalance between endogenous vasoconstrictors (endothelin-1, angiotensin II, norepinephrine, thromboxane A2) and vasodilators (reduced nitric oxide).
+- **Increased Portal Blood Flow (Q):**
+    - Hyperdynamic circulation driven by splanchnic vasodilation.
+    - Mediated by excessive release of endogenous vasodilators (nitric oxide, glucagon, vasoactive intestinal peptide).
+    - Results in sodium/water retention, hypervolemia, and increased cardiac output.
+
+## Etiological Classification
+
+|Category|Specific Disorders|
+|:--|:--|
+|**Prehepatic (Extrahepatic)**|Portal vein thrombosis (most common extrahepatic cause in children), portal vein agenesis/atresia/stenosis, splenic vein thrombosis, arteriovenous fistula.|
+|**Intrahepatic Presinusoidal**|Congenital hepatic fibrosis, non-cirrhotic portal fibrosis (idiopathic portal hypertension), schistosomiasis, myeloproliferative diseases, focal nodular hyperplasia.|
+|**Intrahepatic Sinusoidal**|Liver cirrhosis (biliary atresia, Wilson disease, alpha-1-antitrypsin deficiency, cystic fibrosis, glycogen storage disease type IV, autoimmune hepatitis).|
+|**Intrahepatic Postsinusoidal**|Venoocclusive disease (sinusoidal obstruction syndrome).|
+|**Posthepatic**|Budd-Chiari syndrome (hepatic vein or inferior vena cava obstruction/webs), right heart failure, constrictive pericarditis, Fontan circulation.|
+
+## Clinical Manifestations
+
+### Primary Complications
+
+- **Gastrointestinal Hemorrhage:** Most common presentation. Hematemesis or melena originating from ruptured esophageal/gastric varices or portal hypertensive gastropathy.
+- **Splenomegaly And Hypersplenism:** Second most common finding. Causes sequestration of platelets and leukocytes, resulting in thrombocytopenia and leukopenia.
+- **Ascites:** Fluid accumulation when hydrostatic pressure exceeds osmotic pressure. Characterized by high serum-ascites albumin gradient (SAAG) $\ge$1.1 g/dL. Risk of spontaneous bacterial peritonitis.
+
+### Systemic And Extrahepatic Complications
+
+|System|Manifestations And Pathophysiology|
+|:--|:--|
+|**Pulmonary**|**Hepatopulmonary Syndrome (HPS):** Intrapulmonary microvascular dilations causing right-to-left shunting. Presents with hypoxemia, dyspnea, cyanosis, clubbing, orthodeoxia. Diagnosed via contrast-enhanced echocardiography or macroaggregated albumin scan.**Portopulmonary Hypertension (PP-HTN):** Pulmonary arterial hypertension (>25 mm Hg). Exertional dyspnea. Pulmonary arteriopathy with intimal fibrosis.|
+|**Renal**|**Hepatorenal Syndrome (HRS):** Intense renal vasoconstriction secondary to severe splanchnic vasodilation. Presents as oliguria, low urine sodium, rising creatinine.|
+|**Neurological**|**Hepatic Encephalopathy:** Especially in cirrhosis or prominent portosystemic shunting. Minimal hepatic encephalopathy compromises attention and psychomotor performance.|
+|**Biliary**|**Portal Hypertensive Biliopathy:** Compression of biliary tree by cavernomatous collaterals in extrahepatic portal venous obstruction (EHPVO), causing strictures and cholestasis.|
+
+## Diagnostic Evaluation
+
+### Non-Invasive Assessment
+
+- **Laboratory:** Thrombocytopenia (platelet count represents best non-invasive predictor of varices), altered coagulation (prothrombin time/INR), hypoalbuminemia, elevated transaminases/bilirubin (depending on underlying liver disease).
+- **Abdominal Ultrasonography With Doppler:** First-line modality. Defines vascular anatomy, portal vein patency, flow direction (hepatofugal flow suggests severe disease/bleeding risk), spleen size, ascites, and collateral vessels (cavernous transformation).
+- **CT/MR Angiography:** Delineates extrahepatic vascular anatomy, spontaneous shunts, and evaluates feasibility for surgical shunting.
+- **Transient Elastography:** Non-invasive surrogate for assessing liver/spleen stiffness to predict severe fibrosis and varices.
+
+### Invasive Assessment
+
+- **Esophagogastroduodenoscopy (EGD):** Gold standard for detecting and grading esophageal/gastric varices and portal hypertensive gastropathy. Predicts bleeding risk (red wale marks, large varices).
+- **Hepatic Venous Pressure Gradient (HVPG):** Measures difference between wedged (WHVP) and free (FHVP) hepatic venous pressures.
+    - Normal: 1-5 mm Hg.
+    - $\ge$10 mm Hg: Varices formation.
+    - $\ge$12 mm Hg: Variceal bleeding risk.
+    - _Utility:_ Differentiates sinusoidal PH (elevated WHVP, high HVPG) from presinusoidal PH (normal WHVP, normal HVPG).
+
+## Management Protocol
+
+### Acute Variceal Hemorrhage
+
+Medical emergency prioritizing hemodynamic stabilization and bleeding cessation.
+
+- **Resuscitation:** Intravenous crystalloids followed by packed red blood cells. Target hemoglobin 7-9 g/dL (avoid over-transfusion to prevent rebound portal pressure increase). Correct coagulopathy (vitamin K, fresh frozen plasma).
+- **Pharmacotherapy:**
+    - Vasoactive agents to decrease splanchnic blood flow: Octreotide (1 mcg/kg bolus, followed by 1-5 mcg/kg/hr continuous infusion), Terlipressin, or Vasopressin.
+    - Intravenous broad-spectrum antibiotics (cefotaxime/ceftriaxone) to prevent infectious complications.
+    - Acid suppression (intravenous proton pump inhibitors/H2-receptor antagonists).
+- **Endoscopic Intervention:** Endoscopic variceal ligation (EVL) preferred over sclerotherapy due to lower complication rates. Sclerotherapy utilized in infants too small for EVL banding device.
+- **Rescue Therapy:** Balloon tamponade (Sengstaken-Blakemore or Minnesota tube) for uncontrolled bleeding, serving as bridge to definitive intervention. Maximum inflation time 12 hours.
+
+### Prophylaxis Of Variceal Bleeding
+
+- **Primary/Secondary Prophylaxis:**
+    - Non-selective beta-blockers (propranolol, nadolol) lower cardiac output and induce splanchnic vasoconstriction. Usage in young children debated due to reliance on heart rate for maintaining cardiac output.
+    - Serial endoscopic band ligation or sclerotherapy until varices are completely obliterated.
+
+### Surgical And Interventional Therapy
+
+|Intervention|Indication And Mechanism|
+|:--|:--|
+|**Transjugular Intrahepatic Portosystemic Shunt (TIPS)**|Interventional radiology placement of stent between hepatic and portal vein. Bypasses liver resistance. Indicated for refractory variceal hemorrhage or intractable ascites. Used frequently as bridge to liver transplantation.|
+|**Meso-Rex Bypass**|Superior mesenteric vein to left portal vein bypass. Procedure of choice for extrahepatic portal vein obstruction (EHPVO). Restores physiologic hepatopetal flow, alleviating hypersplenism, bleeding risk, and resolving neurocognitive/growth retardation.|
+|**Portosystemic Shunts**|Distal splenorenal shunt (decompresses varices while maintaining hepatic flow; lower encephalopathy risk), mesocaval shunt, or portocaval shunt. Indicated in patients with preserved synthetic function failing endoscopic therapy.|
+|**Liver Transplantation**|Definitive, curative therapy for portal hypertension secondary to progressive end-stage cirrhotic liver disease, severe hepatopulmonary syndrome, or failed medical/surgical management.|

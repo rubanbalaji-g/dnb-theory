@@ -4,7 +4,7 @@
 
 ## Definition and Staging
 - Defined statistically based on distribution in healthy children.
-- Based on age, sex, and height percentiles (American Academy of Pediatrics [AAP] 2017 Guidelines).
+- Based on age, sex, and height percentiles (American Academy of Pediatrics 2017 Guidelines).
 - Revised normative data excludes overweight/obese children, lowering diagnostic cut-offs by 2-3 mm Hg.
 
 ### Clinic Blood Pressure Staging

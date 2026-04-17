@@ -11,34 +11,44 @@
 - Function: Optimizes diastolic coupling between right and left-sided cardiac chambers through transmission of intracavitary filling pressures.
 
 ## Acute Pericarditis
-
 ### Definition
-
 - Inflammation of pericardial layers.
 - Episode lasting <4-6 weeks.
 - Incessant pericarditis: Lasts >4-6 weeks without remission.
 - Recurrent pericarditis: New signs/symptoms following symptom-free interval of 4-6 weeks.
 - Chronic pericarditis: Lasts >3 months.
-
 ### Etiology
-
-|Category|Agents / Conditions|
-|:--|:--|
-|**Viral**|Enteroviruses (Coxsackievirus, echoviruses), Influenza, Herpesviruses (EBV, CMV, HHV-6), Adenovirus, Varicella, Mumps, Rubella, Parvovirus B19, Hepatitis B/C, HIV, COVID-19. Most common cause in developed nations.|
-|**Bacterial**|_Mycobacterium tuberculosis_ (most frequent worldwide/developing nations), _Staphylococcus aureus_, _Streptococcus pneumoniae_, _Haemophilus influenzae_, Meningococcus, _Mycoplasma_.|
-|**Fungal/Parasitic**|_Aspergillus_, _Candida_, _Histoplasma_, _Toxoplasma_, _Echinococcus_, _Trypanosoma cruzi_.|
-|**Autoimmune/Connective Tissue**|Acute rheumatic fever, Systemic Lupus Erythematosus (SLE), Juvenile Idiopathic Arthritis (JIA), Scleroderma, Sjogren syndrome, Systemic vasculitides. Periodic fever syndromes (Familial Mediterranean Fever, TRAPS).|
-|**Metabolic/Endocrine**|Uremia, Hypothyroidism, Gaucher disease.|
-|**Neoplastic**|Lymphoma, Leukemia, Primary/Secondary metastatic tumors, Radiation therapy.|
-|**Trauma/Injury**|Post-pericardiotomy syndrome, Post-myocardial infarction (Dressler syndrome), Direct penetrating trauma, Blunt thoracic injury.|
-|**Drug/Toxin**|Anthracyclines, Procainamide, Hydralazine, Isoniazid, Penicillins. Venoms (scorpion fish).|
-|**Idiopathic**|Accounts for 37-68% of pediatric cases. Presumed undiagnosed viral origin or immune response.|
+| Category                         | Agents / Conditions                                                                                                                                                                                                   |
+| :------------------------------- | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Viral**                        | Enteroviruses (Coxsackievirus, echoviruses), Influenza, Herpesviruses (EBV, CMV, HHV-6), Adenovirus, Varicella, Mumps, Rubella, Parvovirus B19, Hepatitis B/C, HIV, COVID-19. Most common cause in developed nations. |
+| **Bacterial**                    | _Mycobacterium tuberculosis_ (most frequent worldwide/developing nations), _Staphylococcus aureus_, _Streptococcus pneumoniae_, _Haemophilus influenzae_, Meningococcus, _Mycoplasma_.                                |
+| **Fungal/Parasitic**             | _Aspergillus_, _Candida_, _Histoplasma_, _Toxoplasma_, _Echinococcus_, _Trypanosoma cruzi_.                                                                                                                           |
+| **Autoimmune/Connective Tissue** | Acute rheumatic fever, Systemic Lupus Erythematosus (SLE), Juvenile Idiopathic Arthritis (JIA), Scleroderma, Sjogren syndrome, Systemic vasculitides. Periodic fever syndromes (Familial Mediterranean Fever, TRAPS). |
+| **Metabolic/Endocrine**          | Uremia, Hypothyroidism, Gaucher disease.                                                                                                                                                                              |
+| **Neoplastic**                   | Lymphoma, Leukemia, Primary/Secondary metastatic tumors, Radiation therapy.                                                                                                                                           |
+| **Trauma/Injury**                | Post-pericardiotomy syndrome, Post-myocardial infarction (Dressler syndrome), Direct penetrating trauma, Blunt thoracic injury.                                                                                       |
+| **Drug/Toxin**                   | Anthracyclines, Procainamide, Hydralazine, Isoniazid, Penicillins. Venoms (scorpion fish).                                                                                                                            |
+| **Idiopathic**                   | Accounts for 37-68% of pediatric cases. Presumed undiagnosed viral origin or immune response.                                                                                                                         |
 
 ### Clinical Features
 
-- **Chest Pain:** Central symptom. Sharp, stabbing, squeezing, or throbbing. Positional exacerbation. Worse supine, during inspiration, or coughing. Ameliorated sitting upright or leaning forward. Radiation to trapezius ridge common.
-- **Systemic Symptoms:** Fever, dyspnea, cough, malaise. Abdominal pain occasionally present from hepatic distention in rapidly accumulating effusions.
-- **Pericardial Friction Rub:** Pathognomonic physical finding. High-frequency, scratching, crunching sound. Result of friction between inflamed pericardial layers. Best auscultated at left lower sternal border. Accentuated with patient leaning forward or kneeling. Classically possesses three components: systolic, diastolic, and presystolic scratch. Absence does not exclude diagnosis, especially with large effusions causing muffled sounds.
+- **Chest Pain:** 
+	- Central symptom. 
+	- Sharp, stabbing, squeezing, or throbbing. Positional exacerbation. 
+	- Worse in supine, during inspiration, or coughing. 
+	- Ameliorated on sitting upright or leaning forward. 
+	- Radiation to trapezius ridge common.
+- **Systemic Symptoms:** 
+	- Fever, dyspnea, cough, malaise. 
+	- Abdominal pain occasionally present from hepatic distention in rapidly accumulating effusions.
+- **Pericardial Friction Rub:** 
+	- Pathognomonic physical finding. 
+	- High-frequency, scratching, crunching sound. 
+	- Result of friction between inflamed pericardial layers. 
+	- Best auscultated at left lower sternal border. 
+	- Accentuated with patient leaning forward or kneeling. 
+	- Classically possesses three components: systolic, diastolic, and presystolic scratch. 
+	- Absence does not exclude diagnosis, especially with large effusions causing muffled sounds.
 
 ### Diagnostic Criteria
 
@@ -57,12 +67,12 @@ Diagnosis requires presence of at least two of four criteria:
 - Sinus tachycardia frequently present. Low QRS voltage with large effusion.
 - Electrical alternans: Specific but insensitive sign. Related to anterior-posterior cardiac motion within effusion.
 
-|Stage|ECG Findings|
-|:--|:--|
-|**Stage 1**|PR segment depression. Generalized concave ST segment elevation in lateral/inferior leads (I, II, aVF, aVL, V4-V6). Reciprocal ST depression in aVR and V1.|
-|**Stage 2**|ST segment normalizes. J points on baseline. T wave amplitude begins flattening.|
-|**Stage 3**|ST segment remains normal. T wave inversion in lateral/inferior leads (aVF, aVL, V4-V6).|
-|**Stage 4**|Normalization of ECG. Some T wave changes may persist.|
+| Stage       | ECG Findings                                                                                                                                                |
+| :---------- | :---------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Stage 1** | PR segment depression. Generalized concave ST segment elevation in lateral/inferior leads (I, II, aVF, aVL, V4-V6). Reciprocal ST depression in aVR and V1. |
+| **Stage 2** | ST segment normalizes. J points on baseline. T wave amplitude begins flattening.                                                                            |
+| **Stage 3** | ST segment remains normal. T wave inversion in lateral/inferior leads (aVF, aVL, V4-V6).                                                                    |
+| **Stage 4** | Normalization of ECG. Some T wave changes may persist.                                                                                                      |
 
 #### Laboratory Biomarkers
 
@@ -81,18 +91,21 @@ Diagnosis requires presence of at least two of four criteria:
 - **CMR:** Essential for evaluating ambiguous echocardiography or suspected myocardial involvement.
     - Late Gadolinium Enhancement (LGE): Quantifies inflammation/fibrosis. Sensitivity ~94%.
     - T2-STIR sequences: Detects myocardial/pericardial edema. Classifies acute inflammation.
-    - Staging: Positive LGE + increased T2 = acute phase. Positive LGE + normal T2 = subacute phase. Negative LGE + elevated T2 = healed/burned-out phase.
+    - Staging: 
+	    - Positive LGE + increased T2 = acute phase. 
+	    - Positive LGE + normal T2 = subacute phase. 
+	    - Negative LGE + elevated T2 = healed/burned-out phase.
 - **CXR:** Evaluates for alternative etiologies (TB, neoplasia, pneumonia). Enlarged cardiac silhouette ("water bottle" or Erlenmeyer flask shape) seen in significant effusion. Normal cardiac silhouette does not exclude tamponade if fluid accumulated rapidly.
 
 ### Management
 
 #### Medical Therapy
 
-|Medication Class|Guidelines / Details|
-|:--|:--|
-|**NSAIDs + Colchicine**|First-line therapy. Colchicine disrupts tubulin, inhibits neutrophil chemotaxis/mobility. Proven efficacy preventing recurrences.|
-|**Corticosteroids**|E.g., Prednisone 0.2-0.5 mg/kg/day. Limit use. Associated with increased risk of disease recurrence, prolonged tapering, and corticosteroid-dependence. Reserved for incomplete response, failure of first-line agents, or known autoimmune etiologies.|
-|**IL-1 Receptor Antagonists**|Anakinra, Rilonacept. Highly effective in refractory, colchicine-resistant, or corticosteroid-dependent recurrent pericarditis.|
+| Medication Class              | Guidelines / Details                                                                                                                                                                                                                                 |
+| :---------------------------- | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **NSAIDs + Colchicine**       | First-line therapy. <br>Colchicine disrupts tubulin, inhibits neutrophil chemotaxis/mobility. <br>Proven efficacy preventing recurrences.                                                                                                            |
+| **Corticosteroids**           | E.g., Prednisone 0.2-0.5 mg/kg/day. <br>Associated with increased risk of disease recurrence, prolonged tapering, and corticosteroid-dependence. <br>Reserved for incomplete response, failure of first-line agents, or known autoimmune etiologies. |
+| **IL-1 Receptor Antagonists** | Anakinra, Rilonacept. <br>Highly effective in refractory, colchicine-resistant, or corticosteroid-dependent recurrent pericarditis.                                                                                                                  |
 
 #### Procedural and Lifestyle Management
 
@@ -125,8 +138,6 @@ Diagnosis requires presence of at least two of four criteria:
 - Pathophysiology: Autoimmune trigger from damaged pericardial/pleural tissues and exposed endogenous antigens.
 - Diagnosis: COPPS criteria (needs 2 of 5): Fever, pericardial/pleuritic pain, friction rub, pericardial effusion, pleural effusion with elevated CRP.
 - Treatment: NSAIDs + Colchicine for 4-6 weeks.
-
----
 
 ## Constrictive Pericarditis
 

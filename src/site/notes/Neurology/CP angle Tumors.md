@@ -12,8 +12,7 @@
 
 ### II. ANATOMY OF THE CEREBELLOPONTINE ANGLE
 Understanding the signs requires a detailed knowledge of the boundaries and contents of this space:
-
-1. **Boundaries:**
+![|300x300](https://upload.wikimedia.org/wikipedia/commons/2/2b/Gray705.png) ![Pasted image 20260417130617.png|300x300](/img/user/+%C4%B0mages/Pasted%20image%2020260417130617.png)
     * **Anterolateral:** Posterior surface of the petrous temporal bone.
     * **Posteromedial:** Anterolateral surface of the cerebellum and the pons.
     * **Superior:** Tentorium cerebelli.
@@ -71,9 +70,6 @@ Symptoms typically progress in a predictable sequence based on the "Centrifugal 
 * **Mechanism:** Dislocation of the brainstem causes compression of the Aqueduct of Sylvius or the 4th ventricle, leading to obstructive hydrocephalus.
 * **Triad:** Headache (worse in the morning), nausea/vomiting, and papilledema.
 * **Abducens Nerve (CN VI):** Diplopia due to lateral rectus palsy (often a "false localizing sign" from increased ICP).
-
-
-
 ### V. INVESTIGATIVE CORRELATION
 1. **Audiometry:** Pure Tone Audiometry (SNHL), Speech Audiometry (Roll-over phenomenon), and Brainstem Auditory Evoked Potentials (BAEP) showing increased I-V latency.
 2. **Vestibular Testing:** Caloric testing shows canal paresis on the affected side.

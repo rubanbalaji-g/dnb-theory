@@ -76,18 +76,29 @@ Occur in ~30% of patients. High risk with vegetations >10mm, fungal etiologies, 
 
 ### Modified Duke Criteria
 
-Definitive diagnosis requires: 2 Major OR 1 Major + 3 Minor OR 5 Minor criteria. Possible diagnosis requires: 1 Major + 1 Minor OR 3 Minor criteria.
+Definitive diagnosis requires: <br>2 Major OR <br>1 Major + 3 Minor OR <br>5 Minor criteria. 
 
-|Category|Specific Criteria|
-|:--|:--|
-|**Major Criteria**|**1. Positive Blood Culture:** Typical microorganisms (_VGS, S. aureus_, HACEK, Enterococci) from 2 separate cultures; OR persistently positive cultures (>12h apart); OR single positive culture for _Coxiella burnetii_ or Phase I IgG >1:800. **2. Positive Imaging for IE:** Echo showing vegetation, abscess, pseudoaneurysm, fistula, new partial dehiscence of prosthetic valve. OR Positive 18F-FDG PET/CT or SPECT/CT (in prosthetic valves >3 months post-op). OR Definite paravalvular lesions on Cardiac CT. **3. New Valvular Regurgitation**.|
-|**Minor Criteria**|**1. Predisposition:** Underlying heart disease, IV drug use. **2. Fever:** >38.0°C. **3. Vascular Phenomena:** Major arterial emboli, septic pulmonary infarcts, mycotic aneurysm, intracranial hemorrhage, conjunctival hemorrhages, Janeway lesions. **4. Immunologic Phenomena:** Glomerulonephritis, Osler nodes, Roth spots, Rheumatoid factor. **5. Microbiologic Evidence:** Positive blood culture not meeting major criteria, or serologic evidence of active infection.|
+Possible diagnosis requires: 
+1 Major + 1 Minor  OR
+3 Minor criteria.
+
+| Category           | Specific Criteria                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |
+| :----------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| **Major Criteria** | **1. Positive Blood Culture:** <br>Typical microorganisms (_VGS, S. aureus_, HACEK, Enterococci) from 2 separate cultures; OR <br>persistently positive cultures (>12h apart); OR <br>single positive culture for _Coxiella burnetii_ or Phase I IgG >1:800. <br>**2. Positive Imaging for IE:** <br>Echo showing vegetation, abscess, pseudoaneurysm, fistula, new partial dehiscence of prosthetic valve. OR <br>Positive 18F-FDG PET/CT or SPECT/CT (in prosthetic valves >3 months post-op). OR <br>Definite paravalvular lesions on Cardiac CT. <br>**3. New Valvular Regurgitation**. |
+| **Minor Criteria** | **1. Predisposition:** Underlying heart disease, IV drug use. <br>**2. Fever:** >38.0°C. <br>**3. Vascular Phenomena:** Major arterial emboli, septic pulmonary infarcts, mycotic aneurysm, intracranial hemorrhage, conjunctival hemorrhages, Janeway lesions. <br>**4. Immunologic Phenomena:** Glomerulonephritis, Osler nodes, Roth spots, Rheumatoid factor. <br>**5. Microbiologic Evidence:** Positive blood culture not meeting major criteria, or serologic evidence of active infection.                                                                                          |
 
 ### Laboratory Diagnostics
 
-- **Blood Cultures:** Cornerstone of diagnosis. Obtain 3 sets of aerobic cultures from separate venipunctures. Timing relative to fever spikes irrelevant due to continuous bacteremia. Withhold antibiotics for 48h in stable patients to optimize yield.
-- **Molecular Diagnostics:** 16S rDNA (bacteria) or 18S rDNA (fungi) sequencing/PCR on resected valve tissue or blood. Highly valuable for Culture-Negative Endocarditis or prior antibiotic administration. Metagenomic next-generation sequencing (mNGS) utilized for atypical/fastidious organisms.
-- **Supportive Labs:** Elevated CRP, ESR, procalcitonin. Leukocytosis, normocytic normochromic anemia, thrombocytopenia. Hypocomplementemia, elevated Rheumatoid factor. Microscopic hematuria/proteinuria.
+- **Blood Cultures:** 
+	- Cornerstone of diagnosis. 
+	- Obtain 3 sets of aerobic cultures from separate venipunctures. 
+	- Timing relative to fever spikes irrelevant due to continuous bacteremia. 
+	- Withhold antibiotics for 48h in stable patients to optimize yield.
+- **Molecular Diagnostics:** 
+	- 16S rDNA (bacteria) or 18S rDNA (fungi) sequencing/PCR on resected valve tissue or blood. 
+	- Highly valuable for Culture-Negative Endocarditis or prior antibiotic administration. Metagenomic next-generation sequencing (mNGS) utilized for atypical/fastidious organisms.
+- **Supportive Labs:** 
+	- Elevated CRP, ESR, procalcitonin. Leukocytosis, normocytic normochromic anemia, thrombocytopenia. Hypocomplementemia, elevated Rheumatoid factor. Microscopic hematuria/proteinuria.
 
 ### Advanced Imaging
 

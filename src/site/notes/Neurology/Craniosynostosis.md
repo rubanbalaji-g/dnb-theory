@@ -26,19 +26,20 @@ Craniosynostosis is classified based on etiology and the number of sutures invol
 **3. Based on Clinical Association**
 * **Non-Syndromic:** Isolated anomaly (approx 75-85% of cases).
 * **Syndromic:** Associated with other extracranial anomalies/genetic syndromes (approx 15-25% of cases).
+
 ## Syndromes Associated with Craniosynostosis
 
 Most syndromic cases are Autosomal Dominant and involve mutations in Fibroblast Growth Factor Receptors (FGFR) or Transcription factors (TWIST).
 
 ### Major Craniosynostosis Syndromes (The "Big 5")
 
-| Syndrome | Gene / Locus | Inheritance | Key Clinical Features |
-| :--- | :--- | :--- | :--- |
-| **Crouzon Syndrome** | *FGFR2* (Exon 7, 9) | AD | • **Craniofacial:** Bicoronal synostosis (Brachycephaly), maxillary hypoplasia, proptosis (shallow orbits), hypertelorism, parrot-beak nose.<br>• **Limbs:** Normal hands/feet (Distinguishing feature from Apert).<br>• Normal intellect usually. |
-| **Apert Syndrome** | *FGFR2* (S252W, P253R) | AD | • **Craniofacial:** Turribrachycephaly, high prominent forehead, flat occiput, severe midface hypoplasia.<br>• **Limbs:** **Symmetrical complex syndactyly** of hands/feet ("Mitten hands/Sock feet").<br>• Intellectual disability is common. |
-| **Pfeiffer Syndrome** | *FGFR1* or *FGFR2* | AD | • **Craniofacial:** Brachycephaly, proptosis.<br>• **Limbs:** **Broad thumbs and great toes** (medially deviated).<br>• *Type 1:* Mild, normal intelligence.<br>• *Type 2/3:* Cloverleaf skull, severe proptosis, elbow ankylosis, poor prognosis. |
-| **Saethre-Chotzen Syndrome** | *TWIST1* (7p21) | AD | • **Craniofacial:** Brachycephaly or Plagiocephaly, low frontal hairline, facial asymmetry, ptosis.<br>• **Limbs:** Mild cutaneous syndactyly (digits 2-3), broad great toe.<br>• Distinctive ear crus prominence. |
-| **Carpenter Syndrome** | *RAB23* | **AR** | • **Craniofacial:** Tower skull (Acrocephaly).<br>• **Limbs:** Polydactyly, syndactyly.<br>• Obesity, hypogonadism, congenital heart defects. |
+| Syndrome                     | Gene / Locus           | Inheritance | Key Clinical Features                                                                                                                                                                                                                              |
+| :--------------------------- | :--------------------- | :---------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Crouzon Syndrome**         | *FGFR2* (Exon 7, 9)    | AD          | • **Craniofacial:** Bicoronal synostosis (Brachycephaly), maxillary hypoplasia, proptosis (shallow orbits), hypertelorism, parrot-beak nose.<br>• **Limbs:** Normal hands/feet (Distinguishing feature from Apert).<br>• Normal intellect usually. |
+| **Apert Syndrome**           | *FGFR2* (S252W, P253R) | AD          | • **Craniofacial:** Brachycephaly, high prominent forehead, flat occiput, severe midface hypoplasia.<br>• **Limbs:** **Symmetrical complex syndactyly** of hands/feet ("Mitten hands/Sock feet").<br>• Intellectual disability is common.          |
+| **Pfeiffer Syndrome**        | *FGFR1* or *FGFR2*     | AD          | • **Craniofacial:** Brachycephaly, proptosis.<br>• **Limbs:** **Broad thumbs and great toes** (medially deviated).<br>• *Type 1:* Mild, normal intelligence.<br>• *Type 2/3:* Cloverleaf skull, severe proptosis, elbow ankylosis, poor prognosis. |
+| **Saethre-Chotzen Syndrome** | *TWIST1* (7p21)        | AD          | • **Craniofacial:** Brachycephaly or Plagiocephaly, low frontal hairline, facial asymmetry, ptosis.<br>• **Limbs:** Mild cutaneous syndactyly (digits 2-3), broad great toe.<br>• Distinctive ear crus prominence.                                 |
+| **Carpenter Syndrome**       | *RAB23*                | **AR**      | • **Craniofacial:** Tower skull (Acrocephaly).<br>• **Limbs:** Polydactyly, syndactyly.<br>• Obesity, hypogonadism, congenital heart defects.                                                                                                      |
 
 ### Other Syndromes
 * **Muenke Syndrome (*FGFR3*):** Uni/bilateral coronal synostosis, sensorineural hearing loss.

@@ -48,7 +48,7 @@
 ```mermaid
 graph TD;
     A[Administer 100% Oxygen <br>via Oxygen Hood] --> B{Measure Arterial PaO2};
-    B -->|> 300 mm Hg| C[Healthy Newborn];
+    B -->|&gt; 300 mm Hg| C[Healthy Newborn];
     B -->|150 - 300 mm Hg| D[Noncardiac Etiologies: <br>Pulmonary disease, <br>CNS disorders, <br>Methemoglobinemia];
     B -->|100 - 150 mm Hg| E[Cyanotic CHD, <br>Mixing Lesions, <br>or PPHN];
     B -->|< 100 mm Hg| F[CHD with Decreased <br>Pulmonary Blood Flow];

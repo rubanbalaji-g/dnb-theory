@@ -19,13 +19,13 @@
 
 ### Molecular Mimicry Mechanism
 
-|Feature|Description|
-|:--|:--|
-|**Concept**|Host and micro-organism share T-cell epitopes.|
-|**Antigens**|GAS M protein and carbohydrate antigen ($N$-acetyl-$\beta$-D-glucosamine).|
-|**Host Targets**|Human cardiac myosin and laminin on heart valves.|
-|**Immune Response**|T-cell activation (CD4+). B-cell antibody production (IgM, IgG).|
-|**Endocardial Injury**|Humoral immune response damages endothelium. Expression of vascular cell adhesion molecule 1 (VCAM-1). CD4+, CD8+, and macrophages infiltrate connective tissue core. Neovascularization occurs.|
+| Feature                | Description                                                                                                                                                                                      |
+| :--------------------- | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Concept**            | Host and micro-organism share T-cell epitopes.                                                                                                                                                   |
+| **Antigens**           | GAS M protein and carbohydrate antigen ($N$-acetyl-$\beta$-D-glucosamine).                                                                                                                       |
+| **Host Targets**       | Human cardiac myosin and laminin on heart valves.                                                                                                                                                |
+| **Immune Response**    | T-cell activation (CD4+). B-cell antibody production (IgM, IgG).                                                                                                                                 |
+| **Endocardial Injury** | Humoral immune response damages endothelium. Expression of vascular cell adhesion molecule 1 (VCAM-1). CD4+, CD8+, and macrophages infiltrate connective tissue core. Neovascularization occurs. |
 
 ### Genetic Predisposition
 
@@ -36,6 +36,13 @@
 
 - Requires evidence of preceding GAS infection + 2 Major criteria OR 1 Major + 2 Minor criteria.
 - For ARF recurrences: 3 Minor criteria sufficient.
+### Population Definition 
+####  Low-Risk Populations
+- Acute rheumatic fever incidence <2 per 100,000 school-going children.
+- Rheumatic heart disease (RHD) prevalence <1 per 1,000 population.
+#### Moderate and High-Risk Populations
+- Rheumatic heart disease (RHD) prevalence ≥ 1 per 1,000 population.
+- Applies to populations not strictly meeting low-risk epidemiological thresholds.
 
 ### Essential Criteria
 
@@ -45,10 +52,10 @@
 
 ### Major and Minor Criteria (Stratified by Risk)
 
-|Criteria Category|Low-Risk Populations|Moderate/High-Risk Populations|
-|:--|:--|:--|
-|**Major**|- Carditis (clinical/subclinical) - Polyarthritis - Chorea - Erythema marginatum - Subcutaneous nodules|- Carditis (clinical/subclinical) - Monoarthritis, Polyarthritis, Polyarthralgia - Chorea - Erythema marginatum - Subcutaneous nodules|
-|**Minor**|- Polyarthralgia - Fever ($\ge$ 38.5°C) - ESR $\ge$ 60 mm/hr OR CRP $\ge$ 3.0 mg/dL - Prolonged PR interval|- Monoarthralgia - Fever ($\ge$ 38.0°C) - ESR $\ge$ 30 mm/hr OR CRP $\ge$ 3.0 mg/dL - Prolonged PR interval|
+| Criteria Category | Low-Risk Populations                                                                                                                    | Moderate/High-Risk Populations                                                                                                                         |
+| :---------------- | :-------------------------------------------------------------------------------------------------------------------------------------- | :----------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Major**         | - Carditis (clinical/subclinical) <br>- Polyarthritis <br>- Chorea <br>- Erythema marginatum <br>- Subcutaneous nodules                 | - Carditis (clinical/subclinical) <br>- Monoarthritis, Polyarthritis, Polyarthralgia <br>- Chorea <br>- Erythema marginatum <br>- Subcutaneous nodules |
+| **Minor**         | - Polyarthralgia or Monoarthritis<br>- Fever ($\ge$ 38.5°C) <br>- ESR $\ge$ 60 mm/hr OR CRP $\ge$ 3.0 mg/dL <br>- Prolonged PR interval | - Monoarthralgia <br>- Fever ($\ge$ 38.0°C) <br>- ESR $\ge$ 30 mm/hr OR CRP $\ge$ 3.0 mg/dL <br>- Prolonged PR interval                                |
 
 ## Clinical Manifestations
 
@@ -58,6 +65,8 @@
 - **Sydenham's Chorea:** Late manifestation (1-6 months post-infection). Semi-purposeful, jerky, involuntary movements. Emotional lability. Self-limiting course of 2-6 weeks.
 - **Subcutaneous Nodules:** Late manifestation. Painless, firm nodules over bony prominences (elbows, shins, occiput). Highly associated with severe carditis.
 - **Erythema Marginatum:** Early, rare. Faintly reddish, non-itching, serpiginous rash with pale centers. Predominantly on trunk.
+![Pasted image 20260412144702.png|250](/img/user/+%C4%B0mages/Pasted%20image%2020260412144702.png)
+Erythema Marginatum
 
 ### Cardiac Manifestations (Carditis & Chronic RHD)
 
@@ -68,8 +77,8 @@
 
 - Commonest manifestation of acute and chronic rheumatic carditis.
 - **Pathophysiology:** Annular dilatation, chordal elongation/rupture causing anterior leaflet prolapse, focal nodular leaflet thickening. Left atrial and ventricular volume overload.
-- **Hemodynamics:** Systolic leak into left atrium. Rapid filling in early diastole causes third heart sound (S3). Increased left atrial pressure leads to pulmonary congestion.
-- **Clinical Signs:** Displaced, hyperkinetic apex. Pansystolic murmur best heard at apex, radiating to axilla. Wide split S2. Carey Coombs murmur (soft delayed diastolic murmur) in acute phase.
+- **Hemodynamics:** Systolic leak into left atrium. Rapid filling in early diastole causes <span style="color:rgb(146, 208, 80)">third heart sound (S3)</span>. Increased left atrial pressure leads to pulmonary congestion.
+- **Clinical Signs:** Displaced, hyperkinetic apex. Pansystolic murmur best heard at apex, radiating to axilla. <span style="color:rgb(146, 208, 80)">Wide split S2</span>. <span style="color:rgb(0, 176, 240)">Carey Coombs murmur</span> (soft delayed diastolic murmur) in acute phase.
 
 #### Mitral Stenosis (MS)
 
@@ -95,7 +104,7 @@
 - Excludes subclinical carditis. Mandated in modern Jones Criteria.
 - **Acute Changes:** Annular dilation, chordal elongation, flail leaflet, anterior leaflet tip prolapse, beading/nodularity of leaflet tips.
 - **Chronic Changes:** Leaflet thickening, chordal thickening/fusion, restricted leaflet motion, calcification.
-- **MS Specifics:** "Hockey-stick" appearance of anterior mitral leaflet in diastole.
+- **MS Specifics:** <span style="color:rgb(146, 208, 80)">"Hockey-stick"</span> appearance of anterior mitral leaflet in diastole.
 - **Color Doppler:** Quantifies severity of regurgitant jets (jet length, peak velocity, pan-systolic/pan-diastolic nature).
 
 ### Electrocardiography (ECG)
@@ -126,13 +135,21 @@
 - **Anti-inflammatory Therapy:**
     - _Arthritis/Mild Carditis:_ High-dose Aspirin or NSAIDs (Naproxen).
     - _Severe Carditis (with CHF):_ Corticosteroids (Prednisone/Methylprednisolone) indicated to rapidly suppress inflammation, resolve friction rubs, and manage severe hemodynamic compromise.
-- **Heart Failure Management:** Diuretics (Furosemide) for volume overload. ACE inhibitors or Angiotensin Receptor Blockers (ARBs) for afterload reduction in severe regurgitation. Beta-blockers (Carvedilol). Digoxin in select cases. Caution with vasodilators to avoid hypotension.
-
+- **Heart Failure Management:** 
+	- Diuretics (Furosemide) for volume overload. 
+	- ACE inhibitors or Angiotensin Receptor Blockers (ARBs) for afterload reduction in severe regurgitation. 
+	- Beta-blockers (Carvedilol). Digoxin in select cases. Caution with vasodilators to avoid hypotension.
 ### Secondary Prophylaxis
 
 - Crucial to prevent recurrent ARF and progressive valvular damage.
 - **Regimen:** Intramuscular Benzathine Penicillin G every 3 to 4 weeks. (Every 2 weeks in highly endemic regions for patients <30 kg).
-- **Duration (AHA Guidelines):** | Patient Category | Recommended Duration | | :--- | :--- | | **ARF without carditis** | 5 years after last ARF episode OR until age 21 (whichever is longer). | | **ARF with carditis, NO residual RHD** | 10 years after last ARF episode OR until age 21 (whichever is longer). | | **ARF with carditis AND residual RHD** | 10 years after last ARF episode OR until age 40 (whichever is longer). Lifelong prophylaxis often required. |
+- **Duration (AHA Guidelines):** 
+
+|Patient Category | Recommended Duration |
+| :--- | :--- |
+| **ARF without carditis** | 5 years after last ARF episode OR until age 21 (whichever is longer). |
+| **ARF with carditis, NO residual RHD** | 10 years after last ARF episode OR until age 21 (whichever is longer). |
+| **ARF with carditis AND residual RHD** | 10 years after last ARF episode OR until age 40 (whichever is longer). Lifelong prophylaxis often required. |
 
 ### Surgical & Interventional Management
 

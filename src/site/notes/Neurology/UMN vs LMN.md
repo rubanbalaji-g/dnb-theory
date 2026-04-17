@@ -2,7 +2,7 @@
 {"dg-publish":true,"uplink":"/neurology/neurology/","uptext":"Back to Index (Neurology)","permalink":"/neurology/umn-vs-lmn/","dgPassFrontmatter":true}
 ---
 
-## 1. EXAMPLES OF LESIONS (Pediatric Context)
+## 1. EXAMPLES OF LESIONS
 
 ### Upper Motor Neuron (UMN) Lesions
 Involves the Corticospinal tracts from the Cortex to the synapse with the Anterior Horn Cell.

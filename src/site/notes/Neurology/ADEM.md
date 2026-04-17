@@ -4,47 +4,100 @@
 
 ## Introduction
 
-Acute disseminated encephalomyelitis (ADEM) is an acute, immune-mediated, perivenous demyelinating disorder of the central nervous system. It is characterized by a rapid onset of polyfocal neurological symptoms and signs. ADEM typically occurs in early childhood (mean age 5–8 years) and is predominantly a monophasic illness.
+- Acute, immune-mediated perivenous demyelinating disorder.
+- Characterized by rapid onset of neurological symptoms and signs.
+- Generally monophasic illness.
+- Primarily affects children (mean age 5–8 years).
 
-## Etiology and Pathogenesis
+## Etiology & Pathogenesis
 
-ADEM most frequently occurs 1 to 3 weeks following a viral illness or immunization.
+- Occurs 1–3 weeks post-precipitating viral illness or immunization.
+- Triggers cross-reactive immune response to infectious agent or vaccine.
+- Initiates inflammatory demyelinating response.
+- Autoantibodies to Myelin Basic Protein (MBP) and Myelin Oligodendrocyte Glycoprotein (MOG) detected in CSF/serum. MOG-Ab present in ~50% of affected children.
 
-- **Antecedent Infections:** Varicella (chickenpox) is a frequent antecedent, occurring in 1 in 4,000 to 10,000 cases. Other triggering infections include measles, rubella, mumps, influenza, parainfluenza, Epstein-Barr virus (EBV), human herpesvirus 6 (HHV-6), HIV, dengue, Zika, _Mycoplasma pneumoniae_, and recently COVID-19.
-- **Vaccinations:** Post-vaccinal encephalomyelitis rarely follows the administration of live measles vaccine, smallpox, Semple rabies, and Japanese encephalitis vaccines. Modern vaccines have significantly reduced this risk.
-- **Pathogenesis:** The condition is presumed to result from a cross-reactive immune response (molecular mimicry) to an infectious agent or vaccine, which triggers an inflammatory demyelinating response directed against myelin antigens. Approximately 50% of children with ADEM have circulating autoantibodies against myelin oligodendrocyte glycoprotein (MOG-Ab).
+### Common Triggers
+
+- **Viral Infections:** Measles (1 in 1000 cases), varicella (1 in 4000–10000), rubella, mumps, influenza, parainfluenza, Epstein-Barr virus (EBV), human herpesvirus 6 (HHV-6), HIV, dengue, Zika, COVID-19.
+- **Bacterial Infections:** _Mycoplasma pneumoniae_.
+- **Vaccinations:** Live measles, smallpox, Semple rabies, Japanese encephalitis. Modern vaccines reduce ADEM risk.
 
 ## Clinical Features
 
-The clinical course is rapidly progressive over hours to days.
+- Rapid progression over hours to days.
+- Follows viral illness or exanthem resolution.
 
-- **Hallmark Feature:** Encephalopathy is the hallmark of ADEM and cannot be explained by fever alone. It ranges from behavioral changes and persistent irritability to profound lethargy and coma.
-- **Initial Symptoms:** Reappearance of fever, headache, vomiting, and meningismus.
-- **Neurological Deficits:** Disseminated signs are consistently present. These include hemiparesis or paraparesis/quadriparesis, cranial nerve deficits, optic neuritis (often bilateral), visual loss, and sensory abnormalities.
-- **Other Manifestations:** Seizures (including status epilepticus), cerebellar ataxia (especially conspicuous in post-varicella ADEM), bladder/bowel disturbances, and myoclonus.
+### Hallmark Sign
 
-## Diagnostic Investigations
+- **Encephalopathy:** Essential diagnostic feature. Ranges from behavioral changes and persistent irritability to coma.
 
-There is no single biological marker for ADEM; diagnosis relies on clinical features supported by neuroimaging and cerebrospinal fluid (CSF) analysis.
+### Neurological Signs
 
-- **Neuroimaging (MRI Brain and Spine):** MRI is the modality of choice. It classically shows large, multiple, fluffy, and poorly demarcated T2 and FLAIR hyperintense lesions that are bilateral and asymmetric. Lesions predominantly involve the subcortical and central white matter, but frequently extend to deep gray matter structures (thalami, basal ganglia), brainstem, and the spinal cord. Contrast enhancement is variable. Follow-up MRI at 3–12 months typically demonstrates near-complete resolution with no new lesions.
-- **CSF Analysis:** May be normal or exhibit a mild lymphocytic or monocytic pleocytosis (usually <1000 cells/mm³, often $\ge$200 cells/µL) and mildly elevated protein (0.5–1.5 g/L). Unlike Multiple Sclerosis (MS), true oligoclonal bands (OCBs) are characteristically negative.
+- Fever, headache, meningismus.
+- Altered sensorium.
+- Seizures (partial/generalized, status epilepticus).
+- Hemiparesis/paraparesis.
+- Cranial nerve deficits.
+- Optic neuritis (typically bilateral).
+- Cerebellar ataxia (especially prominent post-varicella).
+- Bladder/bowel disturbances.
+- Myoclonus/involuntary movements.
+
+## Investigations
+
+### Neuroimaging
+
+- **MRI Brain/Spine:** Modality of choice. Multiple hyperintensities on T2/FLAIR images.
+- Lesions large, fluffy, poorly demarcated.
+- Involves cerebral white matter, basal ganglia, cortical grey matter, brainstem, cerebellum, and spinal cord.
+- Contrast enhancement variable.
+- **CT Scan:** Multiple hypodensities in white matter; may enhance with contrast.
+- **Follow-up MRI:** Complete/near-complete resolution typical at 3–12 months. No new lesions expected.
+
+### Cerebrospinal Fluid (CSF)
+
+- Often normal.
+- Mild lymphocytic pleocytosis (100–200 cells/cm³).
+- Mildly raised proteins (0.5–1.5 g/L).
+- Oligoclonal bands (OCB) typically negative (distinguishes from Multiple Sclerosis).
 
 ## Differential Diagnosis
 
-- **Multiple Sclerosis (MS):** Differentiating ADEM from a first attack of MS is crucial. ADEM occurs mostly in children <10 years, presents with fever, encephalopathy, and polysymptomatic features (e.g., bilateral optic neuritis), has negative CSF OCBs, and shows no new lesions on follow-up MRI. MS generally lacks encephalopathy, often presents monosymptomatically (e.g., unilateral optic neuritis), has positive OCBs, and shows temporal dissemination (new lesions) on follow-up MRI.
-- **Viral Encephalitis:** MRI in acute encephalitis usually produces lesions involving both gray and white matter directly due to viral invasion, whereas ADEM is post-infectious with prominent white matter demyelination. Differentiation can be difficult without a clear temporal history.
+- Viral Encephalitis.
+- Multiple Sclerosis (MS).
+
+### ADEM vs. Multiple Sclerosis (MS)
+
+|Feature|ADEM|Multiple Sclerosis (MS)|
+|:--|:--|:--|
+|**Age & Sex**|<10 years, Male = Female|>10 years, Female preponderance|
+|**Seizures**|Present|Absent|
+|**Encephalopathy**|Present|Absent|
+|**Fever/Vomiting**|Present|Absent|
+|**Optic Neuritis**|Bilateral|Unilateral|
+|**Symptoms**|Polysymptomatic|Monosymptomatic|
+|**CSF Profile**|Pleocytosis, OCB negative|Acellular, OCB positive|
+|**MRI Lesions**|Large, fluffy, poorly demarcated T2 lesions involving white and gray matter|Ovoid T2 lesions (juxtacortical, periventricular, infratentorial), T1 hypointense|
+|**MRI Follow-up (>30 days)**|No new lesions|New lesions seen|
 
 ## Management
 
-The therapeutic goal is to suppress the acute autoimmune response.
+### First-Line Therapy
 
-- **Corticosteroids (First-line):** High-dose intravenous steroids are the mainstay of therapy. The standard regimen is IV Methylprednisolone 20–30 mg/kg/day (maximum 1000 mg/day) or Dexamethasone 5 mg/kg/day for 5 days. This is followed by an oral prednisolone taper of 1–2 mg/kg/day (maximum 40–60 mg/day) over 4 to 6 weeks.
-- **Intravenous Immunoglobulin (IVIG):** Administered at 2 g/kg over 2–5 days. It may be used in refractory/severe cases or when differentiation from viral encephalitis is uncertain.
-- **Plasmapheresis:** 5–7 exchanges administered every other day may be utilized in severe cases refractory to steroids.
+- High-dose intravenous steroids.
+- Methylprednisolone 20–30 mg/kg/day (max 1000 mg/day) OR Dexamethasone 5 mg/kg/day for 5 days.
+- Followed by oral prednisolone taper (1–2 mg/kg/day) over 10–14 days (may extend 4–6 weeks).
 
-## Prognosis
+### Refractory/Severe Cases
 
-- ADEM is generally a monophasic illness with a favorable prognosis. Most children experience full motor recovery, though symptoms may fluctuate during the initial days. 
-- However, residual deficits such as cognitive impairment or behavioral changes are not uncommon. 
-- If a relapse occurs 3 months or more after the initial event, it is termed multiphasic disseminated encephalomyelitis (MDEM), which is almost exclusively associated with MOG-antibody positivity.
+- **Intravenous Immunoglobulin (IVIG):** 2 g/kg over 2–5 days. Useful if differentiation from viral encephalitis difficult.
+- **Plasmapheresis:** 5–7 exchanges administered every other day.
+
+## Prognosis & Variants
+
+- Mostly full motor recovery.
+- Residual deficits (cognitive impairment, behavioral changes) common.
+- Mortality 5–20% in severe cases.
+- **Acute Hemorrhagic Leukoencephalitis (Weston-Hurst disease):** Severe progression variant. Leukodystrophy-like MRI. Edema with mass effect. Polymorphonuclear cell pleocytosis.
+- **Multiphasic ADEM (MDEM):** Recurrence $\ge$ 3 months post-initial event. Almost exclusively MOG-Ab positive.
+- **ADEM-ON:** ADEM followed by isolated optic neuritis relapse. MOG-Ab associated.

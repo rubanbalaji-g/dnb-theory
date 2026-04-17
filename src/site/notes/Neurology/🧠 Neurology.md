@@ -5,12 +5,13 @@
 ## Basics
 1. [[Neurology/GCS in Infants\|GCS in Infants]]
 2. [[Neurology/UMN vs LMN\|UMN vs LMN]]
-3. [[Neurology/Postural Reflexes\|Postural Reflexes]]
-4. [[Neurology/Importance of Fundoscopy\|Importance of Fundoscopy]]
-5. [[Neurology/Microcephaly\|Microcephaly]]
-6. [[Neurology/Meningeal Irritation and Signs\|Meningeal Irritation and Signs]]
-7. [[Neurology/Internal Capsule - Applied Anatomy\|Internal Capsule - Applied Anatomy]]
-8. [[Neurology/Blood supp\|Blood supp]]
+3. [[Neurology/Primitive Reflexes\|Primitive Reflexes]]
+4. [[Neurology/Postural Reflexes\|Postural Reflexes]]
+5. [[Neurology/Importance of Fundoscopy\|Importance of Fundoscopy]]
+6. [[Neurology/Microcephaly\|Microcephaly]]
+7. [[Neurology/Meningeal Irritation and Signs\|Meningeal Irritation and Signs]]
+8. [[Neurology/Internal Capsule - Applied Anatomy\|Internal Capsule - Applied Anatomy]]
+9. [[Neurology/Blood supply of brain\|Blood supply of brain]]
 ## Development and Developmental Malformations
 1. [[Neurology/Development of Nervous System\|Development of Nervous System]]
 2. [[Neurology/Neural Tube Defects\|Neural Tube Defects]]
@@ -48,6 +49,7 @@
 4. [[Neurology/Meningitis\|Meningitis]]
 5. [[Neurology/Tubercular Meningitis\|Tubercular Meningitis]]
 6. [[Neurology/Brain Abscess\|Brain Abscess]]
+7. [[Neurology/GBS\|GBS]]
 ## Other topics
 1. [[Neurology/Neurocutaneous Syndromes (Phakomatoses)\|Neurocutaneous Syndromes (Phakomatoses)]]
 2. [[Neurology/Tuberous Sclerosis Complex (TSC)\|Tuberous Sclerosis Complex (TSC)]]

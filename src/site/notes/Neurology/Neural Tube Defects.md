@@ -31,29 +31,23 @@ Failure at this stage leads to **Open NTDs**.
 * Closure begins at the level of the future neck and proceeds cranially and caudally like a zipper.
 * **Anterior Neuropore** closes on Day 25 (failure results in Anencephaly).
 * **Posterior Neuropore** closes on Day 27-28 (failure results in Myelomeningocele).
-
 ### 2. Secondary Neurulation (Days 28-48)
 Failure at this stage leads to **Closed NTDs**.
 * Involves the formation of the lower sacral and coccygeal segments.
 * A mesenchymal cell mass (caudal cell mass) canalizes to join the primary neural tube.
-
 ### Pathogenesis Factors
 * **Genetic:** MTHFR (Methylenetetrahydrofolate reductase) gene polymorphisms.
 * **Environmental:** Maternal diabetes, obesity, hyperthermia, and teratogens (Valproate, Carbamazepine).
 
 ## PREVENTION
 Prevention is primarily focused on peri-conceptional Folic Acid supplementation.
-
 ### 1. Primary Prevention (Folic Acid)
 * **Low Risk (General Population):** 400 mcg (0.4 mg) daily starting at least 1 month prior to conception through the first trimester.
 * **High Risk (Previous child with NTD, Maternal Diabetes, Anticonvulsants):** 4 mg (4000 mcg) daily starting 3 months prior to conception.
-
 ### 2. Secondary Prevention (Prenatal Screening)
 * **Maternal Serum Alpha-Fetoprotein (MSAFP):** Elevated in 80-90% of Open NTDs (performed at 15-20 weeks).
 * **Targeted Ultrasound:** "Lemon sign" (scalloping of frontal bones) and "Banana sign" (curved cerebellum) indicate Chiari II malformation associated with myelomeningocele.
 * **Amniocentesis:** Elevated Acetylcholinesterase in amniotic fluid is diagnostic of ONTD.
-
----
 
 ## MANAGEMENT
 Management is multidisciplinary, involving Neonatologists, Neurosurgeons, Urologists, and Physiotherapists.

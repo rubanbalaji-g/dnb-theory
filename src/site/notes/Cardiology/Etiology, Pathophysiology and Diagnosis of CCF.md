@@ -11,10 +11,10 @@
 
 ### Causes by Age
 
-|Age Group|Causes|
-|:--|:--|
-|**Infants**|- Congenital heart disease (CHD) - Myocarditis and primary myocardial disease - Tachyarrhythmias, bradyarrhythmias - Kawasaki disease with coronary occlusion - Pulmonary hypertension (persistent pulmonary hypertension of newborn, primary, airway obstruction hypoxia) - Miscellaneous: Anemia, hypoglycemia, infections, hypocalcemia, neonatal asphyxia,.|
-|**Children**|- Rheumatic fever, rheumatic heart disease (typically >5 years) - CHD complicated by anemia, infection, or endocarditis - Systemic hypertension - Myocarditis, primary myocardial disease - Pulmonary hypertension (primary, secondary),.|
+| Age Group    | Causes                                                                                                                                                                                                                                                                                                                                                                             |
+| :----------- | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Infants**  | - Congenital heart disease (CHD) <br>- Myocarditis and primary myocardial disease <br>- Tachyarrhythmias, bradyarrhythmias <br>- Kawasaki disease with coronary occlusion <br>- Pulmonary hypertension (persistent pulmonary hypertension of newborn, primary, airway obstruction hypoxia) <br>- Miscellaneous: Anemia, hypoglycemia, infections, hypocalcemia, neonatal asphyxia. |
+| **Children** | - Rheumatic fever, rheumatic heart disease (typically >5 years) <br>- CHD complicated by anemia, infection, or endocarditis <br>- Systemic hypertension <br>- Myocarditis, primary myocardial disease <br>- Pulmonary hypertension (primary, secondary).                                                                                                                           |
 
 ### Time of Onset of CCF in CHD
 
@@ -27,7 +27,7 @@
 
 ### Correctable/Subtle Causes of CCF
 
-- Sustained tachyarrhythmias (ectopic atrial tachycardia, permanent junctional re-entrant tachycardia),.
+- Sustained tachyarrhythmias (ectopic atrial tachycardia, permanent junctional re-entrant tachycardia).
 - Severe bradycardia (complete heart block).
 - Severe anemia (Hemoglobin < 5 g/dL) causing high-output failure.
 - Coarctation of aorta.
@@ -47,7 +47,7 @@
 
 ### Shunt vs. Obstructive Physiology
 
-- **Left-to-Right Shunts:** Intrinsic cardiac muscle contractility remains normal or increased. Heart failure develops at 6–8 weeks of life as pulmonary vascular resistance physiologically declines, exacerbating pulmonary overcirculation,.
+- **Left-to-Right Shunts:** Intrinsic cardiac muscle contractility remains normal or increased. Heart failure develops at 6–8 weeks of life as pulmonary vascular resistance physiologically declines, exacerbating pulmonary overcirculation.
 - **Congenital Valve Regurgitation:** Mitral or tricuspid leakage precipitates early heart failure. Tricuspid regurgitation severity exacerbated by elevated neonatal pulmonary artery pressures.
 - **Increased Pressure Load:** Obstruction to ventricular outflow (valvular pulmonic stenosis, aortic stenosis, coarctation). Heart compensates via wall hypertrophy. Progressive obstruction leads to fibrosis, chamber dilation, and eventual ventricular failure.
 
@@ -60,13 +60,13 @@
 
 ### Clinical Presentation (Symptoms)
 
-- Inadequate feeding volumes, slow feeding, tiring easily,.
+- Inadequate feeding volumes, slow feeding, tiring easily.
 - Slow weight gain (inadequate caloric intake combined with increased metabolic work of breathing).
-- Irritability, excessive perspiration (forehead/occiput) during feeds,.
-- Breathes too fast; breathes better when held upright against shoulder (orthopnea equivalent),.
-- Persistent hoarse cry, cough, wheezing,.
-- Abdominal angina, persistent emesis (indicates poor visceral perfusion),.
-- Altered mental status, confusion, sleepiness (decreased cerebral perfusion),.
+- Irritability, excessive perspiration (forehead/occiput) during feeds.
+- Breathes too fast; breathes better when held upright against shoulder (orthopnea equivalent).
+- Persistent hoarse cry, cough, wheezing.
+- Abdominal angina, persistent emesis (indicates poor visceral perfusion).
+- Altered mental status, confusion, sleepiness (decreased cerebral perfusion).
 - Decreased urine output (poor renal perfusion).
 
 ### Clinical Signs
@@ -93,7 +93,7 @@ Evaluate acute decompensated heart failure classifying into four profiles based 
 
 ### Nadas' Criteria for Clinical Diagnosis of Heart Disease
 
-Used to identify underlying heart disease in presence of CCF,.
+Used to identify underlying heart disease in presence of CCF.
 
 - **Major Criteria:**
     - Systolic murmur grade III or more.
@@ -110,14 +110,14 @@ Used to identify underlying heart disease in presence of CCF,.
 ### Imaging Modalities
 
 - **Chest X-Ray (CXR):** Reveals cardiomegaly, pulmonary venous congestion, prominent vascular markings, frank pulmonary edema, pleural effusions. Blunting of cardiophrenic angle indicates fluid.
-- **Electrocardiogram (ECG):** Identifies tachyarrhythmias, severe bradycardia (complete heart block), ventricular hypertrophy, conduction disturbances, low QRS voltages, non-specific ST-T wave changes,,,.
-- **Echocardiography:** Gold standard. Confirms specific anatomic CHD diagnosis, visualizes chamber dilation, assesses systolic and diastolic ventricular function, identifies valvar regurgitation, detects pericardial effusions,,. Essential to exclude structural causes before diagnosing idiopathic cardiomyopathy.
+- **Electrocardiogram (ECG):** Identifies tachyarrhythmias, severe bradycardia (complete heart block), ventricular hypertrophy, conduction disturbances, low QRS voltages, non-specific ST-T wave changes.
+- **Echocardiography:** Gold standard. Confirms specific anatomic CHD diagnosis, visualizes chamber dilation, assesses systolic and diastolic ventricular function, identifies valvar regurgitation, detects pericardial effusions. Essential to exclude structural causes before diagnosing idiopathic cardiomyopathy.
 
 ### Laboratory Investigations
 
 - **Complete Metabolic Panel:** Screens for renal insufficiency (BUN/creatinine) and hepatic dysfunction (transaminases) related to poor perfusion and venous congestion.
 - **Blood Gas and Lactate:** Arterial/venous blood gas with lactate detects metabolic acidosis, assessing inadequate cardiac output and poor tissue oxygen delivery.
-- **Complete Blood Count (CBC):** Rules out severe anemia causing high-output failure. Elevated white blood cells suggest infectious/inflammatory etiologies,.
-- **Cardiac Biomarkers:** Elevated Brain Natriuretic Peptide (BNP), pro-BNP, Creatine Kinase-MB (CK-MB), and Troponin indicate myocardial stretch, ischemia, or injury,,.
-- **Inflammatory Markers:** Erythrocyte Sedimentation Rate (ESR), C-Reactive Protein (CRP), procalcitonin elevation suggests active infection, acute rheumatic fever, or myocarditis,,.
-- **Specific Etiologic Testing:** Viral PCR (Coxsackie, Adenovirus, Parvovirus),. Blood cultures for suspected infective endocarditis. Thyroid panel, carnitine levels, urine organic acids for metabolic cardiomyopathies.
+- **Complete Blood Count (CBC):** Rules out severe anemia causing high-output failure. Elevated white blood cells suggest infectious/inflammatory etiologies.
+- **Cardiac Biomarkers:** Elevated Brain Natriuretic Peptide (BNP), pro-BNP, Creatine Kinase-MB (CK-MB), and Troponin indicate myocardial stretch, ischemia, or injury.
+- **Inflammatory Markers:** Erythrocyte Sedimentation Rate (ESR), C-Reactive Protein (CRP), procalcitonin elevation suggests active infection, acute rheumatic fever, or myocarditis.
+- **Specific Etiologic Testing:** Viral PCR (Coxsackie, Adenovirus, Parvovirus). Blood cultures for suspected infective endocarditis. Thyroid panel, carnitine levels, urine organic acids for metabolic cardiomyopathies.

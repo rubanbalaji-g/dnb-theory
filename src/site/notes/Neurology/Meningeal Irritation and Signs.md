@@ -5,11 +5,8 @@
 ## INTRODUCTION
 Meningeal signs (meningismus) are physical findings indicating inflammation of the meninges (meningitis, subarachnoid hemorrhage). Their presentation varies significantly by age, being subtle in infants and classic in older children.
 
----
-
 ## A. SIGNS IN INFANTS (< 12–18 MONTHS)
 Classic signs like neck rigidity are notoriously absent or difficult to elicit in infants. The features are often nonspecific.
-
 ### 1. Clinical Features
 * **Paradoxical Irritability:** The hallmark sign. The infant cries *more* when held or handled by the mother (due to movement of inflamed meninges) and settles when placed quietly on the bed. This is in contrast to systemic illness where holding soothes the child.
 * **Bulging Anterior Fontanelle:** Tense, elevated, and non-pulsatile (loss of normal pulsations). Best assessed in the sitting position when the infant is not crying.
@@ -18,12 +15,9 @@ Classic signs like neck rigidity are notoriously absent or difficult to elicit i
     * Late: Opisthotonus (arching of the back).
 * **High-Pitched "Neuro" Cry:** A distinct, shrill cry.
 * **Staring Look:** "Sun-setting" sign if intracranial pressure is significantly raised.
-
 ### 2. Elicitation
 * **Fontanelle Palpation:** Palpate gently while the infant is upright and calm.
 * **Suspension Test (Lesage's Sign):** When the infant is lifted by the axillae, the legs are drawn up (flexed) and the neck extends, instead of the normal bicycling or dangling movement.
-
----
 
 ## B. SIGNS IN OLDER CHILDREN (> 2 YEARS)
 In children with closed fontanelles, the classic triad of meningeal irritation can be elicited.
@@ -56,8 +50,6 @@ The earliest and most consistent sign.
 ### 4. Tripod Sign (Amoss Sign)
 * **Elicitation:** Ask the child to sit up in bed.
 * **Positive Sign:** The child cannot sit upright without support; they place both hands behind them (like a tripod) to support the trunk and prevent flexion of the spine/meninges.
-
----
 
 ## C. PSEUDO-NECK RIGIDITY
 

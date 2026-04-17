@@ -32,7 +32,7 @@
 ## Acquired Heart Diseases
 1. [[Cardiology/Infective endocarditis\|Infective endocarditis]]
 2. [[Cardiology/Rheumatic Heart Diseases\|Rheumatic Heart Diseases]]
-3. [[Cardiology/Treatment of Rheumatic Carditis\|Treatment of Rheumatic Carditis]]
+3. [[Cardiology/Treatment of ARF and Rheumatic Carditis\|Treatment of ARF and Rheumatic Carditis]]
 4. [[Cardiology/Acute Myocarditis\|Acute Myocarditis]]
 5. [[Cardiology/Pericarditis\|Pericarditis]]
 6. [[Cardiology/Etiology, Pathophysiology and Diagnosis of CCF\|Etiology, Pathophysiology and Diagnosis of CCF]]
@@ -46,3 +46,4 @@
 5. [[Cardiology/Hypertension in Children\|Hypertension in Children]]
 6. [[Cardiology/Nadas' Criteria for Clinical Diagnosis of Heart Disease\|Nadas' Criteria for Clinical Diagnosis of Heart Disease]]
 7. [[Cardiology/Cardiomyopathies\|Cardiomyopathies]]
+8. [[Cardiology/ALPACA\|ALPACA]]
