@@ -1,0 +1,63 @@
+<button id="filetree-toggle" class="custom-toggle-btn">
+    <span class="icon">📁</span> <span class="text">Files</span>
+</button>
+
+<style>
+    .custom-toggle-btn {
+        position: fixed;
+        top: 15px;
+        left: 15px;
+        z-index: 1000;
+        display: flex;
+        align-items: center;
+        gap: 5px;
+        padding: 6px 12px;
+        background: var(--background-secondary);
+        border: 1px solid var(--outline-color);
+        border-radius: 4px;
+        color: var(--text-normal);
+        cursor: pointer;
+        font-size: 14px;
+        transition: all 0.2s ease;
+    }
+
+    .custom-toggle-btn:hover {
+        background: var(--background-modifier-hover);
+    }
+
+    /* When the filetree is hidden, we might want to move the button */
+    .filetree-is-hidden #filetree-toggle {
+        left: 15px;
+    }
+</style>
+
+<script>
+document.addEventListener('DOMContentLoaded', function() {
+    const btn = document.getElementById('filetree-toggle');
+    const fileTree = document.querySelector('.filetree-sidebar');
+    const root = document.documentElement;
+
+    // Check if user had it hidden previously (Local Storage)
+    const isHidden = localStorage.getItem('filetree-hidden') === 'true';
+    if (isHidden) { toggleFiletree(true); }
+
+    btn.addEventListener('click', () => {
+        const currentlyHidden = root.classList.contains('filetree-is-hidden');
+        toggleFiletree(!currentlyHidden);
+    });
+
+    function toggleFiletree(hide) {
+        if (hide) {
+            root.classList.add('filetree-is-hidden');
+            root.style.setProperty('--dg-filetree-width', '0px');
+            if (fileTree) fileTree.style.display = 'none';
+            localStorage.setItem('filetree-hidden', 'true');
+        } else {
+            root.classList.remove('filetree-is-hidden');
+            root.style.setProperty('--dg-filetree-width', '250px'); // Default width
+            if (fileTree) fileTree.style.display = 'block';
+            localStorage.setItem('filetree-hidden', 'false');
+        }
+    }
+});
+</script>
