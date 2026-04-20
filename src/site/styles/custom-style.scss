@@ -104,24 +104,24 @@ h1, h2, h3, h4, h5, h6, hr {
 }
 
 /* --- UNIVERSAL CONTENT CENTERING --- */
-/* This targets the main text area in almost all Digital Garden versions */
-main, .content, .dg-content {
-    max-width: 800px !important; 
+main.content {
+    --dg-content-max-width: 800px;
+    max-width: var(--dg-content-max-width) !important;
     margin-left: auto !important;
     margin-right: auto !important;
     width: 100% !important;
-    padding: 20px !important;
+    padding-left: 20px !important;
+    padding-right: 20px !important;
 }
 
-/* This ensures the header/title area also stays centered */
-header, .dg-header, .page-title {
-    max-width: 800px !important;
-    margin-left: auto !important;
-    margin-right: auto !important;
-}
-
-/* Optional: Improves the "Wikipedia" look for medical reading */
+/* --- TIGHTER TEXT SPACING --- */
+/* This removes the extra margin we added previously to fix the spacing issue */
 p, li {
-    line-height: 1.7;
-    margin-bottom: 1.2em;
+    margin-bottom: 0.8em !important; /* Reduced from 1.2em for a tighter look */
+    line-height: 1.5 !important;    /* Matches the template default exactly */
+}
+
+/* Center the header area */
+main.content header {
+    width: 100% !important;
 }
