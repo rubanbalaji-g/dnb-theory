@@ -1,5 +1,5 @@
-<button id="filetree-toggle" class="custom-toggle-btn">
-    <span class="icon">📁</span> <span class="text">Files</span>
+<button id="filetree-toggle" aria-label="Toggle File Tree" class="custom-toggle-btn">
+    <svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect width="18" height="18" x="3" y="3" rx="2" ry="2"/><line x1="9" x2="9" y1="3" y2="21"/></svg>
 </button>
 
 <style>
@@ -7,26 +7,37 @@
         position: fixed;
         top: 15px;
         left: 15px;
-        z-index: 1000;
+        z-index: 1001; /* Above the filetree */
         display: flex;
         align-items: center;
-        gap: 5px;
-        padding: 6px 12px;
-        background: var(--background-secondary);
+        justify-content: center;
+        width: 36px;
+        height: 36px;
+        background: var(--background-primary);
         border: 1px solid var(--outline-color);
-        border-radius: 4px;
-        color: var(--text-normal);
+        border-radius: 6px;
+        color: var(--text-muted);
         cursor: pointer;
-        font-size: 14px;
         transition: all 0.2s ease;
     }
 
     .custom-toggle-btn:hover {
+        color: var(--text-normal);
         background: var(--background-modifier-hover);
     }
 
-    /* When the filetree is hidden, we might want to move the button */
-    .filetree-is-hidden #filetree-toggle {
+    /* Target the actual container and the layout variable */
+    .filetree-hidden-state .filetree-sidebar {
+        display: none !important;
+        width: 0 !important;
+    }
+
+    .filetree-hidden-state {
+        --dg-filetree-width: 0px !important;
+    }
+    
+    /* Ensure the toggle button stays visible when sidebar is gone */
+    .filetree-hidden-state .custom-toggle-btn {
         left: 15px;
     }
 </style>
@@ -34,30 +45,19 @@
 <script>
 document.addEventListener('DOMContentLoaded', function() {
     const btn = document.getElementById('filetree-toggle');
-    const fileTree = document.querySelector('.filetree-sidebar');
-    const root = document.documentElement;
+    const htmlEl = document.documentElement;
 
-    // Check if user had it hidden previously (Local Storage)
-    const isHidden = localStorage.getItem('filetree-hidden') === 'true';
-    if (isHidden) { toggleFiletree(true); }
+    // Load preference
+    if (localStorage.getItem('filetree-collapsed') === 'true') {
+        htmlEl.classList.add('filetree-hidden-state');
+    }
 
     btn.addEventListener('click', () => {
-        const currentlyHidden = root.classList.contains('filetree-is-hidden');
-        toggleFiletree(!currentlyHidden);
+        const isHidden = htmlEl.classList.toggle('filetree-hidden-state');
+        localStorage.setItem('filetree-collapsed', isHidden);
+        
+        // Dispatch window resize to fix any graph/layout issues
+        window.dispatchEvent(new Event('resize'));
     });
-
-    function toggleFiletree(hide) {
-        if (hide) {
-            root.classList.add('filetree-is-hidden');
-            root.style.setProperty('--dg-filetree-width', '0px');
-            if (fileTree) fileTree.style.display = 'none';
-            localStorage.setItem('filetree-hidden', 'true');
-        } else {
-            root.classList.remove('filetree-is-hidden');
-            root.style.setProperty('--dg-filetree-width', '250px'); // Default width
-            if (fileTree) fileTree.style.display = 'block';
-            localStorage.setItem('filetree-hidden', 'false');
-        }
-    }
 });
 </script>
