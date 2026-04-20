@@ -125,3 +125,74 @@ p, li {
 main.content header {
     width: 100% !important;
 }
+
+/* ==========================================
+   FOCUS MODE BUTTON & LAYOUT
+   ========================================== */
+
+/* The Floating Button Style */
+#sidebar-toggle-btn {
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    z-index: 9999;
+    background-color: var(--background-secondary);
+    color: var(--text-normal);
+    border: 2px solid var(--background-modifier-border);
+    border-radius: 50%;
+    width: 50px;
+    height: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+    box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+    transition: all 0.2s ease;
+}
+
+#sidebar-toggle-btn:hover {
+    background-color: var(--interactive-accent);
+    color: var(--text-on-accent);
+    transform: scale(1.1);
+}
+
+/* What happens to the layout when Focus Mode is ON */
+body.focus-mode {
+    --dg-filetree-width: 0px !important;
+    --dg-filetree-min-width: 0px !important;
+    --dg-filetree-gap: 0px !important;
+    --dg-sidebar-max-width: 0px !important;
+    --dg-sidebar-gap: 0px !important;
+}
+
+/* Aggressively hide the sidebars */
+body.focus-mode .filetree-wrapper,
+body.focus-mode .filetree-sidebar,
+body.focus-mode .sidebar,
+body.focus-mode .sidebar-container,
+body.focus-mode #graph-component,
+body.focus-mode .backlinks,
+body.focus-mode aside {
+    display: none !important;
+    visibility: hidden !important;
+    width: 0 !important;
+    opacity: 0 !important;
+    pointer-events: none !important;
+    position: absolute !important;
+}
+
+/* Center the text when sidebars are hidden */
+body.focus-mode main.content {
+    margin-left: auto !important;
+    margin-right: auto !important;
+    max-width: 800px !important;
+    width: 100% !important;
+    left: 0 !important;
+}
+
+/* Hide the button on phones (since sidebars are naturally hidden on mobile) */
+@media (max-width: 768px) {
+    #sidebar-toggle-btn {
+        display: none !important;
+    }
+}
