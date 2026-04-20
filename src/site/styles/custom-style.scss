@@ -163,3 +163,28 @@ main.content header {
     flex: 0 0 0px !important;
     min-width: 0 !important;
 }
+
+/* 1. Remove the grid column reserved for the filetree */
+html.filetree-hidden-state .container {
+    grid-template-columns: 0 1fr !important;
+}
+
+/* 2. Hide the sidebar container AND its background */
+html.filetree-hidden-state .sidebar-left, 
+html.filetree-hidden-state .filetree-sidebar {
+    display: none !important;
+    width: 0 !important;
+    min-width: 0 !important;
+    max-width: 0 !important;
+    flex: 0 !important;
+    padding: 0 !important;
+    margin: 0 !important;
+    border: none !important;
+}
+
+/* 3. Force the main content to expand */
+html.filetree-hidden-state .content {
+    margin-left: 0 !important;
+    width: 100% !important;
+    max-width: 100% !important;
+}
