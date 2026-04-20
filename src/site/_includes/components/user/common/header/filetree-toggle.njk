@@ -45,9 +45,9 @@
 <script>
 document.addEventListener('DOMContentLoaded', function() {
     const btn = document.getElementById('filetree-toggle');
-    const htmlEl = document.documentElement;
+    const htmlEl = document.documentElement; // This is the <html> tag
 
-    // Load preference
+    // Load saved state
     if (localStorage.getItem('filetree-collapsed') === 'true') {
         htmlEl.classList.add('filetree-hidden-state');
     }
@@ -56,7 +56,7 @@ document.addEventListener('DOMContentLoaded', function() {
         const isHidden = htmlEl.classList.toggle('filetree-hidden-state');
         localStorage.setItem('filetree-collapsed', isHidden);
         
-        // Dispatch window resize to fix any graph/layout issues
+        // Force a layout refresh for the graph/content
         window.dispatchEvent(new Event('resize'));
     });
 });
