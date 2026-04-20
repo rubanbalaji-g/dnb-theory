@@ -119,35 +119,4 @@ main.content {
 main.content header {
     width: 100% !important;
 }
-/* ---------------------------------------------------
-                    hide side bar
-    -------------------------------------------------- */
-/* 1. Collapse the width variable so the template knows it's gone */
-html.filetree-hidden-state {
-    --dg-filetree-width: 0px !important;
-}
 
-/* 2. Hide the actual sidebar element and remove any leftover padding/borders */
-html.filetree-hidden-state .sidebar,
-html.filetree-hidden-state .sidebar-left,
-html.filetree-hidden-state .filetree-sidebar {
-    display: none !important;
-    padding: 0 !important;
-    border: none !important;
-    background: transparent !important;
-}
-
-/* 3. Restore the center alignment and prevent text from going behind the box */
-html.filetree-hidden-state .content {
-    margin: 0 auto !important; /* This brings back the centering */
-    max-width: var(--dg-content-max-width) !important; /* Keeps line length readable */
-    padding-left: 20px !important; /* Gives breathing room on the left side */
-    padding-right: 20px !important;
-}
-
-/* 4. Fix the main grid container to stop reserving space for the left sidebar */
-html.filetree-hidden-state .content-container,
-html.filetree-hidden-state .container {
-    display: flex !important;
-    justify-content: center !important;
-}
