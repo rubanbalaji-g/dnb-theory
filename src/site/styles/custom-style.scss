@@ -63,3 +63,54 @@ body:has(.hide-title) .page-title,
 .hide-title h1:first-of-type {
     display: none !important;
 }
+
+/float image/ 
+/* --- RIGHT FLOAT --- */
+/* Targets the container in Edit Mode and Reading Mode */
+.internal-embed[alt*="right"] {
+    float: right;
+    margin-left: 20px;
+    margin-bottom: 10px;
+    clear: right;
+    max-width: 100%; /* Allows your manual |300 to work */
+}
+
+
+/* Floating image */
+/* --- LEFT FLOAT --- */
+.internal-embed[alt*="left"] {
+    float: left;
+    margin-right: 20px;
+    margin-bottom: 10px;
+    clear: left;
+    max-width: 100%;
+}
+
+/* --- CLEANUP --- */
+/* Ensures images don't overflow their containers */
+.internal-embed[alt*="right"] img, 
+.internal-embed[alt*="left"] img {
+    max-width: 100%;
+    height: auto;
+}
+
+/* Prevents headings from overlapping with floating images */
+h1, h2, h3, h4, h5, h6, hr {
+    clear: both;
+}
+
+/* This centers your content and limits the width for better readability */
+.dg-content {
+    max-width: 800px; /* This is the standard width for readable text */
+    margin-left: auto;
+    margin-right: auto;
+    padding: 20px;
+    line-height: 1.6; /* Improves readability for long medical texts */
+}
+
+/* This ensures the title also stays aligned with the content */
+.dg-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
