@@ -82,25 +82,3 @@
 </style>
 
 
-<script>
-document.addEventListener("DOMContentLoaded", function() {
-    const toggleBtn = document.getElementById("sidebar-toggle-btn");
-    
-    // Check if user previously saved a preference
-    if(localStorage.getItem("focus-mode") === "true") {
-        document.body.classList.add("focus-mode");
-    }
-
-    // Toggle the sidebar when clicked
-    toggleBtn.addEventListener("click", function() {
-        document.body.classList.toggle("focus-mode");
-        
-        // Save preference so it stays hidden across pages
-        if(document.body.classList.contains("focus-mode")) {
-            localStorage.setItem("focus-mode", "true");
-        } else {
-            localStorage.setItem("focus-mode", "false");
-        }
-    });
-});
-</script>
