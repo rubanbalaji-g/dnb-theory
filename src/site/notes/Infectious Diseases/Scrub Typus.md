@@ -47,7 +47,8 @@ The incubation period typically ranges from 6 to 21 days (usually 9–11 days). 
 
 #### Cutaneous Manifestations
 
-- **Eschar (Tache Noire):** A painless, necrotic, cigarette-burn-like lesion with an erythematous rim found at the site of the chigger bite. It is the pathognomonic sign but is variably present (7–68% of cases). It begins as a papule, ulcerates, and forms a black crust. Common sites include the axilla, groin, neck, and genitalia. It is often missed if not specifically looked for, especially in dark-skinned individuals.
+![Pasted image 20260421010923.png|right|200](/img/user/+%C4%B0mages/Pasted%20image%2020260421010923.png)
+- **Eschar (Tache Noire):** A painless, necrotic, cigarette-burn-like lesion with an erythematous rim found at the site of the chigger bite. It is the pathognomonic sign but is variably present (7–68% of cases). It begins as a papule, ulcerates, and forms a black crust. Common sites include the axilla, groin, neck, and genitalia. It is often missed if not specifically looked for, especially in dark-skinned individuals. 
 - **Rash:** A macular or maculopapular rash may appear around the 5th day of fever, starting on the trunk and spreading to the extremities. It is evanescent and seen in less than half of patients.
 
 #### Systemic Involvement
