@@ -127,9 +127,24 @@ main.content header {
     transition: all 0.3s ease;
 }
 
-/* Optional: hide the toggle on desktop if you only want it for mobile */
+/* 
+-----------------------------------------
+           filetree hide
+-----------------------------------------*/
 @media (min-width: 768px) {
     #nav-toggle {
         display: none;
     }
+}
+
+/* Ensure the content container reacts to the width variable */
+.content-container {
+    margin-left: var(--dg-filetree-width) !important;
+    transition: margin-left 0.3s ease;
+}
+
+.filetree-sidebar {
+    width: var(--dg-filetree-width) !important;
+    overflow: hidden;
+    transition: width 0.3s ease;
 }
