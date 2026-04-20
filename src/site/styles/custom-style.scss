@@ -64,7 +64,11 @@ body:has(.hide-title) .page-title,
     display: none !important;
 }
 
-/float image/ 
+/* 
+------------------------------------------------
+                  float image
+------------------------------------------------
+*/ 
 /* --- RIGHT FLOAT --- */
 /* Targets the container in Edit Mode and Reading Mode */
 .internal-embed[alt*="right"] {
