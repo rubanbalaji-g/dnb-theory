@@ -148,3 +148,18 @@ main.content header {
     overflow: hidden;
     transition: width 0.3s ease;
 }
+
+/* Force the main content to fill the screen when filetree is hidden */
+.filetree-hidden-state .content-container,
+.filetree-hidden-state .content {
+    margin-left: 0 !important;
+    width: 100% !important;
+    max-width: 100% !important;
+}
+
+/* Specifically target the ole.dev sidebar container */
+.filetree-hidden-state .filetree-sidebar {
+    visibility: hidden;
+    flex: 0 0 0px !important;
+    min-width: 0 !important;
+}
