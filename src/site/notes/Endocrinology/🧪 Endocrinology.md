@@ -4,16 +4,18 @@
 
 
 ## Disorders of Pituitary Hormones
-1. [[Endocrinology/Hormones Secreted by the Anterior Pituitary Gland\|Hormones Secreted by the Anterior Pituitary Gland]]
-2. [[Endocrinology/Growth Hormone Stimulators and Inhibitors\|Growth Hormone Stimulators and Inhibitors]]
-3. [[Endocrinology/Indications for Growth Hormones\|Indications for Growth Hormones]]
-4. [[Endocrinology/Dwarfism\|Dwarfism]]
-5. [[Endocrinology/Diabetes Insipidus\|Diabetes Insipidus]]
-6. [[Endocrinology/SIADH\|SIADH]]
-7. [[Endocrinology/Septo-optic Dysplasia (de Morsier Syndrome)\|Septo-optic Dysplasia (de Morsier Syndrome)]]
-8. [[Endocrinology/Kallmann Syndrome\|Kallmann Syndrome]]
-9. [[Endocrinology/McCune-Albright Syndrome\|McCune-Albright Syndrome]]
-10. [[Endocrinology/Combined Pituitary Hormone Deficiency (CPHD)\|Combined Pituitary Hormone Deficiency (CPHD)]]
+1. [[Endocrinology/Embryology of the Pituitary Gland\|Embryology of the Pituitary Gland]]
+2. [[Endocrinology/Hormones of the Pituitary Gland\|Hormones of the Pituitary Gland]]
+3. [[Endocrinology/Growth Hormone - Structure and Mechanism of Action\|Growth Hormone - Structure and Mechanism of Action]]
+4. [[Endocrinology/Growth Hormone Stimulators and Inhibitors\|Growth Hormone Stimulators and Inhibitors]]
+5. [[Endocrinology/Indications for Growth Hormones\|Indications for Growth Hormones]]
+6. [[Endocrinology/Dwarfism\|Dwarfism]]
+7. [[Endocrinology/Diabetes Insipidus\|Diabetes Insipidus]]
+8. [[Endocrinology/SIADH\|SIADH]]
+9. [[Endocrinology/Septo-optic Dysplasia (de Morsier Syndrome)\|Septo-optic Dysplasia (de Morsier Syndrome)]]
+10. [[Endocrinology/Kallmann Syndrome\|Kallmann Syndrome]]
+11. [[Endocrinology/McCune-Albright Syndrome\|McCune-Albright Syndrome]]
+12. [[Endocrinology/Combined Pituitary Hormone Deficiency (CPHD)\|Combined Pituitary Hormone Deficiency (CPHD)]]
 ## Thyroid Disorders
 1. [[Endocrinology/Hormone Synthesis\|Hormone Synthesis]]
 2. [[Endocrinology/TFT Interpretation\|TFT Interpretation]]
