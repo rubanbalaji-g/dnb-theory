@@ -119,23 +119,17 @@ main.content {
 main.content header {
     width: 100% !important;
 }
-
-/* Hide content by default if you want them closed on load */
-/* Note: This can be tricky with JS; usually better to let JS hide them */
-
-.collapsible-heading .toggle-icon {
-    display: inline-block;
-    transition: transform 0.2s ease;
-    margin-right: 8px;
-    font-size: 0.7em;
-    color: var(--text-muted);
+/*
+--------------------------------------------------------
+                  mermaid theme dark
+--------------------------------------------------------
+*/
+/* 1. Remove the forced white background in dark mode */
+.theme-dark .markdown-preview-view pre.mermaid {
+    background-color: transparent !important;
 }
 
-.heading-open .toggle-icon {
-    transform: rotate(90deg);
-}
-
-/* Optional: Add a subtle border or hover effect */
-.collapsible-heading:hover {
-    opacity: 0.8;
+/* 2. Smart-invert the diagram so black lines/text become light, but colors stay intact */
+.theme-dark .markdown-preview-view pre.mermaid svg {
+    filter: invert(0.9) hue-rotate(180deg) !important;
 }
