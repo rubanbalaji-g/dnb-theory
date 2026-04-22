@@ -67,37 +67,26 @@ body:has(.hide-title) .page-title,
 /*  ------------------------------------------------
                         float image
     ------------------------------------------------*/ 
-/* Wikipedia-style Floating Images */
-img[alt$="|right"] {
-    float: right;
-    margin-left: 1.5rem;
-    margin-bottom: 1rem;
+/* Target images where the alt text contains 'right' anywhere */
+img[alt*="right"] {
+    float: right !important;
+    margin-left: 1.5rem !important;
+    margin-bottom: 1rem !important;
     clear: right;
-    max-width: 40%;
-    border: 1px solid var(--background-modifier-border);
-    padding: 5px;
-    background-color: var(--background-primary);
+    /* Remove 'max-width' so your manual '200' width takes priority */
 }
 
-img[alt$="|left"] {
-    float: left;
-    margin-right: 1.5rem;
-    margin-bottom: 1rem;
+/* Target images where the alt text contains 'left' anywhere */
+img[alt*="left"] {
+    float: left !important;
+    margin-right: 1.5rem !important;
+    margin-bottom: 1rem !important;
     clear: left;
-    max-width: 40%;
-    border: 1px solid var(--background-modifier-border);
-    padding: 5px;
-    background-color: var(--background-primary);
 }
 
-/* Ensure text wraps correctly and doesn't get squished on mobile */
-@media (max-width: 600px) {
-    img[alt$="|right"], img[alt$="|left"] {
-        float: none;
-        display: block;
-        margin: 1rem auto;
-        max-width: 100%;
-    }
+/* Fix for Obsidian's internal container */
+.internal-embed.is-loaded {
+    display: inline; /* Allows the container to float with the image */
 }
 
 /* Prevents headings from overlapping with floating images */
