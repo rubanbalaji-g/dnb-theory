@@ -2,7 +2,11 @@ name: Deploy to Cloudflare Pages
 
 on:
   push:
-    branches: [ "main" ] # Change to 'master' if needed
+    branches:
+      - main  # Change this to 'master' if your default branch is named master
+
+env:
+  FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
 
 jobs:
   deploy:
@@ -14,13 +18,12 @@ jobs:
       - name: Setup Node.js
         uses: actions/setup-node@v4
         with:
-          node-version: 22 # Matching your package.json
+          node-version: 22
 
       - name: Install dependencies
         run: npm install
 
       - name: Build site
-        # This runs your existing build script which includes theme and sass
         run: npm run build 
 
       - name: Publish to Cloudflare Pages
