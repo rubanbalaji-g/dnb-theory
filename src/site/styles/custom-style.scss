@@ -67,33 +67,37 @@ body:has(.hide-title) .page-title,
 /*  ------------------------------------------------
                         float image
     ------------------------------------------------*/ 
-/* --- RIGHT FLOAT --- */
-/* Targets the container in Edit Mode and Reading Mode */
-.internal-embed[alt*="right"] {
+/* Wikipedia-style Floating Images */
+img[alt$="|right"] {
     float: right;
-    margin-left: 20px;
-    margin-bottom: 10px;
+    margin-left: 1.5rem;
+    margin-bottom: 1rem;
     clear: right;
-    max-width: 100%; /* Allows your manual |300 to work */
+    max-width: 40%;
+    border: 1px solid var(--background-modifier-border);
+    padding: 5px;
+    background-color: var(--background-primary);
 }
 
-
-/* Floating image */
-/* --- LEFT FLOAT --- */
-.internal-embed[alt*="left"] {
+img[alt$="|left"] {
     float: left;
-    margin-right: 20px;
-    margin-bottom: 10px;
+    margin-right: 1.5rem;
+    margin-bottom: 1rem;
     clear: left;
-    max-width: 100%;
+    max-width: 40%;
+    border: 1px solid var(--background-modifier-border);
+    padding: 5px;
+    background-color: var(--background-primary);
 }
 
-/* --- CLEANUP --- */
-/* Ensures images don't overflow their containers */
-.internal-embed[alt*="right"] img, 
-.internal-embed[alt*="left"] img {
-    max-width: 100%;
-    height: auto;
+/* Ensure text wraps correctly and doesn't get squished on mobile */
+@media (max-width: 600px) {
+    img[alt$="|right"], img[alt$="|left"] {
+        float: none;
+        display: block;
+        margin: 1rem auto;
+        max-width: 100%;
+    }
 }
 
 /* Prevents headings from overlapping with floating images */
@@ -101,7 +105,9 @@ h1, h2, h3, h4, h5, h6, hr {
     clear: both;
 }
 
-/* --- UNIVERSAL CONTENT CENTERING --- */
+/* ----------------------------------------------
+            UNIVERSAL CONTENT CENTERING 
+   ---------------------------------------------- */
 main.content {
     --dg-content-max-width: 800px;
     max-width: var(--dg-content-max-width) !important;
