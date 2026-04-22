@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/endocrinology/siadh/","dgPassFrontmatter":true}
+{"dg-publish":true,"uptext":"Back to Index (🧪Endocrinology)","uplink":"/endocrinology/endocrinology/","permalink":"/endocrinology/siadh/","dgPassFrontmatter":true}
 ---
 
 ## Definition and Pathophysiology
@@ -34,7 +34,7 @@
 
 ## Diagnostic Evaluation
 ```mermaid
-graph LR
+graph TD
     %% SIADH Evaluation Flowchart
     
     Start(["Check Serum Sodium Na+"]) --> VerifyHypo{"Serum Na+ < 135 mEq/L?"}
