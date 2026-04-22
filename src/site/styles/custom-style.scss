@@ -64,11 +64,9 @@ body:has(.hide-title) .page-title,
     display: none !important;
 }
 
-/* 
-------------------------------------------------
-                  float image
-------------------------------------------------
-*/ 
+/*  ------------------------------------------------
+                        float image
+    ------------------------------------------------*/ 
 /* --- RIGHT FLOAT --- */
 /* Targets the container in Edit Mode and Reading Mode */
 .internal-embed[alt*="right"] {
@@ -119,17 +117,21 @@ main.content {
 main.content header {
     width: 100% !important;
 }
-/*
---------------------------------------------------------
-                  mermaid theme dark
---------------------------------------------------------
-*/
-/* 1. Remove the forced white background in dark mode */
-.theme-dark .markdown-preview-view pre.mermaid {
+/*  --------------------------------------------------------
+                      mermaid theme dark
+    --------------------------------------------------------*/
+/* Aggressive dark mode override for Mermaid diagrams */
+body.theme-dark .mermaid,
+body.theme-dark .mermaid svg,
+body.theme-dark pre.mermaid,
+body.theme-dark pre.mermaid svg,
+.theme-dark div[class^="mermaid"] {
+    background: transparent !important;
     background-color: transparent !important;
 }
 
-/* 2. Smart-invert the diagram so black lines/text become light, but colors stay intact */
-.theme-dark .markdown-preview-view pre.mermaid svg {
+body.theme-dark .mermaid svg,
+body.theme-dark pre.mermaid svg,
+.theme-dark div[class^="mermaid"] svg {
     filter: invert(0.9) hue-rotate(180deg) !important;
 }
