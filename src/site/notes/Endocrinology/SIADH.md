@@ -34,7 +34,7 @@
 
 ## Diagnostic Evaluation
 ```mermaid
-graph TD
+graph LR
     %% SIADH Evaluation Flowchart
     
     Start(["Check Serum Sodium Na+"]) --> VerifyHypo{"Serum Na+ < 135 mEq/L?"}
