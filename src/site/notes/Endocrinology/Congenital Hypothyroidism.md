@@ -2,98 +2,156 @@
 {"dg-publish":true,"permalink":"/endocrinology/congenital-hypothyroidism/","noteIcon":"","dgPassFrontmatter":true}
 ---
 
+## Overview & Epidemiology
 
-Congenital hypothyroidism (CH) is a heterogeneous group of disorders present at birth that lead to deficient thyroid hormone action during critical periods of brain development and growth.
+- Most common preventable cause of intellectual disability worldwide.
+- Incidence: 1 in 2,000 to 1 in 4,000 live births.
+- Female predominance: Female:Male ratio 3:1 (especially in thyroid ectopy).
+- Increased risk populations: Trisomy 21, cardiac defects, preterm/low-birth-weight infants.
 
----
-## Etiology and pathophysiology
+## Fetal-Maternal Thyroid Physiology
 
-### Thyroid dysgenesis (60–85% overall in iodine-sufficient populations)
+- Fetal thyroid functional by 10-12 weeks gestation.
+- Fetal TSH secretion evident by 10-12 weeks.
+- Placental transfer: Maternal thyroxine (T4) crosses placenta, providing ~33% of fetal T4 requirements at term.
+- Maternal T4 prevents severe fetal neurodevelopmental injury in complete fetal athyreosis, provided mother is euthyroid.
+- Postnatal TSH surge: Cold-stimulated TSH release peaks at 30 minutes of life (up to 70-100 mIU/L), stimulating T4 and triiodothyronine (T3) surge. Normalizes to <5-10 mIU/L by 5-7 days.
 
-- Subtypes: agenesis (aplasia), ectopy (lingual/infrahyoid), hypoplasia.
-- Embryologic basis: disrupted migration from foramen cecum, abnormal morphogenesis; often sporadic but occasional familial forms reflect defects in transcription factors.
-- Pathophysiology: absent or poorly functioning tissue → lifelong severe primary hypothyroidism without intrinsic dyshormonogenesis.
-### Thyroid dyshormonogenesis (10–20%)
-- Enzyme/transport defects: TPO, thyroglobulin (TG), sodium/iodide symporter (NIS/SLC5A5), Pendrin (SLC26A4), DUOX2/DUOXA2, IYD (DEHAL1), TG, TSHR activating/inactivating mutations.
-- Phenotype: goitre common, variable severity from transient to permanent; often autosomal recessive or dominant depending on gene.
-### Central congenital hypothyroidism (secondary/tertiary)
-- Causes: pituitary hypoplasia, septo-optic dysplasia, PROP1, POU1F1, HESX1, LHX3/4 mutations, hypothalamic defects.
-- Distinguishing features: low/normal TSH with low free T4, frequent combined pituitary hormone deficiencies (CPHD), risk of unmasked adrenal insufficiency.
-### Transient congenital hypothyroidism
-- Causes: maternal TSH receptor–blocking antibodies, maternal antithyroid drugs (methimazole, PTU) in late pregnancy, iodine excess or deficiency, prematurity, neonatal iodine exposure (contrast/antiseptics), immature hypothalamic‑pituitary axis, placental dysfunction.
-- Temporal profile: biochemical hypothyroidism resolving over weeks–months.
-### Syndromic and chromosomal associations
-- Down syndrome, Turner syndrome, dyadic midline defects; genetic syndromes with extrathyroidal manifestations.
-### Environmental and epidemiologic modifiers
-- Iodine status, consanguinity (increases dyshormonogenesis), ethnicity-related mutation spectra, and screening protocol differences influence observed prevalence and case-mix.
----
-## Genetics, molecular mechanisms, and genotype–phenotype correlations
+## Etiology & Classification
 
-- <mark style="background: #FFF3A3A6;">Transcription factor mutations (dysgenesis-related):</mark> TSHR (loss-of-function), PAX8, NKX2-1 (TTF1), NKX2-5, FOXE1 (TTF2) — often sporadic de novo but familial clusters occur; PAX8 and NKX2-1 mutations may have extrathyroidal features (renal anomalies, chorea).
-- <mark style="background: #FFF3A3A6;">Biosynthetic pathway genes (dyshormonogenesis):</mark> TPO, TG, SLC5A5 (NIS), SLC26A4 (Pendrin), DUOX2/DUOXA2, IYD; biallelic mutations usually cause permanent CH with goitre, some monoallelic DUOX2/Duoxa2 variants cause transient or milder disease.
-- <mark style="background: #FFF3A3A6;">Central CH genes:</mark> PROP1, POU1F1, HESX1, LHX3/LHX4, OTX2; high index of suspicion for CPHD warrants pituitary imaging and adrenal assessment.
-- <mark style="background: #FFF3A3A6;">Testing strategy: </mark>targeted gene panel or whole exome sequencing when dyshormonogenesis suspected, familial recurrence, syndromic features, or unexplained permanent CH; interpret variants with correlation to phenotype and family studies.
----
-## Diagnosis and investigation 
+### Primary Hypothyroidism (>95%)
 
-### Newborn screening (NBS) strategies and limitations
-- <mark style="background: #FFF3A3A6;">Primary TSH screening</mark> detects primary CH efficiently but misses central CH and early TSH-latent cases; primary T4 with reflex TSH improves sensitivity for central CH but increases recall.
-- <mark style="background: #FFF3A3A6;">Timing:</mark> optimal specimen at 48–72 hours; cord blood has higher false positives in preterms and during maternal drug exposure.
-- <mark style="background: #FFF3A3A6;">False negatives/positives:</mark> prematurity, NICU medications, iodine exposure, delayed TSH rise in premature neonates, sampling before 48 hours.
-### Biochemical confirmation
-- <mark style="background: #FFF3A3A6;">Urgent venous assays: </mark>serum TSH, free T4 (fT4) measured by reliable assays calibrated for neonatal ranges. Obtain total T4, free T4 index or mass‑spec fT4 if assay interference suspected.
-- <mark style="background: #FFF3A3A6;">Interpretive patterns:</mark>
-	- <mark style="background: #ABF7F7A6;">Primary CH:</mark> elevated TSH (often >40–100 mIU/L) with low fT4.
-	- <mark style="background: #ABF7F7A6;">Partial/compensated:</mark> mildly elevated TSH (6–20 mIU/L) with normal fT4 requiring repeat testing and clinical correlation.
-	- <mark style="background: #ABF7F7A6;">Central CH:</mark> low/normal TSH with low fT4; monitor other pituitary hormones
-- <mark style="background: #FFF3A3A6;">Additional tests: </mark>serum thyroglobulin (absent/low in agenesis; elevated in dyshormonogenesis), antithyroid antibodies (maternal TSHR‑blocking), urinary/serum iodine, and maternal thyroid history.
-### Imaging
-- <mark style="background: #FFF3A3A6;">Radionuclide thyroid scintigraphy (99mTc-pertechnetate or 123I)</mark> assesses presence, position, and uptake; best performed after starting levothyroxine only if it will not meaningfully reduce diagnostic yield, otherwise perform as soon as possible.
-- <mark style="background: #FFF3A3A6;">High-resolution neck ultrasound </mark>evaluates gland anatomy and helps identify ectopy vs agenesis vs normally located gland; combine with scintigraphy for full characterization.
-- <mark style="background: #FFF3A3A6;">Imaging strategy: </mark>if imaging will alter counselling/genetic workup, obtain before or shortly after treatment start; do not delay LT4 if diagnostic uncertainty exists.
-### Endocrine and systemic evaluation
-- <mark style="background: #FFF3A3A6;">For suspected central CH:</mark> adrenal axis (morning cortisol or stimulated testing if concern), GH axis, electrolytes, hypoglycaemia history, and dedicated pituitary MRI.
-- <mark style="background: #FFF3A3A6;">For dyshormonogenesis: </mark>look for neonatal goitre, family history, consanguinity, and arrange genetic testing.
-- <mark style="background: #FFF3A3A6;">For suspected maternal antibody-mediated CH:</mark> measure maternal and neonatal anti-TSHR antibodies.
----
-## Management: acute, titration, and long-term strategies
+Defect within thyroid gland. Manifests with low Free T4 (FT4) and elevated TSH.
 
-### Principles
-- Prevent irreversible neurodevelopmental injury by rapid restoration of euthyroidism. Treat on presumptive diagnosis when NBS positive and clinical/lab features indicate CH; do not delay for imaging or genetic results
-### Initial levothyroxine dosing
-- Full-term infants with severe biochemical hypothyroidism: 10–15 µg/kg/day oral levothyroxine; many specialists favour 12–15 µg/kg/day for severe cases to normalise fT4 rapidly    
-- Mild/compensated CH or borderline TSH elevation: 10 µg/kg/day with close biochemical follow-up; individualise for low-birth-weight or cardiac diseases
-- Special formulations: use liquid preparations or crushed tablets dispersed in water/milk to improve dosing accuracy; verify stability and bioavailability of local products. Avoid switching formulations without monitoring.
-### Administration and interactions
-- Single morning dose on empty stomach where feasible; avoid co-administration with iron, calcium, soy formula, cholestyramine, or certain anticonvulsants that impair absorption; give spacing of 2–4 hours when interactions are unavoidable.
-### Monitoring schedule
-- First check TSH and fT4 at 2 weeks after treatment initiation, then every 2–4 weeks until stable and euthyroid, thereafter every 1–3 months in the first year, every 2–4 months in years 1–3, and at least every 6–12 months thereafter or with growth/clinical concerns.
-- Target biochemical goals: fT4 in the upper half of the age-specific reference range and TSH within the normal reference range; avoid persistent mild elevation of TSH. For central CH, monitor fT4, not TSH.
-- Adjust dose based on weight changes and biochemical trends; expect dose (µg/kg) to decline with age but absolute dose to increase.
-- Re-evaluation for transient vs permanent CH
-- <mark style="background: #FF5582A6;">Trial off therapy at age 2–3 years</mark> if etiology suggests transient CH (prematurity, maternal drugs, maternal antibodies, borderline initial results). Withdraw LT4 for 4 weeks and measure TSH and fT4; if TSH >10 mIU/L or fT4 low, restart lifelong therapy. For clear permanent causes (agenesis, ectopy, confirmed biallelic dyshormonogenesis mutation), continue lifelong therapy.
-### Management of central CH
-- Exclude/ treat adrenal insufficiency before or contemporaneously with LT4 initiation to avoid precipitating adrenal crisis. Monitor for and treat other pituitary hormone deficiencies; use fT4 for dose titration.
-- Surgical and radioiodine considerations
-- Rarely required in CH itself; in dyshormonogenesis with large goitre causing obstructive symptoms, surgical consult indicated. Radioiodine not used in neonatal period for therapy; scintigraphy is diagnostic only.
-- Genetic counselling and family screening
-- Offer targeted carrier testing and genetic counselling in families with confirmed pathogenic mutations or dyshormonogenesis. Screen siblings if inherited mutation known.
-    
----
-## Complications, outcomes, and transition of care
+| Etiology Category        | Frequency | Pathophysiology & Key Features                                                                                                                                                                            |
+| :----------------------- | :-------- | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Thyroid Dysgenesis**   | 80-85%    | Abnormal glandular formation/migration.                                                                                                                                                                   |
+| _Ectopy_                 | 70-75%    | Failure of descent. Sublingual location most common.                                                                                                                                                      |
+| _Athyreosis/Agenesis_    | 15-33%    | Complete absence of tissue. True athyreosis: Thyroglobulin (Tg) < 2 mcg/L.                                                                                                                                |
+| _Hypoplasia_             | <5%       | Small rudiment in orthotopic position.                                                                                                                                                                    |
+| **Dyshormonogenesis**    | 10-15%    | Inborn errors of hormone synthesis in structurally normal/enlarged gland. Autosomal recessive. Leads to goitrous CH.                                                                                      |
+| **Transient Primary CH** | Variable  | Maternal antithyroid medications (methimazole/propylthiouracil), TSH receptor-blocking antibodies (TRBAb) (2% of screening cases), severe iodine deficiency, or iodine excess (Wolff-Chaikoff effect). |
 
-### Neurodevelopmental outcome determinants
-- Age at treatment initiation and adequacy of early biochemical control are primary determinants of IQ and motor outcomes; delays beyond 2–4 weeks or undertreatment associate with cognitive deficits.   
-- Other modifiers: severity of hypothyroidism at diagnosis, adherence, coexisting neonatal illness, prematurity.
-### Long-term endocrine complications
-- Poor growth if undertreated, abnormal lipid profile in untreated/undertreated adults, fertility issues if poorly controlled in adolescence/adulthood.
-- Central CH patients need lifelong surveillance for other pituitary hormone deficiencies that may evolve.
-### Transition to adult care
-- Structured transition by adolescence with education on lifelong therapy, adherence, reproductive counseling, and adult endocrine follow-up.
----
-- Always treat while investigating; do not delay LT4 for scans or genetics when biochemical diagnosis is clear.
-- In an infant with low fT4 and low/normal TSH, prioritise adrenal assessment and pituitary MRI before attributing to primary CH.
-- Use thyroglobulin measurement to help distinguish dysgenesis (low/absent) from dyshormonogenesis (normal/high).
-- Consider DUOX2/DUOXA2 monoallelic variants as causes of transient or mild CH, especially in populations with high consanguinity.
-- When switching formulations or brands, recheck TSH/fT4 within 4–6 weeks.
-- For borderline TSH elevations in preterm infants, repeat testing and consult neonatology/endocrinology before committing to lifelong therapy.
+### Central (Secondary/Tertiary) Hypothyroidism (<5%)
+
+Defect in hypothalamus or pituitary.
+
+- Incidence: 1:16,000 to 1:30,000.
+- Pathophysiology: Deficient TSH stimulation.
+- Associated features: Midline facial defects, hypoglycemia, micropenis, cryptorchidism, prolonged jaundice (suggests multiple pituitary hormone deficiencies).
+- Undetected by isolated TSH newborn screening; requires T4-primary screening or clinical suspicion.
+
+### Peripheral / Consumptive Hypothyroidism
+
+- **Consumptive:** Giant hepatic hemangiomas express high levels of type 3 deiodinase, rapidly inactivating T4 and T3.
+- **Transport/Receptor Defects:** _MCT8_ (SLC16A2) mutation (Allan-Herndon-Dudley syndrome), or Thyroid Hormone Receptor (_THRA_, _THRB_) mutations causing tissue resistance.
+
+## Molecular Genetics
+
+### Genetic Defects in Thyroid Dysgenesis (Syndromic CH)
+
+Accounts for 2-5% of dysgenesis. High discordance in monozygotic twins implies two-hit model (germline + somatic mutation).
+
+|Gene|Inheritance|Associated Phenotype (Syndrome)|
+|:--|:--|:--|
+|_**NKX2.1**_|De novo / AD|**Brain-Lung-Thyroid Syndrome:** Choreoathetosis, ataxia, hypotonia, respiratory distress.|
+|_**FOXE1**_|AR|**Bamforth-Lazarus Syndrome:** True athyreosis, cleft palate, spiky hair, choanal atresia, bifid epiglottis.|
+|_**PAX8**_|AD / De novo|Dysgenesis with kidney and urinary tract malformations.|
+|_**GLIS3**_|AR|Neonatal diabetes, congenital glaucoma, deafness, exocrine pancreas failure.|
+|_**JAG1**_|AD|**Alagille Syndrome:** Dysgenesis, cardiovascular defects, liver involvement.|
+
+### Genetic Defects in Dyshormonogenesis
+
+Autosomal recessive inheritance.
+
+|Gene|Affected Protein|Pathophysiology & Diagnosis|
+|:--|:--|:--|
+|_**SLC5A5**_|Sodium-Iodide Symporter (NIS)|Defective iodide trapping. Low scintigraphy uptake. Low saliva:serum 123I ratio.|
+|_**SLC26A4**_|Pendrin|Defective apical transport. **Pendred Syndrome:** Goiter + sensorineural deafness.|
+|_**TPO**_|Thyroperoxidase|Most common defect. Defective organification/coupling. High radioiodine uptake; positive perchlorate discharge.|
+|_**DUOX2 / DUOXA2**_|Dual Oxidase 2 System|Defective H2O2 generation. Variable severity, permanent or transient.|
+|_**TG**_|Thyroglobulin|Defective synthesis. Goitrous CH with low/absent serum Tg.|
+|_**IYD**_|Iodotyrosine Deiodinase|Defective iodine recycling. Elevated urinary MIT and DIT.|
+
+## Clinical Manifestations
+
+### Neonatal Period
+
+- Most infants are completely asymptomatic at birth due to protective transplacental maternal T4.
+- Early clues: Wide open anterior and posterior fontanels (posterior >0.5 cm in 97% cases).
+- Prolonged unconjugated/conjugated hyperbilirubinemia (delayed glucuronide conjugation maturation).
+- Lethargy, increased sleep, hoarse cry, poor feeding, choking spells.
+- Large abdomen, umbilical hernia.
+- Hypothermia (<35°C), cold mottled skin, peripheral edema.
+- Bradycardia, asymptomatic pericardial effusion, macrocytic anemia.
+
+### Late Infancy / Childhood (Untreated)
+
+- Progressive neurodevelopmental delay, profound intellectual disability.
+- Severe stunting of linear growth, delayed skeletal maturation.
+- Classic facies: Depressed nasal bridge, narrow palpebral fissures, puffy eyelids, coarse/brittle hair, low hairline.
+- Macroglossia (protruding thick tongue), open mouth.
+- Dentition delay.
+- <mark style="background: #ABF7F7A6;">Kocher-Debré-Sémélaigne syndrome:</mark> Muscular hypotonia with generalized muscular pseudohypertrophy (especially calf muscles).
+- Ectopic glands may hypertrophy and present later as a midline/sublingual neck mass.
+
+## Diagnostic Evaluation
+
+### Newborn Screening (NBS)
+
+- **Timing:** Dried Blood Spot (DBS) collected via heelprick on filter paper at 2-4 days of life (avoiding initial 24-hour physiological TSH surge).
+- **Strategies:**
+    - _Primary TSH:_ Highly sensitive for primary CH. Misses central CH.
+    - _Primary T4 with reflex TSH:_ Identifies primary CH, central CH, and TBG deficiency.
+- **Thresholds:** TSH >40 mU/L usually necessitates immediate treatment. Borderline elevated TSH (e.g., 10-39 mU/L) requires confirmatory testing.
+- **Re-screening:** Second routine screen at 2-4 weeks indicated for premature, low-birth-weight, and ill neonates (due to delayed TSH elevation) or monozygotic twins (fetal blood mixing obscures true status).
+
+### Confirmatory Serum Testing
+
+- Venous TSH and FT4 measurements are mandatory to confirm abnormal NBS.
+- Initiate treatment immediately without delaying for test results if clinical suspicion is high or screening TSH >40 mU/L.
+
+### Imaging Studies
+
+- **Radionuclide Scintigraphy (99mTc-pertechnetate or 123I):** Gold standard for anatomic diagnosis.
+    - Normal/Increased uptake in orthotopic gland: Dyshormonogenesis.
+    - Ectopic uptake: Thyroid ectopy.
+    - Absent uptake: Agenesis, TSHR blocking antibodies, or NIS defect.
+- **Neck Ultrasound:** User-dependent. Confirms orthotopic gland presence/absence. Differentiates true agenesis from conditions preventing tracer uptake (e.g., TRBAb). Fails to reliably identify ectopic glands.
+- **Bone Radiography:** X-ray of knee/leg. Absence of distal femoral and proximal tibial epiphyses in a term infant confirms intrauterine onset of hypothyroidism (correlates with higher risk of neurodevelopmental deficits).
+
+### Additional Biomarkers
+
+- **Serum Thyroglobulin (Tg):**
+    - Low/Undetectable: True athyreosis, TG synthesis defects, or complete TSHR inactivation.
+    - Elevated: Ectopy, Dyshormonogenesis.
+
+## Management
+
+### Pharmacotherapy
+
+- **Drug of Choice:** Oral Levothyroxine (L-T4).
+- **Dose:** 10-15 mcg/kg/day (typically 37.5-50 mcg/day for term neonates). High-end dosing (50 mcg/day) correlates with optimal neurodevelopmental outcome at 5 years.
+- **Administration:** Crushed and mixed in small amount of water/breastmilk. Avoid co-administration with soy, iron, or calcium supplements (impairs absorption).
+
+### Monitoring Targets & Follow-up
+
+- **Targets:** Maintain TSH strictly within age-specific normal range. Maintain FT4 in the upper half of normal reference range.
+- **Frequency:**
+    - 1 week and 1 month after treatment initiation.
+    - Every 1-2 months during the first 6 months.
+    - Every 2-4 months from 6 months to 3 years.
+    - 4-6 weeks following any dosage adjustment.
+
+### Special Considerations
+
+- **Transient CH:** Re-evaluate at 3 years of age. Withdraw L-T4 for 4 weeks; if TSH rises, permanent CH is confirmed; if normal, treatment is discontinued.
+- **Central CH:** Do not use TSH for monitoring. Adjust L-T4 dose solely based on maintaining FT4 in upper half of normal range. Ensure cortisol sufficiency prior to initiating L-T4 to avert adrenal crisis.
+- **Pregnancy & Genetic Counseling:** Parents of children with dyshormonogenesis (AR) must be counseled on 25% recurrence risk.
+
+## Prognosis
+
+- **Neurocognitive Outcome:** Excellent if diagnosed via NBS and treated adequately within first 2 weeks of life (IQ indistinguishable from siblings).
+- **Delayed Treatment:** Leads to irreversible cognitive impairment, delayed motor milestones, speech problems, and permanent short stature.
+- **Predictors of Severity:** Very low pre-treatment FT4 levels and absent knee epiphyses at birth represent severe fetal hypothyroidism and predict a slightly lower IQ trajectory despite optimal postnatal management. Hearing deficits (sensorineural) occur in ~10% of cases.
+> [!red] Delay in diagnosis of congenital hypothyroidism results in loss of 10-15 IQ points every month

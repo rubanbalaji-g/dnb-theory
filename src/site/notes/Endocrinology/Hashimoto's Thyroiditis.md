@@ -2,102 +2,129 @@
 {"dg-publish":true,"permalink":"/endocrinology/hashimoto-s-thyroiditis/","noteIcon":"","dgPassFrontmatter":true}
 ---
 
+## Overview & Epidemiology
 
-## Definition 
+- Most common cause of acquired hypothyroidism and thyroid disease in children and adolescents.
+- Replaces former designation "simple adolescent goiter".
+- Peak incidence during adolescence (11-15 years); may present as early as first year of life.
+- Strong female predominance; Female:Male ratio 4-6:1.
+- Prevalence: 1-2% of school-age children and 6-8% of adolescents possess thyroid autoantibodies.
 
-Hashimoto thyroiditis (chronic lymphocytic autoimmune thyroiditis) is a progressive, organ‑specific autoimmune disorder characterized by autoreactive T‑cell–mediated follicular destruction, autoantibody production, and a clinical spectrum from transient thyrotoxicosis to subclinical and overt hypothyroidism.
-## Epidemiology and clinical phenotypes in children
+## Pathogenesis & Molecular Genetics
 
-### Incidence and demographics: 
-- female predominance emerges in school‑age and adolescence; incidence rises through puberty 
-- familial clustering common.
-### Presentations by age:
-- <span style="color:rgb(0, 176, 240)">Infancy:</span> rare; may present with poor growth, feeding problems, macroglossia or prolonged jaundice when hypothyroid.
-- <span style="color:rgb(0, 176, 240)">Childhood: </span>overt hypothyroidism with growth deceleration, weight gain, delayed bone age, cold intolerance; subclinical disease often detected incidentally.
-- <span style="color:rgb(0, 176, 240)">Adolescence: </span>goitre, fatigue, menstrual irregularities, slowed school performance; presentation mimics adult disease but with greater potential impact on linear growth and puberty.
-### Phenotypic variants: 
-- classic chronic hypothyroid
-- Hashitoxicosis (destructive transient thyrotoxicosis)
-- silent/postpartum‑type thyroiditis in adolescent postpartum patients
-- painless chronic forms.
-## Pathogenesis and molecular/immunologic mechanisms
+- Organ-specific autoimmune disease resulting from combined genetic susceptibility and environmental triggers.
 
-- <span style="color:rgb(0, 176, 240)">Adaptive immunity drivers:</span> Loss of central/peripheral tolerance with autoreactive CD4+ Th1/Th17 responses, cytotoxic CD8+ T cells, and B‑cell autoantibody production (anti‑TPO >>> anti‑TG).
-- <span style="color:rgb(0, 176, 240)">Innate immunity and antigen presentation:</span> Aberrant thyrocyte expression of HLA‑DR, upregulation of TLRs, dendritic cell activation, and local cytokine milieu (IFN‑γ, IL‑17) promote sustained lymphoid infiltration and germinal centre formation.
-- <span style="color:rgb(0, 176, 240)">Epitope spreading and molecular mimicry</span>: Viral/environmental triggers can expose cryptic epitopes; cross‑reactive immune responses expand autoimmunity.
-- <span style="color:rgb(0, 176, 240)">Genetic architecture:</span> Polygenic risk with immune regulatory loci (CTLA4, PTPN22), HLA associations, and thyroid‑specific genes (TSHR, FOXE1) modulating susceptibility and phenotype. Family clustering and co‑occurrence with other autoimmune endocrinopathies reflect shared pathways.
-- <span style="color:rgb(0, 176, 240)">B‑cell biology and pathogenic antibodies:</span> Anti‑TPO correlates with tissue destruction and progression risk; anti‑TG less specific; functional TSHR‑blocking antibodies rare but clinically important in pregnancy or neonatal disease.
-- <span style="color:rgb(0, 176, 240)">Fibrosis and remodelling:</span> Chronic inflammation leads to fibrosis, nodularity, and in some cases, return of normal gland architecture is unlikely once significant scarring develops.
-## Clinical phenotypes and differential diagnostic subtleties
+### Histopathology
 
-### Classic hypothyroid phenotype: 
-- Insidious fatigue
-- weight gain
-- cold intolerance
-- constipation
-- bradycardia
-- menorrhagia
-- mixed hypercholesterolemia
-- goitre may be firm and non‑tender.
-### Subclinical disease
-- Elevated TSH with normal fT4
-- risk of progression relates to anti‑TPO titre
-- TSH magnitude, age, and comorbidities.
-### Hashitoxicosis
-- Transient thyrotoxic phase from destructive release of hormone
-- low radioiodine uptake differentiates from Graves disease.
-### Painless/postpartum variants
-- Silent thyroiditis and postpartum thyroiditis overlap clinically and immunologically
-- temporal relation to childbirth and spontaneous recovery help classification.
-### Rapidly enlarging neck mass
-- Red flag for primary thyroid lymphoma; differentiate from anaplastic carcinoma and infected thyroiditis.
-### Associated autoimmune syndromes
-- Screen for type 1 diabetes, Addison disease, pernicious anemia, celiac disease, vitiligo, and autoimmune gastritis where indicated.
-## Diagnostics — advanced investigations and interpretation
+- Thyroid follicular hyperplasia occurs early.
+- Progressive infiltration of lymphocytes (T-helper CD4+, cytotoxic CD8+) and plasma cells into thyroid follicles.
+- Formation of lymphoid follicles with germinal centers.
+- Chronic inflammation progresses to follicular fibrosis, parenchymal destruction, and eventual glandular atrophy.
 
-### Serology
-- <span style="color:rgb(0, 176, 240)">Anti‑TPO:</span> most sensitive marker; titre correlates with progression risk.
-- <span style="color:rgb(0, 176, 240)">Anti‑TG:</span> supportive but less specific, may confound monitoring in post‑surgical or post‑radioiodine patients.
-- <span style="color:rgb(0, 176, 240)">TSH receptor antibodies:</span> assess when thyrotoxicosis or pregnancy context.
-### Thyroid function testing
-- Use high‑quality fT4 assays calibrated for clinical cutoffs; consider total T4/albumin or mass‑spec fT4 if assay interference is suspected. Interpret TSH within clinical context and coexisting pituitary disease.
-### Ultrasound with Doppler and elastography
-- Typical: diffuse hypoechogenicity, heterogeneous echotexture, micronodularity; reduced vascularity in chronic disease, increased vascularity may indicate active inflammation or coexistent Graves disease. Shear‑wave elastography can quantify fibrosis and help triage nodules for FNA.
-### Radionuclide imaging
-- Low uptake in destructive thyroiditis/Hashitoxicosis; use selectively when uptake pattern will change management.
-### Fine‑needle aspiration and histopathology
-- Indicated for suspicious nodules or rapidly enlarging gland; cytology shows dense lymphoid infiltrate, <span style="color:rgb(0, 176, 240)">Hurthle cell change</span>; excisional biopsy required when lymphoma suspected. Immunophenotyping (CD20+, B‑cell clonality), flow cytometry, and molecular studies essential to confirm primary thyroid lymphoma.
-### Advanced molecular testing
-- Consider targeted gene panels or GWAS‑informed testing in familial clusters, early severe disease, or atypical phenotypes; interpret variants in phenotypic context.
-### Autoimmune workup
-- Screen for coexisting autoimmune conditions based on symptoms and family history rather than universal panels.
-## Management — precision strategies, special situations, and emerging therapies
+### Autoantibodies & Immune Mechanisms
 
-### General LT4 replacement
-- Individualise dosing. Overt hypothyroidism: start levothyroxine; 
-- typical paediatric replacement dose:
-	- Infants: 10–15 µg/kg/day (higher end for neonates with severe deficiency).
-	- Children: 4–6 µg/kg/day (dose falls with increasing age and weight); adolescents approach adult dosing (~1.4–1.6 µg/kg/day).
-- Administer in morning, consistently relative to feeds; use liquid or accurately compounded formulations where dosing precision required.
-- Target TSH within reference range and resolution of symptoms; avoid persistent overreplacement. Titrate at 6–8 week intervals.
-### Subclinical hypothyroidism
-- Treat when: TSH >10 mIU/L, symptomatic, anti‑TPO positive, pregnancy/planned conception, infertility, or progressive TSH rise; individualise for older adults and frailty. Discuss risks/benefits and monitor if conservative.
-### Hashitoxicosis and thyrotoxic phases
-- Symptomatic control with β‑blockers; antithyroid drugs are not indicated for destructive thyroiditis; reserve for coexistent Graves disease confirmed by clinical, serologic, or uptake evidence.
-### Pregnancy and reproductive considerations
-- Proactively increase LT4 dose by ~20–30% at pregnancy confirmation in treated patients; monitor TSH/fT4 every 4 weeks in first half and at least once mid‑pregnancy. Treat subclinical disease in pregnancy when anti‑TPO positive or TSH >4 mIU/L by pregnancy‑specific ranges. Screen women with infertility and recurrent pregnancy loss for anti‑TPO. Manage TSHR‑blocking antibodies when present.
-### Immune checkpoint inhibitor and immunotherapy‑related thyroiditis
-- Recognise early thyrotoxicosis progressing to hypothyroidism; manage symptomatically then institute LT4 when hypothyroid; multidisciplinary coordination with oncology for therapy continuation as clinically appropriate.
-### Adjunctive therapies and supplements
-- Selenium supplementation shows modest benefit in reducing anti‑TPO titres in mild disease but not standard for all patients; assess iodine status and avoid excess. Vitamin D deficiency correction may be considered as part of autoimmune modulation.
-### When to consider immunomodulation
-- No established disease‑modifying immunotherapy for routine use; experimental approaches (B‑cell depletion, antigen‑specific tolerance) currently investigational and reserved for clinical trials or exceptional refractory scenarios.
-### Nodules, surgery, and lymphoma
-- Indications for surgery: compressive symptoms, suspicious or malignant cytology, cosmetic concerns, or coexistent nodular disease. Rapid enlargement or systemic symptoms require urgent FNA, flow cytometry, and haematology referral for lymphoma management (chemotherapy ± radiotherapy).
-### Transition of care and comorbidity management
-- Address cardiovascular risk, dyslipidaemia, metabolic bone health, and neurocognitive complaints; coordinate with primary care for long‑term surveillance and pregnancy planning.
-### Special scenarios
-- Coexisting type 1 diabetes: coordinate dosing and glucose monitoring; hypothyroidism can reduce insulin requirements
-- Down syndrome: lower threshold for screening and early treatment due to higher prevalence and developmental vulnerability.
-- Adolescents planning pregnancy or postpartum: manage as adult pregnancy guidelines for dose adjustments and TRAb assessment if relevant.
-    
+- **Anti-Thyroperoxidase (TPO-Ab):** Primary destructive autoantibody. Activates complement cascade; mediates antibody-dependent cell-mediated cytotoxicity.
+- **Anti-Thyroglobulin (Tg-Ab):** Frequently present; lacks direct role in autoimmune glandular destruction.
+- **TSH Receptor-Blocking Antibodies (TRBAb):** Bind to TSH receptor preventing TSH action; induce severe thyroid atrophy; present in 18% of cases with profound hypothyroidism (TSH >20 mU/L).
+
+### Genetic Associations
+
+- **HLA Haplotypes:** HLA-DR4 and HLA-DR5 associated with increased risk of goitrous variant. HLA-DR3 associated with atrophic variant.
+- **Immunomodulatory Genes:** Polymorphisms in _CTLA4_, _PTPN22_, and _HLA-D3/D4_ alleles increase susceptibility, particularly within Autoimmune Polyglandular Syndrome Type 2 (APS-2) cohorts[^aps2].
+
+## Clinical Manifestations
+
+### Thyroid Gland Characteristics
+
+- Diffuse goiter and growth deceleration represent hallmark classical presentation.
+- Gland consistency: Firm, nontender, rubbery.
+- Surface texture: Bosselated (pebbly or cobblestone appearance).
+- Asymmetric enlargement occasionally occurs; clinically mimics solitary thyroid nodule.
+
+### Disease Phases & Functional Status
+
+|Phase|Pathophysiology & Clinical Features|
+|:--|:--|
+|**Euthyroid Phase**|Most common initial presentation. Asymptomatic goiter. Normal FT4 and TSH. Goiter may persist or spontaneously regress.|
+|**Hashitoxicosis**|Transient thyrotoxicosis (1-5% of cases). Caused by inflammatory follicular destruction releasing preformed T4/T3. Lasts up to 60 days. Manifests with tremulousness, sweating, hyperactivity, irritability. Distinguishable from Graves disease by absence of Thyroid-Stimulating Immunoglobulins (TSI), absence of true ophthalmopathy, and low radioiodine uptake.|
+|**Overt Hypothyroidism**|Insidious onset. Clinical signs: Cold intolerance, severe constipation, bradycardia, lethargy, delayed deep tendon reflexes, dry/scaly skin, carotenemia (yellow skin, white sclerae).|
+
+### Impact on Growth and Development
+
+- **Growth Failure:** Slowing of linear growth is frequently the initial, unrecognized clinical manifestation. Severe stunting of linear growth and delayed skeletal maturation (bone age) characterize untreated disease. Weight gain driven primarily by fluid retention (myxedema), not true adiposity.
+- **Delayed Puberty:** Typical in older adolescents with chronic hypothyroidism.
+- **Van Wyk-Grumbach Syndrome (Pseudoprecocious Puberty):** Occurs in ~50% of children with profound, long-standing, untreated hypothyroidism.
+    - _Pathophysiology:_ Massively elevated TSH (>500 mU/L) cross-reacts with Follicle-Stimulating Hormone (FSH) receptors (specificity spillover) inducing FSH-like effects without Luteinizing Hormone (LH) action.
+    - _Female Features:_ Early menarche, breast development, large multicystic ovaries, absence of pubic hair, delayed bone age, and galactorrhea (TRH-induced hyperprolactinemia).
+    - _Male Features:_ Macroorchidism (testicular enlargement) without significant penile growth or virilization.
+
+## Comorbid Autoimmune & Syndromic Associations
+
+High risk for concurrent chromosomal abnormalities and other autoimmune endocrinopathies. Annual surveillance for associated disorders is mandatory.
+
+| Category                                             | Associated Conditions & Clinical Notes                                                                                                                                                                                                                                                                                                                                                        |
+| :--------------------------------------------------- | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Chromosomal Disorders**                            | **Trisomy 21 (Down syndrome):** 30% develop antibodies; 15-20% develop overt hypothyroidism.<br>**Turner Syndrome (45,X):** 40% develop antibodies; 15-30% acquire hypothyroidism.<br>**Klinefelter Syndrome (47,XXY):** Increased incidence of generalized autoimmunity.                                                                                                                     |
+| **Autoimmune Polyglandular Syndrome Type 1 (APS-1)** | Autosomal recessive (_AIRE_ gene mutation). <br>Triad: <li>Chronic mucocutaneous candidiasis</li><li>Hypoparathyroidism</li><li>Addison disease</li><br>Hashimoto thyroiditis occurs in ~30% of cases.                                                                                                                                                                                        |
+| **Autoimmune Polyglandular Syndrome Type 2 (APS-2)** | Polygenic inheritance (HLA-DR3/DR4). <br>Features: <li>Autoimmune primary adrenal insufficiency (Addison disease)</li><li>Type 1 Diabetes Mellitus</li><li>Autoimmune Thyroiditis</li> Hashimoto thyroiditis present in 70-75% of APS-2 cases.                                                                                                                                                |
+| **IPEX Syndrome**                                    | <span style="color:rgb(255, 192, 0)">X</span>-linked recessive (_FOXP3_ gene mutation). <br>Features: <li><span style="color:rgb(255, 192, 0)">I</span>mmunodysregulation</li><li><span style="color:rgb(255, 192, 0)">P</span>olyendocrinopathy</li><li><span style="color:rgb(255, 192, 0)">E</span>nteropathy</li><li>Early-onset diabetes</li><li>severe colitis</li><li>thyroiditis</li> |
+| **Isolated Autoimmune Conditions**                   | **Type 1 Diabetes Mellitus:** ~20% prevalence of TPO-Ab; 5% acquire overt hypothyroidism.<br>**Celiac Disease:** Occurs in 1% of Hashimoto cases.<br>**Others:** Vitiligo, Alopecia, Myasthenia gravis, Pernicious anemia, Autoimmune hepatitis.                                                                                                                                              |
+
+## Diagnostic Evaluation
+
+### Biochemical Testing (Thyroid Function Tests)
+
+Requires age-specific pediatric reference ranges to avoid erroneous over-diagnosis of subclinical disease.
+
+- **Euthyroid:** Normal TSH, Normal FT4.
+- **Subclinical Hypothyroidism:** Mildly elevated TSH (e.g., 5-10 mU/L), Normal FT4.
+- **Overt Hypothyroidism:** Markedly elevated TSH (>10 mU/L), Low FT4.
+- **Ancillary Labs in Severe Disease:** Hyponatremia, macrocytic anemia, hypercholesterolemia, elevated creatine phosphokinase (CPK).
+
+### Autoantibody Markers
+
+- **TPO-Ab & Tg-Ab:** Testing for both antibodies yields >95% diagnostic sensitivity.
+- **Clinical Utility limitations:** Absolute antibody titers do not correlate with current thyroid function or disease severity. Serial monitoring of autoantibody titers is not clinically recommended after initial diagnosis.
+
+### Imaging Modalities
+
+- **Ultrasound:** Reveals diffusely heterogeneous echotexture; frequently demonstrates increased hyperplastic, benign-appearing cervical lymph nodes. Primary indication: Evaluation of palpable discrete thyroid nodules or marked glandular asymmetry to rule out malignancy.
+- **Scintigraphy (Radionuclide Scan):** Demonstrates patchy, irregular, decreased radioisotope uptake. Rarely indicated for routine diagnosis. Differentiates Hashitoxicosis (low uptake) from Graves disease (high, diffuse uptake).
+
+## Management & Pharmacotherapy
+
+### Treatment Indications & Strategies
+
+- **Euthyroid Goiter:** Observation is the standard of care. Suppressive Levothyroxine (L-T4) therapy aimed at shrinking the goiter yields limited benefit, does not alter the underlying autoimmune process, and is generally avoided due to adverse effects of iatrogenic thyrotoxicosis.
+- **Subclinical Hypothyroidism (TSH 5-10 mU/L):** Observation is acceptable; ~35% spontaneously revert to euthyroidism. Treatment indicated if TSH persistently >10 mU/L, progressive thyromegaly occurs, or symptoms develop.
+- **Overt Hypothyroidism:** Prompt initiation of oral Levothyroxine (L-T4).
+
+### Levothyroxine (L-T4) Dosing
+
+Dosing requirements decrease with advancing age/weight.
+
+|Age Group|Daily L-T4 Dose Requirement|
+|:--|:--|
+|**1 - 3 years**|4 - 6 mcg/kg/day|
+|**3 - 10 years**|3 - 5 mcg/kg/day|
+|**10 - 16 years**|2 - 4 mcg/kg/day|
+
+### High-Yield Pharmacotherapy Precautions
+
+- **Pseudotumor Cerebri Risk:** In patients presenting with profound, long-standing hypothyroidism, initiating full-dose L-T4 can precipitate intracranial hypertension (pseudotumor cerebri).
+    - _Strategy:_ Initiate therapy at 1/3 to 1/2 of the conventional calculated dose. Up-titrate gradually to the full replacement dose over 2-4 weeks.
+- **Acute Myopathy Risk:** Rapid correction of chronic hypothyroidism may rarely induce acute myopathy with massive CPK elevation and severe muscle cramps; requires careful monitoring during initial treatment phase.
+- **Adrenal Crisis Risk:** In patients with concurrent Autoimmune Polyglandular Syndrome (APS), unrecognized Addison disease must be excluded before initiating L-T4. Thyroid hormone accelerates cortisol metabolism; L-T4 administration prior to glucocorticoid replacement can precipitate fatal adrenal crisis.
+
+### Monitoring & Follow-Up
+
+- **Therapeutic Targets:** Maintain TSH strictly within the age-specific normal reference range. In children <3 years, maintain FT4 in the upper half of the normal reference range to optimize neurodevelopment.
+- **Monitoring Frequency:** Re-evaluate TSH and FT4 every 4-6 weeks following any dose adjustment. Once stable, monitor every 4-6 months.
+- **Behavioral Changes:** Transient deterioration in schoolwork, poor sleep, restlessness, and short attention span may occur during the first year of therapy as metabolism normalizes; anticipatory guidance for parents is essential.
+
+## Prognosis & Long-Term Outcomes
+
+- Spontaneous remission of subclinical disease occurs in up to 35% of cases.
+- Euthyroid goiters may persist for years before shrinking.
+- Once overt hypothyroidism develops, lifelong L-T4 replacement is typically required.
+- **Growth Prognosis:** Rapid catch-up growth follows treatment initiation. However, in severely delayed diagnoses, premature fusion of epiphyses limits complete catch-up, resulting in permanently compromised final adult height. Ensure serial monitoring of growth velocity and bone age.

@@ -2,7 +2,6 @@
 {"dg-publish":true,"permalink":"/endocrinology/puberty-goiter/","noteIcon":"","dgPassFrontmatter":true}
 ---
 
-
 ## Definition
 
 Pubertal goitre describes thyroid enlargement occurring during puberty when rapid somatic growth and hormonal changes alter thyroid physiology.
@@ -77,7 +76,6 @@ Overarching principle: tailor therapy to aetiology, symptomatology, functional s
 9. Public health and family counselling:
 	- Screen family for autoimmune disease when indicated, ensure iodine sufficiency, and address psychosocial impact.
 ## Special considerations in adolescents
-
 - Growth and pubertal timing: monitor growth velocity and bone age. Treat early hypothyroidism aggressively to preserve height potential.
 - Fertility and pregnancy planning in older adolescents: counsel regarding euthyroidism for conception; adjust levothyroxine dose in pregnancy.
 - Psychosocial and cosmetic concerns: provide counselling; consider earlier surgical referral for large cosmetically distressing goitres after medical optimization.
@@ -85,4 +83,3 @@ Overarching principle: tailor therapy to aetiology, symptomatology, functional s
 ## Complications and prognosis
 - Prognosis depends on cause: physiologic pubertal goitre usually regresses; autoimmune disease often chronic and may require lifelong levothyroxine; nodular disease carries malignancy risk (higher malignancy rate in paediatric nodules than adults).
 - Complications: persistent hypothyroidism, thyrotoxicosis, compressive symptoms, cosmetic impact, and rare progression to lymphoma or carcinoma in nodular disease.
----

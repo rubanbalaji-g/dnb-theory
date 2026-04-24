@@ -129,14 +129,14 @@
 
 Genetic defects in transcription factors essential for thyroid morphogenesis account for 2-5% of cases, often presenting with syndromic features.
 
-|Gene|Inheritance|Associated Syndrome & Extra-thyroidal Phenotype|
-|:--|:--|:--|
-|_**NKX2.1**_|De novo / AD|**Brain-Lung-Thyroid Syndrome:** Respiratory distress, hypotonia, choreoathetosis, ataxia.|
-|_**FOXE1**_|AR|**Bamforth-Lazarus Syndrome:** True athyreosis, cleft palate, spiky/kinky hair, choanal atresia, bifid epiglottis.|
-|_**PAX8**_|AD / De novo|Kidney and urinary tract malformations, cysts within thyroid remnants.|
-|_**GLIS3**_|AR|Neonatal diabetes, congenital glaucoma, sensorineural deafness, liver/kidney/exocrine pancreas failure.|
-|_**JAG1**_|AD|**Alagille Syndrome:** Liver and cardiovascular involvement.|
-|_**TSHR**_|AR|Apparent athyreosis; complete resistance to TSH stimulation.|
+| Gene             | Inheritance  | Associated Syndrome & Extra-thyroidal Phenotype                                                         |
+| :--------------- | :----------- | :------------------------------------------------------------------------------------------------------ |
+| _**NKX2.1**_     | De novo / AD | **Brain-Lung-Thyroid Syndrome**[^blt]                                                                   |
+| _**FOXE1/TTF2**_ | AR           | **Bamforth-Lazarus Syndrome**[^bls]                                                                     |
+| _**PAX8**_       | AD / De novo | Kidney and urinary tract malformations, cysts within thyroid remnants.                                  |
+| _**GLIS3**_      | AR           | Neonatal diabetes, congenital glaucoma, sensorineural deafness, liver/kidney/exocrine pancreas failure. |
+| _**JAG1**_       | AD           | **Alagille Syndrome**[^alagille]                                                                        |
+| _**TSHR**_       | AR           | Apparent athyreosis; complete resistance to TSH stimulation.                                            |
 
 ## Clinical Manifestations
 
@@ -165,3 +165,6 @@ Genetic defects in transcription factors essential for thyroid morphogenesis acc
 
 
 [^perchlorate]: The **perchlorate discharge test** is a diagnostic procedure used to detect defects in **iodide organification**, often seen in conditions like Pendred syndrome. It involves administering radioactive iodine followed by potassium perchlorate; if the thyroid cannot properly "trap" and bind the iodine into proteins, the perchlorate forces the unbound iodine out, causing a significant drop (discharge) in thyroid radioactivity levels.
+[^blt]: **Brain-lung-thyroid syndrome** is a rare genetic disorder caused by mutations in the **NKX2-1 gene**, which is essential for the development of these three specific organs. It typically presents as a clinical triad of **congenital hypothyroidism**, infant **respiratory distress syndrome**, and a movement disorder known as **benign hereditary chorea**. Because the severity of symptoms varies, some individuals may only exhibit one or two of these features throughout their lives.
+[^bls]: **Bamforth-Lazarus syndrome** is an extremely rare genetic condition caused by mutations in the **TTF-2 (FKHL15)** gene, which is critical for early organ development. It is primarily characterized by the triad of **thyroid dysgenesis** (often resulting in an absent or misplaced thyroid), a **cleft palate**, and **spiky hair**. Some individuals with this syndrome may also exhibit additional features like choanal atresia (blocked nasal passages) or bifid epiglottis.
+[^alagille]: **Alagille syndrome** is a complex genetic disorder, typically caused by mutations in the **JAG1 gene**, that leads to a shortage of bile ducts within the liver (**bile duct paucity**). This results in chronic liver disease and is classically associated with a specific group of features, including **butterfly vertebrae**, distinctive facial characteristics, heart defects (like peripheral pulmonic stenosis), and eye abnormalities (**posterior embryotoxon**).
