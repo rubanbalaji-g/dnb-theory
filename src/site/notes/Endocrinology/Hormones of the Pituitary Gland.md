@@ -33,13 +33,13 @@
 - Regulated by alternating secretion of hypothalamic hormones.
 - Peaks occur when Growth Hormone-Releasing Hormone (GHRH) peaks coincide with somatostatin troughs.
 
-|Regulator|Effect on GH|Mechanism / Origin|
-|:--|:--|:--|
-|GHRH|Stimulates|Hypothalamic peptide; binds G-protein-coupled receptor; increases cAMP.|
-|Somatostatin (SRIF)|Inhibits|Hypothalamic 14-aa peptide; decreases adenylate cyclase and intracellular calcium.|
-|Ghrelin|Stimulates|Gastric peptide; activates GH Secretagogue Receptor (GHS-R).|
-|IGF-1|Inhibits|Long-loop negative feedback.|
-|GH|Inhibits|Short-loop negative feedback via periventricular somatostatin neurons.|
+| Regulator           | Effect on GH | Mechanism / Origin                                                                 |
+| :------------------ | :----------- | :--------------------------------------------------------------------------------- |
+| GHRH                | Stimulates   | Hypothalamic peptide; binds G-protein-coupled receptor; increases cAMP.            |
+| Somatostatin (SRIF) | Inhibits     | Hypothalamic 14-aa peptide; decreases adenylate cyclase and intracellular calcium. |
+| Ghrelin             | Stimulates   | Gastric peptide; activates GH Secretagogue Receptor (GHS-R).                       |
+| IGF-1               | Inhibits     | Long-loop negative feedback.                                                       |
+| GH                  | Inhibits     | Short-loop negative feedback via periventricular somatostatin neurons.             |
 
 - Physiologic stimulators: Exercise, physical stress, trauma, fasting, hypoglycemia, puberty.
 - Physiologic inhibitors: Hyperglycemia, hypothyroidism, free fatty acids, glucocorticoids, obesity.
@@ -203,7 +203,7 @@
 ## Oxytocin
 
 ### Molecular Structure and Synthesis
-
+![let_down_reflex_2_1024x1024.jpg|right|300](/img/user/+%C4%B0mages/let_down_reflex_2_1024x1024.jpg)
 - Nonapeptide (9-amino acids).
 - Co-synthesized with Neurophysin I.
 
