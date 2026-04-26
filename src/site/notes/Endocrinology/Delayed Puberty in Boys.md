@@ -27,7 +27,13 @@
 - **Molecular Defects:** Mutations in _IGSF10_ cause delayed migration of GnRH neurons from olfactory bulbs to hypothalamus during embryogenesis. _LIN28B_ variants also implicated.
 - **Growth Pattern:** Normal birth size. Growth deceleration between 6 months and 2 years. Tracks along lower percentiles. Delayed skeletal maturation (bone age).
 - **Clinical Course:** Endogenous puberty eventually occurs. Adult height usually reaches genetic target range, though pubertal growth spurt magnitude may be diminished.
+### Functional (Transient) Hypogonadotropic Hypogonadism
 
+- **Pathogenesis:** Adaptive suppression of HPG axis to conserve energy during chronic stress or negative energy balance.
+- **Nutritional:** Anorexia nervosa, malnutrition.
+- **Systemic Illness:** Celiac disease, inflammatory bowel disease, cystic fibrosis, chronic renal failure, sickle cell anemia, thalassemia.
+- **Endocrine:** Hypothyroidism, poorly controlled diabetes mellitus, hyperprolactinemia.
+- **Excessive Exercise:** Elite athletes, wrestlers ("making weight").
 ### Persistent Hypogonadotropic Hypogonadism (HH)
 
 Characterized by low LH, low FSH, and low testosterone.
@@ -56,14 +62,6 @@ Characterized by low LH, low FSH, and low testosterone.
 - **Tumors:** Craniopharyngioma, glioma, germinoma, pituitary adenoma (prolactinoma).
 - **Infiltrative:** Langerhans cell histiocytosis, hemochromatosis, sarcoidosis.
 - **Iatrogenic:** Cranial radiation, neurosurgery, chronic glucocorticoids, opiates.
-
-### Functional (Transient) Hypogonadotropic Hypogonadism
-
-- **Pathogenesis:** Adaptive suppression of HPG axis to conserve energy during chronic stress or negative energy balance.
-- **Nutritional:** Anorexia nervosa, malnutrition.
-- **Systemic Illness:** Celiac disease, inflammatory bowel disease, cystic fibrosis, chronic renal failure, sickle cell anemia, thalassemia.
-- **Endocrine:** Hypothyroidism, poorly controlled diabetes mellitus, hyperprolactinemia.
-- **Excessive Exercise:** Elite athletes, wrestlers ("making weight").
 
 ### Hypergonadotropic Hypogonadism (Primary Testicular Failure)
 
@@ -101,6 +99,38 @@ Characterized by elevated LH and FSH, low testosterone.
     - _Scrotum:_ Check for cryptorchidism, bifid scrotum, hypospadias.
 - **Secondary Sex Characteristics:** Differentiate Tanner genital stage from pubic hair stage.
 - **General Exam:** Neurologic/visual field exam, olfactory testing (sense of smell), dysmorphic features.
+```mermaid
+graph TD
+
+Start["Boy &ge; 14 years with no testicular enlargement (volume &lt; 4 mL)"] --> Eval["1\. Clinical Evaluation: History (Growth, Family Hx) & Physical Exam"]
+
+Eval --> FirstLine["2\. First-Line Labs: Bone Age, Basal LH & FSH, Testosterone, Systemic Screen (TSH, etc.)"]
+
+FirstLine --> LHFSH{"Basal LH & FSH Levels"}
+
+%% Hypergonadotropic Branch
+LHFSH -- "High (Elevated)" --> Hyper["Hypergonadotropic Hypogonadism (Primary Testicular Failure)"]
+Hyper --> Karyotype["Check Karyotype (Mandatory to rule out Klinefelter 47,XXY)"]
+HyperTx["Management: Testosterone Replacement, Fertility Preservation"]
+Karyotype --> HyperTx
+
+%% Hypogonadotropic Branch
+LHFSH -- "Low / Normal" --> Hypo["Secondary Hypogonadism"]
+Hypo --> Screen{"Systemic / Chronic Illness Present?"}
+
+Screen -- "Yes" --> FHH["Functional HH (e.g., Celiac, Anorexia, Hypothyroidism)"]
+FHH --> FHHTx["Management: Treat Underlying Condition"]
+
+Screen -- "No" --> CDGP_vs_HH["Differentiate: CDGP vs. Persistent HH"]
+CDGP_vs_HH --> SecondLine["Second-Line Labs<br/>Inhibin B, GnRH/hCG Stim Tests, MRI, Olfactory Test"]
+
+%% Differentiating CDGP and PHH
+SecondLine --> CDGP["Constitutional Delay of Growth & Puberty (CDGP)<br/>(e.g., Inhibin B &gt; 65 pg/mL, Family Hx)"]
+CDGP --> CDGPTx["Management: Watchful Waiting OR Short-course Low-Dose Testosterone"]
+
+SecondLine --> PHH["Persistent HH (e.g., Kallmann Syndrome, MPHD)<br/>(e.g., Inhibin B &lt; 35 pg/mL, Anosmia, MRI findings)"]
+PHH --> PHHTx["Management: Long-term Testosterone, Exogenous Gonadotropins for Fertility"]
+```
 
 ## Diagnostic Investigations
 

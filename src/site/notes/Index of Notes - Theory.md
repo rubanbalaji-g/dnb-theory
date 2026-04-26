@@ -62,13 +62,9 @@ Organ-system–based approach to pediatric diseases.
 > Congenital and acquired heart diseases in children.  
 > [[Cardiology/💗 Cardiology\|View Notes →]]
 
-> [!red] 🩸Hematology  
-> Anemias, bleeding disorders, bone marrow failure, and hemoglobinopathies.  
-> [[Hematology/🩸 Hematology\|View Notes →]]
-
-> [!red] 🦀Oncology  
-> Childhood malignancies and benign tumors.  
-> [[Oncology/🦀 Oncology\|View Notes →]]
+> [!red] 🩸Hematology and Oncology
+> Anemias, bleeding disorders, bone marrow failure, hemoglobinopathies and childhood Malignancies  
+> [[Hematology/🩸 Hematology and Oncology\|View Notes →]]
 
 > [!red] 🧠Neurology  
 > Disorders of the central and peripheral nervous system, including seizures.  

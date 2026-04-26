@@ -2,153 +2,151 @@
 {"dg-publish":true,"permalink":"/hematology/transfusion-reaction/","dgPassFrontmatter":true}
 ---
 
-## Introduction to Transfusion Reactions
+Blood component therapy encompasses inherent risks, necessitating meticulous surveillance. Complications undergo classification based on temporal onset and underlying mechanism, dividing into acute and delayed, or infectious and non-infectious categories.
 
-- Transfusion of blood components is a critical, often life-saving intervention, but it carries inherent risks of complications that vary widely in severity and temporal onset.
-- Reactions are generally classified chronologically into acute reactions, occurring within 0 to 24 hours of the transfusion, and delayed or chronic reactions, which may manifest days, weeks, or even years later.
-- The etiology of these reactions is further subdivided into immunologic phenomena, driven by donor-recipient biological incompatibilities, and non-immunologic mechanisms, such as volume shifts, physical cellular damage, or infectious agents.
-- The single most significant and preventable risk associated with blood transfusion remains clerical misidentification, where a patient receives an incompatible blood unit intended for another individual due to errors in sample labeling or bedside verification.
+## Classification of transfusion reactions
 
-## Acute Immunologic Transfusion Reactions
+|Temporal onset|Reaction types|
+|:--|:--|
+|**Acute** (0-24 hours)|Acute hemolytic, febrile non-hemolytic, allergic, pulmonary, hypotensive, metabolic, septic.|
+|**Delayed** (Days to years)|Delayed hemolytic, alloimmunization, graft-versus-host disease, infectious transmission, iron overload.|
 
-### Acute Hemolytic Transfusion Reaction (AHTR)
+## Acute transfusion reactions
 
-- AHTRs present a severe, immediate, and potentially fatal complication occurring within 0 to 24 hours of product administration, with an estimated risk of 1 in 95,000 transfused units.
-- The predominant pathophysiology involves major ABO incompatibility, such as the erroneous transfusion of group A red blood cells (RBCs) into a group O recipient.
-- Naturally occurring, complement-fixing immunoglobulin M (IgM) isohemagglutinins (e.g., anti-A or anti-B) in the recipient's plasma immediately bind to the transfused erythrocytes, precipitating a massive cascade of intravascular hemolysis.
-- Alternatively, incompatible donor plasma (e.g., group O plasma transfused into a group A recipient) can introduce donor isohemagglutinins that attack and destroy the recipient's native erythrocytes.
-- Clinical manifestations are explosive and include sudden fever (temperature elevation $\ge$ 1°C above baseline), profound chills, rigors, flank or back pain, and a characteristic feeling of impending doom.
-- As hemolysis progresses, patients exhibit systemic instability marked by hypotension, dyspnea, hypoxia, hemoglobinuria, and bleeding secondary to evolving disseminated intravascular coagulation (DIC).
+Reactions manifesting during or within 24 hours of blood product administration.
 
-### Febrile Nonhemolytic Transfusion Reaction (FNHTR)
+### Acute hemolytic transfusion reaction
 
-- FNHTR is a relatively common acute complication, carrying an estimated incidence of 1 in 800 transfused units.
-- It is formally defined by an incremental temperature increase of $\ge$ 1°C above the patient's pre-transfusion baseline, occurring within 0 to 4 hours of the infusion, in the absence of other specific identifiable causes.
-- FNHTR is a diagnosis of exclusion primarily mediated by two distinct mechanisms: the accumulation and subsequent infusion of donor-derived pro-inflammatory cytokines during product storage, or an attack by recipient antibodies against residual donor leukocytes.
-- Patients may concurrently experience mild chills, headache, nausea, and vomiting.
-- The incidence and severity of FNHTRs have been drastically curtailed by the universal implementation of pre-storage leukoreduction of RBC and platelet products.
+- Pathophysiology involves transfusion of incompatible red blood cells, frequently due to mismatch of major blood groups.
+- Triggered by preformed immunoglobulin M isohemagglutinins (anti-A or anti-B) destroying donor erythrocytes via complement activation.
+- Primary etiology relates to misidentification of patient or blood sample.
+- Clinical presentation features fever, chills, flank pain, hemoglobinuria, bleeding, and profound hypotension.
+- Neonatal manifestations include increased pallor, hemoglobinemia, hyperkalemia, and acidosis.
+- Management demands immediate cessation of transfusion, intravenous fluid resuscitation, and rigorous hemodynamic support.
 
-### Allergic and Anaphylactic Reactions
+### Febrile non-hemolytic transfusion reaction
 
-- Allergic transfusion reactions are IgE-mediated, type I hypersensitivity responses provoked by the recipient's immune system reacting to foreign plasma proteins present in the donor product.
-- Mild to moderate allergic reactions manifest in roughly 1 in 1,000 transfusions, while severe, life-threatening anaphylactic reactions are exceedingly rare, occurring in 1 in 40,000 transfusions.
-- Mild reactions present with cutaneous symptoms, including localized or generalized urticaria (hives), macular rash, and pruritus.
-- Severe anaphylaxis evolves rapidly within the first hour of transfusion, presenting with catastrophic airway and cardiovascular compromise. Symptoms include bronchospasm, dyspnea, tachypnea, severe hypoxemia, throat or tongue swelling, copious frothy pink-tinged sputum, and profound hypotensive shock.
-- Patients harboring a severe congenital IgA deficiency who possess preformed anti-IgA antibodies are at a significantly elevated risk for anaphylaxis when exposed to IgA-containing donor plasma.
-- For patients with a history of recurrent severe allergic or anaphylactic reactions, cellular blood products must be rigorously washed with saline to remove all offending plasma proteins prior to administration.
+- Represents diagnosis of exclusion.
+- Pathophysiology involves donor pro-inflammatory cytokines accumulated during storage or recipient antibodies reacting against donor leukocytes.
+- Presentation includes temperature elevation exceeding 1°C from baseline, chills, emesis, and headache.
+- Management utilizes antipyretic administration and close observation.
+- Prevention mandates pre-storage leukoreduction of cellular blood products.
 
-### Transfusion-Related Acute Lung Injury (TRALI)
+### Allergic and anaphylactic reactions
 
-- TRALI is an acute, life-threatening respiratory complication occurring within 0 to 6 hours of a transfusion, with an estimated risk of 1 in 70,000 units.
-- The underlying pathophysiology centers on the passive transfer of donor antibodies directed against recipient human leukocyte antigens (HLA) or human neutrophil antigens (HNA).
-- This antigen-antibody interaction incites severe injury to the recipient's pulmonary microvascular endothelium, drastically altering capillary permeability.
-- TRALI manifests clinically as the acute onset of noncardiogenic pulmonary edema, severe dyspnea, hypoxemia, and the presence of bilateral crackles on auscultation.
-- Radiographic imaging characteristically reveals diffuse, bilateral interstitial infiltrates or complete "white out" of the lung fields, notably without cardiomegaly or enlargement of the cardiac silhouette.
-- Crucially, unlike volume-mediated edema, TRALI does not respond to diuretic therapy and carries a high mortality risk, with many fatalities occurring within 48 to 72 hours.
-- Preventative blood banking strategies include avoiding the procurement of high-volume plasma or platelet products from female donors who may have been alloimmunized to leukocyte antigens during prior pregnancies.
+- Pathophysiology involves immunoglobulin E-mediated type I hypersensitivity directed at donor plasma proteins.
+- Anaphylaxis specifically threatens individuals with congenital immunoglobulin A deficiency possessing preformed anti-immunoglobulin A antibodies.
+- Clinical spectrum ranges from mild urticaria (hives, pruritus) to life-threatening anaphylaxis (bronchospasm, dyspnea, angioedema, hypotension).
+- Management incorporates antihistamines for mild reactions; severe reactions require transfusion cessation, epinephrine, corticosteroids, and respiratory support.
+- Prevention of recurrent severe anaphylaxis necessitates washing cellular blood components to remove residual plasma.
 
-## Acute Non-Immunologic Transfusion Reactions
+### Pulmonary transfusion reactions
 
-### Transfusion-Associated Circulatory Overload (TACO)
+Syndromes of acute respiratory distress emerging within 6 hours of blood product administration.
 
-- TACO is caused by acute iatrogenic volume overload leading to cardiogenic pulmonary edema, presenting in approximately 1 in 8,500 transfusions within 0 to 12 hours of the event.
-- It disproportionately affects fluid-sensitive individuals, particularly young infants and children with underlying cardiovascular, renal, or pulmonary pathology.
-- While symptoms like dyspnea, hypoxemia, and pulmonary crackles overlap significantly with TRALI, TACO features distinct clinical hallmarks including orthopnea, jugular venous distention, tachycardia, hypertension, and a widened pulse pressure.
-- Diagnostic support includes an enlarged cardiac silhouette on chest radiography and a characteristically elevated concentration of brain natriuretic peptide (BNP), reflecting acute ventricular distention.
-- TACO patients demonstrate a positive fluid balance and, unlike those with TRALI, exhibit rapid, significant clinical improvement following the administration of intravenous diuretics.
-- Prevention in vulnerable pediatric and neonatal populations involves utilizing slow infusion rates (over 2 to 4 hours), adhering to strict dosing parameters (10-15 mL/kg), and employing volume-reduced components (centrifuging and removing the plasma supernatant) to minimize excess fluid delivery.
+|Feature|Transfusion-related acute lung injury|Transfusion-associated circulatory overload|Transfusion-associated dyspnea|
+|:--|:--|:--|:--|
+|**Pathophysiology**|Donor anti-human leukocyte antigen or anti-human neutrophil antigen antibodies damage recipient lung endothelium.|Volume overload in fluid-sensitive patients.|Diagnosis of exclusion; unknown mechanism.|
+|**Edema type**|Non-cardiogenic pulmonary edema.|Pulmonary hydrostatic (cardiogenic) edema.|Unknown.|
+|**Clinical signs**|Fever, severe hypoxemia, hypotension, crackles on auscultation.|Persistent hypertension, widened pulse pressure, jugular venous distention, copious frothy sputum.|Respiratory distress without specific overload or injury criteria.|
+|**Biomarkers**|Normal brain natriuretic peptide.|Elevated brain natriuretic peptide exceeding 100 pg/mL.|Unknown.|
+|**Imaging**|Bilateral alveolar and interstitial infiltrates.|Enlarged cardiac silhouette, pleural fluid, peribronchial cuffing.|Unknown.|
+|**Response to diuretics**|Ineffective.|Clinical improvement observed.|Ineffective.|
 
-### Transfusion-Associated Dyspnea (TAD)
+### Septic transfusion reactions
 
-- TAD is a diagnosis of exclusion characterized by acute respiratory distress developing within 24 hours of a transfusion.
-- It is applied when a patient's clinical presentation fails to fulfill the stringent diagnostic criteria for either TRALI or TACO, and is managed primarily with supportive respiratory care.
+- Pathophysiology stems from bacterial contamination of blood components.
+- Higher incidence occurs with platelet transfusions due to obligatory room-temperature storage.
+- Frequently involves Gram-negative organisms.
+- Presentation features high fever, rigors, emesis, and profound hypotension.
+- Management dictates immediate transfusion cessation, culturing patient and residual blood product, and initiating empiric broad-spectrum antimicrobial therapy.
 
-### Septic Transfusion Reactions (Bacterial Contamination)
+### Metabolic complications
 
-- Septic reactions arise from the inadvertent infusion of bacterially contaminated blood components and typically manifest within 0 to 6 hours of administration.
-- Bacterial contamination is substantially more common in platelet products (risk of roughly 1 in 100,000) than in RBCs, as platelets mandate room temperature storage (20°C to 24°C) with continuous agitation, fostering an ideal environment for bacterial proliferation.
-- Contamination by Gram-negative organisms frequently precipitates the most fulminant reactions.
-- The clinical presentation mimics both severe systemic sepsis and an AHTR, featuring an abrupt temperature spike ($\ge$ 2°C above baseline), profound chills, rigors, nausea, vomiting, and rapid progression to hypotensive shock.
-- Preventative measures include rigorous pre-release bacterial culturing of platelet units and the expanding use of pathogen inactivation (PI) technology. PI employs psoralen compounds activated by ultraviolet radiation to permanently damage the nucleic acids of bacteria, viruses, fungi, and protozoa, blocking their ability to replicate.
+- Hypocalcemia results from citrate toxicity (anticoagulant in stored blood) binding ionized calcium during large-volume transfusions.
+- Hyperkalemia arises from potassium leakage in stored red blood cells; requires fresh red blood cells (under 5 days old) or washed red blood cells for vulnerable populations like neonates.
+- Additional derangements include hypomagnesemia and glycemic fluctuations (hypoglycemia or hyperglycemia).
 
-### Metabolic and Physiologic Complications
+## Delayed transfusion reactions
 
-- The administration of large-volume transfusions (volumes exceeding 20 mL/kg) or the execution of massive transfusion protocols (replacement of >40 mL/kg or an entire estimated blood volume) introduces critical risks of physiological derangement.
-- Severe hypocalcemia can develop rapidly due to the infusion of high concentrations of citrate—the primary anticoagulant in stored blood and apheresis fluids—which avidly chelates ionized calcium in the recipient's plasma.
-- Hyperkalemia is a notable risk, especially when utilizing irradiated RBC units, as gamma irradiation damages the erythrocyte membrane, accelerating the leakage of intracellular potassium into the storage supernatant.
-- Neonates receiving massive volumes of RBCs suspended in extended storage additive solutions (AS-1, AS-3, AS-5) are at risk for hypernatremia and hyperglycemia.
-- Massive transfusion of stored, refrigerated products can independently precipitate dilutional coagulopathy, profound metabolic acidosis, and hypothermia. This necessitates the protocolized, balanced replacement of RBCs, plasma, and platelets (e.g., 1:1:1 ratio) alongside active, continuous patient warming.
+Complications manifesting days, months, or years following blood product administration.
 
-## Delayed Immunologic Transfusion Reactions
+### Delayed hemolytic transfusion reaction
 
-### Delayed Hemolytic Transfusion Reaction (DHTR)
-
-- DHTRs present days to weeks—most commonly 24 hours to 10 days—following a transfusion, with a risk incidence of approximately 1 in 20,000.
-- The reaction is driven by an anamnestic humoral immune response; the recipient produces IgG alloantibodies against minor donor RBC antigens to which they were previously sensitized through prior transfusions or pregnancies.
-- Because the specific antibody titer may wane below the laboratory's limit of detection over time, initial pre-transfusion compatibility screening may yield a false-negative result.
-- Upon re-exposure via transfusion, memory B-cells orchestrate a rapid, high-titer antibody surge, resulting predominantly in the extravascular destruction of the transfused donor cells by the reticuloendothelial system.
-- Clinical manifestations include an unexplained, progressive decline in hemoglobin, alongside classic signs of hemolysis such as pallor, jaundice, fatigue, and hemoglobinuria.
-- In patients with Sickle Cell Disease (SCD), a DHTR is exceptionally hazardous, as the systemic inflammation and hemolysis frequently mimic the presentation of an acute vaso-occlusive pain crisis. Without a high index of suspicion, the precipitous drop in hemoglobin may be erroneously attributed strictly to the primary sickling process rather than to alloimmune destruction.
+- Pathophysiology features anamnestic humoral response where recipient antibodies target minor donor red blood cell antigens (e.g., Kell, Duffy, Kidd).
+- Onset spans 24 hours to 10 days post-transfusion.
+- Presentation includes progressive pallor, fatigue, jaundice, and hemoglobinuria.
+- High risk noted in sickle cell disease; delayed hemolysis frequently mimics vaso-occlusive pain crisis, obscuring underlying antibody-mediated destruction.
+- Prevention demands comprehensive transfusion history review and extended antigen matching.
 
 ### Alloimmunization
 
-- Alloimmunization refers to the pathological generation of recipient antibodies against foreign donor RBC antigens, HLA, or human platelet antigens (HPA) following exposure.
-- Patients reliant on chronic transfusion therapy, notably those with SCD and Thalassemia Major, harbor a profoundly elevated risk of alloimmunization.
-- In the SCD population, the overall incidence of RBC alloimmunization approaches 17.6%, with antibodies most frequently directed against the Kell antigen (26%) and the Rh minor antigens E (24%) and C (16%).
-- Prevention strictly dictates that all chronically transfused patients undergo extended RBC phenotyping or comprehensive genotyping at the time of initial diagnosis.
-- All subsequent RBC transfusions for these high-risk patients must be leukoreduced and prophylactically matched not only for ABO and Rh(D), but also for the extended minor antigens C, c, E, e, and Kell.
-- Unchecked alloimmunization to HLA class I antigens or specific HPA can render a patient highly refractory to standard platelet transfusions, mandating the procurement of specialized HLA-matched or crossmatched single-donor apheresis platelets.
+- Pathophysiology features immune system recognition of foreign red blood cell, human leukocyte, or human platelet antigens, generating specific alloantibodies.
+- Incidence reaches 17.6% in chronically transfused sickle cell disease patients.
+- Frequently targeted red blood cell antigens include Kell, Rhesus E, and Rhesus C.
+- Complications include refractoriness to future platelet transfusions and extreme difficulty securing compatible red blood cell units for subsequent needs.
+- Prevention utilizes leukoreduction and prophylactic extended phenotypic matching.
 
-### Transfusion-Associated Graft-Versus-Host Disease (TA-GVHD)
+### Transfusion-associated graft-versus-host disease
 
-- TA-GVHD is a rare but nearly universally fatal complication that typically manifests weeks after the offending transfusion.
-- It is precipitated when viable, immunocompetent donor T-lymphocytes present in the cellular blood product recognize the recipient's tissues as foreign, subsequently engrafting and mounting a catastrophic systemic immune attack.
-- The recipient is typically unable to reject these donor lymphocytes due to profound underlying cellular immunodeficiency or extreme physiological immaturity.
-- Susceptible populations include premature infants weighing less than 1,200 grams, fetuses receiving intrauterine transfusions, patients with congenital immunodeficiencies (e.g., SCID), hematopoietic stem cell transplant (HSCT) recipients, and patients undergoing aggressive immunosuppression.
-- Critically, TA-GVHD can also occur in fully immunocompetent recipients if the blood product is sourced from a directed donation by a first-degree blood relative. In this scenario, the recipient's immune system may fail to recognize the donor's HLA-homozygous haploidentical lymphocytes as foreign, permitting unchecked, fatal engraftment.
-- Prevention relies entirely on the mandatory irradiation (25 to 50 Gray utilizing X-rays or gamma rays) of all cellular blood products prior to release. Irradiation irreparably cross-links the DNA of donor T-lymphocytes, destroying their capacity for replication. Alternatively, approved pathogen-reduction technologies can substitute for irradiation.
+- Pathophysiology involves viable donor T-lymphocytes engrafting and launching immunological attack against recipient tissues.
+- Highly fatal complication presenting 2 days to 6 weeks post-transfusion.
+- High-risk populations include fetuses receiving intrauterine transfusions, neonates undergoing exchange transfusion, individuals with congenital cellular immunodeficiencies, and recipients of directed donations from haploidentical blood relatives.
+- Prevention exclusively relies on gamma irradiation of cellular blood products to inactivate lymphocytes or application of pathogen-reduction technology.
+- Leukoreduction fails to prevent this complication.
 
-### Post-Transfusion Purpura
+### Transfusion-transmitted infections
 
-- This is a rare, delayed immunologic complication carrying an incidence of 1 in 30,000 transfusions, characterized by severe thrombocytopenia developing approximately one week post-transfusion due to the generation of alloantibodies against human platelet antigens.
+Stringent donor screening and nucleic acid amplification testing markedly reduce transmission rates, though residual risks remain.
 
-## Delayed Non-Immunologic Transfusion Reactions
+|Pathogen|Estimated residual transmission risk|
+|:--|:--|
+|Human immunodeficiency virus|1 in 2 million.|
+|Hepatitis C virus|1 in 2 million.|
+|Hepatitis B virus|1 in 1.7 million to 2 million.|
+|Human T-cell lymphotropic virus|1 in 3 million.|
+|West Nile virus|Under 1 in 3 million.|
+|Zika virus|Under 1 in 3 million.|
+|Cytomegalovirus|Mitigated effectively by leukoreduction and donor serology screening.|
 
-### Transfusion-Transmitted Infections (TTIs)
+### Transfusional iron overload (hemosiderosis)
 
-- Despite aggressive donor screening protocols and the routine utilization of highly sensitive nucleic acid amplification testing (NAT), a minute residual risk of TTIs remains due to the undetectable "window period" of early viral replication.
-- In the United States, the estimated residual risk of transmission per unit for both the Human Immunodeficiency Virus (HIV) and the Hepatitis C Virus (HCV) is roughly 1 in 2 million, and 1 in 1.7 million for the Hepatitis B Virus (HBV).
-- Cytomegalovirus (CMV) transmission poses a profound, life-threatening risk specifically to immunocompromised patients, including fetuses, extremely low-birth-weight premature infants (<1500 g), and CMV-seronegative HSCT recipients.
-- Because CMV resides exclusively as an intracellular virus within donor leukocytes, universal pre-storage leukoreduction is highly efficacious at establishing a "CMV-safe" product. While some institutions utilize a dual approach of CMV-seronegative and leukoreduced products for the highest-risk neonates, life-saving transfusions must never be delayed to procure seronegative units if leukoreduced blood is available.
-- Other rare but documented TTIs include Human T-cell Lymphotropic Virus (HTLV), Treponema pallidum (syphilis), Parvovirus B19, West Nile virus, Babesia microti, Trypanosoma cruzi (Chagas disease), Zika virus, and the prion pathogen responsible for variant Creutzfeldt-Jakob disease.
+- Pathophysiology involves cumulative iron toxicity since human physiology lacks active iron excretion mechanisms.
+- Each milliliter of packed red blood cells delivers approximately 1 mg of elemental iron.
+- Condition uniquely affects chronically transfused patients (thalassemia major, sickle cell disease, bone marrow failure syndromes).
+- Organ toxicity targets:
+    - Cardiac: Myocardial iron deposition causes cardiomyopathy, arrhythmias, and intractable heart failure; leading cause of mortality.
+    - Hepatic: Portal fibrosis, regenerative nodules, cirrhosis, eventual liver failure.
+    - Endocrine: Pituitary iron deposition causes growth retardation, delayed puberty, hypogonadotropic hypogonadism, insulin-dependent diabetes mellitus, hypothyroidism, hypoparathyroidism, and adrenal insufficiency.
+- Management necessitates rigorous monitoring via serial serum ferritin trends and magnetic resonance imaging T2* to quantify hepatic and cardiac iron burden.
+- Pharmacologic intervention utilizes iron chelators (deferoxamine, deferasirox, deferiprone).
 
-### Transfusion Hemosiderosis (Iron Overload)
+## Neonatal-specific transfusion complications
 
-- Transfusional hemosiderosis is the primary, life-limiting toxic morbidity associated with chronic red cell transfusion regimens in severe congenital anemias (e.g., Thalassemia Major, Diamond-Blackfan Anemia, SCD).
-- Every milliliter of transfused packed RBCs deposits approximately 1 mg of elemental iron into the recipient, and the human body possesses no physiological excretory mechanism to eliminate this excess burden.
-- Pathological iron overload uniformly develops after the cumulative transfusion of roughly 100 mL/kg of RBCs (approximately 10 to 20 transfusion events).
-- Excess free iron supersaturates transferrin binding capacity and is inexorably deposited into the hepatic parenchyma, endocrine glands, and the myocardium.
-- Progressive iron toxicity manifests as hepatic cirrhosis, profound growth failure, hypogonadotropic hypogonadism, hypothyroidism, hypoparathyroidism, and insulin-dependent diabetes mellitus.
-- The most frequent cause of mortality in inadequately chelated patients is intractable heart failure and fatal ventricular arrhythmias secondary to myocardial siderosis.
-- Surveillance mandates the serial tracking of serum ferritin concentrations and the precise, non-invasive quantification of liver iron concentration (LIC) and cardiac iron burden utilizing specialized MRI T2* imaging sequences.
-- Management requires rigorous, lifelong adherence to iron chelation therapy utilizing parenteral agents (deferoxamine) or oral chelators (deferasirox, deferiprone) to actively force iron excretion.
-- In patients with SCD, utilizing automated erythrocytapheresis (exchange transfusion) rather than simple top-up transfusions significantly mitigates the net accumulation of total body iron.
+Unique physiological vulnerabilities predispose premature neonates to specific transfusion-associated morbidities.
 
-## Clinical Approach and Management of Suspected Reactions
+### Transfusion-associated necrotizing enterocolitis
 
-### Immediate Interventions
+- Denotes spectrum of severe gastrointestinal reactions temporally linked to recent blood product administration.
+- Pathophysiology remains multifactorial.
+- Proposed mechanisms implicate inflammatory substances within packed red blood cell units, oxidative stress, gut immaturity, pre-transfusion small bowel hypoxia, and disturbances in mesenteric blood flow post-transfusion.
 
-- At the initial recognition of any adverse physiological symptom during a transfusion, the administration of the blood product must be terminated immediately.
-- The intravenous access line must be kept open and flushed with normal saline to ensure a patent route for emergency fluid resuscitation and pharmacological intervention.
-- A rapid clinical assessment must prioritize the stabilization of vital organ functions, encompassing airway security, respiratory effort, and cardiovascular hemodynamics.
-- A rigorous clerical audit must be conducted at the bedside, cross-referencing patient identification bands against the unit identification and compatibility tags to rule out a fatal misidentification error.
-- The implicated blood unit, alongside the entire administration set and intravenous tubing, must be securely quarantined and returned promptly to the blood bank for comprehensive laboratory investigation.
-- Immediate post-transfusion blood and urine specimens must be drawn from the patient to evaluate for biochemical markers of acute hemolysis, including visual plasma free hemoglobin, elevated indirect bilirubin, depleted serum haptoglobin, and a direct antiglobulin test (DAT).
+### Retinopathy of prematurity and bronchopulmonary dysplasia
 
-### Specific Symptom-Directed Therapy
+- Red blood cell transfusion serves as independent risk factor for retinopathy of prematurity.
+- Pathophysiology relates to transfusion of adult hemoglobin possessing lower oxygen affinity compared to fetal hemoglobin, causing excessive oxygen release.
+- Resultant severe oxidative stress damages developing retinal vessels.
+- Pro-inflammatory and anti-inflammatory mediators accumulating in stored red blood cells contribute significantly to bronchopulmonary dysplasia pathogenesis.
 
-- For isolated, minor temperature elevations (<1°C above baseline) devoid of accompanying systemic signs, the transfusion may be temporarily paused for vigilant observation. If the patient's vitals remain stable, antipyretics may be administered and the transfusion cautiously resumed.
-- If a significant fever ($\ge$ 1°C above baseline) presents alongside severe chills, rigors, or hypotension, AHTR or septic shock must be presumed. The transfusion is definitively aborted, aggressive hemodynamic resuscitation is initiated, and blood cultures of both the patient and the product are mandated prior to the initiation of empiric broad-spectrum antibiotics.
-- For mild allergic manifestations restricted to localized cutaneous urticaria, antihistamines are administered. Should the pruritus and rash completely resolve, the transfusion may be restarted under continuous, direct medical supervision.
-- If symptoms progress to severe allergic reactions, respiratory distress, or shock (raising suspicion for anaphylaxis, TRALI, or an AHTR), the transfusion is permanently discontinued. Immediate, aggressive pharmacological rescue with intramuscular adrenaline, systemic corticosteroids, intravenous antihistamines, and maximal respiratory support must be executed.
-- If overt signs of volume overload are prominent (suspected TACO), immediate positioning of the patient upright, oxygen supplementation, and the administration of intravenous diuretics are required, coupled with meticulous tracking of blood pressure and fluid balance metrics.
+## General management approach to suspected transfusion reaction
+
+Immediate algorithmic steps required upon suspicion of any acute transfusion reaction,,,,:
+
+|Action step|Clinical directive|
+|:--|:--|
+|**1. Halt transfusion**|Stop blood product administration immediately while keeping intravenous line open with normal saline.|
+|**2. Assess patient**|Evaluate airway, breathing, circulation; provide vital organ support (oxygen, vasopressors, diuretics) as clinically indicated.|
+|**3. Verify identification**|Meticulously check patient identification band against blood unit identification and compatibility label to rule out misidentification.|
+|**4. Notify laboratory**|Contact blood transfusion service immediately.|
+|**5. Return materials**|Return implicated blood unit, administration set, and freshly drawn post-transfusion patient blood and urine samples to the laboratory for diagnostic investigation.|
+|**6. Specific therapy**|Administer targeted pharmacotherapy based on symptom presentation (antihistamines for allergy; antipyretics for fever; epinephrine and steroids for anaphylaxis).|
