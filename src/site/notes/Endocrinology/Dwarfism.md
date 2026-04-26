@@ -44,8 +44,81 @@
 ### **Idiopathic Short Stature (ISS):** 
 - Heterogeneous classification for postnatal short stature lacking identifiable systemic, endocrine, or nutritional etiology.
 
-## Diagnostic Evaluation
+## Systemic & Nutritional Disorders
 
+- Represents most common global etiology.
+- Initial weight deceleration; subsequent linear height impairment.
+
+|Category|Pathologies|
+|:--|:--|
+|**Nutritional**|Inadequate caloric/protein intake, malabsorption.|
+|**Gastrointestinal**|Celiac disease, Crohn disease, cystic fibrosis.|
+|**Renal**|Chronic kidney disease, renal tubular acidosis.|
+|**Inflammatory**|Juvenile idiopathic arthritis.|
+|**Cardiopulmonary**|Congenital heart disease, chronic hypoxemia.|
+
+## Acquired Endocrine Disorders
+
+- Height failure accompanied by preserved/increased weight (elevated BMI).
+
+### Acquired Growth Hormone Deficiency (GHD)
+
+|Etiology|Specific Conditions|
+|:--|:--|
+|**Neoplastic**|Craniopharyngioma (most common), germinoma, hypothalamic/optic glioma.|
+|**Infectious**|Meningitis, encephalitis, tuberculosis, toxoplasmosis, pituitary abscess.|
+|**Infiltrative**|Langerhans cell histiocytosis, sarcoidosis, hemochromatosis.|
+|**Iatrogenic**|Cranial/spinal irradiation, neurosurgery, chemotherapy.|
+|**Traumatic**|Severe head injury, perinatal insult (breech delivery).|
+|**Vascular**|Aneurysm, pituitary infarction.|
+
+### Other Acquired Endocrinopathies
+
+|Condition|Characteristics|
+|:--|:--|
+|**Hypothyroidism**|Autoimmune (Hashimoto) thyroiditis origin. Severe progressive growth failure, delayed bone age, delayed reflexes.|
+|**Cushing Syndrome**|Glucocorticoid excess (iatrogenic/endogenous). Attenuated linear growth, truncal obesity, delayed skeletal maturation.|
+
+## Psychosocial Dwarfism
+
+- Consequence of severe emotional/parental deprivation.
+- Associated with transient, reversible GH secretory abnormalities.
+- Catch-up growth ensues upon placement in nurturing environment.
+
+## Diagnostic Evaluation
+```mermaid
+graph TD
+    A[Clinical Evaluation of Short Stature / Dwarfism] --> B{Assess Time Course}
+    
+    B -->|Fetal Onset<br>SGA/IUGR| C[Intrinsic Genetic Defects,<br>Maternal, or Placental Factors]
+    B -->|Postnatal Onset| D{Assess Body Proportions}
+    
+    D -->|Disproportionate| E[Skeletal Dysplasias or<br>SHOX Deficiency]
+    D -->|Proportionate| F{Assess BMI & Weight Trajectory}
+    
+    F -->|Decreasing BMI<br>Weight Deceleration| G[Malnutrition or<br>Chronic Systemic Disease]
+    F -->|Increasing or Preserved BMI| H[Endocrinopathy Workup]
+    F -->|Normal BMI / Specific History| I[Variants of Normal or<br>Psychosocial Dwarfism]
+    
+    G --> G1[Investigate:<br>- Nutritional Deficits<br>- Gastrointestinal e.g., Celiac, Crohn's<br>- Renal Disease<br>- Inflammatory e.g., JIA<br>- Cardiopulmonary]
+    
+    H --> H1[Check Thyroid Function: FT4, TSH]
+    H --> H2[Assess for Glucocorticoid Excess:<br>Cushing Syndrome]
+    H --> H3[Screen for GH Deficiency:<br>IGF-1 & IGFBP-3]
+    
+    H3 --> H4{Are IGF-1/IGFBP-3 Low?}
+    H4 -->|Yes| H5[Provocative GH Testing x2]
+    H5 -->|Peak GH < 10 mcg/L| H6[Confirmed GH Deficiency<br>Mandatory Brain MRI]
+    H4 -->|Normal but severe stunting| H7[Consider Laron Dwarfism<br>GH Insensitivity]
+    
+    I --> I1[Constitutional Delay CDGP:<br>Delayed Bone Age & Puberty]
+    I --> I2[Idiopathic Short Stature ISS:<br>Diagnosis of Exclusion]
+    I --> I3[Psychosocial Dwarfism:<br>Emotional Deprivation History]
+    
+    %% Specific mandatory note
+    E -.- J[Note: Karyotype mandatory in females<br>with unexplained short stature for Turner Syndrome]
+    F -.- J
+```
 ### Clinical and Auxological Assessment
 
 - **Time Course:** Fetal onset (SGA/IUGR) suggests intrinsic genetic defects or maternal/placental factors. Postnatal onset suggests acquired systemic, endocrine, or nutritional pathology.

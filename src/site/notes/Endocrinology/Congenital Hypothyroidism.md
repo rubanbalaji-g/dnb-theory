@@ -44,7 +44,7 @@ Defect in hypothalamus or pituitary.
 ### Peripheral / Consumptive Hypothyroidism
 
 - **Consumptive:** Giant hepatic hemangiomas express high levels of type 3 deiodinase, rapidly inactivating T4 and T3.
-- **Transport/Receptor Defects:** _MCT8_ (SLC16A2) mutation (Allan-Herndon-Dudley syndrome), or Thyroid Hormone Receptor (_THRA_, _THRB_) mutations causing tissue resistance.
+- **Transport/Receptor Defects:** _MCT8_ (SLC16A2) mutation (<span style="color:rgb(255, 255, 0)">Allan-Herndon-Dudley syndrome</span>), or Thyroid Hormone Receptor (_THRA_, _THRB_) mutations causing tissue resistance.
 
 ## Molecular Genetics
 

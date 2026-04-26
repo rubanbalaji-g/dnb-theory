@@ -2,6 +2,40 @@
 {"dg-publish":true,"permalink":"/endocrinology/neonatal-thyroid-screening/","dgPassFrontmatter":true}
 ---
 
+```mermaid
+graph TD
+    A[Newborn Screening for Congenital Hypothyroidism] --> B{Timing of Screening}
+    
+    B -->|< 24 hours| C[High risk of False Positives<br>due to physiologic TSH surge]
+    B -->|2 to 4 days of life| D[Perform Dried Blood Spot DBS<br>via heelprick]
+    
+    D --> E{Screening Strategy}
+    
+    E -->|Primary TSH Strategy| F[Measures TSH only.<br>Detects Primary CH.<br>Misses Central CH.]
+    E -->|Primary T4 + Reflex TSH| G[Measures Total T4.<br>If low, reflex TSH performed.<br>Detects Primary & Central CH.]
+    
+    F --> H{Analyze TSH Levels}
+    G --> H
+    
+    H -->|TSH > 40 mU/L| I[Immediate referral & treatment.<br>Do not delay for confirmatory results.]
+    H -->|TSH 15-39 mU/L| J[Borderline Elevated.<br>Requires Confirmatory Testing.]
+    H -->|TSH < 11 mU/L| K[Normal / Negative Screen]
+    
+    I --> L[Mandatory Venous Confirmatory Testing:<br>TSH and Free T4 FT4]
+    J --> L
+    
+    L --> M{Confirmatory Results}
+    M -->|Low FT4, Elevated TSH| N[Primary Congenital Hypothyroidism]
+    M -->|Low FT4, Low/Normal TSH| O[Central Congenital Hypothyroidism]
+    M -->|Normal FT4, Low Total T4| P[TBG Deficiency]
+    
+    N --> Q[Initiate Oral Levothyroxine L-T4<br>Dose: 10-15 mcg/kg/day]
+    
+    K --> R{Identify High-Risk Populations}
+    
+    R -->|Preterm / Low Birth Weight<br>Monozygotic Twins<br>NICU Admissions<br>Trisomy 21 / Cardiac Defects| S[Mandatory Second Screen<br>at 2-4 weeks of life]
+    R -->|None of the above| T[Routine Care]
+```
 ## Maturation of Fetal Hypothalamic-Pituitary-Thyroid (HPT) Axis
 
 - **Hypothalamus:** Immunoreactive thyrotropin-releasing hormone (TRH) detectable in embryonic hypothalamus by 8-9 weeks postconception.

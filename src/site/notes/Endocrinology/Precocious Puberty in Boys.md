@@ -15,25 +15,25 @@
 
 Premature activation of hypothalamic gonadotropin-releasing hormone (GnRH) pulse generator. Complete, isosexual maturation.
 
-|Etiology Category|Specific Pathologies & Clinical Hallmarks|
-|:--|:--|
-|**Idiopathic**|Diagnosis of exclusion. Less frequent in boys.|
-|**Neurogenic / CNS Masses**|**Hypothalamic Hamartoma:** Congenital malformation (heterotropic gray matter/neurons). Associated with gelastic (laughing) seizures. Secretes GnRH or $TGF-\alpha$.**Optic Gliomas:** Highly prevalent (15-20%) in Neurofibromatosis Type 1 (NF-1).**Other Tumors:** Astrocytoma, craniopharyngioma, ependymoma.|
-|**CNS Malformations**|Arachnoid cysts, suprasellar cysts, hydrocephalus, septo-optic dysplasia, myelomeningocele.|
-|**Acquired CNS Injury**|Postencephalitic scars, tuberculous meningitis, head trauma, cranial irradiation, cerebral palsy.|
-|**Monogenic Defects**|**_MKRN3_ Mutation:** Loss-of-function. Encodes makorin RING-finger protein 3 (puberty inhibitor). Maternally imprinted; paternal transmission.**_DLK1_ Mutation:** Imprinted gene defect (Temple syndrome).**_KISS1 / KISS1R_ Mutation:** Gain-of-function (rare autosomal dominant).|
+| Etiology Category           | Specific Pathologies & Clinical Hallmarks                                                                                                                                                                                                                                                                                 |
+| :-------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| **Idiopathic**              | Diagnosis of exclusion. Less frequent in boys.                                                                                                                                                                                                                                                                            |
+| **Neurogenic / CNS Masses** | **Hypothalamic Hamartoma:** Congenital malformation (heterotropic gray matter/neurons). Associated with gelastic (laughing) seizures. Secretes GnRH or $TGF-\alpha$.<br>**Optic Gliomas:** Highly prevalent (15-20%) in Neurofibromatosis Type 1 (NF-1).<br>**Other Tumors:** Astrocytoma, craniopharyngioma, ependymoma. |
+| **CNS Malformations**       | Arachnoid cysts, suprasellar cysts, hydrocephalus, septo-optic dysplasia, myelomeningocele.                                                                                                                                                                                                                               |
+| **Acquired CNS Injury**     | Postencephalitic scars, tuberculous meningitis, head trauma, cranial irradiation, cerebral palsy.                                                                                                                                                                                                                         |
+| **Monogenic Defects**       | **_MKRN3_ Mutation:** Loss-of-function. Encodes makorin RING-finger protein 3 (puberty inhibitor). Maternally imprinted; paternal transmission.<br>**_DLK1_ Mutation:** Imprinted gene defect (Temple syndrome).<br>**_KISS1 / KISS1R_ Mutation:** Gain-of-function (rare autosomal dominant).                            |
 
 ### Peripheral Precocious Puberty (PPP) / Gonadotropin-Independent
 
 Maturation independent of GnRH pulse generator. Suppressed luteinizing hormone (LH) and follicle-stimulating hormone (FSH). Maturation often incomplete.
 
-|Etiology Category|Specific Pathologies & Pathophysiology|
-|:--|:--|
-|**Gonadal Tumors**|**Leydig Cell Tumor:** Secretes testosterone. Unilateral, asymmetric testicular enlargement. Mostly benign.|
-|**Adrenal Origins**|**Congenital Adrenal Hyperplasia (CAH):** 21-hydroxylase deficiency (most common), 11$\beta$-hydroxylase deficiency. Isosexual precocity, rapid linear growth, prepubertal testes.**Adrenal Tumors:** Adenoma, carcinoma. High dehydroepiandrosterone sulfate (DHEAS).|
-|**Ectopic hCG Production**|hCG cross-reacts with LH receptors on Leydig cells. Secreted by germinoma, hepatoblastoma, choriocarcinoma, pineal tumors.|
-|**Receptor Mutations**|**Familial Male-Limited Precocious Puberty (Testotoxicosis):** Autosomal dominant activating mutation of _LHCGR_. Constitutive cAMP production. Prepubertal LH, adult testosterone.**McCune-Albright Syndrome:** Postzygotic _GNAS1_ mutation. Triad: bone fibrous dysplasia, cafe-au-lait macules, precocious puberty. Less common in boys.|
-|**Exogenous Exposure**|Accidental absorption of topical testosterone gels/creams from male relatives.|
+| Etiology Category          | Specific Pathologies & Pathophysiology                                                                                                                                                                                                                                                                                                           |
+| :------------------------- | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Gonadal Tumors**         | **Leydig Cell Tumor:** Secretes testosterone. Unilateral, asymmetric testicular enlargement. Mostly benign.                                                                                                                                                                                                                                      |
+| **Adrenal Origins**        | **Congenital Adrenal Hyperplasia (CAH):** 21-hydroxylase deficiency (most common), 11$\beta$-hydroxylase deficiency. Isosexual precocity, rapid linear growth, prepubertal testes.<br>**Adrenal Tumors:** Adenoma, carcinoma. High dehydroepiandrosterone sulfate (DHEAS).                                                                       |
+| **Ectopic hCG Production** | hCG cross-reacts with LH receptors on Leydig cells. Secreted by germinoma, hepatoblastoma, choriocarcinoma, pineal tumors.                                                                                                                                                                                                                       |
+| **Receptor Mutations**     | **Familial Male-Limited Precocious Puberty (Testotoxicosis):** Autosomal dominant activating mutation of _LHCGR_. Constitutive cAMP production. Prepubertal LH, adult testosterone.<br>**McCune-Albright Syndrome:** Postzygotic _GNAS1_ mutation. Triad: bone fibrous dysplasia, cafe-au-lait macules, precocious puberty. Less common in boys. |
+| **Exogenous Exposure**     | Accidental absorption of topical testosterone gels/creams from male relatives.                                                                                                                                                                                                                                                                   |
 
 ### Variations & Mixed Pathologies
 
