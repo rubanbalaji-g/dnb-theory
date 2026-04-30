@@ -23,6 +23,11 @@ jobs:
       - name: Install dependencies
         run: npm install
 
+      # --- ADD THIS NEW STEP ---
+      - name: Clean dist folder
+        run: rm -rf dist
+      # -------------------------
+
       - name: Build site
         run: npm run build 
 
