@@ -200,8 +200,11 @@ body.no-filetree .filetree-toggle {
     display: none !important;
   }
 
+  /* Move print button to bottom right on mobile to avoid navbar overlap */
   .print-button {
-    display: none !important;
+    top: auto;
+    bottom: 20px;
+    right: 20px;
   }
 
   /* Fix broken logo image on mobile navbar - hide img, show h1 text instead */
