@@ -28,7 +28,7 @@
 <link href="{{style}}?v={{meta.buildDate|isoDate}}" rel="stylesheet">
 {%- endfor -%}
 
-{% favicons './src/site/favicon.svg', appleIconBgColor='#123' %}
+<link rel="icon" href="/favicon.svg" type="image/svg+xml">
 
 {% if metatags %}
     {% for name, content in metatags %}

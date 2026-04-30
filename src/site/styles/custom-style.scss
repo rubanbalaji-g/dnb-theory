@@ -100,9 +100,7 @@ h1, h2, h3, h4, h5, h6, hr {
 main.content {
     --dg-content-max-width: 800px;
     max-width: var(--dg-content-max-width) !important;
-    margin-left: auto !important;
     margin-right: auto !important;
-    width: 100% !important;
     padding-left: 20px !important;
     padding-right: 20px !important;
 }
@@ -129,4 +127,120 @@ body.theme-dark .mermaid svg,
 body.theme-dark pre.mermaid svg,
 .theme-dark div[class^="mermaid"] svg {
     filter: invert(0.9) hue-rotate(180deg) !important;
+}
+
+/* ----------------------------------------------
+            PAGE CONTROLS (PRINT & FILETREE)
+   ---------------------------------------------- */
+.print-button {
+  position: fixed;
+  top: 20px;
+  right: 20px;
+  z-index: 100;
+  background: var(--background-secondary);
+  border: 1px solid var(--background-modifier-border);
+  border-radius: 50%;
+  padding: 8px;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: var(--text-normal);
+  transition: all 0.2s ease;
+  width: 40px;
+  height: 40px;
+}
+
+.print-button:hover {
+  color: var(--text-accent);
+  background: var(--background-primary);
+}
+
+.filetree-toggle {
+  position: fixed;
+  top: 20px;
+  left: 20px;
+  z-index: 100;
+  background: var(--background-secondary);
+  border: 1px solid var(--background-modifier-border);
+  border-radius: 50%;
+  padding: 8px;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: var(--text-normal);
+  transition: all 0.2s ease;
+  width: 40px;
+  height: 40px;
+}
+
+.filetree-toggle:hover {
+  color: var(--text-accent);
+  background: var(--background-primary);
+}
+
+body.filetree-collapsed .filetree-wrapper {
+  display: none !important;
+}
+
+body.filetree-collapsed main.content {
+  margin-left: auto !important;
+  max-width: var(--dg-content-max-width) !important;
+}
+
+/* Hide toggle if no filetree at all */
+body.no-filetree .filetree-toggle {
+  display: none;
+}
+
+/* Hide toggle and print button on mobile */
+@media (max-width: 1000px) {
+  .filetree-toggle {
+    display: none !important;
+  }
+
+  .print-button {
+    display: none !important;
+  }
+
+  /* Fix broken logo image on mobile navbar - hide img, show h1 text instead */
+  .navbar .site-logo {
+    display: none !important;
+  }
+}
+
+@media print {
+  * {
+    color: black !important;
+    background: transparent !important;
+    text-shadow: none !important;
+    box-shadow: none !important;
+  }
+  html, body {
+    height: auto !important;
+    overflow: visible !important;
+    display: block !important;
+    margin: 0 !important;
+    padding: 0 !important;
+  }
+  .print-button, .filetree-toggle, .filetree-wrapper, .navbar, .search-container, .sidebar, .notegrowthhistory, .empty-navbar {
+    display: none !important;
+  }
+  .content, .markdown-preview-view, .markdown-rendered, .cm-s-obsidian {
+    position: static !important;
+    margin: 0 !important;
+    padding: 0 !important;
+    max-width: none !important;
+    width: 100% !important;
+    overflow: visible !important;
+    height: auto !important;
+    display: block !important;
+    contain: none !important;
+  }
+}
+.filetree-sidebar > a > h1 {
+  padding-left: 55px !important;
+  margin-top: 10px !important;
+  text-align: left !important;
 }
