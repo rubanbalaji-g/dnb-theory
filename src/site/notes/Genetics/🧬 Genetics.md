@@ -6,7 +6,6 @@
 1. [[Genetics/Genetic Counselling of a Case of Down Syndrome\|Genetic Counselling of a Case of Down Syndrome]]
 2. [[Genetics/Prenatal Diagnosis of Downs Syndrome and other Trisomies\|Prenatal Diagnosis of Downs Syndrome and other Trisomies]]
 3. [[Development/Long-Term Follow-up of Down Syndrome\|Long-Term Follow-up of Down Syndrome]]
-4. 
 ## Genetic Testing
 1. [[Genetics/Karyotyping\|Karyotyping]]
 2. [[Genetics/Microarray and DNA Sequencing for Diagnosis\|Microarray and DNA Sequencing for Diagnosis]]
@@ -15,4 +14,3 @@
 5. [[Genetics/Cytogenetic Analysis\|Cytogenetic Analysis]]
 6. [[Development/Multiplex Ligation-Dependent Probe Amplification (MLPA)\|Multiplex Ligation-Dependent Probe Amplification (MLPA)]]
 7. [[Genetics/Next-Generation Sequencing (NGS)\|Next-Generation Sequencing (NGS)]]
-8. 

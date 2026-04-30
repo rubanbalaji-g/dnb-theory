@@ -74,6 +74,16 @@
 - Glycosuria causes obligate osmotic diuresis.
 - Water/electrolyte loss precipitates physiological stress.
 - Counterregulatory hypersecretion (epinephrine, cortisol, GH, glucagon) exacerbates insulin resistance.
+### Primary Mechanisms of Dysglycemia
+
+|Category|Pathophysiological Mechanism|Clinical Phenotypes|
+|:--|:--|:--|
+|**1. Autoimmune Beta-Cell Destruction**|T-lymphocyte and macrophage infiltration of pancreatic islets (insulitis). Progressive autoimmune destruction leads to absolute insulin deficiency and lifelong exogenous insulin dependence.|Type 1A Diabetes Mellitus.|
+|**2. Insulin Resistance with Beta-Cell Failure**|Central adiposity drives ectopic lipid deposition (liver, skeletal muscle), inducing peripheral insulin resistance. Beta cells initially compensate via hyperinsulinemia, ultimately failing due to chronic glucotoxicity and lipotoxicity.|Type 2 Diabetes Mellitus.|
+|**3. Genetic Defects of Beta-Cell Function**|Monogenic mutations disrupting pancreatic beta-cell insulin secretion. Mechanisms include altered glucose sensing (glucokinase mutations), KATP channel activation keeping channels open (_KCNJ11_, _ABCC8_), or defective transcription factors,.|Maturity-Onset Diabetes of the Young (MODY), Neonatal Diabetes,,.|
+|**4. Genetic Defects in Insulin Action**|Profound post-receptor signaling failure. Caused by severe insulin receptor gene mutations (_INSR_) or absence of adipose tissue restricting normal insulin binding and action,,.|Donohue Syndrome (Leprechaunism), Rabson-Mendenhall Syndrome, Lipoatrophic Diabetes,,.|
+|**5. Exocrine Pancreatic Disease**|Structural destruction of pancreatic tissue. Progressive islet amyloid deposition, inflammation, or physical loss of beta-cell mass restricting insulin secretion capacity,,.|Cystic Fibrosis-Related Diabetes (CFRD), Post-pancreatectomy diabetes,.|
+|**6. Drug or Chemical-Induced Diabetes**|Pharmacological agents inducing direct beta-cell toxicity, diminishing insulin release, or triggering severe peripheral insulin resistance.|Immunosuppressants (Cyclosporine, Tacrolimus, Sirolimus), L-Asparaginase, Glucocorticoid therapy.|
 
 ## Clinical Manifestations
 

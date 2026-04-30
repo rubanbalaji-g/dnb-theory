@@ -7,12 +7,12 @@
 - Diabetic Ketoacidosis (DKA) is a life-threatening acute metabolic decompensation resulting from an absolute or relative deficiency of circulating insulin combined with an excess of counterregulatory hormones (glucagon, catecholamines, cortisol, and growth hormone).
 - The biochemical criteria for diagnosing DKA in children include all of the following:
     - Hyperglycemia: Blood glucose > 200 mg/dL (11 mmol/L).
-    - Metabolic Acidosis: Venous pH < 7.3 or serum bicarbonate < 15 mEq/L.
+    - Metabolic Acidosis: Venous pH < 7.3 or serum bicarbonate < 18 mEq/L.
     - Ketosis: Blood beta-hydroxybutyrate (BOHB) $\ge$ 3 mmol/L, moderate or large urine ketones ($\ge$ 2+), or blood ketones > 1.5 mmol/L.
 - DKA severity is classified based on the degree of acidosis:
-    - Mild DKA: Venous pH 7.25–7.35; Bicarbonate 16–20 mEq/L.
-    - Moderate DKA: Venous pH 7.15–7.25; Bicarbonate 10–15 mEq/L.
-    - Severe DKA: Venous pH < 7.15; Bicarbonate < 10 mEq/L.
+    - Mild DKA: Venous pH 7.2–7.3; Bicarbonate 16–18 mEq/L.
+    - Moderate DKA: Venous pH 7.1–7.2; Bicarbonate 10–15 mEq/L.
+    - Severe DKA: Venous pH < 7.1; Bicarbonate < 10 mEq/L.
 
 ## Initial Evaluation and Triage
 

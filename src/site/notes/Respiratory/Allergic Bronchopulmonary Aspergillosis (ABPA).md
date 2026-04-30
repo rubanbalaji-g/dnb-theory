@@ -2,96 +2,100 @@
 {"dg-publish":true,"uplink":"/respiratory/respiratory-system/","uptext":"Back to Index (🫁Respiratory System)","permalink":"/respiratory/allergic-bronchopulmonary-aspergillosis-abpa/","dgPassFrontmatter":true}
 ---
 
-## I. Introduction & Definition
-* **Definition:** A complex pulmonary hypersensitivity reaction (Type I, III, and IV) to the colonization of the airways by the fungus *Aspergillus fumigatus*.
-* **Key Concept:** It is an **allergic** response, not an invasive infection.
-* **Predisposing Conditions:**
-    * **Cystic Fibrosis (CF):** Prevalence up to 15%.
-    * **Asthma:** Prevalence 1–2% in asthmatics.
+## Introduction And Predisposing Factors
 
-## II. Pathophysiology
-1.  **Colonization:** *A. fumigatus* spores are inhaled and trapped in the viscid mucus of susceptible hosts (Asthma/CF).
-2.  **Antigen Release:** The fungus germinates and releases proteolytic enzymes and antigens.
-3.  **Immune Response:**
-    * **Th2 Response:** intense production of Interleukins (IL-4, IL-5, IL-13).
-    * **IgE Production:** Massive polyclonal and specific IgE synthesis.
-    * **Eosinophilia:** Eosinophilic infiltration of bronchial wall.
-4.  **Tissue Damage:** Immune complexes and inflammatory mediators lead to mucus hypersecretion, airway damage, and eventually **Central Bronchiectasis**.
+- Complex pulmonary hypersensitivity reaction involving Type I, Type III, and Type IV responses.
+- Triggered by airway colonization by fungus Aspergillus fumigatus.
+- Represents allergic response, not invasive infection.
+- Predisposing conditions include Cystic Fibrosis (prevalence up to 15%) and Asthma (prevalence 1-2%).
+- Rarely occurs in Cystic Fibrosis children under 6 years of age.
 
-## III. Clinical Features
-* **History:** Child with poorly controlled asthma or CF despite optimal therapy.
-* **Symptoms:**
-    * **Wheezing:** Recurrent exacerbations.
-    * **Cough:** Productive of **brownish/black mucus plugs** (golden-brown casts).
-    * **Systemic:** Low-grade fever, malaise, weight loss.
-    * **Hemoptysis:** Occasional (from bronchiectasis).
-* **Physical Signs:** Polyphonic wheeze, crackles (if bronchiectasis present), clubbing (late sign).
+## Pathophysiology
 
-## IV. Diagnosis
-Diagnosis relies on a combination of clinical, serological, and radiological findings.
+- Colonization: Aspergillus fumigatus spores inhaled, trapped in viscid mucus of susceptible hosts.
+- Antigen Release: Fungus germinates, releasing proteolytic enzymes and antigens.
+- Immune Response: Intense T-helper 2 response produces Interleukin-4, Interleukin-5, and Interleukin-13.
+- Massive polyclonal and specific Immunoglobulin E synthesis occurs.
+- Eosinophilic infiltration of bronchial wall develops.
+- Tissue Damage: Immune complexes and inflammatory mediators cause mucus hypersecretion, airway damage, and eventually central bronchiectasis.
 
-### A. Diagnostic Criteria (ISHAM Working Group, 2013)
-*Current standard, replacing the older Rosenberg-Patterson criteria.*
+## Clinical Features
 
-**1. Predisposing Condition:** Asthma or Cystic Fibrosis.
+- Poorly controlled asthma or Cystic Fibrosis despite optimal therapy.
+- Recurrent wheezing exacerbations.
+- Cough productive of brownish-black mucus plugs, golden-brown casts, or rust-colored sputum.
+- Occasional hemoptysis resulting from bronchiectasis.
+- Systemic signs include low-grade fever, malaise, weight loss.
+- Physical signs include polyphonic wheeze, crackles, late-stage clubbing.
 
-**2. Mandatory Criteria (Both required):**
-* Positive Type I skin test (cutaneous hypersensitivity) to *Aspergillus* OR Elevated specific IgE against *A. fumigatus*.
-* Elevated Total Serum IgE (>1000 IU/mL).
+## Diagnostic Criteria (Isham Working Group 2013)
 
-**3. Supporting Criteria (At least 2 of 3):**
-* Precipitating IgG antibodies (Precipitins) to *A. fumigatus*.
-* Radiographic pulmonary opacities consistent with ABPA.
-* Total Eosinophil Count >500 cells/µL.
+### Predisposing Condition
 
-### B. Radiological Features
-1.  **Chest X-Ray:**
-    * **"Finger-in-Glove" sign:** Mucoid impaction in dilated bronchi.
-    * **"Tram-track" lines:** Bronchial wall thickening.
-    * Fleeting/transient pulmonary infiltrates (migratory).
-2.  **HRCT Chest (Gold Standard):**
-    * **Central Bronchiectasis:** Dilatation of proximal bronchi with normal peripheral tapering (Pathognomonic).
-    * **High Attenuation Mucus (HAM):** Mucus plugs that appear denser than muscle (predicts relapse).
+- Asthma or Cystic Fibrosis.
 
-## V. Staging (Patterson’s Stages)
-Used to guide management and follow-up.
+### Mandatory Criteria
 
-| Stage | Name | Features | IgE Level | Management |
-| :--- | :--- | :--- | :--- | :--- |
-| **I** | **Acute** | Typical symptoms, infiltrates. | Very High | Steroids |
-| **II** | **Remission** | Asymptomatic, X-ray clears. | Drops by 35-50% | Observe |
-| **III** | **Exacerbation** | Recurrence of symptoms/infiltrates. | Increases (Doubles) | Resume Steroids |
-| **IV** | **Corticosteroid-Dependent** | Asthma worsens on weaning steroids. | Persistently High | Maintenance Steroids + Antifungals |
-| **V** | **Fibrotic** | Irreversible fibrosis, respiratory failure. | Variable | Supportive |
+- Requires both:
+    - Positive Type I skin test to Aspergillus or elevated specific Immunoglobulin E against Aspergillus fumigatus.
+    - Elevated total serum Immunoglobulin E (>1000 International Units/mL).
 
-## VI. Management
+### Supporting Criteria
 
-### 1. Goals
-* Control inflammation (Steroids).
-* Reduce fungal burden (Antifungals).
-* Prevent progression to fibrosis (Stage V).
+- Requires at least two:
+    - Precipitating Immunoglobulin G antibodies to Aspergillus fumigatus.
+    - Radiographic pulmonary opacities consistent with Allergic Bronchopulmonary Aspergillosis.
+    - Total eosinophil count >500 cells/µL.
 
-### 2. Corticosteroids (The Mainstay)
-* **Drug:** Oral Prednisolone.
-* **Dose:**
-    * **Acute (Stage I/III):** 0.5 – 0.75 mg/kg/day for 2–4 weeks.
-    * **Tapering:** Gradual weaning over 3–6 months based on clinical response and IgE decline.
-* **Monitoring:** **Total Serum IgE** levels are checked every 6–8 weeks. A decline >35% indicates remission.
+## Radiological Features
 
-### 3. Antifungal Agents (Adjunct/Sparing)
-* **Indication:** To reduce fungal antigenic load, allowing for steroid tapering (Steroid-sparing effect).
-* **Drug:** **Itraconazole**.
-* **Dose:** 5 mg/kg/day (Max 200 mg BD) for 4–6 months.
-* *Note:* Monitor liver enzymes; Itraconazole levels can be erratic (absorption requires acidic pH).
-* *Alternative:* Voriconazole or Posaconazole (if resistant/intolerant).
+### Chest Radiograph
 
-### 4. Biologics (Recent Advances)
-* **Omalizumab (Anti-IgE):** Monoclonal antibody. Can be effective in refractory Stage IV ABPA to reduce steroid requirement.
-* **Mepolizumab (Anti-IL5):** Investigational for ABPA.
+- Finger-in-glove sign indicating mucoid impaction in dilated bronchi.
+- Tram-track lines representing bronchial wall thickening.
+- Fleeting or transient migratory pulmonary infiltrates.
 
-## VII. Prognosis & Complications
-* **Prognosis:** Good if treated in Stage I/II.
-* **Complications:**
-    * Central Bronchiectasis (Permanent).
-    * Pulmonary Fibrosis / Cor Pulmonale (Stage V).
-    * Side effects of long-term steroids (Cushingoid, growth failure).
+### High-Resolution Computed Tomography
+
+- Gold standard modality.
+- Central bronchiectasis (pathognomonic finding).
+- High attenuation mucus indicating mucus plugs denser than skeletal muscle (predicts clinical relapse).
+
+## Patterson Staging
+
+|Stage|Name|Clinical Features|Immunoglobulin E Level|Management|
+|:--|:--|:--|:--|:--|
+|I|Acute|Typical symptoms, infiltrates|Very High|Corticosteroids|
+|II|Remission|Asymptomatic, clear radiograph|Drops 35-50%|Observe|
+|III|Exacerbation|Recurrence of symptoms/infiltrates|Doubles|Resume Corticosteroids|
+|IV|Corticosteroid-Dependent|Asthma worsens on weaning|Persistently High|Corticosteroids + Antifungals|
+|V|Fibrotic|Irreversible fibrosis, respiratory failure|Variable|Supportive Care|
+
+## Management
+
+### Treatment Goals
+
+- Control inflammation.
+- Reduce fungal burden.
+- Prevent progression to irreversible fibrosis.
+
+### Pharmacotherapy
+
+- Corticosteroids: Mainstay therapy.
+    - Oral Prednisolone 0.5-0.75 mg/kg/day for 2-4 weeks during acute phase.
+    - Gradual tapering over 3-6 months based on clinical response.
+    - Monitor total serum Immunoglobulin E every 6-8 weeks (>35% decline indicates remission).
+- Antifungal Agents: Adjunct, steroid-sparing therapy.
+    - Itraconazole 5 mg/kg/day (maximum 200 mg twice daily) for 4-6 months.
+    - Monitor liver enzymes and drug levels.
+    - Alternatives include Voriconazole or Posaconazole.
+- Biologics:
+    - Omalizumab (Anti-Immunoglobulin E) for refractory Stage IV disease.
+    - Mepolizumab (Anti-Interleukin-5) investigational use.
+
+## Complications And Prognosis
+
+- Good prognosis if treated in Stage I or II.
+- Permanent central bronchiectasis.
+- Pulmonary fibrosis and cor pulmonale in Stage V.
+- Side effects of long-term corticosteroids including Cushingoid features and growth failure.

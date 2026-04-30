@@ -2,136 +2,164 @@
 {"dg-publish":true,"uplink":"/respiratory/respiratory-system/","uptext":"Back to Index (🫁Respiratory System)","permalink":"/respiratory/acute-bronchiolitis/","dgPassFrontmatter":true}
 ---
 
-# Acute Bronchiolitis: Definition, Etiopathogenesis, and Management
+## Definition And Etiology
 
-## I. Definition 
-Acute bronchiolitis is a clinical syndrome characterized by inflammation of the bronchioles (small airways).
-* **AAP Definition:** The **first episode of wheezing** in a child **<2 years** of age, preceded by a viral respiratory prodrome (coryza/cough).
-* It is the most common lower respiratory tract infection in infancy.
+### Core Concepts
 
-## II. Etiopathogenesis
-### 1. Etiology
-* **Respiratory Syncytial Virus (RSV):** Cause of 50–80% of cases.
-* **Other Viruses:** Human Metapneumovirus (hMPV), Rhinovirus, Parainfluenza, Adenovirus, Influenza.
-### 2. Pathophysiology
-The virus infects the terminal bronchiolar epithelial cells, causing direct damage.
-1.  **Necrosis & Sloughing:** Ciliated epithelium undergoes necrosis and sloughs into the lumen.
-2.  **Inflammation & Edema:** Submucosal edema thickens the airway wall.
-3.  **Mucus Hypersecretion:** Increased mucus production.
-4.  **Obstruction:** The combination of necrotic debris (plugs), mucus, and edema obstructs the narrow bronchioles.
-    * **Ball-Valve Effect:** Air enters on inspiration but is trapped on expiration $\rightarrow$ **Hyperinflation**.
-    * **Complete Obstruction:** Distal gas absorption $\rightarrow$ **Atelectasis**.
-5.  **V/Q Mismatch:** Leads to hypoxemia.
+- Acute inflammatory condition bronchioles secondary viral-induced injury.
+- Primarily affects children <2 years age.
+- Peak incidence between 3 and 6 months age.
+- Occurs predominantly winter and spring seasons.
 
-## III. Characteristic Clinical Features
-* **Prodrome:** 1–3 days of upper respiratory symptoms (rhinorrhea, mild cough, low-grade fever).
-* **progression:** Worsening cough, tachypnea, and feeding difficulties (Day 3–5 is usually the peak).
-* **Examination:**
-    * **Inspection:** Tachypnea, subcostal/intercostal retractions, nasal flaring.
-    * **Auscultation:**
-        * **Inspiratory Crackles:** Widespread fine crepitations (hallmark).
-        * **Expiratory Wheeze:** High-pitched, polyphonic.
-        * Prolonged expiratory phase.
-* **Signs of Severity:** Apnea (especially in premies/neonates), grunting, cyanosis, poor feeding (<50% normal).
+### Causative Organisms
 
-## IV. Diagnosis
-### **Clinical Diagnosis (AAP 2014 Guidelines):**
-Diagnosis is strictly **CLINICAL** based on history and physical examination.
-* **Inclusion:**
-    * Age < 24 months.
-    * First episode of wheezing.
-    * Prodrome of URI (coryza, nasal congestion) followed by lower respiratory signs.
-* **Exclusion:**
-    * Recurrent wheezing (think early onset asthma).
-    * Stridor (think Croup/Tracheitis).
-    * Chronic lung disease history.
-### *Routine investigations are NOT recommended for typical bronchiolitis.*
+- Respiratory Syncytial Virus (RSV) most common agent, isolated 75% cases (30-70% Indian studies).
+- Additional viral agents: Rhinovirus, parainfluenza, adenovirus, human metapneumovirus, bocavirus, influenza, coronavirus (COVID-19).
+- _Mycoplasma pneumoniae_ frequently implicated older children.
+- Viral co-infections occur; impact clinical severity remains unclear.
 
-* **Chest X-Ray:** Only if diagnosis is uncertain or suspicion of complications (pneumothorax/bacterial pneumonia).
-    * *Findings:* Hyperinflation (flat diaphragm, horizontal ribs), peribronchial cuffing, patchy atelectasis (often confused with consolidation).
-* **Viral Antigen/PCR:** Not routine; useful only for cohorting/infection control (RSV vs. Influenza).
-* **Blood Gas (ABG/VBG):** Indicated only in severe respiratory distress to rule out hypercapnic respiratory failure.
-### Differential Diagnosis (High Yield)
-* **Viral-induced wheeze / Asthma:** Recurrent episodes, family history of atopy, older age.
-* **Bacterial Pneumonia:** High fever, toxic look, focal consolidation on CXR.
-* **Foreign Body Aspiration:** Sudden onset, unilateral reduced air entry.
-* **Congestive Heart Failure:** Hepatomegaly, murmur, cardiomegaly on CXR.
-* **Pertussis:** Paroxysmal cough, "whoop", lack of fever/wheeze relative to cough.
+## Risk Factors
 
-## V. Modified TAL scoring #scoring
-Used to assess severity and guide management (admission vs. discharge).
-*Score is calculated by summing points from 4 parameters (Max Score = 12).*
+### Host And Environmental Predictors Severe Disease
 
-| Score | Respiratory Rate | Wheezing | Retractions (Accessory Muscle Use) | O2 Saturation (Room Air) |
-| :--- | :--- | :--- | :--- | :--- |
-| **0** | < 30 / min | None | None | ≥ 95% |
-| **1** | 30 – 45 / min | End of expiration | Subcostal / Intercostal | 92 – 94% |
-| **2** | 46 – 60 / min | Entire expiration | Substernal + Intercostal | 90 – 91% |
-| **3** | > 60 / min | Inspiration & Expiration | Supraclavicular + others | < 90% |
-*(Note: RR limits may vary slightly by age in different adaptations; above is standard for infants).*
+|Category|Associated Risk Factors|
+|:--|:--|
+|Host Factors|Prematurity (<32 weeks gestation), low birth weight.|
+|Age|<6-12 weeks age.|
+|Comorbidities|Chronic lung disease (bronchopulmonary dysplasia).|
+|Cardiac|Hemodynamically significant congenital heart disease, moderate-severe pulmonary hypertension, cyanotic heart disease.|
+|Systemic|Immunodeficiency, neuromuscular disorders.|
+|Environmental|Older siblings, household crowding, child care attendance.|
+|Social/Toxic|Passive smoke exposure, lower socioeconomic status.|
+|Nutritional|Lack breastfeeding (three-fold greater risk).|
 
-**Interpretation of MTS:**
-* **Mild (Score ≤ 5):** Outpatient management with counseling.
-* **Moderate (Score 6 – 10):** Admission, trial of nebulization (hypertonic saline), O2 support.
-* **Severe (Score ≥ 11):** ICU admission, potential for HFNC/CPAP/Ventilation.
+## Pathophysiology
 
-## VI. Essential Steps in Management 
-Management is primarily **Supportive**. "Less is More."
+### Mechanism Airway Obstruction
 
-1.  **Airway & Oxygenation:**
-    * **Positioning:** Head elevation to maintain airway patency.
-    * **Suctioning:** Superficial nasal suctioning for secretions (especially before feeds).
-    * **Oxygen Therapy:** Indicated if SpO2 persistently **<90–92%**. Administered via nasal prongs or face mask.
-2.  **Hydration & Nutrition:**
-    * Maintain fluid balance (insensible losses are high due to tachypnea).
-    * **Oral/Enteral:** Preferred. Small, frequent feeds.
-    * **NG Tube/IV Fluids:** Indicated if respiratory rate >60–70/min, nasal flaring prevents sucking, or hydration status is compromised.
-3.  **Monitoring:**
-    * Pulse oximetry, respiratory rate, and signs of exhaustion/apnea.
-    * Isolation (contact precautions) to prevent nosocomial spread.
+- Virus infects upper respiratory epithelial cells subsequently sloughed lower respiratory tract.
+- Inflammation bronchiolar mucosa leads edema, thickening, mucus plugs formation, cellular debris accumulation.
+- Bronchiolar spasm occurs certain cases.
+- Peripheral airways contribute up 50% total airway resistance children <5 years.
+- Airway resistance inversely related fourth power bronchiolar lumen radius; slight narrowing causes marked airflow reduction.
 
-## VII. Recent Advances in Management #recent
-Current "advances" focus heavily on **de-implementation** of ineffective therapies and the use of advanced non-invasive support.
-### 1. High Flow Nasal Cannula (HFNC)
-* **Role:** Rescue therapy for moderate-to-severe distress to prevent intubation.
-* **Mechanism:** Delivers heated, humidified oxygen at high flow rates (2 L/kg/min).
-    * Washes out anatomical dead space ($CO_2$ washout).
-    * Provides mild Positive End-Expiratory Pressure (PEEP ~4-6 cm $H_2O$).
-    * Reduces work of breathing.
-### 2. Nebulized Hypertonic Saline (3%)
-* **Mechanism:** Osmotic draw of water into airway lumen rehydrates the sol layer + breaks non-covalent bonds in mucus $\rightarrow$ improves mucociliary clearance.
-* **Status:** Considered in hospitalized patients (may reduce length of stay), though recent guidelines suggest weak/equivocal recommendation.
-### 3. "Choosing Wisely" (Evidence-Based De-escalation)
-Strict guidelines (AAP 2014, NICE) against unnecessary medications:
-* **NO Bronchodilators (Salbutamol/Epinephrine):** Routine use is not recommended as bronchiolitis is primarily airway edema/debris, not bronchospasm. (Trial dose only if strong family history of atopy).
-* **NO Corticosteroids:** Systemic or inhaled steroids do not reduce admission or length of stay.
-* **NO Antibiotics:** Unless there is a documented secondary bacterial infection (rare).
-* **NO Chest Physiotherapy:** Can increase distress.
+### Ventilatory Consequences
 
-### 4. Heliox Therapy (Helium-Oxygen mixture)
-* Used in refractory cases in PICU. Lower density gas reduces airway resistance and work of breathing.
+- Obstruction increases resistance during inspiration, expiration.
+- Bronchioles partially collapse during expiration causing egress airflow reduction.
+- Results air trapping, lung hyperinflation, expiratory wheezing.
+- Complete obstruction causes trapped air resorption leading atelectasis.
+- Ventilation-perfusion mismatch produces hypoxemia.
+- Severe obstructive disease leads hypercapnia, respiratory acidosis.
 
-### 5. Novel Antivirals (Research Phase)
-* Fusion inhibitors (e.g., Presatovir) are under investigation but not yet standard clinical practice.
+## Clinical Manifestations
 
-###  6. Prophylaxis
-- Palivizumab - Monoclonal antibody against RSV Fusion protein. especially in high risk population like preemies <29weeks, CLD, CHD
-- Nirsevimab - longer acting monoclonal antibody. one dose is sufficient. 
+### Symptomatology
 
-## Comparison: Viral Pneumonia vs. Bacterial Pneumonia vs. Bronchiolitis
+- Prodrome coryza lasting 1-3 days.
+- Tachypnea, paroxysmal cough, dyspnea, irritability develop gradually.
+- Associated fever usually <39°C.
+- Poor feeding, vomiting occur typically after 3-5 days illness.
+- Apnea presents early, occasionally preceding lower respiratory signs.
+- Apnea represents only presenting feature infants <6 weeks age.
+- Premature infants <44 weeks postconceptual age harbor highest apneic event risk.
 
-| Feature                  | Viral Pneumonia                                          | Bacterial Pneumonia                                                            | Bronchiolitis                                                                       |
-| :----------------------- | :------------------------------------------------------- | :----------------------------------------------------------------------------- | :---------------------------------------------------------------------------------- |
-| **Primary Etiology**     | **Viruses:** RSV, Influenza, Parainfluenza, Adenovirus   | **Bacteria:** *Strep. pneumoniae* (m/c), *H. influenzae*, *S. aureus*          | **Viruses:** RSV (>70%), Human Metapneumovirus                                      |
-| **Peak Age**             | Any age (Common in < 5 years)                            | Any age (Common in < 5 years)                                                  | **< 2 years** (Peak 2–6 months)                                                     |
-| **Onset & Prodrome**     | Gradual; History of URI common                           | **Acute/Abrupt**; rapid progression                                            | Gradual; 1–3 days of coryza/nasal congestion                                        |
-| **General Appearance**   | Usually non-toxic; variable distress                     | **Toxic**, lethargic, high-grade fever (>38.5°C), chills                       | **"Happy Wheezer"** or irritable; distress often > systemic toxicity                |
-| **Respiratory Findings** | Tachypnea, increased work of breathing                   | **Grunting**, flaring, severe tachypnea                                        | Tachypnea, significant **subcostal/intercostal retractions**                        |
-| **Auscultation**         | **Diffuse** findings: Generalized crackles and/or wheeze | **Focal** findings: Decreased air entry, tubular breathing, focal crepitations | **Prolonged expiration**, diffuse polyphonic **wheeze**, fine crackles              |
-| **Chest X-Ray**          | Diffuse interstitial infiltrates, hyperinflation         | **Lobar consolidation**, air bronchograms, pleural effusion                    | **Hyperinflation** (flat diaphragm), peribronchial cuffing, patchy atelectasis      |
-| **Lab Findings (WBC)**   | Normal or Lymphocytosis; Normal CRP                      | **Leukocytosis** (Neutrophilia); Elevated CRP/Procalcitonin                    | Normal; Labs usually not indicated                                                  |
-| **Treatment**            | Supportive (Hydration, O2); Antivirals if Influenza      | **Antibiotics** (Amoxicillin/Ceftriaxone); Supportive                          | **Strictly Supportive** (Hydration, O2); No antibiotics; No routine bronchodilators |
-### Key Diagnostic Criteria 
-* **Bacterial Pneumonia:** Defined by **Alveolar** inflammation. Gold standard sign is **Consolidation** (Clinical or Radiological).
-* **Viral Pneumonia:** Defined by **Interstitial** inflammation. Diagnosis is often one of exclusion (failed antibiotic response) or viral PCR.
-* **Bronchiolitis:** Defined by **Small Airway** (Bronchiolar) obstruction. Clinical triad: **Infant (<2yr) + Viral Prodrome + First episode of Wheeze.**
+### Physical Examination
+
+- Chest appears hyperexpanded, hyper-resonant percussion.
+- Auscultation reveals prolonged expiration, fine crackles, wheezes throughout lungs.
+- Increased work breathing: Nasal flaring, suprasternal/intercostal/subcostal retractions.
+- Severe obstruction eliminates turbulence; lack audible wheezing (silent chest) combined respiratory distress indicates severe disease.
+
+## Disease Severity Grading
+
+### Clinical Classification
+
+|Severity|Feeding|Respiratory Distress|Oxygen Saturation|
+|:--|:--|:--|:--|
+|Mild|Normal ability feed|Little/no respiratory distress|>92% room air.|
+|Moderate|Reluctant/short breath feeding|Moderate distress, retractions, nasal flaring, +/- apnea|<92% room air, correctable supplemental O2.|
+|Severe|Unable feed|Severe distress, marked retractions, grunting, frequent prolonged apnea|<92% room air, may/may not correct supplemental O2.|
+
+## Differential Diagnosis
+
+### Distinguishing Clinical Features
+
+|Condition|Differentiating Characteristics|
+|:--|:--|
+|Bronchial Asthma|Unusual <1 year age, positive family history, recurrent attacks, consistent bronchodilator response, lacks preceding URI.|
+|Congestive Heart Failure|Cardiomegaly CXR, tachycardia, large tender liver, raised JVP, basilar lung rales.|
+|Foreign Body Aspiration|Sudden onset, localized wheeze, localized obstructive emphysema/collapse, absence infectious prodrome.|
+|Bacterial Pneumonia|High fever (>39°C), pronounced adventitious sounds, focal crackles, severe toxemia.|
+|Episodic Viral Wheeze|Persistent wheeze lacking crackles, recurrent episodes, family atopy history.|
+
+## Evaluation And Investigations
+
+### Diagnostic Approach
+
+- Primarily clinical diagnosis based age, seasonal occurrence, typical presentation.
+- Routine blood investigations, radiology not indicated.
+- Pulse oximetry essential identifying hypoxia, establishing admission requirement.
+
+### Specific Modalities
+
+- Chest X-Ray: Hyperinflation, minimal infiltrates, depressed diaphragm, abnormally translucent lung fields. Areas atelectasis difficult distinguish bacterial pneumonia.
+- Viral Identification: Antigen detection, immunofluorescence, multiplex PCR respiratory secretions. Does not alter management majority patients. Useful hospital settings preventing nosocomial transmission, avoiding antibiotic abuse.
+- Arterial Blood Gas: Indicated severe cases assessing respiratory failure, hypercapnia.
+
+## Management
+
+### Supportive Care Priorities
+
+- Focused symptomatic relief, maintaining hydration, oxygenation.
+- Paracetamol controls fever.
+- Nasal block cleared normal saline drops, gentle suctioning.
+- Nurse infant propped up/head elevated 30-40 degrees.
+- Supplemental humidified oxygen indicated SpO2 <90% (>6 weeks age) or <92% (<6 weeks age/underlying health issues).
+- Intravenous fluids indicated impending respiratory failure preventing oral tolerance.
+- Orogastric tube feeding preferred admitted patients tolerating enteral intake.
+
+### Advanced Respiratory Support
+
+- High-Flow Nasal Cannula (HFNC): Rescue therapy reducing intensive care requirement.
+- Continuous Positive Airway Pressure (CPAP): Impending respiratory failure management.
+- Intubation/Mechanical Ventilation: Severe refractory respiratory failure, exhaustion.
+
+### Pharmacotherapy Guidelines
+
+|Intervention|Recommendation Status|Clinical Context|
+|:--|:--|:--|
+|Nebulized Hypertonic Saline|Limited role|Considered children hospitalized >3 days.|
+|Nebulized Adrenaline|Rescue medication|0.1-0.3 mL/kg/dose (1:1,000); inconsistent short-lived improvement.|
+|Beta-Agonists|Optional single trial|Discontinue lacking objective clinical response.|
+|Antibiotics|NOT recommended|Strictly reserved documented secondary bacterial infection.|
+|Systemic/Inhaled Steroids|NOT recommended|Lack outcome impact.|
+|Chest Physiotherapy|NOT recommended|Exacerbates distress.|
+|Ribavirin|NOT recommended|Minimal impact, high toxicity, challenging administration.|
+
+## Complications And Prognosis
+
+### Disease Course
+
+- Self-limiting illness, symptoms typically subside 3-7 days.
+- Median ambulatory symptom duration 14 days; 10% symptomatic 3 weeks.
+- Case fatality <1% developed nations, primarily affecting infants possessing complex comorbidities.
+
+### Known Complications
+
+- Acute Respiratory Distress Syndrome (ARDS).
+- Congestive heart failure, myocarditis, arrhythmias.
+- Secondary bacterial infection, acute otitis media.
+- Bronchiolitis obliterans.
+- Predisposition childhood asthma (relationship observed 25% cases).
+
+## Prevention
+
+### General And Immunoprophylaxis
+
+- Strict hand hygiene.
+- Avoidance passive smoking.
+- Encourage breastfeeding.
+- Palivizumab: Monoclonal antibody administered intramuscularly (15 mg/kg) monthly during seasonal epidemics. Maximum five doses.
+- Palivizumab Indications: Infants <12 months possessing prematurity <29 weeks, chronic lung disease prematurity, hemodynamically significant congenital heart disease.
+- Nirsevimab: Single dose providing 5 months protection.

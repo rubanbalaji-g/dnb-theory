@@ -13,88 +13,209 @@ v## Overview of Congenital Adrenal Hyperplasia
 ## Summary Table of Congenital Adrenal Hyperplasia Types
 ![Pasted image 20260313202058.png](/img/user/+%C4%B0mages/Pasted%20image%2020260313202058.png)
 
-|Enzyme Deficiency|Gene (Locus)|Mineralocorticoid Effect|Genital Presentation (46,XX)|Genital Presentation (46,XY)|Key Diagnostic Biochemical Elevations|
-|:--|:--|:--|:--|:--|:--|
-|**21-Hydroxylase**|_CYP21A2_ (6p21.3)|Salt-wasting (low aldosterone) or normal|Ambiguous (virilized)|Normal male (postnatal virilization)|17-Hydroxyprogesterone (17-OHP), Androstenedione|
-|**11β-Hydroxylase**|_CYP11B1_ (8q24.3)|Hypertension (high DOC)|Ambiguous (virilized)|Normal male (postnatal virilization)|11-Deoxycortisol, Deoxycorticosterone (DOC)|
-|**3β-Hydroxysteroid Dehydrogenase (Type 2)**|_HSD3B2_ (1p12)|Salt-wasting|Ambiguous (mild virilization from DHEA)|Ambiguous (undervirilized)|17-Hydroxypregnenolone, DHEA, Pregnenolone|
-|**17α-Hydroxylase / 17,20-Lyase**|_CYP17A1_ (10q24.3)|Hypertension (high DOC & corticosterone)|Normal female (delayed puberty/infantilism)|Ambiguous or normal female (undervirilized)|DOC, Corticosterone|
-|**Steroidogenic Acute Regulatory Protein (Lipoid CAH)**|_STAR_ (8p11.2)|Severe salt-wasting|Normal female (delayed puberty)|Normal female (undervirilized)|None (Low/absent levels of all steroid hormones)|
-|**Cholesterol Side-Chain Cleavage**|_CYP11A1_ (15q23-24)|Severe salt-wasting|Normal female|Normal female or ambiguous|None (Low/absent levels of all steroid hormones)|
-|**P450 Oxidoreductase (POR)**|_POR_ (7q11.2)|Variable (often normal)|Ambiguous (virilized)|Ambiguous (undervirilized)|Variable; often mixed 17-OHP and progesterone elevation|
+| Enzyme Deficiency                                       | Gene (Locus)         | Mineralocorticoid Effect                 | Genital Presentation (46,XX)                | Genital Presentation (46,XY)                | Key Diagnostic Biochemical Elevations                   |
+| :------------------------------------------------------ | :------------------- | :--------------------------------------- | :------------------------------------------ | :------------------------------------------ | :------------------------------------------------------ |
+| **21-Hydroxylase**                                      | _CYP21A2_ (6p21.3)   | Salt-wasting (low aldosterone) or normal | Ambiguous (virilized)                       | Normal male (postnatal virilization)        | 17-Hydroxyprogesterone (17-OHP), Androstenedione        |
+| **11β-Hydroxylase**                                     | _CYP11B1_ (8q24.3)   | Hypertension (high DOC)                  | Ambiguous (virilized)                       | Normal male (postnatal virilization)        | 11-Deoxycortisol, Deoxycorticosterone (DOC)             |
+| **3β-Hydroxysteroid Dehydrogenase (Type 2)**            | _HSD3B2_ (1p12)      | Salt-wasting                             | Ambiguous (mild virilization from DHEA)     | Ambiguous (undervirilized)                  | 17-Hydroxypregnenolone, DHEA, Pregnenolone              |
+| **17α-Hydroxylase / 17,20-Lyase**                       | _CYP17A1_ (10q24.3)  | Hypertension (high DOC & corticosterone) | Normal female (delayed puberty/infantilism) | Ambiguous or normal female (undervirilized) | DOC, Corticosterone                                     |
+| **Steroidogenic Acute Regulatory Protein (Lipoid CAH)** | _STAR_ (8p11.2)      | Severe salt-wasting                      | Normal female (delayed puberty)             | Normal female (undervirilized)              | None (Low/absent levels of all steroid hormones)        |
+| **Cholesterol Side-Chain Cleavage**                     | _CYP11A1_ (15q23-24) | Severe salt-wasting                      | Normal female                               | Normal female or ambiguous                  | None (Low/absent levels of all steroid hormones)        |
+| **P450 Oxidoreductase (POR)**                           | _POR_ (7q11.2)       | Variable (often normal)                  | Ambiguous (virilized)                       | Ambiguous (undervirilized)                  | Variable; often mixed 17-OHP and progesterone elevation |
 
 ## 21-Hydroxylase Deficiency (CYP21A2)
 
-### Epidemiology and Genetics
+### Epidemiology
 
-- 21-hydroxylase deficiency is the most common form of CAH, accounting for 90% to 95% of all cases.
-- The incidence of classic forms is estimated to be between 1 in 14,000 and 1 in 18,000 births, varying significantly among different racial and ethnic backgrounds.
-- The disorder is caused by mutations in the _CYP21A2_ gene, which is located on the short arm of chromosome 6 (6p21.3) within the highly complex human leukocyte antigen (HLA) class III region.
-- _CYP21A2_ is located adjacent to a highly homologous pseudogene (_CYP21A1P_); mispairing during meiosis leads to gene deletions or the transfer of deleterious mutations from the pseudogene to the active gene (gene conversions).
+- Most common inborn error of steroidogenesis.
+- Causes >90% of Congenital Adrenal Hyperplasia (CAH) cases.
+- Classic form incidence: ~1 in 14,000.
 
 ### Pathophysiology
 
-- Decreased 21-hydroxylase activity impairs the conversion of 17-OHP to 11-deoxycortisol in the zona fasciculata, drastically reducing cortisol biosynthesis.
-- Concurrently, the conversion of progesterone to deoxycorticosterone (DOC) in the zona glomerulosa is impaired, preventing the synthesis of aldosterone.
-- The massive accumulation of 17-OHP is shunted into the androgen biosynthesis pathway, leading to excess production of androstenedione and testosterone.
-- Elevated 17-OHP also activates alternative androgenic routes, specifically the "backdoor pathway" to dihydrotestosterone (DHT), which bypasses traditional intermediates and contributes significantly to prenatal virilization in affected females.
-- Additionally, 11-oxygenated C-19 steroids (such as 11-ketotestosterone), derived from the action of 11β-hydroxylase on androstenedione and testosterone, represent major circulating bioactive androgens in 21-hydroxylase deficiency.
+|Pathway Defect|Steroid Consequence|Clinical Manifestations|
+|:--|:--|:--|
+|Decreased DOC|Aldosterone deficiency|Hyponatremia, hyperkalemia, acidosis, hypotension, cardiovascular collapse (salt-wasting crisis).|
+|Decreased 11-deoxycortisol|Cortisol deficiency|Impaired carbohydrate metabolism, decreased epinephrine, shock.|
+|Accumulated 17OHP/Progesterone|Androgen excess|Diversion to "backdoor pathway" generating DHT; severe prenatal virilization in 46,XX fetuses (DSD).|
 
-### Clinical Presentation
+### Clinical Classification
 
-- **Classic Salt-Wasting Form:** Occurs in approximately 70% of classic cases, characterized by complete or near-complete lack of enzymatic activity (0-2% of normal). Patients suffer from profound glucocorticoid and mineralocorticoid deficiency, presenting in the first weeks of life with life-threatening hyponatremia, hyperkalemia, hypovolemia, acidosis, and shock.
-- **Classic Simple Virilizing Form:** Accounts for about 30% of classic cases, where patients retain roughly 1% to 2% of enzymatic activity. This trace activity produces sufficient aldosterone to prevent frank salt-wasting crises, though plasma renin activity is often elevated, indicating a compensated state.
-- **Female Genital Ambiguity:** 46,XX infants with classic forms present at birth with varying degrees of virilization, including clitoromegaly, partial or complete fusion of the labioscrotal folds, and a single urogenital sinus opening. Internal Müllerian structures (uterus, fallopian tubes) remain completely normal because these patients lack anti-Müllerian hormone (AMH).
-- **Male Presentation:** 46,XY infants have completely normal male external genitalia at birth. Without newborn screening, boys with the simple virilizing form may evade detection until early childhood when they present with rapid somatic growth, premature pubarche, enlarged penis, but small prepubertal testes (indicating peripheral, gonadotropin-independent precocity).
-- **Nonclassic Form:** Caused by mutations (e.g., V281L) retaining 20% to 50% of normal enzyme activity. Patients are asymptomatic at birth with normal genitalia. They later present in childhood or adolescence with premature adrenarche, acne, hirsutism, menstrual irregularities, or infertility.
+#### Forms of 21OHD
 
-### Diagnosis and Newborn Screening
+|Phenotype|Enzyme Activity|Clinical Features|Common Mutation|
+|:--|:--|:--|:--|
+|Salt-Wasting (SW)|Nearly absent|Neonatal salt-losing crisis (week 2), severe 46,XX DSD.|Intron 2 splice, large gene conversions/deletions.|
+|Simple Virilizing (SV)|~5%|Postnatal virilization, precocious puberty, advanced bone age, elevated renin.|I172N.|
+|Nonclassic (NC)|~20%|Premature adrenarche, hirsutism, menstrual irregularity, infertility.|V281L.|
 
-- The diagnosis of 21-hydroxylase deficiency is confirmed by detecting highly elevated concentrations of serum 17-OHP.
-- In classic affected neonates, baseline 17-OHP levels typically exceed 10,000 ng/dL (300 nmol/L).
-- For nonclassic or milder cases, an ACTH stimulation test is the definitive diagnostic tool; an exaggerated rise in 17-OHP at 60 minutes confirms the defect.
-- Newborn screening programs utilizing dried blood spots on filter paper measure 17-OHP to identify classic CAH and prevent fatal salt-wasting crises.
-- False-positive newborn screens are common, particularly in premature infants, stressed neonates, or heterozygote carriers; samples collected before 48 hours of life can also reflect the physiologic postnatal surge of 17-OHP.
-- Second-tier testing utilizing liquid chromatography-tandem mass spectrometry (LC/MS/MS) on the newborn screen significantly improves specificity by eliminating cross-reacting steroids.
+### Diagnosis & Management
+
+#### Laboratory Evaluation
+
+- Elevated baseline 17OHP (>2000 ng/dL in classic disease).
+- Elevated 21-deoxycortisol.
+- Gold standard: Intravenous ACTH stimulation test demonstrating exaggerated 17OHP response.
+- Newborn screening utilizes 17OHP assays (must measure >24 hours post-birth to avoid false positives).
+
+#### Treatment Principles
+
+- Glucocorticoids: Oral hydrocortisone in growing children (10-15 mg/m²/day) to suppress ACTH/androgen overproduction.
+- Mineralocorticoids: Fludrocortisone (0.05-0.15 mg/day; newborns may require up to 0.4 mg).
+- Sodium supplementation: 1-2 g NaCl/day required in newborns.
+- Surgical intervention: Genital reconstruction for affected 46,XX DSD females.
 
 ## 11β-Hydroxylase Deficiency (CYP11B1)
 
-### Pathophysiology and Genetics
+### Overview & Epidemiology
 
-- This disorder accounts for 3% to 5% of all CAH cases but is notably more frequent among Moroccan Jews (incidence approximating 1 in 6,000).
-- It is caused by mutations in the _CYP11B1_ gene on chromosome 8q24.3, which encodes the enzyme responsible for converting 11-deoxycortisol to cortisol in the zona fasciculata.
-- The blockade causes ACTH-driven accumulation of 11-deoxycortisol and, importantly, DOC.
-- DOC possesses potent mineralocorticoid activity; its massive accumulation causes salt and water retention, suppressing the renin-angiotensin-aldosterone system.
+- Rare autosomal recessive endocrine disorder.
+- Represents 3% to 5% of Congenital Adrenal Hyperplasia (CAH) cases globally.
+- General population incidence: 1 in 100,000 to 1 in 250,000 live births.
+- Highest prevalence in specific ethnic isolates due to founder effects.
 
-### Clinical Presentation
+|**Epidemiological Feature**|**Details**|
+|:--|:--|
+|**Moroccan Jewish Population**|- Incidence: 1 in 5,000 to 1 in 7,000 live births.- Predominant mutation: R448H (Arg448 to His).|
+|**Tunisian Arab Population**|- Common mutations: Q356X, G379V.|
+|**Turkish Population**|- Accounts for up to 13.5% of CAH cases.|
 
-- **Androgen Excess:** Affected 46,XX fetuses present with ambiguous, virilized external genitalia similar to those with 21-hydroxylase deficiency. Postnatally, both sexes experience rapid somatic growth, advanced skeletal maturation, and premature virilization.
-- **Hypertension:** The hallmark of 11β-hydroxylase deficiency is hypertension accompanied by hypokalemic alkalosis, caused by the prolonged exposure to excessive DOC.
-- Despite overall mineralocorticoid excess, infants may paradoxically experience transient salt loss in the neonatal period due to severe mineralocorticoid receptor blockade by other accumulated precursors.
+### Genetics & Molecular Biology
 
-### Diagnosis
+|**Genetic Feature**|**Details**|
+|:--|:--|
+|**Gene**|- _CYP11B1_.|
+|**Locus**|- Chromosome 8q21-22 (also cited as 8q24.3).|
+|**Inheritance**|- Autosomal recessive.|
+|**Protein Encoded**|- P450c11$\beta$ (11$\beta$-hydroxylase).|
+|**Structural Homology**|- 93% amino acid sequence identity with _CYP11B2_ (aldosterone synthase).|
+|**Gene Proximity**|- Closely linked in tandem with _CYP11B2_ on chromosome 8.|
+|**Mutation Types**|- Over 100 _CYP11B1_ mutations identified (missense, nonsense, deletions).|
 
-- Biochemically characterized by markedly elevated serum 11-deoxycortisol and DOC levels, both at baseline and following ACTH stimulation.
-- Serum 17-OHP and androgens (androstenedione, testosterone) are moderately elevated, while plasma renin activity (PRA) is classically suppressed.
+### Pathophysiology of Steroidogenesis
+
+#### Normal Enzyme Function
+
+- P450c11$\beta$ resides in mitochondrial inner membrane of adrenal zona fasciculata and zona reticularis.
+- Catalyzes 11$\beta$-hydroxylation.
+- Converts 11-deoxycortisol to cortisol.
+- Converts 11-deoxycorticosterone (DOC) to corticosterone.
+- Acts on C-19 steroids: Converts androstenedione to 11$\beta$-hydroxyandrostenedione; testosterone to 11$\beta$-hydroxytestosterone (precursors to potent 11-oxygenated androgens).
+
+#### Consequences of Enzymatic Blockade
+
+- Cortisol synthesis impaired $\rightarrow$ loss of negative feedback loop.
+- Corticotropin-releasing hormone (CRH) and Adrenocorticotropic hormone (ACTH) secretion excessively stimulated.
+- Excessive ACTH drives profound adrenal cortical hyperplasia.
+- Accumulation of proximal steroid intermediates: 11-deoxycortisol and DOC.
+
+|**Pathophysiological Derangement**|**Clinical / Biochemical Outcome**|
+|:--|:--|
+|**Cortisol Deficiency**|- Glucocorticoid insufficiency. Typically milder than 21-hydroxylase deficiency. Corticosterone provides partial compensatory glucocorticoid activity.|
+|**Deoxycorticosterone (DOC) Excess**|- DOC possesses potent mineralocorticoid activity.- Induces sodium retention, volume expansion, hypertension.- Suppresses Plasma Renin Activity (PRA).- Suppresses aldosterone synthesis via down-regulation of renin-angiotensin-aldosterone system.|
+|**Androgen Excess**|- Shunting of accumulated precursors into sex steroid biosynthesis pathways.- Elevated dehydroepiandrosterone (DHEA), androstenedione, and testosterone.- Potential utilization of alternate "backdoor pathway" converting excess 17-OHP to dihydrotestosterone (DHT) independently of testosterone.|
+|**Secondary 17-OHP Elevation**|- Accumulated 11-deoxycortisol competitively inhibits P450c21 (21-hydroxylase).- Results in secondary elevation of 17-hydroxyprogesterone (17-OHP).|
+
+### Clinical Manifestations
+
+#### Classic 11$\beta$-Hydroxylase Deficiency
+
+|**Age / Sex**|**Manifestations**|
+|:--|:--|
+|**46,XX Neonates (Females)**|- Disorder of Sex Development (DSD) / Ambiguous genitalia.- Clitoromegaly, posterior labial fusion, urogenital sinus.- Internal Müllerian structures (uterus, fallopian tubes, upper vagina) preserved.|
+|**46,XY Neonates (Males)**|- Normal male external genitalia at birth.- Isosexual precocity may develop postnatally.|
+|**Both Sexes (Neonatal)**|- Transient mild salt loss/hyponatremia despite DOC excess.- Driven by physiological neonatal renal resistance to mineralocorticoids.- Resolves quickly; frequently causes early misdiagnosis as 21-hydroxylase deficiency.|
+|**Childhood (Both Sexes)**|- Accelerated linear growth velocity.- Markedly advanced skeletal maturation (bone age).- Premature epiphyseal fusion $\rightarrow$ stunted final adult stature.- Premature pubarche, axillary hair, severe acne.- Deepening of voice, excessive muscular development.|
+|**Cardiovascular**|- Hypertension develops in ~65% of patients.- Often delayed onset (takes years to manifest).- Chronic hypokalemia, polyuria, nocturia, muscle weakness.- Long-standing untreated cases risk ventricular hypertrophy, retinopathy, cerebrovascular events.|
+|**Reproductive (Adolescent)**|- Untreated females: primary amenorrhea, progressive virilization, hirsutism, polycystic ovaries.- Untreated males: Prepubertal testicular volume despite phallic enlargement (LH suppressed by adrenal androgens).|
+
+#### Nonclassic (Late-Onset) 11$\beta$-Hydroxylase Deficiency
+
+- Extremely rare entity; true prevalence debated.
+- Mild/partial enzymatic impairment.
+- Normal genitalia at birth.
+- **Females:** Childhood premature adrenarche, adult hirsutism, menstrual irregularities, virilism, infertility.
+- **Males:** Precocious pseudopuberty, rapid growth.
+- Hypertension and electrolyte derangements typically absent.
+
+### Laboratory Investigations
+
+#### Basal & Dynamic Biochemistry
+
+|**Analyte**|**Expected Result in Classic 11$\beta$-Hydroxylase Deficiency**|
+|:--|:--|
+|**11-Deoxycortisol**|- Markedly elevated (Diagnostic hallmark).- Hyperresponsive to synthetic ACTH (cosyntropin) stimulation.|
+|**11-Deoxycorticosterone (DOC)**|- Markedly elevated.- Hyperresponsive to ACTH stimulation.|
+|**Cortisol**|- Low or inappropriately normal relative to elevated ACTH.|
+|**ACTH**|- Elevated.|
+|**Plasma Renin Activity (PRA)**|- Suppressed / Low (due to DOC-induced volume expansion).|
+|**Aldosterone**|- Suppressed / Low (secondary to suppressed PRA).|
+|**Potassium**|- Hypokalemia (variable, absent in many early presentations).|
+|**Androgens**|- Elevated Testosterone, Androstenedione, DHEA.|
+|**17-Hydroxyprogesterone (17-OHP)**|- Mildly to moderately elevated.- May trigger false-positive newborn screening for 21-hydroxylase deficiency.|
+
+#### Ancillary Testing
+
+- **Newborn Screening:** May detect elevated 17-OHP, prompting further steroid profiling.
+- **Genetic Testing:** _CYP11B1_ gene sequencing confirms molecular diagnosis. Required to confirm nonclassic cases reliably.
+- **Bone Age Radiograph:** Advanced skeletal maturation relative to chronologic age.
+- **Pelvic Ultrasound:** Confirms presence of Müllerian structures (uterus, ovaries) in virilized 46,XX neonates.
+
+### Differential Diagnosis
+
+|**Disorder**|**Differentiating Clinical & Laboratory Features from 11$\beta$-OHD**|
+|:--|:--|
+|**21-Hydroxylase Deficiency**|- Most common CAH (>90%).- Salt-wasting: Hyponatremia, hyperkalemia, hypotension (NO hypertension).- Massive elevation of 17-OHP; 11-deoxycortisol is LOW.- Elevated PRA.|
+|**17$\alpha$-Hydroxylase Deficiency**|- Hypertension and hypokalemia present (like 11$\beta$-OHD).- Deficient sex steroids $\rightarrow$ 46,XY undervirilized (phenotypic female/ambiguous); 46,XX sexual infantilism/primary amenorrhea (NO virilization).|
+|**3$\beta$-HSD Deficiency**|- Ambiguous genitalia in BOTH 46,XX and 46,XY.- Elevated $\Delta$5 steroids (pregnenolone, 17-hydroxypregnenolone, DHEA).- High $\Delta$5:$\Delta$4 steroid ratio.|
+|**P450 Oxidoreductase (POR) Deficiency**|- Ambiguous genitalia in both sexes.- Mixed features of 21-OHD and 17$\alpha$-OHD.- Associated with Antley-Bixler skeletal dysplasia (craniosynostosis, radiohumeral synostosis).|
+
+### Management
+
+#### Pharmacotherapy
+
+|**Modality**|**Intervention & Rationale**|
+|:--|:--|
+|**Glucocorticoid Replacement**|- **Drug:** Hydrocortisone (children) to minimize growth suppression.- **Mechanism:** Replaces deficient cortisol, restores negative feedback, suppresses excessive ACTH.- **Effect:** Halts overproduction of DOC (resolving hypertension) and androgens (halting progressive virilization and bone age advancement).- **Dosing:** 10-15 mg/m$^2$/day divided in 3 doses. Stress dosing (2x-3x) required during illness/surgery.|
+|**Mineralocorticoid Therapy**|- Generally **NOT** required in 11$\beta$-hydroxylase deficiency.- Exception: May be transiently required in young infants who develop paradoxical salt-loss immediately upon initiation of glucocorticoid therapy (due to sudden suppression of DOC before normal aldosterone axis recovers).|
+|**Antihypertensive Agents**|- Required if hypertension is long-standing, severe, or fails to resolve promptly with glucocorticoid suppression of DOC.- **Drug of choice:** Calcium channel blockers, Potassium-sparing diuretics (spironolactone).|
+
+#### Surgical & Adjunctive Therapy
+
+- **Feminizing Genitoplasty:** Reconstructive surgery (clitoroplasty/clitoral recession, vaginoplasty) for severely virilized 46,XX infants. Timed via multidisciplinary consensus (pediatric urology/endocrinology/psychology).
+- **Growth Optimization:** Close monitoring of height velocity, weight, and serial bone ages. Prevent overtreatment (causes iatrogenic Cushing/growth arrest) and undertreatment (causes premature epiphyseal fusion).
+- **Genetic Counseling:** Autosomal recessive transmission. 25% recurrence risk in subsequent pregnancies. Carrier testing available for family members.
 
 ## 3β-Hydroxysteroid Dehydrogenase Type 2 Deficiency (HSD3B2)
 
-### Pathophysiology and Genetics
+### Pathophysiology
 
-- Caused by mutations in the _HSD3B2_ gene mapped to chromosome 1p12, encoding an enzyme necessary for multiple steroidogenic branches.
-- The enzyme catalyzes the conversion of Δ5-steroids (pregnenolone, 17-hydroxypregnenolone, and DHEA) into Δ4-ketosteroids (progesterone, 17-OHP, and androstenedione).
-- Deficiency impairs the synthesis of all three classes of adrenal steroids: glucocorticoids, mineralocorticoids, and active gonadal sex steroids.
+- Rare, autosomal recessive variant of Congenital Adrenal Hyperplasia (CAH).
+- Caused by loss-of-function mutations in _HSD3B2_ gene (chromosome 1p13.1).
+- Impairs conversion of $\Delta 5$ steroids to $\Delta 4$-ketosteroids (pregnenolone $\rightarrow$ progesterone; 17-hydroxypregnenolone $\rightarrow$ 17-OHP; DHEA $\rightarrow$ androstenedione).
+- Leads to complete or partial deficiency of glucocorticoids, mineralocorticoids, and sex steroids.
+- Triggers compensatory ACTH hypersecretion and massive accumulation of dehydroepiandrosterone (DHEA).
 
-### Clinical Presentation
+### Clinical Manifestations
 
-- **Adrenal Crisis:** Most patients present with severe salt-wasting and adrenal insufficiency in early infancy.
-- **Genital Ambiguity in Both Sexes:** This is a unique feature of _HSD3B2_ deficiency.
-- **46,XY Infants:** Present with incomplete masculinization (hypospadias, bifid scrotum, cryptorchidism) because the testes cannot convert DHEA to potent androgens (testosterone and DHT) efficiently.
-- **46,XX Infants:** Present with mild virilization (clitoromegaly) driven by the massive overproduction of the weak androgen DHEA, which is peripherally converted into active androgens by the intact type 1 3β-HSD enzyme present in the liver and skin.
+| Phenotype           | Key Features                                                                                                                                                                                            |
+| :------------------ | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| **46,XX (Females)** | - Mild virilization and clitoromegaly.- Driven by peripheral conversion of massive DHEA to testosterone via unaffected _HSD3B1_ isoenzyme.- Normal internal female organs.                              |
+| **46,XY (Males)**   | - Undervirilization, varying degrees of hypospadias, bifid scrotum, cryptorchidism.- Caused by insufficient testicular testosterone synthesis.- Intact Wolffian duct structures.                        |
+| **Systemic (Both)** | - Classic salt-wasting crisis in the newborn period (hypotension, hyponatremia, hyperkalemia) due to aldosterone deficiency.- Late-onset nonclassic forms present with premature pubarche or hirsutism. |
 
 ### Diagnosis
 
-- Diagnostic hormonal profile shows markedly elevated levels of Δ5-steroids, primarily 17-hydroxypregnenolone and DHEA, with a characteristically high ratio of Δ5 to Δ4 steroids following an ACTH stimulation test.
+- **Steroid Profile:** Marked elevation of baseline and ACTH-stimulated $\Delta 5$ steroids (pregnenolone, 17-hydroxypregnenolone, DHEA).
+- **Ratios:** Elevated $\Delta 5$ to $\Delta 4$ steroid ratios.
+- **Pitfall:** May mimic 21-hydroxylase deficiency newborn screens. Extraglandular _HSD3B1_ converts accumulated 17-hydroxypregnenolone to 17-OHP, yielding false-positive high 17-OHP levels.
+- **Other Labs:** Low cortisol, low aldosterone, elevated plasma renin activity (PRA), and elevated ACTH.
+
+### Management
+
+- **Steroid Replacement:** Lifelong glucocorticoid (hydrocortisone) and mineralocorticoid (fludrocortisone) replacement.
+- **Electrolytes:** Sodium chloride supplementation in infancy.
+- **Surgical/Hormonal:** Genital reconstructive surgery as needed. Testosterone replacement for incompletely virilized 46,XY males raised as males.
 
 ## 17α-Hydroxylase / 17,20-Lyase Deficiency (CYP17A1)
 

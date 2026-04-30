@@ -2,88 +2,140 @@
 {"dg-publish":true,"uplink":"/respiratory/respiratory-system/","uptext":"Back to Index (🫁Respiratory System)","permalink":"/respiratory/empyema-thoracis/","dgPassFrontmatter":true}
 ---
 
-### 1. Etiology 
-Empyema is usually a complication of bacterial pneumonia (parapneumonic effusion).
-* **Common Organisms:**
-    * *Streptococcus pneumoniae:* Currently the most common cause (even in vaccinated populations due to serotype replacement).
-    * *Staphylococcus aureus:* Significant cause, especially in infants and developing nations; associated with pneumatoceles.
-    * *Streptococcus pyogenes* (Group A Strep).
-* **Other Causes:**
-    * *Anaerobes:* Secondary to aspiration pneumonia or poor dental hygiene.
-    * *Mycobacterium tuberculosis:* Chronic effusions.
-    * *Haemophilus influenzae type b:* Rare in vaccinated children.
-    * *Mycoplasma pneumoniae:* Can cause effusions, though frank empyema is rare.
+## Definition And Epidemiology
 
-### 2. Stages of Evolution 
-Pleural infection progresses through a continuum of three distinct stages:
+- Collection of pus in pleural cavity associated with underlying lung infection.
+- Late stage of complicated parapneumonic effusion (CPPE) characterized by grossly purulent fluid with or without bacterial organisms.
+- Occurs in 5-10% of children with bacterial pneumonia.
+- Complicates up to 86% of necrotizing pneumonia cases.
+- Most frequently encountered in infants and preschool children.
 
-1.  **Exudative Stage (Simple Parapneumonic Effusion):**
-    * **Pathology:** Inflammation increases pleural membrane permeability.
-    * **Fluid:** Clear, sterile exudate, low WBC count, normal pH (>7.2), normal glucose.
-    * **Mechanics:** Fluid flows freely; lungs expand easily.
+## Etiology
 
-2.  **Fibropurulent Stage (Complicated Parapneumonic Effusion):**
-    * **Pathology:** Bacterial invasion of pleural space, neutrophil accumulation, and fibrin deposition.
-    * **Fluid:** Turbid/purulent (pus), high WBC (polymorphs), low pH (<7.2), low glucose, high LDH.
-    * **Mechanics:** Fibrin strands create **loculations** and septations; lung expansion is limited.
+Pathogens vary based on immune status and age. Empyema in children below two years is nearly always Staphylococcal in etiology.
 
-3.  **Organizational Stage (Chronic Empyema):**
-    * **Pathology:** Fibroblast infiltration leads to formation of a thick, non-elastic "peel" over the visceral and parietal pleura.
-    * **Mechanics:** The peel encases the lung causing **"trapped lung"**, preventing re-expansion and impairing function.
+|Host Status|Common Pathogens|
+|:--|:--|
+|**Immunocompetent**|- _Streptococcus pneumoniae_ - _Staphylococcus aureus_ (MSSA and MRSA) - _Streptococcus pyogenes_ - _Haemophilus influenzae_ (rare post-vaccination)|
+|**Immunocompromised**|- Gram-negative organisms (_Pseudomonas aeruginosa_, _Klebsiella_) - Fungi - _Mycobacterium tuberculosis_ (rare)|
 
-### 3. Clinical Manifestations 
-* **History:**
-    * Persistence or recurrence of fever in a child treated for pneumonia (>48 hours after admission).
-    * **Symptoms:** Pleuritic chest pain (may be referred to abdomen), dyspnea, malaise, anorexia.
-* **Physical Examination:**
-    * **General:** Respiratory distress, toxic look, pallor.
-    * **Chest Signs:** Unilateral reduction in chest expansion, **stony dullness** on percussion, decreased or absent breath sounds on the affected side.
-    * **Scoliosis:** Transient scoliosis (concave to the affected side) due to pain/splinting.
+## Pathogenesis And Staging
 
-### 4. Diagnostic Investigations 
-**A. Imaging**
-* **Chest X-ray (CXR):** Initial test. Shows blunting of costophrenic angle, meniscus sign, or "white out". Cannot differentiate simple fluid from pus.
-* **Ultrasound Chest (USG):** **Investigation of choice.**
-    * Confirms fluid presence.
-    * Characterizes nature (echogenic, loculated vs free-flowing).
-    * Guides drain insertion site.
-* **CT Chest:** Not routine. Indicated only if surgery is planned, to rule out lung abscess, or if malignancy is suspected.
+Empyema development represents a continuum divided into three distinct phases.
 
-**B. Microbiology & Labs**
-* **Pleural Fluid Analysis:**
-    * **Microscopy/Culture:** Gram stain and bacterial culture (often negative if prior antibiotics used).
-    * **PCR/Antigen Detection:** Pneumococcal antigen/PCR increases diagnostic yield significantly.
-    * **Biochemistry:** Differentiating exudate vs transudate (Light's criteria) is clinically less useful in pediatric empyema compared to adults.
-    * **Cytology:** Predominant neutrophils (bacterial) vs lymphocytes (TB/malignancy).
-* **Blood Culture:** Positive in ~10–20% of cases; mandatory in all patients.
-* **Blood Counts:** Leukocytosis (neutrophilia), elevated CRP, secondary thrombocytosis (common and benign).
+|Stage|Timeline|Pleural Fluid Characteristics|Pathological Features|
+|:--|:--|:--|:--|
+|**Stage I (Exudative)**|Days 1-3|- Thin fluid - pH > 7.3 - Glucose > 60 mg/dL - LDH < 1,000 IU/L - Gram stain/Culture: Negative|- Minimal cellular response - Free-flowing fluid - Fibrinous exudate formation|
+|**Stage II (Fibrinopurulent)**|Days 4-14|- Purulent, viscous fluid - pH < 7.2 - Glucose < 40 mg/dL - LDH > 1,000 IU/L - Gram stain/Culture: Positive|- High polymorphonuclear leukocyte count - Fibrin deposition - Loculations and septations form - Parietal pleura thickening|
+|**Stage III (Organizational)**|>14 Days|- Reorganization of fluid|- Fibroblast proliferation - Solid fibrous peel/thick membrane formation - Entraps lung, prevents expansion|
 
-### 5. Management 
-**A. General Measures**
-* Admission, oxygen (target SpO2 >92%), analgesia (NSAIDs/Paracetamol), and antipyretics.
-* Correction of fluid/electrolyte imbalance.
+## Clinical Presentation
 
-**B. Antibiotic Therapy**
-* **Route:** Intravenous initially.
-* **Choice:** Broad-spectrum covering *S. pneumoniae* and *S. aureus*.
-    * *Community-acquired:* Cefuroxime or Co-amoxiclav. Add Clindamycin or Vancomycin if MRSA is suspected.
-    * *Aspiration:* Cover anaerobes (Metronidazole/Clindamycin).
-* **Duration:** IV until afebrile and drain removed, followed by oral antibiotics for 1–4 weeks (total 3–6 weeks).
+Suspect empyema upon failure to respond 48 hours post-initiation of appropriate antibiotic therapy for pneumonia.
 
-**C. Pleural Drainage**
-* **Indications:** Moderate to large effusions, respiratory compromise, or failure of antibiotics alone.
-* **Chest Tube:** Small-bore (pigtail) catheters (8–12 Fr) are preferred over large surgical drains (less pain, equal efficacy). **Avoid repeated needle aspirations.**
+### General Symptoms
 
-**D. Intrapleural Fibrinolytics**
-* **Indication:** Complicated effusions (loculated/echogenic on USG).
-* **Agents:** **Urokinase** or Alteplase (tPA).
-* **Benefit:** Breaks down fibrin septations, improves drainage, and significantly shortens hospital stay (BTS Grade A/B evidence).
+- High-grade fever, malaise, loss of appetite.
+- Toxic appearance, irritability.
 
-**E. Surgical Management**
-* **Procedures:** Video-Assisted Thoracoscopic Surgery (VATS) or Mini-thoracotomy/Decortication.
-* **Indications:**
-    * Failure of medical management (antibiotics + drain + fibrinolytics) with persistent sepsis.
-    * Organised empyema with thick peel (trapped lung).
-    * Bronchopleural fistula.
+### Respiratory Signs
 
-**Prognosis:** Excellent in children; complete radiological resolution occurs in most by 3–6 months.
+- Breathlessness, cough, chest pain.
+- Splinting hemithorax (lying on affected side for temporary analgesia).
+- Respiratory distress, retractions.
+
+### Physical Examination Findings
+
+- Reduced chest movement and expansion.
+- Dullness to percussion.
+- Reduced or absent breath sounds.
+- Decreased vocal resonance.
+- Scoliosis on affected side.
+- Pulsatile swelling over chest (Empyema necessitans).
+
+## Complications
+
+Untreated or severe empyema leads to localized and systemic sequelae.
+
+### Local Complications
+
+- Atelectatic lung.
+- Bronchopleural fistula.
+- Pyopneumothorax.
+- Empyema necessitans (pus dissects through chest wall).
+- Purulent pericarditis.
+- Pulmonary abscesses.
+- Peritonitis (diaphragmatic extension).
+- Rib osteomyelitis.
+
+### Systemic Complications
+
+- Septicemia (common in _H. influenzae_ and pneumococcal infections).
+- Meningitis.
+- Suppurative arthritis.
+- Septic osteomyelitis.
+
+## Diagnostic Evaluation
+
+### Pleural Fluid Investigations
+
+Thoracentesis essential for definitive diagnosis.
+
+- **Biochemistry**: pH < 7.2, Lactate Dehydrogenase (LDH) > 1,000 U/L, Glucose < 40 mg/dL, High proteins.
+- **Cellularity**: Markedly elevated White Blood Cell (WBC) count, predominantly polymorphonuclear leukocytes.
+- **Microbiology**: Gram stain, bacterial culture, Polymerase Chain Reaction (PCR).
+
+### Imaging Modalities
+
+- **Chest X-Ray**: Uniform opacity of hemithorax. Mediastinal shift to opposite side. Obliteration of costophrenic angle.
+- **Ultrasonography (USG)**: Identifies fluid nature (loculated vs. free-flowing). Detects septations. Quantifies volume. Guides optimal thoracentesis site. Serial monitoring tool.
+- **Contrast-Enhanced Computed Tomography (CECT) Chest**: Identifies underlying lung parenchymal necrosis/abscess. Measures pleural thickness. Identifies mediastinal fluid collection and adenopathy. Crucial for surgical planning. Note: Cannot reliably identify septations.
+
+### Blood Investigations
+
+- Complete Blood Count: Leukocytosis.
+- Inflammatory Markers: C-Reactive Protein (CRP) trend monitoring.
+- Metabolic Panel: Electrolytes (assess for Syndrome of Inappropriate Antidiuretic Hormone Secretion - SIADH), total proteins, albumin.
+- Blood Culture: Typically low positivity, but necessary.
+
+## Management Principles
+
+### Stage-Based Treatment Strategy
+
+|Disease Stage|Therapeutic Intervention|
+|:--|:--|
+|**Stage I (Exudative)**|- Antibiotics - Clinical monitoring - Intercostal Drainage (ICD) if increasing fluid or no improvement|
+|**Stage II (Fibrinopurulent)**|- Antibiotics - ICD - Fibrinolytics OR Video-Assisted Thoracoscopic Surgery (VATS)|
+|**Stage III (Organizational)**|- VATS OR Mini-thoracotomy/Decortication|
+
+### Antimicrobial Therapy
+
+- **Initial Empirical**: Intravenous Ceftriaxone + Cloxacillin (covers _S. pneumoniae_ and _S. aureus_).
+- **MRSA/Hemodynamic Instability**: Add Vancomycin or Linezolid.
+- **Associated Soft Tissue Involvement**: Add Clindamycin.
+- **Duration**: Total 2-4 weeks. Transition from intravenous to oral route based on clinical improvement and decreasing inflammatory marker trend.
+
+### Specific Interventions
+
+#### Fibrinolytic Therapy
+
+- **Indications**: Loculations/septations noted on USG. Most effective early in course (first 7-10 days), though utility beyond 14 days reported.
+- **Agents & Dosing**:
+    - _Streptokinase_: <1 year: 10,000 units/kg. >1 year: 20,000 units/kg. Dissolve in 50 mL Normal Saline. 4-hour dwell time (infusion over 1 hour). Administer 3 consecutive days (4-6 doses superior to 3).
+    - _Urokinase_: 40,000 units in 40 mL saline.
+    - _Tissue Plasminogen Activator (tPA)_: 4 mg in 20-40 mL saline.
+
+#### Surgical Intervention
+
+- **Indications**: Sepsis/infected fluid uncontrolled by antibiotics + ICD. Significant respiratory compromise secondary to thickened pleura. Decreasing ICD output coupled with clinical deterioration and persistent effusion on imaging.
+- **Options**:
+    - _Video-Assisted Thoracoscopic Surgery (VATS)_: Preferred at centers with minimally invasive expertise. Shorter postoperative stay, reduced reintervention need.
+    - _Mini-Thoracotomy / Decortication_: Required for thick inelastic peel preventing lung expansion.
+
+### Supportive Management
+
+- **Respiratory Support**: Oxygen supplementation (nasal prongs, High-Flow Nasal Cannula [HFNC], Non-Invasive Ventilation [NIV]) based on distress severity.
+- **Symptom Control**: Paracetamol for fever, analgesics for ICD-related pain.
+- **Physiotherapy**: Incentive spirometry and deep breathing exercises improve ICD drainage.
+- **Contraindications**: No role for chest physiotherapy or inhaled bronchodilators.
+- **Outcomes**: Good long-term clinical and pulmonary function outcomes regardless of medical or surgical intervention.

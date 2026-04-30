@@ -31,24 +31,18 @@
 |**Severe**|<1%|Frequent, spontaneous hemorrhage; spontaneous hemarthroses; deep soft tissue bleeds|70%|
 |**Moderate**|1-5%|Gross bleeding post mild-to-moderate trauma; rare spontaneous bleeds|15%|
 |**Mild**|5-40%|Severe hemorrhage only post moderate-to-severe trauma or surgery; often delayed diagnosis|15%|
-
-_Data derived from clinical severity correlations._
-
 ## Clinical Manifestations
-
 ### Neonatal Presentation
 
 - FVIII does not cross placenta; bleeding symptoms possible at birth.
 - Intracranial hemorrhage occurs in 1-4% of neonates, mostly birth trauma-related.
 - Post-circumcision bleeding absent in 35% of severe and 70% of non-severe cases.
 - Diagnosis frequently missed in newborn period without positive family history.
-
 ### Post-Neonatal And Childhood Presentation
 
 - Symptoms manifest when infant begins cruising or walking.
 - Easy bruising, intramuscular hematomas, frequent joint bleeds.
 - Prolonged bleeding from minor oral lacerations (torn frenulum).
-
 ### Common Sites Of Hemorrhage
 
 - **Hemarthrosis:** Hallmark manifestation. Ankles affected earliest, followed by knees and elbows.
@@ -58,7 +52,6 @@ _Data derived from clinical severity correlations._
 - **Mucosal Bleeding:** Epistaxis, dental extractions.
 
 ## Diagnostic Evaluation
-
 ### Screening Coagulation Assays
 
 - **Activated Partial Thromboplastin Time (aPTT):** Markedly prolonged. Usually 2-3 times upper normal limit in severe disease. May remain normal in mild disease depending on reagent sensitivity.
@@ -82,7 +75,6 @@ _Data derived from clinical severity correlations._
 - FVIII/vWF:Ag ratio <1.0 detects 80% of carriers with 95% accuracy.
 
 ## Management Strategies
-
 ### Principles Of Factor Replacement Therapy
 
 - Intravenous replacement of deficient FVIII represents mainstay of therapy.
@@ -97,14 +89,12 @@ _Data derived from clinical severity correlations._
 
 ### Acute Hemorrhage Management (On-Demand Therapy)
 
-|Hemorrhage Type|Target FVIII Level|Recommended FVIII Dosing|Adjunct Interventions|
-|:--|:--|:--|:--|
-|**Hemarthrosis**|30-50%|50-60 IU/kg day 1; 20 IU/kg every other day|Rest, cold compress, immobilization.|
-|**Intramuscular**|40-50%|50 IU/kg initially; 20 IU/kg every other day|Monitor for compartment syndrome.|
-|**Oral/Dental**|50%|20 IU/kg single dose|Antifibrinolytics critical.|
-|**Life-Threatening/CNS**|100%|50-75 IU/kg bolus; maintain trough >50% for 5-7 days|Hospitalization; immediate infusion prior to imaging.|
-
-_Dosing protocols derived from established acute management guidelines._
+| Hemorrhage Type          | Target FVIII Level | Recommended FVIII Dosing                             | Adjunct Interventions                                 |
+| :----------------------- | :----------------- | :--------------------------------------------------- | :---------------------------------------------------- |
+| **Hemarthrosis**         | 30-50%             | 50-60 IU/kg day 1; 20 IU/kg every other day          | Rest, cold compress, immobilization.                  |
+| **Intramuscular**        | 40-50%             | 50 IU/kg initially; 20 IU/kg every other day         | Monitor for compartment syndrome.                     |
+| **Oral/Dental**          | 50%                | 20 IU/kg single dose                                 | Antifibrinolytics critical.                           |
+| **Life-Threatening/CNS** | 100%               | 50-75 IU/kg bolus; maintain trough >50% for 5-7 days | Hospitalization; immediate infusion prior to imaging. |
 
 ### Prophylaxis Therapy
 
