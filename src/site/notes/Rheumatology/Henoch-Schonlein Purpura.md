@@ -17,7 +17,17 @@
 
 - Exact etiology remains elusive.
 - Frequently preceded by documented upper respiratory tract infection by 1 to 3 weeks.
-- Infectious triggers include Group A beta-hemolytic Streptococcus, Staphylococcus aureus, Mycoplasma, adenovirus, varicella, rubella, rubeola, Epstein-Barr virus, hepatitis viruses, and parvovirus B19.
+- Infectious triggers include 
+	- Group A beta-hemolytic Streptococcus, 
+	- Staphylococcus aureus, 
+	- Mycoplasma, 
+	- adenovirus, 
+	- varicella, 
+	- rubella, 
+	- rubeola, 
+	- Epstein-Barr virus, 
+	- hepatitis viruses, and 
+	- parvovirus B19.
 - Environmental triggers include vaccinations (typhoid, measles, cholera) and allergen exposure (drugs, food, cold exposure, insect bites).
 - Genetic predisposition linked to specific alleles, including Hla-b34 and Hla-drb1*01 (associated with nephritis risk).
 - Immunoglobulin A1 molecule possesses hinge region with glycan chains containing beta-1,3-linked galactose.
