@@ -57,7 +57,9 @@ body, .markdown-rendered, .content, .title, h1, h2, h3, h4, h5, h6, button, bloc
     font-size: 1.25rem !important;
     margin: 10px !important;
     white-space: nowrap;
-    display: inline-block;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    display: block;
     vertical-align: middle;
 }
 
@@ -67,6 +69,18 @@ body, .markdown-rendered, .content, .title, h1, h2, h3, h4, h5, h6, button, bloc
         margin: 5px !important;
     }
 }
+
+.toggle-icon {
+    color: var(--text-muted);
+    opacity: 0.5;
+    transition: transform 0.2s, opacity 0.2s;
+}
+
+.toggle-icon:hover {
+    opacity: 1;
+    color: var(--text-accent);
+}
+
 
 
 /* Link Styling */
@@ -262,8 +276,12 @@ body.no-filetree .filetree-toggle {
   }
 }
 .filetree-sidebar .site-name-title {
-  padding-left: 55px !important;
-  margin-top: 10px !important;
+  padding-left: 20px !important; /* Reduced from 55px */
+  margin-top: 15px !important;
+  margin-bottom: 15px !important;
   text-align: left !important;
-  display: block; /* Overriding inline-block for sidebar context */
+  display: block;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  width: calc(100% - 40px); /* Account for padding/margins */
 }

@@ -7,7 +7,7 @@ document.addEventListener('DOMContentLoaded', () => {
         heading.style.cursor = 'pointer';
         
         // Optional: Add a chevron icon via JS if you don't want to use CSS ::before
-        heading.innerHTML = `<span class="toggle-icon">▶</span> ` + heading.innerHTML;
+        heading.innerHTML = `<svg class="toggle-icon" viewBox="0 0 100 100" style="width: 10px; height: 10px; margin-right: 10px; transition: transform 0.2s; opacity: 0.5; display: inline-block;"><path d="M 30,20 L 70,50 L 30,80 Z" fill="currentColor"></path></svg> ` + heading.innerHTML;
 
         heading.addEventListener('click', () => {
             // Toggle the 'active' class for the chevron rotation
