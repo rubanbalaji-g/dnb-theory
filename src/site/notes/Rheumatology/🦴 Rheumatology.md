@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/rheumatology/rheumatology/","hide":true,"noteIcon":"","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/rheumatology/rheumatology/","hide":false,"noteIcon":"","dgPassFrontmatter":true}
 ---
 
 ## Basics
