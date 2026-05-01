@@ -53,6 +53,22 @@ body, .markdown-rendered, .content, .title, h1, h2, h3, h4, h5, h6, button, bloc
     font-weight: 400;
 }
 
+.site-name-title {
+    font-size: 1.25rem !important;
+    margin: 10px !important;
+    white-space: nowrap;
+    display: inline-block;
+    vertical-align: middle;
+}
+
+@media (max-width: 800px) {
+    .site-name-title {
+        font-size: 1.1rem !important;
+        margin: 5px !important;
+    }
+}
+
+
 /* Link Styling */
 .content a, .markdown-rendered a {
     color: var(--text-accent);
@@ -245,8 +261,9 @@ body.no-filetree .filetree-toggle {
     contain: none !important;
   }
 }
-.filetree-sidebar > a > h1 {
+.filetree-sidebar .site-name-title {
   padding-left: 55px !important;
   margin-top: 10px !important;
   text-align: left !important;
+  display: block; /* Overriding inline-block for sidebar context */
 }
