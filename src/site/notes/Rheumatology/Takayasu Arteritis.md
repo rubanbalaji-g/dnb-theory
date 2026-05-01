@@ -30,9 +30,9 @@
 - Giant cell granulomatous reaction induces laminar necrosis.
 - Fragmentation of elastic fibers triggers elasticophagia.
 - Follows triphasic progression.
-- Phase I constitutes systemic, pre-pulseless period featuring low-grade fever, malaise, anorexia, and weight loss.
-- Phase II constitutes vasculitic stage featuring angiodynia or vessel tenderness.
-- Phase III constitutes late, fibrotic, occlusive burnt-out phase leading to pulseless extremities.
+	- Phase I constitutes systemic, pre-pulseless period featuring low-grade fever, malaise, anorexia, and weight loss.
+	- Phase II constitutes vasculitic stage featuring angiodynia or vessel tenderness.
+	- Phase III constitutes late, fibrotic, occlusive burnt-out phase leading to pulseless extremities.
 - Healed phase exhibits pan-layer fibrosis and intimal neovascularization.
 
 ## Classification By Vessel Involvement
@@ -59,12 +59,12 @@
 ## Diagnostic Criteria
 
 - EULAR/PRINTO/PRES criteria remain standard for pediatric classification.
-- Mandatory criterion requires angiographic abnormalities of aorta or main branches.
-- Requires one of four additional features.
-- Decreased peripheral artery pulses or extremity claudication.
-- Blood pressure difference exceeding 10 mm Hg between limbs.
-- Bruits over aorta or major branches.
-- Hypertension exceeding childhood normative data.
+	- Mandatory criterion requires angiographic abnormalities of aorta or main branches.
+	- Requires one of the following additional features.
+		- Decreased peripheral artery pulses or extremity claudication.
+		- Blood pressure difference exceeding 10 mm Hg between limbs.
+		- Bruits over aorta or major branches.
+		- Hypertension exceeding childhood normative data.
 - Elevated erythrocyte sedimentation rate or C-reactive protein.
 - Ishikawa diagnostic criteria utilize age under 40, left and right mid-subclavian artery involvement as major criteria.
 
@@ -72,13 +72,13 @@
 
 - Erythrocyte sedimentation rate frequently elevated but serves as poor marker during remission.
 - C-reactive protein accurately correlates with thrombotic risk.
-- Novel biomarkers include tissue plasminogen activator, E-selectin, and anti-monocyte antibodies.
-- Pentraxin-3 provides superior sensitivity and specificity for monitoring disease activity during corticosteroid treatment.
+- Novel biomarkers include <span style="color:rgb(255, 192, 0)">tissue plasminogen activator, E-selectin, and anti-monocyte antibodies.</span>
+- <span style="color:rgb(255, 192, 0)">Pentraxin-3</span> provides superior sensitivity and specificity for monitoring disease activity during corticosteroid treatment.
 - Chest radiograph demonstrates increased mediastinal widening and bare aorta lacking collaterals.
 - Echocardiography detects dilated chambers, non-pulsatile descending aorta flow, and valvular defects.
 - Computed tomographic angiography reveals precise wall thickness and concentric luminal changes.
 - Magnetic resonance angiography facilitates vessel wall inflammation assessment without radiation.
-- Fluorodeoxyglucose positron emission tomography accurately detects active metabolic inflammation.
+- 18F PET CT accurately detects active metabolic inflammation.
 - Conventional angiography remains gold standard, revealing smooth-walled, tapered narrowing, aneurysms, and prominent collaterals.
 - Subclavian and thoracoabdominal artery involvement highly prevalent in children.
 
@@ -114,7 +114,7 @@
 
 ## Prognosis And Complications
 
-- Childhood disease carries higher mortality rate approaching 35% compared to adult populations.
+- Childhood disease carries higher mortality rate approaching 35% comparable to adult populations.
 - Five-year survival rate in adults reaches 94%.
 - Morbidity driven by progressive end-organ ischemia.
 - Complications include stroke, myocardial infarction, progressive renal failure, and mesenteric ischemia.

@@ -46,11 +46,11 @@ Complex interaction between immune activation and vascular tissue destruction dr
 
 Basic lesion constitutes necrotizing vasculitis of medium-sized muscular arteries, predominantly affecting coronary arteries. Vascular injury progresses through three distinct pathologic phases.
 
-|Disease Phase|Timing|Pathological Features|
-|:--|:--|:--|
-|**Phase 1**|First 2 weeks|Neutrophilic necrotizing arteritis. Begins in endothelium. Moves through coronary wall. Results in saccular aneurysm formation.|
-|**Phase 2**|Weeks to years|Subacute/chronic vasculitis. Driven by lymphocytes, plasma cells, and eosinophils. Results in fusiform aneurysms.|
-|**Phase 3**|Months to years|Luminal myofibroblastic proliferation. Medial smooth muscle cells proliferate. Progressive stenosis occurs. Thrombi may form and obstruct blood flow.|
+| Disease Phase | Timing          | Pathological Features                                                                                                                                 |
+| :------------ | :-------------- | :---------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Phase 1**   | First 2 weeks   | Neutrophilic necrotizing arteritis. Begins in endothelium. Moves through coronary wall. Results in saccular aneurysm formation.                       |
+| **Phase 2**   | Weeks to months | Subacute/chronic vasculitis. Driven by lymphocytes, plasma cells, and eosinophils. Results in fusiform aneurysms.                                     |
+| **Phase 3**   | Months to years | Luminal myofibroblastic proliferation. Medial smooth muscle cells proliferate. Progressive stenosis occurs. Thrombi may form and obstruct blood flow. |
 
 ## Structural Vascular Consequences
 

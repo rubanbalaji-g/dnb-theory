@@ -4,7 +4,6 @@
 
 ## Basics
 1. [[Rheumatology/Approach To A Child With Joint Pain\|Approach To A Child With Joint Pain]]
-2. [[Rheumatology/Mimickers Of Rheumatic Diseases In Children\|Mimickers Of Rheumatic Diseases In Children]]
 ## Juvenile Idiopathic Arthritis
 1. [[Rheumatology/ILAR Criteria for JIA\|ILAR Criteria for JIA]]
 2. [[Rheumatology/JIA - Classification, patterns and Features\|JIA - Classification, patterns and Features]]

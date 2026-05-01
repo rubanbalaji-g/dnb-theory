@@ -35,9 +35,9 @@
 - Panvasculitis predominantly affects medium-sized muscular arteries.
 - Primarily targets coronary arteries, but may involve axillary, subclavian, and iliac arteries.
 - Arteriopathy progresses through three distinct histological phases.
-- Phase 1 involves neutrophilic necrotizing arteritis occurring in first 2 weeks. Moves from endothelium through coronary wall. Yields saccular aneurysms.
-- Phase 2 involves subacute/chronic vasculitis lasting weeks to years. Driven by lymphocytes, plasma cells, and eosinophils. Yields fusiform aneurysms.
-- Phase 3 involves smooth muscle myofibroblast proliferation. Results in progressive luminal stenosis and occlusive thrombosis.
+	- Phase 1 involves neutrophilic necrotizing arteritis occurring in first 2 weeks. Moves from endothelium through coronary wall. Yields saccular aneurysms.
+	- Phase 2 involves subacute/chronic vasculitis lasting weeks to years. Driven by lymphocytes, plasma cells, and eosinophils. Yields fusiform aneurysms.
+	- Phase 3 involves smooth muscle myofibroblast proliferation. Results in progressive luminal stenosis and occlusive thrombosis.
 
 ## Clinical Manifestations
 

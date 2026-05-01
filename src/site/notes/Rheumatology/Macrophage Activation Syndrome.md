@@ -52,14 +52,23 @@
 
 ## Diagnostic Criteria
 
-- Standardized 2016 classification criteria exist for systemic juvenile idiopathic arthritis patients.
-- Requires febrile patient with known or suspected systemic juvenile idiopathic arthritis.
-- Mandatory ferritin level greater than 684 nanograms per milliliter.
-- Requires any two of four specific laboratory abnormalities.
-- Platelet count less than or equal to 181 billion per liter.
-- Aspartate aminotransferase greater than 48 units per liter.
-- Triglycerides greater than 156 milligrams per deciliter.
-- Fibrinogen less than or equal to 360 milligrams per deciliter.
+A patient with known or suspected **Systemic Juvenile Idiopathic Arthritis (sJIA)** is classified as having MAS if the following criteria are met:
+
+### 1. Obligatory Criterion
+- **Fever:** Presence of a high-grade, persistent fever.
+
+### 2. Laboratory Criteria (Must meet ≥ 2 of the following)
+| Parameter | Threshold Value |
+| :--- | :--- |
+| **Ferritin** | > 684 ng/mL |
+| **Platelet Count** | ≤ 181 x 10⁹/L |
+| **Aspartate Aminotransferase (AST)** | > 48 U/L |
+| **Triglycerides** | > 156 mg/dL (or 1.76 mmol/L) |
+| **Fibrinogen** | ≤ 360 mg/dL |
+### Important Clinical Considerations
+- **Dynamic Nature:** MAS is a rapidly evolving syndrome. A downward trend in cell counts (even if they remain within "normal" ranges) or a sudden, massive spike in ferritin is often more clinically significant than a single static value.
+- **HLH-2004 Criteria:** While the above is specific to sJIA, the broader **HLH-2004** criteria (requiring 5 out of 8 markers including splenomegaly, cytopenias, and low NK cell activity) are also frequently used for secondary MAS in other autoimmune contexts.
+- **Bone Marrow:** Hemophagocytosis in the bone marrow is characteristic but is **not** required for diagnosis, as it may be absent in the early stages.
 
 ## Differential Diagnosis
 

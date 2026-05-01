@@ -9,9 +9,9 @@
 
 ## 2. PATHOPHYSIOLOGY
 KDSS represents the extreme end of the inflammatory spectrum in KD. The profound hypotension and shock are multifactorial:
-- Profound Capillary Leak: Widespread endothelial dysfunction and severe systemic vasculitis lead to fluid extravasation into the extravascular space.
-- Myocardial Dysfunction: Acute severe myocarditis causing depressed left ventricular systolic function and low cardiac output.
-- Cytokine Storm: Massive release of pro-inflammatory cytokines (Interleukin-6, Interleukin-10, Tumor Necrosis Factor-alpha, and Interferon-gamma), leading to profound vasodilation and distributive shock.
+- <span style="color:rgb(255, 255, 0)">Profound Capillary Leak:</span> Widespread endothelial dysfunction and severe systemic vasculitis lead to fluid extravasation into the extravascular space.
+- <span style="color:rgb(255, 255, 0)">Myocardial Dysfunction:</span> Acute severe myocarditis causing depressed left ventricular systolic function and low cardiac output.
+- <span style="color:rgb(255, 255, 0)">Cytokine Storm: </span>Massive release of pro-inflammatory cytokines (Interleukin-6, Interleukin-10, Tumor Necrosis Factor-alpha, and Interferon-gamma), leading to profound vasodilation and distributive shock.
 
 ## 3. CLINICAL FEATURES
 Patients with KDSS often present with distinct phenotypic differences compared to classic KD:
@@ -22,7 +22,7 @@ Patients with KDSS often present with distinct phenotypic differences compared t
 - Respiratory: Pleural effusions and respiratory distress are more common.
 
 ## 4. INVESTIGATIONS
-- Hematology: Pronounced neutrophilia with severe bandemia (left shift), marked anemia. Thrombocytopenia is notably more common in KDSS (consumptive coagulopathy) compared to the thrombocytosis seen in classic KD.
+- Hematology: Pronounced neutrophilia with severe left shift, marked anemia. Thrombocytopenia is notably more common in KDSS (consumptive coagulopathy) compared to the thrombocytosis seen in classic KD.
 - Inflammatory Markers: Exceptionally high C-Reactive Protein (CRP), Erythrocyte Sedimentation Rate (ESR), and Procalcitonin.
 - Biochemistry: Hypoalbuminemia (severe capillary leak), elevated transaminases, hyponatremia, and elevated creatinine (pre-renal acute kidney injury).
 - Cardiac Biomarkers: Elevated Troponin I/T and markedly elevated BNP or NT-proBNP reflecting myocardial injury and strain.
@@ -34,11 +34,11 @@ Patients with KDSS often present with distinct phenotypic differences compared t
 ## 5. MANAGEMENT
 Requires intensive care unit (ICU) admission and a dual approach addressing both hemodynamic collapse and severe systemic inflammation.
 
-A. Hemodynamic Resuscitation
+### A. Hemodynamic Resuscitation
 - Fluid Resuscitation: Cautious administration of isotonic crystalloids (10-20 ml/kg aliquots) monitoring closely for fluid overload due to underlying myocarditis/depressed LV function.
 - Inotropes/Vasopressors: Epinephrine or Norepinephrine are often required for vasoplegia. Milrinone is utilized if cardiogenic shock/myocardial dysfunction predominates (improves contractility and reduces afterload).
 
-B. Immunomodulatory Therapy (Targeting the Vasculitis)
+### B. Immunomodulatory Therapy (Targeting the Vasculitis)
 - Intravenous Immunoglobulin (IVIG): 2 g/kg as a single infusion over 10-12 hours. (Patients with KDSS have a much higher rate of IVIG resistance).
 - Aspirin: Moderate to high dose (30-50 mg/kg/day) until afebrile for 48 hours, then step down to antiplatelet dose (3-5 mg/kg/day).
 - Corticosteroids: Strongly recommended as primary adjunctive therapy in KDSS due to high risk of IVIG resistance. Intravenous Methylprednisolone (IVMP) pulse (30 mg/kg/day for 1-3 days) followed by an oral taper.
