@@ -42,6 +42,10 @@ body:has(.home-dashboard) .content {
 :root {
     --default-font: 'Google Sans', 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif !important;
     --font-default: 'Google Sans', 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif !important;
+    --font-interface: 'Google Sans', 'Inter', sans-serif !important;
+    --font-text: 'Google Sans', 'Inter', sans-serif !important;
+    --file-header-font: 'Google Sans', 'Inter', sans-serif !important;
+    --inline-title-font: 'Google Sans', 'Inter', sans-serif !important;
 }
 
 body, .markdown-rendered, .content, .title, h1, h2, h3, h4, h5, h6, button, blockquote {
