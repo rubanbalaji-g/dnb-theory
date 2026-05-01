@@ -54,7 +54,7 @@ body, .markdown-rendered, .content, .title, h1, h2, h3, h4, h5, h6, button, bloc
 }
 
 .site-name-title {
-    font-size: 1.25rem !important;
+    font-size: 1.1rem !important;
     margin: 10px !important;
     white-space: nowrap;
     overflow: hidden;
@@ -65,10 +65,11 @@ body, .markdown-rendered, .content, .title, h1, h2, h3, h4, h5, h6, button, bloc
 
 @media (max-width: 800px) {
     .site-name-title {
-        font-size: 1.1rem !important;
+        font-size: 0.95rem !important;
         margin: 5px !important;
     }
 }
+
 
 .toggle-icon {
     color: var(--text-muted);
