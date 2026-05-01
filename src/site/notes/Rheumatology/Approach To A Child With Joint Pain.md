@@ -8,22 +8,22 @@
 
 - Arthritis defined as joint swelling or effusion.
 - Diagnosis requires two of four criteria if swelling absent.
-- Criteria include limitation of range of motion.
-- Criteria include joint pain.
-- Criteria include joint tenderness.
-- Criteria include increased local temperature.
+	- Criteria include limitation of range of motion.
+	- Criteria include joint pain.
+	- Criteria include joint tenderness.
+	- Criteria include increased local temperature.
 - Differentiation from isolated arthralgia mandatory.
 
 ## Diagnostic Algorithm
 
 ### Step One: Articular Versus Non-Articular Disease
 
-|Feature|Articular Disease|Non-Articular Disease|
-|---|---|---|
-|Pain Quality|Deep, diffuse pain.|Well-localized pain.|
-|Movement Pain|Pain during active and passive movements.|Pain exclusively during active movement.|
-|Physical Signs|Swelling, crepitation, instability, locking.|Minimal swelling, focal tenderness.|
-|Tenderness Location|Over joint capsule.|Localized distinctly away from joint capsule.|
+| Feature             | Articular Disease                            | Non-Articular Disease                         |
+| ------------------- | -------------------------------------------- | --------------------------------------------- |
+| Pain Quality        | Deep, diffuse pain.                          | Well-localized pain.                          |
+| Movement Pain       | Pain during active and passive movements.    | Pain exclusively during active movement.      |
+| Physical Signs      | Swelling, crepitation, instability, locking. | Minimal swelling, focal tenderness.           |
+| Tenderness Location | Over joint capsule.                          | Localized distinctly away from joint capsule. |
 
 ### Step Two: Inflammatory Versus Non-Inflammatory Pain
 
