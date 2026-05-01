@@ -277,12 +277,12 @@ body.no-filetree .filetree-toggle {
   }
 }
 .filetree-sidebar .site-name-title {
-  padding-left: 20px !important; /* Reduced from 55px */
+  padding-left: 10px !important; 
   margin-top: 15px !important;
   margin-bottom: 15px !important;
   text-align: left !important;
   display: block;
-  overflow: hidden;
-  text-overflow: ellipsis;
-  width: calc(100% - 40px); /* Account for padding/margins */
+  font-size: 1rem !important; /* Smaller specifically for sidebar */
+  overflow: visible; /* Allowing it to show fully */
+  text-overflow: clip;
 }
