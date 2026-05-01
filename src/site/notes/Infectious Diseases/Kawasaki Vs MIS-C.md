@@ -73,34 +73,34 @@ While both conditions are hyperinflammatory states with elevated CRP and ESR, th
 
 ### Comparative Table: Kawasaki Disease vs. MIS-C
 
-|Feature|Kawasaki Disease (KD)|Multisystem Inflammatory Syndrome in Children (MIS-C)|
-|:--|:--|:--|
-|**Epidemiology**|||
-|**Age of Onset**|Infants and young children (< 5 years). Median ~2 years.|Older children and adolescents (6–12 years). Median ~9 years.|
-|**Incidence**|Higher in East Asian populations (Japan, Korea).|Higher in African, Afro-Caribbean, and Hispanic populations.|
-|**Etiology**|Unknown trigger; likely ubiquitous agent.|Post-infectious immune dysregulation following SARS-CoV-2.|
-|**Clinical Features**|||
-|**Fever**|Prolonged, usually > 5 days.|Prolonged, > 38.0°C for ≥ 24 hours (often 3-5 days).|
-|**Shock / Hypotension**|Rare (< 5% cases).|Common (50–80% cases). Vasopressor support often needed.|
-|**Gastrointestinal**|Mild (vomiting/diarrhea) less common.|Prominent (80-90%). Severe pain, mimicking appendicitis.|
-|**Mucocutaneous**|Classic: Conjunctivitis, strawberry tongue, rash, edema, desquamation.|Present but often variable/incomplete.|
-|**Respiratory**|Mild or absent.|Respiratory distress, cough (though less common than in acute COVID).|
-|**CNS Symptoms**|Irritability (aseptic meningitis).|Headache, lethargy, encephalopathy, meningismus common.|
-|**Cardiac Findings**|||
-|**Pathology**|Coronary artery vasculitis.|Acute myocarditis; Cytokine-induced dysfunction.|
-|**Ventricular Function**|Usually preserved (Normal LVEF).|Moderate to severe dysfunction (Reduced LVEF) common.|
-|**Coronary Arteries**|Aneurysms are the primary complication (25% untreated).|Dilation usually mild/transient; giant aneurysms rare.|
-|**Laboratory Features**|||
-|**Platelets**|**Thrombocytosis** (High) in subacute phase.|**Thrombocytopenia** (Low) is characteristic (<150,000/μL).|
-|**Lymphocytes**|Normal or mild decrease.|Profound **Lymphopenia** (Absolute count <1000 cells/μL).|
-|**Inflammatory Markers**|Elevated CRP and ESR.|Elevated CRP, ESR, Procalcitonin.|
-|**Ferritin**|Moderately elevated.|Markedly elevated (>500–1000 ng/mL); macrophage activation picture.|
-|**D-Dimer**|Mild elevation.|Significantly elevated; coagulopathy common.|
-|**Cardiac Biomarkers**|Troponin/BNP mild elevation.|Troponin and BNP/NT-proBNP markedly elevated.|
-|**Sodium**|Hyponatremia may occur.|Hyponatremia common (<135 mEq/L).|
-|**SARS-CoV-2 Serology**|Typically Negative (unless coincidental).|**Positive** (IgG/IgM) indicating past infection.|
-|**Management**|||
-|**Standard Therapy**|IVIG (2 g/kg) + Aspirin.|IVIG (2 g/kg) + Steroids (Methylprednisolone) + Low-dose Aspirin.|
-|**Refractory Cases**|Steroids, Infliximab, Cyclosporine.|Pulse Steroids, Anakinra, Tocilizumab, Infliximab.|
-|**Anticoagulation**|Aspirin (Antiplatelet).|Aspirin +/- Enoxaparin (if thrombosis risk/severe LV dysfunction).|
+| Feature                  | Kawasaki Disease (KD)                                                  | Multisystem Inflammatory Syndrome in Children (MIS-C)                 |
+| :----------------------- | :--------------------------------------------------------------------- | :-------------------------------------------------------------------- |
+| **Epidemiology**         |                                                                        |                                                                       |
+| **Age of Onset**         | Infants and young children (< 5 years). Median ~2 years.               | Older children and adolescents (6–12 years). Median ~9 years.         |
+| **Incidence**            | Higher in East Asian populations (Japan, Korea).                       | Higher in African, Afro-Caribbean, and Hispanic populations.          |
+| **Etiology**             | Unknown trigger; likely ubiquitous agent.                              | Post-infectious immune dysregulation following SARS-CoV-2.            |
+| **Clinical Features**    |                                                                        |                                                                       |
+| **Fever**                | Prolonged, usually > 5 days.                                           | Prolonged, > 38.0°C for ≥ 24 hours (often 3-5 days).                  |
+| **Shock / Hypotension**  | Rare (< 5% cases).                                                     | Common (50–80% cases). Vasopressor support often needed.              |
+| **Gastrointestinal**     | Mild (vomiting/diarrhea) less common.                                  | Prominent (80-90%). Severe pain, mimicking appendicitis.              |
+| **Mucocutaneous**        | Classic: Conjunctivitis, strawberry tongue, rash, edema, desquamation. | Present but often variable/incomplete.                                |
+| **Respiratory**          | Mild or absent.                                                        | Respiratory distress, cough (though less common than in acute COVID). |
+| **CNS Symptoms**         | Irritability (aseptic meningitis).                                     | Headache, lethargy, encephalopathy, meningismus common.               |
+| **Cardiac Findings**     |                                                                        |                                                                       |
+| **Pathology**            | Coronary artery vasculitis.                                            | Acute myocarditis; Cytokine-induced dysfunction.                      |
+| **Ventricular Function** | Usually preserved (Normal LVEF).                                       | Moderate to severe dysfunction (Reduced LVEF) common.                 |
+| **Coronary Arteries**    | Aneurysms are the primary complication (25% untreated).                | Dilation usually mild/transient; giant aneurysms rare.                |
+| **Laboratory Features**  |                                                                        |                                                                       |
+| **Platelets**            | **Thrombocytosis** (High) in subacute phase.                           | **Thrombocytopenia** (Low) is characteristic (<150,000/μL).           |
+| **Lymphocytes**          | Normal or mild decrease.                                               | Profound **Lymphopenia** (Absolute count <1000 cells/μL).             |
+| **Inflammatory Markers** | Elevated CRP and ESR.                                                  | Elevated CRP, ESR, Procalcitonin.                                     |
+| **Ferritin**             | Moderately elevated.                                                   | Markedly elevated (>500–1000 ng/mL); macrophage activation picture.   |
+| **D-Dimer**              | Mild elevation.                                                        | Significantly elevated; coagulopathy common.                          |
+| **Cardiac Biomarkers**   | Troponin/BNP mild elevation.                                           | Troponin and BNP/NT-proBNP markedly elevated.                         |
+| **Sodium**               | Hyponatremia may occur.                                                | Hyponatremia common (<135 mEq/L).                                     |
+| **SARS-CoV-2 Serology**  | Typically Negative (unless coincidental).                              | **Positive** (IgG/IgM) indicating past infection.                     |
+| **Management**           |                                                                        |                                                                       |
+| **Standard Therapy**     | IVIG (2 g/kg) + Aspirin.                                               | IVIG (2 g/kg) + Steroids (Methylprednisolone) + Low-dose Aspirin.     |
+| **Refractory Cases**     | Steroids, Infliximab, Cyclosporine.                                    | Pulse Steroids, Anakinra, Tocilizumab, Infliximab.                    |
+| **Anticoagulation**      | Aspirin (Antiplatelet).                                                | Aspirin +/- Enoxaparin (if thrombosis risk/severe LV dysfunction).    |
 

@@ -72,7 +72,7 @@
 ```mermaid
 graph TD
     %% Clinical Presentation
-    Start[Patient Presentation: Fever >= 5 days] --> ClinicalCheck{Has >= 4 of 5 Principal Clinical Features?}
+    Start[Patient Presentation: Fever >= 5 days - conventional or <br> >=4 days as per AHA 2024 statement] --> ClinicalCheck{Has >= 4 of 5 Principal Clinical Features?}
     
     %% Classic KD Path
     ClinicalCheck -- Yes --> ClassicKD[Classic Kawasaki Disease Diagnosis]
@@ -162,7 +162,7 @@ graph TD
 - Echocardiography serves as primary, noninvasive imaging modality.
 - Mandates highest-frequency transducer and accurate body surface area calculation.
 - Requires baseline imaging at diagnosis, repeat at 1-2 weeks, and final acute assessment at 6-8 weeks.
-- Quantitative Z scores (dimension adjusted for body surface area) dictate long-term management and risk.
+- Quantitative Z scores (dimension adjusted for body surface area) of RCA or LAD dictate long-term management and risk.
 
 |Z Score Classification|Definition And Morphology|Surveillance Protocol|
 |:--|:--|:--|
@@ -179,18 +179,18 @@ graph TD
 - Goal involves rapid reduction of systemic inflammation to prevent coronary artery damage.
 - Therapy mandates initiation within 10 days of fever onset, but indicated later if systemic inflammation persists.
 
-|Medication|Dosage And Administration|Clinical Considerations|
-|:--|:--|:--|
-|Intravenous Immunoglobulin|2 g/kg infused as single continuous dose over 8-12 hours.|Suppresses cytokine production and inhibits complement. Defers live virus vaccines (measles, varicella) for 11 months post-infusion.|
-|Aspirin (Acute Phase)|Historically 30-50 mg/kg/day divided every 6 hours. Recent 2024 guidelines advocate low dose 3-5 mg/kg/day from onset.|Reduces risk of gastrointestinal bleeding and Reye syndrome with lower dose.|
-|Aspirin (Convalescent)|3-5 mg/kg/day once daily.|Maintained for minimum 6-8 weeks for antiplatelet activity. Discontinued if coronary arteries remain normal.|
+| Medication                 | Dosage And Administration                                                                                                                                           | Clinical Considerations                                                                                                               |
+| :------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------ | :------------------------------------------------------------------------------------------------------------------------------------ |
+| Intravenous Immunoglobulin | 2 g/kg infused as single continuous dose over 8-12 hours.                                                                                                           | Suppresses cytokine production and inhibits complement. Defers live virus vaccines (measles, varicella) for 11 months post-infusion.  |
+| Aspirin (Acute Phase)      | Historically 30-50 mg/kg/day divided every 6 hours till the patient is afebrile for 6 hours. Recent 2024 AHA guidelines advocate low dose 3-5 mg/kg/day from onset. | Reduces risk of gastrointestinal bleeding and Reye syndrome with lower dose.                                                          |
+| Aspirin (Convalescent)     | 3-5 mg/kg/day once daily.                                                                                                                                           | Maintained for minimum 6-8 weeks for antiplatelet activity in Level 1 and 2, or continued till Z Score normalizes in Level 3, 4 and 5 |
 
 ### Intensification Therapy For High-Risk Patients
 
-- Strongly indicated for baseline Z score >= 2.5, infants <6 months, or high Kobayashi risk score.
-- Corticosteroids: Intravenous methylprednisolone 2 mg/kg/day divided every 12 hours. Tapered slowly over 2-4 weeks.
-- Infliximab: Monoclonal tumor necrosis factor-alpha antibody. Dose updated to 10 mg/kg intravenously given over 2 hours.
-- Statins (Atorvastatin): Administered in older children to improve endothelial homeostasis and reduce oxidative stress.
+- Strongly indicated for baseline RCA/LAD Z score >= 2.5, infants <6 months, or high Kobayashi risk score[^krs].
+	- Corticosteroids: Intravenous methylprednisolone 2 mg/kg/day divided every 12 hours. Tapered slowly over 2-4 weeks.
+	- Infliximab: Monoclonal tumor necrosis factor-alpha antibody. Dose updated to 10 mg/kg intravenously given over 2 hours.
+	- Statins (Atorvastatin): Administered in older children to improve endothelial homeostasis and reduce oxidative stress.
 
 ### Management Of Intravenous Immunoglobulin Resistance
 
@@ -223,3 +223,7 @@ graph TD
 - Advanced surveillance utilizing Computed Tomography Angiography or Magnetic Resonance Angiography required annually for large/giant aneurysms.
 - Surgical revascularization (coronary artery bypass grafting utilizing arterial grafts) indicated for severe reversible ischemia and complex stenosis.
 - Structured health care transition to adult cardiology remains paramount for lifelong surveillance and cardiovascular risk factor management.
+
+[^krs]:  Kobayashi risk score. High risk of IVIG resistance indicated by a total score of ≥ 4.
+	<ul><li>Sodium ≤ 133 mmol/L (2 points).</li><li>Days of illness ≤ 4 at initial treatment (2 points).</li><li>Aspartate aminotransferase ≥ 100 IU/L (2 points).</li><li>Neutrophils ≥ 80% (2 points).</li><li>Platelet count ≤ 300,000/μL (1 point).</li><li>C-reactive protein ≥ 10 mg/dL (1 point).</li><li>Age ≤ 12 months (1 point).</li></ul>
+	
