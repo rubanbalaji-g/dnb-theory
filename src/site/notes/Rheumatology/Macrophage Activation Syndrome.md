@@ -67,7 +67,7 @@ A patient with known or suspected **Systemic Juvenile Idiopathic Arthritis (sJIA
 | **Fibrinogen** | ≤ 360 mg/dL |
 ### Important Clinical Considerations
 - **Dynamic Nature:** MAS is a rapidly evolving syndrome. A downward trend in cell counts (even if they remain within "normal" ranges) or a sudden, massive spike in ferritin is often more clinically significant than a single static value.
-- **HLH-2004 Criteria:** While the above is specific to sJIA, the broader **HLH-2004** criteria (requiring 5 out of 8 markers including splenomegaly, cytopenias, and low NK cell activity) are also frequently used for secondary MAS in other autoimmune contexts.
+- [[Hematology/Hemophagocytic Lymphohistiocytosis In Children#Diagnostic Criteria (HLH-2004)\|HLH 2004 Criteria]]:While the above is specific to sJIA, the broader **HLH-2004** criteria (requiring 5 out of 8 markers including splenomegaly, cytopenias, and low NK cell activity) are also frequently used for secondary MAS in other autoimmune contexts.
 - **Bone Marrow:** Hemophagocytosis in the bone marrow is characteristic but is **not** required for diagnosis, as it may be absent in the early stages.
 
 ## Differential Diagnosis
@@ -81,16 +81,16 @@ A patient with known or suspected **Systemic Juvenile Idiopathic Arthritis (sJIA
 ## Management
 
 - High mortality mandates immediate therapeutic intervention upon recognition.
-- Intravenous methylprednisolone pulse therapy serves as first-line treatment.
-- Administered at 30 milligrams per kilogram for 3 consecutive days.
-- Transition to oral prednisolone taper at 2 to 3 milligrams per kilogram daily.
-- Cyclosporine A added at 2 to 7 milligrams per kilogram daily if steroid response proves unsatisfactory within 24 to 48 hours.
-- Tacrolimus serves as effective alternative calcineurin inhibitor.
-- Refractory disease warrants 2004 hemophagocytic lymphohistiocytosis treatment protocol utilizing Etoposide.
-- Etoposide carries severe myelosuppression and hepatic toxicity risks.
-- Antithymocyte globulin offers safer alternative for patients with hepatic or renal impairment.
-- Anakinra, an interleukin-1 receptor antagonist, effectively extinguishes underlying cytokine storms.
-- Rituximab targets B lymphocytes, proving highly effective for Epstein-Barr virus triggered disease.
+- <span style="color:rgb(115, 247, 238)">Intravenous methylprednisolone</span> pulse therapy serves as first-line treatment.
+	- Administered at 30 milligrams per kilogram for 3 consecutive days.
+	- Transition to oral prednisolone taper at 2 to 3 milligrams per kilogram daily.
+- <span style="color:rgb(115, 247, 238)">Cyclosporine A</span> added at 2 to 7 milligrams per kilogram daily if steroid response proves unsatisfactory within 24 to 48 hours.
+- <span style="color:rgb(115, 247, 238)">Tacrolimus</span> serves as effective alternative calcineurin inhibitor.
+- Refractory disease warrants 2004 hemophagocytic lymphohistiocytosis treatment protocol utilizing <span style="color:rgb(115, 247, 238)">Etoposide.</span>
+	- Etoposide carries severe myelosuppression and hepatic toxicity risks.
+- <span style="color:rgb(115, 247, 238)">Antithymocyte globulin</span> offers safer alternative for patients with hepatic or renal impairment.
+- <span style="color:rgb(115, 247, 238)">Anakinra</span>, an interleukin-1 receptor antagonist, effectively extinguishes underlying cytokine storms.
+- <span style="color:rgb(115, 247, 238)">Rituximab</span> targets B lymphocytes, proving highly effective for Epstein-Barr virus triggered disease.
 
 ## Prognosis
 
