@@ -2,84 +2,180 @@
 {"dg-publish":true,"uptext":"Back to Index (🚑 Emergencies and Critical Care)","uplink":"/emergencies/emergencies-and-critical-care/","permalink":"/emergencies/approach-to-a-child-with-cold-injury/","dgPassFrontmatter":true}
 ---
 
-## General Principles of Cold Injuries
+## Algorithm
+```mermaid
+%%{init: { "theme": "dark", "themeVariables": { "lineWidth": "3px", "lineColor": "#000000" } }}%%
+graph TD
 
-- Cold injuries occur when the body's physiological ability to generate heat is overwhelmed by environmental heat loss, which happens even at temperatures above $0^{\circ}C$ ($32^{\circ}F$).
-- Heat transfer to the environment is governed by five mechanisms: radiation, conduction, convection, respiration, and evaporation.
-- Cold injuries are broadly categorized into systemic injuries (accidental hypothermia) and localized soft tissue injuries (freezing and non-freezing),.
+classDef start fill:#1b5e20,color:#ffffff,stroke:#66bb6a;
+classDef step fill:#0d47a1,color:#ffffff,stroke:#42a5f5;
+classDef decision fill:#4a148c,color:#ffffff,stroke:#ab47bc;
+classDef alert fill:#b71c1c,color:#ffffff,stroke:#ef5350;
 
-## Accidental Hypothermia
+A(<b>Cold Exposure</b><br>Initial Assessment):::start
+B{<b>Injury Category</b>}:::decision
 
-- Accidental hypothermia is defined as an unintentional drop in core body temperature below $35^{\circ}C$ ($95^{\circ}F$).
-- Cerebral function begins to diminish at a core temperature of $33-34^{\circ}C$, manifesting early as irritability, confusion, and poor decision-making, which progresses to lethargy, somnolence, and coma.
+A --> B
 
-### Clinical Staging and Characteristics
+B -->|Systemic| C[<b>Accidental Hypothermia</b><br>Core temp under 35C]:::step
+B -->|Localized| D[<b>Soft Tissue Injury</b><br>Extremities and exposed skin]:::step
+B -->|Recurrent| E[<b>Genetic Syndromes</b><br>Investigate for auto-inflammation]:::step
 
-- The presentation of hypothermia progresses through physiological zones based on core temperature,.
+C --> F{<b>Clinical Stage</b>}:::decision
+
+F -->|Mild 32 to 35C| G[<b>Mild Hypothermia</b><br>Shivering intact]:::alert
+F -->|Mod 28 to 32C| H[<b>Moderate Hypothermia</b><br>Stupor and decreased pulse]:::alert
+F -->|Severe Under 28C| I[<b>Severe Hypothermia</b><br>Coma and bradycardia]:::alert
+
+G --> M[<b>Passive Rewarming</b><br>Remove wet clothes and insulate]:::step
+H --> N[<b>Active Rewarming</b><br>Forced air and warmed IV fluids]:::step
+I --> O[<b>Internal Rewarming</b><br>Check pulse 1 min and warm blood]:::step
+
+D --> J{<b>Tissue Status</b>}:::decision
+
+J -->|Freezing| K[<b>Frostbite I to IV</b><br>Ice crystal formation]:::alert
+J -->|Non Freezing| L[<b>Frostnip or Chilblains</b><br>Edema and no necrosis]:::alert
+
+K --> P[<b>Rapid Rewarming</b><br>Circulating bath 37 to 39C]:::step
+L --> Q[<b>Conservative Mgmt</b><br>Rewarm and topical creams]:::step
+```
+## General Principles
+
+- Occurs when physiological heat generation fails to overcome environmental heat loss.
+- Develops even at temperatures above 0°C.
+- Heat transfers to environment via radiation, conduction, convection, respiration, and evaporation.
+- Categorized broadly into systemic injuries (accidental hypothermia) and localized soft tissue injuries (freezing and non-freezing).
+
+## Systemic Injury: Accidental Hypothermia
+
+### Definition And Pathophysiology
+
+- Defined as unintentional core body temperature drop below 35°C.
+- Cerebral function diminishes at 33-34°C.
+- Early manifestations include irritability, confusion, and poor decision-making.
+- Progresses to lethargy, somnolence, and coma.
+
+### Clinical Staging And Characteristics
 
 |State|Core Temperature|Clinical Characteristics|
 |:--|:--|:--|
-|Mild|$32-35^{\circ}C$|Increased shivering thermogenesis; increased metabolic rate; amnesia and dysarthria; ataxia; apathy; normal blood pressure,.|
-|Moderate|$28-32^{\circ}C$|Stupor; $25%$ decrease in oxygen consumption; decreased shivering thermogenesis; atrial fibrillation and other dysrhythmias; pulse and cardiac output reduced to two-thirds normal,.|
-|Severe / Profound|$<28^{\circ}C$|Coma with loss of cerebrovascular autoregulation; severe bradycardia; hypotension; high risk of unstable tachycardias (ventricular fibrillation) and asystole.|
+|Mild|32-35°C|Increased shivering thermogenesis; increased metabolic rate; amnesia and dysarthria; ataxia; apathy; normal blood pressure.|
+|Moderate|28-32°C|Stupor; 25% decrease in oxygen consumption; decreased shivering thermogenesis; atrial fibrillation and other dysrhythmias; pulse and cardiac output reduced to two-thirds normal.|
+|Severe|<28°C|Coma with loss of cerebrovascular autoregulation; severe bradycardia; hypotension; high risk of unstable tachycardias (ventricular fibrillation) and asystole.|
 
-### Emergency Management of Hypothermia
+### Emergency Management
 
-- Patients with any degree of hypothermia must be handled gently and kept horizontal to prevent cardiovascular collapse.
-- Wet clothing must be removed and replaced with dry clothing and insulation to prevent further heat loss,.
-- **Mild Hypothermia ($32-35^{\circ}C$):**
-    - Initiate passive rewarming by applying insulation (e.g., sleeping bags) and a vapor barrier.
-    - Provide active external rewarming using hot water bottles or heat packs applied to the neck, chest, upper torso, axilla, and groin, ensuring exposed skin is protected from burns.
-    - Support shivering with high-calorie oral fluid and carbohydrate replacement if the child is alert and can protect their airway,.
-- **Moderate Hypothermia ($28-32^{\circ}C$):**
-    - Initiate active external rewarming to the upper torso, chest, axilla, and back (e.g., forced-air systems, large heat pads),.
-    - Administer intravenous (IV) or intraosseous (IO) fluids, ideally containing glucose, warmed to $40-42^{\circ}C$,,.
-    - Perform continuous cardiac monitoring, as a cold heart combined with acidosis increases the risk of unstable arrhythmias.
-    - If hemodynamically unstable, transfer to a facility capable of extracorporeal membrane oxygenation (ECMO).
-- **Severe Hypothermia ($<28^{\circ}C$) and Cardiac Arrest:**
-    - Assess for a pulse for up to $1$ minute or look for organized electrical activity on a monitor/bedside echocardiogram before initiating cardiopulmonary resuscitation (CPR).
-    - Initiate CPR if cardiac activity is absent; do not withhold CPR based on temperature unless there is obvious fatal injury or chest wall compression is impossible,.
-    - Vasoactive medications (e.g., epinephrine) should be held until the core temperature reaches $>30^{\circ}C$; once $>30^{\circ}C$, administer at twice the normal dosing interval until the core temperature reaches $35^{\circ}C$,.
-    - Attempt defibrillation or cardioversion once at maximum power; if unsuccessful, further shocks should be held until the core temperature is $>30^{\circ}C$,.
-    - Active internal rewarming (e.g., warm IV fluids, extracorporeal blood warming, hemodialysis) is indicated alongside ECMO for cardiopulmonary support,.
+#### General Measures
 
-## Soft Tissue Cold Injuries
+- Handle gently and keep horizontal to prevent cardiovascular collapse.
+- Remove wet clothing immediately.
+- Replace with dry clothing and insulation to halt heat loss.
+
+#### Mild Hypothermia Management (32-35°C)
+
+- Initiate passive rewarming using insulation and vapor barriers.
+- Provide active external rewarming with heat packs applied to neck, chest, upper torso, axilla, and groin.
+- Protect exposed skin from direct burns.
+- Support shivering with high-calorie oral fluids and carbohydrates if child remains alert.
+
+#### Moderate Hypothermia Management (28-32°C)
+
+- Deploy active external rewarming to upper torso, chest, axilla, and back utilizing forced-air systems or large heat pads.
+- Administer intravenous or intraosseous fluids containing glucose, warmed to 40-42°C.
+- Maintain continuous cardiac monitoring due to high risk of unstable arrhythmias from cold heart and acidosis.
+- Transfer hemodynamically unstable patients to facilities capable of extracorporeal membrane oxygenation.
+
+#### Severe Hypothermia (<28°C) And Cardiac Arrest
+
+- Assess pulse for up to 1 minute before initiating cardiopulmonary resuscitation.
+- Utilize bedside echocardiogram to detect organized electrical activity.
+- Initiate cardiopulmonary resuscitation for absent cardiac activity.
+- Never withhold cardiopulmonary resuscitation based on temperature unless fatal injury exists or chest compression proves impossible.
+- Hold vasoactive medications until core temperature exceeds 30°C.
+- Administer vasoactive medications at twice normal dosing interval between 30°C and 35°C.
+- Attempt single defibrillation or cardioversion at maximum power.
+- Hold further electrical shocks until core temperature exceeds 30°C.
+- Initiate active internal rewarming via warm intravenous fluids, extracorporeal blood warming, or hemodialysis alongside extracorporeal membrane oxygenation.
+
+## Localized Soft Tissue Cold Injuries
 
 ### Freezing Cold Injury: Frostbite
 
-- Frostbite occurs at or below freezing temperatures and progresses through four phases: prefreeze, freeze-thaw, vascular stasis, and late ischemic,.
-- Cellular destruction primarily results from intracellular and extracellular ice crystal formation during the freeze-thaw phase, followed by ischemic-reperfusion injury and microvascular thrombosis,.
+#### Pathogenesis
 
-### Clinical Grading of Frostbite
+- Occurs at or below freezing temperatures.
+- Progresses through four phases: prefreeze, freeze-thaw, vascular stasis, and late ischemic.
+- Cellular destruction results from intracellular and extracellular ice crystal formation during freeze-thaw phase.
+- Exacerbated by ischemic-reperfusion injury and microvascular thrombosis.
 
-- Frostbite is classified based on the depth of tissue injury after the tissue has thawed.
+#### Clinical Grading Of Frostbite
 
 |Grade|Field Classification|Clinical Features|
 |:--|:--|:--|
-|Grade I|Superficial|Superficial injury; edema and redness without necrosis; numbness; firm white-yellow plaque; no blisters,.|
-|Grade II|Superficial|Substantial edema and erythema; formation of clear or milky fluid-filled vesicles and blisters; desquamation forms black eschar,.|
-|Grade III|Deep|Extends into the dermis and vascular plexus; hemorrhagic deeper blisters; blue-gray discoloration; skin necrosis,,.|
-|Grade IV|Deep|Full-thickness freezing of skin, subcutaneous tissue, muscle, tendon, and bone; little edema; initially mottled red, becoming dry, black, and mummified; requires amputation,.|
+|Grade I|Superficial|Superficial injury; edema and redness without necrosis; numbness; firm white-yellow plaque; no blisters.|
+|Grade II|Superficial|Substantial edema and erythema; clear or milky fluid-filled vesicles and blisters; desquamation forms black eschar.|
+|Grade III|Deep|Extends into dermis and vascular plexus; hemorrhagic deeper blisters; blue-gray discoloration; skin necrosis.|
+|Grade IV|Deep|Full-thickness freezing of skin, subcutaneous tissue, muscle, tendon, and bone; little edema; mottled red progressing to dry, black, mummified tissue; requires amputation.|
 
-### Management of Frostbite
+#### Management Of Frostbite
 
-- Protect the injured area from the cold, remove constricting items (e.g., jewelry), and strictly prevent refreezing if spontaneous thawing has begun.
-- Initiate rapid rewarming using a circulating water bath heated to $37-39^{\circ}C$ for $30$ minutes,.
-- Do not break clear blisters and do not aspirate hemorrhagic bullae.
-- Administer pain control medications (e.g., ibuprofen) and ensure tetanus prophylaxis is up to date,.
-- Depending on severity and duration since thawing ($12-72$ hours), adjuvant therapies may be initiated, including vasodilators (papaverine), antiplatelet drugs, synthetic prostacyclin analogues (iloprost), or intra-arterial tissue plasminogen activator (tPA),,.
+- Protect injured area from cold exposure.
+- Remove constricting items including jewelry.
+- Strictly prevent refreezing if spontaneous thawing commences.
+- Initiate rapid rewarming using circulating water bath heated to 37-39°C for 30 minutes.
+- Leave clear blisters intact.
+- Never aspirate hemorrhagic bullae.
+- Administer pain control medications.
+- Ensure updated tetanus prophylaxis.
+- Consider adjuvant therapies for severe cases 12-72 hours post-thawing.
+- Adjuvant options include vasodilators, antiplatelet drugs, synthetic prostacyclin analogues, or intra-arterial tissue plasminogen activator.
 
 ### Non-Freezing Cold Injuries
 
-- **Frostnip:** Associated with vasoconstriction and superficial ice crystals (frost) on the skin surface; presents with numbness and pallor but no cellular damage; resolves rapidly upon warming.
-- **Chilblains (Pernio):** An idiopathic condition presenting as painful, edematous, bluish-red papular or nodular lesions on acral locations (fingers, toes, ears) after exposure to cold, damp conditions,,.
-    - Treatment involves rewarming, avoidance of cold, and nonsteroidal anti-inflammatory drugs (NSAIDs) or topical soothing creams.
-- **Cold-Induced Fat Necrosis:** Secondary to local cold injury to superficial adipose tissue; presents with raised, erythematous nodules or plaques on the face (cheeks/forehead) or exposed areas in obese children (thighs, buttocks).
-    - Lesions are self-limiting, typically resolving in $10-20$ days, and are managed with rewarming and NSAIDs for discomfort.
+#### Frostnip
 
-## Differential Diagnosis and Genetic Considerations
+- Associated with vasoconstriction and superficial ice crystal formation.
+- Presents with localized numbness and pallor.
+- Lacks cellular damage.
+- Resolves rapidly upon external warming.
 
-- Children presenting with recurrent cold-induced symptoms (rashes, fevers, arthralgias) very early in life without an infectious trigger must be evaluated for cold-induced autoinflammatory syndromes,.
-- **Familial Cold Autoinflammatory Syndrome (FCAS):** Part of the cryopyrin-associated periodic syndromes (CAPS), caused by variants in the _NLRP3_ gene; triggered by cold exposure, resulting in nonpruritic urticaria, fever, conjunctivitis, and joint pain.
-- **Familial Chilblain Lupus:** An autosomal dominant disorder caused by variants in _TREX1_ or _SAMHD1_ genes; presents with painful, bluish-red acral lesions resembling chilblains, triggered by cold exposure.
-- **Crisponi Syndrome / Cold-Induced Sweating Syndrome (CS/CISS):** An autosomal recessive disorder (_CRLF1_ or _CLCF1_ variants) presenting with cold-induced profuse sweating, feeding difficulties, and dysmorphic features.
+#### Chilblains (Pernio)
+
+- Idiopathic condition triggered by cold, damp exposure.
+- Presents as painful, edematous, bluish-red papular or nodular lesions.
+- Affects acral locations including fingers, toes, and ears.
+- Management requires rewarming, cold avoidance, nonsteroidal anti-inflammatory drugs, and topical soothing creams.
+
+#### Cold-Induced Fat Necrosis
+
+- Results from local cold injury to superficial adipose tissue.
+- Presents as raised, erythematous nodules or plaques.
+- Appears on face or exposed areas in obese children.
+- Follows self-limiting course resolving in 10-20 days.
+- Managed conservatively with rewarming and nonsteroidal anti-inflammatory drugs.
+
+## Differential Diagnosis: Genetic And Autoinflammatory Syndromes
+
+- Evaluate children presenting with recurrent cold-induced symptoms very early in life.
+- Suspect underlying genetics when rashes, fevers, and arthralgias occur without infectious triggers.
+
+### Familial Cold Autoinflammatory Syndrome
+
+- Represents part of cryopyrin-associated periodic syndromes.
+- Caused by variants in NLRP3 gene.
+- Triggered exclusively by cold exposure.
+- Manifests with nonpruritic urticaria, fever, conjunctivitis, and joint pain.
+
+### Familial Chilblain Lupus
+
+- Inherited as autosomal dominant disorder.
+- Caused by variants in TREX1 or SAMHD1 genes.
+- Presents with painful, bluish-red acral lesions resembling chilblains.
+- Provoked by environmental cold exposure.
+
+### Crisponi Syndrome / Cold-Induced Sweating Syndrome
+
+- Inherited as autosomal recessive disorder.
+- Linked to CRLF1 or CLCF1 gene variants.
+- Presents with cold-induced profuse sweating.
+- Associated with feeding difficulties and facial dysmorphic features.

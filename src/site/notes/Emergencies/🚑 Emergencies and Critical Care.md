@@ -41,7 +41,7 @@
 5. [[Emergencies/Approach to Near Drowning\|Approach to Near Drowning]]
 6. [[Emergencies/Approach to Children with Burns\|Approach to Children with Burns]]
 7. [[Emergencies/Approach to a child with cold injury\|Approach to a child with cold injury]]
-8. [[Emergencies/Approach to a child with Unknown Poisoning 🔥🔥🔥\|Approach to a child with Unknown Poisoning 🔥🔥🔥]]
+8. [[Emergencies/Approach to a child with Unknown Poisoning\|Approach to a child with Unknown Poisoning]]
 9. [[Emergencies/Approach to a child presenting with anaphylaxis\|Approach to a child presenting with anaphylaxis]]
 ## Poisoning
 1. [[Emergencies/Organophosphorous Poisoning 🔥🔥🔥\|Organophosphorous Poisoning 🔥🔥🔥]]
@@ -61,7 +61,6 @@
 4. [[Emergencies/Hypovolemic Shock 🔥🔥🔥\|Hypovolemic Shock 🔥🔥🔥]]
 5. [[Emergencies/Fluid Refractory Shock 🔥🔥🔥\|Fluid Refractory Shock 🔥🔥🔥]]
 6. [[Emergencies/Biomarkers of Sepsis\|Biomarkers of Sepsis]]
-7. 
 ## Miscellaneous
 1. [[Emergencies/Brain Death 🔥\|Brain Death 🔥]]
 2. [[Emergencies/Pain Pathway\|Pain Pathway]]

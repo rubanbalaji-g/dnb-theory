@@ -52,116 +52,127 @@ G2 --> H2
 G2 --> H3
 G3 --> H4
 ```
-## Initial Assessment And Triage
+## Initial assessment and triage
 
-- Initiate rapid triage utilizing pediatric assessment triangle.
-- Perform visual and auditory assessment of appearance, breathing, and color.
-- Evaluate appearance utilizing tone, interactiveness, consolability, look, and speech.
-- Assess appearance to gather clues regarding brain perfusion and oxygenation.
+### Pediatric assessment triangle
+
+- Triage begins with rapid visual and auditory evaluation.
+- Assess child appearance, breathing, and color.
+
+#### Appearance evaluation
+
+- Utilize Ticls mnemonic: Tone, Interactiveness, Consolability, Look/gaze, Speech.
+- Provides rapid clues regarding brain perfusion and oxygenation.
+
+#### Breathing assessment
+
 - Identify abnormal respiratory rates including tachypnea or bradypnea.
-- Detect increased work of breathing through nasal flaring and retractions.
-- Recognize abnormal respiratory sounds including wheeze, grunt, and stridor.
-- Evaluate color for pallor, mottling, or cyanosis.
-- Correlate abnormal color with hypoxemia or impending cardiorespiratory failure.
-- Categorize children exhibiting tachypnea, increased work of breathing, cyanosis, abnormal sensorium, and room air oxygen saturation less than 94% as experiencing respiratory failure.
-- Initiate immediate resuscitation for identified respiratory failure.
+- Detect increased work of breathing via nasal flaring or retractions.
+- Note abnormal airway sounds including wheeze, grunt, or stridor.
 
-## Pathophysiology And Anatomical Localization
+#### Color evaluation
 
-### Clinical Correlation And Etiology
+- Detect pallor, mottling, or cyanosis.
+- Color abnormalities indicate severe hypoxemia or impending cardiorespiratory failure.
 
-|Clinical Signs|Anatomical Localization|Common Etiologies|
+#### Respiratory failure categorization
+
+- Identify patients requiring immediate resuscitation.
+- Criteria include tachypnea, increased breathing work, cyanosis, abnormal sensorium, and room air oxygen saturation below 94 percent.
+
+## Pathophysiology and anatomical localization
+
+### Anatomical localization guide
+
+|Clinical signs|Anatomical localization|Common etiologies|
 |---|---|---|
-|Ala nasi flaring, suprasternal retractions, supraclavicular retractions, stridor|Upper airway obstruction|Croup, epiglottitis, foreign body, diphtheria|
-|Subcostal retractions, intercostal retractions, prolonged expiration, wheeze|Lower airway obstruction|Asthma, acute bronchiolitis|
-|Intercostal retractions, subcostal retractions, grunting, crepitations|Lung parenchyma|Community acquired pneumonia, acute respiratory distress syndrome|
-|See-saw breathing, irregular breathing, bradypnea|Central disordered control|Raised intracranial pressure, brain injury|
+|Ala nasi flaring, suprasternal/supraclavicular retractions, stridor|Upper airway obstruction|Croup, Epiglottitis, Foreign body, Diphtheria|
+|Subcostal/intercostal retractions, prolonged expiration, wheeze|Lower airway obstruction|Asthma, Acute bronchiolitis|
+|Intercostal/subcostal retractions, grunting, crepitations|Lung parenchyma|Community acquired pneumonia, Acute respiratory distress syndrome|
+|See-saw breathing, irregular breathing, bradypnea|Central disordered control|Raised intracranial pressure, Brain injury|
 
-### Anatomical Mechanisms
+### Pathophysiological mechanisms
 
-- Realize partial obstruction above thoracic inlet causes turbulent airflow.
-- Associate upper airway turbulent airflow with harsh high-pitched stridor.
-- Understand lower airway obstruction increases airway resistance.
-- Link small airway obstruction with air trapping and dynamic hyperinflation.
-- Observe expiration becoming active prolonged process resulting in wheezing.
-- Recognize parenchymal disease involves alveolar consolidation or pulmonary edema.
-- Correlate parenchymal disease with ventilation-perfusion mismatch, intrapulmonary shunting, and severe hypoxemia.
+- **Upper airway obstruction:** Partial obstruction above thoracic inlet causes turbulent airflow and harsh, high-pitched stridor.
+- **Lower airway obstruction:** Small airway obstruction increases resistance, causing air trapping and dynamic hyperinflation.
+- Active, prolonged expiration results in audible wheezing.
+- **Parenchymal disease:** Alveolar consolidation or pulmonary edema creates ventilation-perfusion mismatch.
+- Results in intrapulmonary shunting and severe hypoxemia.
 
-## Primary Assessment And Stabilization
+## Primary assessment and stabilization algorithm
 
-### Airway Management
+### Airway management
 
-- Ensure open and maintainable airway.
-- Utilize simple positioning including head-tilt-chin lift or sniffing position.
-- Perform oral suctioning to clear secretions.
+- Ensure airway remains open and maintainable.
+- Utilize simple positioning techniques including head-tilt-chin lift or sniffing position.
+- Perform oral suctioning to clear excessive secretions.
 - Prepare advanced interventions if airway remains unmaintainable.
 
-### Breathing And Ventilation Support
+### Breathing interventions
 
-- Administer heated humidified 100% supplemental oxygen.
-- Utilize non-rebreathing face mask.
-- Target oxygen saturation greater than or equal to 94%.
-- Use appropriate-sized nasal prongs for infants.
-- Set nasal prong flow rate at 1-2 liters per minute.
-- Initiate non-invasive respiratory support for severe retractions or failure to maintain adequate oxygen saturation.
-- Deploy continuous positive airway pressure or high flow nasal cannula.
-- Apply continuous positive airway pressure to provide distending pressure.
-- Utilize distending pressure to recruit atelectatic alveoli and reduce work of breathing.
-- Avert invasive mechanical ventilation through effective continuous positive airway pressure use.
+- Administer heated, humidified 100 percent supplemental oxygen.
+- Utilize non-rebreathing face mask targeting oxygen saturation of 94 percent or higher.
+- Provide appropriate-sized nasal prongs with 1-2 liters per minute flow rate for infants.
 
-### Circulation And Hemodynamics
+#### Non-invasive respiratory support
 
-- Monitor heart rate, capillary refill time, and blood pressure.
-- Establish immediate intravenous or intraosseous access.
+- Initiate continuous positive airway pressure or high flow nasal cannula for severe retractions.
+- Indicated when patient fails to maintain oxygen saturation above 94 percent.
+- Continuous positive airway pressure provides distending pressure to recruit atelectatic alveoli.
+- Reduces overall work of breathing and potentially averts invasive mechanical ventilation.
+
+### Circulation assessment
+
+- Monitor heart rate, capillary refill time, and systemic blood pressure.
+- Obtain immediate intravenous or intraosseous vascular access.
+
+#### Shock management
+
 - Suspect concurrent shock with hypotension, prolonged capillary refill, or marked tachycardia.
-- Administer rapid isotonic crystalloid fluid boluses.
-- Deliver 10-20 milliliters per kilogram of crystalloid for shock management.
+- Administer rapid isotonic crystalloid fluid boluses of 10-20 milliliters per kilogram.
 
-### Disability And Neurological Status
+### Disability evaluation
 
-- Monitor level of consciousness continuously.
-- Identify worsening hypoxia or hypercarbia through neurological changes.
-- Detect excessive irritability, lethargy, obtundation, or coma as signs of deterioration.
+- Continuously monitor baseline level of consciousness.
+- Identify worsening hypoxia or hypercarbia presenting as excessive irritability.
+- Note progression to lethargy, obtundation, or coma.
 
-## Indications For Endotracheal Intubation
+## Indications for endotracheal intubation
 
-|Clinical Category|Specific Indicators For Intubation|
+### Clinical thresholds for invasive ventilation
+
+|Clinical category|Specific indicators for intubation|
 |---|---|
-|Oxygenation Failure|Central cyanosis, inability to maintain oxygen saturation greater than or equal to 94% despite continuous positive airway pressure, high flow nasal cannula, or non-invasive ventilation|
-|Neurological Decline|Central nervous system signs of severe hypoxia including restlessness, obtunded sensorium, extreme lethargy, seizures, or coma|
-|Cardiovascular Compromise|Marked tachycardia, profound bradycardia, or hypotension indicating imminent cardiorespiratory arrest|
-|Clinical Worsening|Severe respiratory distress, exhaustion, or visible worsening of respiratory effort while utilizing non-invasive support|
+|Oxygenation failure|Central cyanosis or inability to maintain oxygen saturation above 94 percent despite non-invasive ventilation|
+|Neurological decline|Central nervous system signs of severe hypoxia including restlessness, obtunded sensorium, extreme lethargy, seizures, or coma|
+|Cardiovascular compromise|Marked tachycardia, profound bradycardia, or hypotension indicating imminent cardiorespiratory arrest|
+|Clinical worsening|Severe respiratory distress, exhaustion, or visible worsening of respiratory effort while on non-invasive support|
 
-## Disease-Specific Emergency Management
+## Disease-specific emergency management
 
-### Acute Asthma
+### Acute asthma exacerbation
 
-- Administer inhaled salbutamol and inhaled budesonide every 20 minutes for first hour.
-- Dose budesonide at 800 micrograms per dose.
-- Provide systemic corticosteroids utilizing oral prednisolone or intravenous hydrocortisone.
-- Escalate therapy for severe exacerbations.
-- Initiate continuous salbutamol nebulization.
+- Administer inhaled salbutamol and repeat inhalation therapy every 20 minutes for the first hour.
+- Administer systemic corticosteroids using oral prednisolone or intravenous hydrocortisone.
+- Escalate severe exacerbations to continuous salbutamol nebulization.
 - Administer intravenous magnesium sulphate at 50 milligrams per kilogram.
-- Utilize intravenous terbutaline for refractory cases.
+- Provide intravenous terbutaline for refractory cases.
 
-### Croup
+### Croup protocol
 
-- Provide humidified oxygen using non-threatening approach.
-- Administer single dose of oral, intramuscular, or intravenous dexamethasone.
-- Dose dexamethasone at 0.6 milligrams per kilogram.
-- Deliver nebulized adrenaline for severe distress.
-- Use 5 milliliters of 1:1000 undiluted adrenaline solution for nebulization.
+- Provide humidified oxygen in a calm, non-threatening manner.
+- Administer single dose oral, intramuscular, or intravenous dexamethasone at 0.6 milligrams per kilogram.
+- Deliver nebulized adrenaline utilizing 5 milliliters of 1:1000 undiluted solution for severe respiratory distress.
 
-### Acute Bronchiolitis
+### Acute bronchiolitis care
 
-- Provide primarily supportive management.
-- Ensure adequate oxygenation and hydration.
-- Consider therapeutic trial of nebulized 3% hypertonic saline or adrenaline.
-- Avoid routine administration of antibiotics and systemic steroids.
+- Management remains primarily supportive focusing on oxygenation and hydration.
+- Consider therapeutic trial of nebulized 3 percent hypertonic saline or adrenaline.
+- Routine administration of antibiotics and systemic steroids remains strictly not recommended.
 
-### Severe Pneumonia
+### Severe pneumonia treatment
 
-- Initiate empiric intravenous antibiotics immediately.
-- Administer cefotaxime and amikacin for infants aged 1-2 months.
-- Administer ampicillin and gentamicin for children aged 2-59 months.
-- Adjust antibiotic regimen if atypical or staphylococcal pneumonia is suspected.
+- Initiate empiric intravenous antibiotics immediately upon recognition.
+- Administer cefotaxime combined with amikacin for infants aged 1-2 months.
+- Administer ampicillin combined with gentamicin for children aged 2-59 months.
+- Adjust antibiotic regimen if atypical pathogens or staphylococcal pneumonia suspected clinically.
