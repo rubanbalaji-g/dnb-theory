@@ -3,6 +3,7 @@
 ---
 
 ## Algorithm
+
 ```mermaid
 %%{init: { "theme": "dark", "themeVariables": { "lineWidth": "3px", "lineColor": "#000000" } }}%%
 graph TD
@@ -52,6 +53,7 @@ G2 --> H2
 G2 --> H3
 G3 --> H4
 ```
+
 ## Initial assessment and triage
 
 ### Pediatric assessment triangle

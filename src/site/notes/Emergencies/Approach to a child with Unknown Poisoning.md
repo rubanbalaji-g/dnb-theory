@@ -3,6 +3,7 @@
 ---
 
 ## Algorithm
+
 ```mermaid
 %%{init: { "theme": "dark", "themeVariables": { "lineWidth": "3px", "lineColor": "#000000" } }}%%
 graph TD
@@ -32,6 +33,7 @@ F1 --> G1[<b>Antidotal Therapy</b><br>Atropine Flumazenil etc]:::step
 F2 --> G2[<b>Toxin Screening</b><br>Salicylates Acetaminophen]:::step
 F3 --> G3[<b>Enhanced Elimination</b><br>Dialysis or Alkalinization]:::step
 ```
+
 ## Initial Stabilization And Resuscitation
 
 - Emergency cardiorespiratory stabilization precedes comprehensive diagnostic testing.

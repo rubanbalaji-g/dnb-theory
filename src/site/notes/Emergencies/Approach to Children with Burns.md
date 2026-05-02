@@ -3,6 +3,7 @@
 ---
 
 ## Algorithm
+
 ```mermaid
 %%{init: { "theme": "dark", "themeVariables": { "lineWidth": "3px", "lineColor": "#000000" } }}%%
 graph TD
@@ -63,6 +64,7 @@ I2[<b>Electrical Injury</b><br>ECG and forced diuresis]:::alert
 B3 --> I1
 B3 --> I2
 ```
+
 ## Epidemiology And General Principles
 
 - Unintentional fire-related injuries account for approximately 10% of unintentional injury-related pediatric deaths.

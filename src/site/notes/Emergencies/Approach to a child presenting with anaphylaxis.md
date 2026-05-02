@@ -3,6 +3,7 @@
 ---
 
 ## Algorithm
+
 ```mermaid
 %%{init: { "theme": "dark", "themeVariables": { "lineWidth": "3px", "lineColor": "#000000" } }}%%
 graph TD
@@ -41,6 +42,7 @@ G -->|Refractory| H2
 H1 --> I
 H2 --> I
 ```
+
 ## Pathophysiology And Etiology
 
 ### Fundamental Mechanisms

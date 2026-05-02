@@ -3,6 +3,7 @@
 ---
 
 ## Algorithmic Approach to Drowning and Submersion Injuries
+
 ```mermaid
 %%{init: { "theme": "dark", "themeVariables": { "lineWidth": "3px", "lineColor": "#000000" } }}%%
 graph TD
@@ -44,6 +45,7 @@ D --> E1
 D --> E2
 D --> E3
 ```
+
 ## Pathophysiology and Mechanisms
 
 ### Sequence of Events

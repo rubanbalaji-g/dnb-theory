@@ -3,6 +3,7 @@
 ---
 
 ## Alogrithm
+
 ```mermaid
 %%{init: { "theme": "dark", "themeVariables": { "lineWidth": "3px", "lineColor": "#000000" } }}%%
 graph TD
@@ -41,6 +42,7 @@ C2 -->|Tier 1| T1
 C2 -->|Tier 2| T2
 C2 -->|Tier 3| T3
 ```
+
 ## Initial Assessment And Stabilization
 
 - Immediate priority demands rapid assessment and stabilization of airway, breathing, and circulation.

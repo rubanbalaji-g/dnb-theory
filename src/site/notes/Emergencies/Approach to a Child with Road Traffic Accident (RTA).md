@@ -3,6 +3,7 @@
 ---
 
 ## Algorithm
+
 ```mermaid
 %%{init: { "theme": "dark", "themeVariables": { "lineWidth": "3px", "lineColor": "#000000" } }}%%
 graph TD
@@ -54,6 +55,7 @@ H[<b>Disposition</b><br>Transfer to Level 1 Trauma]:::step
 G1 --> H
 G2 --> H
 ```
+
 ## INTRODUCTION
 - Pediatric trauma requires a specialized approach due to unique anatomy (larger head-to-body ratio, compliant chest wall, smaller functional residual capacity).
 - Goal: Rapid identification and reversal of life-threatening injuries via the Primary Survey.

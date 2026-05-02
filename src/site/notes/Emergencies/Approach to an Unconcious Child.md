@@ -3,6 +3,7 @@
 ---
 
 ## Algorithm
+
 ```mermaid
 %%{init: { "themeVariables": { "lineWidth": "3px", "lineColor": "#000000" } }}%%
 graph TD
@@ -59,7 +60,6 @@ H -->|No| I
 G1 --> I
 H1 --> I
 ```
-# Approach To Unconscious Child
 
 ## Definition And Pathophysiology
 
