@@ -100,5 +100,13 @@ permalink: "notes/{{ page.fileSlug | slugify }}/"
       {% include imp %}
     {% endfor %}
     {%include "components/lucideIcons.njk"%}
+<script type="module">
+  import mermaid from 'https://cdn.jsdelivr.net/npm/mermaid@10/dist/mermaid.esm.min.mjs';
+  mermaid.initialize({ 
+    startOnLoad: true,
+    theme: 'base',
+    securityLevel: 'loose' 
+  });
+</script>
   </body>
 </html>
