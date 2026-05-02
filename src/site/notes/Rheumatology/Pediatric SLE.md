@@ -131,25 +131,7 @@ Immune-mediated cytopenias are frequent manifestations.
 |2012 SLICC|4 criteria (≥1 clinical AND ≥1 immunologic) OR biopsy-proven nephritis with positive ANA/anti-dsDNA|High sensitivity. Expands clinical definitions to include non-scarring alopecia and hypocomplementemia.|
 |2019 EULAR/ACR|Entry criterion: ANA ≥ 1:80. Additive score ≥ 10|Weighted scoring system. Assigns specific point values per clinical domain. Class III/IV nephritis carries highest point value.|
 
-## Childhood Lupus Nephritis
-
-- Chief cause of childhood morbidity and mortality. Occurs in 50-80% of pediatric patients.
-- Clinical features range from isolated microscopic hematuria to nephrotic syndrome and acute renal failure.
-- Often clinically asymptomatic initially, mandating routine urinalysis and blood pressure monitoring.
-- Renal biopsy indicated for persistent proteinuria, nephrotic syndrome, acute nephritic features, or unexplained elevated creatinine.
-
-### ISN/RPS 2003 Histological Classification
-
-|ISN/RPS Class|Description|Clinical Correlates And Notes|
-|:--|:--|:--|
-|Class I|Minimal mesangial LN|Normal urinalysis. Immune deposits visible only on immunofluorescence.|
-|Class II|Mesangial proliferative LN|Microscopic hematuria and/or mild proteinuria. Normal overall renal function.|
-|Class III|Focal LN|<50% glomeruli involved. Manifests active or inactive lesions. Mandates aggressive induction therapy.|
-|Class IV|Diffuse LN|>50% glomeruli involved. Most severe subtype. High immediate risk for end-stage renal disease.|
-|Class V|Membranous LN|Subepithelial deposits. Clinically presents with severe nephrotic syndrome.|
-|Class VI|Advanced sclerosing LN|>90% global glomerulosclerosis. Represents irreversible chronic fibrotic damage.|
-
-## Management Strategies
+## Management
 
 - Requires lifelong multidisciplinary approach encompassing rheumatologist, nephrologist, and dermatologist.
 - Therapy strictly tailored to specific organ involvement and acute disease severity.
