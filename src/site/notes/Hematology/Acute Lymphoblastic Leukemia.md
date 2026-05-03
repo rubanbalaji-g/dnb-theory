@@ -8,48 +8,54 @@
 - Accounts for 75-80% of all pediatric leukemias.
 - Peak incidence occurs between 2-5 years of age.
 - Arises from clonal proliferation of lymphoid precursors (B-cell or T-cell lineage).
-- Increased risk associated with Down syndrome (15-20 fold increased risk), neurofibromatosis, Shwachman-Diamond syndrome, Bloom syndrome, and ataxia telangiectasia.
+- Increased risk associated with 
+	- Down syndrome (15-20 fold increased risk)
+	- Neurofibromatosis
+	- Schwachman-Diamond syndrome
+	- Bloom syndrome
+	- Ataxia telangiectasia.
 
 ## Clinical Manifestations
 
-- Symptoms reflect bone marrow failure and extramedullary infiltration.
-- **Bone Marrow Replacement:** Pallor, fatigue, lethargy (anemia). Petechiae, purpura, mucosal bleeding (thrombocytopenia). Fever, severe infections (neutropenia).
-- **Extramedullary Infiltration:** Lymphadenopathy, hepatomegaly, splenomegaly present in >60% of cases.
-- **Musculoskeletal:** Bone/joint pain, tenderness, limp secondary to periosteal leukemic involvement.
-- **Central Nervous System (CNS):** Headache, emesis, cranial nerve palsies (commonly VI nerve), papilledema, altered sensorium.
-- **Genitourinary:** Painless unilateral/bilateral testicular enlargement.
-- **Thoracic:** Mediastinal mass (predominantly T-cell lineage) causing superior vena cava syndrome, wheezing, respiratory distress, stridor.
+| Category                        | Clinical Manifestations                                                                   | Pathophysiology/Notes                                                       |
+| :------------------------------ | :---------------------------------------------------------------------------------------- | :-------------------------------------------------------------------------- |
+| **Bone Marrow Replacement**     | Pallor, fatigue, lethargy, petechiae, purpura, mucosal bleeding, fever, severe infections | Anemia, thrombocytopenia, and neutropenia due to healthy cell displacement. |
+| **Extramedullary Infiltration** | Lymphadenopathy, hepatomegaly, splenomegaly                                               | Present in >60% of cases.                                                   |
+| **Musculoskeletal**             | Bone/joint pain, tenderness, limp                                                         | Secondary to periosteal leukemic involvement.                               |
+| **Central Nervous System**      | Headache, emesis, cranial nerve palsies (commonly VI), papilledema, altered sensorium     | Leukemic involvement of the CNS.                                            |
+| **Genitourinary**               | Painless testicular enlargement                                                           | Can be unilateral or bilateral.                                             |
+| **Thoracic**                    | Mediastinal mass, superior vena cava syndrome, wheezing, respiratory distress, stridor    | Predominantly associated with T-cell lineage.                               |
 
 ## Diagnostic Evaluation
 
-- **Complete Blood Count (CBC):** Variable leukocyte count (leukopenia to hyperleukocytosis >100,000/mm³). Anemia and thrombocytopenia usually profound.
-- **Peripheral Smear:** Demonstrates circulating lymphoblasts.
-- **Bone Marrow Aspiration/Biopsy:** Definitive diagnosis requires >20% blasts (WHO criteria) or >25% blasts.
-- **Cerebrospinal Fluid (CSF) Analysis:** Cytology required to exclude CNS involvement. First intrathecal chemotherapy dose administered concurrently with diagnostic tap.
-- **Metabolic Screening:** Uric acid, potassium, phosphorus, calcium, lactate dehydrogenase (LDH), renal and hepatic function panels to assess tumor lysis syndrome.
-- **Advanced Cellular Characterization:**
-    - **Cytochemistry:** Myeloperoxidase negative. Terminal deoxynucleotidyl transferase (TdT) positive.
-    - **Immunophenotyping (Flow Cytometry):** Identifies lineage. B-cell markers: CD10, CD19, CD20, CD22. T-cell markers: CD2, CD3, CD4, CD5, CD7, CD8.
-    - **Cytogenetics/Molecular:** Karyotyping, Fluorescence In Situ Hybridization (FISH), Polymerase Chain Reaction (PCR) detect critical translocations.
-
+| Diagnostic Modality | Focus / Findings |
+| :--- | :--- |
+| **Complete Blood Count (CBC)** | Assesses leukocyte count (leukopenia to hyperleukocytosis >100,000/mm³). Anemia and thrombocytopenia are typically profound. |
+| **Peripheral Smear** | Demonstrates the presence of circulating lymphoblasts. |
+| **Bone Marrow Aspiration/Biopsy** | Definitive diagnostic test; requires >20% (WHO criteria) or >25% blasts. |
+| **Cerebrospinal Fluid (CSF) Analysis** | Cytology required to exclude CNS involvement. First intrathecal chemotherapy dose is administered during this tap. |
+| **Metabolic Screening** | Evaluates Uric acid, potassium, phosphorus, calcium, LDH, and renal/hepatic function to assess for Tumor Lysis Syndrome. |
+| **Cytochemistry** | Confirms lineage; specifically Myeloperoxidase negative and Terminal deoxynucleotidyl transferase (TdT) positive. |
+| **Immunophenotyping (Flow Cytometry)** | Identifies lineage. B-cell markers: CD10, CD19, CD20, CD22. T-cell markers: CD2, CD3, CD4, CD5, CD7, CD8. |
+| **Cytogenetics / Molecular** | Utilizes Karyotyping, FISH, and PCR to detect critical translocations and prognostic genetic abnormalities. |
 ## Genetics And Risk Stratification
 
 ### Cytogenetic Abnormalities And Prognostic Implications
 
-|Genetic Abnormality / Translocation|Affected Gene|Frequency (%)|Prognostic Implication|
-|:--|:--|:--|:--|
-|**Hyperdiploidy (>50 chromosomes)**|Multiple|20-30|Excellent prognosis.|
-|**t(12;21)(p13;q22)**|ETV6-RUNX1|15-25|Excellent prognosis; minimal therapy required.|
-|**Trisomy 4 and 10**|Multiple|20-25|Excellent prognosis.|
-|**t(9;22)(q34;q11.2)**|BCR-ABL1 (Philadelphia)|2-4|Very high risk; improved outcome with tyrosine kinase inhibitors.|
-|**t(4;11)(q21;q23)**|MLL-AF4 (KMT2A)|1-2|Infant ALL; extremely poor prognosis.|
-|**Hypodiploidy (<44 chromosomes)**|Multiple|1-2|Unsatisfactory outcome.|
-|**iAMP21**|Intrachromosomal amplification 21|1|Adverse factor.|
+| Genetic Abnormality / Translocation | Affected Gene                     | Frequency (%) | Prognostic Implication                                            |
+| :---------------------------------- | :-------------------------------- | :------------ | :---------------------------------------------------------------- |
+| **Hyperdiploidy (>50 chromosomes)** | Multiple                          | 20-30         | Excellent prognosis.                                              |
+| **t(12;21)(p13;q22)**               | ETV6-RUNX1                        | 15-25         | Excellent prognosis; minimal therapy required.                    |
+| **Trisomy 4 and 10**                | Multiple                          | 20-25         | Excellent prognosis.                                              |
+| **t(9;22)(q34;q11.2)**              | BCR-ABL1 (Philadelphia)           | 2-4           | Very high risk; improved outcome with tyrosine kinase inhibitors. |
+| **t(4;11)(q21;q23)**                | MLL-AF4 (KMT2A)                   | 1-2           | Infant ALL; extremely poor prognosis.                             |
+| **Hypodiploidy (<44 chromosomes)**  | Multiple                          | 1-2           | Unsatisfactory outcome.                                           |
+| **iAMP21**                          | Intrachromosomal amplification 21 | 1             | Adverse factor.                                                   |
 ### National Cancer Institute (NCI) Classification
 
 Serves as primary clinical baseline for initial risk assignment.
 
-- **Standard Risk (SR):** Age 1 to 9.99 years AND white blood cell (WBC) count <50,000/μL.
+- **Standard Risk (SR):** Age 1 to 10 years AND white blood cell (WBC) count <50,000/μL.
 - **High Risk (HR):** Age $\ge$ 10 years OR initial WBC count $\ge$ 50,000/μL.
 
 ### Minimal Residual Disease (MRD)
@@ -62,15 +68,14 @@ Single most powerful prognostic indicator.
 
 ### Prognostic Factors Profile
 
-|Factor|Favorable Profile|Adverse Profile|
-|:--|:--|:--|
-|**Age**|1 to 9.99 years|<1 year (infant) or $\ge$ 10 years|
-|**Initial WBC Count**|<50,000/μL|$\ge$ 50,000/μL|
-|**Immunophenotype**|B-precursor cell|T-cell (historically), Mature B-cell|
-|**Extramedullary Disease**|Absent|Central nervous system (CNS3) or testicular involvement|
-|**Cytogenetics (Ploidy)**|Hyperdiploidy (>50 chromosomes), DNA index >1.16|Hypodiploidy (<44 chromosomes), DNA index <0.81|
-|**Favorable Translocations**|t(12;21) / ETV6-RUNX1, Trisomies 4 and 10|None|
-|**Adverse Translocations**|None|t(9;22) / BCR-ABL1 (Philadelphia), KMT2A (MLL) rearrangement, iAMP21, Ph-like|
+| Factor                     | Favorable Profile                                | Adverse Profile                                                               |
+| :------------------------- | :----------------------------------------------- | :---------------------------------------------------------------------------- |
+| **Age**                    | 1 to 10 years                                    | <1 year (infant) or $\ge$ 10 years                                            |
+| **Initial WBC Count**      | <50,000/μL                                       | $\ge$ 50,000/μL                                                               |
+| **Immunophenotype**        | B-precursor cell                                 | T-cell (historically), Mature B-cell                                          |
+| **Extramedullary Disease** | Absent                                           | Central nervous system (CNS3) or testicular involvement                       |
+| **Cytogenetics (Ploidy)**  | Hyperdiploidy (>50 chromosomes), DNA index >1.16 | Hypodiploidy (<44 chromosomes), DNA index <0.81                               |
+| **Translocations**         | t(12;21) / ETV6-RUNX1, Trisomies 4 and 10        | t(9;22) / BCR-ABL1 (Philadelphia), KMT2A (MLL) rearrangement, iAMP21, Ph-like |
 
 ## Advanced Risk Grouping
 
@@ -92,14 +97,18 @@ Stratification distinct from B-ALL; heavily dependent on MRD response.
 - **Very High Risk:** End of consolidation MRD $\ge$ 0.1% or induction failure.
 ## Management And Treatment Strategies
 
-Therapy for ALL requires highly coordinated, risk-adapted systemic combination chemotherapy, CNS-directed prophylaxis, and meticulous supportive care spanning 2-3 years.
+The management of Acute Lymphoblastic Leukemia (ALL) is a complex, risk-adapted process involving systemic chemotherapy, CNS-directed therapy, and supportive care. Below is the summary of strategies based on the current clinical protocols.
 
-|Phase Of Therapy|Primary Objective|Treatment Details And Agents|
-|:--|:--|:--|
-|**Induction Therapy**|Eradicate leukemia from bone marrow (<5% leukemic blasts at end of cycle).|Vincristine, prednisolone/dexamethasone, L-asparaginase, anthracycline. Achieves 95-98% remission in 4-6 weeks.|
-|**CNS Preventive Therapy**|Treat subclinical CNS involvement; eradicate blasts crossing blood-brain barrier.|High-dose systemic methotrexate, cytarabine, intrathecal therapy. Cranial radiation reserved strictly for CNS-positive cases.|
-|**Intensification (Consolidation)**|Tackle drug resistance soon after remission induction.|High-dose methotrexate, L-asparaginase, epipodophyllotoxin, cyclophosphamide, cytarabine. Highly myelotoxic requiring supportive care.|
-|**Maintenance Therapy**|Prevent relapse; eliminate remaining 10^9-10^10 leukemic cells.|Daily 6-mercaptopurine, weekly methotrexate. Administered for an additional 2 years. Monitor compliance and toxicity.|
+### Management Strategies for ALL
+
+| Phase                               | Primary Objective                                                    | Treatment Details and Agents                                                                                                                        |
+| :---------------------------------- | :------------------------------------------------------------------- | :-------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Induction**                       | Eradicate leukemia from bone marrow (<5% blasts).                    | <ul><li>Vincristine</li><li>Prednisolone/Dexamethasone</li><li>L-asparaginase</li><li>Anthracycline (for High Risk)</li></ul>                       |
+| **CNS Preventive**                  | Treat subclinical CNS disease; bypass blood-brain barrier.           | <ul><li>High-dose systemic Methotrexate</li><li>Cytarabine (Intrathecal)</li><li>Cranial radiation (strictly for CNS-positive cases only)</li></ul> |
+| **Intensification (Consolidation)** | Tackle drug resistance post-remission.                               | <ul><li>High-dose Methotrexate</li><li>L-asparaginase</li><li>Epipodophyllotoxin</li><li>Cyclophosphamide</li><li>Cytarabine</li></ul>              |
+| **Interim Maintenance**             | Maintain remission during marrow recovery.                           | <ul><li>Escalating Methotrexate (Capizzi) or High-Dose Methotrexate</li><li>Vincristine pulses</li><li>Intrathecal Methotrexate</li></ul>           |
+| **Delayed Intensification**         | Eliminate residual resistant clones (re-induction/re-consolidation). | <ul><li>Dexamethasone</li><li>Vincristine</li><li>Doxorubicin</li><li>PEG-asparaginase</li><li>Cyclophosphamide/Cytarabine/6-Thioguanine</li></ul>  |
+| **Maintenance**                     | Eradicate minimal residual disease (MRD) over 2-3 years.             | <ul><li>Daily 6-Mercaptopurine</li><li>Weekly Methotrexate</li><li>Periodic pulses of Vincristine/Dexamethasone</li></ul>                           |
 ### General Supportive Care
 
 - **Tumor Lysis Syndrome (TLS) Prevention:** Aggressive intravenous hydration (2-3 times maintenance). Administer Allopurinol (300 mg/m²/day) or Rasburicase (0.15-0.2 mg/kg/day IV) for high-risk patients (WBC >100,000/mm³). Monitor electrolytes meticulously.
@@ -199,7 +208,7 @@ Therapy for ALL requires highly coordinated, risk-adapted systemic combination c
 - **Example Regimen (Triple Reinduction):** Vincristine, Prednisone, PEG-asparaginase, Doxorubicin, Cyclophosphamide, Etoposide, Cytarabine.
 - **Prognosis:** Determined by time to relapse (early vs. late) and site (medullary vs. extramedullary). Early bone marrow relapses carry dismal prognoses, requiring prompt HSCT.
 
-### Novel Targeted And Cellular Therapies (Refractory/Relapsed Settings)
+### Novel Targeted And Cellular Therapies (Refractory/Relapsed Settings) #recent
 
 Revolutionizing salvage therapy for relapsed/refractory B-ALL.
 

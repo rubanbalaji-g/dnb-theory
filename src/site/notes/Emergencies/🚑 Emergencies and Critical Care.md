@@ -1,13 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/emergencies/emergencies-and-critical-care/","hide":true,"noteIcon":"","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/emergencies/emergencies-and-critical-care/","dgPassFrontmatter":true}
 ---
 
-
 ## PALS Algorithms
-1. [[Emergencies/Pediatric Cardiac Arrest Alogrithm 🔥🔥🔥\|Pediatric Cardiac Arrest Alogrithm 🔥🔥🔥]] 
+1. [[Emergencies/Pediatric Cardiac Arrest Alogrithm\|Pediatric Cardiac Arrest Alogrithm]] 
 2. [[Emergencies/Pediatric Basic Life Support Algorithm - Single Rescuer\|Pediatric Basic Life Support Algorithm - Single Rescuer]]
 3. [[Emergencies/Pediatric Bradycardia with Pulse Algorithm\|Pediatric Bradycardia with Pulse Algorithm]]
-4. [[Emergencies/Pediatric Tachycardia Algorithm 🔥🔥\|Pediatric Tachycardia Algorithm 🔥🔥]]
+4. [[Emergencies/Pediatric Tachycardia Algorithm\|Pediatric Tachycardia Algorithm]]
 ## Critical Care Scoring
 1. [[Emergencies/Scoring Systems in PICU\|Scoring Systems in PICU]]
 2. [[Emergencies/PRISM Scoring in PICU\|PRISM Scoring in PICU]]

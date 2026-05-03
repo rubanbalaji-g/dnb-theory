@@ -72,13 +72,13 @@ F3 --> G3[<b>Enhanced Elimination</b><br>Dialysis or Alkalinization]:::step
 
 ## Major Toxidromes And Clinical Features
 
-|Toxidrome|Characteristic Clinical Features|Common Causative Agents|
-|:--|:--|:--|
-|Anticholinergic|Delirium, mydriasis, tachycardia, hyperthermia, dry skin, dry oral mucosa, flushing, urinary retention.|Atropine, antihistamines, tricyclic antidepressants.|
-|Cholinergic|Diarrhea, urination, miosis, bradycardia, bronchorrhea, emesis, lacrimation, salivation, muscle fasciculations.|Organophosphates, carbamate pesticides.|
-|Sympathomimetic|Agitation, seizures, mydriasis, tachycardia, hypertension, diaphoresis, hyperthermia.|Amphetamines, cocaine, ADHD medications.|
-|Opioid|Profound central nervous system depression, respiratory depression, miosis, bradycardia, hypotension, hypothermia.|Morphine, heroin, methadone, buprenorphine.|
-|Sedative-Hypnotic|Coma, respiratory depression, normal to decreased heart rate, normal to decreased blood pressure, normal or small pupils.|Benzodiazepines, barbiturates, alcohols, zolpidem.|
+| Toxidrome         | Characteristic Clinical Features                                                                                          | Common Causative Agents                              |
+| :---------------- | :------------------------------------------------------------------------------------------------------------------------ | :--------------------------------------------------- |
+| Anticholinergic   | Delirium, mydriasis, tachycardia, hyperthermia, dry skin, dry oral mucosa, flushing, urinary retention.                   | Atropine, antihistamines, tricyclic antidepressants. |
+| Cholinergic       | Diarrhea, urination, miosis, bradycardia, bronchorrhea, emesis, lacrimation, salivation, muscle fasciculations.           | Organophosphates, carbamate pesticides.              |
+| Sympathomimetic   | Agitation, seizures, mydriasis, tachycardia, hypertension, diaphoresis, hyperthermia.                                     | Amphetamines, cocaine, ADHD medications.             |
+| Opioid            | Profound central nervous system depression, respiratory depression, miosis, bradycardia, hypotension, hypothermia.        | Morphine, heroin, methadone, buprenorphine.          |
+| Sedative-Hypnotic | Coma, respiratory depression, normal to decreased heart rate, normal to decreased blood pressure, normal or small pupils. | Benzodiazepines, barbiturates, alcohols, zolpidem.   |
 
 ## Diagnostic And Laboratory Evaluation
 
@@ -90,7 +90,19 @@ F3 --> G3[<b>Enhanced Elimination</b><br>Dialysis or Alkalinization]:::step
 ### Acid-Base And Osmolar Gap Analysis
 
 - Calculate anion gap evaluating high anion gap metabolic acidosis revealing unmeasured toxic anions.
-- Identify toxins causing high anion gap metabolic acidosis including methanol, uremia, diabetic ketoacidosis, paraldehyde, iron, isoniazid, lactic acidosis, ethylene glycol, and salicylates.
+- Identify toxins causing high anion gap metabolic acidosis
+
+> [!Red] 💡MUDPILES Mnemonic for HAGMA
+> **M** – **Methanol** 
+> **U** – **Uremia** 
+> **D** – **Diabetic Ketoacidosis** 
+> **P** – **Paraldehyde / Propylene Glycol**
+> **I** – **Inborn Errors of Metabolism / Iron / Isoniazid** 
+> **L** – **Lactic Acidosis** 
+> **E** – **Ethylene Glycol** 
+> **S** – **Salicylates** 
+
+
 - Determine osmolar gap indicating unmeasured osmotically active substances including toxic alcohols like methanol, ethanol, ethylene glycol if elevated greater than 10 mOsm.
 
 ### Electrocardiography
@@ -106,10 +118,16 @@ F3 --> G3[<b>Enhanced Elimination</b><br>Dialysis or Alkalinization]:::step
 - Note early acetaminophen and salicylate toxicity may remain asymptomatic but highly amenable to time-sensitive antidotal therapy.
 - Note limited utility of urine drugs-of-abuse screens for acute management due to inherent delays and high false positive/negative rates.
 - Utilize plain abdominal radiography visualizing specific radiopaque toxins.
-- Remember CHIPPED mnemonic: Chloral hydrate/Calcium carbonate, Heavy metals, Iron, Phenothiazines, Play-Doh, Enteric-coated tablets, Dental amalgam/illicit drug packets.
+> [!TIP] CHIPPED Mnemonic for Radio-opaque toxins
+> **C** – Chloral hydrate / Calcium carbonate
+> **H** – Heavy metals
+> **I** – Iron
+> **P** – Phenothiazines
+> **P** – Play-Doh
+> **E** – Enteric-coated tablets
+> **D** – Dental amalgam / Illicit drug packets
 
 ## Decontamination Strategies
-
 ### Dermal And Ocular Decontamination
 
 - Mandate immediate, extensive flushing using tepid water or normal saline for minimum 10-20 minutes.

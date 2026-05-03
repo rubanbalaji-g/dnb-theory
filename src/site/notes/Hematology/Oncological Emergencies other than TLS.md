@@ -2,12 +2,98 @@
 {"dg-publish":true,"uptext":"Back to Index(🩸 Hematology and Oncology)","uplink":"/hematology/hematology/","permalink":"/hematology/oncological-emergencies-other-than-tls/","dgPassFrontmatter":true}
 ---
 
+```mermaid
+%%{init: {"themeVariables": { "lineWidth": "3px", "lineColor": "#000000" } }}%%
+graph LR
+    %% Root Node
+    Root([Oncological Emergencies])
+    style Root fill:#e1f5fe,stroke:#01579b,color:#01579b
+
+    %% Main Categories
+    MetHem[Metabolic & Hematologic]
+    style MetHem fill:#e8f5e9,stroke:#2e7d32,color:#2e7d32
+
+    Struct[Space-Occupying & Structural]
+    style Struct fill:#ffebee,stroke:#c62828,color:#c62828
+
+    Organ[Organ-Specific & GI]
+    style Organ fill:#fff8e1,stroke:#f57f17,color:#f57f17
+
+    SysTreat[Systemic & Treatment-Related]
+    style SysTreat fill:#f3e5f5,stroke:#7b1fa2,color:#7b1fa2
+
+    %% Sub-categories for Metabolic & Hematologic
+    TLS[Tumor Lysis Syndrome]
+    style TLS fill:#e8f5e9,stroke:#2e7d32,color:#2e7d32
+    HyperL[Hyperleukocytosis]
+    style HyperL fill:#e8f5e9,stroke:#2e7d32,color:#2e7d32
+    HyperC[Hypercalcemia of Malignancy]
+    style HyperC fill:#e8f5e9,stroke:#2e7d32,color:#2e7d32
+
+    %% Sub-categories for Structural
+    SVC[SVC / Superior Mediastinal Syndrome]
+    style SVC fill:#ffebee,stroke:#c62828,color:#c62828
+    Tamponade[Cardiac Tamponade]
+    style Tamponade fill:#ffebee,stroke:#c62828,color:#c62828
+    SCC[Spinal Cord Compression]
+    style SCC fill:#ffebee,stroke:#c62828,color:#c62828
+    ICP[Increased Intracranial Pressure]
+    style ICP fill:#ffebee,stroke:#c62828,color:#c62828
+
+    %% Sub-categories for Organ/GI
+    Typh[Typhlitis - Neutropenic Enterocolitis]
+    style Typh fill:#fff8e1,stroke:#f57f17,color:#f57f17
+    SOS[Sinusoidal Obstructive Syndrome]
+    style SOS fill:#fff8e1,stroke:#f57f17,color:#f57f17
+    GI[Bowel Obstruction / GI Hemorrhage]
+    style GI fill:#fff8e1,stroke:#f57f17,color:#f57f17
+
+    %% Sub-categories for Systemic/Treatment
+    FebNeu[Febrile Neutropenia]
+    style FebNeu fill:#f3e5f5,stroke:#7b1fa2,color:#7b1fa2
+    CRS[Cytokine Release Syndrome]
+    style CRS fill:#f3e5f5,stroke:#7b1fa2,color:#7b1fa2
+    DiffSyn[Differentiation Syndrome]
+    style DiffSyn fill:#f3e5f5,stroke:#7b1fa2,color:#7b1fa2
+    Endo[Endocrine: SIADH / Adrenal Insufficiency]
+    style Endo fill:#f3e5f5,stroke:#7b1fa2,color:#7b1fa2
+
+    %% Connections
+    Root --> MetHem
+    Root --> Struct
+    Root --> Organ
+    Root --> SysTreat
+
+    MetHem --> TLS
+    MetHem --> HyperL
+    MetHem --> HyperC
+
+    Struct --> SVC
+    Struct --> Tamponade
+    Struct --> SCC
+    Struct --> ICP
+
+    Organ --> Typh
+    Organ --> SOS
+    Organ --> GI
+
+    SysTreat --> FebNeu
+    SysTreat --> CRS
+    SysTreat --> DiffSyn
+    SysTreat --> Endo
+```
 ## Cardiothoracic Emergencies
 
 ### Superior Vena Cava Syndrome And Superior Mediastinal Syndrome
 
 - Results from compression of superior vena cava or trachea by anterior mediastinal masses.
-- Commonly associated malignancies: Non-Hodgkin lymphoma, T-cell acute lymphoblastic leukemia (ALL), Hodgkin lymphoma, germ cell tumors, neuroblastoma, thymoma.
+- Commonly associated malignancies: 
+	- Non-Hodgkin lymphoma
+	- T-cell acute lymphoblastic leukemia (ALL)
+	- Hodgkin lymphoma
+	- germ cell tumors
+	- neuroblastoma
+	- thymoma.
 - Intrinsic etiologies: Intravascular tumor thrombosis (Wilms tumor, lymphoma), catheter-related thrombosis.
 
 |Clinical Manifestations|Diagnostic Evaluation|Management Strategy|

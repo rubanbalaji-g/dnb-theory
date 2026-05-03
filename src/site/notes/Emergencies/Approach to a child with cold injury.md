@@ -2,6 +2,7 @@
 {"dg-publish":true,"uptext":"Back to Index (🚑 Emergencies and Critical Care)","uplink":"/emergencies/emergencies-and-critical-care/","permalink":"/emergencies/approach-to-a-child-with-cold-injury/","dgPassFrontmatter":true}
 ---
 
+
 ## Algorithm
 
 ```mermaid

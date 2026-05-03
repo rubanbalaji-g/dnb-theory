@@ -2,6 +2,60 @@
 {"dg-publish":true,"uptext":"Back to Index(🩸 Hematology and Oncology)","uplink":"/hematology/hematology/","permalink":"/hematology/tumor-lysis-syndrome/","dgPassFrontmatter":true}
 ---
 
+## Algorithm
+```mermaid
+%%{init: {"themeVariables": { "lineWidth": "3px", "lineColor": "#000000" } }}%%
+graph TD
+    %% Node Definitions with Custom Styles
+    Start([Patient with Malignancy & Planned Therapy])
+    style Start fill:#e3f2fd,stroke:#1565c0,color:#1565c0
+
+    Risk{Risk Stratification}
+    style Risk fill:#fff3e0,stroke:#e65100,color:#e65100
+
+    Low[Low Risk: <br/>WBC < 50k ALL / < 10k AML <br/>Indolent NHL / Solid Tumors]
+    style Low fill:#e8f5e9,stroke:#2e7d32,color:#2e7d32
+
+    Int[Intermediate Risk: <br/>WBC 50-100k ALL / 10-50k AML <br/>DLBCL / Bulky Disease]
+    style Int fill:#fff8e1,stroke:#fbc02d,color:#fbc02d
+
+    High[High Risk: <br/>WBC > 100k ALL / > 50k AML <br/>Burkitt / Lymphoblastic Lymphoma]
+    style High fill:#ffebee,stroke:#c62828,color:#c62828
+
+    %% Management Blocks
+    MgtLow[Management: <br/>Close Observation <br/>Consider IV Hydration]
+    style MgtLow fill:#e8f5e9,stroke:#2e7d32,color:#2e7d32
+
+    MgtInt[Management: <br/>Vigorous IV Hydration <br/>Allopurinol 300mg/m2/day <br/>Monitoring q8-12h]
+    style MgtInt fill:#fff8e1,stroke:#fbc02d,color:#fbc02d
+
+    MgtHigh[Management: <br/>Vigorous IV Hydration <br/>Rasburicase 0.15-0.2mg/kg <br/>Monitoring q4-6h]
+    style MgtHigh fill:#ffebee,stroke:#c62828,color:#c62828
+
+    %% Decision Points
+    LabTLS{Lab TLS? <br/>2+ changes in <br/>Uric Acid/K/Phos/Ca}
+    style LabTLS fill:#f3e5f5,stroke:#7b1fa2,color:#7b1fa2
+
+    ClinicalTLS{Clinical TLS? <br/>Seizures / Arrhythmia / AKI}
+    style ClinicalTLS fill:#fce4ec,stroke:#c2185b,color:#c2185b
+
+    Dialysis[Indication for Dialysis: <br/>Refractory K > 6 / Phos > 6 <br/>Anuria / Fluid Overload <br/>Severe Acidosis]
+    style Dialysis fill:#212121,stroke:#000000,color:#ffffff
+
+    %% Connections
+    Start --> Risk
+    Risk --> Low --> MgtLow
+    Risk --> Int --> MgtInt
+    Risk --> High --> MgtHigh
+
+    MgtLow --> LabTLS
+    MgtInt --> LabTLS
+    MgtHigh --> LabTLS
+
+    LabTLS -- Yes --> ClinicalTLS
+    ClinicalTLS -- Yes --> Dialysis
+    ClinicalTLS -- No --> MgtHigh
+```
 ## Introduction And Pathophysiology
 
 - Life-threatening oncologic emergency.
@@ -50,8 +104,6 @@ Defined as the presence of laboratory TLS accompanied by specific clinical manif
 |**Intermediate Risk**|White blood cell count 50,000-100,000/mm³|White blood cell count 10,000-50,000/mm³|Diffuse large B-cell lymphoma|Tumors exhibiting rapid proliferation or expected rapid response to therapy|
 |**High Risk**|White blood cell count >100,000/mm³|White blood cell count >50,000/mm³|Burkitt lymphoma, Lymphoblastic lymphoma|Not applicable|
 
-_[Data compiled from TLS risk strata]._
-
 ## Risk-Based Management Algorithm
 
 |Risk Category|Clinical Indicators|Recommended Management Approach|
@@ -84,9 +136,18 @@ _[Data compiled from TLS risk strata]._
 ### Hyperuricemia
 
 - **Pathophysiology:** Breakdown of malignant cell nucleic acids. Can cause uric acid nephropathy.
-- **Allopurinol:** Xanthine oxidase inhibitor. Prevents further accumulation of uric acid. Dose: 300 mg/m²/day or 10 mg/kg/day orally (maximum 800 mg/day). Intravenous alternative: 200 mg/m²/day (maximum 600 mg/day).
-- **Rasburicase:** Recombinant urate oxidase enzyme. Actively degrades existing uric acid. Dose: 0.15-0.2 mg/kg/day intravenously. May repeat dose. Indicated for high-risk patients or established hyperuricemia.
-- **Contraindications:** Assess glucose-6-phosphate dehydrogenase (G6PD) status prior to rasburicase administration. Rasburicase causes severe methemoglobinemia or profound hemolytic anemia in G6PD-deficient patients.
+- **Allopurinol:** Xanthine oxidase inhibitor. 
+	- Prevents further accumulation of uric acid. 
+	- Dose: 300 mg/m²/day or 10 mg/kg/day orally (maximum 800 mg/day). 
+	- Intravenous alternative: 200 mg/m²/day (maximum 600 mg/day).
+- **Rasburicase:** Recombinant urate oxidase enzyme. 
+	- Actively degrades existing uric acid. 
+	- Dose: 0.15-0.2 mg/kg/day intravenously. 
+	- May repeat dose. 
+	- Indicated for high-risk patients or established hyperuricemia.
+	- **Contraindications:** 
+		- Assess glucose-6-phosphate dehydrogenase (G6PD) status prior to rasburicase administration. 
+		- Rasburicase causes severe methemoglobinemia or profound hemolytic anemia in G6PD-deficient patients.
 - **Urinary Alkalization:** Target urine pH 7.0-7.5 to prevent uric acid crystallization. Must discontinue alkalization immediately upon chemotherapy initiation or rasburicase administration. Elevated pH actively promotes dangerous xanthine and calcium phosphate crystal precipitation.
 
 ### Hyperkalemia
