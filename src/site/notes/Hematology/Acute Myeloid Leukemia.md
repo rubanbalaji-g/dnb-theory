@@ -27,8 +27,8 @@
 ### Acquired And Environmental Factors
 
 - **Therapy-Related AML (t-AML):** Secondary to alkylating agents, topoisomerase II inhibitors (epipodophyllotoxins), radiation.
-- **Epipodophyllotoxins:** Induce French-American-British (FAB) M4 or M5 subtypes; involve _KMT2A_ (_MLL_) gene rearrangement (11q23); short latency (6-36 months).
-- **Alkylating Agents:** Produce AML with poor-risk cytogenetics; longer latency (3-10 years).
+	- **Epipodophyllotoxins:** Induce French-American-British (FAB) M4 or M5 subtypes; involve _KMT2A_ (_MLL_) gene rearrangement (11q23); short latency (6-36 months).
+	- **Alkylating Agents:** Produce AML with poor-risk cytogenetics; longer latency (3-10 years).
 - **Preceding Hematologic Disorders:** Aplastic anemia, myelodysplastic syndrome (MDS), paroxysmal nocturnal hemoglobinuria.
 - **Twin Concordance:** Identical twin faces nearly 100% concordance risk if sibling diagnosed during infancy; implies shared placental clonal origin.
 
@@ -47,16 +47,16 @@
 
 ### French-American-British (FAB) Classification
 
-|Subtype|Nomenclature|Diagnostic Nuances|
-|:--|:--|:--|
-|**M0**|Acute undifferentiated leukemia|Minimal differentiation.|
-|**M1**|Myeloblastic without maturation|Morphologically mimics L2 ALL.|
-|**M2**|Myeloblastic with maturation|Frequently exhibits t(8;21); Auer rods common.|
-|**M3**|Acute promyelocytic leukemia (APML)|Hypergranular promyelocytes; multiple Auer rods (faggot cells); t(15;17); prominent coagulopathy.|
-|**M4**|Acute myelomonocytic leukemia|Exhibits myelocytic and monocytic differentiation; M4eo variant features abnormal eosinophils and inv(16).|
-|**M5**|Acute monocytic leukemia|Common in children <2 years; prominent extramedullary disease (gums, skin).|
-|**M6**|Erythroleukemia|Di Guglielmo disease.|
-|**M7**|Acute megakaryoblastic leukemia|Associated with myelofibrosis; overwhelmingly common in Down syndrome.|
+| Subtype | Nomenclature                        | Diagnostic Nuances                                                                                                                                                                                                                                             |
+| :------ | :---------------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **M0**  | Acute undifferentiated leukemia     | <span style="color: #00FFFF;">Minimal differentiation</span>.                                                                                                                                                                                                  |
+| **M1**  | Myeloblastic without maturation     | <span style="color: #00FFFF;">Morphologically mimics L2 ALL</span>.                                                                                                                                                                                            |
+| **M2**  | Myeloblastic with maturation        | Frequently exhibits <span style="color: #00FFFF;">t(8;21)</span>; <span style="color: #00FFFF;">Auer rods</span> common.                                                                                                                                       |
+| **M3**  | Acute promyelocytic leukemia (APML) | <span style="color: #00FFFF;">Hypergranular promyelocytes</span>; <span style="color: #00FFFF;">multiple Auer rods (faggot cells)</span>; <span style="color: #00FFFF;">t(15;17)</span>; <span style="color: #00FFFF;">prominent coagulopathy</span>.          |
+| **M4**  | Acute myelomonocytic leukemia       | Exhibits <span style="color: #00FFFF;">myelocytic and monocytic differentiation</span>; <span style="color: #00FFFF;">M4eo variant</span> features <span style="color: #00FFFF;">abnormal eosinophils</span> and <span style="color: #00FFFF;">inv(16)</span>. |
+| **M5**  | Acute monocytic leukemia            | Common in <span style="color: #00FFFF;">children &lt;2 years</span>; prominent <span style="color: #00FFFF;">extramedullary disease (gums, skin)</span>.                                                                                                       |
+| **M6**  | Erythroleukemia                     | <span style="color: #00FFFF;">Di Guglielmo disease</span>.                                                                                                                                                                                                     |
+| **M7**  | Acute megakaryoblastic leukemia     | Associated with <span style="color: #00FFFF;">myelofibrosis</span>; overwhelmingly common in <span style="color: #00FFFF;">Down syndrome</span>.                                                                                                               |
 
 ### Immunophenotypic Profile
 

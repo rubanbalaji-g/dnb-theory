@@ -5,31 +5,31 @@
 ## Introduction And Epidemiology
 
 - Represents rare pediatric hematologic malignancy.
-- Accounts for 2-3% of all childhood leukemias,,.
+- Accounts for 2-3% of all childhood leukemias,
 - Incidence exceptionally low in infancy; occurs in 0.7 per million children (1-14 years) and 1.2 per million adolescents annually.
 - Primarily disease of adulthood, peaking in fourth and fifth decades.
 - Implicated environmental etiologic factor includes ionizing radiation.
 
 ## Genetics And Pathophysiology
 
-- Clonal disorder originating within pluripotent hematopoietic stem cells,.
-- Characterized by pathognomonic reciprocal translocation t(9;22)(q34;q11),,.
-- Translocation creates Philadelphia (Ph1) chromosome,,.
-- Results in BCR-ABL1 fusion gene formation,,.
-- Generates constitutively active BCR-ABL1 tyrosine kinase,.
+- Clonal disorder originating within pluripotent hematopoietic stem cells
+- Characterized by pathognomonic reciprocal translocation t(9;22)(q34;q11),
+- Translocation creates Philadelphia (Ph1) chromosome,
+- Results in BCR-ABL1 fusion gene formation,
+- Generates constitutively active BCR-ABL1 tyrosine kinase
 - Initiates complex intracellular signal transduction cascade.
-- Induces strong state of chemotherapy resistance, hyperproliferation, and apoptosis inhibition,.
+- Induces strong state of chemotherapy resistance, hyperproliferation, and apoptosis inhibition
 
 ## Clinical Manifestations And Phases
 
-Exhibits characteristic triphasic clinical course: chronic phase, accelerated phase, and blast crisis,.
+Exhibits characteristic triphasic clinical course: chronic phase, accelerated phase, and blast crisis
 
 ### Chronic Phase (CP)
 
 - Encompasses 85% of patients at initial diagnosis.
-- Features insidious, gradual clinical onset,.
-- Nonspecific constitutional symptoms: Fatigue, malaise, weight loss, anorexia, fever,.
-- Abdominal findings: Significant splenomegaly causing left upper quadrant pain, hepatomegaly,.
+- Features insidious, gradual clinical onset
+- Nonspecific constitutional symptoms: Fatigue, malaise, weight loss, anorexia, fever
+- Abdominal findings: Significant splenomegaly causing left upper quadrant pain, hepatomegaly
 - Median spleen size in children measures 8 cm below costal margin.
 - Pediatric distinctives: Children manifest proportionally larger spleens and lower hemoglobin levels compared to adults.
 
@@ -44,7 +44,7 @@ Exhibits characteristic triphasic clinical course: chronic phase, accelerated ph
 
 ### Peripheral Blood Profile
 
-- Marked hyperleukocytosis present,.
+- Marked hyperleukocytosis present
 - Granulocytes visible at all stages of maturation.
 - Maturation peaks commonly observed at myelocyte and segmented neutrophilic stages.
 - Peripheral blasts typically remain <2% during chronic phase.
@@ -80,7 +80,7 @@ Requires presence of >=1 specific criteria.
 - Blasts 10-19% in peripheral blood or bone marrow.
 - Additional clonal chromosomal abnormalities in Ph1 cells at diagnosis (second Ph, trisomy 8, isochromosome 17q, trisomy 19, complex karyotype).
 - Any new clonal chromosomal abnormality occurring during therapy.
-- Provisional TKI response failure (hematologic resistance, cytogenetic resistance, or >=2 BCR-ABL1 mutations),.
+- Provisional TKI response failure (hematologic resistance, cytogenetic resistance, or >=2 BCR-ABL1 mutations)
 
 ### Blast Phase (BP)
 
@@ -91,20 +91,20 @@ Requires presence of >=1 specific criteria.
 
 ### Tyrosine Kinase Inhibitors (TKI)
 
-- Represents standard frontline targeted therapy,.
-- Targets and inhibits constitutively active BCR-ABL1 tyrosine kinase,.
+- Represents standard frontline targeted therapy
+- Targets and inhibits constitutively active BCR-ABL1 tyrosine kinase
 - Achieves complete hematologic and cytogenetic response.
 - Drastically reduces rate of progression to accelerated phase or blast crisis.
-- **First-Generation Agent:** Imatinib (Gleevec),.
-- **Second-Generation Agents (2G-TKIs):** Dasatinib, Nilotinib, Bosutinib,,. Induce faster, deeper molecular remission compared to Imatinib.
+- **First-Generation Agent:** Imatinib (Gleevec)
+- **Second-Generation Agents (2G-TKIs):** Dasatinib, Nilotinib, Bosutinib, Induce faster, deeper molecular remission compared to Imatinib.
 
 ### Pediatric TKI Dosing Regimens
 
 |Agent|Recommended Pediatric Dose|Administration Guidelines|
 |:--|:--|:--|
-|**Imatinib**|340 mg/m²/dose|Administered orally once daily,.|
+|**Imatinib**|340 mg/m²/dose|Administered orally once daily|
 |**Dasatinib**|60 mg/m²/dose|Administered orally once daily.|
-|**Nilotinib**|230 mg/m²/dose|Administered orally twice daily. Fasting required 2 hours before and 1 hour after dose,.|
+|**Nilotinib**|230 mg/m²/dose|Administered orally twice daily. Fasting required 2 hours before and 1 hour after dose|
 
 ### Ancillary And Bridging Therapy
 
@@ -120,24 +120,21 @@ Requires presence of >=1 specific criteria.
 
 ### Molecular Response Milestones (International Scale)
 
-|Timepoint|Optimal Response|Warning Indicator|Failure Indicator|
-|:--|:--|:--|:--|
-|**3 Months**|BCR-ABL1 < 10%|N/A|BCR-ABL1 >= 10%|
-|**6 Months**|BCR-ABL1 < 1%|BCR-ABL1 1-10%|BCR-ABL1 >= 10%|
-|**12 Months**|BCR-ABL1 < 0.1%|BCR-ABL1 0.1-1%|BCR-ABL1 >= 1%|
-
-_Response criteria adapted from European LeukemiaNet guidelines_,.
-
+| Timepoint     | Optimal Response | Warning Indicator | Failure Indicator |
+| :------------ | :--------------- | :---------------- | :---------------- |
+| **3 Months**  | BCR-ABL1 < 10%   | BCR-ABL1 >= 10%   |                   |
+| **6 Months**  | BCR-ABL1 < 1%    | BCR-ABL1 1-10%    | BCR-ABL1 >= 10%   |
+| **12 Months** | BCR-ABL1 < 0.1%  | BCR-ABL1 0.1-1%   | BCR-ABL1 >= 1%    |
 ### TKI Resistance And Mutation Analysis
 
 - Suboptimal response mandates screening for specific kinase domain mutations.
 - Specific mutations dictate alternative TKI selection (e.g., F317L requires Nilotinib/Bosutinib; Y253H requires Dasatinib/Bosutinib).
-- **T315I Mutation:** Confers absolute resistance to all first- and standard second-generation TKIs. Mandates use of third-generation agent Ponatinib,.
+- **T315I Mutation:** Confers absolute resistance to all first- and standard second-generation TKIs. Mandates use of third-generation agent Ponatinib
 
 ## Hematopoietic Stem Cell Transplantation (HSCT)
 
-- Historically represented solely available curative modality prior to TKI advent,,.
-- Current utilization heavily restricted due to high efficacy of TKI therapy and significant early transplant-related morbidities,.
+- Historically represented solely available curative modality prior to TKI advent,
+- Current utilization heavily restricted due to high efficacy of TKI therapy and significant early transplant-related morbidities
 
 ### Established Indications For HSCT
 

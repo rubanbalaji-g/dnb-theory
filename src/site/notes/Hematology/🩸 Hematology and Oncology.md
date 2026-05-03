@@ -44,7 +44,6 @@
 2. [[Hematology/Methemoglobinemia\|Methemoglobinemia]]
 3. [[Hematology/Autoimmune Hemolytic Anemia\|Autoimmune Hemolytic Anemia]]
 4. [[Hematology/Aplastic Anemia\|Aplastic Anemia]]
-5. 
 ## Blood Transfusion
 1. [[Hematology/Indications for blood component transfusion\|Indications for blood component transfusion]]
 2. [[Hematology/Collection And Storage Of Blood Components\|Collection And Storage Of Blood Components]]

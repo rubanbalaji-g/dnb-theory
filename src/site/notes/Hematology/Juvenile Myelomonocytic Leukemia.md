@@ -28,12 +28,12 @@
 - Normal karyotype present in 65% of patients.
 - Monosomy 7 constitutes most frequent cytogenetic abnormality (25%).
 
-|Genetic Alteration|Frequency|Clinical Association And Nuances|
-|:--|:--|:--|
-|**PTPN11 Mutation**|35%|Somatic mutations encode strong gain-of-function. Associated with adverse prognosis. Germline mutation causes Noonan syndrome (features transient myeloproliferation that self-resolves).|
-|**NRAS / KRAS Mutation**|25%|Somatic mutations. Rare germline variants may show spontaneous improvement.|
-|**NF-1 Mutation**|10-15%|Clinical neurofibromatosis type 1 confers 200-500 fold increased risk of disease development.|
-|**CBL Mutation**|15%|Associated with spontaneous resolution of leukemic phenotype. High risk of severe vasculopathy in second decade of life.|
+| Genetic Alteration       | Frequency | Clinical Association And Nuances                                                                                                                                                          |
+| :----------------------- | :-------- | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **PTPN11 Mutation**      | 35%       | Somatic mutations encode strong gain-of-function. Associated with adverse prognosis. Germline mutation causes Noonan syndrome (features transient myeloproliferation that self-resolves). |
+| **NRAS / KRAS Mutation** | 25%       | Somatic mutations. Rare germline variants may show spontaneous improvement.                                                                                                               |
+| **NF-1 Mutation**        | 10-15%    | Clinical neurofibromatosis type 1 confers 200-500 fold increased risk of disease development.                                                                                             |
+| **CBL Mutation**         | 15%       | Associated with spontaneous resolution of leukemic phenotype. High risk of severe vasculopathy in second decade of life.                                                                  |
 
 ## Clinical Manifestations
 
@@ -54,15 +54,18 @@
 - **Bone Marrow:** Increased cellularity. Granulocytic and monocytic hyperproliferation.
 - **Blast Percentage:** Less than 20% blasts in blood and bone marrow.
 
-### Standardized Diagnostic Criteria
+### Standardized Diagnostic Criteria (LeukemiaNet)
 
-Requires fulfillment of specific category combinations (Category 1 + Category 2 OR Category 1 + 2 of Category 3).
+Requires fulfillment of specific category combinations 
+All of Category 1 + 1 of Category 2 
+OR 
+All of Category 1 + 2 of Category 3).
 
-|Criteria Category|Required Diagnostic Parameters|
-|:--|:--|
-|**Category 1 (Mandatory)**|- Blood monocyte count > 1 x 10^9/L.- Blasts in blood and marrow < 20%.- Splenomegaly.- Absence of t(9;22) BCR/ABL fusion.|
-|**Category 2 (Molecular)**|- Somatic mutation in PTPN11, KRAS, or NRAS.- Clinical NF-1 or germline NF1 mutation.- Germline CBL mutation with loss of heterozygosity.|
-|**Category 3 (Supportive)**|- Monosomy 7 or other clonal abnormality.- Increased HbF for age.- Circulating myeloid precursors on smear.- GM-CSF hypersensitivity in colony assay.- Hyperphosphorylation of STAT5.|
+| Criteria Category           | Required Diagnostic Parameters                                                                                                                                                                        |
+| :-------------------------- | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Category 1 (Mandatory)**  | - Blood monocyte count > 1 x 10^9/L.<br>- Blasts in blood and marrow < 20%.<br>- Splenomegaly.<br>- Absence of t(9;22) BCR/ABL fusion.                                                                |
+| **Category 2 (Molecular)**  | - Somatic mutation in PTPN11, KRAS, or NRAS.<br>- Clinical NF-1 or germline NF1 mutation.<br>- Germline CBL mutation with loss of heterozygosity.                                                     |
+| **Category 3 (Supportive)** | - Monosomy 7 or other clonal abnormality.<br>- Increased HbF for age.<br>- Circulating myeloid precursors on smear.<br>- GM-CSF hypersensitivity in colony assay.<br>- Hyperphosphorylation of STAT5. |
 
 ## Differential Diagnosis
 
