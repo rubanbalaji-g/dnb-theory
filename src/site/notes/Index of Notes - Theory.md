@@ -93,7 +93,7 @@ Organ-system–based approach to pediatric diseases.
 
 > [!yellow] ⭕Miscellaneous  
 > Practical pediatrics, frequently overlooked topics, and exam-oriented pearls.  
-> [[Misc/⭕ Miscellaneous and Practical topics\|View Notes →]]
+> [[Misc/⭕ Miscellaneous Topics\|View Notes →]]
 
 > [!yellow] 🚸Social Pediatrics  
 > Child protection, preventive pediatrics, national programs, and community health.  
