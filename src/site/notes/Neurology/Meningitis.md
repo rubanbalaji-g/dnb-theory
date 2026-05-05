@@ -2,8 +2,6 @@
 {"dg-publish":true,"uplink":"/neurology/neurology/","uptext":"Back to Index (Neurology)","permalink":"/neurology/meningitis/","dgPassFrontmatter":true}
 ---
 
-# MENINGITIS IN CHILDREN
-
 ## 1. Introduction and Definition
 * **Definition:** Meningitis is the inflammation of the leptomeninges (pia and arachnoid mater) with variable involvement of the encephalon.
 * Classification:** Acute meningitis is classified by etiology into bacterial (pyogenic), viral (aseptic), fungal, or parasitic. Bacterial meningitis is a medical emergency with high mortality if untreated.
@@ -47,7 +45,7 @@ The bacteria typically colonize the nasopharynx and invade the bloodstream.
 Presentation depends on the age of the child and duration of illness.
 
 ### A. Symptoms 
-* **Constitutional:** High-grade fever ($\ge$80%), lethargy, irritability, anorexia.
+* **Constitutional:** High-grade fever ($\ge$ 80%), lethargy, irritability, anorexia.
 * **Raised ICP:** Headache (worse in mornings), vomiting (projectile), bulging fontanelle (in infants).
 * **Neurological:** Seizures (1/3rd of patients), altered sensorium (drowsy, stupor, coma), photophobia.
 
@@ -144,7 +142,6 @@ Start immediately after samples are drawn.
 * **H. influenzae:** Rifampicin (20 mg/kg/day OD for 4 days).
 
 ## 9. Addendum: Tuberculous Meningitis (Chronic Meningitis)
-*Essential for a comprehensive note in developing countries.*
 
 * **Definition:** Chronic meningitis (>4 weeks duration) caused by *Mycobacterium tuberculosis*.
 * **Clinical Stages:** 

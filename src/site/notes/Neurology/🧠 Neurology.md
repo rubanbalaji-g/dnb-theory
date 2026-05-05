@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/neurology/neurology/","hide":true,"noteIcon":"","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/neurology/neurology/","hide":false,"noteIcon":"","dgPassFrontmatter":true}
 ---
 
 ## Basics
