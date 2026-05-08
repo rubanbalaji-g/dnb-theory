@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"uplink":"/misc/miscellaneous-and-practical-topics/","uptext":"Back to Index (⭕ Misc)","permalink":"/misc/congenital-squint-infantile-strabismus/","dgPassFrontmatter":true}
+{"dg-publish":true,"uplink":"/misc/miscellaneous-topics/","uptext":"Back to Index (⭕ Misc)","permalink":"/misc/congenital-squint-infantile-strabismus/","dgPassFrontmatter":true}
 ---
 
 ## Definition And Pathophysiology

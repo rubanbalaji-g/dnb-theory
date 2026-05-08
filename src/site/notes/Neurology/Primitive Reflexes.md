@@ -40,7 +40,9 @@
 
 - **Elicitation Method 1:** Support infant in semierect position. Allow head to fall backward onto examiner's hand.
 - **Elicitation Method 2:** Support head in midline with one hand, back with the other. Raise infant to 45°. Let head fall through 10°. Repeat three times.
-- **Normal Response:** Symmetric extension and abduction of fingers and upper extremities. Followed by flexion of upper extremities and an audible cry.
+- **Normal Response:**
+	- **Phase 1 (Abduction and Extension):** The infant abruptly abducts and extends the arms, spreading them outward. The hands open, and the fingers flare, typically with the thumb and index finger forming a distinct "C" shape.
+	- **Phase 2 (Adduction and Flexion):** The infant then brings the arms back toward the midline in a smooth, clasping, or embracing motion, often flexing the arms over the chest.
 - **Clinical Nuances:**
     - **Absent in term newborn:** Ominous sign. Suggests significant diffuse CNS dysfunction.
     - **Asymmetric response:** Indicates local pathology. Fractured clavicle, brachial plexus injury, or hemiparesis.

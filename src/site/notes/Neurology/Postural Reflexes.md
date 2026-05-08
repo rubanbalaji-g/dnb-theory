@@ -15,11 +15,11 @@
 
 Broadly classified into three groups based on function and chronological appearance.
 
-|Reflex Type|Function|Appearance|Clinical Significance|
-|:--|:--|:--|:--|
-|**Righting Reflexes**|Orient head in space; align body with head|Birth – 6 months|Pre-requisite for head control and rolling.|
-|**Protective (Propping)**|Protect body from injury during falls|6 – 9 months|Essential for independent sitting.|
-|**Equilibrium Reactions**|Maintain balance when center of gravity shifts|6 months onwards|Essential for standing and walking.|
+| Reflex Type               | Function                                       | Appearance       | Clinical Significance                       |
+| :------------------------ | :--------------------------------------------- | :--------------- | :------------------------------------------ |
+| **Righting Reflexes**     | Orient head in space; align body with head     | Birth – 6 months | Pre-requisite for head control and rolling. |
+| **Protective (Propping)** | Protect body from injury during falls          | 6 – 9 months     | Essential for independent sitting.          |
+| **Equilibrium Reactions** | Maintain balance when center of gravity shifts | 6 months onwards | Essential for standing and walking.         |
 
 ## Foundational Assessment: Postural Tone
 

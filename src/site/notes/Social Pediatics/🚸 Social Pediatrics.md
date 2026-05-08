@@ -1,6 +1,72 @@
 ---
-{"dg-publish":true,"dg-hide":true,"permalink":"/social-pediatics/social-pediatrics/","hide":true,"dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/social-pediatics/social-pediatrics/","dgPassFrontmatter":true}
 ---
 
-1. [[Social Pediatics/SAANS Campaign\|SAANS Campaign]]
-2. 
+
+## Neonatal and Child Health Programs
+* [[Social Pediatics/India Newborn Action Plan (INAP) 2030\|India Newborn Action Plan (INAP) 2030]]
+* [[Social Pediatics/Facility Based Newborn Care (FBNC)\|Facility Based Newborn Care (FBNC)]]
+* [[Social Pediatics/Home-Based Newborn Care (HBNC)\|Home-Based Newborn Care (HBNC)]]
+* [[Social Pediatics/Navjaat Shishu Suraksha Karyakram (NSSK)\|Navjaat Shishu Suraksha Karyakram (NSSK)]]
+* [[Social Pediatics/Home-Based Care For Young Child (HBYC)\|Home-Based Care For Young Child (HBYC)]]
+* [[Social Pediatics/Integrated Management Of Neonatal And Childhood Illness (IMNCI)\|Integrated Management Of Neonatal And Childhood Illness (IMNCI)]]
+* [[Social Pediatics/Rashtriya Bal Swasthya Karyakram (RBSK)\|Rashtriya Bal Swasthya Karyakram (RBSK)]]
+* [[Social Pediatics/District Early Intervention Centre (DEIC)\|District Early Intervention Centre (DEIC)]]
+* [[Social Pediatics/Mission NEEV (Neonatal Early Evaluation Vision)\|Mission NEEV (Neonatal Early Evaluation Vision)]]
+* [[Social Pediatics/SAANS Campaign\|SAANS Campaign]]
+## Nutrition and Feeding Strategies
+* [[Social Pediatics/Infant And Young Child Feeding (IYCF) Strategy\|Infant And Young Child Feeding (IYCF) Strategy]]
+* [[Social Pediatics/Baby Friendly Hospital Initiative (BFHI)\|Baby Friendly Hospital Initiative (BFHI)]]
+* [[Social Pediatics/Mothers' Absolute Affection (MAA) Programme\|Mothers' Absolute Affection (MAA) Programme]]
+* [[Social Pediatics/ICDS and Poshan Abhiyan 2.0\|ICDS and Poshan Abhiyan 2.0]]
+* [[Social Pediatics/Anemia Mukt Bharat (AMB)\|Anemia Mukt Bharat (AMB)]]
+* [[Social Pediatics/National Vitamin A Supplementation Programme (NVASP)\|National Vitamin A Supplementation Programme (NVASP)]]
+* [[Social Pediatics/National Iodine Deficiency Disorders Control Programme (NIDDCP)\|National Iodine Deficiency Disorders Control Programme (NIDDCP)]]
+* [[Social Pediatics/Nutritional Rehabilitation Centre (NRC)\|Nutritional Rehabilitation Centre (NRC)]]
+* [[Social Pediatics/National Deworming Day (NDD)\|National Deworming Day (NDD)]]
+## Immunization and Disease Surveillance
+* [[Social Pediatics/Mission Indradhanush (MI)\|Mission Indradhanush (MI)]]
+* [[Social Pediatics/Pulse Polio Immunization Program\|Pulse Polio Immunization Program]]
+* [[Social Pediatics/Measles-Rubella (MR) Vaccination Campaign\|Measles-Rubella (MR) Vaccination Campaign]]
+* [[Social Pediatics/Acute Flaccid Paralysis (AFP) Surveillance\|Acute Flaccid Paralysis (AFP) Surveillance]]
+* [[Social Pediatics/Measles Surveillance\|Measles Surveillance]]
+* [[Social Pediatics/Malaria Surveillance\|Malaria Surveillance]]
+* [[Social Pediatics/National Tuberculosis Elimination Programme (NTEP)\|National Tuberculosis Elimination Programme (NTEP)]]
+* [[Social Pediatics/Safe Injection Practices\|Safe Injection Practices]]
+## Social Welfare, Rights, and Legal Frameworks
+* [[Social Pediatics/Child Rights and UNCRC\|Child Rights and UNCRC]]
+* [[Social Pediatics/National Policy For Children\|National Policy For Children]]
+* [[Social Pediatics/POCSO Act - A Pediatrician's Perspective and Role\|POCSO Act - A Pediatrician's Perspective and Role]]
+* [[Social Pediatics/Juvenile Justice Act\|Juvenile Justice Act]]
+* [[Social Pediatics/CARA Guidelines for Adoption\|CARA Guidelines for Adoption]]
+* [[Social Pediatics/Pre-Conception and Pre-Natal Diagnostic Techniques (PCPNDT) Act\|Pre-Conception and Pre-Natal Diagnostic Techniques (PCPNDT) Act]]
+* [[Social Pediatics/Beti Bachao Beti Padho (BBBP)\|Beti Bachao Beti Padho (BBBP)]]
+* [[Social Pediatics/Child Labour – Issues and Pediatrician’s Role\|Child Labour – Issues and Pediatrician’s Role]]
+* [[Social Pediatics/Orphaned Child - Social, Clinical, And Legal Perspectives\|Orphaned Child - Social, Clinical, And Legal Perspectives]]
+## Maternal, Adolescent, and School Health
+* [[Social Pediatics/National Health Mission And RMNCH+A\|National Health Mission And RMNCH+A]]
+* [[Social Pediatics/Rashtriya Kishor Swasthya Karyakram (RKSK)\|Rashtriya Kishor Swasthya Karyakram (RKSK)]]
+* [[Social Pediatics/School Health Services In India\|School Health Services In India]]
+* [[Social Pediatics/Janani Shishu Suraksha Karyakram (JSSK)\|Janani Shishu Suraksha Karyakram (JSSK)]]
+* [[Social Pediatics/Surakshit Matritva Aashwasan (SUMAN) Program\|Surakshit Matritva Aashwasan (SUMAN) Program]]
+* [[Social Pediatics/Mother and Child Protection (MCP) Card\|Mother and Child Protection (MCP) Card]]
+## Health Systems, Digital Health, and Quality
+* [[Social Pediatics/Ayushman Bharat Digital Mission (ABDM)\|Ayushman Bharat Digital Mission (ABDM)]]
+* [[Social Pediatics/U-WIN Portal\|U-WIN Portal]]
+* [[Social Pediatics/Telemedicine In Pediatrics\|Telemedicine In Pediatrics]]
+* [[Social Pediatics/LAQSHYA Program\|LAQSHYA Program]]
+* [[Social Pediatics/MusQan Initiative\|MusQan Initiative]]
+* [[Social Pediatics/Quality Improvement Initiatives In Healthcare\|Quality Improvement Initiatives In Healthcare]]
+* [[Social Pediatics/Properties Of Robust Quality Measures\|Properties Of Robust Quality Measures]]
+* [[Social Pediatics/First Referral Unit (FRU)\|First Referral Unit (FRU)]]
+* [[Social Pediatics/Biomedical Waste Management (BMW)\|Biomedical Waste Management (BMW)]]
+* [[Social Pediatics/Role Of ASHA Worker In Neonatal And Child Health\|Role Of ASHA Worker In Neonatal And Child Health]]
+## Environment and Epidemiology
+* [[Social Pediatics/Sustainable Development Goals (SDGs) And Child Health\|Sustainable Development Goals (SDGs) And Child Health]]
+* [[Social Pediatics/Infant Mortality Rate (IMR) and Causes of Infant Mortality\|Infant Mortality Rate (IMR) and Causes of Infant Mortality]]
+* [[Social Pediatics/Under-5 Mortality Rate (U5MR) and Causes\|Under-5 Mortality Rate (U5MR) and Causes]]
+* [[Social Pediatics/Social Determinants of Health (SDOH) and Three Delays Model\|Social Determinants of Health (SDOH) and Three Delays Model]]
+* [[Social Pediatics/Impact Of Climate Change And Air Pollution On Child Health\|Impact Of Climate Change And Air Pollution On Child Health]]
+* [[Social Pediatics/Swachh Bharat Abhiyan and WASH Interventions\|Swachh Bharat Abhiyan and WASH Interventions]]
+* [[Social Pediatics/Prevention of Childhood Blindness and Disability\|Prevention of Childhood Blindness and Disability]]
+* [[Social Pediatics/Media And Its Effects On Children\|Media And Its Effects On Children]]

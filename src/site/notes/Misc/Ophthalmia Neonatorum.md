@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"uplink":"/misc/miscellaneous-and-practical-topics/","uptext":"Back to Index (⭕ Misc)","permalink":"/misc/ophthalmia-neonatorum/","dgPassFrontmatter":true}
+{"dg-publish":true,"uplink":"/misc/miscellaneous-topics/","uptext":"Back to Index (⭕ Misc)","permalink":"/misc/ophthalmia-neonatorum/","dgPassFrontmatter":true}
 ---
 
 ## Definition And Epidemiology
