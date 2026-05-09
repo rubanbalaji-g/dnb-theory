@@ -7,11 +7,6 @@ module.exports = {
   graph: async (data) => {
     return { nodes: {}, homeAlias: "/" };
   },
-  filetree: async (data) => {
-    if (!global.fileTreeCache) {
-      global.fileTreeCache = await getFileTree(data);
-    }
-    return global.fileTreeCache;
-  },
+  filetree: async (data) => await getFileTree(data),
   userComputed: async (data) => await userComputed(data)
 };
