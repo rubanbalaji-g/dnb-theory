@@ -7,6 +7,7 @@ on:
 
 env:
   FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
+  NODE_OPTIONS: "--max-old-space-size=6144" # Maximizes Node.js memory allowance
 
 jobs:
   deploy:
@@ -20,13 +21,24 @@ jobs:
         with:
           node-version: 22
 
+      # --- ADDED CACHE STEP ---
+      - name: Cache Node Modules and Build Folders
+        uses: actions/cache@v4
+        with:
+          path: |
+            ~/.npm
+            .cache
+            dist
+          key: ${{ runner.os }}-node-build-${{ hashFiles('**/package-lock.json') }}
+          restore-keys: |
+            ${{ runner.os }}-node-build-
+      # ------------------------
+
       - name: Install dependencies
         run: npm install
 
-      # --- ADD THIS NEW STEP ---
       - name: Clean dist folder
         run: rm -rf dist
-      # -------------------------
 
       - name: Build site
         run: npm run build 
