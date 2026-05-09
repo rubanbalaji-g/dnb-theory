@@ -27,8 +27,8 @@
 
 ### Maximum Age Limits
 
-- Maximum age for initiating the first dose is 14 weeks and 6 days.
-- Vaccination should not be initiated for infants aged 15 weeks or older.
+- Ideal maximum age for initiating the first dose is 14 weeks and 6 days.
+- Vaccination should not be initiated ideally for infants aged 15 weeks or older.
 - All doses must be completed by 32 weeks or 8 months of age.
 - Strict upper age limit maintained to prevent risk of intussusception.
 
@@ -44,7 +44,7 @@
 - No restriction on feeding or breast milk before or after vaccination.
 - Readministration not required if infant spits or regurgitates the vaccine.
 - Interchange between vaccine brands should be avoided.
-- Storage recommended at 2 to 8 degrees celsius, without freezing.
+- Storage recommended at 2 to 8 degrees Celsius, without freezing.
 
 ## Efficacy And Effectiveness
 

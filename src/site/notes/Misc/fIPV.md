@@ -12,9 +12,9 @@
 
 ### Rationale
 
-- Dose-sparing strategy conserves limited global vaccine supply,.
+- Dose-sparing strategy conserves limited global vaccine supply.
 - Method reduces overall vaccination costs significantly.
-- Two fractional doses provide superior immunogenicity compared to single full dose,.
+- Two fractional doses provide superior immunogenicity compared to single full dose.
 - Immunological response matches two full intramuscular doses effectively.
 
 ## Immunization Schedule
@@ -43,7 +43,7 @@
 
 ### Immunological Impact
 
-- Induces robust systemic immunity against all three poliovirus types,.
+- Induces robust systemic immunity against all three poliovirus types.
 - Provides essential baseline immunity against vaccine-associated paralytic poliomyelitis.
 - Protects populations against circulating vaccine-derived polioviruses.
 - Mitigates critical immunity gaps following global cessation of type 2 oral poliovirus vaccine.
@@ -54,11 +54,11 @@
 ### Temperature Requirements
 
 - Maintain strict storage between 2°C and 8°C.
-- Freezing damages vaccine formulation and diminishes potency,.
+- Freezing damages vaccine formulation and diminishes potency.
 
 ### Monitoring
 
 - Highly sensitive to light and heat exposure.
-- Vaccine vial monitors provide visual indications of cumulative heat damage,.
+- Vaccine vial monitors provide visual indications of cumulative heat damage.
 - Monitor inner square color against outer circle to determine usability.
 - Discard vaccine if inner square color matches or exceeds outer circle darkness.

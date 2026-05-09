@@ -4,7 +4,7 @@
 
 ## Definition
 
-- System transporting and storing vaccines within recommended temperature range.
+- System of transporting and storing vaccines within recommended temperature range.
 - Extends from place of manufacture to point of administration.
 - Ensures vaccine potency and safety.
 

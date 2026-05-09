@@ -5,7 +5,7 @@
 ## Definition
 
 - Any untoward medical occurrence following immunization.
-- Lacks necessary causal relationship with vaccine usage.
+- Does not necessarily need causal relationship with vaccine usage.
 - Manifests as unfavorable or unintended sign, symptom, disease, or abnormal laboratory finding.
 
 ## Classification Based On Cause

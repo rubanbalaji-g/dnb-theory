@@ -5,47 +5,47 @@
 ## Definition And Composition
 
 - Active substance comprises viral surface protein hepatitis B surface antigen.
-- Produced via recombinant DNA technology in yeast,.
-- Adsorbed onto aluminum salts serving as adjuvant,.
-- Available in monovalent formulation or combined in pentavalent and hexavalent vaccines,,.
+- Produced via recombinant DNA technology in yeast.
+- Adsorbed onto aluminum salts serving as adjuvant.
+- Available in monovalent formulation or combined in pentavalent and hexavalent vaccines.
 
 ## Dosage And Administration Details
 
 |Parameter|Specification|
 |:--|:--|
-|Dose|0.5 mL (10 µg) for individuals under 18 years; 1.0 mL (20 µg) for adults,.|
-|Route|Intramuscular injection,.|
-|Site|Anterolateral thigh in infants and children under 3 years; deltoid in older children and adults,.|
-|Storage|2-8 degrees Celsius; freezing destroys vaccine potency,.|
+|Dose|0.5 mL (10 µg) for individuals under 18 years; 1.0 mL (20 µg) for adults.|
+|Route|Intramuscular injection.|
+|Site|Anterolateral thigh in infants and children under 3 years; deltoid in older children and adults.|
+|Storage|2-8 degrees Celsius; freezing destroys vaccine potency.|
 
-- Avoid gluteal region to prevent low immunogenicity and inadequate response,.
+- Avoid gluteal region to prevent low immunogenicity and inadequate response.
 
 ## Immunization Schedule
 
-- Universal Immunization Program recommends zero dose at birth followed by primary doses at 6, 10, and 14 weeks,.
-- Birth dose ideally administered within 24 hours to effectively prevent perinatal and horizontal transmission,,.
-- Catch-up schedule requires three doses administered at 0, 1, and 6 months,.
+- Universal Immunization Program recommends zero dose at birth followed by primary doses at 6, 10, and 14 weeks.
+- Birth dose ideally administered within 24 hours to effectively prevent perinatal and horizontal transmission.
+- Catch-up schedule requires three doses administered at 0, 1, and 6 months.
 
 ## Efficacy And Protection
 
-- Protective antibody concentration established at >10 mIU/mL,.
+- Protective antibody concentration established at >10 mIU/mL.
 - Elicits long-term immunity exceeding 22 years.
-- Routine booster doses remain unnecessary for healthy individuals due to robust immune memory,.
+- Routine booster doses remain unnecessary for healthy individuals due to robust immune memory.
 - Booster vaccination indicated if antibody titers drop below 10 mIU/mL in hemodialysis or immunocompromised patients.
 
 ## Management In Special Situations
 
 ### Mother Hepatitis B Surface Antigen Positive
 
-- Administer Hepatitis B vaccine and Hepatitis B immunoglobulin within 12 hours of birth,.
-- Administer products at separate anatomical injection sites,.
+- Administer Hepatitis B vaccine and Hepatitis B immunoglobulin within 12 hours of birth.
+- Administer products at separate anatomical injection sites.
 - Follow with three additional vaccine doses at 6, 10, and 14 weeks.
 - Perform post-vaccination serology testing at 9-12 months of age to confirm immunity.
 
 ### Preterm And Low Birth Weight Infants (<2000 Grams)
 
-- Mother antigen negative: Administer birth dose, but exclude from primary series count; administer three regular doses according to national schedule,.
-- Mother antigen positive or unknown: Administer vaccine and immunoglobulin within 12 hours of birth,.
+- Mother antigen negative: Administer birth dose, but exclude from primary series count; administer three regular doses according to national schedule.
+- Mother antigen positive or unknown: Administer vaccine and immunoglobulin within 12 hours of birth.
 
 ## Nonresponders
 
@@ -64,47 +64,7 @@
 
 ## Adverse Events And Contraindications
 
-- Minor adverse reactions include local soreness, fever, and fatigue,.
-- Absolute contraindication involves severe allergic reaction or anaphylaxis to previous dose or yeast component,.
-- Pregnancy and lactation represent safe periods for administration and are not contraindications.## Vaccine Composition
+- Minor adverse reactions include local soreness, fever, and fatigue.
+- Absolute contraindication involves severe allergic reaction or anaphylaxis to previous dose or yeast component.
+- Pregnancy and lactation represent safe periods for administration and are not contraindications.
 
-- Contains viral surface protein produced by recombinant technology in yeast,.
-- Adsorbed on aluminum salt as adjuvant.
-- Available as monovalent vaccine or combination formulation with diphtheria, tetanus, pertussis, Haemophilus influenzae type b, and inactivated polio vaccine,.
-
-## Administration And Storage Parameters
-
-|Parameter|Details|
-|:--|:--|
-|Dose|0.5 milliliter (10 microgram) for children; 1 milliliter (20 microgram) for adults,.|
-|Route|Intramuscular.|
-|Site|Anterolateral thigh for children below 3 years; deltoid for children above 3 years.|
-|Storage|Maintain between 2 and 8 degrees Celsius; discard if frozen.|
-|Contraindication|Avoid gluteal region due to low immunogenicity and risk of sciatic nerve injury,. Severe allergic reaction to prior dose.|
-
-## Immunization Schedule
-
-- National program recommends zero dose at birth followed by three doses at 6, 10, and 14 weeks,.
-- Indian Academy of Pediatrics accepts three doses at 0, 1, and 6 months for optimum immunological efficacy,.
-- Catch up schedule utilizes three doses at 0, 1, and 6 months,.
-- Minimum interval of 4 weeks required between doses.
-
-## Special Clinical Scenarios
-
-### Maternal Hepatitis B Positive Status
-
-- Administer Hepatitis B immunoglobulin and vaccine within 12 hours of birth.
-- Use separate syringes and different anatomical sites.
-- Administer three additional vaccine doses at 6, 10, and 14 weeks.
-
-### Preterm Infants Weighing Below 2000 Grams
-
-- Administer birth dose but do not count towards primary series.
-- Follow with three standard primary doses at 6, 10, and 14 weeks.
-- Test for surface antigen and antibody 1 to 2 months after completion of series.
-
-## Efficacy And Protection
-
-- Protective threshold defined as antibody concentration exceeding 10 international milliunits per milliliter,.
-- Induces long-term memory T-cells eliminating need for routine boosters in healthy children,.
-- Adverse events include mild injection site pain, erythema, and transient fever.

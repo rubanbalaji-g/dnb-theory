@@ -27,11 +27,11 @@
 
 ### Exceptions To Co-Administration Rules
 
-|Vaccine Combination|Specific Administration Rule|
-|:--|:--|
-|Pneumococcal conjugate and pneumococcal polysaccharide|Conjugate vaccine must precede polysaccharide vaccine by a minimum of eight weeks to improve immunogenicity.|
-|Pneumococcal conjugate and meningococcal conjugate (Menactra)|Conjugate vaccine must precede meningococcal vaccine by a minimum of four weeks in patients with functional or anatomic asplenia, or human immunodeficiency virus.|
-|Varicella and smallpox|Separate administration strictly required.|
+| Vaccine Combination                                           | Specific Administration Rule                                                                                                                                                    |
+| :------------------------------------------------------------ | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| Pneumococcal conjugate and pneumococcal polysaccharide        | Conjugate vaccine must precede polysaccharide vaccine by a minimum of eight weeks to improve immunogenicity.                                                                    |
+| Pneumococcal conjugate and meningococcal conjugate (Menactra) | Pneumococcal Conjugate vaccine must precede meningococcal vaccine by a minimum of four weeks in patients with functional or anatomic asplenia, or human immunodeficiency virus. |
+| Varicella and smallpox                                        | Separate administration strictly required.                                                                                                                                      |
 
 ### Site Selection And Administration Technique
 
@@ -50,7 +50,7 @@
 
 ### General Concepts
 
-- Define interchangeability as administering similar vaccines from different manufacturers to the same individual over time.
+- Vaccine interchangeability is defined as administering similar vaccines from different manufacturers to the same individual over time.
 - Necessitated by vaccine shortages, contraindications to specific products, changes in product availability, or migration across different jurisdictions.
 - Maintain the identical manufacturer's product for all doses within a primary vaccine series whenever feasible.
 - Substitute with a different brand rather than deferring routine immunization if the original product remains unknown or unavailable.

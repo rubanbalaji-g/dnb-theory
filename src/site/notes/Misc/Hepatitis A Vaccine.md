@@ -4,7 +4,7 @@
 
 ## Epidemiology And Rationale
 
-- Hepatitis a virus causes benign, asymptomatic infection in young children.
+- Hepatitis A virus causes benign, asymptomatic infection in young children.
 - Disease severity and mortality increase significantly in adolescents and adults.
 - Shifting endemicity in India leaves older populations susceptible, contributing to recurring outbreaks and fulminant hepatic failure.
 
