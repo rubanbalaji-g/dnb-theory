@@ -12,7 +12,7 @@
 - Ensure evidence-based, respectful and dignified care with child- and parent-attendant friendly ambience
 - Strengthen clinical protocols, referral linkages and follow-up services
 - Promote physical, mental and social development of the child
-- Achieve measurable improvement in quality of paediatric services at all levels
+- Achieve measurable improvement in quality of pediatric services at all levels
 - Support Universal Health Coverage by closing gaps in access, safety and quality
 
 ## Target Population & Facilities

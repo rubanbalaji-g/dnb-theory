@@ -10,15 +10,15 @@ The Accredited Social Health Activist (ASHA) is a trained female community healt
 ### Home-Based Newborn Care (HBNC)
 The HBNC scheme is the cornerstone of an ASHA's neonatal responsibilities, aimed at reducing the Neonatal Mortality Rate (NMR) through protocol-based home visits.
 * Visit Schedule: 
-  * Institutional Delivery: 6 visits on days 3, 7, 14, 21, 28, and 42.
-  * Home Delivery: 7 visits on days 1, 3, 7, 14, 21, 28, and 42.
+	* Institutional Delivery: 6 visits on days 3, 7, 14, 21, 28, and 42.
+	* Home Delivery: 7 visits on days 1, 3, 7, 14, 21, 28, and 42.
 * Core Activities During HBNC:
-  * Anthropometry: Recording birth weight and monitoring weight gain.
-  * Temperature Regulation: Measuring temperature, demonstrating skin-to-skin contact, and promoting Kangaroo Mother Care (KMC) for low birth weight (LBW) and preterm babies.
-  * Feeding Support: Counseling on early initiation of breastfeeding, exclusive breastfeeding (EBF), and identifying attachment/positioning issues.
-  * Essential Newborn Care: Examining the umbilical cord (preventing harmful applications), skin care, and eye care.
-  * Danger Sign Identification: Active screening for lethargy, poor suck, fast breathing (>60/min), severe chest indrawing, hypothermia (<36.5 C), or fever (>37.5 C).
-  * Referral: Facilitating immediate referral of sick neonates to the nearest Special Newborn Care Unit (SNCU) or First Referral Unit (FRU).
+	* Anthropometry: Recording birth weight and monitoring weight gain.
+	* Temperature Regulation: Measuring temperature, demonstrating skin-to-skin contact, and promoting Kangaroo Mother Care (KMC) for low birth weight (LBW) and preterm babies.
+	* Feeding Support: Counseling on early initiation of breastfeeding, exclusive breastfeeding (EBF), and identifying attachment/positioning issues.
+	* Essential Newborn Care: Examining the umbilical cord (preventing harmful applications), skin care, and eye care.
+	* Danger Sign Identification: Active screening for lethargy, poor suck, fast breathing (>60/min), severe chest indrawing, hypothermia (<36.5 C), or fever (>37.5 C).
+	* Referral: Facilitating immediate referral of sick neonates to the nearest Special Newborn Care Unit (SNCU) or First Referral Unit (FRU).
 
 ### Prevention Of Vertical Transmission And Birth Preparedness
 * Tracking pregnant women, ensuring Institutional Deliveries under Janani Suraksha Yojana (JSY) and Janani Shishu Suraksha Karyakram (JSSK) to ensure clean and safe delivery practices.

@@ -36,18 +36,18 @@
 ## Peer Education Model (Saathiya Programme) – Core Community Component
 - Based on principle that adolescents are more receptive to messages from trained peers
 - Selection: 4 Peer Educators (Saathiyas) per village/1000 population/ASHA habitation (2 boys + 2 girls)
-  - One male & one female for in-school adolescents; one male & one female for out-of-school
-  - Age preferably 15–19 years; selected by ASHA in consultation with VHSNC on leadership qualities, communication skills and availability
+	- One male & one female for in-school adolescents; one male & one female for out-of-school
+	- Age preferably 15–19 years; selected by ASHA in consultation with VHSNC on leadership qualities, communication skills and availability
 - Training: 6-day residential/non-residential training by ANM/Medical Officer using standardized Training Manual for Peer Educators (14 sessions covering 6 themes + life skills); provided with Peer Educator Kit (activity book, FAQ booklet, badge, T-shirt)
 - Roles & Responsibilities:
-  - Form peer groups of 15–20 same-gender adolescents (separate for boys/girls)
-  - Conduct weekly interactive 1–2 hour participatory sessions on all 6 priority areas using life-skills approach
-  - Facilitate behavior change communication, address myths/misconceptions, promote healthy practices
-  - Mobilize adolescents for quarterly Adolescent Health Days (AHD)
-  - Refer adolescents to AFHCs for counseling/services and ensure follow-up
-  - Participate in monthly Adolescent Friendly Club meetings organized by ANM
-  - Maintain monthly report and submit to ASHA
-- Benefits: Cost-effective, high acceptance, builds leadership among peers, improves service utilization and reduces risky behaviours
+	- Form peer groups of 15–20 same-gender adolescents (separate for boys/girls)
+	- Conduct weekly interactive 1–2 hour participatory sessions on all 6 priority areas using life-skills approach
+	- Facilitate behavior change communication, address myths/misconceptions, promote healthy practices
+	- Mobilize adolescents for quarterly Adolescent Health Days (AHD)
+	- Refer adolescents to AFHCs for counseling/services and ensure follow-up
+	- Participate in monthly Adolescent Friendly Club meetings organized by ANM
+	- Maintain monthly report and submit to ASHA
+	- Benefits: Cost-effective, high acceptance, builds leadership among peers, improves service utilization and reduces risky behaviours
 
 ## Adolescent Friendly Health Clinics (AFHCs)
 - Also called Utkarsh/Teen/Shraddha clinics

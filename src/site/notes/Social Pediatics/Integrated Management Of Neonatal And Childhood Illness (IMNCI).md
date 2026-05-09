@@ -3,25 +3,25 @@
 ---
 
 ## Introduction And Rationale
-*   **Definition:** IMNCI is an integrated approach to child health that focuses on the well-being of the whole child, rather than a single disease entity. It is a syndromic case management approach developed by WHO and UNICEF, designed to reduce death, illness, and disability, and to promote improved growth and development among children under five years of age.
-*   **Core Rationale:** In developing countries, the majority of childhood deaths are caused by five preventable/treatable conditions: acute respiratory infections (pneumonia), diarrhea, measles, malaria, and malnutrition. Children often present with overlapping signs and symptoms (e.g., a child with malaria and pneumonia simultaneously), making single-disease diagnosis difficult for frontline workers. IMNCI provides an evidence-based, syndromic triage system.
+- **Definition:** IMNCI is an integrated approach to child health that focuses on the well-being of the whole child, rather than a single disease entity. It is a syndromic case management approach developed by WHO and UNICEF, designed to reduce death, illness, and disability, and to promote improved growth and development among children under five years of age.
+- **Core Rationale:** In developing countries, the majority of childhood deaths are caused by five preventable/treatable conditions: acute respiratory infections (pneumonia), diarrhea, measles, malaria, and malnutrition. Children often present with overlapping signs and symptoms (e.g., a child with malaria and pneumonia simultaneously), making single-disease diagnosis difficult for frontline workers. IMNCI provides an evidence-based, syndromic triage system.
 
 ## Differences Between Generic WHO IMCI And Indian IMNCI
 The Government of India adapted the generic IMCI to suit the national epidemiological profile, creating IMNCI. Key Indian adaptations include:
-*   **Inclusion Of Early Neonatal Period:** Generic IMCI covers children 1 week to 5 years. Indian IMNCI covers infants from **0 days to 2 months** (Young Infant) and **2 months to 5 years** (Child). This was crucial because over 50% of infant mortality in India occurs in the neonatal period.
-*   **Addition Of Malaria And Anemia:** Aligned with the National Vector Borne Disease Control Programme (NVBDCP) guidelines.
-*   **Dengue Hemorrhagic Fever:** Added to the algorithm due to endemicity.
-*   **Malnutrition Assessment:** Integrated with the use of MUAC (Mid-Upper Arm Circumference) and WHO Z-score growth charts.
-*   **Management Of Young Infants:** Expanded to include comprehensive assessment of bacterial infections, jaundice, and breastfeeding counseling.
+- **Inclusion Of Early Neonatal Period:** Generic IMCI covers children 1 week to 5 years. Indian IMNCI covers infants from **0 days to 2 months** (Young Infant) and **2 months to 5 years** (Child). This was crucial because over 50% of infant mortality in India occurs in the neonatal period.
+- **Addition Of Malaria And Anemia:** Aligned with the National Vector Borne Disease Control Programme (NVBDCP) guidelines.
+- **Dengue Hemorrhagic Fever:** Added to the algorithm due to endemicity.
+- **Malnutrition Assessment:** Integrated with the use of MUAC (Mid-Upper Arm Circumference) and WHO Z-score growth charts.
+- **Management Of Young Infants:** Expanded to include comprehensive assessment of bacterial infections, jaundice, and breastfeeding counseling.
 
 ## The Case Management Process
 The IMNCI strategy utilizes a sequential, structured case management process for every sick child:
-1.  **Assess:** Take a history, check for danger signs, and perform a focused physical examination (Ask, Look, Listen, Feel).
-2.  **Classify:** Based on the presence or absence of specific signs, classify the illness into color-coded categories.
-3.  **Identify Treatment:** Determine the specific treatments needed for the classification.
-4.  **Treat:** Administer pre-referral drugs, perform procedures, or teach the mother how to give treatment at home.
-5.  **Counsel The Mother:** Provide advice on feeding, fluids, and when to return immediately.
-6.  **Follow-up:** Reassess the child at specified intervals.
+1. **Assess:** Take a history, check for danger signs, and perform a focused physical examination (Ask, Look, Listen, Feel).
+2. **Classify:** Based on the presence or absence of specific signs, classify the illness into color-coded categories.
+3. **Identify Treatment:** Determine the specific treatments needed for the classification.
+4. **Treat:** Administer pre-referral drugs, perform procedures, or teach the mother how to give treatment at home.
+5. **Counsel The Mother:** Provide advice on feeding, fluids, and when to return immediately.
+6. **Follow-up:** Reassess the child at specified intervals.
 
 ## Color Coding And Triage System
 IMNCI uses a universal three-tier color-coded triage system to guide immediate action.
@@ -59,11 +59,11 @@ The assessment of the young infant involves checking for Possible Severe Bacteri
 ### 3. Assess For Diarrhea In Young Infant
 **Signs to Assess:** Lethargy/unconsciousness, sunken eyes, skin pinch return time.
 
-| Signs Present | Classification | Action/Treatment |
-| :--- | :--- | :--- |
+| Signs Present                                                                           | Classification                                                            | Action/Treatment                                                                                                                             |
+| :-------------------------------------------------------------------------------------- | :------------------------------------------------------------------------ | :------------------------------------------------------------------------------------------------------------------------------------------- |
 | Two of: Lethargic/unconscious, Sunken eyes, Skin pinch goes back very slowly (>2 secs). | <span style="color: #ff1493; font-weight:bold;">SEVERE DEHYDRATION</span> | - If facility has IV capabilities, start IV fluids (Plan C).<br>- If not, refer URGENTLY with mother giving frequent sips of ORS on the way. |
-| Two of: Restless/irritable, Sunken eyes, Skin pinch goes back slowly. | <span style="color: #ffd700; font-weight:bold;">SOME DEHYDRATION</span> | - Treat with ORS (Plan B).<br>- Reassess after 4 hours.<br>- Advise to continue breastfeeding. |
-| Not enough signs to classify as some or severe. | <span style="color: #4CAF50; font-weight:bold;">NO DEHYDRATION</span> | - Give fluid and food to treat diarrhea at home (Plan A).<br>- Advise when to return. |
+| Two of: Restless/irritable, Sunken eyes, Skin pinch goes back slowly.                   | <span style="color: #ffd700; font-weight:bold;">SOME DEHYDRATION</span>   | - Treat with ORS (Plan B).<br>- Reassess after 4 hours.<br>- Advise to continue breastfeeding.                                               |
+| Not enough signs to classify as some or severe.                                         | <span style="color: #4CAF50; font-weight:bold;">NO DEHYDRATION</span>     | - Give fluid and food to treat diarrhea at home (Plan A).<br>- Advise when to return.                                                        |
 
 ### 4. Assess Feeding Problem Or Malnutrition
 **Signs to Assess:** Difficulty feeding, breastfed <8 times in 24 hours, receiving other foods/drinks, low weight for age, thrush (ulcers/white patches in mouth). Check attachment (chin touching breast, mouth wide open, lower lip turned outward, more areola visible above than below). Check suckling (slow, deep sucks with pauses).
@@ -79,16 +79,16 @@ The assessment of the young infant involves checking for Possible Severe Bacteri
 
 ### 1. Check For General Danger Signs
 Before assessing specific symptoms, ALWAYS check for General Danger Signs. The presence of ANY general danger sign automatically classifies the child into a <span style="color: #ff1493; font-weight:bold;">PINK (Urgent Referral)</span> category.
-*   **Lethargic or unconscious.**
-*   **Convulsions** (current or history during this illness).
-*   **Unable to drink or breastfeed.**
-*   **Vomits everything.**
+- **Lethargic or unconscious.**
+- **Convulsions** (current or history during this illness).
+- **Unable to drink or breastfeed.**
+- **Vomits everything.**
 
 ### 2. Assess Cough Or Difficult Breathing
 **Signs to Assess:** Count respiratory rate for one full minute. Look for chest indrawing. Listen for stridor or wheeze.
 **Fast Breathing Cut-offs:**
-*   2 months up to 12 months: **≥50 breaths per minute**.
-*   12 months up to 5 years: **≥40 breaths per minute**.
+- 2 months up to 12 months: **≥50 breaths per minute**.
+- 12 months up to 5 years: **≥40 breaths per minute**.
 
 | Signs Present | Classification | Action/Treatment |
 | :--- | :--- | :--- |
@@ -107,9 +107,9 @@ Before assessing specific symptoms, ALWAYS check for General Danger Signs. The p
 | Not enough signs for severe or some dehydration. | <span style="color: #4CAF50; font-weight:bold;">NO DEHYDRATION</span> | - Give extra fluid and food to treat diarrhea at home (Plan A).<br>- Give Zinc supplements for 14 days. |
 
 #### Persistent Diarrhea And Dysentery
-*   **Diarrhea lasting ≥ 14 days AND Dehydration present:** <span style="color: #ff1493; font-weight:bold;">SEVERE PERSISTENT DIARRHEA</span> (Refer Urgent).
-*   **Diarrhea lasting ≥ 14 days AND NO Dehydration:** <span style="color: #ffd700; font-weight:bold;">PERSISTENT DIARRHEA</span> (Advise on feeding, multivitamin, follow up 5 days).
-*   **Blood in stool:** <span style="color: #ffd700; font-weight:bold;">DYSENTERY</span> (Give oral Ciprofloxacin/appropriate antibiotic for Shigella for 3 days, follow up 2 days).
+- **Diarrhea lasting ≥ 14 days AND Dehydration present:** <span style="color: #ff1493; font-weight:bold;">SEVERE PERSISTENT DIARRHEA</span> (Refer Urgent).
+- **Diarrhea lasting ≥ 14 days AND NO Dehydration:** <span style="color: #ffd700; font-weight:bold;">PERSISTENT DIARRHEA</span> (Advise on feeding, multivitamin, follow up 5 days).
+- **Blood in stool:** <span style="color: #ffd700; font-weight:bold;">DYSENTERY</span> (Give oral Ciprofloxacin/appropriate antibiotic for Shigella for 3 days, follow up 2 days).
 
 ### 4. Assess Fever
 **Signs to Assess:** History of fever (or feels hot/temp >37.5°C), duration of fever, malaria risk in the area. Look for stiff neck. Look for signs of Measles (generalized rash AND one of: cough, runny nose, red eyes). Look for Dengue (bleeding from nose/gums, skin petechiae, positive tourniquet test).
@@ -122,13 +122,13 @@ Before assessing specific symptoms, ALWAYS check for General Danger Signs. The p
 | Negative Blood Smear/RDT OR Low Malaria Risk AND No runny nose/measles/other cause. | <span style="color: #ffd700; font-weight:bold;">FEVER - MALARIA UNLIKELY</span> | - Give Paracetamol for high fever.<br>- Advise when to return immediately.<br>- Follow up in 3 days if fever persists. |
 
 #### Measles Classification (If Rash Present)
-*   **Any general danger sign OR clouding of cornea OR deep/extensive mouth ulcers:** <span style="color: #ff1493; font-weight:bold;">SEVERE COMPLICATED MEASLES</span> (Give Vitamin A, first dose antibiotic, Apply Tetracycline eye ointment, **Refer URGENTLY**).
-*   **Pus draining from eye OR mouth ulcers:** <span style="color: #ffd700; font-weight:bold;">MEASLES WITH EYE OR MOUTH COMPLICATIONS</span> (Give Vitamin A, treat eye/mouth, follow up 3 days).
-*   **Measles now or within last 3 months (no complications):** <span style="color: #4CAF50; font-weight:bold;">MEASLES</span> (Give Vitamin A).
+- **Any general danger sign OR clouding of cornea OR deep/extensive mouth ulcers:** <span style="color: #ff1493; font-weight:bold;">SEVERE COMPLICATED MEASLES</span> (Give Vitamin A, first dose antibiotic, Apply Tetracycline eye ointment, **Refer URGENTLY**).
+- **Pus draining from eye OR mouth ulcers:** <span style="color: #ffd700; font-weight:bold;">MEASLES WITH EYE OR MOUTH COMPLICATIONS</span> (Give Vitamin A, treat eye/mouth, follow up 3 days).
+- **Measles now or within last 3 months (no complications):** <span style="color: #4CAF50; font-weight:bold;">MEASLES</span> (Give Vitamin A).
 
 #### Dengue Assessment (If Fever >2 days in Endemic Area)
-*   **Bleeding from nose/gums OR petechiae OR persistent vomiting OR abdominal pain OR cold/clammy skin:** <span style="color: #ff1493; font-weight:bold;">SEVERE DENGUE</span> (Give ORS, prevent hypoglycemia, **Refer URGENTLY**).
-*   **Positive tourniquet test without bleeding:** <span style="color: #ffd700; font-weight:bold;">SUSPECTED DENGUE</span> (Give Paracetamol, strictly avoid NSAIDs/Aspirin, follow up daily).
+- **Bleeding from nose/gums OR petechiae OR persistent vomiting OR abdominal pain OR cold/clammy skin:** <span style="color: #ff1493; font-weight:bold;">SEVERE DENGUE</span> (Give ORS, prevent hypoglycemia, **Refer URGENTLY**).
+- **Positive tourniquet test without bleeding:** <span style="color: #ffd700; font-weight:bold;">SUSPECTED DENGUE</span> (Give Paracetamol, strictly avoid NSAIDs/Aspirin, follow up daily).
 
 ### 5. Assess Ear Problem
 **Signs to Assess:** Ear pain, ear discharge (duration <14 days or ≥14 days), tender swelling behind the ear (mastoiditis).
@@ -154,11 +154,11 @@ Before assessing specific symptoms, ALWAYS check for General Danger Signs. The p
 
 ## Pre-Referral Treatment Principles
 When a child is classified in the <span style="color: #ff1493; font-weight:bold;">PINK</span> category, immediate life-saving interventions must be provided before transfer to prevent mortality during transit.
-*   **First Dose of Appropriate Antibiotic:** Usually IM Ampicillin + Gentamicin for infants, or IM Ceftriaxone.
-*   **Prevention of Hypoglycemia:** Administer 50 ml of 10% Glucose solution or breastmilk orally/via NG tube.
-*   **Artesunate:** IM Artesunate for severe febrile illness in high-risk malaria areas.
-*   **Diazepam/Midazolam:** PR Diazepam or IM Midazolam for actively convulsing children.
-*   **Vitamin A:** Immediate dose for severe complicated measles or severe malnutrition with eye signs.
+- **First Dose of Appropriate Antibiotic:** Usually IM Ampicillin + Gentamicin for infants, or IM Ceftriaxone.
+- **Prevention of Hypoglycemia:** Administer 50 ml of 10% Glucose solution or breastmilk orally/via NG tube.
+- **Artesunate:** IM Artesunate for severe febrile illness in high-risk malaria areas.
+- **Diazepam/Midazolam:** PR Diazepam or IM Midazolam for actively convulsing children.
+- **Vitamin A:** Immediate dose for severe complicated measles or severe malnutrition with eye signs.
 
 ## Counseling The Mother
 IMNCI places heavy emphasis on empowering the caregiver. Counseling encompasses:
@@ -166,18 +166,18 @@ IMNCI places heavy emphasis on empowering the caregiver. Counseling encompasses:
 2.  **Feeding Recommendations:** Promote exclusive breastfeeding up to 6 months, and introduction of nutrient-dense complementary foods at 6 months while continuing breastfeeding up to 2 years.
 3.  **Fluid Requirements During Illness:** Advise the mother to increase fluid intake (including breastmilk) to prevent dehydration.
 4.  **When to Return Immediately:**
-    *   *Any sick child:* Not able to drink/breastfeed, becomes sicker, develops a fever.
-    *   *Child with Cough:* Develops fast breathing or difficult breathing (chest indrawing).
-    *   *Child with Diarrhea:* Blood in stool or drinking poorly.
+    - *Any sick child:* Not able to drink/breastfeed, becomes sicker, develops a fever.
+    - *Child with Cough:* Develops fast breathing or difficult breathing (chest indrawing).
+    - *Child with Diarrhea:* Blood in stool or drinking poorly.
 
 ## Follow-Up Guidelines
 Crucial for cases classified as <span style="color: #ffd700; font-weight:bold;">YELLOW</span>.
-*   **2 Days:** Pneumonia, Dysentery, Malaria (if fever persists), Local bacterial infection, Feeding problem.
-*   **3 Days:** Measles with eye/mouth complications.
-*   **5 Days:** Persistent diarrhea, Acute ear infection, Cough/cold not improving.
-*   **14 Days:** Malnutrition (MAM), Anemia, Low weight for age.
+- **2 Days:** Pneumonia, Dysentery, Malaria (if fever persists), Local bacterial infection, Feeding problem.
+- **3 Days:** Measles with eye/mouth complications.
+- **5 Days:** Persistent diarrhea, Acute ear infection, Cough/cold not improving.
+- **14 Days:** Malnutrition (MAM), Anemia, Low weight for age.
 
 ## F-IMNCI (Facility Based IMNCI) Integration
 While IMNCI is designed for outpatient and peripheral centers, F-IMNCI is the protocol for inpatient hospital management of children referred with <span style="color: #ff1493; font-weight:bold;">PINK</span> classifications. It details:
-*   **Emergency Triage Assessment and Treatment (ETAT):** Sorting patients into Emergency signs (ABCDE approach), Priority signs, and Non-urgent cases.
-*   **Inpatient Management:** Standardized protocols for treating severe pneumonia, SAM with medical complications (at NRCs), severe malaria, and neonatal sepsis in the ward setting.
+- **Emergency Triage Assessment and Treatment (ETAT):** Sorting patients into Emergency signs (ABCDE approach), Priority signs, and Non-urgent cases.
+- **Inpatient Management:** Standardized protocols for treating severe pneumonia, SAM with medical complications (at NRCs), severe malaria, and neonatal sepsis in the ward setting.

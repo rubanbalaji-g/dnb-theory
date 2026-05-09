@@ -5,7 +5,10 @@
 ## Introduction
 - Launched on 1 June 2011 by Ministry of Health & Family Welfare under National Health Mission (NHM)
 - Entitlement-based scheme providing completely free and cashless services to all pregnant women delivering in public health institutions and to sick newborns up to 30 days of life
-- Objective: Eliminate out-of-pocket expenditure (OOPE) on maternal and newborn care, promote institutional deliveries and reduce maternal and neonatal mortality
+- Objective: 
+	- Eliminate out-of-pocket expenditure (OOPE) on maternal and newborn care, 
+	- promote institutional deliveries and 
+	- reduce maternal and neonatal mortality
 - Synergistic with Janani Suraksha Yojana (JSY) for cash incentive + JSSK for free services
 
 ## Objectives
@@ -39,11 +42,11 @@
 - 108/102/ambulance services strengthened for free transport
 - No user charges; displayed prominently in all facilities
 - Convergence with:
-  - Facility-Based Newborn Care (FBNC): NBCC–NBSU–SNCU linkage
-  - RBSK: Birth defect screening at delivery points
-  - SAANS: Pneumonia management
-  - ABDM: Digital entitlement tracking via ABHA
-  - MusQan: Quality certification of maternal-newborn services
+	- Facility-Based Newborn Care (FBNC): NBCC–NBSU–SNCU linkage
+	- RBSK: Birth defect screening at delivery points
+	- SAANS: Pneumonia management
+	- ABDM: Digital entitlement tracking via ABHA
+	- MusQan: Quality certification of maternal-newborn services
 
 ## Monitoring & Reporting
 - Real-time tracking through HMIS and ABDM portal

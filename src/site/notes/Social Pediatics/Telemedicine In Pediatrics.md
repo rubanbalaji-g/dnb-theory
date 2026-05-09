@@ -3,7 +3,7 @@
 ---
 
 ## Definition
-The delivery of healthcare services, where distance is a critical factor, by all healthcare professionals using information and communication technologies for the exchange of valid information for the diagnosis, treatment, and prevention of disease and injuries, research and evaluation, and for the continuing education of healthcare providers.
+In its simplest terms, **telemedicine** is "healing from a distance". It is the practice of using telecommunications technology—such as video calls, smartphones, and secure messaging—to provide medical care when the patient and the healthcare provider are not in the same physical location.
 
 ## Modes Of Telemedicine
 * Video: Synchronous, highest fidelity, preferred for first consultations and visual assessments.

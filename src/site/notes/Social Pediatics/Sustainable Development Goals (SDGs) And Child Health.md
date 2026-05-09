@@ -11,8 +11,8 @@ SDG 3 aims to ensure healthy lives and promote well-being for all at all ages. S
 ### Critical Pediatric Targets Under SDG 3
 * Target 3.1 (Maternal Mortality): Reduce the global Maternal Mortality Ratio (MMR) to less than 70 per 100,000 live births. (Maternal survival is directly linked to neonatal survival).
 * Target 3.2 (Neonatal and Under-5 Mortality): By 2030, end preventable deaths of newborns and children under 5 years of age.
-  * Reduce Neonatal Mortality Rate (NMR) to at least as low as 12 per 1000 live births.
-  * Reduce Under-5 Mortality Rate (U5MR) to at least as low as 25 per 1000 live births.
+	- Reduce Neonatal Mortality Rate (NMR) to at least as low as 12 per 1000 live births.
+	- Reduce Under-5 Mortality Rate (U5MR) to at least as low as 25 per 1000 live births.
 * Target 3.3 (Communicable Diseases): End the epidemics of AIDS, tuberculosis, malaria, and neglected tropical diseases, and combat hepatitis, water-borne diseases, and other communicable diseases.
 * Target 3.4 (Non-Communicable Diseases): Reduce by one-third premature mortality from non-communicable diseases (NCDs) and promote mental health and well-being (highly relevant for adolescent health).
 * Target 3.7 (Sexual and Reproductive Health): Ensure universal access to sexual and reproductive healthcare services, including family planning and integration into national strategies (crucial for adolescent pregnancy prevention).
@@ -30,14 +30,14 @@ Child health is inextricably linked to socioeconomic and environmental factors a
 ## Indian National Programs Aligned With SDGs
 The Government of India (via NITI Aayog) actively localizes and tracks SDGs through various flagship programs.
 * Interventions for SDG 3.2 (Mortality): 
-  * India Newborn Action Plan (INAP): Aims for single-digit NMR and Stillbirth Rate by 2030.
-  * RMNCH+A Strategy: Continuum of care across the lifecycle.
-  * SUMAN (Surakshit Matritva Aashwasan): Zero preventable maternal and newborn deaths.
+	- India Newborn Action Plan (INAP): Aims for single-digit NMR and Stillbirth Rate by 2030.
+	- RMNCH+A Strategy: Continuum of care across the lifecycle.
+	- SUMAN (Surakshit Matritva Aashwasan): Zero preventable maternal and newborn deaths.
 * Interventions for SDG 2 (Nutrition):
-  * POSHAN Abhiyaan (National Nutrition Mission): Targets reduction of stunting, undernutrition, anemia, and low birth weight.
-  * PM POSHAN (Mid-Day Meal Scheme).
+	- POSHAN Abhiyaan (National Nutrition Mission): Targets reduction of stunting, undernutrition, anemia, and low birth weight.
+	- PM POSHAN (Mid-Day Meal Scheme).
 * Interventions for SDG 3.3 & 3.8 (Infections & UHC):
-  * Mission Indradhanush: Rapid expansion of full immunization coverage.
-  * Ayushman Bharat (PM-JAY): Providing financial risk protection for secondary and tertiary care, advancing UHC.
+	- Mission Indradhanush: Rapid expansion of full immunization coverage.
+	- Ayushman Bharat (PM-JAY): Providing financial risk protection for secondary and tertiary care, advancing UHC.
 * Interventions for SDG 6 (WASH):
-  * Swachh Bharat Mission: Focus on eliminating open defecation and improving community sanitation.
+	- Swachh Bharat Mission: Focus on eliminating open defecation and improving community sanitation.

@@ -5,7 +5,11 @@
 ## Introduction and Vision
 * **Launch:** Instituted by the Ministry of Health and Family Welfare (MoHFW), Government of India, in September 2014.
 * **Genesis:** It is India's concerted strategic response to the global Every Newborn Action Plan (ENAP), aligned with the 67th World Health Assembly resolution.
-* **Core Vision:** A comprehensive framework envisioning a future with zero preventable deaths of newborns and stillbirths, where every pregnancy is wanted, every birth celebrated, and women and neonates survive, thrive, and reach their full neurodevelopmental potential.
+* **Core Vision:** A comprehensive framework envisioning a future with 
+	* zero preventable deaths of newborns and stillbirths, w
+	* here every pregnancy is wanted, 
+	* every birth celebrated, and 
+	* women and neonates survive, thrive, and reach their full neurodevelopmental potential.
 
 ## Goals and Targets (By 2030)
 INAP sets highly ambitious, accelerated goals, aiming to achieve its targets five years ahead of the global ENAP and Sustainable Development Goals (SDG) timelines.

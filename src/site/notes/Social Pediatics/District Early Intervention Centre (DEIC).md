@@ -8,10 +8,10 @@ The District Early Intervention Centre (DEIC) is the pivotal secondary-tier refe
 ## Core Objectives
 * To provide multidisciplinary medical, surgical, and rehabilitative interventions under one roof at zero cost to the beneficiaries.
 * To manage and treat children from birth to 18 years of age who screen positive for the "4Ds":
-  * Defects at birth (e.g., neural tube defects, congenital heart diseases, cleft lip/palate, clubfoot).
-  * Deficiencies (e.g., severe acute malnutrition, vitamin A/D deficiency, anemia).
-  * Diseases (e.g., rheumatic heart disease, reactive airway disease, otitis media).
-  * Developmental delays and disabilities (e.g., cerebral palsy, autism spectrum disorder, ADHD, hearing/vision impairment).
+	- Defects at birth (e.g., neural tube defects, congenital heart diseases, cleft lip/palate, clubfoot).
+	- Deficiencies (e.g., severe acute malnutrition, vitamin A/D deficiency, anemia).
+	- Diseases (e.g., rheumatic heart disease, reactive airway disease, otitis media).
+	- Developmental delays and disabilities (e.g., cerebral palsy, autism spectrum disorder, ADHD, hearing/vision impairment).
 * To focus heavily on the critical "early intervention" window (0-6 years) to optimize neuroplasticity and minimize the long-term impact of developmental delays.
 
 ## Location And Infrastructure

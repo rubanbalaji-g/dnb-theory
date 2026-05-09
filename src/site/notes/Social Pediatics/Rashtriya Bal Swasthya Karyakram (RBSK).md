@@ -20,17 +20,54 @@
 - 6–18 years at government and government-aided schools
 
 ## The 4 ‘D’s and 32 Conditions
-### Defects at Birth (11 conditions)
-- Neural tube defects, Down syndrome, Cleft lip & palate, Talipes (club foot), Developmental dysplasia of hip, Congenital cataract, Congenital deafness, Congenital heart diseases, Retinopathy of prematurity
+### **1. Defects at Birth (9 Conditions)**
 
-### Deficiencies (7 conditions)
-- Severe anemia, Vitamin A deficiency, Vitamin D deficiency (rickets), Severe acute malnutrition, Iodine deficiency disorders, Sickle cell disease, β-thalassemia, Congenital hypothyroidism
+These are conditions identified at delivery points or through newborn screening:
 
-### Diseases (10 conditions)
-- Skin conditions (scabies, fungal infections), Otitis media, Rheumatic heart disease, Reactive airway disease/asthma, Dental caries, Convulsive disorders
+1. **Neural Tube Defect** 
+2. **Down's Syndrome**
+3. **Cleft Lip & Palate** (or Cleft Palate alone)
+4. **Talipes** (Club Foot)
+5. **Developmental Dysplasia of the Hip**
+6. **Congenital Cataract**
+7. **Congenital Deafness**
+8. **Congenital Heart Disease**
+9. **Retinopathy of Prematurity (ROP)**
+### **2. Deficiencies (5 Conditions)**
 
-### Developmental Delays & Disabilities (4 conditions)
-- Vision impairment, Hearing impairment, Neuromotor impairment, Cognitive/language delay, Autism spectrum disorder, Attention deficit hyperactivity disorder, Learning disorders
+Common nutritional deficiencies identified during community and school screening: 
+1. **Anaemia** (especially Severe Anaemia) 
+2. **Vitamin A Deficiency** (Bitot's Spot) 
+3. **Vitamin D Deficiency** (Rickets) 
+4. **Severe Acute Malnutrition (SAM)** 
+5. **Goiter**
+### **3. Childhood Diseases (6 Conditions)**
+
+Six common pediatric illnesses covered for treatment and management: 
+1. **Skin conditions** (Scabies, Fungal Infection, and Eczema) 
+2. **Otitis Media** 
+3. **Rheumatic Heart Disease** 
+4. **Reactive Airway Disease** (e.g., Asthma) 
+5. **Dental Caries** 
+6. **Convulsive Disorders** (e.g., Epilepsy)
+### **4. Developmental Delays & Disabilities (9 Conditions)**
+
+Conditions affecting physical, cognitive, or behavioral development: 
+1. **Vision Impairment** 
+2. **Hearing Impairment** 
+3. **Neuro-motor Impairment** 
+4. **Motor Delay** 
+5. **Cognitive Delay** 
+6. **Language Delay** 
+7. **Behavior Disorder** (Autism) 
+8. **Learning Disorder** 
+9. **Attention Deficit Hyperactivity Disorder (ADHD)**
+### **5. Optional/State-Specific Conditions (3 Conditions)**
+
+States have the flexibility to include these based on local epidemiological needs: 
+1. **Congenital Hypothyroidism** 
+2. **Sickle Cell Anaemia** 
+3. **Beta Thalassemia**
 
 ## Screening Strategies
 - Newborn screening at delivery points and home by ASHA

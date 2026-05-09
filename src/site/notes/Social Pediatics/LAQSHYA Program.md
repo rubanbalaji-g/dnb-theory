@@ -49,9 +49,9 @@ Facilities are assessed based on National Quality Assurance Standards (NQAS).
 * Assessment Tiers: Internal assessment, State-level assessment, and National-level certification.
 * Scoring Criteria: Facilities scoring >70% at the national level are certified as "Laqshya Certified".
 * Financial Incentives: Certified facilities receive financial rewards based on their score:
-  * Platinum Badge: >90% score.
-  * Gold Badge: 80-89% score.
-  * Silver Badge: 70-79% score.
+	* Platinum Badge: >90% score.
+	* Gold Badge: 80-89% score.
+	* Silver Badge: 70-79% score.
 
 ## Key Performance Indicators (Neonatal)
 * Stillbirth rate (macerated and fresh).

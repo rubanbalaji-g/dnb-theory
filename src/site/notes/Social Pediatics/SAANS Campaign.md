@@ -35,20 +35,20 @@
 
 ## Key Activities & Implementation
 - **Community level (ASHA/AWW/ANM)**:
-  - Door-to-door visits: Screen all 0–5 year children
-  - Identify suspected pneumonia (fast breathing, chest indrawing, danger signs)
-  - Pre-referral single dose of syrup Amoxicillin + immediate referral
-  - Use of pulse oximetry at sub-centre/CHC level
+	- Door-to-door visits: Screen all 0–5 year children
+	- Identify suspected pneumonia (fast breathing, chest indrawing, danger signs)
+	- Pre-referral single dose of syrup Amoxicillin + immediate referral
+	- Use of pulse oximetry at sub-centre/CHC level
 - **Facility strengthening**:
-  - Availability of oxygen, antibiotics, pulse oximeters at all levels (HWC to district hospital)
-  - Training of service providers on revised pneumonia guidelines
-  - Oxygen therapy and supportive care for severe pneumonia
+	- Availability of oxygen, antibiotics, pulse oximeters at all levels (HWC to district hospital)
+	- Training of service providers on revised pneumonia guidelines
+	- Oxygen therapy and supportive care for severe pneumonia
 - **IEC/BCC**:
-  - Mass media, wall paintings, rallies, school health programmes
-  - Focus on myths, air pollution and vaccination
+	- Mass media, wall paintings, rallies, school health programmes
+	- Focus on myths, air pollution and vaccination
 - **Convergence**:
-  - Integration with RBSK (screening for respiratory conditions), RKSK, UIP/U-WIN, IMNCI
-  - Linkage with National Clean Air Programme (NCAP) and climate change initiatives
+	- Integration with RBSK (screening for respiratory conditions), RKSK, UIP/U-WIN, IMNCI
+	- Linkage with National Clean Air Programme (NCAP) and climate change initiatives
 
 ## Monitoring & Reporting
 - Monthly reporting from states/UTs to MoHFW on screening coverage, referrals, PCV coverage

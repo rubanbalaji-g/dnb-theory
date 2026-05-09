@@ -16,8 +16,8 @@
 
 ## Classification of Infant Mortality
 - **Neonatal Mortality (0–28 days)**: 70–75% of total IMR
-  - Early neonatal (0–7 days): 60–65%
-  - Late neonatal (8–28 days): 10–15%
+	- Early neonatal (0–7 days): 60–65%
+	- Late neonatal (8–28 days): 10–15%
 - **Post-neonatal Mortality (29 days–1 year)**: 25–30% of total IMR
 
 ## Major Causes of Infant Mortality (SRS Cause-of-Death Report 2020–22)

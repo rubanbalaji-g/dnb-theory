@@ -17,11 +17,11 @@
 ### Relevance in Pediatric Context
 - Major drivers of child morbidity, mortality, stunting, anemia and developmental delay in India
 - Examples:
-  - Poverty → undernutrition, poor immunization coverage
-  - Low maternal education → delayed care-seeking, higher IMR/NMR
-  - Unsafe water/sanitation → diarrheal diseases, stunting
-  - Gender bias → female child neglect, higher female under-5 mortality
-  - Urban slums/rural remoteness → higher injury, violence and pollution-related illness
+	- Poverty → undernutrition, poor immunization coverage
+	- Low maternal education → delayed care-seeking, higher IMR/NMR
+	- Unsafe water/sanitation → diarrheal diseases, stunting
+	- Gender bias → female child neglect, higher female under-5 mortality
+	- Urban slums/rural remoteness → higher injury, violence and pollution-related illness
 
 ### Impact on Child Health Outcomes
 - Inter-generational cycle: Poor SDOH in parents → adverse fetal programming → LBW, developmental disability
@@ -37,33 +37,33 @@
 #### 1. Delay in Decision to Seek Care (Phase I)
 - Occurs at household/community level
 - Contributing factors:
-  - Lack of recognition of danger signs (e.g., neonatal sepsis, pneumonia)
-  - Low health literacy, cultural beliefs, preference for traditional healers
-  - Gender norms, financial constraints, decision-making by elders
+	- Lack of recognition of danger signs (e.g., neonatal sepsis, pneumonia)
+	- Low health literacy, cultural beliefs, preference for traditional healers
+	- Gender norms, financial constraints, decision-making by elders
 - Pediatric examples: Delayed recognition of danger signs in pneumonia, diarrhea, fever
 
 #### 2. Delay in Reaching the Facility (Phase II)
 - Transport and accessibility barriers
 - Contributing factors:
-  - Distance to health facility, poor roads, lack of transport
-  - Cost of travel, lack of 108/102 ambulance awareness
-  - Monsoon/floods in rural areas, night-time emergencies
+	- Distance to health facility, poor roads, lack of transport
+	- Cost of travel, lack of 108/102 ambulance awareness
+	- Monsoon/floods in rural areas, night-time emergencies
 - Pediatric examples: Delayed transport of sick neonate/infant leading to hypothermia, shock
 
 #### 3. Delay in Receiving Adequate Care (Phase III)
 - Occurs after reaching facility
 - Contributing factors:
-  - Shortage of staff, drugs, blood, equipment
-  - Inadequate referral linkages, long waiting time
-  - Poor quality of care, lack of neonatal/pediatric intensive care
+	- Shortage of staff, drugs, blood, equipment
+	- Inadequate referral linkages, long waiting time
+	- Poor quality of care, lack of neonatal/pediatric intensive care
 - Pediatric examples: Delayed surfactant/CPAP in preterm, delayed antibiotics in sepsis
 
 ### Application in Indian Context
 - Explains >50% of preventable neonatal and child deaths (Lancet series)
 - Addressed through:
-  - Janani Suraksha Yojana (JSY), Janani Shishu Suraksha Karyakram (JSSK) for free transport/drugs
-  - Home-based newborn care (HBNC), ASHA training on danger signs
-  - 108/102 ambulance services, DEIC/RBSK referral pathways
+	- Janani Suraksha Yojana (JSY), Janani Shishu Suraksha Karyakram (JSSK) for free transport/drugs
+	- Home-based newborn care (HBNC), ASHA training on danger signs
+	- 108/102 ambulance services, DEIC/RBSK referral pathways
 
 ### Strategies to Overcome Delays
 - Community: Behaviour change communication, VHSNC, peer education (RKSK Saathiya)

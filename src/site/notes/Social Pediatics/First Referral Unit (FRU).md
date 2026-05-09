@@ -22,10 +22,10 @@ An FRU must be equipped to handle perinatal and childhood emergencies to reduce 
 ### 2. Newborn Stabilization Unit (NBSU)
 * Definition: A 4-bedded step-down or stabilization unit within the FRU.
 * Capabilities: 
-  * Provision of Kangaroo Mother Care (KMC) for low birth weight and preterm infants.
-  * Administration of intravenous fluids and broad-spectrum antibiotics for suspected neonatal sepsis.
-  * Provision of phototherapy for neonatal hyperbilirubinemia.
-  * Stabilization and safe referral of extremely premature infants or those with severe birth asphyxia (HIE) to a Special Newborn Care Unit (SNCU).
+	- Provision of Kangaroo Mother Care (KMC) for low birth weight and preterm infants.
+	- Administration of intravenous fluids and broad-spectrum antibiotics for suspected neonatal sepsis.
+	- Provision of phototherapy for neonatal hyperbilirubinemia.
+	- Stabilization and safe referral of extremely premature infants or those with severe birth asphyxia (HIE) to a Special Newborn Care Unit (SNCU).
 
 ### 3. Pediatric Ward And Emergency Care
 * Designed for the admission and management of common childhood illnesses as per the Facility-Based Integrated Management of Neonatal and Childhood Illnesses (F-IMNCI) guidelines.

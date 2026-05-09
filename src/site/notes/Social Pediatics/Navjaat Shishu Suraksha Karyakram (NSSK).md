@@ -20,28 +20,20 @@
 - **Early initiation of breastfeeding**: Within 1 hour, exclusive till 6 months, techniques of positioning & attachment
 - **Basic newborn resuscitation**: For non-breathing/asphyxiated babies
 
-## Training Package (Revised 2022–2024)
-- Duration: 2-day classroom + hands-on training (previously 1–3 days)
-- Target: Medical officers, staff nurses, ANMs at delivery points
-- Tools: Resource manual, facilitator’s guide, flipchart, manikins (NeoNatalie), DVDs/videos
-- Methodology: Didactic lectures + skill stations + OSCE + video demonstration
-- Emphasis on simulation-based learning & uniform messaging across levels
-- Updated algorithm: Incorporates latest NRP changes (e.g., emphasis on ventilation, MR SOPA, post-resuscitation care)
-
 ## Newborn Resuscitation Algorithm (NSSK-Specific)
 - **Initial steps (30 seconds)**: Warm, dry, stimulate, position airway, clear secretions if needed
 - Assess breathing & heart rate:
-  - Vigorous crying & HR >100 → Routine care
-  - Apnoea/gasping or HR <100 → Positive pressure ventilation (PPV) with bag & mask (40–60/min, 21% O2 initially)
+- Vigorous crying & HR >100 → Routine care
+- Apnoea/gasping or HR <100 → Positive pressure ventilation (PPV) with bag & mask (40–60/min, 21% O2 initially)
 - If no improvement after 30 sec effective PPV → MR SOPA corrective steps
 - Advanced steps: Chest compressions (3:1 ratio), medications (adrenaline) only if HR <60 after ventilation
 - End with post-resuscitation care & referral to NBSU/SNCU if required
 
 ## Essential Newborn Care Practices Emphasized
 - **At birth**:
-  - Delayed cord clamping (1–3 min)
-  - Vitamin K prophylaxis, eye prophylaxis
-  - Weighing, APGAR scoring, identification
+	- Delayed cord clamping (1–3 min)
+	- Vitamin K prophylaxis, eye prophylaxis
+	- Weighing, APGAR scoring, identification
 - **Kangaroo Mother Care (KMC)**: For all stable LBW babies (<2500g); continuous skin-to-skin, exclusive breastfeeding
 - **Monitoring**: Danger signs recognition, timely referral
 - **Counseling**: Mother & family on home-based newborn care (HBNC)

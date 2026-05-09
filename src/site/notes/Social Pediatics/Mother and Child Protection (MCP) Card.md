@@ -26,9 +26,9 @@
 - **Immunization**: Complete UIP schedule with dates, batch numbers, next due date
 - **Growth Monitoring**: WHO weight-for-age & height-for-age charts (0-3 years), plotted at every contact
 - **Early Child Development (New in 2018)**:
-  - Age-appropriate milestones (green color)
-  - Parenting tips (blue color)
-  - Warning signs (red color)
+	- Age-appropriate milestones (green color)
+	- Parenting tips (blue color)
+	- Warning signs (red color)
 - **Nutrition & Others**: Exclusive breastfeeding, complementary feeding, deworming, Vitamin A, family planning methods
 
 ## Color Coding & Counselling Features

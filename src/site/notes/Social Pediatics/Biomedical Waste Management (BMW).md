@@ -10,12 +10,12 @@
 ## Legal Framework & Key Amendments (2026)
 - **2016 Rules**: Mandatory segregation at source, bar-coding, phase-out of chlorinated plastics, GPS-tracked transport
 - **2026 Amendments**:
-  - Mandatory barcode + national API linkage for real-time tracking from generation to disposal
-  - Storage strictly ≤48 hours (no secondary handling/pilferage)
-  - Onsite pre-treatment (autoclave/microwave/shredding) before handover to CBWTF
-  - Inclusion of AYUSH facilities under full compliance
-  - Standby generators & overflow MoUs for CBWTFs
-  - Integration with Solid Waste Management Rules 2026 (effective 01 April 2026)
+	- Mandatory barcode + national API linkage for real-time tracking from generation to disposal
+	- Storage strictly ≤48 hours (no secondary handling/pilferage)
+	- Onsite pre-treatment (autoclave/microwave/shredding) before handover to CBWTF
+	- Inclusion of AYUSH facilities under full compliance
+	- Standby generators & overflow MoUs for CBWTFs
+	- Integration with Solid Waste Management Rules 2026 (effective 01 April 2026)
 - Penalties: ₹1 lakh to ₹1 crore + imprisonment up to 5 years; hospital closure possible
 
 ## Colour Coding & Segregation (At Source – Most Critical Step)
