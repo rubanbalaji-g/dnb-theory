@@ -15,6 +15,32 @@ const {
 } = require("./src/helpers/userSetup");
 
 const Image = require("@11ty/eleventy-img");
+
+// Simple concurrency queue to prevent OOM during image processing
+class ImageQueue {
+  constructor(concurrency) {
+    this.concurrency = concurrency;
+    this.running = 0;
+    this.queue = [];
+  }
+  async add(task) {
+    if (this.running >= this.concurrency) {
+      await new Promise(resolve => this.queue.push(resolve));
+    }
+    this.running++;
+    try {
+      return await task();
+    } finally {
+      this.running--;
+      if (this.queue.length > 0) {
+        const next = this.queue.shift();
+        next();
+      }
+    }
+  }
+}
+const imageQueue = new ImageQueue(5);
+
 async function transformImage(src, cls, alt, sizes, widths = ["500", "700", "auto"]) {
   let options = {
     widths: widths,
@@ -24,8 +50,7 @@ async function transformImage(src, cls, alt, sizes, widths = ["500", "700", "aut
   };
 
   // await image generation to prevent OOM from too many concurrent sharp tasks
-  let metadata = await Image(src, options);
-  return metadata;
+  return await imageQueue.add(() => Image(src, options));
 }
 
 function getAnchorLink(filePath, linkTitle) {
@@ -63,26 +88,31 @@ function getAnchorAttributes(filePath, linkTitle) {
   const title = linkTitle ? linkTitle : fileName;
   let permalink = `/notes/${slugify(filePath)}`;
   let deadLink = false;
-  try {
-    const startPath = "./src/site/notes/";
-    const fullPath = fileName.endsWith(".md")
-      ? `${startPath}${fileName}`
-      : `${startPath}${fileName}.md`;
-    const file = fs.readFileSync(fullPath, "utf8");
-    const frontMatter = matter(file);
-    if (frontMatter.data.permalink) {
-      permalink = frontMatter.data.permalink;
+  const startPath = "./src/site/notes/";
+  const fullPath = fileName.endsWith(".md")
+    ? `${startPath}${fileName}`
+    : `${startPath}${fileName}.md`;
+
+  if (fs.existsSync(fullPath)) {
+    try {
+      const file = fs.readFileSync(fullPath, "utf8");
+      const frontMatter = matter(file);
+      if (frontMatter.data.permalink) {
+        permalink = frontMatter.data.permalink;
+      }
+      if (
+        frontMatter.data.tags &&
+        frontMatter.data.tags.indexOf("gardenEntry") != -1
+      ) {
+        permalink = "/";
+      }
+      if (frontMatter.data.noteIcon) {
+        noteIcon = frontMatter.data.noteIcon;
+      }
+    } catch {
+      deadLink = true;
     }
-    if (
-      frontMatter.data.tags &&
-      frontMatter.data.tags.indexOf("gardenEntry") != -1
-    ) {
-      permalink = "/";
-    }
-    if (frontMatter.data.noteIcon) {
-      noteIcon = frontMatter.data.noteIcon;
-    }
-  } catch {
+  } else {
     deadLink = true;
   }
 
@@ -116,6 +146,14 @@ function getAnchorAttributes(filePath, linkTitle) {
 
 
 module.exports = function (eleventyConfig) {
+  eleventyConfig.on("eleventy.before", () => {
+    // Clear metadata cache so it doesn't grow indefinitely in watch mode
+    // and correctly updates when frontmatter changes
+    for (let key in metadataCache) {
+      delete metadataCache[key];
+    }
+  });
+
   eleventyConfig.setLiquidOptions({
     dynamicPartials: true,
   });
@@ -350,6 +388,12 @@ module.exports = function (eleventyConfig) {
     if (!outputPath || !outputPath.endsWith(".html")) {
       return str;
     }
+
+    // Quick exit to avoid parsing memory overhead for simple pages
+    if (!str.includes('internal-link') && !str.includes('blockquote') && !str.includes('cm-s-obsidian')) {
+      return str;
+    }
+
     const parsed = parse(str);
 
     function fillPictureSourceSets(src, cls, alt, meta, width, imageTag) {
@@ -519,8 +563,8 @@ module.exports = function (eleventyConfig) {
           collapseWhitespace: true,
           conservativeCollapse: true,
           preserveLineBreaks: true,
-          minifyCSS: true,
-          minifyJS: true,
+          minifyCSS: false,
+          minifyJS: false,
           keepClosingSlash: true,
         });
       } catch {
