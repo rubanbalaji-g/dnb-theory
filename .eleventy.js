@@ -15,7 +15,7 @@ const {
 } = require("./src/helpers/userSetup");
 
 const Image = require("@11ty/eleventy-img");
-function transformImage(src, cls, alt, sizes, widths = ["500", "700", "auto"]) {
+async function transformImage(src, cls, alt, sizes, widths = ["500", "700", "auto"]) {
   let options = {
     widths: widths,
     formats: ["webp", "jpeg"],
@@ -23,9 +23,8 @@ function transformImage(src, cls, alt, sizes, widths = ["500", "700", "auto"]) {
     urlPath: "/img/optimized",
   };
 
-  // generate images, while this is async we don’t wait
-  Image(src, options);
-  let metadata = Image.statsSync(src, options);
+  // await image generation to prevent OOM from too many concurrent sharp tasks
+  let metadata = await Image(src, options);
   return metadata;
 }
 
@@ -34,6 +33,10 @@ function getAnchorLink(filePath, linkTitle) {
   return `<a ${Object.keys(attributes).map(key => `${key}="${attributes[key]}"`).join(" ")}>${innerHTML}</a>`;
 }
 
+const tagRegex = /(^|\s|\>)(#[^\s!@#$%^&*()=+\.,\[{\]};:'"?><]+)(?!([^<]*>))/g;
+
+const metadataCache = {};
+
 function getAnchorAttributes(filePath, linkTitle) {
   let fileName = filePath.replaceAll("&amp;", "&");
   let header = "";
@@ -41,6 +44,19 @@ function getAnchorAttributes(filePath, linkTitle) {
   if (filePath.includes("#")) {
     [fileName, header] = filePath.split("#");
     headerLinkPath = `#${headerToId(header)}`;
+  }
+
+  if (metadataCache[fileName]) {
+    const cached = metadataCache[fileName];
+    return {
+      attributes: {
+        "class": cached.deadLink ? "internal-link is-unresolved" : "internal-link",
+        "target": "",
+        "data-note-icon": cached.noteIcon,
+        "href": cached.deadLink ? "/404" : `${cached.permalink}${headerLinkPath}`,
+      },
+      innerHTML: linkTitle ? linkTitle : fileName,
+    };
   }
 
   let noteIcon = process.env.NOTE_ICON_DEFAULT;
@@ -70,6 +86,12 @@ function getAnchorAttributes(filePath, linkTitle) {
     deadLink = true;
   }
 
+  metadataCache[fileName] = {
+    permalink,
+    noteIcon,
+    deadLink,
+  };
+
   if (deadLink) {
     return {
       attributes: {
@@ -91,7 +113,7 @@ function getAnchorAttributes(filePath, linkTitle) {
   }
 }
 
-const tagRegex = /(^|\s|\>)(#[^\s!@#$%^&*()=+\.,\[{\]};:'"?><]+)(?!([^<]*>))/g;
+
 
 module.exports = function (eleventyConfig) {
   eleventyConfig.setLiquidOptions({
@@ -324,8 +346,47 @@ module.exports = function (eleventyConfig) {
     );
   });
 
-  eleventyConfig.addTransform("dataview-js-links", function (str) {
+  eleventyConfig.addTransform("dom-transforms", async function (str, outputPath) {
+    if (!outputPath || !outputPath.endsWith(".html")) {
+      return str;
+    }
     const parsed = parse(str);
+
+    function fillPictureSourceSets(src, cls, alt, meta, width, imageTag) {
+      imageTag.tagName = "picture";
+      let html = `<source
+        media="(max-width:480px)"
+        srcset="${meta.webp[0].url}"
+        type="image/webp"
+        />
+        <source
+        media="(max-width:480px)"
+        srcset="${meta.jpeg[0].url}"
+        />
+        `
+      if (meta.webp && meta.webp[1] && meta.webp[1].url) {
+        html += `<source
+          media="(max-width:1920px)"
+          srcset="${meta.webp[1].url}"
+          type="image/webp"
+          />`
+      }
+      if (meta.jpeg && meta.jpeg[1] && meta.jpeg[1].url) {
+        html += `<source
+          media="(max-width:1920px)"
+          srcset="${meta.jpeg[1].url}"
+          />`
+      }
+      html += `<img
+        class="${cls.toString()}"
+        src="${src}"
+        alt="${alt}"
+        width="${width}"
+        />`;
+      imageTag.innerHTML = html;
+    }
+
+    // 1. dataview-js-links
     for (const dataViewJsLink of parsed.querySelectorAll("a[data-href].internal-link")) {
       const notePath = dataViewJsLink.getAttribute("data-href");
       const title = dataViewJsLink.innerHTML;
@@ -336,12 +397,7 @@ module.exports = function (eleventyConfig) {
       dataViewJsLink.innerHTML = innerHTML;
     }
 
-    return str && parsed.innerHTML;
-  });
-
-  eleventyConfig.addTransform("callout-block", function (str) {
-    const parsed = parse(str);
-
+    // 2. callout-block
     const transformCalloutBlocks = (
       blockquotes = parsed.querySelectorAll("blockquote")
     ) => {
@@ -381,14 +437,6 @@ module.exports = function (eleventyConfig) {
           }
         );
 
-        /* Hacky fix for callouts with only a title:
-        This will ensure callout-content isn't produced if
-        the callout only has a title, like this:
-        ```md
-        > [!info] i only have a title
-        ```
-        Not sure why content has a random <p> tag in it,
-        */
         if (content === "\n<p>\n") {
           content = "";
         }
@@ -403,80 +451,36 @@ module.exports = function (eleventyConfig) {
         blockquote.innerHTML = `${titleDiv}${contentDiv}`;
       }
     };
-
     transformCalloutBlocks();
 
-    return str && parsed.innerHTML;
-  });
+    // 3. picture
+    if (process.env.USE_FULL_RESOLUTION_IMAGES !== "true") {
+      for (const imageTag of parsed.querySelectorAll(".cm-s-obsidian img")) {
+        const src = imageTag.getAttribute("src");
+        if (src && src.startsWith("/") && !src.endsWith(".svg")) {
+          const cls = imageTag.classList.value;
+          const alt = imageTag.getAttribute("alt");
+          const width = imageTag.getAttribute("width") || '';
 
-  function fillPictureSourceSets(src, cls, alt, meta, width, imageTag) {
-    imageTag.tagName = "picture";
-    let html = `<source
-      media="(max-width:480px)"
-      srcset="${meta.webp[0].url}"
-      type="image/webp"
-      />
-      <source
-      media="(max-width:480px)"
-      srcset="${meta.jpeg[0].url}"
-      />
-      `
-    if (meta.webp && meta.webp[1] && meta.webp[1].url) {
-      html += `<source
-        media="(max-width:1920px)"
-        srcset="${meta.webp[1].url}"
-        type="image/webp"
-        />`
-    }
-    if (meta.jpeg && meta.jpeg[1] && meta.jpeg[1].url) {
-      html += `<source
-        media="(max-width:1920px)"
-        srcset="${meta.jpeg[1].url}"
-        />`
-    }
-    html += `<img
-      class="${cls.toString()}"
-      src="${src}"
-      alt="${alt}"
-      width="${width}"
-      />`;
-    imageTag.innerHTML = html;
-  }
+          try {
+            const meta = await transformImage(
+              "./src/site" + decodeURI(imageTag.getAttribute("src")),
+              cls.toString(),
+              alt,
+              ["(max-width: 480px)", "(max-width: 1024px)"]
+            );
 
-
-  eleventyConfig.addTransform("picture", function (str) {
-    if (process.env.USE_FULL_RESOLUTION_IMAGES === "true") {
-      return str;
-    }
-    const parsed = parse(str);
-    for (const imageTag of parsed.querySelectorAll(".cm-s-obsidian img")) {
-      const src = imageTag.getAttribute("src");
-      if (src && src.startsWith("/") && !src.endsWith(".svg")) {
-        const cls = imageTag.classList.value;
-        const alt = imageTag.getAttribute("alt");
-        const width = imageTag.getAttribute("width") || '';
-
-        try {
-          const meta = transformImage(
-            "./src/site" + decodeURI(imageTag.getAttribute("src")),
-            cls.toString(),
-            alt,
-            ["(max-width: 480px)", "(max-width: 1024px)"]
-          );
-
-          if (meta) {
-            fillPictureSourceSets(src, cls, alt, meta, width, imageTag);
+            if (meta) {
+              fillPictureSourceSets(src, cls, alt, meta, width, imageTag);
+            }
+          } catch {
+            // Make it fault tolarent.
           }
-        } catch {
-          // Make it fault tolarent.
         }
       }
     }
-    return str && parsed.innerHTML;
-  });
 
-  eleventyConfig.addTransform("table", function (str) {
-    const parsed = parse(str);
+    // 4. table
     for (const t of parsed.querySelectorAll(".cm-s-obsidian > table")) {
       let inner = t.innerHTML;
       t.tagName = "div";
@@ -498,7 +502,8 @@ module.exports = function (eleventyConfig) {
         th.classList.add("table-view-th");
       });
     }
-    return str && parsed.innerHTML;
+
+    return parsed.innerHTML;
   });
 
   eleventyConfig.addTransform("htmlMinifier", async (content, outputPath) => {
