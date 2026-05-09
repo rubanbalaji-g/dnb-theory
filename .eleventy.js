@@ -152,6 +152,8 @@ module.exports = function (eleventyConfig) {
     for (let key in metadataCache) {
       delete metadataCache[key];
     }
+    // Clear the file tree cache
+    global.fileTreeCache = null;
   });
 
   eleventyConfig.setLiquidOptions({
