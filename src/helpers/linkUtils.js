@@ -1,3 +1,9 @@
+const fs = require("fs");
+const path = require("path");
+const matter = require("gray-matter");
+
+const NOTES_DIR = path.resolve(__dirname, "../site/notes");
+
 const wikiLinkRegex = /\[\[(.*?\|.*?)\]\]/g;
 const internalLinkRegex = /href="\/(.*?)"/g;
 
@@ -26,58 +32,93 @@ function extractLinks(content) {
   ];
 }
 
-// Build-level cache: computed once on first page, reused for all subsequent pages
-let _graphCache = null;
-
-async function getGraph(data) {
-  // Return cached result if already computed in this build
-  if (_graphCache) {
-    return _graphCache;
+/**
+ * Recursively find all .md files under a directory.
+ */
+function walkDir(dir) {
+  let results = [];
+  for (const entry of fs.readdirSync(dir)) {
+    const fullPath = path.join(dir, entry);
+    if (fs.statSync(fullPath).isDirectory()) {
+      results = results.concat(walkDir(fullPath));
+    } else if (entry.endsWith(".md")) {
+      results.push(fullPath);
+    }
   }
+  return results;
+}
 
+/**
+ * Build the graph by scanning the filesystem directly.
+ * Runs once per build via addGlobalData — no collections dependency.
+ */
+function buildGraph() {
   let nodes = {};
   let links = [];
   let stemURLs = {};
   let homeAlias = "/";
 
-  // Process notes sequentially to handle async reads
-  const notes = data.collections.note || [];
-  for (let idx = 0; idx < notes.length; idx++) {
-    const v = notes[idx];
-    let fpath = v.filePathStem.replace("/notes/", "");
-    let parts = fpath.split("/");
+  const noteFiles = walkDir(NOTES_DIR);
+
+  for (let idx = 0; idx < noteFiles.length; idx++) {
+    const filePath = noteFiles[idx];
+    const relativePath = path.relative(NOTES_DIR, filePath).replace(/\\/g, "/");
+    // fpath mirrors what the collection-based code did: v.filePathStem.replace("/notes/", "")
+    const fpath = relativePath.replace(/\.md$/, "");
+    const parts = fpath.split("/");
     let group = "none";
     if (parts.length >= 3) {
       group = parts[parts.length - 2];
     }
+    const fileSlug = parts[parts.length - 1];
 
-    // Use async read() method instead of accessing frontMatter directly
-    const templateContent = await v.template.read();
-    const content = templateContent?.content || "";
+    let fileContent;
+    try {
+      fileContent = fs.readFileSync(filePath, "utf8");
+    } catch {
+      continue;
+    }
 
-    nodes[v.url] = {
+    const frontMatter = matter(fileContent);
+    const data = frontMatter.data;
+    const content = frontMatter.content || "";
+
+    const tags = data.tags
+      ? (Array.isArray(data.tags) ? data.tags : [data.tags])
+      : [];
+    const isGardenEntry = tags.indexOf("gardenEntry") > -1;
+    const isHome = data["dg-home"] || isGardenEntry || false;
+
+    // Compute URL: use permalink from front matter, or Eleventy default
+    let url;
+    if (isGardenEntry) {
+      url = "/";
+    } else if (data.permalink) {
+      url = data.permalink;
+    } else {
+      // Eleventy default: /<path relative to input dir>/
+      url = `/notes/${fpath}/`;
+    }
+
+    nodes[url] = {
       id: idx,
-      title: v.data.title || v.fileSlug,
-      url: v.url,
+      title: data.title || fileSlug,
+      url: url,
       group,
-      home:
-        v.data["dg-home"] ||
-        (v.data.tags && v.data.tags.indexOf("gardenEntry") > -1) ||
-        false,
+      home: isHome,
       outBound: extractLinks(content),
       neighbors: new Set(),
       backLinks: new Set(),
-      noteIcon: v.data.noteIcon || process.env.NOTE_ICON_DEFAULT,
-      hide: v.data.hideInGraph || false,
+      noteIcon: data.noteIcon || process.env.NOTE_ICON_DEFAULT,
+      hide: data.hideInGraph || false,
     };
-    stemURLs[fpath] = v.url;
-    if (
-      v.data["dg-home"] ||
-      (v.data.tags && v.data.tags.indexOf("gardenEntry") > -1)
-    ) {
-      homeAlias = v.url;
+    stemURLs[fpath] = url;
+    if (isHome) {
+      homeAlias = url;
     }
   }
+
+  // Resolve links between nodes
   Object.values(nodes).forEach((node) => {
     let outBound = new Set();
     node.outBound.forEach((olink) => {
@@ -95,26 +136,22 @@ async function getGraph(data) {
       }
     });
   });
+
+  // Convert Sets to Arrays
   Object.keys(nodes).map((k) => {
     nodes[k].neighbors = Array.from(nodes[k].neighbors);
     nodes[k].backLinks = Array.from(nodes[k].backLinks);
     nodes[k].size = nodes[k].neighbors.length;
   });
 
-  _graphCache = {
+  return {
     homeAlias,
     nodes,
     links,
   };
-  return _graphCache;
-}
-
-function clearGraphCache() {
-  _graphCache = null;
 }
 
 exports.wikiLinkRegex = wikiLinkRegex;
 exports.internalLinkRegex = internalLinkRegex;
 exports.extractLinks = extractLinks;
-exports.getGraph = getGraph;
-exports.clearGraphCache = clearGraphCache;
+exports.buildGraph = buildGraph;
