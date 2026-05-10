@@ -143,7 +143,7 @@ body {
 }
 
 main.content {
-    --dg-content-max-width: 750px; /* Slightly reduced from 800px for better fit */
+    --dg-content-max-width: 820px; /* Increased from 750px to occupy newly available width */
     max-width: var(--dg-content-max-width) !important;
     margin-right: auto !important;
     padding-left: 20px !important;
