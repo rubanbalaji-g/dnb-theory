@@ -111,8 +111,16 @@ function assignNested(obj, keyPath, value) {
   obj[keyPath[lastKeyIndex]] = value;
 }
 
+// Build-level cache: computed once on first page, reused for all subsequent pages
+let _fileTreeCache = null;
+
 // Changed to 'async' and replaced .forEach with for...of loop
 async function getFileTree(data) {
+  // Return cached result if already computed in this build
+  if (_fileTreeCache) {
+    return _fileTreeCache;
+  }
+
   const tree = {};
   const notes = data.collections.note || [];
   
@@ -122,7 +130,13 @@ async function getFileTree(data) {
   }
   
   const fileTree = sortTree(tree);
+  _fileTreeCache = fileTree;
   return fileTree;
 }
 
+function clearFileTreeCache() {
+  _fileTreeCache = null;
+}
+
 exports.getFileTree = getFileTree;
+exports.clearFileTreeCache = clearFileTreeCache;

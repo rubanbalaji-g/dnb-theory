@@ -13,6 +13,8 @@ const {
   userMarkdownSetup,
   userEleventySetup,
 } = require("./src/helpers/userSetup");
+const { clearFileTreeCache } = require("./src/helpers/filetreeUtils");
+const { clearGraphCache } = require("./src/helpers/linkUtils");
 
 const Image = require("@11ty/eleventy-img");
 
@@ -152,6 +154,15 @@ module.exports = function (eleventyConfig) {
     for (let key in metadataCache) {
       delete metadataCache[key];
     }
+    // Clear file tree and graph caches so they are rebuilt fresh each build
+    clearFileTreeCache();
+    clearGraphCache();
+  });
+
+  eleventyConfig.on("eleventy.after", () => {
+    // Clear caches after build completes to prevent stale data
+    clearFileTreeCache();
+    clearGraphCache();
   });
 
   eleventyConfig.setLiquidOptions({

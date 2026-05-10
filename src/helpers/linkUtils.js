@@ -26,7 +26,15 @@ function extractLinks(content) {
   ];
 }
 
+// Build-level cache: computed once on first page, reused for all subsequent pages
+let _graphCache = null;
+
 async function getGraph(data) {
+  // Return cached result if already computed in this build
+  if (_graphCache) {
+    return _graphCache;
+  }
+
   let nodes = {};
   let links = [];
   let stemURLs = {};
@@ -92,14 +100,21 @@ async function getGraph(data) {
     nodes[k].backLinks = Array.from(nodes[k].backLinks);
     nodes[k].size = nodes[k].neighbors.length;
   });
-  return {
+
+  _graphCache = {
     homeAlias,
     nodes,
     links,
   };
+  return _graphCache;
+}
+
+function clearGraphCache() {
+  _graphCache = null;
 }
 
 exports.wikiLinkRegex = wikiLinkRegex;
 exports.internalLinkRegex = internalLinkRegex;
 exports.extractLinks = extractLinks;
 exports.getGraph = getGraph;
+exports.clearGraphCache = clearGraphCache;
