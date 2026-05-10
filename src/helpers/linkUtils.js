@@ -101,12 +101,16 @@ async function getGraph(data) {
     nodes[k].size = nodes[k].neighbors.length;
   });
 
-  _graphCache = {
+  const result = {
     homeAlias,
     nodes,
     links,
   };
-  return _graphCache;
+  // Only cache if collections were populated — early pages may have empty collections
+  if (notes.length > 0) {
+    _graphCache = result;
+  }
+  return result;
 }
 
 function clearGraphCache() {

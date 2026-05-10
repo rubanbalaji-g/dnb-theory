@@ -130,7 +130,10 @@ async function getFileTree(data) {
   }
   
   const fileTree = sortTree(tree);
-  _fileTreeCache = fileTree;
+  // Only cache if collections were populated — early pages may have empty collections
+  if (notes.length > 0) {
+    _fileTreeCache = fileTree;
+  }
   return fileTree;
 }
 
