@@ -6,10 +6,9 @@
 
 - Represents modified and purified toxin.
 - Classified as inactivated vaccine.
-- Fails to cause injury to recipient.
 - Requires multiple divided doses to decrease adverse effects and elicit high antibody titers.
 - Demonstrates inability to eliminate Corynebacterium diphtheriae from skin or nasopharynx.
-- Fails to provide permanent immunity.
+- Does not to provide permanent immunity.
 - Waning immunity necessitates regular booster doses.
 
 ## Immunogenicity And Protection

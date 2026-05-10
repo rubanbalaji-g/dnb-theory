@@ -39,8 +39,8 @@
 ## High-Risk Indications
 
 - Chronic cardiac or pulmonary conditions.
-- Asymptomatic human immunodeficiency virus infection maintaining cluster of differentiation 4 >15 percent.
-- Acute lymphatic leukemia in continuous remission >12 months, off chemotherapy, maintaining lymphocyte count >700/mm³ and platelet count >100,000/mm³.
+- Asymptomatic HIV infection maintaining CD4 >15 percent.
+- ALL in continuous remission >12 months, off chemotherapy, maintaining lymphocyte count >700/mm³ and platelet count >100,000/mm³.
 - Children requiring prolonged salicylate therapy (salicylates must be withheld 6 weeks post-vaccination).
 - Seronegative household contacts of immunocompromised individuals to prevent secondary transmission.
 

@@ -2,7 +2,7 @@
 {"dg-publish":true,"uplink":"/misc/miscellaneous-topics/","uptext":"Back to Index (⭕ Misc)","permalink":"/misc/malaria-vaccine/","dgPassFrontmatter":true}
 ---
 
-## Introduction
+ ## Introduction
 
 - Represent critical milestones in combating _Plasmodium falciparum_ infections globally.
 - Target pre-erythrocytic stage specifically.

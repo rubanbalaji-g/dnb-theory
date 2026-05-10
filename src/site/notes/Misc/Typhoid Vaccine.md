@@ -28,7 +28,7 @@
 ### Safety Profile
 
 - Mild local pain and swelling frequently observed.
-- Safe for immunocompromised individuals including human immunodeficiency virus patients.
+- Safe for immunocompromised individuals including human immunodeficiency virus infected patients.
 
 ## Typhoid Conjugate Vaccine (TCV)
 

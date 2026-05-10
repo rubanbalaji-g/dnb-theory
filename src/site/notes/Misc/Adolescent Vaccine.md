@@ -2,101 +2,62 @@
 {"dg-publish":true,"uplink":"/misc/miscellaneous-topics/","uptext":"Back to Index (⭕ Misc)","permalink":"/misc/adolescent-vaccine/","dgPassFrontmatter":true}
 ---
 
-## Introduction And Epidemiology
+## Introduction and Rationale
+- **Definition:** Adolescence is defined by the World Health Organization (WHO) as the period between 10 to 19 years of age.
+- **Epidemiological Significance:** India has the largest adolescent population globally, necessitating targeted preventive healthcare interventions.
+- **Rationale for Vaccination:**
+	- **Waning Immunity:** Decline of protective antibody titers from primary childhood immunization (e.g., Diphtheria, Pertussis).
+	- **Epidemiological Shift:** Improved sanitation has shifted the incidence of certain diseases to older age groups, increasing the risk of severe manifestations (e.g., Hepatitis A, Varicella).
+	- **Newer Exposures:** Onset of sexual activity increases susceptibility to sexually transmitted infections (e.g., Human Papillomavirus, Hepatitis B).
+	- **Future Progeny Protection:** Immunization against Rubella prevents Congenital Rubella Syndrome in future pregnancies.
+	- **Catch-up Opportunity:** Provides a safety net for those who missed the primary immunization series during childhood.
 
-- Human papillomavirus (HPV) belongs to Papillomaviridae family.
-- Small, non-enveloped double-stranded deoxyribonucleic acid (DNA) virus.
-- Transmitted primarily through sexual contact.
-- Causes cervical, anal, penile, oropharyngeal, vulvar, and vaginal cancers.
-- India accounts for approximately 25% of global cervical cancer deaths.
-- Cervical cancer ranks as second most common cancer among Indian women.
-- One Indian woman dies every 8 minutes from cervical cancer.
+## Indian Academy of Pediatrics (IAP) Recommendations
+The IAP Advisory Committee on Vaccines and Immunization Practices (ACVIP) categorizes adolescent vaccines into three distinct groups:
 
-## Serotypes And Clinical Manifestations
+### Routine / Mandatory Vaccines
+These are universally recommended for all adolescents to maintain baseline herd immunity and personal protection.
+- **Tdap (Tetanus, Diphtheria, Acellular Pertussis):**
+	- **Indication:** Replaces the traditional Td or TT vaccine to address the resurgence of pertussis in older age groups.
+	- **Schedule:** Single dose of Tdap at 10 to 12 years of age.
+	- **Catch-up:** If missed, one dose of Tdap can be given at any time, followed by Td boosters every 10 years.
+- **Human Papillomavirus (HPV) Vaccine:**
+	- **Indication:** Primary prevention of cervical, vaginal, vulvar, and anogenital cancers, as well as genital warts.
+	- **Primary Target:** Females aged 9 to 14 years. Catch-up is permitted up to 26 years. Can also be offered to males.
+	- **Preparations:** Bivalent (HPV2), Quadrivalent (HPV4), and Nonavalent (HPV9 - preferred).
+	- **Schedule (9 to 14 years):** 2 doses administered at 0 and 6 months.
+	- **Schedule (15 years and above, or immunocompromised):** 3 doses administered at 0, 1 to 2, and 6 months.
 
-- High-risk oncogenic types: 16, 18, 31, 33, 35, 39, 45, 51, 52, 58, 59, 66.
-- Types 16 and 18 cause 70-80% of invasive cervical cancers worldwide.
-- Low-risk non-oncogenic types: 6, 11.
-- Types 6 and 11 cause 90% of anogenital warts and recurrent respiratory papillomatosis.
+### Catch-Up Vaccines
+Indicated for adolescents who have not completed their primary immunization series.
+- **Measles, Mumps, and Rubella (MMR):**
+	- **Schedule:** If completely unimmunized, 2 doses at an interval of 4 to 8 weeks. If 1 previous dose was given, administer 1 catch-up dose. Highly prioritized for females.
+- **Hepatitis B:**
+	- **Schedule:** For unvaccinated adolescents, a 3-dose series at 0, 1, and 6 months.
+- **Hepatitis A:**
+	- **Schedule:** 2 doses of inactivated vaccine (at 0 and 6 months) or a single dose of live attenuated vaccine. Prior serological testing (Anti-HAV IgG) is often considered cost-effective in endemic countries like India.
+- **Varicella:**
+	- **Schedule:** For those with no reliable history of clinical chickenpox or prior vaccination, 2 doses administered 4 to 8 weeks apart.
+- **Typhoid:**
+	- **Schedule:** Single dose of Typhoid Conjugate Vaccine (TCV) if not received previously.
 
-## Available Human Papillomavirus Vaccines
+### Vaccines for Special Circumstances / High-Risk Groups
+Targeted towards adolescents with specific underlying medical conditions, lifestyle risks, or travel requirements.
+- **Pneumococcal Vaccine (PCV followed by PPSV23):**
+	- **Indications:** Functional or anatomic asplenia (e.g., Sickle cell disease), HIV, chronic renal/cardiac/pulmonary disease, cochlear implants, CSF leaks.
+- **Meningococcal Vaccine (MenACWY Conjugate):**
+	- **Indications:** Terminal complement deficiencies, functional/anatomic asplenia, travel to endemic zones (e.g., Hajj, sub-Saharan Africa), and hostel/dormitory residents.
+- **Influenza Vaccine:**
+	- **Indications:** Annual administration for those with chronic respiratory conditions (e.g., severe asthma), hemodynamically significant cardiac disease, or immunosuppression.
+- **Rabies (Pre-exposure Prophylaxis):**
+	- **Indications:** High risk of unprovoked animal bites (e.g., veterinary handlers, certain geographic locations). Schedule involves days 0, 7, and 21 or 28.
+- **Japanese Encephalitis (JE) / Cholera / Yellow Fever:**
+	- **Indications:** Driven by regional endemicity and international travel protocols.
 
-|Feature|Bivalent (Cervarix)|Quadrivalent (Gardasil-4)|Quadrivalent (Cervavac)|Nonavalent (Gardasil-9)|
-|:--|:--|:--|:--|:--|
-|Serotypes Covered|16, 18|6, 11, 16, 18|6, 11, 16, 18|6, 11, 16, 18, 31, 33, 45, 52, 58|
-|Manufacturer|GSK|MSD (Merck)|Serum Institute of India|MSD (Merck)|
-|Approved Gender|Females|Females only (India)|Males and Females|Males and Females|
-|Approved Age|9-45 years|9-45 years|9-26 years|9-26 years (Females) / 9-14 years (Males)|
-|Adjuvant|AS04|Amorphous aluminum hydroxyphosphate sulfate|Aluminum ion|Amorphous aluminum hydroxyphosphate sulfate|
-
-## Immunization Schedule And Guidelines
-
-### Indian Academy Of Pediatrics Recommendations
-
-|Age Group|Doses Required|Schedule|Minimum Intervals|
-|:--|:--|:--|:--|
-|9-14 years (Boys & Girls)|2 doses|0, 6 months|5 months between dose 1 and 2|
-|15-26 years (Boys & Girls)|3 doses|0, 2, 6 months|Dose 1-2: 4 weeks. Dose 2-3: 12 weeks. Dose 1-3: 5 months|
-|Immunocompromised (Any Age)|3 doses|0, 2, 6 months|As per standard 3-dose schedule|
-
-### Administration Details
-
-- Dose: 0.5 mL.
-- Route: Intramuscular injection.
-- Site: Deltoid muscle (left upper arm).
-- Co-administration: Safe with other vaccines (hepatitis B, Tdap, meningococcal) at different anatomical sites.
-- Maximum age for catch-up: 45 years for females (Gardasil-4), 26 years for females/males (Gardasil-9, Cervavac).
-- Interrupted schedule: Do not restart series. Continue from missed dose.
-
-## Nationwide Vaccination Campaign
-
-- Launched February 28, 2026, in India.
-- Target population: 14-year-old girls (approx. 1.15 crore annual cohort).
-- Vaccine utilized: Gardasil-4.
-- Schedule: Single-dose regimen (0.5 mL).
-- Provision: Free of cost at Government Health Facilities.
-- Registration: U-WIN digital platform.
-
-## Special Circumstances
-
-### Pregnancy And Lactation
-
-- Routine pregnancy testing not required before vaccination.
-- Contraindicated during pregnancy.
-- Inadvertent administration during early pregnancy requires no termination.
-- Withhold remaining doses until postpartum period.
-- Safe during lactation.
-
-### Immunocompromised And Hiv Patients
-
-- Administer 3-dose schedule irrespective of age.
-- Recommended for human immunodeficiency virus (HIV) infected individuals.
-
-### Sexual Assault Victims
-
-- Integrate vaccination into initial sexual assault management.
-- Mandatory 3-dose series regardless of victim age.
-- Administer first dose during initial examination.
-
-### Previous Human Papillomavirus Infection Or Abnormal Pap Smear
-
-- Human papillomavirus DNA testing not recommended prior to vaccination.
-- Vaccine provides protection against unacquired serotypes.
-- Offers no therapeutic effect against pre-existing infection or neoplastic processes.
-- Routine cervical cancer screening must continue post-vaccination.
-
-## Safety Profile And Adverse Effects
-
-- Outstanding safety profile with over 500 million doses administered globally.
-- Common adverse effects: Injection site pain, swelling, erythema, mild fever.
-- Adolescent syncope occurs frequently post-vaccination.
-- Mandatory observation in seated or supine position for 15 minutes post-vaccination.
-- No association with infertility, autoimmune conditions, or premature ovarian failure.
-- Contraindications: Severe allergic reaction or anaphylaxis to yeast or previous vaccine dose.
-
-## Efficacy
-
-- Prevents 93-100% of cervical cancers caused by vaccine serotypes.
-- Nonavalent vaccine prevents up to 90% of all cervical cancers.
-- Demonstrates strong herd effect, reducing viral circulation among unvaccinated populations.
-- Most immunogenic when administered prior to sexual debut.
+## National Programs and Implementation Challenges
+- **Universal Immunization Programme (UIP):** Currently provides Td at 10 and 16 years. Introduction of the HPV vaccine through a phased national rollout from Feb 28, 2026.
+- **Challenges in India:** High out-of-pocket expenditure for newer vaccines (HPV, Tdap), lack of awareness among parents, poor health-seeking behavior in otherwise healthy adolescents, and the lack of a dedicated adolescent healthcare delivery platform.
+- **Strategies for Optimization:**
+	- Integrating comprehensive immunization drives into the **School Health Program**.
+	- Leveraging Adolescent Friendly Health Clinics (AFHCs) under the **Rashtriya Kishor Swasthya Karyakram (RKSK)**.
+	- Opportunistic screening and vaccination during routine outpatient department (OPD) visits.

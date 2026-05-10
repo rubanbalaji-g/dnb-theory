@@ -2,47 +2,67 @@
 {"dg-publish":true,"uplink":"/genetics/genetics/","uptext":"Back to Index (🧬 Genetics)","permalink":"/genetics/cytogenetic-analysis/","dgPassFrontmatter":true}
 ---
 
-### Overview and Principles
+## Definition and Overview
 
-- Clinical cytogenetics involves the study of chromosomes, specifically examining their structure, function, inheritance, and abnormalities.
-- Chromosome abnormalities are a frequent cause of genetic disease, occurring in approximately 1-2% of live births, 5% of stillbirths, and 50% of early first-trimester fetal losses.
-- Standard cytogenetic analysis produces a karyotype (or karyogram), which is a digital representation of the entire genome's chromosomes paired and organized according to internationally accepted standard conventions based on length, banding pattern, and centromere position.
+- Cytogenetic analysis involves the study of chromosome number, structure, and function, typically in metaphase cells, to detect numerical and structural abnormalities.
+- Provides a visual and genomic assessment of large-scale chromosomal changes, acting as a cornerstone in pediatric genetics for evaluating dysmorphic syndromes, congenital anomalies, and malignancies.
+- Standard resolution for classical karyotyping is 5 to 10 Megabases (Mb), whereas molecular cytogenetic techniques like Chromosomal Microarray (CMA) offer a much higher resolution of 10 to 100 kilobases (kb).
 
-### Indications for Cytogenetic Analysis
+## Indications for Cytogenetic Testing
 
-- Cytogenetic evaluation is crucial for diagnosing numerous genetic, developmental, and reproductive conditions.
+- Cytogenetic evaluation is crucial for diagnosing a multitude of genetic, developmental, and reproductive conditions.
 
 |Clinical Category|Specific Indications|
-|:--|:--|
-|**Pediatric / Developmental**|Unexplained intellectual disability, global developmental delay, multiple congenital anomalies, dysmorphic features, ambiguous genitalia, and autism spectrum disorders.|
-|**Reproductive / Endocrine**|Primary amenorrhea, infertility, recurrent miscarriages ($\geq$3), prior history of stillbirths or neonatal deaths.|
-|**Prenatal Testing**|Advanced maternal age ($\geq$35 years), abnormal fetal ultrasound findings, unexplained fetal growth restriction.|
-|**Oncology / Hematology**|Tumor surveillance (especially for leukemia using bone marrow aspirates) and evaluation for chromosome instability syndromes (e.g., Fanconi anemia, Bloom syndrome).|
+|---|---|
+|**Pediatric and Developmental**|Unexplained intellectual disability, global developmental delay, multiple congenital anomalies, dysmorphic features, ambiguous genitalia, and autism spectrum disorders.|
+|**Reproductive and Endocrine**|Primary amenorrhea, infertility, recurrent miscarriages, prior history of stillbirths or neonatal deaths.|
+|**Prenatal Testing**|Advanced maternal age, abnormal fetal ultrasound findings, unexplained fetal growth restriction, abnormal noninvasive prenatal testing (NIPT).|
+|**Oncology and Hematology**|Tumor surveillance (especially leukemia using bone marrow aspirates) and evaluation for chromosome instability syndromes.|
 
-### Methodology of Conventional Karyotyping
+## Methodologies and Techniques
 
-- Chromosomes must be prepared from actively dividing cells during mitosis.
-- Tissue sources include peripheral blood lymphocytes, skin fibroblasts (from skin biopsy), bone marrow aspirates, solid tumor biopsies, amniotic fluid (amniocytes), chorionic villi, and fetal blood.
-- The laboratory process is highly labor-intensive and begins with culturing the cells, with or without specific stimulation.
-- Cells are artificially arrested in mitosis, typically during metaphase or prometaphase, using a chemical agent such as colecimid.
-- A hypotonic solution is applied to disrupt the nuclear cell membrane, allowing for the proper dispersion of chromosomes on a slide.
-- Slides are fixed and stained; the most widely used method is GTG banding (G bands by trypsin using Giemsa), which produces a unique pattern of dark (G-positive) and light (G-negative) bands for each chromosome pair.
-- A standard metaphase spread provides a resolution of 450 to 550 bands, allowing the detection of numerical abnormalities and structural anomalies down to approximately 5 Megabases (Mb) in size.
-- High-resolution analysis utilizes less-condensed prometaphase or prophase chromosomes to yield 550 to 850 bands, aiding in the detection of smaller abnormalities.
+### Conventional Karyotyping (G-Banding)
+
+- **Sample Collection**: Peripheral blood lymphocytes, skin fibroblasts, bone marrow aspirates, amniotic fluid, or chorionic villi.
+- **Procedure**:
+    - Cells are cultured and stimulated (e.g., with phytohemagglutinin for lymphocytes).
+    - Dividing cells are artificially arrested in metaphase or prometaphase using a chemical agent like colchicine or colcemid.
+    - A hypotonic solution disrupts the nuclear cell membrane to disperse chromosomes.
+    - Slides are fixed and stained with Giemsa (G-banding) to produce a unique sequence of dark and light bands.
+- **Resolution**: A standard metaphase spread provides 450 to 550 bands, detecting anomalies down to approximately 5 Mb in size.
 
 ### Molecular Cytogenetic Techniques
 
-- Molecular cytogenetics is utilized to detect subtle abnormalities that fall below the 5 Mb resolution limit of conventional karyotyping.
+- Utilized to detect subtle submicroscopic abnormalities that fall below the 5 Mb resolution limit of conventional karyotyping.
 
 |Technique|Principles and Clinical Utility|
-|:--|:--|
-|**Fluorescence In Situ Hybridization (FISH)**|Utilizes fluorochrome-labeled DNA probes (unique sequence, repetitive, or multiple-copy) that hybridize to complementary target sequences on metaphase chromosomes or interphase nuclei. It is used for rapid prenatal aneuploidy screening, sex assignment, and confirmation of microdeletion/microduplication syndromes.|
-|**Chromosomal Microarray (CMA) / aCGH**|Differentially labels patient DNA (e.g., green dye) and reference DNA (e.g., red dye), hybridizing them to a microarray grid of oligonucleotides encompassing the entire genome. The fluorescence ratio detects copy number variations (CNVs). It offers up to 50-fold higher resolution than karyotyping and does not require dividing cells.|
-|**Single Nucleotide Polymorphism (SNP) Arrays**|A type of CMA that evaluates polymorphic variations between nucleotides in parallel. It is highly useful for detecting uniparental disomy (genetic information derived from only one parent) and regions of consanguinity or loss of heterozygosity.|
-|**Multiplex Ligation-Dependent Probe Amplification (MLPA) & qPCR**|Targeted molecular methods utilizing specific markers to rapidly detect submicroscopic chromosomal abnormalities within 1-2 days. Highly useful for rapid aneuploidy detection and identifying specific microdeletion syndromes.|
+|---|---|
+|**Fluorescence In Situ Hybridization (FISH)**|Utilizes fluorochrome-labeled DNA probes on interphase or metaphase cells. Does not require cell culture. Used for rapid prenatal aneuploidy screening and confirmation of specific microdeletion/microduplication syndromes.|
+|**Chromosomal Microarray (CMA)**|Differentially labels patient and reference DNA, hybridizing them to a microarray grid. Detects copy number variations (CNVs). Provides up to 50-fold higher resolution than karyotyping and does not require dividing cells.|
+|**Single Nucleotide Polymorphism (SNP) Arrays**|A type of CMA that evaluates polymorphic variations. Highly useful for detecting uniparental disomy (UPD), regions of homozygosity (ROH), and consanguinity.|
 
-### Diagnostic Yield and Limitations
+## Types of Abnormalities Detected
 
-- CMA is currently recommended as the first-tier clinical diagnostic test for individuals with unexplained intellectual disability, autism spectrum disorders, and multiple congenital anomalies, replacing karyotyping for these indications.
-- While highly sensitive, CMA may detect variants of uncertain significance (VUS) or benign familial variants, often necessitating parental testing to interpret the clinical relevance of a detected CNV.
-- Conventional karyotyping remains essential for identifying balanced structural rearrangements (such as reciprocal translocations and inversions) that do not involve a net gain or loss of genetic material, which CMA cannot detect.
+### Numerical Abnormalities
+
+- **Aneuploidy**: Includes trisomies (e.g., Trisomy 21, 18, 13), monosomies (e.g., 45,X in Turner syndrome), and sex chromosome aneuploidies (e.g., 47,XXY).
+- **Polyploidy**: Includes triploidy (e.g., 69,XXX).
+
+### Structural Abnormalities
+
+- **Deletions and Duplications**: Detects large losses or gains of genetic material, including microdeletions via FISH and CMA.
+- **Rearrangements**: Detects balanced and unbalanced translocations, inversions (pericentric/paracentric), ring chromosomes, and isochromosomes.
+- **Mosaicism**: Identifies mixtures of genetically distinct cell lines (e.g., 45,X/46,XX) provided a sufficient number of metaphases are analyzed.
+
+## Advantages and Limitations
+
+|Modality|Advantages|Limitations|
+|---|---|---|
+|**Conventional Karyotyping**|Direct visualization of the entire genome. Low cost. Essential for identifying balanced structural rearrangements (translocations, inversions).|Low resolution (misses microdeletions <5 Mb). Requires dividing cells. Subjective interpretation. Time-consuming.|
+|**Chromosomal Microarray (CMA)**|High resolution (detects 10-50 kb anomalies). Does not require dividing cells. Automated quantitative interpretation. Higher diagnostic yield (15-20%).|Cannot detect balanced chromosomal rearrangements. Cannot detect point mutations. Limited utility in detecting low-level mosaicism (<20-30%).|
+
+## Current Guidelines and Clinical Integration
+
+- **First-Tier Testing**: CMA is currently recommended as the first-tier diagnostic test for children presenting with unexplained intellectual disability, autism spectrum disorder, and multiple congenital anomalies.
+- **Sequential Approach**: Per ICMR guidelines, conventional karyotype with or without FISH is indicated initially if there is a strong clinical suspicion of classical aneuploidy or a large structural rearrangement, followed by CMA and Next-Generation Sequencing (NGS) if negative.
+- **Recurrence Risk**: Conventional karyotyping remains mandatory for patients with structurally unbalanced anomalies (e.g., Translocation Down syndrome) to screen parents for balanced carrier status, dictating accurate genetic counselling and recurrence risk calculation.

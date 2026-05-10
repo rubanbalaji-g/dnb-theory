@@ -2,70 +2,71 @@
 {"dg-publish":true,"uplink":"/genetics/genetics/","uptext":"Back to Index (🧬 Genetics)","permalink":"/genetics/prenatal-diagnosis-of-downs-syndrome-and-other-trisomies/","dgPassFrontmatter":true}
 ---
 
-### Indications and Risk Assessment
+Prenatal diagnosis of chromosomal trisomies, predominantly Trisomy 21 (Down syndrome), Trisomy 18 (Edwards syndrome), and Trisomy 13 (Patau syndrome), aims to provide expectant parents with accurate information regarding fetal genetic health to facilitate informed reproductive choices and perinatal management.
 
-- Advanced maternal age is a primary risk factor for autosomal trisomies due to meiotic nondisjunction, particularly in the maternal gamete.
-- The risk for Down syndrome (Trisomy 21) in newborns increases significantly with maternal age: 1:1550 at 15-29 years, 1:800 at 30-34 years, 1:270 at 35-39 years, 1:100 at 40-44 years, and 1:50 after 45 years.
-- Invasive prenatal fetal karyotyping is routinely offered if the screening risk of bearing a child with Down syndrome exceeds 1:250.
-- Genetic counseling and prenatal diagnosis are recommended for women 35 years of age or older at delivery, couples with a previous child with a chromosomal abnormality, or if prenatal screening tests return abnormal results.
+## Indications for Prenatal Screening and Diagnosis
 
-### Non-Invasive Screening Tests
+- Advanced maternal age, typically 35 years or older at the time of delivery.
+- Previous child affected by a chromosomal abnormality.
+- Either parent identified as a carrier of a balanced structural rearrangement, such as a Robertsonian translocation.
+- Abnormal findings detected on routine fetal ultrasonography.
+- Positive results obtained from non-invasive maternal serum screening tests.
 
-- Prenatal screening aims to identify high-risk pregnancies using maternal serum markers, ultrasonography, and cell-free fetal DNA.
-- First-trimester screening (dual test) combined with ultrasound markers achieves a high detection rate of 85-90% for aneuploidies.
-- Non-invasive prenatal screening (NIPS) evaluates cell-free fetal DNA of trophoblastic or placental origin in the maternal blood after 10 weeks of gestation.
-- NIPS utilizes next-generation sequencing (NGS) to screen for common aneuploidies involving chromosomes 13, 18, 21, X, and Y.
-- NIPS possesses a highly accurate negative predictive value of 98-99%, though positive tests still require confirmation via invasive diagnostic procedures.
+## Non-Invasive Screening Strategies
 
-|Screening Modality|Trimester|Specific Markers / Analytes|
-|:--|:--|:--|
-|**First Trimester Serum**|First|Pregnancy-associated plasma protein A (PAPP-A), Free human chorionic gonadotropin (hCG)|
-|**Second Trimester Serum (Triple/Quad Test)**|Second|Alpha-fetoprotein (AFP), hCG, Unconjugated estriol, Inhibin A|
-|**Non-Invasive Prenatal Screening (NIPS)**|First (after 10 weeks)|Cell-free fetal DNA in maternal plasma|
+### First Trimester Screening
 
-### Maternal Serum Screening Profiles
+- **Timing:** Performed between 11 and 13+6 weeks of gestation.
+- **Ultrasonography Markers:** Increased Nuchal Translucency (NT), typically >3.0 mm or >95th percentile, and absent nasal bone are robust markers for aneuploidy.
+- **Biochemical Markers:**
+    - Pregnancy-Associated Plasma Protein A (PAPP-A) is significantly decreased in Trisomies 21, 18, and 13.
+    - Free beta-hCG is elevated in Trisomy 21, but decreased in Trisomies 18 and 13.
 
-- In pregnancies affected by Down syndrome, second-trimester screening reveals low levels of alpha-fetoprotein (AFP) and unconjugated estriol, accompanied by high levels of hCG.
-- The detection rate for Down syndrome using the triple and quadruple tests in the second trimester is approximately 65% and 75%, respectively, with a 5% false-positive rate.
-- In fetuses with Trisomy 18 (Edwards syndrome), all three primary markers (AFP, estriol, and hCG) are notably reduced.
+### Second Trimester Screening
 
-### Ultrasonography Findings in Trisomies
+- **Timing:** Performed between 15 and 20 weeks of gestation.
+- **Biochemical Markers:** Utilizes Triple Marker Test (AFP, uE3, hCG) or Quadruple Marker Test (adds Inhibin-A).
+    - Down Syndrome Profile: Low AFP, low uE3, high hCG, high Inhibin-A.
+    - Edwards Syndrome Profile: Low AFP, low uE3, low hCG.
+- **Genetic Sonogram (Level II Ultrasound):** Detects structural malformations and soft markers, such as choroid plexus cysts for Trisomy 18, or atrioventricular canal defects for Trisomy 21.
 
-- Fetal ultrasonography is a robust, non-invasive tool to detect structural anomalies and markers that suggest a high risk for chromosomal abnormalities.
+### Non-Invasive Prenatal Testing (NIPT)
 
-|Chromosomal Disorder|Trimester|Characteristic Ultrasound Findings|
-|:--|:--|:--|
-|**Trisomy 21 (Down Syndrome)**|First|Increased nuchal translucency, absence of nasal bone|
-|**Trisomy 21 (Down Syndrome)**|Second|Increased nuchal fold thickness, short femur and humerus, duodenal atresia, congenital heart defects (e.g., endocardial cushion defects)|
-|**Trisomy 18 (Edwards Syndrome)**|Second/Third|Intrauterine growth restriction (IUGR), clenched hands with overlapping digits, prominent occiput, rocker-bottom feet, micrognathia, congenital heart and renal malformations, polyhydramnios|
-|**Trisomy 13 (Patau Syndrome)**|Second/Third|Holoprosencephaly, cleft lip (often midline) and palate, microphthalmia, postaxial polydactyly, hypoplastic ribs, aplasia cutis congenita (scalp defects), cardiac anomalies|
-|**Monosomy X (Turner Syndrome)**|First/Second|Increased nuchal fold thickness, severe lymphedema, fetal hydrops, coarctation of the aorta|
+- **Mechanism:** Analyzes cell-free fetal DNA fragments of placental origin circulating in maternal blood.
+- **Timing and Performance:** Can be performed from 10 weeks onwards. It offers >99% detection rate for Trisomy 21 with a false-positive rate of <0.1%.
+- **Limitation:** It is a screening test; positive results mandate confirmation via invasive diagnostic testing.
 
-### Invasive Diagnostic Procedures
-
-- Invasive testing provides fetal cells for definitive chromosomal and molecular diagnosis, indicated when screening tests are positive or when maternal risk factors are highly significant.
-- Positive NIPS or abnormal maternal serum screens must be confirmed using these invasive diagnostic modalities.
-- Amniotic fluid is the preferred sample for traditional chromosomal studies, whereas chorionic tissue is frequently used for DNA-based tests and enzyme assays.
+## Definitive Diagnostic Methods (Invasive Procedures)
 
 |Procedure|Gestational Timing|Tissue Sampled|Procedure-Related Risk|
 |:--|:--|:--|:--|
-|**Chorionic Villus Sampling (CVS)**|10-12 or 11-12 weeks|Placental chorionic villi (transcervical or transabdominal)|0.2-0.3%|
-|**Amniocentesis**|16-20 weeks|Amniotic fluid (containing desquamated fetal cells)|0.2-0.3%|
-|**Cordocentesis**|After 18 weeks|Fetal blood from the umbilical cord|Slightly higher than amniocentesis|
+|Chorionic Villus Sampling (CVS)|10 to 13 weeks|Placental chorionic villi via transabdominal or transcervical route|0.5-1.0% risk of pregnancy loss|
+|Amniocentesis|15 to 20 weeks|Amniotic fluid containing desquamated fetal amniocytes|0.1-0.3% risk of pregnancy loss; represents the gold standard|
+|Cordocentesis|> 18 weeks|Fetal blood from the umbilical vein|Slightly higher than amniocentesis; used for rapid karyotyping|
 
-### Laboratory Techniques for Fetal Tissue Analysis
+_(Data derived from)_
 
-- **Conventional Karyotyping:** Analyzes dividing cells in metaphase to detect numerical abnormalities (aneuploidies) and large structural rearrangements; results from amniotic fluid cultures typically take about two weeks.
-- **Fluorescence In Situ Hybridization (FISH):** Utilizes fluorescent DNA probes targeting specific chromosomes (e.g., 13, 18, 21, X, and Y); provides rapid preliminary detection of common aneuploidies on uncultured interphase cells within 24 to 48 hours.
-- **Quantitative PCR (qPCR):** A rapid and highly reliable molecular method used to amplify and quantify specific DNA sequences, delivering results for common aneuploidies in 24 to 48 hours.
-- **Chromosomal Microarray (CMA):** An advanced molecular cytogenetic technique that screens the entire genome for copy number variations (microdeletions and microduplications) at a resolution 50-fold higher than karyotyping; it is highly recommended if ultrasound detects multiple congenital anomalies lacking a specific syndromic presentation.
+## Laboratory Techniques for Fetal Tissue Analysis
 
-### Genetic Counseling and Recurrence Risk
+- **Karyotyping (G-Banding):** Involves culturing cells and staining metaphase chromosomes. It detects all numerical abnormalities and structural translocations but requires 10 to 14 days for cell culture.
+- **Rapid Aneuploidy Detection (RAD):** Includes Fluorescence In Situ Hybridization (FISH) and Quantitative Fluorescent PCR (QF-PCR). Delivers results targeting chromosomes 13, 18, 21, X, and Y within 24 to 48 hours.
+- **Chromosomal Microarray (CMA):** Compares fetal DNA against a reference genome to detect submicroscopic copy number variations. It is superior to karyotyping when structural anomalies are noted on ultrasound.
 
-- Genetic counseling must be provided with tact and truthfulness, informing parents about recurrence risks, prenatal testing options, and the scope of developmental potential and comorbidities of the fetus.
-- Trisomy 21 is caused by a free trisomy in 95% of cases, while 4% are due to translocations (most commonly involving chromosomes 14 and 21), and 1% are mosaic.
-- Parental karyotyping is explicitly required if a child or fetus is diagnosed with the translocation form of Down syndrome to determine if either parent is a balanced translocation carrier.
-- For mothers aged 35 years or younger who have had a child with free trisomy 21, the recurrence risk in a subsequent pregnancy is approximately 1%.
-- If a parent carries a balanced translocation, the recurrence risk rises significantly: approximately 10% if the mother is the carrier, and 4-5% if the father is the carrier.
-- In the rare event of a 21;21 balanced robertsonian translocation [t(21q;21q)], the recurrence risk for Down syndrome in all viable fetuses is 100%.
-- Recurrence risks for free Trisomy 18 and Trisomy 13 are approximately 1%, but this risk is elevated if the aneuploidy is a result of a parental balanced translocation.
+## Comparison of Common Trisomies
+
+|Feature|Trisomy 21 (Down Syndrome)|Trisomy 18 (Edwards Syndrome)|Trisomy 13 (Patau Syndrome)|
+|:--|:--|:--|:--|
+|**Incidence**|1 in 700 to 1 in 1000 live births|1 in 5,000 to 1 in 6,000 live births|1 in 10,000 to 1 in 16,000 live births|
+|**First Trimester Profile**|Low PAPP-A, High hCG|Low PAPP-A, Low hCG|Low PAPP-A, Low hCG|
+|**Key USG Markers**|Thick NT, absent nasal bone, atrioventricular canal defects|Clenched fists, rocker bottom feet, choroid plexus cysts, polyhydramnios|Holoprosencephaly, postaxial polydactyly, facial clefting, omphalocele|
+|**Prognosis**|Variable intellectual disability; long-term survival possible|~90% mortality within the first year|~90% mortality within the first year|
+
+_(Data derived from)_
+
+## Genetic Counseling and Legal Framework
+
+- **Pre-Test Counseling:** Differentiate between screening (probability) and diagnosis (certainty), outline procedure risks, and discuss potential incidental findings.
+- **Post-Test Counseling:** Must remain non-directive. For non-disjunction trisomies, the recurrence risk in future pregnancies is approximately 1% or the maternal age-related risk, whichever is higher. Translocation-associated trisomies require mandatory parental karyotyping to accurately define recurrence risks.
+- **Legal Framework:**
+    - Medical Termination of Pregnancy (MTP) Act (2021 Amendment) allows termination up to 24 weeks for significant fetal abnormalities, and beyond 24 weeks pending Medical Board approval.
+    - Pre-Conception and Pre-Natal Diagnostic Techniques (PCPNDT) Act strictly prohibits sex determination during any prenatal testing.

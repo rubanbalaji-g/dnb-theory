@@ -57,8 +57,7 @@
 
 ### Contraindications And Precautions
 
-- Absolute contraindication includes anaphylaxis following previous dose.
-- Absolute contraindication includes encephalopathy within 7 days of previous dose.
+- Absolute contraindication includes anaphylaxis following previous dose, encephalopathy within 7 days of previous dose.
 - Progressive neurologic disease considered relative contraindication.
 - Hyperpyrexia or hypotonic-hyporesponsive episodes considered precautions, not absolute contraindications.
 

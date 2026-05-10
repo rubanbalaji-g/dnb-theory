@@ -21,17 +21,12 @@
 
 ### Monoclonal Antibody Characteristics
 
-|Feature|Nirsevimab|Clesrovimab|Palivizumab|
-|:--|:--|:--|:--|
-|Mechanism|Binds site zero on fusion protein locking prefusion conformation.|Binds site iv on fusion protein.|Targets fusion protein.|
-|Duration|Long-acting, 63-73 days half-life.|Long-acting.|Short-acting, 19-27 days half-life.|
-|Dosing strategy|Weight-based dosing.|Single fixed dose.|Weight-based dosing.|
-|First season dose|50 mg if <5 kg; 100 mg if >=5 kg.|105 mg fixed dose.|Monthly injections.|
-|High-risk second season|200 mg dose recommended.|Not recommended.|Monthly injections.|
-|Coadministration|Safe with routine infant vaccines including Bacille Calmette-Guerin and pentavalent.|Safe with routine infant vaccines.|Safe with routine infant vaccines.|
+| Feature                 | Nirsevimab                                                                           | Clesrovimab                         | Palivizumab                         |
+| :---------------------- | :----------------------------------------------------------------------------------- | :---------------------------------- | :---------------------------------- |
+| Mechanism               | Binds site zero on fusion protein locking prefusion conformation.                    | Binds site iv on fusion protein.    | Targets fusion protein.             |
+| Duration                | Long-acting, 63-73 days half-life.                                                   | Long-acting.                        | Short-acting, 19-27 days half-life. |
+| Dosing strategy         | Weight-based dosing.                                                                 | Single fixed dose.                  | Weight-based dosing.                |
+| First season dose       | 50 mg if <5 kg; 100 mg if >=5 kg.                                                    | 105 mg fixed dose.                  | Monthly injections.                 |
+| High-risk second season | 200 mg dose recommended.                                                             | only indicated till 8 months of age | Monthly injections.                 |
+| Coadministration        | Safe with routine infant vaccines including Bacille Calmette-Guerin and pentavalent. | Safe with routine infant vaccines.  | Safe with routine infant vaccines.  |
 
-## Adult Immunization
-
-- Indicated for adults older than 75 years and individuals 50-74 years possessing high-risk conditions including chronic lung disease, cardiovascular disease, or immunocompromise.
-- Administered as single lifetime dose.
-- Approved adult vaccines include Arexvy, Abrysvo, and messenger ribonucleic acid-based mResvia.

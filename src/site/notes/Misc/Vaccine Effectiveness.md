@@ -4,9 +4,9 @@
 
 ## Definition
 
-- Represents ability of vaccine to protect community or population from disease,.
+- Represents ability of vaccine to protect community or population from disease.
 - Constitutes sum of vaccine efficacy and herd effect.
-- Evaluated within context of applied public health immunization programs,.
+- Evaluated within context of applied public health immunization programs.
 
 ## Determinants Of Effectiveness
 
@@ -22,10 +22,10 @@
 
 |Feature|Vaccine Efficacy|Vaccine Effectiveness|
 |:--|:--|:--|
-|Core Concept|Ability to protect an individual.|Ability to protect community or population,.|
+|Core Concept|Ability to protect an individual.|Ability to protect community or population.|
 |Evaluation Setting|Clinical trials, cohort studies, case-control studies.|Real-world immunization programs.|
 |Value Comparison|Generally higher.|Usually lower than efficacy, potentially augmented by herd effect.|
-|Measurement|VE = [(Rate in Unvaccinated - Rate in Vaccinated) / Rate in Unvaccinated] x 100,.|Disease rates, odds ratio of disease, seroprevalence studies.|
+|Measurement|VE = [(Rate in Unvaccinated - Rate in Vaccinated) / Rate in Unvaccinated] x 100.|Disease rates, odds ratio of disease, seroprevalence studies.|
 
 ## Measurement Metrics
 
@@ -51,7 +51,7 @@
 ### Vaccine Failure
 
 - Represents occurrence of disease in individual despite vaccination.
-- Primary vaccine failure signifies inability of recommended dose to induce immune response,.
+- Primary vaccine failure signifies inability of recommended dose to induce immune response.
 - Primary failure occurs with oral poliovirus vaccine.
 - Secondary vaccine failure denotes occurrence of disease despite initial immune response.
 - Secondary failure observed with BCG, pertussis, and typhoid vaccines.

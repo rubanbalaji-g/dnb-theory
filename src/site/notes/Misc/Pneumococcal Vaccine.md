@@ -46,20 +46,6 @@
 - Reduces nasopharyngeal bacterial carriage by almost 50%.
 - Generates significant herd effect.
 
-## Composition And Carrier Proteins
-
-### Comparative Formulation Details
-
-|Vaccine Type|Serotypes Covered|Carrier Protein|
-|:--|:--|:--|
-|PCV-10 (GSK - Synflorix)|1, 4, 5, 6B, 7F, 9V, 14, 18C, 19F, 23F|Protein D (NTHi), Tetanus Toxoid, Diphtheria Toxoid|
-|PCV-10 (SII - Pneumosil)|1, 5, 6A, 6B, 7F, 9V, 14, 19A, 19F, 23F|CRM197|
-|PCV-13 (Pfizer - Prevenar 13)|1, 3, 4, 5, 6A, 6B, 7F, 9V, 14, 18C, 19A, 19F, 23F|CRM197|
-|PCV-14 (Biological E)|1, 3, 4, 5, 6B, 7F, 9V, 14, 18C, 19A, 19F, 22F, 23F, 33F|CRM197|
-|PCV-15 (MSD)|1, 3, 4, 5, 6A, 6B, 7F, 9V, 14, 18C, 19A, 19F, 22F, 23F, 33F|CRM197|
-|PCV-20 (Pfizer)|1, 3, 4, 5, 6A, 6B, 7F, 8, 9V, 10A, 11A, 12F, 14, 15B, 18C, 19A, 19F, 22F, 23F, 33F|CRM197|
-|PPSV23 (Pneumovax)|23 specific serotypes including 1, 2, 3, 4, 5, 6B, 7F, 8, 9N, 9V, 10A, 11A, 12F, 14, 15B, 17F, 18C, 19A, 19F, 20, 22F, 23F, 33F|None|
-
 ## Immunization Schedule And Dosage
 
 ### Routine Immunization Guidelines

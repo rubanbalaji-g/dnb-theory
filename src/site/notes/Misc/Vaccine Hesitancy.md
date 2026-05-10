@@ -2,43 +2,41 @@
 {"dg-publish":true,"uplink":"/misc/miscellaneous-topics/","uptext":"Back to Index (⭕ Misc)","permalink":"/misc/vaccine-hesitancy/","dgPassFrontmatter":true}
 ---
 
-## Definitions
+## Definition
+Vaccine hesitancy refers to the delay in acceptance or refusal of vaccines despite the availability of vaccination services. It is a complex, context-specific phenomenon that varies across time, place, and specific vaccines. It is best understood as a continuum ranging from total acceptance to total refusal.
 
-- Herd immunity refers to proportion of subjects possessing immunity within a given population.
-- Herd effect signifies reduction of infection or disease in unimmunized segment resulting from immunizing a population proportion.
-- Herd immunity threshold denotes minimum population proportion requiring immunization to eliminate disease.
-- Herd protection describes unimmunized individuals remaining protected within a herd due to protection rendered by immunized members.
-- Herd immunity results from immunization or infection transmitted from human to human.
-- Herd effect results from immunization or health interventions reducing transmission probability.
+## The 3Cs Model (WHO SAGE Working Group)
+The determinants of vaccine hesitancy are categorized into three core domains:
+- **Confidence:** Trust in the effectiveness and safety of the vaccine, the reliability of the health system and providers, and the motivations of policy-makers.
+- **Complacency:** Occurs when the perceived risk of vaccine-preventable diseases (VPDs) is low and vaccination is not deemed a necessary preventive action.
+- **Convenience:** Physical availability, affordability, willingness to pay, geographical accessibility, and the quality of immunization services (e.g., language and health literacy).
 
-## Measurement Modalities
+## The 5Cs Model (Psychological Antecedents)
+Expands the 3Cs to include:
+- **Calculation:** The individual’s engagement in extensive information searching to weigh risks and benefits.
+- **Collective Responsibility:** The willingness to protect others via one's own vaccination (herd immunity).
 
-- Herd immunity measured by testing population samples for specific immune parameters.
-- Herd effect measured by quantifying disease incidence decline in unimmunized segments following immunization program institution.
+## Factors Influencing Hesitancy in India
+- **Contextual Influences:** Historical influences, religion, culture, and socio-economic status. 
+- **Individual/Group Influences:** Personal experience with the health system, social norms, and "misinformation" spread via digital media.
+- **Vaccine-Specific Issues:** Mode of administration (injectable vs. oral), new vaccine introductions, and concerns regarding Adverse Events Following Immunization (AEFI).
 
-## Pathophysiology And Mechanisms
+## Management Strategies for the Pediatrician
+Effective communication is the cornerstone of addressing hesitancy in clinical practice.
 
-- Contagious disease transmission chains experience disruption when large numbers become immune or less susceptible.
-- Simultaneous vaccination protects large proportion of susceptible individuals.
-- Transmission chain breaks due to reduced carriage of microorganisms by vaccinated individuals.
-- Risk of disease decreases significantly even among unimmunized individuals.
-- Strategy proves essential for eradicating poliovirus and controlling measles epidemics.
-- Finland successfully eliminated poliomyelitis when three-dose inactivated poliovirus vaccine coverage reached 51 percent.
+### Presumptive Approach
+- Instead of asking "What do you think about vaccines?", use a presumptive statement: "Your child is due for the MMR and Varicella vaccines today." This normalizes the procedure.
 
-## Factors Influencing Herd Effect
+### The CASE Approach
+- **Corroborate:** Acknowledge the parent's concern to build rapport ("I understand you want the best for your child").
+- **About:** Describe what you know about the concern based on clinical expertise.
+- **Science:** Provide the evidence-based facts regarding the vaccine's safety and efficacy.
+- **Explain/Advise:** Give a firm recommendation based on the science.
 
-- Phenomenon requires effective vaccine preventing infection rather than merely preventing clinical disease.
-- Demands diseases where humans serve as exclusive source or chief reservoir.
-- Efficacy of vaccine directly impacts magnitude of herd effect.
-- Concept remains strictly inapplicable to infectious but non-contagious diseases.
-- Vaccines possessing historically low protective efficacy demonstrate blunted herd effect.
+### Motivational Interviewing (MI)
+- A collaborative, goal-oriented style of communication with particular attention to the language of change. It involves asking open-ended questions, affirming, and summarizing the parents' viewpoints to resolve ambivalence.
 
-## Vaccine Profile Comparison
-
-|Feature|Vaccines With Herd Effect|Vaccines Without Herd Effect|
-|:--|:--|:--|
-|Key Examples|Oral poliovirus vaccine, Measles vaccine, Conjugated pneumococcal vaccine, Haemophilus influenzae type b conjugate vaccine.|Tetanus toxoid, Bacillus Calmette-Guérin vaccine, Diphtheria vaccine.|
-|Primary Mechanism|Prevents infection and mucosal carriage.|Protects primarily against clinical disease without clearing carriage.|
-|Epidemiological Reservoir|Humans act as exclusive or chief reservoir.|Environmental or non-human reservoirs frequently exist.|
-|Public Health Impact|Protects unimmunized contacts via reduced transmission.|Protects exclusively the vaccinated individual.|
-|Contagiousness|Highly contagious transmission pathways disrupted.|Non-contagious or transmission unaffected by vaccine.|
+## Clinical and Public Health Impact
+- **Sub-optimal Coverage:** Leads to failure in achieving herd immunity thresholds ($R_0$ related).
+- **VPD Resurgence:** Directly linked to outbreaks of Measles, Pertussis, and Diphtheria in previously well-covered regions.
+- **Economic Burden:** Increased healthcare costs due to preventable hospitalizations and outbreak management.

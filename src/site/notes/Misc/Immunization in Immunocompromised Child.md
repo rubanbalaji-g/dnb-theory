@@ -71,7 +71,7 @@ Vaccine administration depends upon specific immune compartment defects.
 - Defer live vaccines until 1 month post-cessation of high-dose corticosteroids.
 - Low-dose, alternate-day, topical, intra-articular, or inhaled corticosteroids permit live vaccine administration.
 - Methotrexate (≤0.4 mg/kg/week) and azathioprine (≤3 mg/kg/day) do not contraindicate live vaccines.
-- Biologic response-modifying drugs require withholding live vaccines for months post-discontinuation.
+- Biologic response-modifying drugs require withholding live vaccines for 6 months post-discontinuation.
 - Administer inactivated vaccines 2 weeks prior to initiating biologics; live vaccines 4 weeks prior.
 
 ### Cancer And Chemotherapy

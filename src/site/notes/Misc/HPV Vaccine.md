@@ -67,7 +67,7 @@
 - Withhold remaining doses until postpartum period.
 - Safe during lactation.
 
-### Immunocompromised And Hiv Patients
+### Immunocompromised And HIV Patients
 
 - Administer 3-dose schedule irrespective of age.
 - Recommended for human immunodeficiency virus (HIV) infected individuals.

@@ -10,14 +10,14 @@
 
 ## Types Of Vaccines
 
-|Feature|Inactivated Vaccine|Live Attenuated Vaccine|
-|:--|:--|:--|
-|Viral strain|Hm 175 or Gbm strain|H2 or L-a-1 strain|
-|Adjuvant|Aluminum hydroxide or virosome|None|
-|Route|Intramuscular|Subcutaneous|
-|Schedule|Two doses|Single dose|
-|Immunocompromised|Safe for use|Contraindicated|
-|Available brands|Havrix, Avaxim, Hapibev, Havisure, Havpur|Biovac a|
+| Feature           | Inactivated Vaccine                       | Live Attenuated Vaccine |
+| :---------------- | :---------------------------------------- | :---------------------- |
+| Viral strain      | HM 175 or GBM strain                      | H2 or LA-1 strain       |
+| Adjuvant          | Aluminum hydroxide or virosome            | None                    |
+| Route             | Intramuscular                             | Subcutaneous            |
+| Schedule          | Two doses                                 | Single dose             |
+| Immunocompromised | Safe for use                              | Contraindicated         |
+| Available brands  | Havrix, Avaxim, Hapibev, Havisure, Havpur | Biovac A                |
 
 ## Vaccination Schedule And Administration
 
@@ -25,7 +25,7 @@
 - Inactivated schedule entails two intramuscular doses administered 6 to 18 months apart.
 - Live attenuated schedule requires a single subcutaneous dose.
 - Catch-up vaccination requires pre-vaccination antibody screening for children older than 10 years due to high baseline seropositivity.
-- Protective threshold defined as antibody levels between 10 and 33 miu/ml.
+- Protective threshold defined as antibody levels between 10 and 33 mIU/ml.
 - Both vaccine types generate long-lasting, possibly life-long protection without requiring routine boosters in immunocompetent individuals.
 
 ## High-Risk Indications
