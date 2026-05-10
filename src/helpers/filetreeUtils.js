@@ -1,3 +1,9 @@
+const fs = require("fs");
+const path = require("path");
+const matter = require("gray-matter");
+
+const NOTES_DIR = path.resolve(__dirname, "../site/notes");
+
 const sortTree = (unsorted) => {
   //Sort by folder before file, then by name
   const orderedTree = Object.keys(unsorted)
@@ -53,45 +59,68 @@ const sortTree = (unsorted) => {
   return orderedTree;
 };
 
-// Added 'async' here
-async function getPermalinkMeta(note) {
-  // We call read() to ensure the note data is fully loaded for 11ty v3
-  await note.template.read();
-  
+/**
+ * Recursively find all .md files under a directory.
+ */
+function walkDir(dir) {
+  let results = [];
+  for (const entry of fs.readdirSync(dir)) {
+    const fullPath = path.join(dir, entry);
+    if (fs.statSync(fullPath).isDirectory()) {
+      results = results.concat(walkDir(fullPath));
+    } else if (entry.endsWith(".md")) {
+      results.push(fullPath);
+    }
+  }
+  return results;
+}
+
+/**
+ * Extract metadata from a note file by reading its front matter directly.
+ * No dependency on Eleventy collections or template.read().
+ */
+function getPermalinkMetaFromFS(filePath) {
   let permalink = "/";
-  let parts = note.filePathStem.split("/");
-  let name = parts[parts.length - 1];
+  const relativePath = path.relative(NOTES_DIR, filePath).replace(/\\/g, "/");
+  const parts = relativePath.split("/");
+  let name = parts[parts.length - 1].replace(/\.md$/, "");
   let noteIcon = process.env.NOTE_ICON_DEFAULT;
   let hide = false;
   let pinned = false;
   let folders = null;
+
   try {
-    if (note.data.permalink) {
-      permalink = note.data.permalink;
+    const fileContent = fs.readFileSync(filePath, "utf8");
+    const frontMatter = matter(fileContent);
+    const data = frontMatter.data;
+
+    if (data.permalink) {
+      permalink = data.permalink;
     }
-    if (note.data.tags && note.data.tags.indexOf("gardenEntry") != -1) {
-      permalink = "/";
-    }    
-    if (note.data.title) {
-      name = note.data.title;
+    if (data.tags) {
+      const tags = Array.isArray(data.tags) ? data.tags : [data.tags];
+      if (tags.indexOf("gardenEntry") !== -1) {
+        permalink = "/";
+      }
     }
-    if (note.data.noteIcon) {
-      noteIcon = note.data.noteIcon;
+    if (data.title) {
+      name = data.title;
     }
-    if (note.data.hide) {
-      hide = note.data.hide;
+    if (data.noteIcon) {
+      noteIcon = data.noteIcon;
     }
-    if (note.data.pinned) {
-      pinned = note.data.pinned;
+    if (data.hide) {
+      hide = data.hide;
     }
-    if (note.data["dg-path"]) {
-      folders = note.data["dg-path"].split("/");
+    if (data.pinned) {
+      pinned = data.pinned;
+    }
+    if (data["dg-path"]) {
+      folders = data["dg-path"].split("/");
     } else {
-      folders = note.filePathStem
-        .split("notes/")[1]
-        .split("/");
+      folders = relativePath.split("/");
     }
-    folders[folders.length - 1]+= ".md";
+    folders[folders.length - 1] += folders[folders.length - 1].endsWith(".md") ? "" : ".md";
   } catch {
     //ignore
   }
@@ -111,35 +140,22 @@ function assignNested(obj, keyPath, value) {
   obj[keyPath[lastKeyIndex]] = value;
 }
 
-// Build-level cache: computed once on first page, reused for all subsequent pages
-let _fileTreeCache = null;
-
-// Changed to 'async' and replaced .forEach with for...of loop
-async function getFileTree(data) {
-  // Return cached result if already computed in this build
-  if (_fileTreeCache) {
-    return _fileTreeCache;
-  }
-
+/**
+ * Build the file tree by scanning the filesystem directly.
+ * Runs once per build via addGlobalData — no collections dependency.
+ */
+function buildFileTree() {
   const tree = {};
-  const notes = data.collections.note || [];
-  
-  for (const note of notes) {
-    const [meta, folders] = await getPermalinkMeta(note);
-    assignNested(tree, folders, { isNote: true, ...meta });
+  const noteFiles = walkDir(NOTES_DIR);
+
+  for (const filePath of noteFiles) {
+    const [meta, folders] = getPermalinkMetaFromFS(filePath);
+    if (folders) {
+      assignNested(tree, folders, { isNote: true, ...meta });
+    }
   }
-  
-  const fileTree = sortTree(tree);
-  // Only cache if collections were populated — early pages may have empty collections
-  if (notes.length > 0) {
-    _fileTreeCache = fileTree;
-  }
-  return fileTree;
+
+  return sortTree(tree);
 }
 
-function clearFileTreeCache() {
-  _fileTreeCache = null;
-}
-
-exports.getFileTree = getFileTree;
-exports.clearFileTreeCache = clearFileTreeCache;
+exports.buildFileTree = buildFileTree;
