@@ -286,6 +286,10 @@ body.no-filetree .filetree-toggle {
     contain: none !important;
   }
 }
+.filetree-sidebar {
+  width: 100% !important;
+}
+
 .filetree-sidebar .site-name-title {
   padding-right: 20px !important; 
   padding-left: 0 !important;
