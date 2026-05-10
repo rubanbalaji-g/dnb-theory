@@ -132,8 +132,16 @@ h1, h2, h3, h4, h5, h6, hr {
 /* ----------------------------------------------
             UNIVERSAL CONTENT CENTERING 
    ---------------------------------------------- */
+body {
+    --dg-sidebar-max-width: 280px; /* Reduced from 350px to prevent overlap */
+    --dg-sidebar-gap: 60px;       /* Adjusted gap */
+    --dg-graph-width: 220px;      /* Reduced from 250px */
+    --dg-graph-height: 220px;
+    --dg-toc-max-height: 250px;
+}
+
 main.content {
-    --dg-content-max-width: 800px;
+    --dg-content-max-width: 750px; /* Slightly reduced from 800px for better fit */
     max-width: var(--dg-content-max-width) !important;
     margin-right: auto !important;
     padding-left: 20px !important;
