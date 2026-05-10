@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-hide":true,"permalink":"/genetics/genetics/","hide":true,"dgPassFrontmatter":true}
+{"dg-publish":true,"dg-hide":false,"permalink":"/genetics/genetics/","dgPassFrontmatter":true}
 ---
 
 ## Basics
