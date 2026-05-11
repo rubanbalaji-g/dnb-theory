@@ -11,7 +11,7 @@
 |Mucopolysaccharidoses|Corneal clouding occurs secondary to abnormal deposits, notably in Hurler, Scheie, Morquio, and Maroteaux-Lamy syndromes.|
 |Wilson Disease|Kayser-Fleischer ring manifests as golden-brown ring in peripheral cornea due to Descemet membrane changes.|
 |Fabry Disease|Fine opacities radiate in whorl or fanlike pattern, useful for identifying carrier state.|
-|Tyrosinemia|Unexplained corneal ulcers develop.|
+|[[Metabolic Disorders/Tyrosinemia\|Tyrosinemia]]|Unexplained corneal ulcers develop.|
 
 ## Lenticular Abnormalities
 

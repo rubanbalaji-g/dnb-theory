@@ -30,7 +30,7 @@
 |**Hereditary (Inborn Errors of Metabolism)**|**Cystinosis:** The most common identifiable cause of FS in early childhood; presents at 6-12 months of age with severe tubulopathy, polyuria, and corneal cystine crystals.|
 ||**Dent Disease:** An X-linked recessive disorder characterized by LMW proteinuria, hypercalciuria, nephrocalcinosis, and rickets.|
 ||**Lowe Syndrome:** An X-linked disorder presenting with congenital cataracts, developmental delay, and severe FS.|
-||**Other Metabolic Disorders:** Galactosemia, hereditary fructose intolerance, tyrosinemia type I, Wilson disease, glycogen storage disease type I, and mitochondrial cytopathies.|
+||**Other Metabolic Disorders:** Galactosemia, hereditary fructose intolerance, [[Metabolic Disorders/Tyrosinemia\|tyrosinemia]] type I, Wilson disease, glycogen storage disease type I, and mitochondrial cytopathies.|
 |**Acquired (Endogenous)**|Often secondary to immunological disorders (e.g., Sjögren syndrome, TINU syndrome), nephrotic syndrome, multiple myeloma, or paroxysmal nocturnal hemoglobinuria.|
 ||Can be observed transiently in untreated children with distal renal tubular acidosis.|
 |**Exogenous (Drugs and Toxins)**|**Medications:** Alkylating agents (ifosfamide), platinum compounds (cisplatin), aminoglycosides, tenofovir, adefovir, valproic acid, and suramin.|

@@ -32,7 +32,7 @@ Based on prevalence and treatability in the Indian context (NNF/ICMR recommendat
 
 ### B. Expanded Screening (Inborn Errors of Metabolism - IEM)
 With the advent of Tandem Mass Spectrometry (LC-MS/MS), 40+ disorders can be screened from a single blood spot.
-* **Amino Acid Disorders:** [[Metabolic Disorders/Phenylketonuria\|Phenylketonuria]] (PKU), Maple Syrup Urine Disease (MSUD), [[Metabolic Disorders/Homocystinuria\|Homocystinuria]], Tyrosinemia.
+* **Amino Acid Disorders:** [[Metabolic Disorders/Phenylketonuria\|Phenylketonuria]] (PKU), [[Metabolic Disorders/Maple Syrup Urine Disease\|Maple Syrup Urine Disease]] (MSUD), [[Metabolic Disorders/Homocystinuria\|Homocystinuria]], [[Metabolic Disorders/Tyrosinemia\|Tyrosinemia]].
 * **Fatty Acid Oxidation Disorders (FAODs):** MCAD deficiency, VLCAD deficiency. Important for preventing sudden infant death.
 * **Organic Acidemias (OAs):** Methylmalonic acidemia, Propionic acidemia, [[Metabolic Disorders/Isovaleric Acidemia\|Isovaleric acidemia]], Glutaric Aciduria Type 1.
 * **Other Defects:** Galactosemia (GALT deficiency), Biotinidase Deficiency, Cystic Fibrosis.
@@ -78,7 +78,7 @@ Interpretation requires clinical correlation and understanding of physiology.
 * **Prematurity/LBW:**
     * *CH:* Delayed TSH rise (hypothalamic immaturity).
     * *CAH:* 17-OHP is naturally higher in preterms (stress response), causing false positives. Use weight-stratified cut-offs.
-    * *Tyrosinemia:* Transient tyrosinemia of newborn is common.
+    * *[[Metabolic Disorders/Tyrosinemia\|Tyrosinemia]]:* Transient [[Metabolic Disorders/Tyrosinemia\|tyrosinemia]] of newborn is common.
 * **Timing of Sample:**
     * *<24 hours:* High TSH surge (false positive for CH).
     * *Before feeds:* False negative for PKU/Galactosemia (metabolites haven't accumulated).

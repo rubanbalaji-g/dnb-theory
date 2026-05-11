@@ -28,7 +28,7 @@ Ataxia in children is classified based on the temporal course: Acute, Episodic, 
 #### B. Acute Recurrent / Episodic Ataxia
 1.  **Migraine:** Basilar Migraine, Benign Paroxysmal Vertigo of Childhood.
 2.  **Metabolic:**
-    * Maple Syrup Urine Disease (MSUD).
+    * [[Metabolic Disorders/Maple Syrup Urine Disease\|Maple Syrup Urine Disease]] (MSUD).
     * Urea Cycle Defects (Ornithine Transcarbamylase deficiency).
     * Pyruvate Dehydrogenase Deficiency.
 3.  **Genetic/Channelopathies:** Episodic Ataxia Type 1 and 2.

@@ -3,65 +3,68 @@
 ---
 
 ## Algorithm
-```dot
-digraph IEM_Algorithm {
-    graph [rankdir=TB, nodesep=0.5, ranksep=0.7, fontname="Arial"];
-    node [style="filled, solid", penwidth=2, fontname="Arial"];
-    edge [penwidth=3, color="#000000", fontname="Arial", fontsize=11];
+```mermaid
+%%{init: {"themeVariables": { "lineWidth": "3px", "lineColor": "#000000" } }}%%
+flowchart TD
+    %% Nodes
+    Start["Suspected IEM<br>Tier 1: ABG, Glucose, Ammonia, Lactate, Ketones"]
+    
+    AcidosisDecision{"Metabolic<br>Acidosis?"}
+    KetosisDecision{"Ketosis<br>Present?"}
+    NH3Decision1{"Ammonia<br>Level?"}
+    NH3Decision2{"Ammonia<br>Level?"}
+    GlucLactDecision{"Glucose &<br>Lactate?"}
+    PrimaryFeatureDecision{"Primary<br>Feature?"}
+    
+    WithKetosis["High Anion Gap<br>with Ketosis"]
+    NoKetosis["Without Ketosis"]
+    IsoLact["Isolated Lactic<br>Acidosis"]
+    
+    OA["Organic Acidemias<br>(e.g., Propionic, Methylmalonic)"]
+    MSUD["MSUD or Beta-<br>ketothiolase def."]
+    FAOD["Fatty Acid Oxidation<br>Defects (FAOD)"]
+    RTA["Renal Tubular<br>Acidosis (RTA)"]
+    Mito_Pyr["Pyruvate Metabolism or<br>Mitochondrial Disorders"]
+    UCD["Urea Cycle Disorders<br>(e.g., OTC, Citrullinemia)"]
+    PyrCarbB["Pyruvate Carboxylase<br>Def. (Type B)"]
+    Mito_PyrA["Mitochondrial Disorders or<br>Pyr. Carboxylase Def. (Type A)"]
 
-    // Root Node (Blue Family)
-    Start [label="Suspected IEM\nTier 1: ABG, Glucose, Ammonia, Lactate, Ketones", shape=box, fillcolor="#E3F2FD", color="#1565C0", fontcolor="#0D47A1", style="filled,rounded"];
+    %% Routing
+    Start --> AcidosisDecision
+    
+    AcidosisDecision -- "Yes" --> KetosisDecision
+    AcidosisDecision -- "No" --> PrimaryFeatureDecision
+    
+    KetosisDecision -- "Yes" --> WithKetosis
+    KetosisDecision -- "No" --> NoKetosis
+    
+    WithKetosis --> NH3Decision1
+    NH3Decision1 -- "Elevated" --> OA
+    NH3Decision1 -- "Normal" --> MSUD
+    
+    NoKetosis --> GlucLactDecision
+    GlucLactDecision -- "Hypoglycemia +<br>High Lactate" --> FAOD
+    GlucLactDecision -- "Normal Glucose +<br>Normal Lactate" --> RTA
+    GlucLactDecision -- "Normal Glucose +<br>High Lactate" --> Mito_Pyr
+    
+    PrimaryFeatureDecision -- "Hyperammonemia" --> UCD
+    PrimaryFeatureDecision -- "Isolated Lactic<br>Acidosis" --> IsoLact
+    
+    IsoLact --> NH3Decision2
+    NH3Decision2 -- "With<br>Hyperammonemia" --> PyrCarbB
+    NH3Decision2 -- "Normal" --> Mito_PyrA
 
-    // Decision Diamonds (Orange/Brown Family)
-    AcidosisDecision [label="Metabolic\nAcidosis?", shape=diamond, fillcolor="#FFF3E0", color="#E65100", fontcolor="#BF360C"];
-    KetosisDecision [label="Ketosis\nPresent?", shape=diamond, fillcolor="#FFF3E0", color="#E65100", fontcolor="#BF360C"];
-    NH3Decision1 [label="Ammonia\nLevel?", shape=diamond, fillcolor="#FFF3E0", color="#E65100", fontcolor="#BF360C"];
-    NH3Decision2 [label="Ammonia\nLevel?", shape=diamond, fillcolor="#FFF3E0", color="#E65100", fontcolor="#BF360C"];
-    GlucLactDecision [label="Glucose &\nLactate?", shape=diamond, fillcolor="#FFF3E0", color="#E65100", fontcolor="#BF360C"];
-    PrimaryFeatureDecision [label="Primary\nFeature?", shape=diamond, fillcolor="#FFF3E0", color="#E65100", fontcolor="#BF360C"];
+    %% Styling Classes (Light fill, dark border, dark text)
+    classDef blueFamily fill:#E3F2FD,stroke:#1565C0,color:#0D47A1,stroke-width:2px
+    classDef orangeFamily fill:#FFF3E0,stroke:#E65100,color:#BF360C,stroke-width:2px
+    classDef purpleFamily fill:#F3E5F5,stroke:#6A1B9A,color:#4A148C,stroke-width:2px
+    classDef greenFamily fill:#E8F5E9,stroke:#2E7D32,color:#1B5E20,stroke-width:2px
 
-    // Intermediate States (Purple Family)
-    WithKetosis [label="High Anion Gap\nwith Ketosis", shape=box, fillcolor="#F3E5F5", color="#6A1B9A", fontcolor="#4A148C"];
-    NoKetosis [label="Without Ketosis", shape=box, fillcolor="#F3E5F5", color="#6A1B9A", fontcolor="#4A148C"];
-    IsoLact [label="Isolated Lactic\nAcidosis", shape=box, fillcolor="#F3E5F5", color="#6A1B9A", fontcolor="#4A148C"];
-
-    // Endpoints / Diagnoses (Green Family)
-    OA [label="Organic Acidemias\n(e.g., Propionic, Methylmalonic)", shape=box, fillcolor="#E8F5E9", color="#2E7D32", fontcolor="#1B5E20"];
-    MSUD [label="MSUD or Beta-\nketothiolase def.", shape=box, fillcolor="#E8F5E9", color="#2E7D32", fontcolor="#1B5E20"];
-    FAOD [label="Fatty Acid Oxidation\nDefects (FAOD)", shape=box, fillcolor="#E8F5E9", color="#2E7D32", fontcolor="#1B5E20"];
-    RTA [label="Renal Tubular\nAcidosis (RTA)", shape=box, fillcolor="#E8F5E9", color="#2E7D32", fontcolor="#1B5E20"];
-    Mito_Pyr [label="Pyruvate Metabolism or\nMitochondrial Disorders", shape=box, fillcolor="#E8F5E9", color="#2E7D32", fontcolor="#1B5E20"];
-    UCD [label="Urea Cycle Disorders\n(e.g., OTC, Citrullinemia)", shape=box, fillcolor="#E8F5E9", color="#2E7D32", fontcolor="#1B5E20"];
-    PyrCarbB [label="Pyruvate Carboxylase\nDef. (Type B)", shape=box, fillcolor="#E8F5E9", color="#2E7D32", fontcolor="#1B5E20"];
-    Mito_PyrA [label="Mitochondrial Disorders or\nPyr. Carboxylase Def. (Type A)", shape=box, fillcolor="#E8F5E9", color="#2E7D32", fontcolor="#1B5E20"];
-
-    // Routing
-    Start -> AcidosisDecision;
-
-    AcidosisDecision -> KetosisDecision [label=" Yes"];
-    AcidosisDecision -> PrimaryFeatureDecision [label=" No"];
-
-    // Acidosis = YES branch
-    KetosisDecision -> WithKetosis [label=" Yes"];
-    KetosisDecision -> NoKetosis [label=" No"];
-
-    WithKetosis -> NH3Decision1;
-    NH3Decision1 -> OA [label=" Elevated"];
-    NH3Decision1 -> MSUD [label=" Normal"];
-
-    NoKetosis -> GlucLactDecision;
-    GlucLactDecision -> FAOD [label=" Hypoglycemia +\nHigh Lactate"];
-    GlucLactDecision -> RTA [label=" Normal Glucose +\nNormal Lactate"];
-    GlucLactDecision -> Mito_Pyr [label=" Normal Glucose +\nHigh Lactate"];
-
-    // Acidosis = NO branch
-    PrimaryFeatureDecision -> UCD [label=" Hyperammonemia"];
-    PrimaryFeatureDecision -> IsoLact [label=" Isolated Lactic\nAcidosis"];
-
-    IsoLact -> NH3Decision2;
-    NH3Decision2 -> PyrCarbB [label=" With\nHyperammonemia"];
-    NH3Decision2 -> Mito_PyrA [label=" Normal"];
-}
+    %% Apply Styling
+    class Start blueFamily
+    class AcidosisDecision,KetosisDecision,NH3Decision1,NH3Decision2,GlucLactDecision,PrimaryFeatureDecision orangeFamily
+    class WithKetosis,NoKetosis,IsoLact purpleFamily
+    class OA,MSUD,FAOD,RTA,Mito_Pyr,UCD,PyrCarbB,Mito_PyrA greenFamily
 ```
 ## 1. INTRODUCTION
 * **Definition:** A heterogeneous group of genetic disorders caused by mutations impairing specific enzymes, transport proteins, or cofactors.
@@ -107,17 +110,17 @@ Search for specific signs to narrow the differential:
 | **Cherry Red Spots** | Tay-Sachs, Niemann-Pick |
 | **Alopecia** | Biotinidase Deficiency |
 | **Coarse Hair** | Menkes Kinky Hair Disease |
-| **Hepatomegaly** | Galactosemia, Tyrosinemia, GSD, LSD |
+| **Hepatomegaly** | Galactosemia, [[Metabolic Disorders/Tyrosinemia\|Tyrosinemia]], GSD, LSD |
 | **Cardiomyopathy** | Pompe (GSD), FAOD, Mitochondrial disorders |
 ### Characteristic Urine Odors
 "Smelling the urine" is a high-yield bedside test:
 
 | Urine Odor | Suspected IEM |
 | :--- | :--- |
-| **Maple Syrup / Burnt Sugar** | Maple Syrup Urine Disease (MSUD) |
+| **Maple Syrup / Burnt Sugar** | [[Metabolic Disorders/Maple Syrup Urine Disease\|Maple Syrup Urine Disease]] (MSUD) |
 | **Sweaty Feet** | [[Metabolic Disorders/Isovaleric Acidemia\|Isovaleric Acidemia]], Glutaric Acidemia Type II |
 | **Musty / Mousy** | [[Metabolic Disorders/Phenylketonuria\|Phenylketonuria]] (PKU) |
-| **Boiled Cabbage / Rancid** | Tyrosinemia (Type 1), Methionine Malabsorption |
+| **Boiled Cabbage / Rancid** | [[Metabolic Disorders/Tyrosinemia\|Tyrosinemia]] (Type 1), Methionine Malabsorption |
 | **Swimming Pool** | Hawkinsinuria |
 | **Tom Cat Urine** | Multiple Carboxylase Deficiency |
 | **Rotting Fish** | Trimethylaminuria |
@@ -150,7 +153,7 @@ The diagnosis is approached by grouping results into **Acidosis, Ketosis, Ammoni
     * *Diagnosis:* **Organic Acidemias** (Propionic Acidemia, Methylmalonic Acidemia).
     * *Note:* Hyperammonemia is secondary to urea cycle inhibition by organic acids.
 * **Normal Ammonia:**
-    * *Diagnosis:* **Maple Syrup Urine Disease (MSUD)**, Beta-ketothiolase deficiency.
+    * *Diagnosis:* **[[Metabolic Disorders/Maple Syrup Urine Disease\|Maple Syrup Urine Disease]] (MSUD)**, Beta-ketothiolase deficiency.
     * *Also consider:* Succinyl-CoA transferase deficiency.
 
 #### 2. Without Ketosis (No Ketones)
@@ -257,7 +260,7 @@ Administer cofactors that might boost residual enzyme activity pending diagnosis
 * **Sick Day Regimen:** Parents must be trained to increase glucose intake and stop protein during intercurrent illnesses/fever to prevent catabolic decompensation.
 * **Organ Surveillance:**
     * **Eye:** Cataracts (Galactosemia).
-    * **Liver:** Hepatomegaly/Dysfunction (Tyrosinemia, GSD).
+    * **Liver:** Hepatomegaly/Dysfunction ([[Metabolic Disorders/Tyrosinemia\|Tyrosinemia]], GSD).
     * **Heart:** Cardiomyopathy (Pompe disease, FAOD).
     * **Neurological:** Developmental milestones and seizure control.
 * **Genetic Counseling:**

@@ -19,7 +19,7 @@
 - Isolated proximal RTA is exceedingly rare and can be inherited as an autosomal recessive trait due to pathogenic variants in the _SLC4A4_ gene (encoding the $Na^+/HCO_3^-$ cotransporter NBC1). This form presents with profound ocular abnormalities, including band keratopathy, glaucoma, cataracts (often leading to blindness), short stature, and intellectual impairment.
 - Far more commonly, proximal RTA presents as a component of generalized proximal tubular dysfunction, known as Fanconi syndrome.
 - Fanconi syndrome is characterized by the concurrent presence of low-molecular-weight proteinuria, aminoaciduria, phosphaturia, glycosuria, and proximal RTA.
-- Secondary causes of Fanconi syndrome include inherited metabolic disorders such as cystinosis (the most common cause in infancy), Lowe syndrome, tyrosinemia type I, galactosemia, and Wilson disease. Acquired causes frequently involve exposure to exogenous toxins, heavy metals (cadmium, lead, mercury), or specific medications like ifosfamide, cisplatin, and valproate.
+- Secondary causes of Fanconi syndrome include inherited metabolic disorders such as cystinosis (the most common cause in infancy), Lowe syndrome, [[Metabolic Disorders/Tyrosinemia\|tyrosinemia]] type I, galactosemia, and Wilson disease. Acquired causes frequently involve exposure to exogenous toxins, heavy metals (cadmium, lead, mercury), or specific medications like ifosfamide, cisplatin, and valproate.
 
 ### Distal (Type 1) Renal Tubular Acidosis
 

@@ -11,7 +11,7 @@
 | Category                            | Subtypes And Characteristics                                                                                                                                                                                                        |
 | ----------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Isolated MMA**                    | **Mutase Deficiency:** _MMUT_ gene defects, classified into mut⁰ (complete deficiency) and mut⁻ (partial activity). <br>**Cobalamin Disorders:** Defects in the synthesis of the adenosylcobalamin cofactor (cblA, cblB, cblD-MMA). |
-| **Combined MMA And Homocystinuria** | Defects in cytosolic cobalamin metabolism, leading to combined methylmalonic acidemia and homocystinuria (cblC, cblD, cblF, cblJ, cblX).                                                                                            |
+| **Combined MMA And [[Metabolic Disorders/Homocystinuria\|Homocystinuria]]** | Defects in cytosolic cobalamin metabolism, leading to combined methylmalonic acidemia and [[Metabolic Disorders/Homocystinuria\|homocystinuria]] (cblC, cblD, cblF, cblJ, cblX).                                                                                            |
 
 ## Pathophysiology And Etiology
 
@@ -54,7 +54,7 @@
 |**Screening Labs**|High anion gap metabolic acidosis, marked ketosis and ketonuria, mild to severe hyperammonemia, hyperglycinemia, and cytopenias (neutropenia, thrombocytopenia).|
 |**Urine Organic Acids**|Massive elevation of Methylmalonic acid, alongside methylcitrate and 3-hydroxypropionate.|
 |**Plasma Acylcarnitine**|Elevated C3 (propionylcarnitine) and C4DC (methylmalonylcarnitine).|
-|**Plasma Homocysteine**|Essential to rule out combined Methylmalonic Acidemia and Homocystinuria (e.g., cblC disease).|
+|**Plasma Homocysteine**|Essential to rule out combined Methylmalonic Acidemia and [[Metabolic Disorders/Homocystinuria\|Homocystinuria]] (e.g., cblC disease).|
 |**Confirmatory Tests**|Molecular genetics via gene panel testing for _MMUT_, _MMAA_, and _MMAB_. Clinical or in vitro Vitamin B12 responsiveness challenge.|
 
 ## Management

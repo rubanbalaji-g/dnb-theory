@@ -14,7 +14,7 @@
 2. [[Metabolic Disorders/Tyrosinemia\|Tyrosinemia]]
 3. [[Metabolic Disorders/Homocystinuria\|Homocystinuria]]
 4. [[Metabolic Disorders/Maple Syrup Urine Disease\|Maple Syrup Urine Disease]]
-5. [[Metabolic Disorders/Alkaptouria\|Alkaptouria]]
+5. [[Metabolic Disorders/Alkaptonuria\|Alkaptonuria]]
 6. [[Metabolic Disorders/Isovaleric Acidemia\|Isovaleric Acidemia]]
 7. [[Metabolic Disorders/Ornithine Transcarbamylase (OTC) Deficiency\|OTC Deficiency]]
 8. [[Metabolic Disorders/Methylmalonic Acidemia (MMA)\|Methylmalonic Acidemia (MMA)]]

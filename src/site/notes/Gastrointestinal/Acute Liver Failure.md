@@ -22,7 +22,7 @@
 
 |Age Category|Common Etiologies|
 |:--|:--|
-|**Neonates/Infants**|Galactosemia, tyrosinemia type 1, gestational alloimmune liver disease (neonatal hemochromatosis), mitochondrial hepatopathies, hemophagocytic lymphohistiocytosis, viral (herpes simplex virus, cytomegalovirus, echovirus).|
+|**Neonates/Infants**|Galactosemia, [[Metabolic Disorders/Tyrosinemia\|tyrosinemia]] type 1, gestational alloimmune liver disease (neonatal hemochromatosis), mitochondrial hepatopathies, hemophagocytic lymphohistiocytosis, viral (herpes simplex virus, cytomegalovirus, echovirus).|
 |**Children/Adolescents**|Acetaminophen toxicity, viral hepatitis (A, B, E), autoimmune hepatitis, Wilson disease, indeterminate/idiopathic (40-50% of cases).|
 
 ## Clinical Manifestations
@@ -91,7 +91,7 @@ _Note: In pediatric cohorts, isolated peak INR >4 demonstrates high sensitivity 
 |:--|:--|
 |**Acetaminophen Toxicity**|Intravenous N-acetylcysteine.|
 |**Gestational Alloimmune Liver Disease**|Double volume exchange transfusion combined with intravenous immunoglobulin.|
-|**Tyrosinemia Type 1**|Nitisinone; dietary restriction of phenylalanine and tyrosine.|
+|**[[Metabolic Disorders/Tyrosinemia\|Tyrosinemia]] Type 1**|Nitisinone; dietary restriction of phenylalanine and tyrosine.|
 |**Autoimmune Hepatitis**|Systemic corticosteroids.|
 |**Herpes Simplex Virus**|Intravenous acyclovir.|
 |**Wilson Disease**|Copper chelation (Penicillamine, Trientine).|
