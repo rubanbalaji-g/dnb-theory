@@ -7,7 +7,7 @@
 2. [[Metabolic Disorders/Neonatal Screening for Metabolic Diseases\|Neonatal Screening for Metabolic Diseases]]
 ## Protein Metabolism Disorders
 ### Overview
-1. [[Metabolic Disorders/Amino Acid Metabolism Defects\|Amino Acid Metabolism Defects]]
+1. [[Metabolic Disorders/Organic Acidemias\|Organic Acidemias]]
 2. [[Metabolic Disorders/Urea Cycle Disorders\|Urea Cycle Disorders]]
 ### Specific Disorders
 1. [[Metabolic Disorders/Phenylketonuria\|Phenylketonuria]]

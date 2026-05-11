@@ -2,7 +2,85 @@
 {"dg-publish":true,"uplink":"/metabolic-disorders/metabolic-disorders/","uptext":"Back to Index (Metabolic Disorders)","permalink":"/metabolic-disorders/approach-to-iem/","dgPassFrontmatter":true}
 ---
 
-## Algorithm
+## 1. Introduction
+* **Definition:** A heterogeneous group of genetic disorders caused by mutations impairing specific enzymes, transport proteins, or cofactors.
+* **Pathophysiology ("Metabolic Block"):**
+    * Toxic accumulation of substrates proximal to the block.
+    * Deficiency of essential end-products distal to the block.
+* **Epidemiology:** Individually rare, but collectively common (1 in 500 to 1 in 5,000 births). Most are Autosomal Recessive.
+
+## 2. FUNCTIONAL CLASSIFICATION
+Based on the pathophysiology and clinical presentation:
+
+### A. Intoxication Disorders
+* **Mechanism:** Accumulation of toxic compounds proximal to the metabolic block.
+* **Examples:** [[Metabolic Disorders/Urea Cycle Disorders\|Urea Cycle Disorders]] (UCD), [[Metabolic Disorders/Organic Acidemias\|Organic Acidemias]] (OA), Galactosemia, [[Metabolic Disorders/Maple Syrup Urine Disease\|Maple Syrup Urine Disease]] (MSUD).
+* **Clinical Pattern:** Symptom-free interval after birth $\rightarrow$ Rapid deterioration once feeding (protein/sugar) is introduced.
+
+### B. Energy Deficiency Disorders
+* **Mechanism:** Failure to produce or utilize energy (ATP).
+* **Examples:** Mitochondrial disorders, Fatty Acid Oxidation Defects (FAOD), Glycogen Storage Diseases (GSD).
+* **Clinical Pattern:** Hypoglycemia, lactic acidosis, multi-system involvement (heart, liver, muscle), hypotonia.
+
+### C. Complex Molecule (Storage) Disorders
+* **Mechanism:** Defects in organelles (lysosomes/peroxisomes) causing accumulation of large molecules.
+* **Examples:** Gaucher disease, MPS, Zellweger syndrome.
+* **Clinical Pattern:** Slowly progressive, permanent symptoms, dysmorphism, organomegaly.
+
+## 3. CLINICAL APPROACH: "WHEN TO SUSPECT"
+
+### Key Red Flags (Index of Suspicion)
+1.  **Sepsis Mimicry:** Neonates appearing septic (lethargy, refusal to feed) with negative cultures or no response to antibiotics.
+2.  **Sudden Deterioration:** Rapid decline in a previously healthy neonate after a symptom-free interval.
+3.  **Family History:** Consanguinity, unexplained sibling deaths, or SIDS.
+4.  **Neurological:** Unexplained encephalopathy, intractable seizures, loss of milestones.
+5.  **GI:** Recurrent vomiting, poor feeding, hepatosplenomegaly.
+
+### Physical Examination Pointers
+Search for specific signs to narrow the differential:
+
+| Physical Finding | Suspected IEM |
+| :--- | :--- |
+| **Cataracts** | Galactosemia |
+| **Corneal Clouding** | Mucopolysaccharidosis (MPS) |
+| **Cherry Red Spots** | Tay-Sachs, Niemann-Pick |
+| **Alopecia** | Biotinidase Deficiency |
+| **Coarse Hair** | Menkes Kinky Hair Disease |
+| **Hepatomegaly** | Galactosemia, [[Metabolic Disorders/Tyrosinemia\|Tyrosinemia]], GSD, LSD |
+| **Cardiomyopathy** | Pompe (GSD), FAOD, Mitochondrial disorders |
+### Characteristic Urine Odors
+"Smelling the urine" is a high-yield bedside test:
+
+| Urine Odor | Suspected IEM |
+| :--- | :--- |
+| **Maple Syrup / Burnt Sugar** | [[Metabolic Disorders/Maple Syrup Urine Disease\|Maple Syrup Urine Disease]] (MSUD) |
+| **Sweaty Feet** | [[Metabolic Disorders/Isovaleric Acidemia\|Isovaleric Acidemia]], Glutaric Acidemia Type II |
+| **Musty / Mousy** | [[Metabolic Disorders/Phenylketonuria\|Phenylketonuria]] (PKU) |
+| **Boiled Cabbage / Rancid** | [[Metabolic Disorders/Tyrosinemia\|Tyrosinemia]] (Type 1), Methionine Malabsorption |
+| **Swimming Pool** | Hawkinsinuria |
+| **Tom Cat Urine** | Multiple Carboxylase Deficiency |
+| **Rotting Fish** | Trimethylaminuria |
+| **Hops-like** | Oasthouse Urine Disease |
+
+## 4. DIAGNOSTIC INVESTIGATIONS
+
+### Tier 1: The "Metabolic Screen" (Acute Phase)
+Essential investigations for any sick child with suspected IEM:
+1.  **Arterial Blood Gas (ABG):** Check for metabolic acidosis and anion gap.
+2.  **Blood Glucose:** Check for hypoglycemia.
+3.  **Plasma Ammonia:** Check for hyperammonemia (Neonate >100-150 µmol/L).
+4.  **Plasma Lactate:** Check for lactic acidosis (indicates energy failure).
+5.  **Urine Ketones:** **Always pathological in a newborn.** Presence indicates organic acidemia or defects in ketoneolysis.
+
+### Tier 2: Confirmatory Tests
+Based on Tier 1 results:
+1.  **Plasma Amino Acids (PAA):** For Amino acidopathies and UCDs.
+2.  **Urine Organic Acids (UOA):** For [[Metabolic Disorders/Organic Acidemias\|Organic acidemias]].
+3.  **Plasma Acylcarnitine Profile (TMS):** For FAODs and some OAs.
+4.  **Lactate/Pyruvate Ratio:** For mitochondrial disorders.
+
+## 5. ALGORITHMIC INTERPRETATION (High Yield)
+The diagnosis is approached by grouping results into **Acidosis, Ketosis, Ammonia, and Lactate**.
 ```mermaid
 %%{init: {"themeVariables": { "lineWidth": "3px", "lineColor": "#000000" } }}%%
 flowchart TD
@@ -66,91 +144,11 @@ flowchart TD
     class WithKetosis,NoKetosis,IsoLact purpleFamily
     class OA,MSUD,FAOD,RTA,Mito_Pyr,UCD,PyrCarbB,Mito_PyrA greenFamily
 ```
-## 1. INTRODUCTION
-* **Definition:** A heterogeneous group of genetic disorders caused by mutations impairing specific enzymes, transport proteins, or cofactors.
-* **Pathophysiology ("Metabolic Block"):**
-    * Toxic accumulation of substrates proximal to the block.
-    * Deficiency of essential end-products distal to the block.
-* **Epidemiology:** Individually rare, but collectively common (1 in 500 to 1 in 5,000 births). Most are Autosomal Recessive.
-
-## 2. FUNCTIONAL CLASSIFICATION
-Based on the pathophysiology and clinical presentation:
-
-### A. Intoxication Disorders
-* **Mechanism:** Accumulation of toxic compounds proximal to the metabolic block.
-* **Examples:** Urea Cycle Disorders (UCD), Organic Acidemias (OA), Galactosemia, MSUD.
-* **Clinical Pattern:** Symptom-free interval after birth $\rightarrow$ Rapid deterioration once feeding (protein/sugar) is introduced.
-
-### B. Energy Deficiency Disorders
-* **Mechanism:** Failure to produce or utilize energy (ATP).
-* **Examples:** Mitochondrial disorders, Fatty Acid Oxidation Defects (FAOD), Glycogen Storage Diseases (GSD).
-* **Clinical Pattern:** Hypoglycemia, lactic acidosis, multi-system involvement (heart, liver, muscle), hypotonia.
-
-### C. Complex Molecule (Storage) Disorders
-* **Mechanism:** Defects in organelles (lysosomes/peroxisomes) causing accumulation of large molecules.
-* **Examples:** Gaucher disease, MPS, Zellweger syndrome.
-* **Clinical Pattern:** Slowly progressive, permanent symptoms, dysmorphism, organomegaly.
-
-## 3. CLINICAL APPROACH: "WHEN TO SUSPECT"
-
-### Key Red Flags (Index of Suspicion)
-1.  **Sepsis Mimicry:** Neonates appearing septic (lethargy, refusal to feed) with negative cultures or no response to antibiotics.
-2.  **Sudden Deterioration:** Rapid decline in a previously healthy neonate after a symptom-free interval.
-3.  **Family History:** Consanguinity, unexplained sibling deaths, or SIDS.
-4.  **Neurological:** Unexplained encephalopathy, intractable seizures, loss of milestones.
-5.  **GI:** Recurrent vomiting, poor feeding, hepatosplenomegaly.
-
-### Physical Examination Pointers
-Search for specific signs to narrow the differential:
-
-| Physical Finding | Suspected IEM |
-| :--- | :--- |
-| **Cataracts** | Galactosemia |
-| **Corneal Clouding** | Mucopolysaccharidosis (MPS) |
-| **Cherry Red Spots** | Tay-Sachs, Niemann-Pick |
-| **Alopecia** | Biotinidase Deficiency |
-| **Coarse Hair** | Menkes Kinky Hair Disease |
-| **Hepatomegaly** | Galactosemia, [[Metabolic Disorders/Tyrosinemia\|Tyrosinemia]], GSD, LSD |
-| **Cardiomyopathy** | Pompe (GSD), FAOD, Mitochondrial disorders |
-### Characteristic Urine Odors
-"Smelling the urine" is a high-yield bedside test:
-
-| Urine Odor | Suspected IEM |
-| :--- | :--- |
-| **Maple Syrup / Burnt Sugar** | [[Metabolic Disorders/Maple Syrup Urine Disease\|Maple Syrup Urine Disease]] (MSUD) |
-| **Sweaty Feet** | [[Metabolic Disorders/Isovaleric Acidemia\|Isovaleric Acidemia]], Glutaric Acidemia Type II |
-| **Musty / Mousy** | [[Metabolic Disorders/Phenylketonuria\|Phenylketonuria]] (PKU) |
-| **Boiled Cabbage / Rancid** | [[Metabolic Disorders/Tyrosinemia\|Tyrosinemia]] (Type 1), Methionine Malabsorption |
-| **Swimming Pool** | Hawkinsinuria |
-| **Tom Cat Urine** | Multiple Carboxylase Deficiency |
-| **Rotting Fish** | Trimethylaminuria |
-| **Hops-like** | Oasthouse Urine Disease |
-
-## 4. DIAGNOSTIC INVESTIGATIONS
-
-### Tier 1: The "Metabolic Screen" (Acute Phase)
-Essential investigations for any sick child with suspected IEM:
-1.  **Arterial Blood Gas (ABG):** Check for metabolic acidosis and anion gap.
-2.  **Blood Glucose:** Check for hypoglycemia.
-3.  **Plasma Ammonia:** Check for hyperammonemia (Neonate >100-150 µmol/L).
-4.  **Plasma Lactate:** Check for lactic acidosis (indicates energy failure).
-5.  **Urine Ketones:** **Always pathological in a newborn.** Presence indicates organic acidemia or defects in ketoneolysis.
-
-### Tier 2: Confirmatory Tests
-Based on Tier 1 results:
-1.  **Plasma Amino Acids (PAA):** For Amino acidopathies and UCDs.
-2.  **Urine Organic Acids (UOA):** For Organic acidemias.
-3.  **Plasma Acylcarnitine Profile (TMS):** For FAODs and some OAs.
-4.  **Lactate/Pyruvate Ratio:** For mitochondrial disorders.
-
-## 5. ALGORITHMIC INTERPRETATION (High Yield)
-The diagnosis is approached by grouping results into **Acidosis, Ketosis, Ammonia, and Lactate**.
-
 ### A. Metabolic Acidosis Present
 
 #### 1. With Ketosis (High Anion Gap)
 * **Elevated Ammonia:**
-    * *Diagnosis:* **Organic Acidemias** (Propionic Acidemia, Methylmalonic Acidemia).
+    * *Diagnosis:* **[[Metabolic Disorders/Organic Acidemias\|Organic Acidemias]]** (Propionic Acidemia, Methylmalonic Acidemia).
     * *Note:* Hyperammonemia is secondary to urea cycle inhibition by organic acids.
 * **Normal Ammonia:**
     * *Diagnosis:* **[[Metabolic Disorders/Maple Syrup Urine Disease\|Maple Syrup Urine Disease]] (MSUD)**, Beta-ketothiolase deficiency.
@@ -169,7 +167,7 @@ The diagnosis is approached by grouping results into **Acidosis, Ketosis, Ammoni
 
 #### 1. Hyperammonemia (Primary Feature)
 * *Respiratory Alkalosis is often present (due to central hyperventilation).*
-* *Diagnosis:* **Urea Cycle Disorders (UCD)**.
+* *Diagnosis:* **[[Metabolic Disorders/Urea Cycle Disorders\|Urea Cycle Disorders]] (UCD)**.
     * *Examples:* OTC Deficiency, Citrullinemia, CPS1 Deficiency.
     * *Feature:* Very high ammonia (>200-500+) with normal glucose and usually no acidosis initially.
 
@@ -181,13 +179,13 @@ The diagnosis is approached by grouping results into **Acidosis, Ketosis, Ammoni
     * Electron Transport Chain (Complex I-IV) disorders.
 
 ### C. Hypoglycemia Approach
-* **Ketones Present (+):** Organic Acidemias, Carbohydrate metabolism disorders (GSD).
+* **Ketones Present (+):** [[Metabolic Disorders/Organic Acidemias\|Organic Acidemias]], Carbohydrate metabolism disorders (GSD).
 * **Ketones Absent (-):** Fatty Acid Oxidation Defects (FAOD), Hyperinsulinism.
 
 
 ## 6. BIOCHEMICAL SUMMARY (Brief)
 * **Carbohydrates:** Disorders of Galactose (Galactosemia) and Fructose (HFI).
-* **Proteins:** Break down into Amino Acids $\rightarrow$ Nitrogen (Urea Cycle) and Organic Acids. Defects lead to Amino Acidopathies (PKU, MSUD) or Organic Acidemias.
+* **Proteins:** Break down into Amino Acids $\rightarrow$ Nitrogen (Urea Cycle) and Organic Acids. Defects lead to Amino Acidopathies (PKU, MSUD) or [[Metabolic Disorders/Organic Acidemias\|Organic Acidemias]].
 * **Fats:** Beta-oxidation defects lead to hypoketotic hypoglycemia.
 
 ## 7. MANAGEMENT PRINCIPLES (ACUTE)
@@ -223,7 +221,7 @@ The priority is to reverse the catabolic state which exacerbates most IEMs.
     * **Dialysis:** Indicated if ammonia levels are critical (Neonates >500 µmol/L) or unresponsive to medical therapy.
 ### 3. SPECIFIC MANAGEMENT STRATEGIES
 #### A. Intoxication Type (Small Molecule Disorders)
-* *Examples: Urea Cycle Disorders (UCD), Organic Acidemias (OA), MSUD.*
+* *Examples: [[Metabolic Disorders/Urea Cycle Disorders\|Urea Cycle Disorders]] (UCD), [[Metabolic Disorders/Organic Acidemias\|Organic Acidemias]] (OA), MSUD.*
 * **Principle 1: Stop the Intake (Substrate Restriction)**
     * **Strict NPO:** Discontinue oral protein/milk immediately upon suspicion.
     * *Rationale:* Symptoms in these disorders (like MSUD/UCD) typically appear after a symptom-free interval once protein feeding starts.

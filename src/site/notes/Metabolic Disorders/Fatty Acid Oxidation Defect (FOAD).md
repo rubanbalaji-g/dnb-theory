@@ -76,7 +76,7 @@
 1.  **Screening (Acute Crisis)**:
     * **Blood Glucose**: Hypoglycemia.
     * **Urinary Ketones**: Inappropriately negative/low ("Hypoketotic").
-    * **Blood Gas**: Mild or no acidosis (unlike organic acidemias).
+    * **Blood Gas**: Mild or no acidosis (unlike [[Metabolic Disorders/Organic Acidemias\|organic acidemias]]).
     * **Ammonia**: Hyperammonemia (transient).
     * **Liver Function**: Elevated transaminases, prolonged PT/PTT.
     * **CPK**: Elevated in myopathic forms.

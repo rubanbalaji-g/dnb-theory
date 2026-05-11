@@ -61,7 +61,7 @@ Diagnostic evaluation relies on identifying the exact biochemical blockage utili
 |Investigation|Diagnostic Finding And Significance|
 |---|---|
 |**Plasma Ammonia**|Markedly elevated, often >150 µmol/L in neonates and >1000 µmol/L during acute crises. Must be transported on ice and analyzed immediately.|
-|**Arterial Blood Gas**|Reveals respiratory alkalosis (high pH, low pCO2), distinguishing urea cycle disorders from organic acidemias which exhibit high anion gap metabolic acidosis.|
+|**Arterial Blood Gas**|Reveals respiratory alkalosis (high pH, low pCO2), distinguishing urea cycle disorders from [[Metabolic Disorders/Organic Acidemias\|organic acidemias]] which exhibit high anion gap metabolic acidosis.|
 |**Blood Glucose & LFTs**|Typically normal, helping to exclude primary hypoglycemia or primary liver failure as the cause of encephalopathy.|
 
 ### Biochemical Differentiation

@@ -43,7 +43,7 @@ Diagnostic workup relies on identifying the specific biochemical abnormalities a
 
 |Investigation Type|Findings And Significance|
 |---|---|
-|**Initial Screening**|Plasma ammonia is markedly elevated (>150–200 µmol/L, often >1000 in neonates). Arterial blood gas shows respiratory alkalosis, which differentiates it from the metabolic acidosis seen in organic acidemias.|
+|**Initial Screening**|Plasma ammonia is markedly elevated (>150–200 µmol/L, often >1000 in neonates). Arterial blood gas shows respiratory alkalosis, which differentiates it from the metabolic acidosis seen in [[Metabolic Disorders/Organic Acidemias\|organic acidemias]].|
 |**Plasma Amino Acids**|Demonstrates low or absent citrulline, low arginine, and high glutamine (which acts as ammonia storage).|
 |**Urine Organic Acids**|Markedly elevated orotic acid. This finding is critical to distinguish OTC deficiency from carbamoyl phosphate synthetase 1 deficiency, where orotic acid is low or normal.|
 |**Confirmatory Tests**|Molecular genetics via _OTC_ gene sequencing is the standard of care. Liver biopsy for enzyme assay is rarely needed.|

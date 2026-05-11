@@ -42,7 +42,7 @@
 | System            | Specific Complications                                                                                                                                                                                          |
 | ----------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Neurologic**    | Metabolic stroke affecting the globus pallidus in the basal ganglia, leading to movement disorders like dystonia, chorea, and spasticity.                                                                       |
-| **Renal**         | <span style="color:rgb(255, 255, 0)">Chronic tubulointerstitial nephritis</span> leading to progressive Chronic Kidney Disease, a feature unique to Methylmalonic Acidemia compared to other organic acidemias. |
+| **Renal**         | <span style="color:rgb(255, 255, 0)">Chronic tubulointerstitial nephritis</span> leading to progressive Chronic Kidney Disease, a feature unique to Methylmalonic Acidemia compared to other [[Metabolic Disorders/Organic Acidemias\|organic acidemias]]. |
 | **Other Systems** | Acute pancreatitis, optic nerve atrophy, cardiomyopathy, and acrodermatitis enteropathica-like skin rashes.                                                                                                     |
 
 ## Investigations

@@ -82,8 +82,8 @@
 ## Differential Diagnosis
 
 - **Fatty Acid Oxidation Defects (FAOD):** Present with fasting hypoketotic hypoglycemia and absent ketones, differentiating them from ketotic hepatic GSDs.
-- **Organic Acidemias:** Present with high anion gap metabolic acidosis and severe hyperammonemia, unlike the lactic acidosis seen in GSD I.
-- **Urea Cycle Disorders:** Feature severe hyperammonemia and respiratory alkalosis without primary hypoglycemia.
+- **[[Metabolic Disorders/Organic Acidemias\|Organic Acidemias]]:** Present with high anion gap metabolic acidosis and severe hyperammonemia, unlike the lactic acidosis seen in GSD I.
+- **[[Metabolic Disorders/Urea Cycle Disorders\|Urea Cycle Disorders]]:** Feature severe hyperammonemia and respiratory alkalosis without primary hypoglycemia.
 
 ## Management Principles
 

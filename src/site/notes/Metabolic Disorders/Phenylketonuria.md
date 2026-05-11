@@ -8,47 +8,7 @@
 - The disorder is caused by a deficiency of the hepatic enzyme Phenylalanine Hydroxylase (PAH).
 - The genetic defect involves the _PAH_ gene located on chromosome 12q23.2.
 - Classic PKU accounts for >98% of cases, while 1-3% of cases result from defects in the synthesis or recycling of its cofactor, Tetrahydrobiopterin (BH4).
-```mermaid
-%%{init: {"themeVariables": { "lineWidth": "3px", "lineColor": "#000000" } }}%%
-flowchart LR
-    %% Custom styling for high contrast
-    classDef blueNode fill:#dbeafe,stroke:#1e3a8a,color:#1e3a8a,stroke-width:2px;
-    classDef orangeNode fill:#ffedd5,stroke:#9a3412,color:#9a3412,stroke-width:2px;
-    classDef grayNode fill:#f4f4f5,stroke:#3f3f46,color:#3f3f46,stroke-width:2px;
-
-    %% Primary Sources and Core Pathway
-    Diet[Dietary Protein]:::blueNode
-    Tissue[Tissue Protein]:::blueNode
-    Phe[Phenylalanine]:::blueNode
-    Tyr[Tyrosine]:::blueNode
-    
-    Diet --> Phe
-    Tissue --> Phe
-    
-    Phe -->|Phenylalanine hydroxylase<br>BLOCKED| Tyr
-    
-    %% Cofactor Cycle
-    BH4[Tetrahydrobiopterin]:::grayNode
-    BH2[Dihydrobiopterin]:::grayNode
-    
-    BH4 -.->|Required Cofactor| Phe
-    BH4 --> BH2
-    BH2 -.->|Regeneration<br>BLOCKED| BH4
-    
-    %% Alternative Shunt Pathway
-    PhePyr[Phenylpyruvate]:::orangeNode
-    PheLac[Phenyllactate]:::orangeNode
-    PheAce[Phenylacetate]:::orangeNode
-    
-    Phe -->|Accumulates| PhePyr
-    PhePyr --> PheLac
-    PhePyr --> PheAce
-    
-    %% Downstream Products
-    Products["Oxidation<br>Protein Synthesis<br>Catecholamines<br>Thyroxine<br>Melanin"]:::grayNode
-    Tyr --> Products
-```
-
+![Pasted image 20260512004523.png](/img/user/+%C4%B0mages/Pasted%20image%2020260512004523.png)
 ## Pathophysiology
 
 ### Metabolic Block And Neurotoxicity
