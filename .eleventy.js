@@ -375,11 +375,7 @@ module.exports = function (eleventyConfig) {
         })
         .join(", ");
     }
-    if (tags) {
-      return `${tags},`;
-    } else {
-      return "";
-    }
+    return tags || "";
   });
 
   eleventyConfig.addFilter("hideDataview", function (str) {

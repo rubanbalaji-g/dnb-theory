@@ -244,16 +244,16 @@
     // ===== FlexSearch Index =====
 
     function createIndex(posts) {
-        const encoder = (str) => str.toLowerCase().split(/([^a-z]|[^\x00-\x7F])/);
         const contentIndex = new FlexSearch.Document({
-            cache: true,
-            charset: "latin:extra",
-            optimize: true,
-            index: [
-                { field: "content", tokenize: "reverse", encode: encoder },
-                { field: "title", tokenize: "forward", encode: encoder },
-                { field: "tags", tokenize: "forward", encode: encoder }
-            ]
+            document: {
+                id: "id",
+                index: [
+                    { field: "title", tokenize: "forward", optimize: true },
+                    { field: "content", tokenize: "forward", optimize: true },
+                    { field: "tags", tokenize: "forward", optimize: true }
+                ]
+            },
+            cache: true
         });
         posts.forEach((p, idx) => {
             contentIndex.add({ id: idx, title: p.title, content: p.content, tags: p.tags });
@@ -264,11 +264,15 @@
     // ===== Initialization =====
 
     async function init() {
-        // Fetch search index (browser caches based on query param)
-        const docs = await fetch('/searchIndex.json?v={{meta.buildDate|isoDate}}').then(r => r.json());
-        const index = createIndex(docs);
-        window.docs = docs;
-        window.index = index;
+        try {
+            const docs = await fetch('/searchIndex.json?v={{meta.buildDate|isoDate}}').then(r => r.json());
+            const index = createIndex(docs);
+            window.docs = docs;
+            window.index = index;
+        } catch (e) {
+            console.error('Failed to initialize search index:', e);
+            return;
+        }
 
         // Keyboard shortcuts
         document.addEventListener('keydown', (e) => {
@@ -436,29 +440,23 @@
         const data = window.docs;
         const isTagSearch = searchQuery[0] === "#" && searchQuery.length > 1;
 
-        const searchResults = isTagSearch
-            ? index.search(searchQuery.substring(1), [{ field: "tags" }])
-            : index.search(searchQuery, [
-                { field: "title", limit: 5 },
-                { field: "content", limit: 10 }
-            ]);
+        let searchResults;
+        if (isTagSearch) {
+            searchResults = index.search(searchQuery.substring(1), { index: ["tags"], bool: "or" });
+        } else {
+            searchResults = index.search(searchQuery, { index: ["title", "content"], limit: 20, bool: "or" });
+        }
 
-        const getByField = (field) => {
-            const results = searchResults.filter((x) => x.field === field);
-            if (results.length === 0) return [];
-            return [...results[0].result];
-        };
+        const allIds = new Set();
+        searchResults.forEach(res => {
+            if (res.result) {
+                res.result.forEach(id => allIds.add(id));
+            }
+        });
 
-        const allIds = new Set([
-            ...getByField("title"),
-            ...getByField("content"),
-            ...getByField("tags")
-        ]);
-
-        const dataIds = [...allIds];
-        const finalResults = dataIds.map((id) => {
+        const finalResults = Array.from(allIds).map((id) => {
             const result = { ...data[id] };
-            result.tags = result.tags.filter((x) => x !== "gardenEntry" && x !== "note");
+            result.tags = (result.tags || []).filter((x) => x !== "gardenEntry" && x !== "note");
             return result;
         });
 
