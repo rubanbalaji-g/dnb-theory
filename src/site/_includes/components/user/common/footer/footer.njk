@@ -79,6 +79,58 @@
         margin-left: auto;
         margin-right: auto;
     }
+
+    .graphviz {
+        display: flex;
+        justify-content: center;
+        margin: 1rem 0;
+        overflow-x: auto;
+    }
+    .graphviz.raw {
+        display: none;
+    }
+    .graphviz svg {
+        max-width: 100%;
+        height: auto;
+    }
 </style>
+
+<script type="module">
+    import { Graphviz } from "https://cdn.jsdelivr.net/npm/@hpcc-js/wasm/dist/index.js";
+
+    async function renderGraphviz() {
+        const elements = document.querySelectorAll(".graphviz");
+        if (elements.length === 0) return;
+
+        // Hide raw content immediately
+        elements.forEach(el => el.classList.add('raw'));
+
+        try {
+            const graphviz = await Graphviz.load();
+            for (const el of elements) {
+                const dot = el.textContent;
+                try {
+                    const svg = graphviz.dot(dot);
+                    el.innerHTML = svg;
+                    el.classList.remove('raw');
+                } catch (e) {
+                    console.error("Graphviz Error:", e);
+                    el.innerHTML = `<pre style="color: red;">${e.message}</pre>`;
+                    el.classList.remove('raw');
+                }
+            }
+        } catch (e) {
+            console.error("Failed to load Graphviz WASM:", e);
+        }
+    }
+
+    // Run on load
+    if (document.readyState === 'loading') {
+        document.addEventListener('DOMContentLoaded', renderGraphviz);
+    } else {
+        renderGraphviz();
+    }
+</script>
+
 
 

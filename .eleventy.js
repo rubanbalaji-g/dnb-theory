@@ -214,6 +214,10 @@ module.exports = function (eleventyConfig) {
           const code = token.content.trim();
           return `<pre class="mermaid">${code}</pre>`;
         }
+        if (token.info === "dot" || token.info === "graphviz") {
+          const code = token.content.trim();
+          return `<div class="graphviz">${code}</div>`;
+        }
         if (token.info === "transclusion") {
           const code = token.content.trim();
           return `<div class="transclusion">${md.render(code)}</div>`;
