@@ -32,9 +32,9 @@ Based on prevalence and treatability in the Indian context (NNF/ICMR recommendat
 
 ### B. Expanded Screening (Inborn Errors of Metabolism - IEM)
 With the advent of Tandem Mass Spectrometry (LC-MS/MS), 40+ disorders can be screened from a single blood spot.
-* **Amino Acid Disorders:** Phenylketonuria (PKU), Maple Syrup Urine Disease (MSUD), Homocystinuria, Tyrosinemia.
+* **Amino Acid Disorders:** [[Metabolic Disorders/Phenylketonuria\|Phenylketonuria]] (PKU), Maple Syrup Urine Disease (MSUD), [[Metabolic Disorders/Homocystinuria\|Homocystinuria]], Tyrosinemia.
 * **Fatty Acid Oxidation Disorders (FAODs):** MCAD deficiency, VLCAD deficiency. Important for preventing sudden infant death.
-* **Organic Acidemias (OAs):** Methylmalonic acidemia, Propionic acidemia, Isovaleric acidemia, Glutaric Aciduria Type 1.
+* **Organic Acidemias (OAs):** Methylmalonic acidemia, Propionic acidemia, [[Metabolic Disorders/Isovaleric Acidemia\|Isovaleric acidemia]], Glutaric Aciduria Type 1.
 * **Other Defects:** Galactosemia (GALT deficiency), Biotinidase Deficiency, Cystic Fibrosis.
 
 ## 3. Methodology: How It Is Done
@@ -102,7 +102,7 @@ Interpretation requires clinical correlation and understanding of physiology.
 | **Congenital Hypothyroidism** | TSH (Thyroid Stimulating Hormone) | DELFIA / ELISA | Serum Free T4, TSH |
 | **CAH** | 17-OHP (17-Hydroxyprogesterone) | DELFIA / ELISA | Serum 17-OHP, Electrolytes |
 | **G6PD Deficiency** | G6PD Enzyme Activity | Fluorescent Spot / Spectrophotometry | Quantitative Enzyme Assay |
-| **Phenylketonuria (PKU)** | Phenylalanine (Phe) | LC-MS/MS | Plasma Amino Acids (HPLC) |
+| **[[Metabolic Disorders/Phenylketonuria\|Phenylketonuria]] (PKU)** | Phenylalanine (Phe) | LC-MS/MS | Plasma Amino Acids (HPLC) |
 | **Galactosemia** | GALT Enzyme / Total Galactose | Enzymatic / Fluorometric | GALT Enzyme Assay |
 | **MSUD** | Leucine / Isoleucine | LC-MS/MS | Plasma Amino Acids |
 | **Biotinidase Deficiency** | Biotinidase Enzyme Activity | Colorimetric / Fluorometric | Serum Biotinidase |

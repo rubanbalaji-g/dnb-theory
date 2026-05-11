@@ -12,7 +12,7 @@
 ### Specific Disorders
 1. [[Metabolic Disorders/Phenylketonuria\|Phenylketonuria]]
 2. [[Metabolic Disorders/Tyrosinemia\|Tyrosinemia]]
-3. [[Metabolic Disorders/Homocystenuria\|Homocystenuria]]
+3. [[Metabolic Disorders/Homocystinuria\|Homocystinuria]]
 4. [[Metabolic Disorders/Maple Syrup Urine Disease\|Maple Syrup Urine Disease]]
 5. [[Metabolic Disorders/Alkaptouria\|Alkaptouria]]
 6. [[Metabolic Disorders/Isovaleric Acidemia\|Isovaleric Acidemia]]

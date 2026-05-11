@@ -2,84 +2,79 @@
 {"dg-publish":true,"uplink":"/metabolic-disorders/metabolic-disorders/","uptext":"Back to Index (Metabolic Disorders)","permalink":"/metabolic-disorders/methylmalonic-acidemia-mma/","dgPassFrontmatter":true}
 ---
 
-## 1. DEFINITION AND CLASSIFICATION
-* **Definition:** An autosomal recessive organic acidemia caused by a defect in the conversion of L-methylmalonyl-CoA to succinyl-CoA.
-* **Classification:**
-    * **Isolated MMA:**
-        * **Mutase Deficiency:** *MMUT* gene defects. Subtypes: **mut⁰** (complete deficiency) and **mut⁻** (partial activity).
-        * **Cobalamin Disorders:** Defects in synthesis of adenosylcobalamin cofactor (*cblA*, *cblB*, *cblD*-MMA).
-    * **Combined MMA and Homocystinuria:** Defects in cytosolic cobalamin metabolism (*cblC*, *cblD*, *cblF*, *cblJ*, *cblX*).
+## Definition And Classification
 
-## 2. ETIOLOGY AND PATHOPHYSIOLOGY
-* **Metabolic Block:** Deficiency of **Methylmalonyl-CoA Mutase** (MCM) or its cofactor **5-deoxyadenosylcobalamin**.
-* **Precursors:** Isoleucine, Valine, Methionine, Threonine (VOMIT), odd-chain fatty acids, and cholesterol side chains.
-* **Toxic Accumulation:** Methylmalonic acid, propionyl-CoA, methylcitrate.
-* **Consequences:**
-    * **Mitochondrial Toxicity:** Inhibition of Krebs cycle (citrate synthase) and oxidative phosphorylation.
-    * **Hyperammonemia:** Inhibition of N-acetylglutamate synthase (NAGS) by propionyl-CoA (urea cycle dysfunction).
-    * **Hyperglycinemia:** Inhibition of glycine cleavage system.
-    * **Bone Marrow Suppression:** Neutropenia, thrombocytopenia.
+- Autosomal recessive organic acidemia caused by a defect in the conversion of L-methylmalonyl-CoA to succinyl-CoA.
+![Pasted image 20260512000619.png](/img/user/+%C4%B0mages/Pasted%20image%2020260512000619.png)
+### Classification Of Subtypes
 
-## 3. CLINICAL FEATURES
-### A. Neonatal Onset (Severe - typically mut⁰)
-* **"Sepsis-like" Presentation:** Onset in first week of life.
-* **Symptoms:** Poor feeding, vomiting, profound lethargy, hypotonia.
-* **Signs:** Dehydration, hypothermia, respiratory distress (Kussmaul breathing due to acidosis).
-* **Neurologic:** Rapid progression to seizures, coma, and death if untreated.
+| Category                            | Subtypes And Characteristics                                                                                                                                                                                                        |
+| ----------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Isolated MMA**                    | **Mutase Deficiency:** _MMUT_ gene defects, classified into mut⁰ (complete deficiency) and mut⁻ (partial activity). <br>**Cobalamin Disorders:** Defects in the synthesis of the adenosylcobalamin cofactor (cblA, cblB, cblD-MMA). |
+| **Combined MMA And Homocystinuria** | Defects in cytosolic cobalamin metabolism, leading to combined methylmalonic acidemia and homocystinuria (cblC, cblD, cblF, cblJ, cblX).                                                                                            |
 
-### B. Chronic/Intermittent (Late Onset - mut⁻ or cbl types)
-* **GI:** Recurrent vomiting, protein aversion, failure to thrive, chronic constipation.
-* **Neurologic:** Developmental delay, hypotonia, regression during intercurrent illness.
-* **Acute Decompensation:** Triggered by infection, fasting, or high protein intake.
+## Pathophysiology And Etiology
 
-## 4. COMPLICATIONS (LONG-TERM)
-* **Neurologic (Metabolic Stroke):** Acute injury to the **globus pallidus** (basal ganglia) causing movement disorders (dystonia, chorea) and spasticity.
-* **Renal (Unique to MMA):** Chronic tubulointerstitial nephritis leading to progressive **Chronic Kidney Disease (CKD)**. Most common in *mut⁰*.
-* **Other:**
-    * Acute Pancreatitis.
-    * Optic Atrophy.
-    * Cardiomyopathy (less common than in Propionic Acidemia).
-    * Skin rashes (acrodermatitis enteropathica-like due to iatrogenic amino acid deficiency).
+### Metabolic Block And Precursors
 
-## 5. INVESTIGATIONS
-* **Screening Labs:**
-    * **Metabolic Acidosis:** High anion gap.
-    * **Ketosis/Ketonuria:** Marked.
-    * **Hyperammonemia:** Mild to severe.
-    * **Complete Blood Count:** Neutropenia, thrombocytopenia, pancytopenia.
-    * **Hyperglycinemia.**
-* **Diagnostic Tests:**
-    * **Urine Organic Acids:** Massive elevation of **Methylmalonic Acid**. Presence of methylcitrate and 3-hydroxypropionate.
-    * **Plasma Acylcarnitine Profile:** Elevated **C3** (propionylcarnitine) and **C4DC** (methylmalonylcarnitine).
-    * **Plasma Homocysteine:** To rule out combined MMA+HCU (cblC).
-* **Confirmation:**
-    * **Molecular Genetics:** Panel for *MMUT*, *MMAA*, *MMAB*.
-    * **B12 Responsiveness Testing:** Clinical or in vitro challenge.
+- The disease is caused by a deficiency of the enzyme Methylmalonyl-CoA Mutase (MCM) or its specific cofactor, 5-deoxyadenosylcobalamin.
+- Precursors of methylmalonyl-CoA include Isoleucine, Valine, Methionine, Threonine, odd-chain fatty acids, and cholesterol side chains.
+- The metabolic block results in the toxic accumulation of methylmalonic acid, propionyl-CoA, and methylcitrate.
 
-## 6. MANAGEMENT
-### A. Acute Decompensation
-* **Stop Protein Intake:** Immediate cessation of exogenous protein (max 24-48 hours).
-* **Reverse Catabolism:** High calorie IV fluids (D10 + Intralipids) at 1.5x maintenance.
-* **Detoxification:**
-    * **L-Carnitine:** IV loading dose (100 mg/kg) to excrete propionylcarnitine.
-    * **Ammonia Scavengers:** Sodium Benzoate/Phenylacetate if hyperammonemic.
-    * **Hemodialysis:** For severe acidosis/hyperammonemia refractory to medical management.
-* **Cofactor:** Empirical **Hydroxocobalamin** (Vitamin B12) IM injection (1 mg/day).
+### Mechanisms Of Toxicity
 
-### B. Chronic Management
-* **Dietary:**
-    * Low protein diet restricted in Isoleucine, Valine, Methionine, Threonine.
-    * Medical foods (MMA/PA-free formula).
-    * Avoid prolonged fasting.
-* **Pharmacotherapy:**
-    * **Vitamin B12:** Hydroxocobalamin IM for **B12-responsive** patients (*cblA* and some *mut⁻*).
-    * **L-Carnitine:** Maintenance (50-100 mg/kg/day).
-    * **Gut Sterilization:** Metronidazole or Neomycin to reduce gut bacterial production of propionate.
-* **Transplantation:**
-    * **Liver Transplant:** Corrects metabolic instability but does *not* prevent renal progression or reverse existing brain damage.
-    * **Combined Liver-Kidney:** For patients with renal failure.
+|Consequence|Mechanism|
+|---|---|
+|**Mitochondrial Toxicity**|Accumulation of metabolites inhibits the Krebs cycle (specifically citrate synthase) and impairs oxidative phosphorylation.|
+|**Hyperammonemia**|Propionyl-CoA competitively inhibits N-acetylglutamate synthase (NAGS), causing secondary urea cycle dysfunction.|
+|**Hyperglycinemia**|Toxic metabolites inhibit the glycine cleavage system.|
+|**Bone Marrow Suppression**|Toxic effects lead to neutropenia and thrombocytopenia.|
 
-## 7. PROGNOSIS
-* Heavily dependent on subtype (*mut⁰* has poorest prognosis).
-* Major morbidity includes intellectual disability and chronic renal failure.
-* Early diagnosis via Newborn Screening improves survival but may not prevent all long-term complications.
+## Clinical Features And Complications
+
+### Age Of Onset And Presentation
+
+- **Neonatal Onset (Severe):** Typically associated with mut⁰, presenting in the first week of life with a "sepsis-like" picture. Manifestations include poor feeding, vomiting, profound lethargy, and hypotonia. Patients show dehydration, hypothermia, Kussmaul breathing from severe acidosis, and rapid progression to seizures, coma, and death if untreated.
+- **Chronic Or Intermittent (Late Onset):** Associated with mut⁻ or cobalamin defects. Features include protein aversion, failure to thrive, chronic constipation, and developmental delay. Acute decompensation is typically triggered by catabolic stress such as infection, fasting, or high protein intake.
+
+### Long-Term Complications
+
+| System            | Specific Complications                                                                                                                                                                                          |
+| ----------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Neurologic**    | Metabolic stroke affecting the globus pallidus in the basal ganglia, leading to movement disorders like dystonia, chorea, and spasticity.                                                                       |
+| **Renal**         | <span style="color:rgb(255, 255, 0)">Chronic tubulointerstitial nephritis</span> leading to progressive Chronic Kidney Disease, a feature unique to Methylmalonic Acidemia compared to other organic acidemias. |
+| **Other Systems** | Acute pancreatitis, optic nerve atrophy, cardiomyopathy, and acrodermatitis enteropathica-like skin rashes.                                                                                                     |
+
+## Investigations
+
+### Screening And Diagnostic Workup
+
+|Test Category|Findings|
+|---|---|
+|**Screening Labs**|High anion gap metabolic acidosis, marked ketosis and ketonuria, mild to severe hyperammonemia, hyperglycinemia, and cytopenias (neutropenia, thrombocytopenia).|
+|**Urine Organic Acids**|Massive elevation of Methylmalonic acid, alongside methylcitrate and 3-hydroxypropionate.|
+|**Plasma Acylcarnitine**|Elevated C3 (propionylcarnitine) and C4DC (methylmalonylcarnitine).|
+|**Plasma Homocysteine**|Essential to rule out combined Methylmalonic Acidemia and Homocystinuria (e.g., cblC disease).|
+|**Confirmatory Tests**|Molecular genetics via gene panel testing for _MMUT_, _MMAA_, and _MMAB_. Clinical or in vitro Vitamin B12 responsiveness challenge.|
+
+## Management
+
+### Acute Decompensation
+
+- **Arrest Catabolism:** Immediately halt exogenous protein intake for a maximum of 24-48 hours. Administer high-calorie intravenous fluids (10% Dextrose with intralipids) at 1.5 times maintenance to suppress endogenous protein breakdown.
+- **Detoxification:** Administer an intravenous loading dose of L-Carnitine (100 mg/kg) to facilitate the excretion of propionylcarnitine. Utilize ammonia scavengers such as Sodium Benzoate or Sodium Phenylacetate for hyperammonemia. Employ hemodialysis if severe acidosis or hyperammonemia is refractory to medical management.
+- **Cofactor Therapy:** Administer empirical intramuscular Hydroxocobalamin (Vitamin B12) at 1 mg/day.
+
+### Chronic Maintenance And Transplantation
+
+|Therapy Type|Interventions|
+|---|---|
+|**Dietary**|Low-protein diet restricting Isoleucine, Valine, Methionine, and Threonine, supplemented with specific medical foods. Avoidance of prolonged fasting.|
+|**Pharmacotherapy**|Intramuscular Hydroxocobalamin for B12-responsive subtypes. Maintenance L-Carnitine (50-100 mg/kg/day). Gut sterilization using oral Metronidazole or Neomycin to decrease propionate production by enteric bacteria.|
+|**Transplantation**|Liver transplantation corrects metabolic instability but fails to prevent chronic renal progression or reverse existing brain damage. Combined Liver-Kidney transplantation is indicated for patients exhibiting renal failure.|
+
+## Prognosis
+
+- Prognosis heavily depends on the underlying subtype, with mut⁰ carrying the highest morbidity and poorest outcome.
+- Major long-term morbidities include irreversible intellectual disability, basal ganglia damage, and chronic renal failure.
+- While early diagnosis via Newborn Screening significantly improves initial survival, it does not completely prevent long-term systemic complications.

@@ -2,6 +2,67 @@
 {"dg-publish":true,"uplink":"/metabolic-disorders/metabolic-disorders/","uptext":"Back to Index (Metabolic Disorders)","permalink":"/metabolic-disorders/approach-to-iem/","dgPassFrontmatter":true}
 ---
 
+## Algorithm
+```dot
+digraph IEM_Algorithm {
+    graph [rankdir=TB, nodesep=0.5, ranksep=0.7, fontname="Arial"];
+    node [style="filled, solid", penwidth=2, fontname="Arial"];
+    edge [penwidth=3, color="#000000", fontname="Arial", fontsize=11];
+
+    // Root Node (Blue Family)
+    Start [label="Suspected IEM\nTier 1: ABG, Glucose, Ammonia, Lactate, Ketones", shape=box, fillcolor="#E3F2FD", color="#1565C0", fontcolor="#0D47A1", style="filled,rounded"];
+
+    // Decision Diamonds (Orange/Brown Family)
+    AcidosisDecision [label="Metabolic\nAcidosis?", shape=diamond, fillcolor="#FFF3E0", color="#E65100", fontcolor="#BF360C"];
+    KetosisDecision [label="Ketosis\nPresent?", shape=diamond, fillcolor="#FFF3E0", color="#E65100", fontcolor="#BF360C"];
+    NH3Decision1 [label="Ammonia\nLevel?", shape=diamond, fillcolor="#FFF3E0", color="#E65100", fontcolor="#BF360C"];
+    NH3Decision2 [label="Ammonia\nLevel?", shape=diamond, fillcolor="#FFF3E0", color="#E65100", fontcolor="#BF360C"];
+    GlucLactDecision [label="Glucose &\nLactate?", shape=diamond, fillcolor="#FFF3E0", color="#E65100", fontcolor="#BF360C"];
+    PrimaryFeatureDecision [label="Primary\nFeature?", shape=diamond, fillcolor="#FFF3E0", color="#E65100", fontcolor="#BF360C"];
+
+    // Intermediate States (Purple Family)
+    WithKetosis [label="High Anion Gap\nwith Ketosis", shape=box, fillcolor="#F3E5F5", color="#6A1B9A", fontcolor="#4A148C"];
+    NoKetosis [label="Without Ketosis", shape=box, fillcolor="#F3E5F5", color="#6A1B9A", fontcolor="#4A148C"];
+    IsoLact [label="Isolated Lactic\nAcidosis", shape=box, fillcolor="#F3E5F5", color="#6A1B9A", fontcolor="#4A148C"];
+
+    // Endpoints / Diagnoses (Green Family)
+    OA [label="Organic Acidemias\n(e.g., Propionic, Methylmalonic)", shape=box, fillcolor="#E8F5E9", color="#2E7D32", fontcolor="#1B5E20"];
+    MSUD [label="MSUD or Beta-\nketothiolase def.", shape=box, fillcolor="#E8F5E9", color="#2E7D32", fontcolor="#1B5E20"];
+    FAOD [label="Fatty Acid Oxidation\nDefects (FAOD)", shape=box, fillcolor="#E8F5E9", color="#2E7D32", fontcolor="#1B5E20"];
+    RTA [label="Renal Tubular\nAcidosis (RTA)", shape=box, fillcolor="#E8F5E9", color="#2E7D32", fontcolor="#1B5E20"];
+    Mito_Pyr [label="Pyruvate Metabolism or\nMitochondrial Disorders", shape=box, fillcolor="#E8F5E9", color="#2E7D32", fontcolor="#1B5E20"];
+    UCD [label="Urea Cycle Disorders\n(e.g., OTC, Citrullinemia)", shape=box, fillcolor="#E8F5E9", color="#2E7D32", fontcolor="#1B5E20"];
+    PyrCarbB [label="Pyruvate Carboxylase\nDef. (Type B)", shape=box, fillcolor="#E8F5E9", color="#2E7D32", fontcolor="#1B5E20"];
+    Mito_PyrA [label="Mitochondrial Disorders or\nPyr. Carboxylase Def. (Type A)", shape=box, fillcolor="#E8F5E9", color="#2E7D32", fontcolor="#1B5E20"];
+
+    // Routing
+    Start -> AcidosisDecision;
+
+    AcidosisDecision -> KetosisDecision [label=" Yes"];
+    AcidosisDecision -> PrimaryFeatureDecision [label=" No"];
+
+    // Acidosis = YES branch
+    KetosisDecision -> WithKetosis [label=" Yes"];
+    KetosisDecision -> NoKetosis [label=" No"];
+
+    WithKetosis -> NH3Decision1;
+    NH3Decision1 -> OA [label=" Elevated"];
+    NH3Decision1 -> MSUD [label=" Normal"];
+
+    NoKetosis -> GlucLactDecision;
+    GlucLactDecision -> FAOD [label=" Hypoglycemia +\nHigh Lactate"];
+    GlucLactDecision -> RTA [label=" Normal Glucose +\nNormal Lactate"];
+    GlucLactDecision -> Mito_Pyr [label=" Normal Glucose +\nHigh Lactate"];
+
+    // Acidosis = NO branch
+    PrimaryFeatureDecision -> UCD [label=" Hyperammonemia"];
+    PrimaryFeatureDecision -> IsoLact [label=" Isolated Lactic\nAcidosis"];
+
+    IsoLact -> NH3Decision2;
+    NH3Decision2 -> PyrCarbB [label=" With\nHyperammonemia"];
+    NH3Decision2 -> Mito_PyrA [label=" Normal"];
+}
+```
 ## 1. INTRODUCTION
 * **Definition:** A heterogeneous group of genetic disorders caused by mutations impairing specific enzymes, transport proteins, or cofactors.
 * **Pathophysiology ("Metabolic Block"):**
@@ -54,8 +115,8 @@ Search for specific signs to narrow the differential:
 | Urine Odor | Suspected IEM |
 | :--- | :--- |
 | **Maple Syrup / Burnt Sugar** | Maple Syrup Urine Disease (MSUD) |
-| **Sweaty Feet** | Isovaleric Acidemia, Glutaric Acidemia Type II |
-| **Musty / Mousy** | Phenylketonuria (PKU) |
+| **Sweaty Feet** | [[Metabolic Disorders/Isovaleric Acidemia\|Isovaleric Acidemia]], Glutaric Acidemia Type II |
+| **Musty / Mousy** | [[Metabolic Disorders/Phenylketonuria\|Phenylketonuria]] (PKU) |
 | **Boiled Cabbage / Rancid** | Tyrosinemia (Type 1), Methionine Malabsorption |
 | **Swimming Pool** | Hawkinsinuria |
 | **Tom Cat Urine** | Multiple Carboxylase Deficiency |

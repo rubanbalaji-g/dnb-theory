@@ -10,9 +10,9 @@ Inborn errors of metabolism (IEM) affecting amino acids are caused by single-gen
     * **Deficiency:** Lack of downstream products (e.g., Melanin in Albinism, Neurotransmitters in PKU/BH4 deficiency).
 
 ## 2. CLASSIFICATION (By Amino Acid Group)
-* **Aromatic Amino Acids:** Phenylketonuria (PKU), Tyrosinemia (I, II, III), Alkaptonuria, Albinism.
-* **Branched-Chain Amino Acids (BCAAs):** Maple Syrup Urine Disease (MSUD), Isovaleric Acidemia (IVA), Propionic Acidemia (PA), Methylmalonic Acidemia (MMA).
-* **Sulfur-Containing Amino Acids:** Homocystinuria, Cystinuria, Sulfite Oxidase Deficiency.
+* **Aromatic Amino Acids:** [[Metabolic Disorders/Phenylketonuria\|Phenylketonuria]] (PKU), Tyrosinemia (I, II, III), Alkaptonuria, Albinism.
+* **Branched-Chain Amino Acids (BCAAs):** Maple Syrup Urine Disease (MSUD), [[Metabolic Disorders/Isovaleric Acidemia\|Isovaleric Acidemia]] (IVA), Propionic Acidemia (PA), Methylmalonic Acidemia (MMA).
+* **Sulfur-Containing Amino Acids:** [[Metabolic Disorders/Homocystinuria\|Homocystinuria]], Cystinuria, Sulfite Oxidase Deficiency.
 * **Urea Cycle Disorders (UCDs):** OTC deficiency, Citrullinemia, Argininosuccinic aciduria.
 * **Transport Defects:** Hartnup disease, Cystinuria.
 * **Others:** Non-ketotic Hyperglycinemia (NKH), Histidinemia.
@@ -31,17 +31,17 @@ Presentation varies from acute neonatal metabolic crisis to insidious late-onset
     * **Urea Cycle Defects:** Pure hyperammonemia (respiratory alkalosis), no ketosis.
 
 ### B. Chronic/Late-Onset Presentation
-* **Neurological:** Intellectual disability (PKU, Homocystinuria), developmental regression, ataxia, movement disorders (dystonia in Glutaric Aciduria).
+* **Neurological:** Intellectual disability (PKU, [[Metabolic Disorders/Homocystinuria\|Homocystinuria]]), developmental regression, ataxia, movement disorders (dystonia in Glutaric Aciduria).
 * **Hepatic:** Liver failure, cirrhosis, hepatocellular carcinoma (Tyrosinemia Type I).
 * **Psychiatric:** Behavioral issues, autism-like features (untreated PKU).
-* **Ocular/Cutaneous:** Ectopia lentis (Homocystinuria), cataracts (Galactosemia - D/D), albinism.
+* **Ocular/Cutaneous:** Ectopia lentis ([[Metabolic Disorders/Homocystinuria\|Homocystinuria]]), cataracts (Galactosemia - D/D), albinism.
 
 ### C. Characteristic Odors (High Yield)
 | Disorder | Odor |
 | :--- | :--- |
 | **PKU** | Musty / Mousy |
 | **MSUD** | Maple Syrup / Burnt Sugar |
-| **Isovaleric Acidemia** | Sweaty Feet / Rancid Cheese |
+| **[[Metabolic Disorders/Isovaleric Acidemia\|Isovaleric Acidemia]]** | Sweaty Feet / Rancid Cheese |
 | **Tyrosinemia Type I** | Boiled Cabbage |
 | **Methionine malabsorption** | Oasthouse (Hops-like) |
 | **Trimethylaminuria** | Rotten Fish |
@@ -51,7 +51,7 @@ Presentation varies from acute neonatal metabolic crisis to insidious late-onset
 
 ## 4. SPECIFIC PROTOTYPE DISORDERS
 
-### A. Phenylketonuria (PKU)
+### A. [[Metabolic Disorders/Phenylketonuria\|Phenylketonuria]] (PKU)
 * **Defect:** Phenylalanine Hydroxylase (PAH) deficiency or cofactor Tetrahydrobiopterin (BH4) deficiency.
 * **Biochemistry:** Phenylalanine (Phe) >20 mg/dL (>1200 µmol/L). Phe cannot convert to Tyrosine.
 * **Clinical Features (Untreated):**
@@ -90,7 +90,7 @@ Presentation varies from acute neonatal metabolic crisis to insidious late-onset
     * **Acute:** Hemodialysis (most effective for leucine removal), high-calorie anabolism.
     * **Chronic:** BCAA-restricted diet. Liver transplant is curative (enzyme abundant in liver).
 
-### D. Homocystinuria (Classic)
+### D. [[Metabolic Disorders/Homocystinuria\|Homocystinuria]] (Classic)
 * **Defect:** Cystathionine $\beta$-synthase (CBS).
 * **Clinical Features (Marfanoid Habitus):**
     * **Eye:** Ectopia lentis (Lens dislocates **downward** and inward; vs Marfan upward).
@@ -138,7 +138,7 @@ Presentation varies from acute neonatal metabolic crisis to insidious late-onset
 * **Detoxification:**
     * Hemodialysis (Ammonia >500 µmol/L or severe leucine).
     * Scavengers (Benzoate/Phenylacetate) for hyperammonemia.
-* **Cofactors:** Trial of Vit B12 (MMA), Biotin (MCD), Thiamine (MSUD), B6 (Homocystinuria).
+* **Cofactors:** Trial of Vit B12 (MMA), Biotin (MCD), Thiamine (MSUD), B6 ([[Metabolic Disorders/Homocystinuria\|Homocystinuria]]).
 
 ### B. Long-Term Management
 * **Dietary:** Lifelong restriction of the offending amino acid (e.g., Phe-free formula). Supplementation of essential products (e.g., Tyrosine in PKU).

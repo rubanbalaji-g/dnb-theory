@@ -43,7 +43,7 @@
 
 ### Clinical Examples
 
-- Cystic Fibrosis, Sickle Cell Anemia, Thalassemia, Phenylketonuria, and Spinal Muscular Atrophy.
+- Cystic Fibrosis, Sickle Cell Anemia, Thalassemia, [[Metabolic Disorders/Phenylketonuria\|Phenylketonuria]], and Spinal Muscular Atrophy.
 
 ## X-Linked Recessive Inheritance
 

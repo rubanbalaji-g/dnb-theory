@@ -2,77 +2,115 @@
 {"dg-publish":true,"uplink":"/metabolic-disorders/metabolic-disorders/","uptext":"Back to Index (Metabolic Disorders)","permalink":"/metabolic-disorders/alkaptouria/","dgPassFrontmatter":true}
 ---
 
-## 1. DEFINITION AND ETIOLOGY
-* **Definition:** An autosomal recessive disorder of tyrosine metabolism characterized by the accumulation of homogentisic acid (HGA) due to an enzyme deficiency.
-* **Enzyme Defect:** Deficiency of **Homogentisate 1,2-dioxygenase (HGD)**.
-* **Gene:** *HGD* gene located on chromosome 3q13.
-* **Inheritance:** Autosomal Recessive.
-* **Epidemiology:** Rare (1:250,000); higher prevalence in Slovakia and Dominican Republic.
+## Definition And Etiology
 
-## 2. PATHOPHYSIOLOGY
-* **Metabolic Block:** Failure to convert Homogentisic Acid (HGA) to Maleylacetoacetic Acid in the tyrosine catabolic pathway.
-* **Mechanism of Damage:**
-    1.  **HGA Accumulation:** HGA levels rise markedly in blood and urine.
-    2.  **Oxidation:** HGA oxidizes to benzoquinone acetic acid, which polymerizes to form a dark pigment (Alkapton).
-    3.  **Deposition (Ochronosis):** This pigment has a high affinity for connective tissue (cartilage, skin, sclera), leading to tissue weakness and degeneration.
-* **Urine Change:** HGA in urine oxidizes upon exposure to air or alkalization, turning the urine dark brown or black.
+- Autosomal recessive disorder of tyrosine metabolism characterized by the accumulation of Homogentisic Acid (HGA).
+- Caused by the deficiency of the enzyme Homogentisate 1,2-dioxygenase (HGD).
+- Results from pathogenic variants in the _HGD_ gene located on chromosome 3q13.
+- Affects approximately 1 in 250,000 individuals, with a higher prevalence noted in Slovakia and the Dominican Republic.
+```mermaid
+%%{init: {"themeVariables": { "lineWidth": "3px", "lineColor": "#000000" } }}%%
+graph TD
+    %% Styling definitions for high contrast (Lighter fill, darker outline and text)
+    classDef default fill:#e3f2fd,stroke:#0d47a1,stroke-width:2px,color:#0d47a1;
+    classDef enzyme fill:#fff3e0,stroke:#e65100,stroke-width:2px,color:#e65100;
+    classDef disease fill:#e8f5e9,stroke:#1b5e20,stroke-width:3px,color:#1b5e20;
 
-## 3. CLINICAL FEATURES
-The disease evolves in three stages:
+    %% Nodes: Metabolites
+    Phe[Phenylalanine]
+    Tyr[Tyrosine]
+    HPPA[4-Hydroxyphenylpyruvic acid]
+    HGA[Homogentisic acid]
+    MAA[Maleylacetoacetic acid]
+    FAA[Fumarylacetoacetic acid]
+    SAA[Succinylacetoacetic acid]
+    SA[Succinylacetone]
+    FAAA[Fumaric acid + Acetoacetic acid]
 
-### A. Infancy and Childhood (Asymptomatic Stage)
-* **Dark Urine:** The only early symptom.
-    * Urine turns black upon standing for hours or if alkalinized (e.g., washing diapers with soap).
-    * Often unrecognized ("staining of diapers") or misdiagnosed.
-* **General:** Asymptomatic otherwise; normal growth and development.
+    %% Nodes: Enzymes
+    E1(Phenylalanine hydroxylase)
+    E2(Tyrosine aminotransferase)
+    E3(4-hydroxyphenylpyruvic acid dioxygenase)
+    E4(Homogentisic 1,2-dioxygenase)
+    E5(Fumarylacetoacetic acid hydrolase)
 
-### B. Young Adulthood (Ochronosis Stage)
-* **Ochronosis:** Blue-black pigmentation of connective tissues (usually appears in 3rd–4th decade).
-    * **Ears:** Slate-blue discoloration of ear cartilage; earwax is black.
-    * **Eyes:** Brown/black pigment spots on the sclera (Osler's sign) midway between cornea and canthus.
-    * **Skin:** Axillary and inguinal pigmentation.
+    %% Nodes: Diseases / Clinical blocks
+    D1([Alkaptonuria])
+    D2([Tyrosinaemia])
 
-### C. Adulthood (Arthropathy Stage)
-* **Ochronotic Arthropathy:**
-    * Degenerative arthritis resembling osteoarthritis but occurring at a younger age.
-    * **Spine:** Affects large joints and spine first. Loss of lumbar lordosis, ankylosis, and severe back pain.
-    * **Knees/Hips/Shoulders:** Severe secondary osteoarthritis often requiring joint replacement.
-* **Cardiovascular:** Calcification and stenosis of the aortic or mitral valves; risk of coronary artery calcification.
-* **Genitourinary:** Black prostatic calculi.
+    %% Pathway connections
+    Phe --> E1 --> Tyr
+    Tyr <--> E2 <--> HPPA
+    HPPA --> E3 --> HGA
+    
+    HGA --> E4
+    E4 --> MAA
+    E4 --x|Enzyme Block| D1
+    
+    MAA <--> FAA
+    MAA --> SAA
+    FAA --> SAA
+    SAA --> SA
+    
+    FAA --> E5
+    E5 --> FAAA
+    E5 --x|Enzyme Block| D2
 
-## 4. INVESTIGATIONS
-* **Urine Tests:**
-    * **Visual:** Urine turns black on standing or adding alkali (NaOH).
-    * **Reducing Substances:** Positive **Benedict’s test** (HGA is a reducing agent) but Negative Clinistix (Glucose oxidase).
-    * **Ferric Chloride Test:** Transient purple-black color.
-* **Confirmatory:**
-    * **Gas Chromatography-Mass Spectrometry (GC-MS):** Detects massive elevation of Homogentisic Acid (HGA) in urine.
-* **Radiology:**
-    * **Spine X-ray:** Calcification of intervertebral discs (**pathognomonic sign**). Narrowing of disc spaces and vertebral fusion (Bamboo spine appearance similar to Ankylosing Spondylitis).
-* **Genetics:** Molecular analysis of *HGD* gene.
+    %% Apply Classes
+    class E1,E2,E3,E4,E5 enzyme;
+    class D1,D2 disease;
+```
 
-## 5. DIFFERENTIAL DIAGNOSIS (DARK URINE)
-* Porphyria (turns dark on standing).
-* Hemoglobinuria/Myoglobinuria.
-* Drugs (Methyldopa, Metronidazole).
-* Melaninuria (Melanoma).
+## Pathophysiology
 
-## 6. MANAGEMENT
-**Goal:** Reduce HGA production and manage complications.
+- **Metabolic Block:** Failure to convert Homogentisic Acid (HGA) to Maleylacetoacetic Acid in the normal tyrosine catabolic pathway.
+- **Pigment Formation:** Marked accumulation of HGA in blood and urine leads to its oxidation into benzoquinone acetic acid, which subsequently polymerizes to form a dark pigment known as Alkapton.
+- **Ochronosis:** The Alkapton pigment exhibits a high affinity for connective tissues, including cartilage, skin, and sclera.
+- **Tissue Degeneration:** Deposition of this pigment causes progressive tissue weakness, structural damage, and severe degeneration over decades.
 
-### A. Specific Therapy
-* **Nitisinone (NTBC):**
-    * **Mechanism:** Inhibits the enzyme 4-hydroxyphenylpyruvate dioxygenase (upstream of the defect).
-    * **Effect:** Prevents the formation of HGA.
-    * **Clinical Use:** Shown to reduce HGA levels by 95% and slow the progression of ochronosis and cardiac pathology.
-    * *Side Effect:* Causes Hypertyrosinemia (requires dietary tyrosine/phenylalanine restriction to prevent corneal crystals).
+## Clinical Features
 
-### B. Symptomatic Treatment
-* **Diet:** Restriction of protein (phenylalanine and tyrosine) helps reduce HGA load (difficult to maintain long-term).
-* **Vitamin C (Ascorbic Acid):** High dose; prevents oxidation of HGA to pigment but does *not* reduce HGA levels. Clinical efficacy is doubtful.
-* **Orthopedic:** Physiotherapy, analgesia, and joint replacement surgery (hip/knee) for severe arthritis.
-* **Cardiac:** Valve replacement for severe aortic stenosis.
+The disease typically evolves progressively through three distinct clinical stages spanning a patient's lifetime.
 
-## 7. PROGNOSIS
-* Life expectancy is generally normal.
-* Morbidity is high due to severe, crippling arthritis and cardiovascular disease in later life.
+| Disease Stage          | Age Of Onset                     | Clinical Manifestations                                                                                                                                                                                                                                                                                                                                                                                                 |
+| ---------------------- | -------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Asymptomatic Stage** | Infancy And Childhood            | Normal growth and development. Dark urine is the only early symptom, turning black upon standing or when alkalinized (e.g., washing diapers with soap). Often unrecognized or misdiagnosed.                                                                                                                                                                                                                             |
+| **Ochronosis Stage**   | Young Adulthood (3rd–4th Decade) | Blue-black pigmentation of connective tissues. <br>Ears show slate-blue discoloration of cartilage and black earwax. <br>Eyes show brown/black pigment spots on the sclera (Osler's sign). <br>Skin shows axillary and inguinal pigmentation.                                                                                                                                                                           |
+| **Arthropathy Stage**  | Adulthood                        | Severe degenerative arthritis resembling early-onset osteoarthritis. <br>Spine shows loss of lumbar lordosis, ankylosis, and severe back pain. Large joints (knees, hips, shoulders) develop severe secondary osteoarthritis. Cardiovascular system develops calcification and stenosis of aortic or mitral valves, alongside coronary artery calcification. <br>Genitourinary system develops black prostatic calculi. |
+
+## Investigations
+
+Diagnosis relies on characteristic screening tests and specific confirmatory modalities.
+
+|Investigation Type|Findings|
+|---|---|
+|**Urine Visual Test**|Urine turns black upon prolonged standing or the addition of alkali (NaOH).|
+|**Urine Chemical Tests**|Positive Benedict’s test (HGA acts as a reducing agent). Negative Clinistix test (Glucose oxidase specific). Transient purple-black color upon Ferric Chloride testing.|
+|**Confirmatory Testing**|Gas Chromatography-Mass Spectrometry (GC-MS) demonstrates massive elevation of HGA in urine.|
+|**Radiological Evaluation**|Spine X-ray shows pathognomonic calcification of intervertebral discs. Narrowing of disc spaces and vertebral fusion mimic the "Bamboo spine" appearance of Ankylosing Spondylitis.|
+|**Genetic Analysis**|Molecular analysis confirms mutations in the _HGD_ gene.|
+
+## Differential Diagnosis
+
+Conditions presenting with dark urine must be differentiated from Alkaptonuria.
+
+- Porphyria (urine turns dark on standing).
+- Hemoglobinuria or Myoglobinuria.
+- Drug-induced discoloration (Methyldopa, Metronidazole).
+- Melaninuria secondary to Melanoma.
+
+## Management
+
+The primary therapeutic goal is to reduce HGA production and manage degenerative complications.
+
+|Therapy Category|Modality And Rationale|
+|---|---|
+|**Specific Pharmacotherapy**|**Nitisinone (NTBC):** Inhibits 4-hydroxyphenylpyruvate dioxygenase, functioning upstream of the defect to prevent HGA formation. Reduces HGA levels by 95% and slows the progression of ochronosis and cardiac pathology. Induces hypertyrosinemia, requiring dietary protein restriction to prevent corneal crystals.|
+|**Dietary Modification**|Restriction of phenylalanine and tyrosine intake reduces the overall HGA load, though maintenance is difficult long-term.|
+|**Vitamin Supplementation**|**High-Dose Ascorbic Acid (Vitamin C):** Prevents the oxidation of HGA to its polymerized pigment but does not reduce absolute HGA levels. Clinical efficacy remains doubtful.|
+|**Surgical And Supportive**|Physiotherapy and adequate analgesia for arthropathy. Joint replacement surgery (hip/knee) for severe, crippling arthritis. Valve replacement surgery for severe aortic stenosis.|
+
+## Prognosis
+
+- Overall life expectancy remains generally normal.
+- Morbidity is extremely high in later life due to the development of severe, crippling ochronotic arthropathy and progressive cardiovascular disease.

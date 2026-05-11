@@ -25,7 +25,7 @@ Unlike adults (where atherosclerosis/HTN dominates), pediatric stroke is multifa
 | **Cardiac Disorders** (25%) | • **Congenital Heart Disease:** Cyanotic > Acyanotic (R-to-L shunt).<br>• **Procedures:** Cardiac catheterization, ECMO.<br>• **Infection:** Infective Endocarditis.<br>• **Cardiomyopathy/Arrhythmias.** |
 | **Hematologic** | • **Sickle Cell Disease:** Highest risk (10% risk without screening).<br>• **Prothrombotic States:** Protein C/S deficiency, Factor V Leiden, Antithrombin III deficiency.<br>• **Iron Deficiency Anemia:** Thrombocytosis/hyperviscosity. |
 | **Infectious** | • **Post-Varicella Angiopathy:** Stroke 3–12 months after Chickenpox.<br>• **Meningitis:** Bacterial (Pneumococcal/TB) causing vasculitis.<br>• **Head/Neck Infections:** Mastoiditis (Risk of CSVT). |
-| **Metabolic / Genetic** | • **Homocystinuria:** Thromboembolism.<br>• **MELAS:** Mitochondrial Encephalomyopathy, Lactic Acidosis, Stroke-like episodes.<br>• **Fabry Disease.** |
+| **Metabolic / Genetic** | • **[[Metabolic Disorders/Homocystinuria\|Homocystinuria]]:** Thromboembolism.<br>• **MELAS:** Mitochondrial Encephalomyopathy, Lactic Acidosis, Stroke-like episodes.<br>• **Fabry Disease.** |
 
 ### 4. Clinical Presentation
 Symptoms vary significantly by age.

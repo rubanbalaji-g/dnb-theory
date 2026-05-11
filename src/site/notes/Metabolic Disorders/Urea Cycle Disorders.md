@@ -10,7 +10,7 @@
 * **Incidence**: Collectively ~1 in 35,000 live births; individual disorders are rare.
 * **Inheritance**:
     * **Autosomal Recessive (AR)**: All UCDs (CPS1, ASS, ASL, ARG1, NAGS deficiencies).
-    * **X-Linked Recessive**: Ornithine Transcarbamylase (OTC) deficiency (most common UCD).
+    * **X-Linked Recessive**: [[Metabolic Disorders/Ornithine Transcarbamylase (OTC) Deficiency\|Ornithine Transcarbamylase (OTC) deficiency]] (most common UCD).
         * Males: Severe, neonatal presentation.
         * Females: Variable, ranging from asymptomatic to fatal hyperammonemic coma (due to skewed X-inactivation).
 ![Pasted image 20260114223310.png](/img/user/+%C4%B0mages/Pasted%20image%2020260114223310.png)

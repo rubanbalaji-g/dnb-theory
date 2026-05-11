@@ -2,121 +2,57 @@
 {"dg-publish":true,"uplink":"/metabolic-disorders/metabolic-disorders/","uptext":"Back to Index (Metabolic Disorders)","permalink":"/metabolic-disorders/kerb-s-cycle-associated-disorders/","dgPassFrontmatter":true}
 ---
 
-## I. INTRODUCTION
-* **Definition:** The Krebs cycle (Tricarboxylic Acid/TCA cycle) is the central metabolic pathway in the mitochondrial matrix responsible for the final oxidation of carbohydrates, lipids, and amino acids.
-* **Physiologic Functions:**
-    * **Energy Production:** Generates high-energy electron carriers (NADH, FADH2) for the electron transport chain (oxidative phosphorylation).
-    * **Biosynthesis:** Provides intermediates for the synthesis of amino acids (e.g., glutamate, aspartate), heme, and neurotransmitters.
-* **Pathophysiology of Defects:**
-    * **Energy Failure:** Impaired ATP production leads to multisystem involvement, primarily affecting high-energy organs (brain, heart, muscle).
-    * **Lactic Acidosis:** Blockage of the cycle prevents the entry of pyruvate (via acetyl-CoA), shunting it toward lactate.
-    * **Toxic Accumulation:** Build-up of specific organic acids (e.g., fumarate, alpha-ketoglutarate).
+## Definition And Pathophysiology
 
-## II. CLASSIFICATION OF DISORDERS
-Primary defects involve enzymes within the cycle. Secondary defects involve anaplerotic enzymes required to replenish cycle intermediates.
+- The Krebs cycle (Tricarboxylic Acid cycle) is the central metabolic pathway in the mitochondrial matrix responsible for the final oxidation of carbohydrates, lipids, and amino acids.
+- **Physiologic Functions:** Generates high-energy electron carriers (NADH, FADH2) for oxidative phosphorylation and provides intermediates for the synthesis of amino acids, heme, and neurotransmitters.
+- **Pathophysiology Of Defects:** Impaired ATP production causes energy failure affecting the brain, heart, and muscle. Blockage of the cycle prevents the entry of pyruvate, shunting it toward lactate, resulting in severe lactic acidosis. Specific toxic organic acids, such as fumarate or alpha-ketoglutarate, accumulate proximal to the enzymatic blocks.
 
-### 1. Alpha-Ketoglutarate Dehydrogenase Deficiency
-* **Enzyme Complex:** Similar to Pyruvate Dehydrogenase (PDH) and Branched-Chain Alpha-Ketoacid Dehydrogenase (BCKDH); composed of E1, E2, and E3 subunits.
-* **E3 Subunit Deficiency (Dihydrolipoamide Dehydrogenase Deficiency):**
-    * **Genetics:** Mutations in *DLD* gene.
-    * **Mechanism:** The E3 subunit is shared among Alpha-KGDH, PDH, and BCKDH. Deficiency affects all three.
-    * **Biochemical Profile:**
-        * Elevated **Lactate** and **Pyruvate** (PDH defect).
-        * Elevated **Branched-chain ketoacids** (BCKDH defect - MSUD-like).
-        * Elevated **Alpha-ketoglutarate** (Krebs cycle defect).
-    * **Clinical Features:**
-        * Onset: Early infancy (2 months+).
-        * Progressive neurologic deterioration.
-        * Hypotonia, developmental delay, ataxia.
-        * **Leigh Syndrome:** MRI findings of basal ganglia/brainstem necrosis.
-    * **Prognosis:** Poor; early death is common.
+## Classification And Specific Disorders
 
-### 2. Succinate Dehydrogenase (SDH) Deficiency
-* **Unique Role:** Functions as both a Krebs cycle enzyme (oxidizing succinate to fumarate) and Complex II of the Electron Transport Chain.
-* **Genetics:** Mutations in *SDHA* (nuclear gene).
-* **Clinical Phenotypes:**
-    * **Leigh Syndrome:** Severe infantile encephalopathy.
-    * **Cardiomyopathy:** Hypertrophic or dilated cardiomyopathy is a distinct feature (unlike many other TCA defects).
-    * **Tumor Predisposition:** SDH subunit mutations are associated with paragangliomas and pheochromocytomas (though typically adult presentations).
+|Disorder|Genetics And Mechanism|Biochemical Profile|Clinical Phenotype|
+|---|---|---|---|
+|**Alpha-Ketoglutarate Dehydrogenase Deficiency**|Mutations in the _DLD_ gene affecting the E3 subunit (shared with PDH and BCKDH).|Elevated alpha-ketoglutarate, lactate, pyruvate, and branched-chain ketoacids.|Early infancy onset, progressive neurologic deterioration, hypotonia, ataxia, and Leigh syndrome.|
+|**Succinate Dehydrogenase (SDH) Deficiency**|Mutations in _SDHA_. Affects both the Krebs cycle and Complex II of the Electron Transport Chain.|-|Infantile Leigh syndrome, hypertrophic or dilated cardiomyopathy, and tumor predisposition (paragangliomas).|
+|**Succinyl-CoA Synthetase Deficiency**|Mutations in _SUCLG1_ or _SUCLA2_. Impairs nucleoside diphosphate kinase interaction.|Mild methylmalonic aciduria.|Severe encephalomyopathy, mitochondrial neurogastrointestinal encephalomyopathy (MNGIE)-like features, associated with mtDNA depletion.|
+|**Fumarase Deficiency**|Defect in Fumarate Hydratase.|Massive excretion of fumaric acid and elevated succinate.|Severe infantile encephalopathy, brain malformations (polymicrogyria), and facial dysmorphism.|
+|**Pyruvate Carboxylase (PC) Deficiency**|Anaplerotic defect preventing conversion of pyruvate to oxaloacetate.|Elevated lactate, pyruvate, alanine, and ketones. Type B shows severe lactic acidosis, hyperammonemia, and hypercitrullinemia.|Type A: lactic acidosis and developmental delay. Type B: neonatal coma, urea cycle failure, and early death. Type C: benign.|
 
-### 3. Succinyl-CoA Synthetase Deficiency
-* **Genetics:** *SUCLG1* or *SUCLA2* mutations.
-* **Mechanism:** Associated with **Mitochondrial DNA (mtDNA) Depletion Syndrome**. The enzyme interacts with nucleoside diphosphate kinase, essential for mtDNA maintenance.
-* **Clinical Features:**
-    * Severe encephalomyopathy.
-    * Mitochondrial neurogastrointestinal encephalomyopathy (MNGIE)-like features.
-    * **Methylmalonic Aciduria:** Mild elevations may occur due to metabolic proximity to succinyl-CoA.
+## Clinical Features
 
-### 4. Fumarase (Fumarate Hydratase) Deficiency
-* **Biochemistry:** Block leads to elevated fumarate and succinate.
-* **Clinical Features:**
-    * Severe infantile encephalopathy.
-    * Brain malformations (polymicrogyria, ventriculomegaly).
-    * Distinctive facial dysmorphism.
-* **Metabolic Markers:** Fumaric aciduria.
+|System|Manifestations|
+|---|---|
+|**Neurologic**|Leigh syndrome, global developmental delay, regression of milestones, intractable epilepsy, and severe central hypotonia. Movement disorders include dystonia, ataxia, and choreoathetosis.|
+|**Cardiac**|Hypertrophic or dilated cardiomyopathy, particularly in SDH and Fumarase defects.|
+|**Hepatic And Metabolic**|Liver failure or dysfunction in PC deficiency. Recurrent severe high anion gap metabolic acidosis (lactic acidosis) triggered by catabolic stress.|
 
-### 5. Pyruvate Carboxylase (PC) Deficiency (Anaplerotic Defect)
-* **Role:** Converts pyruvate to oxaloacetate. Essential for replenishing TCA cycle intermediates (anaplerosis) and gluconeogenesis.
-* **Clinical Types:**
-    * **Type A (North American):** Lactic acidosis, developmental delay, survival into childhood.
-    * **Type B (French/Severe):** Neonatal onset.
-        * **Biochemical Triad:** Severe Lactic Acidosis + **Hyperammonemia** + Hypercitrullinemia.
-        * **Mechanism of Hyperammonemia:** Oxaloacetate depletion $\rightarrow$ reduced aspartate $\rightarrow$ urea cycle failure.
-        * **Outcome:** Coma, early death (usually <3 months).
-    * **Type C (Benign):** Recurrent mild acidosis, normal development.
+## Investigations
 
-## III. CLINICAL FEATURES
-**A. Neurologic (Dominant Presentation)**
-* **Leigh Syndrome (Subacute Necrotizing Encephalomyelopathy):** Common radiologic phenotype.
-* **Global Developmental Delay:** Regression of milestones.
-* **Seizures:** Intractable epilepsy.
-* **Movement Disorders:** Dystonia, ataxia, choreoathetosis (basal ganglia involvement).
-* **Hypotonia:** Severe central hypotonia ("floppy infant").
+### Screening And Metabolites
 
-**B. Extraneurologic**
-* **Cardiac:** Hypertrophic or dilated cardiomyopathy (especially SDH and Fumarase defects).
-* **Hepatic:** Liver failure/dysfunction (PC deficiency).
-* **Metabolic:** Recurrent severe metabolic acidosis (Lactic acidosis), especially during catabolic stress (fever, fasting).
+|Test|Diagnostic Findings|
+|---|---|
+|**Initial Screen**|High anion gap metabolic acidosis, elevated lactate with increased Lactate:Pyruvate ratio (>20). Hypoglycemia is present in PC deficiency due to gluconeogenesis impairment.|
+|**Ammonia**|Elevated in PC deficiency Type B due to oxaloacetate depletion disrupting the urea cycle.|
+|**Urine Organic Acids**|Massive fumaric acid excretion (Fumarase deficiency). Elevated alpha-ketoglutarate and branched-chain hydroxyacids (Alpha-KGDH deficiency).|
 
-## IV. INVESTIGATIONS
-**A. Initial Screen**
-* **Blood Gas:** High anion gap metabolic acidosis.
-* **Lactate/Pyruvate:** Elevated lactate; increased L:P ratio (>20) typically indicates respiratory chain defect, but Krebs defects also cause significant lactic acidosis.
-* **Ammonia:** Elevated in PC deficiency (Type B).
-* **Glucose:** Hypoglycemia (gluconeogenesis impairment in PC deficiency).
+### Neuroimaging And Confirmation
 
-**B. Metabolic Metabolites (Urine Organic Acids)**
-* **Alpha-Ketoglutarate Deficiency:** Elevated alpha-ketoglutarate, lactate, pyruvate, branched-chain hydroxyacids.
-* **Fumarase Deficiency:** Massive excretion of fumaric acid.
-* **PC Deficiency:** Elevated lactate, pyruvate, alanine, ketone bodies.
+- **MRI Brain:** Bilateral symmetric T2 hyperintensities in the basal ganglia, thalamus, and brainstem indicating Leigh syndrome. Corpus callosum agenesis or cysts specifically suggest Pyruvate Carboxylase defects.
+- **Confirmation:** Whole Exome Sequencing (WES) or targeted gene panels (_DLD_, _SDHA_, _FH_, _PC_) are the standard of care, largely replacing invasive enzymatic assays.
 
-**C. Imaging (MRI Brain)**
-* **Leigh Syndrome:** Bilateral symmetric T2 hyperintensities in basal ganglia (putamen, globus pallidus), thalamus, and brainstem.
-* **Structural Defects:** Corpus callosum agenesis or cysts (specific to PDH/PC defects).
+## Management
 
-**D. Confirmation**
-* **Molecular Genetics:** Whole Exome Sequencing (WES) or targeted gene panels (*DLD, SDHA, FH, PC*).
-* **Enzymatic Assay:** Fibroblasts or muscle biopsy (largely replaced by genetics).
+### Acute Management
 
-## V. MANAGEMENT
-**A. Acute Management**
-* **Correction of Acidosis:** Bicarbonate or citrate administration.
-* **Anabolism:** IV Dextrose to reverse catabolism (caution in ketogenic defects, but Krebs defects usually require glucose).
-* **Ammonia Control:** Nitrogen scavengers / dialysis for PC Type B.
+- Correct acidosis utilizing bicarbonate or citrate administration.
+- Administer intravenous 10% Dextrose to reverse catabolism and promote anabolism.
+- Manage hyperammonemia in PC Type B with nitrogen scavengers or dialysis.
 
-**B. Long-Term/Chronic Management**
-* **Dietary Modification:**
-    * **High Lipid/Ketogenic Diet:** Potentially useful for PDH defects, but controversial in Krebs defects (as the cycle is blocked downstream).
-    * **High Carbohydrate/Protein:** For PC deficiency (prevents gluconeogenic stress).
-* **Anaplerotic Therapy:**
-    * **Triheptanoin (C7 oil):** Provides propionyl-CoA/succinyl-CoA to bypass early cycle blocks and replenish intermediates.
-    * **Aspartate/Citrate:** Supplementation in PC deficiency to replenish oxaloacetate pool.
-* **Cofactor Supplementation ("Mitochondrial Cocktail"):**
-    * **Thiamine (B1):** For Alpha-KGDH (E1 subunit).
-    * **Lipoic Acid:** For E3 subunit defects.
-    * **Biotin:** For Pyruvate Carboxylase deficiency.
+### Chronic Maintenance And Cofactors
 
-## VI. PROGNOSIS
-* Generally poor for severe infantile forms (Type B PC deficiency, severe Leigh syndrome).
-* High mortality in infancy/early childhood due to respiratory failure or intractable acidosis.
-* Milder forms (e.g., PC Type A) may survive with significant neurodevelopmental disability.
+|Modality|Rationale And Options|
+|---|---|
+|**Dietary Modification**|High carbohydrate and protein diet is recommended for PC deficiency to prevent gluconeogenic stress.|
+|**Anaplerotic Therapy**|Triheptanoin (C7 oil) provides propionyl-CoA/succinyl-CoA to bypass early blocks. Aspartate and citrate supplementation replenishes the oxaloacetate pool in PC deficiency.|
+|**Cofactor Supplementation**|Thiamine (B1) targets Alpha-KGDH. Lipoic acid supplements E3 subunit defects. Biotin is essential for Pyruvate Carboxylase.|

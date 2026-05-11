@@ -169,7 +169,7 @@ Neuroimaging is recommended for all children with cerebral palsy to establish an
 Performed if neuroimaging is normal (approx. 10–15% cases) or if there are "Red Flags" suggesting a mimic (progressive course, family history, loss of milestones).
 
 * **Metabolic Screen:**
-    * **Serum:** Ammonia, Lactate (Mitochondrial disorders), Amino acids (PKU, Homocystinuria).
+    * **Serum:** Ammonia, Lactate (Mitochondrial disorders), Amino acids (PKU, [[Metabolic Disorders/Homocystinuria\|Homocystinuria]]).
     * **Urine:** Organic acids (Glutaric Aciduria Type 1 – a treatable mimic of Dyskinetic CP).
     * **Thyroid Profile:** Hypothyroidism causes hypotonia/delay.
 * **Genetic Testing:**

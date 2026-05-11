@@ -65,7 +65,7 @@ Classified based on timing (onset) and pathophysiology.
 2.  **Teratogens/Maternal Factors:**
     * **Alcohol:** Fetal Alcohol Spectrum Disorder (FAS).
     * **Drugs:** Phenytoin (Fetal Hydantoin Syndrome), Valproate.
-    * **Maternal Metabolic:** Uncontrolled Phenylketonuria (PKU).
+    * **Maternal Metabolic:** Uncontrolled [[Metabolic Disorders/Phenylketonuria\|Phenylketonuria]] (PKU).
     * Radiation exposure.
 3.  **Perinatal/Postnatal Insults:**
     * Hypoxic Ischemic Encephalopathy (HIE).

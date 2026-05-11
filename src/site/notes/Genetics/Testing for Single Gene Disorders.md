@@ -51,7 +51,7 @@
 
 |Testing Modality|Clinical Indications|Examples|
 |---|---|---|
-|**Single Gene Sequencing**|Minimal locus heterogeneity; distinctive clinical findings pointing to a specific gene|_CFTR_ for cystic fibrosis; _PAH_ for phenylketonuria|
+|**Single Gene Sequencing**|Minimal locus heterogeneity; distinctive clinical findings pointing to a specific gene|_CFTR_ for cystic fibrosis; _PAH_ for [[Metabolic Disorders/Phenylketonuria\|phenylketonuria]]|
 |**Targeted Gene Panel**|Locus heterogeneity; overlapping phenotypes; disorders sharing a common biological pathway|Muscular dystrophy panel; cardiomyopathy panel; epilepsy panel|
 |**Whole Exome Sequencing (WES)**|Extreme heterogeneity; de novo mutations; indistinct phenotypes; nondiagnostic initial tiered tests|Autism, intellectual disability, Kabuki syndrome|
 |**Whole Genome Sequencing (WGS)**|Suspected noncoding variation; suspected structural variation; critical illness requiring rapid data; nondiagnostic WES|DiGeorge syndrome; severe infantile intensive care presentations|

@@ -21,7 +21,7 @@
 |:--|:--|
 |Classic Galactosemia|Zonular cataracts develop with distinct oil droplet appearance involving perinuclear layers.|
 |Galactokinase Deficiency|Zonular cataracts represent sole clinical manifestation.|
-|Homocystinuria|Lens subluxation occurs typically in downward and nasal direction.|
+|[[Metabolic Disorders/Homocystinuria\|Homocystinuria]]|Lens subluxation occurs typically in downward and nasal direction.|
 |Sulfite Oxidase Deficiency|Ectopia lentis develops.|
 |Lowe Syndrome|Dense bilateral cataracts present at birth, frequently accompanied by glaucoma and miotic pupils.|
 |Cerebrotendinous Xanthomatosis|Childhood cataracts precede permanent neurologic impairment.|
