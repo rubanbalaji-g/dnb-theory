@@ -12,10 +12,10 @@
 
 - **Onset And Course**: Insidious onset with a slowly progressive course over years.
 - **Motor Symptoms**:
-    - Predominantly distal weakness and wasting.
-    - Progressive gait difficulties and frequent falls due to twisting of ankles.
-    - 'Stork leg' appearance resulting from marked thinning of the lower legs.
-    - Upper limb involvement includes atrophy of thenar and hypothenar muscles along with clawing of fingers.
+	- Predominantly distal weakness and wasting.
+	- Progressive gait difficulties and frequent falls due to twisting of ankles.
+	- 'Stork leg' appearance resulting from marked thinning of the lower legs.
+	- Upper limb involvement includes atrophy of thenar and hypothenar muscles along with clawing of fingers.
 - **Sensory Symptoms**: Prominent sensory signs are present in the absence of sensory symptoms.
 - **Skeletal Deformities**: Foot deformities are a hallmark and prominent clinical feature.
 - **Reflexes**: Hyporeflexia or completely depressed deep tendon reflexes due to lower motor neuron involvement.
@@ -37,9 +37,6 @@ CMT presents as a polyneuropathy (involvement of $\ge$ 2 nerves). It is evaluate
 |**Amplitude**|Normal|Decreased|
 |**Conduction Block**|Present (in acquired causes)|Absent|
 |**Temporal Dispersion**|Present (in acquired causes)|Absent|
-
-_(Source:)_
-
 ## Diagnosis
 
 - **Clinical Evaluation**: Detailed history identifying insidious distal weakness, foot deformities, and family history.
@@ -58,8 +55,6 @@ Charcot-Marie-Tooth disease must be differentiated from other acquired and hered
 |**[[Neuromuscular/Guillain-Barré Syndrome\|Guillain-Barré Syndrome]] (GBS)**|Acute onset|Ascending, bilaterally symmetrical flaccid weakness|Predominantly distal, antecedent infection|
 |**Chronic Inflammatory Demyelinating Polyneuropathy (CIDP)**|Subacute to chronic|Both proximal and distal weakness|Concomitant sensory loss|
 
-_(Source:)_
-
 ### Etiological Differentials For Peripheral Neuropathies
 
 |Category|Examples|
@@ -67,9 +62,6 @@ _(Source:)_
 |**Primary Hereditary Neuropathies**|Hereditary neuropathy with liability to pressure palsies, Hereditary sensory and [[Neuromuscular/Autonomic Neuropathies\|autonomic neuropathies]] (HSAN), Distal hereditary motor neuropathies, Hereditary neuralgic amyotrophy.|
 |**Multisystem Hereditary Disorders**|Leukodystrophies, Krabbe disease, Adrenoleukodystrophy, Metachromatic leukodystrophy, Porphyria, Ataxia telangiectasia, Friedrich ataxia.|
 |**Acquired Polyneuropathies**|[[Neuromuscular/Guillain-Barré Syndrome\|Guillain-Barré syndrome]], CIDP, Diphtheria, Toxic neuropathies (e.g., arsenic, lead, chemotherapy drugs), Vitamin B12 or E deficiency.|
-
-_(Source:)_
-
 ## Management And Counseling
 
 - **Supportive Care**: Supportive care remains the standard of therapy for CMT.

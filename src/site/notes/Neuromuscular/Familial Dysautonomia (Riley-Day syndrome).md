@@ -30,9 +30,9 @@
 |:--|:--|
 |**Autonomic**|Alacrima (universal absence of tears with emotional crying), postural hypotension without compensatory tachycardia, extreme hypertension under stress, temperature dysregulation, and hyperhidrosis.|
 |**Sensory**|Insensitivity to pain leading to frequent traumatic injuries, reduced temperature sensation, and a general inability to detect noxious stimuli.|
-|**Ocular**|Corneal ulcerations resulting from decreased corneal sensation and xerophthalmia, optic nerve involvement impairing visual acuity,.|
+|**Ocular**|Corneal ulcerations resulting from decreased corneal sensation and xerophthalmia, optic nerve involvement impairing visual acuity.|
 |**Neuromuscular**|Ataxic gait, delayed walking, absent deep tendon reflexes, and progressive scoliosis or kyphosis.|
-|**Other**|Cardiac arrhythmias (prolonged QT interval, bradycardia), seizures in approximately 40% of cases, emotional lability, and short stature,.|
+|**Other**|Cardiac arrhythmias (prolonged QT interval, bradycardia), seizures in approximately 40% of cases, emotional lability, and short stature.|
 
 ### Dysautonomic Crises
 
@@ -43,13 +43,13 @@
 
 - The diagnosis is formed by a combination of clinical signs and confirmatory tests.
 
-|Modality|Diagnostic Findings|
-|:--|:--|
-|**Clinical Triad**|Alacrima, absent fungiform papillae, and decreased patellar reflexes in a patient with Ashkenazi Jewish lineage.|
-|**Histamine Test**|Absence of the normal axon flare response to an intradermal injection of histamine phosphate.|
-|**Methacholine Test**|Instillation of 2.5% methacholine into the conjunctival sac produces miosis, indicating parasympathetic denervation.|
-|**Biochemical Markers**|Decreased urinary Vanillylmandelic Acid (VMA), increased Homovanillic Acid (HVA), and diminished plasma dopamine beta-hydroxylase.|
-|**Genetic Testing**|Confirms the diagnosis by identifying IKBKAP/ELP1 variants.|
+| Modality                | Diagnostic Findings                                                                                                                |
+| :---------------------- | :--------------------------------------------------------------------------------------------------------------------------------- |
+| **Clinical Triad**      | Alacrima<br>Absent fungiform papillae<br>Decreased patellar reflexes in a patient with Ashkenazi Jewish lineage.                   |
+| **Histamine Test**      | Absence of the normal axon flare response to an intradermal injection of histamine phosphate.                                      |
+| **Methacholine Test**   | Instillation of 2.5% methacholine into the conjunctival sac produces miosis, indicating parasympathetic denervation.               |
+| **Biochemical Markers** | Decreased urinary Vanillylmandelic Acid (VMA), increased Homovanillic Acid (HVA), and diminished plasma dopamine beta-hydroxylase. |
+| **Genetic Testing**     | Confirms the diagnosis by identifying IKBKAP/ELP1 variants.                                                                        |
 
 ## Management And Prognosis
 

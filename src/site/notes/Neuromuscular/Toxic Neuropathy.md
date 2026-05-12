@@ -4,11 +4,15 @@
 
 ## Definition
 
-Toxic neuropathy refers to peripheral nerve damage resulting from exposure to chemicals, toxins, heavy metals, industrial agents, biologic neurotoxins, or medications. It typically manifests as axonal degeneration or primary demyelination. It is distinct from other peripheral neuropathies due to its direct association with an identifiable exposure history. In pediatric practice, toxic neuropathy is less common than in adults, but it is frequently seen following exposure to prescribed medications (especially chemotherapy), environmental chemicals, or occupational hazards in developing regions.
+- Toxic neuropathy refers to peripheral nerve damage resulting from exposure to chemicals, toxins, heavy metals, industrial agents, biologic neurotoxins, or medications. 
+- It typically manifests as axonal degeneration or primary demyelination. 
+- It is distinct from other peripheral neuropathies due to its direct association with an identifiable exposure history. 
+- In pediatric practice, toxic neuropathy is less common than in adults, but it is frequently seen following exposure to prescribed medications (especially chemotherapy), environmental chemicals, or occupational hazards in developing regions.
 
 ## Etiology And Classification
 
-Toxic neuropathies are broadly classified based on the causative agent. Heavy metals and occupational chemicals dominate environmental cases, whereas medications constitute the most frequent iatrogenic cause in children.
+- Toxic neuropathies are broadly classified based on the causative agent. 
+- Heavy metals and occupational chemicals dominate environmental cases, whereas medications constitute the most frequent iatrogenic cause in children.
 
 ### Major Categories Of Toxic Neuropathies
 
@@ -107,4 +111,7 @@ The clinical presentation depends heavily on the specific toxin and its distinct
 
 ## Prognosis
 
-The prognosis of toxic neuropathy is highly variable and depends intrinsically on the specific toxin, cumulative dose, duration of exposure, and the rapidity of agent removal. Many patients demonstrate significant clinical improvement following cessation of the exposure. However, permanent residual neurological deficits are common in cases of severe, established axonal damage. Early clinical recognition remains absolutely critical in pediatric practice to halt progression and prevent irreversible disability.
+- The prognosis of toxic neuropathy is highly variable and depends intrinsically on the specific toxin, cumulative dose, duration of exposure, and the rapidity of agent removal. 
+- Many patients demonstrate significant clinical improvement following cessation of the exposure. 
+- However, permanent residual neurological deficits are common in cases of severe, established axonal damage. 
+- Early clinical recognition remains absolutely critical in pediatric practice to halt progression and prevent irreversible disability.

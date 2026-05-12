@@ -2,107 +2,66 @@
 {"dg-publish":true,"uplink":"/neuromuscular/neuromuscular-system/","uptext":"Back to Index (💪 Neuromuscular system)","permalink":"/neuromuscular/autonomic-neuropathies/","dgPassFrontmatter":true}
 ---
 
-## Definition And Pathophysiology
+## Definition And Epidemiology
 
-- Autonomic neuropathies are disorders involving small, lightly myelinated, or unmyelinated autonomic nerve fibres.
-- These fibres are responsible for regulating cardiovascular, gastrointestinal, genitourinary, thermoregulatory, sudomotor, and pupillary functions.
-- They result from damage to fibres derived from neural crest cells, classifying them as neurocristopathies.
-- Hereditary forms involve gene variants that disrupt the development and maturation of peripheral nerves, whereas acquired forms stem from immune-mediated, toxic, metabolic, or infectious damage.
-- The damage leads to a reduced number of small unmyelinated fibres, involvement of dorsal root ganglia, parasympathetic ganglia, and autonomic centres, ultimately causing widespread autonomic failure.
+- Autonomic neuropathies refer to disorders involving small, lightly myelinated, or unmyelinated autonomic nerve fibers that regulate cardiovascular, gastrointestinal, genitourinary, thermoregulatory, sudomotor, and pupillary functions.
+- They are classified as hereditary or acquired and may present as isolated entities or as part of a broader sensorimotor neuropathy.
+- These disorders are uncommon in children but serve as important differentials in floppy infants and peripheral neuropathies.
+- Hereditary forms, primarily Hereditary Sensory and Autonomic Neuropathies (HSANs), are rare, with Familial dysautonomia being the most common variant.
+- Acquired forms are observed in Guillain-Barré syndrome (GBS), chronic inflammatory demyelinating polyneuropathy (CIDP), metabolic disorders, and toxic neuropathies.
 
-## Epidemiology And Classification
+## Classification Of Pediatric Autonomic Disorders
 
-- These neuropathies are uncommon in children but serve as important differential diagnoses in cases of floppy infants and peripheral neuropathies.
-- Familial dysautonomia (HSAN III) is the prototype hereditary form and the most commonly encountered hereditary sensory and autonomic neuropathy (HSAN), particularly in Ashkenazi Jews (incidence 1 in 10,000–20,000).
-- Acquired forms can occur in [[Neuromuscular/Guillain-Barré Syndrome\|Guillain-Barré syndrome]] (GBS), chronic inflammatory demyelinating polyneuropathy (CIDP), and secondary to toxic or metabolic disorders.
+|Etiology|Topography|Frequency|
+|:--|:--|:--|
+|**Acquired**|Postural orthostatic tachycardia syndrome|Common|
+|**Acquired**|Orthostatic intolerance without tachycardia|Common|
+|**Inherited**|Hereditary sensory autonomic neuropathies (HSANs)|Variable|
+|**Inherited**|Other metabolic disorders|Rare|
+## Pathophysiology
 
-### Classifications Of Autonomic Disorders
-
-|Etiology|Topography|Frequency|Associated Features|
-|:--|:--|:--|:--|
-|Acquired|Postural orthostatic tachycardia syndrome|Common|Autoimmune autonomic ganglionopathy|
-|Acquired|Orthostatic intolerance without tachycardia|Common|Acute autonomic and sensory neuropathy|
-|Inherited|Hereditary sensory and autonomic neuropathies (HSAN)|Variable|Variable; detailed in HSAN table below|
-|Inherited|Other metabolic disorders|Rare|Associated with specific metabolic errors|
-
-### Hereditary Sensory And Autonomic Neuropathies (HSANs)
-
-|Type|Gene|Onset|Key Clinical Features|
-|:--|:--|:--|:--|
-|HSAN 1a|SPTLC1|Adult|Distal anhidrosis, pain and temperature loss|
-|HSAN 2|WNK1, FAM134B|Childhood|Severe acral mutilations|
-|HSAN 3 (Familial dysautonomia)|IKBKAP/ELP1|Infancy|Alacrima, postural hypotension, dysautonomic crises, smooth tongue|
-|HSAN 4|TRKA|Infancy|Anhidrosis, recurrent fevers, congenital insensitivity to pain|
-|HSAN 5|NGFβ|Congenital|Congenital insensitivity to pain|
+- Autonomic neuropathies result from damage to small unmyelinated and thinly myelinated fibers derived from neural crest cells, known as neurocristopathies.
+- In hereditary forms, specific gene variants disrupt the development and maturation of peripheral nerves. For example, variants in the IKBKAP/ELP1 gene in Familial dysautonomia affect the transcription of vital neural proteins.
+- Acquired forms involve immune-mediated, toxic, metabolic, or infectious damage to the autonomic nervous system.
+- The resulting pathology includes a reduced number of small unmyelinated fibers, loss of myelinated fibers, and structural involvement of the dorsal root ganglia, parasympathetic ganglia, and central autonomic centres, leading to widespread autonomic failure.
 
 ## Clinical Manifestations
 
-### Organ-Specific Features
+Symptoms arise from the widespread involvement of the sympathetic, parasympathetic, and enteric autonomic nervous systems.
 
-- **Cardiovascular:** Postural hypotension without compensatory tachycardia, extreme hypertension and tachycardia under stress, cardiac arrhythmias, and prolonged QT interval.
-- **Gastrointestinal:** Feeding difficulties, recurrent vomiting, gastroesophageal reflux, gastric distention, and altered bowel habits.
-- **Sudomotor and thermoregulatory:** Hyperhidrosis, anhidrosis, and recurrent fevers or hypothermia triggered by environmental stress or infections.
-- **Ocular:** Alacrima (absence of tears with emotional crying) and corneal ulcerations due to decreased sensation and xerophthalmia.
-- **Respiratory:** Reduced responses to hypoxia and hypercapnia, breath-holding spells, and recurrent pneumonia.
-- **Sensory:** Insensitivity to pain and reduced temperature sensation, often leading to traumatic injuries and acral mutilation.
-- **Other features:** Hypotonia, motor delay, scoliosis, kyphosis, urinary incontinence, delayed puberty, and seizures in approximately 40% of cases.
+### Organ System Involvement
+
+|System|Characteristic Clinical Features|
+|:--|:--|
+|**Cardiovascular**|Postural hypotension without compensatory tachycardia, extreme hypertension and tachycardia under stress, cardiac arrhythmias, prolonged QT interval.|
+|**Gastrointestinal**|Feeding difficulties, recurrent vomiting, gastroesophageal reflux, prominent gastric distention, constipation, diarrhoea.|
+|**Sudomotor And Thermoregulatory**|Hyperhidrosis, anhidrosis, recurrent fevers, or hypothermia triggered by infections or environmental stress.|
+|**Ocular**|Alacrima (absence of tears with emotional crying), corneal ulcerations secondary to decreased sensation and xerophthalmia.|
+|**Respiratory**|Reduced physiological responses to hypoxia and hypercapnia, breath-holding spells, recurrent pneumonia, chronic lung disease.|
+|**Sensory**|Profound insensitivity to pain, reduced temperature sensation leading to traumatic injuries and acral mutilation.|
 
 ### Dysautonomic Crises
 
-- Typically begin after 3 years of age, particularly in familial dysautonomia.
-- Characterised by cyclic vomiting lasting 24–72 hours, retching, tachycardia, hypertension, profuse sweating, skin blotching, apprehension, and irritability.
-- Severe cases manifest with gastric distention, abdominal pain, respiratory distress, and hematemesis.
+- Dysautonomic crises typically begin after 3 years of age, notably in Familial dysautonomia.
+- These crises present with attacks of cyclic vomiting lasting 24-72 hours, retching, tachycardia, hypertension, profuse sweating, skin blotching, apprehension, and irritability.
+- Severe gastric distention can cause abdominal pain and respiratory distress.
 
-## Familial Dysautonomia (HSAN III)
+## Diagnosis And Investigations
 
-- Inherited as an autosomal recessive disorder caused by variants in the IKBKAP/ELP1 gene at the 9q31-q33 locus.
-- Predominantly affects Ashkenazi Jewish populations.
-- Presents in neonates with hypotonia, feeding difficulties, breath-holding spells, and alacrima.
-- Examination classically reveals an ataxic gait, absent deep tendon reflexes, and a smooth tongue due to the absence of fungiform and circumvallate papillae.
-- Diagnostic triad requires alacrima, absent fungiform papillae, abnormal histamine test, and Ashkenazi ancestry.
+The diagnosis relies on combining clinical features, autonomic tests, and genetic confirmation.
 
-## Diagnostic Investigations
-
-### Clinical And Laboratory Testing
-
-- **Clinical tests:** The histamine test demonstrates an absent axon flare response following intradermal injection. The methacholine eye drop test (2.5%) induces miosis in affected patients, serving as a nonspecific sign of parasympathetic denervation.
-- **Biomarkers:** In familial dysautonomia, there is a characteristic decrease in urinary vanillylmandelic acid (VMA), an increase in homovanillic acid (HVA), and diminished plasma dopamine β-hydroxylase.
-- **Electrophysiology:** Nerve conduction studies and electromyography are often normal because large myelinated fibres are typically spared, helping to rule out broader sensorimotor neuropathies.
-- **Autonomic testing:** Modalities include tilt table testing, heart rate variability assessment, and sudomotor testing.
-- **Biopsy:** Sural nerve biopsy reveals a marked loss of unmyelinated nerve fibres.
-- **Systemic evaluation:** Electrocardiogram may show prolonged QTc intervals; chest X-ray can detect chronic aspiration changes or atelectasis.
-- **Genetics:** Confirmed by targeted testing for HSAN variants or next-generation sequencing panels.
-
-## Differential Diagnosis
-
-|Condition|Differentiating Features|
-|:--|:--|
-|[[Neuromuscular/Guillain-Barré Syndrome\|Guillain-Barré syndrome]] / CIDP|Acute or subacute onset of motor weakness; acquired autoimmune aetiology; frequently shows demyelinating pattern on EMG/NCS.|
-|Central causes of hypotonia|Associated with normal or brisk reflexes, potential seizures, or dysmorphism.|
-|Metabolic myopathies (e.g., Pompe)|Cardiomegaly, elevated CPK, specific enzyme deficiencies.|
-|Infectious neuropathies|Botulism or diphtheria present with specific exposure history or bulbar predominant weakness.|
-|Toxic neuropathies|History of exposure to chemotherapy, heavy metals, or industrial agents.|
+- **Clinical Tests**: The histamine test demonstrates an absent normal axon flare response. The methacholine eye drop test utilizes 2.5% methacholine to produce miosis, indicating parasympathetic denervation.
+- **Electrophysiology**: Nerve conduction studies and electromyography are often entirely normal because the large myelinated fibers are typically spared.
+- **Autonomic Testing**: Includes tilt table testing, heart rate variability assessments, and sudomotor testing.
+- **Biopsy**: Sural nerve biopsy reveals a characteristic loss of unmyelinated fibers.
+- **Genetic Testing**: Targeted gene testing or next-generation sequencing panels confirm hereditary aetiologies like HSANs.
 
 ## Management
 
-### Multidisciplinary And Supportive Care
+There is no curative therapy for most hereditary autonomic neuropathies; management requires rigorous multidisciplinary supportive care.
 
-- There is no curative therapy for most hereditary forms; management is purely supportive.
-- **Respiratory and gastrointestinal support:** Essential to prevent aspiration and malnutrition. Gastrostomy with or without fundoplication may be required.
-- **Ocular care:** Topical ocular lubricants are mandatory to prevent corneal ulceration secondary to alacrima.
-- **Orthopedic intervention:** Active management of progressive scoliosis and joint deformities.
-- **Injury prevention:** Strict protection from trauma due to profound pain insensitivity.
-- **Thermoregulatory control:** Aggressive fever management is required in patients exhibiting anhidrosis.
-- **Cardiac care:** Continuous cardiac monitoring, with pacemaker insertion indicated in selected cases with severe arrhythmias.
-
-### Management Of Dysautonomic Crises
-
-- Crises require prompt intervention with centrally acting medications such as diazepam and clonidine.
-- Carbidopa, a dopa decarboxylase inhibitor, is additionally effective in managing autonomic instability.
-
-## Prognosis And Genetic Counseling
-
-- The prognosis remains variable depending on the specific type of HSAN. In familial dysautonomia, approximately 60% of patients succumb before 20 years of age, typically secondary to chronic respiratory failure or aspiration.
-- Older surviving patients often develop chronic renal disease linked to persistent vasomotor instability and hypertension.
-- Acquired autonomic neuropathies may recover following the identification and treatment of the underlying cause.
-- As most HSANs are inherited in an autosomal recessive pattern, there is a 25% recurrence risk in subsequent pregnancies. Carrier testing and prenatal diagnosis are available and strongly recommended once the familial gene variant is identified.
+- **Systemic Support**: Aggressive respiratory and gastrointestinal support is necessary to prevent aspiration and malnutrition. Gastrostomy with or without fundoplication may be required.
+- **Ocular Care**: Continuous use of topical ocular lubricants is required for corneal protection.
+- **Injury Prevention**: Strict protection from injuries due to profound pain insensitivity.
+- **Dysautonomic Crises Management**: Managed utilizing centrally acting medications such as diazepam and clonidine, or carbidopa (a dopa decarboxylase inhibitor).
+- **Fever Management**: Aggressive pharmacological and physical fever management is necessary in patients with anhidrosis.
