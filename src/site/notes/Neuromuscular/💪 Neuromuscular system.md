@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/neuromuscular/neuromuscular-system/","hide":true,"noteIcon":"","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/neuromuscular/neuromuscular-system/","dgPassFrontmatter":true}
 ---
 
 ## Clinical Approach and Diagnosis
