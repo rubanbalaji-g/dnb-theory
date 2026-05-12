@@ -59,7 +59,7 @@
 
 - **Defect:** Lysosomal acid alpha-glucosidase (GAA). Unique as it is both a GSD and a Lysosomal Storage Disorder.
 - **Pathophysiology:** Lysosomal accumulation of glycogen causes lysosomal swelling and cellular rupture in cardiac, skeletal, and smooth muscle.
-- **Infantile Form (Classic):** Presents <6 months with profound hypotonia ("floppy infant"), massive hypertrophic cardiomyopathy, macroglossia, and a short PR interval on electrocardiogram. High mortality by 1 year without treatment.
+- **Infantile Form (Classic):** Presents <6 months with profound hypotonia ("[[Neuromuscular/Approach to a floppy infant\|Approach to a floppy infant]]"), massive hypertrophic cardiomyopathy, macroglossia, and a short PR interval on electrocardiogram. High mortality by 1 year without treatment.
 - **Late-Onset Form:** Proximal limb-girdle muscle weakness and early disproportionate diaphragmatic weakness leading to respiratory failure. Cardiomyopathy is typically absent.
 
 ### GSD Type V (McArdle Disease)

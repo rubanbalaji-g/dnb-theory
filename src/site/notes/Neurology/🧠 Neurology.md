@@ -49,7 +49,7 @@
 4. [[Neurology/Meningitis\|Meningitis]]
 5. [[Neurology/Tubercular Meningitis\|Tubercular Meningitis]]
 6. [[Neurology/Brain Abscess\|Brain Abscess]]
-7. [[Neurology/GBS\|GBS]]
+7. [[Neuromuscular/Guillain-Barré Syndrome\|Guillain-Barré Syndrome]]
 ## Other topics
 1. [[Neurology/Neurocutaneous Syndromes (Phakomatoses)\|Neurocutaneous Syndromes (Phakomatoses)]]
 2. [[Neurology/Tuberous Sclerosis Complex (TSC)\|Tuberous Sclerosis Complex (TSC)]]

@@ -29,9 +29,9 @@ The program targets all children between the ages of 0 to 5 years, regardless of
     * **'P' (Protected):** All eligible children in the house have been vaccinated.
     * **'X' (Missed):** One or more eligible children in the house were absent or missed; these are revisited.
 
-## Acute Flaccid Paralysis (AFP) Surveillance
+## [[Neuromuscular/Acute Flaccid Paralysis\|Acute Flaccid Paralysis]] (AFP) Surveillance
 The diagnostic backbone of the program involves the "Gold Standard" AFP surveillance:
-* **Case Definition:** Any child <15 years with acute onset of flaccid paralysis (including Guillain-Barré syndrome) or any person of any age where polio is suspected.
+* **Case Definition:** Any child <15 years with acute onset of flaccid paralysis (including [[Neuromuscular/Guillain-Barré Syndrome\|Guillain-Barré syndrome]]) or any person of any age where polio is suspected.
 * **Stool Sampling:** Two "adequate" stool samples collected 24 hours apart within 14 days of onset of paralysis.
 * **Virological Analysis:** Samples are sent under cold chain (+2 to +8°C) to WHO-accredited laboratories for viral isolation and "reverse transcription-polymerase chain reaction" (RT-PCR) to differentiate WPV from vaccine-derived poliovirus (VDPV).
 * **Environmental Surveillance:** Routine testing of sewage samples from major urban centers to detect silent circulation of polioviruses.

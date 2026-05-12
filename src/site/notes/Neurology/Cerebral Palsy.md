@@ -28,7 +28,7 @@ Classified by the type of movement disorder and the site of brain injury.
 #### 3. Ataxic CP (< 5%)
 * **Site of Lesion:** Cerebellum.
 * **Clinical Features:**
-    * **Hypotonia:** "Floppy infant" presentation initially.
+    * **Hypotonia:** "[[Neuromuscular/Approach to a floppy infant\|Approach to a floppy infant]]" presentation initially.
     * **Incoordination:** Intention tremor, dysmetria (past-pointing).
     * **Gait:** Wide-based, unsteady, "drunken" gait.
     * **Speech:** Scanning speech (Dysarthria).
@@ -116,7 +116,7 @@ While GMFCS covers **Motor** function, comprehensive CP assessment uses analogou
 1.  **Tone and Posture:**
     * **Spastic CP:** Hypertonia, clasp-knife spasticity, scissoring of lower limbs.
     * **Dyskinetic CP:** Fluctuating tone, dystonia, choreoathetosis.
-    * **Hypotonic/Ataxic:** "Floppy infant" initially, evolving into ataxia.
+    * **Hypotonic/Ataxic:** "[[Neuromuscular/Approach to a floppy infant\|Approach to a floppy infant]]" initially, evolving into ataxia.
     * **Cortical Thumb:** Thumb adducted into the palm (fisting) beyond neonatal period.
 2.  **Primitive Reflexes (Persistence is Pathognomonic):**
     * Persistence of **Moro, ATNR** (Asymmetric Tonic Neck Reflex), **Palmar Grasp** beyond 6 months prevents voluntary motor development.

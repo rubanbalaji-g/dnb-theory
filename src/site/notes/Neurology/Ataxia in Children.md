@@ -17,7 +17,7 @@ Ataxia in children is classified based on the temporal course: Acute, Episodic, 
     * **Lead poisoning.**
 3.  **Inflammatory / Autoimmune:**
     * **ADEM (Acute Disseminated Encephalomyelitis).**
-    * **Guillain-Barré Syndrome (GBS):** Specifically Miller-Fisher variant (Ataxia, Areflexia, Ophthalmoplegia).
+    * **[[Neuromuscular/Guillain-Barré Syndrome\|Guillain-Barré Syndrome]] (GBS):** Specifically Miller-Fisher variant (Ataxia, Areflexia, Ophthalmoplegia).
     * **Opsoclonus-Myoclonus Syndrome (OMS):** Paraneoplastic (Neuroblastoma).
 4.  **Structural / Vascular:**
     * **Trauma:** Concussion, posterior fossa hematoma.
@@ -95,7 +95,7 @@ Management depends entirely on the underlying etiology.
 * **ADEM:**
     * High-dose **IV Methylprednisolone** (20–30 mg/kg/day for 3–5 days).
     * IVIG or Plasmapheresis for steroid-resistant cases.
-* **Guillain-Barré Syndrome (Miller-Fisher):**
+* **[[Neuromuscular/Guillain-Barré Syndrome\|Guillain-Barré Syndrome]] (Miller-Fisher):**
     * **IVIG** (2 g/kg over 2–5 days) or Plasmapheresis.
     * Monitor respiratory status.
 * **Opsoclonus-Myoclonus Syndrome:**

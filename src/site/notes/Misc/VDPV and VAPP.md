@@ -8,7 +8,7 @@
 
 - Vaccine-associated paralytic poliomyelitis represents paralytic polio occurring in vaccine recipients or close contacts.
 - Causative agent involves poliovirus strain genetically altered in host intestine from original attenuated vaccine strain.
-- Diagnosis requires acute flaccid paralysis demonstrating residual paralysis lasting minimum 60 days.
+- Diagnosis requires [[Neuromuscular/Acute Flaccid Paralysis\|acute flaccid paralysis]] demonstrating residual paralysis lasting minimum 60 days.
 - Paralysis manifests in oral poliovirus vaccine recipients between 4 and 40 days following administration.
 - Paralysis manifests in known vaccine contacts between 7 and 60 to 75 days following administration.
 - Laboratory confirmation requires isolation of vaccine-related poliovirus from stool samples without wild poliovirus isolation.
@@ -22,7 +22,7 @@
 - Industrialized nations report cases primarily in early infancy during initial dosing.
 - Developing nations report gradual decline across subsequent doses, concentrating cases among children aged 1 to 4 years.
 - Type 3 poliovirus causes 42 percent of cases, followed by type 2 causing 26 percent, type 1 causing 20 percent, and mixed strains causing 15 percent.
-- Indian burden remains obscure due to classification under non-polio acute flaccid paralysis.
+- Indian burden remains obscure due to classification under non-polio [[Neuromuscular/Acute Flaccid Paralysis\|acute flaccid paralysis]].
 - Indian risk remains comparatively lower due to maternal antibodies, birth dose administration, and lower vaccine uptake rates.
 
 ### Pathophysiology
@@ -68,7 +68,7 @@
 - Prior successful elimination of corresponding wild poliovirus serotype removes natural immunity.
 - Extensive historical reliance on monovalent and bivalent oral vaccines increases population susceptibility to type 2 strains.
 - Poor sanitation infrastructure facilitates unchecked fecal-oral viral transmission.
-- Insensitive acute flaccid paralysis surveillance delays outbreak detection and containment.
+- Insensitive [[Neuromuscular/Acute Flaccid Paralysis\|acute flaccid paralysis]] surveillance delays outbreak detection and containment.
 
 ## Comparative Profile
 

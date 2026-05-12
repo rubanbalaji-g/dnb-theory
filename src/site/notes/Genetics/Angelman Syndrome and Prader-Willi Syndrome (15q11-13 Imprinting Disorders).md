@@ -18,7 +18,7 @@
 
 ### Clinical Manifestations
 
-- **Neonatal And Infancy Phase:** Severe hypotonia (floppy infant), weak cry, poor suck, failure to thrive, and frequent requirement for nasogastric feeding.
+- **Neonatal And Infancy Phase:** Severe hypotonia ([[Neuromuscular/Approach to a floppy infant\|Approach to a floppy infant]]), weak cry, poor suck, failure to thrive, and frequent requirement for nasogastric feeding.
 - **Childhood Phase (2-6 Years):** Development of hyperphagia (insatiable appetite), rapid weight gain, central obesity, short stature, small hands and feet, and hypopigmentation.
 - **Adolescence And Adulthood:** Morbid obesity, type 2 diabetes mellitus, hypogonadism (cryptorchidism, delayed puberty, infertility), and mild to moderate intellectual disability (IQ 60-70).
 - **Behavioral And Other Features:** Obsessive-compulsive behavior, skin picking, temper tantrums, high pain threshold, sleep apnea, and scoliosis.

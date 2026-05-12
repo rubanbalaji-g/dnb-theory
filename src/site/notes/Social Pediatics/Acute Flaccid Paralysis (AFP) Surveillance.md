@@ -18,7 +18,7 @@
 
 ## Case Definition
 ### Suspected AFP Case
-- Any child <15 years of age with acute flaccid paralysis (sudden onset of weakness or paralysis of one or more limbs)
+- Any child <15 years of age with [[Neuromuscular/Acute Flaccid Paralysis\|acute flaccid paralysis]] (sudden onset of weakness or paralysis of one or more limbs)
 - OR any person of any age in whom a clinician suspects poliomyelitis
 
 ## Surveillance Components
@@ -56,4 +56,4 @@
 - Mandatory notification of every AFP case by pediatricians (private & public)
 - Linkage with RBSK for follow-up of residual paralysis and rehabilitation
 - Convergence with UIP/U-WIN for supplementary immunization activities (SIAs)
-- Early clinical differentiation from Guillain-Barré Syndrome, transverse myelitis and traumatic neuritis
+- Early clinical differentiation from [[Neuromuscular/Guillain-Barré Syndrome\|Guillain-Barré Syndrome]], transverse myelitis and traumatic neuritis

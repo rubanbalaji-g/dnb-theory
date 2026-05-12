@@ -49,7 +49,7 @@
 - **Spinal Muscular Atrophy (SMA)**: Gold standard first-line diagnostic test. Accurately quantifies SMN1 and SMN2 copy numbers to confirm diagnosis and predict phenotypic severity.
 - **Duchenne/Becker Muscular Dystrophy (DMD/BMD)**: Detects large exonic deletions and duplications in the DMD gene, accounting for 65-75% of pathogenic variants.
 - **Rett Syndrome**: Detects large deletions or duplications in the MECP2 gene.
-- **Charcot-Marie-Tooth Disease Type 1A (CMT1A)**: Detects PMP22 gene duplication.
+- **[[Neuromuscular/Charcot-Marie-Tooth Disease\|Charcot-Marie-Tooth Disease]] Type 1A (CMT1A)**: Detects PMP22 gene duplication.
 
 ### Imprinting Disorders
 

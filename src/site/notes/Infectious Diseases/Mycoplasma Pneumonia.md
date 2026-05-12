@@ -43,7 +43,7 @@ The clinical spectrum ranges from asymptomatic infection to severe pneumonitis w
 These occur in up to 25% of cases and can affect almost any organ system.
 
 - **Dermatologic:** Maculopapular rashes are common. Severe forms include **Stevens-Johnson Syndrome (SJS)** and a distinct entity termed **Mycoplasma-Induced Rash and Mucositis (MIRM)**. MIRM typically presents with prominent mucositis (oral, ocular, urogenital) and variable skin lesions, often with a milder course than drug-induced SJS. Erythema nodosum and urticaria are also seen.
-- **Neurologic:** Encephalitis, aseptic meningitis, cerebellar ataxia, Transverse Myelitis, and Guillain-Barré syndrome. CNS involvement can be severe and result in permanent sequelae.
+- **Neurologic:** Encephalitis, aseptic meningitis, cerebellar ataxia, Transverse Myelitis, and [[Neuromuscular/Guillain-Barré Syndrome\|Guillain-Barré syndrome]]. CNS involvement can be severe and result in permanent sequelae.
 - **Hematologic:** Autoimmune hemolytic anemia mediated by **Cold Agglutinins** (IgM antibodies against the I antigen on RBCs). Thrombocytopenia and hypercoagulability (risk of thrombus/embolism) may occur.
 - **Others:** Myocarditis/pericarditis, hepatitis, pancreatitis, arthritis, and nephritis.
 

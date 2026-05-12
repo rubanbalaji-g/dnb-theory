@@ -23,7 +23,7 @@
 * **Onset:** Typically presents in first months of life (median 4 months).
 * **General:** Failure to thrive, feeding difficulties, profound generalized weakness.
 * **Neuromuscular:**
-    * Severe hypotonia ("Floppy Infant").
+    * Severe hypotonia ("[[Neuromuscular/Approach to a floppy infant\|Approach to a floppy infant]]").
     * Areflexia.
     * **Macroglossia:** Large, protruding tongue (Classic sign).
 * **Cardiac:**
@@ -53,7 +53,7 @@
     * **Staining:** PAS-positive, diastase-sensitive glycogen accumulation within lysosomes.
 
 ## 5. DIFFERENTIAL DIAGNOSIS
-* **IOPD:** Spinal Muscular Atrophy (SMA) type 1, hypothyroidism, endocardial fibroelastosis, other causes of floppy infant.
+* **IOPD:** Spinal Muscular Atrophy (SMA) type 1, hypothyroidism, endocardial fibroelastosis, other causes of [[Neuromuscular/Approach to a floppy infant\|Approach to a floppy infant]].
 * **LOPD:** Duchenne/Becker muscular dystrophy, Limb-girdle muscular dystrophy, Polymyositis.
 
 ## 6. MANAGEMENT

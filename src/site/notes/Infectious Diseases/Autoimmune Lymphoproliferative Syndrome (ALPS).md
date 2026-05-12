@@ -21,7 +21,7 @@
 - While the lymphoproliferative process (lymphadenopathy and splenomegaly) may regress over time, the associated autoimmunity typically does not regress and is characterized by frequent exacerbations and recurrences.
 - Autoimmunity frequently targets hematopoietic cells, producing multilineage cytopenias such as Coombs-positive autoimmune hemolytic anemia, immune thrombocytopenia, or mild autoimmune neutropenia.
 - ALPS is a recognized cause of Evans syndrome, which is the concurrent presentation of immune thrombocytopenia and autoimmune hemolytic anemia.
-- Other diverse autoimmune manifestations can occur, including urticaria, uveitis, glomerulonephritis, hepatitis, vasculitis, panniculitis, arthritis, premature ovarian failure, thyroiditis, myocarditis, pancreatitis, and central nervous system involvement (e.g., seizures, headaches, encephalopathy, transverse myelitis, Guillain-Barré syndrome, and ataxia).
+- Other diverse autoimmune manifestations can occur, including urticaria, uveitis, glomerulonephritis, hepatitis, vasculitis, panniculitis, arthritis, premature ovarian failure, thyroiditis, myocarditis, pancreatitis, and central nervous system involvement (e.g., seizures, headaches, encephalopathy, transverse myelitis, [[Neuromuscular/Guillain-Barré Syndrome\|Guillain-Barré syndrome]], and ataxia).
 - Patients harbor a lifelong, significantly elevated risk for the development of malignancies, particularly Hodgkin and non-Hodgkin lymphomas, as well as solid-tissue tumors of the thyroid, skin, heart, or lung.
 
 ### Diagnostic Criteria

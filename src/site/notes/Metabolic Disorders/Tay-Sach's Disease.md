@@ -24,7 +24,7 @@
 * **Early Signs:**
     * **Hyperacusis:** Exaggerated startle response to sharp sounds (often the earliest and most characteristic sign).
     * Poor visual fixation/tracking.
-    * Hypotonia and listlessness ("floppy infant").
+    * Hypotonia and listlessness ("[[Neuromuscular/Approach to a floppy infant\|Approach to a floppy infant]]").
     * Loss of previously acquired motor milestones.
 * **Ophthalmologic:**
     * **Cherry-Red Spot:** Present in >90% of cases. Caused by lipid-laden whitish ganglion cells surrounding the normal red fovea centralis.
