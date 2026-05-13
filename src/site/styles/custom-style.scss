@@ -141,169 +141,156 @@ hr {
 }
 
 /* ----------------------------------------------
-            UNIVERSAL CONTENT CENTERING 
+            UNIVERSAL CONTENT LAYOUT (REBUILT)
    ---------------------------------------------- */
+
 body {
-  --dg-sidebar-max-width: min(280px, 22vw);
-  --dg-sidebar-gap: min(60px, 4vw);
-  --dg-graph-width: 200px;
-  --dg-graph-height: 200px;
-  --dg-toc-max-height: 250px;
+  /* 1. Define layout constants */
   --dg-filetree-width: 215px;
-  --dg-filetree-min-width: 215px;
-  
-  /* Dynamic widths based on state */
-  --actual-filetree-width: var(--dg-filetree-width);
-  --actual-sidebar-width: var(--dg-sidebar-max-width);
-  --actual-filetree-gap: 20px;
-  --actual-sidebar-gap: 40px;
+  --dg-sidebar-max-width: min(280px, 22vw);
+  --dg-content-max-width: 820px;
+  --layout-gap: 40px;
+
+  /* 2. Set dynamic offsets based on state */
+  --active-left-offset: var(--dg-filetree-width);
+  --active-right-offset: var(--dg-sidebar-max-width);
 }
 
 body.filetree-collapsed {
-  --actual-filetree-width: 0px;
-  --actual-filetree-gap: 0px;
+  --active-left-offset: 0px;
 }
 
 body.sidebar-collapsed {
-  --actual-sidebar-width: 0px;
-  --actual-sidebar-gap: 0px;
+  --active-right-offset: 0px;
 }
 
 main.content {
-  --dg-content-max-width: 820px;
+  /* 3. Base Content Styling */
   margin-left: auto !important;
   margin-right: auto !important;
-  padding-left: 20px !important;
-  padding-right: 20px !important;
-  
-  /* Inverted logic: Ensure it shrinks when visible and expands when hidden */
-  max-width: min(
-    var(--dg-content-max-width), 
-    calc(100vw - var(--actual-filetree-width) - var(--actual-sidebar-width) - var(--actual-filetree-gap) - var(--actual-sidebar-gap) - 60px)
-  ) !important;
-  
   width: 100% !important;
+  max-width: var(--dg-content-max-width) !important;
   transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
   position: relative;
+  padding-left: 20px !important;
+  padding-right: 20px !important;
   padding-bottom: 0 !important;
 }
 
-/* Mobile Responsive Fixes: Ensure content is not narrow on small screens */
-/* Aligned with the template's 1000px auto-collapse breakpoint */
-@media screen and (max-width: 999px) {
-  body {
-    --actual-filetree-width: 0px !important;
-    --actual-sidebar-width: 0px !important;
-    --actual-filetree-gap: 0px !important;
-    --actual-sidebar-gap: 0px !important;
-    --dg-filetree-width: 0px !important;
-    --dg-sidebar-max-width: 0px !important;
-  }
+/* 4. Layout State Overrides */
 
+/* BOTH VISIBLE: Tight layout */
+body:not(.filetree-collapsed):not(.sidebar-collapsed) main.content {
+  --dg-content-max-width: 760px !important;
+  margin-left: calc(var(--active-left-offset) + var(--layout-gap)) !important;
+  margin-right: calc(var(--active-right-offset) + var(--layout-gap)) !important;
+}
+
+/* ONLY FILETREE VISIBLE: Shifted to accommodate left sidebar */
+body:not(.filetree-collapsed).sidebar-collapsed main.content {
+  --dg-content-max-width: 850px !important;
+  margin-left: calc(var(--active-left-offset) + var(--layout-gap) + 20px) !important;
+  margin-right: auto !important;
+}
+
+/* ONLY SIDEBAR VISIBLE: Shifted to accommodate right sidebar */
+body.filetree-collapsed:not(.sidebar-collapsed) main.content {
+  --dg-content-max-width: 850px !important;
+  margin-left: auto !important;
+  margin-right: calc(var(--active-right-offset) + var(--layout-gap) + 20px) !important;
+}
+
+/* BOTH COLLAPSED: Maximum expansion and centering */
+body.filetree-collapsed.sidebar-collapsed main.content {
+  --dg-content-max-width: 1000px !important;
+  margin-left: auto !important;
+  margin-right: auto !important;
+}
+
+/* 5. Component Overrides */
+.filetree-wrapper {
+  width: var(--dg-filetree-width) !important;
+  justify-content: flex-start !important;
+}
+
+/* 6. Fixed Sidebar Control (Desktop) */
+.sidebar {
+  position: fixed !important;
+  top: var(--dg-sidebar-top) !important;
+  right: 20px !important;
+  left: auto !important;
+  width: var(--dg-sidebar-max-width) !important;
+  height: calc(100% - var(--dg-sidebar-top)) !important;
+  z-index: 10;
+  border: none !important;
+  margin: 0 !important;
+  padding: 0 !important;
+  transition: all 0.3s ease;
+  display: flex;
+  flex-direction: column;
+}
+
+.sidebar-container {
+  display: flex;
+  flex-direction: column !important;
+  gap: 20px !important;
+  height: 100%;
+}
+
+.graph #link-graph {
+  width: 100% !important;
+  height: 200px !important;
+}
+
+/* 7. Responsive Breakpoints */
+@media screen and (max-width: 1200px) {
+  body:not(.filetree-collapsed):not(.sidebar-collapsed) main.content {
+    --dg-content-max-width: 600px !important;
+  }
+}
+
+@media screen and (max-width: 999px) {
   main.content {
     max-width: 100% !important;
     width: 100% !important;
-    padding-left: 15px !important;
-    padding-right: 15px !important;
     margin-left: 0 !important;
     margin-right: 0 !important;
+    padding-left: 15px !important;
+    padding-right: 15px !important;
     left: 0 !important;
   }
 
-  /* Very Narrow Screens: Further reduce margins to keep it compact */
+  .sidebar {
+    position: relative !important;
+    width: 100% !important;
+    right: auto !important;
+    top: 0 !important;
+    margin-top: 40px !important;
+    height: auto !important;
+    display: block !important;
+  }
+
+  .sidebar-container {
+    flex-direction: column !important;
+  }
+
+  /* Final touch: Replace print icon with theme toggle on mobile */
+  .page-controls-bubble .print-button {
+    display: none !important;
+  }
+  .page-controls-bubble .theme-toggle {
+    display: flex !important;
+  }
+
+  /* Very Narrow Screens: Further reduce margins */
   @media screen and (max-width: 500px) {
     main.content {
       padding-left: 8px !important;
       padding-right: 8px !important;
     }
   }
-
-  /* 
-     REMOVED: display: none !important on filetree-sidebar/wrapper.
-     This was blocking the Alpine.js toggle from showing the menu on mobile.
-     The template's built-in x-show logic will now handle visibility correctly.
-  */
-
-  /* Ensure sidebars are hidden and don't take up space */
-  .sidebar {
-    display: none !important;
-  }
-
-  /* Final touch: Replace print icon with theme toggle on mobile */
-  body .page-controls-bubble .print-button {
-    display: none !important;
-  }
-  body .page-controls-bubble .theme-toggle {
-    display: flex !important;
-  }
 }
 
-/* Adjust layout when filetree is active to prevent overlap and shrink content */
-body:not(.filetree-collapsed) main.content {
-    --dg-content-max-width: 780px !important; /* Explicitly shrink base width when visible */
-    margin-left: calc(var(--actual-filetree-width) + var(--actual-filetree-gap) + 10px) !important;
-    margin-right: auto !important;
-}
-
-/* Adjust layout when sidebar is active */
-body:not(.sidebar-collapsed) main.content {
-    margin-right: calc(var(--actual-sidebar-width) + var(--actual-sidebar-gap) + 10px) !important;
-}
-
-/* When filetree is hidden, expand the content */
-body.filetree-collapsed main.content {
-    --dg-content-max-width: 950px !important; /* Expand base width when hidden */
-    margin-left: auto !important;
-    margin-right: auto !important;
-}
-
-/* When both are collapsed, give it maximum space and center it */
-body.filetree-collapsed.sidebar-collapsed main.content {
-    --dg-content-max-width: 1000px !important;
-    margin-left: auto !important;
-    margin-right: auto !important;
-}
-
-@media (max-width: 1400px) {
-  .sidebar {
-    position: fixed !important;
-    top: var(--dg-sidebar-top) !important;
-    right: 10px !important;
-    left: auto !important;
-    width: var(--dg-sidebar-max-width) !important;
-    margin: 0 !important;
-    padding: 0 !important;
-    border: none !important;
-    height: 100% !important;
-    font-size: 0.8rem !important;
-  }
-  
-  .sidebar-container {
-    flex-direction: column !important;
-    gap: 15px !important;
-  }
-
-  .backlinks, .toc-container {
-    font-size: 0.75rem !important;
-  }
-  
-  .graph #link-graph {
-    width: 100% !important;
-    height: 150px !important;
-  }
-}
-
-@media (max-width: 1000px) {
-    /* Only at 1000px and below do we move sidebar to bottom if needed, 
-       but digital-garden-base already handles this. 
-       We just need to make sure we don't fight it too hard there. */
-    .sidebar {
-        position: relative !important;
-        width: 100% !important;
-        margin-left: auto !important;
-        margin-right: auto !important;
-    }
-}
 
 
 /* Center the header area */
