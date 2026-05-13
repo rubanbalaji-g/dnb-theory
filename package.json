@@ -11,8 +11,7 @@
         "build:sass": "sass src/site/styles:dist/styles --style compressed",
         "get-theme": "node src/site/get-theme.js",
         "build": "npm-run-all get-theme build:*",
-        "build-dev": "npm run build:sass && powershell -Command \"Move-Item .eleventyignore .eleventyignore.bak -ErrorAction SilentlyContinue; Copy-Item .devignore .eleventyignore; npm run build:eleventy; Move-Item .eleventyignore.bak .eleventyignore -Force\"",
-        "serve-dev": "npm run build:sass && powershell -Command \"Move-Item .eleventyignore .eleventyignore.bak -ErrorAction SilentlyContinue; Copy-Item .devignore .eleventyignore; cross-env ELEVENTY_ENV=dev eleventy --serve; Move-Item .eleventyignore.bak .eleventyignore -Force\""
+        "serve": "npm run build:sass && cross-env ELEVENTY_ENV=dev eleventy --serve"
     },
     "keywords": [],
     "author": "",
