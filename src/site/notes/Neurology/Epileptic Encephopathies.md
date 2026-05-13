@@ -16,7 +16,7 @@ These syndromes typically present at specific ages due to the maturation levels 
 
 - **Onset:** First 2 months of life (often neonatal).
 - **Seizure Type:** Fragmentary, severe myoclonic seizures, and erratic focal seizures.
-- **Etiology:** Predominantly metabolic (e.g., Non-ketotic hyperglycinemia, organic acidemias),.
+- **Etiology:** Predominantly metabolic (e.g., Non-ketotic hyperglycinemia, [[Metabolic Disorders/Organic Acidemias\|organic acidemias]]),.
 - **EEG:** **Burst-suppression pattern** (periods of flat background interrupted by high-voltage spikes). This pattern is often enhanced by sleep.
 - **Prognosis:** Ominous; high mortality and severe impairment.
 

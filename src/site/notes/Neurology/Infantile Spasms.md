@@ -16,7 +16,7 @@ Currently classified into **Structural/Metabolic (Symptomatic)** and **Unknown (
 | Category | Common Causes |
 | :--- | :--- |
 | **Structural (Most Common)** | **Tuberous Sclerosis Complex (TSC)** (Major cause), Hypoxic-Ischemic Encephalopathy (HIE), Neurofibromatosis 1, Cortical Dysplasia, Lissencephaly, Aicardi Syndrome. |
-| **Metabolic** | Phenylketonuria (PKU), Non-ketotic hyperglycinemia, Pyridoxine dependency, Mitochondrial disorders. |
+| **Metabolic** | [[Metabolic Disorders/Phenylketonuria\|Phenylketonuria]] (PKU), Non-ketotic hyperglycinemia, Pyridoxine dependency, Mitochondrial disorders. |
 | **Genetic** | *ARX* and *CDKL5* mutations; Trisomy 21. |
 | **Unknown** | No cause identified despite investigation (better prognosis). |
 

@@ -7,14 +7,14 @@
 2. [[Metabolic Disorders/Neonatal Screening for Metabolic Diseases\|Neonatal Screening for Metabolic Diseases]]
 ## Protein Metabolism Disorders
 ### Overview
-1. [[Metabolic Disorders/Amino Acid Metabolism Defects\|Amino Acid Metabolism Defects]]
+1. [[Metabolic Disorders/Organic Acidemias\|Organic Acidemias]]
 2. [[Metabolic Disorders/Urea Cycle Disorders\|Urea Cycle Disorders]]
 ### Specific Disorders
 1. [[Metabolic Disorders/Phenylketonuria\|Phenylketonuria]]
 2. [[Metabolic Disorders/Tyrosinemia\|Tyrosinemia]]
-3. [[Metabolic Disorders/Homocystenuria\|Homocystenuria]]
+3. [[Metabolic Disorders/Homocystinuria\|Homocystinuria]]
 4. [[Metabolic Disorders/Maple Syrup Urine Disease\|Maple Syrup Urine Disease]]
-5. [[Metabolic Disorders/Alkaptouria\|Alkaptouria]]
+5. [[Metabolic Disorders/Alkaptonuria\|Alkaptonuria]]
 6. [[Metabolic Disorders/Isovaleric Acidemia\|Isovaleric Acidemia]]
 7. [[Metabolic Disorders/Ornithine Transcarbamylase (OTC) Deficiency\|OTC Deficiency]]
 8. [[Metabolic Disorders/Methylmalonic Acidemia (MMA)\|Methylmalonic Acidemia (MMA)]]

@@ -2,7 +2,7 @@
 {"dg-publish":true,"uplink":"/metabolic-disorders/metabolic-disorders/","uptext":"Back to Index (Metabolic Disorders)","permalink":"/metabolic-disorders/approach-to-iem/","dgPassFrontmatter":true}
 ---
 
-## 1. INTRODUCTION
+## 1. Introduction
 * **Definition:** A heterogeneous group of genetic disorders caused by mutations impairing specific enzymes, transport proteins, or cofactors.
 * **Pathophysiology ("Metabolic Block"):**
     * Toxic accumulation of substrates proximal to the block.
@@ -14,7 +14,7 @@ Based on the pathophysiology and clinical presentation:
 
 ### A. Intoxication Disorders
 * **Mechanism:** Accumulation of toxic compounds proximal to the metabolic block.
-* **Examples:** Urea Cycle Disorders (UCD), Organic Acidemias (OA), Galactosemia, MSUD.
+* **Examples:** [[Metabolic Disorders/Urea Cycle Disorders\|Urea Cycle Disorders]] (UCD), [[Metabolic Disorders/Organic Acidemias\|Organic Acidemias]] (OA), Galactosemia, [[Metabolic Disorders/Maple Syrup Urine Disease\|Maple Syrup Urine Disease]] (MSUD).
 * **Clinical Pattern:** Symptom-free interval after birth $\rightarrow$ Rapid deterioration once feeding (protein/sugar) is introduced.
 
 ### B. Energy Deficiency Disorders
@@ -46,17 +46,17 @@ Search for specific signs to narrow the differential:
 | **Cherry Red Spots** | Tay-Sachs, Niemann-Pick |
 | **Alopecia** | Biotinidase Deficiency |
 | **Coarse Hair** | Menkes Kinky Hair Disease |
-| **Hepatomegaly** | Galactosemia, Tyrosinemia, GSD, LSD |
+| **Hepatomegaly** | Galactosemia, [[Metabolic Disorders/Tyrosinemia\|Tyrosinemia]], GSD, LSD |
 | **Cardiomyopathy** | Pompe (GSD), FAOD, Mitochondrial disorders |
 ### Characteristic Urine Odors
 "Smelling the urine" is a high-yield bedside test:
 
 | Urine Odor | Suspected IEM |
 | :--- | :--- |
-| **Maple Syrup / Burnt Sugar** | Maple Syrup Urine Disease (MSUD) |
-| **Sweaty Feet** | Isovaleric Acidemia, Glutaric Acidemia Type II |
-| **Musty / Mousy** | Phenylketonuria (PKU) |
-| **Boiled Cabbage / Rancid** | Tyrosinemia (Type 1), Methionine Malabsorption |
+| **Maple Syrup / Burnt Sugar** | [[Metabolic Disorders/Maple Syrup Urine Disease\|Maple Syrup Urine Disease]] (MSUD) |
+| **Sweaty Feet** | [[Metabolic Disorders/Isovaleric Acidemia\|Isovaleric Acidemia]], Glutaric Acidemia Type II |
+| **Musty / Mousy** | [[Metabolic Disorders/Phenylketonuria\|Phenylketonuria]] (PKU) |
+| **Boiled Cabbage / Rancid** | [[Metabolic Disorders/Tyrosinemia\|Tyrosinemia]] (Type 1), Methionine Malabsorption |
 | **Swimming Pool** | Hawkinsinuria |
 | **Tom Cat Urine** | Multiple Carboxylase Deficiency |
 | **Rotting Fish** | Trimethylaminuria |
@@ -75,21 +75,83 @@ Essential investigations for any sick child with suspected IEM:
 ### Tier 2: Confirmatory Tests
 Based on Tier 1 results:
 1.  **Plasma Amino Acids (PAA):** For Amino acidopathies and UCDs.
-2.  **Urine Organic Acids (UOA):** For Organic acidemias.
+2.  **Urine Organic Acids (UOA):** For [[Metabolic Disorders/Organic Acidemias\|Organic acidemias]].
 3.  **Plasma Acylcarnitine Profile (TMS):** For FAODs and some OAs.
 4.  **Lactate/Pyruvate Ratio:** For mitochondrial disorders.
 
 ## 5. ALGORITHMIC INTERPRETATION (High Yield)
 The diagnosis is approached by grouping results into **Acidosis, Ketosis, Ammonia, and Lactate**.
+```mermaid
+%%{init: {"themeVariables": { "lineWidth": "3px", "lineColor": "#000000" } }}%%
+flowchart TD
+    %% Nodes
+    Start["Suspected IEM<br>Tier 1: ABG, Glucose, Ammonia, Lactate, Ketones"]
+    
+    AcidosisDecision{"Metabolic<br>Acidosis?"}
+    KetosisDecision{"Ketosis<br>Present?"}
+    NH3Decision1{"Ammonia<br>Level?"}
+    NH3Decision2{"Ammonia<br>Level?"}
+    GlucLactDecision{"Glucose &<br>Lactate?"}
+    PrimaryFeatureDecision{"Primary<br>Feature?"}
+    
+    WithKetosis["High Anion Gap<br>with Ketosis"]
+    NoKetosis["Without Ketosis"]
+    IsoLact["Isolated Lactic<br>Acidosis"]
+    
+    OA["Organic Acidemias<br>(e.g., Propionic, Methylmalonic)"]
+    MSUD["MSUD or Beta-<br>ketothiolase def."]
+    FAOD["Fatty Acid Oxidation<br>Defects (FAOD)"]
+    RTA["Renal Tubular<br>Acidosis (RTA)"]
+    Mito_Pyr["Pyruvate Metabolism or<br>Mitochondrial Disorders"]
+    UCD["Urea Cycle Disorders<br>(e.g., OTC, Citrullinemia)"]
+    PyrCarbB["Pyruvate Carboxylase<br>Def. (Type B)"]
+    Mito_PyrA["Mitochondrial Disorders or<br>Pyr. Carboxylase Def. (Type A)"]
 
+    %% Routing
+    Start --> AcidosisDecision
+    
+    AcidosisDecision -- "Yes" --> KetosisDecision
+    AcidosisDecision -- "No" --> PrimaryFeatureDecision
+    
+    KetosisDecision -- "Yes" --> WithKetosis
+    KetosisDecision -- "No" --> NoKetosis
+    
+    WithKetosis --> NH3Decision1
+    NH3Decision1 -- "Elevated" --> OA
+    NH3Decision1 -- "Normal" --> MSUD
+    
+    NoKetosis --> GlucLactDecision
+    GlucLactDecision -- "Hypoglycemia +<br>High Lactate" --> FAOD
+    GlucLactDecision -- "Normal Glucose +<br>Normal Lactate" --> RTA
+    GlucLactDecision -- "Normal Glucose +<br>High Lactate" --> Mito_Pyr
+    
+    PrimaryFeatureDecision -- "Hyperammonemia" --> UCD
+    PrimaryFeatureDecision -- "Isolated Lactic<br>Acidosis" --> IsoLact
+    
+    IsoLact --> NH3Decision2
+    NH3Decision2 -- "With<br>Hyperammonemia" --> PyrCarbB
+    NH3Decision2 -- "Normal" --> Mito_PyrA
+
+    %% Styling Classes (Light fill, dark border, dark text)
+    classDef blueFamily fill:#E3F2FD,stroke:#1565C0,color:#0D47A1,stroke-width:2px
+    classDef orangeFamily fill:#FFF3E0,stroke:#E65100,color:#BF360C,stroke-width:2px
+    classDef purpleFamily fill:#F3E5F5,stroke:#6A1B9A,color:#4A148C,stroke-width:2px
+    classDef greenFamily fill:#E8F5E9,stroke:#2E7D32,color:#1B5E20,stroke-width:2px
+
+    %% Apply Styling
+    class Start blueFamily
+    class AcidosisDecision,KetosisDecision,NH3Decision1,NH3Decision2,GlucLactDecision,PrimaryFeatureDecision orangeFamily
+    class WithKetosis,NoKetosis,IsoLact purpleFamily
+    class OA,MSUD,FAOD,RTA,Mito_Pyr,UCD,PyrCarbB,Mito_PyrA greenFamily
+```
 ### A. Metabolic Acidosis Present
 
 #### 1. With Ketosis (High Anion Gap)
 * **Elevated Ammonia:**
-    * *Diagnosis:* **Organic Acidemias** (Propionic Acidemia, Methylmalonic Acidemia).
+    * *Diagnosis:* **[[Metabolic Disorders/Organic Acidemias\|Organic Acidemias]]** (Propionic Acidemia, Methylmalonic Acidemia).
     * *Note:* Hyperammonemia is secondary to urea cycle inhibition by organic acids.
 * **Normal Ammonia:**
-    * *Diagnosis:* **Maple Syrup Urine Disease (MSUD)**, Beta-ketothiolase deficiency.
+    * *Diagnosis:* **[[Metabolic Disorders/Maple Syrup Urine Disease\|Maple Syrup Urine Disease]] (MSUD)**, Beta-ketothiolase deficiency.
     * *Also consider:* Succinyl-CoA transferase deficiency.
 
 #### 2. Without Ketosis (No Ketones)
@@ -105,7 +167,7 @@ The diagnosis is approached by grouping results into **Acidosis, Ketosis, Ammoni
 
 #### 1. Hyperammonemia (Primary Feature)
 * *Respiratory Alkalosis is often present (due to central hyperventilation).*
-* *Diagnosis:* **Urea Cycle Disorders (UCD)**.
+* *Diagnosis:* **[[Metabolic Disorders/Urea Cycle Disorders\|Urea Cycle Disorders]] (UCD)**.
     * *Examples:* OTC Deficiency, Citrullinemia, CPS1 Deficiency.
     * *Feature:* Very high ammonia (>200-500+) with normal glucose and usually no acidosis initially.
 
@@ -117,13 +179,13 @@ The diagnosis is approached by grouping results into **Acidosis, Ketosis, Ammoni
     * Electron Transport Chain (Complex I-IV) disorders.
 
 ### C. Hypoglycemia Approach
-* **Ketones Present (+):** Organic Acidemias, Carbohydrate metabolism disorders (GSD).
+* **Ketones Present (+):** [[Metabolic Disorders/Organic Acidemias\|Organic Acidemias]], Carbohydrate metabolism disorders (GSD).
 * **Ketones Absent (-):** Fatty Acid Oxidation Defects (FAOD), Hyperinsulinism.
 
 
 ## 6. BIOCHEMICAL SUMMARY (Brief)
 * **Carbohydrates:** Disorders of Galactose (Galactosemia) and Fructose (HFI).
-* **Proteins:** Break down into Amino Acids $\rightarrow$ Nitrogen (Urea Cycle) and Organic Acids. Defects lead to Amino Acidopathies (PKU, MSUD) or Organic Acidemias.
+* **Proteins:** Break down into Amino Acids $\rightarrow$ Nitrogen (Urea Cycle) and Organic Acids. Defects lead to Amino Acidopathies (PKU, MSUD) or [[Metabolic Disorders/Organic Acidemias\|Organic Acidemias]].
 * **Fats:** Beta-oxidation defects lead to hypoketotic hypoglycemia.
 
 ## 7. MANAGEMENT PRINCIPLES (ACUTE)
@@ -159,7 +221,7 @@ The priority is to reverse the catabolic state which exacerbates most IEMs.
     * **Dialysis:** Indicated if ammonia levels are critical (Neonates >500 µmol/L) or unresponsive to medical therapy.
 ### 3. SPECIFIC MANAGEMENT STRATEGIES
 #### A. Intoxication Type (Small Molecule Disorders)
-* *Examples: Urea Cycle Disorders (UCD), Organic Acidemias (OA), MSUD.*
+* *Examples: [[Metabolic Disorders/Urea Cycle Disorders\|Urea Cycle Disorders]] (UCD), [[Metabolic Disorders/Organic Acidemias\|Organic Acidemias]] (OA), MSUD.*
 * **Principle 1: Stop the Intake (Substrate Restriction)**
     * **Strict NPO:** Discontinue oral protein/milk immediately upon suspicion.
     * *Rationale:* Symptoms in these disorders (like MSUD/UCD) typically appear after a symptom-free interval once protein feeding starts.
@@ -196,7 +258,7 @@ Administer cofactors that might boost residual enzyme activity pending diagnosis
 * **Sick Day Regimen:** Parents must be trained to increase glucose intake and stop protein during intercurrent illnesses/fever to prevent catabolic decompensation.
 * **Organ Surveillance:**
     * **Eye:** Cataracts (Galactosemia).
-    * **Liver:** Hepatomegaly/Dysfunction (Tyrosinemia, GSD).
+    * **Liver:** Hepatomegaly/Dysfunction ([[Metabolic Disorders/Tyrosinemia\|Tyrosinemia]], GSD).
     * **Heart:** Cardiomyopathy (Pompe disease, FAOD).
     * **Neurological:** Developmental milestones and seizure control.
 * **Genetic Counseling:**

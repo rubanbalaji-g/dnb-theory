@@ -84,7 +84,7 @@ Antinuclear antibody (ANA) positivity seen in approximately 80% of children. Scl
 |**Juvenile Localized Scleroderma**|Confined to cutaneous manifestations (morphea, linear scleroderma). Lacks visceral organ involvement.|
 |**Overlap Syndromes**|Mixed features of juvenile dermatomyositis, SLE, or arthritis. Presence of anti-U1-RNP.|
 |**Chemically Induced Scleroderma**|Exposure to polyvinyl chloride, bleomycin, pentazocine.|
-|**Pseudosclerodermas**|Phenylketonuria, progeria, porphyria cutanea tarda.|
+|**Pseudosclerodermas**|[[Metabolic Disorders/Phenylketonuria\|Phenylketonuria]], progeria, porphyria cutanea tarda.|
 |**Scleredema**|Benign, self-limiting. Non-pitting indurated edema over face, neck, shoulders. Spares hands and feet. Often follows streptococcal infection.|
 
 ## Management

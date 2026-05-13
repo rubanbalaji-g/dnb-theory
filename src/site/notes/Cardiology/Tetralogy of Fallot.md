@@ -27,7 +27,7 @@
 - Accounts for 5% to 10% of all congenital heart defects.
 - Genetic association: 22q11.2 microdeletion (DiGeorge/Velocardiofacial syndrome) in approximately 13% to 40% of cases.
 - Additional syndromic associations: Trisomy 21 (commonly with associated atrioventricular canal defects), Alagille syndrome, VACTERL association.
-- Maternal risk factors: Untreated phenylketonuria, pregestational diabetes, retinoic acid exposure.
+- Maternal risk factors: Untreated [[Metabolic Disorders/Phenylketonuria\|phenylketonuria]], pregestational diabetes, retinoic acid exposure.
 
 ## Clinical Features
 

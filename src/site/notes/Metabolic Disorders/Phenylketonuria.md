@@ -2,66 +2,84 @@
 {"dg-publish":true,"uplink":"/metabolic-disorders/metabolic-disorders/","uptext":"Back to Index (Metabolic Disorders)","permalink":"/metabolic-disorders/phenylketonuria/","dgPassFrontmatter":true}
 ---
 
-## Definition
-* **Phenylketonuria (PKU)** is an autosomal recessive inborn error of amino acid metabolism.
-* Caused by a deficiency of the hepatic enzyme **Phenylalanine Hydroxylase (PAH)**.
-* Results in accumulation of **phenylalanine (Phe)** and deficiency of **tyrosine**.
+## Definition And Genetics
 
-## Etiology and Pathophysiology
-* **Enzyme Defect:**
-    * **Classic PKU (>98%):** Severe deficiency of PAH enzyme activity.
-    * **BH4 Deficiency (1-3%):** Defects in synthesis or recycling of the cofactor **Tetrahydrobiopterin (BH4)** (e.g., *6-pyruvoyl-tetrahydropterin synthase* deficiency).
-* **Metabolic Consequences:**
-    * **Phe Accumulation:** Neurotoxic; saturates Large Neutral Amino Acid (LNAA) transporters, inhibiting brain uptake of other essential amino acids (Tyr, Trp).
-    * **Tyrosine Deficiency:** Becomes an essential amino acid; impairing synthesis of dopamine, norepinephrine, epinephrine, and melanin.
-    * **Alternative Pathway:** Excess Phe converts to phenylketones (phenylpyruvate, phenylacetate) excreted in urine.
-![](https://i.ibb.co/VW44M42f/image.png)
+- Phenylketonuria is an autosomal recessive inborn error of amino acid metabolism.
+- The disorder is caused by a deficiency of the hepatic enzyme Phenylalanine Hydroxylase (PAH).
+- The genetic defect involves the _PAH_ gene located on chromosome 12q23.2.
+- Classic PKU accounts for >98% of cases, while 1-3% of cases result from defects in the synthesis or recycling of its cofactor, Tetrahydrobiopterin (BH4).
+![Pasted image 20260512004523.png](/img/user/+%C4%B0mages/Pasted%20image%2020260512004523.png)
+## Pathophysiology
 
-## Classification (Based on Plasma Phe Levels)
-* **Classic PKU:** Plasma Phe **>20 mg/dL** (>1,200 µmol/L) on unrestricted diet.
-* **Mild PKU:** Plasma Phe **10–20 mg/dL** (600–1,200 µmol/L).
-* **Mild Hyperphenylalaninemia (HPA):** Plasma Phe **2–10 mg/dL** (120–600 µmol/L).
+### Metabolic Block And Neurotoxicity
+
+- The deficiency of Phenylalanine Hydroxylase prevents the conversion of phenylalanine (Phe) to tyrosine.
+- Excess phenylalanine is highly neurotoxic.
+- Elevated phenylalanine saturates Large Neutral Amino Acid (LNAA) transporters at the blood-brain barrier, which competitively inhibits the brain uptake of other essential amino acids like tyrosine and tryptophan.
+- This transport inhibition leads to severe central nervous system depletion of neurotransmitters (dopamine, serotonin, norepinephrine) and impaired cerebral protein synthesis.
+
+### Tyrosine Deficiency And Alternative Pathways
+
+- Tyrosine becomes an essential amino acid, and its deficiency impairs the synthesis of melanin, epinephrine, and dopamine.
+- Excess phenylalanine is diverted to alternative metabolic pathways, converting into phenylketones (phenylpyruvate, phenylacetate, and phenylacetylglutamine) which are excreted in the urine.
+
+## Clinical Classification
+
+Classification is based on plasma phenylalanine levels on an unrestricted diet.
+
+|Classification|Plasma Phenylalanine Levels|
+|:--|:--|
+|**Classic PKU**|>20 mg/dL (>1,200 µmol/L)|
+|**Mild PKU**|10–20 mg/dL (600–1,200 µmol/L)|
+|**Mild Hyperphenylalaninemia**|2–10 mg/dL (120–600 µmol/L)|
 
 ## Clinical Features
-**Infants are normal at birth** (placental clearance of Phe).
-* **Untreated Classic PKU:**
-    * **CNS:** Profound **intellectual disability** (IQ <35 in 50-70% if untreated), microcephaly, developmental delay.
-    * **Neurological:** **Seizures** (25%), spasticity, hyperreflexia, tremors.
-    * **Behavioral:** Hyperactivity, autistic features, aggression, rhythmic rocking.
-    * **Dermatological:** **Hypopigmentation** (fair skin, blond hair, blue eyes) due to reduced melanin; seborrheic/eczematoid rash.
-    * **Odor:** **"Mousey" or "musty" body odor** (due to phenylacetic acid).
-    * **Gastrointestinal:** Vomiting in early infancy (often misdiagnosed as pyloric stenosis).
 
-## Investigations
-* **Newborn Screening (Universal):**
-    * **Method:** **Tandem Mass Spectrometry (TMS)**.
-    * **Timing:** 24–48 hours of life (after protein feeding to reduce false negatives).
-    * **Target:** Elevated Phe and increased Phe:Tyrosine ratio.
-* **Confirmatory Testing:**
-    * **Quantitative Plasma Amino Acids:** Elevated Phe, low/normal Tyr.
-    * **BH4 Deficiency Screen:** **Mandatory** for all HPA. Measure urine/blood pterins (neopterin, biopterin) and DHPR activity.
-    * **Molecular Genetics:** *PAH* gene sequencing (98% cases) or BH4 pathway genes (*PTS, QDPR, GCH1*).
-    * **BH4 Loading Test:** Oral sapropterin reduces Phe by >30% in responsive variants.
+Infants appear completely normal at birth due to effective placental clearance of phenylalanine. Without early intervention, severe symptoms develop.
+
+### Central Nervous System Manifestations
+
+- Profound intellectual disability with an IQ <35 in 50-70% of untreated patients.
+- Microcephaly and severe global developmental delay.
+- Neurological signs include spasticity, hyperreflexia, tremors, and seizures (present in 25% of cases).
+
+### Behavioral And Dermatological Manifestations
+
+- Behavioral issues include hyperactivity, aggressive tendencies, autistic features, and rhythmic rocking.
+- Hypopigmentation is prominent, resulting in fair skin, blond hair, and blue eyes due to impoverished melanin synthesis.
+- Patients frequently present with an eczematoid or seborrheic rash.
+- A characteristic "mousey" or "musty" body and urine odor is present due to phenylacetic acid accumulation.
+
+## Diagnostic Investigations
+
+### Screening And Confirmatory Workup
+
+|Investigation Type|Details and Findings|
+|:--|:--|
+|**Newborn Screening (NBS)**|Uses Tandem Mass Spectrometry (TMS) at 24–48 hours of life, targeting elevated Phe and increased Phe:Tyrosine ratio.|
+|**Plasma Amino Acids**|Quantitative measurement reveals elevated phenylalanine and low or normal tyrosine.|
+|**Cofactor Screening**|Mandatory for all hyperphenylalaninemia cases to rule out BH4 deficiency by measuring urine/blood pterins (neopterin, biopterin) and DHPR enzyme activity.|
+|**Molecular Genetics**|_PAH_ gene sequencing confirms the diagnosis in 98% of cases.|
+|**BH4 Loading Test**|Oral sapropterin administration reduces Phe levels by >30% in BH4-responsive variants.|
 
 ## Management
-**1. Dietary Management (Standard of Care)**
-* **Indication:** Start immediately if Phe **>6–10 mg/dL** (>360–600 µmol/L).
-* **Principles:**
-    * **Restriction:** Restrict natural protein (meat, dairy, eggs).
-    * **Supplementation:** Phe-free medical formula containing **Tyrosine**, vitamins, and minerals.
-    * **Duration:** **"Diet for Life"**. Discontinuation in adulthood leads to executive dysfunction and emotional lability.
-* **Targets:** Maintain plasma Phe **2–6 mg/dL** (120–360 µmol/L) throughout life.
 
-**2. Pharmacotherapy**
-* **Sapropterin (Kuvan):** Synthetic BH4. Effective in BH4-responsive PKU; allows increased dietary protein tolerance.
-* **Pegvaliase (Palynzi):** Injectable enzyme substitution (PEGylated phenylalanine ammonia-lyase) for adults with uncontrolled levels; converts Phe to harmless metabolites.
-* **Large Neutral Amino Acids (LNAA):** Competitively inhibit Phe transport into the brain.
+### Dietary Therapy
 
-**3. Maternal PKU Syndrome**
-* **Risk:** High maternal Phe is teratogenic.
-* **Fetal Effects:** Microcephaly, Intellectual Disability, **Congenital Heart Disease**, IUGR.
-* **Protocol:** Strict control (Phe 2–6 mg/dL) required **pre-conception** and throughout pregnancy.
+- Dietary intervention is the standard of care and must be initiated immediately if phenylalanine levels exceed 6–10 mg/dL.
+- Management requires lifelong restriction of natural protein to limit phenylalanine intake.
+- Patients require specialized phenylalanine-free medical formulas supplemented with tyrosine, vitamins, and minerals.
+- The therapeutic target is to maintain plasma phenylalanine levels strictly between 2–6 mg/dL (120–360 µmol/L) for life.
+- Discontinuation of the diet in adulthood results in executive dysfunction and emotional lability.
 
-## Prognosis
-* **Early Treated:** Normal intelligence and lifespan.
-* **Late Treated:** Permanent cognitive deficit; treatment may improve behavior/seizures but cannot reverse brain damage.
+### Pharmacotherapy
+
+- **Sapropterin:** A synthetic formulation of BH4 that is effective in BH4-responsive PKU variants, allowing for increased dietary protein tolerance.
+- **Pegvaliase:** An injectable PEGylated phenylalanine ammonia-lyase enzyme substitution therapy for adults with uncontrolled levels, which converts phenylalanine to harmless metabolites.
+- **Large Neutral Amino Acids (LNAA):** Given to competitively inhibit phenylalanine transport across the blood-brain barrier.
+
+## Maternal Phenylketonuria Syndrome
+
+- High maternal phenylalanine levels are highly teratogenic to the developing fetus.
+- Fetal consequences include microcephaly, intellectual disability, severe intrauterine growth restriction (IUGR), and congenital heart disease.
+- Prevention mandates strict metabolic control (phenylalanine 2–6 mg/dL) prior to conception and maintained throughout the entire pregnancy.

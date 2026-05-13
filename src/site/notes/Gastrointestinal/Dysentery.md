@@ -90,7 +90,7 @@
 - **Renal:** Hemolytic uremic syndrome (_S. dysenteriae_ type 1, STEC).
 - **Neurological:** Seizures, encephalopathy (_Shigella_, STEC).
 - **Rheumatologic:** Reactive arthritis, erythema nodosum (_Shigella_, NTS, _Campylobacter_, _Yersinia_).
-- **Neuromuscular:** Guillain-Barré syndrome (_Campylobacter jejuni_).
+- **Neuromuscular:** [[Neuromuscular/Guillain-Barré Syndrome\|Guillain-Barré syndrome]] (_Campylobacter jejuni_).
 - **Hepatic:** Amebic liver abscess (_E. histolytica_).
 
 ## Diagnostic Evaluation

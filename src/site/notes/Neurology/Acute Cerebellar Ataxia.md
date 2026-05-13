@@ -27,7 +27,7 @@
 ### 4. Differential Diagnosis (Exclusion is Vital)
 * **Drug Intoxication:** Phenytoin, Carbamazepine, Benzodiazepines, Alcohol. (Check history/access).
 * **Acute Labyrinthitis:** Associated with vertigo/tinnitus.
-* **Guillain-Barré Syndrome (Miller-Fisher Variant):** Ataxia + Areflexia + Ophthalmoplegia.
+* **[[Neuromuscular/Guillain-Barré Syndrome\|Guillain-Barré Syndrome]] (Miller-Fisher Variant):** Ataxia + Areflexia + Ophthalmoplegia.
 * **Posterior Fossa Tumor:** Medulloblastoma (usually subacute, but can present acutely with bleed/hydrocephalus).
 * **Opsoclonus-Myoclonus Syndrome:** "Dancing eyes," irritability (Neuroblastoma).
 

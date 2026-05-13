@@ -53,7 +53,7 @@ Superinfection of skin lesions is the most common complication in all age groups
 
 - **Encephalitis:** Occurs in approximately 1 per 50,000 cases. It manifests with altered sensorium, seizures, and nuchal rigidity. Morbidity is highest in patients older than 20 years and younger than 5 years.
 - **Cerebellar Ataxia:** Characterized by gait disturbance, nystagmus, and slurred speech. It is generally <span style="color:rgb(0, 176, 240)">self-limited</span> with a good prognosis.
-- **Other:** Transverse myelitis, Guillain-Barré syndrome, and aseptic meningitis.
+- **Other:** Transverse myelitis, [[Neuromuscular/Guillain-Barré Syndrome\|Guillain-Barré syndrome]], and aseptic meningitis.
 
 ### 4. Other Complications
 

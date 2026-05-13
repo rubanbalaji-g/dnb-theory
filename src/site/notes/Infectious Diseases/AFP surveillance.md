@@ -2,10 +2,10 @@
 {"dg-publish":true,"uplink":"/infectious-diseases/infectious-diseases/","uptext":"Back to Index (Infectious Diseases)","permalink":"/infectious-diseases/afp-surveillance/","dgPassFrontmatter":true}
 ---
 
-**Acute Flaccid Paralysis (AFP)** surveillance is the gold standard for detecting cases of poliomyelitis. It is a critical strategy of the Global Polio Eradication Initiative (GPEI) to detect poliovirus transmission.
+**[[Neuromuscular/Acute Flaccid Paralysis\|Acute Flaccid Paralysis]] (AFP)** surveillance is the gold standard for detecting cases of poliomyelitis. It is a critical strategy of the Global Polio Eradication Initiative (GPEI) to detect poliovirus transmission.
 ## I. Definition and Case Definition
 
-**Acute Flaccid Paralysis (AFP)** is defined as a syndrome characterized by the sudden onset of weakness and floppiness (flaccidity) in any part of the body.
+**[[Neuromuscular/Acute Flaccid Paralysis\|Acute Flaccid Paralysis]] (AFP)** is defined as a syndrome characterized by the sudden onset of weakness and floppiness (flaccidity) in any part of the body.
 
 **Standard Case Definition for Surveillance:**
 
@@ -14,7 +14,7 @@
 
 ## II. Approach to a Child with AFP
 
-The clinical approach involves a detailed history and neurological examination to distinguish poliomyelitis from other causes of AFP, such as Guillain-Barré Syndrome (GBS), Traumatic Neuritis, and Transverse Myelitis.
+The clinical approach involves a detailed history and neurological examination to distinguish poliomyelitis from other causes of AFP, such as [[Neuromuscular/Guillain-Barré Syndrome\|Guillain-Barré Syndrome]] (GBS), Traumatic Neuritis, and Transverse Myelitis.
 ### 1. Clinical History
 A comprehensive history is essential to establish the diagnosis and rule out mimics.
 
@@ -36,7 +36,7 @@ A comprehensive history is essential to establish the diagnosis and rule out mim
 ### 3. Differential Diagnosis of AFP
 The following table summarizes the clinical characteristics distinguishing the major causes of AFP:
 
-|Feature|Poliomyelitis|Guillain-Barré Syndrome (GBS)|Traumatic Neuritis|Transverse Myelitis|
+|Feature|Poliomyelitis|[[Neuromuscular/Guillain-Barré Syndrome\|Guillain-Barré Syndrome]] (GBS)|Traumatic Neuritis|Transverse Myelitis|
 |:--|:--|:--|:--|:--|
 |**Onset**|Sudden, rapid (24–72 hrs)|Subacute (Hours to 10 days)|Acute (post-injection)|Acute/Subacute (Hours to 4 days)|
 |**Fever at onset**|**Present (High)**|Absent|Present (if underlying infection)|Variable|

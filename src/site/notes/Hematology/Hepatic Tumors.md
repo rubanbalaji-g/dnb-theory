@@ -53,7 +53,7 @@
 ## Risk Factors And Associations
 
 - Viral: Perinatal Hepatitis B infection (vaccination reduces incidence), Hepatitis C.
-- Metabolic: Tyrosinemia, alpha-1 antitrypsin deficiency, glycogen storage disease types 1 and 4, Wilson disease.
+- Metabolic: [[Metabolic Disorders/Tyrosinemia\|Tyrosinemia]], alpha-1 antitrypsin deficiency, glycogen storage disease types 1 and 4, Wilson disease.
 - Cholestatic: Biliary atresia, Alagille syndrome, progressive familial intrahepatic cholestasis.
 
 ## Clinical Manifestations

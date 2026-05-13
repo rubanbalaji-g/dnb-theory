@@ -18,7 +18,7 @@ The etiology is highly age-dependent. Causes are broadly classified into **Acute
 3.  **Granulomatous (Chronic):** **Neurocysticercosis (NCC)** and Tuberculoma are the leading causes of focal seizures in developing countries (DNB High Yield).
 4.  **Metabolic:**
     * *Transient:* Hypoglycemia, Electrolyte disturbances (Na+, Ca++, Mg++).
-    * *Inborn Errors:* Biotinidase deficiency, Urea cycle disorders (usually present in infancy).
+    * *Inborn Errors:* Biotinidase deficiency, [[Metabolic Disorders/Urea Cycle Disorders\|Urea cycle disorders]] (usually present in infancy).
 5.  **Vascular:** Arterial ischemic stroke, Venous sinus thrombosis (dehydration/infection related).
 
 ---

@@ -39,7 +39,7 @@ The clinical picture typically evolves after 3–6 months of deficient intake.
 
 ### Musculoskeletal Manifestations
 
-- **Pseudoparalysis:** The infant assumes a characteristic "frog-like posture" (hips and knees semiflexed, feet rotated outward) and refuses to move limbs due to severe pain.
+- **[[Neuromuscular/Pseudoparalysis\|Pseudoparalysis]]:** The infant assumes a characteristic "frog-like posture" (hips and knees semiflexed, feet rotated outward) and refuses to move limbs due to severe pain.
 - **Subperiosteal Hemorrhage:**
     - Causes extremely tender swellings, most marked at the distal femur and proximal tibia (knees) and ankles.
     - Can mimic acute osteomyelitis or septic arthritis.

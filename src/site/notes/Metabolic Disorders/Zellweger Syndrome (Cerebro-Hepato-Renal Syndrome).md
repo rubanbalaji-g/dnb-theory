@@ -30,7 +30,7 @@ Presents in the neonatal period with a recognizable dysmorphic phenotype.
 * **Ears:** Deformed ear lobes.
 
 ### B. Neurologic (Severe)
-* **Profound Hypotonia:** "Floppy infant" (often confused with Down syndrome or SMA).
+* **Profound Hypotonia:** "[[Neuromuscular/Approach to a floppy infant\|Approach to a floppy infant]]" (often confused with Down syndrome or SMA).
 * **Seizures:** Onset in neonatal period; often refractory.
 * **Sensory Deficits:**
     * **Vision:** Cataracts, glaucoma, corneal clouding, "Leopard spot" pigmentary retinopathy.

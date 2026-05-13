@@ -48,7 +48,7 @@ Diagnosis is primarily clinical and treatment should not be delayed for laborato
 
 - **Respiratory:** Airway obstruction by the pseudomembrane or edema, leading to respiratory failure.
 - **Cardiac:** Toxic cardiomyopathy (myocarditis) occurs in 10–25% of cases, typically in the 1st or 2nd week.
-- **Neurologic:** Toxic neuropathy. Palatal palsy (nasal regurgitation) in week 2; ocular palsy (accommodation loss) in week 3; generalized polyneuritis in weeks 3–6.
+- **Neurologic:** [[Neuromuscular/Toxic Neuropathy\|Toxic neuropathy]]. Palatal palsy (nasal regurgitation) in week 2; ocular palsy (accommodation loss) in week 3; generalized polyneuritis in weeks 3–6.
 
 ### 8. Management
 

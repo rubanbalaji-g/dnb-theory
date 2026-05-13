@@ -25,7 +25,7 @@ The PPI program operates as one of the four pillars of the Global Polio Eradicat
 2. **Supplementary Immunization Activities (SIAs):** These are the Pulse Polio campaigns.
     - **National Immunization Days (NIDs):** Conducted across the entire country, typically twice a year during the low transmission season (winter months).
     - **Sub-National Immunization Days (SNIDs):** Conducted in high-risk states or areas (e.g., Uttar Pradesh, Bihar) to maintain high immunity levels.
-3. **Acute Flaccid Paralysis (AFP) Surveillance:** To detect and investigate every potential case of polio.
+3. **[[Neuromuscular/Acute Flaccid Paralysis\|Acute Flaccid Paralysis]] (AFP) Surveillance:** To detect and investigate every potential case of polio.
 4. **Mopping-up Immunization:** Intensive door-to-door immunization in specific geographic areas where the virus is known or suspected to be circulating.
 
 ## Operational Methodology

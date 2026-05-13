@@ -22,7 +22,7 @@
 |Risk Factor Category|Specific Examples and Associations|
 |:--|:--|
 |**Genetic Syndromes**|Fragile X syndrome, Tuberous sclerosis, Angelman syndrome, Rett syndrome, Smith-Lemli-Opitz syndrome, Timothy syndrome, Joubert syndrome.|
-|**Metabolic Disorders**|Phenylketonuria (untreated), congenital hypothyroidism, mitochondrial disorders.|
+|**Metabolic Disorders**|[[Metabolic Disorders/Phenylketonuria\|Phenylketonuria]] (untreated), congenital hypothyroidism, mitochondrial disorders.|
 |**Environmental / Parental**|Advanced maternal or paternal age, maternal obesity, short interpregnancy interval, premature birth.|
 |**Prenatal Exposures**|Intrauterine exposure to infections (e.g., rubella, cytomegalovirus).|
 

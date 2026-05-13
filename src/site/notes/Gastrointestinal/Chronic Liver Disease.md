@@ -22,7 +22,7 @@
 
 |Category|Specific Disorders|
 |:--|:--|
-|**Metabolic**|Alpha-1-antitrypsin deficiency, Wilson disease, progressive familial intrahepatic cholestasis, glycogen storage diseases (types IV, VI, IX, X), lipid abnormalities (Gaucher), peroxisomal disorders, tyrosinemia, cystic fibrosis.|
+|**Metabolic**|Alpha-1-antitrypsin deficiency, Wilson disease, progressive familial intrahepatic cholestasis, glycogen storage diseases (types IV, VI, IX, X), lipid abnormalities (Gaucher), peroxisomal disorders, [[Metabolic Disorders/Tyrosinemia\|tyrosinemia]], cystic fibrosis.|
 |**Developmental/Genetic**|Biliary atresia, congenital hepatic fibrosis, Alagille syndrome.|
 |**Infectious**|Viral (chronic hepatitis B or C), parasitic (echinococcosis).|
 |**Immune-Related**|Autoimmune hepatitis, sclerosing cholangitis.|

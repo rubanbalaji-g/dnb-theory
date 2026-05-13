@@ -35,7 +35,7 @@
 |**Drugs/Toxins**|Valproic acid, L-asparaginase, 6-mercaptopurine, azathioprine, steroids, tetracycline.|
 |**Systemic/Immune**|Hemolytic uremic syndrome, Henoch-Schönlein purpura, systemic lupus erythematosus, inflammatory bowel disease, shock.|
 |**Infections**|Mumps, Epstein-Barr virus, hepatitis A, coxsackievirus, rubella.|
-|**Metabolic**|Diabetic ketoacidosis, hypercalcemia, hypertriglyceridemia, organic acidemias.|
+|**Metabolic**|Diabetic ketoacidosis, hypercalcemia, hypertriglyceridemia, [[Metabolic Disorders/Organic Acidemias\|organic acidemias]].|
 |**Genetic**|Mutations in _PRSS1_ (cationic trypsinogen), _SPINK1_, _CFTR_, _CTRC_.|
 
 ## Clinical Manifestations

@@ -16,9 +16,9 @@ Involves the Corticospinal tracts from the Cortex to the synapse with the Anteri
 Involves the Anterior Horn Cell, Nerve Root, Peripheral Nerve, or Neuromuscular Junction.
 1.  **Spinal Muscular Atrophy (SMA):** Anterior Horn Cell degeneration (Werdnig-Hoffmann).
 2.  **Poliomyelitis:** Viral destruction of Anterior Horn Cells.
-3.  **Guillain-Barré Syndrome (GBS):** Acute Inflammatory Demyelinating Polyneuropathy.
+3.  **[[Neuromuscular/Guillain-Barré Syndrome\|Guillain-Barré Syndrome]] (GBS):** Acute Inflammatory Demyelinating Polyneuropathy.
 4.  **Traumatic Neuritis:** Injection palsy (Sciatic nerve injury) or Obstetric Brachial Plexus Injury (Erb’s Palsy).
-5.  **Hereditary Motor Sensory Neuropathy (HMSN):** Charcot-Marie-Tooth disease.
+5.  **Hereditary Motor Sensory Neuropathy (HMSN):** [[Neuromuscular/Charcot-Marie-Tooth Disease\|Charcot-Marie-Tooth disease]].
 
 ## 2. CLINICAL DIFFERENTIATION
 

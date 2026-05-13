@@ -86,7 +86,7 @@ Presentation varies by age of onset and severity.
 
 ### C. Pompe Disease (GSD II)
 * **Defect:** Acid Alpha-Glucosidase (*GAA*).
-* **Features:** Floppy infant, Macroglossia, Massive Cardiomegaly (Infantile); Limb-girdle weakness (Late-onset).
+* **Features:** [[Neuromuscular/Approach to a floppy infant\|Approach to a floppy infant]], Macroglossia, Massive Cardiomegaly (Infantile); Limb-girdle weakness (Late-onset).
 * **Tx:** ERT.
 
 ### D. Tay-Sachs Disease (GM2 Gangliosidosis)

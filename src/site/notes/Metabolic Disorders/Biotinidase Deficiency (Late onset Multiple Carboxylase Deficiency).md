@@ -24,7 +24,7 @@
 * **Onset:** Typically between **3 to 6 months** of age (can range from 1 week to 10 years).
 * **Neurologic (Dominant Feature):**
     * **Seizures:** Myoclonic seizures, often refractory to anticonvulsants.
-    * **Hypotonia:** Generalized "floppy infant".
+    * **Hypotonia:** Generalized "[[Neuromuscular/Approach to a floppy infant\|Approach to a floppy infant]]".
     * **Ataxia** and developmental delay.
     * **Sensory Deficits:**
         * **Sensorineural Hearing Loss:** (75% of untreated cases).

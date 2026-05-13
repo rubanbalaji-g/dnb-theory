@@ -11,7 +11,7 @@ According to the World Health Organization (WHO), the specific goals for global 
 1. **No cases of clinical poliomyelitis** associated with wild poliovirus (WPV).
 2. **No wild poliovirus found worldwide** despite intensive efforts to find it (including environmental surveillance).
 
-The process of certification involves verifying the absence of wild poliovirus transmission from any source (Acute Flaccid Paralysis cases, community samples, and sewage samples) for at least three consecutive years in the presence of certification-standard surveillance.
+The process of certification involves verifying the absence of wild poliovirus transmission from any source ([[Neuromuscular/Acute Flaccid Paralysis\|Acute Flaccid Paralysis]] cases, community samples, and sewage samples) for at least three consecutive years in the presence of certification-standard surveillance.
 
 ## b) Polio Eradication in India
 
@@ -22,7 +22,7 @@ India's journey toward polio eradication is considered a monumental public healt
 - **1978:** Introduction of the Expanded Program on Immunization (EPI).
 - **1988:** India committed to the World Health Assembly resolution for global polio eradication.
 - **1995:** Launch of the Pulse Polio Immunization (PPI) program, targeting children aged 0–3 years (later expanded to 0–5 years) with Oral Polio Vaccine (OPV).
-- **1997:** Establishment of the National Polio Surveillance Project (NPSP) in collaboration with WHO to intensify Acute Flaccid Paralysis (AFP) surveillance.
+- **1997:** Establishment of the National Polio Surveillance Project (NPSP) in collaboration with WHO to intensify [[Neuromuscular/Acute Flaccid Paralysis\|Acute Flaccid Paralysis]] (AFP) surveillance.
 - **1999:** The last case of **WPV Type 2** was recorded in India.
 - **2005:** Introduction of Monovalent Oral Polio Vaccine (mOPV1 and later mOPV3) to enhance efficacy in high-risk areas.
 - **2010:** Introduction of Bivalent Oral Polio Vaccine (bOPV) in sub-national immunization days (SNIDs).

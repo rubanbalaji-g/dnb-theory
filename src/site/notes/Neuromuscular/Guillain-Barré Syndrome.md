@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"uplink":"/neurology/neurology/","uptext":"Back to Index (Neurology)","permalink":"/neurology/gbs/","dgPassFrontmatter":true}
+{"dg-publish":true,"uplink":"/neuromuscular/neuromuscular-system/","uptext":"Back to Index (💪 Neuromuscular system)","permalink":"/neuromuscular/guillain-barre-syndrome/","dgPassFrontmatter":true}
 ---
 
 ## Introduction & Epidemiology
@@ -68,9 +68,9 @@ Infection precedes onset in ~70% of cases by 1–3 weeks.
 
 ### Sensory Manifestations
 
-- **Paresthesias:** Distal tingling dysesthesias frequent in extremities.
+- **Paresthesia:** Distal tingling dysesthesias frequent in extremities.
 - **Sensory Deficits:** Cutaneous sensory deficits (pain/temperature) typically mild. Large sensory fiber functions (proprioception, vibration) more severely affected.
-- **Pain:** Back, neck, shoulder, or diffuse spinal pain present early in ~50% of cases. Deep aching pain in weakened muscles resembles severe overexertion. Dysesthetic extremity pain prominent.
+- **Pain:** Back, neck, shoulder, or diffuse spinal pain present early in ~50% of cases. Deep aching pain in weakened muscles resembles severe overexertion. Dysesthesia extremity pain prominent.
 
 ### Autonomic Manifestations
 

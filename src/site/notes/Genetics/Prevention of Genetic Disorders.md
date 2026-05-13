@@ -19,7 +19,7 @@ Primary prevention aims to prevent the occurrence of genetic conditions by reduc
 - Periconceptional folic acid: Supplementation of 0.4 mg/day (general population) or 4 mg/day (high-risk women) starting one month before conception to prevent neural tube defects.
 - Iodine fortification: Prevents congenital hypothyroidism and associated intellectual disability.
 - Teratogen avoidance: Complete avoidance of alcohol, tobacco, radiation, and Category X drugs (isotretinoin, thalidomide, valproate) prevents fetal malformations.
-- Maternal disease optimization: Tight glycemic control in diabetes prevents diabetic embryopathy, and strict dietary management in maternal phenylketonuria (PKU) prevents fetal microcephaly.
+- Maternal disease optimization: Tight glycemic control in diabetes prevents diabetic embryopathy, and strict dietary management in maternal [[Metabolic Disorders/Phenylketonuria\|phenylketonuria]] (PKU) prevents fetal microcephaly.
 
 ### Carrier Screening and Immunization
 

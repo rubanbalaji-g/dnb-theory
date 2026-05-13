@@ -39,7 +39,7 @@
 |:--|:--|
 |**Extrahepatic Obstructive**|Biliary atresia, choledochal cyst, inspissated bile syndrome, neonatal sclerosing cholangitis, gallstones, biliary stricture.|
 |**Infectious**|Congenital TORCH infections (Toxoplasmosis, Rubella, CMV, HSV), Syphilis, bacterial sepsis, urinary tract infection.|
-|**Metabolic/Genetic**|Alpha-1 antitrypsin deficiency, galactosemia, tyrosinemia, glycogen storage diseases, cystic fibrosis, bile acid synthesis defects, PFIC (types 1-6).|
+|**Metabolic/Genetic**|Alpha-1 antitrypsin deficiency, galactosemia, [[Metabolic Disorders/Tyrosinemia\|tyrosinemia]], glycogen storage diseases, cystic fibrosis, bile acid synthesis defects, PFIC (types 1-6).|
 |**Anatomic/Syndromic**|Alagille syndrome (paucity of interlobular bile ducts), congenital hepatic fibrosis (Caroli disease).|
 |**Endocrine**|Hypothyroidism, panhypopituitarism.|
 |**Toxic/Alloimmune**|Intestinal failure-associated liver disease (parenteral nutrition toxicity), gestational alloimmune liver disease (GALD).|
@@ -65,7 +65,7 @@ GGT provides highly specific diagnostic differentiation for intrahepatic cholest
 
 - **Alpha-1 antitrypsin:** Serum level and Pi phenotyping required early; histology mimics biliary atresia.
 - **Thyroid function:** Thyroid-stimulating hormone (TSH), free T4 rule out central or primary hypothyroidism.
-- **Metabolic assays:** Urine succinylacetone (tyrosinemia), galactose-1-phosphate uridyltransferase (galactosemia).
+- **Metabolic assays:** Urine succinylacetone ([[Metabolic Disorders/Tyrosinemia\|tyrosinemia]]), galactose-1-phosphate uridyltransferase (galactosemia).
 - **Matrix metalloproteinase-7 (MMP-7):** Highly sensitive and specific serum marker differentiating biliary atresia from other cholestatic causes.
 
 ### Radiological Imaging
@@ -88,7 +88,7 @@ GGT provides highly specific diagnostic differentiation for intrahepatic cholest
 |**Biliary Atresia**|Kasai portoenterostomy (hepato-portoenterostomy). Optimal outcomes achieved if performed <45-60 days of life.|
 |**Choledochal Cyst**|Surgical excision of abnormal biliary segment with Roux-en-Y hepaticojejunostomy.|
 |**Galactosemia**|Strict elimination of galactose (galactose-free formula).|
-|**Tyrosinemia Type 1**|Nitisinone administration; dietary restriction of phenylalanine and tyrosine.|
+|**[[Metabolic Disorders/Tyrosinemia\|Tyrosinemia]] Type 1**|Nitisinone administration; dietary restriction of phenylalanine and tyrosine.|
 |**Gestational Alloimmune Liver Disease (GALD)**|Exchange transfusion combined with intravenous immunoglobulin (IVIG).|
 |**Congenital Hypothyroidism**|Prompt thyroid hormone replacement.|
 

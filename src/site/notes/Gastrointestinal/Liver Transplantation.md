@@ -9,7 +9,7 @@ Definitive therapy for end-stage liver disease, acute liver failure, unresectabl
 |Category|Specific Conditions|
 |:--|:--|
 |**Obstructive Biliary Disease**|Biliary atresia (most common, 40-50% of pediatric cases), sclerosing cholangitis, Alagille syndrome, progressive familial intrahepatic cholestasis (PFIC).|
-|**Metabolic (Parenchymal)**|Alpha-1-antitrypsin deficiency, Wilson disease, tyrosinemia type I, cystic fibrosis, glycogen storage diseases.|
+|**Metabolic (Parenchymal)**|Alpha-1-antitrypsin deficiency, Wilson disease, [[Metabolic Disorders/Tyrosinemia\|tyrosinemia]] type I, cystic fibrosis, glycogen storage diseases.|
 |**Metabolic (Non-Parenchymal)**|Crigler-Najjar type I, urea cycle defects, primary hyperoxaluria, familial hypercholesterolemia.|
 |**Acute Liver Failure (ALF)**|Acetaminophen toxicity, viral hepatitis, indeterminate etiology fulfilling King's College criteria.|
 |**Hepatic Tumors**|Unresectable hepatoblastoma, hepatocellular carcinoma, hemangioendothelioma.|

@@ -50,7 +50,7 @@
 | **Vascular** | Coarctation of the aorta (thoracic/abdominal), renal artery stenosis, fibromuscular dysplasia, thrombosis, Takayasu arteritis, systemic lupus erythematosus vasculitis, Kawasaki disease. |
 | **Endocrine** | Hyperthyroidism (systolic HTN/tachycardia), hypothyroidism, hyperparathyroidism (hypercalcemia), congenital adrenal hyperplasia (CAH), Cushing syndrome, primary aldosteronism, pheochromocytoma, neuroblastoma. |
 | **Monogenic/Genetic** | Liddle syndrome, Gordon syndrome, apparent mineralocorticoid excess, glucocorticoid-remediable aldosteronism (low renin). |
-| **Neurologic** | Increased intracranial pressure, Guillain-Barré syndrome, autonomic storm (spinal cord injury), familial dysautonomia, posterior fossa lesions, encephalitis. |
+| **Neurologic** | Increased intracranial pressure, [[Neuromuscular/Guillain-Barré Syndrome\|Guillain-Barré syndrome]], autonomic storm (spinal cord injury), familial dysautonomia, posterior fossa lesions, encephalitis. |
 | **Transient/Intermittent** | Acute postinfectious glomerulonephritis, Henoch-Schönlein purpura, HUS, acute kidney injury, hypervolemia, pain/anxiety, hypercalcemia. |
 | **Drugs/Toxins** | Cocaine, amphetamines, sympathomimetics, corticosteroids, oral contraceptives, calcineurin inhibitors (cyclosporine, tacrolimus), licorice, heavy metals (lead, mercury), Vitamin D intoxication. |
 

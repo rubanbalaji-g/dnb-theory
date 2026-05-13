@@ -73,7 +73,7 @@ EV71 is highly neurotropic and can cause severe CNS disease, typically 2–5 day
 
 - **Aseptic Meningitis:** Headache, vomiting, stiff neck.
 - **Brainstem Encephalitis:** The most critical form, presenting with myoclonus (jerks), tremor, ataxia, and cranial nerve palsies. Myoclonus is a key early warning sign.
-- **Acute Flaccid Paralysis:** Polio-like limb weakness.
+- **[[Neuromuscular/Acute Flaccid Paralysis\|Acute Flaccid Paralysis]]:** Polio-like limb weakness.
 ### 3. Cardiopulmonary Failure
 
 Neurogenic pulmonary edema and hemorrhage can occur rapidly in severe EV71 brainstem encephalitis. This is characterized by tachycardia, respiratory distress, and pink frothy sputum, often leading to circulatory collapse (shock) and death.

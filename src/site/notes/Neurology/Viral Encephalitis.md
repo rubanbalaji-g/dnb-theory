@@ -52,7 +52,7 @@
     - **HSV Encephalitis (HSE):** Focal seizures and deficits common. Neonatal HSE presents with disseminated infection and liver involvement.
     - **Japanese Encephalitis:** High-grade fever, signs of meningeal irritation, cranial nerve palsies, prominent extrapyramidal symptoms, generalized/focal seizures.
     - **Nipah Virus:** Severe encephalitis, reduced consciousness, prominent brainstem dysfunction.
-    - **Enterovirus:** Aseptic meningitis, acute flaccid paralysis, brainstem encephalitis (EV71).
+    - **Enterovirus:** Aseptic meningitis, [[Neuromuscular/Acute Flaccid Paralysis\|acute flaccid paralysis]], brainstem encephalitis (EV71).
 
 ## Differential Diagnosis
 

@@ -49,7 +49,7 @@ Postural tone creates the required resistance to passive movement, serving as th
 - **Response:** Extension of head, trunk, and hips ("Airplane posture").
 - **Timeline:** Appears 3 months; peaks 6–8 months; disappears 12–24 months.
 - **Diagnostic Significance:**
-    - **Hypotonia:** Infant collapses into inverted "U" shape (Classic floppy infant sign).
+    - **Hypotonia:** Infant collapses into inverted "U" shape (Classic [[Neuromuscular/Approach to a floppy infant\|Approach to a floppy infant]] sign).
     - **Hypertonia/Spasticity:** Excessive extension or lower extremity scissoring.
     - **Absence:** Strong indicator of motor dysfunction (e.g., Cerebral Palsy).
     - **Prognostication:** Favorable prognostic sign for eventual standing.

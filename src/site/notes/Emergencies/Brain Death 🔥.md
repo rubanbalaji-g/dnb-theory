@@ -40,7 +40,7 @@
 - **Locked-in Syndrome:** Caused by a lesion in the ventral pons affecting motor tracts; the ascending reticular activating system remains spared. The patient is fully aware and easily arousable but suffers from severe motor paralysis, often only able to communicate via vertical eye movements and blinking.
 - **Akinetic Mutism (Abulia):** Produced by lesions in the frontal lobes or subcortical circuitry; the patient retains awareness and visual tracking but fails to initiate movement or obey commands, though tone and brainstem reflexes remain fully intact.
 - **Psychogenic Unresponsiveness:** Hysterical coma or malingering can mimic coma or locked-in syndrome, typically seen in adolescents, and is diagnosed only after ruling out all organic causes.
-- **Severe Guillain-Barré Syndrome:** Can present with acute flaccid paralysis so profound that it mimics a locked-in state or brain death; however, cortical awareness and sensory pathways are preserved.
+- **Severe [[Neuromuscular/Guillain-Barré Syndrome\|Guillain-Barré Syndrome]]:** Can present with [[Neuromuscular/Acute Flaccid Paralysis\|acute flaccid paralysis]] so profound that it mimics a locked-in state or brain death; however, cortical awareness and sensory pathways are preserved.
 - **Toxic/Metabolic Suppression:** Profound central nervous system depression from hypothermia, severe hypoglycemia, or drug intoxication (e.g., barbiturate coma using thiopental or pentobarbital, opioids, sedatives) can suppress EEG activity and brainstem reflexes, requiring thorough toxicological and metabolic screening prior to brain death testing.
 
 ## Ancillary Investigations
