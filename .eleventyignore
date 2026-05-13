@@ -1,18 +1,3 @@
-src/site/notes/Cardiology/
-src/site/notes/Emergencies/
-src/site/notes/Endocrinology/
-src/site/notes/Gastrointestinal/
-src/site/notes/Genetics/
-src/site/notes/Hematology/
-src/site/notes/Infectious Diseases/
-src/site/notes/Metabolic Disorders/
-src/site/notes/Misc/
-src/site/notes/Neonatalogy/
-src/site/notes/Nephrology/
-src/site/notes/Neurology/
-src/site/notes/Neuromuscular/
-src/site/notes/Nutrition/
-src/site/notes/Respiratory/
-src/site/notes/Rheumatology/
-src/site/notes/Social Pediatics/
-src/site/notes/Statistics/
+# .eleventyignore - Production
+# Empty by default so that all notes are built in production.
+# Use .devignore for local development speed.

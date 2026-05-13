@@ -141,8 +141,8 @@ body {
   --dg-graph-width: 200px;
   --dg-graph-height: 200px;
   --dg-toc-max-height: 250px;
-  --dg-filetree-width: min(260px, 25vw);
-  --dg-filetree-min-width: min(260px, 25vw);
+  --dg-filetree-width: 215px;
+  --dg-filetree-min-width: 215px;
   
   /* Dynamic widths based on state */
   --actual-filetree-width: var(--dg-filetree-width);
@@ -548,7 +548,7 @@ body.theme-dark {
 }
 body.theme-dark .filetree-sidebar,
 body.theme-dark .sidebar {
-    background: rgba(13, 17, 23, 0.7) !important;
+    background: transparent !important;
     backdrop-filter: blur(10px);
 }
 
@@ -574,7 +574,7 @@ body.theme-light {
 }
 body.theme-light .filetree-sidebar,
 body.theme-light .sidebar {
-    background: rgba(255, 255, 255, 0.6) !important;
+    background: transparent !important;
     backdrop-filter: blur(10px);
 }
 
