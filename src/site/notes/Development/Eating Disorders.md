@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"uplink":"/development/developmental-pediatrics/","uptext":"Back to Index (📈 Development and Growth)","permalink":"/development/eating-disorders/","dgPassFrontmatter":true}
+{"dg-publish":true,"uplink":"/development/development/","uptext":"Back to Index (📈 Development and Growth)","permalink":"/development/eating-disorders/","dgPassFrontmatter":true}
 ---
 
 ## Definition and Core Concepts

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"uptext":"Back to Index (📈 Development and Growth)","uplink":"/development/developmental-pediatrics/","permalink":"/development/rumination-disorder/","dgPassFrontmatter":true}
+{"dg-publish":true,"uptext":"Back to Index (📈 Development and Growth)","uplink":"/development/development/","permalink":"/development/rumination-disorder/","dgPassFrontmatter":true}
 ---
 
 ### Definition and Core Characteristics

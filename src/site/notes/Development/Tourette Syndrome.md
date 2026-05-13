@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"uplink":"/development/developmental-pediatrics/","uptext":"Back to Index (📈 Development and Growth)","permalink":"/development/tourette-syndrome/","dgPassFrontmatter":true}
+{"dg-publish":true,"uplink":"/development/development/","uptext":"Back to Index (📈 Development and Growth)","permalink":"/development/tourette-syndrome/","dgPassFrontmatter":true}
 ---
 
 ### Definition and Diagnostic Criteria

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"uplink":"/development/developmental-pediatrics/","uptext":"Back to Index (📈 Development and Growth)","permalink":"/development/psychosocial-health-screening-headss-in-adolescents/","dgPassFrontmatter":true}
+{"dg-publish":true,"uplink":"/development/development/","uptext":"Back to Index (📈 Development and Growth)","permalink":"/development/psychosocial-health-screening-headss-in-adolescents/","dgPassFrontmatter":true}
 ---
 
 ### Principles of the Psychosocial Interview

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"uplink":"/development/developmental-pediatrics/","uptext":"Back to Index (📈 Development and Growth)","permalink":"/development/temper-tantrums/","dgPassFrontmatter":true}
+{"dg-publish":true,"uplink":"/development/development/","uptext":"Back to Index (📈 Development and Growth)","permalink":"/development/temper-tantrums/","dgPassFrontmatter":true}
 ---
 
 ### Definition and Clinical Features

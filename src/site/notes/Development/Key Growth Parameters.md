@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"uptext":"Back to Index (📈 Development and Growth)","uplink":"/development/developmental-pediatrics/","permalink":"/development/key-growth-parameters/","dgPassFrontmatter":true}
+{"dg-publish":true,"uptext":"Back to Index (📈 Development and Growth)","uplink":"/development/development/","permalink":"/development/key-growth-parameters/","dgPassFrontmatter":true}
 ---
 
 ## Definitions of Key Growth and Development Parameters

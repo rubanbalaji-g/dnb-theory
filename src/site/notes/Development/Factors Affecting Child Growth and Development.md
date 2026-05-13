@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"uptext":"Back to Index (📈 Development and Growth)","uplink":"/development/developmental-pediatrics/","permalink":"/development/factors-affecting-child-growth-and-development/","dgPassFrontmatter":true}
+{"dg-publish":true,"uptext":"Back to Index (📈 Development and Growth)","uplink":"/development/development/","permalink":"/development/factors-affecting-child-growth-and-development/","dgPassFrontmatter":true}
 ---
 
 ## Genetic and Biological Factors

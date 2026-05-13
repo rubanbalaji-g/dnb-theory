@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"uptext":"Back to Index (📈 Development and Growth)","uplink":"/development/developmental-pediatrics/","permalink":"/development/principles-of-growth-and-development/","dgPassFrontmatter":true}
+{"dg-publish":true,"uptext":"Back to Index (📈 Development and Growth)","uplink":"/development/development/","permalink":"/development/principles-of-growth-and-development/","dgPassFrontmatter":true}
 ---
 
 ## Concept of Growth and Development
