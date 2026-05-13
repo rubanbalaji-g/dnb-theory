@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/development/adhd/","uplink":"/development/development/","uptext":"Back to Index (📈 Development and Growth)","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/development/adhd/","uplink":"/development/developmental-pediatrics/","uptext":"Back to Index (📈 Development and Growth)","dgPassFrontmatter":true}
 ---
 
 ### Introduction and Epidemiology

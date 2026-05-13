@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/neonatalogy/neonatology/","hide":true,"noteIcon":"","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/neonatalogy/neonatology/","noteIcon":"","dgPassFrontmatter":true}
 ---
 
 ## Basics

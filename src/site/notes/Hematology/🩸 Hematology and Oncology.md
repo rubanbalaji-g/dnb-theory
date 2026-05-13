@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/hematology/hematology-and-oncology/","hide":true,"noteIcon":"","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/hematology/hematology-and-oncology/","noteIcon":"","dgPassFrontmatter":true}
 ---
 
 ## Fetal Hematopoiesis

@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"uplink":"/development/development/","uptext":"Back to Index (📈 Development and Growth)","permalink":"/development/conversion-reactions-functional-neurologic-symptom-disorder/","dgPassFrontmatter":true}
+{"dg-publish":true,"uplink":"/development/developmental-pediatrics/","uptext":"Back to Index (📈 Development and Growth)","permalink":"/development/conversion-reactions-functional-neurologic-symptom-disorder/","dgPassFrontmatter":true}
 ---
 
-### Definition and Core Concepts
+## Definition and Core Concepts
 
 - Conversion disorder, currently classified under the umbrella of Somatic Symptom and Related Disorders (SSRDs) and also known as Functional Neurologic Symptom Disorder, involves symptoms of altered voluntary motor or sensory function.
 - The hallmark of this condition is a clinical presentation that provides evidence of incompatibility between the reported symptom and recognized medical or neurologic conditions.
@@ -70,8 +70,6 @@
 - Cognitive-behavioral therapy (CBT) is highly effective; interventions modify the symptom experience and help restore the central nervous system abnormalities associated with functional impairment.
 - Techniques such as biofeedback, relaxation training, and hypnosis can be utilized to teach the child how to exert control over autonomic and physiologic processes.
 - Cognitive restructuring helps address and alter the dysfunctional thoughts regarding the conversion symptoms and their implications for the child's life.
-
 #### Pharmacotherapy
-
 - While medications do not directly "cure" conversion reactions, psychopharmacologic treatment is strongly considered when specific psychiatric comorbidities are identified.
 - Targeted pharmacotherapy, often combined with physical therapy and psychologic interventions in a multicomponent management program, addresses underlying depressive and anxiety disorders that perpetuate the somatic symptoms.

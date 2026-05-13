@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/development/developmental-pediatrics/","hide":true,"noteIcon":"","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/development/developmental-pediatrics/","noteIcon":"","dgPassFrontmatter":true}
 ---
 
 ## Normal Growth and Development

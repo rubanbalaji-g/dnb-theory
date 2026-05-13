@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"uptext":"Back to Index (📈 Development and Growth)","uplink":"/development/development/","permalink":"/development/global-developmental-delay/","dgPassFrontmatter":true}
+{"dg-publish":true,"uptext":"Back to Index (📈 Development and Growth)","uplink":"/development/developmental-pediatrics/","permalink":"/development/global-developmental-delay/","dgPassFrontmatter":true}
 ---
 
 ## Definition and Epidemiology

@@ -9,7 +9,7 @@
 4. [[Neuromuscular/Pseudoparalysis\|Pseudoparalysis]]
 ## Anterior Horn Cell Disorders
 1. [[Neuromuscular/Spinal Muscular Atrophy\|Spinal Muscular Atrophy]]
-2. [[Neuromuscular/Post-Polio Syndrome\|Post-Polio Syndrome]]
+2. [[Neuromuscular/Paralytic Poliomyelitis\|Paralytic Poliomyelitis]]
 ## Peripheral Neuropathies
 1. [[Neuromuscular/Charcot-Marie-Tooth Disease\|Charcot-Marie-Tooth Disease]]
 2. [[Neuromuscular/Guillain-Barré Syndrome\|Guillain-Barré Syndrome]]

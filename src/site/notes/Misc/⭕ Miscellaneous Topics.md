@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/misc/miscellaneous-topics/","hide":true,"noteIcon":"","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/misc/miscellaneous-topics/","noteIcon":"","dgPassFrontmatter":true}
 ---
 
 ## Eye

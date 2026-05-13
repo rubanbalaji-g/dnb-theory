@@ -5,8 +5,8 @@
 ## Definition And Pathophysiology
 
 - Spinal muscular atrophy (SMA) is a progressive, degenerative disease of the motor neurons beginning in fetal life or infancy.
-- The disease is characterised by symmetrical muscular atrophy resulting from the degeneration of anterior horn cells in the spinal cord and brain stem nuclei.
-- When brain stem involvement predominates, it is termed Fazio-Londe disease.
+- The disease is characterized by symmetrical muscular atrophy resulting from the degeneration of anterior horn cells in the spinal cord and brain stem nuclei.
+- When brain stem involvement predominates, it is termed <span style="color:rgb(115, 247, 238)">Fazio-Londe disease.</span>
 - It is a lower motor neuron disorder that selectively spares upper motor neurons, extraocular muscles, and sphincters in most cases.
 - The pathological hallmark is progressive denervation of muscle, leading to the formation of giant motor units and subsequent muscle atrophy.
 - Cognitive function and intelligence remain completely normal.
@@ -31,17 +31,17 @@
 
 The disease is classified into five types based on the age of onset and maximum motor milestones achieved.
 
-|SMA Type|Eponym|Age Of Onset|Motor Milestones Achieved|Clinical Features And Lifespan|
-|:--|:--|:--|:--|:--|
-|**Type 0**|Prenatal SMA|Prenatal|None|Decreased fetal movements, congenital contractures (arthrogryposis), severe respiratory distress, heart defects. Lifespan <6 months.|
-|**Type 1**|Werdnig-Hoffmann Disease|<6 months|Head control never achieved; never sit unaided|Severe generalized weakness (proximal > distal, lower > upper limbs), frog-leg posture, absent reflexes, tongue fasciculations, paradoxical breathing, bell-shaped chest. Lifespan <2 years without intervention.|
-|**Type 2**|Dubowitz Disease|6-18 months|Sit independently, never walk|Progressive weakness, fine tremor of outstretched hands (polyminimyoclonus), absent reflexes, progressive scoliosis. Lifespan extends into school years or adulthood.|
-|**Type 3**|Kugelberg-Welander Disease|>18 months|Walk independently|Proximal weakness (frequent falls, difficulty climbing stairs), waddling gait, calf hypertrophy (mimics muscular dystrophy). Normal lifespan.|
-|**Type 4**|Adult SMA|2nd or 3rd decade|Ambulatory|Mild proximal weakness. Normal life span.|
+| SMA Type   | Eponym                     | Age Of Onset      | Motor Milestones Achieved                      | Clinical Features And Lifespan                                                                                                                                                                                    |
+| :--------- | :------------------------- | :---------------- | :--------------------------------------------- | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Type 0** | Prenatal SMA               | Prenatal          | None                                           | Decreased fetal movements, congenital contractures (arthrogryposis), severe respiratory distress, heart defects. Lifespan <6 months.                                                                              |
+| **Type 1** | Werdnig-Hoffmann Disease   | <6 months         | Head control never achieved; never sit unaided | Severe generalized weakness (proximal > distal, lower > upper limbs), frog-leg posture, absent reflexes, tongue fasciculations, paradoxical breathing, bell-shaped chest. Lifespan <2 years without intervention. |
+| **Type 2** | Dubowitz Disease           | 6-18 months       | Sit independently, never walk                  | Progressive weakness, fine tremor of outstretched hands (polyminimyoclonus), absent reflexes, progressive scoliosis. Lifespan extends into school years or adulthood.                                             |
+| **Type 3** | Kugelberg-Welander Disease | >18 months        | Walk independently                             | Proximal weakness (frequent falls, difficulty climbing stairs), waddling gait, calf hypertrophy (mimics muscular dystrophy). Normal lifespan.                                                                     |
+| **Type 4** | Adult SMA                  | 2nd or 3rd decade | Ambulatory                                     | Mild proximal weakness. Normal life span.                                                                                                                                                                         |
 
 ## Differential Diagnosis
 
-Spinal muscular atrophy type 1 and 2 present as [[Neuromuscular/Approach to a floppy infant\|Approach to a floppy infant]] syndrome with profound weakness.
+Spinal muscular atrophy type 1 and 2 present as [[Neuromuscular/Approach to a floppy infant\|floppy infant]] syndrome with profound weakness.
 
 |Category|Examples|Distinguishing Features|
 |:--|:--|:--|

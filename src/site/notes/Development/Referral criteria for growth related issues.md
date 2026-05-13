@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"uptext":"Back to Index (📈 Development and Growth)","uplink":"/development/development/","permalink":"/development/referral-criteria-for-growth-related-issues/","dgPassFrontmatter":true}
+{"dg-publish":true,"uptext":"Back to Index (📈 Development and Growth)","uplink":"/development/developmental-pediatrics/","permalink":"/development/referral-criteria-for-growth-related-issues/","dgPassFrontmatter":true}
 ---
 
 ## General Red Flags for Growth Abnormalities

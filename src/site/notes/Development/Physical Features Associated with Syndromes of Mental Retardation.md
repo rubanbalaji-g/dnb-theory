@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"uptext":"Back to Index (📈 Development and Growth)","uplink":"/development/development/","permalink":"/development/physical-features-associated-with-syndromes-of-mental-retardation/","dgPassFrontmatter":true}
+{"dg-publish":true,"uptext":"Back to Index (📈 Development and Growth)","uplink":"/development/developmental-pediatrics/","permalink":"/development/physical-features-associated-with-syndromes-of-mental-retardation/","dgPassFrontmatter":true}
 ---
 
 ### General Principles and Pathogenesis

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/gastrointestinal/gastroenterology/","hide":true,"noteIcon":"","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/gastrointestinal/gastroenterology/","noteIcon":"","dgPassFrontmatter":true}
 ---
 
 ## Basics
@@ -7,7 +7,7 @@
 2. [[Gastrointestinal/Pancreas - Embryology, Anatomy And Physiology\|Pancreas - Embryology, Anatomy And Physiology]]
 3. [[Gastrointestinal/Embryology of Gut\|Embryology of Gut]]
 ## Diagnostic Evaluation
-1. [[Gastrointestinal/Liver Function Tests\|Liver Function Tests]]
+1. [[Gastrointestinal/Liver Function Test\|Liver Function Test]]
 2. [[Gastrointestinal/Pancreatic Function Tests\|Pancreatic Function Tests]]
 3. [[Gastrointestinal/Radiology in Liver Diseases\|Radiology in Liver Diseases]]
 ## Congenital and Structural Anomalies
@@ -41,11 +41,11 @@
 5. [[Gastrointestinal/Non-Responsive And Refractory Celiac Disease\|Non-Responsive And Refractory Celiac Disease]]
 ## Liver - Autoimmune and Metabolic
 1. [[Gastrointestinal/Cholestatic Jaundice\|Cholestatic Jaundice]]
-2. [[Gastrointestinal/HAV Infection\|HAV Infection]]
-3. [[Gastrointestinal/HEV Infection\|HEV Infection]]
-4. [[Gastrointestinal/HBV Infection\|HBV Infection]]
-5. [[Gastrointestinal/HDV Infection\|HDV Infection]]
-6. [[Gastrointestinal/HCV Infection\|HCV Infection]]
+2. [[Gastrointestinal/Hepatitis A\|Hepatitis A]]
+3. [[Gastrointestinal/Hepatitis E\|Hepatitis E]]
+4. [[Gastrointestinal/Hepatitis B\|Hepatitis B]]
+5. [[Gastrointestinal/Hepatitis D\|Hepatitis D]]
+6. [[Gastrointestinal/Hepatitis C\|Hepatitis C]]
 7. [[Gastrointestinal/Liver Abscess\|Liver Abscess]]
 8. [[Gastrointestinal/Autoimmune hepatitis\|Autoimmune hepatitis]]
 9. [[Gastrointestinal/Wilson Disease\|Wilson Disease]]

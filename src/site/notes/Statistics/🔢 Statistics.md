@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/statistics/statistics/","noteIcon":"","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/statistics/statistics/","dgPassFrontmatter":true}
 ---
 
 ## Basics of Statistics
