@@ -10,7 +10,9 @@
         "build:eleventy": "cross-env ELEVENTY_ENV=prod NODE_OPTIONS=--max-old-space-size=6144 eleventy",
         "build:sass": "sass src/site/styles:dist/styles --style compressed",
         "get-theme": "node src/site/get-theme.js",
-        "build": "npm-run-all get-theme build:*"
+        "build": "npm-run-all get-theme build:*",
+        "build-dev": "npm run build:sass && powershell -Command \"Move-Item .eleventyignore .eleventyignore.bak -ErrorAction SilentlyContinue; Copy-Item .devignore .eleventyignore; npm run build:eleventy; Move-Item .eleventyignore.bak .eleventyignore -Force\"",
+        "serve-dev": "npm run build:sass && powershell -Command \"Move-Item .eleventyignore .eleventyignore.bak -ErrorAction SilentlyContinue; Copy-Item .devignore .eleventyignore; cross-env ELEVENTY_ENV=dev eleventy --serve; Move-Item .eleventyignore.bak .eleventyignore -Force\""
     },
     "keywords": [],
     "author": "",

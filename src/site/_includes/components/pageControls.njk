@@ -1,13 +1,49 @@
-<button class="filetree-toggle" aria-label="Toggle File Tree" onclick="document.body.classList.toggle('filetree-collapsed')">
-    <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon"><line x1="4" x2="20" y1="12" y2="12"></line><line x1="4" x2="20" y1="6" y2="6"></line><line x1="4" x2="20" y1="18" y2="18"></line></svg>
+<button class="filetree-toggle" aria-label="Toggle File Tree" onclick="toggleLayout('filetree-collapsed')">
+    <i data-lucide="menu"></i>
 </button>
 
-<button class="print-button" aria-label="Print Page" onclick="doPrint()">
-    <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon"><polyline points="6 9 6 2 18 2 18 9"></polyline><path d="M6 18H4a2 2 0 0 1-2-2v-5a2 2 0 0 1 2-2h16a2 2 0 0 1 2 2v5a2 2 0 0 1-2 2h-2"></path><rect width="12" height="8" x="6" y="14"></rect></svg>
-</button>
+<div class="page-controls-bubble">
+    <button class="sidebar-toggle" aria-label="Toggle Sidebar" onclick="toggleLayout('sidebar-collapsed')">
+        <i data-lucide="panel-right"></i>
+    </button>
+    <button class="theme-toggle" aria-label="Toggle Theme" onclick="toggleTheme()">
+        <i class="sun-icon" data-lucide="sun"></i>
+        <i class="moon-icon" data-lucide="moon"></i>
+    </button>
+    <button class="print-button" aria-label="Print Page" onclick="doPrint()">
+        <i data-lucide="printer"></i>
+    </button>
+</div>
 
 <script>
 (function() {
+    // Theme logic
+    const theme = localStorage.getItem('theme') || '{{meta.baseTheme}}';
+    document.body.classList.remove('theme-light', 'theme-dark');
+    document.body.classList.add(`theme-${theme}`);
+
+    window.toggleTheme = function() {
+        const isDark = document.body.classList.contains('theme-dark');
+        const newTheme = isDark ? 'light' : 'dark';
+        document.body.classList.remove('theme-light', 'theme-dark');
+        document.body.classList.add(`theme-${newTheme}`);
+        localStorage.setItem('theme', newTheme);
+        if (typeof lucide !== 'undefined') lucide.createIcons();
+    };
+
+    // Apply persisted layout states
+    if (localStorage.getItem('filetree-collapsed') === 'true') {
+        document.body.classList.add('filetree-collapsed');
+    }
+    if (localStorage.getItem('sidebar-collapsed') === 'true') {
+        document.body.classList.add('sidebar-collapsed');
+    }
+
+    window.toggleLayout = function(className) {
+        document.body.classList.toggle(className);
+        localStorage.setItem(className, document.body.classList.contains(className));
+    };
+
     window.doPrint = function() {
         var content = document.querySelector('main.content');
         if (!content) { window.print(); return; }
@@ -31,6 +67,10 @@
             hour: '2-digit', minute: '2-digit',
             hour12: false
         });
+
+        var isDark = document.body.classList.contains('theme-dark');
+        var pediaColor = isDark ? '#AAE5FA' : '#1E3A8A';
+        var notesColor = isDark ? '#FBC8C1' : '#9D174D';
 
         var printWindow = window.open('', '_blank', 'width=900,height=700');
 
@@ -104,7 +144,7 @@
             '<div class="print-page-header">' +
               '<div class="print-header-left">' +
                 '<img src="' + logoUrl + '" alt="PediaNotes logo">' +
-                '<span class="site-name"><span style="color: blue;">PediaNotes</span><span style="color: red;">.in</span></span>' +
+                '<span class="site-name"><span style="color: ' + pediaColor + ';">Pedia</span><span style="color: ' + notesColor + ';">Notes</span></span>' +
               '</div>' +
               '<div class="print-header-right">' +
                 '<div class="info-link"><a href="' + fullUrl + '">' + displayUrl + '</a></div>' +
