@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"uplink":"/development/development/","uptext":"Back to Index (📈 Development and Growth)","permalink":"/development/pervasive-developmental-disorders/","dgPassFrontmatter":true}
+{"dg-publish":true,"uplink":"/development/developmental-pediatrics/","uptext":"Back to Index (📈 Development and Growth)","permalink":"/development/pervasive-developmental-disorders/","dgPassFrontmatter":true}
 ---
 
 ### Definition and Classification Update

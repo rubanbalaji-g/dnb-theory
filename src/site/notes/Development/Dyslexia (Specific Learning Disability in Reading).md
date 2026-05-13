@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"uptext":"Back to Index (📈 Development and Growth)","uplink":"/development/development/","permalink":"/development/dyslexia-specific-learning-disability-in-reading/","dgPassFrontmatter":true}
+{"dg-publish":true,"uptext":"Back to Index (📈 Development and Growth)","uplink":"/development/developmental-pediatrics/","permalink":"/development/dyslexia-specific-learning-disability-in-reading/","dgPassFrontmatter":true}
 ---
 
 ### Definition and Epidemiology

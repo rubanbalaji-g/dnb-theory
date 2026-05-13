@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"uptext":"Back to Index (📈 Development and Growth)","uplink":"/development/development/","permalink":"/development/preventable-causes-of-mental-retardation-intellectual-disability/","dgPassFrontmatter":true}
+{"dg-publish":true,"uptext":"Back to Index (📈 Development and Growth)","uplink":"/development/developmental-pediatrics/","permalink":"/development/preventable-causes-of-mental-retardation-intellectual-disability/","dgPassFrontmatter":true}
 ---
 
 ### Overview

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"uptext":"Back to Index (📈 Development and Growth)","uplink":"/development/development/","permalink":"/development/suicide-and-self-harm-in-adolescence/","dgPassFrontmatter":true}
+{"dg-publish":true,"uptext":"Back to Index (📈 Development and Growth)","uplink":"/development/developmental-pediatrics/","permalink":"/development/suicide-and-self-harm-in-adolescence/","dgPassFrontmatter":true}
 ---
 
 ### Nonsuicidal Self-Injury (NSSI)

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"uptext":"Back to Index (📈 Development and Growth)","uplink":"/development/development/","permalink":"/development/non-organic-failure-to-thrive-psychosocial-ftt/","dgPassFrontmatter":true}
+{"dg-publish":true,"uptext":"Back to Index (📈 Development and Growth)","uplink":"/development/developmental-pediatrics/","permalink":"/development/non-organic-failure-to-thrive-psychosocial-ftt/","dgPassFrontmatter":true}
 ---
 
 ### Definition and Core Concepts

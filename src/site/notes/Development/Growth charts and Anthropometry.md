@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"uplink":"/development/development/","uptext":"Back to Index (📈 Development and Growth)","permalink":"/development/growth-charts-and-anthropometry/","dgPassFrontmatter":true}
+{"dg-publish":true,"uplink":"/development/developmental-pediatrics/","uptext":"Back to Index (📈 Development and Growth)","permalink":"/development/growth-charts-and-anthropometry/","dgPassFrontmatter":true}
 ---
 
 - Growth charts are essential surveillance tools in pediatric practice that represent the frequency distribution curves (percentiles or z-scores) of anthropometric parameters in a reference population.
