@@ -282,10 +282,11 @@ body.filetree-collapsed.sidebar-collapsed main.content {
     display: flex !important;
   }
 
+  /* Very Narrow Screens: Further reduce margins */
   @media screen and (max-width: 500px) {
     main.content {
-      padding-left: 10px !important;
-      padding-right: 10px !important;
+      padding-left: 5px !important;
+      padding-right: 5px !important;
       padding-top: 50px !important;
     }
 
@@ -304,18 +305,43 @@ body.filetree-collapsed.sidebar-collapsed main.content {
     }
 
     /* Tighter Headings */
-    h1, .cm-header-1 { font-size: 1.45em !important; margin-top: 0.8em !important; margin-bottom: 0.4em !important; }
-    h2, .cm-header-2 { font-size: 1.3em !important; margin-top: 0.7em !important; margin-bottom: 0.3em !important; }
-    h3, .cm-header-3 { font-size: 1.15em !important; margin-top: 0.6em !important; margin-bottom: 0.2em !important; }
-    h4, .cm-header-4 { font-size: 1.05em !important; }
+    h1,
+    .cm-header-1 {
+      font-size: 1.45em !important;
+      margin-top: 0.8em !important;
+      margin-bottom: 0.4em !important;
+    }
+
+    h2,
+    .cm-header-2 {
+      font-size: 1.3em !important;
+      margin-top: 0.7em !important;
+      margin-bottom: 0.3em !important;
+    }
+
+    h3,
+    .cm-header-3 {
+      font-size: 1.15em !important;
+      margin-top: 0.6em !important;
+      margin-bottom: 0.2em !important;
+    }
+
+    h4,
+    .cm-header-4 {
+      font-size: 1.05em !important;
+    }
 
     /* Compact Lists */
-    ul, ol {
+    ul,
+    ol {
       padding-left: 1.2em !important;
       margin-top: 0.4em !important;
       margin-bottom: 0.4em !important;
     }
-    li { margin-bottom: 0.2em !important; }
+
+    li {
+      margin-bottom: 0.2em !important;
+    }
 
     /* Compact Link Pills */
     .content a:not(.site-name-link) {
