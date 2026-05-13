@@ -176,9 +176,10 @@ main.content {
   padding-left: 20px !important;
   padding-right: 20px !important;
   
+  /* Inverted logic: Ensure it shrinks when visible and expands when hidden */
   max-width: min(
     var(--dg-content-max-width), 
-    calc(100vw - var(--actual-filetree-width) - var(--actual-sidebar-width) - var(--actual-filetree-gap) - var(--actual-sidebar-gap) - 40px)
+    calc(100vw - var(--actual-filetree-width) - var(--actual-sidebar-width) - var(--actual-filetree-gap) - var(--actual-sidebar-gap) - 60px)
   ) !important;
   
   width: 100% !important;
@@ -237,21 +238,30 @@ main.content {
   }
 }
 
-/* Adjust margin-left when filetree is active to prevent overlap */
+/* Adjust layout when filetree is active to prevent overlap and shrink content */
 body:not(.filetree-collapsed) main.content {
-    margin-left: calc(var(--actual-filetree-width) + var(--actual-filetree-gap)) !important;
+    --dg-content-max-width: 780px !important; /* Explicitly shrink base width when visible */
+    margin-left: calc(var(--actual-filetree-width) + var(--actual-filetree-gap) + 10px) !important;
+    margin-right: auto !important;
 }
 
-/* Adjust margin-right when sidebar is active to prevent overlap */
+/* Adjust layout when sidebar is active */
 body:not(.sidebar-collapsed) main.content {
-    margin-right: calc(var(--actual-sidebar-width) + var(--actual-sidebar-gap)) !important;
+    margin-right: calc(var(--actual-sidebar-width) + var(--actual-sidebar-gap) + 10px) !important;
 }
 
-/* When both are collapsed, just center it */
-body.filetree-collapsed.sidebar-collapsed main.content {
+/* When filetree is hidden, expand the content */
+body.filetree-collapsed main.content {
+    --dg-content-max-width: 950px !important; /* Expand base width when hidden */
     margin-left: auto !important;
     margin-right: auto !important;
-    max-width: 900px !important;
+}
+
+/* When both are collapsed, give it maximum space and center it */
+body.filetree-collapsed.sidebar-collapsed main.content {
+    --dg-content-max-width: 1000px !important;
+    margin-left: auto !important;
+    margin-right: auto !important;
 }
 
 @media (max-width: 1400px) {
