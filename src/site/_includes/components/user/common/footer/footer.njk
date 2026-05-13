@@ -9,7 +9,7 @@
             <span class="separator">•</span>
             <a href="/about">About</a>
             <span class="separator">•</span>
-            <span class="copyright">&copy; Dr. Ruban | <span id="year">2026</span></span>
+            <span class="copyright">© Dr. Rubanbalaji | <span id="year">2026</span></span>
         </div>
 
         <p class="disclaimer">
@@ -25,20 +25,34 @@
 <style>
     /* Footer Container */
     .site-footer {
-        margin-top: 4rem;
-        padding: 2rem 1rem;
+        margin-top: 0 !important;
+        padding-top: 0 !important;
+        padding-bottom: 2rem;
         text-align: center;
-        border-top: 1px solid var(--text-muted, #ccc);
+        border-top: none !important; /* Removed the line that went under sidebars */
         color: var(--text-muted, #888);
-        font-family: sans-serif;
+        font-family: var(--default-font) !important;
+    }
+
+    /* New Branded Separator Line - Stays in the middle */
+    .site-footer::before {
+        content: "";
+        display: block;
+        width: 150px;
+        height: 3px;
+        background: linear-gradient(90deg, var(--h1-color), var(--h3-color));
+        margin: 0 auto 2.5rem auto;
+        border-radius: 5px;
+        opacity: 0.6;
     }
     
     /* Garden Note */
     .garden-note {
         font-style: italic;
-        opacity: 0.9;
-        margin-bottom: 1rem;
-        color: var(--text-normal, #333);
+        opacity: 0.8;
+        margin-bottom: 1.5rem;
+        color: var(--text-normal);
+        font-size: 0.95rem;
     }
 
     /* Single Line Row styling */
@@ -46,36 +60,45 @@
         display: flex;
         justify-content: center;
         align-items: center;
-        gap: 8px;
+        gap: 15px;
         flex-wrap: wrap;
         font-weight: 500;
-        margin-bottom: 1.5rem; /* Space between links and disclaimer */
+        margin-bottom: 2rem;
     }
 
-    /* Separator dots */
-    .separator {
-        opacity: 0.5;
+    /* Copyright with ever-changing colors */
+    .copyright {
+        font-weight: bold;
+        animation: color-glow 8s infinite alternate ease-in-out;
+        transition: color 0.5s;
     }
 
-    /* Link Styling (Things 3 Teal) */
+    @keyframes color-glow {
+        0% { color: var(--h1-color); text-shadow: 0 0 5px rgba(var(--h1-color), 0.2); }
+        50% { color: var(--h2-color); text-shadow: 0 0 10px rgba(var(--h2-color), 0.3); }
+        100% { color: var(--h3-color); text-shadow: 0 0 5px rgba(var(--h3-color), 0.2); }
+    }
+
+    /* Link Styling (Branded Pink) */
     .footer-row a {
-        color: #00B39F !important; 
+        color: var(--h3-color) !important; 
         text-decoration: none;
-        opacity: 0.9;
-        transition: opacity 0.2s;
+        transition: all 0.2s;
+        padding: 2px 8px;
+        border-radius: 4px;
     }
     
     .footer-row a:hover {
-        opacity: 1;
+        background: rgba(var(--h3-color), 0.1);
         text-decoration: underline;
     }
 
     /* Disclaimer (New Settings) */
     .disclaimer {
-        font-size: 0.7em;  /* Made smaller */
-        opacity: 0.6;      /* Slightly more faded to be unobtrusive */
-        line-height: 1.5;  /* Good spacing for readability */
-        max-width: 650px;  /* Keeps the text from getting too wide on desktop */
+        font-size: 0.8rem;
+        opacity: 0.5;
+        line-height: 1.6;
+        max-width: 600px;
         margin-left: auto;
         margin-right: auto;
     }

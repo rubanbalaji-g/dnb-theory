@@ -1,3 +1,10 @@
+@font-face {
+  font-family: 'LocalComicSans';
+  src: url('/fonts/comicsans.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
 
 /* 1. LAYOUT NEUTRALIZATION: Force Single Column on Homepage */
 body:has(.home-dashboard) {
@@ -41,12 +48,12 @@ body:has(.home-dashboard) .content {
 /* 2. Global Styling (Fonts & UI) */
 
 :root {
-  --default-font: "Comic Sans MS", "Comic Sans", cursive, sans-serif !important;
-  --font-default: "Comic Sans MS", "Comic Sans", cursive, sans-serif !important;
-  --font-interface: "Comic Sans MS", "Comic Sans", cursive, sans-serif !important;
-  --font-text: "Comic Sans MS", "Comic Sans", cursive, sans-serif !important;
-  --file-header-font: "Comic Sans MS", "Comic Sans", cursive, sans-serif !important;
-  --inline-title-font: "Comic Sans MS", "Comic Sans", cursive, sans-serif !important;
+  --default-font: "LocalComicSans", "Comic Sans MS", "Comic Sans", cursive, sans-serif !important;
+  --font-default: "LocalComicSans", "Comic Sans MS", "Comic Sans", cursive, sans-serif !important;
+  --font-interface: "LocalComicSans", "Comic Sans MS", "Comic Sans", cursive, sans-serif !important;
+  --font-text: "LocalComicSans", "Comic Sans MS", "Comic Sans", cursive, sans-serif !important;
+  --file-header-font: "LocalComicSans", "Comic Sans MS", "Comic Sans", cursive, sans-serif !important;
+  --inline-title-font: "LocalComicSans", "Comic Sans MS", "Comic Sans", cursive, sans-serif !important;
 }
 
 body,
@@ -54,7 +61,8 @@ body,
 .content,
 .title,
 button,
-blockquote {
+blockquote,
+* {
   font-family: var(--default-font);
 }
 
@@ -66,9 +74,9 @@ blockquote {
   display: block;
 }
 
-@media (max-width: 800px) {
+@media (max-width: 1000px) {
   .site-name-title {
-    font-size: 0.95rem !important;
+    font-size: 1.5rem !important;
     margin: 5px !important;
   }
 }
@@ -175,6 +183,58 @@ main.content {
   
   width: 100% !important;
   transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+  position: relative;
+  padding-bottom: 0 !important;
+}
+
+/* Mobile Responsive Fixes: Ensure content is not narrow on small screens */
+/* Aligned with the template's 1000px auto-collapse breakpoint */
+@media screen and (max-width: 999px) {
+  body {
+    --actual-filetree-width: 0px !important;
+    --actual-sidebar-width: 0px !important;
+    --actual-filetree-gap: 0px !important;
+    --actual-sidebar-gap: 0px !important;
+    --dg-filetree-width: 0px !important;
+    --dg-sidebar-max-width: 0px !important;
+  }
+
+  main.content {
+    max-width: 100% !important;
+    width: 100% !important;
+    padding-left: 15px !important;
+    padding-right: 15px !important;
+    margin-left: 0 !important;
+    margin-right: 0 !important;
+    left: 0 !important;
+  }
+
+  /* Very Narrow Screens: Further reduce margins to keep it compact */
+  @media screen and (max-width: 500px) {
+    main.content {
+      padding-left: 8px !important;
+      padding-right: 8px !important;
+    }
+  }
+
+  /* 
+     REMOVED: display: none !important on filetree-sidebar/wrapper.
+     This was blocking the Alpine.js toggle from showing the menu on mobile.
+     The template's built-in x-show logic will now handle visibility correctly.
+  */
+
+  /* Ensure sidebars are hidden and don't take up space */
+  .sidebar {
+    display: none !important;
+  }
+
+  /* Final touch: Replace print icon with theme toggle on mobile */
+  body .page-controls-bubble .print-button {
+    display: none !important;
+  }
+  body .page-controls-bubble .theme-toggle {
+    display: flex !important;
+  }
 }
 
 /* Adjust margin-left when filetree is active to prevent overlap */

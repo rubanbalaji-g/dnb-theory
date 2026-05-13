@@ -585,6 +585,7 @@ module.exports = function (eleventyConfig) {
   eleventyConfig.addPassthroughCopy("src/site/img");
   eleventyConfig.addPassthroughCopy("src/site/scripts");
   eleventyConfig.addPassthroughCopy("src/site/styles/_theme.*.css");
+  eleventyConfig.addPassthroughCopy({ "src/helpers/comicsans.ttf": "/fonts/comicsans.ttf" });
   eleventyConfig.addPassthroughCopy({ "src/site/logo.*": "/" });
   eleventyConfig.addPassthroughCopy({ "src/site/favicon.svg": "/favicon.svg" });
   eleventyConfig.addPlugin(faviconsPlugin, { outputDir: "dist" });
