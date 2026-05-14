@@ -22,7 +22,7 @@
 |:--|:--|
 |**Inadequate Intake**|- Maternal deficiency: Exclusively breastfed infants of B12-deficient/vegan mothers.- Strict vegetarian or vegan diet.- Malnutrition or poorly controlled PKU diet.|
 |**Defective Absorption (Gastric)**|- **Hereditary Intrinsic Factor Deficiency (HIFD):** Autosomal recessive; absent/defective IF; normal gastric mucosa and acid secretion.- **Juvenile Pernicious Anemia:** Autoimmune destruction of parietal cells; antibodies against IF/parietal cells; associated endocrinopathies.- Gastric surgery/bypass, _Helicobacter pylori_ infection.|
-|**Defective Absorption (Intestinal)**|- **Imerslund-Gräsbeck Syndrome:** Defective ileal receptor (_CUBN_ or _AMN_ mutations); associated with benign proteinuria.- Celiac disease, Crohn disease, terminal ileum resection.- **Bacterial Overgrowth:** Intestinal diverticula, blind loops.- **Parasitic Infection:** _Diphyllobothrium latum_ (fish tapeworm).|
+|**Defective Absorption (Intestinal)**|- **Imerslund-Gräsbeck Syndrome:** Defective ileal receptor (_CUBN_ or _AMN_ mutations); associated with benign proteinuria.- [[Gastrointestinal/Celiac disease\|Celiac disease]], Crohn disease, terminal ileum resection.- **Bacterial Overgrowth:** Intestinal diverticula, blind loops.- **Parasitic Infection:** _Diphyllobothrium latum_ (fish tapeworm).|
 |**Defective Transport**|- **Transcobalamin II (TC II) Deficiency:** Autosomal recessive; failure to transport B12 to tissues.|
 |**Disorders of Metabolism**|- **Intracellular Defects:** Complementation groups _cblA_ through _cblX_.- Inadequate synthesis of AdoCbl, MeCbl, or both.|
 |**Inactivation**|- **Nitrous Oxide Abuse:** Inactivates cobalamin (recreational "Whippets" or anesthesia).|

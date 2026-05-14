@@ -21,7 +21,7 @@
 *   An enterovirus-associated myositis that clinically resembles dermatomyositis has also been documented in these patients.
 *   The administration of live attenuated viral vaccines, particularly the oral polio vaccine, can result in vaccine-associated paralytic poliomyelitis.
 *   While most viral and fungal pathogens are handled normally, patients are prone to *Mycoplasma* and *Ureaplasma urealyticum* infections, which can cause severe purulent arthritis in large joints.
-*   Gastrointestinal infections, particularly with *Giardia lamblia*, are common and can lead to chronic diarrhea, malabsorption, and weight loss.
+*   Gastrointestinal infections, particularly with *Giardia lamblia*, are common and can lead to [[Gastrointestinal/Chronic Diarrhea\|chronic diarrhea]], malabsorption, and weight loss.
 *   Neutropenia is occasionally observed at the time of diagnosis during active infections, particularly those caused by staphylococcal species or *Pseudomonas*, which can lead to life-threatening invasive disease.
 
 ### Laboratory Diagnosis

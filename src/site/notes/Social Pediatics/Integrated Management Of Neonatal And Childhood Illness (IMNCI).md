@@ -97,7 +97,7 @@ Before assessing specific symptoms, ALWAYS check for General Danger Signs. The p
 | No signs of pneumonia or very severe disease. | <span style="color: #4CAF50; font-weight:bold;">NO PNEUMONIA: COUGH OR COLD</span> | - If wheezing, give trial of rapid-acting bronchodilator.<br>- Soothe the throat and relieve cough with a safe remedy.<br>- Follow up in 5 days if not improving. |
 
 ### 3. Assess Diarrhea
-**Signs to Assess:** Duration (>14 days = persistent), blood in stool (dysentery), lethargy, sunken eyes, thirst (drinks eagerly vs. unable to drink), skin pinch.
+**Signs to Assess:** Duration (>14 days = persistent), blood in stool ([[Gastrointestinal/Dysentery\|dysentery]]), lethargy, sunken eyes, thirst (drinks eagerly vs. unable to drink), skin pinch.
 
 #### Dehydration Classification
 | Signs Present | Classification | Action/Treatment |
@@ -106,10 +106,10 @@ Before assessing specific symptoms, ALWAYS check for General Danger Signs. The p
 | Two of: Restless/irritable, Sunken eyes, Drinks eagerly/thirsty, Skin pinch slow. | <span style="color: #ffd700; font-weight:bold;">SOME DEHYDRATION</span> | - Give fluid, zinc supplements, and food (Plan B).<br>- Reassess after 4 hours. |
 | Not enough signs for severe or some dehydration. | <span style="color: #4CAF50; font-weight:bold;">NO DEHYDRATION</span> | - Give extra fluid and food to treat diarrhea at home (Plan A).<br>- Give Zinc supplements for 14 days. |
 
-#### Persistent Diarrhea And Dysentery
+#### Persistent Diarrhea And [[Gastrointestinal/Dysentery\|Dysentery]]
 - **Diarrhea lasting ≥ 14 days AND Dehydration present:** <span style="color: #ff1493; font-weight:bold;">SEVERE PERSISTENT DIARRHEA</span> (Refer Urgent).
 - **Diarrhea lasting ≥ 14 days AND NO Dehydration:** <span style="color: #ffd700; font-weight:bold;">PERSISTENT DIARRHEA</span> (Advise on feeding, multivitamin, follow up 5 days).
-- **Blood in stool:** <span style="color: #ffd700; font-weight:bold;">DYSENTERY</span> (Give oral Ciprofloxacin/appropriate antibiotic for Shigella for 3 days, follow up 2 days).
+- **Blood in stool:** <span style="color: #ffd700; font-weight:bold;">[[Gastrointestinal/Dysentery\|DYSENTERY]]</span> (Give oral Ciprofloxacin/appropriate antibiotic for Shigella for 3 days, follow up 2 days).
 
 ### 4. Assess Fever
 **Signs to Assess:** History of fever (or feels hot/temp >37.5°C), duration of fever, malaria risk in the area. Look for stiff neck. Look for signs of Measles (generalized rash AND one of: cough, runny nose, red eyes). Look for Dengue (bleeding from nose/gums, skin petechiae, positive tourniquet test).
@@ -172,7 +172,7 @@ IMNCI places heavy emphasis on empowering the caregiver. Counseling encompasses:
 
 ## Follow-Up Guidelines
 Crucial for cases classified as <span style="color: #ffd700; font-weight:bold;">YELLOW</span>.
-- **2 Days:** Pneumonia, Dysentery, Malaria (if fever persists), Local bacterial infection, Feeding problem.
+- **2 Days:** Pneumonia, [[Gastrointestinal/Dysentery\|Dysentery]], Malaria (if fever persists), Local bacterial infection, Feeding problem.
 - **3 Days:** Measles with eye/mouth complications.
 - **5 Days:** Persistent diarrhea, Acute ear infection, Cough/cold not improving.
 - **14 Days:** Malnutrition (MAM), Anemia, Low weight for age.

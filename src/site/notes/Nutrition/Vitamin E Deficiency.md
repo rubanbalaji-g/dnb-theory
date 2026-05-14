@@ -56,7 +56,7 @@
     - **Cholestatic Liver Disease:** Decreased bile salts prevent micelle formation necessary for absorption (e.g., [[Gastrointestinal/Biliary Atresia\|Biliary Atresia]]).
     - **Abetalipoproteinemia:** Genetic absence of apolipoprotein B prevents the formation of chylomicrons, making Vitamin E transport impossible.
     - **Short Bowel Syndrome:** Reduced absorptive surface area.
-    - **Celiac Disease.**
+    - **[[Gastrointestinal/Celiac disease\|Celiac Disease]].**
 
 ### 3. Genetic Disorders of Transport
 

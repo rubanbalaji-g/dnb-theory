@@ -13,8 +13,8 @@
 
 |Age Group|Acute/Common Causes|Chronic/Persistent Causes|
 |:--|:--|:--|
-|**Infant (1–12 mo)**|Gastroenteritis, systemic infection, overfeeding, anatomic obstruction, pertussis,.|Gastroesophageal Reflux Disease (GERD), eosinophilic esophagitis, celiac disease, adrenal insufficiency, Hirschsprung disease.|
-|**Child (1–11 y)**|Gastroenteritis, systemic infection, toxic ingestion, medications, sinusitis, otitis media,.|Peptic ulcer disease (PUD), gastroparesis, celiac disease, eosinophilic esophagitis, cyclic vomiting syndrome.|
+|**Infant (1–12 mo)**|Gastroenteritis, systemic infection, overfeeding, anatomic obstruction, pertussis,.|Gastroesophageal Reflux Disease (GERD), eosinophilic esophagitis, [[Gastrointestinal/Celiac disease\|celiac disease]], adrenal insufficiency, Hirschsprung disease.|
+|**Child (1–11 y)**|Gastroenteritis, systemic infection, toxic ingestion, medications, sinusitis, otitis media,.|Peptic ulcer disease (PUD), gastroparesis, [[Gastrointestinal/Celiac disease\|celiac disease]], eosinophilic esophagitis, cyclic vomiting syndrome.|
 |**Adolescent (12–18 y)**|Gastroenteritis, appendicitis, toxic ingestion, drug overdose, diabetic ketoacidosis,.|Pregnancy, eating disorders (bulimia), cannabinoid hyperemesis syndrome, superior mesenteric artery syndrome,.|
 
 ## ETIOLOGY BY ORGAN SYSTEM

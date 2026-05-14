@@ -20,7 +20,7 @@ Since the intestinal mucosa has a high turnover rate, it is frequently affected 
 
 - **Glossitis:** The tongue becomes sore, smooth, and beefy red due to papillary atrophy.
 - **Stomatitis:** Inflammation of the oral mucosa and angular stomatitis (fissuring at the corners of the mouth) may occur.
-- **Diarrhea:** Malabsorption and chronic diarrhea can result from the blunting of intestinal villi, creating a vicious cycle of deficiency and malabsorption.
+- **Diarrhea:** Malabsorption and [[Gastrointestinal/Chronic Diarrhea\|chronic diarrhea]] can result from the blunting of intestinal villi, creating a vicious cycle of deficiency and malabsorption.
 - **Growth Failure:** In infants and young children, chronic deficiency leads to anorexia, weight loss, and failure to thrive (growth stunting).
 
 ### Dermatological Manifestations

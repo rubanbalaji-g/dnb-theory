@@ -20,7 +20,7 @@
 |Viral Infections|Epstein-Barr virus, hepatitis B, mumps.|
 |Fungal Infections|Coccidioidomycosis, histoplasmosis, blastomycosis, sporotrichosis, Trichophyton mentagrophytes.|
 |Pharmacologic Agents|Cephalosporins, penicillins, macrolides, sulfonamides, bromides, estrogen-containing oral contraceptives.|
-|Inflammatory And Autoimmune|Inflammatory bowel disease, ulcerative colitis, systemic lupus erythematosus, Behçet syndrome, severe acne, celiac disease, Sweet syndrome.|
+|Inflammatory And Autoimmune|Inflammatory bowel disease, ulcerative colitis, systemic lupus erythematosus, Behçet syndrome, severe acne, [[Gastrointestinal/Celiac disease\|celiac disease]], Sweet syndrome.|
 |Malignancy|Hodgkin disease, lymphoma.|
 
 ## Clinical Manifestations

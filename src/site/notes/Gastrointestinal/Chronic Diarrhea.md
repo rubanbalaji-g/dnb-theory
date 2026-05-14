@@ -52,8 +52,8 @@
 | Age Group              | Watery Diarrhea Causes                                                                                                                                                                                                         | Bloody/Inflammatory Causes                                                                                                                              | Fatty Diarrhea Causes                                                               |
 | :--------------------- | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------ | :---------------------------------------------------------------------------------- |
 | **<6 Months**          | Cow milk protein allergy<br>Lymphangiectasia<br>Post-enteritis syndrome<br>Immunodeficiency<br>Microvillus inclusion disease<br>Tufting enteropathy<br>Glucose-galactose malabsorption<br>Congenital sodium/chloride diarrhea. | Cow milk protein allergy<br>CMV colitis<br>Very early onset IBD<br>Hirschsprung enterocolitis<br>Necrotizing enterocolitis.                             | Cystic fibrosis<br>Cholestasis.                                                     |
-| **6 Months - 5 Years** | Toddler diarrhea<br>Celiac disease<br>Post-enteritis syndrome Giardiasis<br>Short bowel syndrome<br>Bacterial overgrowth.                                                                                                      | Cow milk protein allergy<br>CMV colitis<br>Hirschsprung enterocolitis<br>Pseudomembranous colitis, Ulcerative colitis<br>Crohn disease<br>Tuberculosis. | Cystic fibrosis, Chronic pancreatitis<br>Cholestasis<br>Shwachman-Diamond syndrome. |
-| **>5 Years**           | Celiac disease<br>Giardiasis<br>Lactose intolerance<br>Irritable bowel syndrome (IBS)<br>Short bowel syndrome<br>Immunodeficiency<br>Drugs.                                                                                    | Ulcerative colitis<br>Crohn disease<br>Tuberculosis<br>Pseudomembranous colitis<br>Radiation colitis.                                                   | Chronic pancreatitis<br>Cystic fibrosis, Cholestasis.                               |
+| **6 Months - 5 Years** | Toddler diarrhea<br>[[Gastrointestinal/Celiac disease\|Celiac disease]]<br>Post-enteritis syndrome Giardiasis<br>Short bowel syndrome<br>Bacterial overgrowth.                                                                                                      | Cow milk protein allergy<br>CMV colitis<br>Hirschsprung enterocolitis<br>Pseudomembranous colitis, Ulcerative colitis<br>Crohn disease<br>Tuberculosis. | Cystic fibrosis, Chronic pancreatitis<br>Cholestasis<br>Shwachman-Diamond syndrome. |
+| **>5 Years**           | [[Gastrointestinal/Celiac disease\|Celiac disease]]<br>Giardiasis<br>Lactose intolerance<br>Irritable bowel syndrome (IBS)<br>Short bowel syndrome<br>Immunodeficiency<br>Drugs.                                                                                    | Ulcerative colitis<br>Crohn disease<br>Tuberculosis<br>Pseudomembranous colitis<br>Radiation colitis.                                                   | Chronic pancreatitis<br>Cystic fibrosis, Cholestasis.                               |
 
 ### Mechanistic Classification
 
@@ -61,8 +61,8 @@
 |:--|:--|
 |**Secretory**|Cholera, toxigenic _E. coli_, VIPoma, neuroblastoma, congenital chloride diarrhea, microvillus inclusion disease, tufting enteropathy.|
 |**Osmotic**|Lactase deficiency, sucrase-isomaltase deficiency, glucose-galactose malabsorption, excessive fruit juice/sorbitol ingestion, laxative abuse.|
-|**Mucosal Invasion/Inflammatory**|_Salmonella_, _Shigella_, _Campylobacter_, _Yersinia_, Amebiasis, Crohn disease, Ulcerative colitis, Celiac disease, Autoimmune enteropathy.|
-|**Decreased Surface Area**|Short bowel syndrome, severe celiac disease, rotavirus enteritis.|
+|**Mucosal Invasion/Inflammatory**|_Salmonella_, _Shigella_, _Campylobacter_, _Yersinia_, Amebiasis, Crohn disease, Ulcerative colitis, [[Gastrointestinal/Celiac disease\|Celiac disease]], Autoimmune enteropathy.|
+|**Decreased Surface Area**|Short bowel syndrome, severe [[Gastrointestinal/Celiac disease\|celiac disease]], rotavirus enteritis.|
 |**Motility Defects**|Hyperthyroidism, chronic intestinal pseudo-obstruction, Hirschsprung disease.|
 
 ## Diagnostic Evaluation
@@ -125,11 +125,11 @@ graph TD
 ### History And Clinical Clues
 
 - **Onset:** Neonatal onset suggests congenital diarrheal disorders (CDDs) or anatomic defects.
-- **Dietary association:** Introduction of cow milk (allergy), wheat (celiac disease), fruit juices/sucrose (carbohydrate malabsorption).
+- **Dietary association:** Introduction of cow milk (allergy), wheat ([[Gastrointestinal/Celiac disease\|celiac disease]]), fruit juices/sucrose (carbohydrate malabsorption).
 - **Stool characteristics:**
     - Watery, explosive, acidic: Carbohydrate malabsorption.
     - Bulky, foul-smelling, pale, greasy: Fat malabsorption/pancreatic insufficiency.
-    - Blood/mucus: Colitis, IBD, dysentery, cow milk protein allergy.
+    - Blood/mucus: Colitis, IBD, [[Gastrointestinal/Dysentery\|dysentery]], cow milk protein allergy.
     - Undigested food particles: Toddler diarrhea.
 - **Associated symptoms:**
     - Nighttime waking to defecate: Organic etiology (IBD).
@@ -172,7 +172,7 @@ graph TD
 
 - **Breath Tests:** Hydrogen breath test for lactose/fructose/sucrose malabsorption or SIBO.
 - **Sweat Chloride Test:** Rule out cystic fibrosis.
-- **Endoscopy with Biopsy:** Esophagogastroduodenoscopy and ileocolonoscopy. Essential for celiac disease, IBD, eosinophilic gastroenteritis, autoimmune enteropathy, microvillus inclusion disease.
+- **Endoscopy with Biopsy:** Esophagogastroduodenoscopy and ileocolonoscopy. Essential for [[Gastrointestinal/Celiac disease\|celiac disease]], IBD, eosinophilic gastroenteritis, autoimmune enteropathy, microvillus inclusion disease.
     - Electron microscopy: Required for microvillus inclusion disease.
     - PAS staining: Highlights apical inclusions in microvillus inclusion disease.
 - **Radiology:** Magnetic resonance enterography (MRE) or small bowel follow-through for evaluating strictures, fistulae, malrotation.
@@ -228,7 +228,7 @@ graph TD
 - IPEX Syndrome (Immune dysregulation, Polyendocrinopathy, Enteropathy, X-linked): _FOXP3_ gene mutation. Presents with enteropathy, type 1 diabetes, severe eczema.
 - Management: Immunosuppression (corticosteroids, cyclosporine, tacrolimus, sirolimus, infliximab); TPN; hematopoietic stem cell transplant for monogenic forms (IPEX).
 
-### Celiac Disease
+### [[Gastrointestinal/Celiac disease\|Celiac Disease]]
 
 - Immune-mediated enteropathy triggered by gluten in genetically susceptible (HLA-DQ2/DQ8) individuals.
 - Presentation: Chronic diarrhea, failure to thrive, abdominal distension, muscle wasting.
@@ -280,7 +280,7 @@ graph TD
 ### Micronutrient Supplementation
 
 - Malnutrition and mucosal damage lead to profound deficits.
-- **Zinc:** Essential for mucosal repair, immune function. 10-20 mg/day for 10-14 days.
+- **Zinc:** Essential for mucosal repair, immune function. 5 mg/day for 14 days.
 - **Vitamin A:** High dose recommended for mucosal integrity.
 - **Iron:** Initiate only _after_ diarrhea resolves to prevent worsening oxidative stress and pathogen proliferation.
 - **Additional:** Folic acid, copper, magnesium, multivitamin supplementation at twice Recommended Dietary Allowance (RDA) for 2-4 weeks.

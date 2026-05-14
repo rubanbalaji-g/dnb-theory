@@ -41,7 +41,7 @@ Categorized into two distinct subtypes requiring different management approaches
 
 ### History
 
-- Underwear soiling often misinterpreted by parents as chronic diarrhea.
+- Underwear soiling often misinterpreted by parents as [[Gastrointestinal/Chronic Diarrhea\|chronic diarrhea]].
 - Retentive posturing (gluteal clenching, leg stiffening, crossing legs, hiding in corners) often mistaken for straining.
 - Associated symptoms: Abdominal pain, poor appetite, large-caliber stools obstructing toilet.
 - Concomitant enuresis or recurrent urinary tract infections (UTI) due to bladder compression.

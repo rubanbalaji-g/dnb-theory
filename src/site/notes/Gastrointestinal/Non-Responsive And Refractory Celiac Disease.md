@@ -2,7 +2,7 @@
 {"dg-publish":true,"uplink":"/gastrointestinal/gastroenterology/","uptext":"Back to Index (🍴 Gastroenterology)","permalink":"/gastrointestinal/non-responsive-and-refractory-celiac-disease/","dgPassFrontmatter":true}
 ---
 
-## Non-Responsive Celiac Disease (NRCD)
+## Non-Responsive [[Gastrointestinal/Celiac disease\|Celiac Disease]] (NRCD)
 
 ### Definition
 
@@ -20,8 +20,8 @@
 
 ### Diagnostic Evaluation
 
-- Confirm accuracy of initial celiac disease diagnosis.
-- Verify small bowel histology findings consistent with celiac disease.
+- Confirm accuracy of initial [[Gastrointestinal/Celiac disease\|celiac disease]] diagnosis.
+- Verify small bowel histology findings consistent with [[Gastrointestinal/Celiac disease\|celiac disease]].
 - Document positive endomysial antibody (EMA), tTG, or deamidated gliadin peptide (DGP) serology during clinical course.
 - Confirm presence of human leukocyte antigen (HLA)-DQ2 or HLA-DQ8.
 - Note presence of biopsy-proven dermatitis herpetiformis, strong family history, or associated autoimmune disorders.
@@ -36,7 +36,7 @@
 - Adjust diet, monitor progress.
 - Treat identified alternative etiologies for ongoing symptoms.
 
-## Refractory Celiac Disease (RCD)
+## Refractory [[Gastrointestinal/Celiac disease\|Celiac Disease]] (RCD)
 
 ### Definition And Characteristics
 
@@ -49,10 +49,12 @@
 ### Classification
 
 - Subdivided according to intraepithelial lymphocyte (IEL) phenotype.
-- **Type I RCD:** Normal IEL phenotype.
-- **Type II RCD:** Abnormal, clonal intestinal T lymphocytes.
-- Type II RCD considered low-grade intraepithelial lymphoma.
-- Type II RCD carries poor prognosis.
+- **Type I RCD**
+	- Normal IEL phenotype.
+- **Type II RCD**
+	- Abnormal, clonal intestinal T lymphocytes.
+	- considered low-grade intraepithelial lymphoma.
+	- carries poor prognosis.
 
 ### Pathophysiology And Diagnosis
 

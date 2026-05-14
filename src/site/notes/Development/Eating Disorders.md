@@ -52,7 +52,7 @@
 ### Differential Diagnosis
 
 - Clinicians must rule out medical conditions presenting with high catabolism, such as hyperthyroidism, occult chronic infections, and malignancies.
-- Malabsorption syndromes like celiac disease or inflammatory bowel disease can mimic the weight loss of EDs; however, eating in AN causes discomfort due to gastric atony rather than true malabsorption.
+- Malabsorption syndromes like [[Gastrointestinal/Celiac disease\|celiac disease]] or inflammatory bowel disease can mimic the weight loss of EDs; however, eating in AN causes discomfort due to gastric atony rather than true malabsorption.
 - Endocrine disorders such as Addison disease mimic the symptoms of restrictive AN but distinctly present with hyperkalemia and hyperpigmentation.
 - Central nervous system anomalies, including craniopharyngiomas or Rathke pouch tumors, may cause weight loss and growth failure but present with signs of increased intracranial pressure.
 - Mitochondrial neurogastrointestinal encephalomyopathy (caused by a _TYMP_ gene mutation) presents with gastrointestinal dysmotility, cachexia, and leukoencephalopathy, and is frequently misdiagnosed initially as AN.

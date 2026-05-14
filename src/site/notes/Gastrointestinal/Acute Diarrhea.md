@@ -6,7 +6,7 @@
 
 - **Acute Diarrhea:** Passage of >3 loose/watery stools daily, or stool volume >10 mL/kg/day in infants (>200 g/day in older children).
 - **Duration:** Sudden onset, resolution within 7-14 days.
-- **Dysentery:** Acute diarrhoea accompanied by visible blood and mucus, often with tenesmus and fever.
+- **[[Gastrointestinal/Dysentery\|Dysentery]]:** Acute diarrhoea accompanied by visible blood and mucus, often with tenesmus and fever.
 - **Prolonged Diarrhoea:** Episode lasting 7-13 days.
 - **Persistent Diarrhoea:** Episode extending ≥14 days.
 
@@ -21,11 +21,11 @@
 
 ### Enteric Infections
 
-|Category|Specific Pathogens|
-|:--|:--|
-|**Viral (50-80%)**|Rotavirus, Norovirus, Sapovirus, Enteric Adenovirus (types 40/41), Astrovirus, SARS-CoV-2.|
-|**Bacterial**|_Escherichia coli_ (Enterotoxigenic ETEC, Enteropathogenic EPEC, Enterohemorrhagic EHEC, Enteroinvasive EIEC, Enteroaggregative EAEC). _Shigella_ species (_S. flexneri, S. sonnei, S. dysenteriae_). _Salmonella_ (nontyphoidal). _Campylobacter jejuni_, _Yersinia enterocolitica_. _Vibrio cholerae_ (O1, O139). _Clostridioides difficile_.|
-|**Parasitic**|_Giardia lamblia_, _Cryptosporidium parvum_, _Entamoeba histolytica_, _Cyclospora_, _Isospora belli_.|
+| Category           | Specific Pathogens                                                                                                                                                                                                                                                                                                                                             |
+| :----------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Viral (50-80%)** | Rotavirus, Norovirus, Sapovirus, Enteric Adenovirus (types 40/41), Astrovirus, SARS-CoV-2.                                                                                                                                                                                                                                                                     |
+| **Bacterial**      | _Escherichia coli_ (Enterotoxigenic ETEC, Enteropathogenic EPEC, Enterohemorrhagic EHEC, Enteroinvasive EIEC, Enteroaggregative EAEC). _Shigella_ species (_S. flexneri, S. sonnei, S. dysenteriae_). <br>_Salmonella_ (nontyphoidal). <br>_Campylobacter jejuni_<br>_Yersinia enterocolitica_.<br>_Vibrio cholerae_ (O1, O139)<br>_Clostridioides difficile_. |
+| **Parasitic**      | _Giardia lamblia_, _Cryptosporidium parvum_, _Entamoeba histolytica_, _Cyclospora_, _Isospora belli_.                                                                                                                                                                                                                                                          |
 
 ### Extra-Intestinal And Non-Infectious Causes
 
@@ -52,7 +52,7 @@
 |:--|:--|:--|
 |**Secretory**|Active ion pumping into lumen by secretagogues (e.g., cholera toxin increasing cAMP/cGMP).|Massive watery volume, persists with fasting. Normal osmolar gap (<50 mOsm/kg).|
 |**Osmotic**|Unabsorbed luminal nutrients draw water osmotically.|Frothy/explosive stools, resolves with fasting. High osmolar gap (>100 mOsm/kg). Low stool pH (<5.5).|
-|**Invasive/Inflammatory**|Enterocyte destruction, mucosal ulceration, cytokine release, exudation of protein/blood (_Shigella, Campylobacter_).|Small volume, frequent stools containing gross blood, mucus, and leukocytes (Dysentery).|
+|**Invasive/Inflammatory**|Enterocyte destruction, mucosal ulceration, cytokine release, exudation of protein/blood (_Shigella, Campylobacter_).|Small volume, frequent stools containing gross blood, mucus, and leukocytes ([[Gastrointestinal/Dysentery\|Dysentery]]).|
 |**Motility Alteration**|Decreased transit time limits absorption. Delayed transit promotes bacterial overgrowth.|Variable volume, often associated with undigested food particles.|
 
 ## Clinical Assessment
@@ -94,7 +94,7 @@ Routine investigations are unnecessary for self-limiting watery diarrhoea. Testi
 
 - Age <3 months.
 - Toxic or septic appearance, shock.
-- Dysentery (gross blood/mucus).
+- [[Gastrointestinal/Dysentery\|Dysentery]] (gross blood/mucus).
 - Persistent diarrhoea (>14 days).
 - Immunocompromised state.
 - Suspected outbreaks or recent foreign travel.
@@ -121,7 +121,7 @@ Routine investigations are unnecessary for self-limiting watery diarrhoea. Testi
 
 ### 1. Rehydration Therapy
 
-Utilizes Oral Rehydration Solution (ORS). WHO low-osmolarity ORS (Sodium 75 mEq/L, Glucose 75 mmol/L, total osmolarity 245 mOsm/L) exploits the intact sodium-glucose intestinal cotransporter, significantly reducing stool output and IV fluid requirement.
+Utilizes [[Gastrointestinal/Oral Rehydration Solution\|Oral Rehydration Solution]] (ORS). WHO low-osmolarity ORS (Sodium 75 mEq/L, Glucose 75 mmol/L, total osmolarity 245 mOsm/L) exploits the intact sodium-glucose intestinal cotransporter, significantly reducing stool output and IV fluid requirement.
 
 #### Plan A: No Dehydration (Home Management)
 
@@ -185,7 +185,7 @@ Empiric antibiotics are generally **not indicated** for acute watery diarrhoea (
 
 **Specific Indications for Antibiotics:**
 
-1. **Dysentery (Bloody Diarrhoea):** Presumed _Shigella_. Intravenous Ceftriaxone (50-100 mg/kg/day for 3-5 days), oral Azithromycin (12 mg/kg day 1, 6 mg/kg days 2-3), or Ciprofloxacin.
+1. **[[Gastrointestinal/Dysentery\|Dysentery]] (Bloody Diarrhoea):** Presumed _Shigella_. Intravenous Ceftriaxone (50-100 mg/kg/day for 3-5 days), oral Azithromycin (12 mg/kg day 1, 6 mg/kg days 2-3), or Ciprofloxacin.
 2. **Cholera:** Severe dehydration with suspected cholera. Azithromycin (single dose) or Doxycycline.
 3. **Campylobacteriosis:** Severe dysenteric presentation. Azithromycin.
 4. **C. difficile Colitis:** Discontinue offending antibiotic. Oral Metronidazole (30 mg/kg/day) or Oral Vancomycin (40 mg/kg/day) for 10-14 days.

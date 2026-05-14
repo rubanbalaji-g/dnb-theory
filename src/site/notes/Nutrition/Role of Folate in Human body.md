@@ -99,7 +99,7 @@
 ### Risk Factors for Deficiency
 
 - **Increased Requirements:** Periods of rapid growth (infancy, adolescence), pregnancy, and lactation,.
-- **Malabsorption:** Celiac disease, inflammatory bowel disease, short bowel syndrome, and chronic gastrointestinal infections.
+- **Malabsorption:** [[Gastrointestinal/Celiac disease\|Celiac disease]], inflammatory bowel disease, short bowel syndrome, and chronic gastrointestinal infections.
 - **Drugs:**
     - Anticonvulsants (phenytoin, phenobarbital, carbamazepine) increase hepatic catabolism of folate,.
     - Methotrexate acts as a folate antagonist.

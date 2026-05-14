@@ -14,20 +14,20 @@
 
 - **Cystic Fibrosis (CF):** CFTR gene mutations impair apical chloride and bicarbonate transport. Secretions become acidic, dehydrated, and protein-rich, causing intraluminal plugging,. Results in acinar degeneration, fibrosis, and progressive fatty replacement,.
 - **Shwachman-Diamond Syndrome (SDS):** Characterized by extensive fatty infiltration of the pancreas without ductal involvement.
-- **Secondary Insufficiency:** Proximal small bowel mucosal inflammation (celiac disease, Crohn disease) impairs release of secretin and cholecystokinin (CCK), removing trophic stimulation for pancreatic secretion.
+- **Secondary Insufficiency:** Proximal small bowel mucosal inflammation ([[Gastrointestinal/Celiac disease\|celiac disease]], Crohn disease) impairs release of secretin and cholecystokinin (CCK), removing trophic stimulation for pancreatic secretion.
 
 ## Etiological Classification
 
 |Category|Specific Disorders|
 |:--|:--|
 |**Primary/Genetic Defects**|Cystic fibrosis (most common).Shwachman-Diamond syndrome.Johanson-Blizzard syndrome.Pearson marrow-pancreas syndrome.Isolated enzyme deficiencies (lipase, enterokinase, trypsinogen).Hereditary pancreatitis (PRSS1, SPINK1 mutations).|
-|**Secondary/Acquired Defects**|Chronic pancreatitis.Severe protein-calorie malnutrition.Celiac disease,.Inflammatory bowel disease,.Surgical resection (pancreatectomy, gastrectomy, extensive bowel resection).|
+|**Secondary/Acquired Defects**|Chronic pancreatitis.Severe protein-calorie malnutrition.[[Gastrointestinal/Celiac disease\|Celiac disease]],.Inflammatory bowel disease,.Surgical resection (pancreatectomy, gastrectomy, extensive bowel resection).|
 
 ## Clinical Features
 
 |System|Manifestations|
 |:--|:--|
-|**Gastrointestinal**|Steatorrhea (bulky, foul-smelling, oily stools).Chronic diarrhea, flatulence, abdominal bloating,.|
+|**Gastrointestinal**|Steatorrhea (bulky, foul-smelling, oily stools).[[Gastrointestinal/Chronic Diarrhea\|Chronic diarrhea]], flatulence, abdominal bloating,.|
 |**Nutritional**|Failure to thrive, poor weight gain, short stature,.Fat-soluble vitamin deficiencies (A, D, E, K),.Trace mineral deficiencies (zinc, iron, magnesium).|
 
 ## Diagnostic Evaluation

@@ -6,7 +6,7 @@
 
 ### Definition and Pathophysiology
 
-- Rare, dramatic, acute presentation of celiac disease.
+- Rare, dramatic, acute presentation of [[Gastrointestinal/Celiac disease\|celiac disease]].
 - Occurs predominantly in young children prior to formal diagnosis.
 - Autoimmune enteropathy triggered by gluten ingestion in genetically susceptible individuals expressing HLA-DQ2/DQ8 haplotypes.
 - T-cell-mediated chronic inflammatory response.
@@ -73,7 +73,7 @@
 ### Advanced Pharmacotherapy
 
 - Corticosteroids: Short course indicated for severe, refractory enteropathy or associated multiple nonpeptic duodenal ulcers.
-- Immunosuppressants: Azathioprine, 6-mercaptopurine, or cyclosporine reserved for nonresponsive or refractory celiac disease failing strict dietary elimination.
+- Immunosuppressants: Azathioprine, 6-mercaptopurine, or cyclosporine reserved for nonresponsive or refractory [[Gastrointestinal/Celiac disease\|celiac disease]] failing strict dietary elimination.
 
 ## Long-Term Monitoring
 

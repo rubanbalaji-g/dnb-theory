@@ -14,7 +14,7 @@
 ### General Clinical Features
 
 - Humoral immunodeficiencies are characterized by recurrent bacterial sinopulmonary infections, including otitis media, sinusitis, and pneumonia, typically driven by encapsulated organisms such as _Streptococcus pneumoniae_ and _Haemophilus influenzae_, as well as _Mycoplasma_ species.
-- Patients exhibit a high susceptibility to gastrointestinal pathogens, manifesting as chronic diarrhea and malabsorption caused by Enteroviruses, _Salmonella_, _Campylobacter_, _Giardia lamblia_, and norovirus.
+- Patients exhibit a high susceptibility to gastrointestinal pathogens, manifesting as [[Gastrointestinal/Chronic Diarrhea\|chronic diarrhea]] and malabsorption caused by Enteroviruses, _Salmonella_, _Campylobacter_, _Giardia lamblia_, and norovirus.
 - Physical examination may reveal a complete absence of tonsils and palpable lymph nodes, or conversely, severe lymphadenopathy and splenomegaly depending on the specific defect.
 - These defects are highly associated with autoimmune diseases, including immune thrombocytopenia, autoimmune hemolytic anemia, autoimmune neutropenia, and inflammatory bowel disease.
 
@@ -48,7 +48,7 @@
 - Combined defects present with systemic, life-threatening illnesses following vaccination with any live virus or BCG.
 - Patients display a profound susceptibility to opportunistic organisms, including _Pneumocystis jirovecii_, _Mycobacterium avium-intracellulare_, and severe, fulminant infections with common viruses like Epstein-Barr virus (EBV) and cytomegalovirus (CMV).
 - Chronic, recalcitrant oral and mucocutaneous candidiasis persisting beyond 6 months of age is a classic hallmark.
-- Affected infants typically present with profound failure to thrive, intractable chronic diarrhea, and absent lymphoid tissue, including a radiographically small or absent thymus.
+- Affected infants typically present with profound failure to thrive, intractable [[Gastrointestinal/Chronic Diarrhea\|chronic diarrhea]], and absent lymphoid tissue, including a radiographically small or absent thymus.
 
 ### Severe Combined Immunodeficiency (SCID)
 

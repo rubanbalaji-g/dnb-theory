@@ -92,7 +92,7 @@ Magnesium is a major intracellular cation, with over 80% located in bone and ske
 
 ### Role in Disease
 
-**1. Deficiency (Hypomagnesemia)** Common in Protein-Energy Malnutrition (PEM), malabsorption, and chronic diarrhea,.
+**1. Deficiency (Hypomagnesemia)** Common in Protein-Energy Malnutrition (PEM), malabsorption, and [[Gastrointestinal/Chronic Diarrhea\|chronic diarrhea]],.
 
 - **Neuromuscular Hyperexcitability:** Manifests as tetany, muscle tremors, hyperreflexia, irritability, and seizures,.
 - **Cardiovascular:** Predisposes to cardiac arrhythmias.

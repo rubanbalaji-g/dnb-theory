@@ -52,7 +52,7 @@
 |Category|Pathologies|
 |:--|:--|
 |**Nutritional**|Inadequate caloric/protein intake, malabsorption.|
-|**Gastrointestinal**|Celiac disease, Crohn disease, cystic fibrosis.|
+|**Gastrointestinal**|[[Gastrointestinal/Celiac disease\|Celiac disease]], Crohn disease, cystic fibrosis.|
 |**Renal**|Chronic kidney disease, renal tubular acidosis.|
 |**Inflammatory**|Juvenile idiopathic arthritis.|
 |**Cardiopulmonary**|Congenital heart disease, chronic hypoxemia.|

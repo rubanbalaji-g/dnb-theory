@@ -14,7 +14,7 @@
 |Category|Frequency|Pathophysiology|Key Examples|
 |:--|:--|:--|:--|
 |**Constitutional Delay of Growth & Puberty (CDGP)**|65-80%|Transient delay in Hypothalamic-Pituitary-Gonadal (HPG) axis activation.|Self-limited delayed puberty; strong family history.|
-|**Functional Hypogonadotropic Hypogonadism (FHH)**|10-20%|Transient HPG suppression secondary to underlying systemic, nutritional, or endocrine conditions.|Celiac disease, Crohn disease, anorexia nervosa, excessive exercise.|
+|**Functional Hypogonadotropic Hypogonadism (FHH)**|10-20%|Transient HPG suppression secondary to underlying systemic, nutritional, or endocrine conditions.|[[Gastrointestinal/Celiac disease\|Celiac disease]], Crohn disease, anorexia nervosa, excessive exercise.|
 |**Persistent Hypogonadotropic Hypogonadism (HH)**|~10%|Permanent gonadotropin (LH/FSH) deficiency. Hypothalamic or pituitary defect.|Kallmann syndrome, isolated HH, multiple pituitary hormone deficiency (MPHD).|
 |**Hypergonadotropic Hypogonadism**|5-10%|Primary gonadal failure. Loss of negative feedback elevates LH/FSH.|Klinefelter syndrome (47,XXY), vanishing testes, chemotherapy/radiation.|
 
@@ -31,7 +31,7 @@
 
 - **Pathogenesis:** Adaptive suppression of HPG axis to conserve energy during chronic stress or negative energy balance.
 - **Nutritional:** Anorexia nervosa, malnutrition.
-- **Systemic Illness:** Celiac disease, inflammatory bowel disease, cystic fibrosis, chronic renal failure, sickle cell anemia, thalassemia.
+- **Systemic Illness:** [[Gastrointestinal/Celiac disease\|Celiac disease]], inflammatory bowel disease, cystic fibrosis, chronic renal failure, sickle cell anemia, thalassemia.
 - **Endocrine:** Hypothyroidism, poorly controlled diabetes mellitus, hyperprolactinemia.
 - **Excessive Exercise:** Elite athletes, wrestlers ("making weight").
 ### Persistent Hypogonadotropic Hypogonadism (HH)

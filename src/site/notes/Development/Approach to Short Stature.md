@@ -17,7 +17,7 @@
 |:--|:--|
 |**Normal Variants**|Familial (genetic) short stature, Constitutional delay of growth and puberty (CDGP).|
 |**Pathological (Proportionate)**|Chronic systemic illness (cerebral palsy, congenital heart disease, cystic fibrosis, asthma, chronic kidney disease).|
-|**Pathological (Proportionate)**|Undernutrition, malabsorption syndromes (e.g., celiac disease, chronic liver disease).|
+|**Pathological (Proportionate)**|Undernutrition, malabsorption syndromes (e.g., [[Gastrointestinal/Celiac disease\|celiac disease]], chronic liver disease).|
 |**Pathological (Proportionate)**|Endocrine causes (Growth hormone deficiency or insensitivity, hypothyroidism, Cushing syndrome, poorly controlled diabetes mellitus).|
 |**Pathological (Proportionate)**|Children born small for gestational age (SGA) with inadequate catch-up growth.|
 |**Pathological (Proportionate)**|Psychosocial dwarfism (emotional deprivation).|
@@ -44,7 +44,7 @@
 |:--|:--|
 |**Low birth weight / IUGR**|Small for gestational age (SGA) without catch-up, intrauterine infections (TORCH).|
 |**Polyuria, polydipsia**|Chronic renal failure, renal tubular acidosis, diabetes insipidus.|
-|**Chronic diarrhea, greasy stools**|Malabsorption syndromes (e.g., celiac disease, cystic fibrosis).|
+|**[[Gastrointestinal/Chronic Diarrhea\|Chronic diarrhea]], greasy stools**|Malabsorption syndromes (e.g., [[Gastrointestinal/Celiac disease\|celiac disease]], cystic fibrosis).|
 |**Neonatal hypoglycemia, prolonged jaundice, micropenis**|Congenital hypopituitarism.|
 |**Headache, vomiting, visual field defects**|Pituitary or hypothalamic space-occupying lesion (e.g., craniopharyngioma).|
 |**Lethargy, constipation, cold intolerance**|Hypothyroidism.|
@@ -93,7 +93,7 @@
 |:--|:--|:--|
 |**Level 1 (Essential Screening)**|Complete blood count with ESR, Urinalysis (microscopy, osmolality, pH), Stool examination (parasites, occult blood, steatorrhea).|Screen for chronic infections, anemia, renal tubular acidosis, and malabsorption syndromes.|
 |**Level 1 (Metabolic/Bone)**|Blood urea, creatinine, electrolytes (bicarbonate, Ca, P, ALP), fasting glucose, albumin, LFTs.|Evaluate for chronic kidney disease, rickets, liver failure, and severe malnutrition.|
-|**Level 2 (Specific Endocrine & Genetic)**|Serum free T4, TSH, Celiac serology (tissue transglutaminase antibodies).|Rule out hypothyroidism and occult celiac disease.|
+|**Level 2 (Specific Endocrine & Genetic)**|Serum free T4, TSH, Celiac serology (tissue transglutaminase antibodies).|Rule out hypothyroidism and occult [[Gastrointestinal/Celiac disease\|celiac disease]].|
 |**Level 2 (Karyotype)**|Standard Karyotype (or chromosomal microarray) strictly in all females.|Rule out Turner syndrome, regardless of the presence or absence of classic dysmorphic features.|
 |**Level 3 (Advanced Endocrine)**|Serum IGF-1, IGFBP-3, Provocative growth hormone testing.|Confirm Growth Hormone Deficiency or insensitivity.|
 |**Level 3 (Imaging)**|MRI Brain (focusing on the pituitary gland and hypothalamus).|Identify anatomical defects or space-occupying lesions (e.g., craniopharyngioma) if GH deficiency is confirmed.|
@@ -103,7 +103,7 @@
 
 - The foundation of management involves identifying the specific underlying pathology, providing dietary advice to ensure adequate macro- and micronutrient intake, and counseling parents regarding expectations.
 - For normal physiological variants (Familial Short Stature and CDGP), management primarily consists of reassurance, counseling to support the child's self-esteem, and routine annual monitoring of height velocity without pharmacological intervention.
-- Undernutrition and chronic illnesses (e.g., celiac disease, renal tubular acidosis) require targeted nutritional rehabilitation and medical therapy, which typically leads to rapid catch-up growth.
+- Undernutrition and chronic illnesses (e.g., [[Gastrointestinal/Celiac disease\|celiac disease]], renal tubular acidosis) require targeted nutritional rehabilitation and medical therapy, which typically leads to rapid catch-up growth.
 - Primary hypothyroidism is treated aggressively with daily levothyroxine replacement therapy to restore linear growth and prevent developmental delay.
 - Recombinant human growth hormone (rhGH) therapy, administered via daily subcutaneous injections, is the definitive treatment for confirmed Growth Hormone Deficiency.
 - rhGH therapy is also FDA-approved and highly recommended for optimizing final adult height in several non-GH deficient conditions, including Turner syndrome, Prader-Willi syndrome, chronic kidney disease, and in children born SGA who fail to demonstrate catch-up growth by two years of age.

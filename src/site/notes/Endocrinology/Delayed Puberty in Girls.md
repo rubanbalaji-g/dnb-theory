@@ -20,7 +20,7 @@ Characterized by absent or diminished gonadotropin secretion from hypothalamic-p
 - **Constitutional Delay of Growth and Puberty (CDGP):** Extreme variant of normal pubertal timing. Strong genetic basis.
 - **Nutritional Disorders:** Malnutrition, anorexia nervosa, bulimia, undernutrition.
 - **Exercise-Induced:** Athletic amenorrhea (excessive physical training/energy deficit).
-- **Systemic Chronic Illness:** Renal failure, liver disease, celiac disease, inflammatory bowel disease, cystic fibrosis, thalassemia, sickle cell disease, renal tubular acidosis.
+- **Systemic Chronic Illness:** Renal failure, liver disease, [[Gastrointestinal/Celiac disease\|celiac disease]], inflammatory bowel disease, cystic fibrosis, thalassemia, sickle cell disease, renal tubular acidosis.
 - **Endocrinopathies:** Hypothyroidism, hyperprolactinemia, poorly controlled Type 1 Diabetes Mellitus, Cushing syndrome.
 
 #### Permanent / Isolated (Irreversible)
@@ -169,7 +169,7 @@ Indicated for irreversible primary hypogonadism (e.g., Turner syndrome, POI) or 
 
 - **Growth Hormone (rhGH):** Initiate early (age 4-6 years) to maximize linear growth. Dose: 0.375 mg/kg/week.
 - **Oxandrolone:** Non-aromatizable androgen added if extreme short stature persists.
-- **Comorbidity Screening:** Mandatory annual surveillance for autoimmune thyroiditis (Free T4, TSH), celiac disease (tTG IgA), diabetes mellitus (HbA1c), dyslipidemia, and renal/cardiac malformations (Echocardiogram, MRI).
+- **Comorbidity Screening:** Mandatory annual surveillance for autoimmune thyroiditis (Free T4, TSH), [[Gastrointestinal/Celiac disease\|celiac disease]] (tTG IgA), diabetes mellitus (HbA1c), dyslipidemia, and renal/cardiac malformations (Echocardiogram, MRI).
 - **Auditory/ENT:** High risk of recurrent otitis media, conductive and sensorineural hearing loss. Routine audiology evaluation.
 
 #### Structural Outflow Tract Anomalies

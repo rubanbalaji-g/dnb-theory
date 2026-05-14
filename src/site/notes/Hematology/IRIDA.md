@@ -32,7 +32,7 @@
 
 ## Differential Diagnosis
 
-Before considering IRIDA, common causes of oral iron resistance must be excluded (poor adherence, ongoing gastrointestinal bleeding, underlying celiac disease).
+Before considering IRIDA, common causes of oral iron resistance must be excluded (poor adherence, ongoing gastrointestinal bleeding, underlying [[Gastrointestinal/Celiac disease\|celiac disease]]).
 
 |Differential Diagnosis|Distinguishing Features|
 |:--|:--|

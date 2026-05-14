@@ -37,7 +37,7 @@
 |:--|:--|
 |General|Fever, chills, malaise, fatigue, anorexia, weight loss.|
 |Abdominal|Right upper quadrant pain, tender hepatomegaly. Jaundice remains uncommon.|
-|Specific To Amebic|Right shoulder radiation. Epigastric/left shoulder pain in left lobe disease. Concurrent dysentery (10%). Localized swelling.|
+|Specific To Amebic|Right shoulder radiation. Epigastric/left shoulder pain in left lobe disease. Concurrent [[Gastrointestinal/Dysentery\|dysentery]] (10%). Localized swelling.|
 |Complications|Spontaneous rupture into peritoneum, pericardium, pleura, bronchial tree. Metastatic spread to lungs/brain.|
 
 ## Diagnostic Evaluation

@@ -28,7 +28,7 @@
 - Classic infantile galactosemia causes zonular cataracts with haziness of perinuclear layers.
 - Galactose-1-phosphate uridyltransferase deficiency drives oil droplet cataract formation.
 - Early dietary intervention with galactose-free diet reverses early lens changes.
-- Cerebrotendinous xanthomatosis causes childhood cataracts alongside chronic diarrhea and neurologic impairment.
+- Cerebrotendinous xanthomatosis causes childhood cataracts alongside [[Gastrointestinal/Chronic Diarrhea\|chronic diarrhea]] and neurologic impairment.
 - Prompt treatment with chenodeoxycholic acid prevents permanent neurologic decline.
 
 ### Developmental Variants

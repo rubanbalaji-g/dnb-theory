@@ -93,7 +93,7 @@
 - In low-resource settings, persistent or recurrent diarrhea and respiratory tract infections are common causes of growth impairment and stunting.
 - The risk of stunting increases significantly with each episode of diarrhea before two years of age, with an attributable risk of 25% for five or more bouts.
 - Systemic infections (malaria, HIV, parasitic infestations) and central nervous system infections (meningitis, encephalitis) severely retard growth velocity and cause permanent cognitive deficits.
-- Chronic systemic illnesses, such as celiac disease, chronic liver disease, and congenital heart disease, manifest as pathological short stature due to malabsorption and increased metabolic demand.
+- Chronic systemic illnesses, such as [[Gastrointestinal/Celiac disease\|celiac disease]], chronic liver disease, and congenital heart disease, manifest as pathological short stature due to malabsorption and increased metabolic demand.
 
 ### Trauma
 

@@ -31,7 +31,7 @@ Girls presenting with acquired hypothyroidism warrant screening for comorbid chr
 	- Trisomy 21 (15-20% incidence).
 - **Autoimmune:** 
 	- Type 1 Diabetes Mellitus, 
-	- Celiac disease, 
+	- [[Gastrointestinal/Celiac disease\|Celiac disease]], 
 	- Vitiligo, 
 	- Alopecia, 
 	- Autoimmune Polyglandular Syndromes (APS Type 1 and Type 2).

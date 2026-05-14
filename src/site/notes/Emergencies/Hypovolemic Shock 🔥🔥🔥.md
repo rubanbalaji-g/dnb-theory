@@ -57,7 +57,7 @@
 - In conditions of overt fluid loss (such as severe diarrhea and dehydration), the World Health Organization (WHO) guidelines for the management of severe dehydration must be initiated.
 - For shock caused by excessive vomiting or diarrhea, after every fluid bolus, the child must be assessed for clinical response and signs of fluid overload; boluses totaling 60 ml/kg or more may be necessary with careful monitoring.
 - Further ongoing losses must be meticulously replaced volume-by-volume.
-- The primary cause of the hypovolemia must be addressed simultaneously, such as administering antiemetics for vomiting or providing low osmolality ORS and specific antibiotics for infectious diarrhea (e.g., cholera or dysentery).
+- The primary cause of the hypovolemia must be addressed simultaneously, such as administering antiemetics for vomiting or providing low osmolality ORS and specific antibiotics for infectious diarrhea (e.g., cholera or [[Gastrointestinal/Dysentery\|dysentery]]).
 
 ### Management of Hemorrhagic Shock
 

@@ -17,7 +17,7 @@
 |:--|:--|
 |**Inadequate Intake**|Unfortified goat milk feeding, severe malnutrition (marasmus, kwashiorkor), delayed weaning, prolonged heating/boiling of food.|
 |**Increased Demand**|Rapid growth (prematurity, infancy, pregnancy), chronic hemolytic anemia (sickle cell, thalassemia, pyruvate kinase deficiency), hypermetabolic states (infections, hyperthyroidism), extensive skin disease (psoriasis).|
-|**Defective Absorption**|Celiac disease, tropical sprue, inflammatory bowel disease, chronic diarrheal states, jejunal resection, enteroenteric fistulas.|
+|**Defective Absorption**|[[Gastrointestinal/Celiac disease\|Celiac disease]], tropical sprue, inflammatory bowel disease, chronic diarrheal states, jejunal resection, enteroenteric fistulas.|
 |**Drug-Induced**|Folate antagonists (methotrexate, pyrimethamine, trimethoprim, pentamidine), anticonvulsants (phenytoin, phenobarbital), oral contraceptives, sulfasalazine.|
 |**Genetic/Metabolic**|Hereditary folate malabsorption (mutations in proton-coupled folate transporter _SLC46A1_), methylenetetrahydrofolate reductase (MTHFR) deficiency, glutamate formiminotransferase deficiency.|
 
@@ -26,7 +26,7 @@
 - Insidious onset.
 - Pallor, lethargy, weakness, easy fatigability.
 - Irritability, anorexia, poor weight gain, failure to thrive.
-- Gastrointestinal: Chronic diarrhea, sore red tongue, glossitis, angular stomatitis.
+- Gastrointestinal: [[Gastrointestinal/Chronic Diarrhea\|Chronic diarrhea]], sore red tongue, glossitis, angular stomatitis.
 - Hemorrhagic manifestations (petechiae) secondary to severe thrombocytopenia in advanced cases.
 - Maternal deficiency associated with fetal neural tube defects, prematurity, and low birth weight.
 

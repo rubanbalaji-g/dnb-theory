@@ -33,7 +33,7 @@
 - Chronic severe or nocturnal diarrhea.
 - Persistent right upper or right lower quadrant pain.
 - Unexplained fever, arthritis, spinal tenderness, perianal disease.
-- Family history of inflammatory bowel disease, celiac disease, or peptic ulcer disease.
+- Family history of inflammatory bowel disease, [[Gastrointestinal/Celiac disease\|celiac disease]], or peptic ulcer disease.
 - Pain awakening child from sleep.
 
 ## Investigation Plan

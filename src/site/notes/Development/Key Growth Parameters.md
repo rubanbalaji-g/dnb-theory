@@ -38,7 +38,7 @@
 |**Physiological / Normal Variants**|Familial short stature, Constitutional growth delay.|
 |**Undernutrition**|Chronic protein-energy malnutrition, inadequate dietary intake.|
 |**Chronic Systemic Illnesses**|Cerebral palsy, congenital heart disease, cystic fibrosis, asthma.|
-|**Malabsorption / GI Disorders**|Celiac disease, chronic liver disease, chronic diarrhea.|
+|**Malabsorption / GI Disorders**|[[Gastrointestinal/Celiac disease\|Celiac disease]], chronic liver disease, [[Gastrointestinal/Chronic Diarrhea\|chronic diarrhea]].|
 |**Endocrine Causes**|Growth hormone (GH) deficiency or insensitivity, hypothyroidism, Cushing syndrome, pseudohypoparathyroidism, precocious or delayed puberty.|
 |**Genetic / Chromosomal Syndromes**|Turner syndrome, Down syndrome, Prader-Willi syndrome, Russell-Silver syndrome, Seckel syndrome.|
 |**Skeletal Dysplasias**|Achondroplasia, hypochondroplasia (abnormal skeletal proportions).|
@@ -49,7 +49,7 @@
 ### Initial Clinical Assessment
 
 - A comprehensive clinical schedule begins with a meticulously detailed medical, developmental, and family history.
-- The history must screen for clues such as low birth weight (suggesting SGA), polyuria (suggesting renal tubular acidosis), chronic diarrhea (suggesting malabsorption), or a family history of delayed puberty (suggesting constitutional delay).
+- The history must screen for clues such as low birth weight (suggesting SGA), polyuria (suggesting renal tubular acidosis), [[Gastrointestinal/Chronic Diarrhea\|chronic diarrhea]] (suggesting malabsorption), or a family history of delayed puberty (suggesting constitutional delay).
 - The physical examination should assess body proportions (Upper Segment:Lower Segment ratio and arm span) to rule out skeletal dysplasias, and look for dysmorphism, pallor, goiter, central obesity, or signs of rickets.
 - Height should be accurately measured using an infantometer (for children <2 years) or a stadiometer (for children >2 years) and plotted on appropriate growth charts to calculate height velocity and compare it against the mid-parental height (genetic potential).
 

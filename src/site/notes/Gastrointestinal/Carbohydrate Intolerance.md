@@ -3,7 +3,6 @@
 ---
 
 ## Pathophysiology
-
 - Normal carbohydrate digestion requires intact small intestinal brush border disaccharidases (lactase, sucrase-isomaltase) and specific transporters (SGLT1, GLUT5).
 - Enzyme or transporter deficiency leaves unabsorbed carbohydrates in intestinal lumen.
 - Unabsorbed sugars pass into large bowel.
@@ -12,7 +11,6 @@
 - Retained intraluminal water causes osmotic diarrhea; gas causes distension.
 
 ## Clinical Features
-
 - Explosive, watery diarrhea.
 - Frothy, bulky stools.
 - Severe perianal excoriation.
@@ -22,18 +20,18 @@
 
 ## Etiological Classification
 
-|Category|Specific Disorders|Pathogenesis|
-|:--|:--|:--|
-|Primary/Congenital|Congenital lactase deficiency|Rare autosomal recessive defect; severe diarrhea at birth.|
-||Congenital sucrase-isomaltase deficiency|Autosomal recessive _SI_ gene mutation; symptoms upon sucrose/polymer introduction.|
-||Glucose-galactose malabsorption|Autosomal recessive _SLC5A1_ mutation; severe neonatal osmotic diarrhea.|
-||Primary hypolactasia (Adult-type)|Gradual age-related loss of lactase activity; common globally.|
-||Fructose malabsorption|Reduced GLUT-5 transporter abundance; common with excessive fruit juice intake.|
-|Secondary/Acquired|Post-infectious enteropathy|Acute gastroenteritis causes mucosal damage.|
-||Celiac disease|Villous atrophy reduces absorptive surface and brush border enzymes.|
-||Cow milk protein allergy|Immune-mediated mucosal injury.|
-||Small intestinal bacterial overgrowth|Bacterial fermentation in proximal small bowel.|
-||Malnutrition|Reduced brush border disaccharidases.|
+| Category           | Specific Disorders                       | Pathogenesis                                                                        |
+| :----------------- | :--------------------------------------- | :---------------------------------------------------------------------------------- |
+| Primary/Congenital | Congenital lactase deficiency            | Rare autosomal recessive defect; severe diarrhea at birth.                          |
+|                    | Congenital sucrase-isomaltase deficiency | Autosomal recessive _SI_ gene mutation; symptoms upon sucrose/polymer introduction. |
+|                    | Glucose-galactose malabsorption          | Autosomal recessive _SLC5A1_ mutation; severe neonatal osmotic diarrhea.            |
+|                    | Primary hypolactasia (Adult-type)        | Gradual age-related loss of lactase activity; common globally.                      |
+|                    | Fructose malabsorption                   | Reduced GLUT-5 transporter abundance; common with excessive fruit juice intake.     |
+| Secondary/Acquired | Post-infectious enteropathy              | Acute gastroenteritis causes mucosal damage.                                        |
+|                    | [[Gastrointestinal/Celiac disease\|Celiac disease]]                       | Villous atrophy reduces absorptive surface and brush border enzymes.                |
+|                    | Cow milk protein allergy                 | Immune-mediated mucosal injury.                                                     |
+|                    | Small intestinal bacterial overgrowth    | Bacterial fermentation in proximal small bowel.                                     |
+|                    | Malnutrition                             | Reduced brush border disaccharidases.                                               |
 
 ## Diagnostic Evaluation
 
@@ -47,9 +45,7 @@
 |Genetic testing|Identifies mutations (e.g., _SLC5A1_ for glucose-galactose malabsorption, _SI_ for sucrase-isomaltase deficiency).|
 
 ## Management Of Specific Disorders
-
 ### Lactose Intolerance
-
 - Implement low-lactose or lactose-free diet.
 - Utilize lactase enzyme supplements.
 - Provide alternative calcium sources to meet dietary targets.

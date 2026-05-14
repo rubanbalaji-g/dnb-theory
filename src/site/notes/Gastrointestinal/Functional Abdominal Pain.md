@@ -37,7 +37,7 @@ Absence of alarm signs permits symptom-based diagnosis without extensive invasiv
 |**Systemic/Growth**|Involuntary weight loss, linear growth deceleration, delayed puberty, unexplained fever.|
 |**Gastrointestinal**|Gastrointestinal blood loss (hematochezia, occult), severe chronic or nocturnal diarrhea, dysphagia, persistent vomiting.|
 |**Pain Characteristics**|Pain awakening child from sleep, persistent right upper or right lower quadrant pain, radiation to back/shoulder.|
-|**Physical/Family History**|Perianal fistulae/tags, arthritis, hepatosplenomegaly, family history of inflammatory bowel disease or celiac disease.|
+|**Physical/Family History**|Perianal fistulae/tags, arthritis, hepatosplenomegaly, family history of inflammatory bowel disease or [[Gastrointestinal/Celiac disease\|celiac disease]].|
 
 ### Directed Investigations
 

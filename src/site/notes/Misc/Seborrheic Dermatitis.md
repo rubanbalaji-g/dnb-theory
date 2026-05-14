@@ -23,7 +23,7 @@
 - Lesions frequently expand to involve face, neck, retroauricular areas, axillae, umbilicus, and diaper area.
 - Cutaneous lesions generally remain nonpruritic in infants.
 - Postinflammatory pigmentary changes (hypopigmentation) commonly observed in darker skin tones.
-- Intractable seborrhea-like dermatitis associated with chronic diarrhea and failure to thrive mandates urgent evaluation for systemic immune dysfunction.
+- Intractable seborrhea-like dermatitis associated with [[Gastrointestinal/Chronic Diarrhea\|chronic diarrhea]] and failure to thrive mandates urgent evaluation for systemic immune dysfunction.
 - Chronic treatment-resistant pattern occasionally indicates underlying Langerhans cell histiocytosis.
 
 ### Adolescent Seborrheic Dermatitis

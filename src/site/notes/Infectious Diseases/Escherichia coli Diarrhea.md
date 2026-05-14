@@ -11,7 +11,7 @@ Diarrheagenic *E. coli* are classified into six major pathotypes based on their 
 1.  **Enterotoxigenic *E. coli* (ETEC):** Major cause of traveler's diarrhea and infant diarrhea in developing nations.
 2.  **Enteropathogenic *E. coli* (EPEC):** Associated with acute and persistent diarrhea in infants (<2 years).
 3.  **Shiga toxin-producing *E. coli* (STEC):** Also known as Enterohemorrhagic *E. coli* (EHEC). Associated with hemorrhagic colitis and Hemolytic Uremic Syndrome (HUS).
-4.  **Enteroinvasive *E. coli* (EIEC):** Closely resembles *Shigella*; causes dysentery.
+4.  **Enteroinvasive *E. coli* (EIEC):** Closely resembles *Shigella*; causes [[Gastrointestinal/Dysentery\|dysentery]].
 5.  **Enteroaggregative *E. coli* (EAEC):** Associated with persistent diarrhea and growth retardation.
 6.  **Diffusely Adherent *E. coli* (DAEC):** Associated with prolonged watery diarrhea in young children.
 
@@ -49,7 +49,7 @@ The incubation period and clinical presentation vary by pathotype (Table 1).
 | **ETEC** | Watery diarrhea | Non-bloody, non-mucoid | Absent or Low | Traveler's diarrhea; explosive onset; self-limiting (3-5 days). |
 | **EPEC** | Watery diarrhea | Non-bloody | Low-grade | Vomiting common; risk of persistent diarrhea and malnutrition in infants <2 years. |
 | **STEC** | Hemorrhagic Colitis | **Bloody**, becoming copious | **Absent** | Severe abdominal cramps; **HUS** (triad of anemia, thrombocytopenia, renal failure) occurs in 5-10%. |
-| **EIEC** | Dysentery | Blood, mucus, leukocytes | **Present** | Urgency, tenesmus, cramping; clinically indistinguishable from Shigellosis. |
+| **EIEC** | [[Gastrointestinal/Dysentery\|Dysentery]] | Blood, mucus, leukocytes | **Present** | Urgency, tenesmus, cramping; clinically indistinguishable from Shigellosis. |
 | **EAEC** | Watery/Mucoid | Mucoid, rarely bloody | Low-grade | Persistent diarrhea (>14 days); failure to thrive. |
 
 ## 5. Diagnosis
@@ -73,7 +73,7 @@ Routine stool cultures do not distinguish DEC pathotypes from normal flora. Spec
 ### A. Fluid and Electrolyte Therapy
 The cornerstone of management is rehydration.
 *   **Assessment:** Rapidly assess dehydration status.
-*   **Oral Rehydration Solution (ORS):** WHO-ORS is the treatment of choice for mild to moderate dehydration.
+*   **[[Gastrointestinal/Oral Rehydration Solution\|Oral Rehydration Solution]] (ORS):** WHO-ORS is the treatment of choice for mild to moderate dehydration.
 *   **Intravenous Fluids:** Ringer's lactate or Normal Saline is indicated for severe dehydration or shock.
 *   **Nutrition:** Early refeeding (breastfeeding, formula, solids) prevents malnutrition. Zinc supplementation (20 mg/day for 14 days; 10 mg if <6 months) is recommended.
 

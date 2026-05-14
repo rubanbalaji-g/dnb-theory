@@ -30,9 +30,9 @@
 1. [[Gastrointestinal/Acute Diarrhea\|Acute Diarrhea]]
 2. [[Gastrointestinal/Chronic Diarrhea\|Chronic Diarrhea]]
 3. [[Gastrointestinal/Dysentery\|Dysentery]]
-4. [[Gastrointestinal/Antibiotic Associated Diarrhoea\|Antibiotic Associated Diarrhoea]]
-5. [[Gastrointestinal/Oral Rehydration Solutions\|Oral Rehydration Solutions]]
-6. [[Gastrointestinal/Role Of Antisecretory Agents In Diarrhea\|Role Of Antisecretory Agents In Diarrhea]]
+4. [[Gastrointestinal/Antibiotic Associated Diarrhea\|Antibiotic Associated Diarrhea]]
+5. [[Gastrointestinal/Oral Rehydration Solution\|Oral Rehydration Solution]]
+6. [[Gastrointestinal/Antisecretory Agents\|Antisecretory Agents]]
 ## Nutrition and Malabsorption
 1. [[Gastrointestinal/Approach to a child with Malnutrition\|Approach to a child with Malnutrition]]
 2. [[Gastrointestinal/Carbohydrate Intolerance\|Carbohydrate Intolerance]]

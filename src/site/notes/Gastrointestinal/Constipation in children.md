@@ -26,7 +26,7 @@ Diagnosis requires symptom duration of at least 1 month.
 |:--|:--|
 |**Anatomical**|Anorectal malformations, imperforate anus, anal stenosis, intestinal obstruction.|
 |**Neurogenic**|Hirschsprung disease, spinal cord abnormalities (tethered cord, spina bifida), pseudo-obstruction, neuronal intestinal dysplasia.|
-|**Endocrine/Metabolic**|Hypothyroidism, cystic fibrosis, celiac disease, hypokalemia, hypercalcemia, diabetes mellitus.|
+|**Endocrine/Metabolic**|Hypothyroidism, cystic fibrosis, [[Gastrointestinal/Celiac disease\|celiac disease]], hypokalemia, hypercalcemia, diabetes mellitus.|
 |**Medications/Toxins**|Opiates, anticholinergics, antidepressants, chemotherapy, lead toxicity.|
 
 ### Risk Factors for Functional Constipation

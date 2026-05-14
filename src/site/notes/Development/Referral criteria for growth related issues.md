@@ -7,7 +7,7 @@
 - Plotting growth parameters on standardized charts is essential for monitoring a child's trajectory, and significant deviations indicate a need for further evaluation or referral.
 - A child's growth curve crossing a major z-score line or two major centile lines warrants immediate investigation.
 - A sharp incline or decline in the child's established growth curve serves as a significant clinical red flag.
-- A growth curve that remains entirely flat or stagnant (e.g., an abnormal stagnation of weight) is highly suggestive of underlying pathology such as recurrent infections, celiac disease, or chronic malnutrition, and requires further specialist workup.
+- A growth curve that remains entirely flat or stagnant (e.g., an abnormal stagnation of weight) is highly suggestive of underlying pathology such as recurrent infections, [[Gastrointestinal/Celiac disease\|celiac disease]], or chronic malnutrition, and requires further specialist workup.
 
 ## Specific Referral Criteria by Growth Condition
 

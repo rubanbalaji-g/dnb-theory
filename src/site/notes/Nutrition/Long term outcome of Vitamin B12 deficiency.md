@@ -103,7 +103,7 @@
 
 ### Malabsorption Syndromes
 
-- Children with surgical causes of deficiency (e.g., ileal resection), Crohn's disease, or celiac disease require lifelong monitoring.
+- Children with surgical causes of deficiency (e.g., ileal resection), Crohn's disease, or [[Gastrointestinal/Celiac disease\|celiac disease]] require lifelong monitoring.
 - The long-term outcome involves a risk of recurrent deficiency if replacement therapy is not maintained indefinitely.
 - These children are also at risk for other micronutrient deficiencies (iron, folate, fat-soluble vitamins) that can compound long-term growth and developmental issues.
 

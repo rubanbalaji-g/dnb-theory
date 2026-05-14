@@ -28,7 +28,7 @@ The clinical presentation involves a recognizable pattern of dysmorphic features
 |:--|:--|
 |**Craniofacial**|Flat facial profile, upslanting palpebral fissures, epicanthic folds, Brushfield spots, flat nasal bridge, small ears, protruding tongue, short neck with excess nuchal skin.|
 |**Cardiovascular**|Present in 40-50% of patients. Atrioventricular septal defect (AVSD) is the most common, followed by ventricular septal defect (VSD), patent ductus arteriosus (PDA), and tetralogy of Fallot.|
-|**Gastrointestinal**|Present in 10-15% of patients. Duodenal atresia, Hirschsprung disease, annular pancreas, and celiac disease.|
+|**Gastrointestinal**|Present in 10-15% of patients. Duodenal atresia, Hirschsprung disease, annular pancreas, and [[Gastrointestinal/Celiac disease\|celiac disease]].|
 |**Neurological**|Mild to moderate intellectual disability (IQ 35-70), delayed speech, hypotonia, early-onset Alzheimer disease pathology by age 40, and seizures.|
 |**Musculoskeletal**|Single transverse palmar crease, clinodactyly, sandal-gap toe, brachydactyly, generalized joint laxity, and atlantoaxial instability.|
 |**Endocrine**|Congenital hypothyroidism, obesity in adolescence, and type 1 diabetes mellitus.|
@@ -49,7 +49,7 @@ The clinical presentation involves a recognizable pattern of dysmorphic features
 
 - **Early Intervention:** Implementation of physiotherapy, occupational therapy, and speech therapy starting in infancy maximizes functional independence.
 - **Surgical Care:** Early surgical correction of major cardiac anomalies, such as AVSD repair by 3 to 6 months of age, significantly improves survival.
-- **Medical Therapy:** Prompt initiation of levothyroxine for hypothyroidism and specialized dietary management for celiac disease.
+- **Medical Therapy:** Prompt initiation of levothyroxine for hypothyroidism and specialized dietary management for [[Gastrointestinal/Celiac disease\|celiac disease]].
 - **Growth Monitoring:** Regular plotting of parameters on specific Down syndrome growth charts to manage failure to thrive in infancy and obesity in adolescence.
 
 ## Genetic Counselling and Recurrence Risk

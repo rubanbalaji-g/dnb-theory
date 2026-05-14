@@ -79,7 +79,7 @@
 - Mucosal and ocular manifestations present as severe sicca syndrome, oral lichen planus, depapillation of the tongue, xerostomia, decreased tearing, scarring conjunctivitis, and keratopathy,.
 - Hepatic chronic GVHD mimics primary biliary cirrhosis, presenting with elevated transaminases, cholestasis, hepatomegaly, and progressive cirrhosis.
 - Pulmonary involvement is life-threatening and typically presents as progressive bronchiolitis obliterans, chronic cough, dyspnea, wheezing, and pulmonary fibrosis.
-- Gastrointestinal and systemic symptoms include failure to thrive, malabsorption, chronic diarrhea, esophageal strictures, and profound immunodeficiency predisposing to recurrent infections,.
+- Gastrointestinal and systemic symptoms include failure to thrive, malabsorption, [[Gastrointestinal/Chronic Diarrhea\|chronic diarrhea]], esophageal strictures, and profound immunodeficiency predisposing to recurrent infections,.
 - Hematologic manifestations may include thrombocytopenia, eosinophilia, and the presence of Howell-Jolly bodies indicative of splenic dysfunction.
 
 ### Treatment and Complications

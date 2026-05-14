@@ -96,7 +96,7 @@
 
 - **Clinical Manifestations:**
     
-    - **Disseminated Disease:** Fever, night sweats, weight loss, failure to thrive, severe anemia, neutropenia, and chronic diarrhea.
+    - **Disseminated Disease:** Fever, night sweats, weight loss, failure to thrive, severe anemia, neutropenia, and [[Gastrointestinal/Chronic Diarrhea\|chronic diarrhea]].
     - **Organ Involvement:** Generalized lymphadenopathy, hepatosplenomegaly, and abdominal pain (mesenteric adenitis).
 
 - **Diagnosis:**
@@ -191,7 +191,7 @@
     - Protozoan _Cryptosporidium_ causes self-limited diarrhea in healthy hosts but severe, chronic, watery diarrhea (cholera-like) in HIV-infected children with low CD4,.
     - Can cause biliary tract disease (sclerosing cholangitis).
     - **Treatment:** Nitazoxanide (partial efficacy); Immune reconstitution with ART is key.
-- **Isosporiasis:** Causes chronic diarrhea; treatable with TMP-SMX.
+- **Isosporiasis:** Causes [[Gastrointestinal/Chronic Diarrhea\|chronic diarrhea]]; treatable with TMP-SMX.
 - **Toxoplasmosis (CNS):**
     - Reactivation of _Toxoplasma gondii_.
     - **Clinical:** Encephalitis with focal signs, seizures, headache,.

@@ -58,7 +58,7 @@ While many micronutrients are essential, specific deficiencies are highlighted f
     - Essential for growth; deficiency causes stunting and hypogonadism,.
     - Impaired immunity leads to increased susceptibility to diarrhea and pneumonia,.
 - **Clinical:** Acrodermatitis enteropathica (periorificial dermatitis), alopecia, and loss of taste (hypogeusia),.
-- **Context:** Often seen in association with PEM and chronic diarrhea.
+- **Context:** Often seen in association with PEM and [[Gastrointestinal/Chronic Diarrhea\|chronic diarrhea]].
 
 ### 5. Folate and Vitamin B12 Deficiency
 

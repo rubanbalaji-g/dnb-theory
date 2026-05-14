@@ -15,7 +15,7 @@
 - **Permeability:** Gliadin enhances paracellular permeability (zonulin-mediated pathway), crossing intestinal epithelium into lamina propria.
 - **Deamidation:** Tissue transglutaminase 2 (tTG) deamidates gliadin peptides.
 - **Antigen Presentation:** Deamidated peptides exhibit high affinity for HLA-DQ2 or HLA-DQ8 molecules on antigen-presenting dendritic cells.
-- **Immune Activation:** Presentation to CD4+ T-cells drives TH1-predominant cytokine response (Interferon-gamma, IL-15, IL-21).
+- **Immune Activation:** Presentation to CD4+ T-cells drives TH1-predominant cytokine response (Interferon-ɣ, IL-15, IL-21).
 - **Mucosal Damage:** Cascade results in intraepithelial lymphocytosis, crypt hyperplasia, and villous atrophy.
 - **Autoantibody Production:** B-cells produce celiac-specific antibodies: anti-tTG, anti-endomysial (EMA), and anti-deamidated gliadin peptide (DGP).
 
@@ -41,13 +41,13 @@ Spectrum ranges from severe malabsorption to asymptomatic.
 
 |Classification|Clinical Features & Nuances|
 |:--|:--|
-|**Classic (Malabsorptive)**|Early onset (9–24 months). Chronic diarrhea, weight loss, failure to thrive, abdominal distension, muscle wasting, anorexia, irritability, vomiting.|
+|**Classic (Malabsorptive)**|Early onset (9–24 months). [[Gastrointestinal/Chronic Diarrhea\|Chronic diarrhea]], weight loss, failure to thrive, abdominal distension, muscle wasting, anorexia, irritability, vomiting.|
 |**Nonclassic (Extra-intestinal)**|Later childhood/adolescence presentation. Short stature, delayed puberty, refractory iron deficiency anemia, dental enamel hypoplasia, recurrent aphthous stomatitis, osteoporosis, dermatitis herpetiformis, hypertransaminasemia, arthritis, alopecia areata.|
 |**Subclinical / Silent**|No apparent signs/symptoms triggering evaluation; diagnosed via screening of high-risk groups (positive serology & histology).|
 |**Potential**|Positive celiac serology; normal small intestinal mucosa. May or may not develop enteropathy later.|
 |**Refractory**|Persistent/recurrent malabsorptive symptoms and villous atrophy despite strict gluten-free diet >12 months. Rare in children.|
 
-### Celiac Crisis
+### [[Gastrointestinal/Celiac Crisis\|Celiac Crisis]]
 
 - Rare, acute, life-threatening presentation.
 - Explosive diarrhea, profound hypoproteinemia, metabolic acidosis, severe dehydration, lethargy.
@@ -59,7 +59,7 @@ Testing mandates concurrent gluten-containing diet.
 ### 1. Serological Testing
 
 - **First-line Screen:** Tissue transglutaminase (tTG) IgA + Total Serum IgA.
-    - _Note:_ Total IgA excludes Selective IgA Deficiency (2% of celiac patients).
+> [!red] _Note:_ Total IgA excludes Selective IgA Deficiency (2% of celiac patients).
 - **IgA Deficient Patients:** Evaluate using IgG-based assays (IgG tTG, IgG DGP, or IgG EMA).
 - **Anti-Endomysial Antibody (EMA) IgA:** High specificity; observer-dependent immunofluorescence assay. Used as confirmatory test.
 - **Deamidated Gliadin Peptide (DGP):** Useful adjunct, especially IgG DGP in IgA-deficient patients or children <2 years old.
@@ -82,14 +82,14 @@ Gold standard when no-biopsy criteria unmet (tTG-IgA <10x ULN).
 
 #### Modified Marsh-Oberhuber Histological Classification
 
-|Stage|Description|Histological Findings|
-|:--|:--|:--|
-|**Type 0**|Pre-infiltrative|Normal mucosa.|
-|**Type 1**|Infiltrative|Normal villous architecture; Increased intraepithelial lymphocytes (IELs >30/100 enterocytes).|
-|**Type 2**|Hyperplastic|Increased IELs + Crypt hyperplasia.|
-|**Type 3a**|Destructive (Mild)|Increased IELs + Crypt hyperplasia + Mild villous atrophy.|
-|**Type 3b**|Destructive (Moderate)|Increased IELs + Crypt hyperplasia + Marked villous atrophy.|
-|**Type 3c**|Destructive (Severe)|Increased IELs + Crypt hyperplasia + Total flattening of villi.|
+| Stage       | Description            | Histological Findings                                                                              |
+| :---------- | :--------------------- | :------------------------------------------------------------------------------------------------- |
+| **Type 0**  | Pre-infiltrative       | Normal mucosa.                                                                                     |
+| **Type 1**  | Infiltrative           | Normal villous architecture; <br>Increased intraepithelial lymphocytes (IELs >30/100 enterocytes). |
+| **Type 2**  | Hyperplastic           | Increased IELs + Crypt hyperplasia.                                                                |
+| **Type 3a** | Destructive (Mild)     | Increased IELs + Crypt hyperplasia + Mild villous atrophy.                                         |
+| **Type 3b** | Destructive (Moderate) | Increased IELs + Crypt hyperplasia + Marked villous atrophy.                                       |
+| **Type 3c** | Destructive (Severe)   | Increased IELs + Crypt hyperplasia + Total flattening of villi.                                    |
 
 ### 4. Genetic Testing (HLA DQ2/DQ8)
 
@@ -118,7 +118,7 @@ Strict, lifelong elimination of gluten remains the sole medical therapy.
 ### 2. Nutritional Rehabilitation
 
 - Screen for and treat micronutrient deficiencies: Iron, Folate, Vitamin D, Calcium, Vitamin B12.
-- Lactose Avoidance: Transient secondary lactase deficiency common at diagnosis due to villous brush-border damage. Implement low-lactose diet temporarily.
+> [!green] _Lactose Avoidance_ Transient secondary lactase deficiency common at diagnosis due to villous brush-border damage. Implement low-lactose diet temporarily.
 - Assess bone health (DEXA scan) if classical severe malabsorptive symptoms present.
 
 ### 3. NIH "CELIAC" Mnemonic for Management

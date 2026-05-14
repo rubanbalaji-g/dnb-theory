@@ -45,7 +45,7 @@
 - The following chart patterns serve as immediate red flags indicating a problem or risk of a problem:
     - A child's growth curve crossing a major z-score line or two major centile lines.
     - A sharp incline or decline in the child's growth curve.
-    - A growth curve that remains entirely flat or stagnant (e.g., an abnormal stagnation of weight highly suggestive of celiac disease, malnutrition, or recurrent infections),.
+    - A growth curve that remains entirely flat or stagnant (e.g., an abnormal stagnation of weight highly suggestive of [[Gastrointestinal/Celiac disease\|celiac disease]], malnutrition, or recurrent infections),.
 - Poor linear growth accompanied by a decreasing BMI strongly suggests a nutritional or gastrointestinal etiology, whereas poor linear growth accompanied by a robust or increasing BMI typically points to endocrinological pathologies (e.g., hypothyroidism, growth hormone deficiency, or cortisol excess).
 
 ## Differential Diagnosis Using Growth Trajectories

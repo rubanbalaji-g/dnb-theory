@@ -38,7 +38,7 @@
 
 ### Impaired Absorption and Transport
 
-- Gastrointestinal mucosal disease: Celiac disease, tropical sprue, inflammatory bowel disease.
+- Gastrointestinal mucosal disease: [[Gastrointestinal/Celiac disease\|Celiac disease]], tropical sprue, inflammatory bowel disease.
 - Gastric alterations: _Helicobacter pylori_ gastritis, antacid therapy, elevated gastric pH, gastric bypass, intestinal resection.
 - Iron-Refractory Iron-Deficiency Anemia (IRIDA): Rare autosomal recessive disorder. Pathogenic variant in _TMPRSS6_ gene (encodes matriptase-2). Abrogates hepcidin inhibition. Elevated hepcidin perpetually blocks intestinal iron absorption and macrophage iron release.
 - Genetic transport defects: Atransferrinemia (mutated _TF_ gene), aceruloplasminemia (mutated _CP_ gene).
@@ -154,11 +154,11 @@ _Note: Diagnosis of beta-thalassemia trait via elevated HbA2 may be masked by co
 
 - Bone marrow megaloblastosis reverses within days, but not applicable for isolated IDA. Reticulocyte crisis observed at 5 to 10 days post-initiation.
 - Hemoglobin concentration rises 0.25 to 0.4 g/dL/day initially. Target minimum increase of 1 g/dL at 1 month of therapy.
-- Failure to respond mandates reassessment: Evaluate compliance, inadequate dose, persistent occult hemorrhage, concurrent malabsorption (celiac disease), concurrent inflammation, incorrect diagnosis (thalassemia trait), or IRIDA.
+- Failure to respond mandates reassessment: Evaluate compliance, inadequate dose, persistent occult hemorrhage, concurrent malabsorption ([[Gastrointestinal/Celiac disease\|celiac disease]]), concurrent inflammation, incorrect diagnosis (thalassemia trait), or IRIDA.
 
 ### Parenteral Iron Therapy
 
-- Indications limited to specific clinical scenarios: Severe GI intolerance, complete non-adherence to oral regimens, malabsorption syndromes (celiac disease, inflammatory bowel disease, prior gastrectomy), ongoing rapid hemorrhage exceeding enteral absorptive capacity, and congenital IRIDA.
+- Indications limited to specific clinical scenarios: Severe GI intolerance, complete non-adherence to oral regimens, malabsorption syndromes ([[Gastrointestinal/Celiac disease\|celiac disease]], inflammatory bowel disease, prior gastrectomy), ongoing rapid hemorrhage exceeding enteral absorptive capacity, and congenital IRIDA.
 - Concomitant use indicated with recombinant erythropoietin therapy (renal dialysis, oncology patients) to guarantee steady substrate supply.
 - Formulations: Iron sucrose, ferric carboxymaltose, iron dextran. Intravenous administration mandatory; intramuscular injection strictly contraindicated due to severe pain, tissue staining, and erratic absorption.
 - Dosage Calculation (Ganzoni Formula): Total cumulative dose (mg) = [Target Hb - Actual Hb] × Weight (kg) × 2.4 + [15 × Weight (kg)]. Test dose required for specific formulations like high-molecular-weight iron dextran.

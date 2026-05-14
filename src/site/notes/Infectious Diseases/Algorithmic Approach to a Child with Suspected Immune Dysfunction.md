@@ -15,7 +15,7 @@
 
 - Clinical features can help guide the initial laboratory evaluation toward a specific compartment of the immune system.
 - B-cell (humoral) defects are highly suggested by recurrent bacterial infections of the upper and lower respiratory tracts with encapsulated bacteria (e.g., Streptococcus pneumoniae, Haemophilus influenzae), severe Giardia lamblia gastrointestinal infections, and reduced levels of immunoglobulins.
-- T-cell (combined) defects are suspected when a child presents with systemic illness after vaccination with live viruses, chronic oral candidiasis after 6 months of age, failure to thrive, chronic diarrhea, absent lymph nodes or tonsils, and opportunistic infections like Pneumocystis jirovecii.
+- T-cell (combined) defects are suspected when a child presents with systemic illness after vaccination with live viruses, chronic oral candidiasis after 6 months of age, failure to thrive, [[Gastrointestinal/Chronic Diarrhea\|chronic diarrhea]], absent lymph nodes or tonsils, and opportunistic infections like Pneumocystis jirovecii.
 - Phagocyte or macrophage dysfunctions present with severe skin, liver, or lymph node abscesses, severe periodontitis, delayed umbilical cord separation, and recurrent infections with Staphylococcus, Aspergillus, or atypical mycobacteria.
 - Complement deficiencies are classically characterized by recurrent sepsis or meningitis with encapsulated bacteria (Streptococcus, Pneumococcus, Neisseria) and the presence of early-onset autoimmune diseases like systemic lupus erythematosus.
 

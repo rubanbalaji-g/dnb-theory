@@ -51,7 +51,7 @@ The natural history is bimodal. Manifestations vary from asymptomatic to severe 
 
 ### Systemic Manifestations
 
-- **General:** Failure to thrive (wasting), generalized lymphadenopathy, hepatosplenomegaly, parotitis (distinctive of pediatric HIV), persistent fever, chronic diarrhea.
+- **General:** Failure to thrive (wasting), generalized lymphadenopathy, hepatosplenomegaly, parotitis (distinctive of pediatric HIV), persistent fever, [[Gastrointestinal/Chronic Diarrhea\|chronic diarrhea]].
 - **Respiratory:**
     - **Pneumocystis jirovecii Pneumonia (PJP):** Most common serious opportunistic infection in infants. Peaks at 3-6 months. Presents with hypoxia, tachypnea, and fever.
     - **Lymphoid Interstitial Pneumonitis (LIP):** Chronic, slowly progressive lung disease characterized by diffuse reticulonodular infiltrates. Associated with Epstein-Barr Virus (EBV) and indicates a slower disease progression.
@@ -59,7 +59,7 @@ The natural history is bimodal. Manifestations vary from asymptomatic to severe 
 - **Neurologic:**
     - **HIV Encephalopathy:** Progressive corticospinal tract signs, loss of developmental milestones, acquired microcephaly, and cognitive impairment.
     - **Other:** Seizures, meningitis, opportunistic CNS infections (Cryptococcus, Toxoplasma - rare in infants).
-- **Gastrointestinal:** Chronic diarrhea (Crypto/Isospora), oral/esophageal candidiasis, malabsorption, HIV enteropathy.
+- **Gastrointestinal:** [[Gastrointestinal/Chronic Diarrhea\|Chronic diarrhea]] (Crypto/Isospora), oral/esophageal candidiasis, malabsorption, HIV enteropathy.
 - **Dermatologic:** Severe seborrheic dermatitis, recalcitrant fungal infections (tinea), molluscum contagiosum, scabies, herpes zoster.
 - **Cardiac:** Dilated cardiomyopathy, left ventricular dysfunction.
 - **Renal:** HIV-associated nephropathy (HIVAN) presenting as nephrotic syndrome.
@@ -73,7 +73,7 @@ HIV infection in children can present with a wide spectrum of clinical manifesta
 
 - **Failure to Thrive:** Unexplained severe wasting, stunting, or severe malnutrition not responding to standard therapy.
 - **Persistent Fever:** Unexplained fever (above 37.5°C), intermittent or constant, lasting for longer than one month.
-- **Chronic Diarrhea:** Unexplained persistent diarrhea lasting 14 days or more.
+- **[[Gastrointestinal/Chronic Diarrhea\|Chronic Diarrhea]]:** Unexplained persistent diarrhea lasting 14 days or more.
 - **Lymphadenopathy:** Persistent generalized lymphadenopathy (PGL) is a common early sign.
 - **Hepatosplenomegaly:** Unexplained persistent enlargement of the liver and spleen.
 

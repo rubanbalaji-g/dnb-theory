@@ -48,7 +48,7 @@
 ### Disease Chronology
 
 - Latent period averages 3-4 weeks post-infection, ranging from 3 days to 6 weeks.
-- Arthritis symptoms may overlap with active initial infection (e.g., ongoing bloody dysentery).
+- Arthritis symptoms may overlap with active initial infection (e.g., ongoing bloody [[Gastrointestinal/Dysentery\|dysentery]]).
 
 ### Articular Features
 

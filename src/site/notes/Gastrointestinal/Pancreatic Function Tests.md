@@ -33,7 +33,7 @@
 - Involves strict 3-day stool collection paired with exact dietary fat intake recall.
 - **Formula:** Coefficient of fat absorption (CFA) = [(Fat intake - Fecal fat excretion) / Fat intake] x 100.
 - **Interpretation:** Normal CFA >85% (infants <6 months); >93-95% (older children and adults).
-- **Limitations:** Cumbersome, unpleasant processing. Cannot differentiate pancreatic insufficiency from intestinal mucosal diseases (e.g., celiac disease).
+- **Limitations:** Cumbersome, unpleasant processing. Cannot differentiate pancreatic insufficiency from intestinal mucosal diseases (e.g., [[Gastrointestinal/Celiac disease\|celiac disease]]).
 
 ### Serum Immunoreactive Trypsinogen (IRT)
 

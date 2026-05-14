@@ -228,7 +228,7 @@
 |Condition|Prevalence/Features|Screening Protocol|
 |:--|:--|:--|
 |**Hashimoto Disease**|Most common (20-25% have antibodies).|Serum TSH, thyroperoxidase/thyroglobulin antibodies shortly after diagnosis, then every 1-2 years.|
-|**Celiac Disease**|4-15% prevalence. Silent or unpredictable hypoglycemia/poor weight gain.|tTG-IgA + total IgA at diagnosis, 2 years, and 5 years.|
+|**[[Gastrointestinal/Celiac disease\|Celiac Disease]]**|4-15% prevalence. Silent or unpredictable hypoglycemia/poor weight gain.|tTG-IgA + total IgA at diagnosis, 2 years, and 5 years.|
 |**Addison Disease**|Rare, life-threatening. Unexplained decreased insulin need, severe fatigue, hyperpigmentation.|21-hydroxylase autoantibodies or basal cortisol.|
 |**APS Type 1/2**|Autoimmune Polyglandular Syndromes.|Evaluate if T1DM coexists with Addison, Hashimoto, or mucocutaneous candidiasis.|
 

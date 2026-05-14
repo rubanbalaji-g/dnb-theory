@@ -94,7 +94,59 @@
 - **Hepatic:** Amebic liver abscess (_E. histolytica_).
 
 ## Diagnostic Evaluation
+```mermaid
+%%{init: {"themeVariables": { "lineWidth": "3px", "lineColor": "#000000" } }}%%
+graph TD
+    classDef startNode fill:#dbeafe,stroke:#1e3a8a,color:#1e3a8a,stroke-width:2px;
+    classDef stepNode fill:#fef3c7,stroke:#92400e,color:#92400e,stroke-width:2px;
+    classDef testNode fill:#e0e7ff,stroke:#312e81,color:#312e81,stroke-width:2px;
+    classDef txNode fill:#d1fae5,stroke:#064e3b,color:#064e3b,stroke-width:2px;
+    classDef warnNode fill:#fee2e2,stroke:#7f1d1d,color:#7f1d1d,stroke-width:2px;
 
+    Start([Dysentery Presentation: Bloody/Mucoid Stools, Fever, Tenesmus]) --> DiagEval[Diagnostic Evaluation]
+
+    %% Diagnostics
+    DiagEval --> Labs[Initial Labs: CBC, Metabolic Panel, Fecal Biomarkers]
+    DiagEval --> Micro[Microbiology: Stool Culture, NAAT, Toxin Assays, Parasitology]
+    DiagEval --> Endo[Endoscopy & Histology: If refractory or IBD suspected]
+
+    Micro --> Mgmt[Management Protocol]
+    Labs --> Mgmt
+
+    %% Management Pathways
+    Mgmt --> Support[Resuscitation and Supportive Care]
+    Mgmt --> Pharma[Antimicrobial Pharmacotherapy]
+
+    %% Supportive Care Details
+    Support --> Hydration[Hydration: ORS or IV Isotonic Crystalloids]
+    Support --> Nutrition[Nutritional Rehab: Early Refeeding]
+    Support --> Zinc[Zinc Supplementation: 5 mg/day for 14 days]
+    Support --> Contra{CONTRAINDICATED: Antimotility Agents}
+    
+    %% Pharmacotherapy Details
+    Pharma --> Bacillary[Bacillary Dysentery]
+    Pharma --> Amebic[Amebic Dysentery]
+    Pharma --> CDiff[Clostridioides difficile Colitis]
+
+    %% Bacillary Treatment
+    Bacillary --> BacSev[Severe or Hospitalized: IV Ceftriaxone]
+    Bacillary --> BacMild[Stable Outpatient: Oral Azithromycin or Cefixime]
+
+    %% Amebic Treatment
+    Amebic --> AmeTissue[First-Line Tissue Agent: Metronidazole or Tinidazole]
+    AmeTissue --> AmeLumen[Follow-up Luminal Agent: Paromomycin or Iodoquinol]
+
+    %% C. Diff Treatment
+    CDiff --> CDiffStop[Stop offending antibiotic]
+    CDiffStop --> CDiffMeds[First-Line Therapy: Oral Metronidazole or Oral Vancomycin]
+
+    %% Class Assignments
+    class Start startNode;
+    class DiagEval,Mgmt stepNode;
+    class Labs,Micro,Endo testNode;
+    class Support,Hydration,Nutrition,Zinc,Pharma,Bacillary,BacSev,BacMild,Amebic,AmeTissue,AmeLumen,CDiff,CDiffStop,CDiffMeds txNode;
+    class Contra warnNode;
+```
 ### Laboratory Investigations
 
 - **Complete Blood Count (CBC):** Assess for leukocytosis, bandemia (leukemoid reaction in _Shigella_); evaluate smear for schistocytes (HUS screen).
@@ -119,10 +171,10 @@
 
 ### Resuscitation And Supportive Care
 
-- **Hydration:** Primary intervention. Utilize low-osmolarity Oral Rehydration Solution (ORS) for mild-moderate dehydration.
+- **Hydration:** Primary intervention. Utilize low-osmolarity [[Gastrointestinal/Oral Rehydration Solution\|Oral Rehydration Solution]] (ORS) for mild-moderate dehydration.
 - **Intravenous Therapy:** Isotonic crystalloid fluid resuscitation (20 mL/kg bolus) mandated for shock, severe dehydration, or intractable vomiting.
 - **Nutritional Rehabilitation:** Continue breastfeeding; institute early refeeding with age-appropriate unrestricted diet to repair mucosa.
-- **Zinc Supplementation:** Administer 10-20 mg/day elemental zinc for 10-14 days. Reduces severity, duration, and prevents recurrence.
+- **Zinc Supplementation:** Administer 5 mg/day elemental zinc for 14 days #recent. Reduces severity, duration, and prevents recurrence.
 - **Contraindications:** Strictly avoid antimotility agents (loperamide, diphenoxylate). Prolong pathogen clearance, exacerbate tissue invasion, precipitate toxic megacolon/ileus.
 
 ### Antimicrobial Pharmacotherapy
@@ -140,7 +192,7 @@
 - **First-Line Tissue Agent:** Metronidazole (15 mg/kg/day divided TID for 5-7 days) or Tinidazole (50 mg/kg single dose, max 2 g, for 3 days).
 - **Follow-up Luminal Agent:** Mandatory eradication of colonized cysts post-metronidazole therapy to prevent relapse. Utilize Paromomycin (25-35 mg/kg/day divided TID for 7 days) or Iodoquinol.
 
-#### _Clostridioides difficile_ Colitis
+#### Clostridioides difficile Colitis
 
 - Immediate cessation of offending antibiotic.
 - **First-Line Therapy:** Oral Metronidazole (30 mg/kg/day divided QID) or Oral Vancomycin (40 mg/kg/day divided QID for 10-14 days). Oral Vancomycin preferred for severe/fulminant disease.

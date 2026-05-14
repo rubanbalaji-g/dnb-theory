@@ -46,7 +46,7 @@ Clinical spectrum ranges from severe (neuropathic) to attenuated (somatic).
     * Thickened ribs, ovoid vertebrae, hip dysplasia.
 * **Respiratory:** Upper airway obstruction, sleep apnea, noisy breathing, recurrent infections.
 * **Cardiac:** Valvular disease (mitral/aortic regurgitation), cardiomyopathy.
-* **Gastrointestinal:** Hepatosplenomegaly, chronic diarrhea, inguinal hernias.
+* **Gastrointestinal:** Hepatosplenomegaly, [[Gastrointestinal/Chronic Diarrhea\|chronic diarrhea]], inguinal hernias.
 
 ## 5. DIAGNOSIS
 * **Screening:**

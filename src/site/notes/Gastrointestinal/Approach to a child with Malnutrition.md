@@ -48,7 +48,7 @@ Diagnosed in children 6–59 months of age meeting ANY of the following criteria
 ### History
 
 - **Dietary Intake:** 24-hour recall, feeding frequency, complementary feeding initiation, formula preparation.
-- **Medical:** Birth weight (SGA/IUGR), recurrent infections, chronic diarrhea, vomiting, developmental delay.
+- **Medical:** Birth weight (SGA/IUGR), recurrent infections, [[Gastrointestinal/Chronic Diarrhea\|chronic diarrhea]], vomiting, developmental delay.
 - **Social:** Family income, parental education, feeding dynamics.
 
 ### Physical Examination

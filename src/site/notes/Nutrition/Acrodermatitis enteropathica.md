@@ -78,7 +78,7 @@ The skin lesions are distinctive and often the presenting complaint.
 
 ### 6. Growth and Systemic Effects
 
-- **Failure to Thrive:** Severe growth retardation and weight loss occur due to anorexia (loss of appetite), chronic diarrhea, and metabolic inefficiency.
+- **Failure to Thrive:** Severe growth retardation and weight loss occur due to anorexia (loss of appetite), [[Gastrointestinal/Chronic Diarrhea\|chronic diarrhea]], and metabolic inefficiency.
 - **Hypogonadism:** In untreated adolescents, delayed sexual maturation and hypogonadism are prominent.
 - **Wound Healing:** Delayed wound healing and breakdown of old scars (resembling scurvy) may be observed.
 
@@ -107,7 +107,7 @@ The diagnosis is based on the characteristic clinical triad supported by laborat
 
 The clinical appearance can mimic several other dermatological and nutritional conditions:
 
-- **Acquired Zinc Deficiency:** Seen in severe protein-energy malnutrition (PEM), malabsorption syndromes (Celiac disease, Cystic Fibrosis), or prolonged Total Parenteral Nutrition (TPN) without zinc supplementation. The clinical features are identical to AE but the etiology is nutritional rather than genetic.
+- **Acquired Zinc Deficiency:** Seen in severe protein-energy malnutrition (PEM), malabsorption syndromes ([[Gastrointestinal/Celiac disease\|Celiac disease]], Cystic Fibrosis), or prolonged Total Parenteral Nutrition (TPN) without zinc supplementation. The clinical features are identical to AE but the etiology is nutritional rather than genetic.
 - **Biotinidase Deficiency / Biotin Deficiency:** Presents with periorificial dermatitis, alopecia, and neurological signs (seizures, hypotonia). Distinguished by metabolic acidosis and response to biotin.
 - **Essential Fatty Acid Deficiency:** Causes dry, scaly skin and alopecia; usually history of fat-free TPN.
 - **Severe Protein-Energy Malnutrition (Kwashiorkor):** "Flaky paint" dermatosis can resemble AE lesions.
