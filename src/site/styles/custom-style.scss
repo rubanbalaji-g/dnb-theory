@@ -177,34 +177,35 @@ main.content {
   padding-bottom: 0 !important;
 }
 
-/* 4. Layout State Overrides */
+/* 4. Layout State Overrides (Desktop Only) */
+@media screen and (min-width: 1000px) {
+  /* BOTH VISIBLE: Tight layout */
+  body:not(.filetree-collapsed):not(.sidebar-collapsed) main.content {
+    --dg-content-max-width: 760px !important;
+    margin-left: calc(var(--active-left-offset) + var(--layout-gap)) !important;
+    margin-right: calc(var(--active-right-offset) + var(--layout-gap)) !important;
+  }
 
-/* BOTH VISIBLE: Tight layout */
-body:not(.filetree-collapsed):not(.sidebar-collapsed) main.content {
-  --dg-content-max-width: 760px !important;
-  margin-left: calc(var(--active-left-offset) + var(--layout-gap)) !important;
-  margin-right: calc(var(--active-right-offset) + var(--layout-gap)) !important;
-}
+  /* ONLY FILETREE VISIBLE: Shifted to accommodate left sidebar */
+  body:not(.filetree-collapsed).sidebar-collapsed main.content {
+    --dg-content-max-width: 850px !important;
+    margin-left: calc(var(--active-left-offset) + var(--layout-gap) + 20px) !important;
+    margin-right: auto !important;
+  }
 
-/* ONLY FILETREE VISIBLE: Shifted to accommodate left sidebar */
-body:not(.filetree-collapsed).sidebar-collapsed main.content {
-  --dg-content-max-width: 850px !important;
-  margin-left: calc(var(--active-left-offset) + var(--layout-gap) + 20px) !important;
-  margin-right: auto !important;
-}
+  /* ONLY SIDEBAR VISIBLE: Shifted to accommodate right sidebar */
+  body.filetree-collapsed:not(.sidebar-collapsed) main.content {
+    --dg-content-max-width: 850px !important;
+    margin-left: auto !important;
+    margin-right: calc(var(--active-right-offset) + var(--layout-gap) + 20px) !important;
+  }
 
-/* ONLY SIDEBAR VISIBLE: Shifted to accommodate right sidebar */
-body.filetree-collapsed:not(.sidebar-collapsed) main.content {
-  --dg-content-max-width: 850px !important;
-  margin-left: auto !important;
-  margin-right: calc(var(--active-right-offset) + var(--layout-gap) + 20px) !important;
-}
-
-/* BOTH COLLAPSED: Maximum expansion and centering */
-body.filetree-collapsed.sidebar-collapsed main.content {
-  --dg-content-max-width: 1000px !important;
-  margin-left: auto !important;
-  margin-right: auto !important;
+  /* BOTH COLLAPSED: Maximum expansion and centering */
+  body.filetree-collapsed.sidebar-collapsed main.content {
+    --dg-content-max-width: 1000px !important;
+    margin-left: auto !important;
+    margin-right: auto !important;
+  }
 }
 
 /* 5. Component Overrides */
@@ -243,13 +244,17 @@ body.filetree-collapsed.sidebar-collapsed main.content {
 }
 
 /* 7. Responsive Breakpoints */
-@media screen and (max-width: 1200px) {
+@media screen and (min-width: 1000px) and (max-width: 1200px) {
   body:not(.filetree-collapsed):not(.sidebar-collapsed) main.content {
     --dg-content-max-width: 600px !important;
   }
 }
 
 @media screen and (max-width: 999px) {
+  .filetree-wrapper {
+    display: none !important;
+  }
+
   main.content {
     max-width: 100% !important;
     width: 100% !important;
