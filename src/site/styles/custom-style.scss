@@ -813,6 +813,18 @@ body.theme-light h6, body.theme-light .cm-header-6, body.theme-light .markdown-r
 body.theme-light strong, body.theme-light .cm-strong,
 body.theme-light em, body.theme-light .cm-em { color: #000000 !important; }
 
+/* Ensure bold and italic text in headings inherit the heading color */
+h1 strong, h1 em, h2 strong, h2 em, h3 strong, h3 em, 
+h4 strong, h4 em, h5 strong, h5 em, h6 strong, h6 em,
+.cm-header-1 .cm-strong, .cm-header-1 .cm-em,
+.cm-header-2 .cm-strong, .cm-header-2 .cm-em,
+.cm-header-3 .cm-strong, .cm-header-3 .cm-em,
+.cm-header-4 .cm-strong, .cm-header-4 .cm-em,
+.cm-header-5 .cm-strong, .cm-header-5 .cm-em,
+.cm-header-6 .cm-strong, .cm-header-6 .cm-em {
+    color: inherit !important;
+}
+
 /* Reset Sidebar & Filetree Links (TOC, navigation, etc.) to plain text style */
 body .sidebar a,
 body .sidebar-container a,
