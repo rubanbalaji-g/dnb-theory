@@ -659,7 +659,7 @@ body.theme-dark .moon-icon { display: none; }
   .mermaid svg {
     display: block !important;
     max-width: 100% !important;
-    max-height: 95% !important; /* Give buffer to prevent bottom clipping */
+    max-height: 75vh !important; /* Explicitly shrink the content to page height */
     height: auto !important;
     width: auto !important;
     margin: 0 auto !important;
