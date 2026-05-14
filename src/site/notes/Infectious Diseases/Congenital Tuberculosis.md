@@ -88,7 +88,7 @@ Congenital TB mimics other intrauterine infections collectively known as **TORCH
 2. **Cytomegalovirus (CMV):** Microcephaly, periventricular calcifications, chorioretinitis (differentiated by Urine/Saliva PCR).
 3. **Toxoplasmosis:** Intracranial calcifications, hydrocephalus (differentiated by IgM/PCR).
 4. **Neonatal Sepsis:** Bacterial sepsis (GBS, E. coli, Listeria) presents similarly with respiratory distress and shock.
-5. **Biliary Atresia/Neonatal Hepatitis:** If jaundice and hepatomegaly are the predominant features.
+5. **[[Gastrointestinal/Biliary Atresia\|Biliary Atresia]]/Neonatal Hepatitis:** If jaundice and hepatomegaly are the predominant features.
 
 ## Management
 

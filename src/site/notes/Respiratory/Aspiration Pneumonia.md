@@ -18,7 +18,7 @@ Aspiration occurs when protective airway reflexes (cough, glottic closure) are c
 * **Altered Sensorium:** Seizures, post-ictal state, coma, general anesthesia/sedation.
 
 ### 2. Anatomical Anomalies
-* **Laryngeal/Tracheal:** Laryngeal cleft, laryngomalacia (severe), H-type Tracheoesophageal Fistula (TEF).
+* **Laryngeal/Tracheal:** Laryngeal cleft, laryngomalacia (severe), H-type [[Gastrointestinal/Tracheoesophageal Fistula\|Tracheoesophageal Fistula]] (TEF).
 * **Oral/Pharyngeal:** Cleft palate, macroglossia (Down syndrome), Pierre Robin sequence.
 
 ### 3. Gastrointestinal

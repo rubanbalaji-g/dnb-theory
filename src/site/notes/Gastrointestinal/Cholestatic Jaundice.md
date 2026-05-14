@@ -37,7 +37,7 @@
 
 |Category|Specific Disorders|
 |:--|:--|
-|**Extrahepatic Obstructive**|Biliary atresia, choledochal cyst, inspissated bile syndrome, neonatal sclerosing cholangitis, gallstones, biliary stricture.|
+|**Extrahepatic Obstructive**|[[Gastrointestinal/Biliary Atresia\|Biliary atresia]], choledochal cyst, inspissated bile syndrome, neonatal sclerosing cholangitis, gallstones, biliary stricture.|
 |**Infectious**|Congenital TORCH infections (Toxoplasmosis, Rubella, CMV, HSV), Syphilis, bacterial sepsis, urinary tract infection.|
 |**Metabolic/Genetic**|Alpha-1 antitrypsin deficiency, galactosemia, [[Metabolic Disorders/Tyrosinemia\|tyrosinemia]], glycogen storage diseases, cystic fibrosis, bile acid synthesis defects, PFIC (types 1-6).|
 |**Anatomic/Syndromic**|Alagille syndrome (paucity of interlobular bile ducts), congenital hepatic fibrosis (Caroli disease).|
@@ -58,25 +58,25 @@ GGT provides highly specific diagnostic differentiation for intrahepatic cholest
 
 |GGT Level|Associated Cholestatic Disorders|
 |:--|:--|
-|**High GGT**|Biliary atresia, Alagille syndrome, choledochal cyst, PFIC type 3, alpha-1 antitrypsin deficiency.|
+|**High GGT**|[[Gastrointestinal/Biliary Atresia\|Biliary atresia]], Alagille syndrome, choledochal cyst, PFIC type 3, alpha-1 antitrypsin deficiency.|
 |**Low/Normal GGT**|PFIC types 1, 2, 4, 6, inborn errors of bile acid synthesis, arthrogryposis-renal dysfunction-cholestasis (ARC) syndrome, Aagenaes syndrome.|
 
 ### Targeted Disease Markers
 
-- **Alpha-1 antitrypsin:** Serum level and Pi phenotyping required early; histology mimics biliary atresia.
+- **Alpha-1 antitrypsin:** Serum level and Pi phenotyping required early; histology mimics [[Gastrointestinal/Biliary Atresia\|biliary atresia]].
 - **Thyroid function:** Thyroid-stimulating hormone (TSH), free T4 rule out central or primary hypothyroidism.
 - **Metabolic assays:** Urine succinylacetone ([[Metabolic Disorders/Tyrosinemia\|tyrosinemia]]), galactose-1-phosphate uridyltransferase (galactosemia).
-- **Matrix metalloproteinase-7 (MMP-7):** Highly sensitive and specific serum marker differentiating biliary atresia from other cholestatic causes.
+- **Matrix metalloproteinase-7 (MMP-7):** Highly sensitive and specific serum marker differentiating [[Gastrointestinal/Biliary Atresia\|biliary atresia]] from other cholestatic causes.
 
 ### Radiological Imaging
 
-- **Abdominal ultrasonography:** Initial modality. Assesses hepatic size, gallbladder presence, biliary stones, sludge. Triangular cord sign (echogenic density >3 mm cranial to portal vein bifurcation) suggests biliary atresia.
-- **Hepatobiliary scintigraphy (HIDA):** Radiotracer excretion into bowel rules out biliary atresia. Non-excretion remains non-specific (seen in severe intrahepatic cholestasis).
+- **Abdominal ultrasonography:** Initial modality. Assesses hepatic size, gallbladder presence, biliary stones, sludge. Triangular cord sign (echogenic density >3 mm cranial to portal vein bifurcation) suggests [[Gastrointestinal/Biliary Atresia\|biliary atresia]].
+- **Hepatobiliary scintigraphy (HIDA):** Radiotracer excretion into bowel rules out [[Gastrointestinal/Biliary Atresia\|biliary atresia]]. Non-excretion remains non-specific (seen in severe intrahepatic cholestasis).
 - **Magnetic resonance cholangiopancreatography (MRCP):** Evaluates structural anomalies, delineates choledochal cysts.
 
 ### Histopathology And Surgical Evaluation
 
-- **Percutaneous liver biopsy:** Differentiates biliary atresia (portal tract expansion, bile ductular proliferation, bile plugs, fibrosis) from neonatal hepatitis (lobular architecture alteration, giant cell transformation, focal necrosis).
+- **Percutaneous liver biopsy:** Differentiates [[Gastrointestinal/Biliary Atresia\|biliary atresia]] (portal tract expansion, bile ductular proliferation, bile plugs, fibrosis) from neonatal hepatitis (lobular architecture alteration, giant cell transformation, focal necrosis).
 - **Intra-operative cholangiogram:** Gold standard procedure definitively evaluating extrahepatic and intrahepatic biliary tree patency.
 
 ## Management Protocol
@@ -85,7 +85,7 @@ GGT provides highly specific diagnostic differentiation for intrahepatic cholest
 
 |Etiology|Specific Intervention|
 |:--|:--|
-|**Biliary Atresia**|Kasai portoenterostomy (hepato-portoenterostomy). Optimal outcomes achieved if performed <45-60 days of life.|
+|**[[Gastrointestinal/Biliary Atresia\|Biliary Atresia]]**|Kasai portoenterostomy (hepato-portoenterostomy). Optimal outcomes achieved if performed <45-60 days of life.|
 |**Choledochal Cyst**|Surgical excision of abnormal biliary segment with Roux-en-Y hepaticojejunostomy.|
 |**Galactosemia**|Strict elimination of galactose (galactose-free formula).|
 |**[[Metabolic Disorders/Tyrosinemia\|Tyrosinemia]] Type 1**|Nitisinone administration; dietary restriction of phenylalanine and tyrosine.|

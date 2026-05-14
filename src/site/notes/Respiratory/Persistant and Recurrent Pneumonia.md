@@ -28,7 +28,7 @@ The causes can be categorized based on the underlying mechanism.
 ### B. Aspiration Syndromes
 1.  **Oropharyngeal Dysphagia:** Cerebral Palsy, Bulbar palsy.
 2.  **Gastroesophageal Reflux (GERD):** Severe reflux + microaspiration.
-3.  **H-type Tracheoesophageal Fistula:** Presentation often delayed.
+3.  **H-type [[Gastrointestinal/Tracheoesophageal Fistula\|Tracheoesophageal Fistula]]:** Presentation often delayed.
 
 ### C. Generalized/Host Defense Defects (Often diffuse/multilobar)
 1.  **Cystic Fibrosis (CF):** Most common genetic cause of suppurative lung disease.

@@ -32,7 +32,7 @@
 * A **Respiratory Diverticulum (Lung Bud)** appears on the ventral wall of the foregut.
 * **Tracheoesophageal Ridges** appear longitudinally.
 * These ridges fuse to form the **Tracheoesophageal Septum**.
-> [!crit] Failure of tracheoesophaeal septum to complete separate results in tracheoesophageal fistula
+> [!crit] Failure of tracheoesophaeal septum to complete separate results in [[Gastrointestinal/Tracheoesophageal Fistula\|tracheoesophageal fistula]]
 * This septum divides the foregut into:
     * **Dorsal portion:** Esophagus.
     * **Ventral portion:** Trachea and lung buds.
@@ -46,7 +46,7 @@
 > [!crit] *Clinical Relevance:* Failure of recanalization leads to Esophageal Atresia or Stenosis.
 ### 3. Further Tracheal Development
 * Cartilage, connective tissue, and muscle develop from the surrounding **Splanchnic Mesoderm**.
-## III. Types of Tracheoesophageal Fistula (TOF) / Esophageal Atresia (EA)
+## III. Types of [[Gastrointestinal/Tracheoesophageal Fistula\|Tracheoesophageal Fistula]] (TOF) / Esophageal Atresia (EA)
 **Classification:** Gross Classification (most commonly used).
 
 ### The 5 Anatomical Types

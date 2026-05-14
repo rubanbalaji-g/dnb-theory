@@ -29,7 +29,7 @@
 ### Aspiration Syndromes
 | Pathophysiology | Associated Conditions |
 | :--- | :--- |
-| Anatomical Defects | Cleft palate, laryngotracheoesophageal cleft, tracheoesophageal fistula. |
+| Anatomical Defects | Cleft palate, laryngotracheoesophageal cleft, [[Gastrointestinal/Tracheoesophageal Fistula\|tracheoesophageal fistula]]. |
 | Gastrointestinal Disorders | Gastroesophageal reflux, lipid aspiration. |
 | Neuromuscular Dysfunction | Neurologic dysphagia, developmental dysphagia, impaired cough mechanism. |
 

@@ -25,7 +25,7 @@
 |**Musculoskeletal**|Clenched hands (index finger overlapping the third digit, fifth digit overlapping the fourth), rocker-bottom feet with prominent calcanei, hypoplastic nails, short sternum, severe hypertonia, limited hip abduction, shield-shaped chest.|
 |**Cardiovascular**|Congenital heart disease present in >90% of cases (VSD, ASD, PDA, polyvalvular dysplasia, Tetralogy of Fallot).|
 |**Neurological**|Profound intellectual disability, severe global developmental delay, central apnea, neonatal seizures, structural anomalies like agenesis of the corpus callosum.|
-|**Gastrointestinal**|Omphalocele, esophageal atresia, tracheoesophageal fistula, Meckel diverticulum, biliary atresia.|
+|**Gastrointestinal**|Omphalocele, esophageal atresia, [[Gastrointestinal/Tracheoesophageal Fistula\|tracheoesophageal fistula]], Meckel diverticulum, [[Gastrointestinal/Biliary Atresia\|biliary atresia]].|
 |**Genitourinary**|Horseshoe kidney, ectopic kidneys, cryptorchidism, prominent clitoris.|
 
 ## Prenatal Screening and Diagnosis

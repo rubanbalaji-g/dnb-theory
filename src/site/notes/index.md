@@ -55,7 +55,7 @@ Organ-system–based approach to pediatric diseases.
 > [[Gastrointestinal/🍴 Gastroenterology\|View Notes →]]
 
 > [!red] 🫁Pulmonology
-> > Diseases of the airways and lungs, including asthma and cystic fibrosis.  
+> Diseases of the airways and lungs, including asthma and cystic fibrosis.  
 > [[Respiratory/🫁 Respiratory system\|View Notes →]]
 
 > [!red] 💗Cardiology

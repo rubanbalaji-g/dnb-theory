@@ -31,7 +31,7 @@
 - Tubulogenesis (remodeling) process converts ductal plate into mature anastomosing tubular network.
 - Proceeds in centripetal fashion from hepatic hilum toward periphery.
 - Involves selective apoptosis of non-functional elements and mesenchymal proliferation.
-- Remodeling failure yields ductal plate malformations (e.g., congenital hepatic fibrosis, Caroli disease, biliary atresia).
+- Remodeling failure yields ductal plate malformations (e.g., congenital hepatic fibrosis, Caroli disease, [[Gastrointestinal/Biliary Atresia\|biliary atresia]]).
 
 ## Key Developmental Timeline
 

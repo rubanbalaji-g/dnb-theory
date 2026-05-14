@@ -82,7 +82,7 @@ _Definition: $\ge$2 episodes/year or $\ge$3 episodes ever, with radiographic cle
 - **Hereditary**: Cystic fibrosis, Sickle cell disease.
 - **Immunodeficiency**: HIV/AIDS, Bruton agammaglobulinemia, Chronic granulomatous disease, SCID.
 - **Ciliary Disorders**: Primary ciliary dyskinesia, Kartagener syndrome.
-- **Anatomic Disorders**: Pulmonary sequestration, Congenital pulmonary airway malformation (CPAM), Bronchiectasis, Tracheoesophageal fistula.
+- **Anatomic Disorders**: Pulmonary sequestration, Congenital pulmonary airway malformation (CPAM), Bronchiectasis, [[Gastrointestinal/Tracheoesophageal Fistula\|Tracheoesophageal fistula]].
 - **Acquired**: Foreign body aspiration, Gastroesophageal reflux.
 
 ## Investigations

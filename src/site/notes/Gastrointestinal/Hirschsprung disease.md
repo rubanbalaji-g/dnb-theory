@@ -2,80 +2,73 @@
 {"dg-publish":true,"uplink":"/gastrointestinal/gastroenterology/","uptext":"Back to Index (🍴 Gastroenterology)","permalink":"/gastrointestinal/hirschsprung-disease/","dgPassFrontmatter":true}
 ---
 
-## DEFINITION & EPIDEMIOLOGY
+## Definition And Epidemiology
 
-- **Definition:** Congenital aganglionic megacolon; developmental disorder of enteric nervous system (neurocristopathy).
-- **Pathology:** Characterized by complete absence of parasympathetic intrinsic ganglion cells in submucosal (Meissner) and myenteric (Auerbach) plexuses.
-- **Incidence:** 1 in 5000 live births.
-- **Demographics:** Male predominance (4:1) in short-segment disease; equal gender distribution in long-segment disease. Rare in premature infants.
-- **Associated Syndromes:** Trisomy 21 (most common), Multiple Endocrine Neoplasia (MEN) type 2A, Congenital Central Hypoventilation Syndrome (Ondine's curse), Waardenburg syndrome, Mowat-Wilson syndrome, and cardiovascular/urogenital anomalies.
+- **Definition:** A congenital developmental disorder of the enteric nervous system (neurocristopathy) resulting in an aganglionic megacolon.
+- **Pathology:** Characterized by the complete absence of parasympathetic intrinsic ganglion cells in the submucosal (Meissner) and myenteric (Auerbach) plexuses.
+- **Incidence And Demographics:** Occurs in 1 in 5000 live births. There is a 4:1 male predominance in short-segment disease, whereas long-segment disease exhibits an equal gender distribution.
+- **Associated Syndromes:** Frequently associated with Trisomy 21 (most common), Multiple Endocrine Neoplasia (MEN) type 2A, Congenital Central Hypoventilation Syndrome (Ondine's curse), Waardenburg syndrome, and Mowat-Wilson syndrome.
 
-## PATHOPHYSIOLOGY & GENETICS
+## Embryology And Pathophysiology
 
-- **Embryology:** Premature arrest of craniocaudal migration of vagal neural crest cells in hindgut between 5th and 12th weeks of gestation.
-- **Motility Defect:** Aganglionic segment permanently contracted due to lack of non-adrenergic-non-cholinergic inhibitory innervation. Interstitial cells of Cajal network disrupted. Causes functional obstruction and progressive proximal bowel dilation.
-- **Genetics:** Multigenic/multifactorial with low, sex-dependent penetrance. Associated with mutations in _RET_ (most common), _GDNF_, _EDNRB_, _EDN3_, and _SOX10_ genes.
+- **Embryologic Arrest:** Pathogenesis involves the premature arrest of craniocaudal migration of vagal neural crest cells in the hindgut between the 5th and 12th weeks of gestation.
+- **Motility Defect:** The aganglionic segment remains permanently contracted due to the absence of non-adrenergic, non-cholinergic inhibitory innervation. This causes a functional intestinal obstruction, leading to progressive secondary dilation of the proximal, normally-innervated bowel.
+- **Genetics:** It is a multigenic and multifactorial disorder associated with mutations in the _RET_ (most common), _GDNF_, _EDNRB_, _EDN3_, and _SOX10_ genes.
 
-## CLASSIFICATION
+## Classification
 
-|Type|Extent of Aganglionosis|Frequency|
-|:--|:--|:--|
-|**Short Segment (Classic)**|Limited to rectum and sigmoid colon.|70–80%.|
-|**Long Segment**|Extends proximal to sigmoid colon (typically up to splenic flexure).|10–20%.|
-|**Total Colonic Aganglionosis**|Involves entire colon and <50 cm of distal ileum.|3–6%.|
-|**Total Intestinal Aganglionosis**|Involves longer segments of small bowel; rare.|<1%.|
+|Type|Extent Of Aganglionosis|Frequency|
+|---|---|---|
+|**Short Segment (Classic)**|Limited to the rectum and sigmoid colon.|70–80%.|
+|**Long Segment**|Extends proximal to the sigmoid colon (typically up to the splenic flexure).|10–20%.|
+|**Total Colonic Aganglionosis**|Involves the entire colon and <50 cm of the distal ileum.|3–6%.|
+|**Total Intestinal Aganglionosis**|Involves longer segments of the small bowel.|<1%.|
 
-## CLINICAL PRESENTATION
+## Clinical Presentation
 
-### Neonatal Onset (>90% of cases)
+### Neonatal Onset (>90% Of Cases)
 
-- Failure to pass meconium within first 24–48 hours of life (seen in 60-90% of patients).
-- Abdominal distension, bilious emesis, feeding intolerance.
-- **Hirschsprung-Associated Enterocolitis (HAEC):** Life-threatening presentation with lethargy, fever, severe abdominal distension, and explosive foul-smelling or bloody diarrhea. Leads to toxic megacolon, sepsis, and high mortality.
+- **Classic Triad:** Failure to pass meconium within the first 24–48 hours of life, bilious emesis, and progressive abdominal distension.
+- **Hirschsprung-Associated Enterocolitis (HAEC):** A life-threatening presentation characterized by lethargy, fever, severe abdominal distension, and explosive foul-smelling or bloody diarrhea. It can rapidly progress to toxic megacolon and sepsis.
 
-### Older Infant/Childhood Onset
+### Older Infant And Childhood Onset
 
-- Chronic, severe, refractory constipation; ribbon-like stools.
-- Failure to thrive; hypoproteinemia (protein-losing enteropathy).
-- **Physical Examination:** Distended abdomen; tight anal sphincter. Empty rectal vault.
-- **"Squirt Sign":** Explosive discharge of foul-smelling liquid stool and gas upon withdrawal of examining finger.
+- **Symptomatology:** Presents with chronic, severe, refractory constipation, passage of ribbon-like or pellet stools, and failure to thrive.
+- **Physical Examination:** Reveals a markedly distended, tympanitic abdomen and a tight anal sphincter with an empty rectal vault.
+- **Squirt Sign:** Explosive discharge of foul-smelling liquid stool and gas occurs upon withdrawal of the examining finger during a digital rectal examination.
 
-## DIAGNOSTIC EVALUATION
+## Diagnostic Evaluation
 
-|Modality|Key Findings & Utility|
-|:--|:--|
-|**Unprepared Contrast Enema**|Identifies "transition zone": funnel-shaped narrowing between normal dilated proximal colon and smaller-caliber obstructed distal aganglionic segment. Rectosigmoid ratio <1. Contrast retention on 24-hour delayed films.|
-|**Anorectal Manometry**|Absence of Rectoanal Inhibitory Reflex (RAIR) (failure of internal anal sphincter to relax upon rectal balloon distension). Highly sensitive in children >3 months; normal study excludes disease.|
-|**Rectal Suction Biopsy**|**Gold Standard.** Must be taken 2-3 cm above dentate line to avoid physiological hypoganglionic zone.|
-|**Histopathology**|Total absence of ganglion cells in submucosal/myenteric plexuses. Increased thick, knotted acetylcholinesterase (AChE)-positive hypertrophied nerve fibers in muscularis mucosae and lamina propria. Loss of calretinin immunoreactivity.|
+|Diagnostic Modality|Key Findings And Utility|
+|---|---|
+|**Unprepared Contrast Enema**|Identifies a radiographic "transition zone" (funnel-shaped narrowing between the dilated proximal colon and the smaller aganglionic distal segment). Demonstrates a rectosigmoid ratio <1 and delayed contrast retention on 24-hour films.|
+|**Anorectal Manometry**|Demonstrates the absence of the Rectoanal Inhibitory Reflex (RAIR), meaning the internal anal sphincter fails to relax upon rectal balloon distension.|
+|**Rectal Suction Biopsy**|**Gold Standard.** Must be obtained 2-3 cm above the dentate line. Confirms the total absence of ganglion cells.|
+|**Histochemical Staining**|Reveals increased thick, knotted acetylcholinesterase (AChE)-positive hypertrophied nerve fibers and a loss of calretinin immunoreactivity in the aganglionic segment.|
 
-## DIFFERENTIAL DIAGNOSIS: FUNCTIONAL CONSTIPATION VS. HIRSCHSPRUNG
+## Differential Diagnosis: Hirschsprung Disease Versus Functional Constipation
 
-|Feature|Functional Constipation|Hirschsprung Disease|
-|:--|:--|:--|
-|**Onset**|Beyond 1 year of age; acquired|Within infancy/at birth; congenital.|
-|**Meconium Passage**|Normal|Delayed (>24-48 hours).|
-|**Encopresis/Soiling**|Common|Rare/Absent.|
-|**Stool Withholding Behavior**|Common|Rare.|
-|**Failure to Thrive**|No|Possible/Common.|
-|**Rectal Examination**|Ampulla enlarged and filled with stool|Ampulla empty; "squirt sign" on finger withdrawal.|
-|**Anorectal Manometry**|RAIR present|RAIR absent.|
+|Clinical Feature|Hirschsprung Disease|Functional Constipation|
+|---|---|---|
+|**Onset Of Symptoms**|Neonatal period or infancy.|Toddler or preschool age (acquired).|
+|**Meconium Passage**|Delayed (>48 hours).|Normal (<48 hours).|
+|**Encopresis / Soiling**|Rare or completely absent.|Extremely common (overflow incontinence).|
+|**Withholding Behavior**|Rare or absent.|Common (retentive posturing).|
+|**Digital Rectal Exam**|Empty ampulla, tight sphincter, squirt sign present.|Enlarged ampulla filled with hard stool.|
 
-## MANAGEMENT
+## Management Protocol
 
-### Medical & Preoperative Care
+### Initial Stabilization
 
-- Immediate goal: Bowel decompression and stabilization.
-- Rectal irrigations/tube placement; nasogastric decompression.
-- Intravenous fluids; broad-spectrum antibiotics for suspected enterocolitis.
+- Immediate bowel decompression utilizing rectal irrigations and nasogastric tube decompression.
+- Provide rigorous intravenous fluid resuscitation and initiate broad-spectrum antibiotics if enterocolitis (HAEC) is suspected.
 
-### Surgical Intervention
+### Definitive Surgical Therapy
 
-- **Definitive Treatment:** Resection of aganglionic segment, pull-through of normally innervated proximal bowel, and anastomosis to anal margin (preserving sphincter mechanism).
-- **Techniques:** Single-stage transanal endorectal pull-through (Soave procedure) often performed laparoscopically.
-- **Staged Approach:** Initial decompressive colostomy with delayed pull-through; reserved for unstable neonates, severe enterocolitis, or massive proximal dilation. Total colonic aganglionosis requires ileal-anal anastomosis.
+- **Primary Pull-Through:** The definitive treatment involves resection of the aganglionic segment followed by a pull-through of normally innervated proximal bowel and end-to-end anastomosis to the anal margin (e.g., Soave procedure).
+- **Staged Procedure:** An initial decompressive diverting colostomy followed by a delayed pull-through is strictly reserved for unstable neonates, active severe enterocolitis, massive proximal dilation, or extreme prematurity.
 
-### Complications & Prognosis
+## Complications And Prognosis
 
-- Early postoperative complications: Anastomotic leak, stricture.
-- Long-term sequelae: Recurrent constipation (8%), fecal incontinence, and recurrent episodes of Hirschsprung-associated enterocolitis (HAEC) (10-20% postoperatively). Symptoms generally improve with age.
+- **Early Complications:** Anastomotic leaks and stricture formation.
+- **Late Complications:** Recurrent constipation occurs in up to 8% of patients, and recurrent episodes of Hirschsprung-associated enterocolitis (HAEC) occur in 10-20% of cases postoperatively. Fecal incontinence is also a potential long-term sequela, though symptoms generally improve with age.

@@ -44,7 +44,7 @@ Assess canalicular bile flow and biliary tree patency.
 
 |Ggt Level|Associated Conditions|
 |:--|:--|
-|Elevated (High-Ggt Cholestasis)|Biliary atresia, Alagille syndrome, choledochal cyst, progressive familial intrahepatic cholestasis (PFIC) type 3, neonatal sclerosing cholangitis.|
+|Elevated (High-Ggt Cholestasis)|[[Gastrointestinal/Biliary Atresia\|Biliary atresia]], Alagille syndrome, choledochal cyst, progressive familial intrahepatic cholestasis (PFIC) type 3, neonatal sclerosing cholangitis.|
 |Normal or Low (Low-Ggt Cholestasis)|PFIC types 1, 2, 4, 5, 6; inborn errors of bile acid synthesis; arthrogryposis-renal dysfunction-cholestasis (ARC) syndrome.|
 
 ## Markers Of Hepatic Synthetic Function
@@ -83,6 +83,6 @@ Assess functional liver mass and reserve. Crucial for determining disease severi
 |Acute Viral Hepatitis|Massive transaminase elevation (Alt > Ast); variable bilirubin; normal albumin initially; Pt/Inr normal unless progressing to acute liver failure.|
 |Acute Liver Failure|Progressive coagulopathy (Inr >1.5-2.0) unresponsive to vitamin K; hypoglycemia; hyperammonemia; transaminases may paradoxically drop as liver mass undergoes massive necrosis.|
 |Autoimmune Hepatitis|Elevated transaminases; hypergammaglobulinemia (elevated IgG); positive autoantibodies (ANA, SMA, LKM-1); interface hepatitis on biopsy.|
-|Biliary Atresia|Conjugated hyperbilirubinemia; disproportionately elevated Ggt (>200 IU/L) and Alp; mildly elevated transaminases; normal synthetic function initially.|
+|[[Gastrointestinal/Biliary Atresia\|Biliary Atresia]]|Conjugated hyperbilirubinemia; disproportionately elevated Ggt (>200 IU/L) and Alp; mildly elevated transaminases; normal synthetic function initially.|
 |Wilson Disease|Elevated transaminases (Ast > Alt); low serum ceruloplasmin (<20 mg/dL); low alkaline phosphatase; elevated 24-hour urine copper (>40 mcg/d); Coombs-negative hemolytic anemia.|
 |Alpha-1 Antitrypsin Deficiency|Conjugated hyperbilirubinemia; low serum alpha-1 antitrypsin levels; PiZZ phenotype; mildly elevated transaminases.|

@@ -26,7 +26,7 @@
 |:--|:--|
 |**Prehepatic (Extrahepatic)**|Portal vein thrombosis (most common extrahepatic cause in children), portal vein agenesis/atresia/stenosis, splenic vein thrombosis, arteriovenous fistula.|
 |**Intrahepatic Presinusoidal**|Congenital hepatic fibrosis, non-cirrhotic portal fibrosis (idiopathic portal hypertension), schistosomiasis, myeloproliferative diseases, focal nodular hyperplasia.|
-|**Intrahepatic Sinusoidal**|Liver cirrhosis (biliary atresia, Wilson disease, alpha-1-antitrypsin deficiency, cystic fibrosis, glycogen storage disease type IV, autoimmune hepatitis).|
+|**Intrahepatic Sinusoidal**|Liver cirrhosis ([[Gastrointestinal/Biliary Atresia\|biliary atresia]], Wilson disease, alpha-1-antitrypsin deficiency, cystic fibrosis, glycogen storage disease type IV, autoimmune hepatitis).|
 |**Intrahepatic Postsinusoidal**|Venoocclusive disease (sinusoidal obstruction syndrome).|
 |**Posthepatic**|Budd-Chiari syndrome (hepatic vein or inferior vena cava obstruction/webs), right heart failure, constrictive pericarditis, Fontan circulation.|
 

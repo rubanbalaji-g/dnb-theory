@@ -18,7 +18,7 @@
 5. [[Gastrointestinal/Hirschsprung disease\|Hirschsprung disease]]
 ## Upper GI Disorders
 1. [[Gastrointestinal/GERD\|GERD]]
-2. [[Gastrointestinal/H.Pylori and its involvement in Abdominal Pain\|H.Pylori and its involvement in Abdominal Pain]]
+2. [[Gastrointestinal/Helicobacter Pylori And Abdominal Pain\|Helicobacter Pylori And Abdominal Pain]]
 3. [[Gastrointestinal/Recurrent Abdominal Pain\|Recurrent Abdominal Pain]]
 4. [[Gastrointestinal/Functional Abdominal Pain\|Functional Abdominal Pain]]
 5. [[Gastrointestinal/Hirschsprung disease vs Functional constipation\|Hirschsprung disease vs Functional constipation]]
@@ -27,8 +27,8 @@
 2. [[Gastrointestinal/Neonate with Hematemesis\|Neonate with Hematemesis]]
 3. [[Gastrointestinal/Emergency Room Management of Hematemesis\|Emergency Room Management of Hematemesis]]
 ## Diarrheal Diseases
-1. [[Gastrointestinal/Acute Diarrhoea In A Child\|Acute Diarrhoea In A Child]]
-2. [[Gastrointestinal/Chronic And Persistent Diarrhea In Children\|Chronic And Persistent Diarrhea In Children]]
+1. [[Gastrointestinal/Acute Diarrhea\|Acute Diarrhea]]
+2. [[Gastrointestinal/Chronic Diarrhea\|Chronic Diarrhea]]
 3. [[Gastrointestinal/Dysentery\|Dysentery]]
 4. [[Gastrointestinal/Antibiotic Associated Diarrhoea\|Antibiotic Associated Diarrhoea]]
 5. [[Gastrointestinal/Oral Rehydration Solutions\|Oral Rehydration Solutions]]

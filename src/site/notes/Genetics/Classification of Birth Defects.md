@@ -51,7 +51,7 @@ Anatomical categorization aids in targeted clinical evaluation.
 |Central Nervous System|Neural tube defects, holoprosencephaly, hydrocephalus.|
 |Cardiovascular|Ventricular septal defect, atrial septal defect, tetralogy of Fallot.|
 |Musculoskeletal|Limb reduction defects, skeletal dysplasias, congenital scoliosis.|
-|Gastrointestinal|Esophageal atresia, tracheoesophageal fistula, anorectal malformations.|
+|Gastrointestinal|Esophageal atresia, [[Gastrointestinal/Tracheoesophageal Fistula\|tracheoesophageal fistula]], anorectal malformations.|
 |Genitourinary|Renal agenesis, posterior urethral valves, hypospadias.|
 
 ## Clinical Evaluation And Management Approach

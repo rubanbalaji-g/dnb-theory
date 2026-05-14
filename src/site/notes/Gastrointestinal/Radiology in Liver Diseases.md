@@ -9,8 +9,8 @@
 |**Ultrasonography (US) / Doppler**|First-line screening, hemodynamics.|Liver size, echotexture, gallstones, portal hypertension, biliary dilatation.|
 |**Computed Tomography (CT)**|Cross-sectional vascular and mass detail.|Trauma, focal liver lesions, tumor staging, abscesses.|
 |**Magnetic Resonance (MRI / MRCP)**|Biliary anatomy, detailed mass characterization.|Choledochal cysts, primary sclerosing cholangitis, avoiding radiation exposure.|
-|**Elastography**|Fibrosis quantification.|Chronic liver disease, nonalcoholic fatty liver disease (NAFLD), biliary atresia.|
-|**Nuclear Scintigraphy (HIDA)**|Biliary excretion assessment.|Differentiating biliary atresia from neonatal hepatitis.|
+|**Elastography**|Fibrosis quantification.|Chronic liver disease, nonalcoholic fatty liver disease (NAFLD), [[Gastrointestinal/Biliary Atresia\|biliary atresia]].|
+|**Nuclear Scintigraphy (HIDA)**|Biliary excretion assessment.|Differentiating [[Gastrointestinal/Biliary Atresia\|biliary atresia]] from neonatal hepatitis.|
 
 ## Specific Modalities & Clinical Applications
 
@@ -53,15 +53,15 @@
 
 - Vibration-controlled transient elastography (FibroScan) and magnetic resonance elastography (MRE) measure liver stiffness.
 - Replaces invasive liver biopsy for quantifying fibrosis progression and cirrhosis development.
-- Highly useful in monitoring nonalcoholic fatty liver disease (NAFLD) and post-Kasai biliary atresia outcomes.
+- Highly useful in monitoring nonalcoholic fatty liver disease (NAFLD) and post-Kasai [[Gastrointestinal/Biliary Atresia\|biliary atresia]] outcomes.
 
 ### Nuclear Scintigraphy
 
 #### Hepatobiliary Iminodiacetic Acid (HIDA) Scan
 
 - Utilizes technetium-99m-labeled agents undergoing hepatocyte phagocytosis and biliary excretion.
-- Crucial for differentiating biliary atresia from idiopathic neonatal hepatitis.
-- Biliary atresia findings: Normal radiotracer hepatic uptake with complete failure of intestinal excretion at 24 hours.
+- Crucial for differentiating [[Gastrointestinal/Biliary Atresia\|biliary atresia]] from idiopathic neonatal hepatitis.
+- [[Gastrointestinal/Biliary Atresia\|Biliary atresia]] findings: Normal radiotracer hepatic uptake with complete failure of intestinal excretion at 24 hours.
 - Phenobarbital or ursodeoxycholic acid priming (3-5 days) significantly improves diagnostic predictive value.
 
 ### Invasive Imaging
@@ -75,7 +75,7 @@
 
 ### Neonatal Cholestasis
 
-- US detects "triangular cord sign" (echogenic density >3 mm cranial to portal bifurcation) and small/absent gallbladder, highly suggestive of biliary atresia.
+- US detects "triangular cord sign" (echogenic density >3 mm cranial to portal bifurcation) and small/absent gallbladder, highly suggestive of [[Gastrointestinal/Biliary Atresia\|biliary atresia]].
 - HIDA scan confirms absence of biliary excretion.
 
 ### Focal Liver Lesions

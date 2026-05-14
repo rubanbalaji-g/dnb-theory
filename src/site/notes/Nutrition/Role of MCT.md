@@ -107,7 +107,7 @@ MCTs are the preferred fat source when the standard digestive or absorptive mech
 - **Cholestasis and Liver Disease:**
     
     - MCTs are indicated in hepatobiliary diseases because they can be absorbed even when bile flow is decreased,.
-    - They are useful in conditions like biliary atresia and neonatal hepatitis where bile salt availability is low.
+    - They are useful in conditions like [[Gastrointestinal/Biliary Atresia\|biliary atresia]] and neonatal hepatitis where bile salt availability is low.
     - In Lipoprotein Lipase (LPL) deficiency, MCTs are utilized because they bypass the LPL-dependent clearance mechanism required for chylomicrons.
 - **Pancreatic Insufficiency:**
     
