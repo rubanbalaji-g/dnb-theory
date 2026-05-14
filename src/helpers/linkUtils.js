@@ -148,6 +148,7 @@ function buildGraph() {
     homeAlias,
     nodes,
     links,
+    lookup: stemURLs, // Map of fpath (relative path without .md) to URL
   };
 }
 

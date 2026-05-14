@@ -16,6 +16,14 @@ const {
 const { buildFileTree } = require("./src/helpers/filetreeUtils");
 const { buildGraph } = require("./src/helpers/linkUtils");
 
+let sharedGraph = null;
+function getSharedGraph() {
+  if (!sharedGraph) {
+    sharedGraph = buildGraph();
+  }
+  return sharedGraph;
+}
+
 const Image = require("@11ty/eleventy-img");
 
 // Simple concurrency queue to prevent OOM during image processing
@@ -65,6 +73,7 @@ const tagRegex = /(^|\s|\>)(#[^\s!@#$%^&*()=+\.,\[{\]};:'"?><]+)(?!([^<]*>))/g;
 const metadataCache = {};
 
 function getAnchorAttributes(filePath, linkTitle) {
+  const graph = getSharedGraph();
   let fileName = filePath.replaceAll("&amp;", "&");
   let header = "";
   let headerLinkPath = "";
@@ -73,93 +82,46 @@ function getAnchorAttributes(filePath, linkTitle) {
     headerLinkPath = `#${headerToId(header)}`;
   }
 
-  if (metadataCache[fileName]) {
-    const cached = metadataCache[fileName];
+  // Normalize fileName for lookup
+  const lookupName = fileName.endsWith(".md") ? fileName.replace(/\.md$/, "") : fileName;
+  
+  // Direct lookup in stemURLs (manifest)
+  const targetUrl = graph.lookup[lookupName];
+  const targetNode = targetUrl ? graph.nodes[targetUrl] : null;
+
+  if (targetNode) {
     return {
       attributes: {
-        "class": cached.deadLink ? "internal-link is-unresolved" : "internal-link",
+        "class": "internal-link",
         "target": "",
-        "data-note-icon": cached.noteIcon,
-        "href": cached.deadLink ? "/404" : `${cached.permalink}${headerLinkPath}`,
+        "data-note-icon": targetNode.noteIcon,
+        "href": `${targetUrl}${headerLinkPath}`,
       },
-      innerHTML: linkTitle ? linkTitle : fileName,
+      innerHTML: linkTitle ? linkTitle : targetNode.title,
     };
   }
 
-  let noteIcon = process.env.NOTE_ICON_DEFAULT;
-  const title = linkTitle ? linkTitle : fileName;
-  let permalink = `/notes/${slugify(filePath)}`;
-  let deadLink = false;
-  const startPath = "./src/site/notes/";
-  const fullPath = fileName.endsWith(".md")
-    ? `${startPath}${fileName}`
-    : `${startPath}${fileName}.md`;
-
-  if (fs.existsSync(fullPath)) {
-    try {
-      const file = fs.readFileSync(fullPath, "utf8");
-      const frontMatter = matter(file);
-      if (frontMatter.data.permalink) {
-        permalink = frontMatter.data.permalink;
-      }
-      if (
-        frontMatter.data.tags &&
-        frontMatter.data.tags.indexOf("gardenEntry") != -1
-      ) {
-        permalink = "/";
-      }
-      if (frontMatter.data.noteIcon) {
-        noteIcon = frontMatter.data.noteIcon;
-      }
-    } catch {
-      deadLink = true;
-    }
-  } else {
-    deadLink = true;
-  }
-
-  metadataCache[fileName] = {
-    permalink,
-    noteIcon,
-    deadLink,
-  };
-
-  if (deadLink) {
-    return {
-      attributes: {
-        "class": "internal-link is-unresolved",
-        "href": "/404",
-        "target": "",
-      },
-      innerHTML: title,
-    }
-  }
   return {
     attributes: {
-      "class": "internal-link",
+      "class": "internal-link is-unresolved",
+      "href": "/404",
       "target": "",
-      "data-note-icon": noteIcon,
-      "href": `${permalink}${headerLinkPath}`,
     },
-    innerHTML: title,
-  }
+    innerHTML: linkTitle ? linkTitle : fileName,
+  };
 }
 
 
 
 module.exports = function (eleventyConfig) {
   eleventyConfig.on("eleventy.before", () => {
-    // Clear metadata cache so it doesn't grow indefinitely in watch mode
-    // and correctly updates when frontmatter changes
-    for (let key in metadataCache) {
-      delete metadataCache[key];
-    }
+    // Clear shared graph so it's rebuilt on next access
+    sharedGraph = null;
   });
 
   // Build file tree and graph once per build by scanning the filesystem directly.
-  // This avoids the per-page recomputation that was happening via eleventyComputed.
   eleventyConfig.addGlobalData("filetree", () => buildFileTree());
-  eleventyConfig.addGlobalData("graph", () => buildGraph());
+  eleventyConfig.addGlobalData("graph", () => getSharedGraph());
 
   eleventyConfig.setLiquidOptions({
     dynamicPartials: true,
