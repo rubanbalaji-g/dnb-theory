@@ -74,7 +74,7 @@ blockquote,
   display: block;
 }
 
-@media (max-width: 1000px) {
+@media (max-width: 900px) {
   .site-name-title {
     font-size: 1.5rem !important;
     margin: 5px !important;
@@ -178,7 +178,7 @@ main.content {
 }
 
 /* 4. Layout State Overrides (Desktop Only) */
-@media screen and (min-width: 1000px) {
+@media screen and (min-width: 900px) {
   /* BOTH VISIBLE: Tight layout */
   body:not(.filetree-collapsed):not(.sidebar-collapsed) main.content {
     --dg-content-max-width: 760px !important;
@@ -244,13 +244,13 @@ main.content {
 }
 
 /* 7. Responsive Breakpoints */
-@media screen and (min-width: 1000px) and (max-width: 1200px) {
+@media screen and (min-width: 900px) and (max-width: 1200px) {
   body:not(.filetree-collapsed):not(.sidebar-collapsed) main.content {
     --dg-content-max-width: 600px !important;
   }
 }
 
-@media screen and (max-width: 999px) {
+@media screen and (max-width: 899px) {
   main.content {
     max-width: 100% !important;
     width: 100% !important;
@@ -495,7 +495,7 @@ body.no-filetree .filetree-toggle {
 }
 
 /* Hide toggle and print button on mobile */
-@media (max-width: 1000px) {
+@media (max-width: 900px) {
   .filetree-toggle,
   .page-controls-bubble {
     display: none !important;
