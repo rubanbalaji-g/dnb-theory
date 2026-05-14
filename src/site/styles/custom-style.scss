@@ -83,9 +83,22 @@ blockquote,
 
 
 .toggle-icon {
-  color: var(--text-muted);
-  opacity: 0.5;
+  width: 10px;
+  height: 10px;
+  margin-right: 10px;
   transition: transform 0.2s, opacity 0.2s;
+  opacity: 0.5;
+  display: inline-block;
+  color: var(--text-muted);
+}
+
+.heading-open .toggle-icon {
+  transform: rotate(90deg);
+  opacity: 0.8;
+}
+
+.is-collapsed-content {
+  display: none !important;
 }
 
 .toggle-icon:hover {
@@ -179,28 +192,28 @@ main.content {
 
 /* 4. Layout State Overrides (Desktop Only) */
 @media screen and (min-width: 900px) {
-  /* BOTH VISIBLE: Tight layout */
+  /* BOTH VISIBLE */
   body:not(.filetree-collapsed):not(.sidebar-collapsed) main.content {
     --dg-content-max-width: 760px !important;
     margin-left: calc(var(--active-left-offset) + var(--layout-gap)) !important;
     margin-right: calc(var(--active-right-offset) + var(--layout-gap)) !important;
   }
 
-  /* ONLY FILETREE VISIBLE: Shifted to accommodate left sidebar */
+  /* ONLY FILETREE VISIBLE: Centered in remaining space */
   body:not(.filetree-collapsed).sidebar-collapsed main.content {
     --dg-content-max-width: 850px !important;
-    margin-left: calc(var(--active-left-offset) + var(--layout-gap) + 20px) !important;
+    margin-left: calc(var(--active-left-offset) + var(--layout-gap)) !important;
     margin-right: auto !important;
   }
 
-  /* ONLY SIDEBAR VISIBLE: Shifted to accommodate right sidebar */
+  /* ONLY SIDEBAR VISIBLE: Centered in remaining space */
   body.filetree-collapsed:not(.sidebar-collapsed) main.content {
     --dg-content-max-width: 850px !important;
     margin-left: auto !important;
-    margin-right: calc(var(--active-right-offset) + var(--layout-gap) + 20px) !important;
+    margin-right: calc(var(--active-right-offset) + var(--layout-gap)) !important;
   }
 
-  /* BOTH COLLAPSED: Maximum expansion and centering */
+  /* BOTH COLLAPSED: Fully centered */
   body.filetree-collapsed.sidebar-collapsed main.content {
     --dg-content-max-width: 1000px !important;
     margin-left: auto !important;
@@ -226,9 +239,27 @@ main.content {
   border: none !important;
   margin: 0 !important;
   padding: 0 !important;
-  transition: all 0.3s ease;
+  transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
   display: flex;
   flex-direction: column;
+}
+
+body.sidebar-collapsed .sidebar {
+  transform: translateX(100%);
+  opacity: 0;
+  visibility: hidden;
+  pointer-events: none;
+}
+
+body.filetree-collapsed .filetree-wrapper {
+  transform: translateX(-100%);
+  opacity: 0;
+  visibility: hidden;
+  pointer-events: none;
+}
+
+.filetree-wrapper {
+  transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
 }
 
 .sidebar-container {
@@ -480,14 +511,7 @@ body.theme-dark .moon-icon { display: none; }
   background: var(--background-primary);
 }
 
-/* Collapsed state logic handled by CSS variables above */
-body.filetree-collapsed .filetree-wrapper {
-  display: none !important;
-}
-
-body.sidebar-collapsed .sidebar {
-  display: none !important;
-}
+/* Collapsed state transitions handled via transform/opacity/visibility now */
 
 /* Hide toggle if no filetree at all */
 body.no-filetree .filetree-toggle {
@@ -496,10 +520,22 @@ body.no-filetree .filetree-toggle {
 
 /* Hide toggle and print button on mobile */
 @media (max-width: 900px) {
-  .filetree-toggle,
-  .page-controls-bubble {
-    display: none !important;
+  .filetree-toggle {
+    left: 10px;
+    top: 10px;
+    background: var(--background-secondary);
+    opacity: 0.9;
+    backdrop-filter: blur(4px);
   }
+  
+  .page-controls-bubble {
+    right: 10px;
+    top: 10px;
+    background: var(--background-secondary);
+    opacity: 0.9;
+    backdrop-filter: blur(4px);
+  }
+}
 
   /* Fix broken logo image on mobile navbar - hide img, show h1 text instead */
   .navbar .site-logo {

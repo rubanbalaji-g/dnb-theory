@@ -6,19 +6,33 @@ document.addEventListener('DOMContentLoaded', () => {
         heading.classList.add('collapsible-heading');
         heading.style.cursor = 'pointer';
         
-        // Optional: Add a chevron icon via JS if you don't want to use CSS ::before
-        heading.innerHTML = `<svg class="toggle-icon" viewBox="0 0 100 100" style="width: 10px; height: 10px; margin-right: 10px; transition: transform 0.2s; opacity: 0.5; display: inline-block;"><path d="M 30,20 L 70,50 L 30,80 Z" fill="currentColor"></path></svg> ` + heading.innerHTML;
+        // Check if already open (default)
+        heading.classList.add('heading-open');
+
+        // Add chevron icon
+        const icon = document.createElementNS("http://www.w3.org/2000/svg", "svg");
+        icon.setAttribute("class", "toggle-icon");
+        icon.setAttribute("viewBox", "0 0 100 100");
+        icon.innerHTML = '<path d="M 30,20 L 70,50 L 30,80 Z" fill="currentColor"></path>';
+        heading.prepend(icon);
 
         heading.addEventListener('click', () => {
-            // Toggle the 'active' class for the chevron rotation
+            // Toggle the 'heading-open' class
             heading.classList.toggle('heading-open');
             
             // Toggle all siblings until the next heading of the same or higher level
             let next = heading.nextElementSibling;
-            while (next && !['H1', 'H2', 'H3'].includes(next.tagName)) {
-                next.style.display = (next.style.display === 'none' || next.style.display === '') ? 'block' : 'none';
+            const currentLevel = parseInt(heading.tagName.substring(1));
+            
+            while (next) {
+                const nextLevel = next.tagName.startsWith('H') ? parseInt(next.tagName.substring(1)) : null;
+                if (nextLevel && nextLevel <= currentLevel) break;
+                
+                // Toggle a class instead of direct style
+                next.classList.toggle('is-collapsed-content', !heading.classList.contains('heading-open'));
                 next = next.nextElementSibling;
             }
         });
     });
 });
+
