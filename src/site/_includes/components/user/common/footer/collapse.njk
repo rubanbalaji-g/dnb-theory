@@ -10,7 +10,7 @@ document.addEventListener('DOMContentLoaded', () => {
             // Add the chevron indicator if it doesn't exist
             if (!heading.querySelector('.toggle-icon')) {
                 heading.classList.add('heading-open'); // Open by default
-                heading.insertAdjacentHTML('afterbegin', `<svg class="toggle-icon" viewBox="0 0 100 100" style="width: 10px; height: 10px; margin-right: 10px; transition: transform 0.2s; opacity: 0.5; display: inline-block;"><path d="M 30,20 L 70,50 L 30,80 Z" fill="currentColor"></path></svg>`);
+                heading.insertAdjacentHTML('afterbegin', `<svg class="toggle-icon" viewBox="0 0 100 100"><path d="M 30,20 L 70,50 L 30,80 Z" fill="currentColor"></path></svg>`);
             }
 
             // Ensure we don't attach multiple listeners if this runs again
