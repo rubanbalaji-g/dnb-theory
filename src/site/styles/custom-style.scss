@@ -206,11 +206,11 @@ main.content {
 
 /* EXPANDED SUBSTATES */
 
-/* SUBSTATE A & B: 1000px - 1299px */
-@media screen and (min-width: 1000px) and (max-width: 1299px) {
+/* SUBSTATE A & B: 1000px - 1249px */
+@media screen and (min-width: 1000px) and (max-width: 1249px) {
   body:not(.layout-collapsed) main.content {
     margin-left: 240px !important; /* 10 margin L + 200 FT + 30 space A */
-    margin-right: 60px !important;
+    margin-right: 10px !important; /* Reduced by 50px */
     max-width: 100% !important; /* auto scales up to 999px */
     width: auto !important;
   }
@@ -221,15 +221,15 @@ main.content {
     right: auto !important;
     top: 0 !important;
     margin-left: 240px !important;
-    margin-right: 60px !important;
+    margin-right: 10px !important;
     margin-top: 40px !important;
     height: auto !important;
     transform: none !important;
   }
 }
 
-/* SUBSTATE C: 1300px - 1599px */
-@media screen and (min-width: 1300px) and (max-width: 1599px) {
+/* SUBSTATE C: 1250px - 1549px */
+@media screen and (min-width: 1250px) and (max-width: 1549px) {
   body:not(.layout-collapsed) main.content {
     max-width: 999px !important;
     width: auto !important;
@@ -250,54 +250,54 @@ main.content {
   }
 }
 
-/* SUBSTATE D & E: 1600px - 1849px */
-@media screen and (min-width: 1600px) and (max-width: 1849px) {
+/* SUBSTATE D & E: 1550px - 1799px */
+@media screen and (min-width: 1550px) and (max-width: 1799px) {
   body:not(.layout-collapsed) main.content {
     margin-left: 240px !important; /* 10 + 200 + 30 */
-    margin-right: 360px !important; /* 30 + 270 + 60 */
+    margin-right: 310px !important; /* 30 + 270 + 10 (reduced from 60) */
     max-width: 100% !important; /* expands from 1000 to 1250 */
     width: auto !important;
   }
   body:not(.layout-collapsed) .sidebar {
     position: fixed !important;
     width: 270px !important;
-    right: 60px !important;
+    right: 10px !important; /* Reduced from 60px */
     top: var(--dg-sidebar-top) !important;
     height: calc(100% - var(--dg-sidebar-top)) !important;
     margin: 0 !important;
   }
 }
 
-/* SUBSTATE F: 1850px - 2099px */
-@media screen and (min-width: 1850px) and (max-width: 2099px) {
+/* SUBSTATE F: 1800px - 2049px */
+@media screen and (min-width: 1800px) and (max-width: 2049px) {
   body:not(.layout-collapsed) main.content {
     max-width: 1250px !important;
     width: auto !important;
-    margin-left: calc(210px + (100vw - 1790px) / 2) !important;
-    margin-right: calc(330px + (100vw - 1790px) / 2) !important;
+    margin-left: calc(210px + (100vw - 1740px) / 2) !important;
+    margin-right: calc(280px + (100vw - 1740px) / 2) !important; /* 10 R + 270 SB = 280px */
   }
   body:not(.layout-collapsed) .sidebar {
     position: fixed !important;
     width: 270px !important;
-    right: 60px !important;
+    right: 10px !important; /* Reduced from 60px */
     top: var(--dg-sidebar-top) !important;
     height: calc(100% - var(--dg-sidebar-top)) !important;
     margin: 0 !important;
   }
 }
 
-/* SUBSTATE G: >= 2100px */
-@media screen and (min-width: 2100px) {
+/* SUBSTATE G: >= 2050px */
+@media screen and (min-width: 2050px) {
   body:not(.layout-collapsed) main.content {
-    max-width: calc(1250px + (100vw - 2100px) / 3) !important;
+    max-width: calc(1250px + (100vw - 2050px) / 3) !important;
     width: auto !important;
-    margin-left: calc(365px + (100vw - 2100px) / 3) !important;
-    margin-right: calc(485px + (100vw - 2100px) / 3) !important;
+    margin-left: calc(365px + (100vw - 2050px) / 3) !important;
+    margin-right: calc(435px + (100vw - 2050px) / 3) !important; /* 155 space B + 270 SB + 10 R = 435px */
   }
   body:not(.layout-collapsed) .sidebar {
     position: fixed !important;
     width: 270px !important;
-    right: 60px !important;
+    right: 10px !important; /* Reduced from 60px */
     top: var(--dg-sidebar-top) !important;
     height: calc(100% - var(--dg-sidebar-top)) !important;
     margin: 0 !important;
