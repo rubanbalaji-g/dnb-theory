@@ -640,14 +640,25 @@ body.theme-dark .moon-icon { display: none; }
     contain: none !important;
   }
 
-  .mermaid, .mermaid svg {
+  .mermaid {
     max-width: 90% !important;
-    max-height: 90vh !important;
+    max-height: 80vh !important; /* Reduced to 80% to ensure margin room */
     height: auto !important;
     width: auto !important;
-    margin: 1em auto !important;
+    margin: 2em auto !important;
     display: block !important;
+    position: relative !important; /* Ensures it stays in flow */
     page-break-inside: avoid !important;
+    overflow: visible !important;
+  }
+
+  .mermaid svg {
+    max-width: 100% !important;
+    max-height: 100% !important;
+    height: auto !important;
+    width: auto !important;
+    display: block !important;
+    margin: 0 auto !important;
   }
 }
 
