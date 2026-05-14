@@ -1,9 +1,5 @@
-<button class="filetree-toggle" aria-label="Toggle File Tree" onclick="toggleLayout('filetree-collapsed')">
-    <i data-lucide="menu"></i>
-</button>
-
 <div class="page-controls-bubble">
-    <button class="sidebar-toggle" aria-label="Toggle Sidebar" onclick="toggleLayout('sidebar-collapsed')">
+    <button class="layout-toggle" aria-label="Toggle Layout" onclick="toggleLayout('layout-collapsed')">
         <i data-lucide="panel-right"></i>
     </button>
     <button class="theme-toggle" aria-label="Toggle Theme" onclick="toggleTheme()">
@@ -32,11 +28,8 @@
     };
 
     // Apply persisted layout states
-    if (localStorage.getItem('filetree-collapsed') === 'true') {
-        document.body.classList.add('filetree-collapsed');
-    }
-    if (localStorage.getItem('sidebar-collapsed') === 'true') {
-        document.body.classList.add('sidebar-collapsed');
+    if (localStorage.getItem('layout-collapsed') === 'true') {
+        document.body.classList.add('layout-collapsed');
     }
 
     window.toggleLayout = function(className) {

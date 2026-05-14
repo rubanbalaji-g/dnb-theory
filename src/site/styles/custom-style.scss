@@ -67,14 +67,14 @@ blockquote,
 }
 
 .site-name-title {
-  font-size: 3.2rem !important;
+  font-size: 2.2rem !important;
   margin: 10px !important;
   white-space: normal;
   overflow: visible;
   display: block;
 }
 
-@media (max-width: 900px) {
+@media (max-width: 999px) {
   .site-name-title {
     font-size: 1.5rem !important;
     margin: 5px !important;
@@ -159,7 +159,7 @@ hr {
 
 body {
   /* 1. Define layout constants */
-  --dg-filetree-width: 215px;
+  --dg-filetree-width: 250px; /* Increased to accommodate larger branding */
   --dg-sidebar-max-width: min(280px, 22vw);
   --dg-content-max-width: 820px;
   --layout-gap: 40px;
@@ -169,11 +169,8 @@ body {
   --active-right-offset: var(--dg-sidebar-max-width);
 }
 
-body.filetree-collapsed {
+body.layout-collapsed {
   --active-left-offset: 0px;
-}
-
-body.sidebar-collapsed {
   --active-right-offset: 0px;
 }
 
@@ -190,32 +187,18 @@ main.content {
   padding-bottom: 0 !important;
 }
 
-/* 4. Layout State Overrides (Desktop Only) */
-@media screen and (min-width: 900px) {
-  /* BOTH VISIBLE */
-  body:not(.filetree-collapsed):not(.sidebar-collapsed) main.content {
+/* 4. Layout State Overrides (Desktop Only: >= 1000px) */
+@media screen and (min-width: 1000px) {
+  /* EXPANDED: BOTH VISIBLE */
+  body:not(.layout-collapsed) main.content {
     --dg-content-max-width: 760px !important;
     margin-left: calc(var(--active-left-offset) + var(--layout-gap)) !important;
     margin-right: calc(var(--active-right-offset) + var(--layout-gap)) !important;
   }
 
-  /* ONLY FILETREE VISIBLE: Centered in remaining space */
-  body:not(.filetree-collapsed).sidebar-collapsed main.content {
-    --dg-content-max-width: 850px !important;
-    margin-left: calc(var(--active-left-offset) + var(--layout-gap)) !important;
-    margin-right: auto !important;
-  }
-
-  /* ONLY SIDEBAR VISIBLE: Centered in remaining space */
-  body.filetree-collapsed:not(.sidebar-collapsed) main.content {
-    --dg-content-max-width: 850px !important;
-    margin-left: auto !important;
-    margin-right: calc(var(--active-right-offset) + var(--layout-gap)) !important;
-  }
-
-  /* BOTH COLLAPSED: Fully centered */
-  body.filetree-collapsed.sidebar-collapsed main.content {
-    --dg-content-max-width: 1000px !important;
+  /* COLLAPSED: BOTH HIDDEN */
+  body.layout-collapsed main.content {
+    --dg-content-max-width: 1100px !important; /* Wider when collapsed */
     margin-left: auto !important;
     margin-right: auto !important;
   }
@@ -244,14 +227,14 @@ main.content {
   flex-direction: column;
 }
 
-body.sidebar-collapsed .sidebar {
+body.layout-collapsed .sidebar {
   transform: translateX(100%);
   opacity: 0;
   visibility: hidden;
   pointer-events: none;
 }
 
-body.filetree-collapsed .filetree-wrapper {
+body.layout-collapsed .filetree-wrapper {
   transform: translateX(-100%);
   opacity: 0;
   visibility: hidden;
@@ -274,21 +257,15 @@ body.filetree-collapsed .filetree-wrapper {
   height: 200px !important;
 }
 
-/* 7. Responsive Breakpoints */
-@media screen and (min-width: 900px) and (max-width: 1200px) {
-  body:not(.filetree-collapsed):not(.sidebar-collapsed) main.content {
-    --dg-content-max-width: 600px !important;
-  }
-}
-
-@media screen and (max-width: 899px) {
+/* 7. Responsive Breakpoints (Mobile Mode: < 1000px) */
+@media screen and (max-width: 999px) {
   main.content {
     max-width: 100% !important;
     width: 100% !important;
     margin-left: 0 !important;
     margin-right: 0 !important;
-    padding-left: 15px !important;
-    padding-right: 15px !important;
+    padding-left: 4vw !important;
+    padding-right: 4vw !important;
     left: 0 !important;
   }
 
@@ -300,25 +277,44 @@ body.filetree-collapsed .filetree-wrapper {
     margin-top: 40px !important;
     height: auto !important;
     display: block !important;
+    transform: none !important;
+    opacity: 1 !important;
+    visibility: visible !important;
+    pointer-events: auto !important;
   }
 
   .sidebar-container {
     flex-direction: column !important;
   }
 
-  /* Final touch: Replace print icon with theme toggle on mobile */
-  .page-controls-bubble .print-button {
-    display: none !important;
+  .filetree-wrapper {
+    position: fixed !important;
+    top: 0 !important;
+    left: 0 !important;
+    height: 100vh !important;
+    z-index: 9999 !important;
+    background: var(--background-primary) !important;
+    box-shadow: 2px 0 10px rgba(0,0,0,0.1);
   }
-  .page-controls-bubble .theme-toggle {
-    display: flex !important;
+
+  body.layout-collapsed .filetree-wrapper,
+  body.layout-collapsed .sidebar {
+    transform: none !important;
+    opacity: 1 !important;
+    visibility: visible !important;
+    pointer-events: auto !important;
+  }
+
+  /* Hide the desktop page controls entirely since mobile navbar handles it */
+  .page-controls-bubble {
+    display: none !important;
   }
 
   /* Very Narrow Screens: Further reduce margins */
   @media screen and (max-width: 500px) {
     main.content {
-      padding-left: 5px !important;
-      padding-right: 5px !important;
+      padding-left: 2vw !important;
+      padding-right: 2vw !important;
       padding-top: 50px !important;
     }
 
@@ -480,60 +476,14 @@ body.theme-light .sun-icon { display: none; }
 body.theme-dark .sun-icon { display: block; }
 body.theme-dark .moon-icon { display: none; }
 
+/* Hide filetree toggle (since it's removed on desktop, just clean up old styles) */
 .filetree-toggle {
-  position: fixed;
-  top: 15px;
-  left: 15px;
-  z-index: 100;
-  background: var(--background-secondary);
-  border: 1px solid var(--background-modifier-border);
-  border-radius: 50%;
-  padding: 6px;
-  cursor: pointer;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  color: var(--text-normal);
-  transition: all 0.2s ease;
-  width: 32px;
-  height: 32px;
-  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+  display: none !important;
 }
 
-.filetree-toggle i,
-.filetree-toggle svg {
-  width: 16px !important;
-  height: 16px !important;
-}
-
-.filetree-toggle:hover {
-  color: var(--text-accent);
-  background: var(--background-primary);
-}
-
-/* Collapsed state transitions handled via transform/opacity/visibility now */
-
-/* Hide toggle if no filetree at all */
-body.no-filetree .filetree-toggle {
-  display: none;
-}
-
-/* Hide toggle and print button on mobile */
-@media (max-width: 900px) {
-  .filetree-toggle {
-    left: 10px;
-    top: 10px;
-    background: var(--background-secondary);
-    opacity: 0.9;
-    backdrop-filter: blur(4px);
-  }
-  
+@media (max-width: 999px) {
   .page-controls-bubble {
-    right: 10px;
-    top: 10px;
-    background: var(--background-secondary);
-    opacity: 0.9;
-    backdrop-filter: blur(4px);
+    display: none !important;
   }
 
   /* Fix broken logo image on mobile navbar - hide img, show h1 text instead */
@@ -591,13 +541,14 @@ body.no-filetree .filetree-toggle {
 }
 
 .filetree-sidebar .site-name-title {
-  padding-right: 20px !important;
-  padding-left: 0 !important;
+  padding-right: 15px !important;
+  padding-left: 15px !important;
   margin-top: 15px !important;
   margin-bottom: 15px !important;
-  text-align: right !important;
+  text-align: left !important;
   display: block;
-  font-size: 1rem !important;
+  font-size: 2.2rem !important; /* Larger branding in filetree */
+  font-weight: bold;
   overflow: visible;
   text-overflow: clip;
 }
