@@ -7,24 +7,32 @@ document.addEventListener('DOMContentLoaded', () => {
         headings.forEach(heading => {
             heading.style.cursor = 'pointer';
 
-            // Add the chevron indicator
+            // Add the chevron indicator if it doesn't exist
             if (!heading.querySelector('.toggle-icon')) {
+                heading.classList.add('heading-open'); // Open by default
                 heading.insertAdjacentHTML('afterbegin', `<svg class="toggle-icon" viewBox="0 0 100 100" style="width: 10px; height: 10px; margin-right: 10px; transition: transform 0.2s; opacity: 0.5; display: inline-block;"><path d="M 30,20 L 70,50 L 30,80 Z" fill="currentColor"></path></svg>`);
             }
 
+            // Ensure we don't attach multiple listeners if this runs again
+            if (heading.dataset.collapseListener) return;
+            heading.dataset.collapseListener = "true";
+
             heading.addEventListener('click', function() {
-                const icon = this.querySelector('.toggle-icon');
+                // Toggle the 'heading-open' class for CSS animation
+                this.classList.toggle('heading-open');
+                const isExpanded = this.classList.contains('heading-open');
 
-                // Toggle the icon rotation
-                if (icon) {
-                    const isExpanded = icon.style.transform === 'rotate(90deg)';
-                    icon.style.transform = isExpanded ? 'rotate(0deg)' : 'rotate(90deg)';
-                }
-
-                // Toggle siblings until the next heading
+                // Toggle all siblings until the next heading of the same or higher level
                 let next = this.nextElementSibling;
-                while (next && !['H1', 'H2', 'H3'].includes(next.tagName)) {
-                    next.style.display = (next.style.display === 'none') ? 'block' : 'none';
+                const currentLevel = parseInt(this.tagName.substring(1));
+                
+                while (next) {
+                    const nextLevel = next.tagName.startsWith('H') ? parseInt(next.tagName.substring(1)) : null;
+                    // Break if we hit a heading of same or higher level (e.g., if current is H2 (2), break on H1 (1) or H2 (2))
+                    if (nextLevel && nextLevel <= currentLevel) break;
+                    
+                    // Toggle the visibility class
+                    next.classList.toggle('is-collapsed-content', !isExpanded);
                     next = next.nextElementSibling;
                 }
             });
