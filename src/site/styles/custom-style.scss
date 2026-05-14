@@ -212,6 +212,7 @@ main.content {
     margin-left: 240px !important; /* 10 margin L + 200 FT + 30 space A */
     margin-right: 60px !important;
     max-width: 100% !important; /* auto scales up to 999px */
+    width: auto !important;
   }
   body:not(.layout-collapsed) .sidebar {
     /* Below notes */
@@ -231,6 +232,7 @@ main.content {
 @media screen and (min-width: 1300px) and (max-width: 1599px) {
   body:not(.layout-collapsed) main.content {
     max-width: 999px !important;
+    width: auto !important;
     /* Center text in remaining space: 100vw - 210px (FT+L) */
     margin-left: calc(210px + (100vw - 210px - 999px) / 2) !important;
     margin-right: calc((100vw - 210px - 999px) / 2) !important;
@@ -254,6 +256,7 @@ main.content {
     margin-left: 240px !important; /* 10 + 200 + 30 */
     margin-right: 360px !important; /* 30 + 270 + 60 */
     max-width: 100% !important; /* expands from 1000 to 1250 */
+    width: auto !important;
   }
   body:not(.layout-collapsed) .sidebar {
     position: fixed !important;
@@ -269,6 +272,7 @@ main.content {
 @media screen and (min-width: 1850px) and (max-width: 2099px) {
   body:not(.layout-collapsed) main.content {
     max-width: 1250px !important;
+    width: auto !important;
     margin-left: calc(210px + (100vw - 1790px) / 2) !important;
     margin-right: calc(330px + (100vw - 1790px) / 2) !important;
   }
@@ -286,6 +290,7 @@ main.content {
 @media screen and (min-width: 2100px) {
   body:not(.layout-collapsed) main.content {
     max-width: calc(1250px + (100vw - 2100px) / 3) !important;
+    width: auto !important;
     margin-left: calc(365px + (100vw - 2100px) / 3) !important;
     margin-right: calc(485px + (100vw - 2100px) / 3) !important;
   }
