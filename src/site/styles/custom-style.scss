@@ -159,19 +159,10 @@ hr {
 
 body {
   /* 1. Define layout constants */
-  --dg-filetree-width: 250px; /* Increased to accommodate larger branding */
-  --dg-sidebar-max-width: min(280px, 22vw);
-  --dg-content-max-width: 820px;
-  --layout-gap: 40px;
-
-  /* 2. Set dynamic offsets based on state */
-  --active-left-offset: var(--dg-filetree-width);
-  --active-right-offset: var(--dg-sidebar-max-width);
-}
-
-body.layout-collapsed {
-  --active-left-offset: 0px;
-  --active-right-offset: 0px;
+  --ft-width: 200px;
+  --sb-width: 170px;
+  --m-left: 10px;
+  --m-right: 10px;
 }
 
 main.content {
@@ -179,46 +170,101 @@ main.content {
   margin-left: auto !important;
   margin-right: auto !important;
   width: 100% !important;
-  max-width: var(--dg-content-max-width) !important;
   transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
   position: relative;
-  padding-left: 20px !important;
-  padding-right: 20px !important;
+  padding-left: 0 !important;
+  padding-right: 0 !important;
   padding-bottom: 0 !important;
 }
 
 /* 4. Layout State Overrides (Desktop Only: >= 1000px) */
 @media screen and (min-width: 1000px) {
-  /* EXPANDED: BOTH VISIBLE */
-  body:not(.layout-collapsed) main.content {
-    --dg-content-max-width: 760px !important;
-    margin-left: calc(var(--active-left-offset) + var(--layout-gap)) !important;
-    margin-right: calc(var(--active-right-offset) + var(--layout-gap)) !important;
+  /* Fix sidebar and filetree to exact margins */
+  .filetree-wrapper {
+    position: fixed !important;
+    left: var(--m-left) !important;
+    width: var(--ft-width) !important;
+    z-index: 10;
+  }
+  
+  .sidebar {
+    position: fixed !important;
+    right: var(--m-right) !important;
+    width: var(--sb-width) !important;
+    z-index: 10;
   }
 
-  /* COLLAPSED: BOTH HIDDEN */
+  /* COLLAPSED: BOTH HIDDEN (Main text centered) */
   body.layout-collapsed main.content {
-    --dg-content-max-width: 1100px !important; /* Wider when collapsed */
+    max-width: 1100px !important;
     margin-left: auto !important;
     margin-right: auto !important;
+  }
+
+  /* EXPANDED: DYNAMIC CALCULATION BREAKPOINTS */
+
+  /* Breakpoint 1: 1000px - 1299px */
+  @media (max-width: 1299px) {
+    body:not(.layout-collapsed) .sidebar {
+      display: none !important;
+    }
+    body:not(.layout-collapsed) main.content {
+      max-width: none !important;
+      margin-left: calc(var(--m-left) + var(--ft-width) + 30px) !important; /* 240px */
+      margin-right: var(--m-right) !important; /* 10px */
+    }
+  }
+
+  /* Breakpoint 2: 1300px - 1499px */
+  @media (min-width: 1300px) and (max-width: 1499px) {
+    body:not(.layout-collapsed) .sidebar {
+      display: none !important;
+    }
+    body:not(.layout-collapsed) main.content {
+      max-width: 1049px !important;
+      margin-left: calc(240px + (100vw - 1299px) / 2) !important;
+      margin-right: auto !important;
+    }
+  }
+
+  /* Breakpoint 3: 1500px - 1749px */
+  @media (min-width: 1500px) and (max-width: 1749px) {
+    body:not(.layout-collapsed) main.content {
+      max-width: none !important;
+      margin-left: calc(var(--m-left) + var(--ft-width) + 30px) !important; /* 240px */
+      margin-right: calc(var(--m-right) + var(--sb-width) + 30px) !important; /* 210px */
+    }
+  }
+
+  /* Breakpoint 4: 1750px - 1999px */
+  @media (min-width: 1750px) and (max-width: 1999px) {
+    body:not(.layout-collapsed) main.content {
+      max-width: 1300px !important;
+      margin-left: calc(240px + (100vw - 1750px) / 2) !important;
+      margin-right: auto !important;
+    }
+  }
+
+  /* Breakpoint 5: >= 2000px */
+  @media (min-width: 2000px) {
+    body:not(.layout-collapsed) main.content {
+      max-width: none !important;
+      margin-left: calc(365px + (100vw - 2000px) / 3) !important;
+      margin-right: calc(335px + (100vw - 2000px) / 3) !important;
+    }
   }
 }
 
 /* 5. Component Overrides */
 .filetree-wrapper {
-  width: var(--dg-filetree-width) !important;
   justify-content: flex-start !important;
+  transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
 }
 
 /* 6. Fixed Sidebar Control (Desktop) */
 .sidebar {
-  position: fixed !important;
   top: var(--dg-sidebar-top) !important;
-  right: 20px !important;
-  left: auto !important;
-  width: var(--dg-sidebar-max-width) !important;
   height: calc(100% - var(--dg-sidebar-top)) !important;
-  z-index: 10;
   border: none !important;
   margin: 0 !important;
   padding: 0 !important;
