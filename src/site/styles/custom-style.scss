@@ -639,6 +639,16 @@ body.theme-dark .moon-icon { display: none; }
     display: block !important;
     contain: none !important;
   }
+
+  .mermaid, .mermaid svg {
+    max-width: 90% !important;
+    max-height: 90vh !important;
+    height: auto !important;
+    width: auto !important;
+    margin: 1em auto !important;
+    display: block !important;
+    page-break-inside: avoid !important;
+  }
 }
 
 .filetree-sidebar {
