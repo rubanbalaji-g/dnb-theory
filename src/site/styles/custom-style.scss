@@ -647,9 +647,11 @@ body.theme-dark .moon-icon { display: none; }
     max-height: 80vh !important;
     height: auto !important;
     margin: 2em 0 !important;
+    padding: 10px !important;
+    box-sizing: border-box !important;
     page-break-inside: avoid !important;
     break-inside: avoid !important;
-    overflow: hidden !important; /* Force container to respect child dimensions */
+    overflow: hidden !important;
     background: transparent !important;
     position: relative !important;
   }
@@ -657,7 +659,7 @@ body.theme-dark .moon-icon { display: none; }
   .mermaid svg {
     display: block !important;
     max-width: 100% !important;
-    max-height: 80vh !important;
+    max-height: 95% !important; /* Give buffer to prevent bottom clipping */
     height: auto !important;
     width: auto !important;
     margin: 0 auto !important;
