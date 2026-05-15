@@ -63,12 +63,12 @@ graph TD
 - Metabolite release exceeds excretory capacity of kidneys.
 - Occurs typically within 12-48 hours of initiating chemotherapy.
 - Occurs prior to therapy in patients with massive tumor burden or rapid cell proliferation.
-- Infrequently reported in Hodgkin lymphoma, neuroblastoma, and hepatoblastoma.
-- Complications include renal insufficiency, cardiac arrhythmias, seizures, disseminated intravascular coagulation, and death.
+- Infrequently reported in [[Hematology/Hodgkin Lymphoma\|Hodgkin lymphoma]], [[Hematology/Neuroblastoma\|neuroblastoma]], and hepatoblastoma.
+- Complications include renal insufficiency, [[Cardiology/Cardiac arrhythmias\|cardiac arrhythmias]], seizures, [[Hematology/Disseminated Intravascular Coagulation\|disseminated intravascular coagulation]], and death.
 
 ### Mechanisms Of Renal Dysfunction
 
-Multiple mechanisms contribute to acute kidney injury during tumor lysis syndrome (TLS):
+Multiple mechanisms contribute to [[Nephrology/Acute Kidney Injury\|acute kidney injury]] during [[Hematology/Tumor Lysis Syndrome\|tumor lysis syndrome]] (TLS):
 
 - Precipitation of uric acid crystals within renal tubules.
 - Precipitation of xanthine crystals. Occurs when urine pH exceeds 7.5 and following initiation of allopurinol.
@@ -79,7 +79,7 @@ Multiple mechanisms contribute to acute kidney injury during tumor lysis syndrom
 
 Diagnosis encompasses both laboratory derangements and clinical manifestations.
 
-### Laboratory Tumor Lysis Syndrome
+### Laboratory [[Hematology/Tumor Lysis Syndrome\|Tumor Lysis Syndrome]]
 
 Defined as $\ge$ 25% increase from baseline (or absolute value exceeding cut-offs) in $\ge$ 2 of the following serum biochemical parameters:
 
@@ -88,17 +88,17 @@ Defined as $\ge$ 25% increase from baseline (or absolute value exceeding cut-off
 - **Phosphorus:** >6.5 mg/dL.
 - **Corrected Serum Calcium:** <7 mg/dL.
 
-### Clinical Tumor Lysis Syndrome
+### Clinical [[Hematology/Tumor Lysis Syndrome\|Tumor Lysis Syndrome]]
 
 Defined as the presence of laboratory TLS accompanied by specific clinical manifestations:
 
 - Seizures.
-- Cardiac arrhythmias.
-- Acute kidney injury.
+- [[Cardiology/Cardiac arrhythmias\|Cardiac arrhythmias]].
+- [[Nephrology/Acute Kidney Injury\|Acute kidney injury]].
 
 ## Risk Stratification By Malignancy Type
 
-|Stratification Criteria|Acute Lymphoblastic Leukemia|Acute Myeloid Leukemia|Non-Hodgkin Lymphoma|Solid Tumors|
+|Stratification Criteria|[[Hematology/Acute Lymphoblastic Leukemia\|Acute Lymphoblastic Leukemia]]|[[Hematology/Acute Myeloid Leukemia\|Acute Myeloid Leukemia]]|[[Hematology/Non-Hodgkin Lymphoma\|Non-Hodgkin Lymphoma]]|Solid Tumors|
 |:--|:--|:--|:--|:--|
 |**Low Risk**|White blood cell count <50,000/mm³|White blood cell count <10,000/mm³|Indolent NHL|All patients|
 |**Intermediate Risk**|White blood cell count 50,000-100,000/mm³|White blood cell count 10,000-50,000/mm³|Diffuse large B-cell lymphoma|Tumors exhibiting rapid proliferation or expected rapid response to therapy|
@@ -147,7 +147,7 @@ Defined as the presence of laboratory TLS accompanied by specific clinical manif
 	- Indicated for high-risk patients or established hyperuricemia.
 	- **Contraindications:** 
 		- Assess glucose-6-phosphate dehydrogenase (G6PD) status prior to rasburicase administration. 
-		- Rasburicase causes severe methemoglobinemia or profound hemolytic anemia in G6PD-deficient patients.
+		- Rasburicase causes severe [[Hematology/Methemoglobinemia\|methemoglobinemia]] or profound hemolytic anemia in G6PD-deficient patients.
 - **Urinary Alkalization:** Target urine pH 7.0-7.5 to prevent uric acid crystallization. Must discontinue alkalization immediately upon chemotherapy initiation or rasburicase administration. Elevated pH actively promotes dangerous xanthine and calcium phosphate crystal precipitation.
 
 ### Hyperkalemia

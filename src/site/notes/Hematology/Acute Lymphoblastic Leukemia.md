@@ -34,10 +34,10 @@
 | **Peripheral Smear** | Demonstrates the presence of circulating lymphoblasts. |
 | **Bone Marrow Aspiration/Biopsy** | Definitive diagnostic test; requires >20% (WHO criteria) or >25% blasts. |
 | **Cerebrospinal Fluid (CSF) Analysis** | Cytology required to exclude CNS involvement. First intrathecal chemotherapy dose is administered during this tap. |
-| **Metabolic Screening** | Evaluates Uric acid, potassium, phosphorus, calcium, LDH, and renal/hepatic function to assess for Tumor Lysis Syndrome. |
+| **Metabolic Screening** | Evaluates Uric acid, potassium, phosphorus, calcium, LDH, and renal/hepatic function to assess for [[Hematology/Tumor Lysis Syndrome\|Tumor Lysis Syndrome]]. |
 | **Cytochemistry** | Confirms lineage; specifically Myeloperoxidase negative and Terminal deoxynucleotidyl transferase (TdT) positive. |
 | **Immunophenotyping (Flow Cytometry)** | Identifies lineage. B-cell markers: CD10, CD19, CD20, CD22. T-cell markers: CD2, CD3, CD4, CD5, CD7, CD8. |
-| **Cytogenetics / Molecular** | Utilizes Karyotyping, FISH, and PCR to detect critical translocations and prognostic genetic abnormalities. |
+| **Cytogenetics / Molecular** | Utilizes [[Genetics/Karyotyping\|Karyotyping]], FISH, and PCR to detect critical translocations and prognostic genetic abnormalities. |
 ## Genetics And Risk Stratification
 
 ### Cytogenetic Abnormalities And Prognostic Implications
@@ -74,7 +74,7 @@ Single most powerful prognostic indicator.
 | **Initial WBC Count**      | <50,000/μL                                       | $\ge$ 50,000/μL                                                               |
 | **Immunophenotype**        | B-precursor cell                                 | T-cell (historically), Mature B-cell                                          |
 | **Extramedullary Disease** | Absent                                           | Central nervous system (CNS3) or testicular involvement                       |
-| **Cytogenetics (Ploidy)**  | Hyperdiploidy (>50 chromosomes), DNA index >1.16 | Hypodiploidy (<44 chromosomes), DNA index <0.81                               |
+| **Cytogenetics (Ploidy)**  | Hyperdiploidy (>50 chromosomes), DNA [[Statistics/Index\|index]] >1.16 | Hypodiploidy (<44 chromosomes), DNA [[Statistics/Index\|index]] <0.81                               |
 | **Translocations**         | t(12;21) / ETV6-RUNX1, Trisomies 4 and 10        | t(9;22) / BCR-ABL1 (Philadelphia), KMT2A (MLL) rearrangement, iAMP21, Ph-like |
 
 ## Advanced Risk Grouping
@@ -97,7 +97,7 @@ Stratification distinct from B-ALL; heavily dependent on MRD response.
 - **Very High Risk:** End of consolidation MRD $\ge$ 0.1% or induction failure.
 ## Management And Treatment Strategies
 
-The management of Acute Lymphoblastic Leukemia (ALL) is a complex, risk-adapted process involving systemic chemotherapy, CNS-directed therapy, and supportive care. Below is the summary of strategies based on the current clinical protocols.
+The management of [[Hematology/Acute Lymphoblastic Leukemia\|Acute Lymphoblastic Leukemia]] (ALL) is a complex, risk-adapted process involving systemic chemotherapy, CNS-directed therapy, and supportive care. Below is the summary of strategies based on the current clinical protocols.
 
 ### Management Strategies for ALL
 
@@ -111,9 +111,9 @@ The management of Acute Lymphoblastic Leukemia (ALL) is a complex, risk-adapted 
 | **Maintenance**                     | Eradicate minimal residual disease (MRD) over 2-3 years.             | <ul><li>Daily 6-Mercaptopurine</li><li>Weekly Methotrexate</li><li>Periodic pulses of Vincristine/Dexamethasone</li></ul>                           |
 ### General Supportive Care
 
-- **Tumor Lysis Syndrome (TLS) Prevention:** Aggressive intravenous hydration (2-3 times maintenance). Administer Allopurinol (300 mg/m²/day) or Rasburicase (0.15-0.2 mg/kg/day IV) for high-risk patients (WBC >100,000/mm³). Monitor electrolytes meticulously.
+- **[[Hematology/Tumor Lysis Syndrome\|Tumor Lysis Syndrome]] (TLS) Prevention:** Aggressive intravenous hydration (2-3 times maintenance). Administer Allopurinol (300 mg/m²/day) or Rasburicase (0.15-0.2 mg/kg/day IV) for high-risk patients (WBC >100,000/mm³). Monitor electrolytes meticulously.
 - **Infection Prophylaxis:** _Pneumocystis jirovecii_ prophylaxis (Trimethoprim-sulfamethoxazole) mandatory throughout therapy.
-- **Febrile Neutropenia Management:** Prompt hospitalization. Immediate broad-spectrum intravenous antibiotics (covering pseudomonas). Add antifungals if fever persists beyond 3-5 days.
+- **[[Infectious Diseases/Febrile Neutropenia\|Febrile Neutropenia]] Management:** Prompt hospitalization. Immediate broad-spectrum intravenous antibiotics (covering pseudomonas). Add antifungals if fever persists beyond 3-5 days.
 - **Transfusion Support:** Irradiated, leukoreduced, cytomegalovirus-safe packed red blood cells and platelets administered for severe anemia or thrombocytopenia.
 
 ### Phases Of Systemic Chemotherapy

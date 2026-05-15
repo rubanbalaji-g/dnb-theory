@@ -105,12 +105,12 @@
 |Isoimmune hemolytic disease|Neonatal onset, maternal-fetal ABO/Rh incompatibility, positive direct antiglobulin test.|
 |Hereditary spherocytosis|Family history, negative direct antiglobulin test, positive eosin-5-maleimide binding flow cytometry.|
 |Microangiopathic hemolytic anemia|Schistocytes, helmet cells, negative direct antiglobulin test, renal/neurologic involvement.|
-|Glucose-6-phosphate dehydrogenase deficiency|Bite cells, Heinz bodies, oxidant exposure history, negative direct antiglobulin test.|
-|Wilson disease|Negative direct antiglobulin test, liver/central nervous system involvement, high copper.|
+|[[Hematology/Glucose-6-Phosphate Dehydrogenase Deficiency\|Glucose-6-phosphate dehydrogenase deficiency]]|Bite cells, Heinz bodies, oxidant exposure history, negative direct antiglobulin test.|
+|[[Gastrointestinal/Wilson Disease\|Wilson disease]]|Negative direct antiglobulin test, liver/central nervous system involvement, high copper.|
 
 ## Management
 
-### Warm Autoimmune Hemolytic Anemia
+### Warm [[Hematology/Autoimmune Hemolytic Anemia\|Autoimmune Hemolytic Anemia]]
 
 - Blood transfusion: utilize "least incompatible" blood. Administer small volumes (5 ml/kg) slowly (2 ml/kg/h) to prevent cardiopulmonary embarrassment. Coordinate closely with blood bank.
 - Glucocorticoids: first-line therapy. Administer intravenous methylprednisolone (1-2 mg/kg/day, up to 30 mg/kg daily for 3 days in severe cases) or oral prednisone (2 mg/kg/day). Taper slowly over 4-6 months once hemoglobin stabilizes.
@@ -119,7 +119,7 @@
 - Plasmapheresis: limited efficacy because immunoglobulin G resides primarily in extravascular spaces.
 - Immunomodulators: utilized for chronic or refractory management. Options include mycophenolate mofetil (15 mg/kg twice daily), sirolimus (specifically effective in autoimmune lymphoproliferative syndrome and Evans syndrome), cyclosporine, azathioprine, danazol, or bortezomib.
 - Splenectomy: considered for severe refractory cases unresponsive to medical management. Requires preoperative immunization against encapsulated organisms and lifelong postoperative penicillin prophylaxis. Carries risks of thrombosis and pulmonary hypertension.
-- Recombinant erythropoietin: indicated strictly for refractory cases manifesting severe reticulocytopenia.
+- Recombinant [[Hematology/Erythropoietin\|erythropoietin]]: indicated strictly for refractory cases manifesting severe reticulocytopenia.
 
 ### Cold Agglutinin Disease
 

@@ -4,7 +4,7 @@
 
 ## 1. Introduction and Definition
 
-**Nosocomial infections**, now more commonly referred to as **Healthcare-Associated Infections (HAIs)**, are infections that occur in patients during the process of care in a hospital or other healthcare facility, which were **neither present nor incubating at the time of admission**,.
+**[[Infectious Diseases/Nosocomial infections\|Nosocomial infections]]**, now more commonly referred to as **Healthcare-Associated Infections (HAIs)**, are infections that occur in patients during the process of care in a hospital or other healthcare facility, which were **neither present nor incubating at the time of admission**,.
 
 Typically, infections manifesting **more than 48 hours after admission** are considered nosocomial. These infections represent a significant public health burden, leading to increased morbidity, mortality, prolonged hospital stays, and elevated healthcare costs. In the pediatric population, critically ill children in Pediatric Intensive Care Units (PICUs) and Neonatal Intensive Care Units (NICUs) are at the highest risk.
 
@@ -67,7 +67,7 @@ The most serious and reportable HAIs include:
 - **Pathogenesis:** Aspiration of colonized oropharyngeal or gastric secretions.
 - **Etiology:** _P. aeruginosa_, _S. aureus_, _Klebsiella_.
 
-### 5.3. Catheter-Associated Urinary Tract Infection (CAUTI)
+### 5.3. Catheter-Associated [[Nephrology/Urinary Tract Infection\|Urinary Tract Infection]] (CAUTI)
 
 - **Risk:** Virtually all patients with an indwelling urinary catheter >30 days develop bacteriuria.
 - **Etiology:** _E. coli_, _Enterococcus_, _Pseudomonas_, _Candida_,.

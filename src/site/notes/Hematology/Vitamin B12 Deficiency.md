@@ -52,7 +52,7 @@
 
 - **Complete Blood Count:** Macrocytic anemia (MCV >100 fL, often 110-140 fL).
 - Elevated Red Cell Distribution Width (RDW).
-- Leukopenia and thrombocytopenia (simulating aplastic anemia or leukemia in advanced cases).
+- Leukopenia and thrombocytopenia (simulating [[Hematology/Aplastic Anemia\|aplastic anemia]] or leukemia in advanced cases).
 - Inappropriately low absolute reticulocyte count.
 - **Peripheral Smear:**
     - Macro-ovalocytes.
@@ -69,7 +69,7 @@
 - **Serum Vitamin B12:** Typically <80 pg/mL (normal 200-800 pg/mL). May be falsely normal in TC II deficiency or metabolic defects.
 - **Metabolites (Confirmatory):**
     - **Methylmalonic Acid (MMA):** Markedly elevated (>280 nmol/L); specific for B12 deficiency. Excessive urinary MMA excretion.
-    - **Homocysteine:** Elevated (non-specific; also raised in folate deficiency).
+    - **Homocysteine:** Elevated (non-specific; also raised in [[Hematology/Folate Deficiency\|folate deficiency]]).
 - **Hemolysis Markers:** Markedly elevated Lactate Dehydrogenase (LDH), moderate indirect hyperbilirubinemia (2-3 mg/dL), decreased haptoglobin (reflecting ineffective erythropoiesis and apoptosis of megaloblastic cells).
 - **Iron/Folate Profile:** Serum iron and serum folic acid typically normal or elevated.
 
@@ -82,7 +82,7 @@
 |**Orotic Aciduria**|Defect in pyrimidine synthesis. Normal B12/folate. Orotic acid in urine. Uridine-responsive.|
 |**Lesch-Nyhan Syndrome**|Hypoxanthine phosphoribosyltransferase deficiency. Mental retardation, choreoathetosis, self-mutilation. Adenine-responsive.|
 |**Drug-Induced Macrocytosis**|Use of purine/pyrimidine analogs (methotrexate, 6-mercaptopurine, azathioprine, 5-fluorouracil) or ribonucleotide reductase inhibitors (hydroxyurea).|
-|**Bone Marrow Failure / MDS**|Aplastic anemia, Fanconi anemia, or Myelodysplastic syndromes. Distinguished by marrow cellularity, cytogenetics, and absence of hypersegmented neutrophils.|
+|**Bone Marrow Failure / MDS**|[[Hematology/Aplastic Anemia\|Aplastic anemia]], [[Hematology/Fanconi Anemia\|Fanconi anemia]], or Myelodysplastic syndromes. Distinguished by marrow cellularity, cytogenetics, and absence of hypersegmented neutrophils.|
 
 ## Management and Treatment
 

@@ -4,7 +4,7 @@
 
 ## Introduction
 
-Leptospirosis is a widespread zoonotic disease caused by pathogenic spirochetes of the genus _Leptospira_. It is considered the most widespread zoonosis in the world, with significant morbidity and mortality, particularly in tropical and subtropical regions. The disease is characterized by a broad spectrum of clinical manifestations, ranging from subclinical or mild anicteric febrile illness to severe multiorgan failure known as Weil syndrome. It is often referred to as a "neglected tropical disease" and is an emerging pathogen due to increased human-animal interface and climate change events like flooding.
+[[Infectious Diseases/Leptospirosis\|Leptospirosis]] is a widespread zoonotic disease caused by pathogenic spirochetes of the genus _Leptospira_. It is considered the most widespread zoonosis in the world, with significant morbidity and mortality, particularly in tropical and subtropical regions. The disease is characterized by a broad spectrum of clinical manifestations, ranging from subclinical or mild anicteric febrile illness to severe multiorgan failure known as Weil syndrome. It is often referred to as a "neglected tropical disease" and is an emerging pathogen due to increased human-animal interface and climate change events like flooding.
 
 ## Etiology
 
@@ -37,7 +37,7 @@ Following entry through skin or mucosa, the organisms enter the bloodstream and 
 
 ### Systemic Vasculitis
 
-The hallmark of leptospirosis is extensive **small-vessel vasculitis** (capillary injury).
+The hallmark of [[Infectious Diseases/Leptospirosis\|leptospirosis]] is extensive **small-vessel vasculitis** (capillary injury).
 
 - **Mechanism:** Leptospires damage the endothelium of small blood vessels.
 - **Consequence:** This leads to leakage of fluid and protein (edema), extravasation of cells (hemorrhage), and ischemic damage to end organs.
@@ -51,7 +51,7 @@ The natural history typically follows two phases:
 
 ### Organ-Specific Pathophysiology
 
-- **Kidney:** Tubulointerstitial nephritis is the primary lesion. Pathophysiology involves hypoxic/ischemic insult, direct nephrotoxicity, and immune-mediated damage. This leads to acute tubular necrosis (ATN) and acute kidney injury (AKI). Hypokalemia is often seen due to inhibition of tubular sodium-potassium transport.
+- **Kidney:** Tubulointerstitial nephritis is the primary lesion. Pathophysiology involves hypoxic/ischemic insult, direct nephrotoxicity, and immune-mediated damage. This leads to acute tubular necrosis (ATN) and [[Nephrology/Acute Kidney Injury\|acute kidney injury]] (AKI). Hypokalemia is often seen due to inhibition of tubular sodium-potassium transport.
 - **Liver:** Hepatocellular necrosis and cholestasis occur but are generally less severe than the functional impairment suggests. Jaundice is caused by hepatocellular dysfunction, bilirubin overload from hemolysis, and cholestasis.
 - **Lungs:** Pulmonary hemorrhage is a severe complication caused by toxic/immune-mediated damage to alveolar capillaries (alveolitis).
 - **Muscles:** Direct invasion leads to vacuolization of myofibrils and focal necrosis (rhabdomyolysis), causing severe myalgia.
@@ -61,7 +61,7 @@ The natural history typically follows two phases:
 
 The incubation period is usually **7–12 days** (range 2–30 days). The clinical presentation is protean.
 
-### 1. Anicteric Leptospirosis (90% of cases)
+### 1. Anicteric [[Infectious Diseases/Leptospirosis\|Leptospirosis]] (90% of cases)
 
 This is the milder and most common form. It typically presents with a biphasic course.
 
@@ -74,16 +74,16 @@ This is the milder and most common form. It typically presents with a biphasic c
     - **Rash:** Transient macular, maculopapular, or petechial rash (e.g., pretibial rash in _L. autumnalis_).
 - **Immune Phase:**
     - Fever may recur.
-    - **Aseptic Meningitis:** Occurs in up to 80% of children (CSF pleocytosis) but clinical signs (neck stiffness) are present in only 50%.
+    - **Aseptic [[Neurology/Meningitis\|Meningitis]]:** Occurs in up to 80% of children (CSF pleocytosis) but clinical signs (neck stiffness) are present in only 50%.
     - **Uveitis:** Anterior uveitis (iridocyclitis) may develop weeks to months later.
 
-### 2. Icteric Leptospirosis (Weil Syndrome) (5–10% of cases)
+### 2. Icteric [[Infectious Diseases/Leptospirosis\|Leptospirosis]] (Weil Syndrome) (5–10% of cases)
 
 A severe, potentially fatal form characterized by the triad of **jaundice, renal failure, and hemorrhage**.
 
 - **Hepatic:** Jaundice appears between days 4 and 9. Hepatomegaly and right upper quadrant tenderness are common. Liver failure is rare.
 - **Renal:** Azotemia, oliguria, or anuria. Acute Renal Failure (ARF) is a major cause of mortality.
-- **Hemorrhagic Diathesis:** Epistaxis, petechiae, purpura, melena, and hematemesis.
+- **Hemorrhagic Diathesis:** Epistaxis, petechiae, purpura, melena, and [[Gastrointestinal/Hematemesis\|hematemesis]].
 - **Cardiovascular:** Myocarditis, arrhythmias, and hypotension/shock.
 
 ### 3. Severe Pulmonary Hemorrhage Syndrome (SPHS)
@@ -140,12 +140,12 @@ Diagnosis is based on a combination of clinical suspicion and laboratory confirm
 
 ## Differential Diagnosis
 
-Leptospirosis is a great mimicker.
+[[Infectious Diseases/Leptospirosis\|Leptospirosis]] is a great mimicker.
 
-- **Dengue Fever:** Differentiated by retro-orbital pain, distinctive rash, and absence of significant renal failure or neutrophilic leukocytosis.
-- **Malaria:** Differentiated by periodicity of fever, splenomegaly, and blood smear.
+- **[[Infectious Diseases/Dengue\|Dengue]] Fever:** Differentiated by retro-orbital pain, distinctive rash, and absence of significant renal failure or neutrophilic leukocytosis.
+- **[[Infectious Diseases/Malaria\|Malaria]]:** Differentiated by periodicity of fever, splenomegaly, and blood smear.
 - **Viral Hepatitis:** Higher transaminases (>1000), absence of neutrophilia and renal failure.
-- **Enteric Fever:** Step-ladder fever, relative bradycardia, Widal test.
+- **[[Infectious Diseases/Enteric Fever\|Enteric Fever]]:** Step-ladder fever, relative bradycardia, Widal test.
 - **Hantavirus (HFRS):** Similar renal/hemorrhagic picture; distinguished by epidemiology and serology.
 - **Rickettsial Diseases:** Eschar, rash distribution.
 - **Meningitis/Encephalitis:** In the immune phase.

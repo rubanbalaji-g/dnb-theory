@@ -77,7 +77,7 @@
 
 - Prepares breast tissue for lactation.
 - Initiates and maintains postpartum milk production.
-- Modulates gonadal steroidogenesis (low concentrations upregulate LH receptors; high concentrations inhibit steroid biosynthesis).
+- Modulates gonadal steroidogenesis (low concentrations upregulate LH receptors; high concentrations inhibit [[Endocrinology/Steroid Biosynthesis\|steroid biosynthesis]]).
 
 ## Thyroid-Stimulating Hormone (TSH)
 

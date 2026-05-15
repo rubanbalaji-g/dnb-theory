@@ -4,7 +4,7 @@
 
 ## Overview And Indications For Evaluation
 
-- Suspect inherited thrombophilia with recurrent or life-threatening venous thromboembolism (VTE) starting in infancy or childhood.
+- Suspect inherited [[Hematology/Thrombophilia\|thrombophilia]] with recurrent or life-threatening venous thromboembolism (VTE) starting in infancy or childhood.
 - Indicated by family history of VTE before age 45.
 - Consider testing lacking acquired risk factors (central venous catheters, immobilization, combined oral contraceptives).
 - History of multiple spontaneous abortions or stillbirths suggests inherited predisposition.
@@ -25,7 +25,7 @@
 - Single point mutation (G to A) at nucleotide 1691 (or 1765) within factor V gene.
 - Arginine replaced by glutamine at position 506 (R506Q).
 - Renders activated factor V resistant to inactivation by activated protein C (APC).
-- Single most common inherited thrombophilia in Caucasian populations (3-8% prevalence).
+- Single most common inherited [[Hematology/Thrombophilia\|thrombophilia]] in Caucasian populations (3-8% prevalence).
 - Heterozygotes exhibit 5-10-fold increased VTE risk; homozygotes face 80-fold increased risk.
 - Oral contraceptive usage synergistically enhances prothrombotic risk.
 
@@ -54,7 +54,7 @@
 - Activated PC inactivates factor Va and factor VIIIa.
 - Type 1 (quantitative): Decreased plasma concentration and functional activity.
 - Type 2 (qualitative): Decreased functional activity with normal antigen levels.
-- Homozygous or compound heterozygous neonates present with purpura fulminans, progressive skin necrosis, and disseminated intravascular coagulation (DIC).
+- Homozygous or compound heterozygous neonates present with purpura fulminans, progressive skin necrosis, and [[Hematology/Disseminated Intravascular Coagulation\|disseminated intravascular coagulation]] (DIC).
 - Heterozygous deficiency constitutes major cause of warfarin-induced skin necrosis.
 
 #### Protein S Deficiency
@@ -79,12 +79,12 @@
 
 ### Other Inherited Prothrombotic Risk Factors
 
-- **Lipoprotein(a):** Elevated levels compete with plasminogen, regulating fibrinolysis. Independent risk factor for pediatric stroke and VTE.
+- **Lipoprotein(a):** Elevated levels compete with plasminogen, regulating fibrinolysis. Independent risk factor for [[Neurology/Pediatric Stroke\|pediatric stroke]] and VTE.
 - **Elevated Factor VIII:** Polygenic elevation increases thrombosis risk; acts as acute-phase reactant.
 
 ## Clinical Characteristics And Laboratory Profile
 
-|Thrombophilia|Inheritance|General Population Prevalence|Laboratory Evaluation|
+|[[Hematology/Thrombophilia\|Thrombophilia]]|Inheritance|General Population Prevalence|Laboratory Evaluation|
 |:--|:--|:--|:--|
 |**Factor V Leiden**|Autosomal Dominant|3-7% (Caucasians)|Gene testing (R506Q mutation); APC resistance assay|
 |**Prothrombin 20210**|Autosomal Dominant|1-4%|Gene testing (G20210A transition)|
@@ -98,7 +98,7 @@
 - Healthy neonates possess physiologically reduced concentrations of PC, PS, and AT.
 - Protein C levels remain below adult normal ranges throughout much of childhood.
 - Requires age-adjusted pediatric normal ranges for accurate interpretation.
-- Nongenetic factors influence testing: acute thrombosis, infection, inflammation, hepatic dysfunction, nephrotic syndrome, medications, and vitamin K deficiency.
+- Nongenetic factors influence testing: acute thrombosis, infection, inflammation, hepatic dysfunction, [[Nephrology/Nephrotic Syndrome\|nephrotic syndrome]], medications, and vitamin K deficiency.
 - Repeat testing or parental testing recommended to confirm inherited deficiency.
 
 ## Management Strategies

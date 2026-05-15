@@ -12,7 +12,7 @@
 - Spontaneous _de novo_ mutations account for one-third of cases.
 - Intron 22 inversion mutation identifiable in 45-50% of severe cases.
 - Female carriers generally asymptomatic.
-- Symptomatic female carriers occur secondary to skewed lyonization or Turner syndrome, exhibiting factor levels <40%.
+- Symptomatic female carriers occur secondary to skewed lyonization or [[Genetics/Turner Syndrome\|Turner syndrome]], exhibiting factor levels <40%.
 
 ## Pathophysiology Of Hemorrhage
 
@@ -69,8 +69,8 @@
 ### Prenatal And Carrier Testing
 
 - Chorionic villus sampling performed at 10-12 weeks gestation.
-- Amniocentesis performed after 15 weeks gestation.
-- Fetal blood sampling via cordocentesis feasible at 18-20 weeks.
+- [[Neonatalogy/Amniocentesis\|Amniocentesis]] performed after 15 weeks gestation.
+- Fetal blood sampling via [[Neonatalogy/Cordocentesis\|cordocentesis]] feasible at 18-20 weeks.
 - Carrier detection utilizes targeted mutation analysis.
 - FVIII/vWF:Ag ratio <1.0 detects 80% of carriers with 95% accuracy.
 
@@ -98,7 +98,7 @@
 
 ### Prophylaxis Therapy
 
-- Standard of care for children with severe hemophilia A.
+- Standard of care for children with severe [[Hematology/Hemophilia A\|hemophilia A]].
 - Objective: Convert severe phenotype to moderate phenotype.
 - Maintains trough factor levels >1-2%.
 - Prevents spontaneous hemorrhages; preserves joint integrity.
@@ -114,7 +114,7 @@
 
 ### Ancillary Therapies
 
-- **Desmopressin (DDAVP):** Stimulates endogenous endothelial release of FVIII and vWF. Increases baseline FVIII twofold to fivefold. Indicated for mild hemophilia A. Dose: 0.3 μg/kg intravenously or 150-300 μg intranasal spray (Stimate). Contraindicated in children <2 years due to severe hyponatremic seizure risk. Tachyphylaxis occurs after 4-5 consecutive days.
+- **Desmopressin (DDAVP):** Stimulates endogenous endothelial release of FVIII and vWF. Increases baseline FVIII twofold to fivefold. Indicated for mild [[Hematology/Hemophilia A\|hemophilia A]]. Dose: 0.3 μg/kg intravenously or 150-300 μg intranasal spray (Stimate). Contraindicated in children <2 years due to severe hyponatremic seizure risk. Tachyphylaxis occurs after 4-5 consecutive days.
 - **Antifibrinolytic Agents:** Epsilon-aminocaproic acid (EACA) or tranexamic acid. Inhibit plasminogen activation. Efficacious for mucosal, oral, and epistaxis hemorrhage. Contraindicated in urinary tract hemorrhage due to intrarenal clot formation risk.
 
 ## Complications
@@ -123,7 +123,7 @@
 
 - Represents most severe complication of modern replacement therapy.
 - Neutralizing IgG alloantibodies target exogenous FVIII.
-- Occurs in 20-30% of severe Hemophilia A patients.
+- Occurs in 20-30% of severe [[Hematology/Hemophilia A\|Hemophilia A]] patients.
 - Risk factors: Large gene deletions, African-American ethnicity, early intensive factor exposure (trauma, surgery).
 - **Quantification:** Bethesda Assay. 1 Bethesda Unit (BU) neutralizes 1 IU/mL of factor activity.
 
@@ -133,7 +133,7 @@
 - **High Responders (>5 BU):** Exhibit rapid anamnestic response. Require bypassing agents for hemostatic control.
     - **Activated Prothrombin Complex Concentrate (aPCC / FEIBA):** Contains FVIIa, FXa, prothrombin. Dose: 75-100 U/kg q8-12h. Thrombogenic risk at high/prolonged doses.
     - **Recombinant FVIIa (NovoSeven):** Bypasses FVIII requirement. Dose: 90 μg/kg q2h.
-- **Immune Tolerance Induction (ITI):** Frequent, high-dose administration of FVIII concentrate (e.g., 200 IU/kg/day). Aims to induce immunologic tolerance and eradicate inhibitor. Success rate approximately 70% in Hemophilia A.
+- **Immune Tolerance Induction (ITI):** Frequent, high-dose administration of FVIII concentrate (e.g., 200 IU/kg/day). Aims to induce immunologic tolerance and eradicate inhibitor. Success rate approximately 70% in [[Hematology/Hemophilia A\|Hemophilia A]].
 - **Immunosuppression:** Rituximab (anti-CD20 antibody) utilized in ITI failure.
 - **Plasmapheresis:** Extracorporeal immunoadsorption rapidly reduces severe acute inhibitor titers in life-threatening bleeding situations.
 
@@ -147,5 +147,5 @@
 
 ### Transfusion-Transmitted Infections
 
-- Historically high transmission rates of Hepatitis B, Hepatitis C, and HIV via non-inactivated plasma products.
+- Historically high transmission rates of [[Gastrointestinal/Hepatitis B\|Hepatitis B]], [[Gastrointestinal/Hepatitis C\|Hepatitis C]], and HIV via non-inactivated plasma products.
 - Modern risk virtually eliminated via stringent donor nucleic acid testing, solvent-detergent viral inactivation, nanofiltration, and widespread utilization of recombinant factors.

@@ -4,11 +4,11 @@
 
 ### Introduction and Definition
 
-Cerebral malaria is the most common and severe complication of _Plasmodium falciparum_ infection in children, contributing significantly to mortality. It is defined as a clinical syndrome characterized by:
+[[Infectious Diseases/Cerebral Malaria\|Cerebral malaria]] is the most common and severe complication of _Plasmodium falciparum_ infection in children, contributing significantly to mortality. It is defined as a clinical syndrome characterized by:
 
 - **Unarousable Coma:** Blantyre Coma Score <3 (in pre-verbal children) or Glasgow Coma Scale <11 (in adults), persisting for more than 1 hour after termination of a seizure or correction of hypoglycemia.
 - **Parasitemia:** Presence of asexual forms of _P. falciparum_ in peripheral blood.
-- **Exclusion:** Exclusion of other causes of encephalopathy (e.g., bacterial meningitis, viral encephalitis, hypoglycemia).
+- **Exclusion:** Exclusion of other causes of encephalopathy (e.g., bacterial [[Neurology/Meningitis\|meningitis]], [[Neurology/Viral Encephalitis\|viral encephalitis]], hypoglycemia).
 
 ### Epidemiology
 
@@ -33,7 +33,7 @@ The onset may be gradual (following 1–2 days of fever) or precipitous (especia
 - **Seizures:** Occur in 50–70% of children; often generalized, repeated, or status epilepticus.
 - **Abnormal Posturing:** Decerebrate (extensor) or decorticate (flexor) posturing and opisthotonus are common.
 - **Brainstem Signs:** Abnormalities in pupillary reflexes (constricted or unequal), dysconjugate gaze, and irregularities in breathing patterns (e.g., Cheyne-Stokes).
-- **Malarial Retinopathy:** A highly specific sign for cerebral malaria consisting of retinal whitening (macular/peripheral), vessel discoloration (orange/white vessels), and retinal hemorrhages. Its presence confirms the diagnosis; its absence in a comatose child with parasitemia should prompt a search for other causes.
+- **Malarial Retinopathy:** A highly specific sign for [[Infectious Diseases/Cerebral Malaria\|cerebral malaria]] consisting of retinal whitening (macular/peripheral), vessel discoloration (orange/white vessels), and retinal hemorrhages. Its presence confirms the diagnosis; its absence in a comatose child with parasitemia should prompt a search for other causes.
 - **Associated Systemic Signs:** Fever, severe anemia (pallor), splenomegaly, hepatomegaly, and respiratory distress (acidotic breathing).
 
 ### Diagnosis
@@ -41,15 +41,15 @@ The onset may be gradual (following 1–2 days of fever) or precipitous (especia
 - **Parasitology:**
     - **Thick and Thin Smear:** Gold standard. Demonstrates _P. falciparum_ asexual forms. _Note: Peripheral parasitemia may be low due to sequestration_.
     - **Rapid Diagnostic Tests (RDTs):** Useful if microscopy is unavailable; detects HRP-2 or pLDH antigens.
-- **CSF Examination:** Essential to rule out bacterial meningitis.
+- **CSF Examination:** Essential to rule out bacterial [[Neurology/Meningitis\|meningitis]].
     - **Opening Pressure:** Often elevated.
-    - **Analysis:** Usually normal or shows mild pleocytosis (10–20 cells/µL), slightly elevated protein, and normal glucose. High WBC counts suggest meningitis.
-- **Blood Glucose:** Mandatory to rule out hypoglycemia (<40 mg/dL or <2.2 mmol/L), which mimics cerebral malaria.
+    - **Analysis:** Usually normal or shows mild pleocytosis (10–20 cells/µL), slightly elevated protein, and normal glucose. High WBC counts suggest [[Neurology/Meningitis\|meningitis]].
+- **Blood Glucose:** Mandatory to rule out hypoglycemia (<40 mg/dL or <2.2 mmol/L), which mimics [[Infectious Diseases/Cerebral Malaria\|cerebral malaria]].
 - **Neuroimaging (CT/MRI):** Typically shows brain swelling/edema. Useful to rule out other intracranial lesions but not required for diagnosis.
 
 ### Management
 
-Severe malaria is a medical emergency requiring admission to an intensive care unit (ICU).
+Severe [[Infectious Diseases/Malaria\|malaria]] is a medical emergency requiring admission to an intensive care unit (ICU).
 
 #### 1. General Supportive Care
 

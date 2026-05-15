@@ -65,7 +65,7 @@
 
 |Defect Category|Specific Disorder|Genetic/Molecular Mechanism|
 |:--|:--|:--|
-|**Absorption**|Iron-Refractory Iron-Deficiency Anemia (IRIDA)|_TMPRSS6_ mutation; elevated hepcidin degrades ferroportin, blocking intestinal absorption.|
+|**Absorption**|Iron-Refractory Iron-Deficiency Anemia ([[Hematology/IRIDA\|IRIDA]])|_TMPRSS6_ mutation; elevated hepcidin degrades ferroportin, blocking intestinal absorption.|
 |**Transport**|Atransferrinemia|_TF_ gene mutation; absent serum transferrin leading to severe liver iron overload.|
 |**Recycling**|Aceruloplasminemia|_CP_ gene mutation; absent ceruloplasmin. Iron fails to transport from macrophages to plasma, accumulating in brain/viscera.|
 |**Utilization**|Sideroblastic Anemias|Defective heme synthesis (_ALAS2_ mutations common). Iron retention within mitochondria of marrow RBC precursors forming **ringed sideroblasts**.|

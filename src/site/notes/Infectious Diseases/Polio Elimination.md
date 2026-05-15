@@ -21,11 +21,11 @@ India's journey toward polio eradication is considered a monumental public healt
 
 - **1978:** Introduction of the Expanded Program on Immunization (EPI).
 - **1988:** India committed to the World Health Assembly resolution for global polio eradication.
-- **1995:** Launch of the Pulse Polio Immunization (PPI) program, targeting children aged 0–3 years (later expanded to 0–5 years) with Oral Polio Vaccine (OPV).
+- **1995:** Launch of the [[Infectious Diseases/Pulse Polio Immunization\|Pulse Polio Immunization]] (PPI) program, targeting children aged 0–3 years (later expanded to 0–5 years) with [[Misc/Oral Polio Vaccine\|Oral Polio Vaccine]] (OPV).
 - **1997:** Establishment of the National Polio Surveillance Project (NPSP) in collaboration with WHO to intensify [[Neuromuscular/Acute Flaccid Paralysis\|Acute Flaccid Paralysis]] (AFP) surveillance.
 - **1999:** The last case of **WPV Type 2** was recorded in India.
-- **2005:** Introduction of Monovalent Oral Polio Vaccine (mOPV1 and later mOPV3) to enhance efficacy in high-risk areas.
-- **2010:** Introduction of Bivalent Oral Polio Vaccine (bOPV) in sub-national immunization days (SNIDs).
+- **2005:** Introduction of Monovalent [[Misc/Oral Polio Vaccine\|Oral Polio Vaccine]] (mOPV1 and later mOPV3) to enhance efficacy in high-risk areas.
+- **2010:** Introduction of Bivalent [[Misc/Oral Polio Vaccine\|Oral Polio Vaccine]] (bOPV) in sub-national immunization days (SNIDs).
 - **2010:** The last case of **WPV Type 3** was recorded.
 - **2011 (January 13):** The last case of **WPV Type 1** was reported in Howrah, West Bengal.
 - **2012:** India was removed from the list of polio-endemic countries.
@@ -37,22 +37,22 @@ The success in India was achieved through a four-pronged strategy:
 
 1. **Routine Immunization:** Maintaining high coverage with at least 3 doses of OPV and subsequent IPV introduction.
 2. **Supplementary Immunization Activities (SIAs):** Conducting National Immunization Days (NIDs) and Sub-National Immunization Days (SNIDs) to administer OPV to all children under 5 years, regardless of previous immunization status. This aimed to break the chain of transmission rapidly.
-3. **AFP Surveillance:** Establishing a highly sensitive surveillance system (NPSP) to detect all potential polio cases.
+3. **[[Infectious Diseases/AFP surveillance\|AFP Surveillance]]:** Establishing a highly sensitive surveillance system (NPSP) to detect all potential polio cases.
 4. **Mopping-up Campaigns:** Door-to-door immunization in specific areas where the virus was known or suspected to be circulating.
 
 ### 3. Current Status
 
 Since January 2011, India has reported zero wild poliovirus cases. However, the risk of importation persists from neighboring endemic countries (Afghanistan and Pakistan). Therefore, India maintains:
 
-- **High-quality AFP surveillance:** Meeting global standards (Non-polio AFP rate >2/100,000).
+- **High-quality [[Infectious Diseases/AFP surveillance\|AFP surveillance]]:** Meeting global standards (Non-polio AFP rate >2/100,000).
 - **Environmental Surveillance:** Testing sewage in multiple sites to detect silent transmission.
 - **Active Immunization:** Continued NIDs/SNIDs and strengthening of routine immunization with IPV.
 
 ## c) Immunization Issues Following Polio Eradication (The Endgame Strategy)
 
-Following the certification of eradication, the global health community faces complex challenges regarding the cessation of OPV and the maintenance of immunity. The primary risks in the post-eradication era are **Vaccine-Associated Paralytic Poliomyelitis (VAPP)** and **Vaccine-Derived Polioviruses (VDPVs)**.
+Following the certification of eradication, the global health community faces complex challenges regarding the cessation of OPV and the maintenance of immunity. The primary risks in the post-eradication era are **Vaccine-Associated [[Neuromuscular/Paralytic Poliomyelitis\|Paralytic Poliomyelitis]] (VAPP)** and **Vaccine-Derived Polioviruses (VDPVs)**.
 
-#### 1. The Risk of Oral Polio Vaccine (OPV)
+#### 1. The Risk of [[Misc/Oral Polio Vaccine\|Oral Polio Vaccine]] (OPV)
 
 While OPV was the tool of choice for eradication due to its ability to induce mucosal immunity and spread to contacts (herd effect), it carries inherent risks:
 
@@ -71,15 +71,15 @@ To eliminate the risk of VAPP and VDPV, the use of live OPV must eventually stop
 To maintain immunity levels against poliovirus (especially Type 2 after the switch) without the risk of VAPP/VDPV, IPV has been introduced into routine immunization schedules.
 
 - **Role of IPV:** IPV induces humoral immunity (IgG) preventing paralytic disease but induces limited mucosal immunity compared to OPV. It protects the individual but is less effective at preventing transmission in the community.
-- **Supply Constraints and Fractional Dosing:** Due to a global shortage of IPV during the switch, countries like India adopted the use of **fractional dose IPV (fIPV)**. Administered intradermally (0.1 ml, 1/5th of the full dose), fIPV has been shown to be immunogenic and dose-sparing.
-- **Current Schedule in India:** As of January 1, 2026, the schedule includes three doses of fIPV at 6 weeks, 14 weeks, and 9 months, alongside bOPV.
+- **Supply Constraints and Fractional Dosing:** Due to a global shortage of IPV during the switch, countries like India adopted the use of **fractional dose IPV ([[Misc/fIPV\|fIPV]])**. Administered intradermally (0.1 ml, 1/5th of the full dose), [[Misc/fIPV\|fIPV]] has been shown to be immunogenic and dose-sparing.
+- **Current Schedule in India:** As of January 1, 2026, the schedule includes three doses of [[Misc/fIPV\|fIPV]] at 6 weeks, 14 weeks, and 9 months, alongside bOPV.
 
 #### 4. Managing Risks in the Post-Eradication Era
 
-- **Outbreak Response:** If cVDPV2 outbreaks occur after the cessation of tOPV, monovalent OPV2 (mOPV2) or the **Novel Oral Polio Vaccine Type 2 (nOPV2)** is used. nOPV2 is genetically more stable and less likely to revert to neurovirulence than mOPV2.
+- **Outbreak Response:** If cVDPV2 outbreaks occur after the cessation of tOPV, monovalent OPV2 (mOPV2) or the **Novel [[Misc/Oral Polio Vaccine\|Oral Polio Vaccine]] Type 2 (nOPV2)** is used. nOPV2 is genetically more stable and less likely to revert to neurovirulence than mOPV2.
 - **Containment:** Strict laboratory containment of all wild and vaccine polioviruses is essential to prevent accidental release and re-establishment of transmission.
 - **Surveillance:** Enhanced surveillance, including environmental sampling and surveillance for immunodeficient excretors (iVDPV surveillance), is critical to detect any re-emergence immediately.
 
 #### 5. Integration and Transition
 
-As dedicated polio funding decreases, the infrastructure built for polio (surveillance networks, cold chain, trained personnel) must be integrated into broader national health systems to sustain immunization coverage against other vaccine-preventable diseases.
+As dedicated polio funding decreases, the infrastructure built for polio (surveillance networks, [[Misc/Cold Chain\|cold chain]], trained personnel) must be integrated into broader national health systems to sustain immunization coverage against other vaccine-preventable diseases.

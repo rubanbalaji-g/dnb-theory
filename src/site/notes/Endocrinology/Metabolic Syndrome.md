@@ -62,7 +62,7 @@
 
 - Hyperactive hypothalamus-pituitary-adrenal (HPA) axis elevates circulating cortisol.
 - 11-beta-hydroxysteroid dehydrogenase type 1 converts inactive cortisone to active cortisol within visceral fat.
-- Promotes visceral adiposity ("Cushing syndrome of the abdomen").
+- Promotes visceral adiposity ("[[Endocrinology/Cushing Syndrome\|Cushing syndrome]] of the abdomen").
 - Sleep deprivation directly predictive of prepubertal obesity.
 
 ## Clinical Manifestations and Comorbidities
@@ -70,14 +70,14 @@
 - **Dermatologic:** Acanthosis nigricans (marker of hyperinsulinemia).
 - **Hepatic:** Nonalcoholic fatty liver disease (NAFLD), nonalcoholic steatohepatitis (NASH).
 - **Reproductive:** Polycystic ovarian syndrome (PCOS) characterized by anovulation, clinical/biochemical hyperandrogenism.
-- **Respiratory:** Obstructive sleep apnea (OSA) linked to endothelial dysfunction.
+- **Respiratory:** [[Respiratory/Obstructive Sleep Apnea\|Obstructive sleep apnea]] (OSA) linked to endothelial dysfunction.
 - **Vascular:** Hypertension, dyslipidemia (high triglycerides, small dense LDL, low HDL).
 - **Orthopedic:** Slipped capital femoral epiphysis, Blount disease, limited mobility.
 
 ## Diagnostic Criteria and Screening
 
-- Exclude secondary dyslipidemias (hypothyroidism, nephrotic syndrome, cholestasis).
-- Exclude classic endocrine obesity (Cushing syndrome, growth hormone deficiency, pseudohypoparathyroidism).
+- Exclude secondary dyslipidemias (hypothyroidism, [[Nephrology/Nephrotic Syndrome\|nephrotic syndrome]], cholestasis).
+- Exclude classic endocrine obesity ([[Endocrinology/Cushing Syndrome\|Cushing syndrome]], growth hormone deficiency, pseudohypoparathyroidism).
 
 ### Screening Modalities
 
@@ -89,13 +89,13 @@
 |**Hepatic Steatosis**|AST, ALT, Liver Ultrasound|Screens for NAFLD/NASH; ALT >25 U/L (boys), >22 U/L (girls) considered elevated.|
 |**PCOS**|Menstrual history, Testosterone, DHEAS|Assesses clinical and biochemical hyperandrogenism.|
 |**Nephropathy**|Urine albumin-to-creatinine ratio|Microalbuminuria (30-300 mg/g) indicates early vascular damage.|
-|**Sleep Apnea**|Polysomnography|Assesses overnight oxygen saturation, airflow, hypoventilation.|
+|**Sleep Apnea**|[[Development/Polysomnography\|Polysomnography]]|Assesses overnight oxygen saturation, airflow, hypoventilation.|
 
 ## Management Strategies
 
 ### Lifestyle and Dietary Interventions
 
-- Foundation of metabolic syndrome therapy.
+- Foundation of [[Endocrinology/Metabolic Syndrome\|metabolic syndrome]] therapy.
 - Target weight loss of 7-10%.
 - Dietary restriction of simple sugars (<25 g/day), sugar-sweetened beverages, and processed snacks.
 - Saturated fat restricted to <7% of total calories.
@@ -112,6 +112,6 @@
 |**Liraglutide**|T2DM (>10 years) failing lifestyle/metformin|GLP-1 receptor agonist; enhances insulin secretion, promotes weight loss.|
 |**Orlistat**|Severe obesity (>12 years)|Gastric lipase inhibitor; reduces fat absorption. Dose: 120 mg PO TID.|
 |**Statins**|Persistent dyslipidemia (LDL >130-160 mg/dL)|HMG-CoA reductase inhibitors; upregulate LDL receptors, delay atherosclerosis.|
-|**Fibrates**|Severe hypertriglyceridemia (TG >1000 mg/dL)|Indicated to prevent acute pancreatitis.|
+|**Fibrates**|Severe hypertriglyceridemia (TG >1000 mg/dL)|Indicated to prevent [[Gastrointestinal/Acute Pancreatitis\|acute pancreatitis]].|
 |**ACE Inhibitors / ARBs**|Hypertension, Microalbuminuria|Normalize BP, delay nephropathy progression.|
 |**Bariatric Surgery**|BMI >35 with severe comorbidity (T2DM, severe OSA)|Ameliorates metabolic disturbances, promotes massive weight loss. Requires multidisciplinary team.|

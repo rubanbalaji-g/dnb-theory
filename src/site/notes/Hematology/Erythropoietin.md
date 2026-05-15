@@ -4,21 +4,21 @@
 
 ## Mechanism Of Action
 
-- Erythropoietin (EPO) synthesizes primarily in renal cortical interstitial cells.
+- [[Hematology/Erythropoietin\|Erythropoietin]] (EPO) synthesizes primarily in renal cortical interstitial cells.
 - Stimulates proliferation and terminal differentiation of erythroid precursors.
 
 ## Summary Of Clinical Indications
 
 |Clinical Condition|Agent And Dosage|Clinical Rationale And Remarks|
 |:--|:--|:--|
-|**Chronic Kidney Disease**|Epoetin alfa/beta: 20-50 IU/kg 3x/week. Darbepoetin: 0.45 $\mu$g/kg weekly.|Mainstay therapy replacing absent endogenous EPO. Requires concurrent iron.|
+|**[[Nephrology/Chronic Kidney Disease\|Chronic Kidney Disease]]**|Epoetin alfa/beta: 20-50 IU/kg 3x/week. Darbepoetin: 0.45 $\mu$g/kg weekly.|Mainstay therapy replacing absent endogenous EPO. Requires concurrent iron.|
 |**Anemia Of Prematurity**|Recombinant EPO or Darbepoetin.|Stimulates reticulocytosis. Routine early use not recommended due to toxicity risks.|
-|**Autoimmune Hemolytic Anemia**|Epoetin alfa: 20,000-40,000 IU/week.|Specifically indicated for severe, refractory disease featuring reticulocytopenia.|
+|**[[Hematology/Autoimmune Hemolytic Anemia\|Autoimmune Hemolytic Anemia]]**|Epoetin alfa: 20,000-40,000 IU/week.|Specifically indicated for severe, refractory disease featuring reticulocytopenia.|
 |**AIDS-Associated Cytopenia**|Standard dosing.|Reverses anemia induced by antiretroviral therapy (zidovudine).|
 
 ## Detailed Clinical Applications
 
-### Chronic Kidney Disease And Renal Failure
+### [[Nephrology/Chronic Kidney Disease\|Chronic Kidney Disease]] And Renal Failure
 
 - Represents primary indication for recombinant human EPO (rHuEPO) therapy.
 - **Initiation Criteria:** Initiated based on clinical judgment when hemoglobin falls below 11.0 g/dL (0.5-5 years), 11.5 g/dL (5-12 years), or 12.0 g/dL (12-15 years).
@@ -41,9 +41,9 @@
 - **Limitations:**
     - Delayed therapeutic response (takes approximately 2 weeks).
     - Fails to provide prompt correction in acute symptomatic states.
-- **Contraindications:** Routine early use NOT recommended. Associated with conflicting data regarding increased risks of severe retinopathy of prematurity (ROP) and necrotizing enterocolitis.
+- **Contraindications:** Routine early use NOT recommended. Associated with conflicting data regarding increased risks of severe [[Neonatalogy/Retinopathy of prematurity\|retinopathy of prematurity]] (ROP) and necrotizing enterocolitis.
 
-### Autoimmune Hemolytic Anemia
+### [[Hematology/Autoimmune Hemolytic Anemia\|Autoimmune Hemolytic Anemia]]
 
 - Utilized specifically for severe, refractory cases presenting with reticulocytopenia (due to autoantibody removal of reticulocytes or hypoplastic marrow response).
 - **Dosing:** Epoetin alfa 20,000-40,000 IU per week.

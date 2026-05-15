@@ -8,8 +8,8 @@ Fever is one of the most common reasons for pediatric emergency visits. **Fever 
 
 The primary clinical challenge in managing FWF is distinguishing the vast majority of infants with self-limiting viral infections from the minority with **Serious Bacterial Infections (SBI)** or **Invasive Bacterial Infections (IBI)**.
 
-- **SBI** includes urinary tract infection (UTI), bacteremia, and meningitis.
-- **IBI** specifically refers to bacteremia and bacterial meningitis.
+- **SBI** includes [[Nephrology/Urinary Tract Infection\|urinary tract infection]] ([[Nephrology/UTI\|UTI]]), bacteremia, and [[Neurology/Meningitis\|meningitis]].
+- **IBI** specifically refers to bacteremia and bacterial [[Neurology/Meningitis\|meningitis]].
 
 Management strategies are strictly age-dependent due to the changing epidemiology of pathogens and the maturity of the host immune system. The age groups are generally stratified into:
 
@@ -21,14 +21,14 @@ Management strategies are strictly age-dependent due to the changing epidemiolog
 
 ### 2.1. Prevalence of SBI
 
-- **Neonates (<28 days):** The risk of SBI is highest in this group (7–13%), necessitating aggressive management. Bacteremia occurs in 1–2% and meningitis in 0.2–0.5%.
-- **Young Infants (29–90 days):** Risk decreases but remains significant. UTI is the most common SBI (5–13%).
-- **Older Infants (3–36 months):** With the advent of conjugate vaccines (_Hib_ and Pneumococcal), the rate of occult bacteremia has dropped to <1% in fully immunized children.
+- **Neonates (<28 days):** The risk of SBI is highest in this group (7–13%), necessitating aggressive management. Bacteremia occurs in 1–2% and [[Neurology/Meningitis\|meningitis]] in 0.2–0.5%.
+- **Young Infants (29–90 days):** Risk decreases but remains significant. [[Nephrology/UTI\|UTI]] is the most common SBI (5–13%).
+- **Older Infants (3–36 months):** With the advent of [[Misc/Conjugate Vaccines\|conjugate vaccines]] (_Hib_ and Pneumococcal), the rate of occult bacteremia has dropped to <1% in fully immunized children.
 
 ### 2.2. Common Pathogens
 
 - **Bacteria:**
-    - _Escherichia coli_ is the most common pathogen overall (especially for UTI and bacteremia).
+    - _Escherichia coli_ is the most common pathogen overall (especially for [[Nephrology/UTI\|UTI]] and bacteremia).
     - _Group B Streptococcus_ (GBS) remains a major concern in neonates.
     - _Listeria monocytogenes_ (rare, but relevant in neonates).
     - _Streptococcus pneumoniae_ and _Neisseria meningitidis_ (less common in immunized populations but critical in unimmunized infants).
@@ -86,7 +86,7 @@ This is a "gray zone" where management depends on risk stratification. The goal 
 
 **Step 2: Evaluation for Well-Appearing Infants** For well-appearing infants, laboratory screening is used to define low risk (e.g., Rochester, Philadelphia, or Boston criteria concepts).
 
-- **Mandatory Tests:** Urinalysis and Urine culture (UTI is the most common SBI), Blood culture, Inflammatory markers (Procalcitonin, CRP, ANC).
+- **Mandatory Tests:** Urinalysis and Urine culture ([[Nephrology/UTI\|UTI]] is the most common SBI), Blood culture, Inflammatory markers (Procalcitonin, CRP, ANC).
 - **Lumbar Puncture (LP):**
     - **29–60 days:** If inflammatory markers (e.g., Procalcitonin >0.5 ng/mL, CRP >20 mg/L, ANC >4000/mm³) are **abnormal**, LP is recommended.
     - If markers are **normal** ("Low Risk"), LP may be deferred, and the infant may be observed.
@@ -112,12 +112,12 @@ Management depends heavily on immunization status and the severity of fever.
 
 **B. Well-Appearing, Fully Immunized:**
 
-- **Risk:** The risk of occult bacteremia is very low (<1%). The primary risk is UTI.
+- **Risk:** The risk of occult bacteremia is very low (<1%). The primary risk is [[Nephrology/UTI\|UTI]].
 - **Urinalysis:** Recommended for:
     - Females <24 months.
     - Uncircumcised males <12 months.
     - Circumcised males <6 months.
-    - Any child with history of recurrent UTI.
+    - Any child with history of recurrent [[Nephrology/UTI\|UTI]].
 - **Blood Tests:** CBC and blood culture are _not_ routinely indicated unless fever is prolonged or no focus is found after initial evaluation.
 - **Chest X-ray:** Only if respiratory signs (tachypnea, hypoxia, focal findings) are present.
 - **Management:** If UA is negative, discharge with reassurance and antipyretics. Return if fever persists >48 hours or condition worsens.
@@ -132,10 +132,10 @@ Management depends heavily on immunization status and the severity of fever.
 
 ### 5.1. Urine Studies
 
-Since UTI is the most common SBI across all age groups, a valid urine specimen is critical.
+Since [[Nephrology/UTI\|UTI]] is the most common SBI across all age groups, a valid urine specimen is critical.
 
-- **Collection:** Catheterization or suprapubic aspiration is preferred for culture in infants <2 years. Bag specimens have high contamination rates and should generally be used only for screening (negative urinalysis rules out UTI).
-- **Urinalysis:** Presence of leukocyte esterase, nitrites, or pyuria (>5 WBC/hpf) suggests UTI.
+- **Collection:** Catheterization or suprapubic aspiration is preferred for culture in infants <2 years. Bag specimens have high contamination rates and should generally be used only for screening (negative urinalysis rules out [[Nephrology/UTI\|UTI]]).
+- **Urinalysis:** Presence of leukocyte esterase, nitrites, or pyuria (>5 WBC/hpf) suggests [[Nephrology/UTI\|UTI]].
 
 ### 5.2. Inflammatory Markers
 
@@ -147,7 +147,7 @@ Current guidelines emphasize the use of inflammatory markers to stratify risk in
 
 ### 5.3. Viral Testing
 
-- **Rapid Viral Panels:** Testing for RSV, Influenza, or COVID-19 can be useful. A positive viral test reduces (but does not eliminate) the risk of bacteremia or meningitis. However, the risk of UTI remains significant even in infants with viral bronchiolitis. Therefore, urinalysis should still be performed in febrile infants with viral symptoms.
+- **Rapid Viral Panels:** Testing for RSV, Influenza, or [[Infectious Diseases/COVID-19\|COVID-19]] can be useful. A positive viral test reduces (but does not eliminate) the risk of bacteremia or [[Neurology/Meningitis\|meningitis]]. However, the risk of [[Nephrology/UTI\|UTI]] remains significant even in infants with viral bronchiolitis. Therefore, urinalysis should still be performed in febrile infants with viral symptoms.
 
 ## 6. Treatment Protocols (Summary)
 
@@ -157,10 +157,10 @@ Current guidelines emphasize the use of inflammatory markers to stratify risk in
 |**29–60 days**|High Risk (Abnormal labs/Ill)|Ceftriaxone or Cefotaxime|Inpatient|
 |**29–60 days**|Low Risk (Normal labs/Well)|None (Observation) OR Ceftriaxone IM|Outpatient (with close follow-up)|
 |**3–36 mos**|Toxic|Ceftriaxone|Inpatient|
-|**3–36 mos**|Well, Immunized|Treat UTI if present; otherwise supportive|Outpatient|
+|**3–36 mos**|Well, Immunized|Treat [[Nephrology/UTI\|UTI]] if present; otherwise supportive|Outpatient|
 |**3–36 mos**|Unimmunized, Leukocytosis|Consider Ceftriaxone IM|Outpatient (24hr follow-up)|
 
-_Note: Doses: Ampicillin 100-200 mg/kg/day; Cefotaxime 150-200 mg/kg/day; Ceftriaxone 50-75 mg/kg/day (100 mg/kg for meningitis)._
+_Note: Doses: Ampicillin 100-200 mg/kg/day; Cefotaxime 150-200 mg/kg/day; Ceftriaxone 50-75 mg/kg/day (100 mg/kg for [[Neurology/Meningitis\|meningitis]])._
 
 ## 7. Discharge and Follow-up
 

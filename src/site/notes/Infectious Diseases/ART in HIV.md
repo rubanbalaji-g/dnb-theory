@@ -4,7 +4,7 @@
 
 ## Introduction
 
-Antiretroviral therapy (ART) has transformed pediatric HIV infection from a rapidly fatal disease into a manageable chronic condition. The primary goals of ART in children are to maximally and durably suppress plasma viral load, preserve or restore immune function (CD4 counts), reduce HIV-related morbidity and mortality, and ensure normal growth and development.
+Antiretroviral therapy (ART) has transformed [[Infectious Diseases/Pediatric HIV\|pediatric HIV]] infection from a rapidly fatal disease into a manageable chronic condition. The primary goals of ART in children are to maximally and durably suppress plasma viral load, preserve or restore immune function (CD4 counts), reduce HIV-related morbidity and mortality, and ensure normal growth and development.
 
 ## Principles of Antiretroviral Therapy
 
@@ -51,7 +51,7 @@ Regimen selection is stratified by age and weight to ensure appropriate dosing a
 
 - **Preferred Regimen:** **Tenofovir (TDF) + Lamivudine (3TC) + Dolutegravir (DTG)**.
 - **Acronym:** TLD regimen.
-- **Note:** TDF is generally avoided in pre-pubertal children due to concerns about bone mineral density, but approved for older children/adolescents.
+- **Note:** TDF is generally avoided in pre-pubertal children due to concerns [[About\|about]] bone mineral density, but approved for older children/adolescents.
 
 **Summary Table of First-Line Regimens (NACO 2021):**
 
@@ -95,11 +95,11 @@ Regimen selection is stratified by age and weight to ensure appropriate dosing a
 |:--|:--|:--|
 |**NRTI**|**Zidovudine (AZT)**|**Anemia**, neutropenia, myopathy, lactic acidosis.|
 ||**Abacavir (ABC)**|**Hypersensitivity reaction** (fever, rash, GI symptoms - potentially fatal upon rechallenge). Screen for HLA-B*5701 if possible.|
-||**Tenofovir (TDF)**|**Renal toxicity** (Fanconi syndrome), decreased bone mineral density.|
+||**Tenofovir (TDF)**|**Renal toxicity** ([[Nephrology/Fanconi syndrome\|Fanconi syndrome]]), decreased bone mineral density.|
 ||**Lamivudine (3TC)**|Generally well tolerated; rare pancreatitis.|
 |**NNRTI**|**Nevirapine (NVP)**|**Rash** (Stevens-Johnson Syndrome), **Hepatotoxicity**.|
 ||**Efavirenz (EFV)**|**CNS symptoms** (insomnia, vivid dreams, psychosis), rash.|
-|**PI**|**Lopinavir/r (LPV/r)**|Diarrhea, nausea, **metabolic syndrome** (hyperlipidemia, hyperglycemia, lipodystrophy).|
+|**PI**|**Lopinavir/r (LPV/r)**|Diarrhea, nausea, **[[Endocrinology/Metabolic Syndrome\|metabolic syndrome]]** (hyperlipidemia, hyperglycemia, lipodystrophy).|
 |**INSTI**|**Dolutegravir (DTG)**|Insomnia, headache, weight gain, hyperglycemia.|
 
 ## Treatment Failure
@@ -124,7 +124,7 @@ Failure is categorized into three types. A single isolated abnormal value should
     - **With LPV/r:** Requires "super-boosting" (ratio of LPV:Ritonavir increased to 1:1).
     - **With DTG:** Dose of Dolutegravir must be **doubled** (given twice daily).
     - **With NVP:** Dose escalation is not required, but strict lead-in is avoided, or dose is increased (guidelines vary; some suggest avoiding NVP with Rifampicin if possible).
-- **Timing:** Start ATT first. Start ART within 2 weeks to 2 months. In TB meningitis, delay ART (4-8 weeks) to reduce risk of severe IRIS.
+- **Timing:** Start ATT first. Start ART within 2 weeks to 2 months. In TB [[Neurology/Meningitis\|meningitis]], delay ART (4-8 weeks) to reduce risk of severe IRIS.
 
 ### 2. Immune Reconstitution Inflammatory Syndrome (IRIS)
 

@@ -54,7 +54,7 @@
 - Fetal erythrocytes: Higher mean corpuscular volume, higher oxygen affinity.
 - Postnatal adaptation: Replaces high-oxygen-affinity HbF with lower-affinity HbA.
 - Result: Enhanced oxygen off-loading to tissues.
-- Endocrine response: Increased tissue oxygen delivery downregulates erythropoietin production, causing physiologic anemia of infancy.
+- Endocrine response: Increased tissue oxygen delivery downregulates [[Hematology/Erythropoietin\|erythropoietin]] production, causing physiologic anemia of infancy.
 
 ## Summary of Hemoglobin Types
 

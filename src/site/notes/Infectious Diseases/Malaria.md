@@ -4,18 +4,18 @@
 
 ## Introduction and Epidemiology
 
-- **Definition:** Malaria is an acute febrile illness caused by intraerythrocytic protozoa of the genus _Plasmodium_ and transmitted by the bite of an infective female _Anopheles_ mosquito,.
+- **Definition:** [[Infectious Diseases/Malaria\|Malaria]] is an acute febrile illness caused by intraerythrocytic protozoa of the genus _Plasmodium_ and transmitted by the bite of an infective female _Anopheles_ mosquito,.
 - **Burden:** It is a leading cause of morbidity and mortality worldwide, with children under 5 years accounting for a significant percentage of deaths,. In India, _P. falciparum_ and _P. vivax_ are the major contributors, with _P. falciparum_ accounting for nearly 50% of cases,.
 - **Elimination Goals:** The National Strategic Plan (NSP) 2023–2027 in India aims for zero indigenous cases by 2027 and maintenance of malaria-free status by 2030.
 
 ## Etiology
 
 - **Causative Agents:**
-    - _Plasmodium falciparum:_ Causes the most severe disease, including cerebral malaria and death. Predominant in Africa, Haiti, New Guinea, and parts of India (Odisha, Chhattisgarh, North East),.
+    - _Plasmodium falciparum:_ Causes the most severe disease, including [[Infectious Diseases/Cerebral Malaria\|cerebral malaria]] and death. Predominant in Africa, Haiti, New Guinea, and parts of India (Odisha, Chhattisgarh, North East),.
     - _Plasmodium vivax:_ Causes debilitating illness with a risk of relapse due to dormant liver stages (hypnozoites). Prevalent in India, Central America, and Southeast Asia,.
-    - _Plasmodium malariae:_ Causes chronic, milder infection; associated with nephrotic syndrome.
+    - _Plasmodium malariae:_ Causes chronic, milder infection; associated with [[Nephrology/Nephrotic Syndrome\|nephrotic syndrome]].
     - _Plasmodium ovale:_ Rare, primarily found in Africa.
-    - _Plasmodium knowlesi:_ A primate malaria species causing zoonotic human malaria, documented in Southeast Asia.
+    - _Plasmodium knowlesi:_ A primate [[Infectious Diseases/Malaria\|malaria]] species causing zoonotic human [[Infectious Diseases/Malaria\|malaria]], documented in Southeast Asia.
 - **Vector:** Transmitted by female _Anopheles_ mosquitoes which bite primarily between dusk and dawn,. In India, _An. culicifacies_ (rural), _An. stephensi_ (urban), and _An. fluviatilis_ (hills/forests) are primary vectors,.
 
 ## Life Cycle and Pathogenesis
@@ -36,7 +36,7 @@ The life cycle involves two hosts: Humans (intermediate host) and Mosquitoes (de
 
 - Gametocytes ingested by the mosquito fuse to form a zygote, then a motile ookinete, which forms an oocyst. Sporozoites released from the oocyst migrate to salivary glands, ready for transmission,.
 
-### Pathophysiology of Severe Malaria
+### Pathophysiology of Severe [[Infectious Diseases/Malaria\|Malaria]]
 
 - **Cytoadherence:** _P. falciparum_-infected RBCs adhere to vascular endothelium, causing microvascular obstruction and tissue anoxia,.
 - **Sequestration:** Infected RBCs are sequestered in deep vascular beds (brain, lungs, kidneys), avoiding splenic clearance.
@@ -51,27 +51,27 @@ The life cycle involves two hosts: Humans (intermediate host) and Mosquitoes (de
 - _P. vivax:_ 12–17 days.
 - _P. malariae:_ 18–40 days,.
 
-### Uncomplicated Malaria
+### Uncomplicated [[Infectious Diseases/Malaria\|Malaria]]
 
 - **Prodrome:** Nonspecific symptoms like headache, fatigue, anorexia, myalgia, and vomiting precede fever by 2–3 days,.
 - **Paroxysm:** Classic stages (Cold, Hot, Sweating) are often absent in children. Children typically present with high fever (>104°F), headache, drowsiness, vomiting, diarrhea, and pallor,.
 - **Periodicity:** _P. vivax/ovale_ (48 hours - tertian), _P. malariae_ (72 hours - quartan). _P. falciparum_ fever is often irregular or continuous.
 - **Physical Signs:** Splenomegaly (common), hepatomegaly, pallor.
 
-### Severe Malaria
+### Severe [[Infectious Diseases/Malaria\|Malaria]]
 
 Defined by the presence of asexual parasitemia with one or more of the following complications (primarily _P. falciparum_, but increasingly seen with _P. vivax_),:
 
-- **Impaired Consciousness:** Cerebral malaria (coma not attributable to other causes, Blantyre Coma Score <3 in children),.
+- **Impaired Consciousness:** [[Infectious Diseases/Cerebral Malaria\|Cerebral malaria]] (coma not attributable to other causes, Blantyre Coma Score <3 in children),.
 - **Severe Anemia:** Hemoglobin <5 g/dL,.
 - **Respiratory Distress:** Acidotic breathing (Kussmaul’s) due to metabolic acidosis,.
 - **Hypoglycemia:** Blood glucose <40 mg/dL (<2.2 mmol/L). Common in children and pregnant women,.
 - **Multiple Convulsions:** >2 episodes in 24 hours.
 - **Shock:** Capillary refill ≥3 seconds or hypotension.
-- **Acute Kidney Injury:** Serum creatinine >3 mg/dL.
+- **[[Nephrology/Acute Kidney Injury\|Acute Kidney Injury]]:** Serum creatinine >3 mg/dL.
 - **Hyperparasitemia:** >10% infected RBCs.
 
-### Congenital Malaria
+### Congenital [[Infectious Diseases/Malaria\|Malaria]]
 
 - Acquired transplacentally.
 - Symptoms appear between 10 and 30 days of life.
@@ -98,13 +98,13 @@ Defined by the presence of asexual parasitemia with one or more of the following
 
 ## Differential Diagnosis
 
-- Viral fevers (Dengue, Influenza), Enteric fever, Leptospirosis, Rickettsial infections, Meningitis/Encephalitis, Sepsis,.
+- Viral fevers ([[Infectious Diseases/Dengue\|Dengue]], Influenza), [[Infectious Diseases/Enteric Fever\|Enteric fever]], [[Infectious Diseases/Leptospirosis\|Leptospirosis]], Rickettsial infections, Meningitis/Encephalitis, Sepsis,.
 
 ## Management
 
 Treatment depends on the species, severity, and local drug resistance patterns.
 
-### 1. Uncomplicated _P. vivax_ Malaria
+### 1. Uncomplicated _P. vivax_ [[Infectious Diseases/Malaria\|Malaria]]
 
 - **Chloroquine (CQ):** 25 mg/kg total dose over 3 days.
     - Day 1: 10 mg/kg.
@@ -115,7 +115,7 @@ Treatment depends on the species, severity, and local drug resistance patterns.
     - **Contraindications for PQ:** Pregnancy, infants <1 year, G6PD deficiency.
     - **Tafenoquine:** A single-dose alternative for radical cure in patients ≥16 years (not for G6PD deficient).
 
-### 2. Uncomplicated _P. falciparum_ Malaria
+### 2. Uncomplicated _P. falciparum_ [[Infectious Diseases/Malaria\|Malaria]]
 
 - **Artemisinin-based Combination Therapy (ACT):** Treatment of choice to prevent resistance.
 - **Regimens in India (NVBDCP Guidelines):**
@@ -131,7 +131,7 @@ Treatment depends on the species, severity, and local drug resistance patterns.
 - Treat as _P. falciparum_ with ACT.
 - Add Primaquine 0.25 mg/kg/day for 14 days for _P. vivax_ radical cure.
 
-### 4. Severe Malaria Management
+### 4. Severe [[Infectious Diseases/Malaria\|Malaria]] Management
 
 - **Setting:** Hospitalization in ICU/HDU.
 - **Antimalarial Therapy:** Parenteral treatment should be started immediately.
@@ -149,15 +149,15 @@ Treatment depends on the species, severity, and local drug resistance patterns.
 
 ## Complications
 
-- **Cerebral Malaria:** 15–40% mortality; sequelae include cognitive impairment, epilepsy, and motor deficits,.
+- **[[Infectious Diseases/Cerebral Malaria\|Cerebral Malaria]]:** 15–40% mortality; sequelae include cognitive impairment, epilepsy, and motor deficits,.
 - **Severe Malarial Anemia:** Leads to significant morbidity and neurocognitive impairment.
 - **Hyperreactive Malarial Splenomegaly (HMS):** Massive splenomegaly with high IgM, requiring long-term prophylaxis.
-- **Blackwater Fever:** Macroscopic hemoglobinuria causing acute kidney injury, associated with quinine or artemisinin use in G6PD deficiency or irregular treatment
+- **Blackwater Fever:** Macroscopic hemoglobinuria causing [[Nephrology/Acute Kidney Injury\|acute kidney injury]], associated with quinine or artemisinin use in G6PD deficiency or irregular treatment
 
-## Newer Drugs for Malaria
+## Newer Drugs for [[Infectious Diseases/Malaria\|Malaria]]
 ### 1. Tafenoquine (Krintafel/Arakoda)
 
-Tafenoquine is a long-acting 8-aminoquinoline derivative (an analogue of primaquine) recently approved for the radical cure of _P. vivax_ and for malaria prophylaxis.
+Tafenoquine is a long-acting 8-aminoquinoline derivative (an analogue of primaquine) recently approved for the radical cure of _P. vivax_ and for [[Infectious Diseases/Malaria\|malaria]] prophylaxis.
 
 - **Mechanism:** It is active against the pre-erythrocytic (liver) and erythrocytic (blood) forms of the parasite, as well as the dormant liver stages (hypnozoites) responsible for relapses in _P. vivax_ and _P. ovale_ infections.
 - **Indications & Dosage:**
@@ -171,7 +171,7 @@ Arterolane (also known as OZ277) is a newer synthetic trioxolane compound.
 
 - **Class:** It acts similarly to artemisinin derivatives but is fully synthetic.
 - **Activity:** It is rapidly acting and has a broad time window of antimalarial effect, ranging from ring forms to mature trophozoites.
-- **Use:** It is typically marketed in combination with piperaquine (e.g., Arterolane-Piperaquine) for the treatment of uncomplicated falciparum malaria.
+- **Use:** It is typically marketed in combination with piperaquine (e.g., Arterolane-Piperaquine) for the treatment of uncomplicated falciparum [[Infectious Diseases/Malaria\|malaria]].
 
 ### 3. Piperaquine
 
@@ -180,14 +180,14 @@ While structurally related to older drugs, piperaquine is used in newer Artemisi
 - **Role:** It is a bisquinoline with a long half-life, used as a partner drug with dihydroartemisinin or arterolane to prevent recrudescence.
 - **Use:** Dihydroartemisinin-piperaquine is used for the treatment of severe anemia in children in African countries and reduces the risk of readmission and death.
 
-### 4. Malaria Vaccines (New Tools)
+### 4. [[Infectious Diseases/Malaria\|Malaria]] Vaccines (New Tools)
 
-- **RTS,S/AS01 (Mosquirix):** Approved by the WHO in 2021 for children <2 years in endemic regions. It targets the pre-erythrocytic circumsporozoite protein of _P. falciparum_. It reduces severe malaria by approximately 30%.
+- **RTS,S/AS01 (Mosquirix):** Approved by the WHO in 2021 for children <2 years in endemic regions. It targets the pre-erythrocytic circumsporozoite protein of _P. falciparum_. It reduces severe [[Infectious Diseases/Malaria\|malaria]] by approximately 30%.
 - **R21/Matrix-M:** Approved by the WHO in 2023 for use in children <2 years. Like RTS,S, it targets the circumsporozoite protein but has shown higher efficacy in initial trials.
 
 ### 5. Monoclonal Antibodies
 
-- Recent trials have shown that monoclonal antibodies against _P. falciparum_ can provide short-term protection. This intervention is being explored for travelers, the military, and potentially for seasonal malaria prevention in children.
+- Recent trials have shown that monoclonal antibodies against _P. falciparum_ can provide short-term protection. This intervention is being explored for travelers, the military, and potentially for seasonal [[Infectious Diseases/Malaria\|malaria]] prevention in children.
 ## Prevention and Control
 ### Vector Control
 
@@ -202,10 +202,10 @@ While structurally related to older drugs, piperaquine is used in newer Artemisi
 - **Intermittent Preventive Treatment (IPT):** Used in high-transmission areas (e.g., Africa) for infants and pregnant women.
 ### Vaccines
 
-- **RTS,S/AS01 (Mosquirix):** Approved by WHO for children in sub-Saharan Africa. Reduces severe malaria by ~30%.
+- **RTS,S/AS01 (Mosquirix):** Approved by WHO for children in sub-Saharan Africa. Reduces severe [[Infectious Diseases/Malaria\|malaria]] by ~30%.
 - **R21/Matrix-M:** Recently approved, showing high efficacy.
 
-## National Framework for Malaria Elimination (India)
+## National Framework for [[Infectious Diseases/Malaria\|Malaria]] Elimination (India)
 
 - **Goal:** Zero indigenous cases by 2027; Malaria-free India by 2030.
 - **Strategy:** "Test, Treat, and Track."

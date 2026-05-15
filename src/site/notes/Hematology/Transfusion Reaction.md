@@ -15,7 +15,7 @@ Blood component therapy encompasses inherent risks, necessitating meticulous sur
 
 Reactions manifesting during or within 24 hours of blood product administration.
 
-### Acute hemolytic transfusion reaction
+### Acute hemolytic [[Hematology/Transfusion Reaction\|transfusion reaction]]
 
 - Pathophysiology involves transfusion of incompatible red blood cells, frequently due to mismatch of major blood groups.
 - Triggered by preformed immunoglobulin M isohemagglutinins (anti-A or anti-B) destroying donor erythrocytes via complement activation.
@@ -24,7 +24,7 @@ Reactions manifesting during or within 24 hours of blood product administration.
 - Neonatal manifestations include increased pallor, hemoglobinemia, hyperkalemia, and acidosis.
 - Management demands immediate cessation of transfusion, intravenous fluid resuscitation, and rigorous hemodynamic support.
 
-### Febrile non-hemolytic transfusion reaction
+### Febrile non-hemolytic [[Hematology/Transfusion Reaction\|transfusion reaction]]
 
 - Represents diagnosis of exclusion.
 - Pathophysiology involves donor pro-inflammatory cytokines accumulated during storage or recipient antibodies reacting against donor leukocytes.
@@ -71,18 +71,18 @@ Syndromes of acute respiratory distress emerging within 6 hours of blood product
 
 Complications manifesting days, months, or years following blood product administration.
 
-### Delayed hemolytic transfusion reaction
+### Delayed hemolytic [[Hematology/Transfusion Reaction\|transfusion reaction]]
 
 - Pathophysiology features anamnestic humoral response where recipient antibodies target minor donor red blood cell antigens (e.g., Kell, Duffy, Kidd).
 - Onset spans 24 hours to 10 days post-transfusion.
 - Presentation includes progressive pallor, fatigue, jaundice, and hemoglobinuria.
-- High risk noted in sickle cell disease; delayed hemolysis frequently mimics vaso-occlusive pain crisis, obscuring underlying antibody-mediated destruction.
+- High risk noted in [[Hematology/Sickle Cell Disease\|sickle cell disease]]; delayed hemolysis frequently mimics vaso-occlusive pain crisis, obscuring underlying antibody-mediated destruction.
 - Prevention demands comprehensive transfusion history review and extended antigen matching.
 
 ### Alloimmunization
 
 - Pathophysiology features immune system recognition of foreign red blood cell, human leukocyte, or human platelet antigens, generating specific alloantibodies.
-- Incidence reaches 17.6% in chronically transfused sickle cell disease patients.
+- Incidence reaches 17.6% in chronically transfused [[Hematology/Sickle Cell Disease\|sickle cell disease]] patients.
 - Frequently targeted red blood cell antigens include Kell, Rhesus E, and Rhesus C.
 - Complications include refractoriness to future platelet transfusions and extreme difficulty securing compatible red blood cell units for subsequent needs.
 - Prevention utilizes leukoreduction and prophylactic extended phenotypic matching.
@@ -102,8 +102,8 @@ Stringent donor screening and nucleic acid amplification testing markedly reduce
 |Pathogen|Estimated residual transmission risk|
 |:--|:--|
 |Human immunodeficiency virus|1 in 2 million.|
-|Hepatitis C virus|1 in 2 million.|
-|Hepatitis B virus|1 in 1.7 million to 2 million.|
+|[[Gastrointestinal/Hepatitis C\|Hepatitis C]] virus|1 in 2 million.|
+|[[Gastrointestinal/Hepatitis B\|Hepatitis B]] virus|1 in 1.7 million to 2 million.|
 |Human T-cell lymphotropic virus|1 in 3 million.|
 |West Nile virus|Under 1 in 3 million.|
 |Zika virus|Under 1 in 3 million.|
@@ -111,9 +111,9 @@ Stringent donor screening and nucleic acid amplification testing markedly reduce
 
 ### Transfusional iron overload (hemosiderosis)
 
-- Pathophysiology involves cumulative iron toxicity since human physiology lacks active iron excretion mechanisms.
+- Pathophysiology involves cumulative [[Emergencies/Iron Toxicity\|iron toxicity]] since human physiology lacks active iron excretion mechanisms.
 - Each milliliter of packed red blood cells delivers approximately 1 mg of elemental iron.
-- Condition uniquely affects chronically transfused patients (thalassemia major, sickle cell disease, bone marrow failure syndromes).
+- Condition uniquely affects chronically transfused patients ([[Hematology/Thalassemia\|thalassemia]] major, [[Hematology/Sickle Cell Disease\|sickle cell disease]], bone marrow failure syndromes).
 - Organ toxicity targets:
     - Cardiac: Myocardial iron deposition causes cardiomyopathy, arrhythmias, and intractable heart failure; leading cause of mortality.
     - Hepatic: Portal fibrosis, regenerative nodules, cirrhosis, eventual liver failure.
@@ -131,16 +131,16 @@ Unique physiological vulnerabilities predispose premature neonates to specific t
 - Pathophysiology remains multifactorial.
 - Proposed mechanisms implicate inflammatory substances within packed red blood cell units, oxidative stress, gut immaturity, pre-transfusion small bowel hypoxia, and disturbances in mesenteric blood flow post-transfusion.
 
-### Retinopathy of prematurity and bronchopulmonary dysplasia
+### [[Neonatalogy/Retinopathy of prematurity\|Retinopathy of prematurity]] and bronchopulmonary dysplasia
 
-- Red blood cell transfusion serves as independent risk factor for retinopathy of prematurity.
+- Red blood cell transfusion serves as independent risk factor for [[Neonatalogy/Retinopathy of prematurity\|retinopathy of prematurity]].
 - Pathophysiology relates to transfusion of adult hemoglobin possessing lower oxygen affinity compared to fetal hemoglobin, causing excessive oxygen release.
 - Resultant severe oxidative stress damages developing retinal vessels.
 - Pro-inflammatory and anti-inflammatory mediators accumulating in stored red blood cells contribute significantly to bronchopulmonary dysplasia pathogenesis.
 
-## General management approach to suspected transfusion reaction
+## General management approach to suspected [[Hematology/Transfusion Reaction\|transfusion reaction]]
 
-Immediate algorithmic steps required upon suspicion of any acute transfusion reaction,,,,:
+Immediate algorithmic steps required upon suspicion of any acute [[Hematology/Transfusion Reaction\|transfusion reaction]],,,,:
 
 |Action step|Clinical directive|
 |:--|:--|

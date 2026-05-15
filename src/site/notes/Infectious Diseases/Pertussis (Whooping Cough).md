@@ -73,7 +73,7 @@ Complications are most severe in infants, particularly those unimmunized or part
 
 ### 4.2. Neurologic Complications
 
-- **Seizures:** Occur in 1–2% of infants, usually due to hypoxia from coughing paroxysms or apnea, but occasionally due to hyponatremia (SIADH) or toxin effects,.
+- **Seizures:** Occur in 1–2% of infants, usually due to hypoxia from coughing paroxysms or apnea, but occasionally due to hyponatremia ([[Endocrinology/SIADH\|SIADH]]) or toxin effects,.
 - **Encephalopathy:** Rare (0.2–0.5%), likely due to cerebral hypoxia or hemorrhage. It can lead to permanent sequelae,.
 - **Cerebral Hemorrhage:** Resulting from increased intracranial pressure during paroxysms.
 
@@ -83,7 +83,7 @@ The force of the paroxysmal cough increases intrathoracic and intra-abdominal pr
 
 - Subconjunctival hemorrhages and epistaxis,.
 - Hernias (umbilical, inguinal) and rectal prolapse,.
-- Pneumothorax and subcutaneous emphysema,.
+- [[Respiratory/Pneumothorax\|Pneumothorax]] and subcutaneous emphysema,.
 - Ulceration of the frenulum of the tongue,.
 
 ### 4.4. Nutritional
@@ -100,14 +100,14 @@ Universal vaccination is the cornerstone of control.
 
 - **Primary Series:** Three doses of DTP-containing vaccine starting at 6 weeks of age (6, 10, 14 weeks in India).
 - **Boosters:** Recommended at 15–18 months, 4–6 years, and 11–12 years (Tdap),.
-- **Maternal Immunization:** Administration of Tdap to pregnant women during _every_ pregnancy (optimally 27–36 weeks) is crucial. It facilitates the transplacental transfer of antibodies to protect the infant during the vulnerable first few months of life (before their own vaccination series begins),. This strategy is 80–91% effective in preventing pertussis in infants <2 months.
+- **[[Misc/Maternal Immunization\|Maternal Immunization]]:** Administration of Tdap to pregnant women during _every_ pregnancy (optimally 27–36 weeks) is crucial. It facilitates the transplacental transfer of antibodies to protect the infant during the vulnerable first few months of life (before their own vaccination series begins),. This strategy is 80–91% effective in preventing pertussis in infants <2 months.
 
 ### 5.2. Chemoprophylaxis
 
 Post-exposure prophylaxis is recommended for all household contacts and high-risk close contacts (e.g., infants, pregnant women, immunocompromised) regardless of immunization status,.
 
 - **Drug of Choice:** Azithromycin (10 mg/kg/day for 5 days) or Erythromycin (40–50 mg/kg/day for 14 days),.
-- **Timing:** Should be administered within 21 days of cough onset in the index case to be effective.
+- **Timing:** Should be administered within 21 days of cough onset in the [[Statistics/Index\|index]] case to be effective.
 
 ### 5.3. Isolation
 
@@ -160,4 +160,4 @@ The shift from whole-cell to acellular vaccines has highlighted significant trad
 
 ### 6.4. Current Consensus
 
-Due to the rapid waning of immunity and the lack of mucosal protection (herd immunity) offered by aP vaccines, the World Health Organization (WHO) and many experts recommend that countries currently using wP (like India) should **continue to use wP** for the primary series to ensure robust initial priming and longer-lasting protection,. aP is preferred for boosters in adolescents and adults (Tdap) or for children with a history of severe reactions to wP.
+Due to the rapid waning of immunity and the lack of mucosal protection ([[Misc/Herd Immunity\|herd immunity]]) offered by aP vaccines, the World Health Organization (WHO) and many experts recommend that countries currently using wP (like India) should **continue to use wP** for the primary series to ensure robust initial priming and longer-lasting protection,. aP is preferred for boosters in adolescents and adults (Tdap) or for children with a history of severe reactions to wP.

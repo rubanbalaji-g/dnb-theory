@@ -35,7 +35,7 @@
 |**TNDM1** (Transient)|6q24 Overexpression (PLAGL1/HYMAI)|Presents day 1. Macroglossia, umbilical hernia. Remits ~3 months, relapses in adolescence.|Insulin initially.|
 |**PNDM** (Permanent)|_KCNJ11_ / _ABCC8_|Activating mutations in KATP channel (Kir6.2/SUR1). Channel remains open, preventing insulin release. Severe mutations cause DEND syndrome (developmental delay, epilepsy, neonatal diabetes).|High-dose sulfonylureas (overcomes channel defect).|
 |**PNDM** (Permanent)|_INS_ (Insulin gene)|Misfolded proinsulin causes severe ER stress and beta-cell apoptosis.|Insulin.|
-|**Syndromic**|_EIF2AK3_ (Wolcott-Rallison)|PERK defect. Epiphyseal dysplasia, recurrent acute liver failure.|Insulin pump.|
+|**Syndromic**|_EIF2AK3_ (Wolcott-Rallison)|PERK defect. Epiphyseal dysplasia, recurrent [[Gastrointestinal/Acute Liver Failure\|acute liver failure]].|Insulin pump.|
 |**Syndromic**|_FOXP3_ (IPEX)|Defective Treg cells. Polyendocrinopathy, severe enteropathy, eczema.|Bone marrow transplant.|
 
 ## Mitochondrial and Other Genetic Syndromes
@@ -49,7 +49,7 @@
 
 ### Wolfram Syndrome
 
-- **DIDMOAD**: Diabetes Insipidus, Diabetes Mellitus, Optic Atrophy, Deafness.
+- **DIDMOAD**: [[Endocrinology/Diabetes Insipidus\|Diabetes Insipidus]], Diabetes Mellitus, Optic Atrophy, Deafness.
 - Recessive _WFS1_ mutation (Wolframin) located on chromosome 4p.
 - Triggers chronic ER stress-mediated apoptosis of pancreatic beta cells and neurons.
 

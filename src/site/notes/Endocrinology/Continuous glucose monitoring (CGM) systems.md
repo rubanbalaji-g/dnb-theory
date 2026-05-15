@@ -4,7 +4,7 @@
 
 ## Introduction and Mechanism of Action
 
-- Continuous glucose monitoring (CGM) systems have revolutionized the management of type 1 and type 2 diabetes mellitus by providing real-time, dynamic information regarding glycemic excursions.
+- [[Endocrinology/Continuous glucose monitoring (CGM) systems\|Continuous glucose monitoring (CGM) systems]] have revolutionized the management of type 1 and type 2 diabetes mellitus by providing real-time, dynamic information regarding glycemic excursions.
 - The system typically utilizes a small, transcutaneous sensor inserted into the subcutaneous tissue to measure interstitial fluid glucose concentrations using glucose-oxidase–based electrochemical methods.
 - CGM devices report glucose concentrations approximately every 5 minutes, yielding up to 288 readings per 24-hour period.
 - In addition to providing near-current glucose values, these systems provide critical rate-of-change trend arrows and predictive alarms for impending hypoglycemia or severe hyperglycemia.
@@ -46,6 +46,6 @@
 
 - The successful implementation of CGM requires rigorous, structured education and the setting of realistic expectations for the patient, family, and school personnel.
 - Individualized and sensible alarm configurations are paramount; overly sensitive or broad alarms frequently induce "alarm fatigue" and psychological burden, which is a leading cause of device attrition and non-adherence.
-- Inadequate sensor adhesiveness and localized skin irritation (contact dermatitis) are substantial barriers to long-term CGM use, particularly in young children and infants whose available body surface area is limited.
+- Inadequate sensor adhesiveness and localized skin irritation ([[Misc/Contact Dermatitis\|contact dermatitis]]) are substantial barriers to long-term CGM use, particularly in young children and infants whose available body surface area is limited.
 - Management of skin issues requires regular insertion site rotation, the judicious use of adhesive removers to prevent epidermal trauma, and the application of supplementary barrier products, liquid adhesives, and transparent dressings (e.g., IV-3000, Tegaderm).
 - Despite technological safeguards like PLGS, patients and caregivers must be thoroughly educated to remain alert to systems alarms, properly administer rescue carbohydrates for breakthrough hypoglycemia, and actively monitor for infusion set failures that could precipitate diabetic ketoacidosis.

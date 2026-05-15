@@ -12,21 +12,21 @@
 
 ### Malignant Disorders
 
-- In acute lymphoblastic leukemia (ALL), allogeneic HSCT benefits pediatric patients in their first complete remission if they exhibit high-risk features, or in second or subsequent remissions, achieving a 3-year overall survival rate of 70–80%.
-- For acute myeloid leukemia (AML), HSCT serves as a robust postremission consolidation therapy for high-risk patients, yielding better event-free survival than chemotherapy alone, with a 3-year overall survival of 60–70%.
-- HSCT is a proven curative treatment for chronic myelogenous leukemia (CML), with leukemia-free survival reaching 45–80%, though its upfront use is now generally reserved for patients who fail or cannot tolerate tyrosine kinase inhibitor therapy.
-- In juvenile myelomonocytic leukemia (JMML), HSCT cures approximately 50–60% of patients, overcoming the otherwise aggressive and rapidly fatal natural history of the disease.
-- For relapsed or refractory Hodgkin and non-Hodgkin lymphomas, as well as high-risk solid tumors like neuroblastoma and brain tumors, autologous HSCT offers survival rates of 50–60% for patients with sensitive disease and minimal tumor burden.
+- In [[Hematology/Acute Lymphoblastic Leukemia\|acute lymphoblastic leukemia]] (ALL), allogeneic HSCT benefits pediatric patients in their first complete remission if they exhibit high-risk features, or in second or subsequent remissions, achieving a 3-year overall survival rate of 70–80%.
+- For [[Hematology/Acute Myeloid Leukemia\|acute myeloid leukemia]] (AML), HSCT serves as a robust postremission consolidation therapy for high-risk patients, yielding better event-free survival than chemotherapy alone, with a 3-year overall survival of 60–70%.
+- HSCT is a proven curative treatment for [[Hematology/Chronic Myelogenous Leukemia\|chronic myelogenous leukemia]] (CML), with leukemia-free survival reaching 45–80%, though its upfront use is now generally reserved for patients who fail or cannot tolerate tyrosine kinase inhibitor therapy.
+- In [[Hematology/Juvenile Myelomonocytic Leukemia\|juvenile myelomonocytic leukemia]] (JMML), HSCT cures approximately 50–60% of patients, overcoming the otherwise aggressive and rapidly fatal natural history of the disease.
+- For relapsed or refractory Hodgkin and non-Hodgkin lymphomas, as well as high-risk solid tumors like [[Hematology/Neuroblastoma\|neuroblastoma]] and brain tumors, autologous HSCT offers survival rates of 50–60% for patients with sensitive disease and minimal tumor burden.
 
 ### Non-Malignant Disorders
 
 - The most favorable HSCT outcomes are often achieved in non-malignant congenital or acquired disorders, as the risk of disease recurrence is extremely low and transplantation-related mortality is substantially reduced compared to malignant conditions.
-- HSCT is the definitive and potentially curative treatment for severe combined immunodeficiency (SCID), achieving a 95% survival rate when performed optimally within the first 100 days of life.
-- Other primary immunodeficiencies successfully cured by HSCT include Wiskott-Aldrich syndrome (where survival approaches 100% with a matched sibling), hyper-IgM syndrome, leukocyte adhesion deficiency, and chronic granulomatous disease (CGD).
-- For acquired severe aplastic anemia, matched-sibling bone marrow transplantation provides a long-term survival probability exceeding 80%.
-- Inherited bone marrow failure syndromes, such as Fanconi anemia, are cured of their aplastic anemia and protected from subsequent clonal hematopoietic disorders via HSCT, with a 5-year overall survival greater than 90% if performed prior to leukemic transformation.
-- HSCT is currently the only curative treatment for hemoglobinopathies; in thalassemia major patients without significant liver damage who have received regular iron chelation, the probability of survival with complete transfusion independence exceeds 90%.
-- In sickle cell disease, HSCT offers an 80–90% probability of cure for patients experiencing severe vasoocclusive crises or strokes, effectively halting disease progression.
+- HSCT is the definitive and potentially curative treatment for [[Infectious Diseases/Severe Combined Immunodeficiency (SCID)\|severe combined immunodeficiency (SCID)]], achieving a 95% survival rate when performed optimally within the first 100 days of life.
+- Other primary immunodeficiencies successfully cured by HSCT include Wiskott-Aldrich syndrome (where survival approaches 100% with a matched sibling), hyper-IgM syndrome, leukocyte adhesion deficiency, and [[Infectious Diseases/Chronic Granulomatous Disease (CGD)\|chronic granulomatous disease (CGD)]].
+- For acquired severe [[Hematology/Aplastic Anemia\|aplastic anemia]], matched-sibling bone marrow transplantation provides a long-term survival probability exceeding 80%.
+- Inherited bone marrow failure syndromes, such as [[Hematology/Fanconi Anemia\|Fanconi anemia]], are cured of their [[Hematology/Aplastic Anemia\|aplastic anemia]] and protected from subsequent clonal hematopoietic disorders via HSCT, with a 5-year overall survival greater than 90% if performed prior to leukemic transformation.
+- HSCT is currently the only curative treatment for hemoglobinopathies; in [[Hematology/Thalassemia\|thalassemia]] major patients without significant liver damage who have received regular iron chelation, the probability of survival with complete transfusion independence exceeds 90%.
+- In [[Hematology/Sickle Cell Disease\|sickle cell disease]], HSCT offers an 80–90% probability of cure for patients experiencing severe vasoocclusive crises or strokes, effectively halting disease progression.
 - For inherited metabolic diseases like mucopolysaccharidosis type 1 (Hurler syndrome) and adrenoleukodystrophy, HSCT enables the engraftment of microglial cells that deliver necessary enzymes directly to the central nervous system, preventing irreversible neurologic damage.
 
 ## Risks and Complications
@@ -42,7 +42,7 @@
 ### Infectious Complications
 
 - HSCT recipients experience a transient but profound state of immune deficiency, making life-threatening infections a leading risk.
-- In the preengraftment phase (the first 30 days), severe neutropenia and conditioning-induced mucosal damage place patients at extreme risk for bacterial sepsis and invasive fungal diseases caused by _Candida_ and _Aspergillus_ species.
+- In the preengraftment phase (the first 30 days), severe neutropenia and conditioning-induced mucosal damage place patients at extreme risk for bacterial sepsis and [[Infectious Diseases/Invasive Fungal Diseases\|invasive fungal diseases]] caused by _Candida_ and _Aspergillus_ species.
 - In the postengraftment phase, delayed T-cell and B-cell recovery predisposes patients to severe viral infections, notably cytomegalovirus (CMV), Epstein-Barr virus (EBV), adenovirus, and varicella-zoster virus.
 - CMV pneumonia carries a massive case fatality rate of 85% in the absence of early antiviral treatment, while EBV reactivation can lead to fatal posttransplant lymphoproliferative disease (PTLD).
 
@@ -60,7 +60,7 @@
 ### Late Effects and Organ Toxicity
 
 - Endocrine complications include severe growth impairment (particularly due to total body irradiation affecting the hypothalamic-pituitary axis and cartilage plates), primary ovarian or testicular failure, delayed puberty, and a high risk of permanent infertility.
-- Patients are at elevated risk for metabolic syndrome, dyslipidemia, and cardiotoxicity, especially if exposed to pre-transplant anthracyclines or chest radiation.
+- Patients are at elevated risk for [[Endocrinology/Metabolic Syndrome\|metabolic syndrome]], dyslipidemia, and cardiotoxicity, especially if exposed to pre-transplant anthracyclines or chest radiation.
 - The risk of developing secondary malignancies, such as myelodysplastic syndromes, secondary leukemias, thyroid carcinoma, and brain tumors, is significantly elevated compared to the general pediatric population.
 - Neurocognitive deficits and progressive leukoencephalopathy can occur, particularly in young children who receive total body irradiation or cranial radiation.
 - Other long-term complications include restrictive pulmonary disease, renal toxicity, cataracts, dental abnormalities, and significant psychological late effects including depression, anxiety, and posttraumatic stress.

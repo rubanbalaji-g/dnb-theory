@@ -10,7 +10,7 @@
 
 ## TRANSFUSION THERAPY
 
-- Cornerstone of Transfusion-Dependent Thalassemia (TDT) treatment.
+- Cornerstone of Transfusion-Dependent [[Hematology/Thalassemia\|Thalassemia]] (TDT) treatment.
 - Aim: Suppress ineffective erythropoiesis, promote normal growth, prevent bone deformities.
 
 ### Indications
@@ -70,7 +70,7 @@
 ### Hemoglobin F (HbF) Inducers
 
 - **Hydroxyurea**: DNA antimetabolite upregulating HbF synthesis.
-    - Efficacy: Highly utilized in Non-Transfusion-Dependent Thalassemia (NTDT). Lowers risk of leg ulcers, pulmonary hypertension, and extramedullary hematopoiesis. Efficacy in TDT limited.
+    - Efficacy: Highly utilized in Non-Transfusion-Dependent [[Hematology/Thalassemia\|Thalassemia]] (NTDT). Lowers risk of leg ulcers, pulmonary hypertension, and extramedullary hematopoiesis. Efficacy in TDT limited.
     - Dosage: Initial dose 10 mg/kg/day; escalate slowly to maximum 20 mg/kg/day.
     - Monitoring: Risk of significant cytopenias. Frequent CBC with differential mandated.
 
@@ -125,12 +125,12 @@
 |**Monthly**|CBC (if on Deferiprone), AST, ALT, RFT, Urine R/E (if on Deferasirox)|
 |**6-Monthly**|Serum ferritin.|
 |**Yearly**|Viral serologies (Anti-HBsAg, Anti-HCV, HIV 1&2), T4, TSH, GTT, Calcium, Phosphate, Vitamin D, LH, FSH, estradiol, testosterone, Tanner staging|
-|**Yearly (Age >10)**|Bone densitometry (DEXA scan), ECG, 2D Echocardiogram, T2* MRI|
+|**Yearly (Age >10)**|Bone densitometry (DEXA scan), [[Misc/ECG\|ECG]], 2D Echocardiogram, T2* MRI|
 |**Every 1-2 Years**|Liver Iron Concentration (LIC) via MRI.|
 
 ## MANAGEMENT OF SPECIFIC SYNDROMES
 
-### Non-Transfusion-Dependent Thalassemia (NTDT) / Thalassemia Intermedia
+### Non-Transfusion-Dependent [[Hematology/Thalassemia\|Thalassemia]] (NTDT) / [[Hematology/Thalassemia\|Thalassemia]] Intermedia
 
 - Phenotype: Homozygous or compound heterozygous maintaining Hb 7-10 g/dL without chronic transfusions.
 - Complications: Marked medullary expansion, extramedullary hematopoiesis, leg ulcers, pulmonary hypertension, thrombosis. Extramedullary hematopoiesis compressing spinal cord requires emergent radiation.
@@ -150,5 +150,5 @@
 ## ACUTE EMERGENCIES
 
 - **Sepsis**: Iron overload and deferoxamine chelation highly elevate risk for _Yersinia enterocolitica_ and encapsulated organisms. Initiate immediate broad-spectrum antibiotics upon presentation of fever.
-- **Cardiogenic Shock**: Obtain immediate ECG, Echocardiogram (assess left ventricular contractility), and Central Venous Pressure (CVP). Institute intensive continuous IV deferoxamine (50-60 mg/kg/day over 24h) combined with deferiprone (75-99 mg/kg/day divided tid). Cautious diuresis required due to high baseline preload.
+- **Cardiogenic Shock**: Obtain immediate [[Misc/ECG\|ECG]], Echocardiogram (assess left ventricular contractility), and Central Venous Pressure (CVP). Institute intensive continuous IV deferoxamine (50-60 mg/kg/day over 24h) combined with deferiprone (75-99 mg/kg/day divided tid). Cautious diuresis required due to high baseline preload.
 - **Endocrine Crisis**: Standard protocols for diabetic ketoacidosis. Administer presumptive hydrocortisone for suspected adrenal insufficiency in shock states.

@@ -12,7 +12,7 @@
 
 ### Risk Factors
 
-- Klinefelter syndrome: Increased risk mediastinal germ cell tumors (GCTs).
+- Klinefelter syndrome: Increased risk mediastinal [[Hematology/Germ Cell Tumors\|germ cell tumors]] (GCTs).
 - Testicular cancer risk factors: Cryptorchidism, trisomy 21, infertility, testicular atrophy, testicular dysgenesis syndrome.
 - Orchiopexy prior to age 13 reduces testicular GCT risk.
 - Highest risk observed among monozygotic twins.
@@ -56,7 +56,7 @@ Presentation correlates with anatomic location and histologic variant.
 |**Ovary**|Abdominal pain, large rapidly growing mass. Precocious puberty, amenorrhea, hirsutism (with EC histology).|24% of gonadal GCTs|
 |**Testis**|Painless scrotal mass. Often prepubertal or postpubertal presentation.|9% of gonadal GCTs|
 |**Mediastinum**|Respiratory distress, anterior mediastinal mass compressing trachea/vascular structures.|7% of extragonadal GCTs|
-|**Intracranial / CNS**|Insidious course. Predominantly suprasellar/pineal regions. Vision changes, diabetes insipidus, pituitary deficits, precocious puberty.|3-5% of pediatric CNS tumors|
+|**Intracranial / CNS**|Insidious course. Predominantly suprasellar/pineal regions. Vision changes, [[Endocrinology/Diabetes Insipidus\|diabetes insipidus]], pituitary deficits, precocious puberty.|3-5% of pediatric [[Hematology/CNS Tumors\|CNS tumors]]|
 
 ### Sacrococcygeal Teratoma Types
 
@@ -100,7 +100,7 @@ Malignant Germ Cell International Consortium (MaGIC) merges COG and IGCCC classi
 
 ## Management Principles
 
-### Benign Germ Cell Tumors
+### Benign [[Hematology/Germ Cell Tumors\|Germ Cell Tumors]]
 
 - **Mature Teratoma:** Surgical excision is curative. Examine multiple histologic sections to exclude focal immature tissue or malignant elements.
 - **Immature Teratoma:** Surgical resection is primary therapy. Prepubertal cases unresponsive to chemotherapy. If AFP elevated, manage as malignant GCT.
@@ -108,7 +108,7 @@ Malignant Germ Cell International Consortium (MaGIC) merges COG and IGCCC classi
 - **Ovarian Teratoma:** Fertility-sparing unilateral salpingo-oophorectomy. Contralateral ovary inspected and biopsied only if abnormal.
 - **Mediastinal Teratoma:** Surgical excision. Neoadjuvant chemotherapy utilized for unresectable lesions abutting vital structures.
 
-### Malignant Extracranial Germ Cell Tumors
+### Malignant Extracranial [[Hematology/Germ Cell Tumors\|Germ Cell Tumors]]
 
 Multimodal therapy dictated by histologic subtype, anatomic site, and MaGIC risk group.
 
@@ -121,7 +121,7 @@ Multimodal therapy dictated by histologic subtype, anatomic site, and MaGIC risk
 - **Standard Risk 2 (>11 years):** Surgery plus 3 cycles BEP (Bleomycin weekly, Etoposide, Cisplatin). Adult-equivalent bleomycin intensity required due to postpubertal biology.
 - **Poor Risk (>11 years):** Surgery plus 4 cycles BEP.
 
-### Intracranial Germ Cell Tumors
+### Intracranial [[Hematology/Germ Cell Tumors\|Germ Cell Tumors]]
 
 - **Pure Germinoma:** Highly radiosensitive and chemosensitive. Current protocols utilize chemotherapy (Carboplatin/Etoposide) followed by reduced-dose radiation (30.6-50.4 Gy to gross tumor/ventricles depending on response). Eliminates need for craniospinal irradiation (CSI) in localized disease.
 - **Nongerminomatous GCT (NGGCT):** Highly aggressive. Requires intensive chemotherapy (Carboplatin/Etoposide alternating with Ifosfamide/Etoposide) combined with full CSI (36 Gy) and primary site boost (54 Gy).

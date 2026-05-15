@@ -62,7 +62,7 @@ Exhibits characteristic triphasic clinical course: chronic phase, accelerated ph
 
 ### Confirmatory Molecular Testing
 
-- Definitive diagnosis requires identification of t(9;22) via karyotyping or fluorescence in situ hybridization (FISH).
+- Definitive diagnosis requires identification of t(9;22) via [[Genetics/Karyotyping\|karyotyping]] or fluorescence in situ hybridization (FISH).
 - BCR-ABL1 fusion transcript quantification required via quantitative reverse transcriptase-polymerase chain reaction (qRT-PCR).
 - Bone marrow examination remains essential for complete karyotype analysis and morphologic phase confirmation.
 

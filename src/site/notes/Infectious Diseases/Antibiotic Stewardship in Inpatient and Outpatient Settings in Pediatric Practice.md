@@ -30,7 +30,7 @@ The necessity for ASPs in pediatric practice stems from the high prevalence of a
 - **Adverse Drug Events (ADEs):** 21% of antibiotic courses among pediatric inpatients are complicated by an ADE. Each additional day of therapy increases the odds of an ADE by 7%.
 - **Resistance:** Overuse drives the selection of multidrug-resistant organisms (MDROs), such as Extended-Spectrum Beta-Lactamase (ESBL) producing Gram-negatives and Vancomycin-Resistant Enterococci (VRE).
 - **_C. difficile_ Infection:** While less common in children than adults, CDI is a serious complication of antibiotic exposure.
-- **Microbiome Dysbiosis:** Emerging research links early childhood antibiotic exposure to long-term health issues like obesity, asthma, and allergic diseases.
+- **Microbiome Dysbiosis:** Emerging research links early childhood antibiotic exposure to long-term health issues like obesity, [[Respiratory/Asthma\|asthma]], and allergic diseases.
 
 ## 3. Core Elements of Stewardship Programs
 
@@ -42,7 +42,7 @@ Successful ASPs, whether inpatient or outpatient, rely on a multidisciplinary te
 4. **Action:** Implementing interventions to improve prescribing.
 5. **Tracking:** Monitoring antibiotic use and resistance patterns.
 6. **Reporting:** Sharing data with prescribers and staff.
-7. **Education:** Educating clinicians about resistance and optimal prescribing.
+7. **Education:** Educating clinicians [[About\|about]] resistance and optimal prescribing.
 
 ## 4. Inpatient Antimicrobial Stewardship
 
@@ -65,7 +65,7 @@ In the hospital setting, ASPs utilize specific strategies to influence prescribi
 ### 4.2. Supplemental Inpatient Interventions
 
 1. **Antibiotic "Time-Outs":** A clinician-led reassessment of antibiotic need after 48–72 hours. This prompts the team to ask: "Does this patient still need antibiotics? Can we narrow the spectrum?".
-2. **Facility-Specific Guidelines:** Developing local clinical practice guidelines for common conditions (e.g., community-acquired pneumonia, febrile neutropenia) based on local antibiograms (susceptibility patterns).
+2. **Facility-Specific Guidelines:** Developing local clinical practice guidelines for common conditions (e.g., community-acquired pneumonia, [[Infectious Diseases/Febrile Neutropenia\|febrile neutropenia]]) based on local antibiograms (susceptibility patterns).
 3. **IV to Oral Conversion:** transitioning patients to oral therapy when clinically stable reduces hospital stay, costs, and line-associated complications.
 4. **Dose Optimization:** Pharmacists ensure optimal dosing (e.g., extended infusions for beta-lactams) and therapeutic drug monitoring for vancomycin and aminoglycosides to ensure efficacy and minimize toxicity.
 5. **Diagnostic Stewardship:** Utilizing rapid diagnostic tests (e.g., PCR panels for blood cultures) to identify pathogens quickly, allowing faster de-escalation.
@@ -83,7 +83,7 @@ The majority of antibiotic use occurs in the outpatient setting, presenting uniq
 ### 5.2. Actionable Strategies
 
 1. **Guidelines for Acute Respiratory Infections (ARIs):** Since ARIs (otitis media, pharyngitis, sinusitis) drive most pediatric prescribing, strict adherence to diagnostic criteria is vital. For example, ensuring a diagnosis of Group A Streptococcus via rapid test/culture before treating pharyngitis.
-2. **Delayed Prescribing ("Wait-and-See"):** For conditions like acute otitis media or sinusitis in eligible children, providers give a prescription but instruct parents to fill it only if symptoms worsen or do not improve after 48–72 hours. This empowers parents while reducing use.
+2. **Delayed Prescribing ("Wait-and-See"):** For conditions like [[Misc/Acute Otitis Media\|acute otitis media]] or sinusitis in eligible children, providers give a prescription but instruct parents to fill it only if symptoms worsen or do not improve after 48–72 hours. This empowers parents while reducing use.
 3. **Diagnostic Precision:** avoiding empiric treatment for conditions where viral etiology is high (e.g., bronchiolitis) unless bacterial coinfection is proven.
 
 ## 6. Principles of Rational Antimicrobial Therapy

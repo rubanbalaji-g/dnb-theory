@@ -4,7 +4,7 @@
 
 ### Pathogenesis
 
-- Autoimmune lymphoproliferative syndrome (ALPS), also known as Canale-Smith syndrome, primarily arises from an underlying disorder of abnormal lymphocyte apoptosis.
+- [[Infectious Diseases/Autoimmune Lymphoproliferative Syndrome (ALPS)\|Autoimmune lymphoproliferative syndrome (ALPS)]], also known as Canale-Smith syndrome, primarily arises from an underlying disorder of abnormal lymphocyte apoptosis.
 - The genetic deficit in the vast majority of patients is a germline or somatic pathogenic variant in the _FAS_ gene, which produces a cell surface receptor belonging to the tumor necrosis factor (TNF) receptor superfamily (TNFRSF6).
 - Under normal physiologic conditions, the stimulation of the FAS receptor by its ligand produces programmed cell death (apoptosis) to safely clear activated lymphocytes.
 - Due to the _FAS_ variant, there is persistent survival of these lymphocytes, which subsequently leads to severe immune dysregulation and autoimmunity.
@@ -19,8 +19,8 @@
 - A cardinal clinical feature of ALPS is chronic, persistent, or recurrent lymphadenopathy, which can be striking in presentation.
 - Massive splenomegaly is consistently observed and may produce hypersplenism; hepatomegaly is additionally present in approximately 50% of patients.
 - While the lymphoproliferative process (lymphadenopathy and splenomegaly) may regress over time, the associated autoimmunity typically does not regress and is characterized by frequent exacerbations and recurrences.
-- Autoimmunity frequently targets hematopoietic cells, producing multilineage cytopenias such as Coombs-positive autoimmune hemolytic anemia, immune thrombocytopenia, or mild autoimmune neutropenia.
-- ALPS is a recognized cause of Evans syndrome, which is the concurrent presentation of immune thrombocytopenia and autoimmune hemolytic anemia.
+- Autoimmunity frequently targets hematopoietic cells, producing multilineage cytopenias such as Coombs-positive [[Hematology/Autoimmune Hemolytic Anemia\|autoimmune hemolytic anemia]], immune thrombocytopenia, or mild autoimmune neutropenia.
+- ALPS is a recognized cause of Evans syndrome, which is the concurrent presentation of immune thrombocytopenia and [[Hematology/Autoimmune Hemolytic Anemia\|autoimmune hemolytic anemia]].
 - Other diverse autoimmune manifestations can occur, including urticaria, uveitis, glomerulonephritis, hepatitis, vasculitis, panniculitis, arthritis, premature ovarian failure, thyroiditis, myocarditis, pancreatitis, and central nervous system involvement (e.g., seizures, headaches, encephalopathy, transverse myelitis, [[Neuromuscular/Guillain-Barré Syndrome\|Guillain-Barré syndrome]], and ataxia).
 - Patients harbor a lifelong, significantly elevated risk for the development of malignancies, particularly Hodgkin and non-Hodgkin lymphomas, as well as solid-tissue tumors of the thyroid, skin, heart, or lung.
 

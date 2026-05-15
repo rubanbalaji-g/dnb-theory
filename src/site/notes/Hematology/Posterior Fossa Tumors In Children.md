@@ -46,13 +46,13 @@ Immediate neurologic assessment and neuroimaging required.
 ### Neuroimaging
 
 - Magnetic Resonance Imaging (MRI): Gold standard; performed with and without gadolinium contrast.
-- Computed Tomography (CT): Utilized acutely to detect hydrocephalus, hemorrhage, or calcifications.
+- Computed Tomography (CT): Utilized acutely to detect [[Neurology/Hydrocephalus\|hydrocephalus]], hemorrhage, or calcifications.
 - Spinal MRI: Essential to evaluate leptomeningeal spread (drop metastases).
 
 ### Cerebrospinal Fluid (CSF) Analysis
 
 - Lumbar puncture for cytologic evaluation.
-- Contraindicated in newly diagnosed hydrocephalus with CSF obstruction prior to shunt/ventriculostomy to prevent fatal brain herniation.
+- Contraindicated in newly diagnosed [[Neurology/Hydrocephalus\|hydrocephalus]] with CSF obstruction prior to shunt/ventriculostomy to prevent fatal brain herniation.
 - Polyamine assays: Detect tumors approximating CSF pathways (medulloblastoma, ependymoma, brainstem glioma).
 
 ## Specific Tumor Profiles
@@ -138,7 +138,7 @@ Constitutes 10-15% of posterior fossa tumors. Outcomes strictly depend on tumor 
 
 ### Atypical Teratoid/Rhabdoid Tumor (AT/RT)
 
-Highly aggressive embryonal tumor representing 10-20% of CNS tumors in children <3 years.
+Highly aggressive embryonal tumor representing 10-20% of [[Hematology/CNS Tumors\|CNS tumors]] in children <3 years.
 
 #### Pathology And Genetics
 

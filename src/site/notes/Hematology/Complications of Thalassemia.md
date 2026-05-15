@@ -6,7 +6,7 @@
 
 - Ineffective erythropoiesis drives bone marrow expansion.
 - Medullary expansion causes characteristic skeletal deformities.
-- Chronic tissue hypoxia stimulates erythropoietin production.
+- Chronic tissue hypoxia stimulates [[Hematology/Erythropoietin\|erythropoietin]] production.
 - Erythroid factor erythroferrone promotes excess intestinal iron absorption.
 - Chronic red blood cell transfusions compound iron loading.
 - Unbound iron deposits in visceral organs causing systemic hemosiderosis.
@@ -59,7 +59,7 @@
 #### Cardiac complications
 
 - Myocardial iron deposition causes heart failure and arrhythmias.
-- Represents primary cause of mortality in thalassemia major.
+- Represents primary cause of mortality in [[Hematology/Thalassemia\|thalassemia]] major.
 - **Diagnosis**:
     - Cardiac T2 star magnetic resonance imaging.
     - Value less than 10 ms indicates severe iron loading and high cardiac risk.
@@ -71,7 +71,7 @@
 
 #### Endocrine complications
 
-- Pituitary and glandular iron toxicity causes multiple endocrinopathies.
+- Pituitary and glandular [[Emergencies/Iron Toxicity\|iron toxicity]] causes multiple endocrinopathies.
 - Manifests as growth retardation, delayed puberty, hypogonadism, diabetes mellitus, hypothyroidism, and hypoparathyroidism.
 - **Management**:
     - Monitor growth parameters quarterly.
@@ -81,12 +81,12 @@
 #### Hepatic complications
 
 - Iron deposition causes liver fibrosis and eventual cirrhosis.
-- Liver damage exacerbated by concomitant hepatitis b or c infection.
+- Liver damage exacerbated by concomitant [[Gastrointestinal/Hepatitis B\|hepatitis b]] or c infection.
 - **Management**:
     - Monitor liver iron concentration via magnetic resonance imaging or biopsy.
     - Adjust chelation to target liver iron concentration 2-5 mg/g dry weight.
-    - Administer hepatitis a and b vaccinations.
-    - Consult gastroenterology for antiviral management if hepatitis c positive.
+    - Administer [[Gastrointestinal/Hepatitis A\|hepatitis a]] and b vaccinations.
+    - Consult gastroenterology for antiviral management if [[Gastrointestinal/Hepatitis C\|hepatitis c]] positive.
 
 ### Monitoring Iron Burden
 

@@ -46,7 +46,7 @@
 - Platelet transfusion: 10-20 mL/kg. Random, unmatched donor platelets demonstrate high efficacy; maternal (washed) or specific antigen-negative platelets utilized only if randomly matched transfusions fail.
 - Intravenous immunoglobulin (IVIG): 1 g/kg/day for 1-3 days.
 - Corticosteroids: Intravenous methylprednisolone (1 mg every 8 hours) utilized conjunctively with IVIG.
-- Radiologic surveillance: Repeat neuroimaging monthly for 3 months to monitor for late hydrocephalus.
+- Radiologic surveillance: Repeat neuroimaging monthly for 3 months to monitor for late [[Neurology/Hydrocephalus\|hydrocephalus]].
 - Follow-up: Monitor counts until complete normalization to exclude inherited thrombocytopenia syndromes.
 
 ### Antenatal Management Of Subsequent Pregnancies
@@ -54,7 +54,7 @@
 - Subsequent pregnancies face higher severity and earlier onset risks.
 - Management requires specialized maternal-fetal medicine input.
 - Ascertain paternal zygosity: Homozygous paternal status guarantees affected fetus; heterozygous status indicates 50% risk.
-- Fetal typing: Noninvasive prenatal testing using cell-free fetal DNA (cffDNA) preferred over amniocentesis.
+- Fetal typing: Noninvasive prenatal testing using cell-free fetal DNA (cffDNA) preferred over [[Neonatalogy/Amniocentesis\|amniocentesis]].
 - Therapeutic regimen: Maternal IVIG infusions.
 - Timing: Initiate at 12 weeks gestation for mothers with previously affected ICH pregnancy; initiate at 20 weeks for previously affected non-ICH pregnancy.
 - Augmentation: Add or escalate corticosteroids if IVIG monotherapy proves insufficient.
@@ -66,7 +66,7 @@
 
 - Secondary to passive transplacental transfer of maternal autoantibodies.
 - Target antigens: Common to both maternal and fetal platelets (primarily GPIIb/IIIa or GPIb/IX complexes).
-- Associated maternal disorders: Immune thrombocytopenic purpura (ITP), systemic lupus erythematosus (SLE), autoimmune thyroiditis.
+- Associated maternal disorders: [[Hematology/Immune Thrombocytopenic Purpura (ITP)\|Immune thrombocytopenic purpura (ITP)]], systemic lupus erythematosus (SLE), autoimmune thyroiditis.
 - Maternal history: Thrombocytopenia during pregnancy <100,000/μL (especially <50,000/μL). Mothers with prior splenectomy for ITP can transfer antibodies and produce affected neonates despite normal maternal platelet counts.
 - Distinguish from gestational thrombocytopenia: Occurs in 5-10% of pregnancies, mild (70,000-100,000/μL), normalizes post-delivery, does not cause neonatal thrombocytopenia.
 
@@ -111,10 +111,10 @@ Thorough evaluation must exclude other significant causes of neonatal thrombocyt
 ### Early-Onset Etiologies (<72 Hours)
 
 - **Placental Insufficiency/Hypoxia:** Preeclampsia, intrauterine growth restriction, maternal diabetes. Causes impaired megakaryopoiesis and elevated TPO. Nadir at days 3-4, recovers by days 7-10. No treatment usually required.
-- **Perinatal Asphyxia/DIC:** Disseminated intravascular coagulation resulting in rapid consumption.
-- **Congenital Infections (TORCH):** Cytomegalovirus (most common, affects 50-77%), toxoplasmosis, rubella, syphilis. Presents with microcephaly, hepatosplenomegaly, chorioretinitis, "blueberry muffin" rash.
+- **Perinatal Asphyxia/DIC:** [[Hematology/Disseminated Intravascular Coagulation\|Disseminated intravascular coagulation]] resulting in rapid consumption.
+- **Congenital Infections (TORCH):** Cytomegalovirus (most common, affects 50-77%), toxoplasmosis, rubella, syphilis. Presents with [[Neurology/Microcephaly\|microcephaly]], hepatosplenomegaly, chorioretinitis, "blueberry muffin" rash.
 - **Aneuploidy/Genetic Syndromes:** Trisomy 13, 18, 21. Down syndrome associated with transient myeloproliferative disorder (GATA1 mutation).
-- **Congenital Amegakaryocytic Thrombocytopenia (CAMT):** Severe thrombocytopenia <50,000/μL. Normal marrow cellularity but absent megakaryocytes. Caused by MPL mutation. Evolves into aplastic anemia. Curative therapy requires hematopoietic stem cell transplant.
+- **[[Hematology/Congenital amegakaryocytic thrombocytopenia\|Congenital Amegakaryocytic Thrombocytopenia]] (CAMT):** Severe thrombocytopenia <50,000/μL. Normal marrow cellularity but absent megakaryocytes. Caused by MPL mutation. Evolves into [[Hematology/Aplastic Anemia\|aplastic anemia]]. Curative therapy requires hematopoietic stem cell transplant.
 - **Thrombocytopenia-Absent Radius (TAR) Syndrome:** Bilateral radial anomalies with present thumbs. Associated with cow's milk allergy. Thrombocytopenia improves after first year of life.
 
 ### Late-Onset Etiologies (>72 Hours)

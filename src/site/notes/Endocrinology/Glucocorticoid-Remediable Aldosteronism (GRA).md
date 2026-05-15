@@ -4,7 +4,7 @@
 
 ### Definition and Genetics
 
-- Glucocorticoid-remediable aldosteronism (GRA), also known as familial hyperaldosteronism type I or glucocorticoid-suppressible hyperaldosteronism, is an autosomal dominant form of low-renin hypertension,.
+- [[Endocrinology/Glucocorticoid-Remediable Aldosteronism (GRA)\|Glucocorticoid-remediable aldosteronism (GRA)]], also known as familial [[Endocrinology/Hyperaldosteronism\|hyperaldosteronism]] type I or glucocorticoid-suppressible [[Endocrinology/Hyperaldosteronism\|hyperaldosteronism]], is an autosomal dominant form of low-renin hypertension,.
 - It is a rare condition that accounts for approximately 2% of all cases of hypertension.
 
 ### Pathophysiology

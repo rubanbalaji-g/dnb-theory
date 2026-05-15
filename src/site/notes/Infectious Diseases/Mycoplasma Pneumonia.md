@@ -4,7 +4,7 @@
 
 ## Introduction
 
-_Mycoplasma pneumoniae_ is a unique, pleomorphic bacterium belonging to the class _Mollicutes_. It is a major cause of community-acquired pneumonia (CAP) in school-aged children and adolescents, often referred to as "primary atypical pneumonia" or "walking pneumonia."
+_Mycoplasma pneumoniae_ is a unique, pleomorphic bacterium belonging to the class _Mollicutes_. It is a major cause of community-acquired pneumonia (CAP) in school-aged children and adolescents, often referred to as "primary [[Respiratory/Atypical Pneumonia\|atypical pneumonia]]" or "walking pneumonia."
 
 - **Microbiology:** It is one of the smallest self-replicating organisms (150–250 nm). A key distinguishing feature is the **complete absence of a cell wall**, which renders it intrinsically resistant to beta-lactam antibiotics (penicillins, cephalosporins) that target cell wall synthesis. It is enclosed only by a three-layered cell membrane containing sterols.
 - **History:** Initially identified as the "Eaton agent" in 1944 and thought to be a virus, it was later cultivated on cell-free media and identified as a bacterium.
@@ -21,7 +21,7 @@ _Mycoplasma pneumoniae_ is a unique, pleomorphic bacterium belonging to the clas
 The pathogenicity of _M. pneumoniae_ involves three main mechanisms:
 
 1. **Cytoadherence:** The organism possesses a specialized attachment organelle containing the **P1 adhesin** protein. It attaches firmly to neuraminic acid receptors on the ciliated respiratory epithelium. This attachment inhibits ciliary motility (ciliostasis) and leads to the destruction of the ciliated layer, causing the characteristic prolonged cough.
-2. **Toxin Production:** _M. pneumoniae_ produces a unique exotoxin called the **Community-Acquired Respiratory Distress Syndrome (CARDS) toxin**. This toxin has ADP-ribosylating and vacuolating activity, causing direct damage to the respiratory epithelium, inflammation, and airway hyperreactivity (wheezing). It also generates hydrogen peroxide and superoxide radicals, causing oxidative stress to host cells.
+2. **Toxin Production:** _M. pneumoniae_ produces a unique exotoxin called the **Community-Acquired [[Neonatalogy/Respiratory Distress Syndrome\|Respiratory Distress Syndrome]] (CARDS) toxin**. This toxin has ADP-ribosylating and vacuolating activity, causing direct damage to the respiratory epithelium, inflammation, and airway hyperreactivity (wheezing). It also generates hydrogen peroxide and superoxide radicals, causing oxidative stress to host cells.
 3. **Immune-mediated Injury:** Much of the disease pathology, especially extrapulmonary manifestations, is believed to be immune-mediated. The infection triggers a robust inflammatory response (cytokine storm) and the production of autoantibodies (e.g., cold agglutinins) due to molecular mimicry between bacterial glycolipids and host tissues.
 
 ## Clinical Manifestations
@@ -36,15 +36,15 @@ The clinical spectrum ranges from asymptomatic infection to severe pneumonitis w
 - **Pneumonia ("Walking Pneumonia"):**
     - Clinically, the child often appears less ill than the chest radiograph suggests.
     - Physical examination may be unrevealing or show only fine crepitations or wheezing. Signs of frank consolidation are less common than in typical bacterial pneumonia.
-- **Wheezing:** _M. pneumoniae_ is a well-recognized trigger for acute wheezing episodes and asthma exacerbations in children.
+- **Wheezing:** _M. pneumoniae_ is a well-recognized trigger for acute wheezing episodes and [[Respiratory/Asthma\|asthma]] exacerbations in children.
 
 ### 2. Extrapulmonary Manifestations
 
 These occur in up to 25% of cases and can affect almost any organ system.
 
-- **Dermatologic:** Maculopapular rashes are common. Severe forms include **Stevens-Johnson Syndrome (SJS)** and a distinct entity termed **Mycoplasma-Induced Rash and Mucositis (MIRM)**. MIRM typically presents with prominent mucositis (oral, ocular, urogenital) and variable skin lesions, often with a milder course than drug-induced SJS. Erythema nodosum and urticaria are also seen.
-- **Neurologic:** Encephalitis, aseptic meningitis, cerebellar ataxia, Transverse Myelitis, and [[Neuromuscular/Guillain-Barré Syndrome\|Guillain-Barré syndrome]]. CNS involvement can be severe and result in permanent sequelae.
-- **Hematologic:** Autoimmune hemolytic anemia mediated by **Cold Agglutinins** (IgM antibodies against the I antigen on RBCs). Thrombocytopenia and hypercoagulability (risk of thrombus/embolism) may occur.
+- **Dermatologic:** Maculopapular rashes are common. Severe forms include **Stevens-Johnson Syndrome (SJS)** and a distinct entity termed **Mycoplasma-Induced Rash and Mucositis (MIRM)**. MIRM typically presents with prominent mucositis (oral, ocular, urogenital) and variable skin lesions, often with a milder course than drug-induced SJS. [[Misc/Erythema Nodosum\|Erythema nodosum]] and urticaria are also seen.
+- **Neurologic:** Encephalitis, aseptic [[Neurology/Meningitis\|meningitis]], cerebellar ataxia, Transverse Myelitis, and [[Neuromuscular/Guillain-Barré Syndrome\|Guillain-Barré syndrome]]. CNS involvement can be severe and result in permanent sequelae.
+- **Hematologic:** [[Hematology/Autoimmune Hemolytic Anemia\|Autoimmune hemolytic anemia]] mediated by **Cold Agglutinins** (IgM antibodies against the I antigen on RBCs). Thrombocytopenia and hypercoagulability (risk of thrombus/embolism) may occur.
 - **Others:** Myocarditis/pericarditis, hepatitis, pancreatitis, arthritis, and nephritis.
 
 ## Diagnosis
@@ -87,4 +87,4 @@ Macrolide-resistant _M. pneumoniae_ (MRMP) is a growing concern, particularly in
 
 ## Prognosis
 
-The prognosis is generally excellent. Most infections are self-limiting. Recovery from "walking pneumonia" is the rule, although cough may linger for weeks. Severe courses are more common in children with sickle cell disease (Acute Chest Syndrome), Down syndrome, or immunodeficiency.
+The prognosis is generally excellent. Most infections are self-limiting. Recovery from "walking pneumonia" is the rule, although cough may linger for weeks. Severe courses are more common in children with [[Hematology/Sickle Cell Disease\|sickle cell disease]] (Acute Chest Syndrome), Down syndrome, or immunodeficiency.

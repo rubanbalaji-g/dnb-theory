@@ -14,8 +14,8 @@ Hyperthyroidism is a clinical syndrome resulting from hypermetabolism due to exc
 	- Persistent: Activating mutation of the TSHR gene (non-autoimmune).
 3. Toxic Nodular Goiter (Rare in children):
 	- Toxic Adenoma (Single "hot" nodule): Somatic activating mutation of TSHR.
-	- McCune-Albright Syndrome: Somatic activating mutation of the GNAS1 gene (constitutive cAMP activation).
-4. Hashitoxicosis: Transient thyrotoxic phase (due to hormone release from follicular destruction) during the evolution of Hashimoto's thyroiditis.
+	- [[Endocrinology/McCune-Albright Syndrome\|McCune-Albright Syndrome]]: Somatic activating mutation of the GNAS1 gene (constitutive cAMP activation).
+4. Hashitoxicosis: Transient thyrotoxic phase (due to hormone release from follicular destruction) during the evolution of [[Endocrinology/Hashimoto's Thyroiditis\|Hashimoto's thyroiditis]].
 5. Exogenous: Factitious ingestion of thyroid hormone.
 6. Iodine-Induced (Jod-Basedow effect): Rare in children. 
 
@@ -24,7 +24,7 @@ Hyperthyroidism is a clinical syndrome resulting from hypermetabolism due to exc
 GD is caused by TSH-Receptor Antibodies (TRAb), specifically Thyroid-Stimulating Immunoglobulins (TSI).
 - These antibodies bind to the TSH receptor (TSHR) on thyroid follicular cells.
 - They mimic TSH action, activating adenylate cyclase and the cAMP pathway.
-- This leads to unregulated, continuous thyroid hormone synthesis (T4, T3) and release, as well as glandular hyperplasia (goiter). 
+- This leads to unregulated, continuous [[Endocrinology/Thyroid Hormone Synthesis\|thyroid hormone synthesis]] (T4, T3) and release, as well as glandular hyperplasia (goiter). 
 - The normal hypothalamic-pituitary-thyroid axis negative feedback is overridden; pituitary TSH secretion is suppressed.
 ## Clinical Features
 
@@ -38,7 +38,7 @@ Symptoms are often insidious in children.
 - Ophthalmopathy (Specific to Graves'): Occurs in approx 50% of children.
 	- Signs: Stare (Dalrymple sign), lid lag (von Graefe's sign), lid retraction.
 	- Symptoms: Grittiness, photophobia, excessive tearing.
-	- True Infiltrative Disease: Proptosis (exophthalmos), periorbital edema, chemosis, and ophthalmoplegia (diplopia).
+	- True Infiltrative Disease: [[Misc/Proptosis\|Proptosis]] (exophthalmos), periorbital edema, chemosis, and ophthalmoplegia (diplopia).
 - Pediatric-Specific Growth: Accelerated linear growth and advanced bone age (due to direct T4 effect on chondrocytes).
 - Skin: Warm, moist skin (vasodilation). Pretibial myxedema is extremely rare in children.
 ## Investigations & Diagnosis 

@@ -15,7 +15,7 @@
 
 #### Hemorrhage (Acute or Chronic)
 
-- Prenatal: Fetomaternal transplacental bleeding (spontaneous, traumatic amniocentesis), intraplacental bleeding, retroplacental abruption, or twin-to-twin transfusion syndrome.
+- Prenatal: Fetomaternal transplacental bleeding (spontaneous, traumatic [[Neonatalogy/Amniocentesis\|amniocentesis]]), intraplacental bleeding, retroplacental abruption, or twin-to-twin transfusion syndrome.
 - Twin-to-twin transfusion: Occurs in 15% of monochorionic twins; donor twin presents anemic, pale, with oligohydramnios.
 - Intrapartum: Obstetric accidents, cord malformations, placental anomalies.
 - Postnatal: Traumatic delivery causing intracranial/intra-abdominal hemorrhage, cephalhematoma, coagulation factor deficiencies, or severe thrombocytopenia.
@@ -32,11 +32,11 @@
 - Immune Isoimmunization: Rh, ABO, or minor blood groups (Kell, Duffy, Lutheran) incompatibility. Positive direct antiglobulin test (DAT).
 - Congenital Erythrocyte Defects: Membrane defects (hereditary spherocytosis, elliptocytosis, infantile pyknocytosis). Enzyme defects (G6PD deficiency, pyruvate kinase deficiency).
 - Hemoglobinopathies: Alpha-thalassemia syndromes (Hemoglobin Bart's). Beta-thalassemia clinically silent at birth due to high fetal hemoglobin (HbF).
-- Acquired Defects: Bacterial sepsis (E. coli, streptococcus), viral infections (CMV, rubella, herpes simplex), protozoal (toxoplasmosis), or metabolic causes (hypoxia, acidosis, vitamin E deficiency).
+- Acquired Defects: Bacterial sepsis (E. coli, streptococcus), viral infections (CMV, rubella, herpes simplex), protozoal (toxoplasmosis), or metabolic causes (hypoxia, acidosis, [[Nutrition/Vitamin E Deficiency\|vitamin E deficiency]]).
 
 #### Hypoplasia (Failure of Production)
 
-- Congenital Bone Marrow Failure: Diamond-Blackfan anemia, Fanconi anemia, Pearson syndrome, congenital dyserythropoietic anemia.
+- Congenital Bone Marrow Failure: Diamond-Blackfan anemia, [[Hematology/Fanconi Anemia\|Fanconi anemia]], Pearson syndrome, congenital dyserythropoietic anemia.
 - Acquired: Viral infections (parvovirus B19, rubella, syphilis, CMV).
 
 ### Anemias of 1 to 3 Months
@@ -45,7 +45,7 @@
 
 - Normal developmental response to extrauterine life; no hematologic problem.
 - Pathophysiology: Onset of respiration increases oxygen saturation (50% to >95%). Replaces high-oxygen-affinity HbF with lower-affinity HbA, enhancing tissue oxygen delivery.
-- Resulting hyperoxia down-regulates erythropoietin (EPO) production, suppressing erythropoiesis.
+- Resulting hyperoxia down-regulates [[Hematology/Erythropoietin\|erythropoietin]] (EPO) production, suppressing erythropoiesis.
 - Hemoglobin progressively declines over first 6-8 weeks.
 - Nadir: 8-12 weeks; Hb ~11 g/dL, rarely falls below 10 g/dL in healthy term infants.
 - Resolution: Occurs when tissue oxygen needs exceed delivery, stimulating EPO synthesis and resuming erythropoiesis.
@@ -63,21 +63,21 @@
 
 #### Nutritional Anemias
 
-- **Iron Deficiency Anemia (IDA)**: Most common nutritional deficiency. Iron stores depleted by 6 months in term infants, 3-4 months in preterm infants.
+- **[[Hematology/Iron Deficiency Anemia\|Iron Deficiency Anemia]] (IDA)**: Most common nutritional deficiency. Iron stores depleted by 6 months in term infants, 3-4 months in preterm infants.
     - Causes: Excessive cow's milk intake, breastfeeding >6 months without iron supplementation, delayed weaning to iron-rich solid foods, prematurity.
     - Diagnosis: Microcytic, hypochromic anemia, elevated RDW, low ferritin, elevated total iron binding capacity (TIBC).
-- **Megaloblastic Anemia**: Peak incidence 4-7 months for folate deficiency.
-    - Causes: Goat's milk diet (deficient in folate), maternal vitamin B12 deficiency (vegan/vegetarian diet) transferred via breast milk, intrinsic factor deficiency.
+- **Megaloblastic Anemia**: Peak incidence 4-7 months for [[Hematology/Folate Deficiency\|folate deficiency]].
+    - Causes: Goat's milk diet (deficient in folate), maternal [[Hematology/Vitamin B12 Deficiency\|vitamin B12 deficiency]] (vegan/vegetarian diet) transferred via breast milk, intrinsic factor deficiency.
     - Diagnosis: Macrocytic red cells, hypersegmented neutrophils, megaloblastic bone marrow.
 
 #### Hemoglobinopathies
 
 - **Beta-Thalassemia Major**: Presents at 6-12 months. Symptoms appear postnatally as gamma-globin decreases and defective beta-globin production fails to compensate. Transfusion-dependent anemia, hepatosplenomegaly, frontal bossing.
-- **Sickle Cell Disease (HbSS)**: Asymptomatic at birth. Presents by 2-3 months with anemia, dactylitis, and splenic infarction as HbF levels fall.
+- **[[Hematology/Sickle Cell Disease\|Sickle Cell Disease]] (HbSS)**: Asymptomatic at birth. Presents by 2-3 months with anemia, dactylitis, and splenic infarction as HbF levels fall.
 
 #### Pure Red Cell Aplasias
 
-- **Diamond-Blackfan Anemia (DBA)**: Median age at diagnosis 3-4 months; >90% present in first year. Macrocytic anemia, reticulocytopenia, normal cellular marrow with absent erythroid precursors. Congenital anomalies present in 50% (craniofacial, thumb deformities).
+- **[[Hematology/Diamond-Blackfan anemia (DBA)\|Diamond-Blackfan Anemia (DBA)]]**: Median age at diagnosis 3-4 months; >90% present in first year. Macrocytic anemia, reticulocytopenia, normal cellular marrow with absent erythroid precursors. Congenital anomalies present in 50% (craniofacial, thumb deformities).
 - **Transient Erythroblastopenia of Childhood (TEC)**: Most common acquired red cell aplasia. Typically presents in children >12 months, but can occur from 6 months. Preceded by viral illness. Normocytic anemia, reticulocytopenia, spontaneous recovery.
 
 ## Diagnostic Approach
@@ -92,23 +92,23 @@
 
 - Initial evaluation: Complete blood count (CBC), reticulocyte count, peripheral blood smear, RBC indices.
 - Reticulocyte count dictates physiological classification:
-    - Elevated (>3% index): Accelerated destruction (hemolysis) or blood loss.
-    - Decreased (<1.5% index): Impaired production (nutritional deficiency, marrow failure, TEC).
+    - Elevated (>3% [[Statistics/Index\|index]]): Accelerated destruction (hemolysis) or blood loss.
+    - Decreased (<1.5% [[Statistics/Index\|index]]): Impaired production (nutritional deficiency, marrow failure, TEC).
 
 |MCV Classification|Low MCV (Microcytic)|Normal MCV (Normocytic)|High MCV (Macrocytic)|
 |:--|:--|:--|:--|
-|**Low/Normal Reticulocyte**|Iron deficiency, Thalassemia trait, Lead poisoning, Chronic disease.|TEC, Renal failure, Bone marrow infiltration, Infection.|Folate/B12 deficiency, DBA, Hypothyroidism, Down syndrome.|
-|**High Reticulocyte**|Thalassemia syndromes.|Acute bleeding, Membrane defects (spherocytosis), Enzyme defects (G6PD), Hemoglobinopathies.|Active hemolysis (marked reticulocytosis), Dyserythropoietic anemia.|
+|**Low/Normal Reticulocyte**|Iron deficiency, [[Hematology/Thalassemia\|Thalassemia]] trait, Lead poisoning, Chronic disease.|TEC, Renal failure, Bone marrow infiltration, Infection.|Folate/B12 deficiency, DBA, Hypothyroidism, Down syndrome.|
+|**High Reticulocyte**|[[Hematology/Thalassemia\|Thalassemia]] syndromes.|Acute bleeding, Membrane defects (spherocytosis), Enzyme defects (G6PD), Hemoglobinopathies.|Active hemolysis (marked reticulocytosis), Dyserythropoietic anemia.|
 
 |Peripheral Smear Finding|Associated Conditions|
 |:--|:--|
-|**Spherocytes**|Hereditary spherocytosis, ABO incompatibility, Autoimmune hemolytic anemia.|
-|**Schistocytes**|Microangiopathic hemolytic anemia, Disseminated intravascular coagulation, Hemolytic uremic syndrome.|
-|**Target Cells**|Thalassemia, Hemoglobin C disease, Liver disease, Post-splenectomy.|
-|**Heinz Bodies**|Thalassemia, G6PD deficiency, Unstable hemoglobins.|
-|**Pyknocytes**|Infantile pyknocytosis, Vitamin E deficiency.|
+|**Spherocytes**|Hereditary spherocytosis, ABO incompatibility, [[Hematology/Autoimmune Hemolytic Anemia\|Autoimmune hemolytic anemia]].|
+|**Schistocytes**|Microangiopathic hemolytic anemia, [[Hematology/Disseminated Intravascular Coagulation\|Disseminated intravascular coagulation]], Hemolytic uremic syndrome.|
+|**Target Cells**|[[Hematology/Thalassemia\|Thalassemia]], Hemoglobin C disease, Liver disease, Post-splenectomy.|
+|**Heinz Bodies**|[[Hematology/Thalassemia\|Thalassemia]], G6PD deficiency, Unstable hemoglobins.|
+|**Pyknocytes**|Infantile pyknocytosis, [[Nutrition/Vitamin E Deficiency\|Vitamin E deficiency]].|
 
-|Differentiating Feature|Diamond-Blackfan Anemia (DBA)|Transient Erythroblastopenia of Childhood (TEC)|
+|Differentiating Feature|[[Hematology/Diamond-Blackfan anemia (DBA)\|Diamond-Blackfan Anemia (DBA)]]|Transient Erythroblastopenia of Childhood (TEC)|
 |:--|:--|:--|
 |**Etiology**|Genetic (inherited bone marrow failure).|Acquired (post-viral).|
 |**Age at Presentation**|50% by 3 months; 90% by 1 year.|Usually >12 months (range 6 months to 4 years).|

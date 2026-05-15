@@ -88,13 +88,13 @@ graph LR
 
 - Results from compression of superior vena cava or trachea by anterior mediastinal masses.
 - Commonly associated malignancies: 
-	- Non-Hodgkin lymphoma
-	- T-cell acute lymphoblastic leukemia (ALL)
-	- Hodgkin lymphoma
-	- germ cell tumors
-	- neuroblastoma
+	- [[Hematology/Non-Hodgkin Lymphoma\|Non-Hodgkin lymphoma]]
+	- T-cell [[Hematology/Acute Lymphoblastic Leukemia\|acute lymphoblastic leukemia]] (ALL)
+	- [[Hematology/Hodgkin Lymphoma\|Hodgkin lymphoma]]
+	- [[Hematology/Germ Cell Tumors\|germ cell tumors]]
+	- [[Hematology/Neuroblastoma\|neuroblastoma]]
 	- thymoma.
-- Intrinsic etiologies: Intravascular tumor thrombosis (Wilms tumor, lymphoma), catheter-related thrombosis.
+- Intrinsic etiologies: Intravascular tumor thrombosis ([[Hematology/Wilms Tumor\|Wilms tumor]], lymphoma), catheter-related thrombosis.
 
 |Clinical Manifestations|Diagnostic Evaluation|Management Strategy|
 |:--|:--|:--|
@@ -105,7 +105,7 @@ graph LR
 
 ### Cardiac Tamponade
 
-- Results from massive pericardial effusion, intracardiac thrombus, tumors, or radiation-induced constrictive pericarditis.
+- Results from massive pericardial effusion, intracardiac thrombus, tumors, or radiation-induced constrictive [[Cardiology/Pericarditis\|pericarditis]].
 - Presentation: Chest pain, cough, dyspnea, tachycardia, pulsus paradoxus.
 - Intervention: Oxygenation, hydration, emergent percutaneous pericardial drainage, fluid cytology.
 
@@ -119,8 +119,8 @@ graph LR
 
 |Disease Subtype|Threshold For Risk|Clinical Implications|
 |:--|:--|:--|
-|**Acute Lymphoblastic Leukemia (ALL)** (T-cell, infant, Philadelphia+)|>300,000/mm³|Extreme risk of metabolic derangements.|
-|**Acute Myeloid Leukemia (AML)** (FAB M1, M3, M4, M5, infant)|>200,000/mm³|High risk of intracranial hemorrhage, stroke, pulmonary hemorrhage.|
+|**[[Hematology/Acute Lymphoblastic Leukemia\|Acute Lymphoblastic Leukemia]] (ALL)** (T-cell, infant, Philadelphia+)|>300,000/mm³|Extreme risk of metabolic derangements.|
+|**[[Hematology/Acute Myeloid Leukemia\|Acute Myeloid Leukemia]] (AML)** (FAB M1, M3, M4, M5, infant)|>200,000/mm³|High risk of intracranial hemorrhage, stroke, pulmonary hemorrhage.|
 |**Chronic Myeloid Leukemia (CML)** (Blast crisis)|>300,000/mm³|Leukostasis, neurologic symptoms, hypoxia.|
 
 #### Management Interventions
@@ -133,7 +133,7 @@ graph LR
 
 ### Hypercalcemia Of Malignancy
 
-- Pathophysiology: Osteolytic bone resorption (leukemia, lymphoma, rhabdomyosarcoma), paraneoplastic parathyroid-like hormone (PTHrP) production, immobilization, renal excretion defects.
+- Pathophysiology: Osteolytic bone resorption (leukemia, lymphoma, [[Hematology/Rhabdomyosarcoma\|rhabdomyosarcoma]]), paraneoplastic parathyroid-like hormone (PTHrP) production, immobilization, renal excretion defects.
 - Presentation: Anorexia, nausea, polyuria, polydipsia, constipation, weakness, bradycardia, shortened QT interval, coma.
 - Management:
     - Stop calcium-containing medications.
@@ -148,19 +148,19 @@ graph LR
 ### Spinal Cord Compression
 
 - Occurs in ~5% of pediatric oncology patients.
-- Associated malignancies: Ewing sarcoma, neuroblastoma, lymphomas, epidural chloromas (leukemia), central nervous system (CNS) drop metastases.
+- Associated malignancies: Ewing sarcoma, [[Hematology/Neuroblastoma\|neuroblastoma]], lymphomas, epidural chloromas (leukemia), central nervous system (CNS) drop metastases.
 - Pathogenesis: Direct tumor extension via vertebral foramina, vertebral metastasis, or subarachnoid spread.
 
 |Clinical Evaluation|Therapeutic Modalities|
 |:--|:--|
 |Back pain with localized tenderness (80% of patients).|Immediate Dexamethasone (1-2 mg/kg loading dose, then 0.25 mg/kg every 6 hours).|
-|Motor weakness, paraplegia, sensory loss.|Emergent chemotherapy (lymphoma, leukemia, neuroblastoma).|
+|Motor weakness, paraplegia, sensory loss.|Emergent chemotherapy (lymphoma, leukemia, [[Hematology/Neuroblastoma\|neuroblastoma]]).|
 |Late findings: Incontinence, urinary retention, bowel/bladder dysfunction.|Radiation therapy for radiosensitive tumors.|
 |Magnetic Resonance Imaging (MRI) with contrast (modality of choice).|Surgical laminectomy for rapid decompression or radioresistant tumors (sarcomas).|
 
 ### Increased Intracranial Pressure (ICP)
 
-- Etiology: Primary CNS tumors (medulloblastoma, glioma), brain metastasis, hydrocephalus, CNS leukemia, pseudotumor cerebri, hemorrhage.
+- Etiology: Primary [[Hematology/CNS Tumors\|CNS tumors]] (medulloblastoma, glioma), brain metastasis, [[Neurology/Hydrocephalus\|hydrocephalus]], CNS leukemia, [[Neurology/Pseudotumor Cerebri\|pseudotumor cerebri]], hemorrhage.
 - Presentation: Headache, morning emesis, hypertension, bradycardia, papilledema, cranial nerve III and VI palsies, altered mental status, seizures.
 - Interventions: Dexamethasone, ventriculostomy, surgical excision, radiation, specific chemotherapy.
 
@@ -183,16 +183,16 @@ graph LR
 
 ### Bowel Obstruction And Gastrointestinal Hemorrhage
 
-- Obstruction causes: Tumor masses (lymphoma, neuroblastoma), intussusception (Burkitt lymphoma), adhesions.
+- Obstruction causes: Tumor masses (lymphoma, [[Hematology/Neuroblastoma\|neuroblastoma]]), intussusception (Burkitt lymphoma), adhesions.
 - Hemorrhage causes: Chemotherapy-induced thrombocytopenia, corticosteroid-induced ulcers, tumor masses, prolonged neutropenia.
 - Interventions: Bowel rest, nasogastric suction, blood product transfusions, endoscopic evaluation, surgical consultation.
 
 ## Infectious Emergencies
 
-### Febrile Neutropenia
+### [[Infectious Diseases/Febrile Neutropenia\|Febrile Neutropenia]]
 
 - Definition: Absolute neutrophil count (ANC) <500/mm³ (or <1000/mm³ with expected decline) accompanied by fever >38.3°C orally or sustained >38.0°C.
-- Carries immediate risk of life-threatening sepsis, shock, disseminated intravascular coagulation.
+- Carries immediate risk of life-threatening sepsis, shock, [[Hematology/Disseminated Intravascular Coagulation\|disseminated intravascular coagulation]].
 - Pathogens: Gram-negative bacteria, Gram-positive bacteria, fungi (_Candida_, _Aspergillus_), opportunistic organisms (_Pneumocystis jiroveci_).
 - Management Protocol:
     - Mandatory hospitalization.
@@ -202,7 +202,7 @@ graph LR
 
 ## Endocrine Emergencies
 
-### Syndrome Of Inappropriate Antidiuretic Hormone Secretion (SIADH)
+### Syndrome Of Inappropriate Antidiuretic Hormone Secretion ([[Endocrinology/SIADH\|SIADH]])
 
 - Pathophysiology: Continuous, unregulated pituitary release of antidiuretic hormone irrespective of plasma osmolality.
 - Triggers: Vincristine, cyclophosphamide, ifosfamide, cisplatin, CNS/pulmonary lesions, severe physiologic stress.

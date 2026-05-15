@@ -189,9 +189,9 @@ Clinical evaluation utilizes specific screening tests to isolate pathway defects
 |Laboratory Finding|Associated Coagulation Defects|
 |:--|:--|
 |**Isolated Prolonged PT**|FVII deficiency, early vitamin K deficiency, early liver synthetic dysfunction.|
-|**Isolated Prolonged aPTT**|Hemophilia A (FVIII), Hemophilia B (FIX), Hemophilia C (FXI), FXII deficiency. von Willebrand disease. Acquired FVIII/FIX/FXI inhibitors. Lupus anticoagulant. Heparin effect.|
-|**Prolonged PT and aPTT**|Common pathway factor deficiency (FII, FV, FX). Severe fibrinogen deficiency. Disseminated intravascular coagulation (DIC). Severe liver disease. Marked vitamin K deficiency. Dilutional coagulopathy.|
-|**Normal PT/aPTT With Bleeding**|FXIII deficiency. von Willebrand disease (mild). Platelet dysfunction. Mild specific factor deficiencies (FVIII, FIX, FXI). Alpha-2-antiplasmin deficiency. Collagen vascular diseases (Ehlers-Danlos).|
+|**Isolated Prolonged aPTT**|[[Hematology/Hemophilia A\|Hemophilia A]] (FVIII), Hemophilia B (FIX), Hemophilia C (FXI), FXII deficiency. [[Hematology/Von Willebrand Disease\|von Willebrand disease]]. Acquired FVIII/FIX/FXI inhibitors. Lupus anticoagulant. Heparin effect.|
+|**Prolonged PT and aPTT**|Common pathway factor deficiency (FII, FV, FX). Severe fibrinogen deficiency. [[Hematology/Disseminated Intravascular Coagulation\|Disseminated intravascular coagulation]] (DIC). Severe liver disease. Marked vitamin K deficiency. Dilutional coagulopathy.|
+|**Normal PT/aPTT With Bleeding**|FXIII deficiency. [[Hematology/Von Willebrand Disease\|von Willebrand disease]] (mild). Platelet dysfunction. Mild specific factor deficiencies (FVIII, FIX, FXI). Alpha-2-antiplasmin deficiency. Collagen vascular diseases (Ehlers-Danlos).|
 
 #### Advanced Coagulation Assays
 

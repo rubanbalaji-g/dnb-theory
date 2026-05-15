@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/hematology/hematology-and-oncology/","noteIcon":"","dgPassFrontmatter":true}
 ---
 
-## Fetal Hematopoiesis
+## [[Hematology/Fetal Hematopoiesis\|Fetal Hematopoiesis]]
 1. [[Hematology/Fetal Hematopoiesis\|Fetal Hematopoiesis]]
 2. [[Hematology/Hemoglobin Evolution - Embryo to Adult\|Hemoglobin Evolution - Embryo to Adult]]
 
@@ -21,11 +21,11 @@
 5. [[Hematology/Iron Metabolism in Humans\|Iron Metabolism in Humans]]
 6. [[Hematology/Approach to Hemolytic Anemia\|Approach to Hemolytic Anemia]]
 ### Genetic Anemias
-#### Sickle cell disease
+#### [[Hematology/Sickle Cell Disease\|Sickle cell disease]]
 1. [[Hematology/Sickle Cell Disease\|Sickle Cell Disease]]
 2. [[Hematology/Acute complications of Sickle Cell Anemia\|Acute complications of Sickle Cell Anemia]]
 3. [[Hematology/Chronic Complications of Sickle Cell Anemia\|Chronic Complications of Sickle Cell Anemia]]
-####  THalassemia
+####  [[Hematology/Thalassemia\|THalassemia]]
 1. [[Hematology/Genetic Basis of Thalassemia\|Genetic Basis of Thalassemia]]
 2. [[Hematology/Diagnosis of Thalassemias\|Diagnosis of Thalassemias]]
 3. [[Hematology/Antenatal Diagnosis of Thalassemia\|Antenatal Diagnosis of Thalassemia]]

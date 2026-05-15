@@ -22,7 +22,7 @@ Characterized by female karyotype with virilized external genitalia or ovotestic
 |**Androgen Excess (CAH)**|_CYP21A2_ (21-Hydroxylase)|Most common 46,XX DSD. Salt-wasting or simple virilizing. Elevated 17-OHP.|
 ||_CYP11B1_ (11β-Hydroxylase)|Virilization with arterial hypertension. Elevated 11-deoxycortisol.|
 ||_HSD3B2_ (3β-HSD)|Salt-wasting, mild virilization, elevated Δ5 steroids.|
-||_POR_ (P450 Oxidoreductase)|Antley-Bixler syndrome (craniosynostosis, radiohumeral synostosis). Ambiguity in both sexes.|
+||_POR_ (P450 Oxidoreductase)|Antley-Bixler syndrome ([[Neurology/Craniosynostosis\|craniosynostosis]], radiohumeral synostosis). Ambiguity in both sexes.|
 |**Maternal Androgen Exposure**|Placental Aromatase Deficiency|Maternal virilization during pregnancy, fetal virilization.|
 ||Exogenous Androgens|Progestational drugs or maternal virilizing tumors.|
 |**Disorders of Gonadal Development**|_SRY_ Translocation|46,XX Testicular DSD (XX male). Translocation of _SRY_ onto X chromosome. Testicular tissue present.|
@@ -34,7 +34,7 @@ Characterized by male karyotype with incomplete virilization, ambiguous, or fema
 
 |Etiology Category|Specific Defect / Gene|Pathophysiology & Clinical Features|
 |:--|:--|:--|
-|**Disorders of Gonadal Development**|_WT1_|Denys-Drash syndrome, WAGR syndrome. Dysgenetic testes, Wilms tumor, renal failure.|
+|**Disorders of Gonadal Development**|_WT1_|Denys-Drash syndrome, WAGR syndrome. Dysgenetic testes, [[Hematology/Wilms Tumor\|Wilms tumor]], renal failure.|
 ||_SF1_ (_NR5A1_)|Dysgenetic testes, primary adrenal failure, Müllerian structures absent.|
 ||_SOX9_|Campomelic dysplasia (skeletal dysplasia, bowing of long bones).|
 ||_SRY_, _DHH_, _ATRX_|Complete or partial gonadal dysgenesis (Swyer syndrome).|
@@ -136,9 +136,9 @@ graph TD
 
 - **General Examination:** Assess for hyperpigmentation (ACTH excess in CAH), dehydration, or hypertension (11β-OHD, 17α-OHD).
 - **Syndromic Stigmata:**
-    - _Smith-Lemli-Opitz:_ 2-3 toe syndactyly, microcephaly, ptosis, cleft palate.
+    - _Smith-Lemli-Opitz:_ 2-3 toe syndactyly, [[Neurology/Microcephaly\|microcephaly]], ptosis, cleft palate.
     - _CHARGE Syndrome:_ Coloboma, heart defects, choanal atresia, ear anomalies.
-    - _Denys-Drash:_ Renal anomalies, Wilms tumor.
+    - _Denys-Drash:_ Renal anomalies, [[Hematology/Wilms Tumor\|Wilms tumor]].
     - _Campomelic Dysplasia:_ Bowed limbs, skeletal dysplasia.
 - **Genital Anatomy:**
     - **Prader Staging:** Grade I (clitoromegaly only) to Grade V (male-appearing genitalia with cryptorchidism).

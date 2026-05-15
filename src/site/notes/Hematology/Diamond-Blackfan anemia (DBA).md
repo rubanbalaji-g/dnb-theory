@@ -18,11 +18,11 @@
 
 - **Hematologic:** Profound anemia evident by 2-6 months of age.
 - **Congenital Anomalies:** Present in 40-50% of patients; >25% have multiple anomalies.
-    - _Craniofacial (50%):_ Hypertelorism, broad flat nasal bridge, cleft palate, high-arched palate, microcephaly, micrognathia, microtia.
+    - _Craniofacial (50%):_ Hypertelorism, broad flat nasal bridge, cleft palate, high-arched palate, [[Neurology/Microcephaly\|microcephaly]], micrognathia, microtia.
     - _Skeletal/Upper Limb (30-40%):_ Triphalangeal thumb, duplex/bifid thumb, hypoplastic or flat thenar eminence, absent radial artery.
     - _Urogenital (39%):_ Absent/horseshoe kidney, hypospadias.
     - _Cardiac (30%):_ Ventricular/atrial septal defects, coarctation of aorta.
-    - _Ophthalmologic:_ Congenital glaucoma, strabismus, congenital cataract.
+    - _Ophthalmologic:_ Congenital glaucoma, strabismus, [[Misc/Congenital Cataract\|congenital cataract]].
 - **Growth:** Short stature, low birth weight (10% of cases).
 
 ## Laboratory Findings
@@ -49,7 +49,7 @@
 
 DBA must be differentiated from Transient Erythroblastopenia of Childhood (TEC).
 
-|Feature|Diamond-Blackfan Anemia (DBA)|Transient Erythroblastopenia of Childhood (TEC)|
+|Feature|[[Hematology/Diamond-Blackfan anemia (DBA)\|Diamond-Blackfan Anemia (DBA)]]|Transient Erythroblastopenia of Childhood (TEC)|
 |:--|:--|:--|
 |**Etiology**|Genetic ribosomopathy|Acquired (post-viral, idiopathic)|
 |**Age at Diagnosis**|50% by 3 months; 90% by 1 year|Usually >12 months (median 18-26 months)|
@@ -79,5 +79,5 @@ DBA must be differentiated from Transient Erythroblastopenia of Childhood (TEC).
 
 ## Prognosis & Complications
 
-- **Cancer Predisposition:** Elevated risk for myelodysplastic syndrome (MDS), acute myeloid leukemia (AML), colon carcinoma, osteogenic sarcoma, and female genital cancers.
-- **Survival:** Overall survival ~75% at age 40. Deaths primarily treatment-related (67%), particularly complications from iron overload, or disease-related (22%) due to severe aplastic anemia or malignancy.
+- **Cancer Predisposition:** Elevated risk for myelodysplastic syndrome (MDS), [[Hematology/Acute Myeloid Leukemia\|acute myeloid leukemia]] (AML), colon carcinoma, osteogenic sarcoma, and female genital cancers.
+- **Survival:** Overall survival ~75% at age 40. Deaths primarily treatment-related (67%), particularly complications from iron overload, or disease-related (22%) due to severe [[Hematology/Aplastic Anemia\|aplastic anemia]] or malignancy.

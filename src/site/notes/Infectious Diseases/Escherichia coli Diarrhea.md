@@ -10,7 +10,7 @@ Diarrheagenic *E. coli* are classified into six major pathotypes based on their 
 
 1.  **Enterotoxigenic *E. coli* (ETEC):** Major cause of traveler's diarrhea and infant diarrhea in developing nations.
 2.  **Enteropathogenic *E. coli* (EPEC):** Associated with acute and persistent diarrhea in infants (<2 years).
-3.  **Shiga toxin-producing *E. coli* (STEC):** Also known as Enterohemorrhagic *E. coli* (EHEC). Associated with hemorrhagic colitis and Hemolytic Uremic Syndrome (HUS).
+3.  **Shiga toxin-producing *E. coli* (STEC):** Also known as Enterohemorrhagic *E. coli* (EHEC). Associated with hemorrhagic colitis and [[Nephrology/Hemolytic uremic syndrome (HUS)\|Hemolytic Uremic Syndrome (HUS)]].
 4.  **Enteroinvasive *E. coli* (EIEC):** Closely resembles *Shigella*; causes [[Gastrointestinal/Dysentery\|dysentery]].
 5.  **Enteroaggregative *E. coli* (EAEC):** Associated with persistent diarrhea and growth retardation.
 6.  **Diffusely Adherent *E. coli* (DAEC):** Associated with prolonged watery diarrhea in young children.
@@ -30,7 +30,7 @@ The mechanism of disease varies by pathotype, generally involving colonization, 
 ### C. Shiga toxin-producing *E. coli* (STEC/EHEC)
 *   **Adherence:** Like EPEC, STEC produces A/E lesions via intimin and Tir.
 *   **Toxins:** The distinguishing feature is the production of **Shiga toxins (Stx1 and Stx2)**.
-*   **Systemic Effects:** Stx inhibits protein synthesis in endothelial cells. Stx2 is particularly associated with vascular endothelial injury leading to thrombotic microangiopathy, resulting in Hemolytic Uremic Syndrome (HUS),.
+*   **Systemic Effects:** Stx inhibits protein synthesis in endothelial cells. Stx2 is particularly associated with vascular endothelial injury leading to thrombotic microangiopathy, resulting in [[Nephrology/Hemolytic uremic syndrome (HUS)\|Hemolytic Uremic Syndrome (HUS)]],.
 
 ### D. Enteroinvasive *E. coli* (EIEC)
 *   **Invasion:** Pathogenesis mimics *Shigella*. EIEC invades colonic epithelial cells, multiplies intracellularly, and spreads to adjacent cells causing cell death and mucosal ulceration. This process is mediated by a large virulence plasmid (pInv) sharing genes with *Shigella*.

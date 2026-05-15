@@ -2,15 +2,15 @@
 {"dg-publish":true,"permalink":"/endocrinology/congenital-adrenal-hyperplasia/","dgPassFrontmatter":true}
 ---
 
-v## Overview of Congenital Adrenal Hyperplasia
+v## Overview of [[Endocrinology/Congenital Adrenal Hyperplasia\|Congenital Adrenal Hyperplasia]]
 
-- Congenital adrenal hyperplasia (CAH) encompasses a family of autosomal recessive disorders characterized by genetic defects in the enzymes required for cortisol biosynthesis.
+- [[Endocrinology/Congenital Adrenal Hyperplasia\|Congenital adrenal hyperplasia]] (CAH) encompasses a family of autosomal recessive disorders characterized by genetic defects in the enzymes required for cortisol biosynthesis.
 - The fundamental pathophysiology shared by these disorders involves insufficient cortisol production, which eliminates normal negative feedback inhibition on the hypothalamus and pituitary gland.
 - The resulting hypersecretion of corticotropin (ACTH) drives continuous stimulation of the adrenal cortex, leading to adrenocortical hyperplasia and the massive accumulation of intermediate steroid metabolites proximal to the enzymatic block.
 - Depending on the specific enzyme deficiency, these accumulated precursors are shunted into alternative open pathways, resulting in characteristic patterns of mineralocorticoid deficiency or excess, as well as varying degrees of androgen deficiency or excess.
 - Clinical phenotypes range from fatal neonatal salt-wasting crises and ambiguous genitalia to delayed puberty, hypertension, and asymptomatic nonclassic forms presenting in adulthood.
 
-## Summary Table of Congenital Adrenal Hyperplasia Types
+## Summary Table of [[Endocrinology/Congenital Adrenal Hyperplasia\|Congenital Adrenal Hyperplasia]] Types
 ![Pasted image 20260313202058.png](/img/user/+%C4%B0mages/Pasted%20image%2020260313202058.png)
 
 | Enzyme Deficiency                                       | Gene (Locus)         | Mineralocorticoid Effect                 | Genital Presentation (46,XX)                | Genital Presentation (46,XY)                | Key Diagnostic Biochemical Elevations                   |
@@ -28,7 +28,7 @@ v## Overview of Congenital Adrenal Hyperplasia
 ### Epidemiology
 
 - Most common inborn error of steroidogenesis.
-- Causes >90% of Congenital Adrenal Hyperplasia (CAH) cases.
+- Causes >90% of [[Endocrinology/Congenital Adrenal Hyperplasia\|Congenital Adrenal Hyperplasia]] (CAH) cases.
 - Classic form incidence: ~1 in 14,000.
 
 ### Pathophysiology
@@ -56,7 +56,7 @@ v## Overview of Congenital Adrenal Hyperplasia
 - Elevated baseline 17OHP (>2000 ng/dL in classic disease).
 - Elevated 21-deoxycortisol.
 - Gold standard: Intravenous ACTH stimulation test demonstrating exaggerated 17OHP response.
-- Newborn screening utilizes 17OHP assays (must measure >24 hours post-birth to avoid false positives).
+- [[Neonatalogy/Newborn Screening\|Newborn screening]] utilizes 17OHP assays (must measure >24 hours post-birth to avoid false positives).
 
 #### Treatment Principles
 
@@ -70,7 +70,7 @@ v## Overview of Congenital Adrenal Hyperplasia
 ### Overview & Epidemiology
 
 - Rare autosomal recessive endocrine disorder.
-- Represents 3% to 5% of Congenital Adrenal Hyperplasia (CAH) cases globally.
+- Represents 3% to 5% of [[Endocrinology/Congenital Adrenal Hyperplasia\|Congenital Adrenal Hyperplasia]] (CAH) cases globally.
 - General population incidence: 1 in 100,000 to 1 in 250,000 live births.
 - Highest prevalence in specific ethnic isolates due to founder effects.
 
@@ -113,7 +113,7 @@ v## Overview of Congenital Adrenal Hyperplasia
 |:--|:--|
 |**Cortisol Deficiency**|- Glucocorticoid insufficiency. Typically milder than 21-hydroxylase deficiency. Corticosterone provides partial compensatory glucocorticoid activity.|
 |**Deoxycorticosterone (DOC) Excess**|- DOC possesses potent mineralocorticoid activity.- Induces sodium retention, volume expansion, hypertension.- Suppresses Plasma Renin Activity (PRA).- Suppresses aldosterone synthesis via down-regulation of renin-angiotensin-aldosterone system.|
-|**Androgen Excess**|- Shunting of accumulated precursors into sex steroid biosynthesis pathways.- Elevated dehydroepiandrosterone (DHEA), androstenedione, and testosterone.- Potential utilization of alternate "backdoor pathway" converting excess 17-OHP to dihydrotestosterone (DHT) independently of testosterone.|
+|**Androgen Excess**|- Shunting of accumulated precursors into sex [[Endocrinology/Steroid Biosynthesis\|steroid biosynthesis]] pathways.- Elevated dehydroepiandrosterone (DHEA), androstenedione, and testosterone.- Potential utilization of alternate "backdoor pathway" converting excess 17-OHP to dihydrotestosterone (DHT) independently of testosterone.|
 |**Secondary 17-OHP Elevation**|- Accumulated 11-deoxycortisol competitively inhibits P450c21 (21-hydroxylase).- Results in secondary elevation of 17-hydroxyprogesterone (17-OHP).|
 
 ### Clinical Manifestations
@@ -152,11 +152,11 @@ v## Overview of Congenital Adrenal Hyperplasia
 |**Aldosterone**|- Suppressed / Low (secondary to suppressed PRA).|
 |**Potassium**|- Hypokalemia (variable, absent in many early presentations).|
 |**Androgens**|- Elevated Testosterone, Androstenedione, DHEA.|
-|**17-Hydroxyprogesterone (17-OHP)**|- Mildly to moderately elevated.- May trigger false-positive newborn screening for 21-hydroxylase deficiency.|
+|**17-Hydroxyprogesterone (17-OHP)**|- Mildly to moderately elevated.- May trigger false-positive [[Neonatalogy/Newborn Screening\|newborn screening]] for 21-hydroxylase deficiency.|
 
 #### Ancillary Testing
 
-- **Newborn Screening:** May detect elevated 17-OHP, prompting further steroid profiling.
+- **[[Neonatalogy/Newborn Screening\|Newborn Screening]]:** May detect elevated 17-OHP, prompting further steroid profiling.
 - **Genetic Testing:** _CYP11B1_ gene sequencing confirms molecular diagnosis. Required to confirm nonclassic cases reliably.
 - **Bone Age Radiograph:** Advanced skeletal maturation relative to chronologic age.
 - **Pelvic Ultrasound:** Confirms presence of Müllerian structures (uterus, ovaries) in virilized 46,XX neonates.
@@ -168,7 +168,7 @@ v## Overview of Congenital Adrenal Hyperplasia
 |**21-Hydroxylase Deficiency**|- Most common CAH (>90%).- Salt-wasting: Hyponatremia, hyperkalemia, hypotension (NO hypertension).- Massive elevation of 17-OHP; 11-deoxycortisol is LOW.- Elevated PRA.|
 |**17$\alpha$-Hydroxylase Deficiency**|- Hypertension and hypokalemia present (like 11$\beta$-OHD).- Deficient sex steroids $\rightarrow$ 46,XY undervirilized (phenotypic female/ambiguous); 46,XX sexual infantilism/primary amenorrhea (NO virilization).|
 |**3$\beta$-HSD Deficiency**|- Ambiguous genitalia in BOTH 46,XX and 46,XY.- Elevated $\Delta$5 steroids (pregnenolone, 17-hydroxypregnenolone, DHEA).- High $\Delta$5:$\Delta$4 steroid ratio.|
-|**P450 Oxidoreductase (POR) Deficiency**|- Ambiguous genitalia in both sexes.- Mixed features of 21-OHD and 17$\alpha$-OHD.- Associated with Antley-Bixler skeletal dysplasia (craniosynostosis, radiohumeral synostosis).|
+|**P450 Oxidoreductase (POR) Deficiency**|- Ambiguous genitalia in both sexes.- Mixed features of 21-OHD and 17$\alpha$-OHD.- Associated with Antley-Bixler skeletal dysplasia ([[Neurology/Craniosynostosis\|craniosynostosis]], radiohumeral synostosis).|
 
 ### Management
 
@@ -190,7 +190,7 @@ v## Overview of Congenital Adrenal Hyperplasia
 
 ### Pathophysiology
 
-- Rare, autosomal recessive variant of Congenital Adrenal Hyperplasia (CAH).
+- Rare, autosomal recessive variant of [[Endocrinology/Congenital Adrenal Hyperplasia\|Congenital Adrenal Hyperplasia]] (CAH).
 - Caused by loss-of-function mutations in _HSD3B2_ gene (chromosome 1p13.1).
 - Impairs conversion of $\Delta 5$ steroids to $\Delta 4$-ketosteroids (pregnenolone $\rightarrow$ progesterone; 17-hydroxypregnenolone $\rightarrow$ 17-OHP; DHEA $\rightarrow$ androstenedione).
 - Leads to complete or partial deficiency of glucocorticoids, mineralocorticoids, and sex steroids.
@@ -247,7 +247,7 @@ v## Overview of Congenital Adrenal Hyperplasia
 
 ### Clinical Presentation
 
-- Infants typically present with severe, life-threatening acute adrenal crisis and profound salt-wasting shortly after birth.
+- Infants typically present with severe, life-threatening acute [[Endocrinology/Adrenal Crisis\|adrenal crisis]] and profound salt-wasting shortly after birth.
 - Due to the destruction of fetal Leydig cells or the inability to synthesize testosterone, affected 46,XY genetic males are born with entirely female external genitalia and a blind vaginal pouch.
 - Müllerian structures (uterus, tubes) are absent in 46,XY patients because the undamaged Sertoli cells continue to secrete AMH.
 - In _STAR_ mutations, the adrenal glands are massively enlarged and engorged with lipids; conversely, in _CYP11A1_ mutations, the adrenal glands appear normal or small on ultrasound.
@@ -264,9 +264,9 @@ v## Overview of Congenital Adrenal Hyperplasia
 
 - **Genital Ambiguity:** Manifests in both genetic sexes. 46,XX females are virilized (partly due to the utilization of the alternative backdoor pathway to DHT), while 46,XY males are undervirilized due to combined 17α-hydroxylase/17,20-lyase impairment.
 - **Maternal Virilization:** Pregnant mothers carrying an affected fetus may experience progressive virilization during gestation because the mutant placental aromatase fails to convert abundant fetal androgens into estrogens.
-- **Skeletal Dysplasia:** POR deficiency is strongly associated with the Antley-Bixler syndrome phenotype, characterized by severe skeletal anomalies including craniosynostosis, midface hypoplasia, radiohumeral synostosis, and bowing of the femora.
+- **Skeletal Dysplasia:** POR deficiency is strongly associated with the Antley-Bixler syndrome phenotype, characterized by severe skeletal anomalies including [[Neurology/Craniosynostosis\|craniosynostosis]], midface hypoplasia, radiohumeral synostosis, and bowing of the femora.
 
-## Management of Congenital Adrenal Hyperplasia
+## Management of [[Endocrinology/Congenital Adrenal Hyperplasia\|Congenital Adrenal Hyperplasia]]
 
 ### Pharmacological Therapy
 
@@ -283,6 +283,6 @@ v## Overview of Congenital Adrenal Hyperplasia
 ### Long-Term Monitoring
 
 - The adequacy of therapy must be routinely monitored by tracking the child's linear growth velocity and skeletal maturation (bone age).
-- Biochemical monitoring focuses on finding a balance: measuring androstenedione and testosterone to ensure adequate androgen suppression, while using 17-OHP to guard against the overtreatment and resultant iatrogenic Cushing syndrome.
+- Biochemical monitoring focuses on finding a balance: measuring androstenedione and testosterone to ensure adequate androgen suppression, while using 17-OHP to guard against the overtreatment and resultant iatrogenic [[Endocrinology/Cushing Syndrome\|Cushing syndrome]].
 - Plasma renin activity (PRA) is monitored to gauge the precise adequacy of mineralocorticoid and sodium replacement.
 - In adolescent and adult males with CAH, routine testicular ultrasound screening is mandated to detect testicular adrenal rest tumors (TARTs), which are driven by chronic ACTH excess and can cause irreversible infertility.

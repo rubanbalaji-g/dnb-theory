@@ -6,7 +6,7 @@
 
 - Constitutes 40% of soft-tissue sarcomas (STS); most common pediatric STS.
 - Incidence: 4-5 per million children <15 years.
-- Represents third most common solid extracranial tumor (following neuroblastoma, Wilms tumor).
+- Represents third most common solid extracranial tumor (following [[Hematology/Neuroblastoma\|neuroblastoma]], [[Hematology/Wilms Tumor\|Wilms tumor]]).
 - Age distribution: 60% diagnosed <10 years age.
 - Male predominance (1.4:1 ratio).
 - Genetic predispositions: Li-Fraumeni syndrome (p53 mutation), Neurofibromatosis Type 1 (NF1), Beckwith-Wiedemann syndrome, Costello syndrome.
@@ -33,7 +33,7 @@ Presents universally as painless enlarging mass. Roughly 20% present with metast
 |Primary Site|Clinical Signs And Symptoms|
 |:--|:--|
 |**Parameningeal (Head/Neck)**|Infiltrates skull base. Cranial nerve palsies, meningeal signs, increased intracranial pressure.|
-|**Orbit**|Proptosis, ocular palsies, conjunctival mass.|
+|**Orbit**|[[Misc/Proptosis\|Proptosis]], ocular palsies, conjunctival mass.|
 |**Genitourinary (Female)**|Sarcoma botryoides protruding from vagina/cervix, vaginal bleeding.|
 |**Genitourinary (Male)**|Bladder/prostate: Urinary obstruction, hematuria. Paratesticular: Painless scrotal mass.|
 |**Other Sites**|Biliary tract (obstructive jaundice), retroperitoneum (abdominal mass, obstruction).|
@@ -51,7 +51,7 @@ Presents universally as painless enlarging mass. Roughly 20% present with metast
 
 Management dictated by Risk Group classification, derived from anatomic site, TNM stage, and Postoperative Clinical Group.
 
-### Postoperative Clinical Grouping (Intergroup Rhabdomyosarcoma Study)
+### Postoperative Clinical Grouping (Intergroup [[Hematology/Rhabdomyosarcoma\|Rhabdomyosarcoma]] Study)
 
 |Group|Surgical / Pathologic Status|Frequency|
 |:--|:--|:--|
@@ -75,13 +75,13 @@ Requires multimodal integration of surgery, radiation, and chemotherapy.
 - **Standard Backbone (VAC):** Vincristine, Actinomycin D (Dactinomycin), Cyclophosphamide.
 - **Low-Risk Disease:** Reduced therapy (VAC + VA) yields excellent event-free survival (85-95%).
 - **Intermediate-Risk Disease:** VAC alternating with Vincristine/Irinotecan (VI). Prolonged maintenance with IV Vinorelbine and oral Cyclophosphamide improves survival.
-- **High-Risk Disease (Metastatic):** Interval-compressed intensive regimens (VAC/VI/VDC/IE) ± maintenance. Prognosis remains poor (Event-free survival 5-20% for fusion-positive).# Rhabdomyosarcoma
+- **High-Risk Disease (Metastatic):** Interval-compressed intensive regimens (VAC/VI/VDC/IE) ± maintenance. Prognosis remains poor (Event-free survival 5-20% for fusion-positive).# [[Hematology/Rhabdomyosarcoma\|Rhabdomyosarcoma]]
 
 ## Epidemiology And Risk Factors
 
 - Constitutes 40% of soft-tissue sarcomas (STS); most common pediatric STS.
 - Incidence: 4-5 per million children <15 years.
-- Represents third most common solid extracranial tumor (following neuroblastoma, Wilms tumor).
+- Represents third most common solid extracranial tumor (following [[Hematology/Neuroblastoma\|neuroblastoma]], [[Hematology/Wilms Tumor\|Wilms tumor]]).
 - Age distribution: 60% diagnosed <10 years age.
 - Male predominance (1.4:1 ratio).
 - Genetic predispositions: Li-Fraumeni syndrome (p53 mutation), Neurofibromatosis Type 1 (NF1), Beckwith-Wiedemann syndrome, Costello syndrome.
@@ -108,7 +108,7 @@ Presents universally as painless enlarging mass. Roughly 20% present with metast
 |Primary Site|Clinical Signs And Symptoms|
 |:--|:--|
 |**Parameningeal (Head/Neck)**|Infiltrates skull base. Cranial nerve palsies, meningeal signs, increased intracranial pressure.|
-|**Orbit**|Proptosis, ocular palsies, conjunctival mass.|
+|**Orbit**|[[Misc/Proptosis\|Proptosis]], ocular palsies, conjunctival mass.|
 |**Genitourinary (Female)**|Sarcoma botryoides protruding from vagina/cervix, vaginal bleeding.|
 |**Genitourinary (Male)**|Bladder/prostate: Urinary obstruction, hematuria. Paratesticular: Painless scrotal mass.|
 |**Other Sites**|Biliary tract (obstructive jaundice), retroperitoneum (abdominal mass, obstruction).|
@@ -126,7 +126,7 @@ Presents universally as painless enlarging mass. Roughly 20% present with metast
 
 Management dictated by Risk Group classification, derived from anatomic site, TNM stage, and Postoperative Clinical Group.
 
-### Postoperative Clinical Grouping (Intergroup Rhabdomyosarcoma Study)
+### Postoperative Clinical Grouping (Intergroup [[Hematology/Rhabdomyosarcoma\|Rhabdomyosarcoma]] Study)
 
 |Group|Surgical / Pathologic Status|Frequency|
 |:--|:--|:--|

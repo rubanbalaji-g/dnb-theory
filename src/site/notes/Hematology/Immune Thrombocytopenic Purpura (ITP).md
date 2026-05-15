@@ -4,7 +4,7 @@
 
 ## Introduction And Epidemiology
 
-- Previously designated idiopathic thrombocytopenic purpura; currently termed immune thrombocytopenic purpura (ITP) due to established autoimmune pathogenesis,.
+- Previously designated idiopathic thrombocytopenic purpura; currently termed [[Hematology/Immune Thrombocytopenic Purpura (ITP)\|immune thrombocytopenic purpura (ITP)]] due to established autoimmune pathogenesis,.
 - Most common etiology of acute onset thrombocytopenia in otherwise-healthy children.
 - Incidence ranges between 7.2-9.5 per 100,000 children.
 - Peak incidence occurs between 1-7 years of age,,.
@@ -28,7 +28,7 @@
     - CD4+ T-helper cells stimulate autoantibody-secreting B-cells.
 - **Triggering Events:**
     - Acute viral infections frequently precede onset by 1-4 weeks,.
-    - Implicated agents include Epstein-Barr virus (EBV), human immunodeficiency virus (HIV), cytomegalovirus (CMV), varicella, rubella, hepatitis C, parvovirus, and severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2),,.
+    - Implicated agents include Epstein-Barr virus (EBV), human immunodeficiency virus (HIV), cytomegalovirus (CMV), varicella, rubella, [[Gastrointestinal/Hepatitis C\|hepatitis C]], parvovirus, and severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2),,.
     - Associated with _Helicobacter pylori_ infection and rarely follows measles, mumps, and rubella (MMR) vaccination.
 
 ## Classification Based On Disease Duration
@@ -78,7 +78,7 @@
 
 ### Advanced Diagnostic Testing (For Persistent/Chronic Cases)
 
-- Direct antiglobulin test (DAT/Coombs) to exclude Evans syndrome (concurrent autoimmune hemolytic anemia),.
+- Direct antiglobulin test (DAT/Coombs) to exclude Evans syndrome (concurrent [[Hematology/Autoimmune Hemolytic Anemia\|autoimmune hemolytic anemia]]),.
 - Antinuclear antibody (ANA), double-stranded DNA to exclude systemic lupus erythematosus (SLE),.
 - Viral polymerase chain reaction (PCR)/serology: HIV, HCV, EBV, CMV, Parvovirus.
 - Quantitative immunoglobulins to exclude common variable immunodeficiency (CVID).
@@ -90,10 +90,10 @@
 |Disease Category|Specific Pathologies To Exclude|
 |:--|:--|
 |**Immune Consumption**|Evans syndrome, SLE, neonatal alloimmune thrombocytopenia, drug-induced thrombocytopenia (valproate, phenytoin, heparin), post-transfusion purpura,,,.|
-|**Non-Immune Consumption**|Hemolytic-uremic syndrome (HUS), disseminated intravascular coagulation (DIC), thrombotic thrombocytopenic purpura (TTP), Kasabach-Merritt syndrome,,,.|
-|**Bone Marrow Failure**|Fanconi anemia, severe aplastic anemia, myelodysplastic syndrome (MDS), marrow infiltration (leukemia, neuroblastoma),.|
-|**Inherited Platelet Disorders**|Wiskott-Aldrich syndrome (small platelets), Bernard-Soulier syndrome (giant platelets), MYH9-related disease, congenital amegakaryocytic thrombocytopenia (CAMT), thrombocytopenia-absent radius (TAR),,,.|
-|**Sequestration**|Portal hypertension, Gaucher disease, hypersplenism,.|
+|**Non-Immune Consumption**|Hemolytic-uremic syndrome (HUS), [[Hematology/Disseminated Intravascular Coagulation\|disseminated intravascular coagulation]] (DIC), thrombotic thrombocytopenic purpura (TTP), Kasabach-Merritt syndrome,,,.|
+|**Bone Marrow Failure**|[[Hematology/Fanconi Anemia\|Fanconi anemia]], severe [[Hematology/Aplastic Anemia\|aplastic anemia]], myelodysplastic syndrome (MDS), marrow infiltration (leukemia, [[Hematology/Neuroblastoma\|neuroblastoma]]),.|
+|**Inherited [[Hematology/Platelet Disorders\|Platelet Disorders]]**|Wiskott-Aldrich syndrome (small platelets), Bernard-Soulier syndrome (giant platelets), MYH9-related disease, [[Hematology/Congenital amegakaryocytic thrombocytopenia\|congenital amegakaryocytic thrombocytopenia]] (CAMT), thrombocytopenia-absent radius (TAR),,,.|
+|**Sequestration**|[[Gastrointestinal/Portal Hypertension\|Portal hypertension]], Gaucher disease, hypersplenism,.|
 
 ## Principles Of Management
 
@@ -115,7 +115,7 @@ Reserved for moderate-to-severe mucosal bleeding or profound hemorrhagic risk,.
 - **Dose:** 0.8-1.0 g/kg/day for 1-2 days,,.
 - **Mechanism:** Downregulates Fc-receptor mediated phagocytosis of antibody-coated platelets; saturates FcRn promoting rapid autoantibody catabolism,.
 - **Efficacy:** Rapidly increases platelet count (>20,000/μL) within 48 hours in 95% of patients. Preferred over steroids in children <2 years due to lower steroid response rates.
-- **Adverse Effects:** Headache, emesis, aseptic meningitis, high medication cost,,,.
+- **Adverse Effects:** Headache, emesis, aseptic [[Neurology/Meningitis\|meningitis]], high medication cost,,,.
 
 **2. Corticosteroids**
 
@@ -176,5 +176,5 @@ Reserved for moderate-to-severe mucosal bleeding or profound hemorrhagic risk,.
 
 ### Second-Line Immunosuppressive Therapies
 
-- **Mycophenolate Mofetil / Sirolimus (Rapamycin):** Highly effective for ITP secondary to Evans syndrome or Autoimmune Lymphoproliferative Syndrome (ALPS),.
+- **Mycophenolate Mofetil / Sirolimus (Rapamycin):** Highly effective for ITP secondary to Evans syndrome or [[Infectious Diseases/Autoimmune Lymphoproliferative Syndrome (ALPS)\|Autoimmune Lymphoproliferative Syndrome (ALPS)]],.
 - **Alternative Agents:** Azathioprine, Danazol (avoid in prepubertal children due to premature epiphyseal closure), Dapsone, Cyclosporine, Cyclophosphamide, and Vincristine demonstrate variable efficacy in highly refractory cases,.

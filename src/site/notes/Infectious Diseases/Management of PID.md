@@ -7,7 +7,7 @@
 ### Infection Mitigation and Precautions
 
 - Precautionary measures to reduce or minimize exposure to infection must be tailored to the severity of the primary immune deficiency disease (PID).
-- Patients with severe immunologic defects, such as severe combined immunodeficiency (SCID), benefit from strict isolation.
+- Patients with severe immunologic defects, such as [[Infectious Diseases/Severe Combined Immunodeficiency (SCID)\|severe combined immunodeficiency (SCID)]], benefit from strict isolation.
 - Universal precautions, including proper and thorough hand hygiene, must be frequently practiced by patients and their close contacts.
 - The use of masks covering the nose and mouth is recommended to avoid highly transmissible infections, particularly for patients awaiting immune reconstitution following a hematopoietic stem cell transplant (HSCT) or those currently on immunosuppressive medications.
 - Clinicians should maintain a low threshold for utilizing diagnostic testing to identify acute infections early and initiate aggressive antimicrobial therapy.
@@ -15,10 +15,10 @@
 ### Immunization Guidelines
 
 - Immunization with live viral or bacterial vaccines (e.g., oral polio virus, rotavirus, adenovirus, smallpox, typhoid, yellow fever, measles-mumps-rubella [MMR], varicella, and bacille Calmette-Guérin [BCG]) is strictly contraindicated in patients with complete cellular immune defects, such as SCID or complete DiGeorge syndrome.
-- Patients receiving immunoglobulin G (IgG) replacement therapy (IgRT) do not require routine vaccinations because they receive passive immunization from the products, which provide protective antibodies against tetanus, diphtheria, measles, varicella, pertussis, and pneumococci.
-- Household members and close contacts should receive all recommended vaccines, including MMR, varicella, and annual influenza vaccines, to facilitate herd immunity, but they should avoid live oral polio and live influenza vaccines to prevent viral shedding.
+- Patients receiving immunoglobulin G (IgG) replacement therapy (IgRT) do not require routine vaccinations because they receive passive immunization from the products, which provide protective antibodies against tetanus, [[Infectious Diseases/Diphtheria\|diphtheria]], measles, varicella, pertussis, and pneumococci.
+- Household members and close contacts should receive all recommended vaccines, including MMR, varicella, and annual influenza vaccines, to facilitate [[Misc/Herd Immunity\|herd immunity]], but they should avoid live oral polio and live influenza vaccines to prevent viral shedding.
 - Administration of IgRT may interfere with vaccination efficacy because the provided antibodies can bind vaccine antigens and inhibit the host immune response; consequently, an 8-month waiting period after the last intravenous immunoglobulin (IVIG) infusion is recommended before administering live vaccines.
-- For COVID-19, vaccination with non-live vaccines is highly recommended, and high-risk immunocompromised patients should receive additional doses per updated public health guidelines.
+- For [[Infectious Diseases/COVID-19\|COVID-19]], vaccination with non-live vaccines is highly recommended, and high-risk immunocompromised patients should receive additional doses per updated public health guidelines.
 
 ## Antimicrobial Prophylaxis
 
@@ -27,14 +27,14 @@
 - In patients with SCID, immediate antimicrobial prophylaxis is directed toward _Pneumocystis jiroveci_ pneumonia (PJP) using a combination of sulfamethoxazole and trimethoprim (TMP-SMX).
 - In infants younger than 2 months, alternatives for PJP prophylaxis such as atovaquone, dapsone, or pentamidine are considered to avoid bilirubin displacement and the subsequent risk of kernicterus.
 - Prophylaxis in SCID may also include fluconazole to prevent mucocutaneous candidiasis, acyclovir for viral prophylaxis, and palivizumab during respiratory syncytial virus (RSV) season for children under 2 years of age.
-- In endemic regions where the BCG vaccine is given at birth, daily chemoprophylaxis with isoniazid and rifampin is necessary until definitive treatment with HSCT due to the high risk of disseminated BCG infection.
+- In endemic regions where the [[Misc/BCG\|BCG]] vaccine is given at birth, daily chemoprophylaxis with isoniazid and rifampin is necessary until definitive treatment with HSCT due to the high risk of disseminated [[Misc/BCG\|BCG]] infection.
 - Patients with hyper-IgM syndrome or CD40 ligand deficiency require PJP prophylaxis and must avoid contaminated water and recreational water parks to prevent _Cryptosporidium parvum_ infection, which can trigger severe sclerosing cholangitis.
 - Wiskott-Aldrich syndrome management often incorporates prophylactic antimicrobials against PJP and herpes simplex virus (HSV), along with lifelong penicillin prophylaxis if a splenectomy is performed for refractory thrombocytopenia.
 - Patients with STAT3 hyper-IgE (Job) syndrome require TMP-SMX prophylaxis against _Staphylococcus aureus_ and _Streptococcus pneumoniae_, alongside antifungal prophylaxis with itraconazole to prevent _Aspergillus_ and _Candida_ infections.
 
 ### Innate and Phagocytic Immunodeficiencies
 
-- Chronic granulomatous disease (CGD) patients require lifelong prophylaxis with TMP-SMX for bacterial pathogens (e.g., _S. aureus_, _Serratia marcescens_, _Burkholderia cepacia_) and itraconazole to prevent invasive _Aspergillus_ infections.
+- [[Infectious Diseases/Chronic Granulomatous Disease (CGD)\|Chronic granulomatous disease (CGD)]] patients require lifelong prophylaxis with TMP-SMX for bacterial pathogens (e.g., _S. aureus_, _Serratia marcescens_, _Burkholderia cepacia_) and itraconazole to prevent invasive _Aspergillus_ infections.
 - Leukocyte adhesion deficiency (LAD) necessitates antibiotic prophylaxis to protect against _S. aureus_ and gram-negative bacilli.
 - Patients with interferon-gamma/interleukin-12 (IFN-y/IL-12) pathway defects (Mendelian susceptibility to mycobacterial diseases) require daily prophylaxis with azithromycin or clarithromycin to prevent nontuberculous mycobacteria (NTM) and _Salmonella_ infections.
 - Severe viral susceptibility disorders (e.g., STAT1 or STAT2 deficiency, TLR3 deficiency) benefit from targeted antiviral prophylaxis (e.g., acyclovir or valacyclovir) and rigorous avoidance of live viral vaccinations.
@@ -48,12 +48,12 @@
 
 ### Indications and Efficacy
 
-- IgRT is the primary treatment for immunodeficiencies characterized by absent or deficient antibody production, including X-linked agammaglobulinemia (XLA), CVID, and specific antibody deficiency.
+- IgRT is the primary treatment for immunodeficiencies characterized by absent or deficient antibody production, including [[Infectious Diseases/X-Linked Agammaglobulinemia (XLA)\|X-linked agammaglobulinemia (XLA)]], CVID, and specific antibody deficiency.
 - Initiation of IgRT reduces both acute and chronic infections; maintaining IgG trough levels above 800 mg/dL prevents serious bacterial illnesses and enteroviral meningoencephalitis, while levels up to 1,000 mg/dL may further reduce the risk of pneumonia.
 
 ### Products, Dosing, and Administration
 
-- Human immunoglobulin preparations can be administered intravenously (IVIG) or subcutaneously (SCIG) and provide passive immunity via preformed antibodies against a wide range of pathogens.
+- Human immunoglobulin preparations can be administered intravenously (IVIG) or subcutaneously (SCIG) and provide [[Infectious Diseases/Passive Immunity\|passive immunity]] via preformed antibodies against a wide range of pathogens.
 - For IVIG, maintenance therapy is typically initiated at 400 to 600 mg/kg every 3 to 4 weeks.
 - For traditional SCIG, a starting dose of 100 to 200 mg/kg of body weight per week is commonly used, providing more flexibility for daily, weekly, or biweekly administration.
 - Facilitated SCIG (fSCIG) uses recombinant human hyaluronidase to allow large-volume subcutaneous administrations (400 to 600 mg/kg) via one or two sites every 3 to 4 weeks, matching the interval convenience of IVIG while maintaining stable trough levels.
@@ -94,12 +94,12 @@
 - Immune dysregulation polyendocrinopathy enteropathy X-linked (IPEX) syndrome is initially managed with immunosuppressants such as cyclosporine, tacrolimus, or sirolimus in conjunction with corticosteroids as a bridge to curative HSCT.
 - CTLA4 haploinsufficiency and LRBA deficiency, which cause enteropathy, autoimmune cytopenias, and lymphoproliferation, are successfully treated with abatacept or belatacept (CTLA4-Ig fusion proteins) and sirolimus.
 - STAT1 and STAT3 gain-of-function variants present with pronounced multiorgan autoimmunity and inflammation, which can be therapeutically targeted using Janus kinase inhibitors (Jakinibs) such as ruxolitinib.
-- Autoimmune lymphoproliferative syndrome (ALPS) features defective lymphocyte apoptosis and massive lymphadenopathy; it is managed with mycophenolate mofetil or mTOR inhibitors like sirolimus (rapamycin) to control adenopathy and cytopenias.
+- [[Infectious Diseases/Autoimmune Lymphoproliferative Syndrome (ALPS)\|Autoimmune lymphoproliferative syndrome (ALPS)]] features defective lymphocyte apoptosis and massive lymphadenopathy; it is managed with mycophenolate mofetil or mTOR inhibitors like sirolimus (rapamycin) to control adenopathy and cytopenias.
 - Primary hemophagocytic lymphohistiocytosis (HLH) is a hyperinflammatory emergency requiring prompt treatment with corticosteroids, cytotoxic chemotherapy (etoposide), and immunomodulators to reduce disease activity prior to definitive HSCT.
 
 ### Management of Other Specific Pathways
 
-- **Chronic Granulomatous Disease (CGD):** In addition to antimicrobials, prophylactic administration of subcutaneous interferon-gamma (50 mcg/m2 three times per week) significantly reduces the frequency of hospitalizations and severe infections, and corticosteroids are utilized in short pulses to manage obstructive granulomatous inflammation.
+- **[[Infectious Diseases/Chronic Granulomatous Disease (CGD)\|Chronic Granulomatous Disease (CGD)]]:** In addition to antimicrobials, prophylactic administration of subcutaneous interferon-gamma (50 mcg/m2 three times per week) significantly reduces the frequency of hospitalizations and severe infections, and corticosteroids are utilized in short pulses to manage obstructive granulomatous inflammation.
 - **STAT1 Gain-of-Function (CMC):** Chronic mucocutaneous candidiasis requires aggressive antifungal therapy, but voriconazole should be strictly avoided due to a heightened risk of secondary squamous cell skin cancers in these patients.
 - **Hereditary Angioedema (C1-INH Deficiency):** Long-term prophylaxis utilizes intravenous or subcutaneous plasma-derived C1-INH concentrate, lanadelumab (a monoclonal antibody inhibiting plasma kallikrein), or berotralstat (an oral kallikrein inhibitor).
 - Acute attacks of hereditary angioedema are treated on-demand with purified plasma-derived or recombinant C1-INH products, ecallantide (a kallikrein inhibitor), or icatibant (a bradykinin type 2 receptor antagonist).

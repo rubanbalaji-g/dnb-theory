@@ -4,7 +4,7 @@
 
 ## Introduction and Etiology
 
-- **Definition:** Pediatric HIV infection is a chronic viral infection caused by the Human Immunodeficiency Virus (HIV), characterized by progressive destruction of the immune system, specifically CD4+ T lymphocytes, leading to susceptibility to opportunistic infections and malignancies.
+- **Definition:** [[Infectious Diseases/Pediatric HIV\|Pediatric HIV]] infection is a chronic viral infection caused by the Human Immunodeficiency Virus (HIV), characterized by progressive destruction of the immune system, specifically CD4+ T lymphocytes, leading to susceptibility to opportunistic infections and malignancies.
 - **Virology:**
     - **Family:** _Retroviridae_; **Genus:** _Lentivirus_.
     - **Types:** HIV-1 and HIV-2. HIV-1 is the predominant cause of the global pediatric epidemic. HIV-2 is less pathogenic, less transmissible vertically, and confined primarily to West Africa.
@@ -13,7 +13,7 @@
 
 ## Epidemiology and Transmission
 
-- **Vertical Transmission (Mother-to-Child Transmission - MTCT):** Accounts for >90% of pediatric HIV infections.
+- **Vertical Transmission (Mother-to-Child Transmission - MTCT):** Accounts for >90% of [[Infectious Diseases/Pediatric HIV\|pediatric HIV]] infections.
     - **Intrauterine (20-30%):** Occurs transplacentally, mostly in late gestation. Suggested by positive PCR within 48 hours of birth.
     - **Intrapartum (70-80%):** Occurs during labor and delivery via mucosal exposure to infected blood/secretions or micro-transfusions.
     - **Breastfeeding (Postpartum):** Accounts for 15-20% of transmission risk in untreated populations. Risk increases with mixed feeding and duration of breastfeeding.
@@ -51,18 +51,18 @@ The natural history is bimodal. Manifestations vary from asymptomatic to severe 
 
 ### Systemic Manifestations
 
-- **General:** Failure to thrive (wasting), generalized lymphadenopathy, hepatosplenomegaly, parotitis (distinctive of pediatric HIV), persistent fever, [[Gastrointestinal/Chronic Diarrhea\|chronic diarrhea]].
+- **General:** Failure to thrive (wasting), generalized lymphadenopathy, hepatosplenomegaly, parotitis (distinctive of [[Infectious Diseases/Pediatric HIV\|pediatric HIV]]), persistent fever, [[Gastrointestinal/Chronic Diarrhea\|chronic diarrhea]].
 - **Respiratory:**
     - **Pneumocystis jirovecii Pneumonia (PJP):** Most common serious opportunistic infection in infants. Peaks at 3-6 months. Presents with hypoxia, tachypnea, and fever.
     - **Lymphoid Interstitial Pneumonitis (LIP):** Chronic, slowly progressive lung disease characterized by diffuse reticulonodular infiltrates. Associated with Epstein-Barr Virus (EBV) and indicates a slower disease progression.
     - **Tuberculosis (TB):** High incidence; more likely to be extrapulmonary or disseminated. Difficult to diagnose due to anergy.
 - **Neurologic:**
-    - **HIV Encephalopathy:** Progressive corticospinal tract signs, loss of developmental milestones, acquired microcephaly, and cognitive impairment.
-    - **Other:** Seizures, meningitis, opportunistic CNS infections (Cryptococcus, Toxoplasma - rare in infants).
+    - **HIV Encephalopathy:** Progressive corticospinal tract signs, loss of developmental milestones, acquired [[Neurology/Microcephaly\|microcephaly]], and cognitive impairment.
+    - **Other:** Seizures, [[Neurology/Meningitis\|meningitis]], opportunistic CNS infections (Cryptococcus, Toxoplasma - rare in infants).
 - **Gastrointestinal:** [[Gastrointestinal/Chronic Diarrhea\|Chronic diarrhea]] (Crypto/Isospora), oral/esophageal candidiasis, malabsorption, HIV enteropathy.
-- **Dermatologic:** Severe seborrheic dermatitis, recalcitrant fungal infections (tinea), molluscum contagiosum, scabies, herpes zoster.
+- **Dermatologic:** Severe [[Misc/Seborrheic Dermatitis\|seborrheic dermatitis]], recalcitrant fungal infections (tinea), molluscum contagiosum, [[Misc/Scabies\|scabies]], herpes zoster.
 - **Cardiac:** Dilated cardiomyopathy, left ventricular dysfunction.
-- **Renal:** HIV-associated nephropathy (HIVAN) presenting as nephrotic syndrome.
+- **Renal:** HIV-associated nephropathy (HIVAN) presenting as [[Nephrology/Nephrotic Syndrome\|nephrotic syndrome]].
 - **Hematologic:** Anemia, neutropenia, thrombocytopenia (often immune-mediated).
 
 ## Clinical Presentations Requiring Screening for HIV in Children
@@ -92,13 +92,13 @@ HIV infection in children can present with a wide spectrum of clinical manifesta
 ### Respiratory Manifestations
 
 - **Recurrent Bacterial Pneumonia:** Severe recurrent presumed bacterial pneumonia.
-- **Lymphoid Interstitial Pneumonitis (LIP):** A chronic lung disease characterized by reticulonodular patterns on X-ray and persistent hypoxia; it is a distinctive marker for pediatric HIV.
+- **Lymphoid Interstitial Pneumonitis (LIP):** A [[Respiratory/Chronic Lung Disease\|chronic lung disease]] characterized by reticulonodular patterns on X-ray and persistent hypoxia; it is a distinctive marker for [[Infectious Diseases/Pediatric HIV\|pediatric HIV]].
 - **Tuberculosis:** Pulmonary or extrapulmonary tuberculosis, especially if disseminated or resistant to therapy.
 
 ### Neurologic Manifestations
 
-- **HIV Encephalopathy:** Failure to attain or loss of developmental milestones, loss of intellectual ability, impaired brain growth (acquired microcephaly), or symmetric motor deficits.
-- **CNS Infections:** Central nervous system toxoplasmosis (outside the neonatal period) or cryptococcal meningitis.
+- **HIV Encephalopathy:** Failure to attain or loss of developmental milestones, loss of intellectual ability, impaired brain growth (acquired [[Neurology/Microcephaly\|microcephaly]]), or symmetric motor deficits.
+- **CNS Infections:** Central nervous system toxoplasmosis (outside the neonatal period) or cryptococcal [[Neurology/Meningitis\|meningitis]].
 
 ### Hematologic Abnormalities
 
@@ -171,10 +171,10 @@ The goal is to suppress viral replication, preserve immune function, and prevent
 
 - **Nutrition:** Aggressive management of malnutrition; vitamin/micronutrient supplementation.
 - **Immunization:**
-    - **Live Vaccines (BCG, OPV, MMR, Varicella):** Generally contraindicated in severe immunosuppression (CD4 <15%).
-    - **BCG:** Give at birth to asymptomatic exposed infants. Do not give to symptomatic HIV-infected infants.
+    - **Live Vaccines ([[Misc/BCG\|BCG]], OPV, MMR, Varicella):** Generally contraindicated in severe immunosuppression (CD4 <15%).
+    - **[[Misc/BCG\|BCG]]:** Give at birth to asymptomatic exposed infants. Do not give to symptomatic HIV-infected infants.
     - **MMR/Varicella:** Safe in children with CD4 >15%.
-    - **Inactivated Vaccines:** Safe. Pneumococcal, Hib, Influenza, Meningococcal, Hepatitis B, and HPV vaccines are strongly recommended.
+    - **Inactivated Vaccines:** Safe. Pneumococcal, Hib, Influenza, Meningococcal, [[Gastrointestinal/Hepatitis B\|Hepatitis B]], and HPV vaccines are strongly recommended.
 
 ### Prophylaxis for Opportunistic Infections
 
@@ -262,8 +262,8 @@ Adolescents (13–24 years) represent a growing population of new infections.
 - **Cotrimoxazole Prophylaxis:** Administer to all HIV-exposed infants starting at 4–6 weeks of age to prevent _Pneumocystis jirovecii_ pneumonia (PCP). Continue until HIV infection is definitively excluded (typically 18 months or after cessation of breastfeeding).
 - **Immunization:**
     - **Inactivated Vaccines:** Safe and recommended per national schedule (e.g., DTaP, Hib, HepB, IPV, Pneumococcal).
-    - **Live Vaccines (BCG, MMR, Varicella):**
-        - **BCG:** Give at birth to asymptomatic HIV-exposed infants. Contraindicated in symptomatic HIV-infected infants due to risk of disseminated BCG disease.
+    - **Live Vaccines ([[Misc/BCG\|BCG]], MMR, Varicella):**
+        - **[[Misc/BCG\|BCG]]:** Give at birth to asymptomatic HIV-exposed infants. Contraindicated in symptomatic HIV-infected infants due to risk of disseminated [[Misc/BCG\|BCG]] disease.
         - **MMR & Varicella:** Contraindicated in severe immunosuppression (CD4 <15%). Safe and recommended in children with CD4 >15%.
         - **OPV:** IPV is preferred. OPV is generally contraindicated in symptomatic HIV infection.
 

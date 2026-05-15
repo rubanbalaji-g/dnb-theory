@@ -13,7 +13,7 @@
 
 #### Nutritional Deficiency
 
-- Decreased dietary intake: Excessive cow milk (iron deficiency); vegan diet (vitamin B12 deficiency).
+- Decreased dietary intake: Excessive cow milk (iron deficiency); vegan diet ([[Hematology/Vitamin B12 Deficiency\|vitamin B12 deficiency]]).
 - Increased demand: Rapid growth (iron); hemolysis (folic acid).
 - Decreased absorption: Intrinsic factor deficiency (B12); malabsorption syndromes (iron, folate).
 - Specific nutrient deficiencies: Iron, folate, vitamin B12, vitamin C, protein, vitamin B6, thyroxine.
@@ -25,13 +25,13 @@
     - Megakaryocytes: Amegakaryocytic thrombocytopenic purpura, thrombocytopenia-absent radii (TAR).
     - White cell precursors: Congenital neutropenias.
 - Trilineage failure (Pancytopenia):
-    - Congenital: Fanconi anemia, dyskeratosis congenita, Shwachman-Diamond syndrome.
+    - Congenital: [[Hematology/Fanconi Anemia\|Fanconi anemia]], dyskeratosis congenita, Shwachman-Diamond syndrome.
     - Acquired: Idiopathic, secondary to drugs, radiation, toxins, viral infections (parvovirus B19, HIV).
 
 #### Bone Marrow Infiltration
 
 - Benign: Osteopetrosis, storage diseases.
-- Malignant: Primary (leukemia, myelofibrosis), secondary (neuroblastoma, lymphoma).
+- Malignant: Primary (leukemia, myelofibrosis), secondary ([[Hematology/Neuroblastoma\|neuroblastoma]], lymphoma).
 
 #### Dyshematopoietic Anemias
 
@@ -53,12 +53,12 @@
 
 - Membrane defects: Hereditary spherocytosis, elliptocytosis, stomatocytosis, pyknocytosis.
 - Enzymatic defects: Pyruvate kinase deficiency, Glucose-6-phosphate dehydrogenase (G6PD) deficiency.
-- Hemoglobin defects: Thalassemia syndromes, sickle cell disease, unstable hemoglobins.
+- Hemoglobin defects: [[Hematology/Thalassemia\|Thalassemia]] syndromes, [[Hematology/Sickle Cell Disease\|sickle cell disease]], unstable hemoglobins.
 
 #### Extracorpuscular (Extrinsic) Defects
 
 - Immune: Alloimmunization (Rh, ABO), autoimmune (warm/cold antibodies), drug-induced.
-- Non-immune: Infection (malaria, sepsis, CMV), microangiopathic (HUS, TTP, DIC, Kasabach-Merritt syndrome), hypersplenism.
+- Non-immune: Infection ([[Infectious Diseases/Malaria\|malaria]], sepsis, CMV), microangiopathic (HUS, TTP, DIC, Kasabach-Merritt syndrome), hypersplenism.
 
 ---
 
@@ -68,10 +68,10 @@
 
 #### History
 
-- Age of onset: Physiological anemia (2 months); Thalassemia major (9-12 months); Diamond-Blackfan anemia (newborn/infancy).
-- Dietary history: Formula, cow milk, weaning foods, pica.
+- Age of onset: Physiological anemia (2 months); [[Hematology/Thalassemia\|Thalassemia]] major (9-12 months); Diamond-Blackfan anemia (newborn/infancy).
+- Dietary history: Formula, cow milk, weaning foods, [[Development/Pica\|pica]].
 - Prematurity, perinatal blood loss, neonatal jaundice.
-- Family history: Inherited bone marrow failure, sickle cell disease, thalassemia, gallstones, splenectomy.
+- Family history: Inherited bone marrow failure, [[Hematology/Sickle Cell Disease\|sickle cell disease]], [[Hematology/Thalassemia\|thalassemia]], gallstones, splenectomy.
 - Medications, toxic exposures, chronic illnesses.
 
 #### Physical Examination
@@ -93,27 +93,27 @@
 
 |MCV Category|Common Etiologies|
 |:--|:--|
-|**Microcytic** (Low MCV)|Iron deficiency, Thalassemia trait/major, Lead toxicity, Anemia of chronic disease, Sideroblastic anemia, Copper deficiency.|
-|**Normocytic** (Normal MCV)|Acute blood loss, Infection, Renal failure, Liver disease, Malignancy, Aplastic anemia, Transient erythroblastopenia of childhood (TEC), Bone marrow infiltration, Hemolysis (RBC enzyme/membrane defects).|
-|**Macrocytic** (High MCV)|Normal newborn, B12/Folate deficiency, Diamond-Blackfan anemia, Fanconi anemia, Liver disease, Hypothyroidism, Down syndrome, Increased erythropoiesis (reticulocytosis), Drugs.|
+|**Microcytic** (Low MCV)|Iron deficiency, [[Hematology/Thalassemia\|Thalassemia]] trait/major, Lead toxicity, Anemia of chronic disease, Sideroblastic anemia, Copper deficiency.|
+|**Normocytic** (Normal MCV)|Acute blood loss, Infection, Renal failure, Liver disease, Malignancy, [[Hematology/Aplastic Anemia\|Aplastic anemia]], Transient erythroblastopenia of childhood (TEC), Bone marrow infiltration, Hemolysis (RBC enzyme/membrane defects).|
+|**Macrocytic** (High MCV)|Normal newborn, B12/Folate deficiency, Diamond-Blackfan anemia, [[Hematology/Fanconi Anemia\|Fanconi anemia]], Liver disease, Hypothyroidism, Down syndrome, Increased erythropoiesis (reticulocytosis), Drugs.|
 
 ### Algorithmic Approach Based on Reticulocyte Count
 
-- **Reticulocyte Index >3% (High):** Indicates appropriate marrow response to destruction or loss. Causes include hemolysis, hemorrhage, splenic sequestration, recovery from nutritional deficiency.
-- **Reticulocyte Index <3% (Low/Normal):** Indicates impaired red cell formation. Causes include nutritional deficiency (Iron, B12, Folate), aplastic anemia, pure red cell aplasia, parvovirus B19 infection, bone marrow infiltration.
+- **Reticulocyte [[Statistics/Index\|Index]] >3% (High):** Indicates appropriate marrow response to destruction or loss. Causes include hemolysis, hemorrhage, splenic sequestration, recovery from nutritional deficiency.
+- **Reticulocyte [[Statistics/Index\|Index]] <3% (Low/Normal):** Indicates impaired red cell formation. Causes include nutritional deficiency (Iron, B12, Folate), [[Hematology/Aplastic Anemia\|aplastic anemia]], pure red cell aplasia, parvovirus B19 infection, bone marrow infiltration.
 
 ### Peripheral Blood Smear Findings
 
 |Morphologic Finding|Associated Diagnostic Conditions|
 |:--|:--|
 |**Spherocytes**|Hereditary spherocytosis, immune hemolytic anemia, hypersplenism.|
-|**Target Cells**|Thalassemia, Hemoglobin C/E disease, liver disease, postsplenectomy, severe iron deficiency.|
+|**Target Cells**|[[Hematology/Thalassemia\|Thalassemia]], Hemoglobin C/E disease, liver disease, postsplenectomy, severe iron deficiency.|
 |**Schistocytes**|Hemolytic-uremic syndrome, TTP, DIC, Kasabach-Merritt syndrome.|
 |**Sickled Cells**|Sickle cell anemias (SS, SC, S$\beta$-thalassemia).|
 |**Elliptocytes**|Hereditary elliptocytosis, iron deficiency, megaloblastic anemia.|
-|**Dacrocytes (Teardrop)**|Myelodysplasia, leukemia, neuroblastoma, marrow infiltration.|
+|**Dacrocytes (Teardrop)**|Myelodysplasia, leukemia, [[Hematology/Neuroblastoma\|neuroblastoma]], marrow infiltration.|
 |**Howell-Jolly Bodies**|Asplenia, hyposplenia, severe iron deficiency.|
-|**Heinz Bodies**|Normal newborn, thalassemia, asplenia, chronic liver disease, Heinz body hemolytic anemia.|
+|**Heinz Bodies**|Normal newborn, [[Hematology/Thalassemia\|thalassemia]], asplenia, [[Gastrointestinal/Chronic Liver Disease\|chronic liver disease]], Heinz body hemolytic anemia.|
 
 ### Second-Tier Specific Investigations
 
@@ -140,6 +140,6 @@
 #### Suspected Bone Marrow Failure / Infiltration
 
 - **Bone Marrow Aspirate and Biopsy:** Evaluates cellularity, morphology (normoblastic, megaloblastic, sideroblastic), abnormal infiltrates (blasts, storage cells), and dyserythropoiesis.
-- **Cytogenetics:** Conventional karyotyping, fluorescence in situ hybridization (FISH), chromosomal breakage studies (Fanconi anemia).
+- **Cytogenetics:** Conventional [[Genetics/Karyotyping\|karyotyping]], fluorescence in situ hybridization (FISH), chromosomal breakage studies ([[Hematology/Fanconi Anemia\|Fanconi anemia]]).
 - **Viral PCR:** Parvovirus B19, CMV, EBV, HIV.
 - **Specific Assays:** Erythrocyte adenosine deaminase activity (elevated in Diamond-Blackfan anemia), telomere length (Dyskeratosis congenita).

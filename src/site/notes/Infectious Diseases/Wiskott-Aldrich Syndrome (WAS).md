@@ -13,9 +13,9 @@
 ### Clinical Manifestations
 * The classic clinical presentation of Wiskott-Aldrich syndrome consists of a triad of atopic dermatitis (eczema), congenital thrombocytopenia, and an increased susceptibility to infections.
 * Bleeding manifestations typically present very early in infancy, frequently presenting as prolonged bleeding from the circumcision site or as bloody diarrhea.
-* Patients are highly susceptible to recurrent pyogenic infections, such as otitis media, pneumonia, meningitis, and sepsis, which are primarily driven by encapsulated bacteria like *Streptococcus pneumoniae* and *Haemophilus influenzae*.
+* Patients are highly susceptible to recurrent pyogenic infections, such as otitis media, pneumonia, [[Neurology/Meningitis\|meningitis]], and sepsis, which are primarily driven by encapsulated bacteria like *Streptococcus pneumoniae* and *Haemophilus influenzae*.
 * Later in the disease course, patients experience a higher frequency of infections with opportunistic organisms like *Pneumocystis jirovecii* and viruses from the herpesvirus family.
-* Affected individuals have a significant risk of developing autoimmune conditions, particularly autoimmune hemolytic anemia.
+* Affected individuals have a significant risk of developing autoimmune conditions, particularly [[Hematology/Autoimmune Hemolytic Anemia\|autoimmune hemolytic anemia]].
 * There is a marked predisposition to developing malignancies, notably Epstein-Barr virus (EBV)-associated malignancies and lymphoreticular cancers.
 * Physical examination may also reveal hepatosplenomegaly and lymphadenopathy.
 

@@ -53,7 +53,7 @@
 
 ### Red Blood Cell Membrane Defects
 
-- **Hereditary Spherocytosis (HS):**
+- **[[Hematology/Hereditary Spherocytosis (HS)\|Hereditary Spherocytosis (HS)]]:**
     - Curative in most patients; eradicates hemolysis, anemia, and hyperbilirubinemia.
     - Indicated for severe HS (transfusion-dependent).
     - Strongly considered for moderate HS exhibiting frequent hypoplastic/aplastic crises, poor growth, or cardiomegaly.
@@ -68,21 +68,21 @@
 
 ### Immune-Mediated Cytopenias
 
-- **Immune Thrombocytopenic Purpura (ITP):**
+- **[[Hematology/Immune Thrombocytopenic Purpura (ITP)\|Immune Thrombocytopenic Purpura (ITP)]]:**
     - Indicated for older children (≥4 years) with chronic ITP (>1 year duration) refractory to medical therapy.
     - Indicated for acute, life-threatening hemorrhage (e.g., intracranial hemorrhage) unresponsive to rapid platelet transfusion, intravenous immunoglobulin (IVIG), and corticosteroids.
     - Induces complete remission in 64-88% of chronic pediatric cases.
-- **Warm Autoimmune Hemolytic Anemia (wAIHA):**
+- **Warm [[Hematology/Autoimmune Hemolytic Anemia\|Autoimmune Hemolytic Anemia]] (wAIHA):**
     - Indicated if hemolysis remains brisk despite high-dose corticosteroids, rituximab, and transfusions.
     - Recommended for children >5 years of age with disease duration >6-12 months. Beneficial in 60-75% of patients.
 
 ### Hemoglobinopathies
 
-- **Thalassemia Major/Intermedia:**
+- **[[Hematology/Thalassemia\|Thalassemia]] Major/Intermedia:**
     - Indicated for secondary hypersplenism causing falling steady-state hemoglobin or rising transfusion requirements.
     - Criteria include annual packed RBC requirement >200-250 mL/kg/year with uncontrolled iron overload.
     - Indicated for symptomatic massive splenomegaly posing rupture risk or causing severe leukopenia/thrombocytopenia.
-- **Sickle Cell Disease:**
+- **[[Hematology/Sickle Cell Disease\|Sickle Cell Disease]]:**
     - Prophylactic splenectomy indicated for recurrent, life-threatening acute splenic sequestration crises.
     - Prevents fatal hypovolemic shock associated with recurrent trapping of RBCs.
 
@@ -103,12 +103,12 @@
 |:--|:--|
 |**Hemolytic Anemia**|Severe HS, Symptomatic HE, Pyruvate kinase deficiency|
 |**Immune Cytopenias**|Refractory chronic ITP (>1 yr), Refractory wAIHA|
-|**Hemoglobinopathies**|Thalassemia with PRBC need >200-250 mL/kg/yr, Sickle cell with recurrent sequestration|
+|**Hemoglobinopathies**|[[Hematology/Thalassemia\|Thalassemia]] with PRBC need >200-250 mL/kg/yr, Sickle cell with recurrent sequestration|
 |**Trauma**|Hemodynamically unstable splenic rupture|
 
 ## Conditions Contraindicating Splenectomy
 
-- Autoimmune Lymphoproliferative Syndrome (ALPS): Extremely high risk of fatal sepsis despite prophylaxis.
+- [[Infectious Diseases/Autoimmune Lymphoproliferative Syndrome (ALPS)\|Autoimmune Lymphoproliferative Syndrome (ALPS)]]: Extremely high risk of fatal sepsis despite prophylaxis.
 - Hereditary Stomatocytosis and Hereditary Xerocytosis: High risk of severe venous thromboembolic complications post-surgery.
 - Paroxysmal Cold Hemoglobinuria and Cold Agglutinin Disease.
 - Hepatic cirrhosis with thrombocytopenia.
@@ -121,11 +121,11 @@
 - Highest risk in children <5 years of age at time of surgery.
 - Overall risk: 2-5 per 1000 asplenic patient-years; lifelong risk of 5%.
 - Over 50% of OPSI episodes occur within first 2 years post-splenectomy.
-- Risk magnitude varies by underlying disease: 2-4% in trauma or ITP; 8-30% in thalassemia, sickle cell disease, or preexisting reticuloendothelial blockade.
+- Risk magnitude varies by underlying disease: 2-4% in trauma or ITP; 8-30% in [[Hematology/Thalassemia\|thalassemia]], [[Hematology/Sickle Cell Disease\|sickle cell disease]], or preexisting reticuloendothelial blockade.
 - **Pathogens:** Encapsulated bacteria dominate. _Streptococcus pneumoniae_ (>60% of cases), _Haemophilus influenzae_, and _Neisseria meningitidis_.
 - **Animal Bites:** High risk for fulminant sepsis from _Capnocytophaga canimorsus_ or _C. cynodegmi_ following dog bites/licks.
-- **Protozoal Infections:** Increased susceptibility to severe malaria and babesiosis.
-- **Clinical Course:** Rapid progression to fulminant sepsis and meningitis; death frequently ensues within 12-24 hours of onset.
+- **Protozoal Infections:** Increased susceptibility to severe [[Infectious Diseases/Malaria\|malaria]] and babesiosis.
+- **Clinical Course:** Rapid progression to fulminant sepsis and [[Neurology/Meningitis\|meningitis]]; death frequently ensues within 12-24 hours of onset.
 
 ## Thromboembolic Complications
 
@@ -137,7 +137,7 @@
 ## Pulmonary Hypertension
 
 - Late complication increasingly recognized post-splenectomy.
-- Particularly prevalent when splenectomy performed for chronic hemolytic conditions (Thalassemia, Sickle Cell Disease, Hereditary Spherocytosis).
+- Particularly prevalent when splenectomy performed for chronic hemolytic conditions ([[Hematology/Thalassemia\|Thalassemia]], [[Hematology/Sickle Cell Disease\|Sickle Cell Disease]], Hereditary Spherocytosis).
 - Pathogenesis linked to ongoing chronic hemolysis and circulation of procoagulant erythrocyte microparticles previously cleared by spleen.
 
 ## Surgical And Perioperative Complications
@@ -159,7 +159,7 @@
 - **Pneumococcal Vaccines:** 13-valent pneumococcal conjugate vaccine (PCV13) followed by 23-valent pneumococcal polysaccharide vaccine (PPSV23) at age ≥2 years. Second dose of PPSV23 administered 5 years later.
 - **Meningococcal Vaccine:** Administer protein-conjugated formulations.
 - **Haemophilus influenzae type b (Hib) Vaccine:** Ensure up-to-date status.
-- **Influenza Vaccine:** Administer yearly; prevents viral illness that predisposes to secondary pneumococcal infections.
+- **[[Misc/Influenza Vaccine\|Influenza Vaccine]]:** Administer yearly; prevents viral illness that predisposes to secondary pneumococcal infections.
 
 ## Antimicrobial Prophylaxis
 
@@ -169,7 +169,7 @@
     - Children <5 years: 125 mg twice daily.
     - Children ≥5 years: 250 mg twice daily.
 - **Duration:** Continue until at least 5 years of age, and strictly for a minimum of 2 years post-splenectomy.
-- **Lifelong Prophylaxis:** Strongly considered for high-risk patients (e.g., Sickle Cell Disease, history of invasive pneumococcal infection, underlying immune deficiency).
+- **Lifelong Prophylaxis:** Strongly considered for high-risk patients (e.g., [[Hematology/Sickle Cell Disease\|Sickle Cell Disease]], history of invasive pneumococcal infection, underlying immune deficiency).
 
 ## Acute Fever Management
 
@@ -181,6 +181,6 @@
 ## Additional Preventative Measures
 
 - **Animal Bites:** Administer prophylactic antibiotics immediately after dog bites/licks to prevent _Capnocytophaga_ sepsis.
-- **Travel Counseling:** Advise against travel to malaria or babesiosis endemic areas without stringent prophylaxis and mosquito avoidance.
+- **Travel Counseling:** Advise against travel to [[Infectious Diseases/Malaria\|malaria]] or babesiosis endemic areas without stringent prophylaxis and mosquito avoidance.
 - **Medical Alert:** Patient must wear a medical alert bracelet denoting asplenic status.
 - **Surveillance:** Monitor for thromboembolic disease and pulmonary hypertension via clinical evaluation and echocardiography.

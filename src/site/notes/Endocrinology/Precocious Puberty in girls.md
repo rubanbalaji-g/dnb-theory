@@ -23,11 +23,11 @@
 
 - Accounts for majority of female sexual precocity.
 - **Idiopathic:** >90-95% of female cases. Diagnosis of exclusion.
-- **Congenital CNS Malformations:** Hypothalamic hamartoma of tuber cinereum (most common organic cause). Arachnoid cyst, hydrocephalus, myelomeningocele.
-- **Acquired CNS Insults:** Encephalitis, static encephalopathy, brain abscess, tubercular granuloma, severe head trauma.
-- **CNS Tumors:** Optic glioma (highly prevalent in Neurofibromatosis Type 1), hypothalamic astrocytoma, craniopharyngioma, ependymoma.
+- **Congenital CNS Malformations:** Hypothalamic hamartoma of tuber cinereum (most common organic cause). Arachnoid cyst, [[Neurology/Hydrocephalus\|hydrocephalus]], myelomeningocele.
+- **Acquired CNS Insults:** Encephalitis, static encephalopathy, [[Neurology/Brain Abscess\|brain abscess]], tubercular granuloma, severe head trauma.
+- **[[Hematology/CNS Tumors\|CNS Tumors]]:** Optic glioma (highly prevalent in Neurofibromatosis Type 1), hypothalamic astrocytoma, craniopharyngioma, ependymoma.
 - **Iatrogenic:** Cranial irradiation (paradoxically often associated with concurrent Growth Hormone deficiency).
-- **Previous Sex Steroid Exposure:** Late treatment of Congenital Adrenal Hyperplasia (CAH) or McCune-Albright Syndrome initiating secondary HPG axis maturation.
+- **Previous Sex Steroid Exposure:** Late treatment of [[Endocrinology/Congenital Adrenal Hyperplasia\|Congenital Adrenal Hyperplasia]] (CAH) or [[Endocrinology/McCune-Albright Syndrome\|McCune-Albright Syndrome]] initiating secondary HPG axis maturation.
 
 ### Genetic Mutations in CPP
 
@@ -60,20 +60,20 @@
 - **Ovarian Cysts:** Autonomous follicular cysts. Most common peripheral cause. Transient, recurrent, or persistent.
 - **Ovarian Tumors:** Granulosa cell tumor (most common estrogen-producing tumor), thecoma, luteoma.
 - **Adrenal Tumors:** Feminizing adrenal adenoma/carcinoma (extremely rare).
-- **McCune-Albright Syndrome (MAS):** Somatic activating mutation of Gs-alpha subunit (GNAS1).
+- **[[Endocrinology/McCune-Albright Syndrome\|McCune-Albright Syndrome]] (MAS):** Somatic activating mutation of Gs-alpha subunit (GNAS1).
 - **Van Wyk-Grumbach Syndrome:** Severe primary hypothyroidism.
 - **Exogenous Estrogen:** Contraceptive pills, estrogen creams, soy phytoestrogens, lavender/tea tree oils.
 - **Aromatase Excess Syndrome:** Constitutive overexpression of aromatase gene.
 
 ### Etiology (Contrasexual / Virilizing)
 
-- **Congenital Adrenal Hyperplasia:** 21-hydroxylase deficiency, 11b-hydroxylase deficiency.
+- **[[Endocrinology/Congenital Adrenal Hyperplasia\|Congenital Adrenal Hyperplasia]]:** 21-hydroxylase deficiency, 11b-hydroxylase deficiency.
 - **Virilizing Tumors:** Adrenal adenoma/carcinoma, Arrhenoblastoma (ovarian).
 - **Exogenous Androgens:** Accidental exposure to topical testosterone gels/creams.
 
 ### Specific PPP Syndromes & Pathophysiology
 
-#### McCune-Albright Syndrome (MAS)
+#### [[Endocrinology/McCune-Albright Syndrome\|McCune-Albright Syndrome]] (MAS)
 
 - **Genetics:** Somatic post-zygotic activating mutation of Gs-alpha (R201H).
 - **Triad:** Precocious puberty, polyostotic fibrous dysplasia, cafe-au-lait spots (irregular "coast of Maine" borders).
@@ -93,7 +93,7 @@
 
 - **Juvenile Granulosa Cell Tumor:** Peak age ~7.5 years. Unilateral. Secretes massive estradiol, inhibin, anti-mullerian hormone (AMH).
 - **Presentation:** Abdominal pain/mass, rapid breast development, white vaginal discharge, cyclic bleeding without ovulation.
-- **Germ Cell Tumors (Dysgerminoma, Chorioepithelioma):** May secrete hCG. Extremely rare cause of female precocity.
+- **[[Hematology/Germ Cell Tumors\|Germ Cell Tumors]] (Dysgerminoma, Chorioepithelioma):** May secrete hCG. Extremely rare cause of female precocity.
 
 ## Incomplete Variations of Normal Puberty
 
@@ -109,7 +109,7 @@
 - **Definition:** Isolated sexual hair (pubic/axillary) and adult body odor before age 8.
 - **Pathophysiology:** Early maturation of adrenal zona reticularis. Moderate DHEAS elevation (40-130 mcg/dL).
 - **Clinical:** Normal bone age. Normal growth velocity. No clitoromegaly.
-- **Exaggerated Variant:** Advanced bone age, insulin resistance, central adiposity. Associated with low birth weight/SGA. Increased future risk of Polycystic Ovary Syndrome (PCOS) and Metabolic Syndrome.
+- **Exaggerated Variant:** Advanced bone age, insulin resistance, central adiposity. Associated with low birth weight/SGA. Increased future risk of Polycystic Ovary Syndrome (PCOS) and [[Endocrinology/Metabolic Syndrome\|Metabolic Syndrome]].
 - **Differential:** Rule out non-classic CAH (check 8 AM 17-OHP).
 
 ### Premature Menarche
@@ -176,7 +176,7 @@
 
 ### Management of Peripheral Precocious Puberty (PPP)
 
-- **McCune-Albright Syndrome:** Aromatase inhibitors (Letrozole 1.25-2.5 mg/day, Anastrozole) to block estrogen synthesis. Estrogen receptor modulators (Tamoxifen, Fulvestrant). Monitor closely for transition to CPP (requires addition of GnRH agonist).
+- **[[Endocrinology/McCune-Albright Syndrome\|McCune-Albright Syndrome]]:** Aromatase inhibitors (Letrozole 1.25-2.5 mg/day, Anastrozole) to block estrogen synthesis. Estrogen receptor modulators (Tamoxifen, Fulvestrant). Monitor closely for transition to CPP (requires addition of GnRH agonist).
 - **Severe Hypothyroidism:** Oral Levothyroxine leads to rapid resolution of cysts and pubertal features.
 - **Ovarian Cysts:** Conservative observation. Spontaneous involution common. Surgical resection reserved for massive cysts with torsion risk.
 - **Ovarian/Adrenal Tumors:** Prompt surgical excision.

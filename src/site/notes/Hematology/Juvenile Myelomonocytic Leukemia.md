@@ -75,7 +75,7 @@ Clinical presentation frequently mimics other infectious and hematologic derange
 |:--|:--|
 |**Viral Infections (CMV, EBV, HHV-6)**|Hemophagocytosis on marrow aspirate favors viral illness. Resolves with time.|
 |**Infantile Malignant Osteopetrosis (IMO)**|Radiographic evidence of bone density changes. Abnormal calcium and alkaline phosphatase.|
-|**Acute Myeloid Leukemia (AML)**|Blasts >20%. Monocytosis less prominent.|
+|**[[Hematology/Acute Myeloid Leukemia\|Acute Myeloid Leukemia]] (AML)**|Blasts >20%. Monocytosis less prominent.|
 |**Chronic Myeloid Leukemia (CML)**|Presence of t(9;22) BCR-ABL. Monocytosis rare.|
 |**Hemophagocytic Lymphohistiocytosis (HLH)**|Prominent hemophagocytosis, hyperferritinemia, hypofibrinogenemia.|
 

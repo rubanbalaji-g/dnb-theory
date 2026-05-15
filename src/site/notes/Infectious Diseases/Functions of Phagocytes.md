@@ -25,7 +25,7 @@
 
 ### Disorders of Microbicidal Activity (Chronic Granulomatous Disease)
 
-- Chronic Granulomatous Disease (CGD) is caused by genetic defects in the subunits of the NADPH oxidase complex (most commonly an X-linked defect in _CYBB_ encoding gp91phox, or autosomal recessive defects in p47phox, p67phox, or p22phox).
+- [[Infectious Diseases/Chronic Granulomatous Disease (CGD)\|Chronic Granulomatous Disease (CGD)]] is caused by genetic defects in the subunits of the NADPH oxidase complex (most commonly an X-linked defect in _CYBB_ encoding gp91phox, or autosomal recessive defects in p47phox, p67phox, or p22phox).
 - Pathophysiologically, phagocytes in CGD possess normal chemotaxis and degranulation but fail to generate the microbicidal reactive oxygen species necessary to kill catalase-positive microorganisms.
 - Patients typically present with recurrent pneumonias, severe suppurative lymphadenitis, deep hepatic or subcutaneous abscesses, and osteomyelitis caused by organisms such as _Staphylococcus aureus_, _Aspergillus_, _Serratia marcescens_, _Burkholderia cepacia_, and _Nocardia_.
 - A hallmark of CGD is the formation of exuberant inflammatory granulomas that can obstruct the gastric outlet, pylorus, or urinary tract.

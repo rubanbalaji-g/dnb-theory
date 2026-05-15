@@ -11,11 +11,11 @@ Helminthic infestations (worm infestations) are a significant cause of morbidity
 - **Diagnosis:** Confirmation is usually via stool microscopy for eggs/ova. _Enterobius_ requires the perianal adhesive tape test (scotch tape test). _Strongyloides_ requires stool examination for larvae.
 - **Family Treatment:** For highly contagious infestations like _Enterobius_ and _Hymenolepis nana_, treating all family members is crucial to prevent reinfection.
 - **Hygiene:** Interventions must include hand washing, nail trimming, and sanitary disposal of feces.
-- **Complications:** Management extends beyond deworming to treating complications like anemia, intestinal obstruction, or seizures (in neurocysticercosis).
+- **Complications:** Management extends beyond deworming to treating complications like anemia, intestinal obstruction, or seizures (in [[Infectious Diseases/Neurocysticercosis\|neurocysticercosis]]).
 
 ## Management of Intestinal Nematodes (Roundworms)
 
-### 1. Ascariasis (_Ascaris lumbricoides_)
+### 1. [[Infectious Diseases/Ascariasis\|Ascariasis]] (_Ascaris lumbricoides_)
 
 - **Drug of Choice:**
     - **Albendazole:** 400 mg oral single dose (200 mg for children 1–2 years).
@@ -37,7 +37,7 @@ Helminthic infestations (worm infestations) are a significant cause of morbidity
     - **Mebendazole:** 100 mg twice daily for 3 days or 500 mg single dose. (Single dose mebendazole has lower cure rates for hookworm compared to albendazole).
     - **Pyrantel Pamoate:** 11 mg/kg (max 1 g) daily for 3 days.
 - **Supportive Care:**
-    - **Iron Supplementation:** Critical for treating iron deficiency anemia caused by chronic blood loss.
+    - **Iron Supplementation:** Critical for treating [[Hematology/Iron Deficiency Anemia\|iron deficiency anemia]] caused by chronic blood loss.
     - **Nutritional Support:** High-protein diet for hypoproteinemia.
 
 ### 3. Trichuriasis (_Trichuris trichiura_ / Whipworm)
@@ -84,7 +84,7 @@ Helminthic infestations (worm infestations) are a significant cause of morbidity
 - **Alternative:**
     - **Nitazoxanide:** 100–500 mg BID (age-dependent) for 3 days.
 
-### 3. Neurocysticercosis (Larval _T. solium_)
+### 3. [[Infectious Diseases/Neurocysticercosis\|Neurocysticercosis]] (Larval _T. solium_)
 
 - **Symptomatic Therapy:** Antiepileptics for seizures (primary focus).
 - **Antiparasitic Therapy:** Indicated for viable parenchymal cysts.

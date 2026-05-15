@@ -44,8 +44,8 @@
 
 ### Increased Calcium Chelation and Other Causes
 
-- **Hyperphosphatemia:** Excessive phosphate loads bind serum calcium, causing extracellular deposition. This can result from acute or chronic renal failure, tumor lysis syndrome, rhabdomyolysis, or the administration of phosphate-containing enemas/laxatives.
-- **Acute Illness and Transfusions:** Large volume transfusions of citrated blood rapidly chelate ionized calcium. Hypocalcemia is also prevalent in critically ill patients, acute pancreatitis (calcium saponification with free fatty acids), and severe sepsis.
+- **Hyperphosphatemia:** Excessive phosphate loads bind serum calcium, causing extracellular deposition. This can result from acute or chronic renal failure, [[Hematology/Tumor Lysis Syndrome\|tumor lysis syndrome]], rhabdomyolysis, or the administration of phosphate-containing enemas/laxatives.
+- **Acute Illness and Transfusions:** Large volume transfusions of citrated blood rapidly chelate ionized calcium. Hypocalcemia is also prevalent in critically ill patients, [[Gastrointestinal/Acute Pancreatitis\|acute pancreatitis]] (calcium saponification with free fatty acids), and severe sepsis.
 - **Hypomagnesemia:** Magnesium deficiency (serum Mg <1.5 mg/dL) profoundly impairs the release of PTH from the parathyroid glands and induces peripheral resistance to PTH action, causing refractory hypocalcemia.
 - **Alkalosis:** Both respiratory and metabolic alkalosis increase the binding of calcium to serum albumin, leading to a sudden drop in the biologically active ionized calcium fraction and precipitating tetany.
 

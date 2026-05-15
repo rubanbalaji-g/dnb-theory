@@ -37,7 +37,7 @@
 
 - **Surgical Resection:** Complete excision essential for cure; achievable upfront in approximately 30% cases.
 - **Chemotherapy:** Platinum-based regimens form therapeutic backbone (Cisplatin, Vincristine, 5-Fluorouracil, Doxorubicin). Utilized as neoadjuvant therapy for unresectable tumors or adjuvant therapy post-resection.
-- **Refractory Disease:** Unresectable primary tumors require orthotopic liver transplantation following neoadjuvant chemotherapy.
+- **Refractory Disease:** Unresectable primary tumors require orthotopic [[Gastrointestinal/Liver Transplantation\|liver transplantation]] following neoadjuvant chemotherapy.
 - **Prognosis:** Overall survival approaches 70-80%. Localized disease curable in >90% cases with multimodal therapy.
 # Hepatocellular Carcinoma
 
@@ -45,15 +45,15 @@
 
 - Second most common pediatric primary hepatic malignancy.
 - Median presentation age: 12 years.
-- Bimodal incidence pattern in endemic regions; correlates with perinatal Hepatitis B infection.
+- Bimodal incidence pattern in endemic regions; correlates with perinatal [[Gastrointestinal/Hepatitis B\|Hepatitis B]] infection.
 - Arises in cirrhotic and noncirrhotic backgrounds.
 - Multicentric, invasive tumor comprising large pleomorphic epithelial cells.
 - Fibrolamellar variant: Distinct subtype affecting adolescents and young adults; lacks cirrhosis association; harbors _DNAJB1-PRKACA_ translocation or 400-kB deletion on chromosome 19.
 
 ## Risk Factors And Associations
 
-- Viral: Perinatal Hepatitis B infection (vaccination reduces incidence), Hepatitis C.
-- Metabolic: [[Metabolic Disorders/Tyrosinemia\|Tyrosinemia]], alpha-1 antitrypsin deficiency, glycogen storage disease types 1 and 4, Wilson disease.
+- Viral: Perinatal [[Gastrointestinal/Hepatitis B\|Hepatitis B]] infection (vaccination reduces incidence), [[Gastrointestinal/Hepatitis C\|Hepatitis C]].
+- Metabolic: [[Metabolic Disorders/Tyrosinemia\|Tyrosinemia]], alpha-1 antitrypsin deficiency, glycogen storage disease types 1 and 4, [[Gastrointestinal/Wilson Disease\|Wilson disease]].
 - Cholestatic: [[Gastrointestinal/Biliary Atresia\|Biliary atresia]], Alagille syndrome, progressive familial intrahepatic cholestasis.
 
 ## Clinical Manifestations
@@ -75,5 +75,5 @@
 - Surgery: Complete surgical resection crucial for survival; feasible in 20-30% at diagnosis.
 - Chemotherapy: Cisplatin and doxorubicin utilized neoadjuvantly to convert unresectable tumors, or adjuvantly post-resection.
 - Targeted therapy: Sorafenib (tyrosine kinase inhibitor) demonstrates antitumoral activity.
-- Liver transplantation: Orthotopic liver transplant indicated for individualized unresectable cases.
+- [[Gastrointestinal/Liver Transplantation\|Liver transplantation]]: Orthotopic liver transplant indicated for individualized unresectable cases.
 - Prognosis: Poor overall survival approximating 40%.

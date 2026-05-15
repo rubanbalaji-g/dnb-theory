@@ -6,7 +6,7 @@
 
 Acquired clinicopathologic syndrome characterized by widespread, unregulated pathologic activation of coagulation system. Process leads to microvascular thrombi, systemic fibrin deposition, and rapid consumption of platelets, procoagulant clotting factors, and anticoagulant proteins.
 
-## Pathophysiology Of Disseminated Intravascular Coagulation
+## Pathophysiology Of [[Hematology/Disseminated Intravascular Coagulation\|Disseminated Intravascular Coagulation]]
 
 Complex pathogenesis involves loss of localized hemostasis and excessive coagulation activation. Divided into three overlapping pathologic processes.
 
@@ -41,12 +41,12 @@ Syndrome represents a secondary complication of severe underlying disorders.
 
 |Disease Category|Associated Conditions|
 |:--|:--|
-|**Infections**|Bacterial sepsis (Meningococcemia, Streptococcal, Gram-negative, _Salmonella_), Viral (Cytomegalovirus, Herpes simplex, HIV, Hemorrhagic fevers, Ebola), Parasitic (Malaria), Fungal, _Rickettsia_.|
+|**Infections**|Bacterial sepsis (Meningococcemia, Streptococcal, Gram-negative, _Salmonella_), Viral (Cytomegalovirus, Herpes simplex, HIV, Hemorrhagic fevers, Ebola), Parasitic ([[Infectious Diseases/Malaria\|Malaria]]), Fungal, _Rickettsia_.|
 |**Tissue Injury**|Severe trauma, crush injuries, major operations, severe burns, heat stroke, snakebite venom.|
-|**Malignancy**|Acute promyelocytic leukemia, neuroblastoma, solid tumors.|
+|**Malignancy**|Acute promyelocytic leukemia, [[Hematology/Neuroblastoma\|neuroblastoma]], solid tumors.|
 |**Obstetric/Perinatal**|Abruptio placentae, amniotic fluid embolism, toxemia, fetal demise, necrotizing enterocolitis, meconium aspiration.|
 |**Vascular/Localized**|Kasabach-Merritt syndrome (giant hemangioma), vascular aneurysms.|
-|**Immunologic**|Acute hemolytic transfusion reactions, severe allograft rejection, systemic lupus erythematosus, Kawasaki disease.|
+|**Immunologic**|Acute hemolytic transfusion reactions, severe allograft rejection, systemic lupus erythematosus, [[Rheumatology/Kawasaki Disease\|Kawasaki disease]].|
 
 ## Clinical Manifestations
 
@@ -71,7 +71,7 @@ No single test establishes diagnosis; relies on compatible clinical scenario and
 
 ### Differential Diagnosis
 
-|Clinical/Lab Feature|Disseminated Intravascular Coagulation|Severe Liver Disease|Vitamin K Deficiency|
+|Clinical/Lab Feature|[[Hematology/Disseminated Intravascular Coagulation\|Disseminated Intravascular Coagulation]]|Severe Liver Disease|Vitamin K Deficiency|
 |:--|:--|:--|:--|
 |**Red Cell Morphology**|Schistocytes, helmet cells, fragmented|Target cells|Normal|
 |**PT And aPTT**|Prolonged|Prolonged|Prolonged|

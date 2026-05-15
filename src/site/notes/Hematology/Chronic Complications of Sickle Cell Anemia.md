@@ -20,7 +20,7 @@
 
 |Pathophysiology & Features|Management|
 |:--|:--|
-|- Reduced PaO2, decreased oxygen saturation.- Chronic lung disease/pulmonary fibrosis: Major mortality cause in young adults.- Asthma: Higher prevalence, linked to acute chest syndrome/stroke.|- Pulmonary function testing.- Prophylactic transfusions to prevent end-stage fibrosis.- Aggressive asthma management (avoid systemic steroids to prevent rebound vaso-occlusion).|
+|- Reduced PaO2, decreased oxygen saturation.- Chronic lung disease/pulmonary fibrosis: Major mortality cause in young adults.- [[Respiratory/Asthma\|Asthma]]: Higher prevalence, linked to acute chest syndrome/stroke.|- Pulmonary function testing.- Prophylactic transfusions to prevent end-stage fibrosis.- Aggressive [[Respiratory/Asthma\|asthma]] management (avoid systemic steroids to prevent rebound vaso-occlusion).|
 
 ## Renal & Hepatobiliary Complications
 
@@ -28,13 +28,13 @@
 
 |Pathophysiology & Features|Management|
 |:--|:--|
-|- Increased renal flow/GFR, kidney enlargement.- Hyposthenuria (concentration defect via vasa recta obliteration), causing nocturia/enuresis.- Renal tubular acidification defect, hyponatremia.- Proteinuria, nephrotic syndrome, chronic renal failure.|- Enuresis: Behavioral modifications, bedtime 1-deamino-8-D-arginine vasopressin (DDAVP).- Proteinuria (>4-8 weeks): Angiotensin-converting enzyme (ACE) inhibitors.- Diuretics for nephrotic edema.|
+|- Increased renal flow/GFR, kidney enlargement.- Hyposthenuria (concentration defect via vasa recta obliteration), causing nocturia/enuresis.- Renal tubular acidification defect, hyponatremia.- Proteinuria, [[Nephrology/Nephrotic Syndrome\|nephrotic syndrome]], chronic renal failure.|- Enuresis: Behavioral modifications, bedtime 1-deamino-8-D-arginine vasopressin (DDAVP).- Proteinuria (>4-8 weeks): Angiotensin-converting enzyme (ACE) inhibitors.- Diuretics for nephrotic edema.|
 
 ### Hepatobiliary Disease
 
 |Pathophysiology & Features|Management|
 |:--|:--|
-|- Chronic hepatomegaly, elevated AST/ALT.- Cholelithiasis: Pigmented stones from chronic hemolysis (30% prevalence by age 18).- Intrahepatic sickling crisis, hepatic necrosis, portal fibrosis, cirrhosis.- Transfusion-related hepatitis C, iron overload fibrosis.|- Sonographic screening.- Laparoscopic cholecystectomy for symptomatic gallstones.- Exchange transfusion for intrahepatic crisis.- Chelation therapy for transfusional iron overload.|
+|- Chronic hepatomegaly, elevated AST/ALT.- Cholelithiasis: Pigmented stones from chronic hemolysis (30% prevalence by age 18).- Intrahepatic sickling crisis, hepatic necrosis, portal fibrosis, cirrhosis.- Transfusion-related [[Gastrointestinal/Hepatitis C\|hepatitis C]], iron overload fibrosis.|- Sonographic screening.- Laparoscopic cholecystectomy for symptomatic gallstones.- Exchange transfusion for intrahepatic crisis.- Chelation therapy for transfusional iron overload.|
 
 ## Skeletal & Dermatological Complications
 

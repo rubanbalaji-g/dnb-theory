@@ -28,7 +28,7 @@
 - Skeletal anomalies: short stature, abnormal radii, thumb deformities.
 - Radial ray defects represent terminal defects; abnormal radii strictly associate with thumb anomalies (hypoplastic, supernumerary, bifid, absent).
 - Skin features: generalized hyperpigmentation, café-au-lait spots, hypopigmented areas.
-- Craniofacial anomalies: microcephaly, microphthalmia, epicanthal folds, micrognathia, abnormal ears.
+- Craniofacial anomalies: [[Neurology/Microcephaly\|microcephaly]], microphthalmia, epicanthal folds, micrognathia, abnormal ears.
 - Renal malformations: ectopic, pelvic, horseshoe, hypoplastic, or absent kidneys.
 - Genitourinary defects: male hypogenitalism, hypospadias, female reproductive tract malformations, reduced fertility.
 - VACTERL or VACTERL-H associations present in affected neonates.
@@ -38,12 +38,12 @@
 
 - Median age at hematologic presentation occurs at 8-10 years.
 - Initial manifestations include macrocytosis, elevated fetal hemoglobin, and thrombocytopenia.
-- Progresses gradually to severe pancytopenia and aplastic anemia.
+- Progresses gradually to severe pancytopenia and [[Hematology/Aplastic Anemia\|aplastic anemia]].
 
 ## Malignancy Predisposition
 
 - Exceedingly high risk of malignant transformation.
-- Cumulative incidence of clonal/malignant myeloid transformation (myelodysplastic syndrome, acute myeloid leukemia) reaches 75% by age 18 years.
+- Cumulative incidence of clonal/malignant myeloid transformation (myelodysplastic syndrome, [[Hematology/Acute Myeloid Leukemia\|acute myeloid leukemia]]) reaches 75% by age 18 years.
 - High relative risk of solid tumors developing at remarkably young ages.
 - Squamous cell carcinomas frequently affect head, neck, esophagus, vulva, anus, and cervix.
 - Human papillomavirus suspected in squamous cell carcinoma pathogenesis.
@@ -71,7 +71,7 @@
 
 ## Differential Diagnosis
 
-|Feature|Fanconi Anemia|Thrombocytopenia-Absent Radii Syndrome|
+|Feature|[[Hematology/Fanconi Anemia\|Fanconi Anemia]]|Thrombocytopenia-Absent Radii Syndrome|
 |---|---|---|
 |**Age of onset**|Median 8-10 years|Birth to infancy|
 |**Radial ray defect**|Absent radii with absent or hypoplastic thumbs (terminal defect)|Absent radii with fingers and thumbs present (intercalary defect)|

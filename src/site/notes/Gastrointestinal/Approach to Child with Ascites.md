@@ -53,7 +53,7 @@
 - Ultrasound-guided tap recommended for loculated ascites.
 - No contraindication for prolonged prothrombin time unless [[Hematology/Disseminated Intravascular Coagulation\|disseminated intravascular coagulation]] present.
 
-### ascitic fluid analysis
+### Ascitic fluid analysis
 
 |Test|Findings|Interpretation|
 |:--|:--|:--|

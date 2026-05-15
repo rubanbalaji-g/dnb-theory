@@ -14,7 +14,7 @@
 ### Clinical Features
 
 - **Ophthalmologic Findings:** Optic nerve hypoplasia may be unilateral or bilateral (bilateral is more common, accounting for 88% of cases) and frequently presents with nystagmus and visual impairment in early infancy.
-- **Endocrine Dysfunction:** The endocrinopathy typically evolves with a progressive loss of anterior and/or posterior pituitary function over time. Growth hormone (GH) deficiency is the most common endocrinopathy, causing a decrease in growth velocity. Deficiencies in adrenocorticotropic hormone (ACTH) and thyroid-stimulating hormone (TSH) are also frequent, potentially presenting as severe neonatal hypoglycemia. Central diabetes insipidus can also occur, presenting as polyuria and polydipsia.
+- **Endocrine Dysfunction:** The endocrinopathy typically evolves with a progressive loss of anterior and/or posterior pituitary function over time. Growth hormone (GH) deficiency is the most common endocrinopathy, causing a decrease in growth velocity. Deficiencies in adrenocorticotropic hormone (ACTH) and thyroid-stimulating hormone (TSH) are also frequent, potentially presenting as severe neonatal hypoglycemia. Central [[Endocrinology/Diabetes Insipidus\|diabetes insipidus]] can also occur, presenting as polyuria and polydipsia.
 - **Neurological and Systemic Findings:** Neurological manifestations range from normal cognition to global developmental retardation, focal deficits, epilepsy, or hemiparesis. It may also be associated with midline facial anomalies, including cleft palate or a solitary median maxillary central incisor.
 
 ### Diagnosis and Genetics

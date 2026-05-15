@@ -10,7 +10,7 @@ Modern classification divides histiocytosis into five main groups based on clini
 
 |Group|Category|Specific Disorders|
 |:--|:--|:--|
-|**L**|Langerhans-Related|- Langerhans cell histiocytosis (LCH) (Single system, pulmonary, multisystem with/without risk organs)- Erdheim-Chester disease- Extracutaneous/disseminated juvenile xanthogranuloma (JXG) with MAPK mutations|
+|**L**|Langerhans-Related|- [[Hematology/Langerhans Cell Histiocytosis\|Langerhans cell histiocytosis]] (LCH) (Single system, pulmonary, multisystem with/without risk organs)- Erdheim-Chester disease- Extracutaneous/disseminated juvenile xanthogranuloma (JXG) with MAPK mutations|
 |**C**|Cutaneous And Mucosal|- Histiocytoses with cutaneous or mucosal involvement|
 |**R**|Rosai-Dorfman-Destombes|- Familial- Sporadic classical (with/without IgG4)- Sporadic extranodal|
 |**M**|Malignant Histiocytoses|- Primary phenotypic subtypes- Secondary phenotypic subtypes|
@@ -22,6 +22,6 @@ Historically categorized into three distinct classes based on cellular origin an
 
 |Class|Cell Of Origin|Specific Disorders|
 |:--|:--|:--|
-|**Class I**|Dendritic Cell Disorders|- Langerhans cell histiocytosis (LCH)- Juvenile xanthogranuloma- Solitary histiocytoma with dendritic phenotype|
+|**Class I**|Dendritic Cell Disorders|- [[Hematology/Langerhans Cell Histiocytosis\|Langerhans cell histiocytosis]] (LCH)- Juvenile xanthogranuloma- Solitary histiocytoma with dendritic phenotype|
 |**Class II**|Macrophage-Related Disorders|- Hemophagocytic lymphohistiocytosis (HLH) (Primary and secondary)- Rosai-Dorfman disease- Solitary histiocytoma with macrophage phenotype|
 |**Class III**|Malignant Histiocyte Disorders|- Monocyte related leukemias- Extramedullary monocytic tumors- Dendritic cell/macrophage related histiocytic sarcoma|

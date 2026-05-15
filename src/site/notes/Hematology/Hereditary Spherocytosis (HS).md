@@ -53,7 +53,7 @@
 
 - **Aplastic Crisis:** Precipitated primarily by Parvovirus B19 infection. Virus infects erythroid progenitors, halting production. Presents with profound anemia, absent reticulocytes, high-output heart failure, and potential cardiovascular collapse.
 - **Hypoplastic Crisis:** Associated with other concomitant infections.
-- **Megaloblastic Crisis:** Due to dietary folate deficiency amidst high erythroid marrow demands.
+- **Megaloblastic Crisis:** Due to dietary [[Hematology/Folate Deficiency\|folate deficiency]] amidst high erythroid marrow demands.
 - **Hemolytic Crisis:** Accelerated hemolysis, often precipitated by viral infections, leading to pronounced jaundice.
 
 ### Disease Severity Classification
@@ -100,8 +100,8 @@
 |Condition|Distinguishing Features|
 |:--|:--|
 |**Isoimmune Hemolytic Disease**|ABO incompatibility in neonates. Mimics HS. DAT (Coombs test) positive.|
-|**Autoimmune Hemolytic Anemia**|Older children. Positive DAT. History of previously normal hemoglobin/reticulocyte counts.|
-|**Transient Spherocytosis Causes**|Thermal injury, clostridial sepsis, severe hypophosphatemia, Wilson disease, snake/wasp envenomation.|
+|**[[Hematology/Autoimmune Hemolytic Anemia\|Autoimmune Hemolytic Anemia]]**|Older children. Positive DAT. History of previously normal hemoglobin/reticulocyte counts.|
+|**Transient Spherocytosis Causes**|Thermal injury, clostridial sepsis, severe hypophosphatemia, [[Gastrointestinal/Wilson Disease\|Wilson disease]], snake/wasp envenomation.|
 
 ## Management
 

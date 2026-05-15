@@ -4,12 +4,12 @@
 
 ## Initial Screening and Level 1 Testing
 
-- The initial diagnosis of primary immune deficiency diseases (PIDDs) requires a high index of suspicion and is frequently initiated when a patient presents with recurrent, severe, or unusual infections, autoimmunity, or failure to thrive,.
+- The initial diagnosis of primary immune deficiency diseases (PIDDs) requires a high [[Statistics/Index\|index]] of suspicion and is frequently initiated when a patient presents with recurrent, severe, or unusual infections, autoimmunity, or failure to thrive,.
 - Basic screening must begin with a complete blood count (CBC) with differential, which is essential to identify baseline hematologic abnormalities such as severe neutropenia, persistent lymphopenia, or marked leukocytosis,,,.
 - A peripheral blood smear should be reviewed for distinct morphological clues, such as the presence of giant lysosomal granules characteristic of Chédiak-Higashi syndrome, or Howell-Jolly bodies indicative of isolated congenital asplenia,.
-- Newborn screening programs facilitate the early detection of severe combined immunodeficiency (SCID) by utilizing a quantitative polymerase chain reaction (PCR) assay to measure T-cell receptor excision circles (TRECs),.
+- [[Neonatalogy/Newborn Screening\|Newborn screening]] programs facilitate the early detection of [[Infectious Diseases/Severe Combined Immunodeficiency (SCID)\|severe combined immunodeficiency (SCID)]] by utilizing a quantitative polymerase chain reaction (PCR) assay to measure T-cell receptor excision circles (TRECs),.
 - TRECs are DNA byproducts formed during the V(D)J rearrangement of T-cell receptor chains; because they do not replicate during cell division, they serve as an accurate marker for quantifying recent thymic emigrants.
-- Many newborn screening programs concurrently assay kappa excision circles (KRECs), which are generated during B-cell development, allowing for the simultaneous identification of infants with severe B-cell defects like congenital agammaglobulinemia.
+- Many [[Neonatalogy/Newborn Screening\|newborn screening]] programs concurrently assay kappa excision circles (KRECs), which are generated during B-cell development, allowing for the simultaneous identification of infants with severe B-cell defects like congenital agammaglobulinemia.
 
 ## Evaluation of Suspected Humoral (B-Cell) Deficiencies
 
@@ -23,7 +23,7 @@
 ### Specific Antibody Responses
 
 - Evaluating specific antibody titers in response to previous routine vaccinations is critical for assessing functional humoral immunity,,.
-- Functional antibody capacity is tested by measuring titers against protein antigens (e.g., diphtheria and tetanus) and polysaccharide antigens (e.g., Haemophilus influenzae and pneumococcus),,.
+- Functional antibody capacity is tested by measuring titers against protein antigens (e.g., [[Infectious Diseases/Diphtheria\|diphtheria]] and tetanus) and polysaccharide antigens (e.g., Haemophilus influenzae and pneumococcus),,.
 - In children over 2 years of age with normal total immunoglobulin levels but recurrent sinopulmonary infections, specific antibody deficiency (SAD) is evaluated using the 23-valent pneumococcal polysaccharide vaccine (PPV23),.
 - Protective antibody titers against pneumococcal polysaccharides are analyzed using an enzyme-linked immunosorbent assay (ELISA), with a titer of 1.3 mg/mL generally considered the protective threshold against mucosal infections.
 - SAD is classified into four phenotypes based on the PPV23 response: a severe phenotype lacks protective titers to most serotypes, a moderate phenotype depends on age-specific cutoffs, a mild phenotype involves failure to multiple serotypes, and a memory phenotype shows an adequate initial response that rapidly wanes within 6 months,.
@@ -31,7 +31,7 @@
 ### B-Cell Enumeration and Phenotyping
 
 - Flow cytometry is mandatory for identifying, enumerating, and characterizing circulating B-cell populations using surface markers such as CD19 and CD20,,,.
-- The complete absence of CD19+ B-cells in the peripheral blood confirms the diagnosis of congenital agammaglobulinemias, such as X-linked agammaglobulinemia (XLA),.
+- The complete absence of CD19+ B-cells in the peripheral blood confirms the diagnosis of congenital agammaglobulinemias, such as [[Infectious Diseases/X-Linked Agammaglobulinemia (XLA)\|X-linked agammaglobulinemia (XLA)]],.
 - Advanced flow cytometric analysis is utilized to enumerate the specific percentages of naive B-cells, memory B-cells, and class-switched memory B-cells,.
 - A specific deficiency or paucity of class-switched memory B-cells is a hallmark diagnostic feature in patients with Common Variable Immunodeficiency (CVID) or hyper-IgM syndrome,.
 
@@ -46,8 +46,8 @@
 ### T-Cell Functional Assays
 
 - Functional T-cell competence is evaluated in vitro via lymphocyte blast transformation and proliferation assays,,.
-- Isolated peripheral blood mononuclear cells are stimulated in cell culture with specific mitogens, such as phytohemagglutinin (PHA) or concanavalin A, or with specific recall antigens like tetanus toxoid,,,.
-- A proliferative response to the mitogen PHA that is less than 10% of a normal control is a definitive diagnostic criterion confirming a severe combined immunodeficiency (SCID).
+- Isolated peripheral blood mononuclear cells are stimulated in cell culture with specific mitogens, such as phytohemagglutinin (PHA) or concanavalin A, or with specific recall antigens like [[Misc/Tetanus Toxoid\|tetanus toxoid]],,,.
+- A proliferative response to the mitogen PHA that is less than 10% of a normal control is a definitive diagnostic criterion confirming a [[Infectious Diseases/Severe Combined Immunodeficiency (SCID)\|severe combined immunodeficiency (SCID)]].
 - For infants presenting with SCID, fluorescence in situ hybridization (FISH) targeting the X and Y chromosomes can be performed in males to detect the presence of transplacentally engrafted maternal (XX) T cells.
 
 ### Natural Killer (NK) Cell Evaluation
@@ -61,7 +61,7 @@
 
 ### Functional Assays for Oxidative Burst
 
-- Patients presenting with deep tissue abscesses, osteomyelitis, or infections with catalase-positive organisms require functional evaluation of the neutrophil respiratory burst to screen for Chronic Granulomatous Disease (CGD),.
+- Patients presenting with deep tissue abscesses, osteomyelitis, or infections with catalase-positive organisms require functional evaluation of the neutrophil respiratory burst to screen for [[Infectious Diseases/Chronic Granulomatous Disease (CGD)\|Chronic Granulomatous Disease (CGD)]],.
 - The dihydrorhodamine (DHR) reduction assay, performed via flow cytometry, is the gold standard test; it measures oxidant production through increased fluorescence when DHR is oxidized by intracellular hydrogen peroxide,,,.
 - The DHR flow cytometric assay is highly sensitive and has largely replaced the older nitroblue tetrazolium (NBT) slide test,,.
 - In cases of severe myeloperoxidase (MPO) deficiency, the DHR assay for neutrophils may yield a false-positive result mimicking CGD; however, evaluating the patient's eosinophils, which still reduce DHR normally in MPO deficiency, reliably differentiates the two conditions.

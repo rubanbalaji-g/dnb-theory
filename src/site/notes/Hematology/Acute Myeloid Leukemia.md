@@ -18,8 +18,8 @@
 
 |Syndrome|Clinical Implication|
 |:--|:--|
-|**Down Syndrome (Trisomy 21)**|15-20 fold increased risk of acute leukemia; 500-fold increased risk of acute megakaryoblastic leukemia (AMKL); associated with _GATA1_ mutation.|
-|**Fanconi Anemia**|50% risk of developing acute myeloid leukemia (AML); requires chemotherapy protocol modifications due to severe toxicity.|
+|**[[Genetics/Down Syndrome (Trisomy 21)\|Down Syndrome (Trisomy 21)]]**|15-20 fold increased risk of acute leukemia; 500-fold increased risk of acute megakaryoblastic leukemia (AMKL); associated with _GATA1_ mutation.|
+|**[[Hematology/Fanconi Anemia\|Fanconi Anemia]]**|50% risk of developing [[Hematology/Acute Myeloid Leukemia\|acute myeloid leukemia]] (AML); requires chemotherapy protocol modifications due to severe toxicity.|
 |**Severe Congenital Neutropenia**|21% risk of developing AML; often preceded by granulocyte colony-stimulating factor receptor gene mutation; partial/total loss of chromosome 7 common.|
 |**Shwachman-Diamond Syndrome**|30% risk of AML development; associated with chromosome 7 abnormalities.|
 |**Other Congenital Disorders**|Diamond-Blackfan anemia, Dyskeratosis congenita, Neurofibromatosis-1, Bloom syndrome, Li-Fraumeni syndrome, Ataxia telangiectasia.|
@@ -29,7 +29,7 @@
 - **Therapy-Related AML (t-AML):** Secondary to alkylating agents, topoisomerase II inhibitors (epipodophyllotoxins), radiation.
 	- **Epipodophyllotoxins:** Induce French-American-British (FAB) M4 or M5 subtypes; involve _KMT2A_ (_MLL_) gene rearrangement (11q23); short latency (6-36 months).
 	- **Alkylating Agents:** Produce AML with poor-risk cytogenetics; longer latency (3-10 years).
-- **Preceding Hematologic Disorders:** Aplastic anemia, myelodysplastic syndrome (MDS), paroxysmal nocturnal hemoglobinuria.
+- **Preceding Hematologic Disorders:** [[Hematology/Aplastic Anemia\|Aplastic anemia]], myelodysplastic syndrome (MDS), paroxysmal nocturnal hemoglobinuria.
 - **Twin Concordance:** Identical twin faces nearly 100% concordance risk if sibling diagnosed during infancy; implies shared placental clonal origin.
 
 ## Cellular Classification
@@ -69,7 +69,7 @@
 - **Extramedullary Disease (EMD):** Occurs in 10-20% of patients. Manifests as myeloid sarcoma (chloroma), gingival hypertrophy, leukemia cutis (blueberry muffin lesions). Common in M4, M5, infant AML, and associated with t(8;21), inv(16), 11q23 rearrangements.
 - **Central Nervous System (CNS) Involvement:** Present in 5-15% at diagnosis. Higher incidence than ALL. Associated with hyperleukocytosis, M4/M5 subtypes, young age (<2 years).
 - **Hyperleukocytosis:** White blood cell (WBC) count >100,000/mm³. Myeloblasts large and non-deformable. High risk for microcirculatory leukostasis leading to pulmonary hemorrhage, hypoxia, stroke, confusion, coma.
-- **Disseminated Intravascular Coagulation (DIC):** Markedly common in M3 (APML). Severe life-threatening hemorrhage.
+- **[[Hematology/Disseminated Intravascular Coagulation\|Disseminated Intravascular Coagulation]] (DIC):** Markedly common in M3 (APML). Severe life-threatening hemorrhage.
 
 ## Diagnostic And Monitoring Studies
 

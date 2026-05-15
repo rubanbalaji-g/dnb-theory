@@ -25,7 +25,7 @@ Patients who have received 1 month or more of anti-TB drugs in the past. They ar
 
 ### A. Bacteriologically Confirmed TB
 
-A patient with TB diagnosed in a biological specimen by **smear microscopy**, **culture**, or a World Health Organization (WHO)-endorsed **rapid molecular test** (NAAT) adopted by NTEP (such as Xpert MTB/RIF® or Truenat®).
+A patient with TB diagnosed in a biological specimen by **smear microscopy**, **culture**, or a World Health Organization (WHO)-endorsed **rapid molecular test** ([[Genetics/NAAT\|NAAT]]) adopted by NTEP (such as Xpert MTB/RIF® or Truenat®).
 
 ### B. Clinically Diagnosed TB
 
@@ -69,4 +69,4 @@ A term applied when DR-TB is strongly suspected clinically, but bacteriologic co
 ### C. Severe Disease in Children (for treatment duration)
 
 - **Pulmonary:** Presence of cavities or bilateral disease on chest radiography.
-- **Extrapulmonary:** Presence of miliary TB, TB meningitis, or forms other than peripheral lymphadenopathy (e.g., pericardial, abdominal, osteoarticular).
+- **Extrapulmonary:** Presence of miliary TB, TB [[Neurology/Meningitis\|meningitis]], or forms other than peripheral lymphadenopathy (e.g., pericardial, abdominal, osteoarticular).

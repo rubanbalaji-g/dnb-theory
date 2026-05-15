@@ -21,7 +21,7 @@
 - A careful neurological evaluation (including Glasgow Coma Scale, pupillary response, and cranial nerve examination) is mandatory to establish a baseline and screen for early signs of cerebral edema.
 - Children require admission to a Pediatric Intensive Care Unit (PICU) if they are younger than 2 to 5 years, have severe DKA (pH < 7.1), exhibit an altered level of consciousness, or have a blood glucose > 1000 mg/dL.
 - A "critical sample" should be drawn immediately for baseline laboratory evaluation, including serum glucose, electrolytes, BOHB, blood urea nitrogen (BUN), creatinine, osmolality, venous blood gas, and complete blood count.
-- An electrocardiogram (ECG) must be obtained immediately to evaluate for T-wave changes associated with life-threatening hyperkalemia or hypokalemia before laboratory potassium results are available.
+- An electrocardiogram ([[Misc/ECG\|ECG]]) must be obtained immediately to evaluate for T-wave changes associated with life-threatening hyperkalemia or hypokalemia before laboratory potassium results are available.
 
 ## Algorithm for DKA Management
 
@@ -103,7 +103,7 @@ graph TD
 - The routine administration of sodium bicarbonate is strictly contraindicated.
 - Bicarbonate therapy paradoxicallly worsens central nervous system acidosis, exacerbates hypokalemia, and is an independent risk factor for the development of cerebral edema.
 - The underlying metabolic acidosis will correct physiologically with adequate fluid and insulin administration as BOHB is metabolized to regenerate endogenous bicarbonate.
-- Bicarbonate is reserved exclusively for patients with profound acidemia (pH < 6.9) associated with severe hemodynamic compromise or life-threatening hyperkalemia exhibiting ECG changes.
+- Bicarbonate is reserved exclusively for patients with profound acidemia (pH < 6.9) associated with severe hemodynamic compromise or life-threatening hyperkalemia exhibiting [[Misc/ECG\|ECG]] changes.
 
 ## Clinical and Laboratory Monitoring
 

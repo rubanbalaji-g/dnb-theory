@@ -35,7 +35,7 @@
 - seizure
 - stroke
 - breath holding spells
-- <span style="color:rgb(0, 176, 80)">pica</span>
+- <span style="color:rgb(0, 176, 80)">[[Development/Pica\|pica]]</span>
 - pagophagy 
 
 # clinical progression
@@ -77,10 +77,10 @@
 > What laboratory studies can be used to differentiate between different type of microcytic anemias
 
 ![difference between other type of anemias](https://i.ibb.co/8g50fVBZ/image.png)
-## menzter index
-- menzter index = MCV/ RBC
+## menzter [[Statistics/Index\|index]]
+- menzter [[Statistics/Index\|index]] = MCV/ RBC
 	- if >13 - IDA
-	- if <13 - Thalassemia
+	- if <13 - [[Hematology/Thalassemia\|Thalassemia]]
 
 # Prevention of anemia
 > [!Question] DNB 2018, DNB 1998
@@ -131,8 +131,8 @@
 | 4-30 days                      | increase in Hb                            |
 | 1-3 months                     | repletion of iron stores                  |
 
-# IRIDA
-- Iron resistant Iron deficiency Anemia
+# [[Hematology/IRIDA\|IRIDA]]
+- Iron resistant [[Hematology/Iron Deficiency Anemia\|Iron deficiency Anemia]]
 - AR disease
 - mutation of TMPRSS 6 gene
 - dysregualtion in hecidin

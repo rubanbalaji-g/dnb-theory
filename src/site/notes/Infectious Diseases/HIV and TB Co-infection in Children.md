@@ -37,8 +37,8 @@ The clinical presentation of TB in HIV-infected children depends on the degree o
         - **Symptom Overlap:** Chronic cough, fever, and weight loss are common to both HIV and TB, making clinical diagnosis challenging. Other HIV-related conditions like Lymphoid Interstitial Pneumonitis (LIP), bronchiectasis, and bacterial pneumonia can mimic TB.
 - **Extrapulmonary TB (EPTB):**
     - Significantly more common in HIV-infected children.
-    - Common sites: Peripheral lymph nodes, pleura, meninges (TBM), abdomen, and disseminated TB (miliary).
-    - **TB Meningitis:** HIV-infected children have a higher risk of TBM and poorer neurological outcomes.
+    - Common sites: Peripheral lymph nodes, pleura, meninges (TBM), abdomen, and [[Infectious Diseases/Disseminated TB\|disseminated TB]] (miliary).
+    - **TB [[Neurology/Meningitis\|Meningitis]]:** HIV-infected children have a higher risk of TBM and poorer neurological outcomes.
 
 ### 4. Diagnosis
 
@@ -57,9 +57,9 @@ Diagnosing TB in Children Living with HIV (CLHIV) is complex due to paucibacilla
 
 1. **Microbiological Confirmation (Priority):**
     
-    - **Specimens:** Sputum (expectorated or induced), Gastric Aspirate (GA), or Bronchoalveolar Lavage (BAL).
-    - **Nucleic Acid Amplification Tests (NAAT):**
-        - **Upfront Test of Choice:** Cartridge Based NAAT (CBNAAT/GeneXpert) or TrueNat is the preferred initial diagnostic test for all CLHIV with presumptive TB.
+    - **Specimens:** Sputum (expectorated or induced), Gastric Aspirate (GA), or [[Respiratory/Bronchoalveolar Lavage (BAL)\|Bronchoalveolar Lavage (BAL)]].
+    - **Nucleic Acid Amplification Tests ([[Genetics/NAAT\|NAAT]]):**
+        - **Upfront Test of Choice:** Cartridge Based [[Genetics/NAAT\|NAAT]] (CBNAAT/GeneXpert) or TrueNat is the preferred initial diagnostic test for all CLHIV with presumptive TB.
         - **Advantages:** Higher sensitivity than smear microscopy, detects low bacterial loads, and simultaneously detects Rifampicin resistance.
     - **Smear Microscopy:** Has poor sensitivity in HIV-infected children and is not the primary diagnostic tool.
     - **Culture (Liquid/Solid):** Gold standard; useful for drug susceptibility testing (DST) but slow.
@@ -82,7 +82,7 @@ Management requires concurrent treatment of both infections, managing drug inter
 - **Regimen:** The standard regimen for drug-sensitive TB is the same as for HIV-negative children.
     - **Intensive Phase (2 months):** Isoniazid (H) + Rifampicin (R) + Pyrazinamide (Z) + Ethambutol (E).
     - **Continuation Phase (4 months):** Isoniazid (H) + Rifampicin (R) + Ethambutol (E).
-    - **Duration:** 6 months standard; prolonged to 9-12 months for CNS, bone/joint, or disseminated TB.
+    - **Duration:** 6 months standard; prolonged to 9-12 months for CNS, bone/joint, or [[Infectious Diseases/Disseminated TB\|disseminated TB]].
 - **Dosing:** Daily therapy is mandatory. Intermittent regimens are contra-indicated in HIV-TB co-infection.
 - **Pyridoxine (Vitamin B6):** Supplementation (10 mg/day) is recommended for all HIV-TB co-infected children receiving Isoniazid to prevent peripheral neuropathy.
 
@@ -91,7 +91,7 @@ Management requires concurrent treatment of both infections, managing drug inter
 - **Timing of ART Initiation:**
     - **General Rule:** Start TB treatment first. Initiate ART as soon as tolerability is established, typically **within 2 weeks to 2 months** of starting ATT.
     - **Rationale:** Early ART reduces mortality but increases the risk of IRIS. Delaying beyond 8 weeks is associated with higher mortality.
-    - **Exception (TB Meningitis):** Delay ART initiation until **4–8 weeks** after starting ATT to reduce the risk of potentially fatal intracranial IRIS events.
+    - **Exception (TB [[Neurology/Meningitis\|Meningitis]]):** Delay ART initiation until **4–8 weeks** after starting ATT to reduce the risk of potentially fatal intracranial IRIS events.
 
 #### C. Drug Interactions and Dose Adjustments
 
@@ -133,12 +133,12 @@ Rifampicin is a potent inducer of the hepatic CYP450 enzyme system, which metabo
 
 #### B. Cotrimoxazole Preventive Therapy (CPT)
 
-- CPT prevents _Pneumocystis_ pneumonia, toxoplasmosis, malaria, and severe bacterial infections. It also reduces mortality in children with TB/HIV co-infection and should be continued as per guidelines.
+- CPT prevents _Pneumocystis_ pneumonia, toxoplasmosis, [[Infectious Diseases/Malaria\|malaria]], and severe bacterial infections. It also reduces mortality in children with TB/HIV co-infection and should be continued as per guidelines.
 
-#### C. BCG Vaccination
+#### C. [[Misc/BCG\|BCG]] Vaccination
 
 - **Recommendation:** Administer at birth to asymptomatic HIV-exposed infants in endemic areas.
-- **Contraindication:** Do **not** give BCG to infants with symptomatic HIV infection or AIDS due to the risk of disseminated BCG disease (BCGosis).
+- **Contraindication:** Do **not** give [[Misc/BCG\|BCG]] to infants with symptomatic HIV infection or AIDS due to the risk of disseminated [[Misc/BCG\|BCG]] disease (BCGosis).
 
 #### D. Infection Control
 

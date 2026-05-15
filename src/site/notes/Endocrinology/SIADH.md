@@ -16,8 +16,8 @@
 
 | Category                   | Specific Pathologies                                                                                                                                                                                                       |
 | :------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Central Nervous System** | Encephalitis, meningitis (tuberculous, bacterial), brain tumor (glioma, craniopharyngioma, germinoma), head trauma, brain malformations, hydrocephalus, Guillain-Barre syndrome, subarachnoid hemorrhage, postictal state. |
-| **Pulmonary Disorders**    | Pneumonia (viral/RSV, bacterial), tuberculosis, aspergillosis, asthma, cystic fibrosis.                                                                                                                                    |
+| **Central Nervous System** | Encephalitis, [[Neurology/Meningitis\|meningitis]] (tuberculous, bacterial), brain tumor (glioma, craniopharyngioma, germinoma), head trauma, brain malformations, [[Neurology/Hydrocephalus\|hydrocephalus]], Guillain-Barre syndrome, subarachnoid hemorrhage, postictal state. |
+| **Pulmonary Disorders**    | Pneumonia (viral/RSV, bacterial), tuberculosis, aspergillosis, [[Respiratory/Asthma\|asthma]], [[Respiratory/Cystic Fibrosis\|cystic fibrosis]].                                                                                                                                    |
 | **Malignancy**             | Thymoma, lymphoma, Ewing sarcoma, leukemia.                                                                                                                                                                                |
 | **Pharmacologic Agents**   | Carbamazepine, oxcarbazepine, chlorpropamide, cyclophosphamide, vinblastine, vincristine, cisplatin, tricyclic antidepressants (imipramine, amitriptyline), SSRIs (fluoxetine, sertraline), haloperidol.                   |
 | **Postoperative**          | Second phase of "triple-phase response" post-hypothalamic/pituitary surgery (caused by unregulated AVP release from dying neurons; lasts up to 10 days).                                                                   |
@@ -103,7 +103,7 @@ graph TD
 
 ## Differential Diagnosis
 
-|Feature|SIADH|Cerebral Salt Wasting (CSW)|Systemic Dehydration|Primary Polydipsia|
+|Feature|[[Endocrinology/SIADH\|SIADH]]|Cerebral Salt Wasting (CSW)|Systemic Dehydration|Primary Polydipsia|
 |:--|:--|:--|:--|:--|
 |**Pathophysiology**|Excess AVP action|Excess ANP/natriuretic peptides|Fluid/salt loss|Compulsive water intake|
 |**Intravascular Volume**|Normal or High|Low (Hypovolemia)|Low|Normal or High|
@@ -115,15 +115,15 @@ graph TD
 
 ## Management
 
-### Chronic, Euvolemic, or Mild SIADH
+### Chronic, Euvolemic, or Mild [[Endocrinology/SIADH\|SIADH]]
 
 - **Primary Therapy:** Strict oral fluid restriction. Limit intake to 1000 mL/m2/day (covers obligate renal solute load and insensible losses).
 - **Pharmacologic Adjuncts (if fluid restriction compromises nutrition/growth):**
-    - **Urea:** Oral administration induces safe osmotic diuresis. Highly effective in pediatric SIADH and NSIAD.
+    - **Urea:** Oral administration induces safe osmotic diuresis. Highly effective in pediatric [[Endocrinology/SIADH\|SIADH]] and NSIAD.
     - **Vaptans (Tolvaptan, Conivaptan):** Non-peptide V2 receptor antagonists (aquaretics). Produce rapid free water excretion. _Caveats:_ Not FDA approved in children. Risk of excessively rapid overcorrection, hepatotoxicity, and extreme thirst. Ineffective in NSIAD (activating V2 mutations).
     - **Demeclocycline/Lithium:** Induce nephrogenic DI. Historically used but limited in pediatrics due to significant renal and systemic toxicity.
 
-### Acute, Severe, or Symptomatic SIADH (Na <120 mEq/L with neurological compromise)
+### Acute, Severe, or Symptomatic [[Endocrinology/SIADH\|SIADH]] (Na <120 mEq/L with neurological compromise)
 
 - **Medical Emergency:** Immediate intervention required to reverse cerebral edema.
 - **Hypertonic Saline:** Administer 3% Sodium Chloride intravenously.
@@ -132,4 +132,4 @@ graph TD
     - Raise serum sodium _only_ high enough to resolve critical mental status changes.
     - Maximum correction rate: **0.5 mEq/L/hr** or **12 mEq/L/24 hr**.
     - _Complication of rapid correction:_ Central Pontine Myelinolysis (Osmotic Demyelination Syndrome). Causes irreversible axonal demyelination and permanent brain damage within 24-48 hours.
-- **Contraindications:** Avoid isotonic (0.9%) saline. Administering normal saline in SIADH frequently worsens hyponatremia because the sodium is rapidly excreted while the free water is retained.
+- **Contraindications:** Avoid isotonic (0.9%) saline. Administering normal saline in [[Endocrinology/SIADH\|SIADH]] frequently worsens hyponatremia because the sodium is rapidly excreted while the free water is retained.

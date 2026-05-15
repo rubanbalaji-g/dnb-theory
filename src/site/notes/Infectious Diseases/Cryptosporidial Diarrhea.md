@@ -48,7 +48,7 @@ The clinical presentation varies significantly based on the host's immune status
 
 ### Immunocompromised Children
 
-- **High-Risk Groups:** Children with HIV/AIDS (low CD4 counts), severe combined immunodeficiency (SCID), Hyper-IgM syndrome, and malignancies are at high risk,.
+- **High-Risk Groups:** Children with HIV/AIDS (low CD4 counts), [[Infectious Diseases/Severe Combined Immunodeficiency (SCID)\|severe combined immunodeficiency (SCID)]], Hyper-IgM syndrome, and malignancies are at high risk,.
 - **Chronic Enteritis:** In these hosts, the infection is not self-limiting. It causes severe, chronic, voluminous, cholera-like watery diarrhea that can lead to life-threatening dehydration, electrolyte imbalances, and wasting,.
 - **Extraintestinal Disease:** The parasite can spread to the biliary tract, causing sclerosing cholangitis, cholecystitis, and pancreatitis,. Respiratory tract involvement causing cough and wheezing has also been reported in children.
 

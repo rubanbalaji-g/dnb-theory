@@ -21,7 +21,7 @@
 |Disorder|Inheritance|Pathogenesis & Features|
 |:--|:--|:--|
 |**Cytochrome b5 reductase deficiency (Type 1)**|Autosomal Recessive|Enzyme deficiency restricted to erythrocytes. Chronic, ranges from asymptomatic to mildly symptomatic. Often associated with compensatory erythrocytosis.|
-|**Cytochrome b5 reductase deficiency (Type 2)**|Autosomal Recessive|Generalized enzyme deficiency in all tissues. Severe symptoms beginning in infancy: encephalopathy, intellectual impairment, spasticity, microcephaly. Usually fatal by 2 years of age.|
+|**Cytochrome b5 reductase deficiency (Type 2)**|Autosomal Recessive|Generalized enzyme deficiency in all tissues. Severe symptoms beginning in infancy: encephalopathy, intellectual impairment, spasticity, [[Neurology/Microcephaly\|microcephaly]]. Usually fatal by 2 years of age.|
 |**Hemoglobin M Disease**|Autosomal Dominant|Point mutations in $\alpha$, $\beta$, or $\gamma$ globin chains within the heme pocket. Causes cyanosis but little to no cardiorespiratory distress.|
 
 ### Acquired (Toxic) Causes
@@ -47,12 +47,12 @@
 |:--|:--|
 |**Bedside Test**|Blood sample exposed to 100% oxygen and shaken remains chocolate-brown instead of turning bright red.|
 |**Co-oximetry**|Multiwavelength co-oximetry definitively measures low blood oxygen saturation and exact MetHb percentage.|
-|**Pulse Oximetry**|Highly inaccurate; yields falsely low readings failing to reflect true degree of desaturation.|
+|**[[Emergencies/Pulse Oximetry\|Pulse Oximetry]]**|Highly inaccurate; yields falsely low readings failing to reflect true degree of desaturation.|
 |**Arterial Blood Gas**|Normal $PaO_2$; calculated oxygen saturation misleadingly normal.|
 
 ## Management
 
-### Acute Toxic Methemoglobinemia
+### Acute Toxic [[Hematology/Methemoglobinemia\|Methemoglobinemia]]
 
 - **Primary Therapy:** Intravenous Methylene Blue (1-2 mg/kg initially).
 - **Mechanism:** Utilizes alternate NADPH-dependent reduction pathway.
@@ -60,7 +60,7 @@
 - Ascorbic acid contraindicated for acute toxic events.
 - Remove offending oxidizing agent immediately.
 
-### Hereditary/Chronic Methemoglobinemia
+### Hereditary/Chronic [[Hematology/Methemoglobinemia\|Methemoglobinemia]]
 
 - **Primary Therapy:** Daily oral Ascorbic Acid (200-500 mg/day in divided doses).
 - **Mechanism:** Gradually reduces MetHb to ~10%, alleviating cyanosis.

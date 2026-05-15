@@ -4,7 +4,7 @@
 
 ## Brain CT Findings in Congenital Toxoplasmosis
 
-Congenital toxoplasmosis presents with a spectrum of neuroradiological findings depending on the timing of maternal infection and the severity of fetal involvement. The classic triad of hydrocephalus, intracranial calcifications, and chorioretinitis is highly suggestive of the diagnosis.
+Congenital toxoplasmosis presents with a spectrum of neuroradiological findings depending on the timing of maternal infection and the severity of fetal involvement. The classic triad of [[Neurology/Hydrocephalus\|hydrocephalus]], intracranial calcifications, and chorioretinitis is highly suggestive of the diagnosis.
 
 ### Intracranial Calcifications
 
@@ -12,14 +12,14 @@ Congenital toxoplasmosis presents with a spectrum of neuroradiological findings 
 - **Distribution:** Calcifications are scattered **throughout the brain** parenchyma.
     - There is a specific propensity for calcifications to develop in the **caudate nucleus**, **basal ganglia**, **choroid plexus**, and **subependyma**.
     - This scattered distribution helps distinguish toxoplasmosis from Cytomegalovirus (CMV) infection, where calcifications are characteristically periventricular.
-- **Progression:** With appropriate antimicrobial treatment during the first year of life, these calcifications may diminish or disappear. Conversely, untreated cases may show numerous calcifications associated with severe microcephaly.
+- **Progression:** With appropriate antimicrobial treatment during the first year of life, these calcifications may diminish or disappear. Conversely, untreated cases may show numerous calcifications associated with severe [[Neurology/Microcephaly\|microcephaly]].
 
-### Hydrocephalus and Ventricular Changes
+### [[Neurology/Hydrocephalus\|Hydrocephalus]] and Ventricular Changes
 
-- **Hydrocephalus:** This is a common finding, occurring in approximately 37% of cases.
+- **[[Neurology/Hydrocephalus\|Hydrocephalus]]:** This is a common finding, occurring in approximately 37% of cases.
     - It is often caused by inflammation or destruction of tissue obstructing the **aqueduct of Sylvius** or the **foramen of Monro**.
     - It may be the sole neurologic manifestation and can be present prenatally or progress during the perinatal period.
-    - Severe hydrocephalus can lead to macrocephaly and requires ventriculoperitoneal shunting,.
+    - Severe [[Neurology/Hydrocephalus\|hydrocephalus]] can lead to macrocephaly and requires ventriculoperitoneal shunting,.
 - **Ventricular Dilatation:** Mild to moderate dilatation of the lateral ventricles is frequent, even in the absence of frank obstruction.
 - **"Stiff Ventricles":** Inflammation can result in rigid ventricular walls.
 
@@ -32,11 +32,11 @@ Congenital toxoplasmosis presents with a spectrum of neuroradiological findings 
 
 ### Other Findings
 
-- **Microcephaly:** Occurs in about 12% of cases, usually reflecting severe brain damage and associated with numerous calcifications,.
+- **[[Neurology/Microcephaly\|Microcephaly]]:** Occurs in [[About\|about]] 12% of cases, usually reflecting severe brain damage and associated with numerous calcifications,.
 
-## Brain CT Findings in Neurocysticercosis (NCC)
+## Brain CT Findings in [[Infectious Diseases/Neurocysticercosis\|Neurocysticercosis]] (NCC)
 
-Neurocysticercosis is the most common parasitic infection of the CNS. CT findings depend heavily on the location of the cysts (parenchymal vs. extraparenchymal) and the evolutionary stage of the parasite (viable, degenerating, or dead).
+[[Infectious Diseases/Neurocysticercosis\|Neurocysticercosis]] is the most common parasitic infection of the CNS. CT findings depend heavily on the location of the cysts (parenchymal vs. extraparenchymal) and the evolutionary stage of the parasite (viable, degenerating, or dead).
 
 ### Stages of Parenchymal Cysts
 
@@ -70,11 +70,11 @@ The appearance of parenchymal lesions evolves through four distinct stages:
     - **CT Findings:** Diffuse cerebral edema with small, slit-like ventricles. Multiple enhancing lesions may give a **"starry sky"** appearance,.
     - **Contraindication:** Antiparasitic drugs are contraindicated in this stage as they worsen edema.
 
-### Extraparenchymal Neurocysticercosis
+### Extraparenchymal [[Infectious Diseases/Neurocysticercosis\|Neurocysticercosis]]
 
 - **Intraventricular Cysts:**
     - **Location:** Often in the 3rd or 4th ventricle.
-    - **CT Findings:** Cysts are isodense to CSF and often difficult to visualize on CT. Secondary signs like obstructive **hydrocephalus** or distortion of ventricular shape may be the only clues.
+    - **CT Findings:** Cysts are isodense to CSF and often difficult to visualize on CT. Secondary signs like obstructive **[[Neurology/Hydrocephalus\|hydrocephalus]]** or distortion of ventricular shape may be the only clues.
 - **Subarachnoid Cysts:**
     - **Racemose Cysts:** Large, multilobulated cysts (giant cysticerci >5 cm) in the Sylvian fissure or basal cisterns. They lack a scolex.
-    - **Basilar Arachnoiditis:** Abnormal enhancement of the basal meninges, often leading to communicating hydrocephalus and infarcts,.
+    - **Basilar Arachnoiditis:** Abnormal enhancement of the basal meninges, often leading to communicating [[Neurology/Hydrocephalus\|hydrocephalus]] and infarcts,.

@@ -40,7 +40,7 @@ This is the most serious complication in otherwise healthy adolescents and adult
 - **Incidence:** It occurs more frequently in adults/adolescents than in young children. Smoking is a known risk factor.
 - **Clinical Features:** Symptoms usually begin 1–6 days after the onset of the rash and include cough, dyspnea, tachypnea, fever, pleuritic chest pain, and occasionally hemoptysis.
 - **Pathology:** It is a primary viral pneumonia. Chest radiography typically shows <span style="color:rgb(0, 176, 240)">diffuse bilateral infiltrates or nodular densities</span>.
-- **Prognosis:** It can progress rapidly to respiratory failure and acute respiratory distress syndrome (ARDS). Hypoxia can be severe.
+- **Prognosis:** It can progress rapidly to respiratory failure and acute [[Neonatalogy/Respiratory Distress Syndrome\|respiratory distress syndrome]] (ARDS). Hypoxia can be severe.
 
 ### 2. Secondary Bacterial Infections
 
@@ -53,11 +53,11 @@ Superinfection of skin lesions is the most common complication in all age groups
 
 - **Encephalitis:** Occurs in approximately 1 per 50,000 cases. It manifests with altered sensorium, seizures, and nuchal rigidity. Morbidity is highest in patients older than 20 years and younger than 5 years.
 - **Cerebellar Ataxia:** Characterized by gait disturbance, nystagmus, and slurred speech. It is generally <span style="color:rgb(0, 176, 240)">self-limited</span> with a good prognosis.
-- **Other:** Transverse myelitis, [[Neuromuscular/Guillain-Barré Syndrome\|Guillain-Barré syndrome]], and aseptic meningitis.
+- **Other:** Transverse myelitis, [[Neuromuscular/Guillain-Barré Syndrome\|Guillain-Barré syndrome]], and aseptic [[Neurology/Meningitis\|meningitis]].
 
 ### 4. Other Complications
 
-- **Hematologic:** Mild thrombocytopenia with petechiae is relatively common. Rare complications include purpura fulminans (associated with protein C/S deficiency) and disseminated intravascular coagulation (DIC).
+- **Hematologic:** Mild thrombocytopenia with petechiae is relatively common. Rare complications include purpura fulminans (associated with protein C/S deficiency) and [[Hematology/Disseminated Intravascular Coagulation\|disseminated intravascular coagulation]] (DIC).
 - **Organ Involvement:** Hepatitis (usually asymptomatic enzyme elevation), myocarditis, nephritis, arthritis, and orchitis.
 
 ## Diagnosis
@@ -99,17 +99,17 @@ Adolescents with chickenpox should be excluded from school and public places unt
 
 Varicella is a vaccine-preventable disease.
 
-- **Routine:** Two doses of live-attenuated varicella vaccine are recommended.
+- **Routine:** Two doses of live-attenuated [[Misc/Varicella Vaccine\|varicella vaccine]] are recommended.
 - **Catch-up:** Adolescents with no history of varicella disease or vaccination should receive **two doses** of the vaccine. For persons aged ≥13 years, the two doses should be separated by **4–8 weeks**.
 
 ### 2. Post-Exposure Prophylaxis (PEP)
 
 If a susceptible adolescent is exposed to chickenpox:
 
-- **Vaccine:** Administration of the varicella vaccine within **3 to 5 days** of exposure is effective in preventing or modifying the severity of the disease (70–90% effective). This is the preferred method for immunocompetent adolescents.
+- **Vaccine:** Administration of the [[Misc/Varicella Vaccine\|varicella vaccine]] within **3 to 5 days** of exposure is effective in preventing or modifying the severity of the disease (70–90% effective). This is the preferred method for immunocompetent adolescents.
 - **Varicella-Zoster Immune Globulin (VariZIG):** Generally reserved for high-risk individuals (immunocompromised, pregnant women, newborns) who cannot receive the live vaccine. It should be given as soon as possible, ideally within 96 hours (up to 10 days) of exposure.
 - **Oral Acyclovir/Valacyclovir:** Prophylaxis with antivirals starting late in the incubation period (e.g., day 7 after exposure) may modify disease but is not universally recommended as a standard public health measure compared to vaccination.
 
 ## Prognosis
 
-With timely diagnosis and appropriate antiviral therapy, the prognosis for adolescents with uncomplicated chickenpox is good. However, the mortality rate in unvaccinated adults and adolescents remains approximately 25 times higher than in children aged 1–4 years, primarily due to respiratory and CNS complications. Therefore, a high index of suspicion for complications and prompt initiation of acyclovir/valacyclovir are standard of care for this age group.
+With timely diagnosis and appropriate antiviral therapy, the prognosis for adolescents with uncomplicated chickenpox is good. However, the mortality rate in unvaccinated adults and adolescents remains approximately 25 times higher than in children aged 1–4 years, primarily due to respiratory and CNS complications. Therefore, a high [[Statistics/Index\|index]] of suspicion for complications and prompt initiation of acyclovir/valacyclovir are standard of care for this age group.

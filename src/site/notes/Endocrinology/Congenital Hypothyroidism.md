@@ -39,7 +39,7 @@ Defect in hypothalamus or pituitary.
 - Incidence: 1:16,000 to 1:30,000.
 - Pathophysiology: Deficient TSH stimulation.
 - Associated features: Midline facial defects, hypoglycemia, micropenis, cryptorchidism, prolonged jaundice (suggests multiple pituitary hormone deficiencies).
-- Undetected by isolated TSH newborn screening; requires T4-primary screening or clinical suspicion.
+- Undetected by isolated TSH [[Neonatalogy/Newborn Screening\|newborn screening]]; requires T4-primary screening or clinical suspicion.
 
 ### Peripheral / Consumptive Hypothyroidism
 
@@ -67,7 +67,7 @@ Autosomal recessive inheritance.
 |Gene|Affected Protein|Pathophysiology & Diagnosis|
 |:--|:--|:--|
 |_**SLC5A5**_|Sodium-Iodide Symporter (NIS)|Defective iodide trapping. Low scintigraphy uptake. Low saliva:serum 123I ratio.|
-|_**SLC26A4**_|Pendrin|Defective apical transport. **Pendred Syndrome:** Goiter + sensorineural deafness.|
+|_**SLC26A4**_|Pendrin|Defective apical transport. **[[Endocrinology/Pendred Syndrome\|Pendred Syndrome]]:** Goiter + sensorineural deafness.|
 |_**TPO**_|Thyroperoxidase|Most common defect. Defective organification/coupling. High radioiodine uptake; positive perchlorate discharge.|
 |_**DUOX2 / DUOXA2**_|Dual Oxidase 2 System|Defective H2O2 generation. Variable severity, permanent or transient.|
 |_**TG**_|Thyroglobulin|Defective synthesis. Goitrous CH with low/absent serum Tg.|
@@ -97,7 +97,7 @@ Autosomal recessive inheritance.
 
 ## Diagnostic Evaluation
 
-### Newborn Screening (NBS)
+### [[Neonatalogy/Newborn Screening\|Newborn Screening]] (NBS)
 
 - **Timing:** Dried Blood Spot (DBS) collected via heelprick on filter paper at 2-4 days of life (avoiding initial 24-hour physiological TSH surge).
 - **Strategies:**
@@ -146,7 +146,7 @@ Autosomal recessive inheritance.
 ### Special Considerations
 
 - **Transient CH:** Re-evaluate at 3 years of age. Withdraw L-T4 for 4 weeks; if TSH rises, permanent CH is confirmed; if normal, treatment is discontinued.
-- **Central CH:** Do not use TSH for monitoring. Adjust L-T4 dose solely based on maintaining FT4 in upper half of normal range. Ensure cortisol sufficiency prior to initiating L-T4 to avert adrenal crisis.
+- **Central CH:** Do not use TSH for monitoring. Adjust L-T4 dose solely based on maintaining FT4 in upper half of normal range. Ensure cortisol sufficiency prior to initiating L-T4 to avert [[Endocrinology/Adrenal Crisis\|adrenal crisis]].
 - **Pregnancy & Genetic Counseling:** Parents of children with dyshormonogenesis (AR) must be counseled on 25% recurrence risk.
 
 ## Prognosis

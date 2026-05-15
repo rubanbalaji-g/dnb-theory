@@ -4,7 +4,7 @@
 
 ## Introduction
 
-Tuberculosis (TB) of the central nervous system (CNS) is the most severe and life-threatening form of tuberculosis in children. It accounts for approximately 1% of all cases of TB but is responsible for a disproportionately high rate of mortality and long-term neurological morbidity. In high-burden countries like India, CNS TB remains a significant public health challenge. It encompasses three main clinical entities: **Tuberculous Meningitis (TBM)**, **Intracranial Tuberculomas**, and **Spinal Tuberculous Arachnoiditis**. TBM is most common in children between 6 months and 4 years of age but can occur at any age.
+Tuberculosis (TB) of the central nervous system (CNS) is the most severe and life-threatening form of tuberculosis in children. It accounts for approximately 1% of all cases of TB but is responsible for a disproportionately high rate of mortality and long-term neurological morbidity. In high-burden countries like India, [[Infectious Diseases/CNS TB\|CNS TB]] remains a significant public health challenge. It encompasses three main clinical entities: **Tuberculous [[Neurology/Meningitis\|Meningitis]] (TBM)**, **Intracranial Tuberculomas**, and **Spinal Tuberculous Arachnoiditis**. TBM is most common in children between 6 months and 4 years of age but can occur at any age.
 
 ## Pathogenesis
 
@@ -17,13 +17,13 @@ CNS tuberculosis is almost always a result of hematogenous dissemination from a 
 
 **Pathological Triad:**
 
-- **Adhesive Arachnoiditis:** The thick exudate accumulates primarily at the base of the brain (basal cisterns), obstructing cerebrospinal fluid (CSF) flow and absorption, leading to **communicating hydrocephalus**. It also encases cranial nerves (III, VI, VII, and II), causing palsies.
+- **Adhesive Arachnoiditis:** The thick exudate accumulates primarily at the base of the brain (basal cisterns), obstructing cerebrospinal fluid (CSF) flow and absorption, leading to **communicating [[Neurology/Hydrocephalus\|hydrocephalus]]**. It also encases cranial nerves (III, VI, VII, and II), causing palsies.
 - **Vasculitis:** The exudate infiltrates the adventitia of cerebral blood vessels (infectious vasculitis), causing inflammation, spasm, thrombosis, and occlusion. This leads to **cerebral infarctions** (strokes), most commonly affecting the basal ganglia and internal capsule.
-- **Cerebral Edema:** A combination of cytotoxic edema (from ischemia) and interstitial edema (from hydrocephalus) contributes to raised intracranial pressure (ICP) and brain damage,.
+- **Cerebral Edema:** A combination of cytotoxic edema (from ischemia) and interstitial edema (from [[Neurology/Hydrocephalus\|hydrocephalus]]) contributes to raised intracranial pressure (ICP) and brain damage,.
 
 ## Clinical Manifestations
 
-### 1. Tuberculous Meningitis (TBM)
+### 1. Tuberculous [[Neurology/Meningitis\|Meningitis]] (TBM)
 
 The onset is usually insidious, progressing over 2–3 weeks, though it can be rapid in infants. The clinical course is classically divided into three stages, which have significant prognostic value,.
 
@@ -44,7 +44,7 @@ This is a rare complication where the gelatinous exudate encases the spinal cord
 
 ## Diagnosis
 
-Diagnosis of pediatric CNS TB is challenging due to the paucibacillary nature of the disease and nonspecific symptoms. A high index of suspicion is required.
+Diagnosis of pediatric [[Infectious Diseases/CNS TB\|CNS TB]] is challenging due to the paucibacillary nature of the disease and nonspecific symptoms. A high [[Statistics/Index\|index]] of suspicion is required.
 
 ### 1. Clinical Criteria and History
 
@@ -65,19 +65,19 @@ Lumbar puncture is the cornerstone of diagnosis (contraindicated if there are si
 
 - **Smear Microscopy (ZN Stain):** Sensitivity is low (<10–15%) in children. Examining large volumes of CSF (5–10 mL) and centrifuging can improve yield.
 - **Culture (MGIT/LJ):** The gold standard but takes weeks.
-- **Nucleic Acid Amplification Tests (NAAT):**
-    - **Cartridge-Based NAAT (CBNAAT/GeneXpert/TrueNat):** NTEP guidelines recommend **Upfront NAAT** on CSF for all suspected TBM cases.
-    - Sensitivity is moderate (~30–60%) but Specificity is very high (98–100%). A positive Xpert result confirms TBM and detects Rifampicin resistance. However, **a negative NAAT does not rule out TBM**,.
+- **Nucleic Acid Amplification Tests ([[Genetics/NAAT\|NAAT]]):**
+    - **Cartridge-Based [[Genetics/NAAT\|NAAT]] (CBNAAT/GeneXpert/TrueNat):** NTEP guidelines recommend **Upfront [[Genetics/NAAT\|NAAT]]** on CSF for all suspected TBM cases.
+    - Sensitivity is moderate (~30–60%) but Specificity is very high (98–100%). A positive Xpert result confirms TBM and detects Rifampicin resistance. However, **a negative [[Genetics/NAAT\|NAAT]] does not rule out TBM**,.
 
 ### 4. Neuroimaging
 
 **Contrast-Enhanced CT (CECT) or MRI** of the brain is essential. MRI is more sensitive than CT,.
 
 - **Basal Meningeal Enhancement:** Thick, enhancing exudates in the basal cisterns. This is a pathognomonic feature,.
-- **Hydrocephalus:** Communicating type (ventricular dilatation with basal exudates).
+- **[[Neurology/Hydrocephalus\|Hydrocephalus]]:** Communicating type (ventricular dilatation with basal exudates).
 - **Infarcts:** Typically in the "tubercular zone" (basal ganglia, thalamus, internal capsule) due to lenticulostriate arteritis.
 - **Tuberculomas:** Ring-enhancing lesions with perilesional edema.
-    - _Differentiation from Neurocysticercosis (NCC):_ Tuberculomas are usually larger (>2 cm), irregular, have thick enhancement, and may show a "lipid peak" on MR Spectroscopy. NCC lesions are smaller (<2 cm), round, thin-walled, and may show a scolex.
+    - _Differentiation from [[Infectious Diseases/Neurocysticercosis\|Neurocysticercosis]] (NCC):_ Tuberculomas are usually larger (>2 cm), irregular, have thick enhancement, and may show a "lipid peak" on MR Spectroscopy. NCC lesions are smaller (<2 cm), round, thin-walled, and may show a scolex.
 
 ### 5. Supportive Evidence
 
@@ -89,21 +89,21 @@ Lumbar puncture is the cornerstone of diagnosis (contraindicated if there are si
 
 If a child presents with insidious fever and neurological symptoms:
 
-1. Perform Lumbar Puncture (CSF analysis + NAAT) and Neuroimaging.
-2. **If CSF NAAT Positive:** Treat as Confirmed TBM.
-3. **If CSF NAAT Negative:** Evaluate based on criteria:
+1. Perform Lumbar Puncture (CSF analysis + [[Genetics/NAAT\|NAAT]]) and Neuroimaging.
+2. **If CSF [[Genetics/NAAT\|NAAT]] Positive:** Treat as Confirmed TBM.
+3. **If CSF [[Genetics/NAAT\|NAAT]] Negative:** Evaluate based on criteria:
     - Clinical features (>5 days symptoms, focal deficits).
     - CSF findings (Lymphocytosis, Low sugar, High protein).
-    - Imaging (Basal enhancement, Hydrocephalus, Tuberculoma).
+    - Imaging (Basal enhancement, [[Neurology/Hydrocephalus\|Hydrocephalus]], Tuberculoma).
     - Risk factors (Contact history, HIV, SAM).
     - If $\ge$ 2 criteria met (or strong clinical suspicion): Start TBM Treatment.
 
 ## Differential Diagnosis
 
-- **Partially Treated Pyogenic Meningitis:** CSF may show lymphocytes and low sugar, but glucose is usually not as low as TBM, and gram stain/culture may help.
+- **Partially Treated Pyogenic [[Neurology/Meningitis\|Meningitis]]:** CSF may show lymphocytes and low sugar, but glucose is usually not as low as TBM, and gram stain/culture may help.
 - **Viral Meningoencephalitis:** CSF sugar is usually normal. Onset is more acute. MRI shows temporal lobe involvement (HSV) or thalamic lesions (JE),.
-- **Cryptococcal Meningitis:** In immunocompromised children; India ink/Antigen test positive.
-- **Neurocysticercosis:** Differentiated by neuroimaging features (scolex, size) and serology.
+- **Cryptococcal [[Neurology/Meningitis\|Meningitis]]:** In immunocompromised children; India ink/Antigen test positive.
+- **[[Infectious Diseases/Neurocysticercosis\|Neurocysticercosis]]:** Differentiated by neuroimaging features (scolex, size) and serology.
 
 ## Management
 
@@ -139,12 +139,12 @@ Steroids are **strongly recommended** in TBM and Tuberculomas with edema.
 
 ### 3. Management of Complications
 
-- **Hydrocephalus:**
-    - **Medical:** Acetazolamide/Furosemide may be tried for mild communicating hydrocephalus (limited efficacy).
-    - **Surgical:** Ventriculoperitoneal (VP) shunt is indicated for non-communicating hydrocephalus or failure of medical management. It significantly improves outcomes.
+- **[[Neurology/Hydrocephalus\|Hydrocephalus]]:**
+    - **Medical:** Acetazolamide/Furosemide may be tried for mild communicating [[Neurology/Hydrocephalus\|hydrocephalus]] (limited efficacy).
+    - **Surgical:** Ventriculoperitoneal (VP) shunt is indicated for non-communicating [[Neurology/Hydrocephalus\|hydrocephalus]] or failure of medical management. It significantly improves outcomes.
 - **Raised Intracranial Pressure (ICP):** Mannitol or hypertonic saline, head elevation, and ventilatory support if comatose.
-- **Hyponatremia:** Common due to **SIADH** (Syndrome of Inappropriate ADH secretion) or **CSW** (Cerebral Salt Wasting).
-    - SIADH: Fluid restriction.
+- **Hyponatremia:** Common due to **[[Endocrinology/SIADH\|SIADH]]** (Syndrome of Inappropriate ADH secretion) or **CSW** (Cerebral Salt Wasting).
+    - [[Endocrinology/SIADH\|SIADH]]: Fluid restriction.
     - CSW: Aggressive fluid and salt replacement. Correct identification is vital as treatments are opposite,.
 - **Seizures:** Treat with anticonvulsants (Levetiracetam is preferred; Phenytoin/Carbamazepine induce hepatic enzymes and may lower Rifampicin levels, requiring dose adjustments).
 
@@ -163,10 +163,10 @@ The outcome depends primarily on the **stage of disease** at the start of treatm
 - **Sequelae:** Occur in 1/3rd of survivors.
     - **Neurological:** Hemiplegia, quadriplegia, dystonia, cranial nerve palsies.
     - **Sensory:** Blindness (optic atrophy), deafness (drug toxicity or disease).
-    - **Cognitive:** Intellectual disability, behavioral problems, ADHD,.
+    - **Cognitive:** Intellectual disability, behavioral problems, [[Development/ADHD\|ADHD]],.
 
 ## Prevention
 
-- **BCG Vaccination:** Provides significant protection (up to 80%) against severe forms of childhood TB like TBM and miliary TB.
+- **[[Misc/BCG\|BCG]] Vaccination:** Provides significant protection (up to 80%) against severe forms of childhood TB like TBM and miliary TB.
 - **TB Preventive Treatment (TPT):** Contact tracing of all pulmonary TB patients. Children <5 years exposed to active TB must receive TPT (Isoniazid) after ruling out active disease to prevent progression to TBM,.
 

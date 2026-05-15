@@ -4,7 +4,7 @@
 
 ### 1. Introduction
 
-Enteric fever, caused by _Salmonella enterica_ serovar Typhi (_S._ Typhi) and _Paratyphi_, remains a significant global health burden. The management of this condition has been increasingly complicated by the evolution of antimicrobial resistance. The emergence of Multidrug-Resistant (MDR) strains and subsequent fluoroquinolone resistance (NARST) represents a major therapeutic challenge, particularly in developing regions like the Indian subcontinent.
+[[Infectious Diseases/Enteric Fever\|Enteric fever]], caused by _Salmonella enterica_ serovar Typhi (_S._ Typhi) and _Paratyphi_, remains a significant global health burden. The management of this condition has been increasingly complicated by the evolution of antimicrobial resistance. The emergence of Multidrug-Resistant (MDR) strains and subsequent fluoroquinolone resistance (NARST) represents a major therapeutic challenge, particularly in developing regions like the Indian subcontinent.
 
 ### 2. Definitions
 

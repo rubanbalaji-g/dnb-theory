@@ -4,7 +4,7 @@
 
 ### 1. Introduction
 
-The Widal test, developed in 1896, remains a widely used serological method for diagnosing enteric fever (typhoid and paratyphoid) in developing countries due to its low cost and simplicity. It measures agglutinating antibody levels against the **O (somatic)** and **H (flagellar)** antigens of _Salmonella enterica_ serotype Typhi, and usually the H antigens of _S._ Paratyphi A and B.
+The Widal test, developed in 1896, remains a widely used serological method for diagnosing [[Infectious Diseases/Enteric Fever\|enteric fever]] (typhoid and paratyphoid) in developing countries due to its low cost and simplicity. It measures agglutinating antibody levels against the **O (somatic)** and **H (flagellar)** antigens of _Salmonella enterica_ serotype Typhi, and usually the H antigens of _S._ Paratyphi A and B.
 
 However, the interpretation of the Widal test is notoriously difficult and fraught with limitations, particularly in endemic areas and in children who have been immunized against typhoid. Understanding these limitations is crucial for accurate clinical decision-making.
 
@@ -40,14 +40,14 @@ Vaccination introduces specific antigens to the immune system, provoking an anti
 
 #### D. Vi-Conjugate Vaccines (TCV)
 
-- **Composition:** Vi polysaccharide conjugated to a carrier protein (e.g., Tetanus Toxoid).
+- **Composition:** Vi polysaccharide conjugated to a carrier protein (e.g., [[Misc/Tetanus Toxoid\|Tetanus Toxoid]]).
 - **Effect on Widal:** Similar to the polysaccharide vaccine, it targets the Vi antigen. It does not typically induce O or H agglutinins.
 
 ### 4. Anamnestic Reactions
 
 An "anamnestic response" is a critical concept in interpreting Widal tests in immunized children or those from endemic areas.
 
-- **Mechanism:** In a child with prior immunity (from vaccination or past infection), a febrile illness caused by an unrelated organism (e.g., malaria, dengue, influenza) can stimulate a transient, non-specific rise in pre-existing _Salmonella_ antibody titers.
+- **Mechanism:** In a child with prior immunity (from vaccination or past infection), a febrile illness caused by an unrelated organism (e.g., [[Infectious Diseases/Malaria\|malaria]], [[Infectious Diseases/Dengue\|dengue]], influenza) can stimulate a transient, non-specific rise in pre-existing _Salmonella_ antibody titers.
 - **Result:** This leads to a **false-positive** Widal test. The immune system "remembers" the old antigens and boosts antibodies non-specifically during a new stress/infection.
 
 ### 5. Challenges and Recommendations

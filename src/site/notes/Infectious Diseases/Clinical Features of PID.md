@@ -6,7 +6,7 @@
 
 - Primary immune deficiency diseases (PIDDs) typically present with recurrent, severe, or unusually located infections, or infections caused by opportunistic pathogens.
 - General clinical red flags mandating an immunologic evaluation include a high burden of infections, fever without a clear focus, severe periodontitis, poor formation of pus at infection sites, and unusual inflammatory or autoimmune diseases.
-- Children experiencing adverse, systemic reactions to live attenuated virus vaccines, such as rotavirus, varicella, measles-mumps-rubella (MMR), or the bacille Calmette-Guérin (BCG) vaccine, must be heavily suspected of having an underlying cellular immune defect.
+- Children experiencing adverse, systemic reactions to live attenuated virus vaccines, such as rotavirus, varicella, measles-mumps-rubella (MMR), or the bacille Calmette-Guérin ([[Misc/BCG\|BCG]]) vaccine, must be heavily suspected of having an underlying cellular immune defect.
 - The presence of severe failure to thrive, a family history of immunodeficiency, or consanguinity significantly increases the clinical suspicion for a PIDD.
 
 ## B-Cell (Humoral and Antibody) Deficiencies
@@ -16,22 +16,22 @@
 - Humoral immunodeficiencies are characterized by recurrent bacterial sinopulmonary infections, including otitis media, sinusitis, and pneumonia, typically driven by encapsulated organisms such as _Streptococcus pneumoniae_ and _Haemophilus influenzae_, as well as _Mycoplasma_ species.
 - Patients exhibit a high susceptibility to gastrointestinal pathogens, manifesting as [[Gastrointestinal/Chronic Diarrhea\|chronic diarrhea]] and malabsorption caused by Enteroviruses, _Salmonella_, _Campylobacter_, _Giardia lamblia_, and norovirus.
 - Physical examination may reveal a complete absence of tonsils and palpable lymph nodes, or conversely, severe lymphadenopathy and splenomegaly depending on the specific defect.
-- These defects are highly associated with autoimmune diseases, including immune thrombocytopenia, autoimmune hemolytic anemia, autoimmune neutropenia, and inflammatory bowel disease.
+- These defects are highly associated with autoimmune diseases, including immune thrombocytopenia, [[Hematology/Autoimmune Hemolytic Anemia\|autoimmune hemolytic anemia]], autoimmune neutropenia, and inflammatory bowel disease.
 
-### X-Linked Agammaglobulinemia (XLA)
+### [[Infectious Diseases/X-Linked Agammaglobulinemia (XLA)\|X-Linked Agammaglobulinemia (XLA)]]
 
 - Male infants with XLA typically remain asymptomatic for the first 6 to 9 months of life due to the protective effect of maternally transmitted IgG.
-- Following the waning of maternal antibodies, patients develop severe recurrent pyogenic infections, purulent conjunctivitis, pyoderma, and potentially life-threatening _Pseudomonas_ sepsis and meningitis.
+- Following the waning of maternal antibodies, patients develop severe recurrent pyogenic infections, purulent conjunctivitis, pyoderma, and potentially life-threatening _Pseudomonas_ sepsis and [[Neurology/Meningitis\|meningitis]].
 - Patients exhibit a profound absence of circulating B cells, resulting in characteristically small or completely absent tonsils and unpalpable lymph nodes.
 - There is a uniquely high risk for chronic, fatal central nervous system infections caused by echoviruses and coxsackieviruses (enteroviral meningoencephalitis).
-- Administration of the live attenuated oral polio vaccine can result in vaccine-associated paralytic poliomyelitis.
+- Administration of the live attenuated [[Misc/Oral Polio Vaccine\|oral polio vaccine]] can result in vaccine-associated [[Neuromuscular/Paralytic Poliomyelitis\|paralytic poliomyelitis]].
 - Long-term non-infectious complications include severe bronchiectasis and an inflammatory bowel disease-like enteropathy.
 
 ### Common Variable Immunodeficiency (CVID)
 
 - CVID typically presents later in life, mostly before age 20, with recurrent sinopulmonary infections leading to irreversible airway damage and bronchiectasis.
 - Unlike XLA, patients with CVID often possess normal-sized or enlarged tonsils and lymph nodes, and approximately 25% develop prominent splenomegaly.
-- Autoimmune and inflammatory complications are hallmarks of CVID, presenting as alopecia areata, pernicious anemia, autoimmune hemolytic anemia, and thrombocytopenia.
+- Autoimmune and inflammatory complications are hallmarks of CVID, presenting as alopecia areata, pernicious anemia, [[Hematology/Autoimmune Hemolytic Anemia\|autoimmune hemolytic anemia]], and thrombocytopenia.
 - Patients frequently develop a spruelike enteropathy with or without nodular lymphoid hyperplasia of the intestine.
 - CVID is strongly associated with the development of noncaseating sarcoid-like granulomas affecting the lungs (granulomatous and lymphocytic interstitial lung disease), spleen, skin, and liver, as well as a heightened risk for B-cell lymphomas and gastric atrophy.
 
@@ -45,20 +45,20 @@
 
 ### General Clinical Features
 
-- Combined defects present with systemic, life-threatening illnesses following vaccination with any live virus or BCG.
+- Combined defects present with systemic, life-threatening illnesses following vaccination with any live virus or [[Misc/BCG\|BCG]].
 - Patients display a profound susceptibility to opportunistic organisms, including _Pneumocystis jirovecii_, _Mycobacterium avium-intracellulare_, and severe, fulminant infections with common viruses like Epstein-Barr virus (EBV) and cytomegalovirus (CMV).
 - Chronic, recalcitrant oral and mucocutaneous candidiasis persisting beyond 6 months of age is a classic hallmark.
 - Affected infants typically present with profound failure to thrive, intractable [[Gastrointestinal/Chronic Diarrhea\|chronic diarrhea]], and absent lymphoid tissue, including a radiographically small or absent thymus.
 
-### Severe Combined Immunodeficiency (SCID)
+### [[Infectious Diseases/Severe Combined Immunodeficiency (SCID)\|Severe Combined Immunodeficiency (SCID)]]
 
 - Infants with SCID present within the first few months of life with severe diarrhea, pneumonia, otitis media, and sepsis, often driven by opportunistic pathogens like _Pneumocystis jirovecii_ and _Candida albicans_.
-- Disseminated BCG infection is a frequent presenting feature in regions where the vaccine is administered at birth.
+- Disseminated [[Misc/BCG\|BCG]] infection is a frequent presenting feature in regions where the vaccine is administered at birth.
 - Because patients lack the cellular immunity to reject foreign tissue, they are uniquely at risk for severe, fatal graft-versus-host disease (GVHD) caused by maternal T lymphocytes crossing the placenta, which presents with erythroderma, hepatosplenomegaly, and diarrhea.
 - Omenn syndrome, a specific variant caused by hypomorphic SCID mutations, clinically mimics GVHD and presents with severe generalized erythroderma, scaling skin, alopecia, massive lymphadenopathy, eosinophilia, and intractable diarrhea caused by the unregulated expansion of autoreactive infant T cells.
 - Specific genetic subtypes present with unique physical features, such as reticular dysgenesis, which is characterized by the combination of SCID, severe neutropenia, and congenital deafness.
 
-### DiGeorge Syndrome (22q11.2 Deletion Syndrome)
+### [[Genetics/DiGeorge Syndrome (22q11.2 Deletion Syndrome)\|DiGeorge Syndrome (22q11.2 Deletion Syndrome)]]
 
 - The immunodeficiency is secondary to thymic hypoplasia or complete aplasia, leading to variable T-cell lymphopenia.
 - Patients typically present with conotruncal congenital heart defects (e.g., right-sided aortic arch, ventricular septal defects).
@@ -66,12 +66,12 @@
 - Characteristic facial dysmorphism includes microstomia, a short philtrum, hypertelorism, an antimongoloid slant to the eyes, mandibular hypoplasia, and posteriorly rotated, low-set ears.
 - Other structural midline defects include esophageal atresia, cleft palate, and a bifid uvula.
 
-### Wiskott-Aldrich Syndrome (WAS)
+### [[Infectious Diseases/Wiskott-Aldrich Syndrome (WAS)\|Wiskott-Aldrich Syndrome (WAS)]]
 
 - WAS is an X-linked recessive disorder characterized by a classic clinical triad: severe atopic dermatitis (eczema), increased susceptibility to recurrent pyogenic infections, and congenital thrombocytopenia.
 - Bleeding manifestations present very early in infancy as prolonged bleeding from the circumcision site, bloody diarrhea, and petechiae.
 - The thrombocytopenia is characterized by structurally small, defective platelets.
-- Patients have a marked predisposition to developing autoimmune hemolytic anemia and EBV-associated lymphoreticular malignancies later in childhood.
+- Patients have a marked predisposition to developing [[Hematology/Autoimmune Hemolytic Anemia\|autoimmune hemolytic anemia]] and EBV-associated lymphoreticular malignancies later in childhood.
 
 ### Hyper-IgE Syndrome (Job Syndrome)
 
@@ -95,7 +95,7 @@
 - Patients frequently suffer from severe periodontitis, gingivitis, delayed umbilical cord separation, and poor wound healing.
 - Non-infectious granulomatous infiltrations and inflammatory bowel disease are common.
 
-### Chronic Granulomatous Disease (CGD)
+### [[Infectious Diseases/Chronic Granulomatous Disease (CGD)\|Chronic Granulomatous Disease (CGD)]]
 
 - CGD is characterized by an inability of phagocytes to generate a microbicidal respiratory burst, leading to susceptibility to catalase-positive organisms like _Staphylococcus aureus_, _Burkholderia cepacia_, _Serratia marcescens_, _Nocardia_, and _Aspergillus_ species.
 - Patients present with recurrent suppurative lymphadenitis, deep hepatic or subcutaneous abscesses, and multilocular osteomyelitis.
@@ -125,7 +125,7 @@
 
 - Deficiencies in the early classical pathway are uniquely characterized by a high incidence of severe autoimmune connective tissue diseases.
 - Patients frequently present with severe, early-onset systemic lupus erythematosus (SLE) before 5 years of age, often accompanied by membranoproliferative glomerulonephritis.
-- Affected individuals also demonstrate an increased susceptibility to recurrent, life-threatening septicemic illnesses and meningitis caused by encapsulated bacteria such as _Streptococcus pneumoniae_ and _Haemophilus influenzae_.
+- Affected individuals also demonstrate an increased susceptibility to recurrent, life-threatening septicemic illnesses and [[Neurology/Meningitis\|meningitis]] caused by encapsulated bacteria such as _Streptococcus pneumoniae_ and _Haemophilus influenzae_.
 
 ### Terminal Pathway Deficiencies (C5–C9) and Properdin Deficiency
 
@@ -149,11 +149,11 @@
 - Early-onset, severe autoimmune endocrinopathies are a hallmark, universally manifesting as insulin-dependent diabetes mellitus in infancy, alongside severe thyroiditis (hypothyroidism or hyperthyroidism).
 - Patients demonstrate massively elevated serum IgE levels and severe food allergies.
 
-### Autoimmune Lymphoproliferative Syndrome (ALPS)
+### [[Infectious Diseases/Autoimmune Lymphoproliferative Syndrome (ALPS)\|Autoimmune Lymphoproliferative Syndrome (ALPS)]]
 
 - ALPS is caused by defective lymphocyte apoptosis and presents with massive, chronic, nonmalignant lymphadenopathy that is clinically visible and persistent.
 - Patients demonstrate massive splenomegaly (leading to hypersplenism) and hepatomegaly.
-- Severe, multilineage autoimmune cytopenias are central to the disease, frequently presenting as Evans syndrome (concurrent autoimmune hemolytic anemia and immune thrombocytopenic purpura) alongside autoimmune neutropenia.
+- Severe, multilineage autoimmune cytopenias are central to the disease, frequently presenting as Evans syndrome (concurrent [[Hematology/Autoimmune Hemolytic Anemia\|autoimmune hemolytic anemia]] and immune thrombocytopenic purpura) alongside autoimmune neutropenia.
 - There is a lifelong, significantly elevated risk for the development of Hodgkin and non-Hodgkin lymphomas.
 
 ### Hemophagocytic Lymphohistiocytosis (HLH)

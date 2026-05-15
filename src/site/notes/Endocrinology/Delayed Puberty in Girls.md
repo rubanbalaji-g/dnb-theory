@@ -20,20 +20,20 @@ Characterized by absent or diminished gonadotropin secretion from hypothalamic-p
 - **Constitutional Delay of Growth and Puberty (CDGP):** Extreme variant of normal pubertal timing. Strong genetic basis.
 - **Nutritional Disorders:** Malnutrition, anorexia nervosa, bulimia, undernutrition.
 - **Exercise-Induced:** Athletic amenorrhea (excessive physical training/energy deficit).
-- **Systemic Chronic Illness:** Renal failure, liver disease, [[Gastrointestinal/Celiac disease\|celiac disease]], inflammatory bowel disease, cystic fibrosis, thalassemia, sickle cell disease, renal tubular acidosis.
-- **Endocrinopathies:** Hypothyroidism, hyperprolactinemia, poorly controlled Type 1 Diabetes Mellitus, Cushing syndrome.
+- **Systemic Chronic Illness:** Renal failure, liver disease, [[Gastrointestinal/Celiac disease\|celiac disease]], inflammatory bowel disease, [[Respiratory/Cystic Fibrosis\|cystic fibrosis]], [[Hematology/Thalassemia\|thalassemia]], [[Hematology/Sickle Cell Disease\|sickle cell disease]], renal tubular acidosis.
+- **Endocrinopathies:** Hypothyroidism, hyperprolactinemia, poorly controlled Type 1 Diabetes Mellitus, [[Endocrinology/Cushing Syndrome\|Cushing syndrome]].
 
 #### Permanent / Isolated (Irreversible)
 
-- **Isolated Hypogonadotropic Hypogonadism (IHH) & Kallmann Syndrome:** Defective GnRH synthesis, secretion, or receptor action. Anosmia/hyposmia present in Kallmann syndrome.
+- **Isolated Hypogonadotropic Hypogonadism (IHH) & [[Endocrinology/Kallmann Syndrome\|Kallmann Syndrome]]:** Defective GnRH synthesis, secretion, or receptor action. Anosmia/hyposmia present in [[Endocrinology/Kallmann Syndrome\|Kallmann syndrome]].
 - **Genetic Mutations:** _KAL1 (ANOS1)_, _FGFR1_, _FGF8_, _PROK2_, _PROKR2_, _CHD7_, _GNRH1_, _GNRHR_, _KISS1_, _KISS1R_, _TAC3_, _TACR3_.
 - **Multiple Pituitary Hormone Deficiencies:**
     - _Malformations:_ Holoprosencephaly, septo-optic dysplasia, midline facial defects.
     - _Genetic:_ _PROP1_, _HESX1_, _LHX3_, _SOX2_ mutations.
 - **Acquired Central Nervous System (CNS) Lesions:**
     - _Tumors:_ Craniopharyngioma, germinoma, astrocytoma, optic glioma.
-    - _Injury:_ Cranial irradiation, neurosurgery, head trauma, postinfectious (meningitis, encephalitis).
-    - _Infiltrative:_ Langerhans cell histiocytosis, autoimmune hypophysitis.
+    - _Injury:_ Cranial irradiation, neurosurgery, head trauma, postinfectious ([[Neurology/Meningitis\|meningitis]], encephalitis).
+    - _Infiltrative:_ [[Hematology/Langerhans Cell Histiocytosis\|Langerhans cell histiocytosis]], autoimmune hypophysitis.
 - **Dysmorphic Syndromes:** CHARGE syndrome, Prader-Willi syndrome, Laurence-Moon syndrome, Bardet-Biedl syndrome.
 
 ### Hypergonadotropic Hypogonadism (Elevated FSH & LH)
@@ -42,7 +42,7 @@ Characterized by primary gonadal failure. Lack of sex steroid production elimina
 
 |Category|Specific Etiology|Pathophysiology & Features|
 |:--|:--|:--|
-|**Chromosomal**|Turner Syndrome (45,X & mosaicism)|Most common cause. Short stature, webbed neck, cubitus valgus, streak gonads.|
+|**Chromosomal**|[[Genetics/Turner Syndrome\|Turner Syndrome]] (45,X & mosaicism)|Most common cause. Short stature, webbed neck, cubitus valgus, streak gonads.|
 |**Gonadal Dysgenesis**|46,XY with _SRY_ deletion (Swyer Syndrome)|XY karyotype, female phenotype, streak gonads.|
 ||46,XX Gonadal Dysgenesis|_FSHR_ mutations, Perrault syndrome (sensorineural deafness).|
 ||Trisomy 13, 18, 21|Associated severe dysmorphism and intellectual disability.|
@@ -53,7 +53,7 @@ Characterized by primary gonadal failure. Lack of sex steroid production elimina
 ||Pelvic / Abdominal Irradiation|Dose-dependent follicle destruction (>10-15 Gy causes acute failure).|
 ||Autoimmune Oophoritis|Autoimmune polyendocrinopathy (APS).|
 ||Infections|Mumps oophoritis.|
-||Metabolic|Galactosemia, Carbohydrate-deficient glycoprotein syndrome.|
+||Metabolic|[[Metabolic Disorders/Galactosemia\|Galactosemia]], Carbohydrate-deficient glycoprotein syndrome.|
 |**Receptor Defects**|Gonadotropin Resistance|_FSHR_ or _LHR_ mutations (Savage syndrome).|
 
 ### Eugonadotropic / Structural Abnormalities (Isolated Amenorrhea)
@@ -76,11 +76,11 @@ Normal pubertal development (thelarche present) but absent menarche due to anato
 ### Gonadotropin-Releasing Hormone (GnRH) Deficiency
 
 - Disruption in GnRH neuron migration or signaling pathways.
-- _KAL1_ (_ANOS1_) mutation: X-linked recessive. Defective neural cell adhesion molecule. Prevents migration of GnRH neurons and olfactory neurons. Results in Kallmann syndrome (anosmia + IHH).
+- _KAL1_ (_ANOS1_) mutation: X-linked recessive. Defective neural cell adhesion molecule. Prevents migration of GnRH neurons and olfactory neurons. Results in [[Endocrinology/Kallmann Syndrome\|Kallmann syndrome]] (anosmia + IHH).
 - _KISS1_ / _KISS1R_ mutations: Loss of kisspeptin signaling (crucial physiological trigger for GnRH pulsatility) causes profound hypogonadotropic hypogonadism.
 - _TAC3_ / _TACR3_ mutations: Defective neurokinin-B signaling.
 
-### Turner Syndrome (45,X)
+### [[Genetics/Turner Syndrome\|Turner Syndrome]] (45,X)
 
 - Accelerated apoptosis of ovarian follicles.
 - Fetal ovaries contain normal oocyte numbers at midgestation, followed by drastic reduction and formation of fibrous streak gonads.
@@ -90,10 +90,10 @@ Normal pubertal development (thelarche present) but absent menarche due to anato
 
 ### History
 
-- **Growth Pattern:** Review historical growth charts. CDGP exhibits deceleration in first 2 years, then normal prepubertal velocity along lower percentiles. Growth arrest suggests acquired hypothyroidism, hypercortisolism, or organic CNS lesion.
+- **Growth Pattern:** Review historical [[Development/Growth Charts\|growth charts]]. CDGP exhibits deceleration in first 2 years, then normal prepubertal velocity along lower percentiles. Growth arrest suggests [[Endocrinology/Acquired Hypothyroidism\|acquired hypothyroidism]], hypercortisolism, or organic CNS lesion.
 - **Family History:** Maternal/paternal age of pubertal onset, delayed growth spurts. Autoimmune diseases, anosmia, infertility.
 - **Systemic Symptoms:** Headaches, visual field deficits, polyuria/polydipsia (craniopharyngioma/CNS tumor).
-- **Nutritional/Psychosocial:** Caloric restriction, intense athletic training, psychological stress, eating disorders.
+- **Nutritional/Psychosocial:** Caloric restriction, intense athletic training, psychological stress, [[Development/Eating Disorders\|eating disorders]].
 
 ### Physical Examination
 
@@ -120,7 +120,7 @@ Normal pubertal development (thelarche present) but absent menarche due to anato
 
 #### Tier 2: Endocrine and Genetic Profiling
 
-- **Karyotype / Chromosomal Analysis:** Mandatory in all girls with elevated gonadotropins or unexplained short stature to exclude Turner syndrome (45,X) or mosaicism.
+- **Karyotype / Chromosomal Analysis:** Mandatory in all girls with elevated gonadotropins or unexplained short stature to exclude [[Genetics/Turner Syndrome\|Turner syndrome]] (45,X) or mosaicism.
 - **GnRH Agonist Stimulation Test:** Differentiates CDGP from persistent isolated hypogonadotropic hypogonadism. LH response >3.2-5.0 U/L indicates maturing HPG axis (CDGP).
 - **Inhibin B / AMH:** Very low levels indicate depleted ovarian reserve.
 
@@ -137,16 +137,16 @@ Normal pubertal development (thelarche present) but absent menarche due to anato
 ### Psychosocial Support and Expectant Management
 
 - **Reassurance:** Primary approach for CDGP. Counsel regarding physiological variations in pubertal tempo. Reassure eventual spontaneous development and normal adult height achievement.
-- **Psychological Counseling:** Address poor self-image, peer-group pressure, depression, and eating disorders. Optimize nutrition and reduce exercise intensity in functional hypothalamic amenorrhea.
+- **Psychological Counseling:** Address poor self-image, peer-group pressure, depression, and [[Development/Eating Disorders\|eating disorders]]. Optimize nutrition and reduce exercise intensity in functional hypothalamic amenorrhea.
 
 ### Sex Hormone Replacement Therapy (HRT) Protocols
 
-Indicated for irreversible primary hypogonadism (e.g., Turner syndrome, POI) or prolonged CDGP causing significant psychosocial distress.
+Indicated for irreversible primary hypogonadism (e.g., [[Genetics/Turner Syndrome\|Turner syndrome]], POI) or prolonged CDGP causing significant psychosocial distress.
 
 #### Estrogen Induction
 
 - **Goal:** Initiate secondary sexual characteristics, stimulate uterine growth, prevent osteoporosis, and optimize psychological well-being.
-- **Timing:** Initiate between 11.0 to 12.0 years of age. Coordinate with Growth Hormone therapy in Turner syndrome to avoid compromising final adult height via premature epiphyseal fusion.
+- **Timing:** Initiate between 11.0 to 12.0 years of age. Coordinate with Growth Hormone therapy in [[Genetics/Turner Syndrome\|Turner syndrome]] to avoid compromising final adult height via premature epiphyseal fusion.
 - **Dosing Strategy:** Begin with very low-dose estrogen. Gradually escalate every 6 months to adult replacement dose over 2.5 to 3.0 years.
     - _Transdermal Estradiol (Preferred, highly physiological):_ 14 mcg daily for 1 week/month or continuously. Escalate slowly to 50-100 mcg daily adult dose.
     - _Oral Micronized Estradiol:_ 0.25 mg daily (5 mcg/kg/day). Escalate to 1-2 mg daily.
@@ -165,7 +165,7 @@ Indicated for irreversible primary hypogonadism (e.g., Turner syndrome, POI) or 
 
 ### Specific Condition Management
 
-#### Turner Syndrome
+#### [[Genetics/Turner Syndrome\|Turner Syndrome]]
 
 - **Growth Hormone (rhGH):** Initiate early (age 4-6 years) to maximize linear growth. Dose: 0.375 mg/kg/week.
 - **Oxandrolone:** Non-aromatizable androgen added if extreme short stature persists.
@@ -178,6 +178,6 @@ Indicated for irreversible primary hypogonadism (e.g., Turner syndrome, POI) or 
 
 ### Fertility Preservation & Future Planning
 
-- Discuss infertility implications early in diagnosis of Primary Ovarian Insufficiency (POI) or Turner Syndrome.
+- Discuss infertility implications early in diagnosis of Primary Ovarian Insufficiency (POI) or [[Genetics/Turner Syndrome\|Turner Syndrome]].
 - Options include oocyte cryopreservation (if residual ovarian follicles exist and patient is post-pubertal), donor oocyte in-vitro fertilization (IVF), and gestational surrogacy.
 - Experimental techniques: Cryopreservation of immature ovarian tissue prior to complete follicular depletion.

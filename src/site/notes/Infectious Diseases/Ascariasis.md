@@ -4,7 +4,7 @@
 
 ## Introduction and Etiology
 
-- **Definition:** Ascariasis is a helminthic infection caused by _Ascaris lumbricoides_, the largest nematode (roundworm) parasitizing the human intestine.
+- **Definition:** [[Infectious Diseases/Ascariasis\|Ascariasis]] is a helminthic infection caused by _Ascaris lumbricoides_, the largest nematode (roundworm) parasitizing the human intestine.
 - **Morphology:**
     - Adult worms are large, white or pinkish, and cylindrical.
     - Females measure 20–35 cm in length; males are smaller (15–30 cm) with a curved tail.
@@ -16,12 +16,12 @@
 
 ## Epidemiology
 
-- **Global Burden:** Ascariasis is the most prevalent helminthic infection worldwide, affecting an estimated 800 million to 1 billion people.
+- **Global Burden:** [[Infectious Diseases/Ascariasis\|Ascariasis]] is the most prevalent helminthic infection worldwide, affecting an estimated 800 million to 1 billion people.
 - **Geographic Distribution:** It is most common in tropical and subtropical regions, particularly in East Asia, Southeast Asia, the Indian subcontinent, Africa, and South America.
 - **Risk Factors:**
     - **Age:** Prevalence and intensity of infection are highest in preschool and early school-age children (5–15 years).
     - **Socioeconomic Status:** Strongly associated with poverty, poor sanitation, and lack of clean water.
-    - **Behavioral:** Pica (geophagia) and playing in contaminated soil increase risk in children.
+    - **Behavioral:** [[Development/Pica\|Pica]] (geophagia) and playing in contaminated soil increase risk in children.
     - **Environmental:** Use of human feces ("night soil") as fertilizer for crops.
 - **Transmission:**
     - **Fecal-Oral Route:** Primarily through ingestion of infective embryonated eggs from soil-contaminated hands, food (raw vegetables/fruits), or water.
@@ -51,13 +51,13 @@ Pathology is caused by both the migrating larvae and the adult worms.
 
 - **Inflammatory Response:** Migrating larvae provoke an inflammatory reaction characterized by eosinophilic infiltration.
 - **Lung Injury:** Breaking through alveolar walls causes minute hemorrhages and pneumonitis.
-- **Immune Modulation:** Larvae release antigens (ABA-1 allergen) and immunomodulatory glycosphingolipids that induce a Th2 immune response (high IgE) and inhibit Th1 responses. This mechanism is linked to _Ascaris_-associated asthma.
+- **Immune Modulation:** Larvae release antigens (ABA-1 allergen) and immunomodulatory glycosphingolipids that induce a Th2 immune response (high IgE) and inhibit Th1 responses. This mechanism is linked to _Ascaris_-associated [[Respiratory/Asthma\|asthma]].
 
 ### Adult Phase (Intestinal)
 
 - **Nutritional Impairment:**
     - Adult worms compete with the host for nutrients.
-    - They secrete peptides that inhibit host pancreatic enzymes (trypsin, chymotrypsin, elastase), leading to malabsorption of proteins, fat, and vitamin A.
+    - They secrete peptides that inhibit host pancreatic enzymes (trypsin, chymotrypsin, elastase), leading to malabsorption of proteins, fat, and [[Nutrition/Vitamin A\|vitamin A]].
     - Infection is associated with lactose intolerance and altered jejunal mucosal structure.
     - Chronic infection contributes to malnutrition, growth stunting, and cognitive deficits in children.
 - **Mechanical Effects:** Large aggregates of worms can cause intestinal obstruction, volvulus, or intussusception, especially in young children with small intestinal lumens.
@@ -67,30 +67,30 @@ Pathology is caused by both the migrating larvae and the adult worms.
 
 The spectrum of disease ranges from asymptomatic carriage to life-threatening complications.
 
-### Pulmonary Ascariasis (Loeffler's Syndrome)
+### Pulmonary [[Infectious Diseases/Ascariasis\|Ascariasis]] (Loeffler's Syndrome)
 
 - **Timing:** Occurs 4–16 days after infection during larval migration.
 - **Symptoms:** Cough (often non-productive), dyspnea, wheezing, fever, and chest pain.
 - **Signs:** Rales or wheezing on auscultation.
-- **Seasonal Presentation:** In endemic areas, this can present as seasonal pneumonia or asthma.
+- **Seasonal Presentation:** In endemic areas, this can present as seasonal pneumonia or [[Respiratory/Asthma\|asthma]].
 
-### Intestinal Ascariasis
+### Intestinal [[Infectious Diseases/Ascariasis\|Ascariasis]]
 
 - **General:** Vague abdominal discomfort, distension, nausea, anorexia, and vomiting.
 - **Intestinal Obstruction:**
     - Most common serious complication in children (estimated incidence 2 per 1000 infected children per year).
     - Caused by a bolus of tangled worms blocking the ileocecal valve or small intestine.
     - Presentation: Bilious vomiting, abdominal distension, obstipation, and signs of dehydration. Can progress to bowel ischemia, necrosis, and perforation.
-- **Malnutrition:** Failure to thrive, vitamin A deficiency, and hypoalbuminemia in chronic heavy infections.
+- **Malnutrition:** Failure to thrive, [[Nutrition/Vitamin A\|vitamin A]] deficiency, and hypoalbuminemia in chronic heavy infections.
 
-### Hepatobiliary and Pancreatic Ascariasis (HPA)
+### Hepatobiliary and Pancreatic [[Infectious Diseases/Ascariasis\|Ascariasis]] (HPA)
 
 - **Mechanism:** Migration of worms across the ampulla of Vater.
 - **Clinical Syndromes:**
     - **Biliary Colic:** Severe right upper quadrant pain.
     - **Ascending Cholangitis:** Fever, jaundice, and pain.
     - **Acalculous Cholecystitis.**
-    - **Acute Pancreatitis.**
+    - **[[Gastrointestinal/Acute Pancreatitis\|Acute Pancreatitis]].**
     - **Hepatic Abscess:** Rare complication if worms enter the liver parenchyma.
 
 ### Other Manifestations
@@ -126,7 +126,7 @@ The spectrum of disease ranges from asymptomatic carriage to life-threatening co
     - **Pyrantel Pamoate:** 11 mg/kg (max 1 g) single dose. Safe in pregnancy.
     - **Ivermectin:** 150–200 µg/kg single dose.
     - **Nitazoxanide:** 100 mg BID (1–3 years), 200 mg BID (4–11 years), 500 mg BID (>12 years) for 3 days.
-- **Pulmonary Ascariasis:** Anthelmintics are generally not effective against migratory larvae. Treatment is supportive (bronchodilators, corticosteroids) until worms reach the intestine, where they can be treated.
+- **Pulmonary [[Infectious Diseases/Ascariasis\|Ascariasis]]:** Anthelmintics are generally not effective against migratory larvae. Treatment is supportive (bronchodilators, corticosteroids) until worms reach the intestine, where they can be treated.
 
 ### Management of Complications
 
@@ -135,7 +135,7 @@ The spectrum of disease ranges from asymptomatic carriage to life-threatening co
     - **Piperazine Citrate:** Sometimes used for obstruction as it causes flaccid paralysis (75 mg/kg/day for 2 days), aiding expulsion without agitating the worms. _Note: Withdrawn in some markets._
     - **Gastrografin:** Hyperosmolar contrast enema can help untangle worm masses.
     - **Surgery:** Indicated for complete obstruction, volvulus, perforation, or failure of conservative therapy. Involves enterotomy to remove worms or resection of necrotic bowel.
-- **Biliary Ascariasis:** Conservative management with fluids, antibiotics, and antispasmodics leads to spontaneous exit of the worm in most cases. ERCP may be needed for extraction if conservative therapy fails.
+- **Biliary [[Infectious Diseases/Ascariasis\|Ascariasis]]:** Conservative management with fluids, antibiotics, and antispasmodics leads to spontaneous exit of the worm in most cases. ERCP may be needed for extraction if conservative therapy fails.
 
 ## Prevention and Control
 

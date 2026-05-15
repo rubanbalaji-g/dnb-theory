@@ -37,8 +37,8 @@ Before starting PEP, a risk assessment and baseline laboratory evaluation are ne
 - **HIV Testing:** Perform a 4th generation HIV antigen/antibody test (ELISA) to confirm the exposed person is HIV-negative at baseline.
     - PEP is not indicated if the person is already HIV-positive.
 - **Other Blood-Borne Viruses:**
-    - **Hepatitis B (HBV):** Test for HBsAg and HBsAb. If the patient has completed a vaccine series and is immune, testing may not be needed.
-    - **Hepatitis C (HCV):** Test for HCV antibody.
+    - **[[Gastrointestinal/Hepatitis B\|Hepatitis B]] (HBV):** Test for HBsAg and HBsAb. If the patient has completed a vaccine series and is immune, testing may not be needed.
+    - **[[Gastrointestinal/Hepatitis C\|Hepatitis C]] (HCV):** Test for HCV antibody.
 - **General Health:**
     - **Renal Function:** Serum creatinine (important for Tenofovir dosage).
     - **Liver Function:** Alanine aminotransferase (ALT).
@@ -82,7 +82,7 @@ Post-exposure care extends beyond the initial prescription.
 ### Serological Follow-up
 
 - **Schedule:** Repeat HIV testing at **4–6 weeks** and **3 months** post-exposure to document serostatus.
-- **Hepatitis C Co-exposure:** If HCV transmission is a possibility (or confirmed in the source), HIV testing should be repeated at **6 months**, as HCV co-infection can delay HIV seroconversion.
+- **[[Gastrointestinal/Hepatitis C\|Hepatitis C]] Co-exposure:** If HCV transmission is a possibility (or confirmed in the source), HIV testing should be repeated at **6 months**, as HCV co-infection can delay HIV seroconversion.
 
 ### Adherence and Side Effects
 

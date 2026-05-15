@@ -6,15 +6,15 @@
 
 ### Mechanism Definitions
 
-- **SIADH:** Inappropriate excess arginine vasopressin (AVP) action; impaired renal free water clearance.
+- **[[Endocrinology/SIADH\|SIADH]]:** Inappropriate excess arginine vasopressin (AVP) action; impaired renal free water clearance.
 - **Cerebral Salt Wasting (CSW):** Primary hypersecretion of natriuretic peptides causing excessive renal sodium excretion.
-- **Central Diabetes Insipidus (DI):** Deficient AVP production causing unregulated renal free water loss.
+- **Central [[Endocrinology/Diabetes Insipidus\|Diabetes Insipidus]] (DI):** Deficient AVP production causing unregulated renal free water loss.
 - **Systemic Dehydration:** Primary systemic fluid and salt loss inducing hypovolemia.
 - **Primary Polydipsia:** Compulsive, excessive water intake causing physiological AVP suppression.
 
 ## Comparative Clinical and Biochemical Parameters
 
-| Parameter                     | SIADH            | Cerebral Salt Wasting (CSW) | Central DI            | Systemic Dehydration | Primary Polydipsia |
+| Parameter                     | [[Endocrinology/SIADH\|SIADH]]            | Cerebral Salt Wasting (CSW) | Central DI            | Systemic Dehydration | Primary Polydipsia |
 | :---------------------------- | :--------------- | :-------------------------- | :-------------------- | :------------------- | :----------------- |
 | **Intravascular Volume**      | Normal or High   | Low (Hypovolemia)           | Low                   | Low                  | Normal or High     |
 | **Serum Sodium**              | Low (<135 mEq/L) | Low (<135 mEq/L)            | High (>145 mEq/L)     | High/Normal          | Normal/Low         |

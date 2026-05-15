@@ -4,7 +4,7 @@
 
 ## Introduction
 
-Congenital tuberculosis (TB) is a rare but severe form of tuberculosis acquired by the fetus during intrauterine life. While tuberculosis in pregnant women is not uncommon, true congenital transmission is relatively rare. However, with the resurgence of TB and the HIV pandemic, the incidence has potential to rise. The term **"Perinatal Tuberculosis"** is often preferred as it encompasses both true congenital cases (acquired in utero) and neonatal forms acquired during delivery or immediately postpartum. The distinction is primarily epidemiological, as the clinical presentation and management are largely similar. Congenital TB has a high mortality rate if untreated, often due to delayed diagnosis because its symptoms mimic common neonatal conditions like sepsis and TORCH infections.
+[[Infectious Diseases/Congenital Tuberculosis\|Congenital tuberculosis]] (TB) is a rare but severe form of tuberculosis acquired by the fetus during intrauterine life. While tuberculosis in pregnant women is not uncommon, true congenital transmission is relatively rare. However, with the resurgence of TB and the HIV pandemic, the incidence has potential to rise. The term **"Perinatal Tuberculosis"** is often preferred as it encompasses both true congenital cases (acquired in utero) and neonatal forms acquired during delivery or immediately postpartum. The distinction is primarily epidemiological, as the clinical presentation and management are largely similar. Congenital TB has a high mortality rate if untreated, often due to delayed diagnosis because its symptoms mimic common neonatal conditions like sepsis and [[Infectious Diseases/TORCH Infections\|TORCH infections]].
 
 ## Pathogenesis and Transmission
 
@@ -14,7 +14,7 @@ Unlike postnatal TB, which is almost exclusively airborne, congenital TB has uni
 
 - **Mechanism:** This occurs when the mother has a primary infection or disseminated disease (miliary/meningeal) resulting in bacillemia. Tubercle bacilli infect the placenta (placentitis) and spread to the fetus through the **umbilical vein**.
 - **Primary Complex:** Since the oxygenated blood from the umbilical vein first passes through the fetal liver, the **primary focus (Ghon complex) is typically formed in the liver** or the periportal lymph nodes.
-- **Dissemination:** From the liver, bacilli enter the fetal circulation and disseminate to other organs, including the lungs, spleen, and bone marrow.
+- **Dissemination:** From the liver, bacilli enter the [[Neonatalogy/Fetal circulation\|fetal circulation]] and disseminate to other organs, including the lungs, spleen, and bone marrow.
 
 ### 2. Aspiration or Ingestion (Infected Amniotic Fluid)
 
@@ -45,11 +45,11 @@ Symptoms usually appear by the **2nd to 3rd week of life**, although they can be
 - **Lymphadenopathy:** Generalized lymphadenopathy or regional node enlargement.
 - **Dermatological:** Papular or pustular skin lesions, petechiae, or purpura (due to thrombocytopenia).
 - **Ear:** Chronic ear discharge (otorrhea) in a neonate is a classical, though rare, sign of TB.
-- **CNS:** Meningitis occurs in 20-50% of cases, presenting with lethargy, irritability, poor feeding, or seizures.
+- **CNS:** [[Neurology/Meningitis\|Meningitis]] occurs in 20-50% of cases, presenting with lethargy, irritability, poor feeding, or seizures.
 
 ## Diagnostic Criteria
 
-The revised **Cantwell’s Criteria** are commonly used to define congenital tuberculosis. A diagnosis requires the presence of a proven tuberculous lesion in the infant plus at least one of the following:
+The revised **Cantwell’s Criteria** are commonly used to define [[Infectious Diseases/Congenital Tuberculosis\|congenital tuberculosis]]. A diagnosis requires the presence of a proven tuberculous lesion in the infant plus at least one of the following:
 
 1. Lesion occurring in the first week of life.
 2. A primary hepatic complex or caseating hepatic granulomas.
@@ -58,7 +58,7 @@ The revised **Cantwell’s Criteria** are commonly used to define congenital tub
 
 ## Diagnostic Evaluation
 
-Diagnosis requires a high index of suspicion.
+Diagnosis requires a high [[Statistics/Index\|index]] of suspicion.
 
 ### 1. Microbiological Confirmation (Gold Standard)
 
@@ -73,7 +73,7 @@ Diagnosis requires a high index of suspicion.
 
 - **Chest X-ray (CXR):** May show miliary mottling (snowstorm appearance), persistent pneumonia, or hilar adenopathy. However, CXR can be normal initially or show nonspecific infiltrates.
 - **USG Abdomen:** Essential to look for **hepatic focal lesions**, hypoechoic splenic microabscesses, retroperitoneal lymphadenopathy, or ascites.
-- **Neuroimaging (USG/CT/MRI):** To rule out congenital TBM or hydrocephalus.
+- **Neuroimaging (USG/CT/MRI):** To rule out congenital TBM or [[Neurology/Hydrocephalus\|hydrocephalus]].
 
 ### 3. Immunological Tests
 
@@ -84,9 +84,9 @@ Diagnosis requires a high index of suspicion.
 
 Congenital TB mimics other intrauterine infections collectively known as **TORCH**:
 
-1. **Congenital Syphilis:** Hepatomegaly, rash, snuffles, periostitis (differentiated by VDRL/TPHA).
-2. **Cytomegalovirus (CMV):** Microcephaly, periventricular calcifications, chorioretinitis (differentiated by Urine/Saliva PCR).
-3. **Toxoplasmosis:** Intracranial calcifications, hydrocephalus (differentiated by IgM/PCR).
+1. **[[Infectious Diseases/Congenital Syphilis\|Congenital Syphilis]]:** Hepatomegaly, rash, snuffles, periostitis (differentiated by VDRL/TPHA).
+2. **Cytomegalovirus (CMV):** [[Neurology/Microcephaly\|Microcephaly]], periventricular calcifications, chorioretinitis (differentiated by Urine/Saliva PCR).
+3. **Toxoplasmosis:** Intracranial calcifications, [[Neurology/Hydrocephalus\|hydrocephalus]] (differentiated by IgM/PCR).
 4. **Neonatal Sepsis:** Bacterial sepsis (GBS, E. coli, Listeria) presents similarly with respiratory distress and shock.
 5. **[[Gastrointestinal/Biliary Atresia\|Biliary Atresia]]/Neonatal Hepatitis:** If jaundice and hepatomegaly are the predominant features.
 
@@ -113,7 +113,7 @@ According to **NTEP 2022 Guidelines**, the regimen for drug-sensitive TB in neon
 ### 2. Adjunct Therapy
 
 - **Pyridoxine:** Recommended for all neonates on Isoniazid to prevent neuropathy and seizures.
-- **Corticosteroids:** Prednisolone (1–2 mg/kg) is indicated for TB meningitis, severe miliary TB with alveolocapillary block, or pericardial effusion.
+- **Corticosteroids:** Prednisolone (1–2 mg/kg) is indicated for TB [[Neurology/Meningitis\|meningitis]], severe miliary TB with alveolocapillary block, or pericardial effusion.
 
 ## Management of Neonate Born to Mother with Active TB
 
@@ -133,7 +133,7 @@ This is a common clinical scenario. Management depends on assessing the infant f
     - If investigations (Gastric aspirate/CXR/USG) confirm TB: Start Full Treatment (**2HRZE + 4HRE**).
 - **Scenario B: No Active Disease in Infant (Exposure):**
     - **TB Preventive Therapy (TPT):** Start **Isoniazid (10 mg/kg)** daily for 6 months.
-    - **BCG Vaccination:** Give BCG at birth. It does not interfere with INH, and INH does not kill the BCG strain (as BCG is usually resistant to primary INH levels or simply effective regardless).
+    - **[[Misc/BCG\|BCG]] Vaccination:** Give [[Misc/BCG\|BCG]] at birth. It does not interfere with INH, and INH does not kill the [[Misc/BCG\|BCG]] strain (as [[Misc/BCG\|BCG]] is usually resistant to primary INH levels or simply effective regardless).
     - **Follow-up:** Monitor the infant monthly for symptoms. If the infant remains asymptomatic for 6 months, stop INH. If symptoms develop, re-evaluate for active TB.
 
 **Step 3: Maternal Management**
@@ -145,5 +145,5 @@ This is a common clinical scenario. Management depends on assessing the infant f
 ## Prognosis
 
 - **Mortality:** Historically up to 50% without treatment. With early diagnosis and therapy, the prognosis is good.
-- **Morbidity:** Neurological sequelae (developmental delay, hydrocephalus) are common if TBM is present. Liver damage from primary hepatic TB generally resolves with therapy.
+- **Morbidity:** Neurological sequelae (developmental delay, [[Neurology/Hydrocephalus\|hydrocephalus]]) are common if TBM is present. Liver damage from primary hepatic TB generally resolves with therapy.
 

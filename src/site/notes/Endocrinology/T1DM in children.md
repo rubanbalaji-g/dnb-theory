@@ -4,7 +4,7 @@
 
 ## Definition & Classification
 
-- Chronic metabolic syndrome.
+- Chronic [[Endocrinology/Metabolic Syndrome\|metabolic syndrome]].
 - Absolute insulin deficiency.
 - Result of pancreatic beta-cell destruction.
 - Lifelong exogenous insulin replacement mandated.
@@ -166,7 +166,7 @@
 ### Medical Nutrition Therapy
 
 - No highly restrictive "diabetic diet".
-- Goal: Normal, healthy diet providing 100% RDA energy for growth/puberty.
+- Goal: Normal, healthy diet providing 100% [[Nutrition/RDA\|RDA]] energy for growth/puberty.
 - Foundation: Carbohydrate counting.
 
 #### Dosing Calculations

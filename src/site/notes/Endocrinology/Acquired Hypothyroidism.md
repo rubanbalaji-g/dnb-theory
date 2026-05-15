@@ -4,7 +4,7 @@
 
 ## Overview & Epidemiology
 
-- Acquired hypothyroidism in adolescence most commonly arises from autoimmune etiology.
+- [[Endocrinology/Acquired Hypothyroidism\|Acquired hypothyroidism]] in adolescence most commonly arises from autoimmune etiology.
 - Strong female predominance; Female:Male ratio 4-6:1.
 - Peak incidence of autoimmune thyroiditis occurs during adolescence (11-15 years).
 
@@ -17,17 +17,17 @@
 | **Autoimmune (Most Common)** | Hashimoto Thyroiditis (Chronic Lymphocytic Thyroiditis)          | Organ-specific autoimmune destruction. T-cell and B-cell infiltration into thyroid follicles. Progression to follicular fibrosis and glandular atrophy.       |
 | **Iodine Related**           | Endemic Goiter (Deficiency)Iodine Excess                         | Severe deficiency limits hormone synthesis.Excess induces Wolff-Chaikoff effect (acute block in hormone release/synthesis).                                   |
 | **Drug-Induced**             | Anticonvulsants, Lithium, Amiodarone, Tyrosine Kinase Inhibitors | Anticonvulsants (valproate, phenytoin) stimulate hepatic cytochrome P450, increasing T4 clearance. Amiodarone/Lithium disrupt synthesis/release.              |
-| **Iatrogenic**               | Neck Irradiation, Surgery                                        | Late consequence of mantle radiation [^mantlerad] (Hodgkin lymphoma), total body irradiation (bone marrow transplant), or excision of thyroglossal duct cyst. |
-| **Central (Secondary)**      | Pituitary/Hypothalamic Lesions                                   | Craniopharyngioma, head trauma, meningitis, or cranial irradiation disrupting TSH/TRH secretion.                                                              |
+| **Iatrogenic**               | Neck Irradiation, Surgery                                        | Late consequence of mantle radiation [^mantlerad] ([[Hematology/Hodgkin Lymphoma\|Hodgkin lymphoma]]), total body irradiation (bone marrow transplant), or excision of thyroglossal duct cyst. |
+| **Central (Secondary)**      | Pituitary/Hypothalamic Lesions                                   | Craniopharyngioma, head trauma, [[Neurology/Meningitis\|meningitis]], or cranial irradiation disrupting TSH/TRH secretion.                                                              |
 | **Delayed Congenital**       | Ectopic Thyroid, Dyshormonogenesis                               | Mild defects or failing ectopic sublingual glands may maintain euthyroidism until adolescence, presenting as acquired disease.                                |
-| **Systemic/Infiltrative**    | Cystinosis, Langerhans Cell Histiocytosis                        | Glandular destruction via intralysosomal cystine storage or histiocytic infiltration.                                                                         |
+| **Systemic/Infiltrative**    | Cystinosis, [[Hematology/Langerhans Cell Histiocytosis\|Langerhans Cell Histiocytosis]]                        | Glandular destruction via intralysosomal cystine storage or histiocytic infiltration.                                                                         |
 
 ### High-Yield Syndromic Associations
 
-Girls presenting with acquired hypothyroidism warrant screening for comorbid chromosomal or autoimmune conditions:
+Girls presenting with [[Endocrinology/Acquired Hypothyroidism\|acquired hypothyroidism]] warrant screening for comorbid chromosomal or autoimmune conditions:
 
 - **Chromosomal:** 
-	- Turner Syndrome (8-30% incidence), 
+	- [[Genetics/Turner Syndrome\|Turner Syndrome]] (8-30% incidence), 
 	- Trisomy 21 (15-20% incidence).
 - **Autoimmune:** 
 	- Type 1 Diabetes Mellitus, 
@@ -68,6 +68,6 @@ Long-standing or severe hypothyroidism induces systemic metabolic derangements:
 - **Age-Specific Dosing:** 10-16 years require 2-4 mcg/kg/day.
 - **Administration:** Empty stomach. Separate from iron or calcium supplements by 6 hours to prevent absorption interference.
 - **Monitoring:** Re-evaluate TSH and FT4 every 4-6 weeks after dose adjustments, then every 4-6 months. Target TSH within age-specific reference range.
-- **Severe Disease Precaution:** In profound, long-standing hypothyroidism, initiate L-T4 at 1/3 to 1/2 conventional dose. Gradual up-titration prevents precipitating pseudotumor cerebri.
+- **Severe Disease Precaution:** In profound, long-standing hypothyroidism, initiate L-T4 at 1/3 to 1/2 conventional dose. Gradual up-titration prevents precipitating [[Neurology/Pseudotumor Cerebri\|pseudotumor cerebri]].
 
-[^mantlerad]: Mantle radiation is a specialized technique used in radiation therapy to treat lymph nodes above the diaphragm, covering the neck, chest, and armpits in a shape resembling a "mantle" or cape. It was historically a standard treatment for Hodgkin lymphoma to target multiple lymph node groups simultaneously while using lead blocks to shield the lungs and heart.
+[^mantlerad]: Mantle radiation is a specialized technique used in radiation therapy to treat lymph nodes above the diaphragm, covering the neck, chest, and armpits in a shape resembling a "mantle" or cape. It was historically a standard treatment for [[Hematology/Hodgkin Lymphoma\|Hodgkin lymphoma]] to target multiple lymph node groups simultaneously while using lead blocks to shield the lungs and heart.

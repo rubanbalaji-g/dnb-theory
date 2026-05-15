@@ -4,7 +4,7 @@
 
 ### Introduction
 
-Complicated or severe malaria is a medical emergency defined by the presence of asexual parasitemia with one or more life-threatening complications. While _Plasmodium falciparum_ is the primary cause of severe malaria, _P. vivax_ and _P. knowlesi_ are increasingly recognized as causes of severe disease. Without prompt and appropriate treatment, the mortality rate is approximately 20%.
+Complicated or severe [[Infectious Diseases/Malaria\|malaria]] is a medical emergency defined by the presence of asexual parasitemia with one or more life-threatening complications. While _Plasmodium falciparum_ is the primary cause of severe [[Infectious Diseases/Malaria\|malaria]], _P. vivax_ and _P. knowlesi_ are increasingly recognized as causes of severe disease. Without prompt and appropriate treatment, the mortality rate is approximately 20%.
 
 ### Pathophysiology
 
@@ -17,23 +17,23 @@ The pathogenesis involves a complex interplay of parasite and host factors:
 
 ### Clinical Features and Diagnostic Criteria
 
-The World Health Organization (WHO) defines severe malaria by the presence of _P. falciparum_ (or _P. vivax/P. knowlesi_) parasitemia plus any one of the following criteria:
+The World Health Organization (WHO) defines severe [[Infectious Diseases/Malaria\|malaria]] by the presence of _P. falciparum_ (or _P. vivax/P. knowlesi_) parasitemia plus any one of the following criteria:
 
-- **Impaired Consciousness (Cerebral Malaria):** Unarousable coma (Glasgow Coma Scale <11 in adults or Blantyre Coma Score <3 in children) not attributable to other causes (e.g., hypoglycemia, meningitis).
+- **Impaired Consciousness ([[Infectious Diseases/Cerebral Malaria\|Cerebral Malaria]]):** Unarousable coma (Glasgow Coma Scale <11 in adults or Blantyre Coma Score <3 in children) not attributable to other causes (e.g., hypoglycemia, [[Neurology/Meningitis\|meningitis]]).
 - **Severe Anemia:** Hemoglobin <5 g/dL (or hematocrit <15%) in children <12 years.
 - **Respiratory Distress (Acidosis):** Deep, labored, acidotic breathing (Kussmaul’s respiration). Metabolic acidosis is a major predictor of mortality.
 - **Hypoglycemia:** Blood glucose <40 mg/dL (<2.2 mmol/L). This is common in children and pregnant women and carries a poor prognosis.
 - **Multiple Convulsions:** More than two episodes within 24 hours.
-- **Shock (Algid Malaria):** Capillary refill ≥3 seconds, temperature gradient on limbs, or systolic BP <70 mm Hg in children.
-- **Acute Kidney Injury:** Plasma creatinine >3 mg/dL or urea >20 mmol/L.
+- **Shock (Algid [[Infectious Diseases/Malaria\|Malaria]]):** Capillary refill ≥3 seconds, temperature gradient on limbs, or systolic BP <70 mm Hg in children.
+- **[[Nephrology/Acute Kidney Injury\|Acute Kidney Injury]]:** Plasma creatinine >3 mg/dL or urea >20 mmol/L.
 - **Clinical Jaundice:** Bilirubin >3 mg/dL combined with other organ dysfunction or high parasitemia.
 - **Hyperparasitemia:** >10% of RBCs infected.
-- **Abnormal Bleeding:** Disseminated Intravascular Coagulation (DIC) manifesting as bleeding from gums, nose, or venepuncture sites.
+- **Abnormal Bleeding:** [[Hematology/Disseminated Intravascular Coagulation\|Disseminated Intravascular Coagulation]] (DIC) manifesting as bleeding from gums, nose, or venepuncture sites.
 - **Hemoglobinuria:** Macroscopic dark urine ("Blackwater fever"), often associated with intravascular hemolysis.
 
 ### Management
 
-Severe malaria requires immediate hospitalization, preferably in an intensive care unit (ICU).
+Severe [[Infectious Diseases/Malaria\|malaria]] requires immediate hospitalization, preferably in an intensive care unit (ICU).
 
 #### 1. General Supportive Care
 
@@ -59,7 +59,7 @@ Parenteral therapy is mandatory as oral bioavailability is unpredictable in seve
 - **Hypoglycemia:** Correct immediately with IV dextrose (e.g., 2–5 mL/kg of 10% dextrose).
 - **Seizures:** Treat with IV Benzodiazepines (Diazepam 0.3–0.5 mg/kg or Lorazepam 0.1 mg/kg). If persistent, use Phenytoin or Phenobarbitone.
 - **Severe Anemia:** Transfuse packed red blood cells (10 mL/kg) if Hb <5 g/dL (or <7 g/dL in the presence of respiratory distress).
-- **Blackwater Fever:** Discontinue offending drugs (like quinine if suspected) and manage acute kidney injury, potentially requiring dialysis.
+- **Blackwater Fever:** Discontinue offending drugs (like quinine if suspected) and manage [[Nephrology/Acute Kidney Injury\|acute kidney injury]], potentially requiring dialysis.
 
 #### 4. Adjunctive Therapies
 

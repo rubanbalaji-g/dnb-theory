@@ -4,13 +4,13 @@
 
 ## 1. Introduction and Definition
 
-Disseminated tuberculosis refers to the involvement of two or more non-contiguous sites resulting from the lymphohematogenous spread of _Mycobacterium tuberculosis_. **Miliary tuberculosis** is a specific, severe form of disseminated TB characterized by the massive hematogenous seeding of tubercle bacilli, resulting in widespread, tiny (1–2 mm), millet-seed-sized granulomas in multiple organs, particularly the lungs, liver, spleen, and bone marrow.
+Disseminated tuberculosis refers to the involvement of two or more non-contiguous sites resulting from the lymphohematogenous spread of _Mycobacterium tuberculosis_. **Miliary tuberculosis** is a specific, severe form of [[Infectious Diseases/Disseminated TB\|disseminated TB]] characterized by the massive hematogenous seeding of tubercle bacilli, resulting in widespread, tiny (1–2 mm), millet-seed-sized granulomas in multiple organs, particularly the lungs, liver, spleen, and bone marrow.
 
 Historically, the term "miliary" was coined by John Jacob Manget in 1700, likening the appearance of the pathological lesions to millet seeds. While lymphohematogenous spread occurs in almost all cases of primary infection (occult dissemination), "disseminated disease" implies a failure of the host immune response to contain this spread, leading to overt clinical illness.
 
 ## 2. Epidemiology and Risk Factors
 
-Disseminated TB is most frequently seen in infants and young children (< 3 years of age) due to their immature cellular immunity. It usually occurs within **2 to 6 months** of the initial primary infection.
+[[Infectious Diseases/Disseminated TB\|Disseminated TB]] is most frequently seen in infants and young children (< 3 years of age) due to their immature cellular immunity. It usually occurs within **2 to 6 months** of the initial primary infection.
 
 **Key Risk Factors:**
 
@@ -21,11 +21,11 @@ Disseminated TB is most frequently seen in infants and young children (< 3 years
     - **Post-measles/Varicella:** Anergy following viral infections can precipitate dissemination.
     - **Primary Immunodeficiencies:** Defects in the IL-12/IFN-gamma pathway.
     - **Drugs:** Prolonged steroid use or immunosuppressive therapy.
-3. **Lack of BCG Vaccination:** BCG provides 50–80% protection against severe forms like miliary TB and meningitis.
+3. **Lack of [[Misc/BCG\|BCG]] Vaccination:** [[Misc/BCG\|BCG]] provides 50–80% protection against severe forms like miliary TB and [[Neurology/Meningitis\|meningitis]].
 
 ## 3. Etiopathogenesis
 
-The development of disseminated TB follows a specific sequence of events:
+The development of [[Infectious Diseases/Disseminated TB\|disseminated TB]] follows a specific sequence of events:
 
 1. **Primary Infection:** Inhalation of droplet nuclei leads to a primary focus (Ghon focus) in the lung and regional lymphadenopathy.
 2. **Lymphohematogenous Spread:** Bacilli drain via lymphatics to the venous circulation and eventually the arterial system.
@@ -52,7 +52,7 @@ The clinical presentation is protean ("the great imitator"). It can range from a
 - Signs may be surprisingly mild despite extensive radiological disease.
 - **Symptoms:** Cough (often mild initially), tachypnea, and dyspnea.
 - **Signs:** Fine crepitations may be heard but are often absent. Wheezing may occur.
-- **Severe Complications:** In advanced cases, alveolar-capillary block can lead to frank respiratory distress, cyanosis, and hypoxia (resembling ARDS). Air-leak syndromes (pneumothorax, pneumomediastinum) are recognized complications.
+- **Severe Complications:** In advanced cases, alveolar-capillary block can lead to frank respiratory distress, cyanosis, and hypoxia (resembling ARDS). Air-leak syndromes ([[Respiratory/Pneumothorax\|pneumothorax]], pneumomediastinum) are recognized complications.
 
 ### C. Abdominal Findings
 
@@ -67,7 +67,7 @@ The clinical presentation is protean ("the great imitator"). It can range from a
     - _Appearance:_ Bilateral, multiple, yellowish-white, raised nodules (0.5–2 mm) near the optic disc.
     - _Significance:_ Pathognomonic for miliary TB; detection usually implies hematogenous dissemination.
 2. **CNS Involvement:**
-    - Meningitis (TBM) or Tuberculomas occur in 20–40% of miliary TB cases.
+    - [[Neurology/Meningitis\|Meningitis]] (TBM) or Tuberculomas occur in 20–40% of miliary TB cases.
     - Always look for neck stiffness, irritability, or bulging fontanelle.
 3. **Skin:**
     - **Papulonecrotic Tuberculids:** Tiny, crusted papules, often on the trunk.
@@ -75,7 +75,7 @@ The clinical presentation is protean ("the great imitator"). It can range from a
 
 ## 5. Diagnostic Approach
 
-Diagnosis requires a high index of suspicion as bacteriologic confirmation is difficult (paucibacillary).
+Diagnosis requires a high [[Statistics/Index\|index]] of suspicion as bacteriologic confirmation is difficult (paucibacillary).
 
 ### A. Radiological Investigations
 
@@ -90,13 +90,13 @@ Diagnosis requires a high index of suspicion as bacteriologic confirmation is di
 
 ### B. Microbiological Confirmation
 
-1. **Respiratory Specimens:** Gastric Aspirate (GA) or Induced Sputum (IS) should be collected for **Upfront NAAT (CBNAAT/TrueNat)** and Culture (MGIT).
+1. **Respiratory Specimens:** Gastric Aspirate (GA) or Induced Sputum (IS) should be collected for **Upfront [[Genetics/NAAT\|NAAT]] (CBNAAT/TrueNat)** and Culture (MGIT).
     - Yield is relatively higher in miliary TB compared to primary complex due to higher bacillary load in the lungs, but still variable.
 2. **Blood Culture:** In HIV-coinfected children or severe dissemination, _M. tuberculosis_ can sometimes be isolated from blood (BACTEC/lysis-centrifugation).
 3. **Invasive Sampling (High Yield):**
     - **Bone Marrow Aspiration/Biopsy:** Useful in cases with hematological abnormalities. Culture has a good yield.
     - **Liver Biopsy:** Granulomas can be demonstrated in liver tissue; high diagnostic yield if hepatomegaly is present.
-    - **CSF Analysis:** Essential to rule out meningitis (lymphocytic pleocytosis, high protein, low sugar).
+    - **CSF Analysis:** Essential to rule out [[Neurology/Meningitis\|meningitis]] (lymphocytic pleocytosis, high protein, low sugar).
 
 ### C. Supportive Investigations
 
@@ -107,15 +107,15 @@ Diagnosis requires a high index of suspicion as bacteriologic confirmation is di
     - Leukopenia or Leukemoid reaction (resembling leukemia).
     - Thrombocytopenia or Pancytopenia (bone marrow infiltration).
     - ESR is usually elevated.
-3. **Biochemistry:** Hyponatremia (SIADH) is common. Liver enzymes may be elevated (hepatitis).
+3. **Biochemistry:** Hyponatremia ([[Endocrinology/SIADH\|SIADH]]) is common. Liver enzymes may be elevated (hepatitis).
 4. **Eye Examination:** Dilated fundoscopy to look for choroidal tubercles.
 
 ## 6. Differential Diagnosis
 
-1. **Enteric Fever:** Prolonged fever, hepatosplenomegaly. (Differentiated by Widal, blood culture).
-2. **Disseminated Malignancy:** Leukemia, Lymphoma, Neuroblastoma (metastatic).
+1. **[[Infectious Diseases/Enteric Fever\|Enteric Fever]]:** Prolonged fever, hepatosplenomegaly. (Differentiated by Widal, blood culture).
+2. **Disseminated Malignancy:** Leukemia, Lymphoma, [[Hematology/Neuroblastoma\|Neuroblastoma]] (metastatic).
 3. **Fungal Infections:** Histoplasmosis (similar miliary shadows and hepatosplenomegaly).
-4. **Langerhans Cell Histiocytosis (LCH):** Miliary shadows, hepatosplenomegaly, skin rash.
+4. **[[Hematology/Langerhans Cell Histiocytosis\|Langerhans Cell Histiocytosis]] (LCH):** Miliary shadows, hepatosplenomegaly, skin rash.
 5. **Viral Pneumonias:** Severe viral pneumonia can mimic miliary shadows.
 
 ## 7. Management
@@ -130,7 +130,7 @@ Miliary TB is classified under **Severe Extrapulmonary TB**.
     - **Intensive Phase (2 months):** Isoniazid (H), Rifampicin (R), Pyrazinamide (Z), Ethambutol (E).
     - **Continuation Phase (4 months):** Isoniazid (H), Rifampicin (R), Ethambutol (E).
     - _Total Duration:_ **6 months**.
-- **Note on Duration:** While standard guidelines recommend 6 months, if there is associated **meningitis, bone/joint involvement**, or slow response, the treatment is extended to **12 months** (2 HRZE + 10 HRE). Many experts prefer 9-12 months for disseminated disease in infants.
+- **Note on Duration:** While standard guidelines recommend 6 months, if there is associated **[[Neurology/Meningitis\|meningitis]], bone/joint involvement**, or slow response, the treatment is extended to **12 months** (2 HRZE + 10 HRE). Many experts prefer 9-12 months for disseminated disease in infants.
 - **Dosages (Daily):**
     - Isoniazid: 10 (7–15) mg/kg
     - Rifampicin: 15 (10–20) mg/kg
@@ -139,9 +139,9 @@ Miliary TB is classified under **Severe Extrapulmonary TB**.
 
 ### B. Corticosteroids
 
-Steroids are indicated in disseminated TB in specific situations:
+Steroids are indicated in [[Infectious Diseases/Disseminated TB\|disseminated TB]] in specific situations:
 
-1. **Associated Tuberculous Meningitis:** To reduce cerebral edema and vasculitis.
+1. **Associated Tuberculous [[Neurology/Meningitis\|Meningitis]]:** To reduce cerebral edema and vasculitis.
 2. **Severe Respiratory Distress:** Alveolocapillary block with hypoxia.
 3. **Pericardial Effusion.**
 
@@ -151,19 +151,19 @@ Steroids are indicated in disseminated TB in specific situations:
 
 - **Nutrition:** Management of severe malnutrition.
 - **Oxygen:** For hypoxia due to miliary pneumonia.
-- **Hyponatremia:** Fluid restriction or correction depending on cause (SIADH vs Cerebral Salt Wasting).
+- **Hyponatremia:** Fluid restriction or correction depending on cause ([[Endocrinology/SIADH\|SIADH]] vs Cerebral Salt Wasting).
 
 ## 8. Complications and Prognosis
 
 - **Mortality:** Historically 100% without treatment. With timely treatment, mortality is reduced but remains significant, especially in infants and HIV-positive children.
 - **Complications:**
-    - **CNS:** Hydrocephalus, infarction, neurological deficits (major cause of morbidity).
-    - **Respiratory:** Pneumothorax, chronic lung disease (fibrosis).
+    - **CNS:** [[Neurology/Hydrocephalus\|Hydrocephalus]], infarction, neurological deficits (major cause of morbidity).
+    - **Respiratory:** [[Respiratory/Pneumothorax\|Pneumothorax]], [[Respiratory/Chronic Lung Disease\|chronic lung disease]] (fibrosis).
     - **IRIS:** Immune Reconstitution Inflammatory Syndrome in HIV/non-HIV patients upon starting treatment (worsening of fever/nodes).
 
 ## 9. Prevention
 
-1. **BCG Vaccination:** Highly effective in preventing hematogenous dissemination (miliary and meningeal TB) in young children.
+1. **[[Misc/BCG\|BCG]] Vaccination:** Highly effective in preventing hematogenous dissemination (miliary and meningeal TB) in young children.
 2. **TB Preventive Treatment (TPT):** Contact tracing of adults with pulmonary TB. All child contacts <5 years (and older TBI-positive children) should receive TPT (Isoniazid or Isoniazid+Rifapentine) to prevent progression from infection to disseminated disease.
 
 

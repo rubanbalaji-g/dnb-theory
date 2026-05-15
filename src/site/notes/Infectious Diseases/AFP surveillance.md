@@ -45,8 +45,8 @@ The following table summarizes the clinical characteristics distinguishing the m
 |**Sensory signs**|**Absent** (Sensation intact)|Variable (Paresthesia)|May be present (Gluteal region)|**Present** (Sensory level, anesthesia)|
 |**Reflexes**|Decreased/Absent|Absent|Decreased/Absent in affected limb|Absent early (shock), Hyperreflexia late|
 |**Sequelae**|Residual paralysis common|Usually recovers|Residual weakness possible|Spasticity later|
-## III. Components of AFP Surveillance
-AFP surveillance is a comprehensive system designed to detect and investigate every case of AFP to rule out poliovirus. It consists of specific strategies, case activities, and performance monitoring.
+## III. Components of [[Infectious Diseases/AFP surveillance\|AFP Surveillance]]
+[[Infectious Diseases/AFP surveillance\|AFP surveillance]] is a comprehensive system designed to detect and investigate every case of AFP to rule out poliovirus. It consists of specific strategies, case activities, and performance monitoring.
 ### A. Surveillance Strategies
 To ensure no polio case is missed, surveillance relies on a multi-tiered approach:
 
@@ -77,7 +77,7 @@ Once an AFP case is identified, a standardized sequence of activities must be fo
         - Polio is diagnosed by isolating the virus from stool.
     - **Requirement:** **Two adequate stool specimens** must be collected.
     - **Definition of Adequate:** Two samples collected **24–48 hours apart** and within **14 days** of paralysis onset.
-    - **Transport:** Specimens must be transported under **reverse cold chain** (2–8°C) to a WHO-accredited laboratory within 72 hours of collection.
+    - **Transport:** Specimens must be transported under **reverse [[Misc/Cold Chain\|cold chain]]** (2–8°C) to a WHO-accredited laboratory within 72 hours of collection.
 4. **Laboratory Testing:**
         - Specimens are tested for poliovirus isolation, intratypic differentiation (wild vs. vaccine), and sequencing (to determine genetic origin).
 5. **Outbreak Response and Active Case Search:**
@@ -90,7 +90,7 @@ Once an AFP case is identified, a standardized sequence of activities must be fo
         - Residual paralysis suspected.
     - The child is re-examined 60–90 days after onset to check for **residual paralysis** (a hallmark of polio).
 7. **Contact Sampling:**
-        - If stool specimens from the index case are inadequate (late collection, poor condition), stool samples are collected from 3–5 close contacts (children <5 years) to increase sensitivity.
+        - If stool specimens from the [[Statistics/Index\|index]] case are inadequate (late collection, poor condition), stool samples are collected from 3–5 close contacts (children <5 years) to increase sensitivity.
 ### C. AFP Case Classification (Virological Scheme)
 
 The final classification of an AFP case depends on laboratory results and the Expert Review Committee (ERC):
@@ -112,9 +112,9 @@ The quality of the surveillance system is monitored using standard indicators:
 2. **Stool Adequacy Rate:** Detects quality of investigation.
     - Target: **≥80%** of AFP cases with two adequate stool specimens collected within 14 days of onset.
 3. **Timeliness of Investigation:** ≥80% investigated within 48 hours.
-4. **Non-Polio Enterovirus (NPEV) Isolation Rate:** Target ≥10% (Indicates the lab is capable of growing viruses and the cold chain was maintained).
+4. **Non-Polio Enterovirus (NPEV) Isolation Rate:** Target ≥10% (Indicates the lab is capable of growing viruses and the [[Misc/Cold Chain\|cold chain]] was maintained).
 
-## IV. The AFP Surveillance Network (India Context)
+## IV. The [[Infectious Diseases/AFP surveillance\|AFP Surveillance]] Network (India Context)
 
 In India, the surveillance network is highly structured to maintain polio-free status:
 

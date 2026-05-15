@@ -16,7 +16,7 @@
 |Category|Specific Causes|
 |:--|:--|
 |**Inadequate Intake**|Unfortified goat milk feeding, severe malnutrition (marasmus, kwashiorkor), delayed weaning, prolonged heating/boiling of food.|
-|**Increased Demand**|Rapid growth (prematurity, infancy, pregnancy), chronic hemolytic anemia (sickle cell, thalassemia, pyruvate kinase deficiency), hypermetabolic states (infections, hyperthyroidism), extensive skin disease (psoriasis).|
+|**Increased Demand**|Rapid growth (prematurity, infancy, pregnancy), chronic hemolytic anemia (sickle cell, [[Hematology/Thalassemia\|thalassemia]], pyruvate kinase deficiency), hypermetabolic states (infections, hyperthyroidism), extensive skin disease (psoriasis).|
 |**Defective Absorption**|[[Gastrointestinal/Celiac disease\|Celiac disease]], tropical sprue, inflammatory bowel disease, chronic diarrheal states, jejunal resection, enteroenteric fistulas.|
 |**Drug-Induced**|Folate antagonists (methotrexate, pyrimethamine, trimethoprim, pentamidine), anticonvulsants (phenytoin, phenobarbital), oral contraceptives, sulfasalazine.|
 |**Genetic/Metabolic**|Hereditary folate malabsorption (mutations in proton-coupled folate transporter _SLC46A1_), methylenetetrahydrofolate reductase (MTHFR) deficiency, glutamate formiminotransferase deficiency.|
@@ -28,7 +28,7 @@
 - Irritability, anorexia, poor weight gain, failure to thrive.
 - Gastrointestinal: [[Gastrointestinal/Chronic Diarrhea\|Chronic diarrhea]], sore red tongue, glossitis, angular stomatitis.
 - Hemorrhagic manifestations (petechiae) secondary to severe thrombocytopenia in advanced cases.
-- Maternal deficiency associated with fetal neural tube defects, prematurity, and low birth weight.
+- Maternal deficiency associated with fetal [[Neurology/Neural Tube Defects\|neural tube defects]], prematurity, and low birth weight.
 
 ## Laboratory Investigations
 
@@ -54,14 +54,14 @@
 ### Biochemical Markers
 
 - **Folate Levels:** Serum folate <3 ng/mL; RBC folate <160 ng/mL (superior indicator of chronic tissue deficiency).
-- **Metabolites:** Elevated serum homocysteine; strictly normal methylmalonic acid (differentiates from Vitamin B12 deficiency).
+- **Metabolites:** Elevated serum homocysteine; strictly normal methylmalonic acid (differentiates from [[Hematology/Vitamin B12 Deficiency\|Vitamin B12 deficiency]]).
 - **Hemolysis Markers:** Elevated lactate dehydrogenase (LDH), elevated unconjugated bilirubin, decreased haptoglobin (reflecting intramedullary destruction/ineffective erythropoiesis).
 
 ## Management Principles
 
 ### Diagnostic Precaution
 
-- Mandatory exclusion of Vitamin B12 deficiency prior to folate administration.
+- Mandatory exclusion of [[Hematology/Vitamin B12 Deficiency\|Vitamin B12 deficiency]] prior to folate administration.
 - Rationale: Folic acid therapy effectively corrects hematologic parameters but fails to halt, and may inadvertently precipitate or accelerate, irreversible neurological degeneration characteristic of B12 deficiency.
 
 ### Therapeutic Regimen

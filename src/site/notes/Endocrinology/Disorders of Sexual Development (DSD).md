@@ -78,7 +78,7 @@
 | :--------------------- | :-------------------- | :-------------------------------------------------------------------------------------------------------------------------------------- | :--------------------------------------------------------------------------------------------------------------------------------- |
 | **Sex Chromosome DSD** | 45,X/46,XY46,XX/46,XY | Mixed Gonadal Dysgenesis<br><br>Ovotesticular DSD                                                                                       | Mosaic loss of Y chromosome. Chimerism. Gonadoblastoma risk high.                                                                  |
 | **46,XY DSD**          | 46,XY                 | **Gonadal Development:** Complete/Partial Dysgenesis<br><br>**Androgen Synthesis:** Enzyme deficiencies<br><br>**Androgen Action:** AIS | _WT1_, _SF1_, _SOX9_, _SRY_ defects. StAR, 3β-HSD, 17α-OH/17,20-lyase, 5α-reductase, 17β-HSD3.Androgen Receptor (AR) mutations.    |
-| **46,XX DSD**          | 46,XX                 | **Androgen Excess:** Fetal, Fetoplacental, Maternal<br><br>**Gonadal Development:** Testicular or Ovotesticular                         | Congenital Adrenal Hyperplasia (21-OHD, 11β-OHD). Placental aromatase deficiency. Maternal virilizing tumors. _SRY_ translocation. |
+| **46,XX DSD**          | 46,XX                 | **Androgen Excess:** Fetal, Fetoplacental, Maternal<br><br>**Gonadal Development:** Testicular or Ovotesticular                         | [[Endocrinology/Congenital Adrenal Hyperplasia\|Congenital Adrenal Hyperplasia]] (21-OHD, 11β-OHD). Placental aromatase deficiency. Maternal virilizing tumors. _SRY_ translocation. |
 
 ## Molecular Genetics & Specific Etiologies
 
@@ -86,7 +86,7 @@
 
 Characterized by female internal genitalia (uterus, ovaries present) and virilized external genitalia.
 
-#### Fetal Androgen Excess (Congenital Adrenal Hyperplasia)
+#### Fetal Androgen Excess ([[Endocrinology/Congenital Adrenal Hyperplasia\|Congenital Adrenal Hyperplasia]])
 
 - **21-Hydroxylase Deficiency (_CYP21A2_):**
     - Most common cause of 46,XX DSD.
@@ -105,7 +105,7 @@ Characterized by female internal genitalia (uterus, ovaries present) and viriliz
 - **P450 Oxidoreductase (POR) Deficiency:**
     - Essential electron donor for CYP21, CYP17, aromatase.
     - Virilization of XX fetus via alternative "backdoor" DHT synthesis pathway.
-    - Associated with Antley-Bixler syndrome (craniosynostosis, radiohumeral synostosis).
+    - Associated with Antley-Bixler syndrome ([[Neurology/Craniosynostosis\|craniosynostosis]], radiohumeral synostosis).
 
 #### Fetoplacental & Maternal Androgen Excess
 
@@ -135,8 +135,8 @@ Characterized by male karyotype with ambiguous or complete female external genit
 
 - Complete failure leads to female phenotype (Swyer syndrome). Partial failure leads to genital ambiguity.
 - High risk of gonadoblastoma in dysgenetic intra-abdominal testes.
-- **_WT1_ Mutations:** Denys-Drash syndrome (nephropathy, Wilms tumor, ambiguous genitalia). Frasier syndrome (focal segmental glomerulosclerosis, XY sex reversal, gonadoblastoma).
-- **_SOX9_ Mutations:** Campomelic dysplasia (short-limbed dwarfism, bowed femora, cleft palate). 75% show complete male-to-female sex reversal.
+- **_WT1_ Mutations:** Denys-Drash syndrome (nephropathy, [[Hematology/Wilms Tumor\|Wilms tumor]], ambiguous genitalia). Frasier syndrome (focal segmental glomerulosclerosis, XY sex reversal, gonadoblastoma).
+- **_SOX9_ Mutations:** Campomelic dysplasia (short-limbed [[Endocrinology/Dwarfism\|dwarfism]], bowed femora, cleft palate). 75% show complete male-to-female sex reversal.
 - **_SF1_ (_NR5A1_) Mutations:** Adrenal insufficiency combined with 46,XY gonadal dysgenesis and Mullerian persistence.
 - **_DHH_ (Desert Hedgehog):** Gonadal dysgenesis with minifascicular polyneuropathy.
 - **_SRY_ Mutations:** Responsible for 15-20% of XY gonadal dysgenesis cases. Prevents DNA-binding/bending.
@@ -171,10 +171,10 @@ Characterized by male karyotype with ambiguous or complete female external genit
 
 |Syndrome|Gene|Clinical Features|
 |:--|:--|:--|
-|**Smith-Lemli-Opitz**|_DHCR7_|Microcephaly, 2-3 toe syndactyly, cleft palate, elevated 7-dehydrocholesterol.|
+|**Smith-Lemli-Opitz**|_DHCR7_|[[Neurology/Microcephaly\|Microcephaly]], 2-3 toe syndactyly, cleft palate, elevated 7-dehydrocholesterol.|
 |**CHARGE**|_CHD7_|Coloboma, Heart defects, Choanal atresia, Retardation, Genital/Ear anomalies.|
 |**Pallister-Hall**|_GLI3_|Hypothalamic hamartoma, postaxial polydactyly, imperforate anus, bifid epiglottis.|
-|**WAGR**|11p13 del|Wilms tumor, Aniridia, Genitourinary anomalies, Retardation.|
+|**WAGR**|11p13 del|[[Hematology/Wilms Tumor\|Wilms tumor]], Aniridia, Genitourinary anomalies, Retardation.|
 |**Hand-Foot-Genital**|_HOXA13_|Short thumbs/great toes, hypospadias, bicornuate uterus.|
 |**Genitopatellar**|_KAT6B_|Absent patellae, flexion contractures, ambiguous genitalia, agenesis corpus callosum.|
 
@@ -206,7 +206,7 @@ Characterized by male karyotype with ambiguous or complete female external genit
     - AMH serves as biomarker of Sertoli cell presence/function.
     - **hCG Stimulation Test:** Assesses Leydig cell capacity to synthesize testosterone and differentiates enzymatic blocks (e.g., T/DHT ratio for 5α-reductase deficiency, Androstenedione/T ratio for 17β-HSD3).
 - **Genetic Diagnostics:**
-    - Microarray (CGH), specific DSD gene panels, or whole exome sequencing (WES) to identify _WT1_, _SF1_, _SOX9_, _SRY_ mutations.
+    - Microarray (CGH), specific DSD gene panels, or whole [[Genetics/Exome Sequencing\|exome sequencing]] (WES) to identify _WT1_, _SF1_, _SOX9_, _SRY_ mutations.
 
 ### Imaging and Surgical Evaluation
 
@@ -247,5 +247,5 @@ Characterized by male karyotype with ambiguous or complete female external genit
 ### Long-Term Outcomes & Prognosis
 
 - **Fertility:** Excellent in optimally treated CAH. Usually absent in mixed gonadal dysgenesis, complete androgen insensitivity, and XX males. Assisted reproductive techniques (ART) such as microTESE increasingly successful.
-- **Bone Health:** Patients with gonadal failure (e.g., Turner syndrome, CAIS post-gonadectomy) require optimal HRT to prevent severe osteopenia.
+- **Bone Health:** Patients with gonadal failure (e.g., [[Genetics/Turner Syndrome\|Turner syndrome]], CAIS post-gonadectomy) require optimal HRT to prevent severe osteopenia.
 - **Transition of Care:** Structured handover to adult endocrinology and urology is imperative for ongoing hormone management, sexual function surveillance, and psychosocial support.

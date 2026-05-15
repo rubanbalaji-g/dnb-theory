@@ -39,7 +39,7 @@
 
 ## Diagnostic Evaluation
 
-- A high index of clinical suspicion must be maintained for lean, autoantibody-negative patients presenting with a strong multi-generational family history of diabetes.
+- A high [[Statistics/Index\|index]] of clinical suspicion must be maintained for lean, autoantibody-negative patients presenting with a strong multi-generational family history of diabetes.
 - Definitive diagnosis strictly mandates molecular genetic testing to identify the exact pathogenic variant, as the specific genetic etiology profoundly dictates the optimal therapeutic approach and prognosis.
 
 ## Management Strategies

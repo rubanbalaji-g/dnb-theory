@@ -19,12 +19,12 @@
 |Category|Risk Factors|
 |:--|:--|
 |**Genetic/Immunodeficiency**|Bruton agammaglobulinemiaCommon variable immunodeficiencySevere combined immunodeficiency (SCID)Ataxia-telangiectasiaBloom syndromeWiskott-Aldrich syndromeAutoimmune lymphoproliferative syndrome (ALPS)Nijmegen breakage syndrome|
-|**Viral Associations**|Epstein-Barr virus (EBV): Endemic Burkitt, Post-transplant lymphoproliferative disease (PTLD)Human Immunodeficiency Virus (HIV)Hepatitis C virus|
+|**Viral Associations**|Epstein-Barr virus (EBV): Endemic Burkitt, Post-transplant lymphoproliferative disease (PTLD)Human Immunodeficiency Virus (HIV)[[Gastrointestinal/Hepatitis C\|Hepatitis C]] virus|
 |**Iatrogenic**|Prior chemotherapy/radiotherapy (secondary malignancy)Immunomodulatory therapy (e.g., infliximab)Post-organ transplantation|
 
-## Distinguishing Features From Hodgkin Lymphoma
+## Distinguishing Features From [[Hematology/Hodgkin Lymphoma\|Hodgkin Lymphoma]]
 
-|Feature|Hodgkin Lymphoma|Non-Hodgkin Lymphoma|
+|Feature|[[Hematology/Hodgkin Lymphoma\|Hodgkin Lymphoma]]|[[Hematology/Non-Hodgkin Lymphoma\|Non-Hodgkin Lymphoma]]|
 |:--|:--|:--|
 |**Anatomical Spread**|Localized, continuous nodal spread|Disseminated, discontinuous|
 |**Extranodal Disease**|Rare|Common|
@@ -36,7 +36,7 @@
 
 ## Pathological Classification And Genetics
 
-Pediatric non-Hodgkin lymphoma predominantly high grade (>95%). Low-grade variants rare.
+Pediatric [[Hematology/Non-Hodgkin Lymphoma\|non-Hodgkin lymphoma]] predominantly high grade (>95%). Low-grade variants rare.
 
 |Histologic Subtype|Frequency|Immunophenotype|Cytogenetics/Translocations|Genomic Alterations|
 |:--|:--|:--|:--|:--|
@@ -60,12 +60,12 @@ Manifestations depend on pathologic subtype, primary site, growth rate. 70% pres
 
 ### Burkitt Lymphoma (BL)
 
-- Fastest proliferating human tumor; Ki-67 index near 100%.
+- Fastest proliferating human tumor; Ki-67 [[Statistics/Index\|index]] near 100%.
 - Endemic form: Jaw/facial bone tumors, head/neck mass.
 - Sporadic form: Massive abdominal presentation.
 - Intussusception (ileocecal), abdominal pain, obstruction, ascites.
 - Diffuse leukemia-like presentation (bone marrow >25% blasts).
-- High risk spontaneous tumor lysis syndrome (TLS).
+- High risk spontaneous [[Hematology/Tumor Lysis Syndrome\|tumor lysis syndrome]] (TLS).
 
 ### Diffuse Large B-Cell Lymphoma (DLBCL)
 
@@ -109,7 +109,7 @@ Requires prompt, meticulous investigation due to rapid tumor doubling time.
 
 ## Staging Systems
 
-### International Pediatric Non-Hodgkin Lymphoma Staging System (IPNHLSS)
+### International Pediatric [[Hematology/Non-Hodgkin Lymphoma\|Non-Hodgkin Lymphoma]] Staging System (IPNHLSS)
 
 Update incorporating molecular/flow cytometry techniques for minimal disease detection.
 
@@ -125,7 +125,7 @@ Update incorporating molecular/flow cytometry techniques for minimal disease det
 ### Oncologic Emergencies
 
 - **Superior Vena Cava / Superior Mediastinal Syndrome:** Airway compromise. Avoid general anesthesia/flat positioning. Intravenous dexamethasone or methylprednisolone (1 mg/kg every 6 hours). Emergency limited radiation if steroid-refractory. Biopsy immediately upon stabilization.
-- **Tumor Lysis Syndrome (TLS):** Characterized by hyperuricemia, hyperkalemia, hyperphosphatemia, hypocalcemia. Prevent/treat with aggressive hyperhydration. Allopurinol (xanthine oxidase inhibitor) for low/intermediate risk. Rasburicase (recombinant urate oxidase) for high risk/established TLS. Contraindicated in G6PD deficiency.
+- **[[Hematology/Tumor Lysis Syndrome\|Tumor Lysis Syndrome]] (TLS):** Characterized by hyperuricemia, hyperkalemia, hyperphosphatemia, hypocalcemia. Prevent/treat with aggressive hyperhydration. Allopurinol (xanthine oxidase inhibitor) for low/intermediate risk. Rasburicase (recombinant urate oxidase) for high risk/established TLS. Contraindicated in G6PD deficiency.
 - **Spinal Cord Compression:** Dexamethasone, rapid systemic chemotherapy. Radiation/surgery reserved for refractory cases.
 
 ### General Treatment Modalities

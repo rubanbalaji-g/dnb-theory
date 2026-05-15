@@ -10,9 +10,9 @@
 - Consult transfusion medicine team routinely.
 - Conduct transfusions carefully; initiate with test dose.
 
-## Autoimmune Hemolytic Anemia
+## [[Hematology/Autoimmune Hemolytic Anemia\|Autoimmune Hemolytic Anemia]]
 
-### Warm Autoimmune Hemolytic Anemia
+### Warm [[Hematology/Autoimmune Hemolytic Anemia\|Autoimmune Hemolytic Anemia]]
 
 - Avoid transfusion when possible.
 - Truly compatible blood unavailable; autoantibody behaves as pan agglutinin.
@@ -26,7 +26,7 @@
 - Maintain slow transfusion rate of 2 mL/kg/h.
 - Combine biologic crossmatching, small volume transfusion, and high-dose corticosteroid therapy to ensure safety.
 
-### Cold Autoimmune Hemolytic Anemia And Paroxysmal Cold Hemoglobinuria
+### Cold [[Hematology/Autoimmune Hemolytic Anemia\|Autoimmune Hemolytic Anemia]] And Paroxysmal Cold Hemoglobinuria
 
 - Blood bank releases "least incompatible" unit.
 - Warm blood to 37°C during administration.
@@ -53,9 +53,9 @@
 
 |Condition|Specific Transfusion Precautions|
 |:--|:--|
-|**Thalassemia**|Match ABO, Cc, Ee, and Kell antigens to reduce alloimmunization risk. - Utilize leukocyte-depleted packed red cells.|
-|**Sickle Cell Disease**|Provide extended antigen-matched blood for C, E, and K antigens. - Limit simple transfusion volume to 10-15 mL/kg. - Restrict post-transfusion hemoglobin to maximum 10 g/dL to avoid hyperviscosity syndrome. - Monitor for delayed hemolytic transfusion reaction; clinically mimics vaso-occlusive crisis due to anamnestic humoral response.|
-|**Glucose-6-Phosphate Dehydrogenase Deficiency**|Transfuse packed red blood cells for acute hemolysis with hemoglobin below 7 g/dL. - Transfuse for persistent hemoglobinuria with hemoglobin below 9 g/dL.|
+|**[[Hematology/Thalassemia\|Thalassemia]]**|Match ABO, Cc, Ee, and Kell antigens to reduce alloimmunization risk. - Utilize leukocyte-depleted packed red cells.|
+|**[[Hematology/Sickle Cell Disease\|Sickle Cell Disease]]**|Provide extended antigen-matched blood for C, E, and K antigens. - Limit simple transfusion volume to 10-15 mL/kg. - Restrict post-transfusion hemoglobin to maximum 10 g/dL to avoid hyperviscosity syndrome. - Monitor for delayed hemolytic [[Hematology/Transfusion Reaction\|transfusion reaction]]; clinically mimics vaso-occlusive crisis due to anamnestic humoral response.|
+|**[[Hematology/Glucose-6-Phosphate Dehydrogenase Deficiency\|Glucose-6-Phosphate Dehydrogenase Deficiency]]**|Transfuse packed red blood cells for acute hemolysis with hemoglobin below 7 g/dL. - Transfuse for persistent hemoglobinuria with hemoglobin below 9 g/dL.|
 
 ## Microangiopathic Hemolytic Anemia
 

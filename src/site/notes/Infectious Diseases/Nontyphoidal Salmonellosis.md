@@ -4,7 +4,7 @@
 
 ## 1. Introduction
 
-Nontyphoidal Salmonellosis (NTS) refers to infections caused by _Salmonella_ serotypes other than _S._ Typhi and _S._ Paratyphi. While typhoidal _Salmonella_ strains are host-restricted to humans and cause systemic enteric fever, nontyphoidal strains have a broad host range involving both animals and humans. NTS is a major global public health burden, primarily causing self-limiting acute gastroenteritis in healthy individuals but capable of causing life-threatening invasive disease (bacteremia, meningitis) in young infants, the elderly, and immunocompromised hosts.
+[[Infectious Diseases/Nontyphoidal Salmonellosis\|Nontyphoidal Salmonellosis]] (NTS) refers to infections caused by _Salmonella_ serotypes other than _S._ Typhi and _S._ Paratyphi. While typhoidal _Salmonella_ strains are host-restricted to humans and cause systemic [[Infectious Diseases/Enteric Fever\|enteric fever]], nontyphoidal strains have a broad host range involving both animals and humans. NTS is a major global public health burden, primarily causing self-limiting acute gastroenteritis in healthy individuals but capable of causing life-threatening invasive disease (bacteremia, [[Neurology/Meningitis\|meningitis]]) in young infants, the elderly, and immunocompromised hosts.
 
 ## 2. Etiology and Microbiology
 
@@ -18,8 +18,8 @@ Nontyphoidal Salmonellosis (NTS) refers to infections caused by _Salmonella_ ser
     - **Foodborne:** This is the most common route. Contaminated poultry, eggs, milk, and dairy products are frequent sources.
     - **Zoonotic:** Direct contact with infected pets, particularly **<span style="color:rgb(0, 176, 240)">reptiles</span>** (turtles, iguanas) and amphibians, is a significant risk factor for children.
     - **Fecal-Oral:** Person-to-person spread can occur but is less common than with _Shigella_ due to the higher inoculum required.
-- **Vulnerable Populations:** The incidence is highest in infants and young children. Severe invasive disease is more common in neonates, infants <3 months, and children with <span style="color:rgb(0, 176, 240)">underlying immunodeficiencies (e.g., HIV, sickle cell disease) or malnutrition.</span>
-- **Invasive NTS in Africa:** In sub-Saharan Africa, NTS has emerged as a leading cause of community-acquired bacteremia in children, often associated with HIV, malaria, and malnutrition, with high case fatality rates.
+- **Vulnerable Populations:** The incidence is highest in infants and young children. Severe invasive disease is more common in neonates, infants <3 months, and children with <span style="color:rgb(0, 176, 240)">underlying immunodeficiencies (e.g., HIV, [[Hematology/Sickle Cell Disease\|sickle cell disease]]) or malnutrition.</span>
+- **Invasive NTS in Africa:** In sub-Saharan Africa, NTS has emerged as a leading cause of community-acquired bacteremia in children, often associated with HIV, [[Infectious Diseases/Malaria\|malaria]], and malnutrition, with high case fatality rates.
 
 ## 4. Pathogenesis
 
@@ -41,7 +41,7 @@ This is the most common presentation.
 - **Incubation Period:** 6 to 72 hours (median 24 hours).
 - **Symptoms:** Abrupt onset of nausea, vomiting, and crampy abdominal pain (often periumbilical or lower quadrant), followed by diarrhea.
 - **Stool Characteristics:** Diarrhea ranges from loose watery stools to [[Gastrointestinal/Dysentery\|dysentery]] with blood and mucus. In infants, stools may be green and slimy.
-- **Systemic Signs:** Fever ($38^\circ\text{C} - 39^\circ\text{C}$) is common, occurring in about 70–80% of patients.
+- **Systemic Signs:** Fever ($38^\circ\text{C} - 39^\circ\text{C}$) is common, occurring in [[About\|about]] 70–80% of patients.
 - **Course:** The illness is usually self-limiting, resolving within 2–7 days.
 
 ### 5.2. Bacteremia
@@ -51,7 +51,7 @@ Transient bacteremia occurs in 1–5% of immunocompetent children with NTS gastr
 - **Risk Factors for Bacteremia:**
     - Age: Neonates and infants <3 months (risk up to 30%).
     - Immunocompromise: HIV/AIDS, malignancy, corticosteroid use.
-    - Sickle Cell Disease: Functional asplenia predisposes to severe NTS sepsis and osteomyelitis.
+    - [[Hematology/Sickle Cell Disease\|Sickle Cell Disease]]: Functional asplenia predisposes to severe NTS sepsis and osteomyelitis.
     - Malnutrition.
     - Specific Serotypes: _S._ Choleraesuis and _S._ Dublin are more invasive.
 
@@ -59,9 +59,9 @@ Transient bacteremia occurs in 1–5% of immunocompetent children with NTS gastr
 
 Bacteremia can lead to seeding of almost any organ.
 
-- **Meningitis:** Seen primarily in infants <4 months. It is severe, with high mortality and high rates of neurologic sequelae (seizures, hydrocephalus).
-- **Osteomyelitis:** _Salmonella_ is a common cause of osteomyelitis in children with sickle cell disease.
-- **Others:** Septic arthritis, endocarditis, pneumonia, urinary tract infection, and abscesses (hepatic, splenic).
+- **[[Neurology/Meningitis\|Meningitis]]:** Seen primarily in infants <4 months. It is severe, with high mortality and high rates of neurologic sequelae (seizures, [[Neurology/Hydrocephalus\|hydrocephalus]]).
+- **Osteomyelitis:** _Salmonella_ is a common cause of osteomyelitis in children with [[Hematology/Sickle Cell Disease\|sickle cell disease]].
+- **Others:** Septic arthritis, endocarditis, pneumonia, [[Nephrology/Urinary Tract Infection\|urinary tract infection]], and abscesses (hepatic, splenic).
 
 ### 5.4. Carrier State
 
@@ -87,7 +87,7 @@ The cornerstone of therapy for NTS gastroenteritis is rehydration (oral or intra
 
 1. **Age:** Infants <3 months (some experts suggest <6 months).
 2. **Immunocompromised:** HIV, malignancy, primary immunodeficiency, congenital asplenia.
-3. **Chronic Conditions:** Sickle cell disease, inflammatory bowel disease.
+3. **Chronic Conditions:** [[Hematology/Sickle Cell Disease\|Sickle cell disease]], inflammatory bowel disease.
 4. **Severe Illness:** Signs of sepsis, severe toxicity, or documented bacteremia/extra-intestinal foci.
 
 **Choice of Antimicrobial:**
@@ -97,7 +97,7 @@ The cornerstone of therapy for NTS gastroenteritis is rehydration (oral or intra
 - **Duration:**
     - Gastroenteritis (high-risk): 3–5 days.
     - Bacteremia: 10–14 days.
-    - Meningitis: $\ge$ 4 weeks.
+    - [[Neurology/Meningitis\|Meningitis]]: $\ge$ 4 weeks.
     - Osteomyelitis: 4–6 weeks.
 
 ## 8. Prevention

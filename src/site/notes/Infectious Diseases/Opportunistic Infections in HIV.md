@@ -28,7 +28,7 @@
     - **Radiology:** Chest X-ray typically shows diffuse, bilateral, symmetric interstitial or alveolar infiltrates extending from the perihilar region to the periphery ("ground-glass" appearance). Normal chest X-rays can occur early in the disease.
     - **Laboratory:** Serum lactate dehydrogenase (LDH) levels are often elevated but are non-specific,.
     - **Organism Detection:** Definitive diagnosis requires demonstration of the organism.
-        - **Bronchoalveolar Lavage (BAL):** Sensitivity of 75–95%; preferred diagnostic method.
+        - **[[Respiratory/Bronchoalveolar Lavage (BAL)\|Bronchoalveolar Lavage (BAL)]]:** Sensitivity of 75–95%; preferred diagnostic method.
         - **Induced Sputum:** Less sensitive (20–40%) than in adults; a negative result does not rule out PCP.
         - **Staining:** Methenamine silver, Giemsa, or immunofluorescent monoclonal antibody stains are used.
         - **PCR:** Highly sensitive but may not distinguish colonization from active disease.
@@ -63,7 +63,7 @@
         - Common symptoms: Prolonged fever, unremitting cough (>2 weeks), weight loss/failure to thrive, night sweats.
         - Radiographic patterns include lobar consolidation, cavitation (more common in HIV), and intrathoracic lymphadenopathy.
         - Can mimic Lymphoid Interstitial Pneumonitis (LIP) or bacterial pneumonia.
-    - **Extrapulmonary TB:** Significantly more frequent in HIV-infected children. Sites include lymph nodes (scrofula), CNS (meningitis, tuberculoma), pleura, and disseminated (miliary) disease.
+    - **Extrapulmonary TB:** Significantly more frequent in HIV-infected children. Sites include lymph nodes (scrofula), CNS ([[Neurology/Meningitis\|meningitis]], tuberculoma), pleura, and disseminated (miliary) disease.
 
 - **Diagnosis:**
     
@@ -134,7 +134,7 @@
 ### 2. Cryptococcosis
 
 - **Epidemiology:** Rare in young children; occurs in adolescents with severe immune depletion.
-- **Clinical:** Meningitis is the most common presentation (fever, headache, elevated intracranial pressure). Can also cause pneumonia or disseminated disease.
+- **Clinical:** [[Neurology/Meningitis\|Meningitis]] is the most common presentation (fever, headache, elevated intracranial pressure). Can also cause pneumonia or disseminated disease.
 - **Diagnosis:** CSF India ink stain, Cryptococcal Antigen (CrAg) in CSF/serum (highly sensitive), Culture.
 - **Treatment:** Induction with Amphotericin B + Flucytosine followed by Fluconazole consolidation and maintenance.
 
@@ -168,7 +168,7 @@
 
 - **Primary Infection (Chickenpox):** Can be severe, prolonged, and complicated by bacterial superinfection, pneumonia, or hepatitis in HIV-infected children.
 - **Herpes Zoster (Shingles):** Reactivation is common; can be multidermatomal, recurrent, or disseminated,.
-- **Prevention:** Varicella vaccine is recommended for HIV-infected children _if_ CD4 ≥15% (not severely immunocompromised).
+- **Prevention:** [[Misc/Varicella Vaccine\|Varicella vaccine]] is recommended for HIV-infected children _if_ CD4 ≥15% (not severely immunocompromised).
 
 ### 4. Lymphoid Interstitial Pneumonitis (LIP)
 
@@ -202,7 +202,7 @@
 ## Recurrent Serious Bacterial Infections
 
 - Considered an AIDS-defining condition in children.
-- **Types:** Bacteremia, pneumonia, meningitis, osteomyelitis, deep abscesses.
+- **Types:** Bacteremia, pneumonia, [[Neurology/Meningitis\|meningitis]], osteomyelitis, deep abscesses.
 - **Pathogens:** Encapsulated bacteria (_S. pneumoniae, H. influenzae, Salmonella_) due to B-cell dysfunction. _Pseudomonas_ and _Staphylococcus_ in advanced disease,.
 - **Management:** Prompt antibiotic therapy and IVIG for children with hypogammaglobulinemia,.
 
@@ -225,6 +225,6 @@
     - **Toxoplasmosis:** TMP-SMX for IgG positive patients with severe immunosuppression.
 - **Immunization:**
     - Follow standard schedule with exceptions for live vaccines.
-    - **Contraindicated:** BCG, OPV, and Yellow Fever in symptomatic/immunocompromised children,.
+    - **Contraindicated:** [[Misc/BCG\|BCG]], OPV, and Yellow Fever in symptomatic/immunocompromised children,.
     - **Allowed:** MMR and Varicella _only_ if CD4 >15% (no severe suppression),.
     - **Recommended:** Pneumococcal (PCV + PPSV23), Meningococcal, Influenza (inactivated),.

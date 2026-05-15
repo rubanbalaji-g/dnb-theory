@@ -6,7 +6,7 @@
 
 - Supratentorial tumors account for approximately 40.9% of primary pediatric central nervous system (CNS) tumors.
 - Exhibit distinct age-related predilection.
-- Predominate during first year of life (choroid plexus tumors, germ cell tumors).
+- Predominate during first year of life (choroid plexus tumors, [[Hematology/Germ Cell Tumors\|germ cell tumors]]).
 - Predominate again after 10 years of age (diffuse astrocytomas, pituitary/craniopharyngeal tumors).
 
 ## Classification By Anatomic Location
@@ -23,12 +23,12 @@
 - Craniopharyngioma.
 - Optic nerve glioma.
 - Pituitary adenoma.
-- Germ cell tumors (GCTs).
+- [[Hematology/Germ Cell Tumors\|Germ cell tumors]] (GCTs).
 
 ### Pineal Region
 
 - Pineoblastoma and pineocytoma.
-- Germ cell tumors.
+- [[Hematology/Germ Cell Tumors\|Germ cell tumors]].
 - Astrocytoma.
 
 ### Ventricular System
@@ -40,22 +40,22 @@
 
 ### Astrocytomas
 
-- **Optic Pathway Gliomas:** Constitute 5% of pediatric CNS tumors. Account for 15% of tumors in patients with neurofibromatosis type 1 (NF-1). Histologically, 90% are low-grade astrocytomas.
+- **Optic Pathway Gliomas:** Constitute 5% of pediatric [[Hematology/CNS Tumors\|CNS tumors]]. Account for 15% of tumors in patients with neurofibromatosis type 1 (NF-1). Histologically, 90% are low-grade astrocytomas.
 - **Pilomyxoid Astrocytoma:** Occurs primarily in hypothalamic/optic chiasmic region in infants. Carries high risk of cerebrospinal spread.
 - **Diffuse Astrocytomas:** Predilect supratentorial locations. Evolution to malignant astrocytoma linked to cumulative molecular abnormalities (p53 mutation, platelet-derived growth factor receptor-alpha overexpression).
 - **High-Grade Gliomas:** Include anaplastic astrocytoma and glioblastoma multiforme. Harbor characteristic genetic alterations: mutations in histone H3.3, H3.1, p53, BRAF, and amplification of oncogenes (PDGFRA).
 
 ### Craniopharyngioma
 
-- Arise in suprasellar region; account for 6-9% of pediatric CNS tumors.
+- Arise in suprasellar region; account for 6-9% of pediatric [[Hematology/CNS Tumors\|CNS tumors]].
 - Adamantinomatous subtype common in children; exclusively harbors CTNNB1 mutations.
 - Slow-growing, benign lesions engulfing vital anatomic structures.
 - Neuroimaging demonstrates solid and cystic components with calcifications.
 
-### Germ Cell Tumors
+### [[Hematology/Germ Cell Tumors\|Germ Cell Tumors]]
 
 - Arise predominantly in midline structures (pineal and suprasellar regions).
-- Account for 3-5% of pediatric CNS tumors; peak incidence 10-12 years.
+- Account for 3-5% of pediatric [[Hematology/CNS Tumors\|CNS tumors]]; peak incidence 10-12 years.
 - Include pure germinomas (highly curable, >90% survival) and nongerminomatous GCTs (70-80% survival).
 - Characterized by secretion of tumor markers: alpha-fetoprotein (AFP) and beta-human chorionic gonadotropin (b-hCG).
 
@@ -85,14 +85,14 @@
 
 - Focal motor weakness or hemiparesis.
 - Premature hand preference in infants.
-- Focal seizures.
+- [[Neurology/Focal seizures\|Focal seizures]].
 - Frontal lobe tumors induce personality changes and headaches.
 - Temporal lobe tumors cause speech changes.
 
 ### Suprasellar And Third Ventricle Lesions
 
 - **Visual Disturbances:** Decreased visual acuity, visual field defects, Marcus Gunn pupil, nystagmus.
-- **Neuroendocrine Deficits:** Precede neuroophthalmologic dysfunction by average 1.9 years. Include diabetes insipidus, delayed/precocious puberty, hypothyroidism, galactorrhea, abnormal linear growth.
+- **Neuroendocrine Deficits:** Precede neuroophthalmologic dysfunction by average 1.9 years. Include [[Endocrinology/Diabetes Insipidus\|diabetes insipidus]], delayed/precocious puberty, hypothyroidism, galactorrhea, abnormal linear growth.
 
 ### Diencephalic Syndrome
 
@@ -116,8 +116,8 @@
 
 - Formal ophthalmologic evaluation maps visual field deficits and acuity.
 - Comprehensive endocrine panel required for midline/suprasellar tumors.
-- Serum and CSF tumor markers (AFP, b-hCG) diagnostic for secreting germ cell tumors.
-- Lumbar puncture for CSF cytology contraindicated with obstructive hydrocephalus or supratentorial midline shift (herniation risk).
+- Serum and CSF tumor markers (AFP, b-hCG) diagnostic for secreting [[Hematology/Germ Cell Tumors\|germ cell tumors]].
+- Lumbar puncture for CSF cytology contraindicated with obstructive [[Neurology/Hydrocephalus\|hydrocephalus]] or supratentorial midline shift (herniation risk).
 
 ## Management Strategies
 
@@ -129,7 +129,7 @@
 
 ### Radiotherapy
 
-- Delayed or avoided in children <3 years due to severe late effects (microcephaly, cognitive impairment, panhypopituitarism).
+- Delayed or avoided in children <3 years due to severe late effects ([[Neurology/Microcephaly\|microcephaly]], cognitive impairment, panhypopituitarism).
 - Proton-beam radiotherapy increasingly utilized to conform radiation volume and spare adjacent normal tissue.
 
 ### Chemotherapy And Targeted Therapy

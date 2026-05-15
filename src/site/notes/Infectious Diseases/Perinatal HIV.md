@@ -78,7 +78,7 @@ Prophylaxis strategies depend on the infant's risk categorization.
 
 - **Standard Vaccines:** Administer according to the national schedule.
 - **Live Vaccines:**
-    - **BCG:** WHO recommends BCG at birth for asymptomatic HIV-exposed infants in endemic areas. It should _not_ be given to symptomatic HIV-infected infants due to risk of disseminated BCG disease.
+    - **[[Misc/BCG\|BCG]]:** WHO recommends [[Misc/BCG\|BCG]] at birth for asymptomatic HIV-exposed infants in endemic areas. It should _not_ be given to symptomatic HIV-infected infants due to risk of disseminated [[Misc/BCG\|BCG]] disease.
     - **OPV:** Generally contraindicated in known HIV-infected children (IPV preferred), but often given in endemic areas to exposed infants.
     - **MMR & Varicella:** Contraindicated in severe immunosuppression (CD4 <15%), but recommended for asymptomatic or mildly symptomatic children.
 
@@ -95,11 +95,11 @@ If transmission occurs, the disease course in infants is often more aggressive t
 
 - **General:** Failure to thrive, lymphadenopathy, hepatosplenomegaly, chronic parotitis.
 - **Infections:**
-    - **Bacterial:** Recurrent pneumonia, sepsis, otitis media.
+    - **Bacterial:** [[Respiratory/Recurrent Pneumonia\|Recurrent pneumonia]], sepsis, otitis media.
     - **Fungal:** Persistent oral candidiasis (thrush) beyond 6 weeks of age, esophageal candidiasis.
     - **Viral:** CMV retinitis or pneumonitis, persistent HSV, Varicella.
-    - **Opportunistic:** _Pneumocystis jirovecii_ pneumonia (PCP) is the most common AIDS-defining illness in infants. Lymphoid Interstitial Pneumonitis (LIP) is a chronic lung disease specific to pediatric HIV.
-- **Neurologic:** HIV encephalopathy (loss of milestones, acquired microcephaly, motor deficits).
+    - **Opportunistic:** _Pneumocystis jirovecii_ pneumonia (PCP) is the most common AIDS-defining illness in infants. Lymphoid Interstitial Pneumonitis (LIP) is a [[Respiratory/Chronic Lung Disease\|chronic lung disease]] specific to [[Infectious Diseases/Pediatric HIV\|pediatric HIV]].
+- **Neurologic:** HIV encephalopathy (loss of milestones, acquired [[Neurology/Microcephaly\|microcephaly]], motor deficits).
 
 ## Treatment of HIV-Infected Infants
 

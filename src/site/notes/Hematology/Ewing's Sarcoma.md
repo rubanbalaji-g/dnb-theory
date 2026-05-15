@@ -32,7 +32,7 @@ Accounts for 34% of malignant bone tumors, representing the second most common m
 
 ### Immunohistochemistry
 
-Differentiates EFT from other SRBCTs (lymphoma, rhabdomyosarcoma, neuroblastoma, osteomyelitis).
+Differentiates EFT from other SRBCTs (lymphoma, [[Hematology/Rhabdomyosarcoma\|rhabdomyosarcoma]], [[Hematology/Neuroblastoma\|neuroblastoma]], osteomyelitis).
 
 |Marker|EFT Profile|Diagnostic Utility|
 |:--|:--|:--|
@@ -40,7 +40,7 @@ Differentiates EFT from other SRBCTs (lymphoma, rhabdomyosarcoma, neuroblastoma,
 |**Vimentin**|Positive|Supports mesenchymal origin.|
 |**Neuron-Specific Enolase (NSE)**|Positive (Variable)|Suggests neuroectodermal differentiation.|
 |**S-100**|Positive (Variable)|Suggests neural differentiation (especially in PNET).|
-|**Desmin / Actin**|Negative|Differentiates from rhabdomyosarcoma.|
+|**Desmin / Actin**|Negative|Differentiates from [[Hematology/Rhabdomyosarcoma\|rhabdomyosarcoma]].|
 |**Leukocyte Common Antigen (LCA)**|Negative|Differentiates from lymphoma.|
 
 ### Molecular Genetics
@@ -106,9 +106,9 @@ Metastases present in 10-30% at diagnosis. Central/pelvic primaries have higher 
 |:--|:--|
 |**Osteosarcoma**|Metaphyseal, blastic/sclerotic ("sunburst"), osteoid matrix production, mostly CD99 negative.|
 |**Osteomyelitis**|Febrile presentation similar, requires biopsy/culture. Lacks EWS translocation.|
-|**Langerhans Cell Histiocytosis**|Eosinophilic granuloma; lytic bone lesions without massive soft tissue component.|
+|**[[Hematology/Langerhans Cell Histiocytosis\|Langerhans Cell Histiocytosis]]**|Eosinophilic granuloma; lytic bone lesions without massive soft tissue component.|
 |**Lymphoma (Primary Bone)**|LCA positive, different clinical demographics.|
-|**Metastatic Neuroblastoma**|NSE (+), Urine VMA/HVA (+), <5 years age.|
+|**Metastatic [[Hematology/Neuroblastoma\|Neuroblastoma]]**|NSE (+), Urine VMA/HVA (+), <5 years age.|
 
 ## Treatment Modalities
 

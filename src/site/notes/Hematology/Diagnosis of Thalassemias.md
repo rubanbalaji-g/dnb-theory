@@ -20,13 +20,13 @@
 - Erythrocytosis commonly seen.
 - Increased nucleated red blood cells present.
 - Reticulocytosis variable depending heavily on syndrome severity.
-- Mentzer index calculates mean corpuscular volume divided by red blood cell count.
-- Mentzer index less than 13% strongly suggests thalassemia.
-- Mentzer index greater than 13% suggests iron deficiency anemia.
+- Mentzer [[Statistics/Index\|index]] calculates mean corpuscular volume divided by red blood cell count.
+- Mentzer [[Statistics/Index\|index]] less than 13% strongly suggests [[Hematology/Thalassemia\|thalassemia]].
+- Mentzer [[Statistics/Index\|index]] greater than 13% suggests [[Hematology/Iron Deficiency Anemia\|iron deficiency anemia]].
 
 ### Hematological Parameter Variations Across Syndromes
 
-|Parameter|Beta thalassemia major|Beta thalassemia intermedia|Beta thalassemia minor|Alpha thalassemia trait|Hemoglobin H disease|
+|Parameter|Beta [[Hematology/Thalassemia\|thalassemia]] major|Beta [[Hematology/Thalassemia\|thalassemia]] intermedia|Beta [[Hematology/Thalassemia\|thalassemia]] minor|Alpha [[Hematology/Thalassemia\|thalassemia]] trait|Hemoglobin H disease|
 |---|---|---|---|---|---|
 |**Hemoglobin (g/dl)**|2-4|6-9|9-11|10-14|2-8|
 |**Mean corpuscular volume (fl)**|50-60|60|60-80|60-80|60-70|
@@ -35,12 +35,12 @@
 |**Red cell distribution width**|Increased|80|Normal|Normal|Normal|
 |**Reticulocytosis**|Normal|Moderately high|Mild|Mild|Mild|
 
-### Differentiation from Iron Deficiency Anemia
+### Differentiation from [[Hematology/Iron Deficiency Anemia\|Iron Deficiency Anemia]]
 
-- Crucial step to differentiate thalassemia trait from iron deficiency anemia.
+- Crucial step to differentiate [[Hematology/Thalassemia\|thalassemia]] trait from [[Hematology/Iron Deficiency Anemia\|iron deficiency anemia]].
 - Red cell distribution width and iron studies provide primary differentiation.
 
-|Parameter|Iron deficiency anemia|Beta thalassemia minor|
+|Parameter|[[Hematology/Iron Deficiency Anemia\|Iron deficiency anemia]]|Beta [[Hematology/Thalassemia\|thalassemia]] minor|
 |---|---|---|
 |**Mean corpuscular volume**|Low|Markedly low|
 |**Red cell distribution width**|Increased|Normal|
@@ -57,7 +57,7 @@
 
 ### General Morphological Characteristics
 
-- Demonstrates variable morphological abnormalities based strictly on thalassemia syndrome severity.
+- Demonstrates variable morphological abnormalities based strictly on [[Hematology/Thalassemia\|thalassemia]] syndrome severity.
 - Microcytic hypochromic red blood cells characteristically present.
 - Anisopoikilocytosis prominently observed.
 - Polychromasia strongly indicates reticulocyte presence.
@@ -77,17 +77,17 @@
 
 ### Syndrome-Specific Smear Findings
 
-- Double heterozygous hemoglobin E and beta thalassemia invariably displays nucleated red blood cells.
-- Double heterozygous sickle-beta thalassemia uniquely exhibits irreversibly sickled cells and target cells.
-- Beta thalassemia intermedia characterized by marked anisocytosis, poikilocytosis, and normoblastemia.
-- Beta thalassemia major distinctly displays extreme anisocytosis, poikilocytosis, and nucleated red blood cells.
+- Double heterozygous hemoglobin E and beta [[Hematology/Thalassemia\|thalassemia]] invariably displays nucleated red blood cells.
+- Double heterozygous sickle-beta [[Hematology/Thalassemia\|thalassemia]] uniquely exhibits irreversibly sickled cells and target cells.
+- Beta [[Hematology/Thalassemia\|thalassemia]] intermedia characterized by marked anisocytosis, poikilocytosis, and normoblastemia.
+- Beta [[Hematology/Thalassemia\|thalassemia]] major distinctly displays extreme anisocytosis, poikilocytosis, and nucleated red blood cells.
 
 ### Morphological Findings Summary Table
 
 |Morphological finding|Pathophysiology and clinical significance|
 |---|---|
 |Microcytosis|Impaired globin chain synthesis; characteristic of trait and major forms|
-|Target cells|Increased surface area to volume ratio; frequently noted in beta thalassemia|
+|Target cells|Increased surface area to volume ratio; frequently noted in beta [[Hematology/Thalassemia\|thalassemia]]|
 |Basophilic stippling|Ribosomal remnants; indicates dyserythropoiesis|
 |Nucleated red cells|Intense bone marrow stimulation; invariably present in severe syndromes|
 |Golf ball inclusions|Precipitated beta-hemoglobin tetramers visible strictly with supravital stain|
@@ -111,7 +111,7 @@
 
 **Clinical Utility:**
 * Sensitivity: ~95–98% for BTT.
-* Specificity: ~70–85% (False positives in Iron Deficiency Anemia).
+* Specificity: ~70–85% (False positives in [[Hematology/Iron Deficiency Anemia\|Iron Deficiency Anemia]]).
 * Ideal for field-level screening in resource-limited settings before proceeding to HPLC.
 
 ### 2. ALKALI DENATURATION TEST (Singer’s Test)
@@ -127,7 +127,7 @@
 * The solution is filtered; the filtrate contains the alkali-resistant HbF.
 * **Calculation:** (Absorbance of filtrate / Absorbance of total hemoglobin) × 100.
 
-**Clinical Significance in Thalassemia:**
+**Clinical Significance in [[Hematology/Thalassemia\|Thalassemia]]:**
 * **β-Thalassemia Major:** HbF levels are significantly elevated (typically 70–90%).
 * **β-Thalassemia Intermedia:** HbF levels vary (10–50%).
 * **β-Thalassemia Trait:** HbF may be slightly elevated (1–5%), though HbA2 quantification via HPLC/Electrophoresis is more diagnostic.
@@ -162,10 +162,10 @@
 |Syndrome|Hemoglobin A (%)|Hemoglobin F (%)|Hemoglobin A2 (%)|Other variants|
 |---|---|---|---|---|
 |**Normal**|97|Less than 1|2-3|None|
-|**Beta thalassemia trait**|80-95|1-5|3-7|None|
-|**Beta thalassemia intermedia**|30-50|50-70|0-5|None|
-|**Beta thalassemia major**|0-20|80-100|0-13|None|
-|**Alpha thalassemia trait**|85-95|Not specified|Not specified|Barts 0-10% at birth|
+|**Beta [[Hematology/Thalassemia\|thalassemia]] trait**|80-95|1-5|3-7|None|
+|**Beta [[Hematology/Thalassemia\|thalassemia]] intermedia**|30-50|50-70|0-5|None|
+|**Beta [[Hematology/Thalassemia\|thalassemia]] major**|0-20|80-100|0-13|None|
+|**Alpha [[Hematology/Thalassemia\|thalassemia]] trait**|85-95|Not specified|Not specified|Barts 0-10% at birth|
 |**Hemoglobin H disease**|60-95|Not specified|Not specified|Hemoglobin H 5-30%; Barts 20-30% at birth|
 |**Hemoglobin Barts hydrops**|0|Not specified|Not specified|Barts 80-90%|
 
@@ -206,23 +206,23 @@
 |**Hemoglobin S**|4.16|4.02-4.30|Less than 10.0|
 |**Hemoglobin C**|4.80|4.70-4.90|Not specified|
 
-### Specific Thalassemia Diagnostic Profiles
+### Specific [[Hematology/Thalassemia\|Thalassemia]] Diagnostic Profiles
 
-#### Beta Thalassemia Syndromes
+#### Beta [[Hematology/Thalassemia\|Thalassemia]] Syndromes
 
-- **Beta Thalassemia Trait:** Mild anemia typically present. High-performance liquid chromatography cleanly exhibits hemoglobin A2 between 4-7%. Values precisely between 3.6% and 4% exclusively represent borderline hemoglobin A2 indicating mild beta alleles or coinheritance of delta thalassemia. Genotype 619 base pair deletion strongly elevates hemoglobin A2 exactly to 7-9%.
-- **Beta Thalassemia Intermedia:** Hemoglobin robustly maintains 6-9 g/dl without regular transfusions. High-performance liquid chromatography explicitly reveals remarkable hemoglobin F variation directly from 5-100%. Hemoglobin A severely markedly reduced precisely to 10-35%. Hemoglobin A2 remains widely variable; reduced, normal, or elevated.
-- **Beta Thalassemia Major:** Severe anemia, profound ineffective erythropoiesis, and massive extramedullary hematopoiesis occur rapidly. Marked anisocytosis, visible hypochromia, reticulocytosis, and normoblastemia definitively noted. High-performance liquid chromatography unambiguously exhibits marked hemoglobin F increase significantly exceeding 85%. Hemoglobin A severely markedly reduced entirely below 3%.
+- **Beta [[Hematology/Thalassemia\|Thalassemia]] Trait:** Mild anemia typically present. High-performance liquid chromatography cleanly exhibits hemoglobin A2 between 4-7%. Values precisely between 3.6% and 4% exclusively represent borderline hemoglobin A2 indicating mild beta alleles or coinheritance of delta [[Hematology/Thalassemia\|thalassemia]]. Genotype 619 base pair deletion strongly elevates hemoglobin A2 exactly to 7-9%.
+- **Beta [[Hematology/Thalassemia\|Thalassemia]] Intermedia:** Hemoglobin robustly maintains 6-9 g/dl without regular transfusions. High-performance liquid chromatography explicitly reveals remarkable hemoglobin F variation directly from 5-100%. Hemoglobin A severely markedly reduced precisely to 10-35%. Hemoglobin A2 remains widely variable; reduced, normal, or elevated.
+- **Beta [[Hematology/Thalassemia\|Thalassemia]] Major:** Severe anemia, profound ineffective erythropoiesis, and massive extramedullary hematopoiesis occur rapidly. Marked anisocytosis, visible hypochromia, reticulocytosis, and normoblastemia definitively noted. High-performance liquid chromatography unambiguously exhibits marked hemoglobin F increase significantly exceeding 85%. Hemoglobin A severely markedly reduced entirely below 3%.
 
 #### Structural Variants
 
-- **Hemoglobin E Variant:** Beta chain mutation exceptionally common in South East Asia. Heterozygous state reliably yields strictly normal phenotype wholly without anemia. Hemoglobin E cleanly elutes exactly in hemoglobin A2 window precisely on high-performance liquid chromatography. Trait uniquely exhibits approximately 30% hemoglobin E. Homozygous state densely exhibits 85-95% hemoglobin E. Double heterozygous hemoglobin E and beta thalassemia rapidly creates severely variable clinical presentation. Hemoglobin F markedly elevated 15-50% and hemoglobin E highly elevated 50-80% exclusively in double heterozygous state.
-- **Hemoglobin D-Punjab:** Beta chain mutation typically producing asymptomatic trait. High-performance liquid chromatography definitively elutes hemoglobin D exactly in unknown window explicitly at 3.8 minutes. Heterozygous state normally constitutes 30-45%. Double heterozygous hemoglobin D and beta thalassemia densely exhibits 70-90% hemoglobin D, heavily elevated hemoglobin A2, and notably elevated hemoglobin F (3-20%).
-- **Hemoglobin Lepore:** Uniquely composed directly of delta-beta fusion chains. Phenotype accurately mimics beta thalassemia trait. High-performance liquid chromatography consistently elutes hemoglobin Lepore identically with hemoglobin A2. Hemoglobin A2 window specifically registers 10-18%.
+- **Hemoglobin E Variant:** Beta chain mutation exceptionally common in South East Asia. Heterozygous state reliably yields strictly normal phenotype wholly without anemia. Hemoglobin E cleanly elutes exactly in hemoglobin A2 window precisely on high-performance liquid chromatography. Trait uniquely exhibits approximately 30% hemoglobin E. Homozygous state densely exhibits 85-95% hemoglobin E. Double heterozygous hemoglobin E and beta [[Hematology/Thalassemia\|thalassemia]] rapidly creates severely variable clinical presentation. Hemoglobin F markedly elevated 15-50% and hemoglobin E highly elevated 50-80% exclusively in double heterozygous state.
+- **Hemoglobin D-Punjab:** Beta chain mutation typically producing asymptomatic trait. High-performance liquid chromatography definitively elutes hemoglobin D exactly in unknown window explicitly at 3.8 minutes. Heterozygous state normally constitutes 30-45%. Double heterozygous hemoglobin D and beta [[Hematology/Thalassemia\|thalassemia]] densely exhibits 70-90% hemoglobin D, heavily elevated hemoglobin A2, and notably elevated hemoglobin F (3-20%).
+- **Hemoglobin Lepore:** Uniquely composed directly of delta-beta fusion chains. Phenotype accurately mimics beta [[Hematology/Thalassemia\|thalassemia]] trait. High-performance liquid chromatography consistently elutes hemoglobin Lepore identically with hemoglobin A2. Hemoglobin A2 window specifically registers 10-18%.
 
-#### Alpha Thalassemia Syndromes
+#### Alpha [[Hematology/Thalassemia\|Thalassemia]] Syndromes
 
-- **Alpha Thalassemia Trait:** Defines strict deletion explicitly of two alpha-globin genes. Microcytosis, noticeable hypochromia, and very mild anemia manifest definitively.
+- **Alpha [[Hematology/Thalassemia\|Thalassemia]] Trait:** Defines strict deletion explicitly of two alpha-globin genes. Microcytosis, noticeable hypochromia, and very mild anemia manifest definitively.
 - **Hemoglobin H Disease:** Defines profound deletion explicitly of three alpha-globin genes; significantly heavily reduces alpha-chain synthesis. Hemolytic anemia precisely of heavily variable severity occurs rapidly. Hemoglobin H (specific beta4 tetramers) actively present. Supravital stain definitively reveals heavily pathognomonic golf ball-like inclusions.
 - **Hemoglobin Barts Hydrops Fetalis:** Defines complete massive deletion of exactly all four alpha-globin genes. Absolutely no normal adult or normal hemoglobin F production occurs whatsoever. Hemoglobin Barts massively constitutes entirely 80-100% of available newborn hemoglobin. Alpha/beta synthesis ratio rigorously equals zero.
 - **Alpha Gene Variants:** Specific discrete point mutations directly replace isolated single amino acids. Hemoglobin J Meerut strictly exhibits single sharp peak uniquely in P3 window exactly at 1.6-1.85 minutes. Hemoglobin Q India specifically exhibits isolated unknown window peak exactly at 4.45 minutes.
@@ -231,9 +231,9 @@
 
 - Deemed absolutely essential directly for successfully confirming highly abnormal high-performance liquid chromatography variants.
 - Powerfully facilitates strictly precise molecular genotype diagnosis.
-- Beta thalassemia exceedingly common mutation robustly identified directly via routine end point polymerase chain reaction.
-- Beta thalassemia exhaustive full gene analysis executed meticulously via standard Sanger sequencing.
-- Alpha thalassemia rigorous mutation screening reliably performed thoroughly via massive multiplex ligation probe amplification.
+- Beta [[Hematology/Thalassemia\|thalassemia]] exceedingly common mutation robustly identified directly via routine end point polymerase chain reaction.
+- Beta [[Hematology/Thalassemia\|thalassemia]] exhaustive full gene analysis executed meticulously via standard Sanger sequencing.
+- Alpha [[Hematology/Thalassemia\|thalassemia]] rigorous mutation screening reliably performed thoroughly via massive multiplex ligation probe amplification.
 
 ## Specialized Tissue Monitoring Modalities
 
@@ -260,7 +260,7 @@
 - Assesses accurately profound severe skeletal complications directly resulting from chronic hemolytic anemia.
 - Detects precise pathological cortical thinning and massive medullary cavity widening.
 - Identifies explicitly insidious osteopenia and progressive osteoporosis.
-- Osteopenia and active osteoporosis emphatically represent highly common devastating complications strictly of thalassemia.
+- Osteopenia and active osteoporosis emphatically represent highly common devastating complications strictly of [[Hematology/Thalassemia\|thalassemia]].
 - Prevalence brutally reaches heavily approximately 60% notably in surviving patients strictly over 20 years old.
 - Risk positively correlates extremely directly highly with rapidly advancing patient age.
 

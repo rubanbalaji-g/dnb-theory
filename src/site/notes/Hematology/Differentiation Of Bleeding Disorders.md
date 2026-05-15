@@ -36,20 +36,20 @@
 
 ## Etiological Classification
 
-### Platelet Disorders
+### [[Hematology/Platelet Disorders\|Platelet Disorders]]
 
-- **Immune Destruction:** Immune thrombocytopenic purpura (ITP) features autoantibodies against platelet glycoproteins.
-- **Microangiopathic Consumption:** Hemolytic uremic syndrome, thrombotic thrombocytopenic purpura, disseminated intravascular coagulation.
-- **Production Defects:** Congenital amegakaryocytic thrombocytopenia, aplastic anemia, Fanconi anemia.
+- **Immune Destruction:** [[Hematology/Immune Thrombocytopenic Purpura (ITP)\|Immune thrombocytopenic purpura (ITP)]] features autoantibodies against platelet glycoproteins.
+- **Microangiopathic Consumption:** Hemolytic uremic syndrome, thrombotic thrombocytopenic purpura, [[Hematology/Disseminated Intravascular Coagulation\|disseminated intravascular coagulation]].
+- **Production Defects:** [[Hematology/Congenital amegakaryocytic thrombocytopenia\|Congenital amegakaryocytic thrombocytopenia]], [[Hematology/Aplastic Anemia\|aplastic anemia]], [[Hematology/Fanconi Anemia\|Fanconi anemia]].
 - **Qualitative Inherited Defects:** Glanzmann thrombasthenia (abnormal glycoprotein IIb/IIIa), Bernard-Soulier syndrome (abnormal glycoprotein Ib).
 - **Medications:** Aspirin, valproate, penicillins.
 
 ### Coagulation Disorders
 
-- **Inherited Deficiencies:** Hemophilia A (factor VIII), Hemophilia B (factor IX), von Willebrand disease.
+- **Inherited Deficiencies:** [[Hematology/Hemophilia A\|Hemophilia A]] (factor VIII), Hemophilia B (factor IX), [[Hematology/Von Willebrand Disease\|von Willebrand disease]].
 - **Acquired Deficiencies:** Liver disease impairs synthesis of procoagulant factors.
 - **Vitamin K Deficiency:** Impairs carboxylation of factors II, VII, IX, X.
-- **Consumption:** Disseminated intravascular coagulation depletes multiple clotting factors simultaneously.
+- **Consumption:** [[Hematology/Disseminated Intravascular Coagulation\|Disseminated intravascular coagulation]] depletes multiple clotting factors simultaneously.
 - **Acquired Inhibitors:** Autoantibodies target specific coagulation factors.
 
 ## Diagnostic Evaluation

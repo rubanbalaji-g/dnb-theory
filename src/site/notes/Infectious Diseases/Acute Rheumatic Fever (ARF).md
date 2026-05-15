@@ -4,7 +4,7 @@
 
 ## 1. Introduction and Definition
 
-Acute Rheumatic Fever (ARF) is a nonsuppurative, immune-mediated, systemic inflammatory sequela of untreated group A _Streptococcus_ (GAS) pharyngitis,. It is characterized by inflammatory lesions involving the heart, joints, subcutaneous tissues, and the central nervous system.
+[[Infectious Diseases/Acute Rheumatic Fever (ARF)\|Acute Rheumatic Fever (ARF)]] is a nonsuppurative, immune-mediated, systemic inflammatory sequela of untreated group A _Streptococcus_ (GAS) pharyngitis,. It is characterized by inflammatory lesions involving the heart, joints, subcutaneous tissues, and the central nervous system.
 
 While the arthritis and chorea associated with ARF are self-limiting, the cardiac involvement (rheumatic carditis) can lead to permanent valvular damage, known as Rheumatic Heart Disease (RHD). RHD remains the most common form of acquired heart disease in children and young adults in developing nations.
 
@@ -59,7 +59,7 @@ Carditis is the most serious manifestation, occurring in 50–60% of cases. It i
     - **Mitral Valve:** Affected in nearly all cases. Acute inflammation causes mitral regurgitation, characterized by a <span style="color:rgb(0, 176, 240)">high-pitched apical holosystolic murmur radiating to the axilla</span>.
     - **Aortic Valve:** Less commonly involved alone; usually affected in combination with the mitral valve. Causes aortic regurgitation (high-pitched decrescendo diastolic murmur).
 - **Myocarditis:** May cause tachycardia disproportionate to fever and, in severe cases, congestive heart failure.
-- **Pericarditis:** Manifests as a friction rub, chest pain, or effusion. It rarely occurs without evidence of valvulitis.
+- **[[Cardiology/Pericarditis\|Pericarditis]]:** Manifests as a friction rub, chest pain, or effusion. It rarely occurs without evidence of valvulitis.
 - **Subclinical Carditis:** The 2015 criteria now recognize "subclinical carditis," defined as echocardiographic evidence of valvulitis in the absence of an auscultatory murmur.
 
 ### 4.3. Sydenham Chorea (St. Vitus Dance)
@@ -139,7 +139,7 @@ _Exceptions:_ Evidence of antecedent GAS is _not_ required for:
 
 - **Juvenile Idiopathic Arthritis (JIA):** JIA typically presents with non-migratory arthritis, longer duration (>6 weeks), morning stiffness, and less dramatic response to aspirin compared to ARF. Systemic onset JIA has spiking fevers and rash but is distinct from erythema marginatum.
 - **Poststreptococcal Reactive Arthritis (PSRA):** Arthritis following GAS pharyngitis that does not fulfill Jones criteria. Often involves small joints, is non-migratory, has a shorter latent period (<10 days), and responds poorly to aspirin.
-- **Infective Endocarditis:** Distinguished by positive blood cultures, vegetations on echo, and embolic phenomena.
+- **[[Cardiology/Infective endocarditis\|Infective Endocarditis]]:** Distinguished by positive blood cultures, vegetations on echo, and embolic phenomena.
 - **Systemic Lupus Erythematosus (SLE):** Distinguished by presence of ANA and other autoantibodies.
 - **Viral Myocarditis:** May present with heart failure but lacks the characteristic valvulitis/murmurs of rheumatic carditis.
 - **Lyme Disease:** History of tick bite, erythema migrans, monoarticular arthritis (knee).

@@ -19,14 +19,14 @@ Results from complete failure of erythropoiesis or ineffective erythropoiesis.
 ### Nutritional Deficiencies
 
 - Iron deficiency: Causes microcytic hypochromic anemia; secondary to inadequate diet, poor absorption, or occult blood loss,.
-- Folate deficiency: Causes macrocytic megaloblastic anemia; secondary to inadequate intake, malabsorption, or specific drugs like methotrexate,,.
-- Vitamin B12 deficiency: Causes macrocytic megaloblastic anemia; secondary to pernicious anemia, strict vegan diet, or ileal resection,,.
+- [[Hematology/Folate Deficiency\|Folate deficiency]]: Causes macrocytic megaloblastic anemia; secondary to inadequate intake, malabsorption, or specific drugs like methotrexate,,.
+- [[Hematology/Vitamin B12 Deficiency\|Vitamin B12 deficiency]]: Causes macrocytic megaloblastic anemia; secondary to pernicious anemia, strict vegan diet, or ileal resection,,.
 - Protein deficiency: Kwashiorkor causes mild normocytic anemia.
 - Vitamin C deficiency: Causes scurvy-associated anemia.
 
 ### Acquired Bone Marrow Failure
 
-- Idiopathic aplastic anemia: Immune-mediated destruction of hematopoietic stem cells; represents majority of acquired cases,.
+- Idiopathic [[Hematology/Aplastic Anemia\|aplastic anemia]]: Immune-mediated destruction of hematopoietic stem cells; represents majority of acquired cases,.
 - Drug-induced aplasia: Predictable (chemotherapy) or idiosyncratic (chloramphenicol, antiepileptics, nonsteroidal anti-inflammatory drugs),.
 - Toxin-induced aplasia: Benzene, insecticides, heavy metals,.
 - Infection-induced aplasia: Viral hepatitis, human immunodeficiency virus, Epstein-Barr virus, cytomegalovirus,.
@@ -37,8 +37,8 @@ Results from complete failure of erythropoiesis or ineffective erythropoiesis.
 ### Secondary Suppression and Infiltration
 
 - Anemia of chronic disease: Normocytic hypoproliferative anemia secondary to inflammation, malignancy, or autoimmune disease; mediated by hepcidin excess,.
-- Chronic kidney disease: Decreased erythropoietin production causes normocytic anemia,.
-- Marrow infiltration: Leukemia, lymphoma, neuroblastoma replace normal marrow space,,.
+- [[Nephrology/Chronic Kidney Disease\|Chronic kidney disease]]: Decreased [[Hematology/Erythropoietin\|erythropoietin]] production causes normocytic anemia,.
+- Marrow infiltration: Leukemia, lymphoma, [[Hematology/Neuroblastoma\|neuroblastoma]] replace normal marrow space,,.
 
 ## Increased Red Blood Cell Destruction (Hemolytic Anemias)
 
@@ -47,18 +47,18 @@ Accelerated destruction exceeds compensatory marrow production capacity.
 ### Immune-Mediated Hemolysis
 
 - Isoimmune: Hemolytic disease of newborn (maternal-fetal incompatibility), mismatched blood transfusion,.
-- Warm autoimmune hemolytic anemia: Immunoglobulin G autoantibodies mediate splenic extravascular destruction; idiopathic or secondary to systemic lupus erythematosus, immunodeficiency, malignancy,,.
+- Warm [[Hematology/Autoimmune Hemolytic Anemia\|autoimmune hemolytic anemia]]: Immunoglobulin G autoantibodies mediate splenic extravascular destruction; idiopathic or secondary to systemic lupus erythematosus, immunodeficiency, malignancy,,.
 - Cold agglutinin disease: Immunoglobulin M autoantibodies mediate intravascular complement destruction; often post-Mycoplasma pneumoniae or Epstein-Barr virus infection,.
 - Paroxysmal cold hemoglobinuria: Donath-Landsteiner immunoglobulin G autoantibody; associated with viral infections or syphilis.
 - Drug-induced immune hemolysis: Hapten mechanism (penicillins), ternary complex (quinine), or autoantibody induction (methyldopa),.
 
 ### Non-Immune-Mediated Hemolysis
 
-- Microangiopathic hemolytic anemia: Mechanical fragmentation causing schistocytes; includes hemolytic uremic syndrome, thrombotic thrombocytopenic purpura, disseminated intravascular coagulation,,.
+- Microangiopathic hemolytic anemia: Mechanical fragmentation causing schistocytes; includes hemolytic uremic syndrome, thrombotic thrombocytopenic purpura, [[Hematology/Disseminated Intravascular Coagulation\|disseminated intravascular coagulation]],,.
 - Mechanical trauma: Artificial heart valves, severe burns causing spherocytic hemolysis,.
-- Infections: Direct parasitic invasion (malaria, babesiosis), bacterial toxins (clostridium perfringens),,,.
-- Chemical injury and toxins: Snake bites, lead toxicity, copper toxicity (Wilson disease),,.
-- Hypersplenism: Excessive splenic sequestration and destruction secondary to portal hypertension or infection.
+- Infections: Direct parasitic invasion ([[Infectious Diseases/Malaria\|malaria]], babesiosis), bacterial toxins (clostridium perfringens),,,.
+- Chemical injury and toxins: Snake bites, lead toxicity, copper toxicity ([[Gastrointestinal/Wilson Disease\|Wilson disease]]),,.
+- Hypersplenism: Excessive splenic sequestration and destruction secondary to [[Gastrointestinal/Portal Hypertension\|portal hypertension]] or infection.
 - Paroxysmal nocturnal hemoglobinuria: Acquired intrinsic membrane defect; somatic mutation causes deficiency of complement regulatory proteins,.
 
 ## Blood Loss (Hemorrhage)

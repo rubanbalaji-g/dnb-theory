@@ -53,7 +53,7 @@ The incubation period typically ranges from 6 to 21 days (usually 9–11 days). 
 #### Systemic Involvement
 
 - **Lymphadenopathy:** Regional lymphadenopathy draining the eschar site is common, often progressing to generalized lymphadenopathy (23–93% of cases).
-- **Hepatosplenomegaly:** Hepatomegaly is seen in about two-thirds of children, and splenomegaly in about one-third.
+- **Hepatosplenomegaly:** Hepatomegaly is seen in [[About\|about]] two-thirds of children, and splenomegaly in [[About\|about]] one-third.
 - **Respiratory:** Cough is very common. Interstitial pneumonia is a frequent complication.
 - **Gastrointestinal:** Nausea, vomiting, diarrhea, and abdominal pain are common presenting symptoms.
 - **Neurological:** Sensorineural hearing loss occurring concurrently with fever is a useful diagnostic clue. Meningoencephalitis can occur, presenting with altered sensorium, seizures, or meningeal signs.
@@ -63,20 +63,20 @@ The incubation period typically ranges from 6 to 21 days (usually 9–11 days). 
 
 Severe complications arise from widespread vasculitis and include:
 
-- **Respiratory:** Acute Respiratory Distress Syndrome (ARDS), interstitial pneumonia.
+- **Respiratory:** Acute [[Neonatalogy/Respiratory Distress Syndrome\|Respiratory Distress Syndrome]] (ARDS), interstitial pneumonia.
 - **Cardiovascular:** Myocarditis, shock.
-- **Neurological:** Meningoencephalitis, aseptic meningitis.
-- **Renal:** Acute Kidney Injury (AKI).
-- **Hematological:** Disseminated Intravascular Coagulation (DIC), Hemophagocytic Lymphohistiocytosis (HLH).
+- **Neurological:** Meningoencephalitis, aseptic [[Neurology/Meningitis\|meningitis]].
+- **Renal:** [[Nephrology/Acute Kidney Injury\|Acute Kidney Injury]] (AKI).
+- **Hematological:** [[Hematology/Disseminated Intravascular Coagulation\|Disseminated Intravascular Coagulation]] (DIC), Hemophagocytic Lymphohistiocytosis (HLH).
 
 ### Differential Diagnosis
 
 Scrub typhus mimics many other tropical febrile illnesses. The differential diagnosis includes:
 
-- **Malaria:** Fever, splenomegaly, anemia.
-- **Dengue:** Fever, rash, thrombocytopenia, retro-orbital pain.
-- **Enteric Fever (Typhoid):** Prolonged fever, hepatosplenomegaly, abdominal symptoms.
-- **Leptospirosis:** Fever, myalgia, conjunctival suffusion, renal involvement.
+- **[[Infectious Diseases/Malaria\|Malaria]]:** Fever, splenomegaly, anemia.
+- **[[Infectious Diseases/Dengue\|Dengue]]:** Fever, rash, thrombocytopenia, retro-orbital pain.
+- **[[Infectious Diseases/Enteric Fever\|Enteric Fever]] (Typhoid):** Prolonged fever, hepatosplenomegaly, abdominal symptoms.
+- **[[Infectious Diseases/Leptospirosis\|Leptospirosis]]:** Fever, myalgia, conjunctival suffusion, renal involvement.
 - **Other Rickettsioses:** Murine typhus, Spotted fevers.
 - **Meningococcemia:** Fever, rash, shock.
 - **Measles:** Fever, rash, coryza.

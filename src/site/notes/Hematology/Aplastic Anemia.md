@@ -69,7 +69,7 @@
 
 ### Specialized diagnostic testing
 
-- Chromosome breakage assay (diepoxybutane or mitomycin c stimulation): Essential to exclude Fanconi anemia.
+- Chromosome breakage assay (diepoxybutane or mitomycin c stimulation): Essential to exclude [[Hematology/Fanconi Anemia\|Fanconi anemia]].
 - Telomere length determination: Essential to exclude Dyskeratosis congenita.
 - Flow cytometry (cluster of differentiation 55 and 59): Essential to exclude Paroxysmal nocturnal hemoglobinuria.
 - Cytogenetics and fluorescent in situ hybridization: Essential to exclude hypoplastic Myelodysplastic syndrome.
@@ -79,9 +79,9 @@
 
 |Disease category|Distinguishing clinical and laboratory features|
 |---|---|
-|Inherited bone marrow failure|Fanconi anemia (skeletal anomalies, chromosome breakage), Dyskeratosis congenita (mucocutaneous triad, short telomeres), Shwachman-diamond syndrome (pancreatic insufficiency).|
+|Inherited bone marrow failure|[[Hematology/Fanconi Anemia\|Fanconi anemia]] (skeletal anomalies, chromosome breakage), Dyskeratosis congenita (mucocutaneous triad, short telomeres), Shwachman-diamond syndrome (pancreatic insufficiency).|
 |Myelodysplastic syndrome|Hypoplastic variant mimics aplasia; distinguished by clonal cytogenetic abnormalities, prominent dysplasia, and increased blast percentage.|
-|Marrow infiltrative disease|Acute leukemia, neuroblastoma, osteopetrosis, myelofibrosis. Often present with leukoerythroblastic blood smear, bone pain, or organomegaly.|
+|Marrow infiltrative disease|Acute leukemia, [[Hematology/Neuroblastoma\|neuroblastoma]], osteopetrosis, myelofibrosis. Often present with leukoerythroblastic blood smear, bone pain, or organomegaly.|
 |Paroxysmal nocturnal hemoglobinuria|Chronic intravascular hemolysis, hemoglobinuria, thrombosis, absent cluster of differentiation 59 on flow cytometry.|
 |Infection-induced cytopenia|Transient erythroblastopenia of childhood, Parvovirus b19 aplastic crisis. Usually isolated red cell aplasia, spontaneous recovery.|
 
@@ -93,7 +93,7 @@
 - Utilize strictly leukocyte-depleted, irradiated blood products.
 - Avoid blood products from blood relatives to prevent sensitization against potential transplant donors.
 - Single donor platelets preferred.
-- Provide rigorous antimicrobial and antifungal therapy for febrile neutropenia.
+- Provide rigorous antimicrobial and antifungal therapy for [[Infectious Diseases/Febrile Neutropenia\|febrile neutropenia]].
 - Suppress menses with oral contraceptives to prevent severe blood loss.
 - Avoid medications impairing platelet function (aspirin, nonsteroidal anti-inflammatory drugs).
 
@@ -135,5 +135,5 @@
 - Hemorrhage and severe sepsis represent primary causes of death.
 - Immunosuppressive therapy carries 30-60% relapse rate upon medication discontinuation.
 - Clonal evolution represents most severe long-term complication of immunosuppressive therapy.
-- 10-40% of immunosuppression responders eventually develop Paroxysmal nocturnal hemoglobinuria, Myelodysplastic syndrome, or Acute myeloid leukemia.
+- 10-40% of immunosuppression responders eventually develop Paroxysmal nocturnal hemoglobinuria, Myelodysplastic syndrome, or [[Hematology/Acute Myeloid Leukemia\|Acute myeloid leukemia]].
 - Transplant recipients experience excellent long-term survival but face risks of chronic graft-versus-host disease, gonadal dysfunction, and secondary solid tumors.

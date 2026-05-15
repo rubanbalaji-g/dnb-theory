@@ -4,7 +4,7 @@
 
 ## Introduction
 
-Congenital Rubella Syndrome (CRS) is a devastating constellation of fetal malformations resulting from maternal infection with the rubella virus during pregnancy. Historically known as "German Measles," rubella is typically a mild, self-limiting exanthematous illness in children and adults. Its immense public health significance lies almost entirely in its teratogenic potential.
+[[Infectious Diseases/Congenital Rubella Syndrome\|Congenital Rubella Syndrome]] (CRS) is a devastating constellation of fetal malformations resulting from maternal infection with the rubella virus during pregnancy. Historically known as "German Measles," rubella is typically a mild, self-limiting exanthematous illness in children and adults. Its immense public health significance lies almost entirely in its teratogenic potential.
 
 The syndrome was first described in 1941 by the Australian ophthalmologist **Norman Gregg**, who noted a triad of congenital cataracts, heart defects, and deafness in infants born to mothers infected during the 1940 epidemic. The "classic triad" has since been expanded to include a wide spectrum of transient, permanent, and late-onset abnormalities affecting virtually every organ system.
 
@@ -78,9 +78,9 @@ These are due to ongoing viral replication and tissue damage in the neonate. The
 - **Cardiac:**
     - **Patent Ductus Arteriosus (PDA):** The most common cardiac lesion.
     - **Peripheral Pulmonary Artery Stenosis (PAS):** Highly characteristic of CRS.
-    - Ventricular Septal Defect (VSD) and Atrial Septal Defect (ASD) may also occur.
+    - Ventricular Septal Defect ([[Cardiology/VSD\|VSD]]) and Atrial Septal Defect ([[Cardiology/ASD\|ASD]]) may also occur.
 - **Neurologic:**
-    - Microcephaly.
+    - [[Neurology/Microcephaly\|Microcephaly]].
     - Intellectual disability (Mental retardation).
     - Behavioral disorders (Autism spectrum).
 
@@ -91,7 +91,7 @@ These conditions appear months to years after birth, likely due to autoimmune me
 - **Endocrinopathies:**
     - **Diabetes Mellitus:** Insulin-dependent diabetes occurs in ~20% of CRS survivors, often in the 2nd or 3rd decade.
     - Thyroid dysfunction (Hypothyroidism/Hyperthyroidism).
-- **Progressive Rubella Panencephalitis (PRP):** A rare, fatal neurodegenerative disorder similar to SSPE, presenting in the second decade with deterioration of motor and mental functions.
+- **Progressive Rubella Panencephalitis (PRP):** A rare, fatal neurodegenerative disorder similar to [[Infectious Diseases/SSPE\|SSPE]], presenting in the second decade with deterioration of motor and mental functions.
 - **Vascular:** Renovascular hypertension.
 
 ## Diagnosis
@@ -101,7 +101,7 @@ These conditions appear months to years after birth, likely due to autoimmune me
 - **Suspected Case:** Any infant <1 year with heart disease, cataracts, glaucoma, hearing loss, or pigmentary retinopathy.
 - **Clinically Confirmed:** Presence of **two** from Group A OR **one** from Group A and **one** from Group B.
     - **Group A:** Cataracts/Glaucoma, Congenital Heart Disease, Hearing Loss, Pigmentary Retinopathy.
-    - **Group B:** Purpura, Splenomegaly, Microcephaly, Mental Retardation, Meningoencephalitis, Radiolucent bone disease, Jaundice (onset <24 hours).
+    - **Group B:** Purpura, Splenomegaly, [[Neurology/Microcephaly\|Microcephaly]], Mental Retardation, Meningoencephalitis, Radiolucent bone disease, Jaundice (onset <24 hours).
 
 ### 2. Laboratory Diagnosis
 
@@ -119,9 +119,9 @@ Laboratory confirmation is essential as clinical signs are not pathognomonic.
 ## Differential Diagnosis
 
 - **Cytomegalovirus (CMV):** Periventricular calcifications, chorioretinitis is more common; no cataracts usually.
-- **Toxoplasmosis:** Intracranial calcifications (diffuse), hydrocephalus, chorioretinitis.
+- **Toxoplasmosis:** Intracranial calcifications (diffuse), [[Neurology/Hydrocephalus\|hydrocephalus]], chorioretinitis.
 - **Syphilis:** Skeletal lesions (periostitis), snuffles, rash (palms/soles).
-- **Zika Virus:** Severe microcephaly, arthrogryposis.
+- **Zika Virus:** Severe [[Neurology/Microcephaly\|microcephaly]], arthrogryposis.
 
 ## Management
 
@@ -142,7 +142,7 @@ There is no specific antiviral therapy for CRS. Management is supportive and mul
     - **Glaucoma:** Requires immediate management to preserve vision.
 - **Cardiology:** Surgical or catheter-based correction of PDA and stenosis.
 - **Audiology:** Early hearing screening (BERA/OAE). Hearing aids and cochlear implants for sensorineural hearing loss. Early speech therapy is crucial.
-- **Neurology:** Physical therapy and special education for developmental delay and cerebral palsy.
+- **Neurology:** Physical therapy and special education for developmental delay and [[Neurology/Cerebral Palsy\|cerebral palsy]].
 
 ### 3. Long-term Follow-up
 
@@ -179,7 +179,7 @@ If a pregnant woman is exposed to a suspected case of rubella:
 ## Prognosis
 
 - **Mortality:** High in early life for infants with severe multi-organ involvement (sepsis-like picture, heart failure).
-- **Morbidity:** Prognosis for psychomotor development depends on the severity of CNS involvement. Children with only hearing loss or cardiac defects (corrected) may have a normal lifespan and intelligence. However, those with microcephaly and meningoencephalitis often have poor neurodevelopmental outcomes.
+- **Morbidity:** Prognosis for psychomotor development depends on the severity of CNS involvement. Children with only hearing loss or cardiac defects (corrected) may have a normal lifespan and intelligence. However, those with [[Neurology/Microcephaly\|microcephaly]] and meningoencephalitis often have poor neurodevelopmental outcomes.
 
 ## Summary Table: Key Features of CRS
 
@@ -189,5 +189,5 @@ If a pregnant woman is exposed to a suspected case of rubella:
 |**Eye**|**Cataracts**, Salt-and-pepper retinopathy, Microphthalmia|
 |**Ear**|**Sensorineural Hearing Loss** (most common)|
 |**Heart**|**PDA**, Peripheral Pulmonary Artery Stenosis|
-|**CNS**|Microcephaly, Meningoencephalitis, Calcifications|
+|**CNS**|[[Neurology/Microcephaly\|Microcephaly]], Meningoencephalitis, Calcifications|
 |**Late Onset**|Diabetes Mellitus, Thyroiditis, PRP|

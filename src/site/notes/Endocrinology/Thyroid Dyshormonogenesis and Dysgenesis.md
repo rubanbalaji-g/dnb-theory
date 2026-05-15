@@ -7,7 +7,7 @@
 
 ### General Features
 
-- Accounts for 10-15% of permanent congenital hypothyroidism (CH).
+- Accounts for 10-15% of permanent [[Endocrinology/Congenital Hypothyroidism\|congenital hypothyroidism]] (CH).
 - Inheritance: Autosomal Recessive.
 - Pathophysiology: Impaired hormone synthesis -> Decreased circulating T4/T3 -> Lack of negative feedback -> Increased TSH secretion -> Compensatory thyroid hyperplasia (Goiter).
 - Goiter visible in utero, at birth, or later in childhood depending on severity.
@@ -18,7 +18,7 @@
 |Defect Category|Gene|Defective Protein|Clinical & Biochemical Hallmark|
 |:--|:--|:--|:--|
 |**Iodide Transport**|_SLC5A5_|Sodium-Iodide Symporter (NIS)|Absent/low radioiodine uptake in thyroid and salivary glands.|
-|**Apical Transport**|_SLC26A4_|Pendrin|Pendred syndrome: Sensorineural deafness, goiter, positive perchlorate discharge.|
+|**Apical Transport**|_SLC26A4_|Pendrin|[[Endocrinology/Pendred Syndrome\|Pendred syndrome]]: Sensorineural deafness, goiter, positive perchlorate discharge.|
 |**Organification**|_TPO_|Thyroperoxidase|Severe goiter, high TG, 40-90% perchlorate discharge, most common in Caucasians.|
 |**H2O2 Generation**|_DUOX2_ / _DUOXA2_|Dual Oxidase 2 / Maturation Factor|Variable severity (transient to permanent CH), common in Asians.|
 |**Thyroglobulin**|_TG_|Thyroglobulin|Goitrous CH with low/undetectable serum TG.|
@@ -34,7 +34,7 @@
 - **Differentiation:** Absent normal salivary gland and gastric mucosa iodine uptake. Decreased saliva:serum 123I ratio confirms diagnosis.
 - **Clinical:** Variable onset (neonatal to childhood). May respond to massive iodide doses, but levothyroxine preferred.
 
-#### 2. Pendred Syndrome (SLC26A4 Defect)
+#### 2. [[Endocrinology/Pendred Syndrome\|Pendred Syndrome]] (SLC26A4 Defect)
 
 - **Gene:** _SLC26A4_ (encodes Pendrin).
 - **Mechanism:** Impaired apical iodide transport into colloid, leading to partial organification defect.
@@ -77,7 +77,7 @@
 
 ## DIAGNOSTIC EVALUATION OF DYSHORMONOGENESIS
 
-### 1. Newborn Screening and Initial Labs
+### 1. [[Neonatalogy/Newborn Screening\|Newborn Screening]] and Initial Labs
 
 - **Screening:** Detected via high TSH (>15-30 mU/L) on filter paper spot.
 - **Confirmatory Serum:** Elevated TSH, low Free T4 (FT4).
@@ -111,7 +111,7 @@
 
 ## Overview
 
-- Most common cause of permanent congenital hypothyroidism (CH).
+- Most common cause of permanent [[Endocrinology/Congenital Hypothyroidism\|congenital hypothyroidism]] (CH).
 - Accounts for 80-85% of CH cases globally; 75% of cases in India.
 - Characterized by abnormal formation of the thyroid gland during embryogenesis.
 - Typically sporadic occurrence; 1% familial incidence confers 40-fold increased risk.
@@ -123,7 +123,7 @@
 |:--|:--|:--|
 |**Ectopy**|70-75%|Failure of embryonic thyroid migration from base of tongue to anterior neck. Sublingual location most common. Female:Male ratio 3:1. Cells fully differentiated; reduced total cell mass limits TSH-induced growth.|
 |**Athyreosis (Agenesis)**|15-33%|Complete absence of thyroid tissue. True athyreosis defined by Serum Thyroglobulin (Tg) < 2 mcg/L. Apparent athyreosis (Tg ≥ 2 mcg/L) caused by complete TSH receptor inactivation or transplacental maternal blocking antibodies.|
-|**Orthotopic Hypoplasia / Hemiagenesis**|< 5%|Small rudiments of tissue in normal position. Left lobe absence most common in hemiagenesis. May associate with DiGeorge or Williams syndrome.|
+|**Orthotopic Hypoplasia / Hemiagenesis**|< 5%|Small rudiments of tissue in normal position. Left lobe absence most common in hemiagenesis. May associate with DiGeorge or [[Genetics/Williams Syndrome\|Williams syndrome]].|
 
 ## Genetic & Molecular Etiology
 
@@ -148,7 +148,7 @@ Genetic defects in transcription factors essential for thyroid morphogenesis acc
 
 ## Investigations & Diagnosis
 
-- **Newborn Screening:** Hallmark finding is elevated TSH with low free T4 (FT4).
+- **[[Neonatalogy/Newborn Screening\|Newborn Screening]]:** Hallmark finding is elevated TSH with low free T4 (FT4).
 - **Radionuclide Scintigraphy (99mTc or 123I):** Gold standard imaging. Demonstrates exact location of ectopic tissue or confirms complete absence of uptake (agenesis, TSHR defects, maternal blocking antibodies).
 - **Neck Ultrasound:** Confirms absence of normally located gland. Highly user-dependent; frequently misses ectopic glands.
 - **Serum Thyroglobulin (Tg):** Low or undetectable in true agenesis and TSHR defects; characteristically elevated in ectopy.
@@ -164,7 +164,7 @@ Genetic defects in transcription factors essential for thyroid morphogenesis acc
 - **Genetic Counseling:** Indicated for families presenting with syndromic features or established inheritance patterns.
 
 
-[^perchlorate]: The **perchlorate discharge test** is a diagnostic procedure used to detect defects in **iodide organification**, often seen in conditions like Pendred syndrome. It involves administering radioactive iodine followed by potassium perchlorate; if the thyroid cannot properly "trap" and bind the iodine into proteins, the perchlorate forces the unbound iodine out, causing a significant drop (discharge) in thyroid radioactivity levels.
-[^blt]: **Brain-lung-thyroid syndrome** is a rare genetic disorder caused by mutations in the **NKX2-1 gene**, which is essential for the development of these three specific organs. It typically presents as a clinical triad of **congenital hypothyroidism**, infant **respiratory distress syndrome**, and a movement disorder known as **benign hereditary chorea**. Because the severity of symptoms varies, some individuals may only exhibit one or two of these features throughout their lives.
+[^perchlorate]: The **perchlorate discharge test** is a diagnostic procedure used to detect defects in **iodide organification**, often seen in conditions like [[Endocrinology/Pendred Syndrome\|Pendred syndrome]]. It involves administering radioactive iodine followed by potassium perchlorate; if the thyroid cannot properly "trap" and bind the iodine into proteins, the perchlorate forces the unbound iodine out, causing a significant drop (discharge) in thyroid radioactivity levels.
+[^blt]: **Brain-lung-thyroid syndrome** is a rare genetic disorder caused by mutations in the **NKX2-1 gene**, which is essential for the development of these three specific organs. It typically presents as a clinical triad of **[[Endocrinology/Congenital Hypothyroidism\|congenital hypothyroidism]]**, infant **[[Neonatalogy/Respiratory Distress Syndrome\|respiratory distress syndrome]]**, and a movement disorder known as **benign hereditary chorea**. Because the severity of symptoms varies, some individuals may only exhibit one or two of these features throughout their lives.
 [^bls]: **Bamforth-Lazarus syndrome** is an extremely rare genetic condition caused by mutations in the **TTF-2 (FKHL15)** gene, which is critical for early organ development. It is primarily characterized by the triad of **thyroid dysgenesis** (often resulting in an absent or misplaced thyroid), a **cleft palate**, and **spiky hair**. Some individuals with this syndrome may also exhibit additional features like choanal atresia (blocked nasal passages) or bifid epiglottis.
-[^alagille]: **Alagille syndrome** is a complex genetic disorder, typically caused by mutations in the **JAG1 gene**, that leads to a shortage of bile ducts within the liver (**bile duct paucity**). This results in chronic liver disease and is classically associated with a specific group of features, including **butterfly vertebrae**, distinctive facial characteristics, heart defects (like peripheral pulmonic stenosis), and eye abnormalities (**posterior embryotoxon**).
+[^alagille]: **Alagille syndrome** is a complex genetic disorder, typically caused by mutations in the **JAG1 gene**, that leads to a shortage of bile ducts within the liver (**bile duct paucity**). This results in [[Gastrointestinal/Chronic Liver Disease\|chronic liver disease]] and is classically associated with a specific group of features, including **butterfly vertebrae**, distinctive facial characteristics, heart defects (like peripheral pulmonic stenosis), and eye abnormalities (**posterior embryotoxon**).

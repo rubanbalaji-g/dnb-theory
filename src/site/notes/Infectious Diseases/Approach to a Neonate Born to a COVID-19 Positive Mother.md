@@ -4,7 +4,7 @@
 
 ### Introduction
 
-The management of a neonate born to a mother with confirmed or suspected COVID-19 requires a balance between infection prevention and the promotion of physiological bonding and breastfeeding. Early in the pandemic, guidelines favored separation; however, evolving evidence has established that the risk of vertical transmission is low (approximately 3–8%) and that the benefits of rooming-in and breastfeeding outweigh the risks of horizontal transmission when appropriate precautions are taken. The approach involves meticulous delivery room care, infection control during postnatal stay, strategic testing, and vigilant monitoring for complications such as Multisystem Inflammatory Syndrome in Neonates (MIS-N).
+The management of a neonate born to a mother with confirmed or suspected [[Infectious Diseases/COVID-19\|COVID-19]] requires a balance between infection prevention and the promotion of physiological bonding and breastfeeding. Early in the pandemic, guidelines favored separation; however, evolving evidence has established that the risk of vertical transmission is low (approximately 3–8%) and that the benefits of rooming-in and breastfeeding outweigh the risks of horizontal transmission when appropriate precautions are taken. The approach involves meticulous delivery room care, infection control during postnatal stay, strategic testing, and vigilant monitoring for complications such as Multisystem Inflammatory Syndrome in Neonates (MIS-N).
 
 ### 1. Delivery Room Management
 
@@ -36,10 +36,10 @@ Testing is crucial to differentiate between vertical transmission (intrauterine)
 
 ### 4. Clinical Manifestations and Monitoring
 
-The majority (>90%) of neonates born to COVID-19 positive mothers are asymptomatic. However, close monitoring is essential as clinical deterioration can occur.
+The majority (>90%) of neonates born to [[Infectious Diseases/COVID-19\|COVID-19]] positive mothers are asymptomatic. However, close monitoring is essential as clinical deterioration can occur.
 
 - **Asymptomatic Neonates:** Require routine care with a focus on feeding adequacy, temperature stability, and perfusion.
-- **Symptomatic Neonates:** Symptoms may mimic sepsis or respiratory distress syndrome (RDS). Common features include:
+- **Symptomatic Neonates:** Symptoms may mimic sepsis or [[Neonatalogy/Respiratory Distress Syndrome\|respiratory distress syndrome]] (RDS). Common features include:
     - **Respiratory:** Tachypnea, grunting, nasal flaring, desaturations.
     - **Gastrointestinal:** Feeding intolerance, vomiting, diarrhea.
     - **Systemic:** Temperature instability (fever or hypothermia), lethargy, hypotonia.
@@ -63,8 +63,8 @@ Management is primarily supportive, as no specific antiviral therapy is routinel
     - Fluid resuscitation for shock.
     - Inotropes (Epinephrine/Dobutamine) if there is evidence of myocardial dysfunction or hypotension.
 - **Therapeutics:**
-    - **Antibiotics:** Empirical antibiotics should be started pending blood culture results, as bacterial sepsis is a common mimic. They should be stopped if cultures are sterile and the clinical picture confirms COVID-19.
-    - **Corticosteroids:** Not routinely recommended for acute neonatal COVID-19 unless the infant meets criteria for Multisystem Inflammatory Syndrome (MIS-N) or has specific indications (e.g., refractory shock).
+    - **Antibiotics:** Empirical antibiotics should be started pending blood culture results, as bacterial sepsis is a common mimic. They should be stopped if cultures are sterile and the clinical picture confirms [[Infectious Diseases/COVID-19\|COVID-19]].
+    - **Corticosteroids:** Not routinely recommended for acute neonatal [[Infectious Diseases/COVID-19\|COVID-19]] unless the infant meets criteria for Multisystem Inflammatory Syndrome (MIS-N) or has specific indications (e.g., refractory shock).
     - **Anticoagulation:** Prophylactic anticoagulation is generally not recommended for neonates unless there is a confirmed thrombotic event or extremely high risk (e.g., central lines, severe coagulopathy).
 
 ### 6. Multisystem Inflammatory Syndrome in Neonates (MIS-N)
@@ -78,9 +78,9 @@ A small subset of neonates may present with **MIS-N**, a hyperinflammatory condi
 ### 7. Discharge and Follow-up
 
 - **Discharge Criteria:** The neonate can be discharged when physiologically stable, feeding well, and gaining weight, regardless of the mother's isolation status, provided the family can ensure infection control at home.
-- **Vaccination:** Routine birth doses (BCG, OPV, Hepatitis B) should be administered as per the immunization schedule prior to discharge.
+- **Vaccination:** Routine birth doses ([[Misc/BCG\|BCG]], OPV, [[Gastrointestinal/Hepatitis B\|Hepatitis B]]) should be administered as per the immunization schedule prior to discharge.
 - **Follow-up:**
     - Tele-consultation is preferred for minor concerns to reduce hospital visits.
     - **Danger Signs:** Parents must be counseled on danger signs: fast breathing, chest indrawing, poor feeding, lethargy, or temperature instability.
-    - **Post-COVID Sequelae:** Infants with severe neonatal COVID-19 or MIS-N require follow-up Echocardiography (at 2–6 weeks) to monitor coronary arteries and ventricular function.
+    - **Post-COVID Sequelae:** Infants with severe neonatal [[Infectious Diseases/COVID-19\|COVID-19]] or MIS-N require follow-up Echocardiography (at 2–6 weeks) to monitor coronary arteries and ventricular function.
 

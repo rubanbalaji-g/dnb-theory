@@ -6,19 +6,19 @@ Prenatal diagnosis (PND) of Primary Immunodeficiency Diseases (PIDs) is indicate
 
 ### Indications
 * Family history of a known PID with high morbidity/mortality.
-* Identification of a specific gene mutation in the index case or carrier status in parents.
+* Identification of a specific gene mutation in the [[Statistics/Index\|index]] case or carrier status in parents.
 * Lack of curative options or need for early hematopoietic stem cell transplantation (HSCT) planning.
 
 ### Modalities of Prenatal Diagnosis
 PND can be categorized into Molecular, Biochemical, and Functional/Phenotypic methods.
 
 #### 1. Molecular Diagnosis (Gold Standard)
-* **Chorionic Villus Sampling (CVS):**
+* **[[Neonatalogy/Chorionic Villus Sampling (CVS)\|Chorionic Villus Sampling (CVS)]]:**
     * **Timing:** 10–12 weeks of gestation.
     * **Procedure:** Ultrasound-guided aspiration of trophoblastic tissue.
     * **Utility:** DNA extraction for Targeted Mutation Analysis or Linkage Analysis (RFLP).
     * **Common Targets:** *IL2RG* (X-SCID), *WAS* (Wiskott-Aldrich), *BTK* (X-linked Agammaglobulinemia), *CYBB* (CGD).
-* **Amniocentesis:**
+* **[[Neonatalogy/Amniocentesis\|Amniocentesis]]:**
     * **Timing:** 15–18 weeks of gestation.
     * **Utility:** Culture of amniocytes for DNA analysis. Lower risk of maternal cell contamination compared to CVS but performed later in pregnancy.
 
@@ -27,12 +27,12 @@ Used for metabolic PIDs where the enzyme deficiency is expressed in fetal tissue
 * **Adenosine Deaminase (ADA) Deficiency:** Measured in cultured amniocytes or chorionic villi.
 * **Purine Nucleoside Phosphorylase (PNP) Deficiency:** Enzyme activity assays in fetal cells.
 
-#### 3. Fetal Blood Sampling (Cordocentesis)
+#### 3. Fetal Blood Sampling ([[Neonatalogy/Cordocentesis\|Cordocentesis]])
 * **Timing:** 18–22 weeks of gestation.
 * **Method:** Ultrasound-guided percutaneous umbilical blood sampling (PUBS).
 * **Applications:**
     * **Flow Cytometry:** Quantification of T, B, and NK cell subsets (e.g., absence of T cells in SCID, absence of B cells in XLA).
-    * **Functional Assays:** Nitroblue Tetrazolium (NBT) test or Dihydrorhodamine (DHR) 123 flow cytometry for Chronic Granulomatous Disease (CGD).
+    * **Functional Assays:** Nitroblue Tetrazolium (NBT) test or Dihydrorhodamine (DHR) 123 flow cytometry for [[Infectious Diseases/Chronic Granulomatous Disease (CGD)\|Chronic Granulomatous Disease (CGD)]].
     * **Expression Studies:** Assessment of HLA class II expression (Bare Lymphocyte Syndrome) or CD11/CD18 expression (LAD Type 1).
 
 ### Specific PID Considerations

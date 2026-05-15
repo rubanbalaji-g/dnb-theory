@@ -2,13 +2,13 @@
 {"dg-publish":true,"uplink":"/infectious-diseases/infectious-diseases/","uptext":"Back to Index (Infectious Diseases)","permalink":"/infectious-diseases/roseola-infantum/","dgPassFrontmatter":true}
 ---
 
-# Roseola Infantum (Exanthem Subitum)
+# [[Infectious Diseases/Roseola infantum\|Roseola Infantum]] (Exanthem Subitum)
 
-Roseola infantum, also known as exanthem subitum or sixth disease, is a ubiquitous, acute viral infection of infancy and early childhood. It is historically significant as the sixth of the traditional childhood exanthems. The condition is characterized by a distinctive clinical course: a period of high fever followed by the abrupt appearance of a rash just as the temperature normalizes.
+[[Infectious Diseases/Roseola infantum\|Roseola infantum]], also known as exanthem subitum or sixth disease, is a ubiquitous, acute viral infection of infancy and early childhood. It is historically significant as the sixth of the traditional childhood exanthems. The condition is characterized by a distinctive clinical course: a period of high fever followed by the abrupt appearance of a rash just as the temperature normalizes.
 
 ## Etiology and Epidemiology
 
-The primary causative agent of roseola infantum is **Human Herpesvirus 6 (HHV-6)**, specifically variant B (HHV-6B). A smaller percentage of cases are caused by the related **Human Herpesvirus 7 (HHV-7)**. These viruses belong to the _Roseolovirus_ genus of the _Betaherpesvirinae_ subfamily.
+The primary causative agent of [[Infectious Diseases/Roseola infantum\|roseola infantum]] is **Human Herpesvirus 6 (HHV-6)**, specifically variant B (HHV-6B). A smaller percentage of cases are caused by the related **Human Herpesvirus 7 (HHV-7)**. These viruses belong to the _Roseolovirus_ genus of the _Betaherpesvirinae_ subfamily.
 
 - **Age:** The peak age of incidence is between **6 months and 3 years**. It is a major cause of acute febrile illness in this age group, accounting for a significant proportion of emergency department visits for infants.
 - **Transmission:** The virus is likely transmitted via the respiratory route or through saliva (oral secretions). Following the primary infection, the virus establishes latency and can be shed intermittently in the saliva of healthy adults, serving as a source of transmission to susceptible infants.
@@ -50,16 +50,16 @@ Diagnosis is primarily clinical, based on the characteristic history of high fev
 While generally benign, roseola is a common cause of **febrile seizures**.
 
 - **Seizures:** Convulsions occur in approximately 5–15% (up to one-third) of children during the febrile phase. HHV-6B is a frequently identified cause of febrile status epilepticus.
-- **CNS Involvement:** Rarely, the virus can cause aseptic meningitis, meningoencephalitis, or encephalopathy.
+- **CNS Involvement:** Rarely, the virus can cause aseptic [[Neurology/Meningitis\|meningitis]], meningoencephalitis, or encephalopathy.
 - **Immunocompromised Hosts:** In patients with depressed cell-mediated immunity, primary or reactivated infection can cause severe disease, including pneumonia, marrow suppression, and encephalitis.
 
 ## Management
 
-There is no specific antiviral therapy recommended for routine cases of roseola infantum in immunocompetent children.
+There is no specific antiviral therapy recommended for routine cases of [[Infectious Diseases/Roseola infantum\|roseola infantum]] in immunocompetent children.
 
 - **Supportive Care:** Management focuses on maintaining adequate hydration and using antipyretics (e.g., paracetamol) to control high fever and improve comfort.
 - **Antiviral Therapy:** In rare, severe cases involving immunocompromised patients or severe encephalitis, agents such as ganciclovir, foscarnet, or cidofovir may be considered, although their efficacy is not definitively established by randomized trials.
 
 ## Prognosis
 
-The prognosis for roseola infantum is excellent. It is a self-limited illness with complete recovery in the vast majority of children. Even in children who experience febrile seizures associated with roseola, the risk of developing epilepsy or long-term neurologic sequelae is generally low and comparable to other causes of simple febrile seizures.
+The prognosis for [[Infectious Diseases/Roseola infantum\|roseola infantum]] is excellent. It is a self-limited illness with complete recovery in the vast majority of children. Even in children who experience febrile seizures associated with roseola, the risk of developing epilepsy or long-term neurologic sequelae is generally low and comparable to other causes of simple febrile seizures.

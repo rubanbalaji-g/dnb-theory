@@ -55,7 +55,7 @@ Crucial maternal-fetal interface modulating fetal thyroid status. Hemochorial an
 |**TRH**|Readily Permeable|Maternal TRH can stimulate fetal TSH/T4. However, maternal circulating TRH levels are normally very low, exerting minimal physiologic effect on fetus.|
 |**TSH**|Impermeable|Fetal thyroid stimulation strictly dependent on fetal pituitary TSH production.|
 |**T4 / T3**|Partially Permeable|Maternal T4 crosses in physiologically relevant amounts. Provides ~33% of fetal T4 requirements at term. Critical for fetal brain development prior to fetal synthesis onset.|
-|**IgG Antibodies**|Readily Permeable|Transplacental passage of TSH-receptor stimulating antibodies (TRSAbs) causes neonatal Graves disease. Blocking antibodies (TRBAbs) cause transient congenital hypothyroidism.|
+|**IgG Antibodies**|Readily Permeable|Transplacental passage of TSH-receptor stimulating antibodies (TRSAbs) causes neonatal Graves disease. Blocking antibodies (TRBAbs) cause transient [[Endocrinology/Congenital Hypothyroidism\|congenital hypothyroidism]].|
 |**Thionamides**|Readily Permeable|Maternal Methimazole or Propylthiouracil (PTU) therapy suppresses fetal thyroid. Risk of fetal goiter and transient neonatal hypothyroidism.|
 
 ## Fetal Thyroid Hormone Metabolism
@@ -86,7 +86,7 @@ Crucial maternal-fetal interface modulating fetal thyroid status. Hemochorial an
 - **hCG Cross-Reactivity:** Human chorionic gonadotropin (hCG) shares alpha-subunit homology with TSH. Peaks in 1st trimester. Excessively high levels (e.g., hyperemesis gravidarum, trophoblastic disease) activate maternal TSH receptors, elevating maternal T4/T3 and suppressing TSH (gestational thyrotoxicosis).
 - **Maternal T4 Contribution:** Protective effect. Fetuses with true athyreosis rely on maternal T4. Term cord blood T4 in athyreotic infants is 30-50% of normal, sufficient to protect fetal brain from irreversible damage _if_ promptly treated after birth.
 - **Maternal Autoimmunity:**
-    - Untreated maternal Graves disease leads to fetal exposure to TRSAbs -> fetal tachycardia (>160 bpm), fetal goiter, advanced skeletal maturation, intrauterine growth restriction, and craniosynostosis.
+    - Untreated maternal Graves disease leads to fetal exposure to TRSAbs -> fetal tachycardia (>160 bpm), fetal goiter, advanced skeletal maturation, intrauterine growth restriction, and [[Neurology/Craniosynostosis\|craniosynostosis]].
     - Severe fetal thyrotoxicosis necessitates treating mother with antithyroid drugs to control fetal disease.
 
 ## Perinatal Adaptation (The Postnatal Surge)
@@ -99,7 +99,7 @@ Immediate and profound transition required to shift from intrauterine anabolic s
 - **Metabolic Shift:** Hepatic DIO1 activity surges (stimulated by rising cortisol and T4). Reverses fetal pattern: T4-to-T3 conversion drastically increases. Placental separation simultaneously removes bulk DIO3 degradative capacity. Result: High sustained postnatal active T3.
 - **Thermogenesis Activation:** High postnatal T3 acts synergistically with catecholamines on mature brown adipose tissue. Activates uncoupling protein (thermogenin) to dissipate mitochondrial proton gradient, driving crucial non-shivering thermogenesis to maintain neonatal body temperature.## Overview & Rationale
 ## Neonatal Screening
-- **Goal:** Early detection of Congenital Hypothyroidism (CH) to prevent irreversible intellectual disability.
+- **Goal:** Early detection of [[Endocrinology/Congenital Hypothyroidism\|Congenital Hypothyroidism]] (CH) to prevent irreversible intellectual disability.
 - **Incidence:** 1 in 2,000 to 1 in 4,000 live births.
 - **Clinical Context:** Universal screening mandatory. Infants characteristically asymptomatic at birth due to protective transplacental maternal thyroxine (T4) transfer.
 - **Window of Intervention:** Irreversible neurodevelopmental damage occurs if untreated beyond early infancy.

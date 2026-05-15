@@ -4,7 +4,7 @@
 
 ## Introduction and Epidemiology
 
-- Dyskeratosis congenita (DC) is a rare, inherited multisystem telomere disorder classically characterized by mucocutaneous abnormalities and progressive bone marrow failure.
+- [[Hematology/Dyskeratosis congenita (DC)\|Dyskeratosis congenita (DC)]] is a rare, inherited multisystem telomere disorder classically characterized by mucocutaneous abnormalities and progressive bone marrow failure.
 - The estimated incidence of DC in childhood is approximately 4 cases per 1 million population per year.
 - Historically, the condition was defined by a classic diagnostic mucocutaneous triad consisting of 
 	- <span style="color:rgb(255, 192, 0)">dysplastic nails</span>, 
@@ -43,7 +43,7 @@
 ### Hematologic Manifestations
 
 - Bone marrow failure develops in approximately 90% of patients at some point in their lives, with 80% developing it by 30 years of age.
-- The initial hematologic presentation is usually isolated thrombocytopenia or anemia, which progressively evolves into generalized pancytopenia and severe aplastic anemia (SAA).
+- The initial hematologic presentation is usually isolated thrombocytopenia or anemia, which progressively evolves into generalized pancytopenia and severe [[Hematology/Aplastic Anemia\|aplastic anemia]] (SAA).
 - The median age for the onset of pancytopenia is roughly 10 years.
 - Patients typically present with a macrocytic anemia and elevated fetal hemoglobin (HbF).
 - Immunodeficiency is a significant complication, characterized by progressive cellular and humoral defects, including reduced B- and T-lymphocyte counts and absent lymphocyte proliferative responses to phytohemagglutinin (particularly in _DKC1_-associated disease).
@@ -51,7 +51,7 @@
 ### Non-Hematologic Organ System Involvement
 
 - **Pulmonary:** Pulmonary fibrosis and restrictive lung disease with reduced diffusion capacity occur in approximately 20% of patients. It is a unique and often fatal complication of DC.
-- **Ophthalmic:** Excessive tearing (epiphora) due to nasolacrimal duct obstruction is seen in about 30% of patients. Blepharitis, conjunctivitis, loss of eyelashes, cataracts, strabismus, and optic atrophy also occur.
+- **Ophthalmic:** Excessive tearing (epiphora) due to nasolacrimal duct obstruction is seen in [[About\|about]] 30% of patients. Blepharitis, conjunctivitis, loss of eyelashes, cataracts, strabismus, and optic atrophy also occur.
 - **Gastrointestinal and Hepatic:** Liver fibrosis, esophageal webs and strictures, peptic ulceration, and severe GI bleeding caused by vascular lesions.
 - **Neurological:** Learning difficulties and developmental delay are observed in approximately 25% of patients.
 - **Skeletal:** Osteoporosis, avascular necrosis of the hips and shoulders, abnormal bone trabeculation, scoliosis, and mandibular hypoplasia.
@@ -61,12 +61,12 @@
 
 - **Hoyeraal-Hreidarsson Syndrome:** A severe, early-childhood multisystem variant characterized by the classic DC triad plus cerebellar hypoplasia, intrauterine growth restriction (IUGR), severe immunodeficiency, and early-onset bone marrow failure. It is primarily caused by X-linked recessive _DKC1_ mutations.
 - **Revesz Syndrome:** Presents in early childhood with DC features plus bilateral exudative retinopathy (essential for diagnosis) and intracranial calcifications. It is primarily an autosomal dominant condition linked to _TINF2_ mutations.
-- **Coats Plus Syndrome:** Caused by compound heterozygous mutations in _CTC1_ or _STN1_. It overlaps with DC (sparse/graying hair, dystrophic nails, anemia) but is distinguished by retinal telangiectasia and exudates, leukodystrophy, brain cysts, intracranial calcifications, osteopenia, and portal hypertension secondary to vascular ectasias in the GI tract and liver.
+- **Coats Plus Syndrome:** Caused by compound heterozygous mutations in _CTC1_ or _STN1_. It overlaps with DC (sparse/graying hair, dystrophic nails, anemia) but is distinguished by retinal telangiectasia and exudates, leukodystrophy, brain cysts, intracranial calcifications, osteopenia, and [[Gastrointestinal/Portal Hypertension\|portal hypertension]] secondary to vascular ectasias in the GI tract and liver.
 
 ## Cancer Predisposition
 
 - DC patients carry a markedly increased, premature risk of developing both hematologic malignancies and solid tumors, typically emerging in the third and fourth decades of life.
-- **Hematologic Malignancies:** The actuarial risk for clonal and malignant myeloid disease (myelodysplastic syndrome [MDS] and acute myeloid leukemia [AML]) is 25% by 18 years of age.
+- **Hematologic Malignancies:** The actuarial risk for clonal and malignant myeloid disease (myelodysplastic syndrome [MDS] and [[Hematology/Acute Myeloid Leukemia\|acute myeloid leukemia]] [AML]) is 25% by 18 years of age.
 - **Solid Tumors:** Approximately 40% of cancers in DC patients are squamous cell carcinomas (SCCs) of the head and neck (tongue, mouth, pharynx).
 - SCCs of the skin, esophagus, stomach, and colon, as well as anorectal adenocarcinomas, are also highly prevalent.
 - Patients are prone to developing multiple separate primary tumors simultaneously.
@@ -78,13 +78,13 @@
 - Complete blood count (CBC) reveals cytopenias (thrombocytopenia, anemia) or full pancytopenia with macrocytosis and elevated HbF.
 - Early bone marrow aspirates and biopsies may show normocellular or hypercellular marrow, which eventually undergoes symmetric depletion of all hematopoietic lineages, replacing hematopoietic space with fat.
 - Primary skin fibroblasts in culture display abnormal morphology, poor doubling rates, and spontaneous unbalanced chromosomal rearrangements (dicentrics, tricentrics, translocations) in the absence of clastogenic agents like diepoxybutane (DEB) or mitomycin C (MMC).
-- Unlike Fanconi anemia, DC cells do not exhibit significant hypersensitivity to DNA cross-linking agents, distinguishing the two conditions.
+- Unlike [[Hematology/Fanconi Anemia\|Fanconi anemia]], DC cells do not exhibit significant hypersensitivity to DNA cross-linking agents, distinguishing the two conditions.
 
 ### Confirmatory Testing
 
 - **Clinical Criteria:** The classic diagnosis requires at least two of the four major features (abnormal skin pigmentation, nail dystrophy, leukoplakia, bone marrow failure) plus two or more minor somatic features.
 - **Telomere Length Measurement:** The hallmark diagnostic test is automated multicolor flow-fluorescence in situ hybridization (flow-FISH) of peripheral blood leukocyte subsets. Telomere lengths below the 1st percentile for age yield a 97% sensitivity and 91% specificity for DC. However, older adult patients or those with specific genetic variants may occasionally have telomeres in the low-normal range rather than below the 1st percentile.
-- **Molecular/Genetic Testing:** Next-generation sequencing (NGS) panels targeting known telomere biology genes or whole-exome sequencing (WES) should be employed to establish the exact genetic diagnosis.
+- **Molecular/Genetic Testing:** [[Genetics/Next-Generation Sequencing (NGS)\|Next-generation sequencing (NGS)]] panels targeting known telomere biology genes or whole-exome sequencing (WES) should be employed to establish the exact genetic diagnosis.
 - **Imaging Precautions:** Due to inherent genomic instability, imaging modalities utilizing ionizing radiation should be strictly limited to those necessary for acute management.
 
 ## Management and Treatment
@@ -95,7 +95,7 @@
 - **Androgen Therapy:** Agents such as oxymetholone or danazol can stimulate hematopoiesis and induce a clinically meaningful improvement in bone marrow function in approximately 70% of DC patients.
 - Responses to androgens can normalize trilineage counts for years, but patients generally require lifelong therapy at the lowest effective dose.
 - Over time, patients inevitably become refractory to androgens due to progressive stem cell depletion. DC patients are highly sensitive to androgen side effects, requiring frequent monitoring.
-- Granulocyte colony-stimulating factor (G-CSF) and erythropoietin may produce transient responses but are not definitive treatments. Immunosuppressive therapy (IST) is entirely ineffective.
+- Granulocyte colony-stimulating factor (G-CSF) and [[Hematology/Erythropoietin\|erythropoietin]] may produce transient responses but are not definitive treatments. Immunosuppressive therapy (IST) is entirely ineffective.
 
 ### Hematopoietic Stem Cell Transplantation (HSCT)
 
@@ -108,7 +108,7 @@
 ## Prognosis
 
 - DC is marked by extreme phenotypic and prognostic heterogeneity based on the specific genetic variant inherited.
-- Patients with monoallelic _TERC_ or _TERT_ mutations often present later in adulthood with isolated aplastic anemia or pulmonary/hepatic fibrosis, without classic multisystem anomalies.
-- Conversely, patients with _DKC1_, _TINF2_, _PARN_, _ACD_, or _RTEL1_ mutations generally exhibit earlier onset of the mucocutaneous triad, rapid progression to aplastic anemia, and a higher risk of early-onset malignancies.
+- Patients with monoallelic _TERC_ or _TERT_ mutations often present later in adulthood with isolated [[Hematology/Aplastic Anemia\|aplastic anemia]] or pulmonary/hepatic fibrosis, without classic multisystem anomalies.
+- Conversely, patients with _DKC1_, _TINF2_, _PARN_, _ACD_, or _RTEL1_ mutations generally exhibit earlier onset of the mucocutaneous triad, rapid progression to [[Hematology/Aplastic Anemia\|aplastic anemia]], and a higher risk of early-onset malignancies.
 - The median overall survival for patients with classic DC is approximately 40 to 45 years, though those diagnosed in early childhood have a mean age of death closer to 30 years.
 - The primary causes of mortality are bone marrow failure, progressive pulmonary fibrosis, complications related to HSCT, severe gastrointestinal hemorrhage, and secondary malignancies.

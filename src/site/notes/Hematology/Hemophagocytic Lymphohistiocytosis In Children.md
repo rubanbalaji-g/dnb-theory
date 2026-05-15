@@ -38,8 +38,8 @@ Triggered by separate pathologic processes inducing overwhelming immune activati
 
 |Trigger Category|Specific Associations|
 |:--|:--|
-|**Infections**|Epstein-Barr Virus (EBV), Cytomegalovirus (CMV), Human Herpesvirus 6 (HHV6), HIV, Adenovirus, Dengue, Influenza, Parvovirus B19, Fungal, Parasitic.|
-|**Rheumatologic / Autoimmune**|Systemic Juvenile Idiopathic Arthritis (termed Macrophage Activation Syndrome), Systemic Lupus Erythematosus, Kawasaki disease.|
+|**Infections**|Epstein-Barr Virus (EBV), Cytomegalovirus (CMV), Human Herpesvirus 6 (HHV6), HIV, Adenovirus, [[Infectious Diseases/Dengue\|Dengue]], Influenza, Parvovirus B19, Fungal, Parasitic.|
+|**Rheumatologic / Autoimmune**|Systemic Juvenile Idiopathic Arthritis (termed [[Rheumatology/Macrophage Activation Syndrome\|Macrophage Activation Syndrome]]), Systemic Lupus Erythematosus, [[Rheumatology/Kawasaki Disease\|Kawasaki disease]].|
 |**Malignancy**|Leukemia, Lymphoma.|
 |**Immunodeficiency**|Severe Combined Immunodeficiency, DiGeorge syndrome, Wiskott-Aldrich syndrome, Chronic Granulomatous Disease.|
 
@@ -50,7 +50,7 @@ Clinical presentation is typically severe and acute, mimicking hyperferritinemic
 - **Systemic Features:** Fever (90-100%), weight loss, irritability.
 - **Reticuloendothelial:** Splenomegaly (84-100%), hepatomegaly (70-100%), lymphadenopathy (20-50%).
 - **Dermatologic:** Maculopapular and/or petechial rash (10-60%).
-- **Pulmonary:** Respiratory distress (40-90%), acute respiratory distress syndrome (ARDS).
+- **Pulmonary:** Respiratory distress (40-90%), acute [[Neonatalogy/Respiratory Distress Syndrome\|respiratory distress syndrome]] (ARDS).
 - **Hepatic/Hematologic:** Jaundice, liver failure, pancytopenia, bleeding, coagulopathy.
 - **Central Nervous System (50%):** Seizures, ataxia, altered mental status, coma, cranial nerve palsies.
 - **Isolated CNS HLH:** Neuroinflammatory disease occasionally presents without systemic cytopenias or splenomegaly, delaying diagnosis.
@@ -74,8 +74,8 @@ Diagnosis requires either a confirmed molecular genetic defect OR fulfillment of
 
 |Disease Entity|Differentiating Features|
 |:--|:--|
-|**Langerhans Cell Histiocytosis (LCH)**|Identifiable by CD1a and CD207 (langerin) positivity. Presence of Birbeck granules on electron microscopy. Characterized by lytic bone lesions, seborrheic rash.|
-|**Juvenile Myelomonocytic Leukemia (JMML)**|Marked absolute monocytosis (>1000/mm$^3$). Bone marrow lacks hemophagocytosis. Demonstrates GM-CSF hypersensitivity in colony assays.|
+|**[[Hematology/Langerhans Cell Histiocytosis\|Langerhans Cell Histiocytosis]] (LCH)**|Identifiable by CD1a and CD207 (langerin) positivity. Presence of Birbeck granules on electron microscopy. Characterized by lytic bone lesions, seborrheic rash.|
+|**[[Hematology/Juvenile Myelomonocytic Leukemia\|Juvenile Myelomonocytic Leukemia]] (JMML)**|Marked absolute monocytosis (>1000/mm$^3$). Bone marrow lacks hemophagocytosis. Demonstrates GM-CSF hypersensitivity in colony assays.|
 |**Severe Sepsis / Viral Illness**|May trigger secondary HLH, but isolated sepsis lacks extreme hyperferritinemia (>10,000), profound hypofibrinogenemia, or absent NK cell activity.|
 
 ## Management And Prognosis
@@ -89,7 +89,7 @@ Immediate initiation of therapy is mandatory; primary HLH is universally fatal w
 - **Mechanism of Etoposide:** Exerts direct cytotoxic effect on activated macrophages, interrupting cytokine production and halting the hemophagocytic process.
 - **Targeted Biologicals:**
     - **Emapalumab:** Monoclonal antibody targeting Interferon-gamma. Approved for recurrent, refractory, or progressive primary HLH.
-    - **Anakinra / Ruxolitinib:** Interleukin-1 receptor antagonists and JAK inhibitors utilized effectively in secondary HLH or Macrophage Activation Syndrome.
+    - **Anakinra / Ruxolitinib:** Interleukin-1 receptor antagonists and JAK inhibitors utilized effectively in secondary HLH or [[Rheumatology/Macrophage Activation Syndrome\|Macrophage Activation Syndrome]].
 - **Supportive Care:** Antithymocyte globulin (ATG), broad-spectrum antimicrobials, packed red cells, and platelet transfusions.
 
 ### Definitive Therapy And Secondary Management

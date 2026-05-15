@@ -15,8 +15,8 @@
 |:--|:--|:--|:--|
 |**Constitutional Delay of Growth & Puberty (CDGP)**|65-80%|Transient delay in Hypothalamic-Pituitary-Gonadal (HPG) axis activation.|Self-limited delayed puberty; strong family history.|
 |**Functional Hypogonadotropic Hypogonadism (FHH)**|10-20%|Transient HPG suppression secondary to underlying systemic, nutritional, or endocrine conditions.|[[Gastrointestinal/Celiac disease\|Celiac disease]], Crohn disease, anorexia nervosa, excessive exercise.|
-|**Persistent Hypogonadotropic Hypogonadism (HH)**|~10%|Permanent gonadotropin (LH/FSH) deficiency. Hypothalamic or pituitary defect.|Kallmann syndrome, isolated HH, multiple pituitary hormone deficiency (MPHD).|
-|**Hypergonadotropic Hypogonadism**|5-10%|Primary gonadal failure. Loss of negative feedback elevates LH/FSH.|Klinefelter syndrome (47,XXY), vanishing testes, chemotherapy/radiation.|
+|**Persistent Hypogonadotropic Hypogonadism (HH)**|~10%|Permanent gonadotropin (LH/FSH) deficiency. Hypothalamic or pituitary defect.|[[Endocrinology/Kallmann Syndrome\|Kallmann syndrome]], isolated HH, multiple pituitary hormone deficiency (MPHD).|
+|**Hypergonadotropic Hypogonadism**|5-10%|Primary gonadal failure. Loss of negative feedback elevates LH/FSH.|[[Genetics/Klinefelter Syndrome (47,XXY)\|Klinefelter syndrome (47,XXY)]], vanishing testes, chemotherapy/radiation.|
 
 ## Detailed Etiology & Pathophysiology
 
@@ -31,16 +31,16 @@
 
 - **Pathogenesis:** Adaptive suppression of HPG axis to conserve energy during chronic stress or negative energy balance.
 - **Nutritional:** Anorexia nervosa, malnutrition.
-- **Systemic Illness:** [[Gastrointestinal/Celiac disease\|Celiac disease]], inflammatory bowel disease, cystic fibrosis, chronic renal failure, sickle cell anemia, thalassemia.
+- **Systemic Illness:** [[Gastrointestinal/Celiac disease\|Celiac disease]], inflammatory bowel disease, [[Respiratory/Cystic Fibrosis\|cystic fibrosis]], chronic renal failure, sickle cell anemia, [[Hematology/Thalassemia\|thalassemia]].
 - **Endocrine:** Hypothyroidism, poorly controlled diabetes mellitus, hyperprolactinemia.
 - **Excessive Exercise:** Elite athletes, wrestlers ("making weight").
 ### Persistent Hypogonadotropic Hypogonadism (HH)
 
 Characterized by low LH, low FSH, and low testosterone.
 
-#### Kallmann Syndrome & Normosmic HH
+#### [[Endocrinology/Kallmann Syndrome\|Kallmann Syndrome]] & Normosmic HH
 
-- **Kallmann Syndrome (KS):** HH combined with anosmia/hyposmia. Defective GnRH neuronal migration from olfactory placode.
+- **[[Endocrinology/Kallmann Syndrome\|Kallmann Syndrome]] (KS):** HH combined with anosmia/hyposmia. Defective GnRH neuronal migration from olfactory placode.
 - **Genetics:** _ANOS1_ (_KAL1_) (X-linked). _FGFR1_, _PROK2_, _PROKR2_, _FGF8_, _CHD7_, _NSMF_.
 - **Isolated/Normosmic HH:** _GNRHR_, _GNRH1_, _KISS1R_ (encodes kisspeptin receptor), _TAC3_ (neurokinin B), _TACR3_.
 - **Reversibility:** ~10% of IHH cases achieve normal reproductive endocrine activity in adulthood despite carrying loss-of-function mutations (e.g., _FGFR1_, _TAC3_).
@@ -60,14 +60,14 @@ Characterized by low LH, low FSH, and low testosterone.
 #### Acquired HH
 
 - **Tumors:** Craniopharyngioma, glioma, germinoma, pituitary adenoma (prolactinoma).
-- **Infiltrative:** Langerhans cell histiocytosis, hemochromatosis, sarcoidosis.
+- **Infiltrative:** [[Hematology/Langerhans Cell Histiocytosis\|Langerhans cell histiocytosis]], [[Gastrointestinal/Hemochromatosis\|hemochromatosis]], sarcoidosis.
 - **Iatrogenic:** Cranial radiation, neurosurgery, chronic glucocorticoids, opiates.
 
 ### Hypergonadotropic Hypogonadism (Primary Testicular Failure)
 
 Characterized by elevated LH and FSH, low testosterone.
 
-#### Klinefelter Syndrome (47,XXY)
+#### [[Genetics/Klinefelter Syndrome (47,XXY)\|Klinefelter Syndrome (47,XXY)]]
 
 - **Incidence:** 1 in 500 to 667 males.
 - **Pathophysiology:** Prepubertal testes relatively normal. Puberty onset initiates massive germ cell apoptosis, seminiferous tubule hyalinization, and fibrosis.
@@ -153,8 +153,8 @@ PHH --> PHHTx["Management: Long-term Testosterone, Exogenous Gonadotropins for F
 |**hCG Stimulation Test**|Evaluates Leydig cell capacity. Lower peak testosterone observed in HH compared to CDGP.|
 |**Serum Inhibin B**|Marker of Sertoli cell function. Inhibin B < 35 pg/mL highly specific for HH in prepubertal boys. Inhibin B > 65 pg/mL suggests CDGP. Undetectable = anorchia.|
 |**MRI Brain / Pituitary**|Indicated if signs of CNS lesion, multiple pituitary deficiencies, or severe delay without spontaneous onset by age 15-18.|
-|**Olfactory Testing**|UPSIT (University of Pennsylvania Smell Identification Test) identifies hyposmia/anosmia (Kallmann syndrome).|
-|**Karyotype**|Mandatory for hypergonadotropic presentation to rule out Klinefelter syndrome (47,XXY).|
+|**Olfactory Testing**|UPSIT (University of Pennsylvania Smell Identification Test) identifies hyposmia/anosmia ([[Endocrinology/Kallmann Syndrome\|Kallmann syndrome]]).|
+|**Karyotype**|Mandatory for hypergonadotropic presentation to rule out [[Genetics/Klinefelter Syndrome (47,XXY)\|Klinefelter syndrome (47,XXY)]].|
 |**Genetic Testing**|Gene panels for _ANOS1_, _FGFR1_, _CHD7_, _TAC3_ etc., when HH is suspected.|
 
 ## Management & Therapeutics
@@ -187,7 +187,7 @@ PHH --> PHHTx["Management: Long-term Testosterone, Exogenous Gonadotropins for F
 - **Testosterone Replacement:** Initiate when LH/FSH rise above normal and testosterone falls. Titrate to adult dosing (e.g., 200-250 mg every 3-4 weeks IM or transdermal gel).
 - **Fertility Preservation:** Sperm counts decline rapidly during puberty in Klinefelter syndrome. Consider sperm banking in early puberty. Adult paternity achievable via micro-dissection Testicular Sperm Extraction (microTESE) coupled with Intracytoplasmic Sperm Injection (ICSI).
 - **Gynecomastia Management:** Aromatase inhibitors largely ineffective. Surgical reduction often required for severe psychosocial distress.
-- **Comorbidity Screening:** Monitor fasting glucose, lipids, HbA1c, and bone mineral density (increased risk for metabolic syndrome and osteopenia).
+- **Comorbidity Screening:** Monitor fasting glucose, lipids, HbA1c, and bone mineral density (increased risk for [[Endocrinology/Metabolic Syndrome\|metabolic syndrome]] and osteopenia).
 
 ## Prognosis & Long-Term Consequences
 

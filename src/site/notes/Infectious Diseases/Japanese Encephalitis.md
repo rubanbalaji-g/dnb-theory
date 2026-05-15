@@ -4,13 +4,13 @@
 
 ## 1. Introduction
 
-Japanese Encephalitis (JE) is a mosquito-borne viral disease causing acute inflammation of the brain. It is the leading cause of vaccine-preventable viral encephalitis in Asia. The disease is of significant public health importance in India, where it is a major contributor to Acute Encephalitis Syndrome (AES). While most infections are asymptomatic, clinical disease is characterized by high mortality and a high rate of permanent neurological sequelae in survivors.
+[[Infectious Diseases/Japanese Encephalitis\|Japanese Encephalitis]] (JE) is a mosquito-borne viral disease causing acute inflammation of the brain. It is the leading cause of vaccine-preventable [[Neurology/Viral Encephalitis\|viral encephalitis]] in Asia. The disease is of significant public health importance in India, where it is a major contributor to Acute Encephalitis Syndrome (AES). While most infections are asymptomatic, clinical disease is characterized by high mortality and a high rate of permanent neurological sequelae in survivors.
 
 ## 2. Virology
 
 ### Etiologic Agent
 
-The Japanese Encephalitis Virus (JEV) belongs to the family _Flaviviridae_ and the genus _Flavivirus_. It is part of the JE serocomplex, which also includes St. Louis encephalitis, West Nile, and Murray Valley encephalitis viruses.
+The [[Infectious Diseases/Japanese Encephalitis\|Japanese Encephalitis]] Virus (JEV) belongs to the family _Flaviviridae_ and the genus _Flavivirus_. It is part of the JE serocomplex, which also includes St. Louis encephalitis, West Nile, and Murray Valley encephalitis viruses.
 
 ### Structure and Genome
 
@@ -79,7 +79,7 @@ The incubation period ranges from 4 to 14 days. The illness typically progresses
     - **CNS Dysfunction:** Progressive clouding of consciousness ranging from confusion and delirium to stupor and deep coma.
     - **Seizures:** Generalized tonic-clonic seizures are very common, especially in children (reported in 10–24% or more).
     - **Movement Disorders:** A distinctive feature of JE is the involvement of the extrapyramidal system. Signs include mask-like facies, tremors (non-intention), cogwheel rigidity, dystonia, and choreoathetoid movements.
-    - **Neurological Signs:** Neck rigidity and Kernig’s sign may be present but are often less pronounced than in bacterial meningitis. Upper motor neuron signs (spasticity, hyperreflexia, Babinski sign) are common, but rapidly changing signs (e.g., hyperreflexia becoming hyporeflexia) are characteristic.
+    - **Neurological Signs:** Neck rigidity and Kernig’s sign may be present but are often less pronounced than in bacterial [[Neurology/Meningitis\|meningitis]]. Upper motor neuron signs (spasticity, hyperreflexia, Babinski sign) are common, but rapidly changing signs (e.g., hyperreflexia becoming hyporeflexia) are characteristic.
     - **Other Features:** Cranial nerve palsies and autonomic disturbances may occur. In severe cases, central neurogenic hyperventilation and posturing (decorticate or decerebrate) may develop.
 3. **Convalescent Stage (Weeks to Months):**
     - Fever subsides, and neurologic deficits may stabilize or gradually improve.
@@ -104,7 +104,7 @@ Diagnosis is based on clinical suspicion, epidemiologic context, and laboratory 
 - **Serology (Gold Standard):**
     - **IgM Capture ELISA:** Detection of JEV-specific IgM antibodies in cerebrospinal fluid (CSF) or serum is the diagnostic method of choice. IgM can be detected in CSF/serum within 7 days of illness onset in nearly all cases.
     - CSF positivity is confirmatory for CNS infection.
-    - Cross-reactivity with other flaviviruses (like Dengue or West Nile) can occur, requiring confirmatory neutralization tests if necessary.
+    - Cross-reactivity with other flaviviruses (like [[Infectious Diseases/Dengue\|Dengue]] or West Nile) can occur, requiring confirmatory neutralization tests if necessary.
 - **Molecular Testing:** RT-PCR can detect viral RNA in blood or CSF, but the viremia is transient and often clears by the time neurological symptoms appear. Therefore, PCR has lower sensitivity than serology in the acute phase.
 
 ### Neuroimaging
@@ -118,18 +118,18 @@ Diagnosis is based on clinical suspicion, epidemiologic context, and laboratory 
 
 JE must be differentiated from other causes of acute febrile encephalopathy (AES):
 
-1. **Cerebral Malaria:** Differentiated by peripheral smear/antigen testing, splenomegaly, and retinal changes.
-2. **Bacterial Meningitis:** Differentiated by high CSF neutrophils, low glucose, and positive Gram stain/culture.
+1. **[[Infectious Diseases/Cerebral Malaria\|Cerebral Malaria]]:** Differentiated by peripheral smear/antigen testing, splenomegaly, and retinal changes.
+2. **Bacterial [[Neurology/Meningitis\|Meningitis]]:** Differentiated by high CSF neutrophils, low glucose, and positive Gram stain/culture.
 3. **Other Viral Encephalitides:**
-    - **Herpes Simplex Encephalitis (HSE):** Typically affects the temporal lobes; presents with focal seizures. Treatable with Acyclovir.
+    - **Herpes Simplex Encephalitis (HSE):** Typically affects the temporal lobes; presents with [[Neurology/Focal seizures\|focal seizures]]. Treatable with Acyclovir.
     - **Enteroviral Encephalitis:** Often associated with hand-foot-mouth disease or herpangina.
     - **Nipah Virus:** Associated with respiratory distress and contact with bats/pigs.
     - **West Nile Virus / Chandipura Virus:** Other arboviral causes in India.
-4. **Tuberculous Meningitis:** Subacute course, basal exudates on imaging, CSF lymphocytosis with low glucose.
+4. **Tuberculous [[Neurology/Meningitis\|Meningitis]]:** Subacute course, basal exudates on imaging, CSF lymphocytosis with low glucose.
 
 ## 8. Management
 
-There is no specific antiviral therapy for Japanese Encephalitis. Management is primarily supportive and focused on preventing complications.
+There is no specific antiviral therapy for [[Infectious Diseases/Japanese Encephalitis\|Japanese Encephalitis]]. Management is primarily supportive and focused on preventing complications.
 
 ### Supportive Care
 
@@ -138,10 +138,10 @@ There is no specific antiviral therapy for Japanese Encephalitis. Management is 
     - Elevate head end to 30 degrees.
     - Use hyperosmolar therapy (Mannitol or hypertonic saline) for raised ICP.
     - Maintain normoglycemia and normothermia.
-- **Fluid and Electrolyte Balance:** Monitor for Syndrome of Inappropriate Antidiuretic Hormone (SIADH), which causes hyponatremia and can worsen cerebral edema. Restrict fluids if SIADH is present.
+- **Fluid and Electrolyte Balance:** Monitor for Syndrome of Inappropriate Antidiuretic Hormone ([[Endocrinology/SIADH\|SIADH]]), which causes hyponatremia and can worsen cerebral edema. Restrict fluids if [[Endocrinology/SIADH\|SIADH]] is present.
 - **Seizure Control:** Seizures must be treated aggressively as they increase ICP and metabolic demand. Benzodiazepines (Lorazepam/Diazepam) are first-line, followed by Phenytoin or Fosphenytoin.
 - **Nutrition:** Nasogastric feeding should be initiated early in unconscious patients to prevent malnutrition.
-- **Prevention of Secondary Infections:** Careful nursing to prevent bedsores and aspiration pneumonia.
+- **Prevention of Secondary Infections:** Careful nursing to prevent bedsores and [[Respiratory/Aspiration Pneumonia\|aspiration pneumonia]].
 
 ### Specific Therapies (Investigational)
 
@@ -169,7 +169,7 @@ Vaccination is the single most effective preventive measure.
 1. **Live Attenuated Vaccine (SA 14-14-2):**
     - This cell-culture-derived vaccine is the primary vaccine used in India's Universal Immunization Program (UIP) for endemic districts.
     - **Schedule:** Administered in two doses.
-        - **1st Dose:** At 9 months of age (along with measles vaccine).
+        - **1st Dose:** At 9 months of age (along with [[Misc/Measles Vaccine\|measles vaccine]]).
         - **2nd Dose:** At 16–24 months of age (along with DPT booster).
     - It is highly immunogenic and safe.
 2. **Inactivated Vero Cell Vaccine (e.g., JENVAC, IXIARO):**

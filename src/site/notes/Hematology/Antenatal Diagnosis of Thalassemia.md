@@ -12,16 +12,16 @@
 
 ## Pathophysiological Basis for Antenatal Screening
 
-### Alpha Thalassemia Syndromes
+### Alpha [[Hematology/Thalassemia\|Thalassemia]] Syndromes
 
 - Alpha-globin gene deletions reduce alpha-chain synthesis.
 - Four-gene deletion causes hemoglobin Barts hydrops fetalis.
 - Zero alpha-to-beta synthesis ratio occurs.
 - Hemoglobin Barts (gamma-chain tetramers) constitutes 80-100% of fetal hemoglobin.
 - Results in death in utero or shortly after birth.
-- Antenatal diagnosis enables life-saving fetal packed red blood cell transfusions.
+- [[Neonatalogy/Antenatal Diagnosis\|Antenatal diagnosis]] enables life-saving fetal packed red blood cell transfusions.
 
-### Beta Thalassemia Syndromes
+### Beta [[Hematology/Thalassemia\|Thalassemia]] Syndromes
 
 - Impaired beta-globin chain production causes alpha-to-beta chain imbalance.
 - Absent beta-chain synthesis leads to beta0-thalassemia.
@@ -60,7 +60,7 @@
 |Modality|Gestational Age|Sample Source|Current Status|
 |:--|:--|:--|:--|
 |**Chorionic villus sampling**|10-14 weeks|Chorionic villus biopsy|Established standard.|
-|**Amniocentesis**|15-20 weeks|Fetal fibroblasts|Established standard.|
+|**[[Neonatalogy/Amniocentesis\|Amniocentesis]]**|15-20 weeks|Fetal fibroblasts|Established standard.|
 |**Noninvasive prenatal testing**|Not specified|Cell-free deoxyribonucleic acid|Under investigation.|
 
 ## Molecular Diagnostic Modalities
@@ -70,9 +70,9 @@
 
 |Target Syndrome|Molecular Technique|Diagnostic Target|
 |:--|:--|:--|
-|**Beta thalassemia**|End point polymerase chain reaction|Common specific mutations.|
-|**Beta thalassemia**|Sanger sequencing|Full beta-globin gene analysis.|
-|**Alpha thalassemia**|Multiplex ligation probe amplification|Alpha-globin gene deletions and mutations.|
+|**Beta [[Hematology/Thalassemia\|thalassemia]]**|End point polymerase chain reaction|Common specific mutations.|
+|**Beta [[Hematology/Thalassemia\|thalassemia]]**|Sanger sequencing|Full beta-globin gene analysis.|
+|**Alpha [[Hematology/Thalassemia\|thalassemia]]**|Multiplex ligation probe amplification|Alpha-globin gene deletions and mutations.|
 
 ### Specific Targeted Mutations
 

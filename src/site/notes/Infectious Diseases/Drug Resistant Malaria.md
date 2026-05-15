@@ -28,7 +28,7 @@
     - Documented in Southeast Asia and anecdotally in East India,.
     - To combat this, Artemisinin is always used in **Artemisinin-based Combination Therapy (ACT)**, never as a monotherapy,.
 
-### 4. Management of Drug-Resistant Malaria
+### 4. Management of Drug-Resistant [[Infectious Diseases/Malaria\|Malaria]]
 
 Treatment depends on the species and the resistance pattern of the geographic area of acquisition.
 
@@ -52,9 +52,9 @@ Treatment depends on the species and the resistance pattern of the geographic ar
     - Quinine + Doxycycline/Clindamycin.
     - **Note:** Anti-relapse therapy with Primaquine (14 days) is still required.
 
-#### C. Severe Malaria
+#### C. Severe [[Infectious Diseases/Malaria\|Malaria]]
 
-- **Drug of Choice:** **IV Artesunate** is the first-line treatment for severe malaria (including resistant strains) due to its rapidity of action and lower mortality compared to Quinine,.
+- **Drug of Choice:** **IV Artesunate** is the first-line treatment for severe [[Infectious Diseases/Malaria\|malaria]] (including resistant strains) due to its rapidity of action and lower mortality compared to Quinine,.
 - **Follow-up:** Must be followed by a full course of an oral ACT (e.g., Artemether-Lumefantrine) once the patient can tolerate oral medication to clear any remaining parasites and prevent recrudescence,.
 
 ### 5. Monitoring and Prevention

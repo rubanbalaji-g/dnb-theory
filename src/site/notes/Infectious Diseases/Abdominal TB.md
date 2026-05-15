@@ -15,7 +15,7 @@ The causative agent is _Mycobacterium tuberculosis_ (and rarely _M. bovis_ or _M
 
 ## Clinical Classifications
 
-Abdominal TB can be classified based on the site of involvement:
+[[Infectious Diseases/Abdominal TB\|Abdominal TB]] can be classified based on the site of involvement:
 
 1. **Intestinal TB:** Most commonly affects the ileocecal region. Can be Ulcerative (common in malnutrition/wasting), Hypertrophic (obstructive mass), or Ulcero-hypertrophic.
 2. **Peritoneal TB:** Can be Wet (Ascitic form), Dry (Plastic form with adhesions), or Fibrotic (encysted).
@@ -33,14 +33,14 @@ The onset is usually insidious. Symptoms may be constitutional or abdominal.
     - **Bowel Habits:** Alternating diarrhea and constipation (common in enteric TB).
     - **Vomiting:** May indicate subacute intestinal obstruction.
 - **Physical Signs:**
-    - **"Doughy" Abdomen:** Characteristic of the plastic/adhesive form of peritonitis.
+    - **"Doughy" Abdomen:** Characteristic of the plastic/adhesive form of [[Gastrointestinal/Peritonitis\|peritonitis]].
     - **Ascites:** Usually high protein, exudative.
     - **Mass:** Irregular masses may be palpated (rolled-up omentum, matted lymph nodes, or ileocecal mass).
     - **Organomegaly:** Hepatomegaly or splenomegaly.
 
 ## Diagnostic Approach
 
-Diagnosis requires a high index of suspicion and a multi-modality approach as no single test is pathognomonic.
+Diagnosis requires a high [[Statistics/Index\|index]] of suspicion and a multi-modality approach as no single test is pathognomonic.
 
 ### 1. Imaging Modalities
 
@@ -52,7 +52,7 @@ Radiology plays a pivotal role in diagnosis.
     - **Lymphadenopathy:** Matted nodes, often with **central hypoechogenicity (necrosis)** and peripheral vascularity.
     - **Ascites:** Often loculated or septated with fine strands (fibrin).
     - **Thickening:** Bowel wall thickening (uniform and concentric), omental thickening ("omental cake"), or peritoneal thickening.
-- _Note:_ Small (<1 cm) non-matted nodes are common in children with functional abdominal pain and should not be misdiagnosed as TB without other evidence.
+- _Note:_ Small (<1 cm) non-matted nodes are common in children with [[Gastrointestinal/Functional Abdominal Pain\|functional abdominal pain]] and should not be misdiagnosed as TB without other evidence.
 
 **B. Contrast-Enhanced CT (CECT) / CT Enterography** CT provides better anatomical detail and is useful for visualizing the bowel and mesentery. **Characteristic Imaging Findings (Box 1, NTEP Guidelines 2022):**
 
@@ -80,7 +80,7 @@ Confirming the diagnosis is difficult due to the paucibacillary nature of the di
 - **Peritoneoscopy:** Visual findings of tubercles (whitish miliary nodules) on the peritoneum have high sensitivity (93%) and specificity (98%).
 - **Tests on Tissue:**
     - **Histopathology:** Caseating granulomas (epithelioid cells, Langhans giant cells).
-    - **NAAT (GeneXpert/TrueNat):** Should be performed on the biopsy specimen/pus for rapid confirmation and Rifampicin resistance testing.
+    - **[[Genetics/NAAT\|NAAT]] (GeneXpert/TrueNat):** Should be performed on the biopsy specimen/pus for rapid confirmation and Rifampicin resistance testing.
     - **Culture (MGIT):** Definitive for diagnosis and Drug Susceptibility Testing (DST).
 
 ## Differential Diagnosis
@@ -106,7 +106,7 @@ The management follows the principles of standard anti-tubercular therapy.
 Surgery is conservative and reserved for complications:
 
 - **Intestinal Obstruction:** Acute or subacute obstruction not responding to conservative management.
-- **Perforation:** Peritonitis due to bowel perforation.
+- **Perforation:** [[Gastrointestinal/Peritonitis\|Peritonitis]] due to bowel perforation.
 - **Abscess:** Drainage of large abscesses.
 - **Biopsy:** Diagnostic laparoscopy if non-invasive tests are inconclusive.
 

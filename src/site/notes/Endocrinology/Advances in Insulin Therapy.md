@@ -64,7 +64,7 @@
 
 ### Integration with Continuous Glucose Monitoring (CGM)
 
-- The integration of Continuous Glucose Monitoring (CGM) systems with insulin pumps creates Sensor-Augmented Pump (SAP) therapy.
+- The integration of [[Endocrinology/Continuous glucose monitoring (CGM) systems\|Continuous Glucose Monitoring (CGM) systems]] with insulin pumps creates Sensor-Augmented Pump (SAP) therapy.
 - CGM devices utilize subcutaneous sensors that measure interstitial fluid glucose concentrations via glucose-oxidase-based electrochemical methods, transmitting real-time data every 5 minutes to the pump.
 - Recent CGM advancements include factory-calibrated sensors that entirely eliminate the burden of twice-daily fingerstick blood glucose calibrations.
 - Additionally, novel long-term implantable subcutaneous sensors have been developed and approved for 3 to 6 months of continuous wear, offering an alternative to weekly transcutaneous sensor changes,.

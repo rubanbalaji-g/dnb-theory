@@ -4,7 +4,7 @@
 
 ## 1. Introduction
 
-Meningococcal disease, caused by _Neisseria meningitidis_, remains a significant public health challenge globally. It manifests as a spectrum of illnesses ranging from asymptomatic carriage to invasive diseases like meningitis and fulminant septicemia (meningococcemia). Despite advances in critical care, the case fatality rate remains high (5–10%), and survivors often suffer severe sequelae such as hearing loss, neurologic disability, or limb loss. It is the leading cause of bacterial meningitis in older children and adolescents in developed nations following the introduction of _Haemophilus influenzae_ type b (Hib) and pneumococcal conjugate vaccines.
+Meningococcal disease, caused by _Neisseria meningitidis_, remains a significant public health challenge globally. It manifests as a spectrum of illnesses ranging from asymptomatic carriage to invasive diseases like [[Neurology/Meningitis\|meningitis]] and fulminant septicemia (meningococcemia). Despite advances in critical care, the case fatality rate remains high (5–10%), and survivors often suffer severe sequelae such as hearing loss, neurologic disability, or limb loss. It is the leading cause of bacterial [[Neurology/Meningitis\|meningitis]] in older children and adolescents in developed nations following the introduction of _Haemophilus influenzae_ type b (Hib) and pneumococcal [[Misc/Conjugate Vaccines\|conjugate vaccines]].
 
 ## 2. Etiology and Microbiology
 
@@ -19,7 +19,7 @@ Meningococcal disease, caused by _Neisseria meningitidis_, remains a significant
 Classification is crucial for epidemiology and vaccine formulation:
 
 1. **Serogroups:** Based on the chemical composition of the polysaccharide capsule. There are 12 serogroups, but six cause almost all invasive disease: **A, B, C, W, X, and Y**.
-    - **Serogroup A:** Historically associated with massive epidemics in the sub-Saharan "meningitis belt".
+    - **Serogroup A:** Historically associated with massive epidemics in the sub-Saharan "[[Neurology/Meningitis\|meningitis]] belt".
     - **Serogroups B and C:** Major causes of endemic disease in industrialized nations.
     - **Serogroup W:** Associated with outbreaks among Hajj pilgrims.
 2. **Serotypes and Serosubtypes:** Based on outer membrane proteins PorB and PorA, respectively.
@@ -60,8 +60,8 @@ Classification is crucial for epidemiology and vaccine formulation:
 4. **Inflammatory Cascade:**
     - Release of outer membrane vesicles containing LOS triggers a massive release of cytokines (TNF-$\alpha$, IL-1, IL-6).
     - This leads to endothelial injury, increased vascular permeability (capillary leak), pathological vasoconstriction/vasodilation, and profound myocardial dysfunction.
-    - **Coagulopathy:** Endothelial damage and procoagulant activation lead to disseminated intravascular coagulation (DIC), thrombosis of small vessels, and purpura fulminans.
-5. **CNS Invasion:** Bacteria traverse the blood-brain barrier via interaction with cerebral endothelial cells, causing purulent meningitis.
+    - **Coagulopathy:** Endothelial damage and procoagulant activation lead to [[Hematology/Disseminated Intravascular Coagulation\|disseminated intravascular coagulation]] (DIC), thrombosis of small vessels, and purpura fulminans.
+5. **CNS Invasion:** Bacteria traverse the blood-brain barrier via interaction with cerebral endothelial cells, causing purulent [[Neurology/Meningitis\|meningitis]].
 
 ## 5. Clinical Manifestations
 
@@ -78,13 +78,13 @@ This is the most severe form, characterized by rapid progression.
     - **Purpura Fulminans:** Extensive ecchymoses and gangrene of extremities due to DIC and thrombosis. Associated with high mortality.
 - **Shock:** Signs include tachycardia, poor perfusion, hypotension (late sign), and multi-organ failure (adrenal hemorrhage/Waterhouse-Friderichsen syndrome, renal failure, myocardial depression).
 
-### 5.2. Meningitis
+### 5.2. [[Neurology/Meningitis\|Meningitis]]
 
-Meningitis occurs in 30–50% of invasive cases, often overlapping with septicemia.
+[[Neurology/Meningitis\|Meningitis]] occurs in 30–50% of invasive cases, often overlapping with septicemia.
 
 - **Presentation:** Fever, headache, photophobia, vomiting, and nuchal rigidity.
 - **Infants:** Signs may be subtle, including bulging fontanelle, lethargy, irritability, high-pitched cry, and poor feeding. Kernig’s and Brudzinski’s signs are often absent in young infants.
-- **Neurologic Signs:** Altered mental status, obtundation, and coma. Seizures occur but are less common than in _H. influenzae_ or Pneumococcal meningitis.
+- **Neurologic Signs:** Altered mental status, obtundation, and coma. Seizures occur but are less common than in _H. influenzae_ or Pneumococcal [[Neurology/Meningitis\|meningitis]].
 
 ### 5.3. Chronic Meningococcemia
 
@@ -94,7 +94,7 @@ A rare form characterized by intermittent fever, rash, and arthralgia lasting we
 
 - **Pneumonia:** Can be primary (airborne transmission) or secondary. More common with serogroup Y.
 - **Arthritis:** Can be septic (early onset) or immune-complex mediated (late onset, sterile effusion).
-- **Pericarditis:** Primary or purulent pericarditis.
+- **[[Cardiology/Pericarditis\|Pericarditis]]:** Primary or purulent [[Cardiology/Pericarditis\|pericarditis]].
 
 ## 6. Diagnosis
 
@@ -111,8 +111,8 @@ Early recognition is critical; treatment should **never** be delayed for diagnos
 1. **Blood Culture:** Positive in ~50–70% of untreated cases. Yield drops to <5% after antibiotic administration.
 2. **Cerebrospinal Fluid (CSF):**
     - _Analysis:_ Typical bacterial profile—polymorphonuclear pleocytosis, elevated protein (>100 mg/dL), low glucose (<40 mg/dL).
-    - _Gram Stain:_ Gram-negative diplococci (intracellular or extracellular). Positive in 75–90% of untreated meningitis.
-    - _Culture:_ Gold standard for meningitis diagnosis.
+    - _Gram Stain:_ Gram-negative diplococci (intracellular or extracellular). Positive in 75–90% of untreated [[Neurology/Meningitis\|meningitis]].
+    - _Culture:_ Gold standard for [[Neurology/Meningitis\|meningitis]] diagnosis.
     - _Contraindications to LP:_ Hemodynamic instability (shock), significant coagulopathy, respiratory compromise, or signs of raised intracranial pressure (impending herniation).
 3. **Skin Lesion Aspirate:** Gram stain and culture of petechiae/purpura can be diagnostic even after antibiotic initiation.
 4. **Polymerase Chain Reaction (PCR):** Highly sensitive and specific for detecting meningococcal DNA (e.g., _ctrA_ gene) in blood or CSF. Remains positive for days after antibiotic treatment, significantly increasing confirmation rates.
@@ -123,7 +123,7 @@ Early recognition is critical; treatment should **never** be delayed for diagnos
 
 ### 7.1. Antimicrobial Therapy
 
-- **Empiric Therapy:** Third-generation cephalosporin (Ceftriaxone or Cefotaxime) + Vancomycin (if pneumococcal resistance is suspected) is the standard empiric regimen for bacterial meningitis in children.
+- **Empiric Therapy:** Third-generation cephalosporin (Ceftriaxone or Cefotaxime) + Vancomycin (if pneumococcal resistance is suspected) is the standard empiric regimen for bacterial [[Neurology/Meningitis\|meningitis]] in children.
 - **Specific Therapy (once _N. meningitidis_ is confirmed):**
     - **Drug of Choice:** **Ceftriaxone** (100 mg/kg/day IV once daily or divided q12h; max 4g) or **Cefotaxime** (200–300 mg/kg/day div q6h). Ceftriaxone is preferred as it eradicates nasopharyngeal carriage.
     - **Penicillin G:** (300,000–400,000 U/kg/day div q4h). Can be used if the isolate is penicillin-susceptible. However, penicillin does **not** eradicate carriage; rifampin prophylaxis is required before discharge.
@@ -141,7 +141,7 @@ Early recognition is critical; treatment should **never** be delayed for diagnos
 
 ### 7.3. Adjunctive Therapies
 
-- **Steroids:** Dexamethasone (0.15 mg/kg q6h) is recommended for pneumococcal and Hib meningitis. Its role in meningococcal meningitis is less clear but generally recommended if given before or with the first dose of antibiotics to reduce neurologic sequelae (hearing loss).
+- **Steroids:** Dexamethasone (0.15 mg/kg q6h) is recommended for pneumococcal and Hib [[Neurology/Meningitis\|meningitis]]. Its role in meningococcal [[Neurology/Meningitis\|meningitis]] is less clear but generally recommended if given before or with the first dose of antibiotics to reduce neurologic sequelae (hearing loss).
 
 ## 8. Prevention
 
@@ -149,7 +149,7 @@ Prevention relies on chemoprophylaxis of contacts and vaccination.
 
 ### 8.1. Chemoprophylaxis
 
-- **Indication:** Close contacts of the index case (household members, daycare contacts, direct exposure to secretions via kissing/intubation) within the 7 days preceding illness.
+- **Indication:** Close contacts of the [[Statistics/Index\|index]] case (household members, daycare contacts, direct exposure to secretions via kissing/intubation) within the 7 days preceding illness.
 - **Timing:** Administer as soon as possible (ideally <24 hours).
 - **Regimens:**
     1. **Rifampin:** Drug of choice for children.
@@ -165,7 +165,7 @@ Vaccination is the most effective control measure.
 #### A. Vaccine Types
 
 1. **Polysaccharide Vaccines (MPSV4):** (Menomune) Effective against A, C, Y, W. Poorly immunogenic in children <2 years; induces no memory; hyporesponsiveness with repeated doses. Largely replaced by conjugates.
-2. **Conjugate Vaccines (MenACWY):** Polysaccharides conjugated to proteins (Diphtheria toxoid, CRM197, or Tetanus toxoid). Induce T-cell dependent immunity, immune memory, and herd immunity by reducing carriage.
+2. **[[Misc/Conjugate Vaccines\|Conjugate Vaccines]] (MenACWY):** Polysaccharides conjugated to proteins ([[Misc/Diphtheria Toxoid\|Diphtheria toxoid]], CRM197, or [[Misc/Tetanus Toxoid\|Tetanus toxoid]]). Induce T-cell dependent immunity, immune memory, and [[Misc/Herd Immunity\|herd immunity]] by reducing carriage.
     - _MenACWY-D (Menactra)_ & _MenACWY-CRM (Menveo)_.
     - **Schedule:** Routine vaccination at 11–12 years with a booster at 16 years. High-risk infants/children (asplenia, complement deficiency) require earlier and multiple doses.
 3. **Serogroup B Vaccines (MenB):** (Bexsero, Trumenba) Recombinant protein vaccines (polysaccharide is non-immunogenic). Recommended for high-risk groups >10 years and during outbreaks.
@@ -174,14 +174,14 @@ Vaccination is the most effective control measure.
 
 - **Routine:** Adolescents (11–12 yrs, booster at 16).
 - **High Risk:** Complement deficiency, asplenia, HIV, microbiologists.
-- **Travel:** Travelers to the "meningitis belt" (sub-Saharan Africa) or Hajj pilgrims (Saudi Arabia requires quadrivalent vaccination).
+- **Travel:** Travelers to the "[[Neurology/Meningitis\|meningitis]] belt" (sub-Saharan Africa) or Hajj pilgrims (Saudi Arabia requires quadrivalent vaccination).
 - **Outbreak Control:** Vaccination of the at-risk population is crucial during epidemics.
 
 ## 9. Prognosis
 
 - **Mortality:** 5–10% even with treatment. Higher in adolescents and those with shock.
 - **Sequelae:** Occur in 11–19% of survivors. Includes sensorineural hearing loss (most common), amputations (due to purpura fulminans), skin scarring, and neurologic deficits.
-- **Poor Prognostic Factors:** Shock, purpura fulminans, coma, low WBC (<5000/$mm^3$), low platelets (<100,000/$mm^3$), young age, and absence of meningitis (pure septicemia).
+- **Poor Prognostic Factors:** Shock, purpura fulminans, coma, low WBC (<5000/$mm^3$), low platelets (<100,000/$mm^3$), young age, and absence of [[Neurology/Meningitis\|meningitis]] (pure septicemia).
 
 ## Summary Table: Treatment of Meningococcal Disease
 

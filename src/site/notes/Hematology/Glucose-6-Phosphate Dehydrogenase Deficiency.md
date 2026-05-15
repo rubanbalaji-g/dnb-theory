@@ -6,8 +6,8 @@
 
 - Most common red blood cell enzyme deficiency globally.
 - Affects over 400 million individuals representing 4.9% global prevalence.
-- High incidence correlates geographically with malaria endemicity.
-- Represents balanced polymorphism conferring evolutionary resistance against falciparum malaria in heterozygous females.
+- High incidence correlates geographically with [[Infectious Diseases/Malaria\|malaria]] endemicity.
+- Represents balanced polymorphism conferring evolutionary resistance against falciparum [[Infectious Diseases/Malaria\|malaria]] in heterozygous females.
 - Inherited as x-linked recessive trait.
 - Full disease expression occurs in hemizygous males and homozygous females.
 - Heterozygous females exhibit variable intermediate expression due to random x-chromosome inactivation (Lyon hypothesis).
@@ -155,7 +155,7 @@ _[Source: 40, 41, 639, 644]_ _Note: standard doses of aspirin and trimethoprim-s
 - Provide packed red blood cell transfusions for severe symptomatic anemia.
 - Specific transfusion indications: hemoglobin falls below 7 g/dl, or persistent hemoglobinuria with hemoglobin below 9 g/dl.
 - Complete recovery expected upon removal of oxidant stress.
-- Absolute contraindication: avoid methylene blue administration for drug-induced methemoglobinemia; causes lethal severe oxidative hemolysis in enzyme-deficient hosts.
+- Absolute contraindication: avoid methylene blue administration for drug-induced [[Hematology/Methemoglobinemia\|methemoglobinemia]]; causes lethal severe oxidative hemolysis in enzyme-deficient hosts.
 
 ### Neonatal Jaundice
 

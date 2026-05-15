@@ -2,11 +2,11 @@
 {"dg-publish":true,"permalink":"/endocrinology/insulin-analogues/","dgPassFrontmatter":true}
 ---
 
-- Insulin analogues are modified forms of human insulin developed utilizing recombinant DNA technology to overcome the pharmacokinetic limitations of traditional human regular and neutral protamine Hagedorn (NPH) insulins.
-- The primary therapeutic objective of utilizing insulin analogues is to safely and closely simulate the normal physiological pattern of pancreatic insulin secretion, which consists of a continuous, peakless basal output interspersed with rapid, intermittent meal-stimulated spikes.
+- [[Endocrinology/Insulin Analogues\|Insulin analogues]] are modified forms of human insulin developed utilizing recombinant DNA technology to overcome the pharmacokinetic limitations of traditional human regular and neutral protamine Hagedorn (NPH) insulins.
+- The primary therapeutic objective of utilizing [[Endocrinology/Insulin Analogues\|insulin analogues]] is to safely and closely simulate the normal physiological pattern of pancreatic insulin secretion, which consists of a continuous, peakless basal output interspersed with rapid, intermittent meal-stimulated spikes.
 - Analogues are broadly categorized into rapid-acting, long-acting (basal), and ultra-long-acting formulations based on their engineered pharmacokinetic and pharmacodynamic profiles.
 
-## Rapid-Acting Insulin Analogues
+## Rapid-Acting [[Endocrinology/Insulin Analogues\|Insulin Analogues]]
 
 ### Formulations and Molecular Modifications
 
@@ -26,7 +26,7 @@
 - However, their rapid absorption allows them to be administered immediately before or even after meals, making them particularly ideal for infants and toddlers with unpredictable eating patterns or picky eating behaviors.
 - Rapid-acting analogues are the standard bolus insulin used in multiple daily injection (MDI) basal-bolus regimens and are the exclusive type of insulin utilized in continuous subcutaneous insulin infusion (CSII) pump therapy.
 
-## Long-Acting (Basal) Insulin Analogues
+## Long-Acting (Basal) [[Endocrinology/Insulin Analogues\|Insulin Analogues]]
 
 ### Formulations and Molecular Modifications
 
@@ -44,7 +44,7 @@
 - Because there is considerable inter-individual variability in duration, insulin detemir is more frequently likely to require twice-daily dosing in pediatric patients compared to insulin glargine, particularly in younger children or obese adolescents.
 - The flat time-action profile of these basal analogues significantly reduces the risk of between-meal and nocturnal hypoglycemia compared to intermediate-acting NPH insulin.
 
-## Ultra-Long-Acting Insulin Analogues
+## Ultra-Long-Acting [[Endocrinology/Insulin Analogues\|Insulin Analogues]]
 
 ### Formulations and Molecular Modifications
 

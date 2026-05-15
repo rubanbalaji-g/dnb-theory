@@ -86,7 +86,7 @@ A milder zoonosis distributed worldwide.
 - **Reservoir:** Rats (peridomestic).
 - **Clinical Features:**
     - Similar to epidemic typhus but generally milder.
-    - Triad of fever, headache, and rash is seen in about half of patients.
+    - Triad of fever, headache, and rash is seen in [[About\|about]] half of patients.
     - The course is usually self-limiting (12–14 days).
 
 ---
@@ -97,7 +97,7 @@ A milder zoonosis distributed worldwide.
 
 - **Etiology:** _Coxiella burnetii_.
 - **Transmission:** Inhalation of aerosols from infected birth products of cattle, sheep, or goats (no arthropod vector in humans).
-- **Clinical Features:** Presents as atypical pneumonia or hepatitis. Notably, **rash is absent**. Chronic Q fever can cause culture-negative endocarditis.
+- **Clinical Features:** Presents as [[Respiratory/Atypical Pneumonia\|atypical pneumonia]] or hepatitis. Notably, **rash is absent**. Chronic Q fever can cause culture-negative endocarditis.
 
 ### Ehrlichiosis and Anaplasmosis
 

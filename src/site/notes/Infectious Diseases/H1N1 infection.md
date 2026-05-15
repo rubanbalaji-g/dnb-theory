@@ -2,7 +2,7 @@
 {"dg-publish":true,"uplink":"/infectious-diseases/infectious-diseases/","uptext":"Back to Index (Infectious Diseases)","permalink":"/infectious-diseases/h1-n1-infection/","dgPassFrontmatter":true}
 ---
 
-## a) Virology and Epidemiology of H1N1 Infection
+## a) Virology and Epidemiology of [[Infectious Diseases/H1N1 infection\|H1N1 Infection]]
 
 ### Virology
 
@@ -60,7 +60,7 @@ Certain populations are at higher risk for severe disease, complications, and mo
 - Children < 5 years, particularly those < 2 years of age,.
 - Adults ≥ 65 years of age.
 - Pregnant women (and up to 2 weeks postpartum).
-- Individuals with chronic comorbidities: Chronic respiratory (asthma, COPD), cardiac, renal, hepatic, or neurological diseases; diabetes mellitus; and blood disorders,.
+- Individuals with chronic comorbidities: Chronic respiratory ([[Respiratory/Asthma\|asthma]], COPD), cardiac, renal, hepatic, or neurological diseases; diabetes mellitus; and blood disorders,.
 - Immunosuppressed persons (HIV/AIDS, long-term steroid use, malignancy),.
 - Persons with morbid obesity (BMI ≥ 40 kg/m²),.
 
@@ -134,10 +134,10 @@ Vaccination is the most effective measure to prevent influenza and its severe co
 #### **1. Target Groups for Vaccination:**
 
 - **High-Priority Group (Medical Indications):** Vaccination is strongly recommended for children with chronic conditions that put them at high risk for severe influenza. These include:
-    - Chronic cardiac or pulmonary diseases (e.g., Asthma, Cystic Fibrosis).
+    - Chronic cardiac or pulmonary diseases (e.g., [[Respiratory/Asthma\|Asthma]], [[Respiratory/Cystic Fibrosis\|Cystic Fibrosis]]).
     - Chronic renal, hepatic, or metabolic disorders (e.g., Diabetes).
-    - Neurodevelopmental disorders (e.g., Cerebral palsy, epilepsy).
-    - Hematologic disorders (e.g., Sickle cell disease).
+    - Neurodevelopmental disorders (e.g., [[Neurology/Cerebral Palsy\|Cerebral palsy]], epilepsy).
+    - Hematologic disorders (e.g., [[Hematology/Sickle Cell Disease\|Sickle cell disease]]).
     - Immunodeficiency states (e.g., HIV/AIDS, malignancies, immunosuppressive therapy).
 - **Healthy Young Children:** Children aged **6 months to 5 years** are a priority group because they experience a high burden of hospitalization and mortality, particularly those **under 2 years of age**.
 - **Household Contacts:** Caregivers and household contacts of infants **< 6 months of age** (who cannot be vaccinated) and contacts of high-risk children should be vaccinated to create a "cocoon" of protection.
@@ -153,8 +153,8 @@ Vaccination is the most effective measure to prevent influenza and its severe co
 
 #### **3. Types of Vaccine:**
 
-- **Inactivated Influenza Vaccine (IIV):** Administered intramuscularly (0.5 mL). It is safe for immunocompromised children and those with chronic conditions. Both trivalent and quadrivalent formulations are available.
-- **Live Attenuated Influenza Vaccine (LAIV):** Administered intranasally. It is contraindicated in children < 2 years, immunocompromised children, and those with asthma/wheezing.
+- **Inactivated [[Misc/Influenza Vaccine\|Influenza Vaccine]] (IIV):** Administered intramuscularly (0.5 mL). It is safe for immunocompromised children and those with chronic conditions. Both trivalent and quadrivalent formulations are available.
+- **Live Attenuated [[Misc/Influenza Vaccine\|Influenza Vaccine]] (LAIV):** Administered intranasally. It is contraindicated in children < 2 years, immunocompromised children, and those with asthma/wheezing.
 
 ### Who Needs to be Given Medication (Antivirals)?
 
@@ -166,7 +166,7 @@ Oseltamivir is the drug of choice. Treatment is indicated for:
 - **Severe or Progressive Illness (Category C):** Any child requiring **hospitalization** for influenza or presenting with "red flag" signs (respiratory distress, altered sensorium, cyanosis, etc.) must be treated immediately,.
 - **High-Risk Children (Category B2):** Children with mild illness who have risk factors for complications must receive treatment,. These include:
     - All children **< 5 years** of age (highest priority for **< 2 years**),.
-    - Children with **chronic medical conditions** (asthma, heart disease, diabetes, renal failure, neurological disorders, blood disorders).
+    - Children with **chronic medical conditions** ([[Respiratory/Asthma\|asthma]], heart disease, diabetes, renal failure, neurological disorders, blood disorders).
     - **Immunocompromised** children.
     - Children with **extreme obesity**.
 - **Timing:** Treatment should ideally be initiated within **48 hours** of symptom onset for maximum benefit. However, for severe/hospitalized cases (Category C), treatment should be started regardless of the duration of illness.

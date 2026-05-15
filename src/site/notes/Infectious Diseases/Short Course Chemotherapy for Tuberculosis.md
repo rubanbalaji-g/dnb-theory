@@ -5,7 +5,7 @@
 ## **Introduction** 
 - Short-course chemotherapy (SCC) represents a paradigm shift in the management of tuberculosis (TB), reducing treatment duration from the historical 12–18 months to 6 months while maintaining high cure rates and minimizing relapse. 
 - The strategy relies on the synergistic use of potent bactericidal and sterilizing drugs to rapidly reduce the bacillary load and eliminate persistent organisms. 
-- Current pediatric management under the National Tuberculosis Elimination Programme (NTEP) 2022 guidelines emphasizes **Universal Drug Susceptibility Testing (U-DST)** to stratify patients upfront into Rifampicin-Sensitive (RS-TB) or Drug-Resistant (DR-TB) categories.
+- Current pediatric management under the [[Social Pediatics/National Tuberculosis Elimination Programme (NTEP)\|National Tuberculosis Elimination Programme (NTEP)]] 2022 guidelines emphasizes **Universal Drug Susceptibility Testing (U-DST)** to stratify patients upfront into Rifampicin-Sensitive (RS-TB) or Drug-Resistant (DR-TB) categories.
 
 ## 1. Scientific Basis of Short Course Chemotherapy
 
@@ -66,7 +66,7 @@ NTEP recommends **daily therapy** using Fixed Drug Combinations (FDCs) to improv
 **Adjunct Therapy:**
 
 - **Pyridoxine (Vit B6):** 10 mg/day is recommended for **all children** on INH regimens (previously only for high risk) to prevent neuropathy, given the high prevalence of malnutrition.
-- **Corticosteroids:** Indicated for TB meningitis (reduces mortality/sequelae) and pericarditis.
+- **Corticosteroids:** Indicated for TB [[Neurology/Meningitis\|meningitis]] (reduces mortality/sequelae) and [[Cardiology/Pericarditis\|pericarditis]].
 
 ## 5. Monitoring and Follow-up
 

@@ -4,7 +4,7 @@
 
 ## Introduction And Pathogenesis
 
-Langerhans cell histiocytosis (LCH) is a rare, diverse group of proliferative disorders characterized by clonal accumulation of cells of the monocyte-dendritic cell lineage.
+[[Hematology/Langerhans Cell Histiocytosis\|Langerhans cell histiocytosis]] (LCH) is a rare, diverse group of proliferative disorders characterized by clonal accumulation of cells of the monocyte-dendritic cell lineage.
 
 - **Cellular Origin:** Arises from an immature cell of myeloid origin in an arrested state of development, not a mature skin Langerhans cell.
 - **Genetics:** Driven by somatic activating pathogenic variants in the mitogen-activated protein kinase (MAPK) signaling pathway.
@@ -37,7 +37,7 @@ Heterogeneous presentation ranging from indolent single-system involvement to li
 
 ### Cutaneous Manifestations (50-60% Of Patients)
 
-- Scaly, papular, seborrheic dermatitis affecting scalp, diaper area, axillary, or retroauricular regions.
+- Scaly, papular, [[Misc/Seborrheic Dermatitis\|seborrheic dermatitis]] affecting scalp, diaper area, axillary, or retroauricular regions.
 - Petechial or hemorrhagic exanthem (often without thrombocytopenia).
 - "Blueberry muffin" rash presenting in neonates.
 
@@ -50,13 +50,13 @@ Heterogeneous presentation ranging from indolent single-system involvement to li
 
 ### Endocrine And Central Nervous System
 
-- **Diabetes Insipidus (DI):** Occurs in 10-15% of patients due to posterior pituitary/hypothalamic infiltration.
+- **[[Endocrinology/Diabetes Insipidus\|Diabetes Insipidus]] (DI):** Occurs in 10-15% of patients due to posterior pituitary/hypothalamic infiltration.
 - **Anterior Pituitary:** Growth retardation, panhypopituitarism.
 - **Neurodegenerative CNS LCH:** Late-onset, progressive syndrome featuring ataxia, dysarthria, tremors, and altered tone. Characterized radiologically by symmetrical hyperintensities in the cerebellar corpus medullare.
 
 ### Other Organ Systems
 
-- **Pulmonary (10-15%):** Diffuse cystic changes, interstitial nodular infiltrates, fibrosis, tachypnea, pneumothorax.
+- **Pulmonary (10-15%):** Diffuse cystic changes, interstitial nodular infiltrates, fibrosis, tachypnea, [[Respiratory/Pneumothorax\|pneumothorax]].
 - **Gastrointestinal:** Bloody diarrhea, vomiting, failure to thrive, malabsorption.
 - **Oto-ophthalmologic:** Exophthalmos (retro-orbital accumulation); chronic otitis media/otorrhea, deafness (mastoid destruction).
 
@@ -77,7 +77,7 @@ Prompt and comprehensive workup required to define disease extent.
 - **Tissue Biopsy:** Essential for diagnosis (skin or bone preferred). Identify CD1a, CD207, S-100, and Birbeck granules.
 - **Molecular Testing:** Evaluate for _BRAF V600E_ or _MEK_ mutations.
 - **Laboratory Studies:** Complete blood count, liver function tests, coagulation profile, serum albumin.
-- **Endocrine Evaluation:** Urine specific gravity / urine osmolality (screen for diabetes insipidus).
+- **Endocrine Evaluation:** Urine specific gravity / urine osmolality (screen for [[Endocrinology/Diabetes Insipidus\|diabetes insipidus]]).
 - **Radiologic Imaging:**
     - Skeletal survey (identify lytic lesions/vertebra plana).
     - Chest radiograph and high-resolution CT (evaluate pulmonary cysts/fibrosis).
@@ -119,7 +119,7 @@ Therapy is strictly risk-adapted based on extent of disease and risk-organ invol
 
 Multisystem LCH requires long-term multidisciplinary follow-up. Multiorgan dysfunction carries the poorest prognosis.
 
-- **Endocrine:** Permanent diabetes insipidus (10-15%); growth hormone deficiency.
+- **Endocrine:** Permanent [[Endocrinology/Diabetes Insipidus\|diabetes insipidus]] (10-15%); growth hormone deficiency.
 - **Neurologic:** Irreversible late-onset neurodegenerative LCH (ataxia, dysarthria, cognitive impairment).
 - **Orthopedic:** Facial asymmetry, limb inequality, persistent spinal deformity (scoliosis).
 - **Organ Fibrosis:** End-stage liver disease (sclerosing cholangitis, cirrhosis) or severe pulmonary fibrosis necessitating organ transplantation.

@@ -8,7 +8,7 @@
 - Homozygous state (HbSS) produces Sickle Cell Anemia.
 - Gene frequency in India: 4.3%; high prevalence in tribal populations of Orissa, Maharashtra, Madhya Pradesh, Jharkhand, and Gujarat.
 - United States prevalence: 1 in 365 African-American births.
-- Sickle cell trait (HbAS) provides selective survival advantage against _Plasmodium falciparum_ malaria (balanced polymorphism).
+- Sickle cell trait (HbAS) provides selective survival advantage against _Plasmodium falciparum_ [[Infectious Diseases/Malaria\|malaria]] (balanced polymorphism).
 
 ## Genetics & Molecular Pathophysiology
 
@@ -33,7 +33,7 @@
 
 ## Diagnosis & Evaluation
 
-### Newborn Screening
+### [[Neonatalogy/Newborn Screening\|Newborn Screening]]
 
 - Mandatory state screening utilizes isoelectric focusing (IEF) or high-performance liquid chromatography (HPLC) from dried blood spots.
 - Hemoglobins reported in order of quantitative predominance.
@@ -74,10 +74,10 @@
     - Alternative: Erythromycin ethylsuccinate for penicillin allergy.
 - **Immunizations:**
     - Routine childhood schedules.
-    - Conjugate 13-valent pneumococcal vaccine (PCV-13).
+    - Conjugate 13-valent [[Misc/Pneumococcal Vaccine\|pneumococcal vaccine]] (PCV-13).
     - 23-valent pneumococcal polysaccharide vaccine (PPV-23) administered at age 2, booster 5 years later.
     - Meningococcal vaccine.
-    - Annual influenza vaccine.
+    - Annual [[Misc/Influenza Vaccine\|influenza vaccine]].
 
 ### Routine Screening Protocols
 
@@ -112,7 +112,7 @@
 - **Indications:** Primary and secondary stroke prevention, recurrent ACS, pulmonary hypertension.
 - **Methods:** Automated erythrocytapheresis (preferred to limit iron burden), manual exchange, or simple transfusion.
 - **Alloimmunization Prevention:** Perform extended RBC phenotyping/genotyping at diagnosis. All transfused units must be leukoreduced and prophylactically matched for C, E, and K antigens.
-- **Iron Overload Management:** Monitor serum ferritin and liver/cardiac T2* MRI. Initiate oral chelation (deferasirox, deferiprone) or subcutaneous deferoxamine for chronic iron toxicity.
+- **Iron Overload Management:** Monitor serum ferritin and liver/cardiac T2* MRI. Initiate oral chelation (deferasirox, deferiprone) or subcutaneous deferoxamine for chronic [[Emergencies/Iron Toxicity\|iron toxicity]].
 
 ## Curative Therapies
 

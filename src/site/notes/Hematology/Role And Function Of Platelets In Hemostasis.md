@@ -81,18 +81,18 @@
 |**Alpha Granules**|Store vWF, fibrinogen, Factor V, PF4|Gray platelet syndrome|
 |**Dense Granules**|Store ADP, ATP, Calcium, Serotonin|Hermansky-Pudlak syndrome, Chediak-Higashi syndrome|
 
-## Differential Diagnosis Of Platelet Disorders
+## Differential Diagnosis Of [[Hematology/Platelet Disorders\|Platelet Disorders]]
 
 ### Quantitative Disorders (Thrombocytopenia)
 
-- **Increased Destruction (Immune):** Immune thrombocytopenic purpura (ITP), drug-induced, systemic lupus erythematosus, neonatal alloimmune thrombocytopenia.
-- **Increased Consumption (Microangiopathy):** Hemolytic uremic syndrome, thrombotic thrombocytopenic purpura, disseminated intravascular coagulation, Kasabach-Merritt syndrome.
-- **Decreased Production:** Congenital amegakaryocytic thrombocytopenia, aplastic anemia, marrow infiltration (leukemia, neuroblastoma), Wiskott-Aldrich syndrome.
-- **Sequestration:** Hypersplenism (portal hypertension, Gaucher disease).
+- **Increased Destruction (Immune):** [[Hematology/Immune Thrombocytopenic Purpura (ITP)\|Immune thrombocytopenic purpura (ITP)]], drug-induced, systemic lupus erythematosus, neonatal alloimmune thrombocytopenia.
+- **Increased Consumption (Microangiopathy):** Hemolytic uremic syndrome, thrombotic thrombocytopenic purpura, [[Hematology/Disseminated Intravascular Coagulation\|disseminated intravascular coagulation]], Kasabach-Merritt syndrome.
+- **Decreased Production:** [[Hematology/Congenital amegakaryocytic thrombocytopenia\|Congenital amegakaryocytic thrombocytopenia]], [[Hematology/Aplastic Anemia\|aplastic anemia]], marrow infiltration (leukemia, [[Hematology/Neuroblastoma\|neuroblastoma]]), Wiskott-Aldrich syndrome.
+- **Sequestration:** Hypersplenism ([[Gastrointestinal/Portal Hypertension\|portal hypertension]], Gaucher disease).
 
 ### Qualitative Disorders (Platelet Dysfunction)
 
-- **Adhesion Defects:** Bernard-Soulier syndrome (abnormal GPIb), von Willebrand disease (vWF deficiency).
+- **Adhesion Defects:** Bernard-Soulier syndrome (abnormal GPIb), [[Hematology/Von Willebrand Disease\|von Willebrand disease]] (vWF deficiency).
 - **Aggregation Defects:** Glanzmann thrombasthenia (abnormal GPIIb/IIIa), congenital afibrinogenemia.
 - **Granule Secretion Defects:** Gray platelet syndrome (alpha granule absence), Hermansky-Pudlak syndrome (dense granule absence).
 - **Acquired Dysfunction:** Uremia, severe liver disease, cardiopulmonary bypass, medication effect (aspirin, NSAIDs).

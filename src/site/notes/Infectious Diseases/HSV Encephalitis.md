@@ -3,17 +3,17 @@
 ---
 
 
-Herpes simplex virus (HSV) encephalitis is a life-threatening neurological emergency and the most common cause of sporadic, fatal encephalitis in children and adults worldwide. Without prompt and appropriate antiviral therapy, the mortality rate approaches 75%, and survivors often suffer from severe long-term neurological sequelae. Management requires a high index of suspicion, rapid diagnostic evaluation, and the immediate institution of high-dose intravenous acyclovir.
+Herpes simplex virus (HSV) encephalitis is a life-threatening neurological emergency and the most common cause of sporadic, fatal encephalitis in children and adults worldwide. Without prompt and appropriate antiviral therapy, the mortality rate approaches 75%, and survivors often suffer from severe long-term neurological sequelae. Management requires a high [[Statistics/Index\|index]] of suspicion, rapid diagnostic evaluation, and the immediate institution of high-dose intravenous acyclovir.
 
 ## Etiology and Pathogenesis
 
 HSV is a double-stranded DNA virus belonging to the _Herpesviridae_ family.
 
-- **Causative Agents:** Beyond the neonatal period, HSV encephalitis is almost exclusively caused by **HSV type 1 (HSV-1)**. In neonates, encephalitis can be caused by either **HSV type 2 (HSV-2)** (approx. 70% of cases) or HSV-1, usually acquired vertically from the mother during passage through an infected birth canal.
+- **Causative Agents:** Beyond the neonatal period, [[Infectious Diseases/HSV Encephalitis\|HSV encephalitis]] is almost exclusively caused by **HSV type 1 (HSV-1)**. In neonates, encephalitis can be caused by either **HSV type 2 (HSV-2)** (approx. 70% of cases) or HSV-1, usually acquired vertically from the mother during passage through an infected birth canal.
 - **Pathophysiology:**
     - **Primary Infection:** The virus typically enters through mucosal surfaces or abraded skin, replicates locally, and infects sensory nerve endings. It is then transported via retrograde axonal transport to sensory ganglia (e.g., <span style="color:rgb(0, 176, 240)">trigeminal ganglia</span>), where it establishes latency.
     - **CNS Invasion:** Encephalitis may result from primary infection or, more commonly in older children and adults, reactivation of latent virus. The virus travels along nerve fibers (e.g., olfactory or trigeminal nerves) to the brain.
-    - **Brain Damage:** HSV encephalitis is an acute, necrotizing infection with a predilection for the <span style="color:rgb(0, 176, 240)">temporal and frontal lobes</span> and the limbic system. The infection causes extensive tissue necrosis, edema, and hemorrhage. Microscopic examination reveals perivascular cuffing, lymphocytic infiltration, and intranuclear inclusion bodies.
+    - **Brain Damage:** [[Infectious Diseases/HSV Encephalitis\|HSV encephalitis]] is an acute, necrotizing infection with a predilection for the <span style="color:rgb(0, 176, 240)">temporal and frontal lobes</span> and the limbic system. The infection causes extensive tissue necrosis, edema, and hemorrhage. Microscopic examination reveals perivascular cuffing, lymphocytic infiltration, and intranuclear inclusion bodies.
     - **Neonatal Pathogenesis:** In neonates, the immature immune system allows for hematogenous dissemination or direct neuronal spread, potentially leading to global encephalitis rather than the focal temporal lobe involvement seen in older patients.
 
 ## Clinical Manifestations
@@ -27,14 +27,14 @@ The onset can be insidious or fulminant. The classic presentation involves signs
 - **Prodrome:** Nonspecific symptoms such as fever, malaise, headache, and nausea may precede neurological signs.
 - **Neurological Signs:**
     - **Altered Consciousness:** Ranging from confusion and lethargy to stupor and coma.
-    - **Seizures:** Generalized or focal seizures are common.
+    - **Seizures:** Generalized or [[Neurology/Focal seizures\|focal seizures]] are common.
     - **Focal Deficits:** Aphasia (due to dominant temporal lobe involvement), hemiparesis, cranial nerve deficits, and ataxia.
     - **Behavioral Changes:** Personality changes, bizarre behavior, psychosis, and memory loss are characteristic of limbic system involvement.
     - **Specific Symptoms:** Anosmia (loss of smell) and gustatory hallucinations may occur.
 
 ### Neonates (Birth to 6 Weeks)
 
-Neonatal HSV encephalitis typically presents between **8 and 17 days of life**. The presentation is often indistinguishable from bacterial sepsis or meningitis.
+Neonatal [[Infectious Diseases/HSV Encephalitis\|HSV encephalitis]] typically presents between **8 and 17 days of life**. The presentation is often indistinguishable from bacterial sepsis or [[Neurology/Meningitis\|meningitis]].
 
 - **Systemic Signs:** Temperature instability (fever or hypothermia), lethargy, poor feeding, irritability, and vomiting.
 - **Neurological Signs:** Seizures (focal or generalized), bulging fontanelle, tremors, and alterations in muscle tone.
@@ -71,7 +71,7 @@ EEG often shows nonspecific slowing but may reveal characteristic **periodic lat
 
 ## Management
 
-The management of HSV encephalitis centers on immediate antiviral therapy and aggressive supportive care. The cornerstone of specific therapy is **Acyclovir**.
+The management of [[Infectious Diseases/HSV Encephalitis\|HSV encephalitis]] centers on immediate antiviral therapy and aggressive supportive care. The cornerstone of specific therapy is **Acyclovir**.
 
 ### 1. Antiviral Therapy: Acyclovir
 
@@ -113,7 +113,7 @@ Resistance is rare in immunocompetent hosts but may occur in immunocompromised p
 
 - **Seizure Management:** Aggressive treatment of seizures is crucial to prevent further brain injury. Standard anticonvulsants (e.g., levetiracetam, fosphenytoin, phenobarbital) should be used. EEG monitoring may be necessary for non-convulsive status epilepticus.
 - **Intracranial Pressure (ICP) Management:** Cerebral edema is a major complication. Elevate the head of the bed, maintain euvolemia, and consider hyperosmolar therapy (mannitol or hypertonic saline) if signs of raised ICP develop.
-- **Fluid and Electrolyte Balance:** Monitor for Syndrome of Inappropriate Antidiuretic Hormone (SIADH), which is a common complication. Restrict fluids if hyponatremia develops.
+- **Fluid and Electrolyte Balance:** Monitor for Syndrome of Inappropriate Antidiuretic Hormone ([[Endocrinology/SIADH\|SIADH]]), which is a common complication. Restrict fluids if hyponatremia develops.
 
 ### 4. Follow-up and Suppressive Therapy
 
@@ -127,7 +127,7 @@ A unique aspect of neonatal HSV management is the requirement for long-term supp
 
 ### 5. Treatment of Relapse
 
-Relapse of HSV encephalitis can occur after completion of therapy. It may manifest as recurrence of symptoms or new neurological deficits. A repeat course of intravenous acyclovir is indicated, and evaluation for drug resistance should be considered if relapse occurs during therapy or shortly after.
+Relapse of [[Infectious Diseases/HSV Encephalitis\|HSV encephalitis]] can occur after completion of therapy. It may manifest as recurrence of symptoms or new neurological deficits. A repeat course of intravenous acyclovir is indicated, and evaluation for drug resistance should be considered if relapse occurs during therapy or shortly after.
 
 ## Complications and Prognosis
 

@@ -89,7 +89,7 @@ EPTB is more common in children (20–30%) than adults due to efficient lymphohe
 
 The most common form of EPTB (approx. 70%),.
 
-- **Sites:** Anterior cervical (jugular), submandibular, and supraclavicular nodes are most frequently affected. Axillary/inguinal nodes may be involved secondary to BCG or extremity lesions.
+- **Sites:** Anterior cervical (jugular), submandibular, and supraclavicular nodes are most frequently affected. Axillary/inguinal nodes may be involved secondary to [[Misc/BCG\|BCG]] or extremity lesions.
 - **Characteristics:**
     - **Onset:** Insidious, enlarging over weeks/months.
     - **Palpation:** Initially firm, discrete, non-tender, and mobile.
@@ -101,7 +101,7 @@ The most common form of EPTB (approx. 70%),.
 
 The most severe form, carrying high mortality and morbidity.
 
-**1. Tuberculous Meningitis (TBM)** Occurs usually within 6 months of primary infection. The clinical course is classically divided into three stages,:
+**1. Tuberculous [[Neurology/Meningitis\|Meningitis]] (TBM)** Occurs usually within 6 months of primary infection. The clinical course is classically divided into three stages,:
 
 - **Stage I (Prodromal - 1 to 2 weeks):**
     - Nonspecific symptoms: Low-grade fever, anorexia, irritability, apathy, stagnation of weight gain, and loss of developmental milestones.
@@ -121,7 +121,7 @@ The most severe form, carrying high mortality and morbidity.
 **2. Tuberculoma** A granulomatous mass presenting as an intracranial space-occupying lesion (ICSOL).
 
 - **Location:** Often infratentorial (brainstem/cerebellum) in children,.
-- **Symptoms:** Headache, vomiting, seizures (focal or generalized), and focal neurological deficits without signs of meningitis.
+- **Symptoms:** Headache, vomiting, seizures (focal or generalized), and focal neurological deficits without signs of [[Neurology/Meningitis\|meningitis]].
 
 ### C. Abdominal Tuberculosis
 
@@ -186,5 +186,5 @@ Rare but fatal if untreated.
 2. **Symptoms:** Persistent fever and weight loss are the most consistent systemic signs.
 3. **Signs:** Lung findings are often disproportionately fewer than radiological findings.
 4. **Lymph Nodes:** Matted, non-tender cervical nodes suggest TB.
-5. **Neurology:** Basal meningitis with cranial nerve palsies is classic for TBM.
+5. **Neurology:** Basal [[Neurology/Meningitis\|meningitis]] with cranial nerve palsies is classic for TBM.
 6. **Eye:** Choroid tubercles are a specific clue for miliary TB.

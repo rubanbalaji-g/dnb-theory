@@ -23,7 +23,7 @@
 *   Children frequently exhibit a hypermetabolic state leading to severe weight loss or cachexia despite maintaining a good or even increased appetite.
 *   Visual disturbances, including blurred vision, papilledema, retinal hemorrhages, and arterial constriction on ophthalmoscopic examination, are common secondary to severe hypertension.
 *   Gastrointestinal manifestations include abdominal pain, nausea, vomiting, severe constipation, and occasionally intestinal pseudo-obstruction.
-*   Metabolic abnormalities such as hyperglycemia, along with polyuria and polydipsia that can be severe enough to mimic diabetes insipidus, are frequently observed.
+*   Metabolic abnormalities such as hyperglycemia, along with polyuria and polydipsia that can be severe enough to mimic [[Endocrinology/Diabetes Insipidus\|diabetes insipidus]], are frequently observed.
 *   Neurological and behavioral changes include seizures, hypertensive encephalopathy, attention deficit hyperactivity disorder, and a sudden decline in academic performance.
 *   Bladder paragangliomas present uniquely with gross hematuria and paroxysmal hypertensive symptoms specifically triggered by micturition.
 *   Head and neck paragangliomas (parasympathetic) are typically non-secretory and present as a neck mass, hearing loss, pulsatile tinnitus, dysphagia, or hoarseness due to mass effect.
@@ -33,7 +33,7 @@
 *   Severe hypertensive crises can lead to cerebrovascular accidents (stroke) or multisystem crisis and death if left unrecognized.
 
 ### Genetic and Syndromic Associations
-*   Up to 80% of children with a pheochromocytoma or paraganglioma harbor a germline mutation, underscoring the vital importance of syndromic recognition.
+*   Up to 80% of children with a [[Endocrinology/Pheochromocytoma\|pheochromocytoma]] or paraganglioma harbor a germline mutation, underscoring the vital importance of syndromic recognition.
 *   **Multiple Endocrine Neoplasia Type 2 (MEN2A and MEN2B):** Caused by *RET* proto-oncogene mutations, these patients develop pheochromocytomas (often bilateral and adrenergic) in association with medullary thyroid carcinoma and hyperparathyroidism (MEN2A) or mucosal neuromas and marfanoid habitus (MEN2B).
 *   **Von Hippel-Lindau (VHL) Disease:** Caused by *VHL* mutations, presenting with noradrenergic pheochromocytomas, retinal and central nervous system hemangioblastomas, and renal clear cell carcinomas.
 *   **Neurofibromatosis Type 1 (NF1):** Presents with adrenergic pheochromocytomas alongside café-au-lait spots, neurofibromas, optic gliomas, and Lisch nodules.
@@ -45,7 +45,7 @@
 *   The primary and most sensitive diagnostic test (approaching 100% sensitivity) is the measurement of fractionated free metanephrines (metanephrine and normetanephrine) in the plasma or a 24-hour urine collection.
 *   An elevation of metanephrines greater than four times the upper limit of normal provides almost a 100% probability of a catecholamine-secreting tumor.
 *   Medications known to interfere with metanephrine assays, such as acetaminophen, tricyclic antidepressants, phenoxybenzamine, and over-the-counter decongestants, must be discontinued prior to testing.
-*   Testing for vanillylmandelic acid (VMA) and homovanillic acid (HVA) is no longer recommended for diagnosing pheochromocytoma, though it remains critical for neuroblastoma.
+*   Testing for vanillylmandelic acid (VMA) and homovanillic acid (HVA) is no longer recommended for diagnosing [[Endocrinology/Pheochromocytoma\|pheochromocytoma]], though it remains critical for [[Hematology/Neuroblastoma\|neuroblastoma]].
 *   In patients with known *SDHx* mutations, the measurement of dopamine and its metabolite methoxytyramine is advised, as these tumors may exclusively secrete dopamine.
 *   Serum chromogranin A is a major secretory protein from chromaffin granules that can serve as a supplementary tumor marker, often correlating with tumor size and malignant potential.
 
@@ -62,7 +62,7 @@
 *   **18F-FDG PET/CT:** Fluorodeoxyglucose PET imaging is highly sensitive for rapidly metabolizing tumors and is particularly useful for detecting metastatic disease.
 
 ### Genetic Testing
-*   Because up to 80% of pediatric cases have an underlying hereditary syndrome, formal genetic counseling and comprehensive genetic testing (often utilizing next-generation sequencing targeted gene panels) are mandatory for every child diagnosed with a pheochromocytoma or paraganglioma.
+*   Because up to 80% of pediatric cases have an underlying hereditary syndrome, formal genetic counseling and comprehensive genetic testing (often utilizing next-generation sequencing targeted gene panels) are mandatory for every child diagnosed with a [[Endocrinology/Pheochromocytoma\|pheochromocytoma]] or paraganglioma.
 
 ## Management and Treatment
 

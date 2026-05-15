@@ -15,7 +15,7 @@ Understanding the precise definitions is crucial for designing appropriate treat
 - **Isoniazid-Resistant TB (Hr-TB):** Resistance to Isoniazid but susceptibility to Rifampicin confirmed.
 - **Pre-Extensively Drug-Resistant TB (Pre-XDR-TB):** MDR/RR-TB plus resistance to any Fluoroquinolone (FQ).
 - **Extensively Drug-Resistant TB (XDR-TB):** MDR/RR-TB plus resistance to any Fluoroquinolone (Levofloxacin or Moxifloxacin) AND at least one Group A drug (Bedaquiline or Linezolid).
-- **Severe Extrapulmonary TB:** Presence of miliary TB, TB meningitis, or CNS TB. In children <15 years, extrapulmonary forms other than peripheral lymphadenopathy are considered severe.
+- **Severe Extrapulmonary TB:** Presence of miliary TB, TB [[Neurology/Meningitis\|meningitis]], or [[Infectious Diseases/CNS TB\|CNS TB]]. In children <15 years, extrapulmonary forms other than peripheral lymphadenopathy are considered severe.
 
 ## 2. Approach to Diagnosis
 
@@ -23,7 +23,7 @@ Diagnosis in children is complicated by the paucibacillary nature of the disease
 
 ### A. Microbiological Confirmation
 
-- **Upfront Molecular Testing (NAAT):** Cartridge Based NAAT (CBNAAT/GeneXpert) or TrueNat are the preferred initial tests. They detect _M. tuberculosis_ and Rifampicin resistance within 2 hours.
+- **Upfront Molecular Testing ([[Genetics/NAAT\|NAAT]]):** Cartridge Based [[Genetics/NAAT\|NAAT]] (CBNAAT/GeneXpert) or TrueNat are the preferred initial tests. They detect _M. tuberculosis_ and Rifampicin resistance within 2 hours.
 - **Line Probe Assays (LPA):**
     - **First-Line LPA (FL-LPA):** Used if Rifampicin resistance is detected (to check for Isoniazid resistance) or if Rifampicin is sensitive (to rule out Isoniazid mono-resistance).
     - **Second-Line LPA (SL-LPA):** Performed if Rifampicin resistance is detected to check for resistance to Fluoroquinolones (FQ).
@@ -50,7 +50,7 @@ The introduction of Bedaquiline and Delamanid has revolutionized pediatric DR-TB
     - **15 to <30 kg:** 200 mg daily for 2 weeks (loading), then 100 mg thrice weekly for 22 weeks.
     - **>30 kg:** 400 mg daily for 2 weeks, then 200 mg thrice weekly for 22 weeks.
 - **Administration:** Should be taken with a light meal to increase absorption. Tablets can be suspended in water for children unable to swallow.
-- **Adverse Effects:** **QTc prolongation** (requires ECG monitoring), hepatotoxicity.
+- **Adverse Effects:** **QTc prolongation** (requires [[Misc/ECG\|ECG]] monitoring), hepatotoxicity.
 - **Duration:** Usually given for 6 months. Can be extended in specific cases.
 
 ### B. Delamanid (Dlm)
@@ -124,7 +124,7 @@ Regimens are constructed based on the following hierarchy:
 - **Microbiological:**
     - **Smear and Culture:** Monthly/Quarterly. Culture conversion (two consecutive negative cultures) is the key prognostic indicator.
 - **Cardiotoxicity (QTc Prolongation):**
-    - ECG is mandatory for regimens containing Bedaquiline, Clofazimine, or Moxifloxacin.
+    - [[Misc/ECG\|ECG]] is mandatory for regimens containing Bedaquiline, Clofazimine, or Moxifloxacin.
     - Schedule: Baseline, at 2 weeks, then monthly.
     - Management: If QTc > 500 ms (or increase > 60 ms from baseline), withhold offending drugs, correct electrolytes (K+, Mg++, Ca++), and reintroduce cautiously.
 - **Hepatotoxicity:**

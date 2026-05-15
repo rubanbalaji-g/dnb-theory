@@ -21,7 +21,7 @@
 - Dactylitis (hand-foot syndrome): Symmetric/unilateral painful swelling of hands/feet; common in children <3 years.
 - Precipitating triggers: Physical stress, infection, dehydration, hypoxia, acidosis, cold exposure, prolonged swimming.
 - Incidence: Average 0.8 events/year prompting medical evaluation in SCD-SS.
-- Risk factors: High baseline hemoglobin, low hemoglobin F, nocturnal hypoxemia, asthma.
+- Risk factors: High baseline hemoglobin, low hemoglobin F, nocturnal hypoxemia, [[Respiratory/Asthma\|asthma]].
 
 ### Differentiating Bone Infarction vs. Osteomyelitis
 
@@ -81,7 +81,7 @@
 - Causes: Infection (_Mycoplasma, Chlamydia, S. pneumoniae_, Parvovirus B19), fat embolization from infarcted marrow, hypoventilation, iatrogenic overhydration.
 - Frequent preceding event: Systemic opioid treatment for VOE resulting in hypoventilation.
 - Incidence: Peak in 2- to 5-year-olds (25 events/100 patient-years).
-- Risk factors: Asthma, high hemoglobin, elevated WBC count.
+- Risk factors: [[Respiratory/Asthma\|Asthma]], high hemoglobin, elevated WBC count.
 
 ### Clinical & Laboratory Findings
 
@@ -94,8 +94,8 @@
 
 #### Respiratory & Hemodynamic Support
 
-- Continuous pulse oximetry; frequent respiratory assessments.
-- Supplemental oxygen for hypoxia (drop in pulse oximetry by 4% over baseline, or values <90%).
+- Continuous [[Emergencies/Pulse Oximetry\|pulse oximetry]]; frequent respiratory assessments.
+- Supplemental oxygen for hypoxia (drop in [[Emergencies/Pulse Oximetry\|pulse oximetry]] by 4% over baseline, or values <90%).
 - IV/oral fluids kept at maintenance; strict avoidance of overhydration.
 - Regular incentive spirometry (10-12 breaths every 2 hours).
 - Chest physiotherapy and mechanical ventilation as needed.

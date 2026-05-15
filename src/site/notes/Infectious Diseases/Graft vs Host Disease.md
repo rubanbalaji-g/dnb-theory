@@ -73,7 +73,7 @@
 
 ### Clinical Manifestations
 
-- Chronic GVHD exhibits pleomorphic clinical symptoms that closely mimic classical autoimmune diseases, such as systemic sclerosis and Sjögren syndrome,.
+- Chronic GVHD exhibits pleomorphic clinical symptoms that closely mimic classical autoimmune diseases, such as systemic sclerosis and [[Rheumatology/Sjögren Syndrome\|Sjögren syndrome]],.
 - Dermatologic findings are prominent and include lichen planus, scleroderma, hyperpigmentation or hypopigmentation, profound ichthyosis, severe ulcerations, and flexion contractures secondary to skin tightening.
 - Appendage involvement includes onycholysis, nail loss, and scarring or nonscarring alopecia.
 - Mucosal and ocular manifestations present as severe sicca syndrome, oral lichen planus, depapillation of the tongue, xerostomia, decreased tearing, scarring conjunctivitis, and keratopathy,.
@@ -91,11 +91,11 @@
 - Imatinib mesylate, an inhibitor of collagen synthesis, has demonstrated efficacy specifically in patients exhibiting profound sclerotic features.
 - Because affected patients are exceptionally susceptible to infections, appropriate antimicrobial prophylaxis, including trimethoprim/sulfamethoxazole (TMP/SMX), is strictly required.
 - While chronic GVHD resolves in most pediatric patients, continuous immunosuppressive therapy is typically required for 1 to 3 years before these agents can be successfully withdrawn without disease recurrence.
-- A severe long-term complication of chronic GVHD and its prolonged immunosuppressive treatment is the promotion of secondary neoplasms, particularly in highly susceptible populations such as those with Fanconi anemia.
+- A severe long-term complication of chronic GVHD and its prolonged immunosuppressive treatment is the promotion of secondary neoplasms, particularly in highly susceptible populations such as those with [[Hematology/Fanconi Anemia\|Fanconi anemia]].
 
 ## Transfusion-Associated Graft-Versus-Host Disease
 
-- GVHD can be iatrogenically induced when profoundly immunodeficient patients, such as infants with severe combined immunodeficiency (SCID), receive unirradiated blood transfusions.
+- GVHD can be iatrogenically induced when profoundly immunodeficient patients, such as infants with [[Infectious Diseases/Severe Combined Immunodeficiency (SCID)\|severe combined immunodeficiency (SCID)]], receive unirradiated blood transfusions.
 - The condition is triggered by the contamination of fresh blood products with viable, immunocompetent donor T-lymphocytes, which the patient's defective immune system is completely unable to reject.
 - Transfusion-associated GVHD manifests aggressively with fever, splenomegaly, thrombocytopenia, Coombs-positive hemolytic anemia, a prominent maculopapular rash on volar surfaces, intractable diarrhea, and protein-losing enteropathy.
 - The outcome of full-blown transfusion-associated GVHD is exceedingly poor, with the patient typically dying within 10 to 14 days after the onset of symptomatology.

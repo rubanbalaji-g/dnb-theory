@@ -40,7 +40,7 @@
 
 - Gastrointestinal mucosal disease: [[Gastrointestinal/Celiac disease\|Celiac disease]], tropical sprue, inflammatory bowel disease.
 - Gastric alterations: _Helicobacter pylori_ gastritis, antacid therapy, elevated gastric pH, gastric bypass, intestinal resection.
-- Iron-Refractory Iron-Deficiency Anemia (IRIDA): Rare autosomal recessive disorder. Pathogenic variant in _TMPRSS6_ gene (encodes matriptase-2). Abrogates hepcidin inhibition. Elevated hepcidin perpetually blocks intestinal iron absorption and macrophage iron release.
+- Iron-Refractory Iron-Deficiency Anemia ([[Hematology/IRIDA\|IRIDA]]): Rare autosomal recessive disorder. Pathogenic variant in _TMPRSS6_ gene (encodes matriptase-2). Abrogates hepcidin inhibition. Elevated hepcidin perpetually blocks intestinal iron absorption and macrophage iron release.
 - Genetic transport defects: Atransferrinemia (mutated _TF_ gene), aceruloplasminemia (mutated _CP_ gene).
 
 ## Pathophysiology: Sequential Stages of Iron Depletion
@@ -76,7 +76,7 @@
 
 ### Non-Hematologic Tissue Effects
 
-- Gastrointestinal: Pica (compulsive craving for sand, dirt, clay, ice). Rapidly reverses with iron therapy prior to hematologic correction.
+- Gastrointestinal: [[Development/Pica\|Pica]] (compulsive craving for sand, dirt, clay, ice). Rapidly reverses with iron therapy prior to hematologic correction.
 - Mucocutaneous: Angular stomatitis, atrophic glossitis (smooth, shiny, painful tongue).
 - Esophageal: Dysphagia secondary to esophageal webs (Kelly-Paterson syndrome).
 - Neurologic: Restless leg syndrome (discomfort relieved by movement; reflects CNS tissue iron deficiency). Apathy, impaired learning, cognitive deficits.
@@ -89,9 +89,9 @@
 
 - Hemoglobin/Hematocrit: Reduced below age and sex-matched normative limits.
 - Red Cell Indices: Mean Corpuscular Volume (MCV), Mean Corpuscular Hemoglobin (MCH), and Mean Corpuscular Hemoglobin Concentration (MCHC) significantly reduced.
-- Red Cell Distribution Width (RDW): Elevated (>14.5%). Indicates marked anisocytosis. Differentiates from thalassemia trait where RDW remains normal (<13%).
-- Reticulocyte Count: Relative percentage may appear elevated, but absolute or corrected reticulocyte index is low or normal (<1.5%), reflecting hypoproliferative marrow response.
-- Platelet Count: Variable. Reactive thrombocytosis common due to erythropoietin cross-reactivity. Severe IDA may present with thrombocytopenia.
+- Red Cell Distribution Width (RDW): Elevated (>14.5%). Indicates marked anisocytosis. Differentiates from [[Hematology/Thalassemia\|thalassemia]] trait where RDW remains normal (<13%).
+- Reticulocyte Count: Relative percentage may appear elevated, but absolute or corrected reticulocyte [[Statistics/Index\|index]] is low or normal (<1.5%), reflecting hypoproliferative marrow response.
+- Platelet Count: Variable. Reactive thrombocytosis common due to [[Hematology/Erythropoietin\|erythropoietin]] cross-reactivity. Severe IDA may present with thrombocytopenia.
 
 ### Peripheral Blood Smear
 
@@ -154,12 +154,12 @@ _Note: Diagnosis of beta-thalassemia trait via elevated HbA2 may be masked by co
 
 - Bone marrow megaloblastosis reverses within days, but not applicable for isolated IDA. Reticulocyte crisis observed at 5 to 10 days post-initiation.
 - Hemoglobin concentration rises 0.25 to 0.4 g/dL/day initially. Target minimum increase of 1 g/dL at 1 month of therapy.
-- Failure to respond mandates reassessment: Evaluate compliance, inadequate dose, persistent occult hemorrhage, concurrent malabsorption ([[Gastrointestinal/Celiac disease\|celiac disease]]), concurrent inflammation, incorrect diagnosis (thalassemia trait), or IRIDA.
+- Failure to respond mandates reassessment: Evaluate compliance, inadequate dose, persistent occult hemorrhage, concurrent malabsorption ([[Gastrointestinal/Celiac disease\|celiac disease]]), concurrent inflammation, incorrect diagnosis ([[Hematology/Thalassemia\|thalassemia]] trait), or [[Hematology/IRIDA\|IRIDA]].
 
 ### Parenteral Iron Therapy
 
-- Indications limited to specific clinical scenarios: Severe GI intolerance, complete non-adherence to oral regimens, malabsorption syndromes ([[Gastrointestinal/Celiac disease\|celiac disease]], inflammatory bowel disease, prior gastrectomy), ongoing rapid hemorrhage exceeding enteral absorptive capacity, and congenital IRIDA.
-- Concomitant use indicated with recombinant erythropoietin therapy (renal dialysis, oncology patients) to guarantee steady substrate supply.
+- Indications limited to specific clinical scenarios: Severe GI intolerance, complete non-adherence to oral regimens, malabsorption syndromes ([[Gastrointestinal/Celiac disease\|celiac disease]], inflammatory bowel disease, prior gastrectomy), ongoing rapid hemorrhage exceeding enteral absorptive capacity, and congenital [[Hematology/IRIDA\|IRIDA]].
+- Concomitant use indicated with recombinant [[Hematology/Erythropoietin\|erythropoietin]] therapy (renal dialysis, oncology patients) to guarantee steady substrate supply.
 - Formulations: Iron sucrose, ferric carboxymaltose, iron dextran. Intravenous administration mandatory; intramuscular injection strictly contraindicated due to severe pain, tissue staining, and erratic absorption.
 - Dosage Calculation (Ganzoni Formula): Total cumulative dose (mg) = [Target Hb - Actual Hb] × Weight (kg) × 2.4 + [15 × Weight (kg)]. Test dose required for specific formulations like high-molecular-weight iron dextran.
 

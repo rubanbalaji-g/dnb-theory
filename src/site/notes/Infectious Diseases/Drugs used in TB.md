@@ -73,7 +73,7 @@ Classified by the WHO and NTEP (2021/2022) into three groups based on efficacy a
 - **Mechanism:** A diarylquinoline that inhibits mycobacterial ATP synthase. Bactericidal and sterilizing.
 - **Indications:** Core drug for MDR/RR-TB in children **$\ge$ 5 years** and weighing **$\ge$ 15 kg**.
 - **Dosage (Children 15–30 kg):** 200 mg daily for 14 days (loading), followed by 100 mg thrice weekly for 22 weeks.
-- **Adverse Effects:** **QTc prolongation** (requires ECG monitoring), hepatotoxicity.
+- **Adverse Effects:** **QTc prolongation** (requires [[Misc/ECG\|ECG]] monitoring), hepatotoxicity.
 - **Interactions:** Metabolized by CYP3A4; avoid with Rifampicin and Efavirenz.
 
 ### Delamanid (Dlm)
@@ -147,8 +147,8 @@ Treatment depends on age and eligibility:
 ### Corticosteroids (Prednisolone)
 
 - **Indications:**
-    - TB Meningitis (reduces mortality and sequelae).
-    - TB Pericarditis.
+    - TB [[Neurology/Meningitis\|Meningitis]] (reduces mortality and sequelae).
+    - TB [[Cardiology/Pericarditis\|Pericarditis]].
     - Severe miliary TB with alveolocapillary block.
     - Endobronchial TB with obstruction/respiratory distress.
 - **Dosage:** 1–2 mg/kg/day for 2–4 weeks, then tapered over 4–6 weeks.
@@ -162,7 +162,7 @@ Treatment depends on age and eligibility:
 |**Cutaneous Rash**|Any|Antihistamines. Stop drugs if severe (Stevens-Johnson).|
 |**Peripheral Neuropathy**|H, Lzd, Cs|Pyridoxine therapy (100 mg).|
 |**Visual Impairment**|E, Lzd|Stop the drug immediately.|
-|**QT Prolongation**|Bdq, Mfx, Cfz, Dlm|Monitor ECG. Stop drug if QTc > 500ms.|
+|**QT Prolongation**|Bdq, Mfx, Cfz, Dlm|Monitor [[Misc/ECG\|ECG]]. Stop drug if QTc > 500ms.|
 |**Arthralgia**|Z, FQ|NSAIDs.|
 
 ## 7. Special Situations

@@ -28,9 +28,9 @@
 
 ### Associated Congenital Syndromes
 
-|Syndrome|Genetic Lesion|Clinical Phenotype|Estimated Wilms Tumor Risk|
+|Syndrome|Genetic Lesion|Clinical Phenotype|Estimated [[Hematology/Wilms Tumor\|Wilms Tumor]] Risk|
 |:--|:--|:--|:--|
-|**WAGR Syndrome**|11p13 deletion (WT1 and PAX6)|Wilms tumor, aniridia, genitourinary anomalies, delayed-onset renal failure, mental retardation.|45-57%.|
+|**WAGR Syndrome**|11p13 deletion (WT1 and PAX6)|[[Hematology/Wilms Tumor\|Wilms tumor]], aniridia, genitourinary anomalies, delayed-onset renal failure, mental retardation.|45-57%.|
 |**Denys-Drash Syndrome**|WT1 missense mutation (exon 8/9)|Ambiguous genitalia, pseudohermaphroditism, diffuse mesangial sclerosis, early renal failure.|~75% (>70%).|
 |**Beckwith-Wiedemann Syndrome**|11p15.5 epigenetic alterations (WT2)|Hemihypertrophy, macroglossia, omphalocele, organomegaly, neonatal hypoglycemia.|~5%.|
 |**Frasier Syndrome**|WT1 mutation (intron 9 splice site)|Ambiguous genitalia, streak gonads, focal segmental glomerulosclerosis.|8%.|
@@ -55,13 +55,13 @@ _[Data derived from congenital anomalies and Wilms tumor associations]_.
 - **Hematuria:** Gross hematuria in 18%; microscopic hematuria in 24%.
 - **Constitutional Symptoms:** Fever (20-22%), anorexia, vomiting, weight loss.
 - **Vascular Involvement:** Tumor thrombus extends into inferior vena cava (IVC) in 4-10% of cases; rarely reaches right atrium. Poses fatal pulmonary embolism risk.
-- **Hematologic Derangements:** Polycythemia (elevated erythropoietin), thrombocytosis, acquired von Willebrand disease (4% incidence), acquired Factor VII deficiency.
+- **Hematologic Derangements:** Polycythemia (elevated [[Hematology/Erythropoietin\|erythropoietin]]), thrombocytosis, acquired [[Hematology/Von Willebrand Disease\|von Willebrand disease]] (4% incidence), acquired Factor VII deficiency.
 
 ## Diagnostic Evaluation
 
 - **Ultrasonography (US):** Initial modality. Differentiates solid from cystic masses. Doppler imaging assesses renal veins and IVC for tumor thrombus.
 - **Computed Tomography (CT):** Abdominal CT defines disease extent, assesses contralateral kidney, and identifies liver metastasis/lymphadenopathy. Chest CT essential for detecting pulmonary metastasis.
-- **Magnetic Resonance Imaging (MRI):** Useful for delineating extensive IVC/atrial thrombus or distinguishing Wilms tumor from nephrogenic rests.
+- **Magnetic Resonance Imaging (MRI):** Useful for delineating extensive IVC/atrial thrombus or distinguishing [[Hematology/Wilms Tumor\|Wilms tumor]] from nephrogenic rests.
 - **Biopsy:** Generally discouraged to avoid capsular rupture and subsequent tumor upstaging (COG approach). Indicated for atypical presentations (age >10 years, inflammation, unresectable tumors).
 - **Screening Protocols:** Children with high-risk syndromes (WAGR, Denys-Drash, Beckwith-Wiedemann) require routine screening abdominal ultrasounds every 3 months until age 5-8.
 
@@ -107,11 +107,11 @@ _[Data synthesized from COG clinical trial protocols]_.
 
 ### Radiation Therapy
 
-- Specifically omitted for Stage I and II Favorable Histology Wilms tumor.
+- Specifically omitted for Stage I and II Favorable Histology [[Hematology/Wilms Tumor\|Wilms tumor]].
 - **Flank/Tumor Bed Irradiation:** Indicated for Stage III FH (1080 cGy) and all stages with focal/diffuse anaplasia (up to 1980 cGy for diffuse anaplasia).
 - **Whole-Abdominal Irradiation:** Indicated for gross tumor spillage, peritoneal seeding, or diffuse intraperitoneal rupture (1050 cGy).
 - **Whole-Lung Irradiation:** Indicated for metastatic pulmonary disease (1200 cGy; reduced to 1050 cGy if <12 months old). May be omitted if rapid complete response achieved with initial chemotherapy.
-- Preoperative chemotherapy for bilateral Wilms tumor does not constitute an independent indication for radiotherapy unless positive margins persist post-surgery.
+- Preoperative chemotherapy for bilateral [[Hematology/Wilms Tumor\|Wilms tumor]] does not constitute an independent indication for radiotherapy unless positive margins persist post-surgery.
 
 ## Relapse And Late Effects
 

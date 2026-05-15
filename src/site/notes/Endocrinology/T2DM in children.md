@@ -154,7 +154,7 @@ Driven by severe obesity and insulin resistance, frequently established at diagn
 |**Dyslipidemia**|Nearly universal; elevated triglycerides, suppressed HDL cholesterol, elevated LDL cholesterol.|
 |**Non-Alcoholic Fatty Liver Disease (NAFLD)**|Ectopic lipid deposition causing mild ALT elevations, hepatomegaly; progresses to NASH/fibrosis.|
 |**Polycystic Ovary Syndrome (PCOS)**|Hyperandrogenism (hirsutism, severe acne), oligomenorrhea, anovulatory infertility; exacerbates insulin resistance.|
-|**Obstructive Sleep Apnea (OSA)**|Strong severe obesity association; contributes systemic inflammation, worsening insulin resistance, profound endothelial dysfunction.|
+|**[[Respiratory/Obstructive Sleep Apnea\|Obstructive Sleep Apnea]] (OSA)**|Strong severe obesity association; contributes systemic inflammation, worsening insulin resistance, profound endothelial dysfunction.|
 
 ## Management & Treatment
 

@@ -4,7 +4,7 @@
 
 ## Definition and Diagnostic Criteria
 
-- Hyperosmolar non-ketotic diabetic coma, currently and more accurately referred to as Hyperglycemic Hyperosmolar Syndrome (HHS) or Hyperglycemic Hyperosmolar State, is a life-threatening acute metabolic complication of diabetes mellitus.
+- [[Endocrinology/Hyperosmolar Non-Ketotic Diabetic Coma\|Hyperosmolar non-ketotic diabetic coma]], currently and more accurately referred to as Hyperglycemic Hyperosmolar Syndrome (HHS) or Hyperglycemic Hyperosmolar State, is a life-threatening acute metabolic complication of diabetes mellitus.
 - It is clinically characterized by a triad of extreme hyperglycemia, profound hyperosmolality, and severe systemic dehydration, occurring in the absence of significant ketoacidosis.
 - The established biochemical criteria for the definitive diagnosis of HHS in pediatric and adolescent patients include all of the following parameters:
     - Plasma glucose concentration exceeding 33.3 mmol/L (600 mg/dL).
@@ -96,7 +96,7 @@
 
 ### 2. Insulin Therapy Protocol
 
-- The initiation of insulin therapy in HHS is fundamentally different and significantly delayed compared to the management of DKA.
+- The initiation of insulin therapy in HHS is fundamentally different and significantly delayed compared to the [[Endocrinology/Management of DKA\|management of DKA]].
 - Because insulin drives glucose and water out of the intravascular space and into the cells, premature administration of insulin before adequate fluid resuscitation can precipitate catastrophic cardiovascular collapse, irreversible shock, and acute venous thrombosis due to sudden hemoconcentration.
 - Aggressive fluid administration alone will cause a precipitous decline in serum glucose concentrations (typically 75 to 100 mg/dL per hour) purely through dilution and the restoration of renal perfusion, which allows for massive urinary glucose excretion.
 - Continuous intravenous insulin infusion should be initiated _only_ when the serum glucose concentration ceases to decline at a rate of at least 50 mg/dL (3 mmol/L) per hour with fluid administration alone.

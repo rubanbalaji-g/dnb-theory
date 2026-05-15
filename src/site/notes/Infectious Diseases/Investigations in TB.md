@@ -16,7 +16,7 @@ Obtaining appropriate samples is the first critical step. Since young children o
 
 - **Gastric Aspirate (GA):** This is the preferred specimen for children < 6 years who cannot expectorate. Ideally, it is collected early in the morning after overnight fasting (minimum 4–6 hours) before the stomach empties. The procedure involves inserting a nasogastric tube, aspirating stomach contents, and neutralizing the acidity (if culture is delayed) to prevent killing the bacilli. Collecting samples on two consecutive days increases the yield.
 - **Induced Sputum (IS):** In older children or those unable to expectorate spontaneously, sputum production is induced using nebulized hypertonic saline (3–5%). This irritates the airways, increasing mucus clearance and inducing a cough. It is less invasive than GA and can be performed in ambulatory settings.
-- **Bronchoalveolar Lavage (BAL):** Reserved for difficult cases where GA/IS are negative, but suspicion remains high, or for persistent pneumonia. It is invasive but may have a higher yield in specific situations.
+- **[[Respiratory/Bronchoalveolar Lavage (BAL)\|Bronchoalveolar Lavage (BAL)]]:** Reserved for difficult cases where GA/IS are negative, but suspicion remains high, or for persistent pneumonia. It is invasive but may have a higher yield in specific situations.
 - **Other Specimens:** Depending on the site of involvement, other specimens include Cerebrospinal Fluid (CSF), Lymph Node (LN) aspirate (FNAC), pleural fluid, ascitic fluid, synovial fluid, urine, or tissue biopsies. **Note:** Extrapulmonary samples for culture should be sent in normal saline, _never_ in formalin.
 
 ### B. Smear Microscopy
@@ -25,14 +25,14 @@ Obtaining appropriate samples is the first critical step. Since young children o
 - **Fluorescence Microscopy:** Uses auramine-rhodamine staining. It is more sensitive than ZN staining and allows faster screening of slides.
 - **Limitations:** Smear microscopy has low sensitivity in children (<15–20%) due to paucibacillary disease. It cannot differentiate between drug-sensitive and drug-resistant strains or between _M. tuberculosis_ and Non-Tuberculous Mycobacteria (NTM).
 
-### C. Nucleic Acid Amplification Tests (NAAT)
+### C. Nucleic Acid Amplification Tests ([[Genetics/NAAT\|NAAT]])
 
 Molecular diagnostic tests have revolutionized pediatric TB diagnosis by detecting MTB DNA and drug resistance mutations within hours.
 
-- **Cartridge-Based NAAT (CBNAAT) / GeneXpert MTB/RIF:**
+- **Cartridge-Based [[Genetics/NAAT\|NAAT]] (CBNAAT) / GeneXpert MTB/RIF:**
     - **Principle:** A semi-automated, real-time PCR assay that amplifies a specific sequence of the _rpoB_ gene.
     - **Capabilities:** Detects MTB and **Rifampicin resistance** simultaneously in < 2 hours.
-    - **Sensitivity:** significantly higher than smear microscopy (60–70% in culture-positive gastric aspirates). It is now the diagnostic test of choice (Upfront NAAT) for all presumptive pediatric TB cases.
+    - **Sensitivity:** significantly higher than smear microscopy (60–70% in culture-positive gastric aspirates). It is now the diagnostic test of choice (Upfront [[Genetics/NAAT\|NAAT]]) for all presumptive pediatric TB cases.
 - **Xpert MTB/RIF Ultra:** A next-generation cartridge with a larger amplification chamber and two additional molecular targets. It has a lower limit of detection (16 CFU/ml vs. 131 CFU/ml for standard Xpert), making it highly suitable for paucibacillary pediatric samples (GA, stool, CSF). It provides a semi-quantitative result, including "trace" calls for very low bacterial loads.
 - **TrueNat:** An indigenous chip-based, battery-operated PCR test used in India (NTEP). It first detects MTB (TrueNat MTB) and then tests for Rifampicin resistance (TrueNat Rif) if the first step is positive.
 
@@ -85,14 +85,14 @@ CT of the chest is more sensitive than CXR for detecting:
 ### C. Ultrasonography (USG)
 
 - **Chest:** Useful for detecting loculated pleural effusions and guiding thoracentesis.
-- **Abdomen:** Excellent for detecting abdominal TB features like ascites (septated/loculated), omental thickening (cake-like), and necrotic mesenteric lymph nodes.
+- **Abdomen:** Excellent for detecting [[Infectious Diseases/Abdominal TB\|abdominal TB]] features like ascites (septated/loculated), omental thickening (cake-like), and necrotic mesenteric lymph nodes.
 - **Neck:** Characterizing cervical lymphadenopathy (matted, necrotic, abscess).
 
 ### D. Magnetic Resonance Imaging (MRI)
 
-- **CNS TB:** The modality of choice for Tuberculous Meningitis (TBM). It detects:
+- **[[Infectious Diseases/CNS TB\|CNS TB]]:** The modality of choice for Tuberculous [[Neurology/Meningitis\|Meningitis]] (TBM). It detects:
     - Basal meningeal enhancement (exudates).
-    - Hydrocephalus.
+    - [[Neurology/Hydrocephalus\|Hydrocephalus]].
     - Infarcts (vasculitis).
     - Tuberculomas (ring-enhancing lesions with edema).
 - **Spinal TB (Pott's Spine):** Superior for assessing vertebral body destruction, disc space involvement (paradiscal), pre/para-vertebral abscess, and spinal cord compression.
@@ -108,17 +108,17 @@ These tests indicate infection (Latent TB Infection - TBI) but do not differenti
 - **Method:** Intradermal injection of 2 Tuberculin Units (TU) of PPD RT23 (or 5 TU PPD-S).
 - **Reading:** The transverse diameter of **induration** (not erythema) is measured after 48–72 hours.
 - **Interpretation:**
-    - **$\ge$ 10 mm:** Considered Positive in immunocompetent children (including those with BCG vaccination).
+    - **$\ge$ 10 mm:** Considered Positive in immunocompetent children (including those with [[Misc/BCG\|BCG]] vaccination).
     - **$\ge$ 5 mm:** Considered Positive in high-risk groups: HIV-infected, severely malnourished (SAM), or close contacts of infectious cases.
 - **False Negatives (Anergy):** Severe TB (miliary/meningitis), viral infections (measles, varicella), malnutrition, immunosuppression (steroids), improper storage/technique.
-- **False Positives:** NTM infection, recent BCG vaccination (effect wanes after 2–3 years).
+- **False Positives:** NTM infection, recent [[Misc/BCG\|BCG]] vaccination (effect wanes after 2–3 years).
 
 ### B. Interferon-Gamma Release Assays (IGRA)
 
 Blood tests that measure the release of interferon-gamma by T-cells in response to specific MTB antigens (ESAT-6, CFP-10).
 
 - **Types:** QuantiFERON-TB Gold Plus (ELISA-based) and T-SPOT.TB (ELISPOT-based).
-- **Advantages:** Single visit, objective result, **no cross-reactivity with BCG** (highly specific).
+- **Advantages:** Single visit, objective result, **no cross-reactivity with [[Misc/BCG\|BCG]]** (highly specific).
 - **Disadvantages:** Expensive, requires sophisticated lab, indeterminate results in young/immunocompromised children. Like TST, it cannot distinguish latent infection from active disease.
 
 ## 4. Histopathological Investigations
@@ -145,14 +145,14 @@ These help in assessing the severity and ruling out comorbidities.
     - _Caution:_ Guidelines (NTEP) consider it supportive, not confirmatory, due to false positives in empyema/malignancy.
 ## 6. Specific Investigations for Extrapulmonary TB (EPTB)
 
-### A. TB Meningitis (TBM)
+### A. TB [[Neurology/Meningitis\|Meningitis]] (TBM)
 
 - **CSF Analysis:**
     - _Appearance:_ Clear or "cobweb" formation on standing.
     - _Cytology:_ Pleocytosis (10–500 cells/mm³), predominantly lymphocytes (early stage may show neutrophils).
     - _Biochemistry:_ Elevated Protein (100–500 mg/dL), **Low Glucose** (< 40 mg/dL or CSF:Blood ratio < 0.5).
     - _Microbiology:_ Smear yield is very low. **CSF CBNAAT** is recommended (though sensitivity is ~50–60%, specificity is high). Culture is gold standard.
-- **Neuroimaging:** Contrast-enhanced MRI or CT (basal exudates, hydrocephalus, tuberculomas).
+- **Neuroimaging:** Contrast-enhanced MRI or CT (basal exudates, [[Neurology/Hydrocephalus\|hydrocephalus]], tuberculomas).
 
 ### B. Pleural TB
 
@@ -160,7 +160,7 @@ These help in assessing the severity and ruling out comorbidities.
 - **Microbiology:** Fluid smear/CBNAAT yield is low.
 - **Biopsy:** Pleural biopsy is the most sensitive diagnostic tool for pleural TB.
 
-### C. Abdominal TB
+### C. [[Infectious Diseases/Abdominal TB\|Abdominal TB]]
 
 - **Ascitic Fluid:** Exudative, lymphocytic, high ADA.
 - **Imaging:** USG/CT showing characteristic lymphadenopathy (necrotic), bowel wall thickening, or loculated ascites.
@@ -182,15 +182,15 @@ The current diagnostic approach integrates clinical suspicion with upfront molec
 
 ## Conclusion
 
-The investigation of TB in children has evolved from a reliance on surrogate markers (TST, X-ray) to precise microbiological confirmation. While the **"Golden Triad"** remains relevant for clinical decision-making in resource-limited or culture-negative scenarios, **Upfront NAAT (CBNAAT)** is now the standard of care. This ensures not only the diagnosis of TB but also the early detection of drug resistance, enabling the initiation of appropriate therapy and improving outcomes in pediatric tuberculosis.
+The investigation of TB in children has evolved from a reliance on surrogate markers (TST, X-ray) to precise microbiological confirmation. While the **"Golden Triad"** remains relevant for clinical decision-making in resource-limited or culture-negative scenarios, **Upfront [[Genetics/NAAT\|NAAT]] (CBNAAT)** is now the standard of care. This ensures not only the diagnosis of TB but also the early detection of drug resistance, enabling the initiation of appropriate therapy and improving outcomes in pediatric tuberculosis.
 
 # Newer Modalities in the Diagnosis of Tuberculosis
 
-## 1. Molecular Diagnostics (Nucleic Acid Amplification Tests - NAAT)
+## 1. Molecular Diagnostics (Nucleic Acid Amplification Tests - [[Genetics/NAAT\|NAAT]])
 
-These tests amplify specific DNA sequences (e.g., _IS6110_, _rpoB_) to detect _M. tuberculosis_ (MTB) and drug resistance mutations. They are now the **diagnostic tests of choice** (Upfront NAAT) for all presumptive pediatric TB cases.
+These tests amplify specific DNA sequences (e.g., _IS6110_, _rpoB_) to detect _M. tuberculosis_ (MTB) and drug resistance mutations. They are now the **diagnostic tests of choice** (Upfront [[Genetics/NAAT\|NAAT]]) for all presumptive pediatric TB cases.
 
-### A. Cartridge-Based NAAT (CBNAAT) / GeneXpert MTB/RIF
+### A. Cartridge-Based [[Genetics/NAAT\|NAAT]] (CBNAAT) / GeneXpert MTB/RIF
 
 - **Principle:** Automated, real-time PCR assay integrated into a self-contained cartridge.
 - **Targets:** Amplifies the _rpoB_ gene to detect MTB and mutations conferring **Rifampicin resistance**.
@@ -241,14 +241,14 @@ These tests identify immune sensitization to MTB but do not distinguish between 
 
 - **Principle:** Measures interferon-gamma released by T-lymphocytes after stimulation with MTB-specific antigens (**ESAT-6**, **CFP-10**, and TB7.7).
 - **Types:** _QuantiFERON-TB Gold Plus_ (ELISA-based) and _T-SPOT.TB_ (ELISPOT-based).
-- **Advantages:** **No cross-reactivity with BCG vaccination** (highly specific); single patient visit required.
+- **Advantages:** **No cross-reactivity with [[Misc/BCG\|BCG]] vaccination** (highly specific); single patient visit required.
 - **Disadvantage:** Expensive; reduced sensitivity in young children (<2 years) and immunocompromised hosts due to indeterminate results.
 
 ### B. C-Tb (Next Generation Skin Test)
 
 - **Description:** A novel skin test developed (e.g., by Statens Serum Institut) that combines the operational ease of the tuberculin skin test (TST) with the high specificity of IGRAs.
 - **Antigens:** Uses recombinant **ESAT-6** and **CFP-10**.
-- **Key Feature:** Like IGRAs, it is **unaffected by prior BCG vaccination**.
+- **Key Feature:** Like IGRAs, it is **unaffected by prior [[Misc/BCG\|BCG]] vaccination**.
 - **Reading:** Induration is measured after 48–72 hours; a universal cutoff of **$\ge$ 5 mm** is proposed. It is expected to be adopted in programs once commercially available.
 
 ## 4. Advances in Culture and Phenotypic DST
@@ -263,7 +263,7 @@ While molecular tests are rapid, culture remains the gold standard for monitorin
 ## 5. Other Emerging Modalities
 
 - **Lipoarabinomannan (LAM) Assay:** A lateral flow urine test detecting the mycobacterial cell wall antigen LAM. Currently recommended by WHO primarily for **HIV-positive** patients with low CD4 counts or those who are seriously ill, as sensitivity is low in immunocompetent children.
-- **Next-Generation Sequencing (NGS):** Whole Genome Sequencing (WGS) or Targeted NGS can rapidly provide a complete drug resistance profile for all anti-TB drugs. Currently restricted to reference laboratories and research settings but holds promise for comprehensive U-DST in the future.
+- **[[Genetics/Next-Generation Sequencing (NGS)\|Next-Generation Sequencing (NGS)]]:** Whole Genome Sequencing (WGS) or Targeted NGS can rapidly provide a complete drug resistance profile for all anti-TB drugs. Currently restricted to reference laboratories and research settings but holds promise for comprehensive U-DST in the future.
 
 ## Summary Table
 
@@ -272,5 +272,5 @@ While molecular tests are rapid, culture remains the gold standard for monitorin
 |**Xpert Ultra**|_rpoB_ + _IS6110_ / _IS1081_|High sensitivity (**16 CFU/mL**); detects trace DNA in paucibacillary TB.|
 |**Truenat**|Chip-based micro-PCR|Portable, battery-operated, suitable for peripheral centers.|
 |**Xpert MTB/XDR**|_katG, inhA, gyrA, rrs_|Rapid detection of H, FQ, and SLI resistance (~90 mins).|
-|**C-Tb**|Skin test (ESAT-6/CFP-10)|Point-of-care, specific (no BCG cross-reaction).|
+|**C-Tb**|Skin test (ESAT-6/CFP-10)|Point-of-care, specific (no [[Misc/BCG\|BCG]] cross-reaction).|
 |**Liquid Culture (MGIT)**|Fluorescence detection|Faster than solid culture; required for newer drug DST (Bedaquiline).|

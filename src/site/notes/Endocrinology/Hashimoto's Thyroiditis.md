@@ -4,7 +4,7 @@
 
 ## Overview & Epidemiology
 
-- Most common cause of acquired hypothyroidism and thyroid disease in children and adolescents.
+- Most common cause of [[Endocrinology/Acquired Hypothyroidism\|acquired hypothyroidism]] and thyroid disease in children and adolescents.
 - Replaces former designation "simple adolescent goiter".
 - Peak incidence during adolescence (11-15 years); may present as early as first year of life.
 - Strong female predominance; Female:Male ratio 4-6:1.
@@ -64,11 +64,11 @@ High risk for concurrent chromosomal abnormalities and other autoimmune endocrin
 
 | Category                                             | Associated Conditions & Clinical Notes                                                                                                                                                                                                                                                                                                                                                        |
 | :--------------------------------------------------- | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Chromosomal Disorders**                            | **Trisomy 21 (Down syndrome):** 30% develop antibodies; 15-20% develop overt hypothyroidism.<br>**Turner Syndrome (45,X):** 40% develop antibodies; 15-30% acquire hypothyroidism.<br>**Klinefelter Syndrome (47,XXY):** Increased incidence of generalized autoimmunity.                                                                                                                     |
+| **Chromosomal Disorders**                            | **Trisomy 21 (Down syndrome):** 30% develop antibodies; 15-20% develop overt hypothyroidism.<br>**[[Genetics/Turner Syndrome\|Turner Syndrome]] (45,X):** 40% develop antibodies; 15-30% acquire hypothyroidism.<br>**[[Genetics/Klinefelter Syndrome (47,XXY)\|Klinefelter Syndrome (47,XXY)]]:** Increased incidence of generalized autoimmunity.                                                                                                                     |
 | **Autoimmune Polyglandular Syndrome Type 1 (APS-1)** | Autosomal recessive (_AIRE_ gene mutation). <br>Triad: <li>Chronic mucocutaneous candidiasis</li><li>Hypoparathyroidism</li><li>Addison disease</li><br>Hashimoto thyroiditis occurs in ~30% of cases.                                                                                                                                                                                        |
 | **Autoimmune Polyglandular Syndrome Type 2 (APS-2)** | Polygenic inheritance (HLA-DR3/DR4). <br>Features: <li>Autoimmune primary adrenal insufficiency (Addison disease)</li><li>Type 1 Diabetes Mellitus</li><li>Autoimmune Thyroiditis</li> Hashimoto thyroiditis present in 70-75% of APS-2 cases.                                                                                                                                                |
 | **IPEX Syndrome**                                    | <span style="color:rgb(255, 192, 0)">X</span>-linked recessive (_FOXP3_ gene mutation). <br>Features: <li><span style="color:rgb(255, 192, 0)">I</span>mmunodysregulation</li><li><span style="color:rgb(255, 192, 0)">P</span>olyendocrinopathy</li><li><span style="color:rgb(255, 192, 0)">E</span>nteropathy</li><li>Early-onset diabetes</li><li>severe colitis</li><li>thyroiditis</li> |
-| **Isolated Autoimmune Conditions**                   | **Type 1 Diabetes Mellitus:** ~20% prevalence of TPO-Ab; 5% acquire overt hypothyroidism.<br>**[[Gastrointestinal/Celiac disease\|Celiac Disease]]:** Occurs in 1% of Hashimoto cases.<br>**Others:** Vitiligo, Alopecia, Myasthenia gravis, Pernicious anemia, Autoimmune hepatitis.                                                                                                                                              |
+| **Isolated Autoimmune Conditions**                   | **Type 1 Diabetes Mellitus:** ~20% prevalence of TPO-Ab; 5% acquire overt hypothyroidism.<br>**[[Gastrointestinal/Celiac disease\|Celiac Disease]]:** Occurs in 1% of Hashimoto cases.<br>**Others:** Vitiligo, Alopecia, [[Neuromuscular/Myasthenia Gravis\|Myasthenia gravis]], Pernicious anemia, [[Gastrointestinal/Autoimmune hepatitis\|Autoimmune hepatitis]].                                                                                                                                              |
 
 ## Diagnostic Evaluation
 
@@ -111,10 +111,10 @@ Dosing requirements decrease with advancing age/weight.
 
 ### High-Yield Pharmacotherapy Precautions
 
-- **Pseudotumor Cerebri Risk:** In patients presenting with profound, long-standing hypothyroidism, initiating full-dose L-T4 can precipitate intracranial hypertension (pseudotumor cerebri).
+- **[[Neurology/Pseudotumor Cerebri\|Pseudotumor Cerebri]] Risk:** In patients presenting with profound, long-standing hypothyroidism, initiating full-dose L-T4 can precipitate intracranial hypertension ([[Neurology/Pseudotumor Cerebri\|pseudotumor cerebri]]).
     - _Strategy:_ Initiate therapy at 1/3 to 1/2 of the conventional calculated dose. Up-titrate gradually to the full replacement dose over 2-4 weeks.
 - **Acute Myopathy Risk:** Rapid correction of chronic hypothyroidism may rarely induce acute myopathy with massive CPK elevation and severe muscle cramps; requires careful monitoring during initial treatment phase.
-- **Adrenal Crisis Risk:** In patients with concurrent Autoimmune Polyglandular Syndrome (APS), unrecognized Addison disease must be excluded before initiating L-T4. Thyroid hormone accelerates cortisol metabolism; L-T4 administration prior to glucocorticoid replacement can precipitate fatal adrenal crisis.
+- **[[Endocrinology/Adrenal Crisis\|Adrenal Crisis]] Risk:** In patients with concurrent Autoimmune Polyglandular Syndrome (APS), unrecognized Addison disease must be excluded before initiating L-T4. Thyroid hormone accelerates cortisol metabolism; L-T4 administration prior to glucocorticoid replacement can precipitate fatal [[Endocrinology/Adrenal Crisis\|adrenal crisis]].
 
 ### Monitoring & Follow-Up
 

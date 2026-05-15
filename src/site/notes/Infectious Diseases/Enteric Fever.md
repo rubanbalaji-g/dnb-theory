@@ -4,11 +4,11 @@
 
 ## 1. Introduction and Definition
 
-Enteric fever is a systemic infection caused by the bacterium <span style="color:rgb(255, 255, 0)">_Salmonella enterica_ serovar Typhi (_S._ Typhi) and _Salmonella enterica_ serovar Paratyphi A, B, or C (_S._ Paratyphi).</span> While _S._ Typhi causes the majority of cases (approximately 90%), _S._ Paratyphi contributes to the remaining burden, though the clinical presentation is often indistinguishable. The disease is characterized by fever, abdominal pain, and multisystem involvement resulting from bacteremia and colonization of the reticuloendothelial system.
+[[Infectious Diseases/Enteric Fever\|Enteric fever]] is a systemic infection caused by the bacterium <span style="color:rgb(255, 255, 0)">_Salmonella enterica_ serovar Typhi (_S._ Typhi) and _Salmonella enterica_ serovar Paratyphi A, B, or C (_S._ Paratyphi).</span> While _S._ Typhi causes the majority of cases (approximately 90%), _S._ Paratyphi contributes to the remaining burden, though the clinical presentation is often indistinguishable. The disease is characterized by fever, abdominal pain, and multisystem involvement resulting from bacteremia and colonization of the reticuloendothelial system.
 
 ## 2. Epidemiology
 
-- **Global Burden:** Enteric fever remains a major public health problem in resource-limited settings with poor sanitation and water supply. It is endemic in the Indian subcontinent, Southeast Asia, and parts of Africa.
+- **Global Burden:** [[Infectious Diseases/Enteric Fever\|Enteric fever]] remains a major public health problem in resource-limited settings with poor sanitation and water supply. It is endemic in the Indian subcontinent, Southeast Asia, and parts of Africa.
 - **Pediatric Prevalence:** In endemic areas, the incidence is highest in children and adolescents (5–15 years), though recent data indicates a significant burden in children under 5 years of age.
 - **Transmission:** The mode of transmission is <span style="color:rgb(255, 255, 0)">fecal-oral</span>, typically through the ingestion of food or water contaminated with human feces containing the bacteria. Humans are the only natural reservoir for _S._ Typhi.
 - **Carriers:** Chronic carriers (excreting bacilli for >1 year) act as crucial reservoirs for infection spread. This state is less common in children than adults.
@@ -60,11 +60,11 @@ Complications usually occur in the 2nd or 3rd week of untreated illness.
 
 ### 5.2. Systemic/Extraintestinal Complications
 
-- **Neurologic (Typhoid Encephalopathy):** Occurs in 10–15% of cases. Manifests as delirium ("muttering delirium"), stupor, obtundation, coma, or shock. This defines **Severe Enteric Fever**.
+- **Neurologic (Typhoid Encephalopathy):** Occurs in 10–15% of cases. Manifests as delirium ("muttering delirium"), stupor, obtundation, coma, or shock. This defines **Severe [[Infectious Diseases/Enteric Fever\|Enteric Fever]]**.
 - **Cardiovascular:** Toxic myocarditis, shock.
 - **Hepatobiliary:** Hepatitis (Typhoid hepatitis), cholecystitis (rare in children).
-- **Hematologic:** Hemophagocytic lymphohistiocytosis (HLH), disseminated intravascular coagulation (DIC).
-- **Others:** Pneumonia, osteomyelitis (especially in Sickle Cell Disease), meningitis, arthritis.
+- **Hematologic:** Hemophagocytic lymphohistiocytosis (HLH), [[Hematology/Disseminated Intravascular Coagulation\|disseminated intravascular coagulation]] (DIC).
+- **Others:** Pneumonia, osteomyelitis (especially in [[Hematology/Sickle Cell Disease\|Sickle Cell Disease]]), [[Neurology/Meningitis\|meningitis]], arthritis.
 
 ## 6. Diagnosis
 
@@ -77,7 +77,7 @@ Complications usually occur in the 2nd or 3rd week of untreated illness.
 ### 6.2. Serology (Widal Test)
 
 - Detects agglutinating antibodies against O (somatic) and H (flagellar) antigens.
-- **Limitations:** Low sensitivity/specificity, cross-reactivity with other _Salmonella_ and malaria, and anamnestic reactions in endemic areas.
+- **Limitations:** Low sensitivity/specificity, cross-reactivity with other _Salmonella_ and [[Infectious Diseases/Malaria\|malaria]], and anamnestic reactions in endemic areas.
 - **Interpretation:** A four-fold rise in titer in paired sera (10–14 days apart) is diagnostic. A single high titer (e.g., O >1:160 and H >1:160) in an endemic setting is only suggestive, not confirmatory.
 
 ### 6.3. Newer Rapid Tests
@@ -91,10 +91,10 @@ Complications usually occur in the 2nd or 3rd week of untreated illness.
 
 ## 7. Differential Diagnosis
 
-Enteric fever mimics many febrile illnesses:
+[[Infectious Diseases/Enteric Fever\|Enteric fever]] mimics many febrile illnesses:
 
-- **Malaria:** Differentiated by fever pattern, rigors, splenomegaly, and peripheral smear.
-- **Dengue:** Acute onset, retro-orbital pain, significant thrombocytopenia/leukopenia.
+- **[[Infectious Diseases/Malaria\|Malaria]]:** Differentiated by fever pattern, rigors, splenomegaly, and peripheral smear.
+- **[[Infectious Diseases/Dengue\|Dengue]]:** Acute onset, retro-orbital pain, significant thrombocytopenia/leukopenia.
 - **Rickettsial Diseases (Scrub Typhus):** Presence of eschar, rapid response to doxycycline.
 - **Tuberculosis:** Chronic course, respiratory signs.
 - **Brucellosis:** Animal contact history, joint symptoms.
@@ -111,13 +111,13 @@ Enteric fever mimics many febrile illnesses:
 
 Antibiotic choice is guided by local susceptibility patterns, specifically the prevalence of Multi-Drug Resistant (MDR) and Fluoroquinolone-resistant strains.
 
-**A. Uncomplicated Enteric Fever (Outpatient)**
+**A. Uncomplicated [[Infectious Diseases/Enteric Fever\|Enteric Fever]] (Outpatient)**
 
 - **First Line:** **Cefixime** (20 mg/kg/day PO divided BD for 14 days) OR **Azithromycin** (10–20 mg/kg/day PO once daily for 5–7 days).
     - _Note:_ Azithromycin is highly effective for intracellular clearance and reduces relapse rates.
 - **Alternative:** Amoxicillin or Trimethoprim-Sulfamethoxazole (only if sensitivity is proven, as resistance is common).
 
-**B. Severe/Complicated Enteric Fever (Inpatient)**
+**B. Severe/Complicated [[Infectious Diseases/Enteric Fever\|Enteric Fever]] (Inpatient)**
 
 - **First Line:** **IV Ceftriaxone** (75–100 mg/kg/day IV OD or BD for 10–14 days).
 - **For MDR/XDR Strains:** If there is no response to Ceftriaxone or if Extensively Drug-Resistant (XDR) _S._ Typhi (resistant to ceftriaxone) is suspected (e.g., Pakistan outbreak strains):
@@ -130,7 +130,7 @@ Antibiotic choice is guided by local susceptibility patterns, specifically the p
 
 ### 8.3. Adjunctive Corticosteroid Therapy
 
-- **Indication:** Strictly indicated for **Severe Enteric Fever** characterized by delirium, obtundation, stupor, coma, or shock.
+- **Indication:** Strictly indicated for **Severe [[Infectious Diseases/Enteric Fever\|Enteric Fever]]** characterized by delirium, obtundation, stupor, coma, or shock.
 - **Regimen:** **Dexamethasone** 3 mg/kg IV (initial dose), followed by 1 mg/kg IV every 6 hours for 48 hours.
 - **Benefit:** Significantly reduces mortality in severe cases (from ~50% to 10%).
 
@@ -150,7 +150,7 @@ Improvement in water supply, sewage disposal, and food hygiene is the ultimate p
 Vaccination is recommended for children in endemic areas and travelers.
 
 1. **Typhoid Conjugate Vaccine (TCV):**
-    - _Type:_ Vi polysaccharide conjugated to Tetanus Toxoid.
+    - _Type:_ Vi polysaccharide conjugated to [[Misc/Tetanus Toxoid\|Tetanus Toxoid]].
     - _Schedule:_ Single dose from **6 months** of age (typically 9-12 months).
     - _Efficacy:_ High efficacy (>85%) and longer duration of protection. It is the preferred vaccine currently recommended by IAP and WHO.
 2. **Vi Polysaccharide Vaccine:**

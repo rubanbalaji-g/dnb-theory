@@ -5,7 +5,7 @@
 ![Pasted image 20260324204523.png](/img/user/+%C4%B0mages/Pasted%20image%2020260324204523.png)
 ### Pathogenesis and Immunologic Deficits
 
-- Severe combined immunodeficiency (SCID) represents the most severe form of primary immune deficiency, caused by diverse pathogenic gene variants that lead to the profound absence of T-cell and B-cell function.
+- [[Infectious Diseases/Severe Combined Immunodeficiency (SCID)\|Severe combined immunodeficiency (SCID)]] represents the most severe form of primary immune deficiency, caused by diverse pathogenic gene variants that lead to the profound absence of T-cell and B-cell function.
 - The fundamental defect disrupts lymphoid cell development, resulting in very small thymuses that are devoid of thymocytes, lack corticomedullary distinction, and lack Hassall’s corpuscles.
 - Peripheral lymphoid structures are also severely affected; the follicular and paracortical areas of the spleen are depleted of lymphocytes, and lymph nodes, tonsils, adenoids, and Peyer patches are either completely absent or extremely underdeveloped.
 - Without immunologic reconstitution, SCID is considered a true pediatric immunologic emergency and is almost invariably fatal within the first 1 to 2 years of life.
@@ -21,27 +21,27 @@
 - **T- B- SCID (Both T-cell and B-cell absent):**
     - Autosomal recessive _RAG1_ and _RAG2_ deficiencies result in defective V(D)J recombination, leading to the absence of mature T and B cells.
     - Adenosine deaminase (ADA) deficiency causes an accumulation of toxic purine nucleosides leading to lymphocyte death, frequently accompanied by non-immunologic features such as pulmonary alveolar proteinosis, chondro-osseous dysplasia, and neurologic, hepatic, or renal abnormalities.
-    - Defects in nonhomologous end joining (NHEJ) and DNA repair enzymes, such as Artemis deficiency, DNA-PK deficiency, and DNA ligase IV deficiency, cause T- B- SCID often associated with marked radiation sensitivity, microcephaly, and growth delay.
+    - Defects in nonhomologous end joining (NHEJ) and DNA repair enzymes, such as Artemis deficiency, DNA-PK deficiency, and DNA ligase IV deficiency, cause T- B- SCID often associated with marked radiation sensitivity, [[Neurology/Microcephaly\|microcephaly]], and growth delay.
     - Reticular dysgenesis, caused by variants in adenylate kinase 2 (_AK2_), impairs mitochondrial energy metabolism and presents with severe combined immunodeficiency, profound neutropenia, and sensorineural deafness.
 
 ### Clinical Manifestations
 
-- If not detected by newborn screening, infants with SCID most often present with severe, persistent infections during early infancy.
-- Common infectious presentations include [[Gastrointestinal/Chronic Diarrhea\|chronic diarrhea]], recurrent pneumonia, persistent otitis media, bacterial sepsis, and severe cutaneous infections.
+- If not detected by [[Neonatalogy/Newborn Screening\|newborn screening]], infants with SCID most often present with severe, persistent infections during early infancy.
+- Common infectious presentations include [[Gastrointestinal/Chronic Diarrhea\|chronic diarrhea]], [[Respiratory/Recurrent Pneumonia\|recurrent pneumonia]], persistent otitis media, bacterial sepsis, and severe cutaneous infections.
 - Patients demonstrate extreme susceptibility to opportunistic pathogens, classically presenting with severe oral thrush from _Candida albicans_, pneumonia from _Pneumocystis jirovecii_ (PJP), and severe infections from parainfluenza 3 virus, adenovirus, respiratory syncytial virus (RSV), cytomegalovirus (CMV), and Epstein-Barr virus (EBV).
-- Exposure to live-attenuated vaccines—such as rotavirus, measles-mumps-rubella-varicella (MMRV), oral poliovirus (OPV), or the bacille Calmette-Guérin (BCG) vaccine—frequently results in life-threatening, disseminated vaccine-strain infections.
+- Exposure to live-attenuated vaccines—such as rotavirus, measles-mumps-rubella-varicella (MMRV), oral poliovirus (OPV), or the bacille Calmette-Guérin ([[Misc/BCG\|BCG]]) vaccine—frequently results in life-threatening, disseminated vaccine-strain infections.
 - **Maternal Engraftment:** Infants with SCID cannot reject foreign tissues and are highly susceptible to severe graft-versus-host disease (GVHD) caused by the transplacental passage of maternal T cells during pregnancy.
 - Maternal engraftment GVHD manifests with a generalized rash, hepatosplenomegaly, diarrhea, and expansion of allogeneic cells.
 - **Omenn Syndrome:** Caused by hypomorphic pathogenic variants in SCID-associated genes, allowing the generation of a few oligoclonal T cells that expand in an unregulated manner, mimicking GVHD.
 - Omenn syndrome is classically characterized by severe generalized erythroderma, desquamation, alopecia, lymphadenopathy, hepatosplenomegaly, striking eosinophilia, and elevated serum IgE levels.
 
-### Newborn Screening
+### [[Neonatalogy/Newborn Screening\|Newborn Screening]]
 
-- Newborn screening allows for the early detection and treatment of SCID prior to the onset of severe infections, which has dramatically improved survival rates.
+- [[Neonatalogy/Newborn Screening\|Newborn screening]] allows for the early detection and treatment of SCID prior to the onset of severe infections, which has dramatically improved survival rates.
 - The standard screening assay utilizes a quantitative polymerase chain reaction (PCR) to measure T-cell receptor excision circles (TRECs) from dried blood spots.
 - TRECs are episomal DNA byproducts formed during the V(D)J rearrangement of T-cell receptor genes; they do not replicate during cell division and serve as a highly accurate biomarker for enumerating recent thymic emigrants.
 - A low or absent TREC count raises high suspicion for SCID and mandates immediate confirmatory immunologic evaluation.
-- Some newborn screening programs additionally assay kappa excision circles (KRECs) to simultaneously identify severe B-cell defects like agammaglobulinemia.
+- Some [[Neonatalogy/Newborn Screening\|newborn screening]] programs additionally assay kappa excision circles (KRECs) to simultaneously identify severe B-cell defects like agammaglobulinemia.
 
 ### Laboratory Diagnosis
 
@@ -57,7 +57,7 @@
 
 - SCID necessitates immediate intervention, placing the infant in strict isolation to limit exposure to infectious agents.
 - Supportive therapy must be initiated promptly, including regular immunoglobulin replacement (IVIG or SCIG) and initiation of prophylactic antimicrobials targeting PJP, viral, and fungal pathogens.
-- Administration of any live-attenuated viral or bacterial vaccines (such as BCG, OPV, MMR, or varicella) is strictly contraindicated due to the high risk of fatal disseminated disease.
+- Administration of any live-attenuated viral or bacterial vaccines (such as [[Misc/BCG\|BCG]], OPV, MMR, or varicella) is strictly contraindicated due to the high risk of fatal disseminated disease.
 - To prevent fatal transfusion-associated GVHD from viable donor lymphocytes, all administered blood products must be exclusively irradiated or frozen.
 - Breastfeeding should be withheld until the CMV and EBV statuses of both the mother and the infant are established, to prevent transmission of these viruses through breast milk.
 - **Hematopoietic Stem Cell Transplantation (HSCT):** Allogeneic HSCT remains the most effective, definitive, and curative treatment for SCID.

@@ -33,7 +33,7 @@
 |**Type 2A**|Autosomal Dominant|Qualitative defect. Impaired multimer assembly or enhanced proteolysis (A2 domain).|Absent HMW multimers|Normal|
 |**Type 2B**|Autosomal Dominant|Gain-of-function (A1 domain). Spontaneous GPIb binding. Rapid clearance.|Absent HMW multimers|Decreased (stress-induced)|
 |**Type 2M**|Autosomal Dominant|Qualitative defect. Decreased platelet GPIb binding or collagen interaction.|Normal|Normal|
-|**Type 2N**|Autosomal Recessive|Qualitative defect. Impaired FVIII binding. Rapid FVIII clearance. Mimics mild hemophilia A.|Normal|Normal|
+|**Type 2N**|Autosomal Recessive|Qualitative defect. Impaired FVIII binding. Rapid FVIII clearance. Mimics mild [[Hematology/Hemophilia A\|hemophilia A]].|Normal|Normal|
 |**Type 3**|Autosomal Recessive|Complete quantitative absence.|Absent|Normal|
 |**Platelet-Type (Pseudo)**|Autosomal Dominant|Gain-of-function platelet GPIb receptor defect. Phenocopies Type 2B.|Absent HMW multimers|Decreased|
 
@@ -44,7 +44,7 @@
 
 - Rare non-inherited reduction in vWF.
 - Mechanisms: Autoantibodies, adsorption onto malignant cells, or depletion via high vascular shear forces.
-- Associated conditions: Wilms tumor, congenital heart defects (high-flow lesions), hypothyroidism, systemic lupus erythematosus (SLE), myeloproliferative neoplasms.
+- Associated conditions: [[Hematology/Wilms Tumor\|Wilms tumor]], congenital heart defects (high-flow lesions), hypothyroidism, systemic lupus erythematosus (SLE), myeloproliferative neoplasms.
 
 ### Physiologic Modifiers Of Von Willebrand Factor
 

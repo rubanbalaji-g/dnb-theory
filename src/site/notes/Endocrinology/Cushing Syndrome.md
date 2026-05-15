@@ -4,15 +4,15 @@
 
 ## Etiology and Classification
 
-- Cushing syndrome encompasses any clinical state resulting from abnormally high blood levels of cortisol or other glucocorticoids.
-- **Exogenous (Iatrogenic) Cushing Syndrome:** The most common cause in the pediatric population is the prolonged exogenous administration of potent glucocorticoid hormones, frequently utilized for treating lymphoproliferative disorders, asthma, or autoimmune conditions,,.
-- **Endogenous ACTH-Dependent Cushing Syndrome:**
+- [[Endocrinology/Cushing Syndrome\|Cushing syndrome]] encompasses any clinical state resulting from abnormally high blood levels of cortisol or other glucocorticoids.
+- **Exogenous (Iatrogenic) [[Endocrinology/Cushing Syndrome\|Cushing Syndrome]]:** The most common cause in the pediatric population is the prolonged exogenous administration of potent glucocorticoid hormones, frequently utilized for treating lymphoproliferative disorders, [[Respiratory/Asthma\|asthma]], or autoimmune conditions,,.
+- **Endogenous ACTH-Dependent [[Endocrinology/Cushing Syndrome\|Cushing Syndrome]]:**
     - **Cushing Disease:** Defined strictly as hypercortisolism caused by excessive adrenocorticotropic hormone (ACTH) secretion from a pituitary adenoma,,. This is the most common endogenous cause in children older than 7 years and adolescents,. These tumors are almost exclusively microadenomas (less than 5 mm in diameter).
-    - **Ectopic ACTH Syndrome:** A rare cause in children where ACTH is secreted by non-pituitary tumors, including neuroblastoma, Wilms tumor, islet cell carcinoma of the pancreas, thymic neuroendocrine tumors, and carcinoid tumors,,.
-- **Endogenous ACTH-Independent Cushing Syndrome:**
-    - **Adrenocortical Tumors:** Adrenal carcinomas and adenomas are the predominant cause of endogenous Cushing syndrome in infants and children younger than 7 years of age,. Adrenal adenomas typically secrete only cortisol, whereas carcinomas frequently co-secrete androgens, leading to pronounced virilization.
+    - **Ectopic ACTH Syndrome:** A rare cause in children where ACTH is secreted by non-pituitary tumors, including [[Hematology/Neuroblastoma\|neuroblastoma]], [[Hematology/Wilms Tumor\|Wilms tumor]], islet cell carcinoma of the pancreas, thymic neuroendocrine tumors, and carcinoid tumors,,.
+- **Endogenous ACTH-Independent [[Endocrinology/Cushing Syndrome\|Cushing Syndrome]]:**
+    - **Adrenocortical Tumors:** Adrenal carcinomas and adenomas are the predominant cause of endogenous [[Endocrinology/Cushing Syndrome\|Cushing syndrome]] in infants and children younger than 7 years of age,. Adrenal adenomas typically secrete only cortisol, whereas carcinomas frequently co-secrete androgens, leading to pronounced virilization.
     - **Primary Pigmented Nodular Adrenocortical Disease (PPNAD):** A rare cause of micronodular adrenal hyperplasia characterized by small, pigmented nodules in an atrophic cortex, frequently presenting as a component of the Carney complex,,.
-    - **Bilateral Macronodular Adrenal Hyperplasia (BMAH):** Can occur sporadically or as part of McCune-Albright syndrome, where activating somatic mutations lead to autonomous adrenal hyperfunction,,.
+    - **Bilateral Macronodular Adrenal Hyperplasia (BMAH):** Can occur sporadically or as part of [[Endocrinology/McCune-Albright Syndrome\|McCune-Albright syndrome]], where activating somatic mutations lead to autonomous adrenal hyperfunction,,.
 
 ## Genetic and Molecular Pathogenesis
 
@@ -20,7 +20,7 @@
 - **Ectopic ACTH Secretion:** Associated with genetic variants in the _RET_ and _MEN1_ genes.
 - **Adrenocortical Tumors:** Genetic predisposition to adrenal carcinomas includes germline mutations or loss of heterozygosity in the _TP53_ tumor suppressor gene (Li-Fraumeni syndrome), as well as mutations in _CDKN2A_, _CTNNB1_ (the Wnt/beta-catenin pathway), and _IGF-2_ overproduction associated with Beckwith-Wiedemann syndrome,. Adrenal adenomas have been linked to somatic gain-of-function mutations in _PRKACA_ (catalytic subunit of protein kinase A) and phosphodiesterases (_PDE11A_, _PDE8B_),.
 - **Micronodular Hyperplasia (PPNAD):** Strongly associated with inactivating mutations in the _PRKAR1A_ gene, encoding the protein kinase A type I-alpha regulatory subunit, defining the Carney complex,.
-- **Macronodular Hyperplasia (BMAH):** Caused by somatic activating mutations in the _GNAS_ gene (encoding the Gs-alpha protein) in McCune-Albright syndrome, leading to ACTH-independent cAMP generation,. Other BMAH cases are linked to germline mutations in tumor suppressor genes such as _ARMC5_, _APC_, and _FH_, or the ectopic expression of aberrant hormone receptors (e.g., for vasopressin, serotonin, or LH/hCG) on the adrenal cortex,.
+- **Macronodular Hyperplasia (BMAH):** Caused by somatic activating mutations in the _GNAS_ gene (encoding the Gs-alpha protein) in [[Endocrinology/McCune-Albright Syndrome\|McCune-Albright syndrome]], leading to ACTH-independent cAMP generation,. Other BMAH cases are linked to germline mutations in tumor suppressor genes such as _ARMC5_, _APC_, and _FH_, or the ectopic expression of aberrant hormone receptors (e.g., for vasopressin, serotonin, or LH/hCG) on the adrenal cortex,.
 
 ## Pathophysiology of Hypercortisolism
 
@@ -34,10 +34,10 @@
 
 ### Growth and Metabolic Features
 
-- The earliest, most sensitive, and most reliable clinical indicators of Cushing syndrome in children are an acceleration in weight gain combined with a simultaneous deceleration in linear growth (growth arrest),,.
-- This specific pattern strongly differentiates Cushing syndrome from exogenous (nutritional) obesity, where children typically exhibit normal or accelerated linear growth and advanced skeletal maturation due to hyperinsulinism,,.
+- The earliest, most sensitive, and most reliable clinical indicators of [[Endocrinology/Cushing Syndrome\|Cushing syndrome]] in children are an acceleration in weight gain combined with a simultaneous deceleration in linear growth (growth arrest),,.
+- This specific pattern strongly differentiates [[Endocrinology/Cushing Syndrome\|Cushing syndrome]] from exogenous (nutritional) obesity, where children typically exhibit normal or accelerated linear growth and advanced skeletal maturation due to hyperinsulinism,,.
 - In infants, the presentation is often dramatic, with severe generalized obesity and length falling below the third percentile.
-- Centripetal fat distribution and the classic "buffalo hump" are signs of prolonged, long-standing disease; childhood obesity in Cushing syndrome is often generalized initially.
+- Centripetal fat distribution and the classic "buffalo hump" are signs of prolonged, long-standing disease; childhood obesity in [[Endocrinology/Cushing Syndrome\|Cushing syndrome]] is often generalized initially.
 - Impaired glucose tolerance, insulin resistance, and progression to overt type 2 diabetes mellitus may occur.
 
 ### Dermatologic and Physical Signs
@@ -65,7 +65,7 @@
 - **Diurnal Cortisol Rhythm:** The normal circadian rhythm (peak at 8 am, nadir by midnight) is obliterated. The earliest laboratory sign of Cushing disease is the persistent secretion of cortisol into the evening. A midnight sleeping plasma cortisol level > 4.4 $\mu$g/dL strongly suggests the diagnosis.
 - **Late-Night Salivary Cortisol:** An outpatient alternative; levels > 1 ng/mL (2.8 nmol/L) at 11 pm to midnight indicate abnormal diurnal rhythm and raise high suspicion for the syndrome,.
 - **24-Hour Urinary Free Cortisol (UFC):** Highly reliable screening test. Normal values are generally < 70 $\mu$g/m2/day. Levels > 75 $\mu$g/m2/day, or levels greater than 3 to 4 times the upper limit of normal, are diagnostic,.
-- **Overnight Low-Dose Dexamethasone Suppression Test:** Administration of 1 mg (or 0.3 mg/m2, or 25-30 $\mu$g/kg) of dexamethasone at 11 pm. A normal response is a suppression of plasma cortisol to < 1.8 $\mu$g/dL (or < 5 $\mu$g/dL) at 8 am the following morning. Failure to suppress indicates Cushing syndrome,,,.
+- **Overnight Low-Dose Dexamethasone Suppression Test:** Administration of 1 mg (or 0.3 mg/m2, or 25-30 $\mu$g/kg) of dexamethasone at 11 pm. A normal response is a suppression of plasma cortisol to < 1.8 $\mu$g/dL (or < 5 $\mu$g/dL) at 8 am the following morning. Failure to suppress indicates [[Endocrinology/Cushing Syndrome\|Cushing syndrome]],,,.
 
 ### Step 2: Differentiating the Etiology (ACTH Dependency)
 
@@ -89,7 +89,7 @@
 
 - **Exogenous Obesity:** Children present with tall stature or accelerated growth, normal midnight salivary cortisol, and normal suppression on the low-dose dexamethasone test, despite occasionally showing mildly elevated 24-hour UFC,,.
 - **Primary Generalized Glucocorticoid Resistance:** Caused by inactivating mutations in the glucocorticoid receptor (_NR3C1_). Patients present with massively elevated ACTH and cortisol levels but completely lack the classical cushingoid features (no central obesity, no striae, no growth arrest). Instead, they manifest signs of severe mineralocorticoid excess (hypertension, hypokalemia) and hyperandrogenism (precocious puberty, virilization) driven by the uninhibited ACTH stimulation of alternative steroid pathways,,.
-- **Non-classic Congenital Adrenal Hyperplasia:** Can mimic the virilizing features of an adrenal carcinoma but is ruled out by demonstrating elevated 17-hydroxyprogesterone and normal/low cortisol.
+- **Non-classic [[Endocrinology/Congenital Adrenal Hyperplasia\|Congenital Adrenal Hyperplasia]]:** Can mimic the virilizing features of an adrenal carcinoma but is ruled out by demonstrating elevated 17-hydroxyprogesterone and normal/low cortisol.
 
 ## Management
 
@@ -98,7 +98,7 @@
 - **Surgical Management:** Transsphenoidal pituitary microsurgery to resect the microadenoma is the definitive treatment of choice, offering an initial remission rate of 70-98% and a long-term cure rate of 65-80%,,,.
 - **Postoperative Considerations:** Successful resection uniformly results in transient secondary hypoadrenalism because the normal corticotrophs are chronically suppressed. Patients mandate strict physiological glucocorticoid replacement and stress dosing for 6 to 30 months until the hypothalamic-pituitary-adrenal axis fully recovers,. Final adult height may remain compromised, and growth hormone deficiency can persist, occasionally necessitating GH replacement,.
 - **Refractory Disease:** If surgery fails or the tumor recurs, repeat transsphenoidal exploration is the first-line salvage therapy. Pituitary radiotherapy (conventional or stereotactic Gamma Knife) is highly effective but carries severe risks of subsequent panhypopituitarism (especially GH deficiency) and secondary CNS neoplasms,,.
-- **Bilateral Adrenalectomy:** Utilized as a definitive, life-saving measure for completely refractory Cushing disease. It cures the hypercortisolism but renders the patient permanently dependent on lifelong glucocorticoid and mineralocorticoid replacement. It carries the specific risk of Nelson syndrome (development of an aggressive, hyperpigmenting ACTH-secreting pituitary macroadenoma due to loss of adrenal feedback), though this is exceptionally rare in pediatric patients.
+- **Bilateral Adrenalectomy:** Utilized as a definitive, life-saving measure for completely refractory Cushing disease. It cures the hypercortisolism but renders the patient permanently dependent on lifelong glucocorticoid and mineralocorticoid replacement. It carries the specific risk of [[Endocrinology/Nelson Syndrome\|Nelson syndrome]] (development of an aggressive, hyperpigmenting ACTH-secreting pituitary macroadenoma due to loss of adrenal feedback), though this is exceptionally rare in pediatric patients.
 
 ### Medical Therapy
 

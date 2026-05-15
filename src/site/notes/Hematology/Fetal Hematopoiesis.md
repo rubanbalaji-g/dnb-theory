@@ -12,7 +12,7 @@
 - CMPs differentiate into all non-lymphoid blood lineages.
 - Regulation dependent on specific transcription factors and local hematopoietic growth factors.
 
-## Anatomic Stages of Fetal Hematopoiesis
+## Anatomic Stages of [[Hematology/Fetal Hematopoiesis\|Fetal Hematopoiesis]]
 
 - Process conceptualized into three overlapping developmental waves.
 
@@ -40,7 +40,7 @@
 
 ### Regulation
 
-- Erythropoietin (EPO) essential for erythroblast survival and proliferation.
+- [[Hematology/Erythropoietin\|Erythropoietin]] (EPO) essential for erythroblast survival and proliferation.
 - Maternal EPO does not cross placenta; entirely fetal regulated.
 - Fetal liver (monocytes/macrophages) produces EPO during 1st and 2nd trimesters.
 - Anatomic site of EPO production shifts to kidney postnatally.

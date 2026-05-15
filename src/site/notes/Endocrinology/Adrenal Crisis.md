@@ -4,7 +4,7 @@
 
 ## Pathophysiology 
 
-- An acute adrenal crisis (or Addisonian crisis) is a life-threatening endocrine emergency resulting from an absolute or relative deficiency of adrenocortical hormones, specifically glucocorticoids (cortisol) and often mineralocorticoids (aldosterone), combined with an increased physiological demand.
+- An acute [[Endocrinology/Adrenal Crisis\|adrenal crisis]] (or Addisonian crisis) is a life-threatening endocrine emergency resulting from an absolute or relative deficiency of adrenocortical hormones, specifically glucocorticoids (cortisol) and often mineralocorticoids (aldosterone), combined with an increased physiological demand.
 - Cortisol is a critical stress hormone required to maintain cardiac output, vascular tone, and endothelial integrity.
 - In the absence of cortisol, catecholamines (such as epinephrine and norepinephrine) exhibit markedly decreased inotropic and pressor effects, leading to refractory hypotension, orthostasis, and potentially fatal cardiovascular collapse or shock.
 - Concurrently, aldosterone deficiency in primary adrenal disorders results in severe renal sodium wasting and potassium retention in the distal nephron, leading to profound hypovolemia, hyponatremia, and hyperkalemia.
@@ -16,20 +16,20 @@
 
 ### Acute Stress in Undiagnosed or Treated Chronic Adrenal Insufficiency
 
-- The most frequent precipitant of an acute adrenal crisis is the occurrence of a severe physiological stressor (such as a major intercurrent bacterial or viral infection, significant physical trauma, or a major surgical procedure) in a child with undiagnosed chronic adrenal insufficiency or a known patient receiving inadequate stress-dose glucocorticoid coverage.
+- The most frequent precipitant of an acute [[Endocrinology/Adrenal Crisis\|adrenal crisis]] is the occurrence of a severe physiological stressor (such as a major intercurrent bacterial or viral infection, significant physical trauma, or a major surgical procedure) in a child with undiagnosed chronic adrenal insufficiency or a known patient receiving inadequate stress-dose glucocorticoid coverage.
 - Gastrointestinal illnesses featuring persistent nausea, vomiting, or diarrhea are particularly dangerous, as they rapidly cause dehydration, hypovolemia, and the inability to tolerate oral glucocorticoid replacement.
 
 ### Abrupt Cessation of Corticosteroid Therapy
 
 - Iatrogenic secondary adrenal insufficiency is one of the most common causes of crisis, occurring when the hypothalamic-pituitary-adrenal (HPA) axis is profoundly suppressed by the prolonged administration of exogenous glucocorticoids, followed by sudden withdrawal or overly rapid tapering.
 - Patients at high risk include those treated with high-dose steroids for leukemia, collagen vascular diseases, autoimmune conditions, or organ transplantation.
-- Significantly, even children treated with routine topical, nasal, or inhaled glucocorticoids for asthma or allergies can experience sufficient systemic absorption to suppress the HPA axis, precipitating a crisis during a stressful event or upon abrupt discontinuation.
+- Significantly, even children treated with routine topical, nasal, or inhaled glucocorticoids for [[Respiratory/Asthma\|asthma]] or allergies can experience sufficient systemic absorption to suppress the HPA axis, precipitating a crisis during a stressful event or upon abrupt discontinuation.
 - In these patients, the presentation typically lacks the electrolyte derangements of mineralocorticoid deficiency (as the renin-angiotensin-aldosterone system remains intact) but features severe hypotension, hypoglycemia, fever, and lethargy.
 
 ### Infectious Causes
 
 - Meningococcal septicemia (caused by _Neisseria meningitidis_) can lead to Waterhouse-Friderichsen syndrome, characterized by massive bilateral adrenal hemorrhage, hemorrhagic necrosis, petechial rash, purpura, and rapid progression to cardiovascular collapse and death.
-- Other bacterial organisms capable of causing severe sepsis and acute hemorrhagic adrenal infarction include _Streptococcus_, _Pneumococcus_, _Pseudomonas_, diphtheria, and methicillin-resistant _Staphylococcus aureus_ (MRSA).
+- Other bacterial organisms capable of causing severe sepsis and acute hemorrhagic adrenal infarction include _Streptococcus_, _Pneumococcus_, _Pseudomonas_, [[Infectious Diseases/Diphtheria\|diphtheria]], and methicillin-resistant _Staphylococcus aureus_ (MRSA).
 - In developing nations, tuberculosis remains a primary infectious cause of adrenal destruction via caseous necrosis.
 - Disseminated fungal infections (e.g., histoplasmosis, cryptococcosis, coccidioidomycosis, blastomycosis) and viral pathogens (such as Cytomegalovirus and HIV-1) can directly infiltrate and destroy the adrenal cortex.
 
@@ -39,16 +39,16 @@
 - Neonatal adrenal hemorrhage often presents with an unexplained flank or abdominal mass, anemia, hypovolemic shock, prolonged unexplained jaundice, or scrotal hematoma.
 - Beyond the neonatal period, adrenal hemorrhage or infarction can be precipitated by primary antiphospholipid syndrome, the administration of systemic anticoagulant therapy, or severe physical trauma associated with child abuse.
 
-### Congenital Adrenal Hyperplasia (CAH)
+### [[Endocrinology/Congenital Adrenal Hyperplasia\|Congenital Adrenal Hyperplasia]] (CAH)
 
 - CAH encompasses a group of autosomal recessive enzymatic defects in cortisol biosynthesis, accounting for the vast majority of adrenal crises in early infancy.
 - **21-Hydroxylase Deficiency:** The classic salt-wasting form accounts for over 90% of CAH cases. Because the placenta regulates fetal fluid and electrolyte balance, affected neonates appear metabolically normal at birth but predictably develop a life-threatening salt-losing crisis (shock, hyponatremia, hyperkalemia) between 5 and 15 days of life.
 - **Lipoid Adrenal Hyperplasia:** Caused by mutations in the _STAR_ gene (impairing cholesterol transport into mitochondria) or _CYP11A1_ (cholesterol side-chain cleavage enzyme). It presents with severe impairment of all steroidogenesis, leading to catastrophic salt-wasting crises in early infancy, regardless of chromosomal sex.
-- **3β-Hydroxysteroid Dehydrogenase Deficiency:** Impairs the synthesis of all active steroid classes, presenting with severe salt-wasting adrenal crisis and ambiguous genitalia in both sexes.
+- **3β-Hydroxysteroid Dehydrogenase Deficiency:** Impairs the synthesis of all active steroid classes, presenting with severe salt-wasting [[Endocrinology/Adrenal Crisis\|adrenal crisis]] and ambiguous genitalia in both sexes.
 
 ### Genetic and Developmental Defects of the Adrenal Gland
 
-- **X-Linked Adrenal Hypoplasia Congenita (AHC):** Caused by mutations in the _NR0B1_ (_DAX1_) gene. The definitive zone of the adrenal cortex fails to develop. About 50% of affected males present with salt-wasting and glucocorticoid insufficiency in early infancy, often associated with hypogonadotropic hypogonadism and cryptorchidism.
+- **X-Linked Adrenal Hypoplasia Congenita (AHC):** Caused by mutations in the _NR0B1_ (_DAX1_) gene. The definitive zone of the adrenal cortex fails to develop. [[About\|About]] 50% of affected males present with salt-wasting and glucocorticoid insufficiency in early infancy, often associated with hypogonadotropic hypogonadism and cryptorchidism.
 - **Familial Glucocorticoid Deficiency (FGD):** Characterized by profound unresponsiveness to ACTH due to mutations in the ACTH receptor (_MC2R_, FGD Type 1) or its accessory protein (_MRAP_, FGD Type 2). Patients present with hypoglycemia, seizures, and severe hyperpigmentation, usually with preserved mineralocorticoid function.
 - **Triple A (Allgrove) Syndrome:** An autosomal recessive disorder caused by _AAAS_ mutations (encoding the ALADIN protein), characterized by ACTH-resistant adrenal insufficiency, achalasia of the cardia, and alacrima (absence of tears), often accompanied by progressive neurological deterioration.
 - **IMAGe and MIRAGE Syndromes:** Rare genetic syndromes associated with severe intrauterine growth restriction, metaphyseal dysplasia, genitourinary anomalies, and primary adrenal hypoplasia.
@@ -56,29 +56,29 @@
 ### Autoimmune Adrenalitis
 
 - Autoimmune destruction is the most common cause of acquired primary adrenal insufficiency (Addison disease) in older children and adolescents.
-- While typically insidious, the initial clinical diagnosis is frequently delayed until the child presents in a life-threatening adrenal crisis precipitated by a minor illness.
+- While typically insidious, the initial clinical diagnosis is frequently delayed until the child presents in a life-threatening [[Endocrinology/Adrenal Crisis\|adrenal crisis]] precipitated by a minor illness.
 - It often occurs as a component of Autoimmune Polyendocrinopathy Syndrome Type 1 (APS-1, _AIRE_ gene mutation), which includes chronic mucocutaneous candidiasis and hypoparathyroidism.
 - It is also the hallmark of Autoimmune Polyglandular Syndrome Type 2 (APS-2), presenting alongside autoimmune thyroid disease and type 1 diabetes mellitus.
 
 ### Metabolic and Infiltrative Disorders
 
-- **X-Linked Adrenoleukodystrophy (ALD):** Caused by mutations in the _ABCD1_ gene, leading to the accumulation of very-long-chain fatty acids (VLCFAs) that are toxic to the adrenal cortex and central nervous system myelin. It is a frequent cause of adrenal failure in preadolescent boys, and adrenal crisis may precede neurological symptoms by years.
+- **X-Linked Adrenoleukodystrophy (ALD):** Caused by mutations in the _ABCD1_ gene, leading to the accumulation of very-long-chain fatty acids (VLCFAs) that are toxic to the adrenal cortex and central nervous system myelin. It is a frequent cause of adrenal failure in preadolescent boys, and [[Endocrinology/Adrenal Crisis\|adrenal crisis]] may precede neurological symptoms by years.
 - **Other Metabolic Defects:** Smith-Lemli-Opitz syndrome (defect in cholesterol synthesis), Wolman disease (lysosomal acid lipase deficiency causing bilateral adrenal calcifications), and mitochondrial disorders (e.g., Kearns-Sayre syndrome) can present with primary adrenal failure.
-- **Infiltrative Diseases:** Primary adrenal lymphoma, metastatic cancers, amyloidosis, hemochromatosis, and sarcoidosis can progressively destroy the adrenal cortex, leading to a crisis under stress.
+- **Infiltrative Diseases:** Primary adrenal lymphoma, metastatic cancers, amyloidosis, [[Gastrointestinal/Hemochromatosis\|hemochromatosis]], and sarcoidosis can progressively destroy the adrenal cortex, leading to a crisis under stress.
 
 ### Secondary and Tertiary Adrenal Insufficiency
 
 - These conditions result from ACTH deficiency due to hypothalamic or pituitary pathology. Mineralocorticoid function is typically spared, so hyperkalemia is absent, but severe hypoglycemia, hyponatremia, and hypotension can precipitate a crisis.
 - Causes include congenital hypopituitarism (e.g., septo-optic dysplasia), _TPIT_ gene mutations (causing isolated congenital ACTH deficiency and severe neonatal hypoglycemia), craniopharyngiomas, severe head trauma, neurosurgery, and cranial irradiation.
-- **Thyroxine Unmasking:** In patients with combined pituitary hormone deficiencies, the underlying hypothyroidism slows the metabolism of the small amount of cortisol produced. Initiating levothyroxine therapy without first providing glucocorticoid replacement drastically accelerates cortisol clearance and can rapidly precipitate an acute adrenal crisis.
+- **Thyroxine Unmasking:** In patients with combined pituitary hormone deficiencies, the underlying hypothyroidism slows the metabolism of the small amount of cortisol produced. Initiating levothyroxine therapy without first providing glucocorticoid replacement drastically accelerates cortisol clearance and can rapidly precipitate an acute [[Endocrinology/Adrenal Crisis\|adrenal crisis]].
 
-### Drug-Induced Adrenal Crisis
+### Drug-Induced [[Endocrinology/Adrenal Crisis\|Adrenal Crisis]]
 
 - Various pharmacological agents can induce adrenal insufficiency either by directly inhibiting steroidogenic enzymes or by accelerating cortisol metabolism.
 - Implicated drugs include ketoconazole, etomidate (used for anesthesia/intubation, severely inhibits 11β-hydroxylase), aminoglutethimide, mitotane, suramin, abiraterone acetate, and immune checkpoint inhibitors (e.g., nivolumab).
 - Hepatic enzyme inducers like rifampin, phenytoin, and phenobarbital accelerate the metabolic clearance of cortisol, potentially triggering a crisis in a patient with marginal adrenal reserve.
 
-## Clinical Manifestations of Adrenal Crisis
+## Clinical Manifestations of [[Endocrinology/Adrenal Crisis\|Adrenal Crisis]]
 
 - **Hemodynamic Collapse:** Profound postural hypotension rapidly progressing to refractory hypovolemic shock, tachycardia, and poor peripheral perfusion, which often fails to respond to aggressive intravenous fluid resuscitation and standard inotropic/vasopressor agents.
 - **Metabolic Derangements:** Severe, unexplained hypoglycemia (frequently presenting with neuroglycopenic symptoms such as lethargy, confusion, or intractable seizures), significant hyponatremia, hypochloremia, hyperkalemia (in primary failure), and non-anion gap metabolic acidosis.
@@ -88,15 +88,15 @@
 
 ## Diagnostic Evaluation During Crisis
 
-- Acute adrenal crisis is a high-stakes medical emergency; life-saving therapy must absolutely never be delayed while awaiting the results of diagnostic laboratory investigations.
+- Acute [[Endocrinology/Adrenal Crisis\|adrenal crisis]] is a high-stakes medical emergency; life-saving therapy must absolutely never be delayed while awaiting the results of diagnostic laboratory investigations.
 - If the diagnosis is previously unknown, a critical blood sample must be drawn immediately upon presentation (prior to administering glucocorticoids, if the patient's clinical status permits) for the measurement of serum electrolytes, blood glucose, total cortisol, ACTH, aldosterone, and plasma renin activity (PRA).
 - If the patient is hemodynamically stable enough to allow a brief delay, a rapid ACTH stimulation test can be performed simultaneously with initial fluid resuscitation. This involves administering 0.25 mg (or 15 µg/kg in infants) of synthetic ACTH (cosyntropin) intravenously, with cortisol levels drawn at baseline and 60 minutes post-injection.
 - A random serum cortisol level of less than 18 µg/dL in the setting of severe physiological stress or shock is highly suspicious for adrenal insufficiency.
 - A classic primary adrenal failure profile will demonstrate low or undetectable cortisol, massively elevated ACTH, low aldosterone, markedly elevated PRA, hyponatremia, and hyperkalemia.
 - In infants, a markedly elevated 17-hydroxyprogesterone (17-OHP) level on the initial sample confirms the diagnosis of 21-hydroxylase deficiency CAH.
-- An immediate electrocardiogram (ECG) must be obtained in critically ill patients to quickly identify cardiac manifestations of severe hyperkalemia (e.g., tall peaked T waves, widened QRS, ventricular tachycardia).
+- An immediate electrocardiogram ([[Misc/ECG\|ECG]]) must be obtained in critically ill patients to quickly identify cardiac manifestations of severe hyperkalemia (e.g., tall peaked T waves, widened QRS, ventricular tachycardia).
 
-## Management of Adrenal Crisis
+## Management of [[Endocrinology/Adrenal Crisis\|Adrenal Crisis]]
 
 ### Immediate Emergency Resuscitation
 
@@ -111,7 +111,7 @@
 ### Management of Specific Electrolyte Derangements
 
 - **Hyperkalemia:** Mild to moderate hyperkalemia usually resolves rapidly with aggressive normal saline expansion and the mineralocorticoid cross-reactivity of high-dose hydrocortisone.
-- If hyperkalemia is severe (e.g., serum potassium > 6.5 mEq/L) or associated with dangerous ECG changes, emergency interventions must be instituted, including intravenous calcium gluconate (to stabilize the myocardium), sodium bicarbonate, continuous albuterol nebulization, or an intravenous infusion of glucose combined with regular insulin to drive potassium intracellularly. Intrarectal potassium-binding resins (e.g., sodium polystyrene sulfonate) may also be utilized.
+- If hyperkalemia is severe (e.g., serum potassium > 6.5 mEq/L) or associated with dangerous [[Misc/ECG\|ECG]] changes, emergency interventions must be instituted, including intravenous calcium gluconate (to stabilize the myocardium), sodium bicarbonate, continuous albuterol nebulization, or an intravenous infusion of glucose combined with regular insulin to drive potassium intracellularly. Intrarectal potassium-binding resins (e.g., sodium polystyrene sulfonate) may also be utilized.
 - **Mineralocorticoid Replacement:** Exogenous mineralocorticoids (fludrocortisone) are entirely unnecessary during the acute phase of resuscitation. At the massive stress doses utilized (e.g., 100 mg/m²/day), hydrocortisone profoundly binds and activates the mineralocorticoid receptor (20 mg of IV cortisol is equivalent to 0.1 mg of fludrocortisone), providing complete mineralocorticoid coverage.
 
 ### Transition to Maintenance Therapy

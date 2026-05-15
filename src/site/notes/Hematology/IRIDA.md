@@ -5,7 +5,7 @@
 ## Definition & Genetics
 
 - Extremely rare, autosomal recessive disorder of iron absorption and trafficking.
-- Accounts for <1% of iron-deficiency anemia (IDA) cases.
+- Accounts for <1% of [[Hematology/Iron-Deficiency Anemia (IDA)\|iron-deficiency anemia (IDA)]] cases.
 - Caused by pathogenic variants in the _TMPRSS6_ gene.
 - Usually identified in childhood.
 
@@ -23,7 +23,7 @@
 - Diagnosis suspected in microcytic anemia refractory to adequate oral iron trial.
 - Final confirmation requires genetic sequencing of the _TMPRSS6_ gene.
 
-|Parameter|Finding in IRIDA|
+|Parameter|Finding in [[Hematology/IRIDA\|IRIDA]]|
 |:--|:--|
 |**Red Cell Indices**|Striking microcytosis; hypochromic anemia.|
 |**Transferrin Saturation**|Extremely low.|
@@ -32,7 +32,7 @@
 
 ## Differential Diagnosis
 
-Before considering IRIDA, common causes of oral iron resistance must be excluded (poor adherence, ongoing gastrointestinal bleeding, underlying [[Gastrointestinal/Celiac disease\|celiac disease]]).
+Before considering [[Hematology/IRIDA\|IRIDA]], common causes of oral iron resistance must be excluded (poor adherence, ongoing gastrointestinal bleeding, underlying [[Gastrointestinal/Celiac disease\|celiac disease]]).
 
 |Differential Diagnosis|Distinguishing Features|
 |:--|:--|
@@ -61,8 +61,8 @@ Before considering IRIDA, common causes of oral iron resistance must be excluded
 
 - Parenteral iron administration increases serum ferritin levels in a dose-dependent manner.
 - Raises clinical concern for iron overload.
-- Iron loading pattern typically reticuloendothelial rather than parenchymal (differentiating it from primary hemochromatosis).
+- Iron loading pattern typically reticuloendothelial rather than parenchymal (differentiating it from primary [[Gastrointestinal/Hemochromatosis\|hemochromatosis]]).
 
 ### Ineffective Therapies
 
-- Recombinant erythropoietin (EPO) administration produces no significant clinical benefit.**
+- Recombinant [[Hematology/Erythropoietin\|erythropoietin]] (EPO) administration produces no significant clinical benefit.**

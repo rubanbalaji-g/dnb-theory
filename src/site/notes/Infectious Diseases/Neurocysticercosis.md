@@ -4,7 +4,7 @@
 
 ## Introduction and Definition
 
-- Neurocysticercosis (NCC) is a parasitic infection of the central nervous system (CNS) caused by the larval stage (cysticercus) of the pork tapeworm, _Taenia solium_.
+- [[Infectious Diseases/Neurocysticercosis\|Neurocysticercosis]] (NCC) is a parasitic infection of the central nervous system (CNS) caused by the larval stage (cysticercus) of the pork tapeworm, _Taenia solium_.
 - It is considered the most common parasitic infection of the CNS worldwide and a leading cause of acquired epilepsy, particularly in developing countries.
 - The disease is characterized by the presence of cysts in the brain parenchyma, ventricles, subarachnoid space, or spinal cord, leading to a wide spectrum of neurological manifestations.
 
@@ -44,30 +44,30 @@ Cysts in the brain parenchyma typically progress through four stages:
 
 - **Mass Effect:** Large cysts or clusters of cysts can compress brain structures.
 - **Inflammation:** Degenerating cysts provoke an inflammatory response, leading to cerebral edema, arachnoiditis, and vasculitis.
-- **Obstruction:** Intraventricular cysts or basilar arachnoiditis can obstruct CSF flow, causing hydrocephalus.
+- **Obstruction:** Intraventricular cysts or basilar arachnoiditis can obstruct CSF flow, causing [[Neurology/Hydrocephalus\|hydrocephalus]].
 - **Epileptogenesis:** Inflammation associated with degenerating cysts or chronic gliosis around calcified lesions acts as a focus for seizures.
 
 ## Clinical Manifestations
 
 The incubation period varies from months to years. Clinical presentation is pleomorphic.
 
-### Parenchymal Neurocysticercosis
+### Parenchymal [[Infectious Diseases/Neurocysticercosis\|Neurocysticercosis]]
 
 - **Seizures:** The most common manifestation, occurring in 50–80% of patients. Seizures are often focal with secondary generalization but can be generalized.
-- **Single Enhancing Lesion (SEL):** A common presentation in children (especially in India), characterized by new-onset focal seizures and a solitary inflammatory granuloma on imaging. Usually has a benign course.
+- **Single Enhancing Lesion (SEL):** A common presentation in children (especially in India), characterized by new-onset [[Neurology/Focal seizures\|focal seizures]] and a solitary inflammatory granuloma on imaging. Usually has a benign course.
 - **Cysticercal Encephalitis:** Occurs in patients (often children or young women) with a massive burden of inflamed cysts. Presents with signs of raised intracranial pressure (ICP), altered mental status, and seizures due to diffuse cerebral edema. This is a medical emergency.
 - **Calcified Lesions:** Patients may present with chronic epilepsy due to calcified granulomas.
 
-### Extraparenchymal Neurocysticercosis
+### Extraparenchymal [[Infectious Diseases/Neurocysticercosis\|Neurocysticercosis]]
 
 Associated with higher morbidity and mortality.
 
 - **Intraventricular Cysts:**
-    - Can cause obstructive hydrocephalus.
+    - Can cause obstructive [[Neurology/Hydrocephalus\|hydrocephalus]].
     - **Bruns Syndrome:** Mobile cysts in the 4th ventricle can act as a ball-valve, causing sudden attacks of headache, vomiting, vertigo, and loss of consciousness with head movement.
 - **Subarachnoid Cysticercosis:**
     - **Racemose Form:** Cysts in the basal cisterns or Sylvian fissure can lose their scolex and grow as large, budding, grape-like clusters (giant cysts >5 cm). They exert mass effect.
-    - **Chronic Meningitis:** Basilar arachnoiditis causes communicating hydrocephalus, cranial nerve palsies, and entrapment of vessels.
+    - **Chronic [[Neurology/Meningitis\|Meningitis]]:** Basilar arachnoiditis causes communicating [[Neurology/Hydrocephalus\|hydrocephalus]], cranial nerve palsies, and entrapment of vessels.
     - **Stroke:** Vasculitis affecting the circle of Willis can lead to lacunar or large vessel infarcts.
 - **Spinal Cysticercosis:** Rare (1-3%). Can be intramedullary or subarachnoid. Presents with radicular pain, paresthesias, or transverse myelitis.
 - **Ocular Cysticercosis:** Cysts in the retina or vitreous humor can cause visual field defects, chorioretinitis, or retinal detachment.
@@ -119,7 +119,7 @@ Management is multimodal, involving symptomatic treatment, antiparasitic drugs, 
 ### Symptomatic Treatment
 
 - **Antiepileptic Drugs (AEDs):** Primary management for patients presenting with seizures. Monotherapy (e.g., phenytoin, carbamazepine, levetiracetam) is usually effective. AEDs can often be tapered after resolution of acute lesions, but calcified lesions may require long-term therapy.
-- **Management of Hydrocephalus:** Priority over antiparasitic therapy. Requires CSF diversion (ventriculoperitoneal shunt) or endoscopic third ventriculostomy.
+- **Management of [[Neurology/Hydrocephalus\|Hydrocephalus]]:** Priority over antiparasitic therapy. Requires CSF diversion (ventriculoperitoneal shunt) or endoscopic third ventriculostomy.
 
 ### Antiparasitic Therapy
 
@@ -128,7 +128,7 @@ Indications and regimens depend on the type of NCC.
 - **Contraindications:** Antiparasitic drugs should **not** be used in:
     - **Cysticercal Encephalitis:** Massive release of antigens from dying cysts can worsen cerebral edema and cause herniation. Treatment is high-dose steroids and osmotic agents.
     - **Ocular Cysticercosis:** Inflammation can cause blindness. Surgical removal is preferred.
-    - **Untreated Hydrocephalus:** Elevated ICP must be managed first.
+    - **Untreated [[Neurology/Hydrocephalus\|Hydrocephalus]]:** Elevated ICP must be managed first.
     - **Calcified Cysts:** The parasite is dead; treatment offers no benefit.
 
 #### Drug Regimens
@@ -150,7 +150,7 @@ Indications and regimens depend on the type of NCC.
 
 ### Surgical Management
 
-- **Hydrocephalus:** VP shunt placement. Shunt failure rates are high due to proteinaceous debris/cells; concurrent steroid and antiparasitic therapy can reduce failure.
+- **[[Neurology/Hydrocephalus\|Hydrocephalus]]:** VP shunt placement. Shunt failure rates are high due to proteinaceous debris/cells; concurrent steroid and antiparasitic therapy can reduce failure.
 - **Intraventricular Cysts:** Neuroendoscopic removal is the treatment of choice, especially for the third and lateral ventricles. It is minimally invasive and avoids shunt dependence.
 - **Giant/Racemose Cysts:** May require surgical debulking or decompression if mass effect is life-threatening.
 

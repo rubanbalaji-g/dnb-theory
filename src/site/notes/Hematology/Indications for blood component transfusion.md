@@ -25,7 +25,7 @@ Restrictive transfusion guidelines preferred in stable patients, avoiding unnece
 
 ### Neonatal indications
 
-Neonatal physiology dictates distinct transfusion thresholds. Physiologic anemia of infancy driven by oxygen-induced downregulation of erythropoietin, shortened red cell lifespan, and rapid body growth. Anemia of prematurity exhibits exaggerated hemoglobin decline due to diminished hepatic erythropoietin synthesis, frequent phlebotomy losses, and rapid red cell mass expansion. Restrictive thresholds yield identical mortality and neurodevelopmental outcomes compared to liberal thresholds.
+Neonatal physiology dictates distinct transfusion thresholds. Physiologic anemia of infancy driven by oxygen-induced downregulation of [[Hematology/Erythropoietin\|erythropoietin]], shortened red cell lifespan, and rapid body growth. Anemia of prematurity exhibits exaggerated hemoglobin decline due to diminished hepatic [[Hematology/Erythropoietin\|erythropoietin]] synthesis, frequent phlebotomy losses, and rapid red cell mass expansion. Restrictive thresholds yield identical mortality and neurodevelopmental outcomes compared to liberal thresholds.
 
 |postnatal age|ventilated infant threshold|oxygen/cpap infant threshold|no supplemental oxygen threshold|
 |:--|:--|:--|:--|
@@ -44,11 +44,11 @@ Neonatal physiology dictates distinct transfusion thresholds. Physiologic anemia
 
 ### Hemoglobinopathy specific indications
 
-#### sickle cell disease
+#### [[Hematology/Sickle Cell Disease\|sickle cell disease]]
 
 Episodic transfusion indicated for overt stroke, transient pure red cell aplasia, splenic sequestration, acute chest syndrome, multiorgan failure, and preoperative optimization. Chronic transfusion therapy indicated for stroke prevention (abnormal transcranial doppler velocities), silent cerebral infarcts, recurrent acute chest syndrome, and pulmonary hypertension. Transfusion target necessitates maintaining hemoglobin s fraction <30% for stroke prevention. Extended red cell antigen matching (c, e, kell antigens) prevents high rates of alloimmunization.
 
-#### thalassemia major
+#### [[Hematology/Thalassemia\|thalassemia]] major
 
 Transfusion-dependent beta-thalassemia requires regular transfusions to suppress ineffective erythropoiesis, prevent bony deformities, and permit normal growth. Initiate regular transfusions for persistent hemoglobin <7.0 g/dl on two occasions separated by two weeks. Transfuse patients with hemoglobin >7.0 g/dl if exhibiting growth disturbance, facial bone changes, recurrent fractures, or severe extramedullary hematopoiesis. Pre-transfusion hemoglobin target maintained between 9.5-10.5 g/dl. Post-transfusion target 14-15 g/dl. Transfusion interval typical every 2-5 weeks.
 
@@ -84,7 +84,7 @@ Fetal and neonatal megakaryocytes exhibit higher proliferative potential but rem
 | current coagulopathy                                                               | platelet count <50,000/mm3      |
 | preoperative status                                                                | platelet count <50,000/mm3      |
 | neonatal alloimmune thrombocytopenia (previously affected sibling with hemorrhage) | platelet count <50,000/mm3      |
-| major bleeding (significant intraventricular hemorrhage)                           | platelet count <1,00,000/mm3    |
+| major bleeding (significant [[Neonatalogy/Intraventricular hemorrhage\|intraventricular hemorrhage]])                           | platelet count <1,00,000/mm3    |
 | major surgery                                                                      | platelet count <1,00,000/mm3    |
 
 #### specific thrombocytopenic conditions
@@ -109,12 +109,12 @@ Component contains functional coagulation factors ii, v, x, xi, fibrinogen, anti
 |dilutional coagulopathy (massive transfusion)|prevents massive hemorrhage complications|
 |natural anticoagulant protein deficiency|replaces antithrombin, protein c, or protein s|
 |thrombotic thrombocytopenic purpura|plasma exchange replacement fluid|
-|disseminated intravascular coagulation|replaces consumed factors in bleeding neonate|
+|[[Hematology/Disseminated Intravascular Coagulation\|disseminated intravascular coagulation]]|replaces consumed factors in bleeding neonate|
 |vitamin k deficiency bleeding|treats hemorrhagic disease of newborn|
 
 ### Contraindications
 
-Not indicated for asymptomatic prolonged prothrombin or activated partial thromboplastin times. Avoid utilization for volume expansion or hypovolemia treatment. Inappropriate for hemophilia a, hemophilia b, or von willebrand disease management due to availability of safer, highly purified specific factor concentrates.
+Not indicated for asymptomatic prolonged prothrombin or activated partial thromboplastin times. Avoid utilization for volume expansion or hypovolemia treatment. Inappropriate for [[Hematology/Hemophilia A\|hemophilia a]], hemophilia b, or [[Hematology/Von Willebrand Disease\|von willebrand disease]] management due to availability of safer, highly purified specific factor concentrates.
 
 ### Dosing and administration
 
@@ -131,7 +131,7 @@ Prepared by controlled thawing of fresh frozen plasma at 4 degrees celsius, foll
 |severe hypofibrinogenemia (<1.0 g/l)|rapid concentrated fibrinogen replacement|
 |congenital factor viii deficiency|utilized only if specific factor concentrate unavailable|
 |congenital factor xiii deficiency|utilized only if specific factor concentrate unavailable|
-|von willebrand disease|utilized if bleeding active and desmopressin ineffective/contraindicated,|
+|[[Hematology/Von Willebrand Disease\|von willebrand disease]]|utilized if bleeding active and desmopressin ineffective/contraindicated,|
 |afibrinogenemia/dysfibrinogenemia|treats active bleeding or provides preoperative prophylaxis|
 
 ### Dosing and administration

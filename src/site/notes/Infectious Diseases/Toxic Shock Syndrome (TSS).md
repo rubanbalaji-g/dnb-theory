@@ -4,7 +4,7 @@
 
 ## 1. Introduction and Definition
 
-Toxic Shock Syndrome (TSS) is an acute, life-threatening, multisystem disorder characterized by high fever, hypotension, diffuse erythroderma (rash), and multiple organ dysfunction. Historically associated with menstruation and high-absorbency tampon use in the late 1970s and early 1980s, TSS is now recognized as a complication of various staphylococcal and streptococcal infections in men, women, and children.
+[[Infectious Diseases/Toxic Shock Syndrome (TSS)\|Toxic Shock Syndrome (TSS)]] is an acute, life-threatening, multisystem disorder characterized by high fever, hypotension, diffuse erythroderma (rash), and multiple organ dysfunction. Historically associated with menstruation and high-absorbency tampon use in the late 1970s and early 1980s, TSS is now recognized as a complication of various staphylococcal and streptococcal infections in men, women, and children.
 
 The syndrome is primarily toxin-mediated, caused by superantigens produced by _Staphylococcus aureus_ or _Streptococcus pyogenes_ (Group A Streptococcus ). While Staphylococcal and Streptococcal TSS share pathophysiologic mechanisms, they differ significantly in clinical presentation, epidemiology, and mortality.
 
@@ -33,7 +33,7 @@ The hallmark of TSS pathogenesis is the action of **superantigens**.
 2. **Cytokine Storm:** This "short-circuiting" activates a massive number of T-cells (up to 20% of the total T-cell pool). This results in the uncontrolled release of proinflammatory cytokines, particularly <span style="color:rgb(0, 176, 240)">Interleukin-1 (IL-1), Interleukin-6 (IL-6), and Tumor Necrosis Factor-alpha (TNF-α)</span>.
 3. **Clinical Effects:** These cytokines mediate the clinical features:
     - **TNF-$\alpha$ and IL-1:** Fever, hypotension, shock, and increased capillary permeability (capillary leak syndrome) leading to hypoalbuminemia and edema.
-    - **Direct Tissue Injury:** Toxin-mediated endothelial damage leads to disseminated intravascular coagulation (DIC) and multiorgan failure.
+    - **Direct Tissue Injury:** Toxin-mediated endothelial damage leads to [[Hematology/Disseminated Intravascular Coagulation\|disseminated intravascular coagulation]] (DIC) and multiorgan failure.
 4. **Lack of Antibody Response:** In Staphylococcal TSS, a critical risk factor is the host's lack of neutralizing antibodies against the toxin. Most adults have protective antibodies to TSST-1; those who develop TSS fail to mount an adequate antibody response during the acute illness, predisposing them to recurrence.
 
 ## 4. Clinical Manifestations
@@ -55,7 +55,7 @@ Clinically distinct from Staphylococcal TSS in several ways:
 - **Pain:** Severe, localized pain at a site of soft tissue infection is a hallmark early symptom, often preceding physical findings of infection (e.g., in necrotizing fasciitis).
 - **Focal Infection:** Most patients have an identifiable focus, such as cellulitis, fasciitis, or pneumonia.
 - **Rash:** A scarlatiniform or generalized rash occurs but is less common than in Staphylococcal TSS.
-- **Course:** Progression to shock and acute respiratory distress syndrome (ARDS) is often rapid and fulminant.
+- **Course:** Progression to shock and acute [[Neonatalogy/Respiratory Distress Syndrome\|respiratory distress syndrome]] (ARDS) is often rapid and fulminant.
 
 ## 5. Diagnostic Criteria #Diagnostic_criteria 
 
@@ -73,14 +73,14 @@ Diagnosis is clinical, supported by laboratory evidence of multisystem involveme
     - _GI:_ Vomiting or diarrhea at onset.
     - _Muscular:_ Severe myalgia or CPK >2x upper limit of normal.
     - _Mucous Membrane:_ Vaginal, oropharyngeal, or conjunctival hyperemia.
-    - _Renal:_ BUN or Creatinine >2x normal or pyuria without UTI.
+    - _Renal:_ BUN or Creatinine >2x normal or pyuria without [[Nephrology/UTI\|UTI]].
     - _Hepatic:_ Bilirubin or Transaminases >2x normal.
     - _Hematologic:_ Platelets <100,000/mm³.
     - _CNS:_ Disorientation or alteration in consciousness without focal signs.
 
 **2. Laboratory Criteria:**
 
-- Negative serologies for RMSF, Leptospirosis, Measles.
+- Negative serologies for RMSF, [[Infectious Diseases/Leptospirosis\|Leptospirosis]], Measles.
 - Blood/CSF cultures negative (except _S. aureus_ blood culture may be positive).
 
 **3. Classification:**
@@ -108,10 +108,10 @@ Diagnosis is clinical, supported by laboratory evidence of multisystem involveme
 ## 6. Differential Diagnosis
 
 - **Septic Shock:** Bacterial sepsis (Meningococcemia, Gram-negative sepsis).
-- **Kawasaki Disease:** Shares features like fever, rash, mucosal changes, and desquamation. However, Kawasaki disease rarely presents with hypotension/shock, diffuse myalgia, or renal failure (azotemia).
+- **[[Rheumatology/Kawasaki Disease\|Kawasaki Disease]]:** Shares features like fever, rash, mucosal changes, and desquamation. However, [[Rheumatology/Kawasaki Disease\|Kawasaki disease]] rarely presents with hypotension/shock, diffuse myalgia, or renal failure (azotemia).
 - **Multisystem Inflammatory Syndrome in Children (MIS-C):** A post-COVID-19 hyperinflammatory syndrome with significant overlap (fever, rash, shock, cardiac dysfunction). Serology for SARS-CoV-2 helps distinguish.
 - **Drug Reactions:** Stevens-Johnson Syndrome (SJS), DRESS syndrome.
-- **Other Infections:** Rocky Mountain Spotted Fever (RMSF), Leptospirosis, Measles, Scarlet Fever.
+- **Other Infections:** Rocky Mountain Spotted Fever (RMSF), [[Infectious Diseases/Leptospirosis\|Leptospirosis]], Measles, Scarlet Fever.
 
 ## 7. Management
 

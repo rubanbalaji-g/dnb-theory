@@ -4,7 +4,7 @@
 
 ## Clinical And Molecular Profiles
 
-While Wilms tumor represents the majority of childhood renal malignancies, distinct non-Wilms entities predominate in specific age groups and possess unique molecular drivers.
+While [[Hematology/Wilms Tumor\|Wilms tumor]] represents the majority of childhood renal malignancies, distinct non-Wilms entities predominate in specific age groups and possess unique molecular drivers.
 
 |Tumor Type|Demographics|Molecular / Genetic Hallmark|Characteristic Features|
 |:--|:--|:--|:--|

@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/endocrinology/calcium-homeostasis/","dgPassFrontmatter":true}
 ---
 
-## Overview of Calcium Homeostasis
+## Overview of [[Endocrinology/Calcium Homeostasis\|Calcium Homeostasis]]
 
 - The maintenance of serum calcium concentrations within a narrowly defined physiological range is essential for membrane stability, myocardial function, neurotransmission, and bone integrity,.
 - Total serum calcium is normally maintained between 8.5 to 10.2 mg/dL, with the biologically active ionized calcium fraction (Ca2+) strictly regulated between 4.6 to 5.1 mg/dL,.
@@ -37,7 +37,7 @@
 ### Mechanisms of Action
 
 - Calcitriol functions primarily as a steroid hormone, binding to the intracellular Vitamin D Receptor (VDR), which heterodimerizes with the Retinoid X Receptor (RXR) to regulate the transcription of target genes via Vitamin D Response Elements (VDREs).
-- **Gastrointestinal Effects:** Calcitriol's principal role in calcium homeostasis is to actively promote transcellular calcium absorption in the duodenum and proximal jejunum.
+- **Gastrointestinal Effects:** Calcitriol's principal role in [[Endocrinology/Calcium Homeostasis\|calcium homeostasis]] is to actively promote transcellular calcium absorption in the duodenum and proximal jejunum.
 - It upregulates the expression of apical epithelial calcium channels (TRPV6), the intracellular calcium-binding shuttle protein (calbindin-D9k), and the basolateral calcium-ATPase pump (ATP2B1), facilitating massive transfer of calcium into the bloodstream,.
 - **Renal Effects:** Calcitriol acts synergistically with PTH to enhance calcium reabsorption in the distal convoluted tubule by upregulating TRPV5 channels.
 - **Skeletal Effects:** Calcitriol is essential for normal bone mineralization by maintaining adequate serum calcium and phosphate products. However, during periods of severe calcium deficiency, calcitriol also acts on osteoblasts to increase RANK-ligand expression, recruiting osteoclasts to mobilize skeletal calcium and maintain serum eucalcemia,.
@@ -61,7 +61,7 @@
 ## Role of Parathyroid Hormone-Related Protein (PTHrP)
 
 - PTHrP shares structural homology with the amino-terminal sequence of PTH and binds to the same PTH1R receptor, mimicking the hypercalcemic effects of PTH,.
-- **Fetal Calcium Balance:** PTHrP is the dominant regulator of fetal calcium homeostasis. Secreted by the fetal parathyroid glands and the placenta, it creates a calcium gradient by actively driving maternal-fetal calcium transport across the placenta,.
+- **Fetal Calcium Balance:** PTHrP is the dominant regulator of fetal [[Endocrinology/Calcium Homeostasis\|calcium homeostasis]]. Secreted by the fetal parathyroid glands and the placenta, it creates a calcium gradient by actively driving maternal-fetal calcium transport across the placenta,.
 - **Lactation:** During lactation, PTHrP is secreted by the mammary epithelium into the maternal circulation, where it mobilizes calcium from the maternal skeleton to meet the massive calcium requirements of milk production,.
 
 ## Influence of Other Endocrine Hormones

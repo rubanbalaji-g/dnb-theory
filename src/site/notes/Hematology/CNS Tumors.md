@@ -6,7 +6,7 @@
 
 Most common solid malignancy in pediatrics; represents 20-25% of childhood cancers. Leading cause of cancer-related mortality in patients 0-14 years.
 
-- **Infants (<1 year):** Supratentorial tumors predominate (choroid plexus tumors, germ cell tumors).
+- **Infants (<1 year):** Supratentorial tumors predominate (choroid plexus tumors, [[Hematology/Germ Cell Tumors\|germ cell tumors]]).
 - **Children (1-10 years):** Infratentorial tumors predominate (pilocytic astrocytoma, medulloblastoma).
 - **Adolescents (>10 years):** Supratentorial tumors predominate (diffuse astrocytomas, pituitary/craniopharyngioma).
 
@@ -44,7 +44,7 @@ Results from cerebrospinal fluid (CSF) pathway obstruction.
 |**Brainstem**|Gaze palsy, multiple cranial nerve palsies, hemiparesis, hyperreflexia, clonus.|
 |**Supratentorial / Hemispheric**|Focal motor/sensory deficits, seizures, premature hand preference.|
 |**Optic Pathway**|Decreased visual acuity, visual field defects, Marcus Gunn pupil (afferent defect).|
-|**Suprasellar / Hypothalamic**|Neuroendocrine deficits (diabetes insipidus, precocious/delayed puberty, hypothyroidism, growth failure).|
+|**Suprasellar / Hypothalamic**|Neuroendocrine deficits ([[Endocrinology/Diabetes Insipidus\|diabetes insipidus]], precocious/delayed puberty, hypothyroidism, growth failure).|
 |**Diencephalic**|Diencephalic syndrome: failure to thrive, emaciation, euphoric affect.|
 |**Pineal Region**|Parinaud syndrome: upward gaze paresis, pseudo-Argyll Robertson pupils, eyelid retraction.|
 
@@ -59,8 +59,8 @@ Immediate neurologic assessment and neuroimaging required.
 
 ### Cerebrospinal Fluid And Tumor Markers
 
-- **Lumbar Puncture:** Cytologic evaluation for dissemination. Contraindicated in newly diagnosed hydrocephalus, supratentorial midline shift, or large infratentorial masses due to herniation risk.
-- **Tumor Markers:** Serum and CSF alpha-fetoprotein (AFP) and beta-human chorionic gonadotropin ($\beta$-hCG) diagnostic for specific germ cell tumors.
+- **Lumbar Puncture:** Cytologic evaluation for dissemination. Contraindicated in newly diagnosed [[Neurology/Hydrocephalus\|hydrocephalus]], supratentorial midline shift, or large infratentorial masses due to herniation risk.
+- **Tumor Markers:** Serum and CSF alpha-fetoprotein (AFP) and beta-human chorionic gonadotropin ($\beta$-hCG) diagnostic for specific [[Hematology/Germ Cell Tumors\|germ cell tumors]].
 
 ## Specific Tumor Profiles
 
@@ -82,7 +82,7 @@ Represent ~9% of tumors; highly malignant (WHO Grade IV) with neuraxis dissemina
 
 Arise from ependymal lining; fourth ventricle most common (70%).
 
-- **Presentation:** Emesis, ataxia, obstructive hydrocephalus.
+- **Presentation:** Emesis, ataxia, obstructive [[Neurology/Hydrocephalus\|hydrocephalus]].
 - **Molecular Subgroups:** Posterior fossa EPN-A (young children, dismal outcome); EPN-B (adolescents, better outcome).
 - **Management:** Gross total surgical resection crucial. Followed by focal radiation (54-60 Gy).
 
@@ -99,7 +99,7 @@ Arise in suprasellar region (WHO Grade I).
 - **Presentation:** Bitemporal hemianopsia, profound endocrine dysfunction.
 - **Management:** Gross total resection curative but carries high morbidity. Subtotal resection plus radiation alternative.
 
-### Germ Cell Tumors
+### [[Hematology/Germ Cell Tumors\|Germ Cell Tumors]]
 
 Midline structures (pineal, suprasellar).
 

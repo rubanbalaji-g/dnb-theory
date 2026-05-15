@@ -10,7 +10,7 @@ Dried Blood Spot (DBS) Polymerase Chain Reaction (PCR) is the cornerstone of Ear
 - **Virological Testing:** Diagnosis in this age group requires the detection of the virus (virological testing). PCR is the preferred method.
 - **DBS Utility:** DBS involves collecting capillary blood on filter paper. It is preferred in programmatic settings because:
     - It stabilizes the nucleic acid (DNA/RNA).
-    - It does not require a cold chain for transport (can be mailed).
+    - It does not require a [[Misc/Cold Chain\|cold chain]] for transport (can be mailed).
     - It requires a smaller volume of blood than venous sampling.
 
 ### Procedure and Target
@@ -37,4 +37,4 @@ Dried Blood Spot (DBS) Polymerase Chain Reaction (PCR) is the cornerstone of Ear
 
 - **Cytomegalovirus (CMV):** DBS has been evaluated for congenital CMV screening but is generally not recommended due to low sensitivity compared to saliva or urine PCR.
 - **Enterovirus:** RT-PCR on dried blood spots can detect enterovirus infections in neonates with sepsis-like illness.
-- **SCID:** Newborn screening for Severe Combined Immunodeficiency (SCID) uses DBS to measure T-cell receptor excision circles (TRECs) to identify T-cell lymphopenia.
+- **SCID:** [[Neonatalogy/Newborn Screening\|Newborn screening]] for [[Infectious Diseases/Severe Combined Immunodeficiency (SCID)\|Severe Combined Immunodeficiency (SCID)]] uses DBS to measure T-cell receptor excision circles (TRECs) to identify T-cell lymphopenia.

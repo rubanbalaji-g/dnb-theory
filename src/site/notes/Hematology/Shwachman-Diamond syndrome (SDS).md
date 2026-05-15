@@ -4,8 +4,8 @@
 
 ## Introduction and Genetics
 
-- Shwachman-Diamond syndrome (SDS) is a rare, inherited multisystem bone marrow failure syndrome characterized primarily by 
-	- <span style="color:rgb(255, 192, 0)">exocrine pancreatic insufficiency</span>, 
+- [[Hematology/Shwachman-Diamond syndrome (SDS)\|Shwachman-Diamond syndrome (SDS)]] is a rare, inherited multisystem bone marrow failure syndrome characterized primarily by 
+	- <span style="color:rgb(255, 192, 0)">[[Gastrointestinal/Exocrine Pancreatic Insufficiency\|exocrine pancreatic insufficiency]]</span>, 
 	- <span style="color:rgb(255, 192, 0)">bone marrow dysfunction (predominantly neutropenia)</span>, and 
 	- <span style="color:rgb(255, 192, 0)">skeletal abnormalities</span>.
 - It is classified as a ribosomopathy, with the underlying genetic defect occurring in ribosome biogenesis and assembly.
@@ -17,7 +17,7 @@
 ## Pathophysiology
 
 - The _SBDS_ gene plays a critical role in the late stages of<span style="color:rgb(255, 192, 0)"> pre-60S ribosome subunit maturation</span>, where it binds to the EFL1 GTPase and facilitates the release of eIF6 to enable 80S monosome formation.
-- Exocrine pancreatic insufficiency results from the failure of exocrine pancreatic acinar development, leading to prominent fatty replacement of pancreatic tissue.
+- [[Gastrointestinal/Exocrine Pancreatic Insufficiency\|Exocrine pancreatic insufficiency]] results from the failure of exocrine pancreatic acinar development, leading to prominent fatty replacement of pancreatic tissue.
 - Bone marrow failure is driven by dysfunctional hematopoietic stem cells (HSCs), accelerated apoptosis of bone marrow progenitors, and a defective bone marrow microenvironment that fails to support normal hematopoiesis.
 
 ## Clinical Features
@@ -30,9 +30,9 @@
 
 ### Gastrointestinal and Pancreatic Manifestations
 
-- Symptoms of fat malabsorption and steatorrhea are frequently present from birth due to exocrine pancreatic insufficiency.
+- Symptoms of fat malabsorption and steatorrhea are frequently present from birth due to [[Gastrointestinal/Exocrine Pancreatic Insufficiency\|exocrine pancreatic insufficiency]].
 - Approximately 50% of patients experience spontaneous clinical improvement in pancreatic enzyme secretion as they grow older.
-- Hepatomegaly and elevated liver transaminases are observed in about 61% of patients.
+- Hepatomegaly and elevated liver transaminases are observed in [[About\|about]] 61% of patients.
 
 ### Skeletal and Physical Abnormalities
 
@@ -47,15 +47,15 @@
 
 ## Malignancy Predisposition
 
-- SDS patients have a markedly elevated risk for developing <span style="color:rgb(255, 192, 0)">myelodysplastic syndrome (MDS) and acute myeloid leukemia (AML)</span>.
-- Clonal marrow cytogenetic abnormalities, MDS, or leukemia develop in approximately 25% of patients by age 18, and about one-third of patients develop leukemia by age 30.
+- SDS patients have a markedly elevated risk for developing <span style="color:rgb(255, 192, 0)">myelodysplastic syndrome (MDS) and [[Hematology/Acute Myeloid Leukemia\|acute myeloid leukemia]] (AML)</span>.
+- Clonal marrow cytogenetic abnormalities, MDS, or leukemia develop in approximately 25% of patients by age 18, and [[About\|about]] one-third of patients develop leukemia by age 30.
 - Isochromosome 7q [i(7q)] is a particularly common cytogenetic abnormality, alongside monosomy 7, translocations involving 7q, and deletions of 20q.
 
 ## Diagnosis and Laboratory Findings
 
 ### Diagnostic Criteria
 
-- Clinical diagnosis historically relies on evidence of at least two of the following three features: bone marrow dysfunction, exocrine pancreatic insufficiency, and metaphyseal dysplasia.
+- Clinical diagnosis historically relies on evidence of at least two of the following three features: bone marrow dysfunction, [[Gastrointestinal/Exocrine Pancreatic Insufficiency\|exocrine pancreatic insufficiency]], and metaphyseal dysplasia.
 - Because 20% of patients lack clear exocrine pancreatic defects at diagnosis and up to 60% lack metaphyseal dysplasia initially, all patients with unexplained hypoplastic marrow, pancreatic insufficiency, or metaphyseal dysplasia should undergo genetic testing.
 - Confirmatory genetic testing for <span style="color:rgb(255, 192, 0)"><i>SBDS</i>, <i>DNAJC21</i>, and <i>EFL1</i></span> establishes a definitive diagnosis in almost all cases.
 
@@ -70,7 +70,7 @@
 
 ### Medical and Supportive Care
 
-- Exocrine pancreatic insufficiency is managed with oral <span style="color:rgb(255, 192, 0)">pancreatic enzyme replacement </span>therapy and supplementation of fat-soluble vitamins, following guidelines similar to those for cystic fibrosis.
+- [[Gastrointestinal/Exocrine Pancreatic Insufficiency\|Exocrine pancreatic insufficiency]] is managed with oral <span style="color:rgb(255, 192, 0)">pancreatic enzyme replacement </span>therapy and supplementation of fat-soluble vitamins, following guidelines similar to those for [[Respiratory/Cystic Fibrosis\|cystic fibrosis]].
 - Daily subcutaneous <span style="color:rgb(255, 192, 0)">Granulocyte Colony-Stimulating Factor</span> (G-CSF) is highly effective for managing severe, profound neutropenia to induce a sustained increment in neutrophils and prevent recurrent infections.
 - G-CSF use must be carefully monitored due to concerns that its growth-promoting effects may accelerate the expansion of undetected MDS or AML clones.
 - Judicious red blood cell and platelet transfusions are utilized for the management of severe symptomatic anemia and thrombocytopenia.

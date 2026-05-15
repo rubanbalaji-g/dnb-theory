@@ -10,7 +10,7 @@
 - Adult hemoglobin denatures rapidly in alkaline environment.
 - Fetal hemoglobin resists denaturation.
 - Quantifies fetal hemoglobin percentage.
-- Elevated fetal hemoglobin suggests beta thalassemia major or intermedia.
+- Elevated fetal hemoglobin suggests beta [[Hematology/Thalassemia\|thalassemia]] major or intermedia.
 
 ## Nestroft test
 
@@ -18,7 +18,7 @@
 - Please independently verify external information provided below.
 - Acronym represents naked eye single tube red cell osmotic fragility test.
 - Functions as rapid, cost-effective screening tool.
-- Detects beta thalassemia trait in large populations.
+- Detects beta [[Hematology/Thalassemia\|thalassemia]] trait in large populations.
 - Utilizes 0.36% buffered saline solution.
 - Thalassemic red cells resist osmotic lysis.
 - Suspension remains opaque.
@@ -27,7 +27,7 @@
 
 ## Peripheral smear
 
-- Demonstrates variable morphological abnormalities based on thalassemia syndrome severity.
+- Demonstrates variable morphological abnormalities based on [[Hematology/Thalassemia\|thalassemia]] syndrome severity.
 - Microcytic hypochromic red blood cells characteristically present.
 - Anisopoikilocytosis prominently observed.
 - Target cells indicate increased surface area to volume ratio.
@@ -35,16 +35,16 @@
 - Basophilic stippling demonstrates ribonucleic acid or ribosome remnants.
 - Nucleated red blood cells indicate severe ineffective erythropoiesis and extramedullary hematopoiesis.
 - Polychromasia indicates reticulocyte presence.
-- Marked anisocytosis, poikilocytosis, and normoblastemia seen in beta thalassemia intermedia.
-- Supravital staining reveals golf ball-like inclusion bodies in alpha thalassemia.
+- Marked anisocytosis, poikilocytosis, and normoblastemia seen in beta [[Hematology/Thalassemia\|thalassemia]] intermedia.
+- Supravital staining reveals golf ball-like inclusion bodies in alpha [[Hematology/Thalassemia\|thalassemia]].
 - Precipitated beta-hemoglobin tetramers form golf ball-like inclusions.
-- Irreversibly sickled cells and target cells visible in double heterozygous sickle-beta thalassemia.
-- Extreme anisocytosis, poikilocytosis, and nucleated red blood cells characterize beta thalassemia major.
+- Irreversibly sickled cells and target cells visible in double heterozygous sickle-beta [[Hematology/Thalassemia\|thalassemia]].
+- Extreme anisocytosis, poikilocytosis, and nucleated red blood cells characterize beta [[Hematology/Thalassemia\|thalassemia]] major.
 
 |Morphological finding|Pathophysiology and clinical significance|
 |:--|:--|
 |Microcytosis|Impaired globin chain synthesis; characteristic of trait and major forms|
-|Target cells|Increased surface area to volume ratio; frequently noted in beta thalassemia|
+|Target cells|Increased surface area to volume ratio; frequently noted in beta [[Hematology/Thalassemia\|thalassemia]]|
 |Basophilic stippling|Ribosomal remnants; indicates dyserythropoiesis|
 |Nucleated red cells|Intense bone marrow stimulation; invariably present in severe syndromes|
 |Golf ball inclusions|Precipitated beta-hemoglobin tetramers visible with supravital stain|
@@ -72,7 +72,7 @@
 - Assesses skeletal complications of chronic hemolytic anemia.
 - Detects cortical thinning and medullary cavity widening.
 - Identifies osteopenia and osteoporosis.
-- Osteopenia and osteoporosis represent common complications of thalassemia.
+- Osteopenia and osteoporosis represent common [[Hematology/Complications of Thalassemia\|complications of thalassemia]].
 - Prevalence reaches approximately 60% in patients over 20 years old.
 - Risk correlates directly with advancing patient age.
 - Pathophysiology remains multifactorial.

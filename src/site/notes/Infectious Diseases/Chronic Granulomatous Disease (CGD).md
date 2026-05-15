@@ -5,7 +5,7 @@
 ![Pasted image 20260324204601.png](/img/user/+%C4%B0mages/Pasted%20image%2020260324204601.png)
 ### Pathogenesis and Genetics
 
-- Chronic granulomatous disease (CGD) is a rare primary immunodeficiency characterized by phagocytes (neutrophils and monocytes) that possess normal chemotaxis, ingestion, and degranulation capabilities, but completely fail to kill catalase-positive microorganisms.
+- [[Infectious Diseases/Chronic Granulomatous Disease (CGD)\|Chronic granulomatous disease (CGD)]] is a rare primary immunodeficiency characterized by phagocytes (neutrophils and monocytes) that possess normal chemotaxis, ingestion, and degranulation capabilities, but completely fail to kill catalase-positive microorganisms.
 - The underlying defect lies in the phagocyte nicotinamide adenine dinucleotide phosphate (NADPH) oxidase enzyme complex, preventing the respiratory burst necessary to generate microbicidal reactive oxygen species like superoxide and hydrogen peroxide.
 - Because the phagocytic vacuoles lack these microbicidal oxygen metabolites and remain abnormally acidic, ingested bacteria survive and induce the formation of exuberant inflammatory granulomas.
 - Approximately 65% of cases are inherited in an X-linked recessive manner, caused by pathogenic variants in the _CYBB_ gene which encodes the gp91phox subunit.
@@ -14,7 +14,7 @@
 ### Clinical Manifestations
 
 - The onset of clinical signs and symptoms typically occurs in early infancy, marked by recurrent, deep-seated, and indolent infections.
-- Classic infectious presentations include recurrent pneumonia, suppurative lymphadenitis, deep hepatic or subcutaneous abscesses, and multilocular osteomyelitis.
+- Classic infectious presentations include [[Respiratory/Recurrent Pneumonia\|recurrent pneumonia]], suppurative lymphadenitis, deep hepatic or subcutaneous abscesses, and multilocular osteomyelitis.
 - Patients exhibit a hallmark susceptibility to catalase-positive organisms; the most common pathogen is _Staphylococcus aureus_, while other sentinel pathogens include _Burkholderia cepacia, Serratia marcescens, Nocardia, Salmonella_, and fungal organisms like _Aspergillus_ and _Candida albicans_.
 - Non-infectious inflammatory complications are a prominent feature, specifically the formation of granulomas that can cause severe mechanical obstruction of the gastric outlet (pylorus), urinary tract (ureters), or biliary tree.
 - Patients frequently develop a chronic granulomatous colitis or enteritis that closely mimics Crohn disease, with over 80% of CGD patients demonstrating positive serology for Crohn disease.

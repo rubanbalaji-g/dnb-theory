@@ -3,7 +3,7 @@
 ---
 
 ## **Introduction** 
-Hand-Foot-and-Mouth Disease (HFMD) is a common, highly contagious viral illness that predominantly affects infants and young children. It is characterized by a distinct clinical syndrome involving a vesicular exanthem on the hands and feet and an enanthem in the oral cavity. While typically a benign and self-limiting condition caused by Coxsackievirus A16, the emergence of Enterovirus 71 (EV71) and Coxsackievirus A6 (CVA6) has changed the clinical landscape, introducing risks of severe neurological complications and atypical cutaneous manifestations.
+[[Infectious Diseases/Hand-Foot-and-Mouth Disease (HFMD)\|Hand-Foot-and-Mouth Disease (HFMD)]] is a common, highly contagious viral illness that predominantly affects infants and young children. It is characterized by a distinct clinical syndrome involving a vesicular exanthem on the hands and feet and an enanthem in the oral cavity. While typically a benign and self-limiting condition caused by Coxsackievirus A16, the emergence of Enterovirus 71 (EV71) and Coxsackievirus A6 (CVA6) has changed the clinical landscape, introducing risks of severe neurological complications and atypical cutaneous manifestations.
 
 ## Etiology
 
@@ -52,7 +52,7 @@ The illness usually begins with a mild prodrome lasting 12 to 24 hours:
     - The vesicles on the palms and soles are firm and deep-seated.
     - Lesions on the buttocks usually present as a papular rash rather than frank vesicles.
     - The rash is usually non-pruritic (not itchy), though CVA6 infections can be itchy.
-- **Resolution:** Skin lesions resolve in about 1 week (5–7 days) without scarring.
+- **Resolution:** Skin lesions resolve in [[About\|about]] 1 week (5–7 days) without scarring.
 ### 4. Atypical HFMD (Coxsackievirus A6)
 Infection with CVA6 presents with a more severe and atypical phenotype:
 
@@ -71,7 +71,7 @@ The most common complication, resulting from refusal to feed due to painful oral
 
 EV71 is highly neurotropic and can cause severe CNS disease, typically 2–5 days after onset:
 
-- **Aseptic Meningitis:** Headache, vomiting, stiff neck.
+- **Aseptic [[Neurology/Meningitis\|Meningitis]]:** Headache, vomiting, stiff neck.
 - **Brainstem Encephalitis:** The most critical form, presenting with myoclonus (jerks), tremor, ataxia, and cranial nerve palsies. Myoclonus is a key early warning sign.
 - **[[Neuromuscular/Acute Flaccid Paralysis\|Acute Flaccid Paralysis]]:** Polio-like limb weakness.
 ### 3. Cardiopulmonary Failure
@@ -87,7 +87,7 @@ Diagnosis is primarily clinical based on the characteristic distribution of lesi
 ### 1. Clinical Diagnosis
 
 - Presence of oral ulcers combined with vesicular rash on hands and feet in a young child.
-- **Atypical cases:** May be harder to diagnose and require a high index of suspicion, especially if the rash is generalized or bullous.
+- **Atypical cases:** May be harder to diagnose and require a high [[Statistics/Index\|index]] of suspicion, especially if the rash is generalized or bullous.
 ### 2. Laboratory Diagnosis
 
 Laboratory confirmation is generally not required for mild cases but is crucial for severe cases or outbreaks.
@@ -101,7 +101,7 @@ Laboratory confirmation is generally not required for mild cases but is crucial 
 - **Herpangina:** Also caused by enteroviruses. Characterized by high fever and ulcers on the posterior pharynx (anterior pillars, soft palate) _without_ skin rash.
 - **Herpetic Gingivostomatitis:** Caused by HSV. Presents with high fever, swollen bleeding gums (gingivitis), and perioral vesicles. Lesions are often more anterior in the mouth compared to the posterior distribution of herpangina.
 - **Varicella (Chickenpox):** Rash is centripetal (concentrated on trunk/face/scalp), pruritic, and lesions are in different stages of healing (pleomorphism). HFMD rash is centrifugal (hands/feet) and lesions are uniform.
-- **Erythema Multiforme:** Target lesions, often a history of drug intake or preceding HSV infection.
+- **[[Misc/Erythema Multiforme\|Erythema Multiforme]]:** Target lesions, often a history of drug intake or preceding HSV infection.
 - **Insect Bites:** Papular urticaria, usually itchy and grouped.
 
 ## Management

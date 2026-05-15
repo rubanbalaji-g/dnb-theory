@@ -5,7 +5,7 @@
 The acronym **TORCH** refers to a group of pathogens that can cause congenital or perinatal infections leading to significant fetal and neonatal morbidity and mortality. The components are:
 
 - **T**oxoplasmosis
-- **O**thers (Syphilis, Varicella-Zoster, Parvovirus B19, Zika virus, HIV, Hepatitis B, Listeria, Lymphocytic Choriomeningitis Virus, etc.)
+- **O**thers (Syphilis, Varicella-Zoster, Parvovirus B19, Zika virus, HIV, [[Gastrointestinal/Hepatitis B\|Hepatitis B]], Listeria, Lymphocytic Choriomeningitis Virus, etc.)
 - **R**ubella
 - **C**ytomegalovirus (CMV)
 - **H**erpes Simplex Virus (HSV)
@@ -17,7 +17,7 @@ The acronym **TORCH** refers to a group of pathogens that can cause congenital o
 - **Transmission:**
     - **Primary Infection:** Highest risk of transmission and severe fetal damage usually occurs with primary maternal infection during pregnancy.
     - **Reactivation/Reinfection:** Fetal affection is infrequent with latent infection or reactivation (exception: CMV, where reactivation/reinfection contributes significantly to the burden, and Syphilis).
-- **Clinical Overlap:** Manifestations in the neonate are often indistinguishable and include intrauterine growth restriction (IUGR), hepatosplenomegaly, jaundice, thrombocytopenia (blueberry muffin rash), and microcephaly.
+- **Clinical Overlap:** Manifestations in the neonate are often indistinguishable and include intrauterine growth restriction (IUGR), hepatosplenomegaly, jaundice, thrombocytopenia (blueberry muffin rash), and [[Neurology/Microcephaly\|microcephaly]].
 
 ## 1. Toxoplasmosis
 
@@ -36,9 +36,9 @@ The acronym **TORCH** refers to a group of pathogens that can cause congenital o
 
 - **Classic Triad:**
     1. **Chorioretinitis:** Bilateral, involves macula, vision-threatening. Can be active or quiescent (scars).
-    2. **Hydrocephalus:** Due to obstruction of the aqueduct of Sylvius or foramen of Monro; may lead to macrocephaly.
+    2. **[[Neurology/Hydrocephalus\|Hydrocephalus]]:** Due to obstruction of the aqueduct of Sylvius or foramen of Monro; may lead to macrocephaly.
     3. **Intracranial Calcifications:** Diffuse, scattered throughout the brain parenchyma (caudate nucleus, basal ganglia, cortex). _Distinguishes from periventricular calcifications of CMV._
-- **Other Signs:** Microcephaly, convulsions, mental retardation, hepatosplenomegaly, jaundice, thrombocytopenia, anemia, lymphadenopathy.
+- **Other Signs:** [[Neurology/Microcephaly\|Microcephaly]], convulsions, mental retardation, hepatosplenomegaly, jaundice, thrombocytopenia, anemia, lymphadenopathy.
 - **Late Sequelae:** Infants asymptomatic at birth may develop chorioretinitis, deafness, or developmental delay later in life (up to adulthood).
 
 ### Diagnosis
@@ -72,7 +72,7 @@ The acronym **TORCH** refers to a group of pathogens that can cause congenital o
 - **Transmission:** Respiratory droplets. Transplacental transmission rate is highest (>90%) in the first 11 weeks of gestation.
 - **Fetal Risk:** The fetus is severely affected if infection occurs in the first trimester. Infection after 16–20 weeks rarely causes defects.
 
-### Congenital Rubella Syndrome (CRS)
+### [[Infectious Diseases/Congenital Rubella Syndrome\|Congenital Rubella Syndrome]] (CRS)
 
 - **Classic Triad (Gregg’s Triad):**
     1. **Cataracts:** Nuclear cataracts, microphthalmia.
@@ -80,7 +80,7 @@ The acronym **TORCH** refers to a group of pathogens that can cause congenital o
     3. **Congenital Heart Disease:** Patent Ductus Arteriosus (PDA) and Pulmonary Artery Stenosis.
 - **Extended Syndrome:**
     - "Blueberry muffin" rash (dermal erythropoiesis).
-    - Microcephaly, meningoencephalitis.
+    - [[Neurology/Microcephaly\|Microcephaly]], meningoencephalitis.
     - Hepatosplenomegaly, radiolucent bone disease.
 - **Late-Onset Disease:** Diabetes mellitus (Type 1), thyroid dysfunction, progressive panencephalitis.
 
@@ -112,7 +112,7 @@ The acronym **TORCH** refers to a group of pathogens that can cause congenital o
 ### Clinical Manifestations
 
 - **Symptomatic (10%):** Cytomegalic Inclusion Disease (CID).
-    - **CNS:** Periventricular calcifications (distinct from Toxo), microcephaly, chorioretinitis, sensorineural hearing loss.
+    - **CNS:** Periventricular calcifications (distinct from Toxo), [[Neurology/Microcephaly\|microcephaly]], chorioretinitis, sensorineural hearing loss.
     - **Systemic:** IUGR, hepatosplenomegaly, jaundice, petechiae/purpura ("blueberry muffin" spots), thrombocytopenia.
 - **Asymptomatic (90%):** Appear normal at birth but 10–15% will develop late sequelae, particularly **sensorineural hearing loss**.
 
@@ -136,7 +136,7 @@ The acronym **TORCH** refers to a group of pathogens that can cause congenital o
 
 - **Intrapartum (85%):** Passage through an infected birth canal. Risk is highest (30–50%) if the mother has a **primary** genital infection near delivery, compared to recurrent infection (<1-3% risk) due to transfer of maternal antibodies.
 - **Postnatal:** Contact with non-genital lesions (e.g., cold sores) or nosocomial.
-- **Intrauterine (5%):** Rare; causes skin scars, microcephaly, and chorioretinitis at birth.
+- **Intrauterine (5%):** Rare; causes skin scars, [[Neurology/Microcephaly\|microcephaly]], and chorioretinitis at birth.
 
 ### Clinical Patterns (Neonatal HSV)
 
@@ -169,12 +169,12 @@ Symptoms typically appear between 5 and 19 days of life.
 
 ### Clinical Manifestations
 
-- **Early Congenital Syphilis (<2 years):**
+- **Early [[Infectious Diseases/Congenital Syphilis\|Congenital Syphilis]] (<2 years):**
     - **Rhinitis ("Snuffles"):** Copious, persistent, highly infectious nasal discharge.
     - **Rash:** Maculopapular, bullous, or desquamating rash involving palms and soles (pemphigus syphiliticus).
     - **Bone Lesions:** Osteochondritis, periostitis (Wimberger sign - destruction of proximal medial tibial metaphysis).
-    - **Visceral:** Hepatosphlenomegaly, lymphadenopathy, jaundice, pseudoparalysis of Parrot (due to painful osteochondritis).
-- **Late Congenital Syphilis (>2 years):** Stigmata of chronic inflammation.
+    - **Visceral:** Hepatosphlenomegaly, lymphadenopathy, jaundice, [[Neuromuscular/Pseudoparalysis\|pseudoparalysis]] of Parrot (due to painful osteochondritis).
+- **Late [[Infectious Diseases/Congenital Syphilis\|Congenital Syphilis]] (>2 years):** Stigmata of chronic inflammation.
     - **Hutchinson's Triad:** Hutchinson teeth (notched incisors), Interstitial Keratitis, VIII nerve deafness.
     - **Skeletal:** Saber shins (anterior bowing of tibia), Clutton's joints (painless knee effusion), frontal bossing, saddle nose.
     - **Cutaneous:** Rhagades (fissures at mouth angles).
@@ -204,7 +204,7 @@ Symptoms typically appear between 5 and 19 days of life.
 
 - **Vector:** _Aedes_ mosquito. Sexual transmission also possible.
 - **Congenital Zika Syndrome:**
-    - **Severe Microcephaly:** Partially collapsed skull, redundant scalp skin.
+    - **Severe [[Neurology/Microcephaly\|Microcephaly]]:** Partially collapsed skull, redundant scalp skin.
     - **Brain Anomalies:** Thin cerebral cortices, subcortical calcifications, ventriculomegaly.
     - **Ocular:** Macular scarring, focal pigmentary retinal mottling.
     - **Neurologic:** Congenital contractures (arthrogryposis), hypertonia.
@@ -214,7 +214,7 @@ Symptoms typically appear between 5 and 19 days of life.
 ## 8. Varicella Zoster Virus (VZV)
 
 - **Congenital Varicella Syndrome:** Occurs if mother acquires infection between 8 and 20 weeks of gestation.
-    - Features: Cicatricial skin scarring (zigzag pattern), limb hypoplasia, microcephaly, cataracts, chorioretinitis.
+    - Features: Cicatricial skin scarring (zigzag pattern), limb hypoplasia, [[Neurology/Microcephaly\|microcephaly]], cataracts, chorioretinitis.
 - **Neonatal Varicella:** Occurs if maternal rash appears 5 days before to 2 days after delivery. Severe disseminated infection with high mortality.
     - **Prophylaxis:** Varicella Zoster Immunoglobulin (VZIG) to neonate.
 

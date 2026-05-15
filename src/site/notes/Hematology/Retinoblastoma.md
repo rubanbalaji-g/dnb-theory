@@ -29,9 +29,9 @@ _Note: Approximately 10-15% of unilateral unifocal cases harbor germline RB1 mut
 
 - Leukocoria (white pupillary reflex): Most common presenting sign.
 - Strabismus: Frequent initial complaint.
-- Advanced signs: Decreased visual acuity, orbital inflammation, hyphema, proptosis, irregular pupil, secondary glaucoma, phthisis bulbi.
-- Trilateral Retinoblastoma: Bilateral disease accompanied by pineal region primitive neuroectodermal tumor (pineoblastoma); occurs in 4-5% of familial cases.
-- 13q Deletion Syndrome: Increased risk; phenotype includes microcephaly, broad forehead, hypertelorism, micrognathia.
+- Advanced signs: Decreased visual acuity, orbital inflammation, hyphema, [[Misc/Proptosis\|proptosis]], irregular pupil, secondary glaucoma, phthisis bulbi.
+- Trilateral [[Hematology/Retinoblastoma\|Retinoblastoma]]: Bilateral disease accompanied by pineal region primitive neuroectodermal tumor (pineoblastoma); occurs in 4-5% of familial cases.
+- 13q Deletion Syndrome: Increased risk; phenotype includes [[Neurology/Microcephaly\|microcephaly]], broad forehead, hypertelorism, micrognathia.
 
 ## Diagnostic Evaluation
 

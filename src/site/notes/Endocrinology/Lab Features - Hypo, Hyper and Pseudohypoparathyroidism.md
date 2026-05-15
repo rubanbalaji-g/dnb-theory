@@ -24,7 +24,7 @@
 - Urinary calcium excretion is typically low in classic forms of hypoparathyroidism due to the decreased filtered load of calcium.
 - In contrast, in autosomal dominant hypocalcemia type 1 (caused by activating, gain-of-function mutations in the calcium-sensing receptor, CaSR), patients exhibit relative hypercalciuria despite their hypocalcemia and low PTH levels, predisposing them to nephrocalcinosis.
 - Autoantibody testing may reveal specific markers in autoimmune hypoparathyroidism, including autoantibodies to NACHT leucine-rich repeat protein 5 (NALP5) and activating autoantibodies directed against the extracellular domain of the CaSR.
-- An electrocardiogram (ECG) consistently reveals a prolongation of the QT interval, which normalizes once the hypocalcemia is corrected.
+- An electrocardiogram ([[Misc/ECG\|ECG]]) consistently reveals a prolongation of the QT interval, which normalizes once the hypocalcemia is corrected.
 
 ## Laboratory Features of Pseudohypoparathyroidism (PHP)
 
@@ -69,7 +69,7 @@
 - Serum levels of alkaline phosphatase are often elevated in patients with significant skeletal involvement (osteitis fibrosa cystica), reflecting highly increased osteoblastic activity attempting to repair the bone resorbed by excess PTH. Other specific markers of bone turnover, such as osteocalcin and N-terminal telopeptides, are also elevated.
 - In infants with diffuse parathyroid hyperplasia, alkaline phosphatase levels may paradoxically remain normal despite the presence of extensive bone involvement.
 - Unlike hypercalcemia of malignancy, serum concentrations of parathyroid hormone-related peptide (PTHrP) remain normal in primary hyperparathyroidism, which is a critical differential parameter.
-- The electrocardiogram (ECG) typically reveals a shortened QT interval resulting from the accelerated rate of cardiac repolarization caused by the hypercalcemia. Additional ECG findings can include a prolonged PR interval, widened QRS complex, bradycardia, and first-degree atrioventricular block.
+- The electrocardiogram ([[Misc/ECG\|ECG]]) typically reveals a shortened QT interval resulting from the accelerated rate of cardiac repolarization caused by the hypercalcemia. Additional [[Misc/ECG\|ECG]] findings can include a prolonged PR interval, widened QRS complex, bradycardia, and first-degree atrioventricular block.
 
 ### Secondary and Tertiary Hyperparathyroidism Profiles
 
@@ -77,4 +77,4 @@
 - In cases caused by chronic renal failure, laboratory studies reveal high PTH, normal or low serum calcium, and distinctly elevated serum phosphate (which occurs once the glomerular filtration rate falls below 20-30 mL/min/1.73 m2). Serum calcitriol levels are inappropriately low.
 - In cases caused by nutritional vitamin D deficiency or malabsorption, laboratory tests demonstrate high PTH, normal or low serum calcium, low serum phosphate, low serum calcidiol, and elevated alkaline phosphatase.
 - **Tertiary Hyperparathyroidism:** This state develops when prolonged secondary hyperparathyroidism (most commonly in chronic renal failure) leads to autonomous parathyroid hyperfunction.
-- Laboratory features of tertiary hyperparathyroidism show a shift from normocalcemia to overt hypercalcemia, occurring alongside hyperphosphatemia, profoundly elevated intact PTH, and signs of severe renal osteodystrophy.
+- Laboratory features of tertiary hyperparathyroidism show a shift from normocalcemia to overt hypercalcemia, occurring alongside hyperphosphatemia, profoundly elevated intact PTH, and signs of severe [[Nephrology/Renal Osteodystrophy\|renal osteodystrophy]].

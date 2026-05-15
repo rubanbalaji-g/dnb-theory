@@ -29,7 +29,7 @@
 
 ### Histologic Variants
 
-World Health Organization classification delineates two distinct disease groups: Classical Hodgkin Lymphoma (cHL) and Nodular Lymphocyte-Predominant Hodgkin Lymphoma (NLPHL).
+World Health Organization classification delineates two distinct disease groups: Classical [[Hematology/Hodgkin Lymphoma\|Hodgkin Lymphoma]] (cHL) and Nodular Lymphocyte-Predominant [[Hematology/Hodgkin Lymphoma\|Hodgkin Lymphoma]] (NLPHL).
 
 |Subtype|Histopathologic Characteristics|Clinical Nuances And Frequency|
 |:--|:--|:--|
@@ -41,7 +41,7 @@ World Health Organization classification delineates two distinct disease groups:
 
 ### Immunophenotypic Profile
 
-|Cellular Marker|Classical Hodgkin Lymphoma|Nodular Lymphocyte-Predominant|
+|Cellular Marker|Classical [[Hematology/Hodgkin Lymphoma\|Hodgkin Lymphoma]]|Nodular Lymphocyte-Predominant|
 |:--|:--|:--|
 |**CD15**|Positive (70%)|Negative|
 |**CD30**|Positive (100%)|Negative|
@@ -137,8 +137,8 @@ _Modifiers:_
 
 Due to exceptional cure rates, mitigating profound long-term morbidity remains paramount. Incidence of severe adverse health conditions exceeds 15% in adult survivors of childhood HL.
 
-- **Secondary Malignancies:** Risk 7-18 times higher than general population. Acute myeloid leukemia and myelodysplasia linked to alkylating agents and topoisomerase inhibitors (peaks 10-15 years post-therapy). Breast cancer risk markedly elevated in females receiving thoracic radiation.
-- **Cardiac Toxicity:** Cardiomyopathy, congestive heart failure, pericarditis, coronary artery disease. Direct consequence of cumulative anthracycline (doxorubicin) exposure and mediastinal irradiation.
+- **Secondary Malignancies:** Risk 7-18 times higher than general population. [[Hematology/Acute Myeloid Leukemia\|Acute myeloid leukemia]] and myelodysplasia linked to alkylating agents and topoisomerase inhibitors (peaks 10-15 years post-therapy). Breast cancer risk markedly elevated in females receiving thoracic radiation.
+- **Cardiac Toxicity:** Cardiomyopathy, congestive heart failure, [[Cardiology/Pericarditis\|pericarditis]], coronary artery disease. Direct consequence of cumulative anthracycline (doxorubicin) exposure and mediastinal irradiation.
 - **Thyroid Dysfunction:** Primary hypothyroidism highly common following neck radiation (>20 Gy). Requires lifelong thyroid-stimulating hormone surveillance.
 - **Pulmonary Toxicity:** Pulmonary fibrosis associated with bleomycin and thoracic radiation.
 - **Gonadal Toxicity:** Infertility secondary to alkylator exposure or pelvic radiation. Oophoropexy and gonadal shielding mandated during pelvic irradiation.

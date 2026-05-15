@@ -4,7 +4,7 @@
 
 ## Definition and Pathophysiology
 
-- Diabetes insipidus (DI) represents a state of impaired water conservation characterized by pathologic polyuria and compensatory polydipsia.
+- [[Endocrinology/Diabetes Insipidus\|Diabetes insipidus]] (DI) represents a state of impaired water conservation characterized by pathologic polyuria and compensatory polydipsia.
 - Polyuria defined strictly as urine output exceeding 5 mL/kg/hr or 2 L/m2/day.
 - Biochemical hallmark comprises low urine osmolality (<300 mOsm/kg) concurrent with elevated plasma osmolality (>300 mOsm/kg) or hypernatremia (serum sodium >146 mEq/L).
 - Normal fluid homeostasis depends on arginine vasopressin (AVP), also termed antidiuretic hormone (ADH).
@@ -18,13 +18,13 @@
 
 ## Etiological Classification
 
-|Category|Central Diabetes Insipidus|Nephrogenic Diabetes Insipidus|
+|Category|Central [[Endocrinology/Diabetes Insipidus\|Diabetes Insipidus]]|[[Nephrology/Nephrogenic diabetes insipidus\|Nephrogenic Diabetes Insipidus]]|
 |:--|:--|:--|
 |**Genetic Defects**|Autosomal dominant (AVP-NPII variants). Wolfram syndrome (DIDMOAD) via autosomal recessive _WFS1_ or _WFS2/CISD2_ mutations.|X-linked recessive (_AVPR2_ / V2 receptor mutations). Autosomal recessive/dominant (_AQP2_ water channel mutations).|
 |**Malformations**|Septo-optic dysplasia, holoprosencephaly, anencephaly. Familial pituitary hypoplasia with absent stalk.|Polycystic kidney disease, medullary cystic disease.|
 |**Neoplasms**|Craniopharyngioma, germinoma, pinealoma. Optic glioma, hematologic malignancies (leukemia).|Infiltrating lesions rarely (amyloidosis).|
-|**Infiltrative / Inflammatory**|Langerhans cell histiocytosis, neurosarcoidosis. Lymphocytic infundibuloneurohypophysitis.|Sarcoidosis.|
-|**Infectious**|Meningitis (tuberculous, bacterial), encephalitis. Congenital cytomegalovirus, toxoplasmosis.|None directly; secondary to systemic effects.|
+|**Infiltrative / Inflammatory**|[[Hematology/Langerhans Cell Histiocytosis\|Langerhans cell histiocytosis]], neurosarcoidosis. Lymphocytic infundibuloneurohypophysitis.|Sarcoidosis.|
+|**Infectious**|[[Neurology/Meningitis\|Meningitis]] (tuberculous, bacterial), encephalitis. Congenital cytomegalovirus, toxoplasmosis.|None directly; secondary to systemic effects.|
 |**Trauma / Vascular**|Neurosurgery, head trauma, cerebral hemorrhage. Hypoxic brain death.|Sickle cell anemia (vascular sickling in renal medulla).|
 |**Metabolic / Endocrine**|Increased AVP metabolism during pregnancy (placental vasopressinase).|Chronic hypercalcemia, severe hypokalemia.|
 |**Drugs / Toxins**|Ethanol, phenytoin, opiate antagonists, alpha-adrenergic agents.|Lithium, demeclocycline, foscarnet, amphotericin, methicillin, rifampin.|
@@ -139,7 +139,7 @@ graph TD
 - Gadolinium-enhanced brain MRI mandatory for confirmed central DI.
 - Normal posterior pituitary demonstrates characteristic hyperintense "bright spot" on T1-weighted images.
 - "Bright spot" characteristically absent or attenuated in central DI.
-- Thickened pituitary stalk highly suggestive of Langerhans cell histiocytosis or lymphocytic infundibuloneurohypophysitis.
+- Thickened pituitary stalk highly suggestive of [[Hematology/Langerhans Cell Histiocytosis\|Langerhans cell histiocytosis]] or lymphocytic infundibuloneurohypophysitis.
 - Essential to rule out occult germinomas, craniopharyngiomas, or midline malformations (septo-optic dysplasia).
 
 ## Differential Diagnosis
@@ -148,11 +148,11 @@ graph TD
 |:--|:--|
 |**Primary Polydipsia**|Compulsive water drinking. Characterized by baseline hyponatremia or low-normal serum osmolality. Normal posterior pituitary bright spot on MRI. Copeptin >4.9 pmol/L following hypertonic stimulus.|
 |**Osmotic Diuresis**|Elevated urine output driven by solute load. Occurs in Diabetes Mellitus (glycosuria), mannitol administration, or post-obstructive diuresis.|
-|**Tubulopathy / Salt Loss**|Polyuria with associated electrolyte wasting. Includes Bartter syndrome, Gitelman syndrome, and renal tubular acidosis.|
+|**Tubulopathy / Salt Loss**|Polyuria with associated electrolyte wasting. Includes [[Nephrology/Bartter syndrome\|Bartter syndrome]], Gitelman syndrome, and renal tubular acidosis.|
 
 ## Management
 
-### Central Diabetes Insipidus
+### Central [[Endocrinology/Diabetes Insipidus\|Diabetes Insipidus]]
 
 - **Pharmacotherapy:** Desmopressin (DDAVP), a synthetic AVP analog with potent V2-specific antidiuretic activity and prolonged half-life, remains treatment of choice.
 - Formulations include oral tablets, sublingual melts, or intranasal preparations.
@@ -162,7 +162,7 @@ graph TD
 - **Infant Management:** Desmopressin avoided due to high obligate fluid intake causing hyponatremia. Managed primarily with high-volume fluid therapy utilizing low-renal-solute formulas (e.g., human milk). Thiazide diuretics employed to induce mild hypovolemia, enhancing proximal water reabsorption.
 - **Acute Post-Neurosurgical DI:** Managed with continuous intravenous aqueous vasopressin infusion (1.5 mU/kg/hr) due to rapid onset and short half-life (5-10 mins). Allows rapid titration and prevents masking of impending SIAD phase.
 
-### Nephrogenic Diabetes Insipidus
+### [[Nephrology/Nephrogenic diabetes insipidus\|Nephrogenic Diabetes Insipidus]]
 
 - Treatment of underlying cause mandatory (correct hypokalemia/hypercalcemia, withdraw offending drugs like lithium).
 - **Dietary Modification:** Ensure adequate calories. Restrict sodium/solute load to minimize obligatory urine volume.
