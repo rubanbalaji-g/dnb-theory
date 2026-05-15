@@ -5,7 +5,7 @@
 ## DEFINITION & THERAPEUTIC GOALS
 
 - **Definition:** Bleeding from site proximal to ligament of Treitz.
-- **Presentation:** Hematemesis (bright red or coffee-ground), melena, or hematochezia (in massive hemorrhage).
+- **Presentation:** [[Gastrointestinal/Hematemesis\|Hematemesis]] (bright red or coffee-ground), melena, or hematochezia (in massive hemorrhage).
 - **Therapeutic Goals:** Resuscitation, volume/blood replacement, platelet/coagulation factor correction, bleeding source identification/control, recurrent bleeding prevention.
 
 ## INITIAL ASSESSMENT & STABILIZATION

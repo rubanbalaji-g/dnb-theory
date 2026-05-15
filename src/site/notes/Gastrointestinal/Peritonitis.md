@@ -8,13 +8,13 @@
 - Etiologies include infectious, autoimmune, neoplastic, or chemical processes.
 - Classified into primary (spontaneous), secondary, and tertiary forms.
 
-## Acute Primary Peritonitis
+## Acute Primary [[Gastrointestinal/Peritonitis\|Peritonitis]]
 
 ### Pathophysiology & Etiology
 
 - Bacterial infection of peritoneal cavity without demonstrable intra-abdominal source.
 - Originates outside abdomen; seeds peritoneal cavity via hematogenous, lymphatic, or transmural spread.
-- Occurs predominantly in children with pre-existing ascites (cirrhosis, nephrotic syndrome).
+- Occurs predominantly in children with pre-existing ascites (cirrhosis, [[Nephrology/Nephrotic Syndrome\|nephrotic syndrome]]).
 - Hypoalbuminemia increases infection risk.
 - Pathogens: Typically monomicrobial. Pneumococci (most common), group A streptococci, enterococci, staphylococci, _Escherichia coli_, _Klebsiella pneumoniae_.
 - Rare causes: _Mycobacterium tuberculosis_, _Neisseria meningitidis_.
@@ -27,7 +27,7 @@
 - Rebound tenderness, abdominal rigidity, hypoactive or absent bowel sounds.
 - Signs may be subtle in cirrhotic patients; suspect in cases of unexplained leukocytosis, azotemia, or metabolic acidosis.
 
-## Acute Secondary Peritonitis
+## Acute Secondary [[Gastrointestinal/Peritonitis\|Peritonitis]]
 
 ### Pathophysiology & Etiology
 
@@ -44,13 +44,13 @@
 - Rebound tenderness, abdominal wall rigidity, paucity of body motion (patient lies perfectly still).
 - Decreased or absent bowel sounds secondary to paralytic ileus.
 - Massive fluid exudation into peritoneal cavity and systemic vasodilative substances lead to rapid shock development.
-- Complications: Basilar atelectasis, intrapulmonary shunting, acute respiratory distress syndrome.
+- Complications: Basilar atelectasis, intrapulmonary shunting, acute [[Neonatalogy/Respiratory Distress Syndrome\|respiratory distress syndrome]].
 
 ## Diagnosis & Management
 
 ### Comparative Evaluation & Treatment
 
-|Feature|Acute Primary Peritonitis|Acute Secondary Peritonitis|
+|Feature|Acute Primary [[Gastrointestinal/Peritonitis\|Peritonitis]]|Acute Secondary [[Gastrointestinal/Peritonitis\|Peritonitis]]|
 |:--|:--|:--|
 |**Diagnostic Imaging**|Dilated intestines, bowel wall thickening, increased loop separation.|Free air in peritoneal cavity, obliteration of psoas shadow, ileus.|
 |**Laboratory Findings**|Peripheral leukocytosis with polymorphonuclear (PMN) predominance.|Peripheral WBC count >12,000 cells/mm³ with marked PMN predominance.|
@@ -59,7 +59,7 @@
 |**Medical Management**|Broad-spectrum parenteral antibiotics (cefotaxime or ceftriaxone) for 5-10 days.|Aggressive fluid resuscitation, cardiovascular support, broad-spectrum antibiotics (ampicillin + gentamicin + clindamycin/metronidazole, or piperacillin/tazobactam).|
 |**Surgical Management**|Not indicated. Diagnosed via paracentesis, CT, or laparoscopy.|Surgical emergency. Requires exploration, lavage, and repair of perforated viscus post-stabilization.|
 
-## Acute Secondary Localized Peritonitis (Peritoneal Abscess)
+## Acute Secondary Localized [[Gastrointestinal/Peritonitis\|Peritonitis]] (Peritoneal Abscess)
 
 ### Pathophysiology & Clinical Features
 

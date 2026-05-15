@@ -7,28 +7,28 @@
 - **Vomiting:** Forceful oral expulsion of gastric contents associated with contraction of abdominal and chest wall musculature.
 - **Regurgitation:** Involuntary, effortless expulsion of small amounts of gastric contents unaccompanied by nausea or abdominal muscular contraction,.
 - **Pathophysiology:** Mediated by intestinal visceral afferent nerves stimulating the vomiting center in the central nervous system (CNS).
-- **Complications:** Dehydration, hypokalemic hypochloremic metabolic alkalosis, malnutrition,. Vigorous vomiting risks mucosal tear (Mallory-Weiss syndrome), esophageal rupture (Boerhaave syndrome). Severe vomiting causes aspiration pneumonia, shock, pneumomediastinum, and petechiae.
+- **Complications:** Dehydration, hypokalemic hypochloremic metabolic alkalosis, malnutrition,. Vigorous vomiting risks mucosal tear (Mallory-Weiss syndrome), esophageal rupture (Boerhaave syndrome). Severe vomiting causes [[Respiratory/Aspiration Pneumonia\|aspiration pneumonia]], shock, pneumomediastinum, and petechiae.
 
 ## ETIOLOGY BY AGE
 
 |Age Group|Acute/Common Causes|Chronic/Persistent Causes|
 |:--|:--|:--|
-|**Infant (1–12 mo)**|Gastroenteritis, systemic infection, overfeeding, anatomic obstruction, pertussis,.|Gastroesophageal Reflux Disease (GERD), eosinophilic esophagitis, [[Gastrointestinal/Celiac disease\|celiac disease]], adrenal insufficiency, Hirschsprung disease.|
+|**Infant (1–12 mo)**|Gastroenteritis, systemic infection, overfeeding, anatomic obstruction, pertussis,.|Gastroesophageal Reflux Disease ([[Gastrointestinal/GERD\|GERD]]), eosinophilic esophagitis, [[Gastrointestinal/Celiac disease\|celiac disease]], adrenal insufficiency, [[Gastrointestinal/Hirschsprung disease\|Hirschsprung disease]].|
 |**Child (1–11 y)**|Gastroenteritis, systemic infection, toxic ingestion, medications, sinusitis, otitis media,.|Peptic ulcer disease (PUD), gastroparesis, [[Gastrointestinal/Celiac disease\|celiac disease]], eosinophilic esophagitis, cyclic vomiting syndrome.|
-|**Adolescent (12–18 y)**|Gastroenteritis, appendicitis, toxic ingestion, drug overdose, diabetic ketoacidosis,.|Pregnancy, eating disorders (bulimia), cannabinoid hyperemesis syndrome, superior mesenteric artery syndrome,.|
+|**Adolescent (12–18 y)**|Gastroenteritis, appendicitis, toxic ingestion, drug overdose, diabetic ketoacidosis,.|Pregnancy, [[Development/Eating Disorders\|eating disorders]] (bulimia), cannabinoid hyperemesis syndrome, superior mesenteric artery syndrome,.|
 
 ## ETIOLOGY BY ORGAN SYSTEM
 
 |System|Conditions|
 |:--|:--|
 |**Gastrointestinal**|Pyloric stenosis, malrotation, intussusception, appendicitis, pancreatitis, cholecystitis, hepatitis, foreign body impaction.|
-|**Neurologic**|Brain tumor, hydrocephalus, pseudotumor cerebri, migraine, seizure, meningitis, Chiari malformation.|
-|**Metabolic/Endocrine**|Urea cycle defect, organic acidopathy, galactosemia, diabetic ketoacidosis, adrenal insufficiency.|
+|**Neurologic**|Brain tumor, [[Neurology/Hydrocephalus\|hydrocephalus]], [[Neurology/Pseudotumor Cerebri\|pseudotumor cerebri]], [[Neurology/Migraine\|migraine]], seizure, [[Neurology/Meningitis\|meningitis]], Chiari malformation.|
+|**Metabolic/Endocrine**|Urea cycle defect, organic acidopathy, [[Metabolic Disorders/Galactosemia\|galactosemia]], diabetic ketoacidosis, adrenal insufficiency.|
 |**Respiratory/Misc.**|Pneumonia, sinusitis, sepsis, pregnancy, Munchausen by proxy, psychogenic vomiting.|
 
 ## DIFFERENTIAL DIAGNOSIS OF SPECIFIC CONDITIONS
 
-### Idiopathic Hypertrophic Pyloric Stenosis
+### Idiopathic [[Gastrointestinal/Hypertrophic Pyloric Stenosis\|Hypertrophic Pyloric Stenosis]]
 
 - **Presentation:** Non-bilious, projectile vomiting immediately after feeding,. Onset typically between 3 and 6 weeks of age,.
 - **Pathophysiology:** Thickened, elongated pylorus causing gastric outlet obstruction.
@@ -54,7 +54,7 @@
 Presence mandates immediate admission and urgent evaluation,.
 
 - Bilious emesis (green vomit suggests malrotation/volvulus until proven otherwise),.
-- Hematemesis or gastrointestinal bleeding,.
+- [[Gastrointestinal/Hematemesis\|Hematemesis]] or gastrointestinal bleeding,.
 - Severe abdominal pain with distension or tenderness,.
 - Persistent tachycardia or hypotension.
 - Neck stiffness, photophobia, altered mentation, bulging fontanelle, seizures,,.

@@ -43,7 +43,7 @@
 
 ### Clinical Examples
 
-- Cystic Fibrosis, Sickle Cell Anemia, Thalassemia, [[Metabolic Disorders/Phenylketonuria\|Phenylketonuria]], and Spinal Muscular Atrophy.
+- [[Respiratory/Cystic Fibrosis\|Cystic Fibrosis]], Sickle Cell Anemia, [[Hematology/Thalassemia\|Thalassemia]], [[Metabolic Disorders/Phenylketonuria\|Phenylketonuria]], and [[Neuromuscular/Spinal Muscular Atrophy\|Spinal Muscular Atrophy]].
 
 ## X-Linked Recessive Inheritance
 
@@ -57,11 +57,11 @@
 ### Clinical Nuances
 
 - Heterozygous females may occasionally display symptoms due to skewed X-inactivation, known as Lyonization.
-- Females with Turner syndrome can express X-linked recessive traits due to the presence of only a single X chromosome.
+- Females with [[Genetics/Turner Syndrome\|Turner syndrome]] can express X-linked recessive traits due to the presence of only a single X chromosome.
 
 ### Clinical Examples
 
-- Duchenne Muscular Dystrophy, Hemophilia A and B, and Glucose-6-Phosphate Dehydrogenase deficiency.
+- Duchenne Muscular Dystrophy, [[Hematology/Hemophilia A\|Hemophilia A]] and B, and [[Hematology/Glucose-6-Phosphate Dehydrogenase Deficiency\|Glucose-6-Phosphate Dehydrogenase deficiency]].
 
 ## X-Linked Dominant Inheritance
 

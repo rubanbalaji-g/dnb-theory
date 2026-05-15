@@ -4,7 +4,7 @@
 
 ## Introduction and Epidemiology
 
-Williams syndrome is a rare, multisystem neurodevelopmental microdeletion disorder with an estimated incidence of 1 in 7,500 to 10,000 live births. It occurs equally in both sexes and across all ethnic groups.
+[[Genetics/Williams Syndrome\|Williams syndrome]] is a rare, multisystem neurodevelopmental microdeletion disorder with an estimated incidence of 1 in 7,500 to 10,000 live births. It occurs equally in both sexes and across all ethnic groups.
 
 ## Molecular Genetics and Pathogenesis
 
@@ -26,7 +26,7 @@ The condition is caused by a heterozygous contiguous gene deletion (1.5 to 1.8 m
 |**Neurocognitive**|Mild mental retardation (average IQ ~50), engaging extrovert ("cocktail party") personality, good verbal and language skills contrasting with poor mathematical and visuospatial abilities, generalized anxiety, and hyperacusis.|
 |**Endocrine**|Neonatal hypercalcemia, hypercalciuria, and hypothyroidism.|
 |**Gastrointestinal**|Severe colic and feeding difficulties in infancy, gastroesophageal reflux disease, chronic constipation, diverticulitis, and rectal prolapse.|
-|**Renal**|Structural abnormalities, renal artery stenosis, and nephrocalcinosis.|
+|**Renal**|Structural abnormalities, [[Nephrology/Renal Artery Stenosis\|renal artery stenosis]], and nephrocalcinosis.|
 |**Musculoskeletal**|Generalized joint laxity in early childhood progressing to contractures, kyphoscoliosis, radioulnar synostosis, and small widely spaced peg-shaped teeth.|
 
 ## Diagnostic Evaluation

@@ -35,9 +35,9 @@
 |Life Stage|Clinical Manifestations|
 |:--|:--|
 |Prenatal And Newborn|- Often undetected, but anomaly scans may reveal increased nuchal translucency or cystic hygroma. - Normal male genitalia at birth, sometimes accompanied by subtle hypotonia or a small phallus.|
-|Childhood|- Tall stature with long limbs and eunuchoid proportions, typically crossing above the 75th percentile by 5 to 8 years of age. - Mild learning difficulties, reading disorders, poor motor coordination, and behavioral issues such as shyness, social withdrawal, and ADHD. - Subtle dysmorphism including a long face, clinodactyly, and pes planus.|
+|Childhood|- Tall stature with long limbs and eunuchoid proportions, typically crossing above the 75th percentile by 5 to 8 years of age. - Mild learning difficulties, reading disorders, poor motor coordination, and behavioral issues such as shyness, social withdrawal, and [[Development/ADHD\|ADHD]]. - Subtle dysmorphism including a long face, clinodactyly, and pes planus.|
 |Adolescence And Adulthood|- Delayed or absent puberty, small firm testes (<4 mL), and gynecomastia affecting 50 to 75% of individuals. - Sparse facial and body hair, high-pitched voice, reduced muscle mass, and fatigue. - Infertility secondary to azoospermia in over 95% of non-mosaic cases.|
-|Associated Comorbidities|- Increased risk of osteoporosis, metabolic syndrome, and a four-fold increased risk of type 2 diabetes. - Autoimmune diseases such as systemic lupus erythematosus and thyroiditis. - Psychiatric vulnerabilities including anxiety, depression, and a 5 to 10-fold increased risk of schizophrenia.|
+|Associated Comorbidities|- Increased risk of osteoporosis, [[Endocrinology/Metabolic Syndrome\|metabolic syndrome]], and a four-fold increased risk of type 2 diabetes. - Autoimmune diseases such as systemic lupus erythematosus and thyroiditis. - Psychiatric vulnerabilities including anxiety, depression, and a 5 to 10-fold increased risk of schizophrenia.|
 
 ## Diagnostic Investigations
 
@@ -70,14 +70,14 @@
 ### Surgical And Fertility Interventions
 
 - Testicular sperm extraction (TESE) combined with ICSI yields a 40 to 50% success rate in adolescents and adults.
-- Orchidopexy is indicated if cryptorchidism is present to mitigate the increased risk of germ cell tumors.
+- Orchidopexy is indicated if cryptorchidism is present to mitigate the increased risk of [[Hematology/Germ Cell Tumors\|germ cell tumors]].
 - Surgical mastectomy is considered for post-pubertal gynecomastia if it remains persistent and distressing.
 
 ### Neurodevelopmental And Comorbidity Support
 
 - Early intervention incorporates speech therapy, occupational therapy, and special education programs.
-- Behavioral therapy is targeted at managing ADHD and anxiety.
-- Annual screening is conducted for metabolic syndrome, lipid profile abnormalities, thyroid dysfunction, and bone health.
+- Behavioral therapy is targeted at managing [[Development/ADHD\|ADHD]] and anxiety.
+- Annual screening is conducted for [[Endocrinology/Metabolic Syndrome\|metabolic syndrome]], lipid profile abnormalities, thyroid dysfunction, and bone health.
 
 ## Genetic Counselling And Prognosis
 
@@ -88,5 +88,5 @@
 ### Indian Context And Guidelines
 
 - The condition remains underdiagnosed in India due to subtle childhood features, though detection is improving with expanded prenatal screening.
-- The Rashtriya Bal Swasthya Karyakram (RBSK) provides free karyotyping and multidisciplinary care under its 4Ds initiative.
+- The [[Social Pediatics/Rashtriya Bal Swasthya Karyakram (RBSK)\|Rashtriya Bal Swasthya Karyakram (RBSK)]] provides free [[Genetics/Karyotyping\|karyotyping]] and multidisciplinary care under its 4Ds initiative.
 - ICMR 2024 guidelines mandate offering karyotype testing in boys presenting with tall stature accompanied by hypogonadism or learning disabilities.

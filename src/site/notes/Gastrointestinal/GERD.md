@@ -5,9 +5,9 @@
 ## Definition And Epidemiology
 
 - **Gastroesophageal Reflux (GER):** Involuntary, physiologic retrograde passage of gastric contents into the esophagus, with or without regurgitation.
-- **Gastroesophageal Reflux Disease (GERD):** GER that leads to troublesome symptoms or complications, such as esophagitis, nutritional compromise, or respiratory disease.
+- **Gastroesophageal Reflux Disease ([[Gastrointestinal/GERD\|GERD]]):** GER that leads to troublesome symptoms or complications, such as esophagitis, nutritional compromise, or respiratory disease.
 - **Epidemiology:** Physiologic GER peaks at 4 months of age and resolves in 88% to 95% of infants by 12 to 24 months.
-- **High-Risk Populations:** Children with neurologic impairment (e.g., cerebral palsy), obesity, repaired esophageal atresia, hiatal hernia, cystic fibrosis, and prematurity.
+- **High-Risk Populations:** Children with neurologic impairment (e.g., [[Neurology/Cerebral Palsy\|cerebral palsy]]), obesity, repaired esophageal atresia, hiatal hernia, [[Respiratory/Cystic Fibrosis\|cystic fibrosis]], and prematurity.
 
 ## Pathophysiology
 
@@ -31,7 +31,7 @@
 
 |System|Manifestations|
 |---|---|
-|**Respiratory**|Chronic cough, wheezing, asthma exacerbations, recurrent aspiration pneumonia, stridor, laryngomalacia.|
+|**Respiratory**|Chronic cough, wheezing, [[Respiratory/Asthma\|asthma]] exacerbations, recurrent [[Respiratory/Aspiration Pneumonia\|aspiration pneumonia]], stridor, laryngomalacia.|
 |**Otolaryngologic**|Hoarseness, vocal cord nodules, recurrent otitis media, sinusitis, globus pharyngeus.|
 |**Neurologic/Other**|Apnea, bradycardia, brief resolved unexplained event, dental erosions on the lingual surface.|
 
@@ -40,9 +40,9 @@
 Presence of these signs mandates immediate investigation to exclude organic or systemic disorders.
 
 - Bilious or persistent forceful vomiting.
-- Gastrointestinal bleeding (hematemesis, hematochezia).
+- Gastrointestinal bleeding ([[Gastrointestinal/Hematemesis\|hematemesis]], hematochezia).
 - Onset of regurgitation or vomiting beyond 6 months of age, or persisting beyond 12 to 18 months.
-- Bulging fontanelle, macrocephaly, microcephaly, or seizures.
+- Bulging fontanelle, macrocephaly, [[Neurology/Microcephaly\|microcephaly]], or seizures.
 - Unexplained lethargy, fever, or weight loss.
 - Hepatosplenomegaly or abdominal distension.
 
@@ -53,7 +53,7 @@ Presence of these signs mandates immediate investigation to exclude organic or s
 |**Multichannel Intraluminal Impedance-pH (MII-pH)**|Superior to pH monitoring alone; detects acid, weakly acidic, and non-acid reflux episodes. Crucial for correlating symptoms (especially respiratory/apnea) with reflux events.|
 |**24-Hour pH Monitoring**|Validated for quantifying acid exposure (pH < 4) and evaluating the efficacy of acid-suppressive therapy.|
 |**Esophagogastroduodenoscopy (EGD) With Biopsy**|Identifies mucosal breaks, erosions, strictures, and Barrett's esophagus. Mandatory to exclude eosinophilic esophagitis (>15 eosinophils/HPF) or infectious esophagitis.|
-|**Barium Contrast (Upper GI Series)**|Not useful for diagnosing GERD; indicated exclusively to rule out anatomic abnormalities like malrotation, strictures, or hiatal hernia.|
+|**Barium Contrast (Upper GI Series)**|Not useful for diagnosing [[Gastrointestinal/GERD\|GERD]]; indicated exclusively to rule out anatomic abnormalities like malrotation, strictures, or hiatal hernia.|
 |**Empiric PPI Trial**|4-8 week trial justified in older children with typical symptoms (heartburn), but contraindicated for infants presenting solely with crying or distress.|
 
 ## Management Protocol
@@ -67,19 +67,19 @@ Presence of these signs mandates immediate investigation to exclude organic or s
 
 ### Pharmacotherapy
 
-- **Proton Pump Inhibitors (PPIs):** First-line therapy for severe or erosive GERD (e.g., Omeprazole, Lansoprazole). Administer 30 minutes before breakfast. Adverse effects include headache, diarrhea, hypomagnesemia, and altered microbiome.
+- **Proton Pump Inhibitors (PPIs):** First-line therapy for severe or erosive [[Gastrointestinal/GERD\|GERD]] (e.g., Omeprazole, Lansoprazole). Administer 30 minutes before breakfast. Adverse effects include headache, diarrhea, hypomagnesemia, and altered microbiome.
 - **H2-Receptor Antagonists:** Alternative for mild esophagitis (e.g., Ranitidine, Famotidine). Efficacy is limited by rapid tachyphylaxis with chronic use.
 - **Prokinetics:** Agents like metoclopramide or domperidone have limited routine use due to severe side effects like extrapyramidal symptoms and QT prolongation, reserving them strictly for documented gastroparesis.
 
 ### Surgical Intervention
 
-- **Indications:** Intractable GERD failing maximal medical therapy, life-threatening complications (recurrent aspiration, apnea), refractory strictures, or dependence on chronic medical therapy.
+- **Indications:** Intractable [[Gastrointestinal/GERD\|GERD]] failing maximal medical therapy, life-threatening complications (recurrent aspiration, apnea), refractory strictures, or dependence on chronic medical therapy.
 - **Procedure:** Laparoscopic Fundoplication (Nissen 360°, or partial wraps like Toupet/Thal).
 - **Complications:** Wrap slippage, gas-bloat syndrome, retching, dysphagia, and recurrent reflux.
 
 ## Complications
 
-- **Erosive Esophagitis:** Mucosal breaks and bleeding manifesting as hematemesis or anemia.
+- **Erosive Esophagitis:** Mucosal breaks and bleeding manifesting as [[Gastrointestinal/Hematemesis\|hematemesis]] or anemia.
 - **Peptic Stricture:** Fibrosis causing esophageal narrowing and progressive solid dysphagia, requiring serial endoscopic balloon dilatations.
 - **Barrett's Esophagus:** Premalignant metaplastic transformation into intestinal columnar epithelium, carrying a 40-fold increased risk of esophageal adenocarcinoma.
 - **Sandifer Syndrome:** Spasmodic torsional dystonia, opisthotonic posturing, and arching of the back associated with reflux events.

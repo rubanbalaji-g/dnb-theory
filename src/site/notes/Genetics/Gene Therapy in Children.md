@@ -12,7 +12,7 @@
 
 |Mechanism|Description|Clinical Utility and Examples|
 |:--|:--|:--|
-|Gene Addition (Replacement)|Introduction of a functional copy of a gene to compensate for a defective or missing gene.|Most common for recessive disorders. Example: delivering a functional SMN1 gene in Spinal Muscular Atrophy.|
+|Gene Addition (Replacement)|Introduction of a functional copy of a gene to compensate for a defective or missing gene.|Most common for recessive disorders. Example: delivering a functional SMN1 gene in [[Neuromuscular/Spinal Muscular Atrophy\|Spinal Muscular Atrophy]].|
 |Gene Editing|Precise modification of the endogenous genomic sequence using engineered nucleases.|Utilizes CRISPR/Cas9, Zinc Finger Nucleases (ZFNs), or TALENs for targeted double-stranded breaks or base editing.|
 |Gene Silencing (Knockdown)|Reduction of the expression of a toxic gain-of-function mutant gene or disease-contributing gene.|Uses Antisense Oligonucleotides (ASOs) or RNA interference (RNAi) to degrade targeted mRNA or alter splicing.|
 
@@ -42,16 +42,16 @@
 
 |Disease Category|Specific Condition|Approved Product / Strategy|Delivery Route|
 |:--|:--|:--|:--|
-|Neuromuscular|Spinal Muscular Atrophy|Onasemnogene abeparvovec (AAV9 targeting SMN1); Nusinersen (ASO targeting SMN2),,.|Intravenous; Intrathecal,.|
+|Neuromuscular|[[Neuromuscular/Spinal Muscular Atrophy\|Spinal Muscular Atrophy]]|Onasemnogene abeparvovec (AAV9 targeting SMN1); Nusinersen (ASO targeting SMN2),,.|Intravenous; Intrathecal,.|
 |Neuromuscular|Duchenne Muscular Dystrophy|Eteplirsen, Golodirsen (Exon-skipping ASOs),.|Intrathecal; Subcutaneous.|
-|Hematological|Transfusion-Dependent Thalassemia and Sickle Cell Disease|Betibeglogene autotemcel (Lentiviral beta-globin addition); Exagamglogene autotemcel (CRISPR silencing of BCL11A).|Ex vivo autologous stem cell transfer.|
-|Hematological|Hemophilia A and B|Valoctocogene roxaparvovec (AAV5 for Factor VIII); Etranacogene dezaparvovec (AAV5 for Factor IX).|Intravenous.|
+|Hematological|Transfusion-Dependent [[Hematology/Thalassemia\|Thalassemia]] and [[Hematology/Sickle Cell Disease\|Sickle Cell Disease]]|Betibeglogene autotemcel (Lentiviral beta-globin addition); Exagamglogene autotemcel ([[Genetics/CRISPR\|CRISPR]] silencing of BCL11A).|Ex vivo autologous stem cell transfer.|
+|Hematological|[[Hematology/Hemophilia A\|Hemophilia A]] and B|Valoctocogene roxaparvovec (AAV5 for Factor VIII); Etranacogene dezaparvovec (AAV5 for Factor IX).|Intravenous.|
 |Ophthalmology|Leber Congenital Amaurosis|Voretigene neparvovec-rzyl (AAV2 delivering normal RPE65),.|Subretinal injection.|
-|Oncology|Refractory B-cell Acute Lymphoblastic Leukemia|CAR-T Cell Therapy (Genetically modifying T-cells to express Chimeric Antigen Receptors targeting CD19).|Ex vivo autologous T-cell infusion.|
+|Oncology|Refractory B-cell [[Hematology/Acute Lymphoblastic Leukemia\|Acute Lymphoblastic Leukemia]]|CAR-T Cell Therapy (Genetically modifying T-cells to express Chimeric Antigen Receptors targeting CD19).|Ex vivo autologous T-cell infusion.|
 
 ## Challenges and Limitations
 
-- **Insertional Mutagenesis:** Integration of viral vectors near proto-oncogenes can trigger oncogenesis, such as leukemia observed in early severe combined immunodeficiency (SCID) trials,.
+- **Insertional Mutagenesis:** Integration of viral vectors near proto-oncogenes can trigger oncogenesis, such as leukemia observed in early [[Infectious Diseases/Severe Combined Immunodeficiency (SCID)\|severe combined immunodeficiency (SCID)]] trials,.
 - **Immunogenicity:** Pre-existing antibodies against viral vectors (like AAV) can neutralize the therapy. High-dose AAV can also trigger severe hepatotoxicity or thrombotic microangiopathy.
 - **Genotoxicity and Off-Target Effects:** Gene editing tools may cause unintended double-strand breaks at genomic sites sharing sequence homology, posing long-term oncogenic risks,.
 - **Economic Barriers:** High manufacturing costs lead to exceptionally expensive treatments, severely limiting accessibility in low- and middle-income countries.

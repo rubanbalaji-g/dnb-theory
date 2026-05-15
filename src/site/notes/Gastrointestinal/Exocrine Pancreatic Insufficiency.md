@@ -12,16 +12,16 @@
 
 ### Pathomechanisms
 
-- **Cystic Fibrosis (CF):** CFTR gene mutations impair apical chloride and bicarbonate transport. Secretions become acidic, dehydrated, and protein-rich, causing intraluminal plugging,. Results in acinar degeneration, fibrosis, and progressive fatty replacement,.
-- **Shwachman-Diamond Syndrome (SDS):** Characterized by extensive fatty infiltration of the pancreas without ductal involvement.
+- **[[Respiratory/Cystic Fibrosis\|Cystic Fibrosis]] (CF):** CFTR gene mutations impair apical chloride and bicarbonate transport. Secretions become acidic, dehydrated, and protein-rich, causing intraluminal plugging,. Results in acinar degeneration, fibrosis, and progressive fatty replacement,.
+- **[[Hematology/Shwachman-Diamond syndrome (SDS)\|Shwachman-Diamond Syndrome (SDS)]]:** Characterized by extensive fatty infiltration of the pancreas without ductal involvement.
 - **Secondary Insufficiency:** Proximal small bowel mucosal inflammation ([[Gastrointestinal/Celiac disease\|celiac disease]], Crohn disease) impairs release of secretin and cholecystokinin (CCK), removing trophic stimulation for pancreatic secretion.
 
 ## Etiological Classification
 
 |Category|Specific Disorders|
 |:--|:--|
-|**Primary/Genetic Defects**|Cystic fibrosis (most common).Shwachman-Diamond syndrome.Johanson-Blizzard syndrome.Pearson marrow-pancreas syndrome.Isolated enzyme deficiencies (lipase, enterokinase, trypsinogen).Hereditary pancreatitis (PRSS1, SPINK1 mutations).|
-|**Secondary/Acquired Defects**|Chronic pancreatitis.Severe protein-calorie malnutrition.[[Gastrointestinal/Celiac disease\|Celiac disease]],.Inflammatory bowel disease,.Surgical resection (pancreatectomy, gastrectomy, extensive bowel resection).|
+|**Primary/Genetic Defects**|[[Respiratory/Cystic Fibrosis\|Cystic fibrosis]] (most common).Shwachman-Diamond syndrome.Johanson-Blizzard syndrome.Pearson marrow-pancreas syndrome.Isolated enzyme deficiencies (lipase, enterokinase, trypsinogen).Hereditary pancreatitis (PRSS1, SPINK1 mutations).|
+|**Secondary/Acquired Defects**|[[Gastrointestinal/Chronic Pancreatitis\|Chronic pancreatitis]].Severe protein-calorie malnutrition.[[Gastrointestinal/Celiac disease\|Celiac disease]],.Inflammatory bowel disease,.Surgical resection (pancreatectomy, gastrectomy, extensive bowel resection).|
 
 ## Clinical Features
 
@@ -32,13 +32,13 @@
 
 ## Diagnostic Evaluation
 
-### Indirect Pancreatic Function Tests
+### Indirect [[Gastrointestinal/Pancreatic Function Tests\|Pancreatic Function Tests]]
 
 - **Fecal Elastase-1:** Monoclonal ELISA assay highly specific to human enzyme. Test of choice due to broad availability and ease. Value <200 ug/g suggests insufficiency; <100 ug/g confirms severe insufficiency,. Unaffected by exogenous porcine enzyme therapy. May yield false-low results in watery diarrhea.
 - **72-Hour Fecal Fat Excretion:** Gold standard for quantifying fat malabsorption,. Coefficient of fat absorption <93% (in children >6 months) indicates abnormality. Cumbersome, low patient compliance.
 - **Serum Immunoreactive Trypsinogen (IRT):** Elevated in newborns with CF; subnormal levels in older children indicate pancreatic acinar destruction,.
 
-### Direct Pancreatic Function Tests
+### Direct [[Gastrointestinal/Pancreatic Function Tests\|Pancreatic Function Tests]]
 
 - Involves endoscopic or tube collection of duodenal fluid following intravenous secretin or CCK stimulation.
 - Measures pH, fluid volume, bicarbonate, and specific enzyme concentrations,.

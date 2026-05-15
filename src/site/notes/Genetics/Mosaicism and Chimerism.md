@@ -28,10 +28,10 @@
 
 |Category|Syndrome/Condition|Key Clinical Manifestations|
 |:--|:--|:--|
-|**Chromosomal Mosaicism**|Mosaic Turner Syndrome (45,X/46,XX)|Milder cardiac and renal anomalies compared to classical form; spontaneous menarche in 10-20% proportional to 46,XX cell burden.|
+|**Chromosomal Mosaicism**|Mosaic [[Genetics/Turner Syndrome\|Turner Syndrome]] (45,X/46,XX)|Milder cardiac and renal anomalies compared to classical form; spontaneous menarche in 10-20% proportional to 46,XX cell burden.|
 ||Pallister-Killian Syndrome|Mosaic tetrasomy 12p; profound intellectual disability, coarse facies, diaphragmatic hernia; detectable in skin fibroblasts, often normal blood karyotype.|
 ||Mixed Gonadal Dysgenesis (45,X/46,XY)|Ambiguous genitalia, asymmetric gonads (streak and testis), elevated gonadoblastoma risk.|
-|**Single-Gene Somatic Mosaicism**|McCune-Albright Syndrome|Activating _GNAS_ mutation; polyostotic fibrous dysplasia, coast-of-Maine café-au-lait macules, precocious puberty.|
+|**Single-Gene Somatic Mosaicism**|[[Endocrinology/McCune-Albright Syndrome\|McCune-Albright Syndrome]]|Activating _GNAS_ mutation; polyostotic fibrous dysplasia, coast-of-Maine café-au-lait macules, precocious puberty.|
 ||Proteus Syndrome|Activating _AKT1_ mutation; progressive asymmetric overgrowth, cerebriform connective-tissue nevi, lipomas, tumor predisposition.|
 ||PIK3CA-Related Overgrowth Spectrum|Encompasses CLOVES and MCAP; asymmetric overgrowth, vascular anomalies, brain malformations.|
 |**Chimerism**|Ovotesticular Disorder of Sex Development|46,XX/46,XY chimerism causing true hermaphroditism, ambiguous genitalia, ovotestes, gonadoblastoma risk.|
@@ -40,7 +40,7 @@
 ## Diagnostic Evaluation
 
 - **Clinical Prompts:** Suspect mosaicism or chimerism in patients demonstrating Blaschko-line skin lesions, body asymmetry, hemihypertrophy, discordant twin phenotypes, or ambiguous genitalia.
-- **Karyotyping:** Analyze peripheral blood examining a minimum of 20-50 metaphases to detect low-level ( $\ge$ 5-10%) mosaicism. If blood is unyielding, utilize skin fibroblasts, buccal smears, or gonadal tissue.
+- **[[Genetics/Karyotyping\|Karyotyping]]:** Analyze peripheral blood examining a minimum of 20-50 metaphases to detect low-level ( $\ge$ 5-10%) mosaicism. If blood is unyielding, utilize skin fibroblasts, buccal smears, or gonadal tissue.
 - **Fluorescence In Situ Hybridization (FISH):** Highly sensitive for detecting 1-5% mosaicism; utilizes tissue-specific probes, critical for sex chromosome mosaicism or 12p in Pallister-Killian.
 - **Next-Generation Sequencing:** Employs high depth (>1000x) targeted panels to identify low-allele-frequency somatic variants (1-5%), preferred for _GNAS_, _AKT1_, and _PIK3CA_ defects.
 - **Chimerism Testing:** Short-tandem-repeat or single nucleotide polymorphism genotyping across multiple tissues (blood, skin, hair roots) is mandatory; demonstrating four parental alleles unequivocally confirms tetragametic chimerism.
@@ -48,7 +48,7 @@
 ## Management And Surveillance
 
 - **Surgical And Orthopedic Interventions:** Corrective procedures for limb overgrowth in Proteus syndrome, macroglossia reduction in Beckwith-Wiedemann syndrome, and management of fibrous dysplasia fractures.
-- **Endocrine Management:** Aromatase inhibitors or selective estrogen receptor modulators for precocious puberty in McCune-Albright syndrome.
+- **Endocrine Management:** Aromatase inhibitors or selective estrogen receptor modulators for precocious puberty in [[Endocrinology/McCune-Albright Syndrome\|McCune-Albright syndrome]].
 - **Neoplastic Surveillance:** Stringent abdominal ultrasound and alpha-fetoprotein monitoring for embryonal tumors in Beckwith-Wiedemann syndrome. Prophylactic gonadectomy is mandated for streak or dysgenetic gonads containing Y chromosome material due to a 5-30% lifetime gonadoblastoma risk.
 - **Chimerism Specifics:** Gender assignment relies on gonadal function potential; involves lifelong hormone replacement and fertility counseling.
 
@@ -58,6 +58,6 @@
 | :--------------------------- | :--------------------------------------------------------------------------- | :------------------------------------------------------------------- |
 | **Embryonic Origin**         | Single zygote (post-zygotic mutational event).                               | Multiple zygotes (fusion or exchange).                               |
 | **Genotypic Concordance**    | Usually uniform sex chromosomes across cells (unless sex-chromosome mosaic). | Frequently demonstrates 46,XX/46,XY admixture.                       |
-| **Diagnostic Confirmation**  | Multi-tissue deep sequencing or karyotyping.                                 | Multi-locus genotyping demonstrating four distinct parental alleles. |
+| **Diagnostic Confirmation**  | Multi-tissue deep sequencing or [[Genetics/Karyotyping\|karyotyping]].                                 | Multi-locus genotyping demonstrating four distinct parental alleles. |
 | **Recurrence Risk**          | Low, though germline mosaicism conveys empiric sibling risk.                 | Sporadic with negligible recurrence risk.                            |
 | **Classic Phenotypic Clues** | Blaschko-line pigmentary changes, pronounced asymmetry.                      | True hermaphroditism, blood-group discrepancies.                     |

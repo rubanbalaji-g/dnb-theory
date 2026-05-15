@@ -4,7 +4,7 @@
 
 ## DEFINITION & PATHOPHYSIOLOGY
 
-- **Hematemesis:** Expulsion of blood in vomitus.
+- **[[Gastrointestinal/Hematemesis\|Hematemesis]]:** Expulsion of blood in vomitus.
 - **Source:** Indicates upper gastrointestinal (UGI) bleeding proximal to ligament of Treitz (duodenojejunal flexure).
 - **Appearance:** Bright red or "coffee-ground".
 - **Mechanism of Coffee-Ground:** Degradation of heme by gastric acid signifies prolonged contact with gastric secretions.
@@ -22,9 +22,9 @@
 
 |Pathology|Clinical Features & Nuances|
 |:--|:--|
-|**Esophageal/Gastric Varices**|Painless, massive bleeding. Associated with portal hypertension, splenomegaly, ascites, caput medusae, cirrhosis, or extrahepatic portal venous obstruction (EHPVO).|
+|**Esophageal/Gastric Varices**|Painless, massive bleeding. Associated with [[Gastrointestinal/Portal Hypertension\|portal hypertension]], splenomegaly, ascites, caput medusae, cirrhosis, or extrahepatic portal venous obstruction (EHPVO).|
 |**Peptic Ulcer Disease (PUD)**|Epigastric pain, nausea, weight loss. Associated with _Helicobacter pylori_, NSAID use, corticosteroids. Secondary ulcers linked to stress (Cushing/Curling ulcers).|
-|**Mallory-Weiss Syndrome**|Mucosal tear at gastro-esophageal junction. History of nonbloody emesis/severe retching eventually converting to hematemesis. Self-limiting.|
+|**Mallory-Weiss Syndrome**|Mucosal tear at gastro-esophageal junction. History of nonbloody emesis/severe retching eventually converting to [[Gastrointestinal/Hematemesis\|hematemesis]]. Self-limiting.|
 |**Swallowed Maternal Blood**|Seen in neonates/breastfeeding infants. Bleeding from maternal nipple or swallowed during delivery. Diagnosed via Apt-Downey test (differentiates fetal from adult hemoglobin).|
 |**Foreign Body / Caustic Ingestion**|History of ingestion. Dysphagia, drooling, stridor. Button batteries mandate emergent removal (<2 hours).|
 |**Dieulafoy Lesion**|Abnormally enlarged submucosal arteriole. Presents as massive, abrupt GI hemorrhage in otherwise healthy child.|
@@ -34,7 +34,7 @@
 ### Initial Assessment & Bedside Tests
 
 - **Hemodynamic Assessment:** Assess for shock, tachycardia, hypotension, orthostatic changes (increase in pulse >20 beats/min or decrease in systolic BP >10 mm Hg upon sitting).
-- **Physical Examination:** Look for splenomegaly (most specific finding for varices in children). Check for jaundice, ascites, palmar erythema, spider nevi (chronic liver disease).
+- **Physical Examination:** Look for splenomegaly (most specific finding for varices in children). Check for jaundice, ascites, palmar erythema, spider nevi ([[Gastrointestinal/Chronic Liver Disease\|chronic liver disease]]).
 - **Nasogastric (NG) Lavage:** Normal saline lavage confirms UGI source and assesses for active, ongoing bleeding. Transpyloric (duodenal) bleeding may be missed.
 - **Apt-Downey Test:** Mandatory in neonates/nursing infants to exclude swallowed maternal blood.
 

@@ -4,7 +4,7 @@
 
 ## Introduction and Epidemiology
 
-- Recognized as the most common inherited cause of intellectual disability and autism spectrum disorder.
+- Recognized as the most common inherited cause of intellectual disability and [[Development/Autism Spectrum Disorder\|autism spectrum disorder]].
 - Incidence is approximately 1 in 4000 to 5000 males and 1 in 8000 females.
 - Accounts for 30-50% of X-linked intellectual disability.
 
@@ -23,7 +23,7 @@
 |Normal|<45|Unaffected phenotype.|
 |Intermediate|45-54|Unaffected, but may exhibit instability during meiosis.|
 |Premutation|55-200|Associated with RNA toxicity leading to Fragile X-associated Tremor/Ataxia Syndrome (FXTAS) or Primary Ovarian Insufficiency (FXPOI).|
-|Full Mutation|>200|Classic Fragile X syndrome resulting from absent FMRP.|
+|Full Mutation|>200|Classic [[Genetics/Fragile X Syndrome\|Fragile X syndrome]] resulting from absent FMRP.|
 
 ## Clinical Features
 
@@ -50,4 +50,4 @@
 
 - Affected males transmit the premutation to all daughters, confirming no male-to-male transmission.
 - Carrier females face a 50% chance of transmitting the mutation; the risk of expansion to a full mutation corresponds with maternal repeat size, exceeding 90% if >100 repeats are present.
-- Prenatal diagnosis is accessible via chorionic villus sampling or amniocentesis utilizing TP-PCR.
+- Prenatal diagnosis is accessible via chorionic villus sampling or [[Neonatalogy/Amniocentesis\|amniocentesis]] utilizing TP-PCR.

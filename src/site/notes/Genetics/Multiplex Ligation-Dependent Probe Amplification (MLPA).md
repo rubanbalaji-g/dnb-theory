@@ -46,7 +46,7 @@
 
 ### Neuromuscular And Neurodevelopmental Disorders
 
-- **Spinal Muscular Atrophy (SMA)**: Gold standard first-line diagnostic test. Accurately quantifies SMN1 and SMN2 copy numbers to confirm diagnosis and predict phenotypic severity.
+- **[[Neuromuscular/Spinal Muscular Atrophy\|Spinal Muscular Atrophy]] (SMA)**: Gold standard first-line diagnostic test. Accurately quantifies SMN1 and SMN2 copy numbers to confirm diagnosis and predict phenotypic severity.
 - **Duchenne/Becker Muscular Dystrophy (DMD/BMD)**: Detects large exonic deletions and duplications in the DMD gene, accounting for 65-75% of pathogenic variants.
 - **Rett Syndrome**: Detects large deletions or duplications in the MECP2 gene.
 - **[[Neuromuscular/Charcot-Marie-Tooth Disease\|Charcot-Marie-Tooth Disease]] Type 1A (CMT1A)**: Detects PMP22 gene duplication.
@@ -59,12 +59,12 @@
 ### Microdeletion And Microduplication Syndromes
 
 - Evaluates subtelomeric rearrangements, a significant cause of idiopathic intellectual disability.
-- Detects classical contiguous gene deletion syndromes like DiGeorge Syndrome (22q11.2) and Williams Syndrome (7q11.23).
+- Detects classical contiguous gene deletion syndromes like DiGeorge Syndrome (22q11.2) and [[Genetics/Williams Syndrome\|Williams Syndrome]] (7q11.23).
 
 ## Advantages And Limitations
 
 |Feature|Advantages|Limitations|
 |---|---|---|
 |**Diagnostic Scope**|High multiplexing capacity (up to 50-60 distinct genomic targets in a single tube).|Targeted approach; detects copy number changes only in specific sequences targeted by the probes.|
-|**Resolution Limits**|Capable of detecting single exon deletions/duplications, exceeding the resolution of standard FISH or karyotyping.|Cannot detect balanced rearrangements (translocations, inversions), point mutations, intronic variants, or triplet repeats.|
+|**Resolution Limits**|Capable of detecting single exon deletions/duplications, exceeding the resolution of standard FISH or [[Genetics/Karyotyping\|karyotyping]].|Cannot detect balanced rearrangements (translocations, inversions), point mutations, intronic variants, or triplet repeats.|
 |**Logistics**|Cost-effective, high throughput, and requires minute amounts of genomic DNA (as low as 20 ng).|Susceptible to benign Single Nucleotide Polymorphisms (SNPs) at the ligation site, which can falsely indicate a deletion (allele drop-out).|

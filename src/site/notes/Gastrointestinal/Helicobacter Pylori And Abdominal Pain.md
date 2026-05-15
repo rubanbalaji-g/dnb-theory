@@ -21,11 +21,11 @@
 
 ## Association With Chronic Abdominal Pain
 
-- **Lack Of Causal Link:** Meta-analyses of multiple pediatric trials show absolutely no evidence linking general recurrent abdominal pain to _H. pylori_ infection in children.
+- **Lack Of Causal Link:** Meta-analyses of multiple pediatric trials show absolutely no evidence linking general [[Gastrointestinal/Recurrent Abdominal Pain\|recurrent abdominal pain]] to _H. pylori_ infection in children.
 - **Specific Pain Pattern:** Epigastric pain is the only pain phenotype demonstrating a significant statistical association with _H. pylori_ infection.
 - **Underlying Organic Disease:** Abdominal pain is definitively linked to _H. pylori_ only when the gastritis has progressed to secondary structural damage, such as duodenal or gastric peptic ulceration.
-- **Diagnostic Recommendations:** Routine screening for _H. pylori_ is strictly not recommended in children fulfilling Rome IV criteria for functional abdominal pain without alarm signs.
-- **Justified Testing:** Investigation is justified exclusively for suspected organic disease (PUD), refractory iron deficiency anemia, or chronic idiopathic thrombocytopenic purpura.
+- **Diagnostic Recommendations:** Routine screening for _H. pylori_ is strictly not recommended in children fulfilling Rome IV criteria for [[Gastrointestinal/Functional Abdominal Pain\|functional abdominal pain]] without alarm signs.
+- **Justified Testing:** Investigation is justified exclusively for suspected organic disease (PUD), refractory [[Hematology/Iron Deficiency Anemia\|iron deficiency anemia]], or chronic idiopathic thrombocytopenic purpura.
 
 ## Clinical Evaluation And Diagnosis
 

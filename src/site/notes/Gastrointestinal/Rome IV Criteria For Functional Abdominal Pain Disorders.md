@@ -27,7 +27,7 @@
 - Pain lacks association with defecation.
 - Subdivided into postprandial distress syndrome and epigastric pain syndrome.
 
-### Abdominal Migraine
+### Abdominal [[Neurology/Migraine\|Migraine]]
 
 - Criteria fulfilled for minimum 6 months prior to diagnosis.
 - Minimum two paroxysmal episodes of intense, acute periumbilical, midline, or diffuse pain.
@@ -38,13 +38,13 @@
 - Pain associates with minimum two secondary features.
 - Secondary features include anorexia, nausea, vomiting, headache, photophobia, pallor.
 
-### Functional Abdominal Pain Not Otherwise Specified
+### [[Gastrointestinal/Functional Abdominal Pain\|Functional Abdominal Pain]] Not Otherwise Specified
 
 - Symptoms persist for 2 to 6 months.
 - Pain occurs minimum 4 times per month.
 - Features episodic or continuous abdominal pain.
 - Pain lacks association with physiologic events including eating or menses.
-- Exhibits insufficient criteria for irritable bowel syndrome, functional dyspepsia, or abdominal migraine.
+- Exhibits insufficient criteria for irritable bowel syndrome, functional dyspepsia, or abdominal [[Neurology/Migraine\|migraine]].
 
 ## Comparative Summary
 
@@ -52,5 +52,5 @@
 |:--|:--|:--|:--|
 |Irritable bowel syndrome|$\ge$ 4 days/month|2 months|Pain related to defecation, altered stool frequency, or altered stool form.|
 |Functional dyspepsia|$\ge$ 4 days/month|2 months|Postprandial fullness, early satiation, or epigastric pain/burning.|
-|Abdominal migraine|$\ge$ 2 discrete episodes|6 months|Intense paroxysmal periumbilical/midline pain lasting $\ge$ 1 hour; associated vasomotor/somatic signs.|
-|Functional abdominal pain not otherwise specified|$\ge$ 4 times/month|2-6 months|Episodic/continuous pain lacking criteria for other specific functional disorders.|
+|Abdominal [[Neurology/Migraine\|migraine]]|$\ge$ 2 discrete episodes|6 months|Intense paroxysmal periumbilical/midline pain lasting $\ge$ 1 hour; associated vasomotor/somatic signs.|
+|[[Gastrointestinal/Functional Abdominal Pain\|Functional abdominal pain]] not otherwise specified|$\ge$ 4 times/month|2-6 months|Episodic/continuous pain lacking criteria for other specific functional disorders.|

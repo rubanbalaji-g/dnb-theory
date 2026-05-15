@@ -16,11 +16,11 @@
 ## Clinical Manifestations
 
 - Primarily short, self-limited acute illness.
-- Clinical features mimic hepatitis A but often present more severely.
+- Clinical features mimic [[Gastrointestinal/Hepatitis A\|hepatitis A]] but often present more severely.
 - Exhibits jaundice, malaise, anorexia, fever, abdominal pain, arthralgias.
 - Peak incidence targets older adolescents and young adults (15-34 years).
 - Acts as cytopathic virus causing hepatocellular injury.
-- Acute liver failure risk markedly elevated in pregnant women; mortality approaches 25%,.
+- [[Gastrointestinal/Acute Liver Failure\|Acute liver failure]] risk markedly elevated in pregnant women; mortality approaches 25%,.
 - Chronic infection absent in immunocompetent individuals.
 - Chronic cirrhosis/hepatitis develops exclusively in immunosuppressed hosts, including organ transplant recipients,.
 
@@ -35,4 +35,4 @@
 - Therapy strictly supportive for acute, uncomplicated disease.
 - Ribavirin indicated specifically for chronic HEV infection manifesting in immunocompromised hosts.
 - Standard pooled immunoglobulin preparations lack proven preventive efficacy.
-- Recombinant hepatitis E vaccine highly effective in adults; lacks widespread commercial availability,.
+- Recombinant [[Gastrointestinal/Hepatitis E\|hepatitis E]] vaccine highly effective in adults; lacks widespread commercial availability,.

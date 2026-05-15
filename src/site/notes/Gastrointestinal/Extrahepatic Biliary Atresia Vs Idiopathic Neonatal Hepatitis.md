@@ -49,5 +49,5 @@
 |Category|Extrahepatic [[Gastrointestinal/Biliary Atresia\|Biliary Atresia]]|Idiopathic Neonatal Hepatitis|
 |:--|:--|:--|
 |**Primary Treatment**|Urgent surgical intervention; Kasai hepatoportoenterostomy (Roux-en-Y) mandated optimally between 45-60 days of age.|Supportive medical management; nutritional rehabilitation, fat-soluble vitamin supplementation, ursodeoxycholic acid.|
-|**Disease Progression**|Inevitable progression to end-stage liver disease, portal hypertension, and biliary cirrhosis without surgical drainage.|Vast majority resolve spontaneously over several months.|
-|**Long-Term Outcome**|Leading indication for pediatric liver transplantation worldwide.|Excellent overall prognosis; rare progression to chronic liver disease.|
+|**Disease Progression**|Inevitable progression to end-stage liver disease, [[Gastrointestinal/Portal Hypertension\|portal hypertension]], and biliary cirrhosis without surgical drainage.|Vast majority resolve spontaneously over several months.|
+|**Long-Term Outcome**|Leading indication for pediatric [[Gastrointestinal/Liver Transplantation\|liver transplantation]] worldwide.|Excellent overall prognosis; rare progression to [[Gastrointestinal/Chronic Liver Disease\|chronic liver disease]].|

@@ -4,7 +4,7 @@
 
 ## pathophysiology
 
-- Results from portal hypertension with hepatic venous pressure gradient >10 mm Hg
+- Results from [[Gastrointestinal/Portal Hypertension\|portal hypertension]] with hepatic venous pressure gradient >10 mm Hg
 - Bleeding risk increases at portal pressures >12 mm Hg
 - Increased resistance diverts portal blood flow to systemic circulation
 - Dilated intraesophageal/gastric veins form
@@ -12,9 +12,9 @@
 
 ## clinical presentation
 
-- Hematemesis (bright red or coffee-ground)
+- [[Gastrointestinal/Hematemesis\|Hematemesis]] (bright red or coffee-ground)
 - Melena or hematochezia
-- Splenomegaly (common in portal hypertension)
+- Splenomegaly (common in [[Gastrointestinal/Portal Hypertension\|portal hypertension]])
 - Pallor, fatigue, hypovolemic shock
 
 ## acute stabilization
@@ -74,4 +74,4 @@
 
 - Transjugular intrahepatic portosystemic shunt (TIPS): Interventional radiology procedure. Metallic stent connects portal and hepatic vein. Reduces portal pressure. Used as bridge to transplant
 - Surgical shunts: Distal splenorenal shunt, meso-caval shunt, or Meso-Rex bypass. Indicated for preserved synthetic liver function
-- Liver transplantation: Definitive treatment for underlying end-stage liver disease or fulminant failure
+- [[Gastrointestinal/Liver Transplantation\|Liver transplantation]]: Definitive treatment for underlying end-stage liver disease or fulminant failure

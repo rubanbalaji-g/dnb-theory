@@ -13,7 +13,7 @@
 
 ### Clinical Indications
 
-- First-tier diagnostic test for unexplained intellectual disability, global developmental delay, and autism spectrum disorder.
+- First-tier diagnostic test for unexplained intellectual disability, [[Development/Global Developmental Delay\|global developmental delay]], and [[Development/Autism Spectrum Disorder\|autism spectrum disorder]].
 - Multiple congenital anomalies lacking a specific syndromic pattern.
 - Unexplained seizure disorders, dysmorphic facial features, and short stature.
 
@@ -21,8 +21,8 @@
 
 |Parameter|Advantages|Limitations|
 |:--|:--|:--|
-|**Diagnostic yield**|15-20% in complex developmental presentations, vastly superior to traditional karyotyping (3%).|Generates Variants of Uncertain Significance (VUS), requiring parental testing for interpretation.|
-|**Resolution**|Up to 50-fold higher than conventional karyotyping; detects single-exon anomalies (10-50 kilobases).|Cannot detect single nucleotide variants or point mutations.|
+|**Diagnostic yield**|15-20% in complex developmental presentations, vastly superior to traditional [[Genetics/Karyotyping\|karyotyping]] (3%).|Generates Variants of Uncertain Significance (VUS), requiring parental testing for interpretation.|
+|**Resolution**|Up to 50-fold higher than conventional [[Genetics/Karyotyping\|karyotyping]]; detects single-exon anomalies (10-50 kilobases).|Cannot detect single nucleotide variants or point mutations.|
 |**Structural detection**|Does not require dividing cells or cell cultures, allowing faster turnaround.|Cannot detect balanced translocations, inversions, triplet repeats, or low-level mosaicism (<20-30%).|
 
 ## DNA Sequencing Technologies
@@ -30,9 +30,9 @@
 ### Modalities
 
 - **Sanger Sequencing:** Gold standard utilizing chain-terminating dideoxynucleotides during in vitro replication. Used for targeted testing of known precise single-gene mutations and cascade family screening.
-- **Next-Generation Sequencing (NGS):** Massively parallel sequencing of millions of short DNA fragments simultaneously.
+- **[[Genetics/Next-Generation Sequencing (NGS)\|Next-Generation Sequencing (NGS)]]:** Massively parallel sequencing of millions of short DNA fragments simultaneously.
     - **Targeted Gene Panels:** Interrogates specific sets of genes associated with overlapping phenotypes (e.g., epilepsy or neuromuscular panels).
-    - **Whole Exome Sequencing (WES):** Targets protein-coding regions (1-2% of the genome) harboring ~85% of disease-causing mutations. Yields 25-40% diagnostic success in rare genetic disorders.
+    - **Whole [[Genetics/Exome Sequencing\|Exome Sequencing]] (WES):** Targets protein-coding regions (1-2% of the genome) harboring ~85% of disease-causing mutations. Yields 25-40% diagnostic success in rare genetic disorders.
     - **Whole Genome Sequencing (WGS):** Sequences entire coding and non-coding (intronic/regulatory) regions, providing 3,000 times more data than microarray.
 
 ### Clinical Indications
@@ -55,6 +55,6 @@
 |Feature|Chromosomal Microarray|Next-Generation Sequencing|
 |:--|:--|:--|
 |**Primary target**|Copy number variations, microdeletions, microduplications.|Single nucleotide variants, small insertions/deletions.|
-|**First-tier indication**|Unexplained intellectual disability, global developmental delay, autism, congenital anomalies.|Extreme genetic heterogeneity, undiagnosed neurometabolic disorders, indistinct phenotypes.|
+|**First-tier indication**|Unexplained intellectual disability, [[Development/Global Developmental Delay\|global developmental delay]], autism, congenital anomalies.|Extreme genetic heterogeneity, undiagnosed neurometabolic disorders, indistinct phenotypes.|
 |**Resolution**|Submicroscopic to single-exon level.|Single base-pair resolution.|
 |**Major limitations**|Misses balanced translocations, inversions, and single nucleotide variants.|Misses methylation defects, triplet repeats, and large structural deletions (in WES).|

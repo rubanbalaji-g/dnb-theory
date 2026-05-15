@@ -5,12 +5,12 @@
 ## Definition And Classification
 
 - Metabolically induced, potentially reversible functional disturbance of brain.
-- Principal manifestation of acute liver failure and chronic liver disease.
-- **Type A:** Occurs in acute liver failure.
+- Principal manifestation of [[Gastrointestinal/Acute Liver Failure\|acute liver failure]] and [[Gastrointestinal/Chronic Liver Disease\|chronic liver disease]].
+- **Type A:** Occurs in [[Gastrointestinal/Acute Liver Failure\|acute liver failure]].
 - **Type B:** Occurs in portosystemic shunting without intrinsic hepatocellular disease.
-- **Type C:** Occurs in chronic liver disease.
+- **Type C:** Occurs in [[Gastrointestinal/Chronic Liver Disease\|chronic liver disease]].
 - **Subclassifications of Type C:** Minimal, episodic, or persistent.
-- **Minimal Hepatic Encephalopathy (Covert HE):** Subclinical manifestation detectable exclusively via psychometric tests or electrophysiological techniques. Compromises attention, processing speed, and psychomotor performance.
+- **Minimal [[Gastrointestinal/Hepatic Encephalopathy\|Hepatic Encephalopathy]] (Covert HE):** Subclinical manifestation detectable exclusively via psychometric tests or electrophysiological techniques. Compromises attention, processing speed, and psychomotor performance.
 
 ## Pathophysiology
 
@@ -69,7 +69,7 @@
 
 - Diagnosis relies primarily on clinical history and examination.
 - Utilize Wechsler intelligence tests or Dutch child intelligence test for neuropsychological assessment.
-- Psychometric hepatic encephalopathy score lacks validation in children.
+- Psychometric [[Gastrointestinal/Hepatic Encephalopathy\|hepatic encephalopathy]] score lacks validation in children.
 
 ### Electrophysiological And Imaging Modalities
 
@@ -113,4 +113,4 @@
 
 ### Definitive Therapy
 
-- Liver transplantation remains sole definitive treatment for reversing chronic hepatic encephalopathy and end-stage liver disease.
+- [[Gastrointestinal/Liver Transplantation\|Liver transplantation]] remains sole definitive treatment for reversing chronic [[Gastrointestinal/Hepatic Encephalopathy\|hepatic encephalopathy]] and end-stage liver disease.

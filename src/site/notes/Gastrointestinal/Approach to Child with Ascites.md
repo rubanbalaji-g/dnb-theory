@@ -7,7 +7,7 @@
 - Pathologic accumulation of fluid within peritoneal cavity.
 - Results from increased hydrostatic and osmotic pressures within hepatic and mesenteric capillaries.
 - Fluid transfer from blood vessels to lymphatics overcomes drainage capacity.
-- Peripheral arterial vasodilation hypothesis: Portal hypertension causes splanchnic vasodilation, leading to decreased effective intravascular volume.
+- Peripheral arterial vasodilation hypothesis: [[Gastrointestinal/Portal Hypertension\|Portal hypertension]] causes splanchnic vasodilation, leading to decreased effective intravascular volume.
 - Baroreceptors trigger renin-angiotensin-aldosterone (RAA) system and antidiuretic hormone release, driving renal sodium and water retention.
 - Decreased plasma colloid osmotic pressure (hypoalbuminemia) further exacerbates fluid shift.
 
@@ -15,12 +15,12 @@
 
 |Category|Specific etiologies|
 |:--|:--|
-|**hepatic/portal hypertension**|Cirrhosis, portal vein thrombosis, Budd-Chiari syndrome, congenital hepatic fibrosis, veno-occlusive disease.|
-|**hypoalbuminemia**|Nephrotic syndrome, protein-losing enteropathy, severe malnutrition.|
-|**cardiac**|Congestive heart failure, constrictive pericarditis.|
-|**fetal/neonatal**|Meconium peritonitis (bowel perforation), parvovirus, urinary tract obstruction (uroascites), hydrops fetalis, biliary ascites.|
+|**hepatic/[[Gastrointestinal/Portal Hypertension\|portal hypertension]]**|Cirrhosis, portal vein thrombosis, Budd-Chiari syndrome, congenital hepatic fibrosis, veno-occlusive disease.|
+|**hypoalbuminemia**|[[Nephrology/Nephrotic Syndrome\|Nephrotic syndrome]], protein-losing enteropathy, severe malnutrition.|
+|**cardiac**|Congestive heart failure, constrictive [[Cardiology/Pericarditis\|pericarditis]].|
+|**fetal/neonatal**|Meconium [[Gastrointestinal/Peritonitis\|peritonitis]] (bowel perforation), parvovirus, urinary tract obstruction (uroascites), hydrops fetalis, biliary ascites.|
 |**chylous**|Lymphatic malformations, trauma, thoracic duct injury, post-surgical.|
-|**infectious/inflammatory**|Tuberculous peritonitis, pancreatitis, systemic lupus erythematosus.|
+|**infectious/inflammatory**|Tuberculous [[Gastrointestinal/Peritonitis\|peritonitis]], pancreatitis, systemic lupus erythematosus.|
 
 ## clinical evaluation
 
@@ -44,22 +44,22 @@
 
 - Abdominal ultrasound: Most sensitive modality for ascites detection.
 - Differentiates ascites from obesity or pseudoascites (omental/ovarian cysts).
-- Identifies portal hypertension signs: Splenomegaly, enlarged portal vein.
+- Identifies [[Gastrointestinal/Portal Hypertension\|portal hypertension]] signs: Splenomegaly, enlarged portal vein.
 - Doppler evaluates hepatic vasculature flow and direction.
 
 ### diagnostic paracentesis
 
 - Indicated upon initial detection, hospitalization, or clinical deterioration (fever, pain).
 - Ultrasound-guided tap recommended for loculated ascites.
-- No contraindication for prolonged prothrombin time unless disseminated intravascular coagulation present.
+- No contraindication for prolonged prothrombin time unless [[Hematology/Disseminated Intravascular Coagulation\|disseminated intravascular coagulation]] present.
 
 ### ascitic fluid analysis
 
 |Test|Findings|Interpretation|
 |:--|:--|:--|
-|**serum-ascites albumin gradient (SAAG)**|$\ge$ 1.1 g/dL|Portal hypertension (cirrhosis, fulminant failure, Budd-Chiari).|
-|**SAAG**|< 1.1 g/dL|Non-portal hypertensive (tuberculous peritonitis, nephrotic syndrome).|
-|**polymorphonuclear (PMN) count**|$\ge$ 250 cells/mm3|Spontaneous bacterial peritonitis (SBP).|
+|**serum-ascites albumin gradient (SAAG)**|$\ge$ 1.1 g/dL|[[Gastrointestinal/Portal Hypertension\|Portal hypertension]] (cirrhosis, fulminant failure, Budd-Chiari).|
+|**SAAG**|< 1.1 g/dL|Non-portal hypertensive (tuberculous [[Gastrointestinal/Peritonitis\|peritonitis]], [[Nephrology/Nephrotic Syndrome\|nephrotic syndrome]]).|
+|**polymorphonuclear (PMN) count**|$\ge$ 250 cells/mm3|Spontaneous bacterial [[Gastrointestinal/Peritonitis\|peritonitis]] (SBP).|
 |**lymphocyte count**|Predominant lymphocytes|Tuberculous infection.|
 |**triglycerides**|> 200 mg/dL, milky appearance|Chylous ascites.|
 |**amylase**|Elevated ( > 5x serum level)|Pancreatitis or intestinal perforation.|
@@ -87,11 +87,11 @@
 - Large volume paracentesis: Performed for tense ascites causing respiratory distress or severe pain.
 - Requires concurrent 20% albumin infusion (5 ml/kg) to prevent post-paracentesis circulatory dysfunction and rapid reaccumulation.
 - Transjugular intrahepatic portosystemic shunting (TIPS): Diverts portal blood flow, decreases portal pressure. Used as bridge to transplant.
-- Liver transplantation: Definitive treatment for ascites associated with end-stage liver disease, hypoalbuminemia, or recurrent SBP.
+- [[Gastrointestinal/Liver Transplantation\|Liver transplantation]]: Definitive treatment for ascites associated with end-stage liver disease, hypoalbuminemia, or recurrent SBP.
 
 ## complications
 
-### spontaneous bacterial peritonitis (SBP)
+### spontaneous bacterial [[Gastrointestinal/Peritonitis\|peritonitis]] (SBP)
 
 - Spontaneous infection of ascitic fluid without intra-abdominal source.
 - Pathogenesis: Bacterial translocation from gut to mesenteric lymph nodes, impaired immune clearance.

@@ -4,12 +4,12 @@
 
 ## Overview And Pathophysiology
 
-- Assess exocrine pancreatic insufficiency (EPI).
+- Assess [[Gastrointestinal/Exocrine Pancreatic Insufficiency\|exocrine pancreatic insufficiency]] (EPI).
 - Normal pancreas possesses massive reserve capacity.
 - Clinical steatorrhea and severe malabsorption manifest only after 90-98% destruction of acinar cell mass.
 - Categorized primarily into direct (stimulatory) and indirect (non-stimulatory) tests.
 
-## Indirect Pancreatic Function Tests
+## Indirect [[Gastrointestinal/Pancreatic Function Tests\|Pancreatic Function Tests]]
 
 - Measure downstream consequences of malabsorption or quantify specific pancreatic enzymes in stool, blood, or breath.
 - Preferred for initial screening; highly sensitive for moderate-to-severe EPI; exhibits low sensitivity for mild disease.
@@ -39,7 +39,7 @@
 
 - Measures cationic trypsinogen escaping into bloodstream from damaged pancreas.
 - **Clinical Utility:**
-    - Newborn screening for cystic fibrosis: Markedly elevated at birth due to ductal obstruction.
+    - [[Neonatalogy/Newborn Screening\|Newborn screening]] for [[Respiratory/Cystic Fibrosis\|cystic fibrosis]]: Markedly elevated at birth due to ductal obstruction.
     - Declines progressively as pancreatic acinar mass undergoes fibrotic destruction over time.
     - Levels <20 ng/mL specific for established EPI.
     - Evaluates pancreatic phenotype in Shwachman-Diamond syndrome (low levels in children <3 years).
@@ -57,7 +57,7 @@
 - Less sensitive and specific exocrine marker.
 - Cross-reacts with porcine enzymes; utilized primarily to monitor PERT compliance in established EPI.
 
-## Direct Pancreatic Function Tests
+## Direct [[Gastrointestinal/Pancreatic Function Tests\|Pancreatic Function Tests]]
 
 - Evaluate direct acinar and ductal secretory capacity.
 - Utilize intravenous secretagogues: cholecystokinin (CCK) (stimulates acinar enzyme secretion) and/or secretin (stimulates ductal fluid/bicarbonate secretion).
@@ -65,12 +65,12 @@
 ### Test Modalities
 
 - **Endoscopic Pancreatic Function Testing (ePFT):** Intravenous secretin/CCK administered. Duodenal fluid aspirated endoscopically after 10 minutes. Fluid analyzed for volume, pH, bicarbonate, and enzymes. Bicarbonate <80 mmol/L indicates exocrine insufficiency.
-- **Secretin-Enhanced Magnetic Resonance Cholangiopancreatography (MR PFT):** Non-invasive, radiation-free alternative quantifying fluid output and ductal morphology. Pediatric standardization and protocols remain pending.
+- **Secretin-Enhanced Magnetic Resonance Cholangiopancreatography (MR [[Respiratory/PFT\|PFT]]):** Non-invasive, radiation-free alternative quantifying fluid output and ductal morphology. Pediatric standardization and protocols remain pending.
 
 ### Clinical Utility And Limitations
 
 - Gold standard for precise exocrine function assessment.
-- High sensitivity and specificity; detects early, mild chronic pancreatitis before overt steatorrhea develops.
+- High sensitivity and specificity; detects early, mild [[Gastrointestinal/Chronic Pancreatitis\|chronic pancreatitis]] before overt steatorrhea develops.
 - **Disadvantages:** Invasive, expensive, technically challenging. Requires sedation or general anesthesia. Lacks standardized pediatric protocols. False abnormalities possible in diabetes, celiac sprue, or advanced liver disease.
 
 ## Comparative Summary
@@ -81,4 +81,4 @@
 |**Sensitivity**|High (detects mild/early disease).|Low for mild disease; High for severe EPI.|
 |**Invasiveness**|Invasive (requires endoscopy/intubation).|Non-invasive.|
 |**Complexity**|High cost, technically demanding, sedation needed.|Low cost, simple outpatient processing (FE-1).|
-|**Primary Utility**|Equivocal diagnoses, early chronic pancreatitis.|Routine EPI screening, Cystic Fibrosis monitoring.|
+|**Primary Utility**|Equivocal diagnoses, early [[Gastrointestinal/Chronic Pancreatitis\|chronic pancreatitis]].|Routine EPI screening, [[Respiratory/Cystic Fibrosis\|Cystic Fibrosis]] monitoring.|

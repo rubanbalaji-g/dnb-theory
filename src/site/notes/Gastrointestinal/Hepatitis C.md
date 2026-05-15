@@ -78,5 +78,5 @@ Recent advancements utilize pangenotypic agents, eliminating necessity for preli
 ## Surveillance And Prognosis
 
 - Infected patients require regular screening with abdominal ultrasonography and serum alpha-fetoprotein to monitor for hepatocellular carcinoma.
-- Mandate vaccination against Hepatitis A and B to prevent severe superimposed hepatic injury.
+- Mandate vaccination against [[Gastrointestinal/Hepatitis A\|Hepatitis A]] and B to prevent severe superimposed hepatic injury.
 - DAA therapies facilitate viral eradication before irreversible fibrotic or cirrhotic damage occurs, yielding excellent long-term prognosis.

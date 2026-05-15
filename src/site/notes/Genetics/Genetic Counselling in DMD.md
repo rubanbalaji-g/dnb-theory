@@ -54,13 +54,13 @@
 - First-trimester combined screening utilizes Nuchal Translucency (NT), Pregnancy-Associated Plasma Protein A (PAPP-A), and free beta-hCG to achieve an 85-90% detection rate,.
 - Non-Invasive Prenatal Testing (NIPT) analyzes cell-free fetal DNA from maternal blood after 10 weeks of gestation, offering >99% sensitivity with a false-positive rate of <0.1%,.
 - Positive screening results must be confirmed with invasive diagnostic procedures.
-- Chorionic Villus Sampling (CVS) can be performed at 10-13 weeks of gestation, carrying a 0.5-1% miscarriage risk,.
-- Amniocentesis is performed at 15-20 weeks of gestation and represents the gold standard with a 0.1-0.3% procedure-related loss risk.
-- Preimplantation Genetic Testing (PGT) combined with In Vitro Fertilization (IVF) is the preferred reproductive option if a parent is identified as a balanced translocation carrier.
+- [[Neonatalogy/Chorionic Villus Sampling (CVS)\|Chorionic Villus Sampling (CVS)]] can be performed at 10-13 weeks of gestation, carrying a 0.5-1% miscarriage risk,.
+- [[Neonatalogy/Amniocentesis\|Amniocentesis]] is performed at 15-20 weeks of gestation and represents the gold standard with a 0.1-0.3% procedure-related loss risk.
+- [[Genetics/Preimplantation Genetic Testing\|Preimplantation Genetic Testing]] (PGT) combined with In Vitro Fertilization (IVF) is the preferred reproductive option if a parent is identified as a balanced translocation carrier.
 
 ## Psychosocial Support
 
 - Address emotional reactions, including shock, denial, guilt, and grief.
 - Discourage discussions regarding institutionalization unless explicitly asked by the parents.
 - Connect families with support networks, such as the Down Syndrome Federation of India.
-- Inform parents about government schemes, financial assistance for therapies, and disability certification.
+- Inform parents [[About\|about]] government schemes, financial assistance for therapies, and disability certification.

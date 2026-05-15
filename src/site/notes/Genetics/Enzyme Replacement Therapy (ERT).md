@@ -4,8 +4,8 @@
 
 ## Definition And Principles
 
-- Enzyme replacement therapy (ERT) involves the intravenous or intrathecal administration of recombinant or purified human lysosomal enzymes.
-- It aims to replace deficient enzymes in lysosomal storage disorders (LSDs) and other metabolic conditions, thereby preventing or reversing toxic substrate accumulation.
+- [[Genetics/Enzyme Replacement Therapy (ERT)\|Enzyme replacement therapy (ERT)]] involves the intravenous or intrathecal administration of recombinant or purified human lysosomal enzymes.
+- It aims to replace deficient enzymes in [[Metabolic Disorders/Lysosomal Storage Disorders\|lysosomal storage disorders]] (LSDs) and other metabolic conditions, thereby preventing or reversing toxic substrate accumulation.
 - ERT provides a continuous exogenous enzyme supply but is not curative, necessitating lifelong therapy.
 
 ## Mechanism Of Action And Pathophysiology

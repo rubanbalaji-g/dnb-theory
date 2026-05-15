@@ -40,7 +40,7 @@
 
 ## Clinical Implications And Pathophysiology
 
-- **Translocation Down Syndrome:** This mechanism accounts for 3-4% of all Down syndrome cases and, unlike trisomy 21, is not associated with advancing maternal age. It mandates parental karyotyping, as carrier parents present a high recurrence risk.
+- **Translocation Down Syndrome:** This mechanism accounts for 3-4% of all Down syndrome cases and, unlike trisomy 21, is not associated with advancing maternal age. It mandates parental [[Genetics/Karyotyping\|karyotyping]], as carrier parents present a high recurrence risk.
 - **Uniparental Disomy (UPD):** Robertsonian translocations elevate the risk of UPD due to trisomy rescue mechanisms, causing conditions such as maternal UPD 14 (Temple syndrome) or paternal UPD 14 (Kagami-Ogata syndrome).
 - **Intellectual Disability And Anomalies:** Unbalanced translocations frequently manifest with significant developmental delays and multiple congenital anomalies, including midline and cardiac malformations.
 
@@ -48,7 +48,7 @@
 
 |Diagnostic Test|Utility In Translocation Detection|
 |:--|:--|
-|G-Banded Karyotyping|Serves as the gold standard for detecting balanced and unbalanced translocations and requires live dividing cells.|
+|G-Banded [[Genetics/Karyotyping\|Karyotyping]]|Serves as the gold standard for detecting balanced and unbalanced translocations and requires live dividing cells.|
 |FISH|Employs specific probes to identify translocations rapidly and is useful for detecting cryptic translocations.|
 |CMA|Highly sensitive for identifying unbalanced translocations by detecting copy number variations, but it cannot detect balanced translocations.|
 |NGS|Whole genome sequencing identifies translocation breakpoints at the nucleotide sequence level, aiding in detecting disrupted genes in balanced individuals exhibiting abnormal phenotypes.|
@@ -59,5 +59,5 @@
     - For a female carrier of a t(14;21) translocation, the risk of having a child with Down syndrome is approximately 10-15%.
     - For a male carrier of a t(14;21) translocation, the risk is approximately 1-2% due to sperm competition and selection factors.
     - A carrier of a t(21q21q) translocation faces a 100% recurrence risk for Down syndrome in all live-born offspring.
-- **Reproductive Options:** Prenatal diagnosis is facilitated via chorionic villus sampling or amniocentesis. Pre-implantation genetic testing for structural rearrangements (PGT-SR) allows couples to select balanced or normal embryos before implantation.
+- **Reproductive Options:** Prenatal diagnosis is facilitated via chorionic villus sampling or [[Neonatalogy/Amniocentesis\|amniocentesis]]. Pre-implantation genetic testing for structural rearrangements (PGT-SR) allows couples to select balanced or normal embryos before implantation.
 - **Family Screening:** Pedigree analysis is strictly mandatory for all families with a child diagnosed with an unbalanced translocation to identify any phenotypically silent carriers.

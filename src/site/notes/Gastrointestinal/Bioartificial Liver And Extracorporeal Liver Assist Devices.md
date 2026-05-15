@@ -14,7 +14,7 @@
 
 - Interrupts autointoxication cycle via toxin removal.
 - Provides opportunity for native liver regeneration.
-- Evaluated as temporary bridge to liver transplantation or spontaneous regeneration.
+- Evaluated as temporary bridge to [[Gastrointestinal/Liver Transplantation\|liver transplantation]] or spontaneous regeneration.
 
 ## Ideal Extracorporeal Liver Support System
 

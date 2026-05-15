@@ -22,7 +22,7 @@
 - Pediatric infections predominately asymptomatic.
 - Prodromal phase features serum sickness-like syndrome: arthralgia, macular/urticarial rashes, papular acrodermatitis (Gianotti-Crosti syndrome).
 - Acute symptomatic phase: anorexia, nausea, malaise, fatigue, jaundice.
-- Extrahepatic manifestations: polyarteritis nodosa, membranous glomerulonephritis, leukocytoclastic vasculitis, [[Neuromuscular/Guillain-Barré Syndrome\|Guillain-Barré syndrome]], aplastic anemia.
+- Extrahepatic manifestations: polyarteritis nodosa, membranous glomerulonephritis, leukocytoclastic vasculitis, [[Neuromuscular/Guillain-Barré Syndrome\|Guillain-Barré syndrome]], [[Hematology/Aplastic Anemia\|aplastic anemia]].
 
 ## Diagnostic Serology
 
@@ -47,7 +47,7 @@
 
 ### General Measures
 
-- Acute infection requires supportive care; monitor synthetic function assessing for acute liver failure.
+- Acute infection requires supportive care; monitor synthetic function assessing for [[Gastrointestinal/Acute Liver Failure\|acute liver failure]].
 - Goal of chronic therapy: Suppress viral replication (undetectable DNA), induce HBeAg to anti-HBe seroconversion, prevent cirrhosis and hepatocellular carcinoma.
 - Treatment strictly indicated for immune-active phase (persistently elevated ALT, DNA >20,000 IU/mL, active fibrosis).
 
@@ -63,11 +63,11 @@
 ## Prevention Strategies
 
 - **Universal Vaccination:** Recombinant vaccine administered at birth, 1-2 months, and 6 months. Induces protective anti-HBs titers (>10 mIU/mL) in >90-95% of recipients.
-- **Perinatal Prophylaxis:** Hepatitis B immunoglobulin (HBIG) plus Hepatitis B vaccine administered at separate anatomical sites within 12 hours of birth for infants born to HBsAg-positive mothers. Prevents >95% of transmissions.
+- **Perinatal Prophylaxis:** [[Gastrointestinal/Hepatitis B\|Hepatitis B]] immunoglobulin (HBIG) plus [[Gastrointestinal/Hepatitis B\|Hepatitis B]] vaccine administered at separate anatomical sites within 12 hours of birth for infants born to HBsAg-positive mothers. Prevents >95% of transmissions.
 - **Maternal Therapy:** Administer antiviral therapy (tenofovir or telbivudine) during third trimester to HBsAg-positive pregnant women demonstrating high viral loads (HBV DNA >200,000 IU/mL) to reduce vertical transmission risk.
 
 ## Complications
 
 - **Liver Cirrhosis:** Develops in 3-10% of children with chronic infection.
 - **Hepatocellular Carcinoma (HCC):** Risk elevated 100-fold in chronic carriers; occurs independently of cirrhosis.
-- **Fulminant Hepatic Failure:** High mortality (>30%). Risk significantly amplified by concurrent Hepatitis D virus superinfection or emergence of precore mutant strains. Requires urgent liver transplantation.
+- **Fulminant Hepatic Failure:** High mortality (>30%). Risk significantly amplified by concurrent [[Gastrointestinal/Hepatitis D\|Hepatitis D]] virus superinfection or emergence of precore mutant strains. Requires urgent [[Gastrointestinal/Liver Transplantation\|liver transplantation]].

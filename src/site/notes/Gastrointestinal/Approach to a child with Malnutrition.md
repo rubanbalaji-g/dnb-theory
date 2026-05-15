@@ -41,13 +41,13 @@ Diagnosed in children 6–59 months of age meeting ANY of the following criteria
 
 - **Immediate Causes:** Low birth weight, inadequate dietary intake, recurrent infections (diarrhea, pneumonia).
 - **Underlying/Basic Causes:** Household food insecurity, poor maternal education, inadequate WASH (water, sanitation, hygiene) practices, poverty, cultural taboos.
-- **Mechanism:** Classified as illness-related (increased metabolic demand/losses e.g., congenital heart disease, cystic fibrosis) or non-illness-related (psychosocial, food insecurity).
+- **Mechanism:** Classified as illness-related (increased metabolic demand/losses e.g., congenital heart disease, [[Respiratory/Cystic Fibrosis\|cystic fibrosis]]) or non-illness-related (psychosocial, food insecurity).
 
 ## CLINICAL EVALUATION
 
 ### History
 
-- **Dietary Intake:** 24-hour recall, feeding frequency, complementary feeding initiation, formula preparation.
+- **Dietary Intake:** 24-hour recall, feeding frequency, [[Nutrition/Complementary Feeding\|complementary feeding]] initiation, formula preparation.
 - **Medical:** Birth weight (SGA/IUGR), recurrent infections, [[Gastrointestinal/Chronic Diarrhea\|chronic diarrhea]], vomiting, developmental delay.
 - **Social:** Family income, parental education, feeding dynamics.
 
@@ -55,7 +55,7 @@ Diagnosed in children 6–59 months of age meeting ANY of the following criteria
 
 - **Anthropometry:** Measure weight, length/height, head circumference (<2 years), MUAC, triceps skinfold thickness (TSF).
 - **General:** Assess for hypothermia (<35.5°C axillary), pallor, lethargy, edema (press dorsum of feet for 10 seconds).
-- **Systemic:** Assess for hepatomegaly, specific vitamin deficiencies (e.g., Bitot's spots for Vitamin A, rickets for Vitamin D), perianal excoriation, signs of infection (fever often absent).
+- **Systemic:** Assess for hepatomegaly, specific vitamin deficiencies (e.g., Bitot's spots for [[Nutrition/Vitamin A\|Vitamin A]], rickets for Vitamin D), perianal excoriation, signs of infection (fever often absent).
 - **Dehydration:** Difficult to assess due to loss of subcutaneous fat; look for dry mucous membranes, thirst, weak pulses, oliguria.
 
 ## TRIAGE & SETTING OF CARE
@@ -91,7 +91,7 @@ Restoring homeostasis; avoid weight gain.
 **3. Prevent/Treat Dehydration:**
 
 - Assume some dehydration if watery diarrhea present.
-- Use reduced osmolarity ORS (ReSoMal) with added potassium.
+- Use reduced osmolarity ORS ([[Nutrition/ReSoMal\|ReSoMal]]) with added potassium.
 - Volume: 5-10 mL/kg after each watery stool.
 - Intravenous fluids (Ringer lactate with 5% dextrose or half-normal saline with 5% dextrose) strictly reserved for severe dehydration with shock. Target 15 mL/kg over 1 hour.
 
@@ -109,7 +109,7 @@ Restoring homeostasis; avoid weight gain.
 
 **6. Correct Micronutrient Deficiencies:**
 
-- Vitamin A: Single oral dose on Day 1 (50,000 IU for <6 mo; 100,000 IU for 6-12 mo; 200,000 IU for >12 mo). Repeat on Days 2 and 14 if eye signs or measles present.
+- [[Nutrition/Vitamin A\|Vitamin A]]: Single oral dose on Day 1 (50,000 IU for <6 mo; 100,000 IU for 6-12 mo; 200,000 IU for >12 mo). Repeat on Days 2 and 14 if eye signs or measles present.
 - Folic acid: 5 mg on Day 1, then 1 mg/day.
 - Zinc (2 mg/kg/day) and Copper (0.2-0.3 mg/kg/day).
 - **CRITICAL:** Withhold Iron during stabilization phase (promotes free radical generation and bacterial proliferation).
@@ -139,11 +139,11 @@ Initiated once appetite returns and edema resolves.
 **10. Prepare for Follow-up:**
 
 - Transfer to outpatient care when complications resolve, edema clears, and child eats well.
-- Immunize (e.g., Measles vaccine) and deworm (Albendazole).
+- Immunize (e.g., [[Misc/Measles Vaccine\|Measles vaccine]]) and deworm (Albendazole).
 - Educate caregivers on responsive feeding, hygiene, and energy-dense home foods.
 
 ## COMMUNITY-BASED MANAGEMENT (UNCOMPLICATED SAM)
 
 - **Nutrition:** RUTF (thick paste of milk powder, peanuts, oil, sugar, electrolytes, micronutrients) ensuring 175 kcal/kg/day.
-- **Medical Therapy:** 5-day course of oral Amoxicillin, Albendazole (if >1 yr), and Vitamin A (if deficient).
+- **Medical Therapy:** 5-day course of oral Amoxicillin, Albendazole (if >1 yr), and [[Nutrition/Vitamin A\|Vitamin A]] (if deficient).
 - **Monitoring:** Daily home contact initially, then twice weekly by community health workers (ASHA/ANM). Assess weight, MUAC, and edema weekly. Requires 3-5 months for full nutritional rehabilitation.

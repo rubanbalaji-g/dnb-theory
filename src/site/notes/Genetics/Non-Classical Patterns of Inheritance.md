@@ -39,12 +39,12 @@
 
 |Condition|Repeat Sequence|Parental Expansion Bias|Clinical Phenotype|
 |:--|:--|:--|:--|
-|Fragile X Syndrome|CGG|Maternal|Intellectual impairment, large ears, macroorchidism.|
+|[[Genetics/Fragile X Syndrome\|Fragile X Syndrome]]|CGG|Maternal|Intellectual impairment, large ears, macroorchidism.|
 |Huntington Disease|CAG|Paternal|Loss of motor control, dementia, chorea.|
 |Myotonic Dystrophy|CTG|Maternal (for congenital form)|Muscle loss, cardiac arrhythmia, cataracts.|
 |Friedreich Ataxia|GAA|Inherited from both (Autosomal Recessive)|Progressive limb ataxia, hypertrophic cardiomyopathy.|
 
-## Genomic Imprinting
+## [[Genetics/Genomic Imprinting\|Genomic Imprinting]]
 
 ### Pathophysiology
 
@@ -75,7 +75,7 @@
 ### Pathophysiology
 
 - Presence of two or more genetically distinct cell lines in one individual, derived from a single zygote.
-- Somatic Mosaicism: Occurs after fertilization; early development affects many tissues, while late occurrence causes localized disease (e.g., McCune-Albright Syndrome).
+- Somatic Mosaicism: Occurs after fertilization; early development affects many tissues, while late occurrence causes localized disease (e.g., [[Endocrinology/McCune-Albright Syndrome\|McCune-Albright Syndrome]]).
 - Germline Mosaicism: Mutation is restricted to gonadal precursor cells; parent is phenotypically normal but carries a transmission risk to offspring.
 
 ## Digenic And Oligogenic Inheritance

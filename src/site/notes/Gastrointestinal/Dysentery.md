@@ -15,22 +15,22 @@
 
 ### Primary Categories
 
-- **Bacillary Dysentery:** Bacterial etiology; significantly more common in pediatric populations.
-- **Amebic Dysentery:** Parasitic etiology; insidious onset; less frequent in children.
+- **Bacillary [[Gastrointestinal/Dysentery\|Dysentery]]:** Bacterial etiology; significantly more common in pediatric populations.
+- **Amebic [[Gastrointestinal/Dysentery\|Dysentery]]:** Parasitic etiology; insidious onset; less frequent in children.
 
 ## Etiology And Pathogens
 
 |Pathogen Category|Specific Organisms|Clinical Signatures|
 |:--|:--|:--|
 |**Bacterial (Bacillary)**|_Shigella_ species (_S. dysenteriae, S. flexneri, S. boydii, S. sonnei_)|Most common cause globally. _S. flexneri_ dominates developing nations; _S. dysenteriae_ causes severe epidemics.|
-||Enteroinvasive _Escherichia coli_ (EIEC)|Genetically/clinically resembles _Shigella_; watery diarrhea progressing to dysentery.|
-||Enterohemorrhagic _E. coli_ (EHEC)|Causes hemorrhagic colitis; massive bloody stools; high risk of hemolytic uremic syndrome (HUS).|
+||Enteroinvasive _Escherichia coli_ (EIEC)|Genetically/clinically resembles _Shigella_; watery diarrhea progressing to [[Gastrointestinal/Dysentery\|dysentery]].|
+||Enterohemorrhagic _E. coli_ (EHEC)|Causes hemorrhagic colitis; massive bloody stools; high risk of [[Nephrology/Hemolytic uremic syndrome (HUS)\|hemolytic uremic syndrome (HUS)]].|
 ||_Salmonella_ (Nontyphoidal)|Fever, cramps, vomiting; prolonged shedding; risk of bacteremia in infants/immunocompromised.|
 ||_Campylobacter jejuni_|High fever, severe abdominal pain mimicking appendicitis; aphthoid ulcers on endoscopy.|
 ||_Yersinia enterocolitica_|Prolonged symptoms; pseudoappendicitis (right lower quadrant pain); exudative pharyngitis.|
 ||_Clostridioides difficile_|Post-antibiotic onset; pseudomembranous colitis.|
-|**Parasitic (Amebic)**|_Entamoeba histolytica_|Insidious onset; causes deep flask-shaped mucosal ulcers; potential extraintestinal dissemination (liver abscess).|
-|**Viral**|Adenovirus (types 11 & 21)|Rare cause of dysentery; typically seen in immunocompromised hosts.|
+|**Parasitic (Amebic)**|_Entamoeba histolytica_|Insidious onset; causes deep flask-shaped mucosal ulcers; potential extraintestinal dissemination ([[Gastrointestinal/Liver Abscess\|liver abscess]]).|
+|**Viral**|Adenovirus (types 11 & 21)|Rare cause of [[Gastrointestinal/Dysentery\|dysentery]]; typically seen in immunocompromised hosts.|
 
 ## Pathophysiology
 
@@ -47,7 +47,7 @@
 
 - Enterotoxins induce secretory fluid loss early in disease course (watery diarrhea phase).
 - Shiga toxin (_S. dysenteriae_ type 1, EHEC): Inhibits cellular protein synthesis.
-- Triggers endothelial damage, precipitating microangiopathic hemolytic anemia, thrombocytopenia, and acute kidney injury (HUS).
+- Triggers endothelial damage, precipitating microangiopathic hemolytic anemia, thrombocytopenia, and [[Nephrology/Acute Kidney Injury\|acute kidney injury]] (HUS).
 
 ## Clinical Features
 
@@ -62,7 +62,7 @@
 ### Pathogen-Specific Manifestations
 
 - **Shigellosis:** High fever >40°C, severe tenesmus, potential neurological manifestations (seizures).
-- **Amebiasis:** Gradual, insidious onset; less prominent fever; right upper quadrant pain if liver abscess present.
+- **Amebiasis:** Gradual, insidious onset; less prominent fever; right upper quadrant pain if [[Gastrointestinal/Liver Abscess\|liver abscess]] present.
 
 ## Differential Diagnosis
 
@@ -70,7 +70,7 @@
 |:--|:--|
 |**Intussusception**|Episodic severe colicky pain; red currant-jelly stools (blood and mucoid exudate); palpable right upper quadrant mass; target sign on ultrasound.|
 |**Cow Milk Protein Allergy**|Occurs in infants; bloody loose stools; eczema; anemia; resolves with maternal dietary restriction or hypoallergenic formula.|
-|**Inflammatory Bowel Disease (IBD)**|Chronic course (>2-4 weeks); weight loss; extraintestinal manifestations (aphthous ulcers, joint pains, erythema nodosum, iritis); family history.|
+|**Inflammatory Bowel Disease (IBD)**|Chronic course (>2-4 weeks); weight loss; extraintestinal manifestations (aphthous ulcers, joint pains, [[Misc/Erythema Nodosum\|erythema nodosum]], iritis); family history.|
 |**Necrotizing Enterocolitis**|Premature neonates; abdominal distension; feed intolerance; systemic hemodynamic instability; pneumatosis intestinalis on radiography.|
 |**Pseudomembranous Colitis**|Recent broad-spectrum antibiotic exposure; _C. difficile_ toxins A/B positive.|
 |**Vasculitides**|Henoch-Schönlein purpura (palpable purpura, arthritis, hematuria); Hemolytic Uremic Syndrome (pallor, oliguria, petechiae).|
@@ -89,9 +89,9 @@
 
 - **Renal:** Hemolytic uremic syndrome (_S. dysenteriae_ type 1, STEC).
 - **Neurological:** Seizures, encephalopathy (_Shigella_, STEC).
-- **Rheumatologic:** Reactive arthritis, erythema nodosum (_Shigella_, NTS, _Campylobacter_, _Yersinia_).
+- **Rheumatologic:** Reactive arthritis, [[Misc/Erythema Nodosum\|erythema nodosum]] (_Shigella_, NTS, _Campylobacter_, _Yersinia_).
 - **Neuromuscular:** [[Neuromuscular/Guillain-Barré Syndrome\|Guillain-Barré syndrome]] (_Campylobacter jejuni_).
-- **Hepatic:** Amebic liver abscess (_E. histolytica_).
+- **Hepatic:** Amebic [[Gastrointestinal/Liver Abscess\|liver abscess]] (_E. histolytica_).
 
 ## Diagnostic Evaluation
 ```mermaid
@@ -152,13 +152,13 @@ graph TD
 - **Complete Blood Count (CBC):** Assess for leukocytosis, bandemia (leukemoid reaction in _Shigella_); evaluate smear for schistocytes (HUS screen).
 - **Metabolic Panel:** Assess baseline renal function (BUN, Creatinine) and profound dyselectrolytemia (hypokalemia, metabolic acidosis).
 - **Fecal Biomarkers:** Elevated fecal calprotectin or lactoferrin denotes mucosal inflammation.
-- **Stool Microscopy:** Numerous polymorphonuclear leukocytes indicate invasive bacterial colitis. Pyknotic or absent leukocytes suggest amebic dysentery (amebae destroy neutrophils).
+- **Stool Microscopy:** Numerous polymorphonuclear leukocytes indicate invasive bacterial colitis. Pyknotic or absent leukocytes suggest amebic [[Gastrointestinal/Dysentery\|dysentery]] (amebae destroy neutrophils).
 
 ### Microbiological Assays
 
 - **Stool Culture:** Isolate _Salmonella_, _Shigella_, _Campylobacter_ (requires microaerobic conditions, 42°C), _Yersinia_.
-- **Toxin Assays:** _C. difficile_ toxin A/B EIA, Glutamate Dehydrogenase (GDH) antigen test, NAAT.
-- **Molecular Panels:** Multiplex PCR / Nucleic Acid Amplification Tests (NAAT) highly sensitive for rapid pathogen identification.
+- **Toxin Assays:** _C. difficile_ toxin A/B EIA, Glutamate Dehydrogenase (GDH) antigen test, [[Genetics/NAAT\|NAAT]].
+- **Molecular Panels:** Multiplex PCR / Nucleic Acid Amplification Tests ([[Genetics/NAAT\|NAAT]]) highly sensitive for rapid pathogen identification.
 - **Parasitology:** Enzyme immunoassay (EIA) or PCR for _E. histolytica_; direct microscopy for trophozoites/cysts (requires minimum 3 separate samples).
 
 ### Endoscopy And Histology (If Refractory or IBD Suspected)
@@ -179,7 +179,7 @@ graph TD
 
 ### Antimicrobial Pharmacotherapy
 
-#### Bacillary Dysentery (Empiric and Directed)
+#### Bacillary [[Gastrointestinal/Dysentery\|Dysentery]] (Empiric and Directed)
 
 - Do not delay therapy for culture results in toxic patients.
 - **Severe/Hospitalized Cases:** Intravenous Ceftriaxone (50-100 mg/kg/day for 3-5 days) represents first-line empiric therapy.
@@ -187,7 +187,7 @@ graph TD
 - **Fluoroquinolones:** Ciprofloxacin (15 mg/kg/dose BID for 3 days) highly effective but restricted use in pediatrics unless alternative unavailable or pathogen sensitivity confirmed.
 - **Refractory Shigellosis:** Adjust therapy based strictly on local resistance patterns and culture sensitivities.
 
-#### Amebic Dysentery
+#### Amebic [[Gastrointestinal/Dysentery\|Dysentery]]
 
 - **First-Line Tissue Agent:** Metronidazole (15 mg/kg/day divided TID for 5-7 days) or Tinidazole (50 mg/kg single dose, max 2 g, for 3 days).
 - **Follow-up Luminal Agent:** Mandatory eradication of colonized cysts post-metronidazole therapy to prevent relapse. Utilize Paromomycin (25-35 mg/kg/day divided TID for 7 days) or Iodoquinol.

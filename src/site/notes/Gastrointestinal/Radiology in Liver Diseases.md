@@ -6,10 +6,10 @@
 
 |Modality|Core Utility|Key Pediatric Indications|
 |:--|:--|:--|
-|**Ultrasonography (US) / Doppler**|First-line screening, hemodynamics.|Liver size, echotexture, gallstones, portal hypertension, biliary dilatation.|
+|**Ultrasonography (US) / Doppler**|First-line screening, hemodynamics.|Liver size, echotexture, gallstones, [[Gastrointestinal/Portal Hypertension\|portal hypertension]], biliary dilatation.|
 |**Computed Tomography (CT)**|Cross-sectional vascular and mass detail.|Trauma, focal liver lesions, tumor staging, abscesses.|
 |**Magnetic Resonance (MRI / MRCP)**|Biliary anatomy, detailed mass characterization.|Choledochal cysts, primary sclerosing cholangitis, avoiding radiation exposure.|
-|**Elastography**|Fibrosis quantification.|Chronic liver disease, nonalcoholic fatty liver disease (NAFLD), [[Gastrointestinal/Biliary Atresia\|biliary atresia]].|
+|**Elastography**|Fibrosis quantification.|[[Gastrointestinal/Chronic Liver Disease\|Chronic liver disease]], nonalcoholic fatty liver disease (NAFLD), [[Gastrointestinal/Biliary Atresia\|biliary atresia]].|
 |**Nuclear Scintigraphy (HIDA)**|Biliary excretion assessment.|Differentiating [[Gastrointestinal/Biliary Atresia\|biliary atresia]] from neonatal hepatitis.|
 
 ## Specific Modalities & Clinical Applications
@@ -26,7 +26,7 @@
 #### Vascular Evaluation
 
 - Doppler determines portal vein patency, flow direction, and flow velocity.
-- Detects hepatofugal (reversed) portal flow, correlating with severe portal hypertension and increased variceal bleeding risk.
+- Detects hepatofugal (reversed) portal flow, correlating with severe [[Gastrointestinal/Portal Hypertension\|portal hypertension]] and increased variceal bleeding risk.
 - Identifies cavernous transformation of portal vein in extrahepatic portal venous obstruction (EHPVO).
 - Diagnoses Budd-Chiari syndrome via absent hepatic vein flow or stagnant/turbulent flow patterns.
 
@@ -83,7 +83,7 @@
 - **Infantile Hepatic Hemangioma:** Demonstrates peripheral nodular enhancement with progressive centripetal filling on CEUS or multiphase MRI. High-flow lesions show aortic tapering and prominent draining veins.
 - **Focal Nodular Hyperplasia (FNH):** Exhibits centrifugal spoke-wheel arterial enhancement with hyperintense central scar on T2-weighted MRI.
 
-### Portal Hypertension
+### [[Gastrointestinal/Portal Hypertension\|Portal Hypertension]]
 
 - Splenic length measurement aids non-invasive prediction of varices.
 - Cross-sectional imaging (CT/MRI) defines vascular anatomy prior to surgical shunting (meso-Rex bypass) or transjugular intrahepatic portosystemic shunt (TIPS) placement.

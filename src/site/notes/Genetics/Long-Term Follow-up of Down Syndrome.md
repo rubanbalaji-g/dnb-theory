@@ -12,7 +12,7 @@
 
 - Multidisciplinary approach focuses on early stimulation, surveillance for comorbid conditions, and maximizing functional independence.
 - Identify patients as having special healthcare needs and enter into a chronic condition management registry to ensure coordinated longitudinal care.
-- Conduct regular growth monitoring at every clinical visit using Down syndrome-specific growth charts.
+- Conduct regular growth monitoring at every clinical visit using Down syndrome-specific [[Development/Growth Charts\|growth charts]].
 - Monitor infants for failure to thrive secondary to dysphagia, gastrointestinal malformations, and cardiac complications.
 - Monitor older children and adolescents for a high tendency to develop obesity.
 
@@ -25,7 +25,7 @@
 |Audiology/ENT|Audiologic evaluation|Every 6 months until 3-4 years of age, then annually.|
 |Ophthalmology|Pediatric ophthalmologic evaluation|By 1 year of age, annually until age 5, biannually until age 13, and every 3 years thereafter.|
 |Hematology|CBC and Hemoglobin|Neonatal CBC with differential; screen for leukemia twice in first year; annual hemoglobin.|
-|Sleep/Pulmonary|Polysomnography|Baseline study for obstructive sleep apnea by 4 years of age or earlier if symptomatic.|
+|Sleep/Pulmonary|[[Development/Polysomnography\|Polysomnography]]|Baseline study for [[Respiratory/Obstructive Sleep Apnea\|obstructive sleep apnea]] by 4 years of age or earlier if symptomatic.|
 |Dental|Pediatric dental examination|Initial visit at 1 year of age, then at least every 6 months.|
 
 ## Neurodevelopmental and Behavioral Management
@@ -34,7 +34,7 @@
 - Utilize physiotherapy to improve core strength, manage generalized hypotonia, and facilitate adaptive motor planning.
 - Provide speech therapy to manage pharyngeal hypotonia, articulation difficulties, and delayed expressive language.
 - Integrate occupational therapy to address fine motor delays and promote independence in activities of daily living.
-- Conduct routine behavioral surveillance for Autism Spectrum Disorder and Attention-Deficit/Hyperactivity Disorder.
+- Conduct routine behavioral surveillance for [[Development/Autism Spectrum Disorder\|Autism Spectrum Disorder]] and Attention-Deficit/Hyperactivity Disorder.
 - Monitor adolescents and adults for psychiatric comorbidities, particularly depression, anxiety, and early-onset Alzheimer disease.
 
 ## Musculoskeletal and Cervical Spine Surveillance
@@ -46,7 +46,7 @@
 
 ## Gastrointestinal and Immunologic Monitoring
 
-- Maintain a high index of suspicion for [[Gastrointestinal/Celiac disease\|Celiac disease]]; test if the child exhibits [[Gastrointestinal/Chronic Diarrhea\|chronic diarrhea]], constipation, growth faltering, unexplained anemia, or behavioral changes.
+- Maintain a high [[Statistics/Index\|index]] of suspicion for [[Gastrointestinal/Celiac disease\|Celiac disease]]; test if the child exhibits [[Gastrointestinal/Chronic Diarrhea\|chronic diarrhea]], constipation, growth faltering, unexplained anemia, or behavioral changes.
 - Manage gastroesophageal reflux disease and chronic constipation proactively to prevent feeding refusal and respiratory complications.
 - Administer routine immunizations strictly according to schedule.
 - Consider additional preventative strategies for common respiratory pathogens due to subtle T-cell and B-cell lymphopenia and defects in neutrophil chemotaxis.

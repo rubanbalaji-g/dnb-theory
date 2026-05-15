@@ -10,7 +10,7 @@ This mechanism-based classification is crucial for understanding the underlying 
 
 |Mechanism|Pathophysiology|Clinical Examples|Prognosis And Clinical Features|
 |:--|:--|:--|:--|
-|Malformations|Intrinsic error in morphogenesis during organogenesis (3-8 weeks post-conception).|Neural tube defects, congenital heart defects, cleft lip/palate.|Usually single gene, chromosomal, or multifactorial etiology; accounts for 50-60% of major defects.|
+|Malformations|Intrinsic error in morphogenesis during organogenesis (3-8 weeks post-conception).|[[Neurology/Neural Tube Defects\|Neural tube defects]], congenital heart defects, cleft lip/palate.|Usually single gene, chromosomal, or multifactorial etiology; accounts for 50-60% of major defects.|
 |Deformations|Extrinsic mechanical forces alter the shape of an intrinsically normal tissue during late pregnancy.|Positional plagiocephaly, congenital dislocation of hip, Potter sequence.|Often reversible with early intervention; excellent prognosis if isolated.|
 |Disruptions|In utero tissue destruction or breakdown of a previously normally developing structure by an external insult.|Amniotic band syndrome, Moebius sequence, thalidomide embryopathy.|Asymmetric, sporadic defects; no recurrence risk unless recurrent exposure occurs.|
 |Dysplasias|Abnormal cellular organization or tissue architecture due to abnormal cellular proliferation and differentiation.|Skeletal dysplasias (achondroplasia), neurocutaneous syndromes.|Frequently genetic (single gene); progression can be static or worsen over time.|
@@ -21,9 +21,9 @@ Birth defects arise from diverse genetic, environmental, and multifactorial etio
 
 |Etiology|Pathophysiology And Subtypes|Clinical Examples|
 |:--|:--|:--|
-|Genetic (30-40%)|Chromosomal (numerical/structural), single-gene Mendelian traits, mitochondrial, triplet repeat expansions.|Trisomy 21, cystic fibrosis, DiGeorge syndrome, Fragile X syndrome.|
+|Genetic (30-40%)|Chromosomal (numerical/structural), single-gene Mendelian traits, mitochondrial, triplet repeat expansions.|Trisomy 21, [[Respiratory/Cystic Fibrosis\|cystic fibrosis]], DiGeorge syndrome, [[Genetics/Fragile X Syndrome\|Fragile X syndrome]].|
 |Environmental (5-10%)|Teratogenic exposure including maternal infections (TORCH), drugs, physical agents, or maternal conditions like diabetes.|Fetal alcohol spectrum disorder, fetal warfarin syndrome.|
-|Multifactorial (40-50%)|Gene-environment interactions following a threshold liability model.|Neural tube defects, pyloric stenosis, clubfoot.|
+|Multifactorial (40-50%)|Gene-environment interactions following a threshold liability model.|[[Neurology/Neural Tube Defects\|Neural tube defects]], pyloric stenosis, clubfoot.|
 |Idiopathic (20-30%)|Unknown origin, frequently presenting as isolated defects.|Various isolated structural anomalies.|
 
 ## Classification By Number And Pattern
@@ -48,16 +48,16 @@ Anatomical categorization aids in targeted clinical evaluation.
 
 |Anatomical System|Common Clinical Malformations|
 |:--|:--|
-|Central Nervous System|Neural tube defects, holoprosencephaly, hydrocephalus.|
-|Cardiovascular|Ventricular septal defect, atrial septal defect, tetralogy of Fallot.|
+|Central Nervous System|[[Neurology/Neural Tube Defects\|Neural tube defects]], holoprosencephaly, [[Neurology/Hydrocephalus\|hydrocephalus]].|
+|Cardiovascular|Ventricular septal defect, atrial septal defect, [[Cardiology/Tetralogy of Fallot\|tetralogy of Fallot]].|
 |Musculoskeletal|Limb reduction defects, skeletal dysplasias, congenital scoliosis.|
 |Gastrointestinal|Esophageal atresia, [[Gastrointestinal/Tracheoesophageal Fistula\|tracheoesophageal fistula]], anorectal malformations.|
 |Genitourinary|Renal agenesis, posterior urethral valves, hypospadias.|
 
 ## Clinical Evaluation And Management Approach
 
-- Antenatal Diagnosis: Level II ultrasonography anomaly scan at 18-20 weeks detects 60-80% of major defects.
-- Postnatal Evaluation: Comprehensive dysmorphology examination, anthropometry, and newborn screening protocols.
-- Prophylaxis: Periconceptional folic acid fortification prevents 50-70% of neural tube defects.
+- [[Neonatalogy/Antenatal Diagnosis\|Antenatal Diagnosis]]: Level II ultrasonography anomaly scan at 18-20 weeks detects 60-80% of major defects.
+- Postnatal Evaluation: Comprehensive dysmorphology examination, anthropometry, and [[Neonatalogy/Newborn Screening\|newborn screening]] protocols.
+- Prophylaxis: Periconceptional folic acid fortification prevents 50-70% of [[Neurology/Neural Tube Defects\|neural tube defects]].
 - Public Health Programs: Rashtriya Bal Swasthya Karyakram facilitates free screening and treatment for defects, deficiencies, diseases, and disabilities.
 - Long-Term Care: Multidisciplinary clinics for neurodevelopmental support, managing secondary complications, and transitioning to adult services.

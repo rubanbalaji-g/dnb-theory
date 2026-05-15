@@ -5,7 +5,7 @@
 ## Definition And Epidemiology
 
 - **Esophageal Atresia (EA):** Lack of communication between proximal and distal esophagus.
-- **Tracheoesophageal Fistula (TEF):** Abnormal communication between trachea and esophagus.
+- **[[Gastrointestinal/Tracheoesophageal Fistula\|Tracheoesophageal Fistula]] (TEF):** Abnormal communication between trachea and esophagus.
 - **Incidence:** Occurs in 1 in 2440 to 5000 live births, with a slight male and preterm infant predominance.
 
 ## Embryology And Pathophysiology
@@ -35,7 +35,7 @@
 
 ### H-Type Presentation
 
-- Presents late with recurrent pneumonia and chronic respiratory problems.
+- Presents late with [[Respiratory/Recurrent Pneumonia\|recurrent pneumonia]] and chronic respiratory problems.
 - Features refractory bronchospasm, recurrent aspiration, and coughing triggered by feeding.
 
 ## Associated Anomalies
@@ -45,7 +45,7 @@ Anomalies are present in up to 50% of infants with EA/TEF.
 |Category|Specific Associations|
 |---|---|
 |**VACTERL Association**|Vertebral, Anorectal, Cardiac, Tracheal, Esophageal, Renal, and Limb anomalies (present in 15% of cases).|
-|**Cardiac Anomalies**|Most common association (30-32%); includes ventricular septal defect, patent ductus arteriosus, and tetralogy of Fallot.|
+|**Cardiac Anomalies**|Most common association (30-32%); includes ventricular septal defect, patent ductus arteriosus, and [[Cardiology/Tetralogy of Fallot\|tetralogy of Fallot]].|
 |**Other Systems**|Vertebral anomalies (24%), imperforate anus (10%).|
 |**Syndromic**|CHARGE syndrome, Feingold syndrome, Trisomy 18, and Trisomy 21.|
 
@@ -84,7 +84,7 @@ Anomalies are present in up to 50% of infants with EA/TEF.
 |Phase|Complications|
 |---|---|
 |**Early**|Anastomotic leak, anastomotic stricture (most common, requiring balloon dilatations), recurrent TEF, mediastinitis, pneumonitis.|
-|**Late**|Severe gastroesophageal reflux disease (GERD) requiring Nissen fundoplication. Tracheomalacia presenting with a "barking" cough or cyanotic spells. Barrett's esophagus and long-term dysphagia.|
+|**Late**|Severe gastroesophageal reflux disease ([[Gastrointestinal/GERD\|GERD]]) requiring Nissen fundoplication. Tracheomalacia presenting with a "barking" cough or cyanotic spells. Barrett's esophagus and long-term dysphagia.|
 
 ### Spitz Classification For Survival
 

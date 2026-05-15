@@ -4,7 +4,7 @@
 
 ## Definition And Epidemiology
 
-- Hypertrophic pyloric stenosis is an acquired condition characterized by progressive idiopathic hypertrophy of the pyloric circular muscle.
+- [[Gastrointestinal/Hypertrophic Pyloric Stenosis\|Hypertrophic pyloric stenosis]] is an acquired condition characterized by progressive idiopathic hypertrophy of the pyloric circular muscle.
 - This hypertrophy causes narrowing and elongation of the pyloric channel, leading to gastric outlet obstruction.
 - The condition is not present at birth and develops entirely postnatally.
 

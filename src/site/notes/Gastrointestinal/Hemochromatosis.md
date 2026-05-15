@@ -2,11 +2,11 @@
 {"dg-publish":true,"uptext":"Back to Index (🍴 Gastroenterology)","uplink":"/gastrointestinal/gastroenterology/","permalink":"/gastrointestinal/hemochromatosis/","dgPassFrontmatter":true}
 ---
 
-## Neonatal Hemochromatosis (Gestational Alloimmune Liver Disease)
+## Neonatal [[Gastrointestinal/Hemochromatosis\|Hemochromatosis]] (Gestational Alloimmune Liver Disease)
 
 ### Definition And Pathophysiology
 
-- Single most common cause of acute liver failure during first month of life.
+- Single most common cause of [[Gastrointestinal/Acute Liver Failure\|acute liver failure]] during first month of life.
 - Not a primary iron overload disease; secondary to severe fetal liver injury.
 - Driven by gestational alloimmune liver disease (GALD) in nearly all cases.
 - Maternal immune system sensitized to unknown fetal hepatocyte cell surface antigen.
@@ -42,8 +42,8 @@
 - Antioxidant cocktail (N-acetylcysteine, selenium, desferrioxamine, prostaglandin E1, vitamin E) historically utilized for iron chelation/free radical scavenging; lacks proven benefit.
 - Intravenous immunoglobulin (IVIG) administration (1 g/kg) combined with exchange transfusion.
 - Exchange transfusion removes circulating maternal IgG.
-- IVIG/exchange transfusion significantly decreases need for liver transplantation.
-- Liver transplantation indicated for failed medical management.
+- IVIG/exchange transfusion significantly decreases need for [[Gastrointestinal/Liver Transplantation\|liver transplantation]].
+- [[Gastrointestinal/Liver Transplantation\|Liver transplantation]] indicated for failed medical management.
 
 #### Antenatal Prevention
 
@@ -52,7 +52,7 @@
 - Initiated at 18 weeks gestational age; continued until end of gestation.
 - Decreases GALD in developing fetus; achieves milder phenotypic expression and 100% infant survival.
 
-## Hereditary And Juvenile Hemochromatosis
+## Hereditary And Juvenile [[Gastrointestinal/Hemochromatosis\|Hemochromatosis]]
 
 ### Pathophysiology Of Iron Transport
 
@@ -66,9 +66,9 @@
 
 |Disorder|Genetic Defect|Pathogenetic Mechanism|
 |:--|:--|:--|
-|**Classic Hemochromatosis**|_HFE_ gene variants (Cys282Tyr, His63Asn, Ser65Cys).|Reduces endocytic uptake of diferric transferrin by transferrin receptor-1 at basolateral membrane.|
-|**Juvenile Hemochromatosis (Type 2B)**|Hepcidin gene mutations.|Primary hepcidin deficiency eliminates negative regulation of ferroportin, causing massive iron influx.|
-|**Hemochromatosis Type 4**|Ferroportin 1 gene mutations.|Autosomal dominant defect in iron exporter function.|
+|**Classic [[Gastrointestinal/Hemochromatosis\|Hemochromatosis]]**|_HFE_ gene variants (Cys282Tyr, His63Asn, Ser65Cys).|Reduces endocytic uptake of diferric transferrin by transferrin receptor-1 at basolateral membrane.|
+|**Juvenile [[Gastrointestinal/Hemochromatosis\|Hemochromatosis]] (Type 2B)**|Hepcidin gene mutations.|Primary hepcidin deficiency eliminates negative regulation of ferroportin, causing massive iron influx.|
+|**[[Gastrointestinal/Hemochromatosis\|Hemochromatosis]] Type 4**|Ferroportin 1 gene mutations.|Autosomal dominant defect in iron exporter function.|
 
 ### Clinical Manifestations
 
@@ -85,7 +85,7 @@
 
 ## Differential Diagnosis Of Neonatal Liver Failure
 
-Differentiating GALD/Neonatal Hemochromatosis from other acute neonatal liver failure etiologies requires careful biochemical correlation.
+Differentiating GALD/Neonatal [[Gastrointestinal/Hemochromatosis\|Hemochromatosis]] from other acute neonatal liver failure etiologies requires careful biochemical correlation.
 
 |Etiology|Transaminases (IU/L)|Coagulopathy (INR)|Ferritin (ng/mL)|
 |:--|:--|:--|:--|

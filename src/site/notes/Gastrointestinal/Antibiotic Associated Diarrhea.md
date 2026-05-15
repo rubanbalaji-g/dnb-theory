@@ -29,7 +29,7 @@
 |Investigation|Utility And Interpretation|
 |:--|:--|
 |Target Population|Testing discouraged in children <2 years due to high asymptomatic carriage.|
-|Stool Assays|Multistep approach recommended combining glutamate dehydrogenase (GDH) immunoassay, toxin A/B enzyme immunoassay (EIA), and nucleic acid amplification tests (NAAT).|
+|Stool Assays|Multistep approach recommended combining glutamate dehydrogenase (GDH) immunoassay, toxin A/B enzyme immunoassay (EIA), and nucleic acid amplification tests ([[Genetics/NAAT\|NAAT]]).|
 |Endoscopy|Indicated for suspected pseudomembranous colitis. Reveals 2-5 mm raised yellowish plaques on colonic mucosa.|
 
 ## Management Protocol

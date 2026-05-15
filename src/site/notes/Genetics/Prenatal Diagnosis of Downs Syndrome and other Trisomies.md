@@ -40,17 +40,17 @@ Prenatal diagnosis of chromosomal trisomies, predominantly Trisomy 21 (Down synd
 
 |Procedure|Gestational Timing|Tissue Sampled|Procedure-Related Risk|
 |:--|:--|:--|:--|
-|Chorionic Villus Sampling (CVS)|10 to 13 weeks|Placental chorionic villi via transabdominal or transcervical route|0.5-1.0% risk of pregnancy loss|
-|Amniocentesis|15 to 20 weeks|Amniotic fluid containing desquamated fetal amniocytes|0.1-0.3% risk of pregnancy loss; represents the gold standard|
-|Cordocentesis|> 18 weeks|Fetal blood from the umbilical vein|Slightly higher than amniocentesis; used for rapid karyotyping|
+|[[Neonatalogy/Chorionic Villus Sampling (CVS)\|Chorionic Villus Sampling (CVS)]]|10 to 13 weeks|Placental chorionic villi via transabdominal or transcervical route|0.5-1.0% risk of pregnancy loss|
+|[[Neonatalogy/Amniocentesis\|Amniocentesis]]|15 to 20 weeks|Amniotic fluid containing desquamated fetal amniocytes|0.1-0.3% risk of pregnancy loss; represents the gold standard|
+|[[Neonatalogy/Cordocentesis\|Cordocentesis]]|> 18 weeks|Fetal blood from the umbilical vein|Slightly higher than [[Neonatalogy/Amniocentesis\|amniocentesis]]; used for rapid [[Genetics/Karyotyping\|karyotyping]]|
 
 _(Data derived from)_
 
 ## Laboratory Techniques for Fetal Tissue Analysis
 
-- **Karyotyping (G-Banding):** Involves culturing cells and staining metaphase chromosomes. It detects all numerical abnormalities and structural translocations but requires 10 to 14 days for cell culture.
+- **[[Genetics/Karyotyping\|Karyotyping]] (G-Banding):** Involves culturing cells and staining metaphase chromosomes. It detects all numerical abnormalities and structural translocations but requires 10 to 14 days for cell culture.
 - **Rapid Aneuploidy Detection (RAD):** Includes Fluorescence In Situ Hybridization (FISH) and Quantitative Fluorescent PCR (QF-PCR). Delivers results targeting chromosomes 13, 18, 21, X, and Y within 24 to 48 hours.
-- **Chromosomal Microarray (CMA):** Compares fetal DNA against a reference genome to detect submicroscopic copy number variations. It is superior to karyotyping when structural anomalies are noted on ultrasound.
+- **Chromosomal Microarray (CMA):** Compares fetal DNA against a reference genome to detect submicroscopic copy number variations. It is superior to [[Genetics/Karyotyping\|karyotyping]] when structural anomalies are noted on ultrasound.
 
 ## Comparison of Common Trisomies
 
@@ -66,7 +66,7 @@ _(Data derived from)_
 ## Genetic Counseling and Legal Framework
 
 - **Pre-Test Counseling:** Differentiate between screening (probability) and diagnosis (certainty), outline procedure risks, and discuss potential incidental findings.
-- **Post-Test Counseling:** Must remain non-directive. For non-disjunction trisomies, the recurrence risk in future pregnancies is approximately 1% or the maternal age-related risk, whichever is higher. Translocation-associated trisomies require mandatory parental karyotyping to accurately define recurrence risks.
+- **Post-Test Counseling:** Must remain non-directive. For non-disjunction trisomies, the recurrence risk in future pregnancies is approximately 1% or the maternal age-related risk, whichever is higher. Translocation-associated trisomies require mandatory parental [[Genetics/Karyotyping\|karyotyping]] to accurately define recurrence risks.
 - **Legal Framework:**
     - Medical Termination of Pregnancy (MTP) Act (2021 Amendment) allows termination up to 24 weeks for significant fetal abnormalities, and beyond 24 weeks pending Medical Board approval.
-    - Pre-Conception and Pre-Natal Diagnostic Techniques (PCPNDT) Act strictly prohibits sex determination during any prenatal testing.
+    - [[Social Pediatics/Pre-Conception and Pre-Natal Diagnostic Techniques (PCPNDT) Act\|Pre-Conception and Pre-Natal Diagnostic Techniques (PCPNDT) Act]] strictly prohibits sex determination during any prenatal testing.

@@ -38,8 +38,8 @@
 |Category|Specific Disorders|
 |:--|:--|
 |**Extrahepatic Obstructive**|[[Gastrointestinal/Biliary Atresia\|Biliary atresia]], choledochal cyst, inspissated bile syndrome, neonatal sclerosing cholangitis, gallstones, biliary stricture.|
-|**Infectious**|Congenital TORCH infections (Toxoplasmosis, Rubella, CMV, HSV), Syphilis, bacterial sepsis, urinary tract infection.|
-|**Metabolic/Genetic**|Alpha-1 antitrypsin deficiency, galactosemia, [[Metabolic Disorders/Tyrosinemia\|tyrosinemia]], glycogen storage diseases, cystic fibrosis, bile acid synthesis defects, PFIC (types 1-6).|
+|**Infectious**|Congenital [[Infectious Diseases/TORCH Infections\|TORCH infections]] (Toxoplasmosis, Rubella, CMV, HSV), Syphilis, bacterial sepsis, [[Nephrology/Urinary Tract Infection\|urinary tract infection]].|
+|**Metabolic/Genetic**|Alpha-1 antitrypsin deficiency, [[Metabolic Disorders/Galactosemia\|galactosemia]], [[Metabolic Disorders/Tyrosinemia\|tyrosinemia]], glycogen storage diseases, [[Respiratory/Cystic Fibrosis\|cystic fibrosis]], bile acid synthesis defects, PFIC (types 1-6).|
 |**Anatomic/Syndromic**|Alagille syndrome (paucity of interlobular bile ducts), congenital hepatic fibrosis (Caroli disease).|
 |**Endocrine**|Hypothyroidism, panhypopituitarism.|
 |**Toxic/Alloimmune**|Intestinal failure-associated liver disease (parenteral nutrition toxicity), gestational alloimmune liver disease (GALD).|
@@ -65,7 +65,7 @@ GGT provides highly specific diagnostic differentiation for intrahepatic cholest
 
 - **Alpha-1 antitrypsin:** Serum level and Pi phenotyping required early; histology mimics [[Gastrointestinal/Biliary Atresia\|biliary atresia]].
 - **Thyroid function:** Thyroid-stimulating hormone (TSH), free T4 rule out central or primary hypothyroidism.
-- **Metabolic assays:** Urine succinylacetone ([[Metabolic Disorders/Tyrosinemia\|tyrosinemia]]), galactose-1-phosphate uridyltransferase (galactosemia).
+- **Metabolic assays:** Urine succinylacetone ([[Metabolic Disorders/Tyrosinemia\|tyrosinemia]]), galactose-1-phosphate uridyltransferase ([[Metabolic Disorders/Galactosemia\|galactosemia]]).
 - **Matrix metalloproteinase-7 (MMP-7):** Highly sensitive and specific serum marker differentiating [[Gastrointestinal/Biliary Atresia\|biliary atresia]] from other cholestatic causes.
 
 ### Radiological Imaging
@@ -87,10 +87,10 @@ GGT provides highly specific diagnostic differentiation for intrahepatic cholest
 |:--|:--|
 |**[[Gastrointestinal/Biliary Atresia\|Biliary Atresia]]**|Kasai portoenterostomy (hepato-portoenterostomy). Optimal outcomes achieved if performed <45-60 days of life.|
 |**Choledochal Cyst**|Surgical excision of abnormal biliary segment with Roux-en-Y hepaticojejunostomy.|
-|**Galactosemia**|Strict elimination of galactose (galactose-free formula).|
+|**[[Metabolic Disorders/Galactosemia\|Galactosemia]]**|Strict elimination of galactose (galactose-free formula).|
 |**[[Metabolic Disorders/Tyrosinemia\|Tyrosinemia]] Type 1**|Nitisinone administration; dietary restriction of phenylalanine and tyrosine.|
 |**Gestational Alloimmune Liver Disease (GALD)**|Exchange transfusion combined with intravenous immunoglobulin (IVIG).|
-|**Congenital Hypothyroidism**|Prompt thyroid hormone replacement.|
+|**[[Endocrinology/Congenital Hypothyroidism\|Congenital Hypothyroidism]]**|Prompt thyroid hormone replacement.|
 
 ### Nutritional Rehabilitation
 
@@ -109,4 +109,4 @@ GGT provides highly specific diagnostic differentiation for intrahepatic cholest
 
 ### Advanced Interventions
 
-- **Liver transplantation:** Definitive therapy indicated for end-stage liver disease, failed Kasai portoenterostomy, uncorrectable metabolic defects, refractory portal hypertension, or severe intractable pruritus/xanthomas compromising quality of life.
+- **[[Gastrointestinal/Liver Transplantation\|Liver transplantation]]:** Definitive therapy indicated for end-stage liver disease, failed Kasai portoenterostomy, uncorrectable metabolic defects, refractory [[Gastrointestinal/Portal Hypertension\|portal hypertension]], or severe intractable pruritus/xanthomas compromising quality of life.

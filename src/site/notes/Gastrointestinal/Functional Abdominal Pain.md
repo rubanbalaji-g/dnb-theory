@@ -21,10 +21,10 @@
 
 |Subtype|Core Clinical Criteria|
 |:--|:--|
-|**Functional abdominal pain - not otherwise specified**|Episodic/continuous periumbilical pain; insufficient criteria for other functional disorders.|
+|**[[Gastrointestinal/Functional Abdominal Pain\|Functional abdominal pain]] - not otherwise specified**|Episodic/continuous periumbilical pain; insufficient criteria for other functional disorders.|
 |**Irritable bowel syndrome**|Pain associated with defecation, change in stool frequency, or change in stool form/appearance.|
 |**Functional dyspepsia**|Postprandial fullness, early satiety, or epigastric pain/burning unrelated to defecation.|
-|**Abdominal migraine**|Paroxysmal, intense periumbilical/midline pain lasting >1 hour; associated with anorexia, nausea, vomiting, headache, photophobia, pallor.|
+|**Abdominal [[Neurology/Migraine\|migraine]]**|Paroxysmal, intense periumbilical/midline pain lasting >1 hour; associated with anorexia, nausea, vomiting, headache, photophobia, pallor.|
 
 ## Clinical Evaluation
 

@@ -62,7 +62,7 @@
     * **Status:** Marginal clinical benefit; high cost and lack of stability limit widespread use.
 * **C. Zinc-Fortified ORS:** Adding Zinc (to achieve 10-20 mg/day) directly to the ORS packet to ensure compliance with diarrhea treatment guidelines.
 
-### 4. ReSoMal (Rehydration Solution for Malnutrition)
+### 4. [[Nutrition/ReSoMal\|ReSoMal]] (Rehydration Solution for Malnutrition)
 * **Background:** Specially formulated for children with Severe Acute Malnutrition (SAM) who have altered body composition (total body sodium is high, but intracellular potassium and magnesium are severely depleted).
 * **Composition (mmol/L):** Sodium 45, Potassium 40, Chloride 70, Citrate 7, Magnesium 3, Zinc 0.3, Copper 0.045, Glucose 125.
 * **Total Osmolarity:** ~300 mOsm/L.
@@ -81,7 +81,7 @@
 > * **If  Commercial Mineral Vitamin is not available**, then add 45 mL of Syrup Potassium Chloride (20 mEq in 15 mL) to make 40 mEq/L potassium in ReSoMal
 > 
 
-| Component                     | Conventional WHO ORS (1975) | WHO Reduced Osmolarity ORS (2002) | ReSoMal (For Severe Acute Malnutrition) |
+| Component                     | Conventional WHO ORS (1975) | WHO Reduced Osmolarity ORS (2002) | [[Nutrition/ReSoMal\|ReSoMal]] (For Severe Acute Malnutrition) |
 | ----------------------------- | --------------------------- | --------------------------------- | --------------------------------------- |
 | **Sodium (mmol/L)**           | 90                          | 75                                | 45                                      |
 | **Potassium (mmol/L)**        | 20                          | 20                                | 40                                      |
@@ -97,7 +97,7 @@
 ### 1. Acute Gastroenteritis / Watery Diarrhea
 * **Plan A (No Dehydration):** Used for prevention. Home-based fluids or ORS. Dose: <2 yrs (50-100 ml post-stool), 2-10 yrs (100-200 ml post-stool), >10 yrs (as much as desired).
 * **Plan B (Some/Mild-Moderate Dehydration):** ORS is the definitive treatment. Administered at 75 ml/kg over 4 hours. Reassess after 4 hours.
-* **Outcome:** Treats 90-95% of acute diarrhea cases without the need for IV fluids. 
+* **Outcome:** Treats 90-95% of [[Gastrointestinal/Acute Diarrhea\|acute diarrhea]] cases without the need for IV fluids. 
 
 ### 2. Cholera
 * Rice-based ORS is highly efficacious and considered the ideal oral fluid for cholera, rapidly replacing massive secretory losses.
@@ -105,15 +105,15 @@
 
 ### 3. Severe Acute Malnutrition (SAM) with Dehydration
 * Standard ORS is **contraindicated** in SAM due to the risk of sodium toxicity and heart failure.
-* **Protocol:** Use ReSoMal. 5 ml/kg every 30 minutes for the first 2 hours, then 5-10 ml/kg/hr for the next 4-10 hours, alternating with therapeutic feeding (F-75).
+* **Protocol:** Use [[Nutrition/ReSoMal\|ReSoMal]]. 5 ml/kg every 30 minutes for the first 2 hours, then 5-10 ml/kg/hr for the next 4-10 hours, alternating with therapeutic feeding (F-75).
 
 ### 4. Short Bowel Syndrome (SBS) / High Stoma Outputs
 * Reduced osmolarity ORS may lead to net sodium loss in SBS because the shortened jejunum requires a higher sodium concentration gradient for absorption.
 * **Management:** Often require customized, hypernatremic ORS (Sodium 90-120 mEq/L) to prevent chronic sodium depletion and failure to thrive. Standard WHO ORS (1975) is sometimes utilized here.
 
-### 5. Dengue Fever
+### 5. [[Infectious Diseases/Dengue\|Dengue]] Fever
 * **Role:** Crucial during the febrile and critical (plasma leakage) phases.
-* **Application:** WHO guidelines advocate aggressive oral rehydration with ORS or fruit juices to maintain intravascular volume, prevent progression to Dengue Shock Syndrome (DSS), and minimize the requirement for IV crystalloids.
+* **Application:** WHO guidelines advocate aggressive oral rehydration with ORS or fruit juices to maintain intravascular volume, prevent progression to [[Infectious Diseases/Dengue\|Dengue]] Shock Syndrome (DSS), and minimize the requirement for IV crystalloids.
 
 ### 6. Burns
 * In mild to moderate pediatric burns (TBSA < 10-15%), ORS is highly effective for initial resuscitation and fluid maintenance, especially in resource-limited settings where IV access is delayed.

@@ -9,13 +9,13 @@
 - Active electrolyte and water fluxes directed toward intestinal lumen.
 - Characterized by inhibition of neutral sodium-chloride absorption within villous enterocytes.
 - Exaggerated electrogenic chloride secretion originates from secretory crypt cells.
-- Chloride secretion mediated by cystic fibrosis transmembrane regulator (CFTR) channels.
+- Chloride secretion mediated by [[Respiratory/Cystic Fibrosis\|cystic fibrosis]] transmembrane regulator (CFTR) channels.
 - Bacterial enterotoxins elevate intracellular cyclic adenosine monophosphate (cAMP), cyclic guanosine monophosphate (cGMP), or calcium.
 - Elevated secondary messengers open cellular chloride channels, precipitating massive water secretion.
 - Results in large stool volumes persisting during fasting state.
-- Antisecretory agents directly counteract ion secretion pathways, mitigating fluid loss.
+- [[Gastrointestinal/Antisecretory Agents\|Antisecretory agents]] directly counteract ion secretion pathways, mitigating fluid loss.
 
-## Specific Antisecretory Agents
+## Specific [[Gastrointestinal/Antisecretory Agents\|Antisecretory Agents]]
 
 ### Racecadotril
 
@@ -84,7 +84,7 @@
 
 |Agent|Drug Class|Target Mechanism|Primary Indications|Adverse Profiles|
 |:--|:--|:--|:--|:--|
-|Racecadotril|Enkephalinase inhibitor|Inhibits cAMP, blocks enkephalin degradation|Acute diarrhea, microvillus inclusion disease|Headache, vomiting, constipation|
+|Racecadotril|Enkephalinase inhibitor|Inhibits cAMP, blocks enkephalin degradation|[[Gastrointestinal/Acute Diarrhea\|Acute diarrhea]], microvillus inclusion disease|Headache, vomiting, constipation|
 |Octreotide|Somatostatin analog|Broad secretory inhibition|Neuroendocrine tumors, severe enterotoxin diarrhea|Bradycardia, hypoglycemia|
 |Loperamide|Antimotility/Antisecretory|Motility reduction, secretory inhibition|Traveler's diarrhea, older children with watery diarrhea|Ileus risk|
 |Diosmectite|Absorbent|Intestinal absorption|Infectious diarrhea|Minimal|

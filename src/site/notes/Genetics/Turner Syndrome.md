@@ -4,7 +4,7 @@
 
 ## Definition And Epidemiology
 
-- Turner syndrome is the most common sex chromosome abnormality in females, characterized by complete or partial absence of the second sex chromosome.
+- [[Genetics/Turner Syndrome\|Turner syndrome]] is the most common sex chromosome abnormality in females, characterized by complete or partial absence of the second sex chromosome.
 - Incidence occurs in approximately 1 in 2000 to 1 in 2500 live female births.
 - Accounts for approximately 10% of spontaneous first-trimester abortions, with 95-99% of 45,X conceptuses miscarrying.
 - Advanced maternal age is not a predisposing factor.
@@ -30,9 +30,9 @@
 |Reproductive|Gonadal dysgenesis with streak ovaries, primary amenorrhea, delayed or absent pubertal development, hypergonadotropic hypogonadism.|
 |Cardiovascular|Bicuspid aortic valve, coarctation of aorta, aortic stenosis, mitral valve prolapse.|
 |Renal|Horseshoe kidney, duplicated collecting systems, unilateral renal agenesis, abnormal renal vasculature.|
-|Endocrine And Metabolic|Autoimmune thyroiditis, acquired hypothyroidism, insulin resistance, type 2 diabetes mellitus, dyslipidemia.|
-|Neurocognitive|Normal global intelligence, impaired non-verbal/visual-spatial skills, mathematics struggles, impaired executive functioning, ADHD, social anxiety.|
-|Otorhinolaryngology|Recurrent acute otitis media, progressive sensorineural hearing loss.|
+|Endocrine And Metabolic|Autoimmune thyroiditis, [[Endocrinology/Acquired Hypothyroidism\|acquired hypothyroidism]], insulin resistance, type 2 diabetes mellitus, dyslipidemia.|
+|Neurocognitive|Normal global intelligence, impaired non-verbal/visual-spatial skills, mathematics struggles, impaired executive functioning, [[Development/ADHD\|ADHD]], social anxiety.|
+|Otorhinolaryngology|Recurrent [[Misc/Acute Otitis Media\|acute otitis media]], progressive sensorineural hearing loss.|
 |Ophthalmology|Strabismus, amblyopia, ptosis, hypermetropia, red-green color blindness.|
 
 ## Diagnostic Evaluation
@@ -66,4 +66,4 @@
 
 - Prophylactic laparoscopic gonadectomy is mandated if Y-chromosome material is detected due to high malignant transformation risk.
 - Infertility options include oocyte donation and in vitro fertilization (IVF).
-- Pregnancy poses high risks, requiring pre-conception cardiovascular screening, with aortic diameter index >2.5 cm/m2 serving as an absolute contraindication.
+- Pregnancy poses high risks, requiring pre-conception cardiovascular screening, with aortic diameter [[Statistics/Index\|index]] >2.5 cm/m2 serving as an absolute contraindication.

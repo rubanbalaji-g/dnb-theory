@@ -5,7 +5,7 @@
 ## Definition And Pathophysiology
 
 - Persistent, destructive pancreatic inflammation causing irreversible acinar and ductal structural changes.
-- Sentinel acute pancreatitis event (SAPE) initiates inflammatory cascade.
+- Sentinel [[Gastrointestinal/Acute Pancreatitis\|acute pancreatitis]] event (SAPE) initiates inflammatory cascade.
 - Recurrent acinar cell injury activates pancreatic stellate cells, driving progressive fibrosis.
 - Progressive damage yields corresponding loss of exocrine and endocrine function, alongside intractable pain.
 
@@ -19,7 +19,7 @@ Pediatric etiology differs significantly from adult disease; genetic and structu
 |**Idiopathic**|Diagnosed when exhaustive evaluation excludes known causes.|
 |**Genetic**|_PRSS1_ (hereditary pancreatitis, autosomal dominant), _CFTR_, _SPINK1_ (disease modifier), _CTRC_, _CPA1_. Present in up to 73% of pediatric cohorts.|
 |**Autoimmune**|Type 2 (idiopathic duct-centric) predominates in children. Serum IgG4 often normal. Responds well to corticosteroids.|
-|**Recurrent/Severe Acute**|History of recurrent or severe acute pancreatitis episodes driving fibrotic progression.|
+|**Recurrent/Severe Acute**|History of recurrent or severe [[Gastrointestinal/Acute Pancreatitis\|acute pancreatitis]] episodes driving fibrotic progression.|
 |**Obstructive**|Pancreas divisum, gallstones, biliary cysts, anomalous pancreaticobiliary junction. Present in up to 33% of patients.|
 
 ## Clinical Presentation
@@ -27,7 +27,7 @@ Pediatric etiology differs significantly from adult disease; genetic and structu
 - Intermittent or continuous abdominal pain (epigastric or mid-abdomen), often radiating to back.
 - Pain frequently triggered or exacerbated by food ingestion.
 - Associated nausea, vomiting, anorexia, and weight loss.
-- Progressive exocrine pancreatic insufficiency causing steatorrhea, failure to thrive, and fat-soluble vitamin deficiencies.
+- Progressive [[Gastrointestinal/Exocrine Pancreatic Insufficiency\|exocrine pancreatic insufficiency]] causing steatorrhea, failure to thrive, and fat-soluble vitamin deficiencies.
 - Progressive endocrine insufficiency manifesting as pancreatogenic (type 3c) diabetes mellitus.
 - "Burned-out" phase: Intractable pain persists during exacerbations without corresponding elevations in serum amylase or lipase due to severe parenchymal atrophy.
 
@@ -38,7 +38,7 @@ Pediatric etiology differs significantly from adult disease; genetic and structu
 Confirmation requires minimum one of the following criteria:
 
 1. Abdominal pain consistent with pancreatic origin plus suggestive imaging findings.
-2. Evidence of exocrine pancreatic insufficiency plus suggestive imaging findings.
+2. Evidence of [[Gastrointestinal/Exocrine Pancreatic Insufficiency\|exocrine pancreatic insufficiency]] plus suggestive imaging findings.
 3. Evidence of endocrine pancreatic insufficiency plus suggestive imaging findings.
 
 ### Imaging Modalities
@@ -77,5 +77,5 @@ Confirmation requires minimum one of the following criteria:
 
 ## Prognosis And Complications
 
-- Local complications include pseudocyst formation, biliary/pancreatic duct strictures, and splenic vein thrombosis resulting in portal hypertension.
+- Local complications include pseudocyst formation, biliary/pancreatic duct strictures, and splenic vein thrombosis resulting in [[Gastrointestinal/Portal Hypertension\|portal hypertension]].
 - Carries significant long-term risk for pancreatic adenocarcinoma; lifetime risk approaches 50% specifically in patients harboring _PRSS1_ mutations.

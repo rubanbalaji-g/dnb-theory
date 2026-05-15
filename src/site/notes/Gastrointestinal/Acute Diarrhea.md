@@ -4,7 +4,7 @@
 
 ## Definition And Classification
 
-- **Acute Diarrhea:** Passage of >3 loose/watery stools daily, or stool volume >10 mL/kg/day in infants (>200 g/day in older children).
+- **[[Gastrointestinal/Acute Diarrhea\|Acute Diarrhea]]:** Passage of >3 loose/watery stools daily, or stool volume >10 mL/kg/day in infants (>200 g/day in older children).
 - **Duration:** Sudden onset, resolution within 7-14 days.
 - **[[Gastrointestinal/Dysentery\|Dysentery]]:** Acute diarrhoea accompanied by visible blood and mucus, often with tenesmus and fever.
 - **Prolonged Diarrhoea:** Episode lasting 7-13 days.
@@ -31,7 +31,7 @@
 
 |Category|Associated Conditions|
 |:--|:--|
-|**Systemic Infections**|Otitis media, urinary tract infection, pneumonia, sepsis, meningitis.|
+|**Systemic Infections**|Otitis media, [[Nephrology/Urinary Tract Infection\|urinary tract infection]], pneumonia, sepsis, [[Neurology/Meningitis\|meningitis]].|
 |**Dietary/Allergic**|Cow milk protein allergy, food poisoning (toxins from _S. aureus_, _B. cereus_, _C. perfringens_), overfeeding, hyperosmolar juices.|
 |**Toxic/Pharmacologic**|Antibiotic-associated diarrhoea, laxative abuse, heavy metal ingestion.|
 |**Surgical/Anatomic**|Intussusception, acute appendicitis, Hirschsprung enterocolitis, toxic megacolon, short bowel syndrome.|
@@ -42,7 +42,7 @@
 
 - Normal intestine absorbs 8-9 L fluid daily; excretes 100-200 mL.
 - Diarrhea represents disturbed solute transport and water absorption.
-- Rapid extracellular fluid (ECF) compartment shrinkage leads to low blood volume, hypovolemia, shock, and acute kidney injury.
+- Rapid extracellular fluid (ECF) compartment shrinkage leads to low blood volume, hypovolemia, shock, and [[Nephrology/Acute Kidney Injury\|acute kidney injury]].
 - Significant loss of potassium causes hypokalemia (paralytic ileus, hypotonia).
 - Loss of alkaline intestinal secretions induces severe metabolic acidosis (Kussmaul breathing).
 
@@ -106,8 +106,8 @@ Routine investigations are unnecessary for self-limiting watery diarrhoea. Testi
 | **Stool Microscopy**                 | Darting motility (_V. cholerae_); <br>Trophozoites/cysts (_Giardia, E. histolytica_); <br>Fecal leukocytes/RBCs (invasive bacterial enteritis).                            |
 | **Multiplex PCR/NAAT**               | Rapid, high-sensitivity detection of viral, bacterial, and parasitic genomes. Replaced routine culture in many settings.                                                   |
 | **Stool Culture**                    | Indicated for suspected _Shigella, Salmonella, Campylobacter, Yersinia, Vibrio_. <br>Essential for antimicrobial susceptibility testing.                                   |
-| **Clostridioides difficile Testing** | Toxin A/B EIA, <br>Glutamate dehydrogenase (GDH) antigen, or NAAT. <br>Not recommended <2 years due to high asymptomatic carriage.                                         |
-| **Serum Biochemistry**               | BUN, Creatinine, Electrolytes (Na, K, Cl), Venous Blood Gas. <br>Indicated for severe dehydration, altered sensorium, ileus, or suspected Hemolytic Uremic Syndrome (HUS). |
+| **Clostridioides difficile Testing** | Toxin A/B EIA, <br>Glutamate dehydrogenase (GDH) antigen, or [[Genetics/NAAT\|NAAT]]. <br>Not recommended <2 years due to high asymptomatic carriage.                                         |
+| **Serum Biochemistry**               | BUN, Creatinine, Electrolytes (Na, K, Cl), Venous Blood Gas. <br>Indicated for severe dehydration, altered sensorium, ileus, or suspected [[Nephrology/Hemolytic uremic syndrome (HUS)\|Hemolytic Uremic Syndrome (HUS)]]. |
 | **Complete Blood Count**             | Leukocytosis with bandemia (sepsis, _Shigella_), Anemia/Thrombocytopenia (suspect HUS secondary to STEC/Shigella).                                                         |
 
 ## Management Protocol
@@ -176,7 +176,7 @@ Utilizes [[Gastrointestinal/Oral Rehydration Solution\|Oral Rehydration Solution
 ### 4. Symptomatic Pharmacotherapy
 
 - **Antiemetics:** Single-dose oral or IV Ondansetron (0.15 mg/kg) may be given if intractable vomiting prevents successful ORS administration.
-- **Antisecretory Agents:** Racecadotril (enkephalinase inhibitor) reduces stool output and duration without affecting motility. Efficacy evidence is moderate.
+- **[[Gastrointestinal/Antisecretory Agents\|Antisecretory Agents]]:** Racecadotril (enkephalinase inhibitor) reduces stool output and duration without affecting motility. Efficacy evidence is moderate.
 - **Antimotility Agents:** Loperamide, diphenoxylate. **Strictly contraindicated** in children. Risk of paralytic ileus, bacterial overgrowth, toxic megacolon, and severe CNS depression.
 
 ### 5. Antimicrobial Therapy
@@ -197,7 +197,7 @@ Empiric antibiotics are generally **not indicated** for acute watery diarrhoea (
 - **Metabolic/Renal:** Severe dehydration, hypovolemic shock, hypokalemic nephropathy, acute tubular necrosis, metabolic acidosis.
 - **Neurological:** Febrile seizures, encephalopathy, cerebral venous sinus thrombosis (due to severe dehydration/hypernatremia).
 - **Gastrointestinal:** Toxic megacolon, intestinal perforation, rectal prolapse, transient protein-losing enteropathy, post-infectious irritable bowel syndrome.
-- **Systemic:** Hemolytic Uremic Syndrome (HUS) secondary to Shiga-toxin producing _E. coli_ or _Shigella dysenteriae_ (microangiopathic hemolytic anemia, thrombocytopenia, acute kidney injury).
+- **Systemic:** [[Nephrology/Hemolytic uremic syndrome (HUS)\|Hemolytic Uremic Syndrome (HUS)]] secondary to Shiga-toxin producing _E. coli_ or _Shigella dysenteriae_ (microangiopathic hemolytic anemia, thrombocytopenia, [[Nephrology/Acute Kidney Injury\|acute kidney injury]]).
 - **Nutritional:** Weight loss, secondary lactase deficiency, transition to persistent diarrhoea, severe acute malnutrition.
 
 ## Prevention Strategies

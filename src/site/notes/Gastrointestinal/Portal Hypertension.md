@@ -7,7 +7,7 @@
 ### Core Definition
 
 - Portal pressure >10-12 mm Hg or hepatic venous pressure gradient (HVPG) >4 mm Hg.
-- Clinically significant portal hypertension exists when pressure exceeds 10-12 mm Hg, posing risk for variceal hemorrhage.
+- Clinically significant [[Gastrointestinal/Portal Hypertension\|portal hypertension]] exists when pressure exceeds 10-12 mm Hg, posing risk for variceal hemorrhage.
 - Governed by Ohm's law: ΔP = Q x R (Portal pressure = Portal blood flow x Hepatic vascular resistance).
 
 ### Pathomechanisms
@@ -25,27 +25,27 @@
 |Category|Specific Disorders|
 |:--|:--|
 |**Prehepatic (Extrahepatic)**|Portal vein thrombosis (most common extrahepatic cause in children), portal vein agenesis/atresia/stenosis, splenic vein thrombosis, arteriovenous fistula.|
-|**Intrahepatic Presinusoidal**|Congenital hepatic fibrosis, non-cirrhotic portal fibrosis (idiopathic portal hypertension), schistosomiasis, myeloproliferative diseases, focal nodular hyperplasia.|
-|**Intrahepatic Sinusoidal**|Liver cirrhosis ([[Gastrointestinal/Biliary Atresia\|biliary atresia]], Wilson disease, alpha-1-antitrypsin deficiency, cystic fibrosis, glycogen storage disease type IV, autoimmune hepatitis).|
+|**Intrahepatic Presinusoidal**|Congenital hepatic fibrosis, non-cirrhotic portal fibrosis (idiopathic [[Gastrointestinal/Portal Hypertension\|portal hypertension]]), schistosomiasis, myeloproliferative diseases, focal nodular hyperplasia.|
+|**Intrahepatic Sinusoidal**|Liver cirrhosis ([[Gastrointestinal/Biliary Atresia\|biliary atresia]], [[Gastrointestinal/Wilson Disease\|Wilson disease]], alpha-1-antitrypsin deficiency, [[Respiratory/Cystic Fibrosis\|cystic fibrosis]], glycogen storage disease type IV, [[Gastrointestinal/Autoimmune hepatitis\|autoimmune hepatitis]]).|
 |**Intrahepatic Postsinusoidal**|Venoocclusive disease (sinusoidal obstruction syndrome).|
-|**Posthepatic**|Budd-Chiari syndrome (hepatic vein or inferior vena cava obstruction/webs), right heart failure, constrictive pericarditis, Fontan circulation.|
+|**Posthepatic**|Budd-Chiari syndrome (hepatic vein or inferior vena cava obstruction/webs), right heart failure, constrictive [[Cardiology/Pericarditis\|pericarditis]], Fontan circulation.|
 
 ## Clinical Manifestations
 
 ### Primary Complications
 
-- **Gastrointestinal Hemorrhage:** Most common presentation. Hematemesis or melena originating from ruptured esophageal/gastric varices or portal hypertensive gastropathy.
+- **Gastrointestinal Hemorrhage:** Most common presentation. [[Gastrointestinal/Hematemesis\|Hematemesis]] or melena originating from ruptured esophageal/gastric varices or portal hypertensive gastropathy.
 - **Splenomegaly And Hypersplenism:** Second most common finding. Causes sequestration of platelets and leukocytes, resulting in thrombocytopenia and leukopenia.
-- **Ascites:** Fluid accumulation when hydrostatic pressure exceeds osmotic pressure. Characterized by high serum-ascites albumin gradient (SAAG) $\ge$1.1 g/dL. Risk of spontaneous bacterial peritonitis.
+- **Ascites:** Fluid accumulation when hydrostatic pressure exceeds osmotic pressure. Characterized by high serum-ascites albumin gradient (SAAG) $\ge$ 1.1 g/dL. Risk of spontaneous bacterial [[Gastrointestinal/Peritonitis\|peritonitis]].
 
 ### Systemic And Extrahepatic Complications
 
-|System|Manifestations And Pathophysiology|
-|:--|:--|
-|**Pulmonary**|**Hepatopulmonary Syndrome (HPS):** Intrapulmonary microvascular dilations causing right-to-left shunting. Presents with hypoxemia, dyspnea, cyanosis, clubbing, orthodeoxia. Diagnosed via contrast-enhanced echocardiography or macroaggregated albumin scan.**Portopulmonary Hypertension (PP-HTN):** Pulmonary arterial hypertension (>25 mm Hg). Exertional dyspnea. Pulmonary arteriopathy with intimal fibrosis.|
-|**Renal**|**Hepatorenal Syndrome (HRS):** Intense renal vasoconstriction secondary to severe splanchnic vasodilation. Presents as oliguria, low urine sodium, rising creatinine.|
-|**Neurological**|**Hepatic Encephalopathy:** Especially in cirrhosis or prominent portosystemic shunting. Minimal hepatic encephalopathy compromises attention and psychomotor performance.|
-|**Biliary**|**Portal Hypertensive Biliopathy:** Compression of biliary tree by cavernomatous collaterals in extrahepatic portal venous obstruction (EHPVO), causing strictures and cholestasis.|
+| System           | Manifestations And Pathophysiology                                                                                                                                                                                                                                                                                                                                                                                          |
+| :--------------- | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Pulmonary**    | **Hepatopulmonary Syndrome (HPS):** Intrapulmonary microvascular dilations causing right-to-left shunting. Presents with hypoxemia, dyspnea, cyanosis, clubbing, orthodeoxia. Diagnosed via contrast-enhanced echocardiography or macroaggregated albumin scan.<br>**Portopulmonary Hypertension (PP-HTN):** Pulmonary arterial hypertension (>25 mm Hg). Exertional dyspnea. Pulmonary arteriopathy with intimal fibrosis. |
+| **Renal**        | **Hepatorenal Syndrome (HRS):** Intense renal vasoconstriction secondary to severe splanchnic vasodilation. Presents as oliguria, low urine sodium, rising creatinine.                                                                                                                                                                                                                                                      |
+| **Neurological** | **[[Gastrointestinal/Hepatic Encephalopathy\|Hepatic Encephalopathy]]:** Especially in cirrhosis or prominent portosystemic shunting. Minimal [[Gastrointestinal/Hepatic Encephalopathy\|hepatic encephalopathy]] compromises attention and psychomotor performance.                                                                                                                                                                                                                                          |
+| **Biliary**      | **Portal Hypertensive Biliopathy:** Compression of biliary tree by cavernomatous collaterals in extrahepatic portal venous obstruction (EHPVO), causing strictures and cholestasis.                                                                                                                                                                                                                                         |
 
 ## Diagnostic Evaluation
 
@@ -61,8 +61,8 @@
 - **Esophagogastroduodenoscopy (EGD):** Gold standard for detecting and grading esophageal/gastric varices and portal hypertensive gastropathy. Predicts bleeding risk (red wale marks, large varices).
 - **Hepatic Venous Pressure Gradient (HVPG):** Measures difference between wedged (WHVP) and free (FHVP) hepatic venous pressures.
     - Normal: 1-5 mm Hg.
-    - $\ge$10 mm Hg: Varices formation.
-    - $\ge$12 mm Hg: Variceal bleeding risk.
+    - $\ge$ 10 mm Hg: Varices formation.
+    - $\ge$ 12 mm Hg: Variceal bleeding risk.
     - _Utility:_ Differentiates sinusoidal PH (elevated WHVP, high HVPG) from presinusoidal PH (normal WHVP, normal HVPG).
 
 ## Management Protocol
@@ -89,7 +89,7 @@ Medical emergency prioritizing hemodynamic stabilization and bleeding cessation.
 
 |Intervention|Indication And Mechanism|
 |:--|:--|
-|**Transjugular Intrahepatic Portosystemic Shunt (TIPS)**|Interventional radiology placement of stent between hepatic and portal vein. Bypasses liver resistance. Indicated for refractory variceal hemorrhage or intractable ascites. Used frequently as bridge to liver transplantation.|
+|**Transjugular Intrahepatic Portosystemic Shunt (TIPS)**|Interventional radiology placement of stent between hepatic and portal vein. Bypasses liver resistance. Indicated for refractory variceal hemorrhage or intractable ascites. Used frequently as bridge to [[Gastrointestinal/Liver Transplantation\|liver transplantation]].|
 |**Meso-Rex Bypass**|Superior mesenteric vein to left portal vein bypass. Procedure of choice for extrahepatic portal vein obstruction (EHPVO). Restores physiologic hepatopetal flow, alleviating hypersplenism, bleeding risk, and resolving neurocognitive/growth retardation.|
 |**Portosystemic Shunts**|Distal splenorenal shunt (decompresses varices while maintaining hepatic flow; lower encephalopathy risk), mesocaval shunt, or portocaval shunt. Indicated in patients with preserved synthetic function failing endoscopic therapy.|
-|**Liver Transplantation**|Definitive, curative therapy for portal hypertension secondary to progressive end-stage cirrhotic liver disease, severe hepatopulmonary syndrome, or failed medical/surgical management.|
+|**[[Gastrointestinal/Liver Transplantation\|Liver Transplantation]]**|Definitive, curative therapy for [[Gastrointestinal/Portal Hypertension\|portal hypertension]] secondary to progressive end-stage cirrhotic liver disease, severe hepatopulmonary syndrome, or failed medical/surgical management.|

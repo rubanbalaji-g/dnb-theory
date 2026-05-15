@@ -4,9 +4,9 @@
 
 ## Definitions And Terminology
 
-- **Acute diarrhea:** Episode lasts <14 days.
+- **[[Gastrointestinal/Acute Diarrhea\|Acute diarrhea]]:** Episode lasts <14 days.
 - **Persistent diarrhea:** Presumed infectious etiology; starts acutely, persists ≥14 days.
-- **Chronic diarrhea:** Insidious onset; duration >2 weeks in children. Defined quantitatively as stool volume >20 g/kg/day.
+- **[[Gastrointestinal/Chronic Diarrhea\|Chronic diarrhea]]:** Insidious onset; duration >2 weeks in children. Defined quantitatively as stool volume >20 g/kg/day.
 
 ## Epidemiology And Global Burden
 
@@ -51,19 +51,19 @@
 
 | Age Group              | Watery Diarrhea Causes                                                                                                                                                                                                         | Bloody/Inflammatory Causes                                                                                                                              | Fatty Diarrhea Causes                                                               |
 | :--------------------- | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------ | :---------------------------------------------------------------------------------- |
-| **<6 Months**          | Cow milk protein allergy<br>Lymphangiectasia<br>Post-enteritis syndrome<br>Immunodeficiency<br>Microvillus inclusion disease<br>Tufting enteropathy<br>Glucose-galactose malabsorption<br>Congenital sodium/chloride diarrhea. | Cow milk protein allergy<br>CMV colitis<br>Very early onset IBD<br>Hirschsprung enterocolitis<br>Necrotizing enterocolitis.                             | Cystic fibrosis<br>Cholestasis.                                                     |
-| **6 Months - 5 Years** | Toddler diarrhea<br>[[Gastrointestinal/Celiac disease\|Celiac disease]]<br>Post-enteritis syndrome Giardiasis<br>Short bowel syndrome<br>Bacterial overgrowth.                                                                                                      | Cow milk protein allergy<br>CMV colitis<br>Hirschsprung enterocolitis<br>Pseudomembranous colitis, Ulcerative colitis<br>Crohn disease<br>Tuberculosis. | Cystic fibrosis, Chronic pancreatitis<br>Cholestasis<br>Shwachman-Diamond syndrome. |
-| **>5 Years**           | [[Gastrointestinal/Celiac disease\|Celiac disease]]<br>Giardiasis<br>Lactose intolerance<br>Irritable bowel syndrome (IBS)<br>Short bowel syndrome<br>Immunodeficiency<br>Drugs.                                                                                    | Ulcerative colitis<br>Crohn disease<br>Tuberculosis<br>Pseudomembranous colitis<br>Radiation colitis.                                                   | Chronic pancreatitis<br>Cystic fibrosis, Cholestasis.                               |
+| **<6 Months**          | Cow milk protein allergy<br>Lymphangiectasia<br>Post-enteritis syndrome<br>Immunodeficiency<br>Microvillus inclusion disease<br>Tufting enteropathy<br>Glucose-galactose malabsorption<br>Congenital sodium/chloride diarrhea. | Cow milk protein allergy<br>CMV colitis<br>Very early onset IBD<br>Hirschsprung enterocolitis<br>Necrotizing enterocolitis.                             | [[Respiratory/Cystic Fibrosis\|Cystic fibrosis]]<br>Cholestasis.                                                     |
+| **6 Months - 5 Years** | Toddler diarrhea<br>[[Gastrointestinal/Celiac disease\|Celiac disease]]<br>Post-enteritis syndrome Giardiasis<br>Short bowel syndrome<br>Bacterial overgrowth.                                                                                                      | Cow milk protein allergy<br>CMV colitis<br>Hirschsprung enterocolitis<br>Pseudomembranous colitis, Ulcerative colitis<br>Crohn disease<br>Tuberculosis. | [[Respiratory/Cystic Fibrosis\|Cystic fibrosis]], [[Gastrointestinal/Chronic Pancreatitis\|Chronic pancreatitis]]<br>Cholestasis<br>Shwachman-Diamond syndrome. |
+| **>5 Years**           | [[Gastrointestinal/Celiac disease\|Celiac disease]]<br>Giardiasis<br>Lactose intolerance<br>Irritable bowel syndrome (IBS)<br>Short bowel syndrome<br>Immunodeficiency<br>Drugs.                                                                                    | Ulcerative colitis<br>Crohn disease<br>Tuberculosis<br>Pseudomembranous colitis<br>Radiation colitis.                                                   | [[Gastrointestinal/Chronic Pancreatitis\|Chronic pancreatitis]]<br>[[Respiratory/Cystic Fibrosis\|Cystic fibrosis]], Cholestasis.                               |
 
 ### Mechanistic Classification
 
 |Mechanism|Representative Conditions|
 |:--|:--|
-|**Secretory**|Cholera, toxigenic _E. coli_, VIPoma, neuroblastoma, congenital chloride diarrhea, microvillus inclusion disease, tufting enteropathy.|
+|**Secretory**|Cholera, toxigenic _E. coli_, VIPoma, [[Hematology/Neuroblastoma\|neuroblastoma]], congenital chloride diarrhea, microvillus inclusion disease, tufting enteropathy.|
 |**Osmotic**|Lactase deficiency, sucrase-isomaltase deficiency, glucose-galactose malabsorption, excessive fruit juice/sorbitol ingestion, laxative abuse.|
 |**Mucosal Invasion/Inflammatory**|_Salmonella_, _Shigella_, _Campylobacter_, _Yersinia_, Amebiasis, Crohn disease, Ulcerative colitis, [[Gastrointestinal/Celiac disease\|Celiac disease]], Autoimmune enteropathy.|
 |**Decreased Surface Area**|Short bowel syndrome, severe [[Gastrointestinal/Celiac disease\|celiac disease]], rotavirus enteritis.|
-|**Motility Defects**|Hyperthyroidism, chronic intestinal pseudo-obstruction, Hirschsprung disease.|
+|**Motility Defects**|Hyperthyroidism, chronic intestinal pseudo-obstruction, [[Gastrointestinal/Hirschsprung disease\|Hirschsprung disease]].|
 
 ## Diagnostic Evaluation
 ```mermaid
@@ -133,7 +133,7 @@ graph TD
     - Undigested food particles: Toddler diarrhea.
 - **Associated symptoms:**
     - Nighttime waking to defecate: Organic etiology (IBD).
-    - Recurrent respiratory infections: Cystic fibrosis, immunodeficiency.
+    - Recurrent respiratory infections: [[Respiratory/Cystic Fibrosis\|Cystic fibrosis]], immunodeficiency.
     - Polyhydramnios in pregnancy: Congenital chloride/sodium diarrhea, microvillus inclusion disease.
     - Fever, joint pain, rashes: IBD, autoimmune enteropathy.
 
@@ -144,7 +144,7 @@ graph TD
 - Edema: Indicates protein-losing enteropathy (lymphangiectasia, severe mucosal disease).
 - Abdomen: Distension (malabsorption, SIBO), hepatosplenomegaly, surgical scars.
 - Perianal region: Excoriation (acidic stools), skin tags, fissures, fistulae (Crohn disease).
-- Systemic signs: Clubbing (cystic fibrosis, celiac, IBD), dermatitis herpetiformis (celiac), alopecia (autoimmune).
+- Systemic signs: Clubbing ([[Respiratory/Cystic Fibrosis\|cystic fibrosis]], celiac, IBD), dermatitis herpetiformis (celiac), alopecia (autoimmune).
 
 ### Stepwise Diagnostic Algorithm
 
@@ -156,9 +156,9 @@ graph TD
 | **Stool Osmolar Gap**                | Measured osmolality - 2x(Na + K). >100 mOsm/kg indicates osmotic diarrhea; <br><50 mOsm/kg indicates secretory diarrhea. |
 | **Stool Electrolytes**               | Cl > 90 mmol/L suggests congenital chloride diarrhea. <br>Na > 70 mmol/L suggests congenital sodium diarrhea.            |
 | **Fecal Calprotectin / Lactoferrin** | Elevated levels indicate intestinal inflammation (IBD, severe enteropathy).                                              |
-| **Fecal Elastase-1**                 | Low levels indicate exocrine pancreatic insufficiency (Cystic fibrosis, Shwachman-Diamond).                              |
+| **Fecal Elastase-1**                 | Low levels indicate [[Gastrointestinal/Exocrine Pancreatic Insufficiency\|exocrine pancreatic insufficiency]] ([[Respiratory/Cystic Fibrosis\|Cystic fibrosis]], Shwachman-Diamond).                              |
 | **Fecal Alpha-1-Antitrypsin**        | Elevated levels indicate protein-losing enteropathy.                                                                     |
-| **Microbiology**                     | Culture, ova/parasites, _C. difficile_ toxin, viral NAAT.                                                                |
+| **Microbiology**                     | Culture, ova/parasites, _C. difficile_ toxin, viral [[Genetics/NAAT\|NAAT]].                                                                |
 
 #### Step 2: Blood And Serological Investigations
 
@@ -171,7 +171,7 @@ graph TD
 #### Step 3: Advanced Diagnostics (Imaging And Endoscopy)
 
 - **Breath Tests:** Hydrogen breath test for lactose/fructose/sucrose malabsorption or SIBO.
-- **Sweat Chloride Test:** Rule out cystic fibrosis.
+- **Sweat Chloride Test:** Rule out [[Respiratory/Cystic Fibrosis\|cystic fibrosis]].
 - **Endoscopy with Biopsy:** Esophagogastroduodenoscopy and ileocolonoscopy. Essential for [[Gastrointestinal/Celiac disease\|celiac disease]], IBD, eosinophilic gastroenteritis, autoimmune enteropathy, microvillus inclusion disease.
     - Electron microscopy: Required for microvillus inclusion disease.
     - PAS staining: Highlights apical inclusions in microvillus inclusion disease.
@@ -231,7 +231,7 @@ graph TD
 ### [[Gastrointestinal/Celiac disease\|Celiac Disease]]
 
 - Immune-mediated enteropathy triggered by gluten in genetically susceptible (HLA-DQ2/DQ8) individuals.
-- Presentation: Chronic diarrhea, failure to thrive, abdominal distension, muscle wasting.
+- Presentation: [[Gastrointestinal/Chronic Diarrhea\|Chronic diarrhea]], failure to thrive, abdominal distension, muscle wasting.
 - Non-classical signs: Short stature, iron-deficiency anemia, delayed puberty, osteoporosis, elevated transaminases.
 - Serology: Tissue transglutaminase (tTG) IgA, Endomysial antibody (EMA) IgA.
 - Histology: Increased intraepithelial lymphocytes, crypt hyperplasia, villous atrophy (Marsh classification).
@@ -281,15 +281,15 @@ graph TD
 
 - Malnutrition and mucosal damage lead to profound deficits.
 - **Zinc:** Essential for mucosal repair, immune function. 5 mg/day for 14 days.
-- **Vitamin A:** High dose recommended for mucosal integrity.
+- **[[Nutrition/Vitamin A\|Vitamin A]]:** High dose recommended for mucosal integrity.
 - **Iron:** Initiate only _after_ diarrhea resolves to prevent worsening oxidative stress and pathogen proliferation.
-- **Additional:** Folic acid, copper, magnesium, multivitamin supplementation at twice Recommended Dietary Allowance (RDA) for 2-4 weeks.
+- **Additional:** Folic acid, copper, magnesium, multivitamin supplementation at twice Recommended Dietary Allowance ([[Nutrition/RDA\|RDA]]) for 2-4 weeks.
 
 ### Pharmacotherapy And Advanced Interventions
 
 - **Antibiotics:** Avoid empirical use. Indicated only for proven specific bacterial infections (e.g., _Shigella_, _Campylobacter_, cholera), _C. difficile_, parasitic infections (_Giardia_, _Entamoeba_), or severe sepsis/malnutrition.
 - **Anti-motility agents:** (Loperamide, diphenoxylate) Strictly contraindicated in children; risk of ileus, toxic megacolon, and prolonged pathogen shedding.
 - **Probiotics:** _Lactobacillus rhamnosus_ GG or _Saccharomyces boulardii_ may shorten duration of viral/post-infectious diarrhea, though evidence in chronic severe diarrhea is limited.
-- **Pancreatic Enzyme Replacement Therapy (PERT):** For cystic fibrosis, Shwachman-Diamond syndrome.
+- **Pancreatic Enzyme Replacement Therapy (PERT):** For [[Respiratory/Cystic Fibrosis\|cystic fibrosis]], Shwachman-Diamond syndrome.
 - **Immunosuppression:** Systemic corticosteroids, calcineurin inhibitors (cyclosporine, tacrolimus), biologic agents (infliximab, vedolizumab) strictly for autoimmune enteropathy and IBD.
 - **Surgery/Transplantation:** Total parenteral nutrition and eventual intestinal transplantation reserved for irreversible congenital diarrheal disorders (MVID, Tufting enteropathy).

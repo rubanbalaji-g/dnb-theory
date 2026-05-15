@@ -4,7 +4,7 @@
 
 ## Definition And Principle
 
-- High-throughput next-generation sequencing (NGS) technology selectively evaluating protein-coding regions (exons) within the human genome.
+- High-throughput [[Genetics/Next-Generation Sequencing (NGS)\|next-generation sequencing (NGS)]] technology selectively evaluating protein-coding regions (exons) within the human genome.
 - Targets approximately 20,000 known human genes, representing merely 1% to 2% of the entire genome (approximately 30-60 Mb).
 - Captures the vast majority (approximately 85%) of established disease-causing pathogenic variants responsible for Mendelian disorders.
 - Identifies single nucleotide variants (SNVs), small insertions and deletions (indels), missense mutations, and splice-site alterations.
@@ -23,7 +23,7 @@
 
 |Category|Specific Clinical Scenarios|
 |---|---|
-|**Neurodevelopmental Disorders**|Unexplained global developmental delay, intellectual disability, and autism spectrum disorder after negative chromosomal microarray.|
+|**Neurodevelopmental Disorders**|Unexplained [[Development/Global Developmental Delay\|global developmental delay]], intellectual disability, and [[Development/Autism Spectrum Disorder\|autism spectrum disorder]] after negative chromosomal microarray.|
 |**Complex Phenotypes**|Multiple congenital anomalies or dysmorphic features lacking a clearly recognizable syndromic pattern.|
 |**Extreme Heterogeneity**|Suspected monogenic disorders implicating massive numbers of candidate genes (e.g., epileptic encephalopathies, skeletal dysplasias, neuromuscular disorders).|
 |**Atypical Presentations**|Inborn errors of metabolism with negative biochemical screening or atypical features of known conditions.|

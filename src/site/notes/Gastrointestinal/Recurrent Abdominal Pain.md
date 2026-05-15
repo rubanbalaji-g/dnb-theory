@@ -6,9 +6,9 @@
 
 - Episodic or continuous abdominal pain lasting for a period of at least 2 months.
 - Affects approximately 10% of school-aged children.
-- Often referred to as functional abdominal pain when no underlying organic cause is identified.
+- Often referred to as [[Gastrointestinal/Functional Abdominal Pain\|functional abdominal pain]] when no underlying organic cause is identified.
 
-## Diagnostic Features Of Functional Recurrent Abdominal Pain
+## Diagnostic Features Of Functional [[Gastrointestinal/Recurrent Abdominal Pain\|Recurrent Abdominal Pain]]
 
 ### Clinical Presentation
 
@@ -20,10 +20,10 @@
 
 |Subtype|Diagnostic Criteria|
 |:--|:--|
-|Functional abdominal pain - not otherwise specified|Episodic or continuous periumbilical pain occurring $\ge$4 times/month for >2 months; insufficient criteria for other functional disorders.|
+|[[Gastrointestinal/Functional Abdominal Pain\|Functional abdominal pain]] - not otherwise specified|Episodic or continuous periumbilical pain occurring $\ge$4 times/month for >2 months; insufficient criteria for other functional disorders.|
 |Irritable bowel syndrome|Abdominal pain $\ge$4 days/month associated with defecation, change in stool frequency, or change in stool form.|
 |Functional dyspepsia|Postprandial fullness, early satiety, epigastric pain/burning not relieved by defecation.|
-|Abdominal migraine|Paroxysmal intense periumbilical/midline pain >1 hour; associated with anorexia, nausea, vomiting, headache, photophobia, pallor.|
+|Abdominal [[Neurology/Migraine\|migraine]]|Paroxysmal intense periumbilical/midline pain >1 hour; associated with anorexia, nausea, vomiting, headache, photophobia, pallor.|
 
 ### Absence Of Alarm (Red Flag) Signs
 
@@ -50,7 +50,7 @@
 |Celiac serology|Measure tissue transglutaminase IgA, total serum IgA.|
 |Stool analysis|Check for occult blood, ova/parasites, Giardia.|
 |Fecal calprotectin|Differentiate functional pain from inflammatory bowel disease.|
-|Urinalysis|Exclude urinary tract infection.|
+|Urinalysis|Exclude [[Nephrology/Urinary Tract Infection\|urinary tract infection]].|
 
 ### Advanced Testing
 

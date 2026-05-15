@@ -25,11 +25,11 @@
 
 |System|Characteristic Manifestations|
 |:--|:--|
-|Central Nervous System|Holoprosencephaly (hallmark malformation), microcephaly, profound global developmental delay, severe intellectual disability.|
+|Central Nervous System|Holoprosencephaly (hallmark malformation), [[Neurology/Microcephaly\|microcephaly]], profound [[Development/Global Developmental Delay\|global developmental delay]], severe intellectual disability.|
 |Craniofacial|Bilateral cleft lip and palate, microphthalmia, iris coloboma, retinal dysplasia, low-set malformed ears, sloping forehead.|
 |Dermatological|Cutis aplasia congenita (punched-out scalp defects), prominent capillary hemangiomas over the forehead and nape.|
 |Musculoskeletal|Postaxial polydactyly of hands and feet, rocker-bottom feet, clenched hands, severe hypotonia.|
-|Cardiovascular|Congenital heart defects in 80% of cases, primarily VSD, ASD, and PDA.|
+|Cardiovascular|Congenital heart defects in 80% of cases, primarily [[Cardiology/VSD\|VSD]], [[Cardiology/ASD\|ASD]], and PDA.|
 |Gastrointestinal and Genitourinary|Omphalocele, echogenic polycystic kidneys, cryptorchidism in males, bicornuate uterus in females.|
 
 ## Diagnostic Evaluation
@@ -42,7 +42,7 @@
 
 ### Postnatal Diagnosis
 
-- Standard G-banded karyotyping of peripheral blood lymphocytes remains the gold standard for definitive diagnosis.
+- Standard G-banded [[Genetics/Karyotyping\|karyotyping]] of peripheral blood lymphocytes remains the gold standard for definitive diagnosis.
 - FISH on uncultured blood allows for rapid preliminary detection within 24 to 48 hours.
 - CMA is useful for clarifying complex chromosomal rearrangements or partial trisomies.
 - Baseline evaluation requires urgent echocardiography, cranial imaging, and renal ultrasonography to delineate internal malformations.
@@ -55,4 +55,4 @@
 - Approximately 50% of infants succumb within the first week, and 90% mortality is observed within the first year.
 - Long-term survivors experience severe intractable seizures, sensory impairments, and require total assistance for daily living.
 - Recurrence risk for full nondisjunction trisomy 13 is approximately 1%.
-- Parental karyotyping is mandatory for translocation cases; parental balanced translocation carriers face significantly elevated recurrence risks and require options like PGT or invasive prenatal diagnosis for future pregnancies.
+- Parental [[Genetics/Karyotyping\|karyotyping]] is mandatory for translocation cases; parental balanced translocation carriers face significantly elevated recurrence risks and require options like PGT or invasive prenatal diagnosis for future pregnancies.

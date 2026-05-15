@@ -31,7 +31,7 @@ Screening recommended for asymptomatic children with:
 - Type 1 Diabetes Mellitus (10% prevalence)
 - Autoimmune thyroid disease (Hashimoto, Graves)
 - Selective IgA deficiency
-- Down syndrome, Turner syndrome, Williams-Beuren syndrome
+- Down syndrome, [[Genetics/Turner Syndrome\|Turner syndrome]], Williams-Beuren syndrome
 - Autoimmune liver disease
 - Juvenile idiopathic arthritis
 
@@ -42,7 +42,7 @@ Spectrum ranges from severe malabsorption to asymptomatic.
 |Classification|Clinical Features & Nuances|
 |:--|:--|
 |**Classic (Malabsorptive)**|Early onset (9–24 months). [[Gastrointestinal/Chronic Diarrhea\|Chronic diarrhea]], weight loss, failure to thrive, abdominal distension, muscle wasting, anorexia, irritability, vomiting.|
-|**Nonclassic (Extra-intestinal)**|Later childhood/adolescence presentation. Short stature, delayed puberty, refractory iron deficiency anemia, dental enamel hypoplasia, recurrent aphthous stomatitis, osteoporosis, dermatitis herpetiformis, hypertransaminasemia, arthritis, alopecia areata.|
+|**Nonclassic (Extra-intestinal)**|Later childhood/adolescence presentation. Short stature, delayed puberty, refractory [[Hematology/Iron Deficiency Anemia\|iron deficiency anemia]], dental enamel hypoplasia, recurrent aphthous stomatitis, osteoporosis, dermatitis herpetiformis, hypertransaminasemia, arthritis, alopecia areata.|
 |**Subclinical / Silent**|No apparent signs/symptoms triggering evaluation; diagnosed via screening of high-risk groups (positive serology & histology).|
 |**Potential**|Positive celiac serology; normal small intestinal mucosa. May or may not develop enteropathy later.|
 |**Refractory**|Persistent/recurrent malabsorptive symptoms and villous atrophy despite strict gluten-free diet >12 months. Rare in children.|
@@ -94,7 +94,7 @@ Gold standard when no-biopsy criteria unmet (tTG-IgA <10x ULN).
 ### 4. Genetic Testing (HLA DQ2/DQ8)
 
 - High negative predictive value.
-- Absence of DQ2/DQ8 makes celiac disease highly unlikely.
+- Absence of DQ2/DQ8 makes [[Gastrointestinal/Celiac disease\|celiac disease]] highly unlikely.
 - Useful for excluding disease in diagnostically uncertain cases or screening at-risk groups (Down syndrome, T1DM) to eliminate need for future serologic screening.
 
 ## DIFFERENTIAL DIAGNOSIS
@@ -102,7 +102,7 @@ Gold standard when no-biopsy criteria unmet (tTG-IgA <10x ULN).
 |Category|Conditions|
 |:--|:--|
 |**Mucosal Damage / Enteropathy**|Autoimmune enteropathy, Crohn disease, Eosinophilic gastroenteritis, Tropical sprue, Cow's milk protein allergy.|
-|**Digestive/Enzyme Deficiency**|Lactose malabsorption, Sucrase-isomaltase deficiency, Cystic fibrosis (pancreatic insufficiency).|
+|**Digestive/Enzyme Deficiency**|Lactose malabsorption, Sucrase-isomaltase deficiency, [[Respiratory/Cystic Fibrosis\|Cystic fibrosis]] (pancreatic insufficiency).|
 |**Non-Celiac Gluten Sensitivity**|GI/non-GI symptoms upon gluten ingestion, lacking enteropathy and lacking specific autoantibodies.|
 
 ## MANAGEMENT
@@ -124,7 +124,7 @@ Strict, lifelong elimination of gluten remains the sole medical therapy.
 ### 3. NIH "CELIAC" Mnemonic for Management
 
 - **C:** Consultation with skilled dietitian.
-- **E:** Education about disease.
+- **E:** Education [[About\|about]] disease.
 - **L:** Lifelong adherence to GFD.
 - **I:** Identification/treatment of nutritional deficiencies.
 - **A:** Access to advocacy group.
@@ -138,7 +138,7 @@ Strict, lifelong elimination of gluten remains the sole medical therapy.
 
 ## COMPLICATIONS & PROGNOSIS
 
-- **Nonresponsive Celiac Disease:** Persistent symptoms/serology. Most common cause: intentional or inadvertent ongoing gluten ingestion.
+- **Nonresponsive [[Gastrointestinal/Celiac disease\|Celiac Disease]]:** Persistent symptoms/serology. Most common cause: intentional or inadvertent ongoing gluten ingestion.
 - **Growth Failure:** Untreated disease results in permanent short stature. Excellent catch-up growth typically observed if treated before puberty.
 - **Malignancy Risk:** Enteropathy-associated T-cell lymphoma (EATL) or small bowel adenocarcinoma. Increased risk in adulthood if untreated; minimized to baseline population risk with strict GFD compliance.
 - **Autoimmune Propagation:** Continued gluten exposure hypothesized to increase risk of concurrent autoimmune diseases (T1DM, thyroiditis).

@@ -2,10 +2,10 @@
 {"dg-publish":true,"uptext":"Back to Index (🧬 Genetics)","uplink":"/genetics/genetics/","permalink":"/genetics/angelman-syndrome-and-prader-willi-syndrome-15q11-13-imprinting-disorders/","dgPassFrontmatter":true}
 ---
 
-## Shared Genetic Basis And Genomic Imprinting
+## Shared Genetic Basis And [[Genetics/Genomic Imprinting\|Genomic Imprinting]]
 
 - Both Prader-Willi syndrome (PWS) and Angelman syndrome (AS) result from the loss of function of genes in the imprinted region of chromosome 15q11.2-q13.
-- Genomic imprinting involves parent-of-origin specific gene expression mediated by DNA methylation and histone modification.
+- [[Genetics/Genomic Imprinting\|Genomic imprinting]] involves parent-of-origin specific gene expression mediated by DNA methylation and histone modification.
 - Paternally expressed genes (SNRPN, NDN, MAGEL2, MKRN3) are critical for preventing PWS, while the maternally expressed gene UBE3A is critical for preventing AS.
 - Diagnosis for both conditions initially requires methylation analysis, which detects greater than 99% of cases, followed by specific testing to distinguish the exact genetic mechanism.
 
@@ -21,13 +21,13 @@
 - **Neonatal And Infancy Phase:** Severe hypotonia ([[Neuromuscular/Approach to a floppy infant\|Approach to a floppy infant]]), weak cry, poor suck, failure to thrive, and frequent requirement for nasogastric feeding.
 - **Childhood Phase (2-6 Years):** Development of hyperphagia (insatiable appetite), rapid weight gain, central obesity, short stature, small hands and feet, and hypopigmentation.
 - **Adolescence And Adulthood:** Morbid obesity, type 2 diabetes mellitus, hypogonadism (cryptorchidism, delayed puberty, infertility), and mild to moderate intellectual disability (IQ 60-70).
-- **Behavioral And Other Features:** Obsessive-compulsive behavior, skin picking, temper tantrums, high pain threshold, sleep apnea, and scoliosis.
+- **Behavioral And Other Features:** Obsessive-compulsive behavior, skin picking, [[Development/Temper Tantrums\|temper tantrums]], high pain threshold, sleep apnea, and scoliosis.
 
 ### Diagnostic Evaluation
 
 - **First-Line Testing:** Methylation-specific PCR or MS-MLPA demonstrates an abnormal maternal-only methylation pattern.
 - **Confirmatory Testing:** Fluorescence In Situ Hybridization (FISH) or Chromosomal Microarray (CMA) confirms deletions. Single Nucleotide Polymorphism (SNP) microarray detects maternal uniparental disomy (UPD).
-- **Endocrine Evaluation:** Serum IGF-1, GH stimulation test, and bone age assessment.
+- **Endocrine Evaluation:** Serum IGF-1, GH stimulation test, and [[Development/Bone Age Assessment\|bone age assessment]].
 
 ### Management Principles
 
@@ -46,7 +46,7 @@
 
 ### Clinical Manifestations
 
-- **Infancy:** Severe developmental delay, early hypotonia, feeding difficulties, and postnatal microcephaly.
+- **Infancy:** Severe developmental delay, early hypotonia, feeding difficulties, and postnatal [[Neurology/Microcephaly\|microcephaly]].
 - **Neurological Features:** Profound intellectual disability, absent speech, early-onset seizures (occurring in 80% of cases, typically onset before 3 years), ataxia, gait apraxia, and tremulousness.
 - **Behavioral Phenotype:** Distinctive "happy puppet" behavior characterized by inappropriate and frequent laughter, a happy demeanor, hand flapping, hypermotoric behavior, and severe sleep disturbances.
 - **Craniofacial Features:** Wide mouth, protruding tongue, prominent jaw, deep-set eyes, and hypopigmentation (especially in deletion cases).

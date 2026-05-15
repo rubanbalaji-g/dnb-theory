@@ -4,7 +4,7 @@
 
 ## DEFINITION & PRESENTATION
 
-- **Hematemesis:** Expulsion of blood in vomitus during first 28 days of life.
+- **[[Gastrointestinal/Hematemesis\|Hematemesis]]:** Expulsion of blood in vomitus during first 28 days of life.
 - **Source:** Upper gastrointestinal (UGI) tract; proximal to ligament of Treitz.
 - **Appearance:** Bright red (fresh hemorrhage) or "coffee-ground" (heme degraded by gastric acid).
 - **Hemodynamic Status:** Varies from asymptomatic to life-threatening hypovolemic shock.
@@ -17,7 +17,7 @@ Neonatal UGI bleeding etiology differs significantly from older children.
 |:--|:--|
 |**Maternal Source**|Swallowed maternal blood (during delivery or from cracked nipple during breastfeeding).|
 |**Mucosal Injury**|Stress gastritis/ulcers (sepsis, hypoxia, mechanical ventilation), reflux esophagitis.|
-|**Hematologic**|Hemorrhagic disease of the newborn (Vitamin K deficiency bleeding), disseminated intravascular coagulation (DIC), alloimmune liver disease.|
+|**Hematologic**|Hemorrhagic disease of the newborn (Vitamin K deficiency bleeding), [[Hematology/Disseminated Intravascular Coagulation\|disseminated intravascular coagulation]] (DIC), alloimmune liver disease.|
 |**Allergic**|Cow's milk protein allergy/sensitivity.|
 |**Anatomic/Vascular**|Gastrointestinal duplication, vascular malformations, duodenal/gastric web, teratoma.|
 

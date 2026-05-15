@@ -20,10 +20,10 @@
 
 ### Clinical Applications in Pediatrics
 
-- **Hemoglobinopathies:** CRISPR-Cas9 is utilized ex vivo to edit autologous hematopoietic stem cells, disabling the erythroid-specific enhancer of the BCL11A gene to reactivate fetal hemoglobin production. Exagamglogene autotemcel (Casgevy) is an FDA-approved therapy for Sickle Cell Disease and Beta-Thalassemia.
-- **Neuromuscular Disorders:** In vivo somatic editing utilizing AAV vectors to deliver CRISPR-Cas9 is under investigation for exon skipping in Duchenne Muscular Dystrophy (DMD) and modifying the SMN2 gene in Spinal Muscular Atrophy (SMA).
-- **Oncology:** Ex vivo editing of autologous T-cells is used to insert Chimeric Antigen Receptors (CARs) targeting CD19 in pediatric B-cell Acute Lymphoblastic Leukemia.
-- **Hepatic Disorders:** In vivo LNP-mediated CRISPR targeting the liver is undergoing clinical trials for conditions like Familial Hypercholesterolemia via PCSK9 knockout.
+- **Hemoglobinopathies:** CRISPR-Cas9 is utilized ex vivo to edit autologous hematopoietic stem cells, disabling the erythroid-specific enhancer of the BCL11A gene to reactivate fetal hemoglobin production. Exagamglogene autotemcel (Casgevy) is an FDA-approved therapy for [[Hematology/Sickle Cell Disease\|Sickle Cell Disease]] and Beta-Thalassemia.
+- **Neuromuscular Disorders:** In vivo somatic editing utilizing AAV vectors to deliver CRISPR-Cas9 is under investigation for exon skipping in Duchenne Muscular Dystrophy (DMD) and modifying the SMN2 gene in [[Neuromuscular/Spinal Muscular Atrophy\|Spinal Muscular Atrophy]] (SMA).
+- **Oncology:** Ex vivo editing of autologous T-cells is used to insert Chimeric Antigen Receptors (CARs) targeting CD19 in pediatric B-cell [[Hematology/Acute Lymphoblastic Leukemia\|Acute Lymphoblastic Leukemia]].
+- **Hepatic Disorders:** In vivo LNP-mediated [[Genetics/CRISPR\|CRISPR]] targeting the liver is undergoing clinical trials for conditions like Familial Hypercholesterolemia via PCSK9 knockout.
 
 ### Ethical Considerations
 

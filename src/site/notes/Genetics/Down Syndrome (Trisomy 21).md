@@ -27,17 +27,17 @@ The clinical presentation involves a recognizable pattern of dysmorphic features
 |System|Clinical Manifestations|
 |:--|:--|
 |**Craniofacial**|Flat facial profile, upslanting palpebral fissures, epicanthic folds, Brushfield spots, flat nasal bridge, small ears, protruding tongue, short neck with excess nuchal skin.|
-|**Cardiovascular**|Present in 40-50% of patients. Atrioventricular septal defect (AVSD) is the most common, followed by ventricular septal defect (VSD), patent ductus arteriosus (PDA), and tetralogy of Fallot.|
-|**Gastrointestinal**|Present in 10-15% of patients. Duodenal atresia, Hirschsprung disease, annular pancreas, and [[Gastrointestinal/Celiac disease\|celiac disease]].|
+|**Cardiovascular**|Present in 40-50% of patients. Atrioventricular septal defect (AVSD) is the most common, followed by ventricular septal defect ([[Cardiology/VSD\|VSD]]), patent ductus arteriosus (PDA), and [[Cardiology/Tetralogy of Fallot\|tetralogy of Fallot]].|
+|**Gastrointestinal**|Present in 10-15% of patients. Duodenal atresia, [[Gastrointestinal/Hirschsprung disease\|Hirschsprung disease]], annular pancreas, and [[Gastrointestinal/Celiac disease\|celiac disease]].|
 |**Neurological**|Mild to moderate intellectual disability (IQ 35-70), delayed speech, hypotonia, early-onset Alzheimer disease pathology by age 40, and seizures.|
 |**Musculoskeletal**|Single transverse palmar crease, clinodactyly, sandal-gap toe, brachydactyly, generalized joint laxity, and atlantoaxial instability.|
-|**Endocrine**|Congenital hypothyroidism, obesity in adolescence, and type 1 diabetes mellitus.|
+|**Endocrine**|[[Endocrinology/Congenital Hypothyroidism\|Congenital hypothyroidism]], [[Nutrition/Obesity in adolescence\|obesity in adolescence]], and type 1 diabetes mellitus.|
 |**Hematological**|Transient myeloproliferative disorder (neonates) and an increased risk of acute megakaryoblastic leukemia.|
 |**Sensory**|Conductive or sensorineural hearing loss, strabismus, refractive errors, and cataracts.|
 
 ## Investigations and Screening
 
-- **Diagnostic Confirmation:** Karyotyping is the gold standard for diagnosis and identifying translocations. Fluorescence In Situ Hybridization (FISH) or Quantitative Fluorescent PCR (QF-PCR) provides rapid preliminary results.
+- **Diagnostic Confirmation:** [[Genetics/Karyotyping\|Karyotyping]] is the gold standard for diagnosis and identifying translocations. Fluorescence In Situ Hybridization (FISH) or Quantitative Fluorescent PCR (QF-PCR) provides rapid preliminary results.
 - **Prenatal Screening:** First-trimester screening shows decreased Pregnancy-Associated Plasma Protein A (PAPP-A) and elevated free beta-hCG, alongside increased nuchal translucency and absent nasal bone on ultrasonography. Second-trimester quadruple markers show low alpha-fetoprotein, low unconjugated estriol, high hCG, and high inhibin-A. Non-Invasive Prenatal Testing (NIPT) analyzing cell-free fetal DNA offers high sensitivity.
 - **System-Specific Surveillance:**
     - Echocardiography is mandatory before 9 months of age.
@@ -50,7 +50,7 @@ The clinical presentation involves a recognizable pattern of dysmorphic features
 - **Early Intervention:** Implementation of physiotherapy, occupational therapy, and speech therapy starting in infancy maximizes functional independence.
 - **Surgical Care:** Early surgical correction of major cardiac anomalies, such as AVSD repair by 3 to 6 months of age, significantly improves survival.
 - **Medical Therapy:** Prompt initiation of levothyroxine for hypothyroidism and specialized dietary management for [[Gastrointestinal/Celiac disease\|celiac disease]].
-- **Growth Monitoring:** Regular plotting of parameters on specific Down syndrome growth charts to manage failure to thrive in infancy and obesity in adolescence.
+- **Growth Monitoring:** Regular plotting of parameters on specific Down syndrome [[Development/Growth Charts\|growth charts]] to manage failure to thrive in infancy and [[Nutrition/Obesity in adolescence\|obesity in adolescence]].
 
 ## Genetic Counselling and Recurrence Risk
 

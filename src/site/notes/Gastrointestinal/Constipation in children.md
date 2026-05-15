@@ -25,8 +25,8 @@ Diagnosis requires symptom duration of at least 1 month.
 |Category|Specific Conditions|
 |:--|:--|
 |**Anatomical**|Anorectal malformations, imperforate anus, anal stenosis, intestinal obstruction.|
-|**Neurogenic**|Hirschsprung disease, spinal cord abnormalities (tethered cord, spina bifida), pseudo-obstruction, neuronal intestinal dysplasia.|
-|**Endocrine/Metabolic**|Hypothyroidism, cystic fibrosis, [[Gastrointestinal/Celiac disease\|celiac disease]], hypokalemia, hypercalcemia, diabetes mellitus.|
+|**Neurogenic**|[[Gastrointestinal/Hirschsprung disease\|Hirschsprung disease]], spinal cord abnormalities (tethered cord, spina bifida), pseudo-obstruction, neuronal intestinal dysplasia.|
+|**Endocrine/Metabolic**|Hypothyroidism, [[Respiratory/Cystic Fibrosis\|cystic fibrosis]], [[Gastrointestinal/Celiac disease\|celiac disease]], hypokalemia, hypercalcemia, diabetes mellitus.|
 |**Medications/Toxins**|Opiates, anticholinergics, antidepressants, chemotherapy, lead toxicity.|
 
 ### Risk Factors for Functional Constipation
@@ -34,7 +34,7 @@ Diagnosis requires symptom duration of at least 1 month.
 |Category|Identified Factors|
 |:--|:--|
 |**Diet & Lifestyle**|Low fiber intake, poor fluid intake, fast food consumption, decreased physical activity, poor sleep.|
-|**Psychological**|Home/school stress, abuse, bullying, anxiety, depression, autism spectrum disorders, ADHD.|
+|**Psychological**|Home/school stress, abuse, bullying, anxiety, depression, autism spectrum disorders, [[Development/ADHD\|ADHD]].|
 
 ## PATHOPHYSIOLOGY
 
@@ -59,7 +59,7 @@ Pathogenesis is multifactorial, involving behavioral, sensory, and motor compone
 
 ### History
 
-- Assess onset timing (early neonatal onset suggests Hirschsprung disease).
+- Assess onset timing (early neonatal onset suggests [[Gastrointestinal/Hirschsprung disease\|Hirschsprung disease]]).
 - Evaluate stool consistency utilizing validated scales (Bristol Stool Scale).
 - Document retentive posturing, fecal incontinence (overflow soiling), abdominal pain, poor appetite, nausea, and vomiting.
 - Screen for psychological distress, school absenteeism, bullying.
@@ -80,11 +80,11 @@ Pathogenesis is multifactorial, involving behavioral, sensory, and motor compone
 - **Digital Rectal Examination (DRE):**
     - Indicated if diagnosis unclear, or to differentiate non-retentive fecal incontinence from overflow incontinence.
     - **Functional Constipation:** Enlarged ampulla filled with hard stool.
-    - **Hirschsprung Disease:** Tight anal canal, empty ampulla, explosive expulsion of stool/air upon finger withdrawal (squirt sign).
+    - **[[Gastrointestinal/Hirschsprung disease\|Hirschsprung Disease]]:** Tight anal canal, empty ampulla, explosive expulsion of stool/air upon finger withdrawal (squirt sign).
 
-### Differentiating Functional Constipation vs. Hirschsprung Disease
+### Differentiating Functional Constipation vs. [[Gastrointestinal/Hirschsprung disease\|Hirschsprung Disease]]
 
-|Feature|Functional Constipation|Hirschsprung Disease|
+|Feature|Functional Constipation|[[Gastrointestinal/Hirschsprung disease\|Hirschsprung Disease]]|
 |:--|:--|:--|
 |**Onset**|Beyond infancy (toddler/preschool).|Neonatal/Infancy.|
 |**Meconium Passage**|Normal (<48 hours).|Delayed (>48 hours).|
@@ -100,21 +100,21 @@ Diagnosis is primarily clinical. Testing reserved for alarm signs or refractory 
 
 - Indicated only with red flags.
 - Tests: Thyroid function (TSH, free T4), Celiac screening (IgA tTG), serum calcium, electrolytes, lead levels.
-- Sweat chloride test if cystic fibrosis suspected.
+- Sweat chloride test if [[Respiratory/Cystic Fibrosis\|cystic fibrosis]] suspected.
 
 ### Radiological & Imaging Studies
 
 - **Abdominal X-Ray (AXR):** Routine use discouraged. Poor inter- and intra-observer reliability. Does not correlate well with clinical symptoms.
-- **Contrast Enema (Barium):** Evaluates anatomical abnormalities. Differentiates Hirschsprung disease (identifies transition zone, rectosigmoid ratio <1) from severe functional megarectum.
+- **Contrast Enema (Barium):** Evaluates anatomical abnormalities. Differentiates [[Gastrointestinal/Hirschsprung disease\|Hirschsprung disease]] (identifies transition zone, rectosigmoid ratio <1) from severe functional megarectum.
 - **MRI Spine:** Indicated for neurological deficits or sacral anomalies to exclude tethered cord, lipoma, or spina bifida occulta.
 - **Ultrasonography:** Emerging tool for measuring transrectal diameter to assess fecal loading non-invasively.
 
 ### Functional and Motility Studies
 
-- **Anorectal Manometry (ARM):** Measures sphincter pressures and rectoanal inhibitory reflex (RAIR). Absence of RAIR indicates need for rectal biopsy (excludes Hirschsprung disease). Detects pelvic floor dyssynergia.
+- **Anorectal Manometry (ARM):** Measures sphincter pressures and rectoanal inhibitory reflex (RAIR). Absence of RAIR indicates need for rectal biopsy (excludes [[Gastrointestinal/Hirschsprung disease\|Hirschsprung disease]]). Detects pelvic floor dyssynergia.
 - **Colonic Transit Time:** Utilizing radiopaque markers to classify constipation into anorectal retention, slow colonic transit, or normal transit.
 - **Colonic Manometry:** Differentiates normal colonic physiology from myopathies/neuropathies. Evaluates presence of HAPCs. Guides surgical interventions.
-- **Rectal Suction Biopsy:** Gold standard for Hirschsprung disease. Demonstrates absence of ganglion cells and presence of hypertrophied nerve trunks staining positive for acetylcholinesterase.
+- **Rectal Suction Biopsy:** Gold standard for [[Gastrointestinal/Hirschsprung disease\|Hirschsprung disease]]. Demonstrates absence of ganglion cells and presence of hypertrophied nerve trunks staining positive for acetylcholinesterase.
 
 ## MANAGEMENT PROTOCOL
 
@@ -172,7 +172,7 @@ Reserved for extreme, intractable cases failing maximal medical management.
 
 - **Prognosis:** Constipation is not self-limiting. Despite aggressive therapy, symptoms persist into adulthood in up to 25% of children. Long-term adherence to maintenance therapy is critical.
 - **Complications:**
-    - **Encopresis (Fecal Incontinence):** Social stigmatization, peer rejection, poor school performance.
+    - **[[Gastrointestinal/Encopresis (Fecal Incontinence)\|Encopresis (Fecal Incontinence)]]:** Social stigmatization, peer rejection, poor school performance.
     - **Urinary Tract Sequelae:** Chronic rectal distension compresses the bladder, leading to urinary incontinence, vesicoureteral reflux, urinary retention, and recurrent urinary tract infections.
     - **Anorectal Pathology:** Anal fissures resulting from hard stools, hemorrhoids, and rectal prolapse.
     - **Psychosocial Impact:** Significantly reduced Health-Related Quality of Life (HRQoL), increased anxiety, and family distress.

@@ -34,7 +34,7 @@ Categorized into two distinct subtypes requiring different management approaches
 ### Non-Retentive Fecal Incontinence (FNRFI)
 
 - Colonic transit time, segmental transit, and rectal compliance remain entirely normal.
-- Strongly associated with psychological comorbidities (ADHD, anxiety, depression, oppositional defiance).
+- Strongly associated with psychological comorbidities ([[Development/ADHD\|ADHD]], anxiety, depression, oppositional defiance).
 - Highly linked to stressful life events (bullying, birth of sibling, maltreatment).
 
 ## CLINICAL EVALUATION
@@ -44,7 +44,7 @@ Categorized into two distinct subtypes requiring different management approaches
 - Underwear soiling often misinterpreted by parents as [[Gastrointestinal/Chronic Diarrhea\|chronic diarrhea]].
 - Retentive posturing (gluteal clenching, leg stiffening, crossing legs, hiding in corners) often mistaken for straining.
 - Associated symptoms: Abdominal pain, poor appetite, large-caliber stools obstructing toilet.
-- Concomitant enuresis or recurrent urinary tract infections (UTI) due to bladder compression.
+- Concomitant enuresis or recurrent urinary tract infections ([[Nephrology/UTI\|UTI]]) due to bladder compression.
 
 ### Physical Examination
 
@@ -57,7 +57,7 @@ Categorized into two distinct subtypes requiring different management approaches
 
 Exclude functional encopresis if present:
 
-- Delayed meconium passage >48 hours (Hirschsprung disease).
+- Delayed meconium passage >48 hours ([[Gastrointestinal/Hirschsprung disease\|Hirschsprung disease]]).
 - Ribbon-like stools or explosive discharge upon DRE withdrawal.
 - Absent anal wink or deep tendon reflexes (Spinal cord anomaly).
 - Blood in stool not attributable to anal fissure.
@@ -99,5 +99,5 @@ Goal: 1-2 soft, painless stools daily. Continue for minimum 2 months; taper grad
 
 - Conventional laxatives and enemas are ineffective and contraindicated.
 - Primary therapy requires strict, scheduled toilet training and psychological/behavioral health intervention.
-- Screen for underlying learning disabilities, ADHD, or abuse.
+- Screen for underlying learning disabilities, [[Development/ADHD\|ADHD]], or abuse.
 - High success rate with maturity; 85% resolve by age 18.

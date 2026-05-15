@@ -59,7 +59,7 @@
 ### Diagnostic Approach
 
 - **Histopathology:** Muscle biopsy reveals ragged-red fibers (Gomori trichrome stain), COX-negative fibers, and structurally abnormal mitochondria on electron microscopy.
-- **Molecular Testing:** Targeted mtDNA sequencing via next-generation sequencing (NGS) to detect heteroplasmy levels.
+- **Molecular Testing:** Targeted mtDNA sequencing via [[Genetics/Next-Generation Sequencing (NGS)\|next-generation sequencing (NGS)]] to detect heteroplasmy levels.
 - **Specimen Selection:** Blood testing may be inadequate due to variable tissue distribution; muscle, liver, or buccal swab sampling is often required.
 - **Biochemical Screening:** Elevated blood lactate and Growth and Differentiation Factor 15 (GDF-15) can indicate mitochondrial dysfunction.
 

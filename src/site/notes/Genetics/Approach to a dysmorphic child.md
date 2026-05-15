@@ -60,7 +60,7 @@ graph TD
 ## Step 1: History Taking
 
 - **Pedigree:** Construct a three-generation pedigree emphasizing consanguinity, recurrent miscarriages, neonatal deaths, intellectual disability, or known genetic disorders in relatives.
-- **Antenatal History:** Document maternal age, parity, teratogen exposure (alcohol, anticonvulsants, isotretinoin, TORCH infections), maternal diabetes, and prenatal ultrasound anomalies (intrauterine growth restriction, oligohydramnios, structural defects).
+- **Antenatal History:** Document maternal age, parity, teratogen exposure (alcohol, anticonvulsants, isotretinoin, [[Infectious Diseases/TORCH Infections\|TORCH infections]]), maternal diabetes, and prenatal ultrasound anomalies (intrauterine growth restriction, oligohydramnios, structural defects).
 - **Perinatal History:** Note gestational age, birth weight, Apgar scores, NICU admission, feeding difficulties, and neonatal seizures.
 - **Developmental And Systemic History:** Assess age at attainment of milestones, developmental regression, behavioral issues, recurrent infections, and cardiac or skeletal symptoms.
 
@@ -70,11 +70,11 @@ A systematic head-to-toe assessment is essential to document all findings with p
 
 |Examination Area|Key Features To Assess|
 |:--|:--|
-|**Anthropometry**|Serial plotting of weight, length, and head circumference; classify proportionate versus disproportionate growth, microcephaly, or macrocephaly.|
+|**Anthropometry**|Serial plotting of weight, length, and head circumference; classify proportionate versus disproportionate growth, [[Neurology/Microcephaly\|microcephaly]], or macrocephaly.|
 |**Craniofacial**|Head shape, fontanelle status, eye spacing (hypertelorism/hypotelorism), palpebral fissure slant, epicanthal folds, ear position/shape, cleft lip/palate, and micrognathia.|
 |**Neck And Trunk**|Short/webbed neck, pectus excavatum/carinatum, scoliosis, heart murmurs, abdominal organomegaly, and ambiguous genitalia.|
 |**Limbs And Extremities**|Digit number and arrangement (polydactyly, syndactyly, clinodactyly), single palmar crease, limb reduction defects, and joint contractures.|
-|**Skin And Neurological**|Pigmentary changes (cafe-au-lait macules), muscle tone (hypotonia/hypertonia), deep tendon reflexes, and primitive reflexes.|
+|**Skin And Neurological**|Pigmentary changes (cafe-au-lait macules), muscle tone (hypotonia/hypertonia), deep tendon reflexes, and [[Neurology/Primitive Reflexes\|primitive reflexes]].|
 
 - The presence of three or more minor anomalies significantly increases the likelihood of an underlying genetic syndrome.
 
@@ -90,9 +90,9 @@ Adopt a hypothesis-driven approach, prioritizing least invasive and highest-yiel
 |Testing Tier|Investigation Modality|Clinical Indication|
 |:--|:--|:--|
 |**First-Tier Genetic**|Chromosomal Microarray (CMA)|First-line for developmental delay, intellectual disability, dysmorphism, or multiple congenital anomalies; detects copy number variants.|
-|**First-Tier Genetic**|Conventional Karyotyping|Suspected classic aneuploidy (e.g., Trisomy 21) or to detect balanced rearrangements.|
-|**Targeted Testing**|FISH or MLPA|Suspected specific microdeletion or microduplication (e.g., 22q11.2 deletion syndrome, Williams syndrome).|
-|**Second-Tier Genetic**|Whole Exome Sequencing (WES)|Unresolved cases, consanguinity, or strong family history following a negative CMA; utilizes a trio approach (proband plus parents).|
+|**First-Tier Genetic**|Conventional [[Genetics/Karyotyping\|Karyotyping]]|Suspected classic aneuploidy (e.g., Trisomy 21) or to detect balanced rearrangements.|
+|**Targeted Testing**|FISH or MLPA|Suspected specific microdeletion or microduplication (e.g., 22q11.2 deletion syndrome, [[Genetics/Williams Syndrome\|Williams syndrome]]).|
+|**Second-Tier Genetic**|Whole [[Genetics/Exome Sequencing\|Exome Sequencing]] (WES)|Unresolved cases, consanguinity, or strong family history following a negative CMA; utilizes a trio approach (proband plus parents).|
 |**Ancillary**|Imaging and Biochemical|Echocardiography for murmurs, renal ultrasound, skeletal survey, brain MRI, and metabolic screening (e.g., urine glycosaminoglycans) based on specific clinical clues.|
 
 ## Step 5: Multidisciplinary Management Planning

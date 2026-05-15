@@ -29,10 +29,10 @@ Consanguinity heavily impacts pediatric practice, disproportionately increasing 
 |Clinical Category|Specific Manifestations And Risks|
 |:--|:--|
 |Reproductive Wastage|Increased rates of spontaneous abortions, stillbirths, and unexplained neonatal deaths, often due to lethal AR malformation syndromes or severe inborn errors of metabolism.|
-|Autosomal Recessive Disorders|Dramatically increased incidence of severe single-gene disorders, including spinal muscular atrophy, leukodystrophies, primary microcephaly, and metabolic conditions like [[Metabolic Disorders/Phenylketonuria\|phenylketonuria]] and galactosemia.|
-|Hematological And Immune|Higher prevalence of thalassemia, sickle cell disease, and severe combined immunodeficiency.|
-|Congenital Malformations|Absolute risk for significant congenital anomalies in first-cousin offspring increases by 2% to 3% over the baseline population risk, totaling 4% to 6%. Common defects include neural tube defects and congenital heart defects.|
-|Neurodevelopmental|Strong epidemiological correlation with severe intellectual disability, global developmental delay, autism spectrum disorders, and hereditary non-syndromic deafness.|
+|Autosomal Recessive Disorders|Dramatically increased incidence of severe single-gene disorders, including [[Neuromuscular/Spinal Muscular Atrophy\|spinal muscular atrophy]], leukodystrophies, primary [[Neurology/Microcephaly\|microcephaly]], and metabolic conditions like [[Metabolic Disorders/Phenylketonuria\|phenylketonuria]] and [[Metabolic Disorders/Galactosemia\|galactosemia]].|
+|Hematological And Immune|Higher prevalence of [[Hematology/Thalassemia\|thalassemia]], [[Hematology/Sickle Cell Disease\|sickle cell disease]], and severe combined immunodeficiency.|
+|Congenital Malformations|Absolute risk for significant congenital anomalies in first-cousin offspring increases by 2% to 3% over the baseline population risk, totaling 4% to 6%. Common defects include [[Neurology/Neural Tube Defects\|neural tube defects]] and congenital heart defects.|
+|Neurodevelopmental|Strong epidemiological correlation with severe intellectual disability, [[Development/Global Developmental Delay\|global developmental delay]], autism spectrum disorders, and hereditary non-syndromic deafness.|
 
 ## Diagnostic Evaluation
 
@@ -44,9 +44,9 @@ Advanced genomic technologies are essential for diagnosing consanguinity-related
 - An ROH burden of 3% to 10% of the genome suggests a distant consanguineous relationship or high population endogamy.
 - CMA distinguishes consanguinity (multiple ROH segments across various chromosomes) from uniparental disomy (a single large ROH segment restricted to one chromosome).
 
-### Next-Generation Sequencing (NGS)
+### [[Genetics/Next-Generation Sequencing (NGS)\|Next-Generation Sequencing (NGS)]]
 
-- Whole exome sequencing and whole genome sequencing provide an exceptionally high diagnostic yield in consanguineous families.
+- Whole [[Genetics/Exome Sequencing\|exome sequencing]] and whole genome sequencing provide an exceptionally high diagnostic yield in consanguineous families.
 - Homozygosity mapping utilizes bioinformatic pipelines to filter variants within identified homozygous blocks, drastically simplifying the identification of the causal AR gene.
 
 ## Genetic Counselling And Management
@@ -60,6 +60,6 @@ Advanced genomic technologies are essential for diagnosing consanguinity-related
 ### Screening And Reproductive Options
 
 - **Expanded Carrier Screening (ECS):** Highly recommended pre-conceptionally, utilizing NGS panels to simultaneously screen for hundreds of AR conditions.
-- **Prenatal Diagnosis:** Options include chorionic villus sampling or amniocentesis for couples identified as carriers of specific severe AR traits.
-- **Preimplantation Genetic Testing:** Preimplantation genetic testing for monogenic defects (PGT-M) combined with in vitro fertilization ensures only unaffected embryos are transferred.
+- **Prenatal Diagnosis:** Options include chorionic villus sampling or [[Neonatalogy/Amniocentesis\|amniocentesis]] for couples identified as carriers of specific severe AR traits.
+- **[[Genetics/Preimplantation Genetic Testing\|Preimplantation Genetic Testing]]:** [[Genetics/Preimplantation Genetic Testing\|Preimplantation genetic testing]] for monogenic defects (PGT-M) combined with in vitro fertilization ensures only unaffected embryos are transferred.
 - Routine high-resolution fetal anomaly ultrasounds are mandated for all consanguineous pregnancies to detect structural malformations.

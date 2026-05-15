@@ -5,7 +5,7 @@
 ## Definition And Clinical Context
 
 - Intellectual disability (ID) is a neurodevelopmental disorder defined by limitations in intellectual functioning (IQ <70-75) and adaptive behavior, with onset before 18 years of age.
-- Global developmental delay (GDD) describes children under 5 years presenting with delays in two or more domains (motor, language, cognition, social).
+- [[Development/Global Developmental Delay\|Global developmental delay]] (GDD) describes children under 5 years presenting with delays in two or more domains (motor, language, cognition, social).
 - Genetic etiology accounts for 30-50% of all ID cases, escalating to 50-80% in severe or syndromic presentations.
 
 ## Pre-Test Clinical Evaluation
@@ -23,8 +23,8 @@
 
 |Testing Tier|Modality|Clinical Indications|Diagnostic Yield|
 |---|---|---|---|
-|**Tier 1: First-Line Agnostic**|Chromosomal Microarray (CMA)|Unexplained GDD/ID, autism spectrum disorder, congenital anomalies.|15-20%.|
-|**Tier 1: First-Line Agnostic**|Exome Sequencing (ES) / Genome Sequencing (GS)|Unexplained ID/GDD; Trio testing (proband and parents) preferred.|38-63%.|
+|**Tier 1: First-Line Agnostic**|Chromosomal Microarray (CMA)|Unexplained GDD/ID, [[Development/Autism Spectrum Disorder\|autism spectrum disorder]], congenital anomalies.|15-20%.|
+|**Tier 1: First-Line Agnostic**|[[Genetics/Exome Sequencing\|Exome Sequencing]] (ES) / Genome Sequencing (GS)|Unexplained ID/GDD; Trio testing (proband and parents) preferred.|38-63%.|
 |**Tier 1: Targeted**|Fragile X Testing (FMR1 PCR)|All males with nonsyndromic ID; females with suggestive family history.|~1-2%.|
 |**Tier 2: Phenotype-Driven**|Metabolic Screening|Regression, multisystem involvement, abnormal MRI findings.|1-5%.|
 |**Tier 2: Phenotype-Driven**|Targeted Gene Panels|Specific clinical clues (e.g., epilepsy, skeletal dysplasia).|Variable.|
@@ -42,7 +42,7 @@
 - Clinical management is directly altered in 50-60% of diagnosed cases.
 - Enables precision interventions, including enzyme replacement therapy, dietary modification, and gene therapy.
 - Directs specific surveillance protocols for known comorbidities, such as tumor screening or cardiac monitoring.
-- Defines exact recurrence risks (e.g., 1% for _de novo_, 25% for autosomal recessive) and opens avenues for preimplantation genetic testing and prenatal diagnosis.
+- Defines exact recurrence risks (e.g., 1% for _de novo_, 25% for autosomal recessive) and opens avenues for [[Genetics/Preimplantation Genetic Testing\|preimplantation genetic testing]] and prenatal diagnosis.
 
 ## Post-Test Management And Limitations
 

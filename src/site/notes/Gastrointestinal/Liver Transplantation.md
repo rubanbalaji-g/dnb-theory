@@ -2,18 +2,18 @@
 {"dg-publish":true,"uptext":"Back to Index (🍴 Gastroenterology)","uplink":"/gastrointestinal/gastroenterology/","permalink":"/gastrointestinal/liver-transplantation/","dgPassFrontmatter":true}
 ---
 
-Definitive therapy for end-stage liver disease, acute liver failure, unresectable hepatic tumors, and liver-based metabolic defects. Provides survival exceeding 90% in developed nations, transforming previously fatal conditions into manageable chronic states.
+Definitive therapy for end-stage liver disease, [[Gastrointestinal/Acute Liver Failure\|acute liver failure]], unresectable [[Hematology/Hepatic Tumors\|hepatic tumors]], and liver-based metabolic defects. Provides survival exceeding 90% in developed nations, transforming previously fatal conditions into manageable chronic states.
 
-## Indications for Liver Transplantation
+## Indications for [[Gastrointestinal/Liver Transplantation\|Liver Transplantation]]
 
 |Category|Specific Conditions|
 |:--|:--|
 |**Obstructive Biliary Disease**|[[Gastrointestinal/Biliary Atresia\|Biliary atresia]] (most common, 40-50% of pediatric cases), sclerosing cholangitis, Alagille syndrome, progressive familial intrahepatic cholestasis (PFIC).|
-|**Metabolic (Parenchymal)**|Alpha-1-antitrypsin deficiency, Wilson disease, [[Metabolic Disorders/Tyrosinemia\|tyrosinemia]] type I, cystic fibrosis, glycogen storage diseases.|
+|**Metabolic (Parenchymal)**|Alpha-1-antitrypsin deficiency, [[Gastrointestinal/Wilson Disease\|Wilson disease]], [[Metabolic Disorders/Tyrosinemia\|tyrosinemia]] type I, [[Respiratory/Cystic Fibrosis\|cystic fibrosis]], glycogen storage diseases.|
 |**Metabolic (Non-Parenchymal)**|Crigler-Najjar type I, urea cycle defects, primary hyperoxaluria, familial hypercholesterolemia.|
-|**Acute Liver Failure (ALF)**|Acetaminophen toxicity, viral hepatitis, indeterminate etiology fulfilling King's College criteria.|
-|**Hepatic Tumors**|Unresectable hepatoblastoma, hepatocellular carcinoma, hemangioendothelioma.|
-|**Chronic Liver Disease**|Decompensated cirrhosis featuring ascites, hepatic encephalopathy, spontaneous bacterial peritonitis, hepatorenal syndrome, or hepatopulmonary syndrome.|
+|**[[Gastrointestinal/Acute Liver Failure\|Acute Liver Failure]] (ALF)**|Acetaminophen toxicity, viral hepatitis, indeterminate etiology fulfilling King's College criteria.|
+|**[[Hematology/Hepatic Tumors\|Hepatic Tumors]]**|Unresectable hepatoblastoma, hepatocellular carcinoma, hemangioendothelioma.|
+|**[[Gastrointestinal/Chronic Liver Disease\|Chronic Liver Disease]]**|Decompensated cirrhosis featuring ascites, [[Gastrointestinal/Hepatic Encephalopathy\|hepatic encephalopathy]], spontaneous bacterial [[Gastrointestinal/Peritonitis\|peritonitis]], hepatorenal syndrome, or hepatopulmonary syndrome.|
 
 ## Contraindications
 
@@ -36,10 +36,10 @@ Allocation systems prioritize medical urgency to reduce waitlist mortality.
 
 Overcomes pediatric donor shortage utilizing anatomical segmental divisions.
 
-- **Whole Liver Transplantation:** Orthotopic replacement replacing native liver with size-matched deceased donor organ.
+- **Whole [[Gastrointestinal/Liver Transplantation\|Liver Transplantation]]:** Orthotopic replacement replacing native liver with size-matched deceased donor organ.
 - **Split/Reduced-Size Grafts:** Deceased adult liver divided. Left lateral segment (segments 2, 3) typically utilized for infants.
-- **Living Donor Liver Transplantation (LDLT):** Healthy relative donates hepatic segment (left lateral segment commonly). Offers elective scheduling, excellent quality graft, minimal cold ischemia.
-- **Auxiliary Liver Transplantation:** Native liver retained, partial donor graft implanted orthotopically or heterotopically.
+- **Living Donor [[Gastrointestinal/Liver Transplantation\|Liver Transplantation]] (LDLT):** Healthy relative donates hepatic segment (left lateral segment commonly). Offers elective scheduling, excellent quality graft, minimal cold ischemia.
+- **Auxiliary [[Gastrointestinal/Liver Transplantation\|Liver Transplantation]]:** Native liver retained, partial donor graft implanted orthotopically or heterotopically.
 - Functions as temporary bridge in ALF, facilitating native liver regeneration and subsequent immunosuppression withdrawal.
 - Provides deficient enzymes in non-cirrhotic metabolic defects (e.g., Crigler-Najjar syndrome).
 
@@ -71,7 +71,7 @@ Overcomes pediatric donor shortage utilizing anatomical segmental divisions.
 ### Medical and Infectious Complications
 
 - **Infections:** Bacterial sepsis (common first week), Cytomegalovirus (CMV), Epstein-Barr virus (EBV), opportunistic fungal pathogens (Pneumocystis jiroveci).
-- **Long-Term Morbidity:** Post-transplant lymphoproliferative disease (PTLD) linked to EBV, renal dysfunction secondary to calcineurin inhibitors, de novo autoimmune hepatitis, and transplant-acquired food allergy (TAFA).
+- **Long-Term Morbidity:** Post-transplant lymphoproliferative disease (PTLD) linked to EBV, renal dysfunction secondary to calcineurin inhibitors, de novo [[Gastrointestinal/Autoimmune hepatitis\|autoimmune hepatitis]], and transplant-acquired food allergy (TAFA).
 
 ## Outcomes
 

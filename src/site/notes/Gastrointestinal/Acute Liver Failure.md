@@ -4,15 +4,15 @@
 
 ## Definition
 
-- Rare, severe multisystem disorder characterized by massive hepatocyte necrosis or profound functional impairment.
+- Rare, severe multi-system disorder characterized by massive hepatocyte necrosis or profound functional impairment.
 - Diagnosis requires three core criteria:
     - Biochemical evidence of acute liver injury.
     - Hepatic-based coagulopathy unresponsive to vitamin K. Defined as prothrombin time >15 seconds or international normalized ratio >1.5 in presence of clinical encephalopathy; OR prothrombin time >20 seconds or international normalized ratio >2.0 regardless of encephalopathy.
-    - Absence of preexisting chronic liver disease (exceptions include acute initial presentations of Wilson disease or autoimmune hepatitis).
+    - Absence of preexisting [[Gastrointestinal/Chronic Liver Disease\|chronic liver disease]] (exceptions include acute initial presentations of [[Gastrointestinal/Wilson Disease\|Wilson disease]] or [[Gastrointestinal/Autoimmune hepatitis\|autoimmune hepatitis]]).
 
 ## Pathophysiology
 
-- Hepatocyte death/injury triggers massive release of bioactive substances and toxins, initiating multiorgan failure cascade.
+- Hepatocyte death/injury triggers massive release of bio-active substances and toxins, initiating multiorgan failure cascade.
 - Factor VII possesses shortest half-life (4-6 hours) among vitamin K-dependent factors; depletes earliest, rendering international normalized ratio a dynamic, sensitive marker of synthetic inadequacy.
 - **Cerebral edema/Intracranial hypertension:** Ammonia and inflammatory cytokines induce astrocyte swelling, altering intracellular fluid shifts.
 - **Coagulopathy:** Decreased synthesis of coagulation factors, protein C, protein S, and antithrombin.
@@ -20,20 +20,20 @@
 
 ## Etiological Classification
 
-|Age Category|Common Etiologies|
-|:--|:--|
-|**Neonates/Infants**|Galactosemia, [[Metabolic Disorders/Tyrosinemia\|tyrosinemia]] type 1, gestational alloimmune liver disease (neonatal hemochromatosis), mitochondrial hepatopathies, hemophagocytic lymphohistiocytosis, viral (herpes simplex virus, cytomegalovirus, echovirus).|
-|**Children/Adolescents**|Acetaminophen toxicity, viral hepatitis (A, B, E), autoimmune hepatitis, Wilson disease, indeterminate/idiopathic (40-50% of cases).|
+| Age Category             | Common Etiologies                                                                                                                                                                                                                 |
+| :----------------------- | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Neonates/Infants**     | [[Metabolic Disorders/Galactosemia\|Galactosemia]], [[Metabolic Disorders/Tyrosinemia\|tyrosinemia]] type 1, gestational alloimmune liver disease (neonatal [[Gastrointestinal/Hemochromatosis\|hemochromatosis]]), mitochondrial hepatopathies, hemophagocytic lymphohistiocytosis, viral (herpes simplex virus, cytomegalovirus, echovirus). |
+| **Children/Adolescents** | Acetaminophen toxicity, viral hepatitis (A, B, E), [[Gastrointestinal/Autoimmune hepatitis\|autoimmune hepatitis]], [[Gastrointestinal/Wilson Disease\|Wilson disease]], indeterminate/idiopathic (40-50% of cases).                                                                                              |
 
 ## Clinical Manifestations
 
-|System|Specific Signs And Symptoms|
-|:--|:--|
-|**General/Hepatic**|Progressive jaundice, fetor hepaticus, rapid decrease in liver size (ominous sign indicating massive necrosis), abdominal pain, vomiting.|
-|**Neurological**|Hepatic encephalopathy (irritability, sleep rhythm inversion, somnolence, combative behavior, decerebrate/decorticate posturing, coma), cerebral edema, seizures.|
-|**Hematological**|Bleeding diathesis (gastrointestinal hemorrhage), thrombocytopenia, aplastic anemia.|
-|**Renal/Metabolic**|Hepatorenal syndrome, hypoglycemia, hypokalemia, hyponatremia, metabolic acidosis, respiratory alkalosis.|
-|**Immunological**|High susceptibility to systemic infections (Staphylococcus aureus, Staphylococcus epidermidis, gram-negative organisms, fungal infections) secondary to impaired Kupffer cell and polymorphonuclear function.|
+| System              | Specific Signs And Symptoms                                                                                                                                                                                   |
+| :------------------ | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| **General/Hepatic** | Progressive jaundice, fetor hepaticus, rapid decrease in liver size (ominous sign indicating massive necrosis), abdominal pain, vomiting.                                                                     |
+| **Neurological**    | [[Gastrointestinal/Hepatic Encephalopathy\|Hepatic encephalopathy]] (irritability, sleep rhythm inversion, somnolence, combative behavior, decerebrate/decorticate posturing, coma), cerebral edema, seizures.                                             |
+| **Hematological**   | Bleeding diathesis (gastrointestinal hemorrhage), thrombocytopenia, [[Hematology/Aplastic Anemia\|aplastic anemia]].                                                                                                                          |
+| **Renal/Metabolic** | Hepatorenal syndrome, hypoglycemia, hypokalemia, hyponatremia, metabolic acidosis, respiratory alkalosis.                                                                                                     |
+| **Immunological**   | High susceptibility to systemic infections (Staphylococcus aureus, Staphylococcus epidermidis, gram-negative organisms, fungal infections) secondary to impaired Kupffer cell and polymorphonuclear function. |
 
 ## Diagnostic Evaluation
 
@@ -45,13 +45,13 @@
 
 ### Etiology-Specific Assays
 
-|Suspected Etiology|Diagnostic Investigations|
-|:--|:--|
-|**Viral**|Hepatitis A IgM, Hepatitis B surface antigen/core IgM, Hepatitis C antibody/PCR, Epstein-Barr virus, Cytomegalovirus, Herpes simplex virus PCR.|
-|**Metabolic**|Galactose-1-phosphate uridyl transferase, urinary succinylacetone, plasma acylcarnitines, transferrin isoelectrophoresis.|
-|**Autoimmune**|Antinuclear antibodies, smooth muscle antibodies, liver-kidney microsomal antibodies, serum IgG.|
-|**Toxic/Drug**|Acetaminophen levels, serum toxicology screen.|
-|**Wilson Disease**|Serum ceruloplasmin, 24-hour urinary copper, slit-lamp examination, Coombs-negative hemolytic anemia markers.|
+| Suspected Etiology | Diagnostic Investigations                                                                                                                       |
+| :----------------- | :---------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Viral**          | [[Gastrointestinal/Hepatitis A\|Hepatitis A]] IgM, [[Gastrointestinal/Hepatitis B\|Hepatitis B]] surface antigen/core IgM, [[Gastrointestinal/Hepatitis C\|Hepatitis C]] antibody/PCR, Epstein-Barr virus, Cytomegalovirus, Herpes simplex virus PCR. |
+| **Metabolic**      | Galactose-1-phosphate uridyl transferase, urinary succinylacetone, plasma acylcarnitines, transferrin isoelectrophoresis.                       |
+| **Autoimmune**     | Antinuclear antibodies, smooth muscle antibodies, liver-kidney microsomal antibodies, serum IgG.                                                |
+| **Toxic/Drug**     | Acetaminophen levels, serum toxicology screen.                                                                                                  |
+| **[[Gastrointestinal/Wilson Disease\|Wilson Disease]]** | Serum ceruloplasmin, 24-hour urinary copper, slit-lamp examination, Coombs-negative hemolytic anemia markers.                                   |
 
 ## Differential Diagnosis Of Neonatal Liver Failure
 
@@ -66,7 +66,7 @@ _Data derived from diagnostic profiles of neonatal hepatic failure._
 
 ## Prognostic Scoring (King's College Criteria)
 
-Predicts mortality and guides urgent liver transplantation listing.
+Predicts mortality and guides urgent [[Gastrointestinal/Liver Transplantation\|liver transplantation]] listing.
 
 |Category|Criteria Mandating Transplantation|
 |:--|:--|
@@ -83,7 +83,7 @@ _Note: In pediatric cohorts, isolated peak INR >4 demonstrates high sensitivity 
 - **Metabolic/Fluid:** Utilize 10% dextrose-based maintenance fluids targeting euglycemia. Avoid fluid overload and Ringer's lactate (impaired hepatic lactate metabolism).
 - **Coagulation:** Administer parenteral vitamin K. Restrict fresh frozen plasma or prothrombin complex concentrates exclusively to active bleeding episodes or prior to invasive procedures (allows accurate INR monitoring). Use proton pump inhibitors for stress ulcer prophylaxis.
 - **Infection:** Initiate broad-spectrum prophylactic intravenous antibiotics and antifungals. Add acyclovir for neonates pending viral diagnostics.
-- **Renal/Ammonia:** Implement continuous renal replacement therapy for hyperammonemia (>200 umol/L) or acute kidney injury. Administer lactulose or rifaximin.
+- **Renal/Ammonia:** Implement continuous renal replacement therapy for hyperammonemia (>200 umol/L) or [[Nephrology/Acute Kidney Injury\|acute kidney injury]]. Administer lactulose or rifaximin.
 
 ### Disease-Specific Pharmacotherapy
 
@@ -92,12 +92,12 @@ _Note: In pediatric cohorts, isolated peak INR >4 demonstrates high sensitivity 
 |**Acetaminophen Toxicity**|Intravenous N-acetylcysteine.|
 |**Gestational Alloimmune Liver Disease**|Double volume exchange transfusion combined with intravenous immunoglobulin.|
 |**[[Metabolic Disorders/Tyrosinemia\|Tyrosinemia]] Type 1**|Nitisinone; dietary restriction of phenylalanine and tyrosine.|
-|**Autoimmune Hepatitis**|Systemic corticosteroids.|
+|**[[Gastrointestinal/Autoimmune hepatitis\|Autoimmune Hepatitis]]**|Systemic corticosteroids.|
 |**Herpes Simplex Virus**|Intravenous acyclovir.|
-|**Wilson Disease**|Copper chelation (Penicillamine, Trientine).|
-|**Galactosemia**|Strict lactose/galactose-free dietary formula.|
+|**[[Gastrointestinal/Wilson Disease\|Wilson Disease]]**|Copper chelation (Penicillamine, Trientine).|
+|**[[Metabolic Disorders/Galactosemia\|Galactosemia]]**|Strict lactose/galactose-free dietary formula.|
 
 ### Advanced Interventions
 
 - **Liver Assist Devices:** Cell-free cleansing devices or bioartificial liver systems utilized strictly as experimental bridging therapies to remove toxins (ammonia, cytokines) while awaiting transplantation.
-- **Orthotopic Liver Transplantation:** Definitive, lifesaving therapy for irreversible failure (advanced coma, King's College criteria fulfillment). Absolute contraindications include fixed dilated pupils, systemic mitochondrial disease, and uncontrolled sepsis. Survival approaches 75% at 6 months post-transplantation.
+- **Orthotopic [[Gastrointestinal/Liver Transplantation\|Liver Transplantation]]:** Definitive, lifesaving therapy for irreversible failure (advanced coma, King's College criteria fulfillment). Absolute contraindications include fixed dilated pupils, systemic mitochondrial disease, and uncontrolled sepsis. Survival approaches 75% at 6 months post-transplantation.

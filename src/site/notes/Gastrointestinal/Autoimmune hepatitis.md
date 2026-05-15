@@ -9,7 +9,7 @@
 - Dense mononuclear cell infiltrate invades surrounding parenchyma, causing interface hepatitis.
 - Cellular injury mediated by cytokines from CD8+ cytotoxic T cells and antibody-mediated cytotoxicity.
 - Defective regulatory T-cell function impairs control of CD4 and CD8 effector cell proliferation.
-- Molecular mimicry suspected as potential trigger, showing high amino acid sequence homology between hepatitis C virus polyprotein and CYP2D6.
+- Molecular mimicry suspected as potential trigger, showing high amino acid sequence homology between [[Gastrointestinal/Hepatitis C\|hepatitis C]] virus polyprotein and CYP2D6.
 
 ## classification
 
@@ -36,14 +36,14 @@
 - Acute hepatitis: Observed in 40-50% of patients. Mimics viral hepatitis with malaise, nausea, vomiting, anorexia, abdominal pain, jaundice, dark urine, and pale stools.
 - Insidious onset: Observed in 25-40% of patients. Manifests with progressive fatigue, headache, amenorrhea, weight loss, and diarrhea lasting months to years.
 - Fulminant hepatic failure: Grade II-IV encephalopathy developing weeks to months after symptom onset. More frequent in type 2 (25%) than type 1 (3%).
-- Late presentation: Complications of cirrhosis and portal hypertension including hematemesis from varices, splenomegaly, bleeding diathesis, and ascites.
+- Late presentation: Complications of cirrhosis and [[Gastrointestinal/Portal Hypertension\|portal hypertension]] including [[Gastrointestinal/Hematemesis\|hematemesis]] from varices, splenomegaly, bleeding diathesis, and ascites.
 - Incidental finding: Abnormal transaminases detected without hepatic symptoms.
-- Extrahepatic manifestations: Arthritis, vasculitis, nephritis, thyroiditis, Coombs-positive anemia, vitiligo, pyoderma gangrenosum, and erythema nodosum.
+- Extrahepatic manifestations: Arthritis, vasculitis, nephritis, thyroiditis, Coombs-positive anemia, vitiligo, pyoderma gangrenosum, and [[Misc/Erythema Nodosum\|erythema nodosum]].
 
 ## differential diagnosis
 
-- Viral hepatitis (hepatitis A, B, C, D, E, Epstein-Barr virus, cytomegalovirus).
-- Wilson disease.
+- Viral hepatitis ([[Gastrointestinal/Hepatitis A\|hepatitis A]], B, C, D, E, Epstein-Barr virus, cytomegalovirus).
+- [[Gastrointestinal/Wilson Disease\|Wilson disease]].
 - Alpha-1 antitrypsin deficiency.
 - Autoimmune sclerosing cholangitis / primary sclerosing cholangitis.
 - Nonalcoholic steatohepatitis.
@@ -58,7 +58,7 @@
 - Normal to slightly increased alkaline phosphatase and gamma-glutamyl transpeptidase. Alkaline phosphatase to aspartate aminotransferase ratio $\ge$3 strongly suggests autoimmune sclerosing cholangitis overlap.
 - Marked polyclonal hypergammaglobulinemia (IgG >16 g/L).
 - Hypoalbuminemia and prolonged prothrombin time reflect impaired hepatocellular synthetic function in severe disease.
-- Normochromic normocytic anemia, leukopenia, and thrombocytopenia present in advanced portal hypertension.
+- Normochromic normocytic anemia, leukopenia, and thrombocytopenia present in advanced [[Gastrointestinal/Portal Hypertension\|portal hypertension]].
 - Autoantibody detection via indirect immunofluorescence on rodent tissue substrate. Titers of 1:20 for ANA/SMA and 1:10 for anti-LKM-1 clinically relevant in children.
 
 ### histopathology
@@ -85,15 +85,15 @@
 
 - Required for up to 10% of patients exhibiting standard treatment failure or azathioprine intolerance.
 - Mycophenolate mofetil (20 mg/kg twice daily) combined with prednisolone.
-- Calcineurin inhibitors (cyclosporine A, tacrolimus) utilized for refractory cases. Require careful monitoring due to narrow therapeutic index and nephrotoxicity risk.
+- Calcineurin inhibitors (cyclosporine A, tacrolimus) utilized for refractory cases. Require careful monitoring due to narrow therapeutic [[Statistics/Index\|index]] and nephrotoxicity risk.
 - Rituximab (anti-B lymphocyte monoclonal antibody) and infliximab demonstrating anecdotal success.
 
-### liver transplantation
+### [[Gastrointestinal/Liver Transplantation\|liver transplantation]]
 
 - Indicated for fulminant hepatic failure unresponsive to steroids, or end-stage liver disease developing despite medical management.
 - Required in approximately 10% of pediatric patients.
 - Disease recurrence post-transplantation affects approximately 20% of recipients.
-- De novo autoimmune hepatitis occurs in 2-5% of pediatric liver transplant recipients transplanted for non-autoimmune indications.
+- De novo [[Gastrointestinal/Autoimmune hepatitis\|autoimmune hepatitis]] occurs in 2-5% of pediatric liver transplant recipients transplanted for non-autoimmune indications.
 
 ## prognosis and follow-up
 

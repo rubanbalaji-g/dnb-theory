@@ -12,7 +12,7 @@
 - Progressive desensitization of rectal stretch receptors diminishes the physiological urge to defecate.
 - Proximal liquid colonic contents percolate around the hard distal impaction, causing unperceived overflow incontinence (encopresis).
 
-### Hirschsprung Disease
+### [[Gastrointestinal/Hirschsprung disease\|Hirschsprung Disease]]
 
 - Caused by the premature arrest of the craniocaudal migration of vagal neural crest cells in the hindgut between the 5th and 12th weeks of gestation.
 - Characterized histologically by the complete absence of intrinsic ganglion cells in the submucosal (Meissner) and myenteric (Auerbach) plexuses.
@@ -22,7 +22,7 @@
 
 ## Clinical And Diagnostic Differentiators
 
-|Clinical Feature|Functional Constipation|Hirschsprung Disease|
+|Clinical Feature|Functional Constipation|[[Gastrointestinal/Hirschsprung disease\|Hirschsprung Disease]]|
 |---|---|---|
 |**Onset Of Symptoms**|Beyond 1-2 years of age; often coincides with toilet training, school entry, or dietary transitions.|Within infancy; typically presents at birth.|
 |**Passage Of Meconium**|Normal passage within 48 hours of birth.|Delayed passage beyond 48 hours.|
@@ -36,7 +36,7 @@
 
 ## Diagnostic Evaluation Protocols
 
-|Diagnostic Modality|Functional Constipation|Hirschsprung Disease|
+|Diagnostic Modality|Functional Constipation|[[Gastrointestinal/Hirschsprung disease\|Hirschsprung Disease]]|
 |---|---|---|
 |**Clinical Assessment**|Diagnosed primarily via Rome IV criteria; a digital rectal examination is unnecessary if criteria are met without alarm signs.|Clinical suspicion dictates mandatory extensive diagnostic testing.|
 |**Barium Enema**|Rectum is larger than the sigmoid (rectosigmoid ratio >1); massive stool amounts; transition zone is absent.|Rectosigmoid ratio <1; clear transition zone visualized; delayed contrast evacuation >24 hours.|
@@ -52,7 +52,7 @@
 - **Behavioral Modification:** Implementation of scheduled post-prandial toilet sitting for 5-10 minutes to utilize the gastrocolic reflex, alongside positive reinforcement reward systems and parental demystification.
 - **Dietary Intervention:** Ensure age-appropriate normal fluid and dietary fiber intake.
 
-### Hirschsprung Disease Interventions
+### [[Gastrointestinal/Hirschsprung disease\|Hirschsprung Disease]] Interventions
 
 - **Initial Stabilization:** Immediate bowel decompression utilizing rectal irrigations and nasogastric tube placement.
 - **Medical Resuscitation:** Rigorous intravenous fluid administration and mandatory broad-spectrum antibiotics if Hirschsprung-associated enterocolitis is suspected.

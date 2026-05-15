@@ -4,7 +4,7 @@
 
 ## Definition And Concept
 
-- Genomic imprinting is an epigenetic process where specific genes are expressed in a parent-of-origin-specific manner.
+- [[Genetics/Genomic Imprinting\|Genomic imprinting]] is an epigenetic process where specific genes are expressed in a parent-of-origin-specific manner.
 - Unlike standard Mendelian inheritance, where both maternal and paternal alleles are expressed, imprinting results in the silencing of one allele via epigenetic markers, leaving only one functional copy.
 - This silencing occurs during gametogenesis and is primarily mediated by deoxyribonucleic acid (DNA) methylation.
 
@@ -37,7 +37,7 @@ Clinical syndromes arise when the normally active allele is lost or silenced thr
 |Syndrome|Chromosome / Gene|Imprinting Defect|Key Clinical Features|
 |:--|:--|:--|:--|
 |**Prader-Willi Syndrome (PWS)**|15q11-13|Loss of paternal expression (e.g., SNRPN)|Neonatal hypotonia, childhood hyperphagia, morbid obesity, short stature, hypogonadism, mild to moderate intellectual disability.|
-|**Angelman Syndrome (AS)**|15q11-13|Loss of maternal expression (e.g., UBE3A)|Severe intellectual disability, postnatal microcephaly, seizures, paroxysms of laughter, ataxia, absent speech.|
+|**Angelman Syndrome (AS)**|15q11-13|Loss of maternal expression (e.g., UBE3A)|Severe intellectual disability, postnatal [[Neurology/Microcephaly\|microcephaly]], seizures, paroxysms of laughter, ataxia, absent speech.|
 |**Beckwith-Wiedemann Syndrome (BWS)**|11p15.5|Overexpression of paternal IGF2|Macrosomia, hemihyperplasia, macroglossia, omphalocele, high embryonal tumor risk.|
 |**Russell-Silver Syndrome (RSS)**|11p15.5|Loss of paternal IGF2|Severe intrauterine growth restriction, relative macrocephaly, clinodactyly, body asymmetry.|
 |**Temple Syndrome**|14q32|Maternal UPD 14|Early puberty, hypotonia, short stature.|
@@ -51,5 +51,5 @@ Management requires a multidisciplinary approach focused on the specific syndrom
 - **Nutritional Support:** Feeding tubes are required for neonatal PWS; strict caloric restriction is mandatory in older children with PWS.
 - **Endocrinology:** Growth hormone therapy is standard in PWS and RSS to improve height and body composition.
 - **Neurology:** Aggressive seizure management is necessary in Angelman syndrome.
-- **Oncology:** Serial screening for embryonal tumors (e.g., Wilms tumor, hepatoblastoma) with abdominal ultrasonography and alpha-fetoprotein is critical in BWS every three months until age 8.
+- **Oncology:** Serial screening for embryonal tumors (e.g., [[Hematology/Wilms Tumor\|Wilms tumor]], hepatoblastoma) with abdominal ultrasonography and alpha-fetoprotein is critical in BWS every three months until age 8.
 - **Genetic Counseling:** Recurrence risk varies significantly based on the molecular mechanism. The risk is <1% for UPD or de novo deletions, but up to 50% for inherited imprinting center mutations or specific active gene mutations.

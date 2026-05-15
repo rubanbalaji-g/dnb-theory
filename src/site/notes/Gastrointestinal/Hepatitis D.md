@@ -6,9 +6,9 @@
 
 - Defective, single-stranded circular RNA virus.
 - Smallest known animal virus (36-nm diameter).
-- Requires concurrent hepatitis B virus (HBV) infection for replication and infection.
-- Outer viral coat composed of excess hepatitis B surface antigen (HBsAg).
-- Inner core expresses specific hepatitis D virus (HDV) antigen.
+- Requires concurrent [[Gastrointestinal/Hepatitis B\|hepatitis B]] virus (HBV) infection for replication and infection.
+- Outer viral coat composed of excess [[Gastrointestinal/Hepatitis B\|hepatitis B]] surface antigen (HBsAg).
+- Inner core expresses specific [[Gastrointestinal/Hepatitis D\|hepatitis D]] virus (HDV) antigen.
 - Induces direct cytopathic injury to hepatocytes.
 - Associated with severe liver damage.
 
@@ -22,7 +22,7 @@
 |Modality|Acquisition Timing|Clinical Features|Prognosis|
 |:--|:--|:--|:--|
 |**Coinfection**|Simultaneous acquisition of HBV and HDV.|Severe acute hepatitis. Incubation 21-42 days.|Low risk of developing chronic hepatitis.|
-|**Superinfection**|HDV acquisition in established chronic HBV carrier.|Acute illness rare. Accelerates and worsens underlying HBV course.|High risk of chronic hepatitis. Highest risk of acute liver failure.|
+|**Superinfection**|HDV acquisition in established chronic HBV carrier.|Acute illness rare. Accelerates and worsens underlying HBV course.|High risk of chronic hepatitis. Highest risk of [[Gastrointestinal/Acute Liver Failure\|acute liver failure]].|
 
 ## Diagnostic Evaluation
 
@@ -41,4 +41,4 @@
 - Medical therapy relies on supportive care.
 - Pegylated interferon utilized as primary antiviral agent.
 - Specific HDV vaccine nonexistent.
-- Prevention relies entirely on preventing primary HBV infection via hepatitis B vaccination and hepatitis B immunoglobulin (HBIG).
+- Prevention relies entirely on preventing primary HBV infection via [[Gastrointestinal/Hepatitis B\|hepatitis B]] vaccination and [[Gastrointestinal/Hepatitis B\|hepatitis B]] immunoglobulin (HBIG).

@@ -23,8 +23,8 @@
 
 |Category|Specific Indications|
 |---|---|
-|**Suspected Aneuploidy Syndromes**|Clinical features of Down syndrome (Trisomy 21), Edwards syndrome (Trisomy 18), Patau syndrome (Trisomy 13), Turner syndrome (45,X), or Klinefelter syndrome (47,XXY).|
-|**Pediatric And Developmental**|Multiple congenital anomalies, dysmorphic features, unexplained global developmental delay or intellectual disability.|
+|**Suspected Aneuploidy Syndromes**|Clinical features of [[Genetics/Down Syndrome (Trisomy 21)\|Down syndrome (Trisomy 21)]], [[Genetics/Edwards Syndrome (Trisomy 18)\|Edwards syndrome (Trisomy 18)]], [[Genetics/Patau Syndrome (Trisomy 13)\|Patau syndrome (Trisomy 13)]], [[Genetics/Turner Syndrome\|Turner syndrome]] (45,X), or [[Genetics/Klinefelter Syndrome (47,XXY)\|Klinefelter syndrome (47,XXY)]].|
+|**Pediatric And Developmental**|Multiple congenital anomalies, dysmorphic features, unexplained [[Development/Global Developmental Delay\|global developmental delay]] or intellectual disability.|
 |**Reproductive And Endocrine**|Ambiguous genitalia, disorders of sexual differentiation, primary amenorrhea, and infertility.|
 |**Family History**|Recurrent pregnancy losses ($\geq$ 3), history of stillbirths/neonatal deaths, or family history of balanced structural chromosomal rearrangements.|
 |**Oncology**|Surveillance for specific solid tumors and leukemias (e.g., Philadelphia chromosome) via bone marrow aspirates.|
@@ -41,7 +41,7 @@
 |**del**|Deletion of a chromosome segment|46,XY,del(5p) (Male with Cri-du-chat syndrome)|
 |**t**|Translocation (exchange between chromosomes)|t(2;8)(q33;q24.1) (Reciprocal translocation)|
 |**inv**|Inversion of a chromosome segment|46,XY,inv(2)(p21q31) (Pericentric inversion)|
-|**mos / /**|Mosaicism (presence of distinct cell lines)|mos 45,X/46,XX (Turner syndrome mosaicism)|
+|**mos / /**|Mosaicism (presence of distinct cell lines)|mos 45,X/46,XX ([[Genetics/Turner Syndrome\|Turner syndrome]] mosaicism)|
 
 ## Advantages And Limitations
 

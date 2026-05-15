@@ -4,9 +4,9 @@
 
 ## Definition And Nomenclature
 
-- Preimplantation genetic testing is a reproductive technology utilized alongside In Vitro Fertilization (IVF) to identify genetic defects in embryos prior to implantation.
+- [[Genetics/Preimplantation Genetic Testing\|Preimplantation genetic testing]] is a reproductive technology utilized alongside In Vitro Fertilization (IVF) to identify genetic defects in embryos prior to implantation.
 - It prevents the birth of an affected child and avoids the need for termination of pregnancy.
-- Preimplantation Genetic Diagnosis (PGD) and Preimplantation Genetic Screening (PGS) have been reclassified under the umbrella term Preimplantation Genetic Testing (PGT).
+- Preimplantation Genetic Diagnosis (PGD) and Preimplantation Genetic Screening (PGS) have been reclassified under the umbrella term [[Genetics/Preimplantation Genetic Testing\|Preimplantation Genetic Testing]] (PGT).
 - PGT-M (Monogenic) involves testing for single-gene defects.
 - PGT-SR (Structural Rearrangements) involves testing for chromosomal translocations, inversions, or deletions.
 - PGT-A (Aneuploidy) involves screening embryos for whole-chromosome aneuploidies.
@@ -17,13 +17,13 @@
 - A secondary objective is to improve IVF success rates by transferring euploid embryos and reducing miscarriage rates associated with lethal chromosomal anomalies.
 - The core principle relies on the genetic equivalence of the biopsied cells to the rest of the embryo, assuming no significant mosaicism that would confound results.
 
-## Indications For Preimplantation Genetic Testing
+## Indications For [[Genetics/Preimplantation Genetic Testing\|Preimplantation Genetic Testing]]
 
 |Category|Specific Indications|Examples And Details|
 |:--|:--|:--|
-|PGT-M|Autosomal Recessive Conditions|Spinal Muscular Atrophy, Cystic Fibrosis, Beta-Thalassemia, Sickle Cell Anemia; applicable when both parents are known carriers.|
+|PGT-M|Autosomal Recessive Conditions|[[Neuromuscular/Spinal Muscular Atrophy\|Spinal Muscular Atrophy]], [[Respiratory/Cystic Fibrosis\|Cystic Fibrosis]], Beta-Thalassemia, Sickle Cell Anemia; applicable when both parents are known carriers.|
 |PGT-M|Autosomal Dominant Conditions|Huntington Disease, Neurofibromatosis Type 1, Tuberous Sclerosis Complex, Marfan Syndrome; applicable when one parent is affected or carries a de novo pathogenic variant.|
-|PGT-M|X-Linked Conditions|Duchenne Muscular Dystrophy, Fragile X Syndrome, Hemophilia; applicable when the mother is a known carrier.|
+|PGT-M|X-Linked Conditions|Duchenne Muscular Dystrophy, [[Genetics/Fragile X Syndrome\|Fragile X Syndrome]], Hemophilia; applicable when the mother is a known carrier.|
 |PGT-M|Non-Disclosure Testing|Late-onset dominant conditions where the at-risk parent desires disease-free offspring without knowing their own status.|
 |PGT-SR|Structural Rearrangements|Reciprocal translocations, Robertsonian translocations, or inversions in one or both parents. History of recurrent miscarriages or prior birth of a child with an unbalanced karyotype.|
 |PGT-A|Aneuploidy Screening|Advanced maternal age (typically over 35-37 years), recurrent implantation failure, recurrent pregnancy loss, severe male factor infertility.|
@@ -54,7 +54,7 @@
 - Whole Genome Amplification (WGA) is a critical prerequisite step to multiply the minute amount of DNA from biopsied cells to detectable levels.
 - Polymerase Chain Reaction (PCR) is used for PGT-M to detect point mutations, often combined with linkage analysis to prevent misdiagnosis due to allele drop-out.
 - Microarrays provide high-resolution detection of copy number variants, aneuploidies, uniparental disomy, and consanguinity.
-- Next-Generation Sequencing (NGS) is the preferred modality, offering high throughput, detection of segmental aneuploidies, and concurrent evaluation of single-gene defects and chromosomal status.
+- [[Genetics/Next-Generation Sequencing (NGS)\|Next-Generation Sequencing (NGS)]] is the preferred modality, offering high throughput, detection of segmental aneuploidies, and concurrent evaluation of single-gene defects and chromosomal status.
 - Karyomapping uses Single Nucleotide Polymorphism arrays as a universal linkage-based test, reducing the need for lengthy customized probe development.
 
 ## Limitations And Risks
@@ -63,10 +63,10 @@
 - Trophectoderm mosaicism may not accurately reflect the inner cell mass.
 - Misdiagnosis occurs in 1-2% of cases due to allele drop-out, mosaicism, or technical errors.
 - Cycle cancellation can occur if all embryos are affected or fail to develop to the blastocyst stage.
-- Confirmatory prenatal diagnosis via Chorionic Villus Sampling or amniocentesis is strongly recommended for pregnancies achieved via testing.
+- Confirmatory prenatal diagnosis via Chorionic Villus Sampling or [[Neonatalogy/Amniocentesis\|amniocentesis]] is strongly recommended for pregnancies achieved via testing.
 
 ## Ethical And Legal Framework In India
 
 - Ethical dilemmas involve adult-onset conditions, savior siblings, and concerns regarding eugenics or designer babies.
-- The Pre-Conception and Pre-Natal Diagnostic Techniques (PCPNDT) Act strictly prohibits sex selection, forbidding testing for family balancing.
+- The [[Social Pediatics/Pre-Conception and Pre-Natal Diagnostic Techniques (PCPNDT) Act\|Pre-Conception and Pre-Natal Diagnostic Techniques (PCPNDT) Act]] strictly prohibits sex selection, forbidding testing for family balancing.
 - The Assisted Reproductive Technology (Regulation) Act mandates clinic registration and regulates genetic testing in embryos strictly for preventing heritable diseases.

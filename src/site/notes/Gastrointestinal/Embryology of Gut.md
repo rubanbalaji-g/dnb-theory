@@ -78,7 +78,7 @@
 - Present in up to two-thirds of affected children.
 - **Genetic/Syndromic:** Trisomy 9, 13, 18, 21.
 - **Heterotaxy Syndrome:** Complex of anomalies including asplenia or polysplenia, [[Gastrointestinal/Biliary Atresia\|biliary atresia]], complex congenital heart malformations.
-- **Gastrointestinal Defects:** Intestinal atresia (Type IIIb "apple peel" atresia linked to intrauterine volvulus), Hirschsprung disease, congenital diaphragmatic hernia, gastroschisis, omphalocele.
+- **Gastrointestinal Defects:** Intestinal atresia (Type IIIb "apple peel" atresia linked to intrauterine volvulus), [[Gastrointestinal/Hirschsprung disease\|Hirschsprung disease]], congenital diaphragmatic hernia, gastroschisis, omphalocele.
 
 ## DIAGNOSTIC EVALUATION
 

@@ -34,7 +34,7 @@
 |**Biliary Tract**|Choledochal cyst, cholelithiasis, microlithiasis (sludge), pancreas divisum, anomalous junction.|
 |**Drugs/Toxins**|Valproic acid, L-asparaginase, 6-mercaptopurine, azathioprine, steroids, tetracycline.|
 |**Systemic/Immune**|Hemolytic uremic syndrome, Henoch-Schönlein purpura, systemic lupus erythematosus, inflammatory bowel disease, shock.|
-|**Infections**|Mumps, Epstein-Barr virus, hepatitis A, coxsackievirus, rubella.|
+|**Infections**|Mumps, Epstein-Barr virus, [[Gastrointestinal/Hepatitis A\|hepatitis A]], coxsackievirus, rubella.|
 |**Metabolic**|Diabetic ketoacidosis, hypercalcemia, hypertriglyceridemia, [[Metabolic Disorders/Organic Acidemias\|organic acidemias]].|
 |**Genetic**|Mutations in _PRSS1_ (cationic trypsinogen), _SPINK1_, _CFTR_, _CTRC_.|
 
@@ -69,4 +69,4 @@
 |:--|:--|
 |**Local (<4 weeks)**|Acute peripancreatic fluid collection, acute necrotic collection.|
 |**Local (>4 weeks)**|Pancreatic pseudocyst (encapsulated fluid without necrosis), walled-off necrosis.|
-|**Systemic**|Systemic inflammatory response syndrome (SIRS), acute respiratory distress syndrome, renal failure, shock, disseminated intravascular coagulation, gastrointestinal hemorrhage.|
+|**Systemic**|Systemic inflammatory response syndrome (SIRS), acute [[Neonatalogy/Respiratory Distress Syndrome\|respiratory distress syndrome]], renal failure, shock, [[Hematology/Disseminated Intravascular Coagulation\|disseminated intravascular coagulation]], gastrointestinal hemorrhage.|

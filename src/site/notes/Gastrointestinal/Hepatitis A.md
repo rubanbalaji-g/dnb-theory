@@ -33,11 +33,11 @@
 
 ## Complications And Atypical Presentations
 
-- **Acute Liver Failure (ALF):** Rare (<1% in developed nations, higher in endemic zones); features worsening encephalopathy (irritability, altered sleep), persistent anorexia, and uncorrectable coagulopathy.
+- **[[Gastrointestinal/Acute Liver Failure\|Acute Liver Failure]] (ALF):** Rare (<1% in developed nations, higher in endemic zones); features worsening encephalopathy (irritability, altered sleep), persistent anorexia, and uncorrectable coagulopathy.
 - **Prolonged Cholestatic Syndrome:** Waxes and wanes over several months; marked by severe pruritus and fat malabsorption without hepatic synthetic dysfunction.
 - **Extrahepatic Complications:**
-    - Hematologic: Bone marrow hypoplasia, aplastic anemia, autoimmune hemolytic anemia.
-    - Gastrointestinal: Acute pancreatitis, acalculous cholecystitis, intestinal ulceration.
+    - Hematologic: Bone marrow hypoplasia, [[Hematology/Aplastic Anemia\|aplastic anemia]], [[Hematology/Autoimmune Hemolytic Anemia\|autoimmune hemolytic anemia]].
+    - Gastrointestinal: [[Gastrointestinal/Acute Pancreatitis\|Acute pancreatitis]], acalculous cholecystitis, intestinal ulceration.
     - Systemic: Leukocytoclastic vasculitis, cryoglobulinemia, nephritis, reactive arthritis, myocarditis.
 
 ## Diagnostic Evaluation
@@ -80,4 +80,4 @@
 |:--|:--|
 |**Active Immunization**|Inactivated vaccine. Recommended for all children >12 months. Two-dose intramuscular schedule (6-12 months apart). Seroconversion >95%; confers long-term protection.|
 |**Passive Immunization**|Human Immunoglobulin (Ig). Utilized for post-exposure prophylaxis if administered within 2 weeks of known exposure. Indicated exclusively for infants <12 months or vaccine-allergic individuals.|
-|**Combination Therapy**|Vaccine + Ig utilized for pre/post-exposure prophylaxis in immunocompromised hosts, older adults, or chronic liver disease patients.|
+|**Combination Therapy**|Vaccine + Ig utilized for pre/post-exposure prophylaxis in immunocompromised hosts, older adults, or [[Gastrointestinal/Chronic Liver Disease\|chronic liver disease]] patients.|

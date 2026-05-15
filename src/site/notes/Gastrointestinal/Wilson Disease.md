@@ -35,9 +35,9 @@
 - Variable spectrum ranging from asymptomatic state to fulminant failure.
 - Asymptomatic transaminitis or asymptomatic hepatomegaly.
 - Steatosis (fatty liver) represents early pathological feature.
-- Chronic active hepatitis mimicking autoimmune hepatitis.
-- Cirrhosis with portal hypertension, splenomegaly, ascites, esophageal variceal hemorrhage.
-- Acute liver failure (fulminant hepatic failure) presenting with rapidly progressive coagulopathy, jaundice, and encephalopathy.
+- Chronic active hepatitis mimicking [[Gastrointestinal/Autoimmune hepatitis\|autoimmune hepatitis]].
+- Cirrhosis with [[Gastrointestinal/Portal Hypertension\|portal hypertension]], splenomegaly, ascites, esophageal variceal hemorrhage.
+- [[Gastrointestinal/Acute Liver Failure\|Acute liver failure]] (fulminant hepatic failure) presenting with rapidly progressive coagulopathy, jaundice, and encephalopathy.
 - Acute failure characteristically associated with Coombs-negative hemolytic anemia.
 
 ### Neurological And Psychiatric Features
@@ -56,7 +56,7 @@
 |System|Manifestations|
 |:--|:--|
 |**Ophthalmologic**|Kayser-Fleischer (KF) rings (copper deposition in Descemet's membrane; rare in young children, common in neurological presentation). Sunflower cataracts.|
-|**Renal**|Fanconi syndrome (aminoaciduria, glycosuria, renal tubular acidosis, impaired phosphate reabsorption), nephrocalcinosis, nephrolithiasis.|
+|**Renal**|[[Nephrology/Fanconi syndrome\|Fanconi syndrome]] (aminoaciduria, glycosuria, renal tubular acidosis, impaired phosphate reabsorption), nephrocalcinosis, nephrolithiasis.|
 |**Hematologic**|Coombs-negative hemolytic anemia, thrombocytopenia, leukopenia.|
 |**Skeletal/Endocrine**|Rickets, osteoporosis, arthritis, delayed puberty, amenorrhea.|
 |**Dermatologic**|Xerosis, keratosis pilaris, hyperpigmentation of lower legs.|
@@ -78,7 +78,7 @@
     - **Hepatic Copper Quantification:** Gold standard biochemical evidence. Values ≥250 µg/g dry weight diagnostic. Lower values possible in severe cirrhosis due to variable distribution/sampling error.
     - **Histology:** Microvesicular and macrovesicular steatosis, glycogen-containing nuclear vacuoles, portal fibrosis, cirrhosis.
     - **Ultrastructure:** Pleomorphic mitochondria exhibiting increased matrix density and widened intercristal spaces.
-- **Genetic Testing:** _ATP7B_ mutation analysis via direct sequencing or next-generation sequencing (NGS). Identifies pathogenic variants in up to 95% of subjects.
+- **Genetic Testing:** _ATP7B_ mutation analysis via direct sequencing or [[Genetics/Next-Generation Sequencing (NGS)\|next-generation sequencing (NGS)]]. Identifies pathogenic variants in up to 95% of subjects.
 
 ### Diagnostic Scoring (Leipzig Score)
 
@@ -108,8 +108,8 @@ Lifelong medical compliance mandated to prevent severe organ damage or death.
 
 ### Surgical Intervention
 
-- **Liver Transplantation:** Indicated for fulminant acute liver failure with encephalopathy, or decompensated cirrhosis unresponsive to medical chelation.
-- **Transplant Scoring:** King's College Criteria (score ≥ 11 indicates urgent listing) or Wilson's disease index (Bilirubin, INR, AST, WBC, Albumin; score ≥ 11 mandates transplant).
+- **[[Gastrointestinal/Liver Transplantation\|Liver Transplantation]]:** Indicated for fulminant [[Gastrointestinal/Acute Liver Failure\|acute liver failure]] with encephalopathy, or decompensated cirrhosis unresponsive to medical chelation.
+- **Transplant Scoring:** King's College Criteria (score ≥ 11 indicates urgent listing) or Wilson's disease [[Statistics/Index\|index]] (Bilirubin, INR, AST, WBC, Albumin; score ≥ 11 mandates transplant).
 - Transplantation curative for hepatic defect; resolves altered copper metabolism.
 
 ### Surveillance And Screening

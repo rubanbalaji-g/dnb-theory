@@ -102,7 +102,7 @@
 
 - Centroacinar and duct cells secrete water and bicarbonate.
 - Bicarbonate maintains solubility of highly concentrated secreted proteins within ductal lumen.
-- Cystic fibrosis transmembrane regulator (CFTR) channels on ductal epithelia permit chloride and bicarbonate transport into ductal lumen.
+- [[Respiratory/Cystic Fibrosis\|Cystic fibrosis]] transmembrane regulator (CFTR) channels on ductal epithelia permit chloride and bicarbonate transport into ductal lumen.
 
 #### Regulatory Mechanisms
 
@@ -116,7 +116,7 @@
 
 #### Protective Mechanisms Against Autodigestion
 
-- Protection essential to prevent premature trypsinogen activation (hallmark of acute pancreatitis).
+- Protection essential to prevent premature trypsinogen activation (hallmark of [[Gastrointestinal/Acute Pancreatitis\|acute pancreatitis]]).
 - Enzymes synthesized strictly as inactive proenzymes,.
 - Digestive enzymes segregated into specialized secretory zymogen granules,.
 - Granules maintained at low pH (6.2) and low calcium concentration to minimize trypsin activity,.

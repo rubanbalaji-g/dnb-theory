@@ -29,12 +29,12 @@
 
 |Feature Category|Clinical Findings|
 |:--|:--|
-|**Cardiac (70-75%)**|Conotruncal anomalies including Tetralogy of Fallot, interrupted aortic arch type B, truncus arteriosus, and ventricular septal defect with pulmonary atresia.|
+|**Cardiac (70-75%)**|Conotruncal anomalies including [[Cardiology/Tetralogy of Fallot\|Tetralogy of Fallot]], interrupted aortic arch type B, truncus arteriosus, and ventricular septal defect with pulmonary atresia.|
 |**Abnormal Facies**|Hypertelorism, low-set ears, hooded eyelids, bulbous nose with squared tip, micrognathia, and short philtrum.|
 |**Thymic Hypoplasia**|Variable T-cell immunodeficiency resulting in recurrent viral and fungal infections. Complete DiGeorge presents similarly to severe combined immunodeficiency.|
 |**Cleft Palate (70%)**|Submucous cleft palate, velopharyngeal incompetence, and hypernasal speech.|
 |**Hypocalcemia (50-60%)**|Parathyroid hypoplasia leading to neonatal seizures and tetany. Can be transient or permanent.|
-|**Neurodevelopmental**|Mild to moderate intellectual disability, learning disabilities, speech delay, and psychiatric disorders (schizophrenia in 25% of adults, autism spectrum, ADHD).|
+|**Neurodevelopmental**|Mild to moderate intellectual disability, learning disabilities, speech delay, and psychiatric disorders (schizophrenia in 25% of adults, autism spectrum, [[Development/ADHD\|ADHD]]).|
 |**Renal and Skeletal**|Renal agenesis, hydronephrosis, scoliosis, and vertebral anomalies.|
 
 ## Diagnostic Evaluation
@@ -44,7 +44,7 @@
 - Chromosomal microarray is the gold standard investigation, detecting atypical or smaller copy number variants with higher yield.
 - Fluorescence in situ hybridization using the HIRA probe is a rapid test that detects 90% of typical deletions within 24 to 48 hours.
 - Multiplex ligation-dependent probe amplification provides a targeted, cost-effective alternative.
-- Conventional karyotyping is typically normal because the 22q11.2 deletion is submicroscopic.
+- Conventional [[Genetics/Karyotyping\|karyotyping]] is typically normal because the 22q11.2 deletion is submicroscopic.
 
 ### System-Specific Investigations
 
