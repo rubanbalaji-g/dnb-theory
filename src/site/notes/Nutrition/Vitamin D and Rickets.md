@@ -77,7 +77,7 @@ Recent research highlights "pleiotropic" actions of vitamin D beyond bone health
 - **FGF-23 Interaction:** Vitamin D homeostasis is closely linked to Fibroblast Growth Factor 23 (FGF-23), a bone-derived hormone.
     - High levels of 1,25(OH)2D stimulate the production of FGF-23 by osteocytes.
     - In turn, FGF-23 inhibits renal 1$\alpha$-hydroxylase, reducing the production of 1,25(OH)2D, preventing vitamin D toxicity and hyperphosphatemia.
-- **Magnesium Dependency:** Magnesium is required as a cofactor for the enzymatic conversion of vitamin D; thus, magnesium deficiency can impair calcium homeostasis and vitamin D function.
+- **Magnesium Dependency:** Magnesium is required as a cofactor for the enzymatic conversion of vitamin D; thus, magnesium deficiency can impair [[Endocrinology/Calcium Homeostasis\|calcium homeostasis]] and vitamin D function.
 
 ## Classification of Rickets
 
@@ -90,7 +90,7 @@ Characterized by low or normal serum calcium, low serum phosphate (secondary to 
 - Nutritional Vitamin D Deficiency
 - Nutritional Calcium Deficiency
 - Vitamin D Dependent Rickets (Type 1 and Type 2)
-- Chronic Kidney Disease (Renal Osteodystrophy)
+- [[Nephrology/Chronic Kidney Disease\|Chronic Kidney Disease]] ([[Nephrology/Renal Osteodystrophy\|Renal Osteodystrophy]])
 
 ### Phosphopenic Rickets
 
@@ -100,7 +100,7 @@ Characterized by hypophosphatemia due to renal wasting or poor intake, with norm
 - Hereditary Hypophosphatemic Rickets with Hypercalciuria (HHRH)
 - Tumor-Induced Osteomalacia
 - Rickets of Prematurity
-- Fanconi Syndrome and Renal Tubular Acidosis
+- [[Nephrology/Fanconi syndrome\|Fanconi Syndrome]] and Renal Tubular Acidosis
 
 ## Clinical Features
 ### General Clinical Manifestations
@@ -122,7 +122,7 @@ Characterized by hypophosphatemia due to renal wasting or poor intake, with norm
     - This is often one of the earliest signs in infants.
     - It manifests as softening of the skull bones, particularly the occipital and parietal bones.
     - Palpation reveals a sensation similar to pressing a Ping-Pong ball, which indents and snaps back.
-    - _Differential Diagnosis:_ It can also be seen in hydrocephalus, osteogenesis imperfecta, congenital syphilis, and normally in some newborns near suture lines.
+    - _Differential Diagnosis:_ It can also be seen in [[Neurology/Hydrocephalus\|hydrocephalus]], osteogenesis imperfecta, [[Infectious Diseases/Congenital Syphilis\|congenital syphilis]], and normally in some newborns near suture lines.
 - **Frontal and Parietal Bossing:**
     - Excessive accumulation of uncalcified osteoid leads to the thickening of the frontal and parietal eminences.
     - This gives the head a box-like or square appearance, often described as _caput quadratum_ or a "hot cross bun" appearance.
@@ -298,7 +298,7 @@ These are rare genetic disorders causing rickets despite normal Vitamin D intake
     - **Calcium:** High dose oral calcium (1000–3000 mg/day).
     - **Intravenous Calcium:** Long-term IV calcium infusion may be required for severe cases unresponsive to oral therapy to bypass the intestinal absorption defect,.
 
-#### 4. Chronic Kidney Disease (Renal Rickets)
+#### 4. [[Nephrology/Chronic Kidney Disease\|Chronic Kidney Disease]] (Renal Rickets)
 
 - **Pathophysiology:** Impaired renal conversion of 25(OH)D to 1,25(OH)₂D and phosphate retention,.
 - **Management:**
@@ -356,14 +356,14 @@ Occurs in very low birth weight infants (<1000g) due to interruption of placenta
     - Ensure adequate delivery of Calcium and Phosphorus.
     - Screen for Vitamin D deficiency and treat if 25(OH)D is low.
 
-#### 5. Rickets in Distal Renal Tubular Acidosis (RTA)
+#### 5. Rickets in Distal [[Nephrology/Renal Tubular Acidosis (RTA)\|Renal Tubular Acidosis (RTA)]]
 
 - **Pathophysiology:** Metabolic acidosis leads to bone demineralization and hypercalciuria,.
 - **Management:**
     - **Alkali Therapy:** Correction of acidosis (e.g., with bicarbonates/citrates) allows bone healing.
     - **Supplements:** Potassium and phosphate supplementation may be required.
 
-#### 6. Fanconi Syndrome
+#### 6. [[Nephrology/Fanconi syndrome\|Fanconi Syndrome]]
 
 - **Pathophysiology:** Generalized proximal tubular dysfunction losing phosphate, bicarbonate, glucose, and amino acids.
 - **Management:**
@@ -390,9 +390,9 @@ Certain clinical clues suggest a non-nutritional etiology:
 
 - **Age of Onset:** Onset in early infancy (3–6 months) is characteristic of Vitamin D Dependent Rickets (VDDR).
 - **Dermatological Signs:** **Alopecia** (ranging from sparse hair to total hair loss) is a hallmark of VDDR Type 2. Epidermal cysts or milia may also be seen.
-- **Renal Symptoms:** History of **polyuria and polydipsia** suggests renal tubular disorders like Fanconi syndrome or Distal Renal Tubular Acidosis (RTA).
+- **Renal Symptoms:** History of **polyuria and polydipsia** suggests renal tubular disorders like [[Nephrology/Fanconi syndrome\|Fanconi syndrome]] or Distal [[Nephrology/Renal Tubular Acidosis (RTA)\|Renal Tubular Acidosis (RTA)]].
 - **Dietary Habits:** A preference for savory foods may be noted.
-- **Family History:** History of rickets, leg deformities, or short stature in parents or siblings suggests genetic forms (e.g., X-linked hypophosphatemic rickets). Unexplained sibling death may suggest cystinosis (a cause of Fanconi syndrome).
+- **Family History:** History of rickets, leg deformities, or short stature in parents or siblings suggests genetic forms (e.g., X-linked hypophosphatemic rickets). Unexplained sibling death may suggest cystinosis (a cause of [[Nephrology/Fanconi syndrome\|Fanconi syndrome]]).
 - **Growth:** Marked stunting or failure to thrive is common.
 - **Hypocalcemic Symptoms:** History of tetany or seizures suggests calcipenic varieties (VDDR) rather than phosphopenic forms.
 
@@ -402,12 +402,12 @@ The biochemical workup is critical for diagnosis. The following flowchart logic 
 
 ##### **Step 1: Check Serum Phosphate**
 
-- **High Phosphate:** Suggests **Chronic Kidney Disease (CKD)**. In CKD, renal failure prevents phosphate excretion and impairs 1$\alpha$-hydroxylation of vitamin D.
+- **High Phosphate:** Suggests **[[Nephrology/Chronic Kidney Disease\|Chronic Kidney Disease]] (CKD)**. In CKD, renal failure prevents phosphate excretion and impairs 1$\alpha$-hydroxylation of vitamin D.
 - **Low or Normal Phosphate:** Suggests other causes; proceed to Step 2.
 
 ##### **Step 2: Check Blood pH (Acid-Base Status)**
 
-- **Low pH (Acidosis):** Suggests **Renal Tubular Acidosis (RTA)**.
+- **Low pH (Acidosis):** Suggests **[[Nephrology/Renal Tubular Acidosis (RTA)\|Renal Tubular Acidosis (RTA)]]**.
     - _Features:_ Hyperchloremic metabolic acidosis, normal anion gap, and hypercalciuria.
 - **Normal pH:** Proceed to Step 3.
 
@@ -431,7 +431,7 @@ The biochemical workup is critical for diagnosis. The following flowchart logic 
 ##### **Step 5: Check for Generalized Tubular Dysfunction**
 
 - Perform urine dipstick or analysis for glucose, protein, and amino acids.
-- Presence of glycosuria, proteinuria, and phosphaturia indicates **Fanconi Syndrome** (generalized proximal tubular defect).
+- Presence of glycosuria, proteinuria, and phosphaturia indicates **[[Nephrology/Fanconi syndrome\|Fanconi Syndrome]]** (generalized proximal tubular defect).
 
 #### Summary of Diagnostic Findings
 
@@ -442,6 +442,6 @@ The biochemical workup is critical for diagnosis. The following flowchart logic 
 |**VDDR Type 2**|Low/N|Low|High|High|**Very High**|Low/N|
 |**XLH (Hypophosphatemic)**|Normal|**Very Low**|High|Normal|**Low/Inappropriate**|Low|
 |**HHRH**|Normal|Low|High|Low|**High**|**High**|
-|**Chronic Kidney Disease**|Low/N|**High**|High|High|Low|Low/N|
+|**[[Nephrology/Chronic Kidney Disease\|Chronic Kidney Disease]]**|Low/N|**High**|High|High|Low|Low/N|
 
 **

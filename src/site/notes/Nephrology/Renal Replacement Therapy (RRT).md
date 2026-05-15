@@ -4,25 +4,25 @@
 
 ## Overview 
 
-- Renal replacement therapy (RRT) encompasses treatments intended to substitute for impaired kidney function over an extended period, utilized when kidney dysfunction progresses to the point where homeostasis and survival can no longer be sustained with maximal medical management.
+- [[Nephrology/Renal Replacement Therapy (RRT)\|Renal replacement therapy (RRT)]] encompasses treatments intended to substitute for impaired kidney function over an extended period, utilized when kidney dysfunction progresses to the point where homeostasis and survival can no longer be sustained with maximal medical management.
 - RRT encompasses dialysis modalities—peritoneal dialysis (PD), intermittent hemodialysis (IHD), and continuous kidney replacement therapies (CKRT)—as well as kidney transplantation, which is the ultimate goal and definitive therapy for children with end-stage kidney disease (ESKD).
 - The choice of modality depends on the acuity of the kidney injury, the hemodynamic stability of the patient, the goals of therapy (fluid removal versus rapid toxin clearance), patient size, and institutional resources.
 
 ## Indications for Renal Replacement Therapy
 
-### Acute Kidney Injury (AKI)
+### [[Nephrology/Acute Kidney Injury\|Acute Kidney Injury]] (AKI)
 
 - In the setting of AKI, RRT is indicated when medical management fails to control life-threatening complications.
 - Persistent, medically refractory hyperkalemia (typically $>6.5$ mEq/L).
 - Severe metabolic acidosis (serum bicarbonate $<10-12$ mEq/L) unresponsive to medical management.
 - Cumulative fluid overload exceeding 10% of body weight, or clinically significant fluid overload leading to refractory pulmonary edema.
 - Profound, symptomatic hyponatremia ($<120$ mEq/L) or hypernatremia.
-- Uremia manifesting with clinically significant complications such as uremic encephalopathy, pericarditis, or neuropathy.
+- Uremia manifesting with clinically significant complications such as uremic encephalopathy, [[Cardiology/Pericarditis\|pericarditis]], or neuropathy.
 - Calcium-phosphorus imbalance manifesting as hypocalcemic tetany.
 - Inability to provide adequate nutritional intake or necessary intravenous medications due to the need for severe fluid restriction in an oliguric/anuric patient.
-- Non-kidney indications include the rapid removal of toxins in inborn errors of metabolism (e.g., severe hyperammonemia) and the prevention or treatment of severe tumor lysis syndrome.
+- Non-kidney indications include the rapid removal of toxins in inborn errors of metabolism (e.g., severe hyperammonemia) and the prevention or treatment of severe [[Hematology/Tumor Lysis Syndrome\|tumor lysis syndrome]].
 
-### Chronic Kidney Disease (CKD)
+### [[Nephrology/Chronic Kidney Disease\|Chronic Kidney Disease]] (CKD)
 
 - Initiation of chronic dialysis is generally considered when the estimated glomerular filtration rate (eGFR) falls below 12 mL/min/1.73 m² and is strongly recommended when the eGFR is $<8$ mL/min/1.73 m².
 - Clinical well-being heavily influences the initiation timing; RRT is indicated in the presence of intractable fluid overload, treatment-resistant hypertension, persistent gastrointestinal symptoms, uremia, profound growth retardation, or neurological deterioration.
@@ -35,7 +35,7 @@
 - PD is often the initial RRT of choice in neonates and infants because it does not require sophisticated vascular access or equipment, and it can be initiated rapidly using a soft silastic or temporary stiff catheter.
 - Chronic PD can be performed manually as continuous ambulatory peritoneal dialysis (CAPD) or at night using an automated cycler (automated peritoneal dialysis, APD or CCPD).
 - **Advantages:** It is an at-home therapy that avoids frequent hospital visits, allowing children to resume schooling and maintain a normal lifestyle. It minimizes hemodynamic instability, provides continuous clearance, and allows for a less restricted diet and fluid intake compared to hemodialysis.
-- **Disadvantages/Complications:** Bacterial peritonitis is the most significant complication, requiring meticulous aseptic technique. Other issues include exit-site infections, catheter malfunction, and variable ultrafiltration dependent on membrane characteristics. PD is also less efficient at rapid solute clearance than hemodialysis.
+- **Disadvantages/Complications:** Bacterial [[Gastrointestinal/Peritonitis\|peritonitis]] is the most significant complication, requiring meticulous aseptic technique. Other issues include exit-site infections, catheter malfunction, and variable ultrafiltration dependent on membrane characteristics. PD is also less efficient at rapid solute clearance than hemodialysis.
 
 ### Intermittent Hemodialysis (IHD)
 

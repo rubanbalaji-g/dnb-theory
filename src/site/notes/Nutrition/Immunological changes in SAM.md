@@ -19,7 +19,7 @@ Cell-mediated immunity is the most severely affected arm of the immune system in
 Humoral immunity is relatively better preserved than cell-mediated immunity, but specific functional deficits exist.
 
 - **Immunoglobulin Levels:** Serum levels of immunoglobulins (IgG, IgM, IgA) are generally normal or often elevated due to the burden of repeated infections and antigenic stimulation,.
-- **Antibody Response:** While total Ig levels are high, the specific antibody response to _new_ antigens (e.g., response to diphtheria toxoid or yellow fever vaccine) may be impaired or blunted,.
+- **Antibody Response:** While total Ig levels are high, the specific antibody response to _new_ antigens (e.g., response to [[Misc/Diphtheria Toxoid\|diphtheria toxoid]] or yellow fever vaccine) may be impaired or blunted,.
 - **Secretory IgA (sIgA):** There is a significant reduction in secretory IgA levels in mucosal secretions (tears, saliva, gut secretions). This loss of surface immunity predisposes the child to mucosal infections, particularly respiratory and gastrointestinal tract infections.
 
 ### 3. Non-Specific (Innate) Immunity
@@ -42,9 +42,9 @@ Malnutrition disrupts the regulation of the inflammatory response.
 
 - **Silent Infections:** Due to "reductive adaptation" and the suppressed inflammatory response (reduced endogenous pyrogens/cytokines), classic signs of infection like fever and inflammation are often absent. A child with severe pneumonia or sepsis may present only with lethargy, hypothermia, or hypoglycemia,,.
 - **Gram-Negative Sepsis:** The combination of mucosal atrophy and immune paresis makes these children highly susceptible to gram-negative sepsis and bacteremia,.
-- **Progression of Tuberculosis:** Latent TB can easily flare up into active, severe disease (miliary TB, meningitis) due to loss of T-cell control.
+- **Progression of Tuberculosis:** Latent TB can easily flare up into active, severe disease (miliary TB, [[Neurology/Meningitis\|meningitis]]) due to loss of T-cell control.
 
-## Summary of Immunological Changes in SAM
+## Summary of [[Nutrition/Immunological changes in SAM\|Immunological Changes in SAM]]
 - Cell-mediated immunity is severely impaired due to thymic atrophy and T-lymphocyte reduction.
 - Humoral immunity is relatively preserved but with specific deficits in antibody response and secretory IgA.
 - Non-specific immunity is compromised with impaired phagocytosis and reduced complement system components.

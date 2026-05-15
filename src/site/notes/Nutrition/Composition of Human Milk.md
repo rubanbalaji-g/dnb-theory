@@ -2,7 +2,7 @@
 {"dg-publish":true,"uplink":"/nutrition/nutrition/","uptext":"Back to Index (Nutrition)","permalink":"/nutrition/composition-of-human-milk/","dgPassFrontmatter":true}
 ---
 
-## Nutritional Composition of Human Milk
+## Nutritional [[Nutrition/Composition of Human Milk\|Composition of Human Milk]]
 
 Human milk is a species-specific, biological fluid described as "white blood" because of its complex composition of living cells, nutrients, and bioactive factors. It is the gold standard for infant nutrition, providing optimum nutrients for growth and development while offering immunological protection.
 
@@ -22,8 +22,8 @@ Human milk protein content is lower than that of animal milks but is biochemical
     - In early lactation, the ratio can be as high as 80:20.
     - Whey proteins form a soft, flocculent curd in the stomach, facilitating easy digestion and rapid gastric emptying.
 - **Specific Protein Components:**
-    - **Alpha-lactalbumin:** The major whey protein (about 40% of whey), rich in tryptophan.
-    - **Lactoferrin:** Constitutes about 30% of whey proteins. It binds iron (bacteriostatic effect against _E. coli_) and enhances the absorption of iron and zinc,.
+    - **Alpha-lactalbumin:** The major whey protein ([[About\|about]] 40% of whey), rich in tryptophan.
+    - **Lactoferrin:** Constitutes [[About\|about]] 30% of whey proteins. It binds iron (bacteriostatic effect against _E. coli_) and enhances the absorption of iron and zinc,.
     - **Secretory IgA (sIgA):** Represents 15–20% of whey proteins; resistant to proteolysis and provides surface immunity.
     - **Absence of Beta-lactoglobulin:** Human milk lacks beta-lactoglobulin, the major allergen found in cow's milk,.
 - **Amino Acid Profile:**
@@ -69,12 +69,12 @@ Human milk is the "sweetest milk" due to its high lactose content,.
 The vitamin content of breast milk is generally adequate for the infant, provided the mother's status is optimal, with exceptions for Vitamin D and K.
 
 - **Fat-Soluble Vitamins:**
-    - **Vitamin A:** ~53 µg/100 mL (1250 IU/L). Rich in beta-carotene,.
-    - **Vitamin D:** Low content (**~30–40 IU/L** or <10 IU/100 mL), which is insufficient to meet the RDA (400 IU), necessitating supplementation,,.
+    - **[[Nutrition/Vitamin A\|Vitamin A]]:** ~53 µg/100 mL (1250 IU/L). Rich in beta-carotene,.
+    - **Vitamin D:** Low content (**~30–40 IU/L** or <10 IU/100 mL), which is insufficient to meet the [[Nutrition/RDA\|RDA]] (400 IU), necessitating supplementation,,.
     - **Vitamin E:** ~0.2 mg/100 mL; sufficient to prevent anemia.
     - **Vitamin K:** Low concentration (**15 ng/100 mL** or 0.3 µg/100 mL). Supplementation is required at birth to prevent Hemorrhagic Disease of the Newborn,,.
 - **Water-Soluble Vitamins:**
-    - **Vitamin C:** ~4.3 mg/100 mL. Adequate to prevent scurvy,.
+    - **Vitamin C:** ~4.3 mg/100 mL. Adequate to prevent [[Nutrition/Scurvy\|scurvy]],.
     - **B-Complex:** Generally adequate. B12 may be low in strict vegetarian mothers,.
 
 ### Micronutrients: Minerals and Trace Elements
@@ -90,7 +90,7 @@ Minerals in human milk have high bioavailability despite lower absolute concentr
 
 ### Bioactive and Immunological Factors
 
-Human milk is a "living fluid" containing cells and bioactive molecules that provide passive immunity and modulate development.
+Human milk is a "living fluid" containing cells and bioactive molecules that provide [[Infectious Diseases/Passive Immunity\|passive immunity]] and modulate development.
 
 - **Cellular Components:** Macrophages (predominant), T and B lymphocytes, and neutrophils.
 - **Enzymes:**
@@ -101,8 +101,8 @@ Human milk is a "living fluid" containing cells and bioactive molecules that pro
     - **Epidermal Growth Factor (EGF):** Promotes intestinal maturation and repair,.
     - **Nerve Growth Factor (NGF):** Promotes neural growth.
     - **Insulin-like Growth Factors (IGF):** Mediate growth.
-- **Hormones:** Contains erythropoietin, prolactin, insulin, cortisol, thyroxine, and prostaglandins,.
-- **Anti-parasitic Factors:** PABA deficiency in milk suppresses malaria parasites. BSSL kills _Giardia_ and _Amoeba_.
+- **Hormones:** Contains [[Hematology/Erythropoietin\|erythropoietin]], prolactin, insulin, cortisol, thyroxine, and prostaglandins,.
+- **Anti-parasitic Factors:** PABA deficiency in milk suppresses [[Infectious Diseases/Malaria\|malaria]] parasites. BSSL kills _Giardia_ and _Amoeba_.
 
 ### Variations in Composition
 

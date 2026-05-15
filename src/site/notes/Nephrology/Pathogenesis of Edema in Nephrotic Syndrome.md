@@ -2,9 +2,9 @@
 {"dg-publish":true,"uplink":"/nephrology/nephrology/","uptext":"Back to Index (🫘 Nephrology)","permalink":"/nephrology/pathogenesis-of-edema-in-nephrotic-syndrome/","dgPassFrontmatter":true}
 ---
 
-## Pathogenesis of Edema in Nephrotic Syndrome
+## [[Nephrology/Pathogenesis of Edema in Nephrotic Syndrome\|Pathogenesis of Edema in Nephrotic Syndrome]]
 
-- Edema is the most common presenting symptom of nephrotic syndrome, frequently starting as insidious periorbital puffiness before progressing to generalized pitting edema, ascites, pleural effusions, and genital edema.
+- Edema is the most common presenting symptom of [[Nephrology/Nephrotic Syndrome\|nephrotic syndrome]], frequently starting as insidious periorbital puffiness before progressing to generalized pitting edema, ascites, pleural effusions, and genital edema.
 - Despite its universal presence in the condition, the precise mechanism driving edema formation remains incompletely understood and is heavily debated.
 - The pathogenesis is classically explained by two opposing, yet potentially overlapping, physiological models: the "underfill" hypothesis and the "overfill" hypothesis.
 - The actual mechanism may be heterogeneous among patients, with some demonstrating primary sodium retention and expanded intravascular volume, while others display primary hypovolemia and secondary sodium retention.
@@ -22,7 +22,7 @@
 
 ### The Overfill Hypothesis
 
-- The overfill hypothesis postulates that nephrotic syndrome induces a primary, intrinsic defect in renal sodium retention, independent of systemic volume status or oncotic pressure.
+- The overfill hypothesis postulates that [[Nephrology/Nephrotic Syndrome\|nephrotic syndrome]] induces a primary, intrinsic defect in renal sodium retention, independent of systemic volume status or oncotic pressure.
 - This primary retention of sodium and water leads directly to intravascular volume expansion.
 - The consequent volume overload increases capillary hydrostatic pressure, forcing excess fluid to leak into the interstitial space to form edema.
 - Accumulating evidence suggests that the epithelial sodium channel (ENaC) located in the distal tubule and collecting duct plays a critical role in mediating this primary sodium reabsorption.

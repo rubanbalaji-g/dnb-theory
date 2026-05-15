@@ -105,7 +105,7 @@ Based on Median Urinary Iodine Levels:
 
 The goal is virtually virtual elimination of IDD. Prevention relies on increasing iodine intake in the entire population.
 
-### 1. Recommended Daily Intake (RDA)
+### 1. Recommended Daily Intake ([[Nutrition/RDA\|RDA]])
 
 - **Infants (0–12 months):** 90 $\mu$g/day.
 - **Children (1–5 years):** 90 $\mu$g/day.

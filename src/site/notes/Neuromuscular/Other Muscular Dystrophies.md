@@ -56,7 +56,7 @@ _(Source:)_
 - Inherited in an autosomal dominant pattern with anticipation (increasing severity in successive generations).
 - **Clinical Presentation**: Muscle weakness is predominantly distal (proximal muscles involved later). Features include a long expressionless face, facial dysmorphism, frontal baldness, and temporal muscle wasting.
 - **Myotonia**: The unique diagnostic hallmark is delayed relaxation of muscle after a hand grip or after percussion.
-- **Multisystem Involvement**: Includes iridescent spoke-like posterior capsular cataracts, endocrinopathies (diabetes mellitus, hyperinsulinism, testicular atrophy), immune deficiencies (low IgA), and cardiac arrhythmias.
+- **Multisystem Involvement**: Includes iridescent spoke-like posterior capsular cataracts, endocrinopathies (diabetes mellitus, hyperinsulinism, testicular atrophy), immune deficiencies (low IgA), and [[Cardiology/Cardiac arrhythmias\|cardiac arrhythmias]].
 
 ### Congenital Myotonic Dystrophy
 

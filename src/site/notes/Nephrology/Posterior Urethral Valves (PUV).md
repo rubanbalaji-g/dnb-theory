@@ -4,7 +4,7 @@
 
 ### Definition and Epidemiology
 
-- Posterior urethral valves (PUV) are the most common cause of severe lower urinary tract obstruction (LUTO) in male infants, with an estimated incidence of 1 in 5,000 to 8,000 live births.
+- [[Nephrology/Posterior Urethral Valves (PUV)\|Posterior urethral valves (PUV)]] are the most common cause of severe lower urinary tract obstruction (LUTO) in male infants, with an estimated incidence of 1 in 5,000 to 8,000 live births.
 - They are characterized by the formation of obstructing, sail-like membrane folds that fan distally from the verumontanum to the prostatic urethra, producing a slit-like opening that severely impedes antegrade urine flow.
 
 ### Pathophysiology and Embryology
@@ -12,7 +12,7 @@
 - The exact embryologic origin of PUV remains incompletely understood, but proposed mechanisms include hypertrophy of urethral mucosal folds, incomplete canalization or persistence of the urogenital membrane, abnormal development of the Wolffian or Müllerian ducts, or anomalous fusion of the verumontanum and posterior urethral roof epithelium.
 - Familial cases demonstrating autosomal dominant inheritance have been linked to rare variants in the _BNC2_ gene (encoding basonuclin 2).
 - The obstruction causes severe upstream anatomical and functional changes: the prostatic urethra dilates, the bladder muscle undergoes massive hypertrophy and trabeculation, and elevated intravesical pressures are transmitted to the upper urinary tract.
-- Vesicoureteral reflux (VUR) is present in up to 50% of patients due to distortion of the ureterovesical junction.
+- [[Nephrology/Vesicoureteral Reflux (VUR)\|Vesicoureteral reflux (VUR)]] is present in up to 50% of patients due to distortion of the ureterovesical junction.
 - Chronic high-pressure obstruction during critical phases of fetal nephrogenesis results in varying degrees of renal dysplasia, ranging from minimal tubular changes to severe cystic dysplasia, accompanied by oligohydramnios and subsequent pulmonary hypoplasia.
 
 ### Clinical Manifestations

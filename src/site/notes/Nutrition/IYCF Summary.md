@@ -127,7 +127,7 @@ Infant and Young Child Feeding (IYCF) practices are critical public health indic
 - **Continued Breastfeeding:** Continuing breastfeeding alongside complementary foods up to **2 years of age or beyond**.
 - **Frequency of Breastfeeding:** Breastfeeding on demand, day and night, at least **8 times in 24 hours** to ensure sufficiency.
 
-### 2. Complementary Feeding Indicators (6–23 Months)
+### 2. [[Nutrition/Complementary Feeding\|Complementary Feeding]] Indicators (6–23 Months)
 
 - **Timely Introduction:** Introduction of solid, semi-solid, or soft foods at **6 months (180 days)** of age while continuing breastfeeding.
 - **Minimum Dietary Diversity:** The proportion of children aged 6–23 months who receive foods from **4 or more food groups** out of the standard 7 groups (grains/roots/tubers, legumes/nuts, dairy, flesh foods, eggs, vitamin A-rich fruits/veg, other fruits/veg).

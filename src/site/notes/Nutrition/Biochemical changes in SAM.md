@@ -139,7 +139,7 @@ Oedema is multifactorial and not solely due to low albumin,.
 - **Copper:**
     - Levels are low. Deficiency causes neutropenia and bone changes.
 - **Vitamins:**
-    - **Vitamin A:** Hepatic stores are depleted; risk of blindness is high.
+    - **[[Nutrition/Vitamin A\|Vitamin A]]:** Hepatic stores are depleted; risk of blindness is high.
     - **Vitamin D:** Rickets may be masked by growth arrest but manifests during recovery.
 
 ### 8. Immunological Biochemistry
@@ -152,7 +152,7 @@ Oedema is multifactorial and not solely due to low albumin,.
 
 ### 9. Oxidative Stress
 
-- **Imbalance:** There is an excess production of free radicals (due to infection and free iron) and a severe deficiency of antioxidants (Vitamin A, C, E, Zinc, Selenium, Glutathione),.
+- **Imbalance:** There is an excess production of free radicals (due to infection and free iron) and a severe deficiency of antioxidants ([[Nutrition/Vitamin A\|Vitamin A]], C, E, Zinc, Selenium, Glutathione),.
 - **Damage:** This oxidative stress damages cell membranes, contributing to the skin lesions ("flaky paint dermatosis") and oedema of Kwashiorkor,.
 
 ### 10. Organ-Specific Biochemical Changes

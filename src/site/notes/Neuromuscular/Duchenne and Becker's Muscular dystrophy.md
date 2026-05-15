@@ -40,7 +40,7 @@ Duchenne Muscular Dystrophy (DMD) and Becker Muscular Dystrophy (BMD) are dystro
 - **Complications:** After loss of ambulation, patients develop worsening kyphoscoliosis, joint contractures (ankle, knee, elbow), and respiratory deficits due to weak intercostal and diaphragmatic muscles.
 - **Systemic Involvement:**
     - Subclinical cardiomyopathy is common; symptomatic in 20%. Deletion of exons 48, 48-49, and 45-53 strongly predisposes to cardiac complications and arrhythmias.
-    - Intellectual impairment (IQ < 70) occurs in about 20% of cases. Impaired gastric motility is also noted.
+    - Intellectual impairment (IQ < 70) occurs in [[About\|about]] 20% of cases. Impaired gastric motility is also noted.
 - **Mortality:** Death typically occurs before 20 years of age due to respiratory insufficiency and cardiomyopathy.
 
 ### Becker Muscular Dystrophy (BMD)
@@ -60,7 +60,7 @@ Duchenne Muscular Dystrophy (DMD) and Becker Muscular Dystrophy (BMD) are dystro
 
 ## Differential Diagnosis
 
-- **Spinal Muscular Atrophy (SMA):** Presents with fasciculations, early areflexia, and normal to mildly elevated CPK.
+- **[[Neuromuscular/Spinal Muscular Atrophy\|Spinal Muscular Atrophy]] (SMA):** Presents with fasciculations, early areflexia, and normal to mildly elevated CPK.
 - **Congenital Myopathies:** Static or slowly progressive, associated with facial/bulbar weakness, normal/mildly elevated CPK, and confirmed by specific biopsy findings (cores, rods).
 - **Limb Girdle Muscular Dystrophy (LGMD):** Autosomal recessive or dominant; may present with calf hypertrophy but lacks facial involvement, and parent may be variably affected.
 - **Congenital Myotonic Dystrophy:** Characterized by myotonia in the mother, neonatal onset, and generalized weakness.
@@ -69,12 +69,12 @@ Duchenne Muscular Dystrophy (DMD) and Becker Muscular Dystrophy (BMD) are dystro
 
 - **Serum CPK:** Grossly elevated (>10 times upper limit of normal) in both DMD and BMD. Levels may reduce in advanced disease. Elevated CPK is also useful for carrier detection in females.
 - **Electrophysiology:** Electromyogram (EMG) and Nerve Conduction Velocity (NCV) demonstrate a myopathic pattern, helping to rule out neurogenic syndromes.
-- **Genetic Studies:** Multiplex PCR and Multiplex Ligation-Dependent Probe Amplification (MLPA) detect gene deletions (65-70%) or duplications. Restriction Fragment Length Polymorphism (RFLP) and haplotypic analysis are used for non-deleted patients.
+- **Genetic Studies:** Multiplex PCR and [[Genetics/Multiplex Ligation-Dependent Probe Amplification (MLPA)\|Multiplex Ligation-Dependent Probe Amplification (MLPA)]] detect gene deletions (65-70%) or duplications. Restriction Fragment Length Polymorphism (RFLP) and haplotypic analysis are used for non-deleted patients.
 - **Muscle Biopsy:** Indicated for mutation-negative cases or to differentiate DMD from BMD. Routine H&E shows necrosis, regeneration, variable fiber diameter, central nuclei, and replacement by fibrofatty tissue. Immunohistochemical staining uses dystrophin antibodies (α, β, γ); dystrophin is absent in DMD and reduced/patchy in BMD.
 
 ### Diagnostic Algorithm
 
-Index Patient -> DNA (gene deletion screening via PCR/MLPA) -> If No Gene Deletion -> Southern Blot or Duplication analysis -> Haplotypic analysis -> Muscle Immunohistochemistry / Western blot -> Confirms diagnosis and enables detection of point mutation.
+[[Statistics/Index\|Index]] Patient -> DNA (gene deletion screening via PCR/MLPA) -> If No Gene Deletion -> Southern Blot or Duplication analysis -> Haplotypic analysis -> Muscle Immunohistochemistry / Western blot -> Confirms diagnosis and enables detection of point mutation.
 
 ## Management
 
@@ -107,4 +107,4 @@ Index Patient -> DNA (gene deletion screening via PCR/MLPA) -> If No Gene Deleti
 
 - Accurate pedigree charting tracing back at least two generations is essential.
 - Identify carrier status of females by CPK screening (normal in 20% of carriers) and targeted DNA studies.
-- **Prenatal Diagnosis:** Fetal sex identification is the first step. If male, Chorionic Villus Sampling (CVS) is conducted at the 11th to 12th week of gestation for multiplex PCR or Southern blot analysis.
+- **Prenatal Diagnosis:** Fetal sex identification is the first step. If male, [[Neonatalogy/Chorionic Villus Sampling (CVS)\|Chorionic Villus Sampling (CVS)]] is conducted at the 11th to 12th week of gestation for multiplex PCR or Southern blot analysis.

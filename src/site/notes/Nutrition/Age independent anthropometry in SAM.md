@@ -34,9 +34,9 @@ MUAC is a simple, rapid screening tool used for children aged 6 to 59 months. It
         - **Yellow Zone:** Indicates moderate malnutrition.
         - **Green Zone:** Indicates normal nutrition.
 
-### 3. Kanawati and McLaren Index (MUAC / Head Circumference Ratio)
+### 3. Kanawati and McLaren [[Statistics/Index\|Index]] (MUAC / Head Circumference Ratio)
 
-This index compares a labile measurement (MUAC, which decreases in malnutrition) with a static measurement (Head Circumference, which is relatively spared).
+This [[Statistics/Index\|index]] compares a labile measurement (MUAC, which decreases in malnutrition) with a static measurement (Head Circumference, which is relatively spared).
 
 - **Formula:** Mid-arm Circumference (cm) / Head Circumference (cm).
 - **Interpretation:**
@@ -45,9 +45,9 @@ This index compares a labile measurement (MUAC, which decreases in malnutrition)
     - **Moderate Malnutrition:** 0.25 – 0.28
     - **Severe Malnutrition:** < 0.25.
 
-### 4. Rao and Singh Index (Weight / Height²)
+### 4. Rao and Singh [[Statistics/Index\|Index]] (Weight / Height²)
 
-Also known as the Body Mass Index (BMI) equivalent for classification in pediatrics, though specific cut-offs differ from adult BMI.
+Also known as the Body Mass [[Statistics/Index\|Index]] (BMI) equivalent for classification in pediatrics, though specific cut-offs differ from adult BMI.
 
 - **Formula:** Weight (kg) / [Height (cm)]².
 - **Interpretation:**
@@ -59,7 +59,7 @@ Also known as the Body Mass Index (BMI) equivalent for classification in pediatr
 
 This ratio is useful in children aged 1 to 5 years.
 
-- **Principle:** At birth, Head Circumference (HC) is greater than Chest Circumference (CC). By about one year of age, they become equal. After one year, CC should exceed HC.
+- **Principle:** At birth, Head Circumference (HC) is greater than Chest Circumference (CC). By [[About\|about]] one year of age, they become equal. After one year, CC should exceed HC.
 - **Interpretation:**
     - In a child older than 1 year, if **CC < HC** (ratio < 1), it indicates malnutrition (failure of chest muscle/fat accretion).
 
@@ -71,9 +71,9 @@ A field tool developed to assess malnutrition without weighing scales or calcula
 - **Method:** The child stands against the stick. The health worker measures the child's actual MUAC and compares it to the value on the stick at the child's height level.
 - **Interpretation:** If the child's actual MUAC is lower than the value shown on the stick for their height, the child is malnourished.
 
-### 7. Dugdale’s Index
+### 7. Dugdale’s [[Statistics/Index\|Index]]
 
-An age-independent index derived to assess nutritional status.
+An age-independent [[Statistics/Index\|index]] derived to assess nutritional status.
 
 - **Formula:** Weight (kg) / [Height (cm)]^1.6.
 - **Interpretation:**
@@ -88,7 +88,7 @@ A rudimentary field test for screening, based on the principle that the mid-arm 
 - **Method:** Attempt to slip the bangle up the child's forearm to the upper arm.
 - **Interpretation:** If the bangle passes easily over the elbow and up the upper arm, it indicates significant wasting (the arm is too thin), suggesting malnutrition.
 
-### 9. Ponderal Index
+### 9. Ponderal [[Statistics/Index\|Index]]
 
 Primarily used for assessing intrauterine growth retardation (IUGR) or malnutrition in neonates, but technically age-independent.
 
@@ -100,7 +100,7 @@ Primarily used for assessing intrauterine growth retardation (IUGR) or malnutrit
 
 ### 10. Visible Severe Wasting
 
-While not a calculated index, this is a qualitative anthropometric sign accepted by WHO/IMNCI for identifying SAM when measurements are not possible.
+While not a calculated [[Statistics/Index\|index]], this is a qualitative anthropometric sign accepted by WHO/IMNCI for identifying SAM when measurements are not possible.
 
 - **Assessment:** Remove clothes and look for severe muscle wasting in the shoulders, arms, thighs, and buttocks.
 - **Signs:**
@@ -109,15 +109,15 @@ While not a calculated index, this is a qualitative anthropometric sign accepted
 - **Significance:** Presence of visible severe wasting confirms SAM.
 
 
-| Index / Method | Formula / Principle | Interpretation (SAM / Malnutrition) | Key Notes |
+| [[Statistics/Index\|Index]] / Method | Formula / Principle | Interpretation (SAM / Malnutrition) | Key Notes |
 | --- | --- | --- | --- |
 | Weight-for-Height/Length | Body mass relative to stature | < -3 SD (Z-score) | Gold standard for acute malnutrition (wasting). |
 | Mid-Upper Arm Circumference (MUAC) | Measures muscle and fat (6–59 months) | < 11.5 cm (115 mm) | Uses Shakir’s tape (Red zone = SAM). |
-| Kanawati and McLaren Index | $MUAC / Head Circumference$ | < 0.25 | Compares labile vs. static tissue. |
-| Rao and Singh Index | $Weight (kg) / [Height (cm)]^2$ | < 0.0013 | Pediatric BMI equivalent. |
+| Kanawati and McLaren [[Statistics/Index\|Index]] | $MUAC / Head Circumference$ | < 0.25 | Compares labile vs. static tissue. |
+| Rao and Singh [[Statistics/Index\|Index]] | $Weight (kg) / [Height (cm)]^2$ | < 0.0013 | Pediatric BMI equivalent. |
 | Chest / Head Circumference Ratio | CC should exceed HC after 1 year | Ratio < 1 (CC < HC) | Indicates failure of chest muscle/fat accretion. |
 | Quac Stick | MUAC compared to height-specific standard | Actual MUAC < expected for height | Field tool; no scales required. |
-| Dugdale’s Index | $Weight (kg) / [Height (cm)]^{1.6}$ | < 0.79 | Age-independent nutritional assessment. |
+| Dugdale’s [[Statistics/Index\|Index]] | $Weight (kg) / [Height (cm)]^{1.6}$ | < 0.79 | Age-independent nutritional assessment. |
 | The Bangle Test | 4 cm internal diameter bangle | Bangle passes easily over elbow | Rapid screening for children 1–5 years. |
-| Ponderal Index | $[Weight (g) / Length^3 (cm)] \times 100$ | < 2.0 | Used for neonates/IUGR assessment. |
+| Ponderal [[Statistics/Index\|Index]] | $[Weight (g) / Length^3 (cm)] \times 100$ | < 2.0 | Used for neonates/IUGR assessment. |
 | Visible Severe Wasting | Qualitative clinical assessment | Ribs visible; "baggy pants" buttocks | Used when measurements are impossible. |

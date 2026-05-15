@@ -75,14 +75,14 @@ Antinuclear antibody (ANA) positivity seen in approximately 80% of children. Scl
 - **Radiology:** High-resolution CT chest detects interstitial lung disease.
 - **Echocardiography:** Assesses pulmonary arterial hypertension and myocardial dysfunction.
 - **Gastrointestinal Evaluation:** Barium swallow, esophageal manometry.
-- **Severity Scoring:** Juvenile Systemic Sclerosis Severity Score (J4S) evaluates 9 parameters (General, vascular, skin, osteoarticular, muscle, gastrointestinal, respiratory, cardiac, renal). Maximum score 40.
+- **Severity Scoring:** [[Rheumatology/Juvenile Systemic Sclerosis\|Juvenile Systemic Sclerosis]] Severity Score (J4S) evaluates 9 parameters (General, vascular, skin, osteoarticular, muscle, gastrointestinal, respiratory, cardiac, renal). Maximum score 40.
 
 ## Differential Diagnosis
 
 |Condition|Distinguishing Features|
 |:--|:--|
 |**Juvenile Localized Scleroderma**|Confined to cutaneous manifestations (morphea, linear scleroderma). Lacks visceral organ involvement.|
-|**Overlap Syndromes**|Mixed features of juvenile dermatomyositis, SLE, or arthritis. Presence of anti-U1-RNP.|
+|**Overlap Syndromes**|Mixed features of [[Rheumatology/Juvenile Dermatomyositis\|juvenile dermatomyositis]], SLE, or arthritis. Presence of anti-U1-RNP.|
 |**Chemically Induced Scleroderma**|Exposure to polyvinyl chloride, bleomycin, pentazocine.|
 |**Pseudosclerodermas**|[[Metabolic Disorders/Phenylketonuria\|Phenylketonuria]], progeria, porphyria cutanea tarda.|
 |**Scleredema**|Benign, self-limiting. Non-pitting indurated edema over face, neck, shoulders. Spares hands and feet. Often follows streptococcal infection.|

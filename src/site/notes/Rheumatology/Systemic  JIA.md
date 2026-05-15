@@ -29,7 +29,7 @@
 - **Fever:** Intermittent, high-spiking quotidian fever exceeding 39°C. Peaks once or twice daily, typically evening. Rapid return to normal or subnormal baseline.
 - **Rash:** Evanescent, salmon-pink, maculopapular eruptions. Distributed mainly over trunk and proximal extremities. Migratory, nonpruritic, transient lasting less than one hour. Demonstrates Koebner phenomenon, evoked by superficial trauma or heat.
 - **Visceral Involvement:** Generalized lymphadenopathy, hepatosplenomegaly.
-- **Serositis:** Pleuritis and pericarditis common; myocarditis rare.
+- **Serositis:** Pleuritis and [[Cardiology/Pericarditis\|pericarditis]] common; myocarditis rare.
 
 ### Articular Features
 
@@ -69,7 +69,7 @@
 
 ## Severe Complications
 
-### Macrophage Activation Syndrome
+### [[Rheumatology/Macrophage Activation Syndrome\|Macrophage Activation Syndrome]]
 
 - Life-threatening complication occurring in 5-8% of cases overtly, subclinical in up to 30%.
 - Driven by excessive activation of macrophages and T lymphocytes.
@@ -83,7 +83,7 @@
 
 - Rare, potentially fatal complication.
 - Predominant pathology features pulmonary alveolar proteinosis and endogenous lipoid pneumonia.
-- Associated with younger age onset, prior macrophage activation syndrome, and high IL-18.
+- Associated with younger age onset, prior [[Rheumatology/Macrophage Activation Syndrome\|macrophage activation syndrome]], and high IL-18.
 
 ## Algorithmic Management
 
@@ -92,10 +92,10 @@
 |Treatment Tier|Pharmacologic Agents|Indications & Efficacy|
 |---|---|---|
 |**First Line**|Nonsteroidal anti-inflammatory drugs (NSAIDs)|Initial symptomatic relief; rarely controls severe systemic disease alone.|
-|**Bridge / Severe**|Systemic Corticosteroids|Controls severe systemic illness, macrophage activation syndrome. Avoid long-term use.|
+|**Bridge / Severe**|Systemic Corticosteroids|Controls severe systemic illness, [[Rheumatology/Macrophage Activation Syndrome\|macrophage activation syndrome]]. Avoid long-term use.|
 |**Targeted Biologics**|IL-1 Inhibitors (Anakinra, Canakinumab)|Highly effective for profound systemic features; often initiates rapid remission.|
 |**Targeted Biologics**|IL-6 Inhibitors (Tocilizumab)|Controls refractory systemic disease, normalizes acute phase reactants.|
 |**Conventional**|Methotrexate|Adjunctive therapy primarily targeting persistent articular involvement.|
 
 - Tumor necrosis factor (TNF) inhibitors remain less effective for systemic symptoms compared to IL-1 and IL-6 blockade.
-- Emergent intravenous methylprednisolone pulse therapy alongside cyclosporine required for macrophage activation syndrome.
+- Emergent intravenous methylprednisolone pulse therapy alongside cyclosporine required for [[Rheumatology/Macrophage Activation Syndrome\|macrophage activation syndrome]].

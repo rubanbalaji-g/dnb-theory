@@ -4,14 +4,14 @@
 
 ## Definition and Overview
 
-- Hypervitaminosis D is a condition of Vitamin D toxicity resulting from excessive intake of Vitamin D or its active metabolites.
+- [[Nutrition/Hypervitaminosis D\|Hypervitaminosis D]] is a condition of Vitamin D toxicity resulting from excessive intake of Vitamin D or its active metabolites.
 - It is characterized principally by hypercalcemia and its associated systemic manifestations.
 - Toxic levels are generally defined as serum 25-hydroxyvitamin D (25-OHD) levels **>100 ng/mL (>250 nmol/L)**.
 - It is a potential complication of the treatment of rickets or hypoparathyroidism, or the result of accidental overdose.
 
 ## Etiology
 
-Hypervitaminosis D is almost exclusively caused by exogenous intake; it does not occur due to excessive sunlight exposure because cutaneous synthesis is self-regulated (UVB converts excess previtamin D3 into inactive metabolites).
+[[Nutrition/Hypervitaminosis D\|Hypervitaminosis D]] is almost exclusively caused by exogenous intake; it does not occur due to excessive sunlight exposure because cutaneous synthesis is self-regulated (UVB converts excess previtamin D3 into inactive metabolites).
 
 - **Excessive Supplementation:**
     - Misuse of prescribed or non-prescription Vitamin D supplements is the most common cause.
@@ -24,11 +24,11 @@ Hypervitaminosis D is almost exclusively caused by exogenous intake; it does not
 - **Use of Active Metabolites:**
     - Toxicity can result from the intake of synthetic analogs like calcitriol (1,25-dihydroxyvitamin D) or alfacalcidol.
 - **Individual Susceptibility:**
-    - Certain conditions like Williams syndrome (idiopathic infantile hypercalcemia) were historically linked to hypersensitivity to Vitamin D, though they are now understood as distinct genetic entities often included in the differential diagnosis,.
+    - Certain conditions like [[Genetics/Williams Syndrome\|Williams syndrome]] (idiopathic infantile hypercalcemia) were historically linked to hypersensitivity to Vitamin D, though they are now understood as distinct genetic entities often included in the differential diagnosis,.
 
 ## Pathophysiology
 
-The primary driver of morbidity in hypervitaminosis D is severe **hypercalcemia**.
+The primary driver of morbidity in [[Nutrition/Hypervitaminosis D\|hypervitaminosis D]] is severe **hypercalcemia**.
 
 - **Mechanisms of Hypercalcemia:**
     - **Excessive Bone Resorption:** This is the dominant mechanism. High levels of Vitamin D metabolites stimulate osteoclasts to resorb bone, releasing calcium into the extracellular fluid.
@@ -38,7 +38,7 @@ The primary driver of morbidity in hypervitaminosis D is severe **hypercalcemia*
     - **Displacement of 1,25(OH)2D:** Massive amounts of 25-OHD can saturate Vitamin D-binding proteins (DBP). This displaces 1,25(OH)2D, increasing the concentration of **free** (unbound) 1,25(OH)2D, which is biologically active, even if the _total_ serum 1,25(OH)2D is normal or low.
     - **Receptor Binding:** At very high concentrations, 25-OHD itself may bind to and activate the Vitamin D receptor (VDR), mimicking the action of the active hormone.
 - **Renal Effects:**
-    - Hypercalcemia leads to **nephrogenic diabetes insipidus** by impairing the concentrating ability of the kidney, causing polyuria and dehydration.
+    - Hypercalcemia leads to **[[Nephrology/Nephrogenic diabetes insipidus\|nephrogenic diabetes insipidus]]** by impairing the concentrating ability of the kidney, causing polyuria and dehydration.
     - Hypercalciuria (excess calcium in urine) predisposes to nephrocalcinosis and nephrolithiasis,.
     - The combination of dehydration (prerenal) and nephrocalcinosis can lead to acute or chronic renal insufficiency.
 
@@ -67,7 +67,7 @@ Symptoms are primarily sequelae of hypercalcemia and can involve multiple organ 
 - Headache.
 - Lethargy, stupor, or coma in severe cases.
 - Hypotonia (muscle weakness).
-- Pseudotumor cerebri (increased intracranial pressure) has been described, though more typical of Vitamin A toxicity,.
+- [[Neurology/Pseudotumor Cerebri\|Pseudotumor cerebri]] (increased intracranial pressure) has been described, though more typical of [[Nutrition/Vitamin A\|Vitamin A]] toxicity,.
 
 ### Cardiovascular
 
@@ -103,7 +103,7 @@ Symptoms are primarily sequelae of hypercalcemia and can involve multiple organ 
 
 The differential diagnosis focuses on other causes of **hypercalcemia**:
 
-1. **Williams Syndrome:** Associated with "elfin facies," supravalvular aortic stenosis, and transient idiopathic hypercalcemia.
+1. **[[Genetics/Williams Syndrome\|Williams Syndrome]]:** Associated with "elfin facies," supravalvular aortic stenosis, and transient idiopathic hypercalcemia.
 2. **Primary Hyperparathyroidism:** Characterized by high Calcium but **Low Phosphate** and **High PTH** (unlike Vitamin D toxicity where PTH is low and Phosphate is high).
 3. **Idiopathic Infantile Hypercalcemia:** Hypercalcemia occurring in children taking appropriate/normal doses of Vitamin D (suspected CYP24A1 mutations).
 4. **Subcutaneous Fat Necrosis:** Seen in newborns; associated with skin nodules and hypercalcemia.
@@ -150,5 +150,5 @@ Treatment is a medical emergency aimed at reducing serum calcium levels and prev
 - **Duration:** Because Vitamin D is fat-soluble and stored in adipose tissue, serum levels can remain elevated for months after stopping intake. This necessitates prolonged monitoring of serum calcium, 25-OHD, and urine calcium.
 - **Complications:**
     - **Nephrocalcinosis:** Can be permanent.
-    - **Chronic Kidney Disease (CKD):** Severe or prolonged toxicity can lead to permanent renal damage and hypertension.
+    - **[[Nephrology/Chronic Kidney Disease\|Chronic Kidney Disease]] (CKD):** Severe or prolonged toxicity can lead to permanent renal damage and hypertension.
     - **Fatalities:** Extreme hypercalcemia can lead to cardiac arrest or renal failure and death,.

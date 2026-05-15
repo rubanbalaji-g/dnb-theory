@@ -4,7 +4,7 @@
 
 ## Introduction & Epidemiology
 
-Guillain-Barré Syndrome (GBS) represents an acute, severe, fulminant polyradiculoneuropathy of autoimmune origin.
+[[Neuromuscular/Guillain-Barré Syndrome\|Guillain-Barré Syndrome]] (GBS) represents an acute, severe, fulminant polyradiculoneuropathy of autoimmune origin.
 
 - Acquired, post-infectious demyelinating disease involving peripheral nervous system.
 - Primarily affects motor nerves; sensory and autonomic nerves frequently involved.
@@ -21,12 +21,12 @@ Infection precedes onset in ~70% of cases by 1–3 weeks.
 - **Gastrointestinal/Respiratory:** Most common prior illnesses.
 - **_Campylobacter jejuni_:** Most frequent bacterial trigger. Accounts for 20–30% of cases globally. Documented in ~27% of AIIMS cohorts. Strongly associated with axonal subtypes (AMAN, AMSAN).
 - **Human Herpes Viruses:** Cytomegalovirus (CMV), Epstein-Barr virus (EBV).
-- **Other Viruses:** HIV, Hepatitis E, Zika virus, SARS-CoV-2 (COVID-19).
+- **Other Viruses:** HIV, [[Gastrointestinal/Hepatitis E\|Hepatitis E]], Zika virus, SARS-CoV-2 ([[Infectious Diseases/COVID-19\|COVID-19]]).
 - **Atypical Bacteria:** _Mycoplasma pneumoniae_.
 
 ### Non-Infectious Triggers
 
-- **Vaccinations:** Historically linked to 1976 swine influenza vaccine. Modern influenza vaccines pose minimal risk (<1 per million). Recent data indicates slightly increased risk with adenovirus-vector SARS-CoV-2 vaccines; mRNA vaccines confer no risk.
+- **Vaccinations:** Historically linked to 1976 swine [[Misc/Influenza Vaccine\|influenza vaccine]]. Modern influenza vaccines pose minimal risk (<1 per million). Recent data indicates slightly increased risk with adenovirus-vector SARS-CoV-2 vaccines; mRNA vaccines confer no risk.
 - **Immunosuppressed States:** Increased incidence in lymphoma (Hodgkin's disease), HIV-seropositivity, Systemic Lupus Erythematosus (SLE).
 - **Medications:** Immune checkpoint inhibitors (cancer immunotherapies).
 
@@ -103,7 +103,7 @@ Infection precedes onset in ~70% of cases by 1–3 weeks.
 ### Additional Mimics
 
 - **Spinal Cord Disease:** Acute myelopathy. Strongly consider if early bowel/bladder dysfunction or distinct sensory level exists.
-- **Neuromuscular Junction Disorders:** Myasthenia gravis, Botulism (pupillary reactivity lost early).
+- **Neuromuscular Junction Disorders:** [[Neuromuscular/Myasthenia Gravis\|Myasthenia gravis]], Botulism (pupillary reactivity lost early).
 - **Infectious Polyradiculitis:** Lyme disease, CMV (in immunocompromised), HIV.
 - **Toxic/Metabolic:** Porphyria (abdominal pain, psychosis), organophosphates, thallium, arsenic, severe hypophosphatemia.
 - **Vasculitic Neuropathy:** Check erythrocyte sedimentation rate.

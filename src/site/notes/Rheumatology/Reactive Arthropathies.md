@@ -63,11 +63,11 @@
 
 |Organ System|Specific Manifestations|
 |---|---|
-|Mucocutaneous|Keratoderma blennorrhagica (hyperkeratotic scaly plaques on soles/palms resembling pustular psoriasis), erythema nodosum, painless oral ulcers, nail pitting/onycholysis|
+|Mucocutaneous|Keratoderma blennorrhagica (hyperkeratotic scaly plaques on soles/palms resembling pustular psoriasis), [[Misc/Erythema Nodosum\|erythema nodosum]], painless oral ulcers, nail pitting/onycholysis|
 |Genitourinary|Urethritis, cervicitis, vaginitis, circinate balanitis (painless shallow ulcers on glans penis affecting 20-30% males)|
 |Ocular|Acute symptomatic anterior uveitis, conjunctivitis, episcleritis|
 |Constitutional|High fever, severe malaise, fatigue, significant weight loss|
-|Cardiac|Aortic valve involvement, myocarditis, pericarditis (rare, occasionally seen with Salmonella)|
+|Cardiac|Aortic valve involvement, myocarditis, [[Cardiology/Pericarditis\|pericarditis]] (rare, occasionally seen with Salmonella)|
 
 ## Diagnostic Evaluation
 
@@ -87,7 +87,7 @@
 ### Microbiological Workup
 
 - Stool culture essential for identifying enteric pathogens.
-- Urine nucleic acid amplification test (NAAT) or urethral swab for Chlamydia/Gonococcus DNA detection via polymerase chain reaction (PCR).
+- Urine nucleic acid amplification test ([[Genetics/NAAT\|NAAT]]) or urethral swab for Chlamydia/Gonococcus DNA detection via polymerase chain reaction (PCR).
 - Specific serological markers (hemagglutination) for Salmonella and Yersinia.
 - Synovial fluid analysis: Turbid fluid, extremely high leukocyte counts (often >50,000/microL with neutrophil predominance), but sterile routine bacterial cultures. Synovial fluid PCR may detect offending bacterial DNA.
 
@@ -102,13 +102,13 @@
 ### Characteristics
 
 - Non-purulent complication following Group A Beta-Hemolytic Streptococcus (GABHS) upper respiratory tract infection.
-- Specifically fails to fulfill revised Jones criteria for Acute Rheumatic Fever (ARF) diagnosis.
+- Specifically fails to fulfill revised Jones criteria for [[Infectious Diseases/Acute Rheumatic Fever (ARF)\|Acute Rheumatic Fever (ARF)]] diagnosis.
 - Bimodal age distribution: Early peak at 8-14 years, late peak at 21-37 years.
 - Genetic vulnerability linked to inheritance of HLA-DRB1*01 allele.
 
 ### Differentiation From Acute Rheumatic Fever
 
-|Clinical Parameter|Post-Streptococcal Reactive Arthritis (PSReA)|Acute Rheumatic Fever (ARF)|
+|Clinical Parameter|Post-Streptococcal Reactive Arthritis (PSReA)|[[Infectious Diseases/Acute Rheumatic Fever (ARF)\|Acute Rheumatic Fever (ARF)]]|
 |---|---|---|
 |Latent Period|Short (<10 days)|Long (2-3 weeks)|
 |Arthritis Pattern|Additive, persistent, non-migratory|Fleeting, highly migratory|
@@ -142,6 +142,6 @@
 
 - Usually follows self-limiting monophasic course, resolving completely within 6 weeks in pediatric populations.
 - Chronic or recurrent arthritis/enthesitis develops in 15-30% of patients.
-- Direct progression to Enthesitis-Related Arthritis (ERA) or fully expressed Juvenile Idiopathic Arthritis (JIA) documented in subset of cases.
+- Direct progression to [[Rheumatology/Enthesitis-Related Arthritis (ERA)\|Enthesitis-Related Arthritis (ERA)]] or fully expressed Juvenile Idiopathic Arthritis (JIA) documented in subset of cases.
 - Chronicity risk factors include HLA-B27 genetic positivity and presence of extra-articular manifestations (triad of arthritis, urethritis, conjunctivitis).
 - Uveitis related to reactive arthritis generally maintains benign course without permanent ocular sequelae.

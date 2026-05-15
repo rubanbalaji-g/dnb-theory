@@ -26,7 +26,7 @@ The criteria for infants less than 6 months differ because MUAC is not a validat
 - **Visible Severe Wasting:**
     - Used when length is < 49 cm or weight-for-length charts are unavailable.
     - Look for severe loss of muscle and fat on the shoulders, arms, buttocks, and thighs. The skin may appear loose, often described as a **"baggy pants"** appearance on the buttocks,,.
-- **Bilateral Pitting Oedema:** Presence of oedema in both feet (after excluding medical causes like nephrotic syndrome),.
+- **Bilateral Pitting Oedema:** Presence of oedema in both feet (after excluding medical causes like [[Nephrology/Nephrotic Syndrome\|nephrotic syndrome]]),.
 
 ### 3. Classification Based on Complications (Triage)
 

@@ -3,7 +3,7 @@
 ---
 
 ## 1. DEFINITION
-- Kawasaki Disease Shock Syndrome (KDSS) is a severe, life-threatening manifestation of Kawasaki Disease (KD) characterized by the presence of standard KD criteria along with hemodynamic instability. Specifically defined by:
+- [[Rheumatology/Kawasaki Disease Shock Syndrome\|Kawasaki Disease Shock Syndrome]] (KDSS) is a severe, life-threatening manifestation of [[Rheumatology/Kawasaki Disease\|Kawasaki Disease]] (KD) characterized by the presence of standard KD criteria along with hemodynamic instability. Specifically defined by:
 	* Sustained decrease in systolic blood pressure below the 5th percentile for age and sex, OR
 	* Clinical signs of poor perfusion (tachycardia, prolonged capillary refill time >2 seconds, cold extremities, weak pulses, oliguria, or altered sensorium) requiring volume expansion or vasoactive/inotropic support.
 
@@ -18,13 +18,13 @@ Patients with KDSS often present with distinct phenotypic differences compared t
 - Demographics: Tends to affect older children and females more frequently.
 - Hemodynamic: Distributive, cardiogenic, or mixed shock presentation.
 - Gastrointestinal: High frequency of severe GI symptoms (vomiting, abdominal pain, diarrhea, hepatitis) resembling an acute abdomen.
-- Neurological: Higher incidence of aseptic meningitis and altered sensorium.
+- Neurological: Higher incidence of aseptic [[Neurology/Meningitis\|meningitis]] and altered sensorium.
 - Respiratory: Pleural effusions and respiratory distress are more common.
 
 ## 4. INVESTIGATIONS
 - Hematology: Pronounced neutrophilia with severe left shift, marked anemia. Thrombocytopenia is notably more common in KDSS (consumptive coagulopathy) compared to the thrombocytosis seen in classic KD.
 - Inflammatory Markers: Exceptionally high C-Reactive Protein (CRP), Erythrocyte Sedimentation Rate (ESR), and Procalcitonin.
-- Biochemistry: Hypoalbuminemia (severe capillary leak), elevated transaminases, hyponatremia, and elevated creatinine (pre-renal acute kidney injury).
+- Biochemistry: Hypoalbuminemia (severe capillary leak), elevated transaminases, hyponatremia, and elevated creatinine (pre-renal [[Nephrology/Acute Kidney Injury\|acute kidney injury]]).
 - Cardiac Biomarkers: Elevated Troponin I/T and markedly elevated BNP or NT-proBNP reflecting myocardial injury and strain.
 - Echocardiography: 
     - Critical for evaluating LV/RV ejection fraction and fractional shortening (myocardial dysfunction).

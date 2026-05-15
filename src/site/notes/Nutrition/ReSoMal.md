@@ -2,7 +2,7 @@
 {"dg-publish":true,"uplink":"/nutrition/nutrition/","uptext":"Back to Index (Nutrition)","permalink":"/nutrition/re-so-mal/","dgPassFrontmatter":true}
 ---
 
-**ReSoMal** stands for **Re**hydration **So**lution for **Mal**nutrition. It is a specialized oral rehydration fluid formulated specifically for the management of children with Severe Acute Malnutrition (SAM) who present with some or severe dehydration but are **not** in shock.
+**[[Nutrition/ReSoMal\|ReSoMal]]** stands for **Re**hydration **So**lution for **Mal**nutrition. It is a specialized oral rehydration fluid formulated specifically for the management of children with Severe Acute Malnutrition (SAM) who present with some or severe dehydration but are **not** in shock.
 
 ### Physiological Rationale
 
@@ -10,11 +10,11 @@ Children with SAM have an altered physiology characterized by "reductive adaptat
 
 - **Sodium Excess:** They have an excess of total body sodium, even though plasma sodium levels may appear low. Giving standard ORS (high sodium) can lead to sodium overload and heart failure.
 - **Potassium/Magnesium Depletion:** They have severe intracellular depletion of potassium and magnesium.
-- **ReSoMal Design:** To address this, ReSoMal has **lower sodium** (37.5–45 mmol/L) and **higher potassium** (40 mmol/L) compared to standard WHO low-osmolarity ORS.
+- **[[Nutrition/ReSoMal\|ReSoMal]] Design:** To address this, [[Nutrition/ReSoMal\|ReSoMal]] has **lower sodium** (37.5–45 mmol/L) and **higher potassium** (40 mmol/L) compared to standard WHO low-osmolarity ORS.
 
 ### Composition
 
-The approximate electrolyte concentration of ReSoMal is:
+The approximate electrolyte concentration of [[Nutrition/ReSoMal\|ReSoMal]] is:
 
 - **Sodium:** 45 mmol/L (approx. half of standard ORS)
 - **Potassium:** 40 mmol/L
@@ -26,7 +26,7 @@ The approximate electrolyte concentration of ReSoMal is:
 
 ### Preparation
 
-Since ReSoMal is not always commercially available, it is prepared using standard WHO Low-Osmolarity ORS packets. The recipe is:
+Since [[Nutrition/ReSoMal\|ReSoMal]] is not always commercially available, it is prepared using standard WHO Low-Osmolarity ORS packets. The recipe is:
 
 1. Take **one packet** of standard WHO Low-Osmolarity ORS (meant for 1 liter).
 2. Dissolve it in **2 liters** of boiled and cooled water (this dilutes the sodium).
@@ -44,4 +44,4 @@ Since ReSoMal is not always commercially available, it is prepared using standar
 
 ### Contraindication
 
-If the malnourished child has **profuse watery diarrhea** (suspected cholera), ReSoMal should **not** be used. Standard low-osmolarity ORS should be used instead to adequately replace the massive sodium losses associated with cholera.
+If the malnourished child has **profuse watery diarrhea** (suspected cholera), [[Nutrition/ReSoMal\|ReSoMal]] should **not** be used. Standard low-osmolarity ORS should be used instead to adequately replace the massive sodium losses associated with cholera.

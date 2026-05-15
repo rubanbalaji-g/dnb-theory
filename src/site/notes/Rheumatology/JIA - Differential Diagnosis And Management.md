@@ -10,14 +10,14 @@ Juvenile idiopathic arthritis requires meticulous clinical exclusion of other di
 
 |Disease Category|Specific Conditions|
 |---|---|
-|Infectious Diseases|Septic arthritis, viral arthritis (rubella, parvovirus B19, Epstein-Barr virus, hepatitis B), Lyme disease, osteomyelitis, endocarditis,.|
+|Infectious Diseases|Septic arthritis, viral arthritis (rubella, parvovirus B19, Epstein-Barr virus, [[Gastrointestinal/Hepatitis B\|hepatitis B]]), Lyme disease, osteomyelitis, endocarditis,.|
 |Reactive And Post-Infectious|Acute rheumatic fever, reactive arthritis (enteric or urogenital triggers), transient synovitis of the hip,.|
-|Rheumatic And Autoimmune|Systemic lupus erythematosus, juvenile dermatomyositis, scleroderma, IgA vasculitis, Kawasaki disease, sarcoidosis, mixed connective tissue disease,.|
-|Neoplastic Disorders|Leukemia, neuroblastoma, lymphoma, bone tumors,.|
+|Rheumatic And Autoimmune|Systemic lupus erythematosus, [[Rheumatology/Juvenile Dermatomyositis\|juvenile dermatomyositis]], scleroderma, IgA vasculitis, [[Rheumatology/Kawasaki Disease\|Kawasaki disease]], sarcoidosis, mixed connective tissue disease,.|
+|Neoplastic Disorders|Leukemia, [[Hematology/Neuroblastoma\|neuroblastoma]], lymphoma, bone tumors,.|
 |Orthopedic And Mechanical|Trauma, growing pains, hypermobility syndromes, Legg-Calve-Perthes disease, slipped capital femoral epiphysis, chondrolysis,.|
-|Autoinflammatory Syndromes|Periodic fever syndromes, macrophage activation syndrome, familial Mediterranean fever,.|
+|Autoinflammatory Syndromes|Periodic fever syndromes, [[Rheumatology/Macrophage Activation Syndrome\|macrophage activation syndrome]], familial Mediterranean fever,.|
 |Immunodeficiencies|Hypogammaglobulinemia, IgA deficiency, common variable immunodeficiency.|
-|Congenital And Metabolic|Gout, mucopolysaccharidoses, thyroid disease, scurvy, skeletal dysplasias,.|
+|Congenital And Metabolic|Gout, mucopolysaccharidoses, thyroid disease, [[Nutrition/Scurvy\|scurvy]], skeletal dysplasias,.|
 
 ### Differentiating Features
 
@@ -49,7 +49,7 @@ Juvenile idiopathic arthritis requires meticulous clinical exclusion of other di
 |Conventional Synthetic DMARDs|Methotrexate, sulfasalazine, leflunomide|Methotrexate anchors treatment for polyarthritis and extended oligoarthritis. Sulfasalazine targets enthesitis-related arthritis.|
 |Biologic DMARDs (Anti-TNF)|Etanercept, adalimumab, infliximab, golimumab|Targets polyarthritis refractory to methotrexate. Adalimumab preferred treating associated uveitis,.|
 |Biologic DMARDs (Anti-IL-1)|Anakinra, canakinumab|Highly effective treating systemic JIA,.|
-|Biologic DMARDs (Anti-IL-6)|Tocilizumab|Manages systemic JIA and macrophage activation syndrome,.|
+|Biologic DMARDs (Anti-IL-6)|Tocilizumab|Manages systemic JIA and [[Rheumatology/Macrophage Activation Syndrome\|macrophage activation syndrome]],.|
 |T-Cell Modulators|Abatacept|Inhibits T-cell activation treating polyarticular JIA,.|
 |Small Molecules (JAK Inhibitors)|Tofacitinib|Treats polyarticular JIA targeting intracellular signaling,.|
 
@@ -61,7 +61,7 @@ Juvenile idiopathic arthritis requires meticulous clinical exclusion of other di
 - Biologic tumor necrosis factor (TNF) antagonists added upon methotrexate failure.
 - Systemic JIA therapy utilizes corticosteroids alongside interleukin-1 or interleukin-6 antagonists.
 - Enthesitis-related arthritis responds to NSAIDs, sulfasalazine, and TNF inhibitors,.
-- Macrophage activation syndrome requires pulse intravenous methylprednisolone and cyclosporine,.
+- [[Rheumatology/Macrophage Activation Syndrome\|Macrophage activation syndrome]] requires pulse intravenous methylprednisolone and cyclosporine,.
 
 ### Multidisciplinary Rehabilitation
 

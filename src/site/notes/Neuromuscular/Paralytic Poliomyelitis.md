@@ -4,8 +4,8 @@
 
 ## Definition And Epidemiology
 
-- Paralytic poliomyelitis is an acute viral infectious disease caused by the wild poliovirus that selectively destroys the anterior horn cells of the spinal cord and brain stem.
-- It presents as a characteristic Acute Flaccid Paralysis (AFP) syndrome.
+- [[Neuromuscular/Paralytic Poliomyelitis\|Paralytic poliomyelitis]] is an acute viral infectious disease caused by the wild poliovirus that selectively destroys the anterior horn cells of the spinal cord and brain stem.
+- It presents as a characteristic [[Neuromuscular/Acute Flaccid Paralysis\|Acute Flaccid Paralysis]] (AFP) syndrome.
 - Only 1-2% of individuals infected with the poliovirus develop paralytic disease.
 - Historically in India, the median age at onset was 18 months, with peak transmission occurring between July and September.
 - Following major immunization initiatives, India was declared polio-free in March 2014, with endemicity now restricted to Afghanistan and Pakistan.
@@ -30,11 +30,11 @@
 
 ## Differential Diagnosis
 
-Paralytic poliomyelitis must be differentiated from other causes of Acute Flaccid Paralysis.
+[[Neuromuscular/Paralytic Poliomyelitis\|Paralytic poliomyelitis]] must be differentiated from other causes of [[Neuromuscular/Acute Flaccid Paralysis\|Acute Flaccid Paralysis]].
 
-### Distinguishing Features Of Acute Flaccid Paralysis Etiologies
+### Distinguishing Features Of [[Neuromuscular/Acute Flaccid Paralysis\|Acute Flaccid Paralysis]] Etiologies
 
-|Feature|Poliomyelitis|Guillain-Barré Syndrome|Transverse Myelitis|Traumatic Neuritis|
+|Feature|Poliomyelitis|[[Neuromuscular/Guillain-Barré Syndrome\|Guillain-Barré Syndrome]]|Transverse Myelitis|Traumatic Neuritis|
 |:--|:--|:--|:--|:--|
 |**Fever At Onset**|High; always present at onset|Not common|Rarely present|Absent|
 |**Symmetry**|Asymmetrical, proximal|Symmetrical, distal|Symmetrical, lower limbs|Asymmetrical|
@@ -49,8 +49,8 @@ Paralytic poliomyelitis must be differentiated from other causes of Acute Flacci
 
 - Diagnosis is definitively confirmed by the isolation of wild poliovirus from stool samples.
 - Two stool specimens (approximately 8 grams each) must be collected 24 to 48 hours apart.
-- Samples must be collected ideally within 14 days of paralysis onset and transported under strict cold chain conditions.
-- Human rhabdomyosarcoma (RD) and L20B cell lines are utilized for virus isolation.
+- Samples must be collected ideally within 14 days of paralysis onset and transported under strict [[Misc/Cold Chain\|cold chain]] conditions.
+- Human [[Hematology/Rhabdomyosarcoma\|rhabdomyosarcoma]] (RD) and L20B cell lines are utilized for virus isolation.
 
 ### Other Modalities
 

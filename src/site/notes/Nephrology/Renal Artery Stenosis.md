@@ -2,7 +2,7 @@
 {"dg-publish":true,"uplink":"/nephrology/nephrology/","uptext":"Back to Index (🫘 Nephrology)","permalink":"/nephrology/renal-artery-stenosis/","dgPassFrontmatter":true}
 ---
 
-- Renal artery stenosis (RAS) is an uncommon but significant cause of secondary hypertension in children, accounting for 5–10% of such cases.
+- [[Nephrology/Renal Artery Stenosis\|Renal artery stenosis]] (RAS) is an uncommon but significant cause of secondary [[Cardiology/Hypertension in Children\|hypertension in children]], accounting for 5–10% of such cases.
 - It is characterized by severe, often resistant elevation in blood pressure and a high propensity for target organ damage at presentation.
 
 ### Etiology
@@ -12,9 +12,9 @@
 |Etiology Category|Characteristics & Associated Conditions|
 |:--|:--|
 |**Fibromuscular Dysplasia (FMD)**|The most common cause in Europe and North America. It is an idiopathic, nonatherosclerotic, and noninflammatory disease. The classic adult "string of beads" angiographic pattern is seen in only a minority of children.|
-|**Takayasu Arteritis**|The most common cause of RAS in Asia and Africa. An inflammatory arteritis affecting the aorta and its major branches, often presenting with bruits, claudication, or pulse discrepancies.|
-|**Syndromic RAS**|Accounts for 15–25% of cases; most notably associated with Neurofibromatosis type 1 (NF1) and Williams syndrome.|
-|**Other Acquired Causes**|Includes midaortic syndrome, post-radiation therapy, trauma, umbilical artery catheterization complications, and transplant renal artery stenosis.|
+|**[[Rheumatology/Takayasu Arteritis\|Takayasu Arteritis]]**|The most common cause of RAS in Asia and Africa. An inflammatory arteritis affecting the aorta and its major branches, often presenting with bruits, claudication, or pulse discrepancies.|
+|**Syndromic RAS**|Accounts for 15–25% of cases; most notably associated with Neurofibromatosis type 1 (NF1) and [[Genetics/Williams Syndrome\|Williams syndrome]].|
+|**Other Acquired Causes**|Includes midaortic syndrome, post-radiation therapy, trauma, umbilical artery catheterization complications, and transplant [[Nephrology/Renal Artery Stenosis\|renal artery stenosis]].|
 
 ### Pathophysiology
 
@@ -22,7 +22,7 @@
 - Renin converts angiotensinogen to angiotensin I, which is subsequently converted to angiotensin II by angiotensin-converting enzyme (ACE).
 - Angiotensin II acts as a potent vasoconstrictor and stimulates aldosterone release, leading to profound sodium and water retention.
 - In unilateral RAS, the contralateral non-stenotic kidney is exposed to high systemic blood pressures, resulting in a compensatory pressure natriuresis that may cause subclinical dehydration and potentially exacerbate renin release.
-- In bilateral RAS, both kidneys are underperfused, leading to massive volume expansion and sodium retention, which blunts the degree of hyperaldosteronism.
+- In bilateral RAS, both kidneys are underperfused, leading to massive volume expansion and sodium retention, which blunts the degree of [[Endocrinology/Hyperaldosteronism\|hyperaldosteronism]].
 
 ### Clinical Features
 
@@ -39,7 +39,7 @@
 
 |Imaging Modality|Diagnostic Role and Key Findings|
 |:--|:--|
-|**Doppler Ultrasonography**|The first-line screening tool. Direct signs include peak systolic velocity (PSV) > 180–200 cm/s and a renal-aortic ratio > 2–3.5. Indirect signs in the renal parenchyma include a _tardus et parvus_ (slow and small) waveform and a resistive index (RI) < 0.55.|
+|**Doppler Ultrasonography**|The first-line screening tool. Direct signs include peak systolic velocity (PSV) > 180–200 cm/s and a renal-aortic ratio > 2–3.5. Indirect signs in the renal parenchyma include a _tardus et parvus_ (slow and small) waveform and a resistive [[Statistics/Index\|index]] (RI) < 0.55.|
 |**Computed Tomography Angiography (CTA)**|A highly sensitive (88%) and specific (81%) noninvasive modality that provides excellent spatial resolution for small intrarenal branches, though it involves radiation and contrast exposure.|
 |**Magnetic Resonance Angiography (MRA)**|An alternative to CTA that avoids radiation, though it requires longer acquisition times (often needing sedation) and has slightly lower sensitivity compared to DSA.|
 |**Digital Subtraction Angiography (DSA)**|The gold standard for diagnosing RAS. Allows for exact anatomical localization and intravascular pressure measurements, and importantly, facilitates concurrent therapeutic angioplasty.|

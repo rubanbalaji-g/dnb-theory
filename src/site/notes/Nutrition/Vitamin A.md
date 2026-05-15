@@ -5,15 +5,15 @@
 
 ## Metabolism
 ![](https://i.ibb.co/bgpjnq8j/Vitamin-A-pathway-excalidraw.png)
-## Functions of Vitamin A in the Human Body
+## Functions of [[Nutrition/Vitamin A\|Vitamin A]] in the Human Body
 
-Vitamin A (retinol) is an essential fat-soluble micronutrient with pleiotropic effects on human physiology. Its functions can be broadly categorized as follows:
+[[Nutrition/Vitamin A\|Vitamin A]] (retinol) is an essential fat-soluble micronutrient with pleiotropic effects on human physiology. Its functions can be broadly categorized as follows:
 
 - **Maintenance of Vision:**
     - It is critical for vision in dim light (scotopic vision). Retinol is converted to retinal, which combines with the protein opsin to form **rhodopsin** (visual purple) in the rod cells of the retina.
     - It is also required for the synthesis of **iodopsin** in cone cells, which is essential for color vision and bright-light vision.
 - **Maintenance of Epithelial Integrity:**
-    - Vitamin A is necessary for the differentiation and maintenance of mucus-secreting epithelial tissues in the eyes, respiratory tract, gastrointestinal tract, and urinary tract.
+    - [[Nutrition/Vitamin A\|Vitamin A]] is necessary for the differentiation and maintenance of mucus-secreting epithelial tissues in the eyes, respiratory tract, gastrointestinal tract, and urinary tract.
     - It prevents keratinization (drying and hardening) of these tissues, maintaining a moist barrier against pathogens.
 - **Immune Function:**
     - Often termed the "anti-infective" vitamin, it enhances both cellular and humoral immunity.
@@ -35,9 +35,9 @@ Vitamin A (retinol) is an essential fat-soluble micronutrient with pleiotropic e
 - Immunodeficiency
 - increased risk of infection especially measles
 
-## WHO Classification of Vitamin A Deficiency (Xerophthalmia)
+## WHO Classification of [[Nutrition/Vitamin A\|Vitamin A]] Deficiency (Xerophthalmia)
 
-The World Health Organization (WHO) classifies the ocular manifestations of Vitamin A deficiency (Xerophthalmia) as follows:
+The World Health Organization (WHO) classifies the ocular manifestations of [[Nutrition/Vitamin A\|Vitamin A]] deficiency (Xerophthalmia) as follows:
 
 | Code    | Clinical Sign                      | Significance                                                      |
 | :------ | :--------------------------------- | :---------------------------------------------------------------- |
@@ -51,9 +51,9 @@ The World Health Organization (WHO) classifies the ocular manifestations of Vita
 | **XF**  | Xerophthalmic Fundus               | Fundal changes (white spots).                                     |
 ## Treatment Schedule for Managing Xerophthalmia
 
-The management of xerophthalmia (specifically corneal xerosis, ulceration, or keratomalacia) is a medical emergency to prevent permanent blindness. The treatment protocol involves high-dose Vitamin A supplementation and supportive eye care.
+The management of xerophthalmia (specifically corneal xerosis, ulceration, or keratomalacia) is a medical emergency to prevent permanent blindness. The treatment protocol involves high-dose [[Nutrition/Vitamin A\|Vitamin A]] supplementation and supportive eye care.
 
-### 1. Vitamin A Supplementation Schedule
+### 1. [[Nutrition/Vitamin A\|Vitamin A]] Supplementation Schedule
 
 A standard **three-dose regimen** is recommended for all children with corneal ulceration, keratomalacia, or corneal clouding to rapidly replenish liver stores and treat the acute deficiency.
 
@@ -73,7 +73,7 @@ A standard **three-dose regimen** is recommended for all children with corneal u
 
 - **Route of Administration:**
     - **Oral:** This is the preferred route. Oil-based formulations are typically used.
-    - **Intramuscular (IM):** Water-miscible Vitamin A (100,000 IU) can be used if the child has severe vomiting, diarrhea, or septic shock. The dose is usually half the oral dose.
+    - **Intramuscular (IM):** Water-miscible [[Nutrition/Vitamin A\|Vitamin A]] (100,000 IU) can be used if the child has severe vomiting, diarrhea, or septic shock. The dose is usually half the oral dose.
 
 ### 2. Local Eye Care
 
@@ -105,16 +105,16 @@ Supportive care is crucial to save the eye in cases of corneal involvement:
 
 
 
-## Hazards of Vitamin A in Pediatric Practice
+## Hazards of [[Nutrition/Vitamin A\|Vitamin A]] in Pediatric Practice
 
-While essential, Vitamin A has a narrow therapeutic index. Toxicity (Hypervitaminosis A) can result from excessive intake of preformed vitamin A (retinol), often due to overzealous use of supplements or consumption of liver/fish liver oils,.
+While essential, [[Nutrition/Vitamin A\|Vitamin A]] has a narrow therapeutic [[Statistics/Index\|index]]. Toxicity ([[Nutrition/Hypervitaminosis A\|Hypervitaminosis A]]) can result from excessive intake of preformed [[Nutrition/Vitamin A\|vitamin A]] (retinol), often due to overzealous use of supplements or consumption of liver/fish liver oils,.
 
-### Acute Hypervitaminosis A
+### Acute [[Nutrition/Hypervitaminosis A\|Hypervitaminosis A]]
 
-- **Pseudotumor Cerebri:** Acute toxicity can manifest as signs of increased intracranial pressure, including bulging fontanelle in infants, severe headache, vomiting, irritability, diplopia, and papilledema,,.
+- **[[Neurology/Pseudotumor Cerebri\|Pseudotumor Cerebri]]:** Acute toxicity can manifest as signs of increased intracranial pressure, including bulging fontanelle in infants, severe headache, vomiting, irritability, diplopia, and papilledema,,.
 - **Gastrointestinal Symptoms:** Nausea, vomiting, and abdominal pain are early signs of acute ingestion of massive doses,.
 
-### Chronic Hypervitaminosis A
+### Chronic [[Nutrition/Hypervitaminosis A\|Hypervitaminosis A]]
 
 Chronic toxicity results from daily ingestion of doses exceeding the Recommended Daily Allowance (e.g., >6,000 µg or ~20,000 IU in children) over weeks or months.
 
@@ -127,23 +127,23 @@ Chronic toxicity results from daily ingestion of doses exceeding the Recommended
 
 ### Teratogenicity
 
-- High doses of preformed Vitamin A (retinol) taken during early pregnancy are teratogenic.
+- High doses of preformed [[Nutrition/Vitamin A\|Vitamin A]] (retinol) taken during early pregnancy are teratogenic.
 - This can cause congenital malformations, including craniofacial abnormalities and central nervous system defects,,.
 - Recommendations limit intake during pregnancy to not exceed 10,000 IU daily to avoid these risks.
 
 ### Carotenemia (Benign Hazard)
 
-- Excessive intake of carotenoids (provitamin A found in carrots, papaya, etc.) does _not_ cause hypervitaminosis A toxicity because the conversion to retinol is regulated,.
+- Excessive intake of carotenoids (provitamin A found in carrots, papaya, etc.) does _not_ cause [[Nutrition/Hypervitaminosis A\|hypervitaminosis A]] toxicity because the conversion to retinol is regulated,.
 - **Clinical Presentation:** It causes yellow-orange pigmentation of the skin (carotenodermia), prominently on the palms and soles and nasolabial folds,.
 - **Differentiation:** Unlike jaundice, the sclera remains white. The condition is benign and resolves with dietary modification,.
 
-## Vitamin A Supplementation
+## [[Nutrition/Vitamin A\|Vitamin A]] Supplementation
 
-Vitamin A (retinol) is an essential fat-soluble micronutrient critical for vision, immune function, and epithelial integrity. Vitamin A deficiency (VAD) remains a significant public health problem in developing countries, contributing to preventable blindness and increased mortality from infectious diseases. Supplementation programs are a cornerstone of public health strategies to combat these issues.
+[[Nutrition/Vitamin A\|Vitamin A]] (retinol) is an essential fat-soluble micronutrient critical for vision, immune function, and epithelial integrity. [[Nutrition/Vitamin A\|Vitamin A]] deficiency (VAD) remains a significant public health problem in developing countries, contributing to preventable blindness and increased mortality from infectious diseases. Supplementation programs are a cornerstone of public health strategies to combat these issues.
 
 ### 1. Physiological Basis for Supplementation
 
-Vitamin A cannot be synthesized _de novo_ by the human body and must be obtained from the diet. Supplementation is necessary when dietary intake is insufficient to meet physiological needs, especially during periods of rapid growth or illness.
+[[Nutrition/Vitamin A\|Vitamin A]] cannot be synthesized _de novo_ by the human body and must be obtained from the diet. Supplementation is necessary when dietary intake is insufficient to meet physiological needs, especially during periods of rapid growth or illness.
 
 - **Functions:**
     - **Vision:** Essential for the synthesis of rhodopsin (in rods for night vision) and iodopsin (in cones for color vision). Deficiency leads to night blindness (nyctalopia) and xerophthalmia.
@@ -163,7 +163,7 @@ In India, the National Prophylaxis Programme against Nutritional Blindness was i
     
 - **Dose Schedule:**
     
-    - **1st Dose (9 months):** **100,000 IU** (1 mL) given orally along with the measles vaccine.
+    - **1st Dose (9 months):** **100,000 IU** (1 mL) given orally along with the [[Misc/Measles Vaccine\|measles vaccine]].
     - **2nd Dose (16–18 months):** **200,000 IU** (2 mL) given with the DPT booster.
     - **Subsequent Doses:** **200,000 IU** every 6 months until the age of 5 years.
     - **Total Doses:** A child receives a total of 9 megadoses.
@@ -190,8 +190,8 @@ According to the WHO/UNICEF/IVACG Task Force, specific schedules are required fo
 
 #### C. Specific Clinical Scenarios
 
-- **Measles:** Vitamin A significantly reduces mortality in measles. All children with measles should receive Vitamin A therapy (doses as per age above).
-- **Severe Acute Malnutrition (SAM):** All children with SAM receive a stat dose of Vitamin A on Day 1 unless there is evidence they received a dose in the last month.
+- **Measles:** [[Nutrition/Vitamin A\|Vitamin A]] significantly reduces mortality in measles. All children with measles should receive [[Nutrition/Vitamin A\|Vitamin A]] therapy (doses as per age above).
+- **Severe Acute Malnutrition (SAM):** All children with SAM receive a stat dose of [[Nutrition/Vitamin A\|Vitamin A]] on Day 1 unless there is evidence they received a dose in the last month.
     - If eye signs (xerophthalmia) are present, the 3-dose schedule (Day 1, 2, and 14) is mandatory.
 - **Persistent Diarrhea:** A single large dose is recommended if not recently received.
 - **Neonates/Preterms:** Preterm infants have low stores. Supplementation (oral multivitamin drops) providing ~1000 IU/day is often recommended. Routine high-dose supplementation for all neonates is not currently standard unless specific deficiency risks exist.
@@ -203,7 +203,7 @@ According to the WHO/UNICEF/IVACG Task Force, specific schedules are required fo
 - **Injectable:** Water-miscible preparations (e.g., Aquasol A) are available for cases of severe malabsorption or persistent vomiting.
     - _Note:_ Parenteral administration should be followed by oral dosing when possible to ensure adequate liver storage, as water-soluble injections may not be stored efficiently.
 - **Dietary Sources:** Supplementation programs must be complemented by dietary diversification.
-    - **Animal sources (Preformed Vitamin A):** Liver, fish liver oils, egg yolk, milk fat.
+    - **Animal sources (Preformed [[Nutrition/Vitamin A\|Vitamin A]]):** Liver, fish liver oils, egg yolk, milk fat.
     - **Plant sources (Provitamin A/Carotenoids):** Green leafy vegetables (spinach), yellow/orange vegetables (carrots, pumpkin, sweet potato), and fruits (papaya, mango).
 
 ### 4. Benefits of Supplementation
@@ -212,18 +212,18 @@ According to the WHO/UNICEF/IVACG Task Force, specific schedules are required fo
 - **Reduction in Mortality:** Supplementation reduces all-cause mortality in children aged 6–59 months by approximately 23–30%.
 - **Morbidity Reduction:** Reduces the severity of diarrhea and measles. It boosts immunity by stabilizing lysosomal membranes and augmenting antibody responses.
 
-### 5. Toxicity (Hypervitaminosis A)
+### 5. Toxicity ([[Nutrition/Hypervitaminosis A\|Hypervitaminosis A]])
 
-While beneficial, Vitamin A has a narrow therapeutic window. Toxicity usually results from excessive intake of preformed Vitamin A, not carotenoids.
+While beneficial, [[Nutrition/Vitamin A\|Vitamin A]] has a narrow therapeutic window. Toxicity usually results from excessive intake of preformed [[Nutrition/Vitamin A\|Vitamin A]], not carotenoids.
 
 - **Acute Toxicity:** Can occur after a massive single dose.
     - **Signs:** Nausea, vomiting, irritability, headache.
-    - **CNS:** Signs of raised intracranial pressure (Pseudotumor cerebri) such as bulging fontanelle in infants, diplopia, and stupor.
+    - **CNS:** Signs of raised intracranial pressure ([[Neurology/Pseudotumor Cerebri\|Pseudotumor cerebri]]) such as bulging fontanelle in infants, diplopia, and stupor.
 - **Chronic Toxicity:** Due to prolonged excessive intake (>6,000 µg/day in children).
     - **Signs:** Anorexia, dry itchy skin, alopecia (hair loss), fissuring of lips (cheilitis), and tender swelling of long bones (hyperostosis, typically ulna and tibia).
 - **Teratogenicity:** High doses (>10,000 IU/day) in early pregnancy can cause congenital malformations (craniofacial, CNS, cardiac defects). Therefore, massive doses are contraindicated in pregnant women; safer daily doses (<10,000 IU) are recommended if deficiency is suspected.
 
-### 6. Assessment of Vitamin A Status
+### 6. Assessment of [[Nutrition/Vitamin A\|Vitamin A]] Status
 
 Public health decisions regarding supplementation are based on the prevalence of deficiency signs in the community.
 
@@ -235,4 +235,4 @@ Public health decisions regarding supplementation are based on the prevalence of
 
 - **Integration:** The prophylaxis program is integrated with the Village Health and Nutrition Days (VHND) and immunization sessions to ensure high coverage.
 - **Dietary Diversification:** While supplements are a short-term measure ("medicalization"), the long-term goal is "nutritionalization"—improving dietary intake through education and food fortification (e.g., milk, oil).
-- **Double Fortified Salt:** Research into salt fortified with both iodine and micronutrients like iron (and potentially vitamin A in some contexts) helps address multiple deficiencies simultaneously.
+- **Double Fortified Salt:** Research into salt fortified with both iodine and micronutrients like iron (and potentially [[Nutrition/Vitamin A\|vitamin A]] in some contexts) helps address multiple deficiencies simultaneously.

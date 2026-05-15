@@ -4,7 +4,7 @@
 
 ## Definition And Clinical Syndrome
 
-- Acute flaccid paralysis (AFP) is a clinical syndrome characterized by the rapid onset of weakness, progressing to maximum severity within several days to weeks.
+- [[Neuromuscular/Acute Flaccid Paralysis\|Acute flaccid paralysis]] (AFP) is a clinical syndrome characterized by the rapid onset of weakness, progressing to maximum severity within several days to weeks.
 - The term 'flaccid' refers to the absence of spasticity or other upper motor neuron signs.
 - Under the Global Polio Eradication Initiative, AFP is defined as any case of flaccid weakness in children less than 15 years old, or any paralytic illness at any age when polio is suspected.
 ## WHO Case Definition
@@ -14,23 +14,23 @@
 
 Disorders presenting as AFP can localize to various points along the neuroaxis, from the anterior horn cell to the muscle.
 
-### Common Causes Of Acute Flaccid Paralysis
+### Common Causes Of [[Neuromuscular/Acute Flaccid Paralysis\|Acute Flaccid Paralysis]]
 
 |Anatomical Level|Examples Of Disorders|
 |:--|:--|
 |**Muscle Disorders**|Inflammatory myopathy, periodic paralysis, hypokalemia, severe systemic infections.|
-|**Neuromuscular Junction**|Myasthenia gravis, botulism, Eaton-Lambert syndrome.|
-|**Peripheral Neuropathies**|Guillain-Barré syndrome (GBS), traumatic neuritis, post-diphtheritic neuropathy, porphyria, vasculitis, Bell's palsy.|
+|**Neuromuscular Junction**|[[Neuromuscular/Myasthenia Gravis\|Myasthenia gravis]], botulism, Eaton-Lambert syndrome.|
+|**Peripheral Neuropathies**|[[Neuromuscular/Guillain-Barré Syndrome\|Guillain-Barré syndrome]] (GBS), traumatic neuritis, post-diphtheritic neuropathy, porphyria, vasculitis, Bell's palsy.|
 |**Anterior Horn Cell**|Poliomyelitis, non-polio enteroviruses.|
 |**Spinal Cord Disease**|Transverse myelitis, spinal cord compression, spinal trauma.|
 
-## Differential Diagnosis Of Acute Flaccid Paralysis
+## Differential Diagnosis Of [[Neuromuscular/Acute Flaccid Paralysis\|Acute Flaccid Paralysis]]
 
 Differentiating the major causes of AFP is critical for management and surveillance.
 
 ### Distinguishing Clinical And Laboratory Features
 
-|Feature|Poliomyelitis|Guillain-Barré Syndrome|Transverse Myelitis|Traumatic Neuritis|
+|Feature|Poliomyelitis|[[Neuromuscular/Guillain-Barré Syndrome\|Guillain-Barré Syndrome]]|Transverse Myelitis|Traumatic Neuritis|
 |:--|:--|:--|:--|:--|
 |**Progression**|24-48 hours onset to full paralysis|Hours to 10 days|Hours to 4 days|Hours to 4 days|
 |**Fever At Onset**|High, always present at onset; gone the following day|Not common|Rarely present|Commonly present before, during and after paralysis|
@@ -65,7 +65,7 @@ graph TD
     TM --> TMTx[Investigations & Mgmt: Spine MRI, High-dose Methylprednisolone]:::tm
     TN --> TNTx[Management: Pain relief, physiotherapy, conservative support]:::tn
 ```
-## Key Pathologies Causing Acute Flaccid Paralysis
+## Key Pathologies Causing [[Neuromuscular/Acute Flaccid Paralysis\|Acute Flaccid Paralysis]]
 
 ### Poliomyelitis
 
@@ -74,7 +74,7 @@ graph TD
 - **Management**: Absolute bed rest and supportive care during the acute phase; intramuscular injections must be avoided. Later rehabilitation utilizes calipers and braces to promote ambulation.
 - **Prevention**: Full immunisation required 3-4 weeks even after a confirmed attack.
 
-### Guillain-Barré Syndrome (GBS)
+### [[Neuromuscular/Guillain-Barré Syndrome\|Guillain-Barré Syndrome]] (GBS)
 
 - **Pathophysiology**: Acquired post-infectious demyelinating or axonal disease of the peripheral nervous system. _Campylobacter jejuni_ is an important preceding infection.
 - **Subtypes**: Acute Inflammatory Demyelinating Polyneuropathy (AIDP), Acute Motor Axonal Polyneuropathy (AMAN), Acute Motor and Sensory Axonal Neuropathy (AMSAN), and Miller-Fisher syndrome.
@@ -95,17 +95,17 @@ graph TD
 - **Examination**: Knee reflex may be preserved while the ankle reflex is decreased or absent. Foot drop commonly develops.
 - **Management**: Pain relief, physiotherapy, and conservative support. Usually recovers within 3-9 months.
 
-## Acute Flaccid Paralysis Surveillance Strategy
+## [[Neuromuscular/Acute Flaccid Paralysis\|Acute Flaccid Paralysis]] Surveillance Strategy
 
-- AFP surveillance is the chief strategy to screen for circulating wild poliovirus.
+- [[Infectious Diseases/AFP surveillance\|AFP surveillance]] is the chief strategy to screen for circulating wild poliovirus.
 - **Notification**: All patients with AFP within the last 6 months must be reported to the Surveillance Medical Officer. Cases are investigated within 48 hours of notification.
 
 ### Stool Specimen Collection Protocol
 
 - **Quantity**: Two stool specimens must be collected. Each specimen should be approximately 8 grams.
 - **Timing**: Specimens must be collected 24-48 hours apart, ideally within 14 days of paralysis onset, though collections up to 60 days are accepted.
-- **Transport**: Specimens must be transported under strictly maintained cold chain conditions.
-- **Laboratory Isolation**: Human rhabdomyosarcoma (RD) cell lines favour enterovirus growth, whilst L20B cell lines exclusively favour polioviruses. Isolates undergo intratypic differentiation and genetic sequencing.
+- **Transport**: Specimens must be transported under strictly maintained [[Misc/Cold Chain\|cold chain]] conditions.
+- **Laboratory Isolation**: Human [[Hematology/Rhabdomyosarcoma\|rhabdomyosarcoma]] (RD) cell lines favour enterovirus growth, whilst L20B cell lines exclusively favour polioviruses. Isolates undergo intratypic differentiation and genetic sequencing.
 
 ### Virologic Classification And Quality Indicators
 
@@ -115,4 +115,4 @@ graph TD
 ## Role Of Electrophysiological Studies
 
 - Nerve Conduction Studies (NCS) and Electromyography (EMG) play a pivotal role in distinguishing true motor unit diseases from central or structural etiologies.
-- They differentiate anterior horn cell diseases, such as non-polio enteroviral infections (showing neuropathic denervation patterns), from neuropathies like Guillain-Barré syndrome (showing demyelinating or axonal disruption patterns).
+- They differentiate anterior horn cell diseases, such as non-polio enteroviral infections (showing neuropathic denervation patterns), from neuropathies like [[Neuromuscular/Guillain-Barré Syndrome\|Guillain-Barré syndrome]] (showing demyelinating or axonal disruption patterns).

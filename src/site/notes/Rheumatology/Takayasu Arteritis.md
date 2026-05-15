@@ -86,9 +86,9 @@
 
 - Infectious aortitis requires exclusion.
 - Tuberculosis affects descending thoracic and abdominal aorta, causing erosion and aneurysms.
-- Takayasu arteritis causes stenosis and predominantly involves aorta and major branches.
+- [[Rheumatology/Takayasu Arteritis\|Takayasu arteritis]] causes stenosis and predominantly involves aorta and major branches.
 - Autoimmune etiologies include systemic lupus erythematosus and sarcoidosis.
-- Inflammatory vasculopathies encompass Kawasaki disease, polyarteritis nodosa, and granulomatosis with polyangiitis.
+- Inflammatory vasculopathies encompass [[Rheumatology/Kawasaki Disease\|Kawasaki disease]], polyarteritis nodosa, and granulomatosis with polyangiitis.
 - Noninflammatory vasculopathies include congenital aortic coarctation, Marfan syndrome, and Ehlers-Danlos syndrome.
 - Giant cell arteritis excluded due to extreme rarity in childhood populations.
 

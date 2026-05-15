@@ -5,17 +5,17 @@
 ## Children Requiring Renal Function Assessment
 
 - Children presenting with signs of severe glomerular injury or acute nephritic syndrome, characterized by the abrupt onset of gross hematuria (cola-colored urine), oliguria, edema, and hypertension.
-- Children exhibiting nephrotic-range proteinuria, hypoalbuminemia, anasarca, or significant hyperlipidemia, which are classic signs of nephrotic syndrome.
+- Children exhibiting nephrotic-range proteinuria, hypoalbuminemia, anasarca, or significant hyperlipidemia, which are classic signs of [[Nephrology/Nephrotic Syndrome\|nephrotic syndrome]].
 - Children with persistent microscopic hematuria lasting for more than 2 weeks, or those presenting with recurrent gross hematuria accompanied by proteinuria or reduced renal function.
 - Infants and children with a history of recurrent febrile urinary tract infections (UTIs), atypical UTIs caused by non-_E. coli_ organisms, or those exhibiting abnormal voiding patterns such as a poor urinary stream, straining, or persistent dribbling.
-- Children presenting with unexplained growth retardation, failure to thrive, rickets, or severe refractory anemia, which are frequently associated with advanced chronic kidney disease (CKD) or tubular transport disorders.
-- Neonates with a history of perinatal asphyxia, extremely low birth weight, necrotizing enterocolitis, or hemodynamically significant patent ductus arteriosus, as these are high-risk conditions for acute kidney injury (AKI).
+- Children presenting with unexplained growth retardation, failure to thrive, rickets, or severe refractory anemia, which are frequently associated with advanced [[Nephrology/Chronic Kidney Disease\|chronic kidney disease]] (CKD) or tubular transport disorders.
+- Neonates with a history of perinatal asphyxia, extremely low birth weight, necrotizing enterocolitis, or hemodynamically significant patent ductus arteriosus, as these are high-risk conditions for [[Nephrology/Acute Kidney Injury\|acute kidney injury]] (AKI).
 - Children with physical examination findings indicative of renal abnormalities, such as palpable abdominal masses (suggesting multicystic dysplastic kidney, polycystic kidney disease, hydronephrosis, or Wilms’ tumor), palpable bladder, or costovertebral angle tenderness.
-- Children with systemic diseases known to involve the kidneys, including systemic lupus erythematosus (SLE), IgA vasculitis (Henoch-Schönlein purpura), diabetes mellitus, sickle cell disease, or congenital malformation syndromes.
+- Children with systemic diseases known to involve the kidneys, including systemic lupus erythematosus (SLE), IgA vasculitis (Henoch-Schönlein purpura), diabetes mellitus, [[Hematology/Sickle Cell Disease\|sickle cell disease]], or congenital malformation syndromes.
 - Children exposed to nephrotoxic medications, including aminoglycosides, nonsteroidal anti-inflammatory drugs (NSAIDs), colistin, amphotericin B, calcineurin inhibitors, or chemotherapeutic agents.
 - Patients demonstrating symptoms of impaired concentrating ability, such as unexplained polyuria, excessive thirst, nocturnal enuresis, or recurrent episodes of severe dehydration.
-- Children with a confirmed family history of hereditary nephropathies, polycystic kidney disease, familial hematuria (such as Alport syndrome), or urolithiasis.
-- Fetuses and neonates with antenatally detected congenital anomalies of the kidney and urinary tract (CAKUT), particularly those presenting with bilateral hydronephrosis, oligohydramnios, or an abnormal bladder on prenatal ultrasonography.
+- Children with a confirmed family history of hereditary nephropathies, polycystic kidney disease, familial hematuria (such as [[Nephrology/Alport Syndrome\|Alport syndrome]]), or urolithiasis.
+- Fetuses and neonates with antenatally detected [[Nephrology/Congenital Anomalies of the Kidney and Urinary Tract (CAKUT)\|congenital anomalies of the kidney and urinary tract (CAKUT)]], particularly those presenting with bilateral hydronephrosis, oligohydramnios, or an abnormal bladder on prenatal ultrasonography.
 
 ## Tests Used to Assess Renal Function
 
@@ -40,16 +40,16 @@
 
 | Tubular Function                         | Diagnostic Tests and Interpretation                                                                                                                                                                                                                                                 |
 | :--------------------------------------- | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Urine Concentrating Ability**          | Evaluated via early morning specific gravity (normal >1.015) or maximum urine osmolality; Water Deprivation Test assesses response to desmopressin (DDAVP) to differentiate central from nephrogenic diabetes insipidus (normal response: $>800$ mOsm/kg).                        |
-| **Acid-Base Regulation (Acidification)** | Assessed using minimum urine pH (normal $\sim 5.3-5.5$), plasma anion gap, and fractional excretion of bicarbonate; the Short Ammonium Chloride Test or urine-to-blood $PCO_2$ gradient (normal $>20$ mm Hg in alkaline urine) help diagnose distal Renal Tubular Acidosis (RTA). |
+| **Urine Concentrating Ability**          | Evaluated via early morning specific gravity (normal >1.015) or maximum urine osmolality; Water Deprivation Test assesses response to desmopressin (DDAVP) to differentiate central from [[Nephrology/Nephrogenic diabetes insipidus\|nephrogenic diabetes insipidus]] (normal response: $>800$ mOsm/kg).                        |
+| **Acid-Base Regulation (Acidification)** | Assessed using minimum urine pH (normal $\sim 5.3-5.5$), plasma anion gap, and fractional excretion of bicarbonate; the Short Ammonium Chloride Test or urine-to-blood $PCO_2$ gradient (normal $>20$ mm Hg in alkaline urine) help diagnose distal [[Nephrology/Renal Tubular Acidosis (RTA)\|Renal Tubular Acidosis (RTA)]]. |
 | **Sodium Handling**                      | Evaluated using the Fractional Excretion of Sodium (FeNa); FeNa $<1\%$ suggests prerenal azotemia (intact tubular reabsorption), whereas FeNa $>2\%$ indicates intrinsic tubular injury such as Acute Tubular Necrosis (ATN).                                                      |
-|**Phosphate and Glucose Transport**|Measured via Tubular Reabsorption of Phosphate (TRP) and tubular maximum for phosphate reabsorption corrected for GFR (TmP/GFR); urinary glucose threshold evaluates proximal tubular function and helps diagnose Fanconi syndrome.|
+|**Phosphate and Glucose Transport**|Measured via Tubular Reabsorption of Phosphate (TRP) and tubular maximum for phosphate reabsorption corrected for GFR (TmP/GFR); urinary glucose threshold evaluates proximal tubular function and helps diagnose [[Nephrology/Fanconi syndrome\|Fanconi syndrome]].|
 |**Potassium Regulation**|Assessed via the Transtubular Potassium Gradient (TTKG) and fractional excretion of potassium; aids in distinguishing renal vs. extrarenal causes of hyperkalemia/hypokalemia and detecting hypoaldosteronism.|
 
 ### Urinalysis and Urinary Biomarkers
 
 - Urinalysis is a fundamental, non-invasive screening tool utilized for the rapid presumptive diagnosis of renal parenchymal injury, glomerular permeability defects, and urinary tract infections.
-- Advanced urinary biomarkers are increasingly researched to identify early acute kidney injury (AKI) before serum creatinine rises.
+- Advanced urinary biomarkers are increasingly researched to identify early [[Nephrology/Acute Kidney Injury\|acute kidney injury]] (AKI) before serum creatinine rises.
 
 | Test Category              | Specific Assessments and Clinical Significance                                                                                                                                                                                               |
 | :------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |

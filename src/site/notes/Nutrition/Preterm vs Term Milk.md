@@ -28,7 +28,7 @@ The most significant difference between preterm and term milk lies in the protei
 
 Lipids provide the major fraction of energy (approximately 50%) in human milk. While the total fat content can be variable, the specific fatty acid profile is crucial for the preterm infant's developing brain and retina.
 
-- **Fat Content:** Generally, human milk contains about 3.8 g fat/100 mL. PTM fat content is comparable to term milk, though energy density may vary slightly (approx. 67 kcal/100 mL).
+- **Fat Content:** Generally, human milk contains [[About\|about]] 3.8 g fat/100 mL. PTM fat content is comparable to term milk, though energy density may vary slightly (approx. 67 kcal/100 mL).
 - **Long Chain Polyunsaturated Fatty Acids (LCPs):**
     - Rapid accumulation of LCPs (specifically Docosahexaenoic acid [DHA] and Arachidonic acid [ARA]) occurs in the brain during the third trimester.
     - Preterm delivery interrupts this placental transfer.
@@ -98,11 +98,11 @@ Despite PTM being richer in protein and sodium than term milk, it may still be n
 1. **Volume Restrictions:** Preterm infants often cannot tolerate the volumes required to meet their nutrient needs solely through unfortified breast milk.
 2. **Rapid Growth Demands:** The protein and mineral requirements for "catch-up growth" exceed what PTM provides alone.
 
-Therefore, **Human Milk Fortifiers (HMF)** are often added to PTM. HMFs supplement protein, calcium, phosphorus, sodium, and vitamins to meet the specific RDA of the preterm infant (e.g., Protein 3-4 g/kg/day, Calcium 100-200 mg/kg/day),.
+Therefore, **Human Milk Fortifiers (HMF)** are often added to PTM. HMFs supplement protein, calcium, phosphorus, sodium, and vitamins to meet the specific [[Nutrition/RDA\|RDA]] of the preterm infant (e.g., Protein 3-4 g/kg/day, Calcium 100-200 mg/kg/day),.
 
 ## Summary of Key Differences
 
 - **Protein:** PTM >>> Term Milk (Critical for rapid somatic growth).
 - **Sodium:** PTM >>> Term Milk (Compensates for renal salt wasting).
 - **Immunology:** PTM > Term Milk (Protects against NEC and sepsis).
-- **Duration:** The "preterm" characteristics of the milk persist for about 4-6 weeks before composition adjusts to resemble mature term milk.
+- **Duration:** The "preterm" characteristics of the milk persist for [[About\|about]] 4-6 weeks before composition adjusts to resemble mature term milk.

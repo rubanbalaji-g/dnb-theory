@@ -12,12 +12,12 @@ A defining characteristic of micronutrients in breast milk is their **high bioav
 
 The concentration of fat-soluble vitamins in breast milk can be influenced by maternal stores and dietary intake.
 
-### 1. Vitamin A
+### 1. [[Nutrition/Vitamin A\|Vitamin A]]
 
-- **Content:** Human milk contains approximately **53 $\mu$g/100 ml** of Vitamin A.
-- **Colostrum:** Colostrum is particularly rich in Vitamin A, which is essential for immune function and retinal development.
-- **Maternal Influence:** Levels are generally adequate in well-nourished mothers. However, in Vitamin A deficient mothers, the levels may be compromised, necessitating supplementation.
-- **Preterm Milk:** Preterm milk generally has higher Vitamin A concentrations than term milk.
+- **Content:** Human milk contains approximately **53 $\mu$g/100 ml** of [[Nutrition/Vitamin A\|Vitamin A]].
+- **Colostrum:** Colostrum is particularly rich in [[Nutrition/Vitamin A\|Vitamin A]], which is essential for immune function and retinal development.
+- **Maternal Influence:** Levels are generally adequate in well-nourished mothers. However, in [[Nutrition/Vitamin A\|Vitamin A]] deficient mothers, the levels may be compromised, necessitating supplementation.
+- **Preterm Milk:** Preterm milk generally has higher [[Nutrition/Vitamin A\|Vitamin A]] concentrations than term milk.
 
 ### 2. Vitamin D
 
@@ -29,7 +29,7 @@ The concentration of fat-soluble vitamins in breast milk can be influenced by ma
 
 - **Content:** Human milk contains approximately **0.2 mg/100 ml**.
 - **Function:** It acts as an antioxidant, protecting cell membranes (especially red blood cells) from oxidative stress.
-- **Preterm Infants:** Preterm infants are susceptible to Vitamin E deficiency (hemolytic anemia) because placental transfer occurs late in pregnancy. While breast milk provides some, preterm formulas or supplements are often needed to match the high oxidative stress environment.
+- **Preterm Infants:** Preterm infants are susceptible to [[Nutrition/Vitamin E Deficiency\|Vitamin E deficiency]] (hemolytic anemia) because placental transfer occurs late in pregnancy. While breast milk provides some, preterm formulas or supplements are often needed to match the high oxidative stress environment.
 
 ### 4. Vitamin K
 
@@ -47,7 +47,7 @@ Water-soluble vitamins in breast milk are strongly correlated with maternal diet
 
 - **Vitamin B12 (Cobalamin):**
     - _Content:_ **0.18 $\mu$g/100 ml**.
-    - _Risk:_ Levels are dependent on maternal intake. Infants of strict **vegetarian (vegan)** mothers are at high risk for Vitamin B12 deficiency, which can present as megaloblastic anemia, hypotonia, and infantile tremor syndrome,.
+    - _Risk:_ Levels are dependent on maternal intake. Infants of strict **vegetarian (vegan)** mothers are at high risk for [[Hematology/Vitamin B12 Deficiency\|Vitamin B12 deficiency]], which can present as megaloblastic anemia, hypotonia, and [[Neurology/Infantile Tremor Syndrome\|infantile tremor syndrome]],.
 - **Vitamin B1 (Thiamine):**
     - _Content:_ 16 $\mu$g/100 ml.
     - _Risk:_ Breastfed infants of mothers consuming polished rice diets (low thiamine) are at risk for **Infantile Beriberi**.
@@ -58,7 +58,7 @@ Water-soluble vitamins in breast milk are strongly correlated with maternal diet
 ### 2. Vitamin C (Ascorbic Acid)
 
 - **Content:** Human milk contains **4.3 mg/100 ml**, which is significantly higher than cow's milk (1.8 mg/100 ml).
-- **Adequacy:** This amount is sufficient to prevent scurvy in infants. Pasteurization or boiling of animal milk destroys Vitamin C, putting artificially fed infants at risk if not fortified, whereas breastfeeding protects against this.
+- **Adequacy:** This amount is sufficient to prevent [[Nutrition/Scurvy\|scurvy]] in infants. Pasteurization or boiling of animal milk destroys Vitamin C, putting artificially fed infants at risk if not fortified, whereas breastfeeding protects against this.
 
 ---
 
@@ -71,14 +71,14 @@ While the total mineral content (ash) of human milk is lower than that of cow's 
 - **Content:** Iron content is low, approximately **0.05–0.15 mg/100 ml**.
 - **Bioavailability:** Despite the low quantity, iron in breast milk has very high bioavailability (**~50% absorption**) compared to cow's milk or formula (~4-10%).
 - **Mechanism:** This is largely due to **Lactoferrin**, an iron-binding protein in breast milk that facilitates absorption and sequesters iron from bacteria (bacteriostatic effect),.
-- **Duration:** The iron stores of a term, breastfed infant are usually sufficient for the first **6 months**. After 6 months, iron-rich complementary foods are required to prevent Iron Deficiency Anemia (IDA),.
+- **Duration:** The iron stores of a term, breastfed infant are usually sufficient for the first **6 months**. After 6 months, iron-rich complementary foods are required to prevent [[Hematology/Iron Deficiency Anemia\|Iron Deficiency Anemia]] (IDA),.
 
 ### 2. Zinc
 
 - **Content:** **0.53 mg/100 ml**.
 - **Bioavailability:** Zinc in human milk is highly bioavailable due to the presence of zinc-binding ligands (like citrate or picolinic acid).
 - **Clinical Relevance:** This high bioavailability protects infants against zinc deficiency. In contrast, cow's milk contains phytates that inhibit absorption. However, zinc levels in breast milk decline sharply over the first few months, necessitating zinc-rich complementary foods after 6 months.
-- **Acrodermatitis Enteropathica:** Infants with this genetic defect in zinc absorption typically do not manifest symptoms while exclusively breastfed due to the superior absorption of zinc from human milk.
+- **[[Nutrition/Acrodermatitis enteropathica\|Acrodermatitis Enteropathica]]:** Infants with this genetic defect in zinc absorption typically do not manifest symptoms while exclusively breastfed due to the superior absorption of zinc from human milk.
 
 ### 3. Calcium and Phosphorus
 
@@ -102,7 +102,7 @@ While the total mineral content (ash) of human milk is lower than that of cow's 
 Micronutrient composition varies significantly based on the gestational age of the neonate.
 
 - **Electrolytes and Minerals:** Preterm milk has higher concentrations of Sodium, Chloride, Magnesium, Iron, Copper, and Zinc compared to term milk to meet the higher metabolic needs of the preterm infant.
-- **Decline:** The high protein and mineral content in preterm milk declines to term milk levels by about 4–6 weeks.
+- **Decline:** The high protein and mineral content in preterm milk declines to term milk levels by [[About\|about]] 4–6 weeks.
 - **Need for Fortification:** Despite higher initial levels, the rapid growth rate of Very Low Birth Weight (VLBW) infants exceeds the provision from breast milk alone. **Human Milk Fortifiers (HMF)** are added to expressed breast milk to provide additional Calcium, Phosphorus, Zinc, Vitamin D, and other nutrients to prevent osteopenia of prematurity and ensure adequate growth.
 
 ### 2. Comparison with Cow's Milk (Micronutrient Perspective)
@@ -111,7 +111,7 @@ Table: Comparison of Micronutrients (per 100 ml),
 
 |Nutrient|Human Milk|Cow's Milk|Significance|
 |:--|:--|:--|:--|
-|**Vitamin C**|4.3 mg|1.8 mg|Cow's milk fed babies at risk of scurvy if not supplemented.|
+|**Vitamin C**|4.3 mg|1.8 mg|Cow's milk fed babies at risk of [[Nutrition/Scurvy\|scurvy]] if not supplemented.|
 |**Vitamin D**|0.4-10 IU|0.3-4 IU|Both are poor sources; supplementation needed.|
 |**Vitamin K**|15 ng|60 ng|Both low; prophylaxis required at birth.|
 |**Iron**|0.05-0.15 mg|0.1 mg|Bioavailability is high in breast milk (Lactoferrin) vs. poor in cow's milk.|

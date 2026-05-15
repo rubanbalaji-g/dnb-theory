@@ -25,7 +25,7 @@
 
 CMT presents as a polyneuropathy (involvement of $\ge$ 2 nerves). It is evaluated and classified primarily using electrophysiological studies (Nerve Conduction Studies and Electromyography).
 
-- Charcot-Marie-Tooth disease types 1 and 3 are classical examples of demyelinating hereditary neuropathies.
+- [[Neuromuscular/Charcot-Marie-Tooth Disease\|Charcot-Marie-Tooth disease]] types 1 and 3 are classical examples of demyelinating hereditary neuropathies.
 - Electrophysiological studies provide objective data to distinguish demyelinating forms of CMT from axonal forms.
 
 ### Electrophysiological Characteristics Of Neuropathies
@@ -45,7 +45,7 @@ CMT presents as a polyneuropathy (involvement of $\ge$ 2 nerves). It is evaluate
 
 ## Differential Diagnosis
 
-Charcot-Marie-Tooth disease must be differentiated from other acquired and hereditary causes of peripheral neuropathy and [[Neuromuscular/Acute Flaccid Paralysis\|acute flaccid paralysis]].
+[[Neuromuscular/Charcot-Marie-Tooth Disease\|Charcot-Marie-Tooth disease]] must be differentiated from other acquired and hereditary causes of peripheral neuropathy and [[Neuromuscular/Acute Flaccid Paralysis\|acute flaccid paralysis]].
 
 ### Clinical Clues To Differentiate Common Neuropathies
 
@@ -61,7 +61,7 @@ Charcot-Marie-Tooth disease must be differentiated from other acquired and hered
 |:--|:--|
 |**Primary Hereditary Neuropathies**|Hereditary neuropathy with liability to pressure palsies, Hereditary sensory and [[Neuromuscular/Autonomic Neuropathies\|autonomic neuropathies]] (HSAN), Distal hereditary motor neuropathies, Hereditary neuralgic amyotrophy.|
 |**Multisystem Hereditary Disorders**|Leukodystrophies, Krabbe disease, Adrenoleukodystrophy, Metachromatic leukodystrophy, Porphyria, Ataxia telangiectasia, Friedrich ataxia.|
-|**Acquired Polyneuropathies**|[[Neuromuscular/Guillain-Barré Syndrome\|Guillain-Barré syndrome]], CIDP, Diphtheria, Toxic neuropathies (e.g., arsenic, lead, chemotherapy drugs), Vitamin B12 or E deficiency.|
+|**Acquired Polyneuropathies**|[[Neuromuscular/Guillain-Barré Syndrome\|Guillain-Barré syndrome]], CIDP, [[Infectious Diseases/Diphtheria\|Diphtheria]], Toxic neuropathies (e.g., arsenic, lead, chemotherapy drugs), Vitamin B12 or E deficiency.|
 ## Management And Counseling
 
 - **Supportive Care**: Supportive care remains the standard of therapy for CMT.

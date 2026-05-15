@@ -4,7 +4,7 @@
 
 ## Definition And Pathophysiology
 
-- Spinal muscular atrophy (SMA) is a progressive, degenerative disease of the motor neurons beginning in fetal life or infancy.
+- [[Neuromuscular/Spinal Muscular Atrophy\|Spinal muscular atrophy]] (SMA) is a progressive, degenerative disease of the motor neurons beginning in fetal life or infancy.
 - The disease is characterized by symmetrical muscular atrophy resulting from the degeneration of anterior horn cells in the spinal cord and brain stem nuclei.
 - When brain stem involvement predominates, it is termed <span style="color:rgb(115, 247, 238)">Fazio-Londe disease.</span>
 - It is a lower motor neuron disorder that selectively spares upper motor neurons, extraocular muscles, and sphincters in most cases.
@@ -13,8 +13,8 @@
 
 ## Epidemiology
 
-- Spinal muscular atrophy is the most common genetic disorder affecting anterior horn cells in children.
-- It is the second most frequent autosomal recessive disorder after cystic fibrosis.
+- [[Neuromuscular/Spinal Muscular Atrophy\|Spinal muscular atrophy]] is the most common genetic disorder affecting anterior horn cells in children.
+- It is the second most frequent autosomal recessive disorder after [[Respiratory/Cystic Fibrosis\|cystic fibrosis]].
 - The incidence is estimated at 1 in 6000 to 10000 live births, with a carrier frequency of approximately 1 in 40 to 60.
 
 ## Genetics And Molecular Basis
@@ -41,7 +41,7 @@ The disease is classified into five types based on the age of onset and maximum 
 
 ## Differential Diagnosis
 
-Spinal muscular atrophy type 1 and 2 present as [[Neuromuscular/Approach to a floppy infant\|floppy infant]] syndrome with profound weakness.
+[[Neuromuscular/Spinal Muscular Atrophy\|Spinal muscular atrophy]] type 1 and 2 present as [[Neuromuscular/Approach to a floppy infant\|floppy infant]] syndrome with profound weakness.
 
 |Category|Examples|Distinguishing Features|
 |:--|:--|:--|
@@ -55,14 +55,14 @@ Spinal muscular atrophy type 1 and 2 present as [[Neuromuscular/Approach to a fl
 
 ### Genetic Testing (Gold Standard)
 
-- Targeted variant analysis utilising quantitative polymerase chain reaction (PCR) or multiplex ligation-dependent probe amplification (MLPA) is the first-line test.
+- Targeted variant analysis utilising quantitative polymerase chain reaction (PCR) or [[Genetics/Multiplex Ligation-Dependent Probe Amplification (MLPA)\|multiplex ligation-dependent probe amplification (MLPA)]] is the first-line test.
 - Detection of the homozygous deletion of _SMN1_ exon 7 provides definitive diagnosis with 95-98% sensitivity.
 - Testing also determines _SMN2_ copy number for prognostic evaluation.
 
 ### Laboratory And Electrophysiological Findings
 
-- **Creatine Phosphokinase (CPK):** Normal or mildly elevated (usually less than 10 times the upper limit of normal), helping distinguish spinal muscular atrophy from muscular dystrophies.
-- **Electrocardiogram (ECG):** May demonstrate a baseline tremor artifact on lead II representing somatic muscle fibrillations.
+- **Creatine Phosphokinase (CPK):** Normal or mildly elevated (usually less than 10 times the upper limit of normal), helping distinguish [[Neuromuscular/Spinal Muscular Atrophy\|spinal muscular atrophy]] from muscular dystrophies.
+- **Electrocardiogram ([[Misc/ECG\|ECG]]):** May demonstrate a baseline tremor artifact on lead II representing somatic muscle fibrillations.
 - **Electromyography (EMG):** Shows features of active denervation, spontaneous fibrillation potentials, and giant motor unit action potentials. Nerve conduction velocities are typically normal.
 
 ### Muscle Biopsy
@@ -85,7 +85,7 @@ Recent advances target the underlying genetic defect, significantly altering the
 |Drug Name|Mechanism Of Action|Route And Dosing|Target Population And Adverse Events|
 |:--|:--|:--|:--|
 |**Nusinersen (Spinraza)**|Antisense oligonucleotide (ASO). Modifies _SMN2_ pre-mRNA splicing to promote inclusion of exon 7, producing full-length functional SMN protein.|Intrathecal. Loading doses followed by maintenance doses every 4 months.|Approved for all SMA types and ages. Adverse events include lumbar puncture-related issues, thrombocytopenia, and proteinuria.|
-|**Onasemnogene Abeparvovec (Zolgensma)**|Gene replacement therapy. Utilises adeno-associated viral vector (AAV9) to deliver a fully functional copy of the _SMN1_ gene into motor neurons.|Intravenous. Single, one-time dose.|Approved for children $\le$ 2 years of age. Adverse events include liver enzyme elevation, asymptomatic thrombocytopenia, and rare acute liver failure.|
+|**Onasemnogene Abeparvovec (Zolgensma)**|Gene replacement therapy. Utilises adeno-associated viral vector (AAV9) to deliver a fully functional copy of the _SMN1_ gene into motor neurons.|Intravenous. Single, one-time dose.|Approved for children $\le$ 2 years of age. Adverse events include liver enzyme elevation, asymptomatic thrombocytopenia, and rare [[Gastrointestinal/Acute Liver Failure\|acute liver failure]].|
 |**Risdiplam (Evrysdi)**|Small molecule splice modifier. Orally bioavailable compound promoting exon 7 inclusion in _SMN2_ pre-mRNA.|Oral. Administered daily.|Approved for patients $\ge$ 2 months of age. Adverse events include fever, diarrhea, rash, and oral ulcers.|
 
 ## Prognosis And Genetic Counseling
@@ -93,4 +93,4 @@ Recent advances target the underlying genetic defect, significantly altering the
 - Without disease-modifying therapy, type 1 is fatal by 2 years, while type 2 survival extends to the 2nd or 3rd decade.
 - With targeted therapies and multidisciplinary care, survival and motor function improve dramatically, particularly when initiated presymptomatically.
 - Genetic counseling must be offered; the condition carries an autosomal recessive 25% recurrence risk for future siblings.
-- Antenatal diagnosis is possible via chorionic villus sampling between the 10th and 12th gestational weeks.
+- [[Neonatalogy/Antenatal Diagnosis\|Antenatal diagnosis]] is possible via chorionic villus sampling between the 10th and 12th gestational weeks.

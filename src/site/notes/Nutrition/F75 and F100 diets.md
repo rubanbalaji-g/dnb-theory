@@ -11,8 +11,8 @@ F-75 is the therapeutic diet used exclusively during the **Stabilization Phase**
 #### Purpose and Physiological Rationale
 
 - **Metabolic Fragility:** In the initial phase, the child's body is in a state of "reductive adaptation," meaning vital systems have slowed down to survive on minimal intake. The liver cannot metabolize high protein loads, and the heart is weak.
-- **Goal:** The primary goal is **not** weight gain but to restore metabolic functions, correct electrolyte imbalances, and prevent death from hypoglycemia or refeeding syndrome.
-- **Composition Rationale:** F-75 is low in protein (0.9 g/100 mL) and energy (75 kcal/100 mL) to avoid overloading the liver (which cannot process excess nitrogen/ammonia) and the kidneys (limited ability to excrete solute load). It is designed to prevent "refeeding syndrome," which can be fatal if high calorie/protein feeds are introduced too early.
+- **Goal:** The primary goal is **not** weight gain but to restore metabolic functions, correct electrolyte imbalances, and prevent death from hypoglycemia or [[Nutrition/Refeeding Syndrome\|refeeding syndrome]].
+- **Composition Rationale:** F-75 is low in protein (0.9 g/100 mL) and energy (75 kcal/100 mL) to avoid overloading the liver (which cannot process excess nitrogen/ammonia) and the kidneys (limited ability to excrete solute load). It is designed to prevent "[[Nutrition/Refeeding Syndrome\|refeeding syndrome]]," which can be fatal if high calorie/protein feeds are introduced too early.
 
 #### Nutritional Composition (per 100 mL)
 
@@ -106,7 +106,7 @@ _[Sources: 232, 233, 296, 361, 363]_
 
 ### 4. Transition Protocol (Step 8 of SAM Management)
 
-Moving from F-75 to F-100 is a critical period where the child is monitored for tolerance (signs of refeeding syndrome like heart failure).
+Moving from F-75 to F-100 is a critical period where the child is monitored for tolerance (signs of [[Nutrition/Refeeding Syndrome\|refeeding syndrome]] like heart failure).
 
 1. **Readiness Criteria:** Return of appetite, resolution/reduction of edema, and control of infection.
 2. **Procedure:**

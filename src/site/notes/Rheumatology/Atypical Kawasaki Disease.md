@@ -3,7 +3,7 @@
 ---
 
 ## 1. DEFINITION
-- Atypical Kawasaki Disease (KD) refers to a presentation where patients manifest unusual, severe, or organ-specific clinical signs that are not classically associated with the standard mucocutaneous diagnostic criteria of KD.
+- [[Rheumatology/Atypical Kawasaki Disease\|Atypical Kawasaki Disease]] (KD) refers to a presentation where patients manifest unusual, severe, or organ-specific clinical signs that are not classically associated with the standard mucocutaneous diagnostic criteria of KD.
 - These atypical features can dominate the clinical picture, occur concurrently with, or precede classic mucocutaneous criteria, frequently masking the underlying systemic vasculitis and leading to hazardous diagnostic delays.
 
 ## 2. PATHOPHYSIOLOGY
@@ -13,9 +13,9 @@
 
 ## 3. CLINICAL FEATURES (ORGAN-SPECIFIC ATYPICAL PRESENTATIONS)
 **A. Cardiovascular Manifestations**
-- Kawasaki Disease Shock Syndrome (KDSS): Characterized by profound distributive (vasoplegic) and/or cardiogenic shock requiring fluid resuscitation and inotropic support.
+- [[Rheumatology/Kawasaki Disease Shock Syndrome\|Kawasaki Disease Shock Syndrome]] (KDSS): Characterized by profound distributive (vasoplegic) and/or cardiogenic shock requiring fluid resuscitation and inotropic support.
 - Severe Myocarditis: Leading to clinically significant depression of left ventricular ejection fraction and congestive heart failure.
-- Pericarditis: With significant pericardial effusions and risk of impending tamponade.
+- [[Cardiology/Pericarditis\|Pericarditis]]: With significant pericardial effusions and risk of impending tamponade.
 - Peripheral gangrene/ischemia of the digits early in the disease course.
 
 **B. Gastrointestinal and Hepatic Manifestations**
@@ -24,16 +24,16 @@
 - Gastrointestinal Tract: Paralytic ileus, hemorrhagic enteritis, and severe diarrhea.
 
 **C. Neurological Manifestations**
-- Central: Aseptic meningitis, presenting with extreme, disproportionate irritability, lethargy, nuchal rigidity, and bulging fontanelle.
+- Central: Aseptic [[Neurology/Meningitis\|meningitis]], presenting with extreme, disproportionate irritability, lethargy, nuchal rigidity, and bulging fontanelle.
 - Peripheral: Transient facial nerve palsy and sensorineural hearing loss.
 
 **D. Renal and Genitourinary Manifestations**
-- Acute Kidney Injury (AKI) secondary to tubulointerstitial nephritis or ischemic injury from KDSS.
+- [[Nephrology/Acute Kidney Injury\|Acute Kidney Injury]] (AKI) secondary to tubulointerstitial nephritis or ischemic injury from KDSS.
 - Sterile pyuria (indicative of urethritis).
 - Nephrotic-range proteinuria.
 
 **E. Respiratory Manifestations**
-- Pulmonary infiltrates (reticulonodular or consolidative) mimicking atypical pneumonia.
+- Pulmonary infiltrates (reticulonodular or consolidative) mimicking [[Respiratory/Atypical Pneumonia\|atypical pneumonia]].
 - Exudative pleural effusions.
 
 **F. Musculoskeletal Manifestations**
@@ -42,7 +42,7 @@
 ## 4. INVESTIGATIONS
 - **Laboratory Hallmarks:** Exaggerated elevation of acute phase reactants (CRP, ESR, Procalcitonin). Leukocytosis with marked left shift.
 - **Organ-Specific Biomarkers:** Elevated transaminases/bilirubin, elevated BUN/Creatinine, and elevated cardiac biomarkers (Troponin, NT-proBNP).
-- **CSF Analysis:** Essential to rule out bacterial meningitis; typically reveals pleocytosis with mononuclear predominance, normal glucose, and normal protein.
+- **CSF Analysis:** Essential to rule out bacterial [[Neurology/Meningitis\|meningitis]]; typically reveals pleocytosis with mononuclear predominance, normal glucose, and normal protein.
 - **Imaging:** Abdominal ultrasound (to identify gallbladder hydrops), Chest X-ray.
 - **Echocardiography (Mandatory):** Critical for identifying baseline Coronary Artery Abnormalities (CAA), calculating coronary Z-scores, and assessing left ventricular systolic function and valvular regurgitation.
 

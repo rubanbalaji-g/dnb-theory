@@ -4,8 +4,8 @@
 
 ### Introduction and Definitions
 
-- **Definition:** Complementary feeding is defined as the systematic process of introducing suitable foods at the right time in addition to mother’s milk in order to provide needed nutrients to the baby.
-- **Terminology:** The term "complementary feeding" is preferred over "weaning." Weaning implies the cessation of breastfeeding, whereas complementary feeding emphasizes that breast milk continues to be a vital source of nutrition alongside solid foods.
+- **Definition:** [[Nutrition/Complementary Feeding\|Complementary feeding]] is defined as the systematic process of introducing suitable foods at the right time in addition to mother’s milk in order to provide needed nutrients to the baby.
+- **Terminology:** The term "[[Nutrition/Complementary Feeding\|complementary feeding]]" is preferred over "weaning." Weaning implies the cessation of breastfeeding, whereas [[Nutrition/Complementary Feeding\|complementary feeding]] emphasizes that breast milk continues to be a vital source of nutrition alongside solid foods.
 - **Goal:** To transition the infant from an exclusive liquid diet to the usual family diet (family pot feeding) by the second year of life.
 - **Critical Window:** The period from 6 to 24 months is the "weakest link" in child nutrition, where growth faltering is most likely to occur due to inadequate intake. This falls within the critical first 1000 days (pregnancy to 2 years) which shapes long-term health and development,.
 
@@ -22,7 +22,7 @@ The introduction of complementary foods is recommended at **6 months (180 days)*
 #### Nutritional Necessity
 
 - **Energy Gap:** By 6 months, breast milk volume plateaus while the infant's weight has doubled. Breast milk provides ~400 kcal, but a 6 kg infant requires ~600–700 kcal, creating a caloric gap.
-- **Micronutrient Depletion:** Iron and calcium stores acquired in utero are depleted by 6 months. Breast milk is poor in iron, and without supplementation, iron deficiency anemia develops,.
+- **Micronutrient Depletion:** Iron and calcium stores acquired in utero are depleted by 6 months. Breast milk is poor in iron, and without supplementation, [[Hematology/Iron Deficiency Anemia\|iron deficiency anemia]] develops,.
 - **Zinc Deficiency:** Zinc concentrations in breast milk decline sharply and are insufficient after 6 months.
 ![](https://i.ibb.co/Y4V5YM5M/Pasted-image-20240526050316-1.png)
 
@@ -34,10 +34,10 @@ The introduction of complementary foods is recommended at **6 months (180 days)*
     - Increases risk of allergies (e.g., cow’s milk protein allergy),.
 - **Delayed Introduction (>6 months):**
     - Leads to growth faltering (malnutrition).
-    - Micronutrient deficiencies (Iron, Zinc, Vitamin A).
+    - Micronutrient deficiencies (Iron, Zinc, [[Nutrition/Vitamin A\|Vitamin A]]).
     - Difficulty in accepting new textures and tastes later (feeding problems).
 
-### Principles of Complementary Feeding (WHO/IAP/IMNCI)
+### Principles of [[Nutrition/Complementary Feeding\|Complementary Feeding]] (WHO/IAP/IMNCI)
 
 #### 1. Consistency and Texture
 
@@ -121,7 +121,7 @@ As per IMNCI and IYCF guidelines, the frequency depends on age and breastfeeding
 #### 12–24 Months (Family Diet)
 
 - **Diet:** Everything cooked at home (Family Pot). No separate cooking required.
-- **Volume:** Child should eat about half the quantity of the mother.
+- **Volume:** Child should eat [[About\|about]] half the quantity of the mother.
 - **Breastfeeding:** Continue on demand, preferably after meals to ensure food intake.
 
 ### The "Weaning Bridge" Concept
@@ -160,7 +160,7 @@ As per IMNCI and IYCF guidelines, the frequency depends on age and breastfeeding
 
 #### 4. The "Development Paradox"
 
-- In India, exclusive breastfeeding rates drop rapidly, and complementary feeding is often delayed or inadequate (only ~33% receive solids at 6-9 months). This gap is where malnutrition begins.
+- In India, exclusive breastfeeding rates drop rapidly, and [[Nutrition/Complementary Feeding\|complementary feeding]] is often delayed or inadequate (only ~33% receive solids at 6-9 months). This gap is where malnutrition begins.
 
 ### Summary of Recommendations (IMNCI)
 

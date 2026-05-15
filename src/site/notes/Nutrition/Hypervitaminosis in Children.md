@@ -4,37 +4,37 @@
 
 Hypervitaminosis refers to a condition of abnormally high storage levels of vitamins, which can lead to toxic symptoms. While the body has mechanisms to excrete excess water-soluble vitamins (B and C), fat-soluble vitamins (A, D, E, and K) are stored in the liver and adipose tissue, making them more prone to accumulation and toxicity. In children, this often results from excessive supplementation, accidental ingestion, or food faddism.
 
-### Hypervitaminosis A
+### [[Nutrition/Hypervitaminosis A\|Hypervitaminosis A]]
 
-Vitamin A toxicity can occur from the ingestion of large doses of preformed vitamin A (retinol or retinyl esters). It is distinct from carotenemia, which is caused by excess beta-carotene intake.
+[[Nutrition/Vitamin A\|Vitamin A]] toxicity can occur from the ingestion of large doses of preformed [[Nutrition/Vitamin A\|vitamin A]] (retinol or retinyl esters). It is distinct from carotenemia, which is caused by excess beta-carotene intake.
 
 #### Etiology
 
 - **Acute Toxicity:** Ingestion of large doses, typically greater than 50,000 IU/day, often seen with accidental ingestion of supplements.
 - **Chronic Toxicity:** Daily ingestion of doses exceeding physiological needs (e.g., >6,000 µg or ~20,000 IU in children) for weeks or months. Common causes include excessive use of vitamin supplements, fish liver oils, or therapeutic preparations for acne.
-- **"Gulf Syndrome":** A specific historical reference to hypervitaminosis A and D resulting from excessive intake of attractive fish oil pearls brought from Middle-East countries.
+- **"Gulf Syndrome":** A specific historical reference to [[Nutrition/Hypervitaminosis A\|hypervitaminosis A]] and D resulting from excessive intake of attractive fish oil pearls brought from Middle-East countries.
 
 #### Clinical Manifestations
 
 - **Acute Toxicity:**
-    - **CNS:** Symptoms of raised intracranial pressure (pseudotumor cerebri) including vomiting, irritability, bulging fontanel (in infants), diplopia, and severe headache.
+    - **CNS:** Symptoms of raised intracranial pressure ([[Neurology/Pseudotumor Cerebri\|pseudotumor cerebri]]) including vomiting, irritability, bulging fontanel (in infants), diplopia, and severe headache.
     - **General:** Stupor, limited motion, and vertigo.
 - **Chronic Toxicity:**
     - **Dermatological:** Dry, itchy, desquamating skin; fissuring at the corners of the mouth (cheilosis); alopecia (hair loss) and coarsening of hair; yellow-orange dislocation of palms and soles (if associated with carotenemia).
     - **Musculoskeletal:** Painful swelling of long bones due to subperiosteal bone formation, bone tenderness, and arthralgia.
-    - **Hepatic:** Hepatomegaly and splenomegaly; can progress to cirrhosis and portal hypertension.
+    - **Hepatic:** Hepatomegaly and splenomegaly; can progress to cirrhosis and [[Gastrointestinal/Portal Hypertension\|portal hypertension]].
     - **General:** Anorexia, failure to thrive (lack of weight gain), and fatigue.
-- **Teratogenicity:** High doses of vitamin A (isotretinoin/retinoic acid) during early pregnancy can cause spontaneous abortions and severe congenital malformations (craniofacial abnormalities).
+- **Teratogenicity:** High doses of [[Nutrition/Vitamin A\|vitamin A]] (isotretinoin/retinoic acid) during early pregnancy can cause spontaneous abortions and severe congenital malformations (craniofacial abnormalities).
 
 #### Diagnostic Findings
 
-- **Serum Levels:** Elevated serum vitamin A levels (retinyl esters are elevated while retinol-binding protein is saturated).
+- **Serum Levels:** Elevated serum [[Nutrition/Vitamin A\|vitamin A]] levels (retinyl esters are elevated while retinol-binding protein is saturated).
 - **Radiology:** Hyperostosis (cortical thickening) affecting the middle of the shafts of long bones, particularly the ulna and tibia (long, wavy cortical hyperostosis). Metaphyseal changes are typically absent.
 - **Bone Scans:** May show increased uptake before radiographic changes appear.
 
 #### Management
 
-- **Cessation:** Immediate withdrawal of vitamin A sources leads to rapid subsidence of symptoms, though skeletal changes may take months to resolve.
+- **Cessation:** Immediate withdrawal of [[Nutrition/Vitamin A\|vitamin A]] sources leads to rapid subsidence of symptoms, though skeletal changes may take months to resolve.
 - **Supportive Care:** Symptomatic treatment for elevated intracranial pressure or skin lesions.
 
 #### Carotenemia
@@ -43,7 +43,7 @@ Vitamin A toxicity can occur from the ingestion of large doses of preformed vita
 - **Differentiation:** Distinguished from jaundice by the absence of scleral icterus (sclerae remain white).
 - **Clinical Course:** Benign condition; skin color returns to normal 2–6 weeks after reducing carotene intake.
 
-### Hypervitaminosis D
+### [[Nutrition/Hypervitaminosis D\|Hypervitaminosis D]]
 
 Vitamin D toxicity is the most potentially serious hypervitaminosis due to its severe renal and cardiovascular sequelae. It is usually iatrogenic or due to accidental overdose.
 
@@ -64,7 +64,7 @@ Vitamin D toxicity is the most potentially serious hypervitaminosis due to its s
 Symptoms are primarily those of hypercalcemia:
 
 - **Gastrointestinal:** Nausea, vomiting, anorexia, constipation, abdominal pain, and pancreatitis.
-- **Renal:** Polyuria and polydipsia (nephrogenic diabetes insipidus), nephrocalcinosis (calcium deposits in kidney), nephrolithiasis, and progressive renal insufficiency.
+- **Renal:** Polyuria and polydipsia ([[Nephrology/Nephrogenic diabetes insipidus\|nephrogenic diabetes insipidus]]), nephrocalcinosis (calcium deposits in kidney), nephrolithiasis, and progressive renal insufficiency.
 - **Neurological:** Hypotonia, irritability, lethargy, stupor, and confusion.
 - **Cardiovascular:** Hypertension, shortened QT interval, arrhythmias.
 - **Metastatic Calcification:** Calcification of soft tissues, including blood vessels, cornea (band keratopathy), and kidneys.
@@ -118,7 +118,7 @@ While generally excreted in urine, massive doses ("megavitamin therapy") can cau
     - **GI:** Abdominal pain, osmotic diarrhea, nausea.
     - **Renal:** Increased oxalate excretion leading to renal stones (nephrolithiasis).
     - **Metabolic:** Can precipitate hemolysis in G6PD deficiency. Large doses can interfere with B12 absorption.
-    - **Rebound Scurvy:** Sudden withdrawal after chronic high intake can precipitate scurvy in the fetus/neonate.
+    - **Rebound [[Nutrition/Scurvy\|Scurvy]]:** Sudden withdrawal after chronic high intake can precipitate [[Nutrition/Scurvy\|scurvy]] in the fetus/neonate.
 - **Niacin (Vitamin B3):**
     
     - **Cutaneous:** Intense flushing, burning sensation, and pruritus (histamine release).
@@ -129,13 +129,13 @@ While generally excreted in urine, massive doses ("megavitamin therapy") can cau
     - **Neurological:** Sensory neuropathy (ataxia, numbness, paresthesia) with chronic intake of >200–500 mg/day. It creates a dependency state; withdrawal can cause seizures in infants.
 - **Folate:**
     
-    - Masks hematological signs of Vitamin B12 deficiency (pernicious anemia) while neurological damage progresses.
+    - Masks hematological signs of [[Hematology/Vitamin B12 Deficiency\|Vitamin B12 deficiency]] (pernicious anemia) while neurological damage progresses.
 
 ### Summary Table of Key Toxicities
 
 |Vitamin|Key Toxic Effects|
 |:--|:--|
-|**A**|Pseudotumor cerebri, cortical hyperostosis, hepatotoxicity, teratogenicity.|
+|**A**|[[Neurology/Pseudotumor Cerebri\|Pseudotumor cerebri]], cortical hyperostosis, hepatotoxicity, teratogenicity.|
 |**D**|Hypercalcemia, nephrocalcinosis, polyuria, hypertension.|
 |**E**|Bleeding (Vit K antagonism), NEC (preterms).|
 |**K**|Hemolysis, hyperbilirubinemia, kernicterus (synthetic form).|

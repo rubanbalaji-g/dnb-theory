@@ -19,10 +19,10 @@ Small vessel vasculitides characterized by necrotizing inflammation of small ves
     - Lower Respiratory: Cavitary nodules, alveolar hemorrhage.
     - Renal: Necrotizing glomerulonephritis (pauci-immune).
 *   **MPA (Non-granulomatous):** 
-    - Predominantly Renal: Rapidly Progressive Glomerulonephritis (RPGN).
+    - Predominantly Renal: [[Nephrology/Rapidly Progressive Glomerulonephritis (RPGN)\|Rapidly Progressive Glomerulonephritis (RPGN)]].
     - Pulmonary: Diffuse Alveolar Hemorrhage (DAH); lacks upper airway granulomas.
 *   **EGPA (Eosinophilic):**
-    - Triad: Asthma, peripheral eosinophilia (>1500/microL), and small-vessel vasculitis.
+    - Triad: [[Respiratory/Asthma\|Asthma]], peripheral eosinophilia (>1500/microL), and small-vessel vasculitis.
     - Cardiac: Myocarditis (major cause of mortality).
 
 ## 4. INVESTIGATIONS

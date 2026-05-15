@@ -4,7 +4,7 @@
 
 ## Definition and Overview
 
-- **Acrodermatitis Enteropathica (AE)** is a rare, autosomal recessive genetic disorder characterized by the inability to absorb zinc from the intestine.
+- **[[Nutrition/Acrodermatitis enteropathica\|Acrodermatitis Enteropathica]] (AE)** is a rare, autosomal recessive genetic disorder characterized by the inability to absorb zinc from the intestine.
 - It represents a severe form of zinc deficiency caused by a primary defect in the intestinal zinc transport mechanism.
 - The condition is historically significant as it highlighted the essential role of zinc in human nutrition and health.
 - Without treatment, the disease is progressive and can be fatal, but it responds dramatically to zinc supplementation, allowing for a normal life expectancy.
@@ -28,7 +28,7 @@ Zinc is a ubiquitous trace element essential for the function of over 200 metall
 
 ## Clinical Features
 
-The clinical presentation of Acrodermatitis Enteropathica is classic and often described by a triad of symptoms.
+The clinical presentation of [[Nutrition/Acrodermatitis enteropathica\|Acrodermatitis Enteropathica]] is classic and often described by a triad of symptoms.
 
 ### Onset
 
@@ -80,7 +80,7 @@ The skin lesions are distinctive and often the presenting complaint.
 
 - **Failure to Thrive:** Severe growth retardation and weight loss occur due to anorexia (loss of appetite), [[Gastrointestinal/Chronic Diarrhea\|chronic diarrhea]], and metabolic inefficiency.
 - **Hypogonadism:** In untreated adolescents, delayed sexual maturation and hypogonadism are prominent.
-- **Wound Healing:** Delayed wound healing and breakdown of old scars (resembling scurvy) may be observed.
+- **Wound Healing:** Delayed wound healing and breakdown of old scars (resembling [[Nutrition/Scurvy\|scurvy]]) may be observed.
 
 ## Diagnosis
 
@@ -107,7 +107,7 @@ The diagnosis is based on the characteristic clinical triad supported by laborat
 
 The clinical appearance can mimic several other dermatological and nutritional conditions:
 
-- **Acquired Zinc Deficiency:** Seen in severe protein-energy malnutrition (PEM), malabsorption syndromes ([[Gastrointestinal/Celiac disease\|Celiac disease]], Cystic Fibrosis), or prolonged Total Parenteral Nutrition (TPN) without zinc supplementation. The clinical features are identical to AE but the etiology is nutritional rather than genetic.
+- **Acquired Zinc Deficiency:** Seen in severe protein-energy malnutrition (PEM), malabsorption syndromes ([[Gastrointestinal/Celiac disease\|Celiac disease]], [[Respiratory/Cystic Fibrosis\|Cystic Fibrosis]]), or prolonged Total Parenteral Nutrition (TPN) without zinc supplementation. The clinical features are identical to AE but the etiology is nutritional rather than genetic.
 - **Biotinidase Deficiency / Biotin Deficiency:** Presents with periorificial dermatitis, alopecia, and neurological signs (seizures, hypotonia). Distinguished by metabolic acidosis and response to biotin.
 - **Essential Fatty Acid Deficiency:** Causes dry, scaly skin and alopecia; usually history of fat-free TPN.
 - **Severe Protein-Energy Malnutrition (Kwashiorkor):** "Flaky paint" dermatosis can resemble AE lesions.
@@ -117,7 +117,7 @@ The clinical appearance can mimic several other dermatological and nutritional c
 
 ## Management
 
-Acrodermatitis Enteropathica is a treatable condition with an excellent prognosis if managed early. Therapy is lifelong.
+[[Nutrition/Acrodermatitis enteropathica\|Acrodermatitis Enteropathica]] is a treatable condition with an excellent prognosis if managed early. Therapy is lifelong.
 
 ### 1. Zinc Supplementation (Mainstay of Treatment)
 

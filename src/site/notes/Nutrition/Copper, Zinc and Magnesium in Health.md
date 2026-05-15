@@ -25,7 +25,7 @@ Copper is an essential trace element primarily involved in oxidative metabolism,
 - **Hematological:**
     - **Anemia:** Refractory microcytic hypochromic anemia indistinguishable from iron deficiency but unresponsive to iron therapy alone,.
     - **Neutropenia:** A consistent finding in copper deficiency.
-- **Skeletal:** Osteoporosis and pathological fractures. Radiologically, changes may mimic scurvy (metaphyseal irregularities and subperiosteal hematomas),,.
+- **Skeletal:** Osteoporosis and pathological fractures. Radiologically, changes may mimic [[Nutrition/Scurvy\|scurvy]] (metaphyseal irregularities and subperiosteal hematomas),,.
 - **Dermatological:** Depigmentation of hair and skin,.
 - **Menkes Kinky Hair Disease:** An X-linked recessive disorder of copper transport (ATP7A mutation) leading to impaired absorption. Clinical features include "steely" or kinky hair, skin hypopigmentation, severe neurological regression, and seizures.
 
@@ -50,14 +50,14 @@ Zinc is the second most abundant trace element in the body. It is ubiquitous in 
 - **Immune Function:** Essential for the development and function of T-lymphocytes and maintenance of mucosal immunity,.
 - **Antioxidant:** A component of Cu-Zn Superoxide Dismutase (SOD), protecting against oxidative stress.
 - **Growth and Tissue Repair:** Vital for linear growth, wound healing, and skin integrity,.
-- **Sensory Function:** Required for taste perception (gustin) and vitamin A metabolism (retinol-binding protein synthesis) for night vision,.
+- **Sensory Function:** Required for taste perception (gustin) and [[Nutrition/Vitamin A\|vitamin A]] metabolism (retinol-binding protein synthesis) for night vision,.
 
 ### Role in Disease
 
 **1. Deficiency States** Deficiency is common in populations consuming cereal-based diets high in phytates, which inhibit zinc absorption.
 
 - **Growth Failure:** A hallmark of chronic zinc deficiency is stunting (growth retardation) and delayed sexual maturation (hypogonadism) in adolescents,.
-- **Acrodermatitis Enteropathica:** A severe deficiency (often genetic defect in ZIP4 transporter) characterized by the triad of:
+- **[[Nutrition/Acrodermatitis enteropathica\|Acrodermatitis Enteropathica]]:** A severe deficiency (often genetic defect in ZIP4 transporter) characterized by the triad of:
     - **Dermatitis:** Vesicobullous, eczematous, and crusted lesions, typically periorificial (around mouth, eyes, anus) and acral (limbs),.
     - **Alopecia:** Generalized hair loss.
     - **Diarrhea:** Persistent and severe.
@@ -87,7 +87,7 @@ Magnesium is a major intracellular cation, with over 80% located in bone and ske
 - **Enzymatic Role:** Essential cofactor for enzymatic reactions involving ATP (energy production), carbohydrate metabolism, and protein synthesis,.
 - **Neuromuscular Function:** Acts as a calcium antagonist. It depresses nerve transmission and smooth muscle contractility, providing a stabilizing effect on excitable membranes,.
 - **Cardiovascular Health:** Maintains normal heart rhythm and vascular tone.
-- **Mineral Homeostasis:** Required for the secretion and action of Parathyroid Hormone (PTH). Magnesium deficiency can impair calcium homeostasis,.
+- **Mineral Homeostasis:** Required for the secretion and action of Parathyroid Hormone (PTH). Magnesium deficiency can impair [[Endocrinology/Calcium Homeostasis\|calcium homeostasis]],.
 - **Bone Health:** A structural constituent of bone,.
 
 ### Role in Disease
@@ -95,14 +95,14 @@ Magnesium is a major intracellular cation, with over 80% located in bone and ske
 **1. Deficiency (Hypomagnesemia)** Common in Protein-Energy Malnutrition (PEM), malabsorption, and [[Gastrointestinal/Chronic Diarrhea\|chronic diarrhea]],.
 
 - **Neuromuscular Hyperexcitability:** Manifests as tetany, muscle tremors, hyperreflexia, irritability, and seizures,.
-- **Cardiovascular:** Predisposes to cardiac arrhythmias.
+- **Cardiovascular:** Predisposes to [[Cardiology/Cardiac arrhythmias\|cardiac arrhythmias]].
 - **Metabolic Derangements:**
     - **Refractory Hypocalcemia:** Magnesium is required for PTH release. Hypocalcemia secondary to magnesium deficiency is resistant to calcium therapy until magnesium is replenished,.
     - **Hypokalemia:** Often coexists with hypomagnesemia and is refractory to treatment unless magnesium is corrected.
 
 **2. Therapeutic Roles**
 
-- **Acute Severe Asthma:** Intravenous Magnesium Sulfate acts as a bronchodilator by inhibiting smooth muscle contractility and acetylcholine release. It is used when patients do not respond to initial nebulization,.
+- **Acute Severe [[Respiratory/Asthma\|Asthma]]:** Intravenous Magnesium Sulfate acts as a bronchodilator by inhibiting smooth muscle contractility and acetylcholine release. It is used when patients do not respond to initial nebulization,.
 - **Malnutrition Management:** Magnesium is routinely supplemented in the management of severe acute malnutrition (SAM) to correct intracellular deficits and allow catch-up growth,.
 
 **3. Toxicity (Hypermagnesemia)**

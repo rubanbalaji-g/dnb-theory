@@ -4,10 +4,10 @@
 
 ## Definition And Conceptual Framework
 
-- Pseudoparalysis refers to a state of apparent immobility or painful refusal to move a limb without true motor unit disease.
+- [[Neuromuscular/Pseudoparalysis\|Pseudoparalysis]] refers to a state of apparent immobility or painful refusal to move a limb without true motor unit disease.
 - It is characterised by bizarre or unusual postures, diminished resistance of joints to passive movement, increased range of movement, paucity of spontaneous movements, and motor delay.
 - True paralysis results from a structural or functional lesion within the motor unit (anterior horn cell, peripheral nerve, neuromuscular junction, or muscle).
-- Pseudoparalysis must be differentiated from true neuromuscular weakness by evaluating for actual muscle weakness, wasting, fasciculations, altered deep tendon reflexes, sensory changes, or fatigability.
+- [[Neuromuscular/Pseudoparalysis\|Pseudoparalysis]] must be differentiated from true neuromuscular weakness by evaluating for actual muscle weakness, wasting, fasciculations, altered deep tendon reflexes, sensory changes, or fatigability.
 - Non-neuromuscular causes of limb immobility, such as pain, fracture, severe infection, or systemic illness, are classical precipitants of pseudoparalysis-like states.
 
 ## Clinical Approach To Differentiate True Paralysis
@@ -16,7 +16,7 @@
 
 - Determine the age at onset, mode of onset, and rapidity of disease progression.
 - Recurrent pneumonias and feeding problems serve as clues for a true neuromuscular disorder.
-- Antenatal history of decreased fetal movements and polyhydramnios suggests a true motor unit defect, notably Spinal Muscular Atrophy (SMA).
+- Antenatal history of decreased fetal movements and polyhydramnios suggests a true motor unit defect, notably [[Neuromuscular/Spinal Muscular Atrophy\|Spinal Muscular Atrophy]] (SMA).
 - Review perinatal history for birth weight, hypoxia, or sepsis.
 - Assess developmental history; motor delay with preserved intellectual development implies a true motor unit defect rather than apparent paralysis.
 
@@ -27,7 +27,7 @@
 - Perform the axillary suspension test; a truly hypotonic infant will slip through the examiner's hands.
 - Assess for tongue fasciculations, which denote a neuropathic origin and true paralysis.
 - Determine if weakness is proportionate to hypotonia; proportionate weakness indicates muscle or nerve aetiology, while disproportionate weakness suggests a central, systemic, or metabolic cause.
-- Evaluate deep tendon reflexes; brisk reflexes point towards an upper motor neuron cause like hypotonic cerebral palsy.
+- Evaluate deep tendon reflexes; brisk reflexes point towards an upper motor neuron cause like hypotonic [[Neurology/Cerebral Palsy\|cerebral palsy]].
 
 ## Clinical Differentiation Tables
 
@@ -74,4 +74,4 @@
 
 - Central causes of hypotonia and apparent weakness, such as acute illness, asphyxia, bilirubinemia, and metabolic errors, must be excluded first.
 - The presence of paradoxical respiration and a bell-shaped chest are characteristic of true neuromuscular weakness, specifically SMA.
-- Contractures present at birth suggest arthrogryposis, denoting true in-utero paralysis due to severe congenital muscular dystrophy or myopathy, definitively ruling out acquired pseudoparalysis.
+- Contractures present at birth suggest arthrogryposis, denoting true in-utero paralysis due to severe congenital muscular dystrophy or myopathy, definitively ruling out acquired [[Neuromuscular/Pseudoparalysis\|pseudoparalysis]].

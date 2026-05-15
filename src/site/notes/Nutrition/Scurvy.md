@@ -2,7 +2,7 @@
 {"dg-publish":true,"uplink":"/nutrition/nutrition/","uptext":"Back to Index (Nutrition)","permalink":"/nutrition/scurvy/","dgPassFrontmatter":true}
 ---
 
-- **Definition:** Scurvy is the clinical manifestation of severe Vitamin C (ascorbic acid) deficiency.
+- **Definition:** [[Nutrition/Scurvy\|Scurvy]] is the clinical manifestation of severe Vitamin C (ascorbic acid) deficiency.
 - **Physiological Role:** Vitamin C acts as a cofactor for the hydroxylation of lysine and proline, which is essential for collagen synthesis. It maintains the integrity of connective tissue, blood vessels, bone (osteoid), and dentine.
 - **Etiology:**
     - **Dietary:** Occurs in infants fed predominantly on boiled or evaporated animal milk without fruit/vegetable supplementation (heat destroys Vitamin C).
@@ -10,11 +10,11 @@
     - **Other:** Severe malnutrition or chronic debilitating conditions.
 ## Pathophysiology of Radiological Changes
 
-The primary defect in scurvy is the impairment of collagen synthesis due to the lack of vitamin C, which is a cofactor for the hydroxylation of lysine and proline. This leads to defective formation of osteoid (bone matrix) and connective tissue,.
+The primary defect in [[Nutrition/Scurvy\|scurvy]] is the impairment of collagen synthesis due to the lack of vitamin C, which is a cofactor for the hydroxylation of lysine and proline. This leads to defective formation of osteoid (bone matrix) and connective tissue,.
 
 - **Mechanism of White Line of Fraenkel:**
     - In normal growth, cartilage cells proliferate and calcify (provisional calcification), and are then replaced by osteoid laid down by osteoblasts.
-    - In scurvy, calcification of the cartilage continues normally, but the osteoblasts fail to lay down osteoid on the calcified cartilage matrix.
+    - In [[Nutrition/Scurvy\|scurvy]], calcification of the cartilage continues normally, but the osteoblasts fail to lay down osteoid on the calcified cartilage matrix.
     - This results in the persistence and widening of the zone of provisional calcification (calcified cartilage), which accumulates at the metaphysis, creating the dense white line seen on X-rays,.
 - **Mechanism of Trümmerfeld Zone:**
     - The "Trümmerfeld" (field of debris) represents an area of structural weakness directly beneath the calcified cartilage.
@@ -61,13 +61,13 @@ The clinical picture typically evolves after 3–6 months of deficient intake.
 
 ### Hematological Manifestations
 
-- **Anemia:** Common in scurvy due to multiple factors:
+- **Anemia:** Common in [[Nutrition/Scurvy\|scurvy]] due to multiple factors:
     - Blood loss (bleeding).
     - Impaired iron absorption (Vitamin C aids reduction of ferric to ferrous iron).
-    - Coexistent folate deficiency (Vitamin C is involved in folate metabolism).
-### Radiological Changes in Scurvy
+    - Coexistent [[Hematology/Folate Deficiency\|folate deficiency]] (Vitamin C is involved in folate metabolism).
+### Radiological Changes in [[Nutrition/Scurvy\|Scurvy]]
 
-Radiological changes in scurvy are most prominent at the distal ends of long bones, particularly the knees (distal femur and proximal tibia) and wrists, which are sites of rapid growth.
+Radiological changes in [[Nutrition/Scurvy\|scurvy]] are most prominent at the distal ends of long bones, particularly the knees (distal femur and proximal tibia) and wrists, which are sites of rapid growth.
 
 - **Ground Glass Appearance:** The shafts of the long bones exhibit a ground-glass appearance (blurring of trabecular markings) due to trabecular atrophy and generalized osteoporosis,.
 - **Pencil-Thin Cortex:** The cortex of the long bones becomes significantly thinned, appearing like a "pencil outline" of the diaphysis and epiphysis,.
@@ -84,7 +84,7 @@ Radiological changes in scurvy are most prominent at the distal ends of long bon
 
 ## Role of Blood Level of Vitamin C in Diagnosis
 
-While the diagnosis of scurvy is primarily clinical and radiological, blood levels of vitamin C can support the diagnosis, though they have limitations.
+While the diagnosis of [[Nutrition/Scurvy\|scurvy]] is primarily clinical and radiological, blood levels of vitamin C can support the diagnosis, though they have limitations.
 
 - **Plasma Ascorbate Levels:**
     - A plasma ascorbate concentration of **<0.2 mg/dL** is generally considered indicative of deficiency.
@@ -92,7 +92,7 @@ While the diagnosis of scurvy is primarily clinical and radiological, blood leve
 - **Leukocyte Ascorbate Levels:**
     - The concentration of vitamin C in leukocytes is a better indicator of body stores than plasma levels.
     - **Cut-off:** A level of **$\le$10 $\mu$g/$10^8$ white blood cells** indicates deficiency.
-    - **Role:** This can identify "latent scurvy" even before clinical signs appear. However, this test is technically difficult to perform and not routinely available.
+    - **Role:** This can identify "latent [[Nutrition/Scurvy\|scurvy]]" even before clinical signs appear. However, this test is technically difficult to perform and not routinely available.
 - **Urinary Excretion (Load Test):**
     - This test assesses tissue saturation. A test dose of ascorbic acid is administered.
     - In healthy individuals, approximately 80% of the dose is excreted in the urine within 3–5 hours.

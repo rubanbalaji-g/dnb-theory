@@ -26,7 +26,7 @@ Estimating requirements in the critically ill child is complex due to the interp
 - **Basal Metabolic Rate (BMR):** Roughly 50% of total energy expenditure in a normal child.
 - **Impact of Illness:**
     - **Fever:** For every 1°C rise in temperature, caloric requirement increases by 10-12%.
-    - **Reduced Activity:** In a bedridden child, energy needs for activity and growth are reduced. Often, providing 2/3rds of the standard Recommended Dietary Allowance (RDA) is sufficient initially.
+    - **Reduced Activity:** In a bedridden child, energy needs for activity and growth are reduced. Often, providing 2/3rds of the standard Recommended Dietary Allowance ([[Nutrition/RDA\|RDA]]) is sufficient initially.
     - **Mechanical Ventilation:** Sedation and ventilation decrease the work of breathing, potentially lowering energy expenditure.
 - **Calculation Methods:**
     - **Holliday and Segar Formula:** Used for maintenance calorie and fluid estimation based on weight.
@@ -43,7 +43,7 @@ Estimating requirements in the critically ill child is complex due to the interp
     - 11–20 kg: 1000 mL + 50 mL/kg for each kg >10.
     - > 20 kg: 1500 mL + 20 mL/kg for each kg >20.
         
-- **Restriction:** Fluid restriction to 2/3rds of maintenance is indicated in conditions prone to Syndrome of Inappropriate ADH (SIADH), such as meningitis, pneumonia, and head injury.
+- **Restriction:** Fluid restriction to 2/3rds of maintenance is indicated in conditions prone to Syndrome of Inappropriate ADH ([[Endocrinology/SIADH\|SIADH]]), such as [[Neurology/Meningitis\|meningitis]], pneumonia, and head injury.
 - **Oligo-anuria:** Fluid should be restricted to insensible losses (approx. 400 mL/m²/day or 30 mL/kg for infants) plus the volume of the previous day's urine output.
 
 ### Macronutrient Requirements
@@ -86,7 +86,7 @@ Management of shock is the first priority in a critically ill child. Protocols d
     - **Fluid:** Use Half-Normal Saline (0.45% NaCl) with 5% Dextrose or Ringer's Lactate with 5% Dextrose.
     - **Rate:** 15 mL/kg over 1 hour (much slower than non-SAM children).
     - **Monitoring:** Pulse and respiratory rate every 5–10 minutes. If they increase (HR by 15, RR by 5), stop infusion immediately to prevent heart failure.
-    - **Subsequent Steps:** If improved after 1st hour, repeat 15 mL/kg over next hour, then switch to oral/NG rehydration (ReSoMal). If no improvement, assume septic shock and start maintenance fluids and inotropes.
+    - **Subsequent Steps:** If improved after 1st hour, repeat 15 mL/kg over next hour, then switch to oral/NG rehydration ([[Nutrition/ReSoMal\|ReSoMal]]). If no improvement, assume septic shock and start maintenance fluids and inotropes.
 
 ## Enteral Nutrition (EN)
 
@@ -113,8 +113,8 @@ Enteral nutrition is preferred over parenteral nutrition because it preserves gu
 ### Complications of EN
 
 - **Gastrointestinal:** Diarrhea (often due to hyperosmolar feeds or hypoalbuminemia), vomiting, distension.
-- **Mechanical:** Tube displacement, blockage, aspiration pneumonia.
-- **Metabolic:** Hyperglycemia, electrolyte imbalance, refeeding syndrome.
+- **Mechanical:** Tube displacement, blockage, [[Respiratory/Aspiration Pneumonia\|aspiration pneumonia]].
+- **Metabolic:** Hyperglycemia, electrolyte imbalance, [[Nutrition/Refeeding Syndrome\|refeeding syndrome]].
 
 ## Parenteral Nutrition (PN)
 
@@ -144,7 +144,7 @@ PN is indicated when the gut cannot be used (e.g., intestinal obstruction, perfo
 - **Stabilization Phase (Day 1-7):**
     - **Hypoglycemia:** Treat glucose <54 mg/dL immediately with 10% Dextrose (5 mL/kg IV or 50 mL oral).
     - **Hypothermia:** Rewarm if temp <35.5°C; feed frequently.
-    - **Dehydration:** Use **ReSoMal** (Rehydration Solution for Malnutrition) or low-osmolarity ORS with added potassium. Do _not_ use standard IV fluids for dehydration unless shock is present. Oral rehydration rate is slow: 5 mL/kg every 30 mins for 2 hours, then 5-10 mL/kg alternate hours.
+    - **Dehydration:** Use **[[Nutrition/ReSoMal\|ReSoMal]]** (Rehydration Solution for Malnutrition) or low-osmolarity ORS with added potassium. Do _not_ use standard IV fluids for dehydration unless shock is present. Oral rehydration rate is slow: 5 mL/kg every 30 mins for 2 hours, then 5-10 mL/kg alternate hours.
     - **Electrolytes:** Supplement Potassium (3-4 mEq/kg) and Magnesium. Restrict Sodium.
     - **Diet:** Start **F-75** (75 kcal/100 mL, 0.9g protein/100 mL). Feed small amounts every 2 hours. Do not give high protein/iron in this phase.
 - **Rehabilitation Phase (Week 2-6):**
@@ -162,7 +162,7 @@ PN is indicated when the gut cannot be used (e.g., intestinal obstruction, perfo
 
 ### 3. Hepatic Failure
 
-- **Protein:** In hepatic encephalopathy, standard proteins may need restriction. Branched Chain Amino Acids (BCAA - Valine, Leucine, Isoleucine) are preferred as they are metabolized in muscle, unlike aromatic amino acids which require the liver.
+- **Protein:** In [[Gastrointestinal/Hepatic Encephalopathy\|hepatic encephalopathy]], standard proteins may need restriction. Branched Chain Amino Acids (BCAA - Valine, Leucine, Isoleucine) are preferred as they are metabolized in muscle, unlike aromatic amino acids which require the liver.
 - **Fat:** Use MCTs if bile flow is obstructed.
 - **Carbohydrate:** Prevent hypoglycemia (a common complication).
 

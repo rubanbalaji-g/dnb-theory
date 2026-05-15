@@ -2,7 +2,7 @@
 {"dg-publish":true,"uplink":"/nutrition/nutrition/","uptext":"Back to Index (Nutrition)","permalink":"/nutrition/refeeding-syndrome/","dgPassFrontmatter":true}
 ---
 
-Refeeding syndrome is a potentially fatal condition that occurs in response to the rapid reintroduction of nutrition (oral, enteral, or parenteral) in a malnourished patient. It is characterized by rapid electrolyte and fluid shifts resulting from the metabolic changes triggered by feeding.
+[[Nutrition/Refeeding Syndrome\|Refeeding syndrome]] is a potentially fatal condition that occurs in response to the rapid reintroduction of nutrition (oral, enteral, or parenteral) in a malnourished patient. It is characterized by rapid electrolyte and fluid shifts resulting from the metabolic changes triggered by feeding.
 
 ### Pathophysiology
 
@@ -28,7 +28,7 @@ The syndrome is driven by the shift from a catabolic (starvation) state to an an
 
 According to NICE guidelines, patients are at high risk if they have one or more of the following:
 
-- Body Mass Index (BMI) < 16 kg/m².
+- Body Mass [[Statistics/Index\|Index]] (BMI) < 16 kg/m².
 - Unintentional weight loss of >15% in the previous 3–6 months.
 - Little or no nutritional intake for >10 days.
 - Low levels of potassium, phosphorus, or magnesium before refeeding.
@@ -53,13 +53,13 @@ The clinical features are diverse and primarily result from electrolyte deficien
 - **Neurological:**
     - Paresthesia, weakness, paralysis (hypokalemia/hypophosphatemia).
     - Confusion, delirium, seizures, and coma.
-    - Wernicke’s encephalopathy (due to thiamine deficiency).
+    - Wernicke’s encephalopathy (due to [[Nutrition/Thiamine Deficiency\|thiamine deficiency]]).
 - **Hematologic:**
     - Hemolysis, thrombocytopenia, and leukocyte dysfunction.
 - **Gastrointestinal:**
     - Lactase deficiency is common due to mucosal atrophy.
 
-### Management of Refeeding Syndrome
+### Management of [[Nutrition/Refeeding Syndrome\|Refeeding Syndrome]]
 
 Management involves anticipating the risk, starting feeds cautiously ("start low, go slow"), and aggressively monitoring and correcting electrolytes.
 

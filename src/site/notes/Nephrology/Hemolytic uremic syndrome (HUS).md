@@ -4,8 +4,8 @@
 
 ## Definition and Overview
 
-- Hemolytic uremic syndrome (HUS) is a primary cause of community-acquired acute kidney injury (AKI) in children and represents the most common form of thrombotic microangiopathy (TMA) in the pediatric population.
-- The condition is classically defined by a clinical triad comprising microangiopathic hemolytic anemia (MAHA), consumptive thrombocytopenia, and acute kidney injury.
+- [[Nephrology/Hemolytic uremic syndrome (HUS)\|Hemolytic uremic syndrome (HUS)]] is a primary cause of community-acquired [[Nephrology/Acute Kidney Injury\|acute kidney injury]] (AKI) in children and represents the most common form of thrombotic microangiopathy (TMA) in the pediatric population.
+- The condition is classically defined by a clinical triad comprising microangiopathic hemolytic anemia (MAHA), consumptive thrombocytopenia, and [[Nephrology/Acute Kidney Injury\|acute kidney injury]].
 - While the final clinical manifestation of TMA is uniform across different etiologies, the underlying pathophysiology varies significantly, heavily influencing specific management strategies.
 
 ### Classification of Hemolytic Uremic Syndrome
@@ -13,8 +13,8 @@
 |Category|Specific Etiologies and Characteristics|
 |:--|:--|
 |**Shiga Toxin-Associated (STEC-HUS)**|Caused by Shiga toxin-producing _Escherichia coli_ (STEC) (e.g., O157:H7, O104:H4) or _Shigella dysenteriae_ type 1; accounts for ~90% of childhood cases in Western countries and follows a diarrheal prodrome.|
-|**Pneumococcal HUS (P-HUS)**|Triggered by invasive infection with neuraminidase-producing _Streptococcus pneumoniae_; typically associated with severe pneumonia, empyema, or meningitis.|
-|**Other Infection-Associated HUS**|Triggered by systemic infections such as Influenza A, HIV, Cytomegalovirus, Epstein-Barr virus, varicella, malaria, dengue, and leptospirosis.|
+|**Pneumococcal HUS (P-HUS)**|Triggered by invasive infection with neuraminidase-producing _Streptococcus pneumoniae_; typically associated with severe pneumonia, empyema, or [[Neurology/Meningitis\|meningitis]].|
+|**Other Infection-Associated HUS**|Triggered by systemic infections such as Influenza A, HIV, Cytomegalovirus, Epstein-Barr virus, varicella, [[Infectious Diseases/Malaria\|malaria]], [[Infectious Diseases/Dengue\|dengue]], and [[Infectious Diseases/Leptospirosis\|leptospirosis]].|
 |**Atypical HUS (aHUS)**|Caused by dysregulation of the alternative complement pathway; includes homozygous or heterozygous mutations in CFH, CFI, CFB, C3, CD46 (MCP), THBD, or autoantibodies against complement factor H (anti-FH).|
 |**Defective Cobalamin Metabolism**|Associated with homozygous or compound heterozygous mutations in the _MMACHC_ gene, leading to cobalamin C (cblC) deficiency.|
 |**Secondary HUS**|Occurs concurrently with conditions causing microvascular injury, including systemic lupus erythematosus (SLE), antiphospholipid syndrome, malignant hypertension, calcineurin inhibitor use (cyclosporine, tacrolimus), or post-hematopoietic stem cell/solid organ transplantation.|
@@ -47,7 +47,7 @@
 
 ### Mechanism of the Clinical Triad
 
-- **Acute Kidney Injury:** Capillary and arteriolar endothelial injury leads to localized luminal narrowing and thrombosis, which drastically reduces renal blood flow and glomerular filtration rate.
+- **[[Nephrology/Acute Kidney Injury\|Acute Kidney Injury]]:** Capillary and arteriolar endothelial injury leads to localized luminal narrowing and thrombosis, which drastically reduces renal blood flow and glomerular filtration rate.
 - **Thrombocytopenia:** Extensive formation of microthrombi results in the massive peripheral consumption and sequestration of circulating platelets.
 - **Microangiopathic Hemolytic Anemia (MAHA):** As red blood cells are forced through the partially occluded, fibrin-laden microvasculature under high shear stress, they are mechanically sheared and fragmented into schistocytes, leading to non-immune hemolysis.
 
@@ -69,7 +69,7 @@
 |**Central Nervous System (CNS)**|The most critical and life-threatening complication, occurring in 10-25% of cases. Symptoms include extreme irritability, lethargy, seizures, cortical blindness, paresis, and coma resulting from microvascular CNS thrombosis or hypertensive encephalopathy.|
 |**Gastrointestinal**|Includes severe inflammatory hemorrhagic colitis, toxic megacolon, bowel perforation, bowel stricture, and intussusception.|
 |**Pancreatic**|Microvascular thrombosis within the Islets of Langerhans can cause pancreatic necrosis and acute insulin-dependent diabetes mellitus in approximately 3.2% of patients.|
-|**Cardiac**|Direct cardiac involvement manifests as ischemic cardiomyopathy, arrhythmias, or pericarditis, occurring independently of fluid overload.|
+|**Cardiac**|Direct cardiac involvement manifests as ischemic cardiomyopathy, arrhythmias, or [[Cardiology/Pericarditis\|pericarditis]], occurring independently of fluid overload.|
 
 ## Diagnostic Evaluation
 
@@ -78,12 +78,12 @@
 - **Hematology:** Hemoglobin typically falls below 10 g/dL. The peripheral blood smear is diagnostic, demonstrating >2% fragmented red cells (schistocytes, helmet cells, burr cells) alongside a robust reticulocytosis.
 - **Platelets:** Consumptive thrombocytopenia is invariable during the acute phase, with platelet counts characteristically dropping below 150,000/μL, often ranging between 20,000 and 100,000/μL.
 - **Hemolysis Markers:** Serum lactate dehydrogenase (LDH) is markedly elevated (>450 IU/L), indirect bilirubin is increased, and serum haptoglobin is profoundly reduced or undetectable due to rapid binding of free hemoglobin.
-- **Renal Function:** Blood urea nitrogen (BUN) and serum creatinine are elevated in proportion to the degree of acute kidney injury. Hyponatremia, hyperkalemia, and metabolic acidosis are frequent severe complications of the oliguric state.
+- **Renal Function:** Blood urea nitrogen (BUN) and serum creatinine are elevated in proportion to the degree of [[Nephrology/Acute Kidney Injury\|acute kidney injury]]. Hyponatremia, hyperkalemia, and metabolic acidosis are frequent severe complications of the oliguric state.
 - **Coombs Test:** The direct erythrocyte antiglobulin (Coombs) test is characteristically negative in STEC-HUS and aHUS, but is distinctively positive in >60% of cases of Pneumococcal HUS.
 
 ### Differentiating HUS from other TMAs
 
-- **Disseminated Intravascular Coagulation (DIC):** Unlike DIC, which presents with prolonged prothrombin time (PT), prolonged activated partial thromboplastin time (aPTT), and low fibrinogen, the coagulation profile in HUS is generally normal.
+- **[[Hematology/Disseminated Intravascular Coagulation\|Disseminated Intravascular Coagulation]] (DIC):** Unlike DIC, which presents with prolonged prothrombin time (PT), prolonged activated partial thromboplastin time (aPTT), and low fibrinogen, the coagulation profile in HUS is generally normal.
 - **Thrombotic Thrombocytopenic Purpura (TTP):** TTP is distinguished by a severe deficiency of ADAMTS13 activity (<10%); assessing ADAMTS13 is indicated if HUS presents with very severe thrombocytopenia (<30,000/μL), minimal renal involvement, or if the etiology remains obscure.
 
 ### Etiological Workup
@@ -93,7 +93,7 @@
 |**STEC Infection**|Stool culture on specific media (sorbitol MacConkey agar); PCR analysis for _stx1_ and _stx2_ genes; enzyme-linked immunosorbent assay (ELISA) for free fecal Shiga toxin; serum IgM antibodies against specific STEC lipopolysaccharide.|
 |**Pneumococcal HUS**|Blood, pleural, or cerebrospinal fluid cultures for _S. pneumoniae_; PCR or antigen detection for pneumococcus; positive direct Coombs test; positive peanut lectin (T-antigen) agglutination assay.|
 |**Atypical HUS (aHUS)**|Serum complement C3 and C4 levels; flow cytometry for neutrophil membrane expression of CD46 (MCP); ELISA for circulating anti-Factor H autoantibodies.|
-|**Genetic Analysis (aHUS)**|Next-generation sequencing (NGS) of an extended gene panel including _CFH, CFI, CFB, C3, CD46, THBD, DGKE_; Multiplex Ligation-dependent Probe Amplification (MLPA) to detect _CFHR1_ deletions.|
+|**Genetic Analysis (aHUS)**|[[Genetics/Next-Generation Sequencing (NGS)\|Next-generation sequencing (NGS)]] of an extended gene panel including _CFH, CFI, CFB, C3, CD46, THBD, DGKE_; [[Genetics/Multiplex Ligation-Dependent Probe Amplification (MLPA)\|Multiplex Ligation-dependent Probe Amplification (MLPA)]] to detect _CFHR1_ deletions.|
 |**Cobalamin C Defect**|Serum total homocysteine measurement (>50-100 μM/L suggests deficiency); plasma methionine and methylmalonic acid levels; genetic screening for _MMACHC_ mutations.|
 
 ## Management Strategies
@@ -129,6 +129,6 @@
 
 - With advanced intensive care and pediatric dialysis, acute mortality in STEC-HUS has fallen below 5%, with most fatalities attributed to severe CNS microvascular thrombosis or ischemic cardiomyopathy.
 - Following the acute phase of STEC-HUS, approximately 70% of children achieve full renal recovery.
-- However, up to 30% of STEC-HUS survivors sustain permanent renal sequelae, manifesting years later as hypertension, persistent proteinuria, and progressive chronic kidney disease (CKD), necessitating meticulous long-term nephrological follow-up.
+- However, up to 30% of STEC-HUS survivors sustain permanent renal sequelae, manifesting years later as hypertension, persistent proteinuria, and progressive [[Nephrology/Chronic Kidney Disease\|chronic kidney disease]] (CKD), necessitating meticulous long-term nephrological follow-up.
 - The prognosis for aHUS remains remarkably guarded if untreated or treated solely with plasma therapy; up to 50% of patients progress to end-stage kidney disease (ESKD) or die within 5 years due to relapsing microvascular damage.
 - The integration of eculizumab has fundamentally transformed the trajectory of aHUS, dramatically reducing the progression to ESKD to under 15% and permitting successful renal transplantation.

@@ -2,11 +2,11 @@
 {"dg-publish":true,"uplink":"/nephrology/nephrology/","uptext":"Back to Index (🫘 Nephrology)","permalink":"/nephrology/acute-post-streptococcal-glomerulonephritis/","dgPassFrontmatter":true}
 ---
 
-## Pathogenesis of Acute Post-Streptococcal Glomerulonephritis
+## Pathogenesis of [[Nephrology/Acute Post-Streptococcal Glomerulonephritis\|Acute Post-Streptococcal Glomerulonephritis]]
 
 ### Nephritogenic Strains and Latency
 
-- Acute post-streptococcal glomerulonephritis (APSGN) is the prototypical postinfectious, immune complex-mediated glomerulonephritis.
+- [[Nephrology/Acute Post-Streptococcal Glomerulonephritis\|Acute post-streptococcal glomerulonephritis]] (APSGN) is the prototypical postinfectious, immune complex-mediated glomerulonephritis.
 - The disease is triggered by antecedent infection with specific nephritogenic strains of Group A $\beta$-hemolytic streptococci (_Streptococcus pyogenes_), and occasionally by group C or G streptococci.
 - Different serotypes of the M virulence protein are associated with specific infection sites: M types 1, 2, 4, and 12 typically cause streptococcal pharyngitis, whereas M types 47, 49, and 55 are associated with pyoderma (impetiginous skin infections).
 - The latency period between the onset of infection and the development of nephritis varies according to the site of infection: it is generally 1 to 2 weeks following a respiratory or throat infection, and 3 to 6 weeks following a skin infection.
@@ -33,15 +33,15 @@
 - The classic presentation is an acute nephritic syndrome characterized by the sudden, abrupt onset of gross hematuria, edema, hypertension, and oliguria.
 - Gross hematuria is reported in approximately 30% to 33% of patients and is typically described as smoky, brown, tea-colored, or cola-colored.
 - Edema is present in up to 90% of symptomatic children; it usually begins as facial or periorbital puffiness that does not pit readily on pressure, and can progress to pedal edema.
-- Hypertension occurs in 60% to 80% of children, is primarily volume-dependent, and can be severe enough to require immediate pharmacological intervention in about half of cases.
+- Hypertension occurs in 60% to 80% of children, is primarily volume-dependent, and can be severe enough to require immediate pharmacological intervention in [[About\|about]] half of cases.
 
 ### Atypical Presentation and Complications
 
 - Atypical or severe presentations occur due to profound fluid retention, malignant hypertension, or severe glomerular injury.
 - Hypertensive encephalopathy may manifest as severe headaches, blurred vision, altered mental status, visual hallucinations, or new-onset generalized convulsions (posterior reversible encephalopathy syndrome or PRES).
 - Volume overload can rapidly progress to severe pulmonary edema, respiratory distress, orthopnea, and congestive heart failure.
-- Acute Kidney Injury (AKI) with severe oliguria or anuria can occur, accompanied by hyperkalemia, hyponatremia, and severe metabolic acidosis.
-- Nephrotic-range proteinuria or frank nephrotic syndrome is an uncommon presentation, occurring in less than 5% of cases.
+- [[Nephrology/Acute Kidney Injury\|Acute Kidney Injury]] (AKI) with severe oliguria or anuria can occur, accompanied by hyperkalemia, hyponatremia, and severe metabolic acidosis.
+- Nephrotic-range proteinuria or frank [[Nephrology/Nephrotic Syndrome\|nephrotic syndrome]] is an uncommon presentation, occurring in less than 5% of cases.
 
 ## Diagnosis and Pathology
 
@@ -66,7 +66,7 @@
 |:--|:--|
 |**IgA Nephropathy**|Gross hematuria coincides _concurrently_ with upper respiratory infections (1-2 day latency); serum C3 is strictly normal.|
 |**Membranoproliferative GN (MPGN)**|Presents with a mixed nephritic/nephrotic picture; hypocomplementemia (low C3) persists _beyond_ 8-12 weeks.|
-|**Lupus Nephritis**|Accompanied by systemic signs (rash, arthritis), positive ANA and anti-dsDNA, and typically features low levels of _both_ C3 and C4.|
+|**[[Rheumatology/Lupus Nephritis\|Lupus Nephritis]]**|Accompanied by systemic signs (rash, arthritis), positive ANA and anti-dsDNA, and typically features low levels of _both_ C3 and C4.|
 |**IgA Vasculitis (Henoch-Schönlein Purpura)**|Presents with a classic tetrad: palpable purpura, arthritis, abdominal pain, and nephritis; normal C3 levels.|
 
 ## Management
@@ -86,4 +86,4 @@
 |**Hypertensive Emergencies / Encephalopathy**|Requires prompt intravenous therapy with continuous infusions of vasodilators or short-acting agents such as nitroprusside or labetalol.|
 |**Severe Hyperkalemia / Metabolic Acidosis**|Managed with potassium-binding resins, sodium bicarbonate, and calcium stabilization; medically refractory cases require emergent dialysis.|
 |**Fluid Overload Refractory to Diuretics**|Continuous kidney replacement therapy, hemodialysis, or peritoneal dialysis is indicated for profound oligoanuria with life-threatening pulmonary edema or heart failure.|
-|**Rapidly Progressive Glomerulonephritis (RPGN)**|In the rare event (<1%) of crescentic GN with rapid loss of kidney function, treatment involves intravenous methylprednisolone pulse therapy followed by maintenance oral corticosteroids and potentially cyclophosphamide, though evidence remains empirical.|
+|**[[Nephrology/Rapidly Progressive Glomerulonephritis (RPGN)\|Rapidly Progressive Glomerulonephritis (RPGN)]]**|In the rare event (<1%) of crescentic GN with rapid loss of kidney function, treatment involves intravenous methylprednisolone pulse therapy followed by maintenance oral corticosteroids and potentially cyclophosphamide, though evidence remains empirical.|

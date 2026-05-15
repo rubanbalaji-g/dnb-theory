@@ -8,7 +8,7 @@ Folate (Vitamin B9) plays a pivotal role in DNA and RNA synthesis and one-carbon
 
 ### Hematological Manifestations
 
-The hallmark of folate deficiency is megaloblastic anemia, which is morphologically indistinguishable from that caused by Vitamin B12 deficiency.
+The hallmark of [[Hematology/Folate Deficiency\|folate deficiency]] is megaloblastic anemia, which is morphologically indistinguishable from that caused by [[Hematology/Vitamin B12 Deficiency\|Vitamin B12 deficiency]].
 
 - **Anemia:** Children present with nonspecific symptoms of anemia, including progressive pallor, fatigue, lethargy, and irritability.
 - **Pancytopenia:** Severe deficiency affects all myeloid cell lines, leading to leukopenia and thrombocytopenia in addition to anemia.
@@ -16,7 +16,7 @@ The hallmark of folate deficiency is megaloblastic anemia, which is morphologica
 
 ### Gastrointestinal Manifestations
 
-Since the intestinal mucosa has a high turnover rate, it is frequently affected by folate deficiency.
+Since the intestinal mucosa has a high turnover rate, it is frequently affected by [[Hematology/Folate Deficiency\|folate deficiency]].
 
 - **Glossitis:** The tongue becomes sore, smooth, and beefy red due to papillary atrophy.
 - **Stomatitis:** Inflammation of the oral mucosa and angular stomatitis (fissuring at the corners of the mouth) may occur.
@@ -25,17 +25,17 @@ Since the intestinal mucosa has a high turnover rate, it is frequently affected 
 
 ### Dermatological Manifestations
 
-- **Hyperpigmentation:** Similar to Vitamin B12 deficiency, folate deficiency can cause hyperpigmentation of the skin, particularly over the knuckles (dorsal aspect of fingers) and nail beds.
+- **Hyperpigmentation:** Similar to [[Hematology/Vitamin B12 Deficiency\|Vitamin B12 deficiency]], [[Hematology/Folate Deficiency\|folate deficiency]] can cause hyperpigmentation of the skin, particularly over the knuckles (dorsal aspect of fingers) and nail beds.
 - **Hair Changes:** Hair may become sparse or brittle in the context of general malnutrition associated with the deficiency.
 
 ### Neurological Manifestations
 
-Unlike Vitamin B12 deficiency, nutritional folate deficiency typically does not cause subacute combined degeneration of the cord. However, specific forms and severe states have profound neurological implications.
+Unlike [[Hematology/Vitamin B12 Deficiency\|Vitamin B12 deficiency]], nutritional [[Hematology/Folate Deficiency\|folate deficiency]] typically does not cause subacute combined degeneration of the cord. However, specific forms and severe states have profound neurological implications.
 
 - **Irritability and Behavioral Changes:** Listlessness and apathy are common constitutional symptoms.
-- **Cerebral Folate Deficiency:** This is a specific neurological syndrome where serum folate is normal, but cerebrospinal fluid (CSF) folate is low due to transport defects. It manifests in infancy (4–6 months) with:
+- **Cerebral [[Hematology/Folate Deficiency\|Folate Deficiency]]:** This is a specific neurological syndrome where serum folate is normal, but cerebrospinal fluid (CSF) folate is low due to transport defects. It manifests in infancy (4–6 months) with:
     - Severe irritability and sleep disturbances.
-    - Microcephaly and developmental delay.
+    - [[Neurology/Microcephaly\|Microcephaly]] and developmental delay.
     - Cerebellar ataxia and hypotonia.
     - Pyramidal tract signs (spasticity).
     - Choreoathetosis, ballismus, and intractable seizures.
@@ -43,12 +43,12 @@ Unlike Vitamin B12 deficiency, nutritional folate deficiency typically does not 
 
 ### Developmental and Congenital Effects
 
-- **Neural Tube Defects (NTDs):** Maternal folate deficiency during the critical period of embryogenesis (first 28 days of conception) is a major risk factor for fetal NTDs such as spina bifida and anencephaly.
+- **[[Neurology/Neural Tube Defects\|Neural Tube Defects]] (NTDs):** Maternal [[Hematology/Folate Deficiency\|folate deficiency]] during the critical period of embryogenesis (first 28 days of conception) is a major risk factor for fetal NTDs such as spina bifida and anencephaly.
 - **Other Anomalies:** Periconceptional deficiency is also linked to an increased risk of orofacial clefts, congenital heart defects, and low birth weight.
 
 ## Diagnosis
 
-A stepwise approach is recommended to confirm the diagnosis and distinguish it from Vitamin B12 deficiency.
+A stepwise approach is recommended to confirm the diagnosis and distinguish it from [[Hematology/Vitamin B12 Deficiency\|Vitamin B12 deficiency]].
 
 ### Hematological Screening
 
@@ -68,7 +68,7 @@ A stepwise approach is recommended to confirm the diagnosis and distinguish it f
 - **Red Blood Cell (RBC) Folate:** This is a more reliable indicator of tissue stores as it reflects folate status over the 120-day lifespan of the RBC. Levels <100 ng/mL (<226 nmol/L) confirm chronic deficiency.
 - **Metabolite Testing:** Used when folate levels are borderline.
     - **Plasma Homocysteine:** Elevated in both folate and B12 deficiency (>15 µmol/L).
-    - **Methylmalonic Acid (MMA):** Normal in folate deficiency but elevated in B12 deficiency. This distinguishes the two causes.
+    - **Methylmalonic Acid (MMA):** Normal in [[Hematology/Folate Deficiency\|folate deficiency]] but elevated in B12 deficiency. This distinguishes the two causes.
 
 ### Bone Marrow Examination
 
@@ -80,7 +80,7 @@ The goals of management are to replenish folate stores, correct anemia, and trea
 
 ### Principles of Therapy
 
-- **Rule out Vitamin B12 Deficiency:** Before starting folic acid monotherapy, it is imperative to exclude Vitamin B12 deficiency. Treating a B12-deficient patient with folic acid alone can correct the hematological parameters ("masking" the anemia) while allowing severe neurological damage (subacute combined degeneration) to progress irreversibly.
+- **Rule out [[Hematology/Vitamin B12 Deficiency\|Vitamin B12 Deficiency]]:** Before starting folic acid monotherapy, it is imperative to exclude [[Hematology/Vitamin B12 Deficiency\|Vitamin B12 deficiency]]. Treating a B12-deficient patient with folic acid alone can correct the hematological parameters ("masking" the anemia) while allowing severe neurological damage (subacute combined degeneration) to progress irreversibly.
 - **Combined Therapy:** In cases where B12 deficiency cannot be ruled out or in dimorphic anemia, both vitamins should be supplemented. B12 should preferably be started 10–14 days before folic acid.
 
 ### Therapeutic Regimens
@@ -93,7 +93,7 @@ The goals of management are to replenish folate stores, correct anemia, and trea
 
 ### Management in Severe Acute Malnutrition (SAM)
 
-Children with SAM often have subclinical folate deficiency and require a specific protocol during rehabilitation.
+Children with SAM often have subclinical [[Hematology/Folate Deficiency\|folate deficiency]] and require a specific protocol during rehabilitation.
 
 - **Day 1:** Give **5 mg** folic acid orally.
 - **Subsequent Days:** Give **1 mg** folic acid daily.
@@ -101,7 +101,7 @@ Children with SAM often have subclinical folate deficiency and require a specifi
 
 ### Management of Specific Conditions
 
-- **Cerebral Folate Deficiency:** Requires high doses of **folinic acid** (0.5–1 mg/kg/day) orally or parenterally. Folic acid is ineffective because it cannot cross the blood-brain barrier in this condition.
+- **Cerebral [[Hematology/Folate Deficiency\|Folate Deficiency]]:** Requires high doses of **folinic acid** (0.5–1 mg/kg/day) orally or parenterally. Folic acid is ineffective because it cannot cross the blood-brain barrier in this condition.
 - **Hereditary Folate Malabsorption:** Treated with parenteral or high-dose oral folinic acid.
 - **Drug-Induced Deficiency:** Patients on anticonvulsants (phenytoin, phenobarbital) or methotrexate require prophylactic supplementation to prevent deficiency.
 

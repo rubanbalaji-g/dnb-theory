@@ -50,7 +50,7 @@ Zinc is often referred to as a "nutrient of immunity" due to its central role in
 
 ### 4. Clinical Implications of Immune Function
 
-- **Infection Resistance:** Zinc deficiency significantly increases susceptibility to infections, particularly diarrhea, pneumonia, and possibly malaria.
+- **Infection Resistance:** Zinc deficiency significantly increases susceptibility to infections, particularly diarrhea, pneumonia, and possibly [[Infectious Diseases/Malaria\|malaria]].
 - **Diarrhea Management:**
     - Zinc supplementation reduces the duration, severity, and recurrence of diarrhea.
     - It improves brush border enzyme function and T-cell immunity in the gut.
@@ -79,12 +79,12 @@ Zinc is often referred to as a "nutrient of immunity" due to its central role in
 - **Taste Perception:** Zinc is required for the synthesis of **Gustin**, a protein involved in taste perception. Deficiency leads to hypogeusia (decreased taste sensation) or ageusia.
 - **Vision:**
     - Zinc is essential for night vision.
-    - It is required for the synthesis of retinol-binding protein (RBP), which transports Vitamin A. Thus, zinc deficiency can lead to secondary Vitamin A deficiency and night blindness.
+    - It is required for the synthesis of retinol-binding protein (RBP), which transports [[Nutrition/Vitamin A\|Vitamin A]]. Thus, zinc deficiency can lead to secondary [[Nutrition/Vitamin A\|Vitamin A]] deficiency and night blindness.
 
 ## Dermatological Function
 
 - **Skin Health:** Zinc is vital for skin integrity and wound healing.
-- **Acrodermatitis Enteropathica:** This is a genetic disorder of zinc absorption (defect in ZIP4 transporter) characterized by severe zinc deficiency. Physiological failure here leads to the classic triad of periorificial dermatitis, alopecia, and diarrhea.
+- **[[Nutrition/Acrodermatitis enteropathica\|Acrodermatitis Enteropathica]]:** This is a genetic disorder of zinc absorption (defect in ZIP4 transporter) characterized by severe zinc deficiency. Physiological failure here leads to the classic triad of periorificial dermatitis, alopecia, and diarrhea.
 - **Wound Healing:** Deficiency is associated with delayed wound healing and skin ulcers.
 
 ## Interaction with Other Minerals

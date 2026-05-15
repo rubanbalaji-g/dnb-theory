@@ -2,7 +2,7 @@
 {"dg-publish":true,"uplink":"/nephrology/nephrology/","uptext":"Back to Index (🫘 Nephrology)","permalink":"/nephrology/persistent-asymptomatic-proteinuria/","dgPassFrontmatter":true}
 ---
 
-## Overview of Persistent Asymptomatic Proteinuria
+## Overview of [[Nephrology/Persistent Asymptomatic Proteinuria\|Persistent Asymptomatic Proteinuria]]
 
 - The discovery of proteinuria in an asymptomatic child on a routine non-first-morning urine specimen is a relatively common finding, occurring in 5% to 15% of children.
 - However, persistent proteinuria, defined by abnormal protein excretion on repeated testing over a minimum of a 2-week period, is much less common and requires systematic evaluation.
@@ -14,7 +14,7 @@
 |Type of Proteinuria|Pathophysiology and Clinical Characteristics|Common Etiologies|
 |:--|:--|:--|
 |**Orthostatic (Postural) Proteinuria**|The most common cause of persistent proteinuria in school-aged children and adolescents (up to 60% of cases). Protein excretion is normal when supine but increases up to 10-fold (rarely exceeding 1 g/day) in the upright position.|Unknown exact etiology; possibly related to altered renal hemodynamics, left renal vein compression (nutcracker phenomenon) in the upright position, or an exaggerated response to upright posture in thin individuals.|
-|**Fixed Glomerular Proteinuria**|Occurs due to the disruption of the glomerular capillary wall (e.g., loss of negative charge or structural podocyte defects), leading to the leakage of large-molecular-weight proteins like albumin.|Minimal change disease, focal segmental glomerulosclerosis (FSGS), membranous nephropathy, IgA nephropathy, diabetic nephropathy, and early Alport syndrome.|
+|**Fixed Glomerular Proteinuria**|Occurs due to the disruption of the glomerular capillary wall (e.g., loss of negative charge or structural podocyte defects), leading to the leakage of large-molecular-weight proteins like albumin.|Minimal change disease, focal segmental glomerulosclerosis (FSGS), membranous nephropathy, IgA nephropathy, diabetic nephropathy, and early [[Nephrology/Alport Syndrome\|Alport syndrome]].|
 |**Fixed Tubular Proteinuria**|Results from injury to the proximal tubules, which impairs their capacity to reabsorb filtered low-molecular-weight (LMW) proteins like $\beta 2$-microglobulin and retinol-binding protein.|Inherited disorders (Dent disease, cystinosis, Lowe syndrome) and acquired conditions (tubulointerstitial nephritis, drug toxicity from aminoglycosides or heavy metals).|
 
 ## Clinical Evaluation Approach
@@ -45,7 +45,7 @@
     - Reduced estimated glomerular filtration rate (eGFR).
     - Sustained hypertension or the development of peripheral edema/hypoalbuminemia.
     - Persistently low serum complement (C3) lasting beyond 12 weeks.
-    - Systemic features suggestive of lupus nephritis or IgA vasculitis.
+    - Systemic features suggestive of [[Rheumatology/Lupus Nephritis\|lupus nephritis]] or IgA vasculitis.
 
 ## Management and Follow-Up
 

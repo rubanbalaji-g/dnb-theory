@@ -58,13 +58,13 @@
 
 - Folate regulates neurulation and neural tube closure during the critical first 4 weeks of pregnancy.
 - It is vital for central nervous system (CNS) development during embryogenesis.
-- Adequate maternal status during this "critical window" is necessary to prevent neural tube defects (NTDs) such as spina bifida and anencephaly,.
+- Adequate maternal status during this "critical window" is necessary to prevent [[Neurology/Neural Tube Defects\|neural tube defects]] (NTDs) such as spina bifida and anencephaly,.
 - Folate acts as a gene activator and informational molecule that triggers developmental programs.
 
 ### 6. Neurological Function
 
 - Folate is categorized as a "smart nutrient" or "super nutrient" that promotes brain growth and function,.
-- Cerebral folate deficiency (a condition where folate transport into the brain is blocked) leads to severe neurologic deterioration, including microcephaly, developmental delay, ataxia, and seizures.
+- Cerebral [[Hematology/Folate Deficiency\|folate deficiency]] (a condition where folate transport into the brain is blocked) leads to severe neurologic deterioration, including [[Neurology/Microcephaly\|microcephaly]], developmental delay, ataxia, and seizures.
 - It is involved in the synthesis of neurotransmitters.
 
 ## Interaction with Vitamin B12 (The Folate Trap)
@@ -72,12 +72,12 @@
 - There is a close metabolic relationship between folate and Vitamin B12.
 - The conversion of homocysteine to methionine helps in folate regeneration (Homocysteine + N5-methyltetrahydrofolate -> Methionine + Folate).
 - In the absence of Vitamin B12 (cobalamin), folate gets "trapped" as 5-methyltetrahydrofolate and cannot be utilized for DNA/RNA synthesis.
-- This functional folate deficiency leads to megaloblastic anemia indistinguishable from primary folate deficiency,.
+- This functional [[Hematology/Folate Deficiency\|folate deficiency]] leads to megaloblastic anemia indistinguishable from primary [[Hematology/Folate Deficiency\|folate deficiency]],.
 - **Therapeutic Implication:** Treating megaloblastic anemia with folic acid alone when the underlying cause is B12 deficiency can correct the anemia but allows neurological damage (subacute combined degeneration) to progress irreversibly,.
 
 ## Dietary Requirements and Sources
 
-### Recommended Daily Allowance (RDA)
+### Recommended Daily Allowance ([[Nutrition/RDA\|RDA]])
 
 - **Infants (0-6 months):** 65 µg/day.
 - **Infants (6-12 months):** 80 µg/day.
@@ -110,7 +110,7 @@
 
 - **Hematological:** Megaloblastic anemia (macrocytosis, hypersegmented neutrophils) and pancytopenia,.
 - **Gastrointestinal:** Glossitis, diarrhea, and oral ulcerations,.
-- **Developmental:** Growth stunting and neural tube defects in the fetus.
+- **Developmental:** Growth stunting and [[Neurology/Neural Tube Defects\|neural tube defects]] in the fetus.
 - **Dermatological:** Knuckle and periungual pigmentation (similar to B12 deficiency).
 - **Other:** Hyperhomocysteinemia.
 

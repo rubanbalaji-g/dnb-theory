@@ -67,13 +67,13 @@ Musculoskeletal complaints are frequent at presentation, often occurring within 
 - **Arthritis:** Typically a symmetrical polyarthritis affecting both large and small joints. The arthritis is generally painful but non-erosive and non-deforming.
 - **Other Manifestations:** Tenosynovitis, myositis, myalgias, and arthralgias. Avascular necrosis and osteoporosis are important complications that frequently arise secondary to prolonged corticosteroid therapy.
 
-### Renal Involvement (Lupus Nephritis)
+### Renal Involvement ([[Rheumatology/Lupus Nephritis\|Lupus Nephritis]])
 
-Lupus nephritis occurs in 50-80% of pediatric patients and is a leading cause of morbidity and mortality.
+[[Rheumatology/Lupus Nephritis\|Lupus nephritis]] occurs in 50-80% of pediatric patients and is a leading cause of morbidity and mortality.
 
 - **Early/Silent Onset:** Renal disease is often clinically asymptomatic initially, making routine blood pressure and urinalysis monitoring mandatory.
 - **Clinical Features:** When symptomatic, it manifests with microscopic hematuria, proteinuria, and the presence of cellular (e.g., red blood cell) casts.
-- **Advanced Disease:** Progression can lead to hypertension, generalized edema, nephrotic syndrome, and acute or chronic renal failure.
+- **Advanced Disease:** Progression can lead to hypertension, generalized edema, [[Nephrology/Nephrotic Syndrome\|nephrotic syndrome]], and acute or chronic renal failure.
 
 ### Neuropsychiatric Disease
 
@@ -84,19 +84,19 @@ SLE can affect both the central and peripheral nervous systems, and neuropsychia
 
 ### Cardiovascular and Pulmonary Systems
 
-- **Cardiac:** Inflammation can affect any layer of the heart, resulting in pericarditis, myocarditis, verrucous (Libman-Sacks) endocarditis, and conduction abnormalities. Premature atherosclerosis is a significant long-term complication that can lead to early myocardial infarction.
+- **Cardiac:** Inflammation can affect any layer of the heart, resulting in [[Cardiology/Pericarditis\|pericarditis]], myocarditis, verrucous (Libman-Sacks) endocarditis, and conduction abnormalities. Premature atherosclerosis is a significant long-term complication that can lead to early myocardial infarction.
 - **Pulmonary:** Features include pleuritis, pleural effusions, interstitial lung disease, pulmonary hypertension, pulmonary hemorrhage, and shrinking lung syndrome.
 
 ### Hematologic Abnormalities
 
 Immune-mediated cytopenias are frequent manifestations.
 
-- **Blood Cell Deficits:** Patients commonly display Coombs-positive autoimmune hemolytic anemia, leukopenia, severe lymphopenia, and thrombocytopenia (which can manifest as severe menorrhagia in adolescent females). Anemia of chronic inflammation is also typical.
-- **Other Hematologic Conditions:** Hypercoagulability associated with antiphospholipid antibodies creates a high risk for venous or arterial thrombosis. Patients with SLE are also uniquely susceptible to macrophage activation syndrome, a life-threatening complication characterized by a severe cytokine storm.
+- **Blood Cell Deficits:** Patients commonly display Coombs-positive [[Hematology/Autoimmune Hemolytic Anemia\|autoimmune hemolytic anemia]], leukopenia, severe lymphopenia, and thrombocytopenia (which can manifest as severe menorrhagia in adolescent females). Anemia of chronic inflammation is also typical.
+- **Other Hematologic Conditions:** Hypercoagulability associated with antiphospholipid antibodies creates a high risk for venous or arterial thrombosis. Patients with SLE are also uniquely susceptible to [[Rheumatology/Macrophage Activation Syndrome\|macrophage activation syndrome]], a life-threatening complication characterized by a severe cytokine storm.
 
 ### Gastrointestinal and Ocular Findings
 
-- **Gastrointestinal:** Symptoms range from non-specific anorexia and chronic abdominal pain to pancreatitis, protein-losing enteropathy, peritonitis, mesenteric vasculitis, and bowel infarction.
+- **Gastrointestinal:** Symptoms range from non-specific anorexia and chronic abdominal pain to pancreatitis, protein-losing enteropathy, [[Gastrointestinal/Peritonitis\|peritonitis]], mesenteric vasculitis, and bowel infarction.
 - **Ocular:** Eye involvement includes keratoconjunctivitis sicca (dry eyes), episcleritis, scleritis, retinal vasculitis, optic neuritis, and papilledema..
 
 ## Diagnostic Evaluation And Biomarkers
@@ -113,9 +113,9 @@ Immune-mediated cytopenias are frequent manifestations.
 |Autoantibody / Marker|Clinical Significance In pSLE|
 |:--|:--|
 |Antinuclear Antibody (ANA)|Positive in >95% cases. High sensitivity, low specificity. Tested via indirect immunofluorescence. Serves as entry criterion for 2019 EULAR/ACR guidelines.|
-|Anti-dsDNA|Highly specific for SLE. Titer correlates strongly with disease activity and presence of lupus nephritis.|
+|Anti-dsDNA|Highly specific for SLE. Titer correlates strongly with disease activity and presence of [[Rheumatology/Lupus Nephritis\|lupus nephritis]].|
 |Anti-Smith (Sm)|Highly specific for SLE diagnosis. Does not strictly correlate with acute disease activity.|
-|Anti-Ro (SSA) / Anti-La (SSB)|Associated with secondary Sjögren syndrome, subacute cutaneous lupus, and neonatal lupus (congenital heart block).|
+|Anti-Ro (SSA) / Anti-La (SSB)|Associated with secondary [[Rheumatology/Sjögren Syndrome\|Sjögren syndrome]], subacute cutaneous lupus, and neonatal lupus ([[Cardiology/Congenital Heart Block\|congenital heart block]]).|
 |Anti-U1 RNP|High titers diagnostic for Mixed Connective Tissue Disease (MCTD). Present in systemic overlap syndromes.|
 |Antiphospholipid Antibodies|Includes Lupus anticoagulant, anticardiolipin. Strongly predispose to arterial/venous thrombosis and recurrent fetal loss.|
 |Anti-Histone|Classical diagnostic marker for drug-induced lupus.|
@@ -147,7 +147,7 @@ Immune-mediated cytopenias are frequent manifestations.
 	- Monitor lipids, blood pressure, and BMI due to accelerated atherosclerosis risk. 
 	- Statins indicated for primary prevention in select high-risk pubertal patients.
 - Vaccinations: 
-	- Inactivated vaccines (influenza, pneumococcal, hepatitis A) strongly recommended prior to immunosuppression. 
+	- Inactivated vaccines (influenza, pneumococcal, [[Gastrointestinal/Hepatitis A\|hepatitis A]]) strongly recommended prior to immunosuppression. 
 	- Live vaccines strictly contraindicated during immunosuppressive therapy.
 
 ### Pharmacotherapy Principles
@@ -174,7 +174,7 @@ Immune-mediated cytopenias are frequent manifestations.
 - Azathioprine: 
 	- Predominantly utilized for maintenance therapy.
 - Mycophenolate Mofetil (MMF): 
-	- Highly effective foundational drug for lupus nephritis induction and maintenance, and refractory cytopenias.
+	- Highly effective foundational drug for [[Rheumatology/Lupus Nephritis\|lupus nephritis]] induction and maintenance, and refractory cytopenias.
 - Cyclophosphamide: 
 	- Potent alkylating agent restricted to severe organ-threatening disease (Class III/IV nephritis, pulmonary hemorrhage, severe CNS lupus). 
 	- Administered via structured IV protocols. 
@@ -193,7 +193,7 @@ Immune-mediated cytopenias are frequent manifestations.
 - Intravenous Immunoglobulin (IVIG): 
 	- Rescues acute life-threatening bleeding in severe thrombocytopenia or refractory immune cytopenias.
 
-### Management Of Lupus Nephritis
+### Management Of [[Rheumatology/Lupus Nephritis\|Lupus Nephritis]]
 
 - Induction Phase (Proliferative Class III/IV): 6 months duration. Standardized regimen utilizes either IV Cyclophosphamide or high-dose oral Mycophenolate Mofetil, coupled with protocolized high-dose glucocorticoid taper.
 - Maintenance Phase: Minimum 30 months therapy duration. Mycophenolate Mofetil preferred agent. Azathioprine acts as primary alternative.
@@ -202,7 +202,7 @@ Immune-mediated cytopenias are frequent manifestations.
 
 ## Management Of Lupus Emergencies
 
-### Macrophage Activation Syndrome (MAS)
+### [[Rheumatology/Macrophage Activation Syndrome\|Macrophage Activation Syndrome]] (MAS)
 
 - Potentially fatal complication secondary to excessive systemic macrophage and T-cell proliferation causing massive cytokine storm.
 - Clinical Presentation: 
@@ -249,7 +249,7 @@ Immune-mediated cytopenias are frequent manifestations.
 	- neutropenia, 
 	- anemia.
 - Cardiac Complications: 
-	- Congenital Heart Block (CHB). 
+	- [[Cardiology/Congenital Heart Block\|Congenital Heart Block]] (CHB). 
 	- Third-degree complete heart block causes permanent destruction of conducting system, manifesting as fetal bradycardia, hydrops fetalis, or postnatal heart failure.
 - Management Protocol: 
 	- Weekly fetal echocardiography from 16 to 22 weeks gestation for antibody-positive mothers. 
@@ -259,7 +259,7 @@ Immune-mediated cytopenias are frequent manifestations.
 ## Prognosis And Monitoring
 
 - Advancements in protocolized pharmacotherapy have greatly improved survival metrics. Five-year and 10-year survival rates approach 99% and 97% respectively.
-- Early Mortality Drivers: Intercurrent severe infections, macrophage activation syndrome, severe lupus cerebritis, and uncontrolled rapidly progressive lupus nephritis.
+- Early Mortality Drivers: Intercurrent severe infections, [[Rheumatology/Macrophage Activation Syndrome\|macrophage activation syndrome]], severe lupus cerebritis, and uncontrolled rapidly progressive [[Rheumatology/Lupus Nephritis\|lupus nephritis]].
 - Late Morbidity Drivers: Accelerated atherosclerosis causing early myocardial infarction. Chronic corticosteroid use risking osteoporosis, avascular necrosis, severe growth failure, cataracts, and diabetes. Progressive renal damage culminating in end-stage renal disease (ESRD) necessitating dialysis or transplantation.
-- Monitoring Strategy: Routine clinical assessment utilizing Systemic Lupus Erythematosus Disease Activity Index (SLEDAI) score. Score ranges from 0 to 105; clinical target requires maintaining score <4.
+- Monitoring Strategy: Routine clinical assessment utilizing Systemic Lupus Erythematosus Disease Activity [[Statistics/Index\|Index]] (SLEDAI) score. Score ranges from 0 to 105; clinical target requires maintaining score <4.
 - Continuous multidisciplinary pediatric care and structured subsequent transition to adult rheumatology are absolutely imperative for lifelong disease control.

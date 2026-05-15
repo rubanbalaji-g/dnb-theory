@@ -4,7 +4,7 @@
 
 ### Etiology
 
-- Renal cortical necrosis is a rare but severe cause of acute kidney injury (AKI) that occurs secondary to extensive ischemic damage to the renal cortex.
+- Renal [[Nephrology/Cortical Necrosis\|cortical necrosis]] is a rare but severe cause of [[Nephrology/Acute Kidney Injury\|acute kidney injury]] (AKI) that occurs secondary to extensive ischemic damage to the renal cortex.
 - The condition is characteristically bilateral and extensive, although focal and patchy forms have been documented in clinical practice.
 - The ischemic insult selectively destroys the cortex while characteristically sparing the medulla, the juxtamedullary cortex, and a thin subcapsular rim of the cortex.
 - The pathogenesis is initiated by intense vasospasm of the small vessels, which, when prolonged, leads to the necrosis and thrombosis of distal arterioles and glomeruli.
@@ -14,12 +14,12 @@
 |Age Group|Common Etiologies|Less Common / Specific Etiologies|
 |:--|:--|:--|
 |**Newborns**|Hypoxic or ischemic insults due to perinatal asphyxia, placental abruption, and twin-twin or fetal-maternal transfusion.|Renal vascular thrombosis and severe congenital heart disease.|
-|**Older Children**|Septic shock and severe hemolytic-uremic syndrome (HUS).|Malaria, extensive burns, snakebites, infectious endocarditis, and medications (e.g., non-steroidal anti-inflammatory agents).|
+|**Older Children**|Septic shock and severe hemolytic-uremic syndrome (HUS).|[[Infectious Diseases/Malaria\|Malaria]], extensive burns, snakebites, infectious endocarditis, and medications (e.g., non-steroidal anti-inflammatory agents).|
 |**Adolescents**|Obstetric complications (in females of childbearing age) including prolonged intrauterine fetal death, placental abruption, septic abortion, or amniotic fluid embolism.|SLE-associated antiphospholipid antibody syndrome.|
 
 ### Clinical Manifestations
 
-- Patients clinically present with severe acute kidney injury in the context of one of the aforementioned predisposing conditions.
+- Patients clinically present with severe [[Nephrology/Acute Kidney Injury\|acute kidney injury]] in the context of one of the aforementioned predisposing conditions.
 - Urine output is markedly diminished, resulting in anuria or severe oliguria.
 - Gross and/or microscopic hematuria is a defining feature upon urinalysis.
 - Hypertension is a highly common physical finding in these patients.
@@ -34,9 +34,9 @@
 ### Prognostic Factors
 
 - The most critical factors dictating the prognosis include the overall extent of the necrosis, the duration of the oligoanuric phase, and the severity of any associated systemic conditions.
-- If left untreated, renal cortical necrosis is associated with a remarkably high mortality rate that exceeds 50%.
+- If left untreated, renal [[Nephrology/Cortical Necrosis\|cortical necrosis]] is associated with a remarkably high mortality rate that exceeds 50%.
 - Early initiation of dialysis is a key prognostic determinant that significantly diminishes the mortality rate.
 - Appropriate supportive management—including restoration of hemodynamic stability, volume repletion, correction of asphyxia, and aggressive treatment of sepsis—is essential for optimizing survival outcomes.
 - Approximately 20% to 40% of surviving patients will experience a partial recovery of renal function; the degree of recovery is strictly dependent on the amount of cortical tissue that remains preserved.
 - Patients generally require dialysis for extended and variable periods of time.
-- Because the injury to the renal parenchyma is severe and largely irreversible, all patients require long-term follow-up for the management of chronic kidney disease.
+- Because the injury to the renal parenchyma is severe and largely irreversible, all patients require long-term follow-up for the management of [[Nephrology/Chronic Kidney Disease\|chronic kidney disease]].

@@ -26,7 +26,7 @@ Floppiness can stem from a lesion at any level of the nervous system. Central ca
 |Congenital Muscular Dystrophy|Static to slowly progressive|EMG, CPK, muscle biopsy, immunohistochemistry, brain imaging|
 |Congenital Myopathies|Static to slowly progressive|EMG, CPK, muscle biopsy, immunohistochemistry, brain imaging|
 |Peripheral Neuropathies|Evolving course, distal distribution, sensory involvement|Nerve conductions, genetic studies|
-|Hypotonic Cerebral Palsy|Non-motor domains affected; evolving course|Clinical history and neuroimaging|
+|Hypotonic [[Neurology/Cerebral Palsy\|Cerebral Palsy]]|Non-motor domains affected; evolving course|Clinical history and neuroimaging|
 
 ## Stepwise Clinical Approach
 ### Algorithm
@@ -72,7 +72,7 @@ graph TD
 - **Axillary Suspension:** A floppy infant will slip through the examiner's hands when held erect from the axilla.
 - **Weakness Proportion:** Weakness proportionate to hypotonia points to a peripheral muscle/nerve aetiology. Weakness disproportionate to hypotonia points to CNS, systemic, or metabolic illness.
 - **Fasciculations:** Tongue fasciculations while the tongue remains within the oral cavity suggest a neuropathic origin, classically SMA.
-- **Reflexes:** Brisk, elicitable deep tendon reflexes suggest an upper motor neuron cause (e.g., hypotonic cerebral palsy).
+- **Reflexes:** Brisk, elicitable deep tendon reflexes suggest an upper motor neuron cause (e.g., hypotonic [[Neurology/Cerebral Palsy\|cerebral palsy]]).
 - **Respiratory Pattern:** Document intercostal or diaphragmatic weakness. Paradoxical breathing and a bell-shaped chest are more prominent in SMA than in congenital muscular dystrophy.
 - **Facial Dysmorphism:** Facial muscle weakness is common in [[Neuromuscular/Congenital Myopathy\|Congenital Myopathy]] and myotonic dystrophy. Always evaluate the mother for myotonia if congenital myotonic dystrophy is suspected.
 
@@ -111,7 +111,7 @@ graph TD
 ## Diagnostic Algorithm
 
 1. **Initial Assessment:** Perform a thorough history and examination to localise the lesion as central versus peripheral.
-2. **Central Presentation:** If hyperreflexia, seizures, or dysmorphism are present, proceed with brain MRI, metabolic screening, and karyotyping.
+2. **Central Presentation:** If hyperreflexia, seizures, or dysmorphism are present, proceed with brain MRI, metabolic screening, and [[Genetics/Karyotyping\|karyotyping]].
 3. **Peripheral Presentation:** If peripheral signs (areflexia, weakness greater than hypotonia) are present:
     - **Tongue fasciculations + areflexia:** Perform SMA genetic testing for SMN1 deletion.
     - **Fatigability + ptosis:** Perform neuromuscular junction studies (repetitive nerve stimulation, anti-AChR antibodies).

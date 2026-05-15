@@ -4,7 +4,7 @@
 
 Human milk is recognized as the "gold standard" for infant nutrition. While the mother's own milk is the primary choice, **Donor Human Milk (DHM)** or **Banked Milk** is considered a superior alternative to formula when the mother's own milk is unavailable or insufficient.
 
-- **Definition and Role:** Human milk banking involves the recruitment of donors, collection, screening, processing, storage, and distribution of human milk. It is a critical component in the management of high-risk infants.
+- **Definition and Role:** [[Nutrition/Human Milk banking\|Human milk banking]] involves the recruitment of donors, collection, screening, processing, storage, and distribution of human milk. It is a critical component in the management of high-risk infants.
 - **Hierarchy of Feeding Choices:** For preterm and LBW babies, the order of preference for milk is:
     1. Mother's own preterm milk (superior composition).
     2. **Banked human milk**.

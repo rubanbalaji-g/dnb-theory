@@ -34,7 +34,7 @@
 - Alertness is preserved, which distinguishes this group from central causes of hypotonia.
 - Infants exhibit a frog-leg posture, slip through the examiner's hands when held in axillary suspension, and display reduced antigravity movements.
 - Extraocular muscles are typically spared, except in specific centronuclear forms.
-- Fasciculations are strictly absent, differentiating them from Spinal Muscular Atrophy.
+- Fasciculations are strictly absent, differentiating them from [[Neuromuscular/Spinal Muscular Atrophy\|Spinal Muscular Atrophy]].
 - Severe forms present with contractures at birth (arthrogryposis).
 
 ### Distinguishing Clinical Features
@@ -58,7 +58,7 @@
 
 ### Nemaline Rod Myopathy
 
-- The most common congenital myopathy, predominantly involving the ACTA1 and NEB genes.
+- The most common [[Neuromuscular/Congenital Myopathy\|congenital myopathy]], predominantly involving the ACTA1 and NEB genes.
 - Clinical spectrum ranges from fatal neonatal respiratory failure with arthrogryposis to mild juvenile and adult forms.
 - Common findings include dolichocephaly, high-arched or cleft palate, jaw weakness, and thin muscles.
 - Biopsy demonstrates nemaline rods, which are composed of excessive Z-band material such as actin, alpha-actinin, and nebulin.
@@ -82,11 +82,11 @@
 - Serum Creatine Kinase (CK): Normal or only mildly elevated, rarely exceeding 4 times the upper limit of normal.
 - Electrophysiology (EMG/NCV): Shows a myopathic pattern or remains normal, distinctly lacking denervation features seen in neuropathies.
 - Muscle Biopsy: Traditionally diagnostic, revealing specific structural changes such as central cores, nemaline rods, central nuclei, or fiber-type disproportion.
-- Genetic Testing: Targeted next-generation sequencing (NGS) panels on blood samples are preferred and can confirm many variants without the need for an invasive biopsy.
+- Genetic Testing: Targeted [[Genetics/Next-Generation Sequencing (NGS)\|next-generation sequencing (NGS)]] panels on blood samples are preferred and can confirm many variants without the need for an invasive biopsy.
 
 ## Differential Diagnosis
 
-- Spinal Muscular Atrophy (SMA): Distinguished by the presence of tongue fasciculations and early areflexia.
+- [[Neuromuscular/Spinal Muscular Atrophy\|Spinal Muscular Atrophy]] (SMA): Distinguished by the presence of tongue fasciculations and early areflexia.
 - Congenital Muscular Dystrophies: Characterised by early contractures, potential structural brain involvement, and significantly elevated CK levels.
 - Congenital Myotonic Dystrophy: Differentiated by a history of maternal myotonia and generalized neonatal weakness.
 - Metabolic Myopathies: Examples like Pompe disease present with systemic findings, hepatomegaly, or cardiomegaly.

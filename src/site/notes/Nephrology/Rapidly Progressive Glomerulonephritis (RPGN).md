@@ -4,7 +4,7 @@
 
 ### Definition and Pathophysiology
 
-- Rapidly progressive glomerulonephritis (RPGN) is a clinical syndrome characterized by an acute nephritic illness and a rapid, progressive loss of kidney function occurring over a period of days to weeks.
+- [[Nephrology/Rapidly Progressive Glomerulonephritis (RPGN)\|Rapidly progressive glomerulonephritis (RPGN)]] is a clinical syndrome characterized by an acute nephritic illness and a rapid, progressive loss of kidney function occurring over a period of days to weeks.
 - The histopathological hallmark of RPGN is crescentic glomerulonephritis (CGN), which is defined by the presence of epithelial crescents involving 50% or more of the glomeruli on a kidney biopsy.
 - Crescents form within Bowman's space primarily due to the proliferation of parietal epithelial cells, accompanied by infiltrating macrophages, which subsequently compress the glomerular capillary tuft.
 - Over time, early active cellular crescents are invaded by connective tissue, evolving into fibrocellular crescents and ultimately into fibrous crescents, leading to glomerular obsolescence and irreversible chronic renal failure.
@@ -12,7 +12,7 @@
 ### Classification and Etiology
 
 - RPGN is broadly classified into three main categories based on the immunofluorescence patterns observed on kidney biopsy:
-- **Immune Complex-Mediated Crescentic GN:** Characterized by granular deposits of immunoglobulins (such as IgG or IgA) and complement (C3). This category includes severe presentations of acute postinfectious glomerulonephritis, IgA nephropathy, IgA vasculitis (Henoch-Schönlein purpura nephritis), and lupus nephritis.
+- **Immune Complex-Mediated Crescentic GN:** Characterized by granular deposits of immunoglobulins (such as IgG or IgA) and complement (C3). This category includes severe presentations of acute postinfectious glomerulonephritis, IgA nephropathy, IgA vasculitis (Henoch-Schönlein purpura nephritis), and [[Rheumatology/Lupus Nephritis\|lupus nephritis]].
 - **Pauci-Immune Crescentic GN:** Characterized by a paucity or complete absence of immune deposits on immunofluorescence and electron microscopy. This form is typically associated with small-vessel systemic vasculitides and positive antineutrophil cytoplasmic antibodies (ANCA), encompassing conditions like microscopic polyangiitis and granulomatosis with polyangiitis.
 - **Anti-Glomerular Basement Membrane (GBM) GN:** Characterized by continuous, linear deposition of IgG along the GBM due to pathogenic autoantibodies targeting type IV collagen. When accompanied by pulmonary hemorrhage, this condition is recognized as Goodpasture syndrome.
 

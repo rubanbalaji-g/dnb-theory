@@ -14,7 +14,7 @@
 
 ## Pathophysiology of Deficiency
 
-The pathophysiology of vitamin B12 deficiency stems from the failure of two specific enzymatic reactions dependent on cobalamin.
+The pathophysiology of [[Hematology/Vitamin B12 Deficiency\|vitamin B12 deficiency]] stems from the failure of two specific enzymatic reactions dependent on cobalamin.
 
 ### 1. Hematological Pathophysiology (The Folate Trap)
 
@@ -23,7 +23,7 @@ The pathophysiology of vitamin B12 deficiency stems from the failure of two spec
     - This reaction is coupled with the regeneration of tetrahydrofolate (THF) from 5-methyltetrahydrofolate.
     - In the absence of vitamin B12, folate becomes "trapped" as 5-methyltetrahydrofolate, which cannot be utilized for DNA synthesis.
 - **Consequences:**
-    - This "functional folate deficiency" impairs thymidine synthesis, which is critical for DNA replication,.
+    - This "functional [[Hematology/Folate Deficiency\|folate deficiency]]" impairs thymidine synthesis, which is critical for DNA replication,.
     - RNA synthesis remains unaffected, leading to cytoplasmic maturation while the nucleus remains immature (nuclear-cytoplasmic asynchrony).
     - This results in megaloblastic anemia characterized by large, immature red blood cells (macrocytes) and hypersegmented neutrophils,.
     - Ineffective erythropoiesis occurs, leading to intramedullary hemolysis and potentially pancytopenia,.
@@ -37,12 +37,12 @@ The pathophysiology of vitamin B12 deficiency stems from the failure of two spec
     - Excessive accumulation of methylmalonic acid (MMA) leads to defects in fatty acid synthesis within neural tissues.
     - This results in the incorporation of abnormal fatty acids into neuronal lipids, causing destabilization and degeneration of the myelin sheath,.
     - Demyelination affects the posterior and lateral columns of the spinal cord (subacute combined degeneration) and peripheral nerves.
-    - This manifests as hypotonia, developmental regression, paresthesias, sensory deficits, and infantile tremor syndrome,.
+    - This manifests as hypotonia, developmental regression, paresthesias, sensory deficits, and [[Neurology/Infantile Tremor Syndrome\|infantile tremor syndrome]],.
 
 ### 3. Biochemical Alterations
 
-- **Homocysteine Accumulation:** Due to the failure of methionine synthase, homocysteine levels rise in the blood, which is a sensitive but non-specific marker for B12 deficiency (also elevated in folate deficiency).
-- **Methylmalonic Acid (MMA) Accumulation:** Due to the failure of methylmalonyl-CoA mutase, MMA accumulates. Elevated serum MMA is specific to vitamin B12 deficiency and distinguishes it from folate deficiency.
+- **Homocysteine Accumulation:** Due to the failure of methionine synthase, homocysteine levels rise in the blood, which is a sensitive but non-specific marker for B12 deficiency (also elevated in [[Hematology/Folate Deficiency\|folate deficiency]]).
+- **Methylmalonic Acid (MMA) Accumulation:** Due to the failure of methylmalonyl-CoA mutase, MMA accumulates. Elevated serum MMA is specific to [[Hematology/Vitamin B12 Deficiency\|vitamin B12 deficiency]] and distinguishes it from [[Hematology/Folate Deficiency\|folate deficiency]].
 
 ## Clinical Features
 
@@ -66,7 +66,7 @@ The clinical presentation varies by age and severity. Symptoms affect the hemato
 Neurological damage may precede hematological changes or occur in their absence.
 
 - **Infants (6-18 months):**
-    - **Infantile Tremor Syndrome (ITS):** Characterized by pallor, regression of milestones, hypotonia, and coarse tremors.
+    - **[[Neurology/Infantile Tremor Syndrome\|Infantile Tremor Syndrome]] (ITS):** Characterized by pallor, regression of milestones, hypotonia, and coarse tremors.
     - Developmental delay or regression.
     - Apathy, irritability, and staring look.
     - Seizures and hypotonia.
@@ -99,7 +99,7 @@ Neurological damage may precede hematological changes or occur in their absence.
     - _Note:_ Levels may be falsely normal in liver disease or myeloproliferative disorders.
 - **Metabolite Assays (Functional Deficiency):** Useful when B12 levels are borderline or clinical suspicion is high.
     - **Serum Methylmalonic Acid (MMA):** Elevated in B12 deficiency (>750 nmol/L). This is **specific** for B12 deficiency.
-    - **Plasma Homocysteine:** Elevated in both B12 and Folate deficiency (>15 µmol/L).
+    - **Plasma Homocysteine:** Elevated in both B12 and [[Hematology/Folate Deficiency\|Folate deficiency]] (>15 µmol/L).
     - **Holo-transcobalamin (HoloTC):** Measures the active fraction of B12. More sensitive and specific; levels <35 pmol/L indicate deficiency.
 
 ### Ancillary Tests

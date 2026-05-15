@@ -6,7 +6,7 @@
 
 ### Dietary Causes
 
-- **Breastfed Infants:** Infantile thiamine deficiency typically occurs in breastfed infants of thiamine-deficient mothers.
+- **Breastfed Infants:** Infantile [[Nutrition/Thiamine Deficiency\|thiamine deficiency]] typically occurs in breastfed infants of thiamine-deficient mothers.
     - Mothers may be asymptomatic or have subclinical deficiency.
     - Maternal diets based exclusively on polished rice are a primary risk factor, as milling removes the thiamine-rich husk.
 - **Defective Formula:** Epidemics have occurred in infants fed soy-based formulas deficient in thiamine.
@@ -64,7 +64,7 @@ Infantile beriberi has a more subtle onset than adult forms but can progress rap
 ### Clinical Diagnosis
 
 - Diagnosis is often based on the clinical setting (dietary history) and compatible symptoms (unexplained cardiac failure or aphonia).
-- A high index of suspicion is required as prompt treatment can be lifesaving.
+- A high [[Statistics/Index\|index]] of suspicion is required as prompt treatment can be lifesaving.
 
 ### Biochemical Tests
 

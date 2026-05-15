@@ -4,7 +4,7 @@
 
 ### Definition and Genetics
 
-- Alport syndrome is a progressive, genetically heterogeneous inherited nephropathy caused by pathogenic variants in the genes encoding the alpha chains of type IV collagen, which is a major structural component of basement membranes.
+- [[Nephrology/Alport Syndrome\|Alport syndrome]] is a progressive, genetically heterogeneous inherited nephropathy caused by pathogenic variants in the genes encoding the alpha chains of type IV collagen, which is a major structural component of basement membranes.
 - The condition is classified into three main genetic patterns based on the affected gene and mode of inheritance:
 
 |Inheritance Pattern|Affected Gene|Frequency|Pathogenesis and Clinical Note|
@@ -23,7 +23,7 @@
 
 - Electron microscopy of the kidney biopsy is the gold standard for morphological diagnosis, classically revealing diffuse thickening, thinning, splitting, and layering (the "basket-weave" appearance) of the glomerular basement membrane (GBM).
 - Immunofluorescence of the kidney or skin biopsy demonstrates the absence or altered mosaic expression of the $\alpha$3, $\alpha$4, or $\alpha$5(IV) collagen chains, which can confirm the diagnosis even before characteristic EM changes appear.
-- Genetic testing utilizing next-generation sequencing (NGS) provides a definitive and non-invasive diagnosis, identifying the exact pathogenic variant.
+- Genetic testing utilizing [[Genetics/Next-Generation Sequencing (NGS)\|next-generation sequencing (NGS)]] provides a definitive and non-invasive diagnosis, identifying the exact pathogenic variant.
 
 ### Management and Prognosis
 

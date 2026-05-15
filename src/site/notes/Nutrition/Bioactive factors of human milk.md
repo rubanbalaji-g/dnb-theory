@@ -6,7 +6,7 @@ Human milk is described as a "living fluid" and is species-specific, containing 
 
 ### 1. Immunological and Anti-Infective Factors
 
-Human milk provides "passive immunity" through a complex array of proteins and cells that protect the naive infant gut and respiratory tract.
+Human milk provides "[[Infectious Diseases/Passive Immunity\|passive immunity]]" through a complex array of proteins and cells that protect the naive infant gut and respiratory tract.
 
 #### Humoral Factors
 
@@ -69,7 +69,7 @@ Breast milk contains a wide range of hormones and growth factors that regulate m
     - **Insulin and Somatostatin:** Regulate glucose metabolism and growth.
     - **Prolactin and Neurotensin:** Present in breast milk.
     - **Beta-Casomorphin:** A specific CNS growth factor found in human milk.
-    - **Erythropoietin:** Also present.
+    - **[[Hematology/Erythropoietin\|Erythropoietin]]:** Also present.
 
 ### 4. Bifidus Factor and Prebiotics
 
@@ -93,7 +93,7 @@ Breast milk contains a wide range of hormones and growth factors that regulate m
     - They are present in breast milk in the 'trans' form, whereas microwaving formula can convert amino acids to the neurotoxic 'cis' form (though the source context here refers to amino acids, LCPs are lipid components critical for structure).
 - **Para Amino Benzoic Acid (PABA):**
     - Human milk has a relative deficiency of PABA.
-    - Since the malaria parasite requires PABA for growth, this deficiency suppresses the parasite to subclinical levels, allowing the infant to develop immunity without severe disease.
+    - Since the [[Infectious Diseases/Malaria\|malaria]] parasite requires PABA for growth, this deficiency suppresses the parasite to subclinical levels, allowing the infant to develop immunity without severe disease.
 - **Taurine:**
     - An amino acid found in high concentrations in human milk (whey fraction).
     - It functions as a neurotransmitter and neuromodulator, essential for brain and retinal development.

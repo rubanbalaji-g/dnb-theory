@@ -4,14 +4,14 @@
 
 ## Introduction and Definition
 
-- **Infantile Tremor Syndrome (ITS)** is a clinical entity characterized by a triad of symptoms: pallor (anemia), developmental regression, and involuntary movements (tremors) in infants and young children.
+- **[[Neurology/Infantile Tremor Syndrome\|Infantile Tremor Syndrome]] (ITS)** is a clinical entity characterized by a triad of symptoms: pallor (anemia), developmental regression, and involuntary movements (tremors) in infants and young children.
 - The condition is now primarily attributed to **Vitamin B12 (cobalamin) deficiency**, particularly in exclusively breastfed infants of mothers who are vegetarians or have undiagnosed B12 deficiency.
 - Historically, the term has been used to describe a specific nutritional deficiency syndrome that typically evolves through stages, often referred to as "Pre-ITS" (the prodromal phase) and florid "ITS" (the tremor phase).
 - While earlier literature associated it with protein-energy malnutrition, recent evidence and guidelines strongly link the syndrome to cobalamin deficiency, with or without associated iron or magnesium deficiencies.
 
 ## Etiopathogenesis
 
-### Vitamin B12 Deficiency
+### [[Hematology/Vitamin B12 Deficiency\|Vitamin B12 Deficiency]]
 
 - **Maternal Status:** The Vitamin B12 content in breast milk is directly determined by the maternal intake and status. Exclusively breastfed infants of strict vegan or vegetarian mothers are at the highest risk.
 - **Depletion Timeline:** Infants born to B12-deficient mothers have low body stores at birth. If weaning is delayed and breastfeeding continues without supplementation, these stores are depleted, leading to clinical deficiency usually appearing between 6 and 18 months of age.
@@ -43,7 +43,7 @@ The "Pre-ITS" phase represents the prodromal stage where the infant exhibits sig
 - **Developmental Regression:** Before tremors appear, there is often a history of stagnation or regression of previously acquired milestones. For example, an infant who could sit may lose this ability.
 - **Hypotonia:** Generalized muscle hypotonia is common, often described as a "floppy" infant.
 
-## Clinical Spectrum: Infantile Tremor Syndrome (ITS)
+## Clinical Spectrum: [[Neurology/Infantile Tremor Syndrome\|Infantile Tremor Syndrome]] (ITS)
 
 The progression to the "ITS" phase is marked by the onset of involuntary movements superimposed on the background of anemia and regression.
 
@@ -114,7 +114,7 @@ The progression to the "ITS" phase is marked by the onset of involuntary movemen
 ### Dietary Management
 
 - **Breastfeeding:** Should be continued, but the mother must also be treated for B12 deficiency to improve breast milk quality.
-- **Complementary Feeding:** Introduction of B12-rich foods (animal source foods like milk, eggs, or fortified cereals) is crucial for older infants.
+- **[[Nutrition/Complementary Feeding\|Complementary Feeding]]:** Introduction of B12-rich foods (animal source foods like milk, eggs, or fortified cereals) is crucial for older infants.
 
 ### Monitoring and Complications
 

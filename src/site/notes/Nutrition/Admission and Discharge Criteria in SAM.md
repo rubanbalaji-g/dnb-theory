@@ -35,7 +35,7 @@ Admission is required if the child presents with any of the following IMNCI dang
 - **Severe Anaemia:** Severe palmar pallor; Hb < 4 g/dL or Hb 4-6 g/dL with respiratory distress,.
 - **Respiratory Infection:** Fast breathing, chest indrawing, or pneumonia.
 - **Severe Dermatosis:** Extensive skin lesions, ulceration, or "raw skin" often associated with Kwashiorkor.
-- **Eye Signs:** Corneal clouding, ulceration, or Bitot's spots (Vitamin A deficiency).
+- **Eye Signs:** Corneal clouding, ulceration, or Bitot's spots ([[Nutrition/Vitamin A\|Vitamin A]] deficiency).
 - **Severe Oedema:** Grade +++ (generalized oedema including face and upper limbs),.
 
 #### C. Special Vulnerable Groups
@@ -94,6 +94,6 @@ To ensure sustainable recovery and prevent relapse, the following steps are mand
 - **Micronutrient Supplementation:** Ensure the child is prescribed Iron and Folic acid to continue at home (Iron for 2-3 months).
 - **Deworming:** Administer a single dose of Albendazole (200 mg for 12-23 months; 400 mg for > 24 months) if not given on admission.
 - **Immunization:** Update all due vaccines.
-- **Dietary Counseling:** Teach the mother about energy-dense home foods (katori-spoon feeding), hygiene, and frequency of feeding.
+- **Dietary Counseling:** Teach the mother [[About\|about]] energy-dense home foods (katori-spoon feeding), hygiene, and frequency of feeding.
 - **Sensory Stimulation:** Train the mother in play therapy and structured play activities (15-30 min/day) to support mental development,.
 - **Follow-up Plan:** Schedule a follow-up visit (usually 1 week after discharge, then every 2 weeks/monthly).

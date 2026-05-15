@@ -40,8 +40,8 @@
 
 |Classification|Duration|Potential Etiologies|
 |---|---|---|
-|Acute|Less than two weeks.|Septic arthritis, transient synovitis, acute rheumatic fever, Kawasaki disease, immunoglobulin a vasculitis.|
-|Subacute|Two to six weeks.|Reactive arthritis, systemic lupus erythematosus, dermatomyositis, leukemia, neuroblastoma, Lyme disease.|
+|Acute|Less than two weeks.|Septic arthritis, transient synovitis, acute rheumatic fever, [[Rheumatology/Kawasaki Disease\|Kawasaki disease]], immunoglobulin a vasculitis.|
+|Subacute|Two to six weeks.|Reactive arthritis, systemic lupus erythematosus, dermatomyositis, leukemia, [[Hematology/Neuroblastoma\|neuroblastoma]], Lyme disease.|
 |Chronic|Greater than six weeks.|Juvenile idiopathic arthritis, tubercular arthritis.|
 
 ### Step Four: Topographical Pattern Recognition
@@ -101,7 +101,7 @@
 - Inflammatory markers remain entirely normal.
 - Farber disease and Fabry disease manifest with non-inflammatory arthropathy.
 - Progressive pseudorheumatoid arthropathy exhibits progressive restriction without inflammation.
-- Sickle cell disease presents with bone pain mimicking acute arthritis.
+- [[Hematology/Sickle Cell Disease\|Sickle cell disease]] presents with bone pain mimicking acute arthritis.
 
 ### Infectious And Post-Infectious Mimics
 
@@ -110,7 +110,7 @@
 - Features severe pain, restricted mobility, high fever, marked toxicity.
 - Post-streptococcal reactive arthritis follows group a streptococcus infection. Non-migratory additive pattern.
 - Lyme disease suspected in endemic areas. Presents as monoarticular arthritis.
-- Viral arthritis follows rubella, parvovirus, hepatitis b. Symmetrical small joint involvement common.
+- Viral arthritis follows rubella, parvovirus, [[Gastrointestinal/Hepatitis B\|hepatitis b]]. Symmetrical small joint involvement common.
 
 ## Systematic Clinical Examination
 
@@ -143,7 +143,7 @@
 |Investigation|Clinical Utility|
 |---|---|
 |Complete blood count|Detects cytopenias highlighting malignancy or systemic lupus erythematosus. Identifies systemic inflammation via thrombocytosis and leukocytosis.|
-|Acute phase reactants|Erythrocyte sedimentation rate and c-reactive protein assess inflammatory burden. Massive elevations suggest systemic juvenile idiopathic arthritis, Kawasaki disease, septic arthritis.|
+|Acute phase reactants|Erythrocyte sedimentation rate and c-reactive protein assess inflammatory burden. Massive elevations suggest systemic juvenile idiopathic arthritis, [[Rheumatology/Kawasaki Disease\|Kawasaki disease]], septic arthritis.|
 |Peripheral blood smear|Mandatory evaluation excluding circulating leukemic blasts.|
 |Bone marrow aspiration|Indicated for discordant complete blood counts or disproportionate bone pain.|
 

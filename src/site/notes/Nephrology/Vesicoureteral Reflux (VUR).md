@@ -4,7 +4,7 @@
 
 ### Definition and Pathophysiology
 
-- Vesicoureteral reflux (VUR) is the retrograde flow of urine from the bladder into the ureters and renal pelvis at rest or during micturition.
+- [[Nephrology/Vesicoureteral Reflux (VUR)\|Vesicoureteral reflux (VUR)]] is the retrograde flow of urine from the bladder into the ureters and renal pelvis at rest or during micturition.
 - The normal ureterovesical junction acts as a one-way flap-valve due to the oblique insertion of the ureter into the bladder musculature and an adequate length of the submucosal ureteral tunnel.
 - VUR occurs when the submucosal tunnel is congenitally short or absent, leading to valvular incompetence.
 - The condition predisposes the kidney to pyelonephritis by facilitating the ascent of colonized bladder bacteria into the upper urinary tract, which can trigger severe inflammation and subsequent renal scarring (reflux nephropathy).
@@ -14,7 +14,7 @@
 |Type of VUR|Pathogenesis|Associated Conditions|
 |:--|:--|:--|
 |**Primary VUR**|Congenital incompetence of the ureterovesical junction valvular mechanism.|Familial inheritance, multi-cystic dysplastic kidney, ureteral duplication.|
-|**Secondary VUR**|Increased intravesical pressure overcoming a competent valve, or inflammatory disruption.|Posterior urethral valves (PUV), neurogenic bladder, severe bacterial cystitis, bladder bowel dysfunction (BBD).|
+|**Secondary VUR**|Increased intravesical pressure overcoming a competent valve, or inflammatory disruption.|[[Nephrology/Posterior Urethral Valves (PUV)\|Posterior urethral valves (PUV)]], neurogenic bladder, severe bacterial cystitis, bladder bowel dysfunction (BBD).|
 
 ### Grading of VUR
 
@@ -30,16 +30,16 @@
 
 ### Clinical Presentation and Risk Factors
 
-- VUR is most frequently diagnosed in young children following an episode of a febrile urinary tract infection (UTI).
+- VUR is most frequently diagnosed in young children following an episode of a febrile [[Nephrology/Urinary Tract Infection\|urinary tract infection]] ([[Nephrology/UTI\|UTI]]).
 - It may also be identified postnatally during the routine evaluation of antenatally detected hydronephrosis.
 - VUR frequently coexists with Bladder Bowel Dysfunction (BBD), a condition characterized by voiding postponement, constipation, and uninhibited bladder contractions. The presence of BBD doubles the risk of recurrent UTIs and delays the spontaneous resolution of VUR.
-- VUR is a highly familial trait, with an estimated 32% of siblings of an index patient also having the condition, suggesting an autosomal dominant pattern with variable penetrance.
+- VUR is a highly familial trait, with an estimated 32% of siblings of an [[Statistics/Index\|index]] patient also having the condition, suggesting an autosomal dominant pattern with variable penetrance.
 
 ### Diagnostic Evaluation
 
-- **Renal and Bladder Ultrasound (USG):** Recommended after the first episode of UTI in all children to assess for hydroureteronephrosis, bladder wall thickness, and post-void residual urine (indicating BBD). USG alone has poor sensitivity for detecting VUR.
-- **Voiding Cystourethrogram (VCUG):** The gold standard for diagnosing and grading VUR. Current guidelines recommend VCUG in children if they have a recurrent UTI, an abnormal ultrasound scan, or if a non-_E. coli_ UTI occurs in a child under 2 years of age.
-- **Dimercaptosuccinic Acid (DMSA) Scintigraphy:** The gold standard for identifying reflux nephropathy and permanent renal scarring. A late-phase DMSA scan should be performed 4–6 months following a UTI in patients with recurrent infections or documented high-grade VUR.
+- **Renal and Bladder Ultrasound (USG):** Recommended after the first episode of [[Nephrology/UTI\|UTI]] in all children to assess for hydroureteronephrosis, bladder wall thickness, and post-void residual urine (indicating BBD). USG alone has poor sensitivity for detecting VUR.
+- **Voiding Cystourethrogram (VCUG):** The gold standard for diagnosing and grading VUR. Current guidelines recommend VCUG in children if they have a recurrent [[Nephrology/UTI\|UTI]], an abnormal ultrasound scan, or if a non-_E. coli_ [[Nephrology/UTI\|UTI]] occurs in a child under 2 years of age.
+- **Dimercaptosuccinic Acid (DMSA) Scintigraphy:** The gold standard for identifying reflux nephropathy and permanent renal scarring. A late-phase DMSA scan should be performed 4–6 months following a [[Nephrology/UTI\|UTI]] in patients with recurrent infections or documented high-grade VUR.
 
 ### Management
 
@@ -71,4 +71,4 @@ graph TD
 
 - Intrarenal reflux of infected urine causes intense inflammation leading to irreversible tubulointerstitial fibrosis and cortical scarring, classically at the compound papillae located at the upper and lower poles of the kidney.
 - **Hypertension:** Develops in 10–30% of children and young adults with established renal scarring due to segmental renal ischemia and localized renin hypersecretion.
-- **Chronic Kidney Disease (CKD):** Severe, bilateral congenital reflux nephropathy or acquired scarring leads to adaptive hyperfiltration in remaining nephrons, proteinuria, glomerulosclerosis, and ultimately accounts for 6–17% of pediatric end-stage kidney disease.
+- **[[Nephrology/Chronic Kidney Disease\|Chronic Kidney Disease]] (CKD):** Severe, bilateral congenital reflux nephropathy or acquired scarring leads to adaptive hyperfiltration in remaining nephrons, proteinuria, glomerulosclerosis, and ultimately accounts for 6–17% of pediatric end-stage kidney disease.

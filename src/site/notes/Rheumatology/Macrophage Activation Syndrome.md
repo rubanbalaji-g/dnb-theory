@@ -7,7 +7,7 @@
 - Potentially fatal complication of rheumatic diseases.
 - Characterized by excessive activation and expansion of macrophages and T lymphocytes.
 - Classified as secondary or reactive hemophagocytic lymphohistiocytosis.
-- Produces overwhelming systemic inflammatory reaction resembling disseminated intravascular coagulation.
+- Produces overwhelming systemic inflammatory reaction resembling [[Hematology/Disseminated Intravascular Coagulation\|disseminated intravascular coagulation]].
 
 ## Epidemiology And Triggers
 
@@ -35,7 +35,7 @@
 - Profound hepatomegaly, splenomegaly, and generalized lymphadenopathy.
 - Hemorrhagic manifestations include petechiae, widespread ecchymoses, epistaxis, and gastrointestinal bleeding.
 - Central nervous system involvement produces mental status changes, lethargy, seizures, and coma.
-- Rapid progression to multiorgan failure, acute respiratory distress syndrome, and shock.
+- Rapid progression to multiorgan failure, acute [[Neonatalogy/Respiratory Distress Syndrome\|respiratory distress syndrome]], and shock.
 
 ## Laboratory Profile
 
@@ -75,7 +75,7 @@ A patient with known or suspected **Systemic Juvenile Idiopathic Arthritis (sJIA
 - Distinguishing macrophage activation from primary disease flare remains critical.
 - Flare features spiking fever, increased platelet counts, increased fibrinogen, and highly elevated erythrocyte sedimentation rate.
 - Must exclude severe sepsis, malignancy-associated hemophagocytosis, and drug reactions.
-- Reye syndrome shares hepatic encephalopathy but lacks characteristic cytopenias.
+- Reye syndrome shares [[Gastrointestinal/Hepatic Encephalopathy\|hepatic encephalopathy]] but lacks characteristic cytopenias.
 - Thrombotic thrombocytopenic purpura features microangiopathic anemia absent in typical macrophage activation.
 
 ## Management

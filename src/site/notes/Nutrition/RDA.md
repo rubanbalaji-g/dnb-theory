@@ -2,24 +2,24 @@
 {"dg-publish":true,"uplink":"/nutrition/nutrition/","uptext":"Back to Index (Nutrition)","permalink":"/nutrition/rda/","dgPassFrontmatter":true}
 ---
 
-## Definition and Concept of RDA
+## Definition and Concept of [[Nutrition/RDA\|RDA]]
 
-- The Recommended Dietary Allowance (RDA) is defined as the average daily dietary intake level that is sufficient to meet the nutrient requirements of nearly all (97 to 98%) healthy individuals in a particular life-stage and gender group.
+- The Recommended Dietary Allowance ([[Nutrition/RDA\|RDA]]) is defined as the average daily dietary intake level that is sufficient to meet the nutrient requirements of nearly all (97 to 98%) healthy individuals in a particular life-stage and gender group.
 - The Estimated Average Requirement (EAR) is the median daily intake value estimated to meet the requirement of exactly half (50%) of the healthy individuals in a specific life-stage and gender group.
-- The RDA is statistically derived from the EAR. It is calculated by adding a margin of safety, typically equal to two standard deviations (+2 SD) above the EAR, ensuring it covers the needs of over 99% of individuals in a population.
-$$ RDA = EAR + 2 SD $$
+- The [[Nutrition/RDA\|RDA]] is statistically derived from the EAR. It is calculated by adding a margin of safety, typically equal to two standard deviations (+2 SD) above the EAR, ensuring it covers the needs of over 99% of individuals in a population.
+$$ [[Nutrition/RDA\|RDA]] = EAR + 2 SD $$
 - When an EAR cannot be accurately determined due to insufficient scientific evidence, an Adequate Intake (AI) is established instead. The AI serves as a practical guideline for individuals based on observational data and scientific consensus.
 - The Tolerable Upper Intake Level (UL) is another crucial DRI parameter, representing the highest average daily intake of a nutrient that carries no associated risk of adverse health effects for almost all individuals in a population.
 - The Acceptable Macronutrient Distribution Range (AMDR) provides a recommended range of intakes for energy-yielding macronutrients that is associated with a reduced risk of chronic diseases while ensuring an adequate intake of essential nutrients.
 
-## Factors Influencing RDA
+## Factors Influencing [[Nutrition/RDA\|RDA]]
 
 - RDAs are highly nutrient-specific and technical in nature, formulated on the basis of the most current understanding of human nutritional requirements.
 - Age and gender are primary determinants, as physiological demands vary significantly across different life stages, such as the rapid growth phases seen in infancy and adolescence.
 - Anthropometric parameters, specifically weight and height, along with overall body composition, directly alter the required nutrient and energy intake.
 - Environmental variables, including climate and ambient temperature, can influence energy expenditure and fluid requirements.
-- Physical activity levels play a major role in determining the RDA for energy and macronutrients. Requirements are stratified based on whether an individual's lifestyle is sedentary, moderately active, or involves heavy physical labor.
-- Unique physiological states, particularly pregnancy and lactation, impose significant additional nutritional demands on the body, necessitating specialized, higher RDA values for energy, proteins, and micronutrients during these periods.
+- Physical activity levels play a major role in determining the [[Nutrition/RDA\|RDA]] for energy and macronutrients. Requirements are stratified based on whether an individual's lifestyle is sedentary, moderately active, or involves heavy physical labor.
+- Unique physiological states, particularly pregnancy and lactation, impose significant additional nutritional demands on the body, necessitating specialized, higher [[Nutrition/RDA\|RDA]] values for energy, proteins, and micronutrients during these periods.
 
 ## Energy Requirements
 ### General Pediatric Allowances
@@ -28,15 +28,15 @@ $$ RDA = EAR + 2 SD $$
 - For children weighing up to 10 kg, the energy requirement is strictly 100 kcal/kg/day.
 - For children weighing between 10 kg and 20 kg, the requirement is calculated as 1000 kcal plus an additional 50 kcal/kg for every kilogram above 10 kg.
 - For children weighing more than 20 kg, the requirement is 1500 kcal plus an additional 20 kcal/kg for every kilogram in excess of 20 kg.
-- The Indian Council of Medical Research (ICMR) 2020 RDA specifies that normal infants aged 0 to 6 months require 92 kcal/kg/day.
-- As growth velocity slightly decelerates, the ICMR 2020 RDA for infants aged 6 to 12 months adjusts to 80 kcal/kg/day.
+- The Indian Council of Medical Research (ICMR) 2020 [[Nutrition/RDA\|RDA]] specifies that normal infants aged 0 to 6 months require 92 kcal/kg/day.
+- As growth velocity slightly decelerates, the ICMR 2020 [[Nutrition/RDA\|RDA]] for infants aged 6 to 12 months adjusts to 80 kcal/kg/day.
 
 ### Special Populations and Disease States
 
 - **Preterm Infants:** Due to a lack of third-trimester fat and glycogen stores, coupled with an accelerated growth rate, preterm babies require a significantly higher caloric intake of 110 to 165 kcal/kg/day.
-- **Severe Acute Malnutrition (SAM):** The standard RDA is inadequate for malnourished children; therapeutic rehabilitation requires 150 to 220 kcal/kg/day to achieve rapid catch-up growth.
-- During the initial stabilization phase of SAM management (using F-75 starter diet), energy is deliberately restricted to 100 kcal/kg/day to prevent dangerous metabolic shifts associated with refeeding syndrome.
-- **Critically Ill/Bedridden Children:** In bedridden patients, physical activity and growth demands plummet, meaning the basal requirement drops to approximately 66% (two-thirds) of the standard RDA.
+- **Severe Acute Malnutrition (SAM):** The standard [[Nutrition/RDA\|RDA]] is inadequate for malnourished children; therapeutic rehabilitation requires 150 to 220 kcal/kg/day to achieve rapid catch-up growth.
+- During the initial stabilization phase of SAM management (using F-75 starter diet), energy is deliberately restricted to 100 kcal/kg/day to prevent dangerous metabolic shifts associated with [[Nutrition/Refeeding Syndrome\|refeeding syndrome]].
+- **Critically Ill/Bedridden Children:** In bedridden patients, physical activity and growth demands plummet, meaning the basal requirement drops to approximately 66% (two-thirds) of the standard [[Nutrition/RDA\|RDA]].
 - However, acute illness induces a hypermetabolic state; therefore, an additional 10% of calories must be added for every 1°C rise in body temperature above normal to compensate for the catabolic stress of fever.
 
 ## Fluid Requirements (per kg body weight)
@@ -60,9 +60,9 @@ $$ RDA = EAR + 2 SD $$
 
 ### Infant and Pediatric Allowances
 
-- Proteins are crucial for the synthesis of tissues, enzymes, and hormones; the RDA for protein incorporates a margin of safety to account for variations in biological value and digestibility.
+- Proteins are crucial for the synthesis of tissues, enzymes, and hormones; the [[Nutrition/RDA\|RDA]] for protein incorporates a margin of safety to account for variations in biological value and digestibility.
 
-| Age group      | ICMR 2020 RDA     |
+| Age group      | ICMR 2020 [[Nutrition/RDA\|RDA]]     |
 | -------------- | ----------------- |
 | 0 to 6 months  | 1.16 g/kg/day     |
 | 6 to 12 months | 1.7 g/kg/day      |
@@ -91,9 +91,9 @@ $$ RDA = EAR + 2 SD $$
 - In hypokalemic states triggered by severe diarrhea or malnutrition, therapeutic replacement requires <span style="color:rgb(241, 138, 255)">3 to 4 mEq/kg/day</span>.
 ### Minerals
 
-- **Calcium:** The RDA is 300 mg for infants up to 12 months. It increases to 500 mg for ages 1-3 years, 550 mg for ages 4-6 years, and 650 mg for ages 7-9 years. To support the rapid skeletal mineralization during the pubertal growth spurt, adolescents (10-18 years) require 850 mg to 1050 mg daily.
+- **Calcium:** The [[Nutrition/RDA\|RDA]] is 300 mg for infants up to 12 months. It increases to 500 mg for ages 1-3 years, 550 mg for ages 4-6 years, and 650 mg for ages 7-9 years. To support the rapid skeletal mineralization during the pubertal growth spurt, adolescents (10-18 years) require 850 mg to 1050 mg daily.
 - **Iron:** Infants aged 6-12 months require 3 mg of iron. Children need 8 mg at 1-3 years, 11 mg at 4-6 years, and 15 mg at 7-9 years. Due to expanding red blood cell mass and menstrual losses, requirements peak during adolescence: 16-26 mg for boys and 28-32 mg for girls.
-- **Zinc:** The RDA is 2.5 mg for older infants (6-12 months). Children require 3.0 mg (1-3 years), 4.5 mg (4-6 years), and 5.9 mg (7-9 years). Adolescents require significantly more, ranging from 8.5 mg to 17.6 mg daily.
+- **Zinc:** The [[Nutrition/RDA\|RDA]] is 2.5 mg for older infants (6-12 months). Children require 3.0 mg (1-3 years), 4.5 mg (4-6 years), and 5.9 mg (7-9 years). Adolescents require significantly more, ranging from 8.5 mg to 17.6 mg daily.
 - **Magnesium:** Requirements scale with age, from 30 mg in infancy to 135-215 mg in mid-childhood, reaching 255-405 mg during adolescence.
 - **Iodine:** The recommended intake is 90 μg/day from birth to 5 years, 120 μg/day for ages 6-12 years, and 150 μg/day for adolescents and adults.
 ### Preterm Infant Specific Allowances
@@ -106,27 +106,27 @@ $$ RDA = EAR + 2 SD $$
 
 ## Vitamins
 
-- **Vitamin A:** Measured in Retinol Equivalents (RE), infants require 300-400 μg. Children aged 1-9 years need 390-630 μg. Adolescents require between 770 μg and 1000 μg depending on age and gender.
-- **Vitamin D:** Exclusively breastfed infants are predisposed to deficiency and require an RDA of 10 μg (400 IU) per day. For all children older than 1 year and adolescents, the RDA is 15 μg (600 IU) per day.
-- **Vitamin C:** The RDA is 20-27 mg for infants, 27-43 mg for children aged 1-9 years, and 52-82 mg for adolescents.
+- **[[Nutrition/Vitamin A\|Vitamin A]]:** Measured in Retinol Equivalents (RE), infants require 300-400 μg. Children aged 1-9 years need 390-630 μg. Adolescents require between 770 μg and 1000 μg depending on age and gender.
+- **Vitamin D:** Exclusively breastfed infants are predisposed to deficiency and require an [[Nutrition/RDA\|RDA]] of 10 μg (400 IU) per day. For all children older than 1 year and adolescents, the [[Nutrition/RDA\|RDA]] is 15 μg (600 IU) per day.
+- **Vitamin C:** The [[Nutrition/RDA\|RDA]] is 20-27 mg for infants, 27-43 mg for children aged 1-9 years, and 52-82 mg for adolescents.
 - **Folic Acid:** Requirements increase rapidly with growth due to active cell division, starting at 25 μg in infancy, moving to 110-170 μg in childhood, and reaching 220-340 μg by adolescence.
-- **Vitamin B12 (Cobalamin):** The RDA is 1.2 μg for infants and young children, doubling to 2.5 μg in adolescents to support myelin synthesis and folate regeneration.
+- **Vitamin B12 (Cobalamin):** The [[Nutrition/RDA\|RDA]] is 1.2 μg for infants and young children, doubling to 2.5 μg in adolescents to support myelin synthesis and folate regeneration.
 
-## Clinical Applications of RDA
+## Clinical Applications of [[Nutrition/RDA\|RDA]]
 
 ### Dietary Assessment and Planning
 
-- In clinical pediatrics, the RDA serves as the gold-standard reference point against which a child's 24-hour dietary recall is compared.
-- By converting the consumed food items into calories and proteins and comparing them to the RDA, the clinician can accurately calculate the individual "Nutrient Gap".
-- To effectively translate quantitative RDA targets into practical dietary advice for parents, the "food group system" is utilized. This ensures the diet provides balanced servings of cereals, pulses, milk/flesh foods, vegetables/fruits, and fats to naturally meet the required allowances.
+- In clinical pediatrics, the [[Nutrition/RDA\|RDA]] serves as the gold-standard reference point against which a child's 24-hour dietary recall is compared.
+- By converting the consumed food items into calories and proteins and comparing them to the [[Nutrition/RDA\|RDA]], the clinician can accurately calculate the individual "Nutrient Gap".
+- To effectively translate quantitative [[Nutrition/RDA\|RDA]] targets into practical dietary advice for parents, the "food group system" is utilized. This ensures the diet provides balanced servings of cereals, pulses, milk/flesh foods, vegetables/fruits, and fats to naturally meet the required allowances.
 
 ### Management of Nutrition in the Community
 
-- In community settings and programs like the Integrated Child Development Services (ICDS), the objective is to provide the full RDA for the child's age.
-- Nationwide surveys in India have revealed an average calorie gap of 400 kcal per child. Supplementary feeding programs utilize the RDA as a target to bridge this gap, often providing double rations to malnourished children.
+- In community settings and programs like the Integrated Child Development Services (ICDS), the objective is to provide the full [[Nutrition/RDA\|RDA]] for the child's age.
+- Nationwide surveys in India have revealed an average calorie gap of 400 kcal per child. Supplementary feeding programs utilize the [[Nutrition/RDA\|RDA]] as a target to bridge this gap, often providing double rations to malnourished children.
 
 ### Alterations in Disease and Malnutrition
 
-- **Critically Ill/Bedridden Children:** In the hospital setting, a healthy child's energy expenditure drops significantly because basal metabolic rate, physical activity, and growth rates are reduced. Consequently, only 2/3 of the standard RDA is prescribed. However, an additional 10-15% of calories must be added to cover the catabolic stress of fever and illness (specifically, an extra 10% of calories for every 1 degree Celsius rise in body temperature).
-- **Chronic Kidney Disease (CRF):** For stunted children with chronic systemic illnesses like CRF, the energy RDA should be calculated based on the child's "height age" rather than their chronological age.
-- **Severe Acute Malnutrition (SAM):** While the RDA is designed to meet the needs of healthy children, it is entirely insufficient for the rehabilitation of children with SAM. To achieve rapid catch-up growth, therapeutic calculations mandate energy intakes of 150-200 kcal/kg/day, which vastly exceeds the standard RDA.
+- **Critically Ill/Bedridden Children:** In the hospital setting, a healthy child's energy expenditure drops significantly because basal metabolic rate, physical activity, and growth rates are reduced. Consequently, only 2/3 of the standard [[Nutrition/RDA\|RDA]] is prescribed. However, an additional 10-15% of calories must be added to cover the catabolic stress of fever and illness (specifically, an extra 10% of calories for every 1 degree Celsius rise in body temperature).
+- **[[Nephrology/Chronic Kidney Disease\|Chronic Kidney Disease]] (CRF):** For stunted children with chronic systemic illnesses like CRF, the energy [[Nutrition/RDA\|RDA]] should be calculated based on the child's "height age" rather than their chronological age.
+- **Severe Acute Malnutrition (SAM):** While the [[Nutrition/RDA\|RDA]] is designed to meet the needs of healthy children, it is entirely insufficient for the rehabilitation of children with SAM. To achieve rapid catch-up growth, therapeutic calculations mandate energy intakes of 150-200 kcal/kg/day, which vastly exceeds the standard [[Nutrition/RDA\|RDA]].

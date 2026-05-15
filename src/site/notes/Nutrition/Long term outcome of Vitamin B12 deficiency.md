@@ -29,9 +29,9 @@
 
 ## Neurological Sequelae
 
-### Infantile Tremor Syndrome (ITS)
+### [[Neurology/Infantile Tremor Syndrome\|Infantile Tremor Syndrome]] (ITS)
 
-- Infantile Tremor Syndrome is a distinct clinical entity observed in infants and young children with severe vitamin B12 deficiency.
+- [[Neurology/Infantile Tremor Syndrome\|Infantile Tremor Syndrome]] is a distinct clinical entity observed in infants and young children with severe [[Hematology/Vitamin B12 Deficiency\|vitamin B12 deficiency]].
 - It typically manifests in infants between 6 months and 2 years of age who are exclusively breastfed by vegetarian or malnourished mothers.
 - The condition is characterized by a triad of symptoms: pallor, developmental regression, and involuntary movements (tremors).
 - Tremors are coarse, rhythmic, and often affect the face, tongue, and extremities; they may persist for weeks to months even after the initiation of therapy.
@@ -40,11 +40,11 @@
 
 ### Neurodevelopmental Regression and Delay
 
-- One of the most profound long-term effects in infants is global developmental delay or regression of previously acquired milestones.
+- One of the most profound long-term effects in infants is [[Development/Global Developmental Delay\|global developmental delay]] or regression of previously acquired milestones.
 - Infants may lose the ability to sit, smile, or interact socially, presenting with apathy and lethargy.
 - While motor milestones often recover with treatment, fine motor skills and complex cognitive functions may show persistent deficits.
 - Studies indicate that children treated for infantile B12 deficiency may have lower intelligence quotients (IQ) and poorer academic performance in school compared to their peers.
-- The "critical period" of brain growth during infancy makes the timing of the deficiency particularly dangerous; insults during this phase can lead to permanent microcephaly and cerebral atrophy.
+- The "critical period" of brain growth during infancy makes the timing of the deficiency particularly dangerous; insults during this phase can lead to permanent [[Neurology/Microcephaly\|microcephaly]] and cerebral atrophy.
 
 ### Cognitive Impairment and Behavioral Issues
 
@@ -66,10 +66,10 @@
 
 ### Megaloblastic Anemia and Pancytopenia
 
-- Vitamin B12 deficiency classically results in megaloblastic anemia characterized by macrocytes (high MCV), hypersegmented neutrophils, and megaloblastic changes in the bone marrow.
+- [[Hematology/Vitamin B12 Deficiency\|Vitamin B12 deficiency]] classically results in megaloblastic anemia characterized by macrocytes (high MCV), hypersegmented neutrophils, and megaloblastic changes in the bone marrow.
 - Unlike neurological damage, hematological abnormalities are generally fully reversible with appropriate treatment.
 - Reticulocytosis typically occurs within 2-4 days of starting therapy, and hemoglobin levels normalize within 4-8 weeks.
-- However, severe deficiency can lead to pancytopenia (reduction in red cells, white cells, and platelets), which mimics serious conditions like leukemia or aplastic anemia.
+- However, severe deficiency can lead to pancytopenia (reduction in red cells, white cells, and platelets), which mimics serious conditions like leukemia or [[Hematology/Aplastic Anemia\|aplastic anemia]].
 - While the blood counts recover, the period of severe pancytopenia places the child at risk for life-threatening infections and bleeding complications (e.g., intracranial hemorrhage), which can have fatal or devastating long-term outcomes.
 
 ### Risk of Misdiagnosis and "Folate Trap"
@@ -82,7 +82,7 @@
 
 ### Failure to Thrive and Stunting
 
-- Chronic vitamin B12 deficiency is associated with anorexia, poor feeding, and failure to thrive in infants.
+- Chronic [[Hematology/Vitamin B12 Deficiency\|vitamin B12 deficiency]] is associated with anorexia, poor feeding, and failure to thrive in infants.
 - Long-term deficiency can contribute to stunting (low height-for-age) and poor physical growth.
 - While "catch-up" growth in weight is often satisfactory with treatment, catch-up in height may be incomplete, leading to permanent stunting if the deficiency was prolonged during critical growth phases.
 - The deficiency affects the rapidly dividing cells of the gastrointestinal tract, leading to villous atrophy and malabsorption, which further exacerbates malnutrition and growth failure.
@@ -138,7 +138,7 @@
 - To ensure optimal long-term outcomes, treatment regimens must be aggressive.
 - Parenteral (IM/IV) vitamin B12 is recommended initially for cases with neurological symptoms to ensure rapid replenishment of stores.
 - Oral therapy is effective for maintenance or mild asymptomatic cases, but compliance must be strictly monitored to prevent recurrence.
-- In cases of infantile tremor syndrome or severe neurological regression, therapy is often continued for at least 6 months or until full neurological recovery is documented.
+- In cases of [[Neurology/Infantile Tremor Syndrome\|infantile tremor syndrome]] or severe neurological regression, therapy is often continued for at least 6 months or until full neurological recovery is documented.
 
 ### Monitoring and Follow-up
 

@@ -22,7 +22,7 @@
 - Microscopic hematuria and proteinuria.
 - Hypertension.
 - Generalized edema.
-- Nephrotic syndrome.
+- [[Nephrology/Nephrotic Syndrome\|Nephrotic syndrome]].
 - Acute or chronic renal failure.
 - Rapidly progressive glomerulonephritis encountered rarely.
 
@@ -43,7 +43,7 @@
 |Class II|Mesangial proliferative|Mesangial hypercellularity or matrix expansion on LM; mesangial immune deposits.|
 |Class III|Focal proliferative|Active/inactive focal endocapillary/extracapillary glomerulonephritis (GN) involving <50% glomeruli.|
 |Class IV|Diffuse proliferative|Active/inactive diffuse endocapillary/extracapillary GN involving ≥50% glomeruli; severe form.|
-|Class V|Membranous|Global/segmental subepithelial immune deposits; manifests as nephrotic syndrome.|
+|Class V|Membranous|Global/segmental subepithelial immune deposits; manifests as [[Nephrology/Nephrotic Syndrome\|nephrotic syndrome]].|
 |Class VI|Advanced sclerosing|≥90% global glomerulosclerosis without residual activity; irreversible chronic damage.|
 
 ## Management

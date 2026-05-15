@@ -2,11 +2,11 @@
 {"dg-publish":true,"uplink":"/nutrition/nutrition/","uptext":"Back to Index (Nutrition)","permalink":"/nutrition/syndrome-x/","dgPassFrontmatter":true}
 ---
 
-Syndrome X, widely known today as **Metabolic Syndrome**, represents a cluster of metabolic abnormalities that occur together, increasing the risk of heart disease, stroke, and type 2 diabetes. In the context of pediatrics and developing nations, its etiology is strongly linked to the "Fetal Origins of Adult Disease" (FOAD) and the double/triple burden of malnutrition.
+[[Nutrition/Syndrome X\|Syndrome X]], widely known today as **[[Endocrinology/Metabolic Syndrome\|Metabolic Syndrome]]**, represents a cluster of metabolic abnormalities that occur together, increasing the risk of heart disease, stroke, and type 2 diabetes. In the context of pediatrics and developing nations, its etiology is strongly linked to the "Fetal Origins of Adult Disease" (FOAD) and the double/triple burden of malnutrition.
 
 ### Definition and Components
 
-Syndrome X is not a single disease but a constellation of risk factors. It is characterized by the presence of:
+[[Nutrition/Syndrome X\|Syndrome X]] is not a single disease but a constellation of risk factors. It is characterized by the presence of:
 
 - **Central Obesity:** Excess abdominal fat, often assessed by Waist-Hip Ratio (WHR) or waist circumference.
 - **Insulin Resistance:** The body's cells do not respond properly to insulin, leading to hyperinsulinemia and eventually glucose intolerance.
@@ -16,7 +16,7 @@ Syndrome X is not a single disease but a constellation of risk factors. It is ch
 
 ### Etiopathogenesis: The Developmental Origins
 
-The development of Syndrome X is deeply rooted in early life nutrition and growth patterns, explained by the **Barker Hypothesis** or **Fetal Origins of Adult Disease (FOAD)**.
+The development of [[Nutrition/Syndrome X\|Syndrome X]] is deeply rooted in early life nutrition and growth patterns, explained by the **Barker Hypothesis** or **Fetal Origins of Adult Disease (FOAD)**.
 
 #### 1. Fetal Programming (The "Thrifty Phenotype")
 
@@ -31,7 +31,7 @@ The development of Syndrome X is deeply rooted in early life nutrition and growt
 
 - **Conflict of Environment:** When an infant born with a "thrifty" constitution (programmed for scarcity) encounters an environment of nutrient abundance (energy-dense foods, sedentary lifestyle) after birth, a metabolic conflict arises.
 - **Catch-up Growth:** Rapid weight gain in early childhood, particularly "crossing centiles" upward in weight-for-age or BMI, exacerbates the risk.
-- **Consequence:** The maladapted physiology cannot handle the excess load, precipitating the components of Syndrome X (obesity, diabetes, hypertension) at a younger age.
+- **Consequence:** The maladapted physiology cannot handle the excess load, precipitating the components of [[Nutrition/Syndrome X\|Syndrome X]] (obesity, diabetes, hypertension) at a younger age.
 
 #### 3. Biochemical Markers
 
@@ -40,8 +40,8 @@ The development of Syndrome X is deeply rooted in early life nutrition and growt
 
 ### Epidemiology and the "Triple Burden"
 
-- **Double/Triple Burden:** Developing countries face the coexistence of undernutrition (stunting/wasting), micronutrient deficiencies, and overnutrition (obesity). Syndrome X is the manifestation of the overnutrition side of this burden, often in individuals who were undernourished as fetuses.
-- **Asian Paradox:** South Asians tend to develop Syndrome X risk factors at a lower Body Mass Index (BMI) compared to Caucasians. This is often due to a higher percentage of body fat and central adiposity for a given BMI ("Thin Fat Indian").
+- **Double/Triple Burden:** Developing countries face the coexistence of undernutrition (stunting/wasting), micronutrient deficiencies, and overnutrition (obesity). [[Nutrition/Syndrome X\|Syndrome X]] is the manifestation of the overnutrition side of this burden, often in individuals who were undernourished as fetuses.
+- **Asian Paradox:** South Asians tend to develop [[Nutrition/Syndrome X\|Syndrome X]] risk factors at a lower Body Mass [[Statistics/Index\|Index]] (BMI) compared to Caucasians. This is often due to a higher percentage of body fat and central adiposity for a given BMI ("Thin Fat Indian").
 
 ### Clinical Assessment and Diagnosis
 
@@ -49,7 +49,7 @@ Diagnosis in children and adolescents requires careful evaluation of anthropomet
 
 #### 1. Anthropometry
 
-- **Body Mass Index (BMI):** Used to screen for overweight (>85th percentile) and obesity (>95th percentile).
+- **Body Mass [[Statistics/Index\|Index]] (BMI):** Used to screen for overweight (>85th percentile) and obesity (>95th percentile).
 - **Central Adiposity:**
     - **Waist-Hip Ratio (WHR):** A WHR > 0.9 in males and > 0.8 in females indicates central (apple-shaped) obesity, which is metabolically more harmful than peripheral (pear-shaped) obesity.
     - **Skinfold Thickness:** Increased thickness at triceps, subscapularis, and supra-iliac regions indicates high body fat.
@@ -58,7 +58,7 @@ Diagnosis in children and adolescents requires careful evaluation of anthropomet
 
 - **Acanthosis Nigricans:** A reliable cutaneous marker for insulin resistance. It presents as dark, velvety thickening of the skin, typically found on the neck (posterior nuchal region) and axillae.
 - **Blood Pressure:** Essential to detect hypertension, a key component of the syndrome.
-- **Polycystic Ovarian Syndrome (PCOS):** In adolescent girls, irregular menses, hirsutism, and acne may indicate PCOS, which is strongly associated with insulin resistance and Syndrome X.
+- **Polycystic Ovarian Syndrome (PCOS):** In adolescent girls, irregular menses, hirsutism, and acne may indicate PCOS, which is strongly associated with insulin resistance and [[Nutrition/Syndrome X\|Syndrome X]].
 
 #### 3. Laboratory Evaluation
 
@@ -66,15 +66,15 @@ Screening is recommended for overweight children with risk factors.
 
 - **Lipid Profile:** Elevated triglycerides and Low-Density Lipoprotein (LDL); decreased High-Density Lipoprotein (HDL).
 - **Glucose Homeostasis:** Fasting blood glucose, HbA1c, and fasting insulin levels to assess for insulin resistance and diabetes.
-- **Liver Function:** To screen for Non-Alcoholic Fatty Liver Disease (NAFLD), a hepatic manifestation of Syndrome X characterized by elevated ALT/AST.
+- **Liver Function:** To screen for Non-Alcoholic Fatty Liver Disease (NAFLD), a hepatic manifestation of [[Nutrition/Syndrome X\|Syndrome X]] characterized by elevated ALT/AST.
 
 ### Complications and Comorbidities
 
-Syndrome X predisposes the child to early-onset adult diseases:
+[[Nutrition/Syndrome X\|Syndrome X]] predisposes the child to early-onset adult diseases:
 
 - **Cardiovascular Disease (CVD):** Hypertension, early atherosclerosis, and coronary artery disease.
 - **Type 2 Diabetes Mellitus (NIDDM):** Resulting from progressive insulin resistance and beta-cell exhaustion.
-- **Respiratory:** Obstructive Sleep Apnea (OSA) and Pickwickian syndrome (extreme obesity with hypoventilation, cyanosis, and cardiac failure).
+- **Respiratory:** [[Respiratory/Obstructive Sleep Apnea\|Obstructive Sleep Apnea]] (OSA) and Pickwickian syndrome (extreme obesity with hypoventilation, cyanosis, and cardiac failure).
 - **Orthopedic:** Slipped capital femoral epiphysis (SCFE) and Blount disease.
 - **Psychosocial:** Depression, low self-esteem, and social stigmatization.
 

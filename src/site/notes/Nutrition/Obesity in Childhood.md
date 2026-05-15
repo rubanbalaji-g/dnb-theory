@@ -2,11 +2,11 @@
 {"dg-publish":true,"permalink":"/nutrition/obesity-in-childhood/","dgPassFrontmatter":true}
 ---
 
-Childhood obesity is a complex, multifactorial chronic disease defined by excess body fat (adiposity) sufficient to impair health. It is emerging as a serious public health challenge in developing countries like India, coexisting with undernutrition, a phenomenon termed the "Double Burden of Malnutrition".
+Childhood obesity is a complex, multifactorial chronic disease defined by excess body fat (adiposity) sufficient to impair health. It is emerging as a serious public health challenge in developing countries like India, coexisting with undernutrition, a phenomenon termed the "[[Nutrition/Double Burden of Malnutrition\|Double Burden of Malnutrition]]".
 
 ### 1. Definition and Classification
 
-Obesity is defined as an excess of body fat. Since direct measurement of body fat is difficult in clinical settings, **Body Mass Index (BMI)** is the standard proxy used for assessment.
+Obesity is defined as an excess of body fat. Since direct measurement of body fat is difficult in clinical settings, **Body Mass [[Statistics/Index\|Index]] (BMI)** is the standard proxy used for assessment.
 
 - **Formula:** $BMI = \frac{Weight (kg)}{Height (m)^2}$
 - **Adiposity Rebound:** BMI is high in infancy, decreases to a nadir around 5–6 years, and then increases through adolescence. This physiological rise is called "adiposity rebound". Early adiposity rebound is a risk factor for adult obesity.
@@ -29,7 +29,7 @@ Obesity is defined as an excess of body fat. Since direct measurement of body fa
 
 - **Global:** The prevalence has increased dramatically, often described as an "epidemic". In the US, prevalence increased by 300% over 40 years.
 - **India:** There is a steep rise in urban areas and among affluent families.
-    - According to **NFHS-5 (2019-21)**, about **4%** of children aged 5–9 years are overweight/obese. In the 10–19 years group, the prevalence is **5%**.
+    - According to **NFHS-5 (2019-21)**, [[About\|about]] **4%** of children aged 5–9 years are overweight/obese. In the 10–19 years group, the prevalence is **5%**.
     - **Tracking:** Obesity tracks strongly into adulthood; 50–80% of obese children become obese adults.
 
 ### 3. Etiopathogenesis
@@ -56,13 +56,13 @@ Obesity results from a chronic imbalance where energy intake exceeds energy expe
     - **Laurence-Moon-Biedl Syndrome:** Obesity, retinitis pigmentosa, polydactyly, and hypogonadism.
 - **Endocrine Causes:** Rare (<1% of cases).
     - **Hypothyroidism:** Short stature with weight gain.
-    - **Cushing Syndrome:** Central obesity, moon face, hypertension, striae, and growth arrest.
+    - **[[Endocrinology/Cushing Syndrome\|Cushing Syndrome]]:** Central obesity, moon face, hypertension, striae, and growth arrest.
     - **Growth Hormone Deficiency:** Reduced lean body mass and increased adiposity.
 
 #### C. Fetal Programming (Barker’s Hypothesis)
 
 - **FOAD:** Fetal Origins of Adult Disease hypothesis suggests that intrauterine malnutrition (leading to Low Birth Weight or IUGR) programs the fetus for survival in a scarce environment ("Thrifty Phenotype").
-- **Mismatch:** When these infants are exposed to nutrient abundance postnatally, they develop rapid "catch-up growth," leading to central adiposity, insulin resistance, and metabolic syndrome later in life.
+- **Mismatch:** When these infants are exposed to nutrient abundance postnatally, they develop rapid "catch-up growth," leading to central adiposity, insulin resistance, and [[Endocrinology/Metabolic Syndrome\|metabolic syndrome]] later in life.
 
 ### 4. Clinical Assessment
 
@@ -96,13 +96,13 @@ Routine screening is recommended for children with BMI $\ge$ 85th percentile (ov
 Obesity affects nearly every organ system:
 
 - **Metabolic:**
-    - **Metabolic Syndrome:** A cluster of central obesity, hypertension, dyslipidemia, and glucose intolerance.
+    - **[[Endocrinology/Metabolic Syndrome\|Metabolic Syndrome]]:** A cluster of central obesity, hypertension, dyslipidemia, and glucose intolerance.
     - **Type 2 Diabetes:** Rising incidence in adolescents; linked to insulin resistance.
 - **Gastrointestinal:**
-    - **NAFLD (Non-Alcoholic Fatty Liver Disease):** Most common chronic liver disease in children; can progress to steatohepatitis (NASH) and cirrhosis.
+    - **NAFLD (Non-Alcoholic Fatty Liver Disease):** Most common [[Gastrointestinal/Chronic Liver Disease\|chronic liver disease]] in children; can progress to steatohepatitis (NASH) and cirrhosis.
     - Gallstones.
 - **Respiratory:**
-    - **Obstructive Sleep Apnea (OSA):** Caused by fat deposition in the pharyngeal wall; presents with snoring and daytime somnolence.
+    - **[[Respiratory/Obstructive Sleep Apnea\|Obstructive Sleep Apnea]] (OSA):** Caused by fat deposition in the pharyngeal wall; presents with snoring and daytime somnolence.
     - **Pickwickian Syndrome:** Obesity hypoventilation syndrome with cyanosis and heart failure (rare).
 - **Orthopedic:** Slipped Capital Femoral Epiphysis (SCFE), Blount disease (tibia vara), flat feet.
 - **Psychosocial:** Poor self-esteem, depression, body image dissatisfaction, and social stigmatization (bullying).
@@ -154,6 +154,6 @@ Considered only for adolescents who have reached skeletal maturity (Tanner stage
 ### 7. Prevention
 
 - **Primordial Prevention:** Preventing the emergence of risk factors.
-    - **Life Cycle Approach:** Ensure optimal maternal nutrition (prevent LBW), encourage exclusive breastfeeding for 6 months (protective effect), and timely complementary feeding.
+    - **Life Cycle Approach:** Ensure optimal maternal nutrition (prevent LBW), encourage exclusive breastfeeding for 6 months (protective effect), and timely [[Nutrition/Complementary Feeding\|complementary feeding]].
     - **Growth Monitoring:** Identifying upward crossing of centiles (e.g., BMI rebound) early.
 - **Societal/Policy:** Regulating junk food marketing, labeling (traffic light system on packs), ensuring playgrounds in schools, and promoting "Malnutrition Free India".

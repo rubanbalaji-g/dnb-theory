@@ -2,15 +2,15 @@
 {"dg-publish":true,"uplink":"/nutrition/nutrition/","uptext":"Back to Index (Nutrition)","permalink":"/nutrition/parameters-to-detect-undernutrition/","dgPassFrontmatter":true}
 ---
 
-Undernutrition is a condition resulting from inadequate consumption, poor accretion, or excessive loss of nutrients. It encompasses a spectrum including underweight, stunting, wasting, and micronutrient deficiencies (hidden hunger). Accurate assessment requires a multi-modal approach involving dietary, clinical, and anthropometric evaluation.
+Undernutrition is a condition resulting from inadequate consumption, poor accretion, or excessive loss of nutrients. It encompasses a spectrum including underweight, stunting, wasting, and micronutrient deficiencies ([[Nutrition/Hidden Hunger\|hidden hunger]]). Accurate assessment requires a multi-modal approach involving dietary, clinical, and anthropometric evaluation.
 
 ## 1. Dietary Assessment
 
 Dietary history is crucial to identify the cause of undernutrition (calorie gap vs. protein gap) and assessing feeding practices.
 
 - **24-Hour Recall:** This is the most common tool used in clinical practice. The parent is asked to list all foods and drinks consumed in the last 24 hours.
-    - The intake is converted into calories and proteins using standard tables and compared against the Recommended Dietary Allowance (RDA) for the age to calculate the **Nutrient Gap**.
-- **Assessment of Breastfeeding and Complementary Feeding:**
+    - The intake is converted into calories and proteins using standard tables and compared against the Recommended Dietary Allowance ([[Nutrition/RDA\|RDA]]) for the age to calculate the **Nutrient Gap**.
+- **Assessment of Breastfeeding and [[Nutrition/Complementary Feeding\|Complementary Feeding]]:**
     - **0–6 Months:** Check for exclusive breastfeeding. If non-exclusive, assess dilution of animal milk and use of bottles.
     - **6–24 Months:** This is the "weakest link" in child nutrition. Assess for timely introduction (at 6 months), frequency, consistency (thick vs. thin gruel), and dietary diversity (minimum 4 food groups).
 - **Food Frequency Questionnaire:** Used to assess the intake of specific food groups (protective foods like vegetables/fruits) over a week to detect micronutrient deficits.
@@ -22,7 +22,7 @@ Anthropometry is the gold standard for evaluating nutritional status.
 ### A. Weight
 
 - **Weight-for-Age (WFA):**
-    - It is the most commonly used index but does not distinguish between acute and chronic malnutrition (wasting vs. stunting).
+    - It is the most commonly used [[Statistics/Index\|index]] but does not distinguish between acute and chronic malnutrition (wasting vs. stunting).
     - **Underweight:** Defined as WFA < -2 SD (Z-score) on WHO Growth Standards.
     - **Growth Monitoring:** Serial weight measurements plotted on a "Road to Health" chart are vital. A flattening or downward curve indicates growth faltering even if the single reading is within normal limits.
     - **Low Weight:** In IMNCI, low weight is defined as weight-for-age line below the -2 SD (yellow track on MCP card).
@@ -51,7 +51,7 @@ Anthropometry is the gold standard for evaluating nutritional status.
     - **Yellow (11.5 to 12.4 cm):** Moderate Acute Malnutrition (MAM).
     - **Green ($\ge$ 12.5 cm):** Normal.
 
-### E. Body Mass Index (BMI)
+### E. Body Mass [[Statistics/Index\|Index]] (BMI)
 
 - **Formula:** Weight (kg) / Height ($m^2$).
 - **Application:**
@@ -77,7 +77,7 @@ Clinical signs indicate severe or specific nutrient deficiencies.
 
 ### C. Specific Deficiency Signs (Vitamin/Mineral)
 
-- **Vitamin A:** Bitot’s spots, corneal xerosis, keratomalacia, night blindness.
+- **[[Nutrition/Vitamin A\|Vitamin A]]:** Bitot’s spots, corneal xerosis, keratomalacia, night blindness.
 - **Iron:** Pallor (palmar, conjunctival).
 - **Vitamin D (Rickets):** Frontal bossing, wide open fontanelle, rachitic rosary, epiphyseal enlargement.
 - **Skin Changes:** "Flaky paint" dermatosis, depigmentation, and "Crazy pavement" dermatosis are seen in Kwashiorkor.
@@ -161,7 +161,7 @@ For infants **< 6 months**, SAM is defined by:
 ## 7. Other Parameters
 
 - **Age-Independent Indices:** Used when exact age is unknown.
-    - _Rao and Singh Index:_ Weight/Height$^2$.
-    - _Kanawati Index:_ MUAC / Head Circumference ratio (< 0.25 indicates severe malnutrition).
+    - _Rao and Singh [[Statistics/Index\|Index]]:_ Weight/Height$^2$.
+    - _Kanawati [[Statistics/Index\|Index]]:_ MUAC / Head Circumference ratio (< 0.25 indicates severe malnutrition).
 - **Biochemical:** Low serum albumin, transferrin, and pre-albumin are indicators, but anthropometry is preferred for diagnosis.
 - **Developmental Assessment:** Malnutrition affects brain growth; assessment of developmental milestones (gross motor, fine motor) is integral, using tools like the Trivandrum Developmental Screening Chart (TDSC).

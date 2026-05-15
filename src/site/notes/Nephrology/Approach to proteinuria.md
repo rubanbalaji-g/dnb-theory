@@ -29,15 +29,15 @@
 
 ### History and Physical Examination
 
-- A comprehensive history must inquire about recent infectious illnesses, visible hematuria, facial or peripheral swelling, and the use of nephrotoxic medications like nonsteroidal anti-inflammatory drugs (NSAIDs).
+- A comprehensive history must inquire [[About\|about]] recent infectious illnesses, visible hematuria, facial or peripheral swelling, and the use of nephrotoxic medications like nonsteroidal anti-inflammatory drugs (NSAIDs).
 - The clinician should elicit any family history of kidney disease, deafness, or autoimmune conditions.
 - Physical examination requires accurate blood pressure measurement to screen for hypertension, assessment of volume status (edema, jugular venous pulse, hepatomegaly), and evaluation of systemic signs such as a vasculitic rash, arthritis, or dysmorphic features.
 
 ### Laboratory and Imaging Investigations
 
-- **Urine Studies:** Urine phase-contrast microscopy is essential to detect dysmorphic red blood cells (RBCs) or RBC casts, which confirm a glomerular origin of the proteinuria. Urine cultures should be obtained if leukocyturia or urinary tract infection symptoms are present.
+- **Urine Studies:** Urine phase-contrast microscopy is essential to detect dysmorphic red blood cells (RBCs) or RBC casts, which confirm a glomerular origin of the proteinuria. Urine cultures should be obtained if leukocyturia or [[Nephrology/Urinary Tract Infection\|urinary tract infection]] symptoms are present.
 - **Blood Biochemistry:** Measure serum urea, creatinine, electrolytes, and albumin. The estimated Glomerular Filtration Rate (eGFR) must be calculated using the bedside Schwartz formula.
-- **Immunological Workup:** Serum complement levels (C3 and C4) are mandatory; low C3 suggests post-infectious glomerulonephritis or C3 glomerulopathy, while low C3 and C4 indicate lupus nephritis. Additional serology includes Antinuclear Antibodies (ANA), anti-double-stranded DNA, Antistreptolysin O (ASOT), and Antineutrophil Cytoplasmic Antibodies (ANCA) based on clinical suspicion.
+- **Immunological Workup:** Serum complement levels (C3 and C4) are mandatory; low C3 suggests post-infectious glomerulonephritis or C3 glomerulopathy, while low C3 and C4 indicate [[Rheumatology/Lupus Nephritis\|lupus nephritis]]. Additional serology includes Antinuclear Antibodies (ANA), anti-double-stranded DNA, Antistreptolysin O (ASOT), and Antineutrophil Cytoplasmic Antibodies (ANCA) based on clinical suspicion.
 - **Imaging:** Renal ultrasonography is routinely performed to evaluate kidney size, assess for structural anomalies, and rule out hypodysplasia or scarring.
 
 ## Indications for Kidney Biopsy
@@ -47,12 +47,12 @@
 - Reduced eGFR or unexplained kidney failure,.
 - Persistently low serum complement C3 lasting beyond 12 weeks,.
 - Sustained hypertension or marked hypoalbuminemia.
-- Systemic features suggestive of diseases like lupus nephritis or IgA vasculitis.
-- Failure to respond to a standard 4 to 6-week course of corticosteroid therapy (steroid-resistant nephrotic syndrome),.
+- Systemic features suggestive of diseases like [[Rheumatology/Lupus Nephritis\|lupus nephritis]] or IgA vasculitis.
+- Failure to respond to a standard 4 to 6-week course of corticosteroid therapy (steroid-resistant [[Nephrology/Nephrotic Syndrome\|nephrotic syndrome]]),.
 
 ## Management Principles
 
-- Proteinuria is a potent, independent risk factor for the progression of chronic kidney disease (CKD) and requires targeted intervention,.
+- Proteinuria is a potent, independent risk factor for the progression of [[Nephrology/Chronic Kidney Disease\|chronic kidney disease]] (CKD) and requires targeted intervention,.
 - Pharmacological management centers on renin-angiotensin-aldosterone system (RAAS) blockade; Angiotensin-Converting Enzyme inhibitors (ACEi) or Angiotensin II Receptor Blockers (ARBs) are the preferred first-line agents to lower intraglomerular pressure and suppress proteinuria,.
 - Strict blood pressure control is paramount, aiming for a target systolic and diastolic blood pressure below the 50th percentile for the child's age, sex, and height,.
 - Dietary sodium restriction is advised to optimize blood pressure control and enhance the antiproteinuric efficacy of RAAS blockade.

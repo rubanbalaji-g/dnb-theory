@@ -4,7 +4,7 @@
 
 ## Definition And Pathophysiology
 
-Myasthenia gravis is a chronic autoimmune disease of the postsynaptic neuromuscular junction that leads to abnormal neuromuscular transmission or blockade.
+[[Neuromuscular/Myasthenia Gravis\|Myasthenia gravis]] is a chronic autoimmune disease of the postsynaptic neuromuscular junction that leads to abnormal neuromuscular transmission or blockade.
 
 - **Pathophysiology:** Acetylcholine release into the synaptic cleft is normal, but the postsynaptic muscle membrane (motor end plate) is less responsive.
 - **Mechanism:** Autoantibodies target the postsynaptic acetylcholine receptor, causing abnormal architecture, abnormal folding of the postsynaptic membrane, and a decreased number of available receptors.
@@ -13,7 +13,7 @@ Myasthenia gravis is a chronic autoimmune disease of the postsynaptic neuromuscu
 
 ## Classification And Clinical Features
 
-The hallmark of myasthenia gravis is fatigable weakness of striated muscles, which worsens with sustained activity, improves with rest, and shows diurnal variation (least severe in the morning). Sensation and pupillary reactions remain normal, and fasciculations are absent.
+The hallmark of [[Neuromuscular/Myasthenia Gravis\|myasthenia gravis]] is fatigable weakness of striated muscles, which worsens with sustained activity, improves with rest, and shows diurnal variation (least severe in the morning). Sensation and pupillary reactions remain normal, and fasciculations are absent.
 
 ### Clinical Subtypes
 
@@ -31,7 +31,7 @@ Diagnosis relies on pharmacological testing, electrophysiology, serology, and im
 
 |Investigation Category|Specific Test & Methodology|Findings & Interpretation|
 |:--|:--|:--|
-|**Pharmacological Tests**|**Edrophonium (Tensilon) test:** 0.1-0.2 mg/kg intravenous.|Transient resolution of ptosis, ophthalmoplegia, or dysarthria within 10-120 seconds. Not recommended in infants due to high risk of cardiac arrhythmias.|
+|**Pharmacological Tests**|**Edrophonium (Tensilon) test:** 0.1-0.2 mg/kg intravenous.|Transient resolution of ptosis, ophthalmoplegia, or dysarthria within 10-120 seconds. Not recommended in infants due to high risk of [[Cardiology/Cardiac arrhythmias\|cardiac arrhythmias]].|
 ||**Neostigmine test:** 0.04-0.125 mg/kg intramuscular.|Clinical improvement observed in 10-30 minutes. Safer alternative for infants.|
 |**Electrophysiological Studies**|**Repetitive nerve stimulation:** Applied to distal and proximal muscles.|Decremental response of >10% in compound muscle action potential amplitude is diagnostic.|
 ||**Single-fiber electromyography:** Specialized needle electrode study.|Shows increased jitter or blocking; it is the most sensitive electrophysiological test.|
@@ -41,11 +41,11 @@ Diagnosis relies on pharmacological testing, electrophysiology, serology, and im
 
 ## Differential Diagnosis
 
-Distinguishing myasthenia gravis from other causes of childhood weakness is critical.
+Distinguishing [[Neuromuscular/Myasthenia Gravis\|myasthenia gravis]] from other causes of childhood weakness is critical.
 
 |Differential Diagnosis|Overlapping Features|Distinguishing Features|
 |:--|:--|:--|
-|**Spinal Muscular Atrophy**|[[Neuromuscular/Approach to a floppy infant\|Approach to a floppy infant]], muscle weakness, bulbar/respiratory involvement.|Absence of ptosis and facial weakness; absent deep tendon reflexes; presence of tongue fasciculations; genetics confirm survival motor neuron 1 deletion.|
+|**[[Neuromuscular/Spinal Muscular Atrophy\|Spinal Muscular Atrophy]]**|[[Neuromuscular/Approach to a floppy infant\|Approach to a floppy infant]], muscle weakness, bulbar/respiratory involvement.|Absence of ptosis and facial weakness; absent deep tendon reflexes; presence of tongue fasciculations; genetics confirm survival motor neuron 1 deletion.|
 |**Congenital Myotonic Dystrophy**|[[Neuromuscular/Approach to a floppy infant\|Approach to a floppy infant]], facial weakness, ptosis, bulbar involvement.|Maternal history of myotonic dystrophy; electromyography shows myotonia without decremental response; genetic testing confirmatory.|
 |**Congenital Myopathies**|Hypotonia, facial weakness, variable ptosis, bulbar involvement.|Characteristic muscle biopsy findings (e.g., nemaline rods, central cores); no decremental response on repetitive nerve stimulation.|
 |**Botulism**|Acute onset bulbar weakness, ptosis, hypotonia, ophthalmoplegia.|History of honey consumption or soil exposure; dilated and poorly reactive pupils; constipation.|

@@ -22,7 +22,7 @@
 ### Neonatal And Infantile Features
 
 - Identification typically occurs during infancy.
-- Presenting features include hypotonia, motor delay, feeding difficulties, breath-holding spells followed by syncope, and recurrent pneumonia leading to chronic lung disease.
+- Presenting features include hypotonia, motor delay, feeding difficulties, [[Development/Breath-Holding Spells\|breath-holding spells]] followed by syncope, and [[Respiratory/Recurrent Pneumonia\|recurrent pneumonia]] leading to [[Respiratory/Chronic Lung Disease\|chronic lung disease]].
 
 ### Systemic And Autonomic Features
 
@@ -32,12 +32,12 @@
 |**Sensory**|Insensitivity to pain leading to frequent traumatic injuries, reduced temperature sensation, and a general inability to detect noxious stimuli.|
 |**Ocular**|Corneal ulcerations resulting from decreased corneal sensation and xerophthalmia, optic nerve involvement impairing visual acuity.|
 |**Neuromuscular**|Ataxic gait, delayed walking, absent deep tendon reflexes, and progressive scoliosis or kyphosis.|
-|**Other**|Cardiac arrhythmias (prolonged QT interval, bradycardia), seizures in approximately 40% of cases, emotional lability, and short stature.|
+|**Other**|[[Cardiology/Cardiac arrhythmias\|Cardiac arrhythmias]] (prolonged QT interval, bradycardia), seizures in approximately 40% of cases, emotional lability, and short stature.|
 
 ### Dysautonomic Crises
 
 - Crises typically begin after 3 years of age.
-- They are characterised by attacks of cyclic vomiting lasting 24-72 hours, retching, tachycardia, hypertension, profuse sweating, skin blotching, prominent gastric distention, and sometimes hematemesis.
+- They are characterised by attacks of cyclic vomiting lasting 24-72 hours, retching, tachycardia, hypertension, profuse sweating, skin blotching, prominent gastric distention, and sometimes [[Gastrointestinal/Hematemesis\|hematemesis]].
 
 ## Investigations And Diagnostic Criteria
 

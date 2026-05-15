@@ -8,7 +8,7 @@ Severe Acute Malnutrition (SAM) is no longer viewed simply as a deficiency of ma
 ## II. EVOLUTION OF THE "REDUCTIVE ADAPTATION" CONCEPT
 Historically, SAM was described through "reductive adaptation"—a physiological slowdown to conserve energy.
 * **Classical View:** Reduced basal metabolic rate (BMR), decreased protein turnover, and slowing of the sodium-potassium pump to preserve ATP.
-* **Recent Advance:** We now understand this is not a stable state but a "fragile equilibrium." Minor stressors (infection, rapid feeding) lead to "dyadaptation," manifesting as the Refeeding Syndrome or sudden metabolic collapse.
+* **Recent Advance:** We now understand this is not a stable state but a "fragile equilibrium." Minor stressors (infection, rapid feeding) lead to "dyadaptation," manifesting as the [[Nutrition/Refeeding Syndrome\|Refeeding Syndrome]] or sudden metabolic collapse.
 
 ## III. THE GUT-MICROBIOME AXIS: THE CENTRAL PARADIGM SHIFT
 The most profound recent advances involve the role of the gut as a driver of systemic pathology rather than just a site of malabsorption.
@@ -59,4 +59,4 @@ The Golden/Ramdath theory of oxidative stress remains a cornerstone but has been
 ## IX. CLINICAL IMPLICATIONS OF RECENT ADVANCES
 * **Antibiotic Use:** Validates the routine use of antibiotics even in "uncomplicated" SAM to dampen the EED-microbial translocation cycle.
 * **Beyond Calories:** Shifts the focus from "weight gain" to "functional recovery" (lean mass, cognitive development, and immune competence).
-* **Follow-up:** Necessity of long-term monitoring for metabolic syndrome in SAM survivors.
+* **Follow-up:** Necessity of long-term monitoring for [[Endocrinology/Metabolic Syndrome\|metabolic syndrome]] in SAM survivors.

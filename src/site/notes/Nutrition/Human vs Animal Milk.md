@@ -21,7 +21,7 @@ Human milk is "species-specific," uniquely adapted to meet the nutritional, immu
 
 ### 2. Lipid Composition
 
-- **Quantity:** Both milks contain similar total fat (~3.5–3.8 g/100 ml), providing about 50% of total energy.
+- **Quantity:** Both milks contain similar total fat (~3.5–3.8 g/100 ml), providing [[About\|about]] 50% of total energy.
 - **Quality:**
     - **Essential Fatty Acids (EFA):** Human milk is rich in Linoleic acid (LA) and Alpha-linolenic acid (ALA). It has a Polyunsaturated/Saturated (P/S) ratio of **1.2:1**, whereas cow's milk has a ratio of **1:2** (mostly saturated fats).
     - **LCPs (DHA & ARA):** Human milk contains Long-Chain Polyunsaturated Fatty Acids (Docosahexaenoic acid and Arachidonic acid), critical for brain myelination and retinal development. These are virtually absent in cow's milk.
@@ -40,7 +40,7 @@ Human milk is "species-specific," uniquely adapted to meet the nutritional, immu
 - **Calcium and Phosphorus:**
     - Cow's milk contains much higher absolute amounts of calcium and phosphorus but in a non-physiological ratio (Ca:P < 2:1). High phosphate interferes with calcium absorption, causing hypocalcemic tetany.
     - Human milk has less calcium but a physiological **Ca:P ratio of >2:1**, ensuring optimal absorption and bone mineralization.
-- **Iron:** Both are low in iron, but absorption from human milk is ~50% (due to lactoferrin and Vitamin C) compared to ~10% from cow's milk. Cow's milk feeding is a major cause of iron deficiency anemia due to poor absorption and occult intestinal blood loss.
+- **Iron:** Both are low in iron, but absorption from human milk is ~50% (due to lactoferrin and Vitamin C) compared to ~10% from cow's milk. Cow's milk feeding is a major cause of [[Hematology/Iron Deficiency Anemia\|iron deficiency anemia]] due to poor absorption and occult intestinal blood loss.
 - **Sodium:** Cow's milk has nearly triple the sodium content (2.2 mEq/dL) of human milk (0.7 mEq/dL), predisposing to hypernatremia.
 
 ### 5. Vitamins
@@ -65,7 +65,7 @@ Human milk is "species-specific," uniquely adapted to meet the nutritional, immu
 
 ## Difference in Milk Composition: Preterm vs. Term
 
-Mothers delivering prematurely produce "Preterm Milk" (PTM), which is biologically adapted to meet the rapid growth needs and immature physiology of the preterm infant. This difference typically persists for about 4 weeks.
+Mothers delivering prematurely produce "Preterm Milk" (PTM), which is biologically adapted to meet the rapid growth needs and immature physiology of the preterm infant. This difference typically persists for [[About\|about]] 4 weeks.
 
 ### 1. Protein and Nitrogen
 
@@ -92,7 +92,7 @@ Mothers delivering prematurely produce "Preterm Milk" (PTM), which is biological
 
 ## Immunological Factors in Human Milk
 
-Human milk acts as a "living fluid," providing passive immunity and modulating the infant's active immune system. These factors are absent in formula.
+Human milk acts as a "living fluid," providing [[Infectious Diseases/Passive Immunity\|passive immunity]] and modulating the infant's active immune system. These factors are absent in formula.
 
 ### 1. Humoral (Soluble) Factors
 
@@ -115,7 +115,7 @@ Human milk acts as a "living fluid," providing passive immunity and modulating t
     - Contains IL-10 (anti-inflammatory), Epidermal Growth Factor (EGF), and Nerve Growth Factor (NGF). These promote gut maturation, reduce inflammation (protecting against NEC), and aid neural development.
 - **Other Factors:**
     - **Fibronectin:** Enhances macrophage activity.
-    - **PABA Deficiency:** Milk is deficient in Para Amino Benzoic Acid, which suppresses malaria parasites that require it for growth.
+    - **PABA Deficiency:** Milk is deficient in Para Amino Benzoic Acid, which suppresses [[Infectious Diseases/Malaria\|malaria]] parasites that require it for growth.
     - **BSSL:** Hydrolyzes bacterial lipids and kills protozoa like _Giardia_ and _Amoeba_.
 
 ### 2. Cellular Components

@@ -45,14 +45,14 @@
 ### 1. Premature Infants
 
 - **Hemolytic Anemia of Prematurity:** Used to prevent or treat hemolytic anemia characterized by reticulocytosis, low hemoglobin, and hyperbilirubinemia appearing at 4–6 weeks of age. Premature infants are born with low stores and often face high oxidative stress.
-- **Retinopathy of Prematurity (ROP):** Due to its antioxidant properties, it has been used to reduce the severity of ROP, although maintaining physiological levels is the current goal.
+- **[[Neonatalogy/Retinopathy of prematurity\|Retinopathy of Prematurity]] (ROP):** Due to its antioxidant properties, it has been used to reduce the severity of ROP, although maintaining physiological levels is the current goal.
 - **Bronchopulmonary Dysplasia (BPD):** Used as an antioxidant therapy to potentially mitigate lung injury caused by oxygen toxicity.
-- **Intraventricular Hemorrhage (IVH):** Some studies suggest a role in reduction, though this is not a standard monotherapy.
+- **[[Neonatalogy/Intraventricular hemorrhage\|Intraventricular Hemorrhage]] (IVH):** Some studies suggest a role in reduction, though this is not a standard monotherapy.
 
 ### 2. Malabsorption Syndromes
 
 - Therapeutic supplementation is indicated in conditions characterized by chronic steatorrhea (fat malabsorption) where Vitamin E absorption is compromised:
-    - **Cystic Fibrosis:** Pancreatic insufficiency leads to poor absorption.
+    - **[[Respiratory/Cystic Fibrosis\|Cystic Fibrosis]]:** Pancreatic insufficiency leads to poor absorption.
     - **Cholestatic Liver Disease:** Decreased bile salts prevent micelle formation necessary for absorption (e.g., [[Gastrointestinal/Biliary Atresia\|Biliary Atresia]]).
     - **Abetalipoproteinemia:** Genetic absence of apolipoprotein B prevents the formation of chylomicrons, making Vitamin E transport impossible.
     - **Short Bowel Syndrome:** Reduced absorptive surface area.
@@ -60,11 +60,11 @@
 
 ### 3. Genetic Disorders of Transport
 
-- **Ataxia with Vitamin E Deficiency (AVED):** A rare autosomal recessive disorder caused by mutations in the $\alpha$-tocopherol transfer protein (_TTPA_) gene. These patients cannot secrete Vitamin E from the liver into the circulation. High-dose therapy is the primary treatment.
+- **Ataxia with [[Nutrition/Vitamin E Deficiency\|Vitamin E Deficiency]] (AVED):** A rare autosomal recessive disorder caused by mutations in the $\alpha$-tocopherol transfer protein (_TTPA_) gene. These patients cannot secrete Vitamin E from the liver into the circulation. High-dose therapy is the primary treatment.
 
 ### 4. Other Potential Uses
 
-- **Hemolytic Anemias:** Used as an adjunct in G6PD deficiency and Thalassemia to reduce oxidative hemolysis.
+- **Hemolytic Anemias:** Used as an adjunct in G6PD deficiency and [[Hematology/Thalassemia\|Thalassemia]] to reduce oxidative hemolysis.
 - **Skin Conditions:** Topical or oral use for wound healing and reduction of scarring (e.g., phrynoderma).
 - **Fatty Liver:** Investigated for use in Non-Alcoholic Fatty Liver Disease (NAFLD).
 
@@ -88,7 +88,7 @@ Deficiency is rare in healthy individuals consuming a varied diet. It is almost 
 - **Muscle Weakness:** Proximal muscle weakness and myopathy.
 - **Pigmentary Retinopathy:** Can progress to visual field constriction and blindness.
 
-## Management of Vitamin E Deficiency
+## Management of [[Nutrition/Vitamin E Deficiency\|Vitamin E Deficiency]]
 
 ### 1. Prevention
 
@@ -104,7 +104,7 @@ Deficiency is rare in healthy individuals consuming a varied diet. It is almost 
     - **Dose:** 20–50 IU/day (or 15–25 IU/kg/day) orally.
     - **Duration:** Typically given for 1 week or until the deficiency is corrected.
     - Parenteral administration may be used if oral intake is not feasible.
-- **Chronic Malabsorption (Cholestasis, Cystic Fibrosis):**
+- **Chronic Malabsorption (Cholestasis, [[Respiratory/Cystic Fibrosis\|Cystic Fibrosis]]):**
     - **Oral Dosage:** 15–25 IU/kg/day. Doses may need to be titrated significantly higher (up to 100–200 IU/kg/day) based on serum levels.
     - **Water-Soluble Forms:** In severe cholestasis, water-soluble forms like **TPGS** (Tocopherol Polyethylene Glycol-1000 Succinate) are preferred as they can be absorbed without bile salts.
 - **Abetalipoproteinemia and AVED:**
@@ -117,7 +117,7 @@ Deficiency is rare in healthy individuals consuming a varied diet. It is almost 
     - Deficiency: <0.5 mg/dL.
 - **Vitamin E to Lipid Ratio:**
     - Because Vitamin E circulates bound to lipids, serum levels can be artificially elevated in hyperlipidemia and low in hypolipidemia.
-    - The ratio of Serum Vitamin E (mg) to Total Serum Lipids (g) is the most accurate index.
+    - The ratio of Serum Vitamin E (mg) to Total Serum Lipids (g) is the most accurate [[Statistics/Index\|index]].
     - **Normal Ratio:** >0.8 mg/g (adults/older children) and >0.6 mg/g (infants).
 
 ## Hypervitaminosis E (Toxicity)

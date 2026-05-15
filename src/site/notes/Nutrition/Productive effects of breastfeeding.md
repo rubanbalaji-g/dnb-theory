@@ -12,9 +12,9 @@ Hypoglycemia is less common in healthy, exclusively breastfed infants due to the
 - **On-Demand Feeding:**
     - Breastfeeding is typically practiced on an "exclusive demand" basis. This frequent feeding allows for self-regulation by the baby, ensuring a continuous supply of substrates (lactose and fat) to meet energy needs, preventing the fasting states that might precipitate hypoglycemia.
 
-## Low Prevalence of Iron Deficiency Anemia
+## Low Prevalence of [[Hematology/Iron Deficiency Anemia\|Iron Deficiency Anemia]]
 
-Although human milk contains less total iron than formula or cow's milk, breastfed infants rarely develop iron deficiency anemia in the first 6 months. This is due to superior bioavailability and the absence of gut-irritating factors found in animal milk.
+Although human milk contains less total iron than formula or cow's milk, breastfed infants rarely develop [[Hematology/Iron Deficiency Anemia\|iron deficiency anemia]] in the first 6 months. This is due to superior bioavailability and the absence of gut-irritating factors found in animal milk.
 
 - **High Bioavailability via Lactoferrin:**
     - **Carrier Proteins:** Breast milk contains **Lactoferrin**, an iron-binding whey protein. Lactoferrin binds iron and facilitates its absorption across the intestinal mucosa, making the bioavailability of iron in breast milk significantly higher than in cow's milk or formula,.
@@ -44,9 +44,9 @@ Breast milk protects against a wide spectrum of metabolic, infectious, and renal
     - **Bifidus Factor:** Promotes the growth of _Lactobacillus bifidus_, creating an acidic environment (high lactic/acetic acid) that inhibits pathogens like _Shigella_ and _E. coli_.
     - **Bile Salt Stimulated Lipase (BSSL):** This enzyme, unique to human milk, specifically kills protozoa like _Giardia lamblia_ and _Entamoeba histolytica_.
     - **Necrotizing Enterocolitis (NEC):** Breast milk contains immunoglobulins and growth factors that "paint the gut," promoting maturation and significantly reducing the risk of NEC compared to formula-fed infants,.
-- **Malaria:**
-    - Breast milk is relatively deficient in **Para Amino Benzoic Acid (PABA)**, a nutrient required by the malaria parasite. This deficiency suppresses the parasite to subclinical levels, protecting the infant from severe malaria.
+- **[[Infectious Diseases/Malaria\|Malaria]]:**
+    - Breast milk is relatively deficient in **Para Amino Benzoic Acid (PABA)**, a nutrient required by the [[Infectious Diseases/Malaria\|malaria]] parasite. This deficiency suppresses the parasite to subclinical levels, protecting the infant from severe [[Infectious Diseases/Malaria\|malaria]].
 
 ### 3. Long-Term Health (Fetal Origins of Adult Disease)
 
-- **Metabolic Syndrome:** Breastfeeding is associated with a lower risk of obesity, Type 2 diabetes, and hypertension in later life. High protein intake in infancy (from formula) stimulates insulin-like growth factor I (IGF-1), leading to accelerated growth and adiposity, which are risk factors for adult metabolic diseases,,.
+- **[[Endocrinology/Metabolic Syndrome\|Metabolic Syndrome]]:** Breastfeeding is associated with a lower risk of obesity, Type 2 diabetes, and hypertension in later life. High protein intake in infancy (from formula) stimulates insulin-like growth factor I (IGF-1), leading to accelerated growth and adiposity, which are risk factors for adult metabolic diseases,,.

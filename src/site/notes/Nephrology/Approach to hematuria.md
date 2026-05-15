@@ -52,14 +52,14 @@ graph TD
 |**Glomerular**|Postinfectious Glomerulonephritis (PIGN)|Often follows a streptococcal throat or skin infection; presents with edema, oliguria, and hypertension.|
 ||IgA Nephropathy|Coincides with upper respiratory or gastrointestinal infections; presents with recurrent gross hematuria.|
 ||IgA Vasculitis (Henoch-Schönlein Purpura)|Systemic vasculitis presenting with a palpable purpuric rash, arthritis, abdominal pain, and nephritis.|
-||Hemolytic Uremic Syndrome (HUS)|Follows gastrointestinal illness; presents with microangiopathic hemolytic anemia, thrombocytopenia, and acute kidney injury.|
-||Alport Syndrome / Thin Basement Membrane Disease|Hereditary conditions presenting with persistent microscopic hematuria and a family history of kidney failure or deafness.|
+||[[Nephrology/Hemolytic uremic syndrome (HUS)\|Hemolytic Uremic Syndrome (HUS)]]|Follows gastrointestinal illness; presents with microangiopathic hemolytic anemia, thrombocytopenia, and [[Nephrology/Acute Kidney Injury\|acute kidney injury]].|
+||[[Nephrology/Alport Syndrome\|Alport Syndrome]] / Thin Basement Membrane Disease|Hereditary conditions presenting with persistent microscopic hematuria and a family history of kidney failure or deafness.|
 ||Membranoproliferative Glomerulonephritis|Presents with mixed nephritic-nephrotic picture and persistent hypocomplementemia.|
-||Lupus Nephritis|Associated with systemic lupus erythematosus; presents with systemic signs such as rash and joint pain.|
-|**Non-Glomerular**|Urinary Tract Infection (UTI)|The most common cause of gross hematuria; presents with dysuria, frequency, and fever.|
+||[[Rheumatology/Lupus Nephritis\|Lupus Nephritis]]|Associated with systemic lupus erythematosus; presents with systemic signs such as rash and joint pain.|
+|**Non-Glomerular**|[[Nephrology/Urinary Tract Infection\|Urinary Tract Infection]] ([[Nephrology/UTI\|UTI]])|The most common cause of gross hematuria; presents with dysuria, frequency, and fever.|
 ||Idiopathic Hypercalciuria|Common metabolic cause; can present with painless gross or microscopic hematuria, or dysuria.|
 ||Urolithiasis (Kidney Stones)|Presents with severe renal colic, flank pain, and hematuria.|
-||Anatomic Abnormalities|Includes hydronephrosis, multicystic dysplastic kidney, polycystic kidney disease, or Wilms tumor; often presents with a palpable abdominal mass.|
+||Anatomic Abnormalities|Includes hydronephrosis, multicystic dysplastic kidney, polycystic kidney disease, or [[Hematology/Wilms Tumor\|Wilms tumor]]; often presents with a palpable abdominal mass.|
 ||Trauma|Hematuria following blunt or penetrating injury to the abdomen or back.|
 ||Coagulopathy / Bleeding Disorders|Hemophilia or thrombocytopenia can cause spontaneous urinary tract bleeding.|
 ||Chemical / Hemorrhagic Cystitis|Associated with adenovirus infections or nephrotoxic medications like cyclophosphamide.|
@@ -69,8 +69,8 @@ graph TD
 ### History and Physical Examination
 
 - A meticulous history is required, focusing on the color of the urine (brown/cola-colored suggests glomerular; bright red suggests lower tract), timing in relation to the urinary stream, and associated symptoms like abdominal pain or dysuria.
-- The clinician must inquire about recent upper respiratory, skin, or gastrointestinal infections, which can precipitate IgA nephropathy, postinfectious glomerulonephritis, or HUS.
-- A family history of deafness, renal disease, polycystic kidneys, or urolithiasis is critical for diagnosing hereditary conditions like Alport syndrome or idiopathic hypercalciuria.
+- The clinician must inquire [[About\|about]] recent upper respiratory, skin, or gastrointestinal infections, which can precipitate IgA nephropathy, postinfectious glomerulonephritis, or HUS.
+- A family history of deafness, renal disease, polycystic kidneys, or urolithiasis is critical for diagnosing hereditary conditions like [[Nephrology/Alport Syndrome\|Alport syndrome]] or idiopathic hypercalciuria.
 - Physical examination should assess for hypertension, facial or peripheral edema, and signs of heart failure, which are classic indicators of acute glomerulonephritis.
 - The skin and joints should be examined for purpuric rashes and arthritis, suggesting IgA vasculitis or lupus, while the abdomen is palpated to rule out distended bladder, hydronephrosis, or tumors.
 - Examination of the external genitalia is necessary to identify anatomic abnormalities, meatal stenosis, or local perineal irritation.
@@ -88,10 +88,10 @@ graph TD
 ### Laboratory and Imaging Evaluation
 
 - Urinalysis and phase-contrast microscopy are the first steps to quantify RBCs, detect RBC casts, and assess for dysmorphic cells characteristic of glomerular bleeding.
-- A urine culture is mandatory to exclude urinary tract infection, especially in patients with dysuria or fever.
+- A urine culture is mandatory to exclude [[Nephrology/Urinary Tract Infection\|urinary tract infection]], especially in patients with dysuria or fever.
 - A spot urine calcium-to-creatinine ratio is obtained; a value >0.2 mg/mg in children over 2 years of age suggests hypercalciuria.
 - Blood tests should include a complete blood count (CBC), serum electrolytes, blood urea nitrogen (BUN), serum creatinine, and serum albumin to evaluate overall kidney function and detect complications.
-- Serum complement levels (C3 and C4) are crucial for differentiation; C3 is transiently low in poststreptococcal GN, persistently low in membranoproliferative GN, and both C3 and C4 are low in lupus nephritis.
+- Serum complement levels (C3 and C4) are crucial for differentiation; C3 is transiently low in poststreptococcal GN, persistently low in membranoproliferative GN, and both C3 and C4 are low in [[Rheumatology/Lupus Nephritis\|lupus nephritis]].
 - Serological testing for antistreptolysin O (ASO) and anti-DNAse B titers confirms a preceding streptococcal infection.
 - Renal and bladder ultrasonography is the primary imaging modality to rule out anatomic abnormalities, hydronephrosis, cystic disease, urolithiasis, and tumors.
 - A kidney biopsy is indicated for patients with gross hematuria or persistent microscopic hematuria accompanied by decreased renal function, severe proteinuria, hypertension, or persistent hypocomplementemia lasting beyond 8 to 12 weeks.
@@ -121,9 +121,9 @@ graph TD
 - Treatment regimens typically involve intravenous methylprednisolone pulses for 3 days, followed by a 3-month course of oral prednisone combined with immunosuppressive agents like azathioprine or mycophenolate mofetil.
 - For the most severe, rapidly progressive crescentic presentations, therapy with cyclophosphamide or plasmapheresis in conjunction with corticosteroids is utilized to prevent end-stage kidney disease.
 
-### Hemolytic Uremic Syndrome (HUS)
+### [[Nephrology/Hemolytic uremic syndrome (HUS)\|Hemolytic Uremic Syndrome (HUS)]]
 
-- The diagnosis of HUS requires immediate hospitalization, as it is characterized by the triad of microangiopathic hemolytic anemia, thrombocytopenia, and acute kidney injury.
+- The diagnosis of HUS requires immediate hospitalization, as it is characterized by the triad of microangiopathic hemolytic anemia, thrombocytopenia, and [[Nephrology/Acute Kidney Injury\|acute kidney injury]].
 - The management of typical, Shiga toxin-associated HUS is primarily supportive, involving meticulous fluid and electrolyte balance, correction of volume deficits, and aggressive control of hypertension.
 - Red blood cell transfusions are often necessary due to brisk and recurrent hemolysis; however, platelet transfusions are generally contraindicated as they may exacerbate microvascular thrombosis.
 - Early institution of dialysis is indicated for patients who become significantly oliguric or anuric, or develop medically refractory hyperkalemia.
@@ -144,7 +144,7 @@ graph TD
 - For active urolithiasis, pain management with nonsteroidal anti-inflammatory drugs and adequate hydration are prioritized; small ureteral stones (<5 mm) frequently pass spontaneously.
 - Medical expulsive therapy, such as an alpha-adrenergic blocker (e.g., tamsulosin), may facilitate the passage of distal ureteral stones.
 
-### Urinary Tract Infections (UTI)
+### Urinary Tract Infections ([[Nephrology/UTI\|UTI]])
 
 - Acute cystitis and pyelonephritis should be treated promptly with empiric antibiotics, modified subsequently based on urine culture sensitivity results.
 - Oral antibiotics for 7 to 10 days are generally safe and effective for uncomplicated UTIs in stable, outpatient children.

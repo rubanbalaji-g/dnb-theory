@@ -4,9 +4,9 @@
 
 ### Definition and Overview
 
-- Congenital anomalies of the kidney and urinary tract (CAKUT) encompass a wide phenotypic spectrum of structural malformations resulting from defects in embryonic renal and urinary tract development.
-- The spectrum includes renal aplasia (absence of the kidney), renal dysplasia (failure of normal renal differentiation), renal hypoplasia (smaller kidneys), hydronephrosis, vesicoureteral reflux (VUR), posterior urethral valves (PUV), and duplicated collecting systems.
-- CAKUT accounts for approximately 25–30% of all cases of chronic kidney disease (CKD) and represents the leading cause of end-stage kidney disease (ESKD) in the pediatric population.
+- [[Nephrology/Congenital Anomalies of the Kidney and Urinary Tract (CAKUT)\|Congenital anomalies of the kidney and urinary tract (CAKUT)]] encompass a wide phenotypic spectrum of structural malformations resulting from defects in embryonic renal and urinary tract development.
+- The spectrum includes renal aplasia (absence of the kidney), renal dysplasia (failure of normal renal differentiation), renal hypoplasia (smaller kidneys), hydronephrosis, [[Nephrology/Vesicoureteral Reflux (VUR)\|vesicoureteral reflux (VUR)]], [[Nephrology/Posterior Urethral Valves (PUV)\|posterior urethral valves (PUV)]], and duplicated collecting systems.
+- CAKUT accounts for approximately 25–30% of all cases of [[Nephrology/Chronic Kidney Disease\|chronic kidney disease]] (CKD) and represents the leading cause of end-stage kidney disease (ESKD) in the pediatric population.
 
 ### Etiology and Pathophysiology
 
@@ -40,7 +40,7 @@
 
 |Advanced Imaging Modality|Clinical Indications and Findings|
 |:--|:--|
-|**Voiding Cystourethrogram (VCUG)**|The gold standard for diagnosing vesicoureteral reflux (VUR) and posterior urethral valves (PUV). It evaluates bladder morphology, capacity, and urethral patency.|
+|**Voiding Cystourethrogram (VCUG)**|The gold standard for diagnosing [[Nephrology/Vesicoureteral Reflux (VUR)\|vesicoureteral reflux (VUR)]] and [[Nephrology/Posterior Urethral Valves (PUV)\|posterior urethral valves (PUV)]]. It evaluates bladder morphology, capacity, and urethral patency.|
 |**$^{99m}$Tc-MAG3 Diuretic Renogram**|The preferred study for evaluating suspected urinary tract obstruction (e.g., pelviureteric junction obstruction) and estimating split renal function, relying on tracer washout half-time after furosemide administration.|
 |**$^{99m}$Tc-DMSA Cortical Scintigraphy**|The radiotracer of choice for high-resolution imaging of the renal cortex. It is highly sensitive for detecting parenchymal scarring (reflux nephropathy) and confirming functional renal dysplasia.|
 

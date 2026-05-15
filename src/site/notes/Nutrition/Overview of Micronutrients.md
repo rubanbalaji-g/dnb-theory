@@ -12,7 +12,7 @@ Vitamins are classified into fat-soluble and water-soluble groups.
 
 ### Fat-Soluble Vitamins
 
-**1. Vitamin A (Retinol)**
+**1. [[Nutrition/Vitamin A\|Vitamin A]] (Retinol)**
 
 - **Functions:**
     - **Vision:** Essential for the formation of rhodopsin (visual pigment) required for dim light vision (scotopic vision),.
@@ -108,9 +108,9 @@ Trace elements are minerals required by the body in minute amounts (less than 10
     - **Heme Iron (High Bioavailability):** Liver, meat, poultry, fish,.
     - **Non-Heme Iron:** Green leafy vegetables, cereals, legumes, jaggery, dates, and dried fruits,.
 - **Effects of Deficiency:**
-    - **Iron Deficiency Anemia (IDA):** The most common manifestation, characterized by microcytic hypochromic anemia. Symptoms include pallor, fatigue, breathlessness, and tachycardia,.
+    - **[[Hematology/Iron Deficiency Anemia\|Iron Deficiency Anemia]] (IDA):** The most common manifestation, characterized by microcytic hypochromic anemia. Symptoms include pallor, fatigue, breathlessness, and tachycardia,.
     - **Cognitive Impairment:** Deficiency in infancy and childhood leads to irreversible impairment of cognitive function, attention span, and learning ability,.
-    - **Behavioral Changes:** Irritability, apathy, and pica (geophagia, amylophagia, pagophagia).
+    - **Behavioral Changes:** Irritability, apathy, and [[Development/Pica\|pica]] (geophagia, amylophagia, pagophagia).
     - **Epithelial Changes:** Koilonychia (spoon-shaped nails), glossitis, angular stomatitis, and esophageal webs (Plummer-Vinson syndrome).
     - **Immunity:** Increased susceptibility to infections due to impaired T-cell function and phagocytosis,.
 
@@ -125,7 +125,7 @@ Trace elements are minerals required by the body in minute amounts (less than 10
     - Red meat, liver, shellfish (oysters), poultry, eggs, dairy, whole grains, nuts, and legumes,.
 - **Effects of Deficiency:**
     - **Growth Retardation:** A hallmark of chronic deficiency, leading to stunting,.
-    - **Acrodermatitis Enteropathica:** A severe deficiency state characterized by periorificial and acral dermatitis (crusting, vesiculobullous lesions), alopecia (hair loss), and diarrhea,.
+    - **[[Nutrition/Acrodermatitis enteropathica\|Acrodermatitis Enteropathica]]:** A severe deficiency state characterized by periorificial and acral dermatitis (crusting, vesiculobullous lesions), alopecia (hair loss), and diarrhea,.
     - **Hypogonadism:** Delayed sexual maturation and hypogonadism in adolescents,.
     - **Immune Dysfunction:** Increased susceptibility to infections, particularly diarrhea and pneumonia,.
     - **Impaired Healing:** Delayed wound healing and skin ulcers,.
@@ -225,7 +225,7 @@ Trace elements are minerals required by the body in minute amounts (less than 10
 - **Dietary Sources:**
     - Meat, liver, milk, and fermented foods.
 - **Effects of Deficiency:**
-    - Manifests as Vitamin B12 deficiency: Megaloblastic anemia and neurological degeneration.
+    - Manifests as [[Hematology/Vitamin B12 Deficiency\|Vitamin B12 deficiency]]: Megaloblastic anemia and neurological degeneration.
 
 ### Other Trace Elements (Minor)
 

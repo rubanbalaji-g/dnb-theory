@@ -2,9 +2,9 @@
 {"dg-publish":true,"uplink":"/nephrology/nephrology/","uptext":"Back to Index (🫘 Nephrology)","permalink":"/nephrology/renal-tubular-acidosis-rta/","dgPassFrontmatter":true}
 ---
 
-## Pathophysiology of Renal Tubular Acidosis (RTA)
+## Pathophysiology of [[Nephrology/Renal Tubular Acidosis (RTA)\|Renal Tubular Acidosis (RTA)]]
 
-- Renal tubular acidosis (RTA) represents a heterogeneous group of tubular transport disorders characterized by defective renal acidification, leading to a hyperchloremic (normal anion gap) metabolic acidosis.
+- [[Nephrology/Renal Tubular Acidosis (RTA)\|Renal tubular acidosis (RTA)]] represents a heterogeneous group of tubular transport disorders characterized by defective renal acidification, leading to a hyperchloremic (normal anion gap) metabolic acidosis.
 - The fundamental defect lies in the impairment of bicarbonate ($HCO_3^-$) reabsorption, hydrogen ion ($H^+$) secretion, or a combination of both, occurring in the absence of a substantial impairment in the overall glomerular filtration rate (GFR).
 - Under normal physiological conditions, the proximal tubule reabsorbs approximately 80% of the filtered bicarbonate load. The distal nephron subsequently secretes protons to excrete the daily metabolic acid load (approximately 1-2 mmol/kg/day in children, plus an additional 1-2 mmol/kg/day generated during bone mineralization).
 - Failure of these mechanisms leads to systemic acidemia, which initiates bone buffering by hydroxyapatite, dissolving calcium from the bone and consequently causing osteomalacia, rickets, and profound growth failure.
@@ -17,22 +17,22 @@
 - When serum bicarbonate levels exceed this reduced threshold, massive bicarbonaturia ensues. However, because the distal acidification mechanisms remain intact, the urine can reach maximal acidity (pH < 5.3) once the serum bicarbonate concentration drops below the pathological threshold.
 - Consequently, the acidemia in isolated proximal RTA is typically moderate, and patients do not generally develop nephrocalcinosis or severe rickets unless associated with a broader syndrome.
 - Isolated proximal RTA is exceedingly rare and can be inherited as an autosomal recessive trait due to pathogenic variants in the _SLC4A4_ gene (encoding the $Na^+/HCO_3^-$ cotransporter NBC1). This form presents with profound ocular abnormalities, including band keratopathy, glaucoma, cataracts (often leading to blindness), short stature, and intellectual impairment.
-- Far more commonly, proximal RTA presents as a component of generalized proximal tubular dysfunction, known as Fanconi syndrome.
-- Fanconi syndrome is characterized by the concurrent presence of low-molecular-weight proteinuria, aminoaciduria, phosphaturia, glycosuria, and proximal RTA.
-- Secondary causes of Fanconi syndrome include inherited metabolic disorders such as cystinosis (the most common cause in infancy), Lowe syndrome, [[Metabolic Disorders/Tyrosinemia\|tyrosinemia]] type I, galactosemia, and Wilson disease. Acquired causes frequently involve exposure to exogenous toxins, heavy metals (cadmium, lead, mercury), or specific medications like ifosfamide, cisplatin, and valproate.
+- Far more commonly, proximal RTA presents as a component of generalized proximal tubular dysfunction, known as [[Nephrology/Fanconi syndrome\|Fanconi syndrome]].
+- [[Nephrology/Fanconi syndrome\|Fanconi syndrome]] is characterized by the concurrent presence of low-molecular-weight proteinuria, aminoaciduria, phosphaturia, glycosuria, and proximal RTA.
+- Secondary causes of [[Nephrology/Fanconi syndrome\|Fanconi syndrome]] include inherited metabolic disorders such as cystinosis (the most common cause in infancy), Lowe syndrome, [[Metabolic Disorders/Tyrosinemia\|tyrosinemia]] type I, [[Metabolic Disorders/Galactosemia\|galactosemia]], and [[Gastrointestinal/Wilson Disease\|Wilson disease]]. Acquired causes frequently involve exposure to exogenous toxins, heavy metals (cadmium, lead, mercury), or specific medications like ifosfamide, cisplatin, and valproate.
 
 ### Distal (Type 1) Renal Tubular Acidosis
 
 - Distal RTA results from the defective secretion of $H^+$ by the $\alpha$-intercalated cells of the distal tubule and collecting duct.
 - Patients with distal RTA are unable to adequately excrete ammonium ($NH_4^+$) ions, and their urine pH remains inappropriately alkaline (> 5.3) despite the presence of systemic acidemia.
 - The alkaline urine, combined with hypercalciuria and hypocitraturia, strongly predisposes patients to calcium-phosphate precipitation, resulting in a high prevalence of nephrocalcinosis and urolithiasis (predominantly brushite/carbonate apatite stones).
-- Hypokalemia is a hallmark feature, driven by increased urinary potassium losses. The failure of distal acid secretion creates an electrochemical gradient favoring potassium secretion, which is further exacerbated by hyperaldosteronism secondary to volume contraction.
+- Hypokalemia is a hallmark feature, driven by increased urinary potassium losses. The failure of distal acid secretion creates an electrochemical gradient favoring potassium secretion, which is further exacerbated by [[Endocrinology/Hyperaldosteronism\|hyperaldosteronism]] secondary to volume contraction.
 - Genetic forms of distal RTA include:
     - _SLC4A1_ mutations (Autosomal Dominant/Recessive): Encodes Anion Exchanger 1 (AE1); can be associated with red blood cell abnormalities like hemolytic anemia or South Asian ovalocytosis.
     - _ATP6V1B1_ and _ATP6V0A4_ mutations (Autosomal Recessive): Encode the B1 and a4 subunits of the vacuolar $H^+$-ATPase pump. Typically associated with early or late-onset sensorineural hearing loss (SNHL) and enlarged vestibular aqueducts.
     - _FOXI1_ mutations (Autosomal Recessive): Encodes a transcription factor regulating proton pump subunits; also associated with SNHL.
     - _WDR72_ mutations (Autosomal Recessive): Specifically associated with amelogenesis imperfecta (enamel defects).
-- Acquired forms of distal RTA frequently complicate autoimmune conditions such as Sjögren syndrome, systemic lupus erythematosus, and primary biliary cirrhosis, or manifest as toxicity from drugs like amphotericin B, lithium, and inhaled toluene (glue sniffing).
+- Acquired forms of distal RTA frequently complicate autoimmune conditions such as [[Rheumatology/Sjögren Syndrome\|Sjögren syndrome]], systemic lupus erythematosus, and primary biliary cirrhosis, or manifest as toxicity from drugs like amphotericin B, lithium, and inhaled toluene (glue sniffing).
 
 ### Mixed (Type 3) Renal Tubular Acidosis
 
@@ -45,7 +45,7 @@
 - Type 4 RTA is uniquely characterized by hyperkalemia in conjunction with a normal anion gap metabolic acidosis.
 - The primary mechanism is aldosterone deficiency or peripheral resistance to aldosterone at the mineralocorticoid receptor. This diminishes $Na^+$ reabsorption through the epithelial sodium channel (ENaC) in the collecting duct, eliminating the lumen-negative potential required for optimal $K^+$ and $H^+$ secretion.
 - Unlike distal RTA, the intrinsic proton pump remains functional, allowing patients to maximally acidify their urine (pH < 5.5).
-- Causes include congenital adrenal hyperplasia, Addison disease, obstructive uropathy, tubulointerstitial nephritis, and pseudohypoaldosteronism (PHA type 1 and type 2/Gordon syndrome).
+- Causes include [[Endocrinology/Congenital Adrenal Hyperplasia\|congenital adrenal hyperplasia]], Addison disease, obstructive uropathy, tubulointerstitial nephritis, and pseudohypoaldosteronism (PHA type 1 and type 2/Gordon syndrome).
 - Iatrogenic causes are common and include medications that interfere with the renin-angiotensin-aldosterone axis (ACE inhibitors, ARBs, heparin, NSAIDs, calcineurin inhibitors) or directly block ENaC (spironolactone, amiloride, trimethoprim).
 
 ## Diagnostic Evaluation
@@ -76,12 +76,12 @@
 
 ## Management Strategies
 
-### Proximal RTA and Fanconi Syndrome
+### Proximal RTA and [[Nephrology/Fanconi syndrome\|Fanconi Syndrome]]
 
 - Therapy is inherently challenging because exogenous bicarbonate administration rapidly raises serum levels above the impaired renal threshold, triggering massive, immediate bicarbonaturia.
 - Extremely high doses of alkali supplementation are required, frequently reaching up to 20 mEq/kg/day, administered as oral sodium bicarbonate or sodium citrate solutions (e.g., Bicitra).
 - The massive influx of sodium and bicarbonate into the distal tubule aggravates potassium wasting, making aggressive, prolonged potassium supplementation a mandatory component of therapy.
-- For patients with Fanconi syndrome, profound phosphate wasting requires targeted therapy with oral phosphate supplements and active Vitamin D analogs (calcitriol/alfacalcidol) to counteract secondary hyperparathyroidism and actively heal rickets.
+- For patients with [[Nephrology/Fanconi syndrome\|Fanconi syndrome]], profound phosphate wasting requires targeted therapy with oral phosphate supplements and active Vitamin D analogs (calcitriol/alfacalcidol) to counteract secondary hyperparathyroidism and actively heal rickets.
 
 ### Distal RTA
 
@@ -93,4 +93,4 @@
 
 - The primary focus is the resolution of the potentially life-threatening hyperkalemia.
 - Management strategies involve strict dietary potassium restriction, the discontinuation of offending medications (e.g., ACE inhibitors, potassium-sparing diuretics), and the administration of sodium-potassium exchange resins (such as sodium polystyrene sulfonate or patiromer).
-- In patients with confirmed mineralocorticoid deficiency (such as Addison disease or specific forms of congenital adrenal hyperplasia), physiological replacement utilizing oral fludrocortisone is indicated.
+- In patients with confirmed mineralocorticoid deficiency (such as Addison disease or specific forms of [[Endocrinology/Congenital Adrenal Hyperplasia\|congenital adrenal hyperplasia]]), physiological replacement utilizing oral fludrocortisone is indicated.

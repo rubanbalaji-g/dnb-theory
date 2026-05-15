@@ -4,7 +4,7 @@
 
 ## Definition and Classification
 
-- Acute kidney injury (AKI) denotes an abrupt impairment of kidney function resulting in the retention of nitrogenous wastes and dysregulation of extracellular volume and electrolytes.
+- [[Nephrology/Acute Kidney Injury\|Acute kidney injury]] (AKI) denotes an abrupt impairment of kidney function resulting in the retention of nitrogenous wastes and dysregulation of extracellular volume and electrolytes.
 - The Kidney Disease Improving Global Outcomes (KDIGO) criteria define AKI by any of the following parameters:
     - Absolute increase in serum creatinine of $\ge$ 0.3 mg/dL over 48 hours.
     - Percentage increase of $\ge$ 50% ($\ge$ 1.5 times) from baseline in the last 7 days.
@@ -23,8 +23,8 @@
 
 |Category|Key Pathological Mechanism|Common Pediatric Causes|
 |:--|:--|:--|
-|**Prerenal AKI**|Decreased effective circulating arterial volume leading to renal hypoperfusion.|Dehydration, gastroenteritis, hemorrhage, sepsis, shock, congestive heart failure, nephrotic syndrome, hypoalbuminemia.|
-|**Intrinsic Renal AKI**|Direct parenchymal damage to glomeruli, tubules, interstitium, or vasculature.|Acute tubular necrosis (prolonged ischemia, sepsis, aminoglycosides, contrast, NSAIDs, hemoglobinuria, tumor lysis syndrome), Glomerulonephritis (APSGN, SLE), Interstitial nephritis, Hemolytic Uremic Syndrome (HUS).|
+|**Prerenal AKI**|Decreased effective circulating arterial volume leading to renal hypoperfusion.|Dehydration, gastroenteritis, hemorrhage, sepsis, shock, congestive heart failure, [[Nephrology/Nephrotic Syndrome\|nephrotic syndrome]], hypoalbuminemia.|
+|**Intrinsic Renal AKI**|Direct parenchymal damage to glomeruli, tubules, interstitium, or vasculature.|Acute tubular necrosis (prolonged ischemia, sepsis, aminoglycosides, contrast, NSAIDs, hemoglobinuria, [[Hematology/Tumor Lysis Syndrome\|tumor lysis syndrome]]), Glomerulonephritis (APSGN, SLE), Interstitial nephritis, [[Nephrology/Hemolytic uremic syndrome (HUS)\|Hemolytic Uremic Syndrome (HUS)]].|
 |**Postrenal AKI**|Mechanical obstruction to urinary outflow, requiring bilateral involvement in patients with two kidneys.|Posterior urethral valves, bilateral pelviureteric junction obstruction, urolithiasis, hemorrhagic cystitis, neurogenic bladder, tumors.|
 
 ### Neonatal-Specific Causes
@@ -37,7 +37,7 @@
 
 ## Pathophysiology
 
-### Phases of Acute Kidney Injury
+### Phases of [[Nephrology/Acute Kidney Injury\|Acute Kidney Injury]]
 
 - **Initiation Phase:** Occurs when renal blood flow decreases to a level causing severe cellular ATP depletion, leading to acute tubular injury and a decline in the glomerular filtration rate (GFR).
 - **Extension Phase:** Characterized by continued regional hypoxia (especially in the corticomedullary junction) and the triggering of an intense inflammatory cascade, primarily mediated by microvascular endothelial damage and leukocyte infiltration.
@@ -91,7 +91,7 @@
 - Renal ultrasonography with Doppler evaluates kidney size, echogenicity, corticomedullary differentiation, and excludes obstructive uropathy or vascular thrombosis.
 - A renal biopsy is rarely needed but is indicated for rapidly progressive glomerulonephritis, unexplained prolonged ATN (> 2-3 weeks), suspected acute interstitial nephritis, or unexplained severe AKI.
 - **Furosemide Stress Test:** A standard dose of furosemide (1–1.5 mg/kg) is administered to patients suspected of early AKI; a urine output < 200 mL in the first 2 hours predicts progression to severe AKI stages.
-- **Renal Angina Index (RAI):** A validated scoring system utilized 12 hours post-ICU admission that multiplies risk factors (e.g., stem cell transplant, mechanical ventilation) by injury markers (fluid overload percentage, SCr rise). A score $\ge$ 8 strongly predicts severe AKI development.
+- **[[Nephrology/Renal Angina Index (RAI)\|Renal Angina Index (RAI)]]:** A validated scoring system utilized 12 hours post-ICU admission that multiplies risk factors (e.g., stem cell transplant, mechanical ventilation) by injury markers (fluid overload percentage, SCr rise). A score $\ge$ 8 strongly predicts severe AKI development.
 - **Novel Biomarkers:** Neutrophil gelatinase-associated lipocalin (NGAL), Kidney Injury Molecule-1 (KIM-1), Liver-type Fatty Acid Binding Protein (L-FABP), and IL-18 rise 24-48 hours prior to serum creatinine, allowing early identification of tubular injury. Cell cycle arrest markers like TIMP-2*IGFBP-7 are FDA-approved predictors of imminent AKI in critically ill patients.
 
 ## Management
@@ -117,7 +117,7 @@
 
 ### Kidney Replacement Therapy (KRT)
 
-- **Indications:** KRT is indicated for refractory fluid overload (>10% body weight), severe hyperkalemia (>6.5 mEq/L), severe metabolic acidosis (bicarbonate <10 mEq/L), symptomatic uremia (encephalopathy, pericarditis), and life-threatening intoxications or tumor lysis syndrome.
+- **Indications:** KRT is indicated for refractory fluid overload (>10% body weight), severe hyperkalemia (>6.5 mEq/L), severe metabolic acidosis (bicarbonate <10 mEq/L), symptomatic uremia (encephalopathy, [[Cardiology/Pericarditis\|pericarditis]]), and life-threatening intoxications or [[Hematology/Tumor Lysis Syndrome\|tumor lysis syndrome]].
 - **Peritoneal Dialysis (PD):** Feasible in small infants and hemodynamically unstable patients, requires no vascular access or systemic anticoagulation, but is contraindicated in patients with severe abdominal pathology and provides slower solute clearance.
 - **Intermittent Hemodialysis (IHD):** Highly efficient for rapid correction of severe hyperkalemia, hyperammonemia, and acute intoxications, but requires specialized vascular access and often induces hemodynamic instability in critically ill pediatric patients.
 - **Continuous Kidney Replacement Therapy (CKRT):** Modalities like CVVH, CVVHD, and CVVHDF are the standard of care for hemodynamically unstable patients, allowing precise, continuous volume control, gradual solute clearance, and the safe administration of required parenteral nutrition and medications.
@@ -131,5 +131,5 @@
 
 - The mortality rate of pediatric AKI is highly dependent on the underlying etiology, ranging from <1% in isolated post-infectious glomerulonephritis to >50% in the setting of multiorgan failure, severe sepsis, or reliance on ECMO.
 - Incomplete or maladaptive tubular repair, characterized by persistent interstitial inflammation, pericyte loss, and microvascular rarefaction, leads to irreversible tubulointerstitial fibrosis.
-- Patients surviving an episode of AKI are at a significantly increased risk (up to 8.8-fold) of developing chronic kidney disease (CKD), end-stage renal disease (ESRD), and secondary hypertension in the years following the insult.
-- Long-term follow-up at 3 months post-discharge and annual evaluations thereafter (monitoring blood pressure, urinalysis for proteinuria, and estimated GFR) are strictly recommended to detect and delay the progression of chronic kidney disease.
+- Patients surviving an episode of AKI are at a significantly increased risk (up to 8.8-fold) of developing [[Nephrology/Chronic Kidney Disease\|chronic kidney disease]] (CKD), end-stage renal disease (ESRD), and secondary hypertension in the years following the insult.
+- Long-term follow-up at 3 months post-discharge and annual evaluations thereafter (monitoring blood pressure, urinalysis for proteinuria, and estimated GFR) are strictly recommended to detect and delay the progression of [[Nephrology/Chronic Kidney Disease\|chronic kidney disease]].

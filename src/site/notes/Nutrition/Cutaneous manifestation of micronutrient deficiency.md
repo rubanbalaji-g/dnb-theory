@@ -30,17 +30,17 @@ Skin and hair changes are hallmark features of severe malnutrition, particularly
 
 ## Fat-Soluble Vitamin Deficiencies
 
-### Vitamin A Deficiency
+### [[Nutrition/Vitamin A\|Vitamin A]] Deficiency
 
 - **Follicular Hyperkeratosis (Phrynoderma):** This condition, also known as "toad skin," presents as rough skin with raised hyperkeratotic patches,. It typically involves the shoulders, arms, legs, and buttocks.
 - **Xerosis:** The skin becomes generally dry and scaly due to the loss of epithelial integrity and sweat/sebaceous gland atrophy,,.
 - **Mucosal Changes:** Metaplasia of the epithelial lining leads to keratinization of mucous membranes.
 - **Carotenemia (Excess Precursor):** Excessive intake of beta-carotene (e.g., from carrots) causes yellow-orange pigmentation of the skin, most visible on the palms, soles, and nasolabial folds, but notably sparing the sclera (unlike jaundice),.
 
-### Vitamin E Deficiency
+### [[Nutrition/Vitamin E Deficiency\|Vitamin E Deficiency]]
 
 - **General:** While primarily neurological, deficiency in premature infants is associated with edema involving the legs and labia [Note: derived from clinical context of hemolytic anemia in preterms].
-- **Seborrheic Dermatitis:** Can be associated with deficiency.
+- **[[Misc/Seborrheic Dermatitis\|Seborrheic Dermatitis]]:** Can be associated with deficiency.
 
 ### Vitamin K Deficiency
 
@@ -53,7 +53,7 @@ Skin and hair changes are hallmark features of severe malnutrition, particularly
 - **Angular Stomatitis:** Inflammation and fissures at the corners of the mouth (angles of the lips),.
 - **Cheilosis:** Pallor, thinning, and maceration of the epithelium of the lips, leading to vertical fissuring,.
 - **Glossitis:** The tongue becomes smooth and magenta-colored (atrophic papillae),.
-- **Seborrheic Dermatitis:** Scaly, greasy lesions typically appearing around the nasolabial folds (nasolabial dyssebacea), eyes, and ears,,.
+- **[[Misc/Seborrheic Dermatitis\|Seborrheic Dermatitis]]:** Scaly, greasy lesions typically appearing around the nasolabial folds (nasolabial dyssebacea), eyes, and ears,,.
 - **Scrotal/Vulval Dermatitis:** Inflammation and desquamation of the genitalia,.
 
 ### Niacin (Vitamin B3) - Pellagra
@@ -66,7 +66,7 @@ Skin and hair changes are hallmark features of severe malnutrition, particularly
 
 ### Pyridoxine (Vitamin B6)
 
-- **Seborrheic Dermatitis:** Scaly rash occurring around the eyes, nose, and mouth.
+- **[[Misc/Seborrheic Dermatitis\|Seborrheic Dermatitis]]:** Scaly rash occurring around the eyes, nose, and mouth.
 - **Cheilosis and Glossitis:** Similar to riboflavin deficiency.
 
 ### Biotin (Vitamin B7)
@@ -81,7 +81,7 @@ Skin and hair changes are hallmark features of severe malnutrition, particularly
 - **Hair Changes:** Hair may become thin and sparse.
 - **Mucosal:** Glossitis with a smooth, beefy red tongue.
 
-### Vitamin C (Scurvy)
+### Vitamin C ([[Nutrition/Scurvy\|Scurvy]])
 
 - **Perifollicular Hemorrhages:** Bleeding around hair follicles is a specific sign.
 - **Follicular Hyperkeratosis:** The hair follicles become enlarged and rough (corkscrew hairs may be seen),,.
@@ -93,7 +93,7 @@ Skin and hair changes are hallmark features of severe malnutrition, particularly
 
 ### Zinc
 
-- **Acrodermatitis Enteropathica:** A severe deficiency state characterized by vesicobullous, eczematous, and crusted lesions,.
+- **[[Nutrition/Acrodermatitis enteropathica\|Acrodermatitis Enteropathica]]:** A severe deficiency state characterized by vesicobullous, eczematous, and crusted lesions,.
 - **Distribution:** Lesions are typically located in periorificial areas (around the mouth, eyes, anus) and acral areas (fingers, toes, heels),.
 - **Alopecia:** Generalized hair loss,.
 - **Nails:** Paronychia (inflammation around the nail) and nail dystrophy.

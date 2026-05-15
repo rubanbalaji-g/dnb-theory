@@ -45,7 +45,7 @@
 - Pharyngeal muscle weakness causes dysphagia, dysphonia, and gastroesophageal reflux.
 - Respiratory muscle weakness manifests as hypercarbia and potential respiratory failure.
 - Gastrointestinal vasculitis causes mesenteric ischemia, crampy abdominal pain, gastrointestinal bleeding, and perforation.
-- Cardiac involvement includes pericarditis, myocarditis, and conduction defects.
+- Cardiac involvement includes [[Cardiology/Pericarditis\|pericarditis]], myocarditis, and conduction defects.
 - Amyopathic dermatomyositis presents with classic rash without apparent muscle weakness.
 
 ## Diagnostic Criteria
@@ -92,7 +92,7 @@ Diagnosis requires classic rash and at least three signs of muscle inflammation.
 |:--|:--|
 |**Juvenile Polymyositis**|Proximal muscle weakness lacks characteristic dermatological manifestations. Requires biopsy for diagnosis.|
 |**Systemic Lupus Erythematosus**|Malar rash typically spares nasolabial folds. Anti-dsDNA or Anti-Smith antibodies present. Prominent renal involvement.|
-|**Overlap Myositis / MCTD**|Mixed features of juvenile dermatomyositis, systemic lupus erythematosus, and scleroderma. High titer anti-U1 RNP.|
+|**Overlap Myositis / MCTD**|Mixed features of [[Rheumatology/Juvenile Dermatomyositis\|juvenile dermatomyositis]], systemic lupus erythematosus, and scleroderma. High titer anti-U1 RNP.|
 |**Muscular Dystrophies**|Progressive weakness without acute inflammatory skin changes or elevated inflammatory markers.|
 
 ## Management Principles

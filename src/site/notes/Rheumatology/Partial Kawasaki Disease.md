@@ -4,7 +4,7 @@
 
 ## Introduction And Epidemiology
 
-- Kawasaki disease presenting with partial clinical criteria.
+- [[Rheumatology/Kawasaki Disease\|Kawasaki disease]] presenting with partial clinical criteria.
 - Defined by unexplained fever lasting five or more days associated with only two or three classic clinical features.
 - Highly prevalent in young infants under six months of age.
 - Infant presenting with unexplained fever for seven or more days without apparent focus mandates immediate echocardiographic evaluation.
@@ -15,7 +15,7 @@
 
 - Standard mucocutaneous signs remain frequently absent, subtle, or fleeting.
 - Reactivation of bacillus Calmette-Guerin inoculation site exhibits profound erythema and induration.
-- Extreme irritability acts as prominent clinical clue, occurring secondary to aseptic meningitis.
+- Extreme irritability acts as prominent clinical clue, occurring secondary to aseptic [[Neurology/Meningitis\|meningitis]].
 - Node-first presentation manifests as isolated, unilateral, tender cervical lymphadenopathy.
 - Neck ultrasonography reveals uniformly hypoechoic nodes lacking necrosis, demonstrating well-circumscribed margins termed cluster of grapes appearance.
 - Acute hydrocele presents as sudden, painful unilateral scrotal swelling.
@@ -68,7 +68,7 @@
 |Systemic Juvenile Idiopathic Arthritis|Features quotidian fever pattern. Exhibits prominent hepatosplenomegaly. Lacks coronary artery aneurysms classically.|
 |Adenovirus Infection|Demonstrates prominent exudative pharyngitis and exudative conjunctivitis.|
 |Scarlet Fever|Yields rapid clinical response to appropriate antibiotic therapy. Demonstrates elevated anti-streptolysin O titers and sandpaper rash.|
-|Macrophage Activation Syndrome|Features unremitting fever, profound hepatosplenomegaly. Laboratory profile reveals paradoxically dropping erythrocyte sedimentation rate, extreme hyperferritinemia, hypofibrinogenemia.|
+|[[Rheumatology/Macrophage Activation Syndrome\|Macrophage Activation Syndrome]]|Features unremitting fever, profound hepatosplenomegaly. Laboratory profile reveals paradoxically dropping erythrocyte sedimentation rate, extreme hyperferritinemia, hypofibrinogenemia.|
 
 ## Management Strategies
 

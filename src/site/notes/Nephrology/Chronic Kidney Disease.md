@@ -4,13 +4,13 @@
 
 ## Definition and Staging
 
-- Chronic kidney disease (CKD) is defined as kidney damage lasting for at least 3 months, characterized by structural or functional abnormalities of the kidney, with or without a decreased glomerular filtration rate (GFR).
+- [[Nephrology/Chronic Kidney Disease\|Chronic kidney disease]] (CKD) is defined as kidney damage lasting for at least 3 months, characterized by structural or functional abnormalities of the kidney, with or without a decreased glomerular filtration rate (GFR).
 - Alternatively, it is defined as a GFR < 60 mL/min/1.73 m² for $\ge$ 3 months, with or without other signs of kidney damage.
 - Kidney damage manifests as abnormalities in blood or urine composition (e.g., persistent hematuria or proteinuria), abnormal imaging tests, or abnormalities on kidney biopsy.
 - Because renal maturation increases from infancy to reach adult values at approximately 2 years of age, standardized CKD stages based on GFR apply primarily to children older than 2 years.
 - The estimated GFR (eGFR) in children is most widely calculated using the bedside Schwartz equation.
 
-### Stages of Chronic Kidney Disease
+### Stages of [[Nephrology/Chronic Kidney Disease\|Chronic Kidney Disease]]
 
 |Stage|GFR (mL/min/1.73 m²)|Clinical Description|
 |:--|:--|:--|
@@ -30,8 +30,8 @@
 |Etiological Category|Specific Disorders and Prevalence|
 |:--|:--|
 |**CAKUT (Congenital Anomalies of the Kidney and Urinary Tract)**|The leading cause of pediatric CKD (28.1%); includes congenital obstructive uropathies (posterior urethral valves), renal hypoplasia/dysplasia, and reflux nephropathy.|
-|**Cystic, Hereditary, and Congenital Diseases**|Accounts for ~15%; includes autosomal dominant/recessive polycystic kidney disease, nephronophthisis, Alport syndrome, cystinosis, and congenital nephrotic syndrome.|
-|**Secondary and Primary Glomerular Diseases**|Accounts for ~11.4%; includes focal segmental glomerulosclerosis (FSGS), systemic lupus erythematosus (SLE) nephritis, hemolytic uremic syndrome (HUS), IgA nephropathy, and systemic vasculitis.|
+|**Cystic, Hereditary, and Congenital Diseases**|Accounts for ~15%; includes autosomal dominant/recessive polycystic kidney disease, nephronophthisis, [[Nephrology/Alport Syndrome\|Alport syndrome]], cystinosis, and congenital [[Nephrology/Nephrotic Syndrome\|nephrotic syndrome]].|
+|**Secondary and Primary Glomerular Diseases**|Accounts for ~11.4%; includes focal segmental glomerulosclerosis (FSGS), systemic lupus erythematosus (SLE) nephritis, [[Nephrology/Hemolytic uremic syndrome (HUS)\|hemolytic uremic syndrome (HUS)]], IgA nephropathy, and systemic vasculitis.|
 |**Tubulointerstitial Diseases**|Accounts for ~4.9%; includes chronic interstitial nephritis, acute interstitial nephritis, and tubular necrosis.|
 
 ## Pathophysiology and Risk Factors for Progression
@@ -42,7 +42,7 @@
 - Nonmodifiable risk factors for rapid disease progression include older age at onset, onset of puberty, glomerular etiology, and genetic predispositions.
 - Modifiable risk factors strongly associated with CKD progression include sustained hypertension, persistent nephrotic-range proteinuria, dyslipidemia, hyperuricemia, and a lack of renin-angiotensin-aldosterone system (RAAS) blockade.
 - Metabolic acidosis (time-varying serum bicarbonate <18 mmol/L) is another potent risk factor that contributes to complement pathway activation, inflammation, and progressive nephron loss.
-- Repeated episodes of acute kidney injury (AKI), such as those from dehydration, nephrotoxic medications (e.g., NSAIDs), or severe urinary tract infections, further accelerate the loss of functional renal parenchyma.
+- Repeated episodes of [[Nephrology/Acute Kidney Injury\|acute kidney injury]] (AKI), such as those from dehydration, nephrotoxic medications (e.g., NSAIDs), or severe urinary tract infections, further accelerate the loss of functional renal parenchyma.
 
 ## Clinical Manifestations and Complications
 
@@ -50,26 +50,26 @@
 - Patients with CAKUT or genetic tubulopathies typically present with growth failure, polyuria, polydipsia, and recurrent episodes of dehydration due to an impaired urinary concentrating ability.
 - Patients with glomerular diseases commonly present with edema, volume-dependent hypertension, gross or microscopic hematuria, and proteinuria.
 - As GFR progressively declines, uremic symptoms manifest, including severe fatigue, muscle weakness, nausea, vomiting, anorexia, and sleep disturbances.
-- Advanced CKD (Stage 4-5) is characterized by multiorgan complications such as hypertensive retinopathy, peripheral neuropathy, intense pruritus, purpura, and pericarditis.
+- Advanced CKD (Stage 4-5) is characterized by multiorgan complications such as hypertensive retinopathy, peripheral neuropathy, intense pruritus, purpura, and [[Cardiology/Pericarditis\|pericarditis]].
 - Children with CKD face a 65% increased risk of neurocognitive impairment, particularly affecting attention, memory, inhibitory control, and academic achievement.
 
 ### Specific Systemic Complications
 
 |Complication|Pathophysiology and Clinical Correlates|
 |:--|:--|
-|**Growth Retardation**|Driven by a growth hormone–resistant state (elevated GH but decreased insulin-like growth factor-1), malnutrition, metabolic acidosis, and renal osteodystrophy.|
-|**Anemia of CKD**|Primarily results from inadequate erythropoietin (EPO) production by the peritubular interstitial cells. Exacerbated by iron/folate/vitamin B12 deficiency, and shortened erythrocyte survival due to uremia.|
+|**Growth Retardation**|Driven by a growth hormone–resistant state (elevated GH but decreased insulin-like growth factor-1), malnutrition, metabolic acidosis, and [[Nephrology/Renal Osteodystrophy\|renal osteodystrophy]].|
+|**Anemia of CKD**|Primarily results from inadequate [[Hematology/Erythropoietin\|erythropoietin]] (EPO) production by the peritubular interstitial cells. Exacerbated by iron/folate/vitamin B12 deficiency, and shortened erythrocyte survival due to uremia.|
 |**CKD-Mineral Bone Disease (CKD-MBD)**|Driven by decreased renal 1-alpha-hydroxylation of 25-hydroxyvitamin D (calcitriol deficiency), leading to reduced intestinal calcium absorption and hypocalcemia. Concurrently, reduced GFR causes phosphate retention. These factors trigger severe secondary hyperparathyroidism, resulting in bone pain, skeletal deformities (rickets), and vascular calcification.|
 |**Cardiovascular Disease**|Volume overload and RAAS activation lead to severe, refractory hypertension, left ventricular hypertrophy, and ischemic cardiomyopathy.|
 
 ## Diagnostic Evaluation
 
-- Initial evaluation must identify the underlying etiology and detect any reversible factors (e.g., urinary tract obstruction, active UTI, severe hypertension, dehydration, or concurrent drug toxicity).
+- Initial evaluation must identify the underlying etiology and detect any reversible factors (e.g., urinary tract obstruction, active [[Nephrology/UTI\|UTI]], severe hypertension, dehydration, or concurrent drug toxicity).
 - Blood investigations should include complete blood counts, urea, creatinine, electrolytes, total protein, albumin, pH, and bicarbonate.
 - Assessment of CKD-MBD requires measuring serum calcium, phosphate, alkaline phosphatase, intact parathyroid hormone (PTH), and 25-hydroxyvitamin D.
 - Anemia workup mandates iron studies, including serum ferritin, transferrin, total iron-binding capacity, and percent transferrin saturation (TSAT).
 - Renal ultrasonography is routinely performed to evaluate kidney size, echogenicity, loss of corticomedullary differentiation, and to screen for structural CAKUT anomalies.
-- A kidney biopsy is indicated if there is an unexplained decline in kidney function, substantial new-onset proteinuria, or clinical suspicion of a progressive glomerular disease (e.g., IgA nephropathy or lupus nephritis).
+- A kidney biopsy is indicated if there is an unexplained decline in kidney function, substantial new-onset proteinuria, or clinical suspicion of a progressive glomerular disease (e.g., IgA nephropathy or [[Rheumatology/Lupus Nephritis\|lupus nephritis]]).
 
 ## Comprehensive Management
 
@@ -95,7 +95,7 @@
 |Therapy Target|Pharmacological and Clinical Interventions|
 |:--|:--|
 |**Hypertension and Fluid Overload**|In addition to ACEi/ARBs, therapy may require calcium channel blockers, beta-blockers, or loop diuretics (furosemide) for overt fluid overload. Severe refractory cases may necessitate centrally acting agents like clonidine.|
-|**Anemia**|Iron supplementation (oral or intravenous) is initiated if TSAT is $\le$ 20% or ferritin is $\le$ 100 ng/mL. Iron-replete patients require recombinant human erythropoietin (50–150 U/kg/dose given 2-3 times a week) or Darbepoetin alfa, targeting a hemoglobin of 11–12 g/dL.|
+|**Anemia**|Iron supplementation (oral or intravenous) is initiated if TSAT is $\le$ 20% or ferritin is $\le$ 100 ng/mL. Iron-replete patients require recombinant human [[Hematology/Erythropoietin\|erythropoietin]] (50–150 U/kg/dose given 2-3 times a week) or Darbepoetin alfa, targeting a hemoglobin of 11–12 g/dL.|
 |**CKD-MBD (Bone Disease)**|Dietary phosphate restriction (limiting dairy products) is the first step. Enteral phosphate binders (calcium carbonate or calcium acetate) are administered with meals. Active vitamin D metabolites, specifically 1,25-dihydroxyvitamin D3 (calcitriol), are required to suppress secondary hyperparathyroidism and optimize calcium absorption.|
 |**Metabolic Acidosis**|Systemic alkalinization is achieved with oral sodium bicarbonate or sodium citrate solutions, which mitigates bone buffering and slows the progression of CKD.|
 |**Electrolyte Imbalance**|Polyuric CAKUT patients require massive free water and salt supplementation. Conversely, oliguric patients with glomerular disease require strict sodium and potassium restriction to prevent fatal hyperkalemia and pulmonary edema.|

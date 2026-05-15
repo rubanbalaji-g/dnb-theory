@@ -55,9 +55,9 @@ Breastfeeding offers unique metabolic and biochemical advantages that influence 
 - **Carnitine:** High levels of carnitine in breast milk facilitate the transport of long-chain fatty acids across mitochondrial membranes for oxidation, essential for energy production in the neonate.
 - **Enzymatic Support:** Breast milk contains Bile Salt Stimulated Lipase (BSSL), which aids in fat digestion and absorption, compensating for immature pancreatic function in infants,.
 
-### 3. Prevention of Metabolic Syndrome (FOAD)
+### 3. Prevention of [[Endocrinology/Metabolic Syndrome\|Metabolic Syndrome]] (FOAD)
 
-- **Fetal Origins of Adult Disease (FOAD):** The "Barker Hypothesis" suggests that early nutrition programs the body for later health. Breastfeeding protects against the "mismatch" between early nutrient deprivation and later abundance, reducing the risk of metabolic syndrome (insulin resistance, hypertension, dyslipidemia),.
+- **Fetal Origins of Adult Disease (FOAD):** The "Barker Hypothesis" suggests that early nutrition programs the body for later health. Breastfeeding protects against the "mismatch" between early nutrient deprivation and later abundance, reducing the risk of [[Endocrinology/Metabolic Syndrome\|metabolic syndrome]] (insulin resistance, hypertension, dyslipidemia),.
 - **Diabetes Protection:** Breastfeeding is associated with a lower risk of Type 2 diabetes and may protect against Type 1 diabetes (Insulin Dependent Diabetes Mellitus),.
 - **Blood Pressure:** Breastfed individuals generally exhibit lower blood pressure and better endothelial function in adulthood compared to those artificially fed.
 

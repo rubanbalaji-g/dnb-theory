@@ -31,7 +31,7 @@ Breastfeeding is the gold standard for infant nutrition, but several challenges 
 - **Rumination (Merycism):** A psychological disorder where the infant regurgitates food, re-chews, and swallows it. It is often associated with lack of stimulation or emotional deprivation.
 - **Constipation:** Exclusively breastfed babies may pass stools infrequently (even once in 7 days) which is normal if the stool is soft. However, introduction of cow's milk or formula can lead to true constipation due to high solute load.
 
-### 3. Problems with Complementary Feeding (6–12 Months)
+### 3. Problems with [[Nutrition/Complementary Feeding\|Complementary Feeding]] (6–12 Months)
 
 The transition from liquid to solid foods (weaning) is a critical period where malnutrition often begins (the "Development Paradox").
 

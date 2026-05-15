@@ -4,10 +4,10 @@
 
 ## Definition
 
-- Toxic neuropathy refers to peripheral nerve damage resulting from exposure to chemicals, toxins, heavy metals, industrial agents, biologic neurotoxins, or medications. 
+- [[Neuromuscular/Toxic Neuropathy\|Toxic neuropathy]] refers to peripheral nerve damage resulting from exposure to chemicals, toxins, heavy metals, industrial agents, biologic neurotoxins, or medications. 
 - It typically manifests as axonal degeneration or primary demyelination. 
 - It is distinct from other peripheral neuropathies due to its direct association with an identifiable exposure history. 
-- In pediatric practice, toxic neuropathy is less common than in adults, but it is frequently seen following exposure to prescribed medications (especially chemotherapy), environmental chemicals, or occupational hazards in developing regions.
+- In pediatric practice, [[Neuromuscular/Toxic Neuropathy\|toxic neuropathy]] is less common than in adults, but it is frequently seen following exposure to prescribed medications (especially chemotherapy), environmental chemicals, or occupational hazards in developing regions.
 
 ## Etiology And Classification
 
@@ -20,8 +20,8 @@
 |:--|:--|
 |**Metals**|Arsenic, Gold, Lead, Lithium, Mercury, Thallium, Zinc|
 |**Occupational Or Industrial Chemicals**|Acrylamide, Carbon disulfide, Cyanide, Ethylene oxide, Nitrous oxide, Hexacarbons, Organophosphates, Polychlorinated biphenyls|
-|**Metabolic Disorders (Toxic Metabolites)**|Fabry disease, Krabbe disease, Leukodystrophies, Porphyria, Tangier disease, Tyrosinemia, Uremia|
-|**Biologic And Infectious Toxins**|COVID-19, Diphtheria, Herpesviruses, HIV, Leprosy, Lyme disease, Rabies, Serum sickness, West Nile virus, Zika virus|
+|**Metabolic Disorders (Toxic Metabolites)**|Fabry disease, Krabbe disease, Leukodystrophies, Porphyria, Tangier disease, [[Metabolic Disorders/Tyrosinemia\|Tyrosinemia]], Uremia|
+|**Biologic And Infectious Toxins**|[[Infectious Diseases/COVID-19\|COVID-19]], [[Infectious Diseases/Diphtheria\|Diphtheria]], Herpesviruses, HIV, Leprosy, Lyme disease, Rabies, Serum sickness, West Nile virus, Zika virus|
 
 ### Chemotherapy Agents Associated With Neuropathy
 
@@ -93,11 +93,11 @@ The clinical presentation depends heavily on the specific toxin and its distinct
 
 |Condition|Key Differentiating Features|
 |:--|:--|
-|**Guillain-Barré Syndrome**|Acute presentation, antecedent infection, absent specific toxin history, albuminocytologic dissociation in cerebrospinal fluid.|
+|**[[Neuromuscular/Guillain-Barré Syndrome\|Guillain-Barré Syndrome]]**|Acute presentation, antecedent infection, absent specific toxin history, albuminocytologic dissociation in cerebrospinal fluid.|
 |**Hereditary Neuropathies**|Insidious chronic course, positive family history, characteristic foot deformities (e.g., [[Neuromuscular/Charcot-Marie-Tooth Disease\|Charcot-Marie-Tooth disease]]).|
 |**Chronic Inflammatory Demyelinating Polyneuropathy**|Relapsing-remitting or slowly progressive course, prominent demyelinating features on electrophysiology.|
 |**Metabolic Neuropathies**|Associated systemic disease markers (e.g., poorly controlled diabetes mellitus).|
-|**Infectious Neuropathies**|Clinical signs of primary infection (e.g., Diphtheria, Lyme disease).|
+|**Infectious Neuropathies**|Clinical signs of primary infection (e.g., [[Infectious Diseases/Diphtheria\|Diphtheria]], Lyme disease).|
 
 ## Management
 
@@ -111,7 +111,7 @@ The clinical presentation depends heavily on the specific toxin and its distinct
 
 ## Prognosis
 
-- The prognosis of toxic neuropathy is highly variable and depends intrinsically on the specific toxin, cumulative dose, duration of exposure, and the rapidity of agent removal. 
+- The prognosis of [[Neuromuscular/Toxic Neuropathy\|toxic neuropathy]] is highly variable and depends intrinsically on the specific toxin, cumulative dose, duration of exposure, and the rapidity of agent removal. 
 - Many patients demonstrate significant clinical improvement following cessation of the exposure. 
 - However, permanent residual neurological deficits are common in cases of severe, established axonal damage. 
 - Early clinical recognition remains absolutely critical in pediatric practice to halt progression and prevent irreversible disability.

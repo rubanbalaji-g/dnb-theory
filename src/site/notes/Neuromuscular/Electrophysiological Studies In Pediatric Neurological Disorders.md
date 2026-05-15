@@ -64,7 +64,7 @@ Electrophysiological studies provide objective, non-invasive data to localise le
 
 ### Anterior Horn Cell Disorders
 
-- Spinal Muscular Atrophy (SMA) exhibits a classic neuropathic pattern.
+- [[Neuromuscular/Spinal Muscular Atrophy\|Spinal Muscular Atrophy]] (SMA) exhibits a classic neuropathic pattern.
 - EMG shows active denervation, spontaneous fibrillation potentials, and giant motor unit action potentials.
 - NCS is usually normal or only mildly slow in advanced stages.
 - Excludes myopathies and central hypotonia, guiding targeted SMN1 genetic testing.
@@ -85,7 +85,7 @@ Electrophysiological studies provide objective, non-invasive data to localise le
 ### Neuromuscular Junction Disorders
 
 - RNS demonstrates a decremental response of greater than 10% in compound muscle action potential.
-- Crucial for diagnosing Myasthenia Gravis, botulism, and congenital myasthenic syndromes.
+- Crucial for diagnosing [[Neuromuscular/Myasthenia Gravis\|Myasthenia Gravis]], botulism, and congenital myasthenic syndromes.
 - Essential diagnostic step in infants where the Edrophonium test is contraindicated due to arrhythmia risks.
 
 ## Clinical Contexts

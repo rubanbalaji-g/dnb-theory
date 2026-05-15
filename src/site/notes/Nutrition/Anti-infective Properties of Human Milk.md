@@ -86,11 +86,11 @@
 
 ## Protection Against Specific Pathogens
 
-- **Malaria:**
+- **[[Infectious Diseases/Malaria\|Malaria]]:**
     - Human milk has a relative deficiency of Para Amino Benzoic Acid (PABA).
-    - Malaria parasites require PABA for growth; the deficiency in breast milk suppresses the parasite to subclinical levels.
+    - [[Infectious Diseases/Malaria\|Malaria]] parasites require PABA for growth; the deficiency in breast milk suppresses the parasite to subclinical levels.
     - This suppression allows sufficient antigenic stimulus for the infant to develop an immune response without developing severe disease.
-    - Transfer of maternal antibodies and T lymphocytes also offers protection against malaria.
+    - Transfer of maternal antibodies and T lymphocytes also offers protection against [[Infectious Diseases/Malaria\|malaria]].
 - **Giardia and Amoeba:** Killed specifically by Bile Salt Stimulated Lipase (BSSL).
 - **E. coli:** Inhibited by Lactoferrin (via iron binding) and the acidic gut environment created by _Lactobacillus bifidus_,.
 

@@ -10,7 +10,7 @@
 - Nephrogenesis (the formation of new nephrons) occurs primarily during gestation and is definitively completed by 34 to 36 weeks of gestation.
 - The first glomeruli form in the juxtamedullary regions, while the superficial cortical glomeruli are formed last and remain the most immature at birth.
 - Glomerular capillary loops are formed through both angiogenesis and vasculogenesis, guided by vascular endothelial growth factor (VEGF) which drives endothelial precursor invasion into the S-shaped body.
-- The thickness of the glomerular basement membrane (GBM) dynamically evolves, measuring approximately 150 nm at birth and maturing to about 320–370 nm by 11 years of age.
+- The thickness of the glomerular basement membrane (GBM) dynamically evolves, measuring approximately 150 nm at birth and maturing to [[About\|about]] 320–370 nm by 11 years of age.
 
 ### Postnatal Maturation
 
@@ -50,7 +50,7 @@
 |:--|:--|:--|
 |**Serum Creatinine (SCr)**|Product of muscle metabolism; production is typically constant. Widely available and inexpensive.|Undergoes tubular secretion, which increases as GFR declines, leading to overestimation of GFR.|
 ||Serves as the base for the widely utilized bedside Schwartz estimating equation.|Dependent on muscle mass, age, sex, and dietary protein (meat) intake.|
-||Insensitive to acute changes in GFR; takes days to reach a steady state in Acute Kidney Injury (AKI).|Subject to analytical variations (Jaffe vs. enzymatic assays), though IDMS traceability has improved standardisation.|
+||Insensitive to acute changes in GFR; takes days to reach a steady state in [[Nephrology/Acute Kidney Injury\|Acute Kidney Injury]] (AKI).|Subject to analytical variations (Jaffe vs. enzymatic assays), though IDMS traceability has improved standardisation.|
 |**Cystatin C (CysC)**|A 13.6-kDa protease inhibitor produced at a constant rate by all nucleated cells.|Less widely available and more expensive than serum creatinine assays.|
 ||Freely filtered by the glomerulus and completely reabsorbed and catabolized by proximal tubular cells, with no tubular secretion.|Serum levels may be affected by hyperthyroidism, high-dose corticosteroid use, and extreme hypertriglyceridemia.|
 ||Less affected by muscle mass, age, gender, and nutritional status compared to serum creatinine.|Values in the neonatal period are elevated at birth but quickly fall as postnatal adaptation occurs.|

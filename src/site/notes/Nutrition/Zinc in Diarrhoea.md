@@ -22,7 +22,7 @@
 
 ## Dosage and Administration (IMNCI Guidelines)
 
-- **Target Group:** All children with acute diarrhea, persistent diarrhea, or [[Gastrointestinal/Dysentery\|dysentery]].
+- **Target Group:** All children with [[Gastrointestinal/Acute Diarrhea\|acute diarrhea]], persistent diarrhea, or [[Gastrointestinal/Dysentery\|dysentery]].
 - **Duration:** Zinc must be given for a total of **14 days**, even if the diarrhea stops earlier, to ensure the preventive benefit.
 - **Dosage Stratification:**
     - **Infants 2 months to < 6 months:** 10 mg elemental zinc per day (½ tablet of 20 mg).
@@ -35,7 +35,7 @@
 
 ## Role in Specific Diarrheal Conditions
 
-### Acute Diarrhea
+### [[Gastrointestinal/Acute Diarrhea\|Acute Diarrhea]]
 
 - Zinc is a core component of **Plan A** (Home care for no dehydration) and **Plan B** (Treatment of some dehydration).
 - It is given in addition to [[Gastrointestinal/Oral Rehydration Solution\|Oral Rehydration Solution]] (ORS) and continued feeding.

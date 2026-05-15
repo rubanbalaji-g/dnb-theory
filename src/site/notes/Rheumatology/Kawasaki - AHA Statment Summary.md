@@ -27,13 +27,13 @@
 - Oropharyngeal changes including strawberry tongue, erythematous lips.
 - Cervical lymphadenopathy, usually unilateral, measuring greater than 1.5 centimeters.
 
-### Incomplete Kawasaki Disease
+### Incomplete [[Rheumatology/Kawasaki Disease\|Kawasaki Disease]]
 
 - Features prolonged unexplained fever.
 - Manifests fewer than four principal clinical features.
 - Diagnosed via compatible laboratory or echocardiographic findings.
 
-### Kawasaki Disease Shock Syndrome
+### [[Rheumatology/Kawasaki Disease Shock Syndrome\|Kawasaki Disease Shock Syndrome]]
 
 - Constitutes rare, severe illness form.
 - Presents with vasodilatory shock, severe hypotension, poor systemic perfusion.

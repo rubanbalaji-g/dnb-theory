@@ -65,7 +65,7 @@
 
 - Musculoskeletal: Arthritis or arthralgia involving small or large joints.
 - Gastrointestinal: Unexplained vomiting, diarrhea, severe abdominal pain. Hydrops of gallbladder presents as upper abdominal mass. Mild hepatitis and transaminitis occur.
-- Neurological: Extreme irritability prominent in infants. Aseptic meningitis yields cerebrospinal fluid pleocytosis. Transient sensorineural hearing loss. Rare facial nerve palsy.
+- Neurological: Extreme irritability prominent in infants. Aseptic [[Neurology/Meningitis\|meningitis]] yields cerebrospinal fluid pleocytosis. Transient sensorineural hearing loss. Rare facial nerve palsy.
 - Renal/Genitourinary: Sterile pyuria, urethritis, meatitis. Acute renal failure represents rare complication.
 - Dermatological: Perianal erythema and desquamation. Reactivation erythema and induration at bacillus Calmette-Guerin inoculation site.
 ## Algorithmic Approach
@@ -115,12 +115,12 @@ graph TD
     ZScores --> Z5[Level 5: Z score >= 10 <br/> Echo q6mo + Advanced Imaging, Dual Antiplatelet + Anticoagulation]
 ```
 
-## Incomplete And Atypical Kawasaki Disease
+## Incomplete And [[Rheumatology/Atypical Kawasaki Disease\|Atypical Kawasaki Disease]]
 
 - Manifests prolonged unexplained fever with fewer than 4 principal clinical features.
 - Most common in infants <6 months of age.
 - Carries highest risk for developing coronary artery abnormalities due to delayed diagnosis.
-- Demands high index of suspicion and evaluation via specific laboratory and echocardiographic algorithms.
+- Demands high [[Statistics/Index\|index]] of suspicion and evaluation via specific laboratory and echocardiographic algorithms.
 
 ### Laboratory Criteria For Incomplete KD
 
@@ -140,7 +140,7 @@ graph TD
     - Coronary artery aneurysm directly observed.
     - Presence of >= 3 suggestive features: decreased left ventricular function, mitral regurgitation, pericardial effusion, perivascular brightness, lack of vessel tapering, or Z scores in LAD/RCA between 2 and 2.5.
 
-## Kawasaki Disease Shock Syndrome
+## [[Rheumatology/Kawasaki Disease Shock Syndrome\|Kawasaki Disease Shock Syndrome]]
 
 - Constitutes rare, severe illness manifestation.
 - Presents with vasodilatory cardiogenic shock, severe hypotension, and poor systemic perfusion.
@@ -212,7 +212,7 @@ graph TD
 
 ### Acute Complications
 
-- Macrophage Activation Syndrome: Potentially fatal complication secondary to cytokine storm. Features continuous fever, hepatosplenomegaly, hyperferritinemia (>684 ng/mL), hypofibrinogenemia. Treat with pulse methylprednisolone and Cyclosporine.
+- [[Rheumatology/Macrophage Activation Syndrome\|Macrophage Activation Syndrome]]: Potentially fatal complication secondary to cytokine storm. Features continuous fever, hepatosplenomegaly, hyperferritinemia (>684 ng/mL), hypofibrinogenemia. Treat with pulse methylprednisolone and Cyclosporine.
 - Acute Myocardial Infarction: Risk peaks dramatically during first 2-3 months. Mandates immediate percutaneous coronary intervention or medical thrombolysis (tissue-type plasminogen activator).
 
 ### Long-Term Outcomes

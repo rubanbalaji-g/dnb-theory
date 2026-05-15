@@ -44,7 +44,7 @@
 - Medullary nephrocalcinosis visible on renal ultrasound.
 - Pulmonary involvement includes diffuse interstitial lymphocytosis or interstitial lung disease.
 - Neurological features encompass sensory/autonomic neuropathy and central nervous system involvement.
-- Hematologic features include autoimmune hemolytic anemia and leukopenia.
+- Hematologic features include [[Hematology/Autoimmune Hemolytic Anemia\|autoimmune hemolytic anemia]] and leukopenia.
 
 ## Diagnostic Evaluation
 
@@ -86,7 +86,7 @@
 - Juvenile recurrent parotitis: Features intermittent unilateral swelling, younger age onset (3-6 years), male predominance, and lacks focal lymphocytic infiltrates on biopsy.
 - Infectious parotitis: Includes mumps, Epstein-Barr virus, cytomegalovirus, and HIV.
 - Structural/Traumatic: Polycystic parotid disease, salivary duct calculi, local trauma.
-- Other etiologies: Sarcoidosis, eating disorders, tumors.
+- Other etiologies: Sarcoidosis, [[Development/Eating Disorders\|eating disorders]], tumors.
 - Sicca symptoms, specific autoantibodies, and rash remain absent in these differential conditions.
 
 ## Management Strategies
@@ -108,4 +108,4 @@
 - Diminished salivary flow persists indefinitely.
 - Corneal damage represents significant morbidity if keratoconjunctivitis sicca remains untreated.
 - Carries increased risk for mucosa-associated lymphoid tissue lymphoma, although incidence is significantly lower in children compared to adults.
-- Maternal Sjögren syndrome strongly associated with risk of neonatal lupus and congenital heart block in offspring due to transplacental transfer of Anti-Ro/La antibodies.
+- Maternal [[Rheumatology/Sjögren Syndrome\|Sjögren syndrome]] strongly associated with risk of neonatal lupus and [[Cardiology/Congenital Heart Block\|congenital heart block]] in offspring due to transplacental transfer of Anti-Ro/La antibodies.

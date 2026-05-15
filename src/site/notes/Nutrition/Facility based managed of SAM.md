@@ -24,7 +24,7 @@ Children with SAM have impaired thermoregulation due to loss of insulating fat a
 
 - **Definition:** Axillary temperature < 35°C (95°F) or Rectal temperature < 35.5°C (95.5°F).
 - **Management:**
-    - **Rewarm:** Place the child in skin-to-skin contact (Kangaroo Mother Care) or under a radiant warmer/heater.
+    - **Rewarm:** Place the child in skin-to-skin contact ([[Neonatalogy/Kangaroo Mother Care\|Kangaroo Mother Care]]) or under a radiant warmer/heater.
     - **Cover:** Ensure the head is covered (cap) as significant heat is lost from the head. Clothe the child properly.
     - **Monitor:** Check temperature every 30 minutes during rewarming, then every 2 hours.
     - **Avoid:** Rapid rewarming (hot water bottles) which can cause vasodilation and shock.
@@ -37,7 +37,7 @@ Diagnosis of dehydration is difficult in SAM because classic signs like skin pin
 - **Assumption:** Assume all children with watery diarrhea have some dehydration.
 - **Contraindication:** Do **NOT** use IV fluids for routine rehydration. IV fluids can easily cause fluid overload and heart failure due to the weakened myocardium.
 - **Management (Oral Rehydration):**
-    - Use **ReSoMal** (Rehydration Solution for Malnutrition) or low-osmolarity ORS with added potassium (20 ml electrolyte solution per liter) and sugar. ReSoMal has less sodium (45 mmol/L) and more potassium (40 mmol/L) than standard ORS to prevent sodium overload.
+    - Use **[[Nutrition/ReSoMal\|ReSoMal]]** (Rehydration Solution for Malnutrition) or low-osmolarity ORS with added potassium (20 ml electrolyte solution per liter) and sugar. [[Nutrition/ReSoMal\|ReSoMal]] has less sodium (45 mmol/L) and more potassium (40 mmol/L) than standard ORS to prevent sodium overload.
     - **Rate:** Give 5 ml/kg every 30 minutes for the first 2 hours, then 5–10 ml/kg/hour for the next 4–10 hours on alternate hours with F-75.
 - **Management of Shock in SAM:**
     - IV fluids are used **only** if there is definite shock (lethargic/unconscious + cold hands + slow capillary refill >3s + weak fast pulse).
@@ -65,7 +65,7 @@ In SAM, the immune system is suppressed ("Nutritionally Acquired Immunodeficienc
 
 Micronutrient depletion is universal. Supplementation is vital for tissue repair.
 
-- **Vitamin A:** Give a single large dose on Day 1 (50,000 IU for <6 mo; 100,000 IU for 6–12 mo; 200,000 IU for >12 mo) unless given in the last month.
+- **[[Nutrition/Vitamin A\|Vitamin A]]:** Give a single large dose on Day 1 (50,000 IU for <6 mo; 100,000 IU for 6–12 mo; 200,000 IU for >12 mo) unless given in the last month.
 - **Folic Acid:** 5 mg on Day 1, then 1 mg/day.
 - **Zinc:** 2 mg/kg/day. Zinc is critical for mucosal repair, immunity, and appetite recovery.
 - **Copper:** 0.3 mg/kg/day.
@@ -73,7 +73,7 @@ Micronutrient depletion is universal. Supplementation is vital for tissue repair
 
 #### Step 7: Start Cautious Feeding
 
-The metabolic system is fragile. Feeding must be started slowly to avoid **Refeeding Syndrome**.
+The metabolic system is fragile. Feeding must be started slowly to avoid **[[Nutrition/Refeeding Syndrome\|Refeeding Syndrome]]**.
 
 - **Diet:** Use **F-75 (Starter Diet)**.
     - **Energy:** 75 kcal/100 ml.
@@ -114,7 +114,7 @@ Management involves preparing the family for discharge to prevent relapse.
     - Good appetite and eating home food.
     - Medical complications resolved.
 - **Home Diet:** Transition from F-100 to nutritious home-based food (High energy/protein).
-- **Education:** Teach the mother about hygiene, energy-dense food preparation, and danger signs.
+- **Education:** Teach the mother [[About\|about]] hygiene, energy-dense food preparation, and danger signs.
 - **Schedule:** Follow-up at 1 week, 2 weeks, 1 month, 3 months, and 6 months.
 
 ### Summary of Dietary Formulas

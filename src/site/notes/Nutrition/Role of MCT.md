@@ -96,7 +96,7 @@ The metabolism of MCTs differs fundamentally from LCTs at the stages of digestio
     - **Carnitine Independence:** MCTs do not require carnitine for transport across the mitochondrial membrane for oxidation, unlike LCTs which require the carnitine shuttle,.
     - **Ketogenesis:** MCTs are rapidly oxidized and are ketogenic, readily forming ketone bodies which can serve as an alternative fuel source.
 
-## Role of MCT in Nutrition and Therapeutics
+## [[Nutrition/Role of MCT\|Role of MCT]] in Nutrition and Therapeutics
 
 Due to their unique absorption and rapid oxidation, MCTs are used extensively in various clinical scenarios, particularly in pediatrics and critical care.
 
@@ -111,7 +111,7 @@ MCTs are the preferred fat source when the standard digestive or absorptive mech
     - In Lipoprotein Lipase (LPL) deficiency, MCTs are utilized because they bypass the LPL-dependent clearance mechanism required for chylomicrons.
 - **Pancreatic Insufficiency:**
     
-    - MCTs are valuable in the dietary management of cystic fibrosis and other causes of pancreatic insufficiency as they do not strictly require pancreatic lipase for hydrolysis.
+    - MCTs are valuable in the dietary management of [[Respiratory/Cystic Fibrosis\|cystic fibrosis]] and other causes of pancreatic insufficiency as they do not strictly require pancreatic lipase for hydrolysis.
 - **Short Bowel Syndrome:**
     
     - In patients with bowel resection, MCTs provide a concentrated energy source that is easily absorbed, minimizing osmotic load compared to undigested LCTs.

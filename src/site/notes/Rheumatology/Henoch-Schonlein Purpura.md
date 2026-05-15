@@ -69,7 +69,7 @@
 ### Renal Features
 
 - Manifests in up to 50% of cases. Major driver of long-term morbidity and mortality.
-- Presentations range from isolated microscopic hematuria to proteinuria, frank nephritis, nephrotic syndrome, hypertension, and acute or chronic renal failure.
+- Presentations range from isolated microscopic hematuria to proteinuria, frank nephritis, [[Nephrology/Nephrotic Syndrome\|nephrotic syndrome]], hypertension, and acute or chronic renal failure.
 - Progression to end-stage renal disease remains uncommon in pediatric population.
 
 ### Neurologic Features
@@ -94,8 +94,8 @@
 |Disease Category|Alternative Diagnoses|
 |:--|:--|
 |Small Vessel Vasculitides|Hypersensitivity vasculitis, hypocomplementemic urticarial vasculitis, cryoglobulinemic vasculitis, microscopic polyangiitis, granulomatosis with polyangiitis.|
-|Connective Tissue Diseases|Systemic lupus erythematosus, juvenile dermatomyositis, systemic onset juvenile idiopathic arthritis.|
-|Hematologic Disorders|Immune thrombocytopenic purpura, thrombotic thrombocytopenic purpura, hemolytic uremic syndrome, disseminated intravascular coagulation.|
+|Connective Tissue Diseases|Systemic lupus erythematosus, [[Rheumatology/Juvenile Dermatomyositis\|juvenile dermatomyositis]], systemic onset juvenile idiopathic arthritis.|
+|Hematologic Disorders|Immune thrombocytopenic purpura, thrombotic thrombocytopenic purpura, hemolytic uremic syndrome, [[Hematology/Disseminated Intravascular Coagulation\|disseminated intravascular coagulation]].|
 |Infections|Septicemia, meningococcemia, acute poststreptococcal glomerulonephritis.|
 |Pediatric Mimics|Infantile acute hemorrhagic edema. Affects infants under two years. Tender edema and large ecchymosis on face and extremities. Trunk spared. Normal platelet count.|
 

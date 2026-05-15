@@ -2,14 +2,9 @@
 {"dg-publish":true,"permalink":"/nephrology/nephrotic-syndrome/","noteIcon":"","dgPassFrontmatter":true}
 ---
 
+### **1. Definition & Classic Tetrad**
 
-# **Pediatric Nephrotic Syndrome**
-
-**Based on Recent ISPN Guidelines (2021)**
-
-### **1\. Definition & Classic Tetrad**
-
-Nephrotic Syndrome is a clinical syndrome characterized by a collection of findings resulting from massive renal protein loss.
+[[Nephrology/Nephrotic Syndrome\|Nephrotic Syndrome]] is a clinical syndrome characterized by a collection of findings resulting from massive renal protein loss.
 
 #### **The Classic Tetrad:**
 
@@ -77,7 +72,7 @@ Diagnosis is primarily clinical and biochemical, supported by a kidney biopsy in
 
 ### **6\. Management (ISPN 2021 Guidelines)**
 
-#### **A. Steroid-Sensitive Nephrotic Syndrome (SSNS)**
+#### **A. Steroid-Sensitive [[Nephrology/Nephrotic Syndrome\|Nephrotic Syndrome]] (SSNS)**
 
 ##### **1\. Initial Episode (Presumed MCD)**
 
@@ -141,7 +136,7 @@ This category is for patients with SDNS who have failed treatment with at least 
 * **Calcineurin Inhibitors (CNIs):** If not already used, CNIs are the next step.  
 * **Rituximab:** A monoclonal antibody that depletes B-cells. This is reserved for patients who have failed or are dependent on CNIs, or have significant toxicity from them. It can induce prolonged, drug-free remission but carries risks of infusion reactions and hypogammaglobulinemia.
 
-#### **B. Steroid-Resistant Nephrotic Syndrome (SRNS)**
+#### **B. Steroid-Resistant [[Nephrology/Nephrotic Syndrome\|Nephrotic Syndrome]] (SRNS)**
 
 This follows a structured, stepwise algorithm:
 <!-- htmlmin:ignore -->
@@ -205,7 +200,7 @@ This follows a structured, stepwise algorithm:
   * Switching to **Rituximab** or **MMF** to reduce CNI exposure and toxicity.  
 * **For Patients with Continued Non-Response:** If the patient fails CNI therapy and subsequent add-on therapies (Rituximab/MMF), immunosuppression is generally withdrawn, and care becomes supportive, focusing on slowing CKD progression.
 
-###### **What about Cyclophosphamide?**
+###### **What [[About\|about]] Cyclophosphamide?**
 
 * **IV Cyclophosphamide:** Considered an **alternate therapy**, but it is **inferior to CNIs** for inducing remission in SRNS. It may be used if CNIs are unavailable or contraindicated.  
 * **Oral Cyclophosphamide:** **NOT recommended** for the treatment of SRNS.
@@ -219,7 +214,7 @@ This follows a structured, stepwise algorithm:
   * **No Hypovolemia:** Manage with salt restriction. For moderate/severe edema, use oral **Furosemide**. Refractory edema may require IV furosemide or adding a thiazide diuretic.  
   * **Severe Refractory Edema:** IV albumin infusion followed immediately by IV furosemide 
 #### **Infection:**  
-  * High risk, especially for **Spontaneous Bacterial Peritonitis (SBP)** caused by *Streptococcus pneumoniae*.  
+  * High risk, especially for **Spontaneous Bacterial [[Gastrointestinal/Peritonitis\|Peritonitis]] (SBP)** caused by *Streptococcus pneumoniae*.  
   * **Immunizations are crucial.** Give pneumococcal (PCV13 \+ PPSV23), varicella, and annual influenza vaccines, preferably during remission and on low-dose immunosuppression.  
 #### **Thromboembolism:**  
   * High risk due to a hypercoagulable state.  

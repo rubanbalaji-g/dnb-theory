@@ -12,7 +12,7 @@ Detection relies on a combination of anthropometric measurements, clinical asses
 
 Anthropometry is the gold standard for assessing nutritional status. The specific parameters and cut-offs vary by age group.
 
-### A. Body Mass Index (BMI)
+### A. Body Mass [[Statistics/Index\|Index]] (BMI)
 
 BMI is the most commonly used measure for overweight and obesity in children and adolescents. It is an excellent proxy for direct measurement of body fat.
 
@@ -51,7 +51,7 @@ This is the primary parameter for children under 5 years of age.
 - **Interpretation (WHO Standards):**
     - **Overweight:** > +2 SD (Z-score).
     - **Obesity:** > +3 SD (Z-score).
-    - **Broca’s Index (Older Children/Adults):** Ideal weight (kg) = Height (cm) - 100. Weight-for-height > 120% of ideal is considered obesity.
+    - **Broca’s [[Statistics/Index\|Index]] (Older Children/Adults):** Ideal weight (kg) = Height (cm) - 100. Weight-for-height > 120% of ideal is considered obesity.
 
 ### C. Skin Fold Thickness (SFT)
 
@@ -79,7 +79,7 @@ Clinical evaluation helps distinguish between simple (constitutional) obesity an
 ### A. Growth Pattern and History
 
 - **Constitutional Obesity:** Most common type. Associated with **tall stature** and **advanced bone age** (growing fast). The child looks "big" for age.
-- **Pathological/Endocrine Obesity:** Associated with **short stature** and **delayed bone age** (e.g., Cushing syndrome, Hypothyroidism).
+- **Pathological/Endocrine Obesity:** Associated with **short stature** and **delayed bone age** (e.g., [[Endocrinology/Cushing Syndrome\|Cushing syndrome]], Hypothyroidism).
 - **Drug History:** Use of medications like atypical antipsychotics which increase appetite.
 - **Developmental History:** History of intrauterine growth retardation (IUGR) followed by rapid catch-up growth is a risk factor for central obesity and insulin resistance (Barker hypothesis).
 
@@ -87,11 +87,11 @@ Clinical evaluation helps distinguish between simple (constitutional) obesity an
 
 - **Skin:**
     - **Acanthosis Nigricans:** Dark, velvety pigmentation on the neck and axilla, indicating insulin resistance and Type 2 Diabetes.
-    - **Striae:** Purple striae suggest Cushing syndrome.
+    - **Striae:** Purple striae suggest [[Endocrinology/Cushing Syndrome\|Cushing syndrome]].
     - **Intertrigo:** Fungal infections in skin folds due to hygiene issues.
 - **Respiratory:**
     - **Pickwickian Syndrome:** Severe obesity causing alveolar hypoventilation, somnolence, and cyanosis.
-    - **Obstructive Sleep Apnea:** Snoring and daytime sleepiness.
+    - **[[Respiratory/Obstructive Sleep Apnea\|Obstructive Sleep Apnea]]:** Snoring and daytime sleepiness.
 - **Orthopedic:**
     - **Slipped Capital Femoral Epiphysis (SCFE):** Hip or knee pain.
     - **Blount Disease:** Bowing of legs (tibia vara).
@@ -111,7 +111,7 @@ Assessment of "Energy Balance" is crucial to determine the etiology.
     - Assessment of sedentary behavior, specifically **screen time** (TV, mobile, computer) and lack of outdoor play.
     - Imbalance: Even a small excess of 25 kcal/day over expenditure can lead to obesity over time.
 
-## 4. Laboratory Parameters (Screening for Metabolic Syndrome)
+## 4. Laboratory Parameters (Screening for [[Endocrinology/Metabolic Syndrome\|Metabolic Syndrome]])
 
 Children with BMI $\ge$ 85th percentile (Overweight) with risk factors, or $\ge$ 95th percentile (Obese) require screening for metabolic complications.
 

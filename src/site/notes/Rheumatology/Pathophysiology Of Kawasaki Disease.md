@@ -27,7 +27,7 @@ Complex interaction between immune activation and vascular tissue destruction dr
 
 ### Superantigen Hypothesis
 
-- Striking clinical similarity exists between Kawasaki disease and superantigen toxin-mediated staphylococcal/streptococcal toxic shock syndromes.
+- Striking clinical similarity exists between [[Rheumatology/Kawasaki Disease\|Kawasaki disease]] and superantigen toxin-mediated staphylococcal/streptococcal toxic shock syndromes.
 - Selective expansion of V<sub>β</sub>2 and V<sub>β</sub>8.1 T cells indicates superantigen-mediated process.
 - Conventional antigen response also remains plausible etiology.
 

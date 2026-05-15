@@ -61,7 +61,7 @@
     - Severe, symmetric, additive, deforming arthritis of small joints (metacarpophalangeal, proximal interphalangeal).
     - Rheumatoid nodules possible, indicating severe disease.
 
-### Enthesitis-Related Arthritis (ERA)
+### [[Rheumatology/Enthesitis-Related Arthritis (ERA)\|Enthesitis-Related Arthritis (ERA)]]
 
 - Affects older boys (mean age 12 years).
 - Asymmetric large joint arthritis of lower extremities alongside enthesitis.
@@ -92,7 +92,7 @@
 
 ## High-Yield Complications
 
-- **Macrophage Activation Syndrome (MAS):** Life-threatening complication primarily in Systemic JIA. Clinical features include unremitting fever, sudden icterus, hepatosplenomegaly, bleeding tendency. Laboratory hallmarks: pancytopenia (leukopenia, thrombocytopenia), extreme hyperferritinemia (>684 ng/mL), hypofibrinogenemia (causing dramatic ESR drop), hypertriglyceridemia, elevated transaminases.
+- **[[Rheumatology/Macrophage Activation Syndrome\|Macrophage Activation Syndrome]] (MAS):** Life-threatening complication primarily in Systemic JIA. Clinical features include unremitting fever, sudden icterus, hepatosplenomegaly, bleeding tendency. Laboratory hallmarks: pancytopenia (leukopenia, thrombocytopenia), extreme hyperferritinemia (>684 ng/mL), hypofibrinogenemia (causing dramatic ESR drop), hypertriglyceridemia, elevated transaminases.
 - **Chronic Anterior Uveitis:** Predominantly early-onset ANA-positive Oligoarticular JIA. Asymptomatic progression leading to blinding complications: posterior synechiae, glaucoma, cataracts, band keratopathy. Mandates routine slit-lamp screening.
 - **Skeletal Abnormalities:** Premature epiphyseal closure leads to shortened bones. Persistent knee arthritis causes leg-length discrepancy. TMJ involvement causes micrognathia.
 
@@ -100,7 +100,7 @@
 
 |Disease Category|Specific Mimics|Distinguishing Clinical & Laboratory Features|
 |---|---|---|
-|Malignancy|Leukemia, Neuroblastoma, Bone Tumors|Disproportionate deep bone pain, severe night pain (awakening child), non-articular bony tenderness, leukopenia, thrombocytopenia, abnormal peripheral smear.|
+|Malignancy|Leukemia, [[Hematology/Neuroblastoma\|Neuroblastoma]], Bone Tumors|Disproportionate deep bone pain, severe night pain (awakening child), non-articular bony tenderness, leukopenia, thrombocytopenia, abnormal peripheral smear.|
 |Infections|Septic Arthritis, Reactive Arthritis, Lyme Disease|Acute red hot joint, purulent synovial fluid (>50,000 WBCs/microL), marked toxicity, migratory/additive pattern, positive cultures.|
 |Non-Inflammatory|Growing Pains, Hypermobility, Mechanical|Pain worsens with physical activity, exclusively nighttime occurrence (growing pains), absent joint swelling, normal inflammatory markers.|
-|Connective Tissue|SLE, Juvenile Dermatomyositis (JDM)|Malar rash sparing nasolabial folds, Heliotrope rash, Gottron papules, symmetric proximal muscle weakness, specific autoantibodies.|
+|Connective Tissue|SLE, [[Rheumatology/Juvenile Dermatomyositis\|Juvenile Dermatomyositis]] (JDM)|Malar rash sparing nasolabial folds, Heliotrope rash, Gottron papules, symmetric proximal muscle weakness, specific autoantibodies.|
