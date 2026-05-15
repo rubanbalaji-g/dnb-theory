@@ -1,4 +1,4 @@
 ---
-{"dg-publish":true,"dg-path":"/recents/","permalink":"//recents//","dgPassFrontmatter":true}
+{"dg-publish":true,"dg-path":"recents","permalink":"/recents/","dgPassFrontmatter":true}
 ---
 
