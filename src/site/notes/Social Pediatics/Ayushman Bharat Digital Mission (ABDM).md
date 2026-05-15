@@ -17,7 +17,7 @@
 
 ## Pediatric Relevance & Benefits
 - ABHA generation at birth (linked to U-WIN, JANANI portal, birth registration)
-- Longitudinal tracking of child from newborn to 18 years: growth charts, vaccination, nutrition, developmental milestones
+- Longitudinal tracking of child from newborn to 18 years: [[Development/Growth Charts\|growth charts]], vaccination, nutrition, developmental milestones
 - Seamless continuity of care across Anganwadi → school → DEIC → tertiary centres
 - Reduces duplication of investigations, prescriptions and follow-up visits
 - Real-time access to previous records in emergencies (e.g., anaphylaxis history, congenital heart disease, epilepsy)
@@ -45,6 +45,6 @@
 
 ## Recent Developments & Way Forward (2026)
 - >88 crore ABHA created; integration with RBSK 2.0, JANANI, U-WIN completed
-- ABDM Index & SAHI (Strategy for AI in Health) for predictive analytics in child health
+- ABDM [[Statistics/Index\|Index]] & SAHI (Strategy for AI in Health) for predictive analytics in child health
 - Focus on newborn ABHA at delivery points; full lifecycle coverage under RMNCH+A
 - Pediatricians as key stakeholders: drive ABHA creation during routine immunization/well-baby visits

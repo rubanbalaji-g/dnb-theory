@@ -15,9 +15,9 @@
 
 |Etiology Category|Specific Conditions|Clinical Characteristics|
 |:--|:--|:--|
-|Genetic And Chromosomal|Trisomy 13, 18, 21; Turner syndrome; Autosomal dominant traits.|Approximately 35 genes identified; crystallin gene variants represent most frequent etiology.|
+|Genetic And Chromosomal|Trisomy 13, 18, 21; [[Genetics/Turner Syndrome\|Turner syndrome]]; Autosomal dominant traits.|Approximately 35 genes identified; crystallin gene variants represent most frequent etiology.|
 |Congenital Infections|Toxoplasmosis, cytomegalovirus, syphilis, rubella, herpes simplex.|Often accompanied by microphthalmos, pigment epithelial mottling, and systemic anomalies.|
-|Metabolic Disorders|Galactosemia, Lowe syndrome, Cerebrotendinous xanthomatosis.|Galactosemia produces oil droplet appearance; Lowe syndrome features dense bilateral opacities with glaucoma.|
+|Metabolic Disorders|[[Metabolic Disorders/Galactosemia\|Galactosemia]], Lowe syndrome, Cerebrotendinous xanthomatosis.|[[Metabolic Disorders/Galactosemia\|Galactosemia]] produces oil droplet appearance; Lowe syndrome features dense bilateral opacities with glaucoma.|
 |Developmental Variants|Persistent pupillary membrane, Mittendorf dot, Prematurity.|Prematurity causes transient vacuoles in Y sutures; hyaloid remnants cause focal capsule opacities.|
 |Maternal Factors|Diabetes mellitus.|Congenital lens opacities occur in children of diabetic and prediabetic mothers.|
 
@@ -25,7 +25,7 @@
 
 ### Metabolic Pathophysiology
 
-- Classic infantile galactosemia causes zonular cataracts with haziness of perinuclear layers.
+- Classic infantile [[Metabolic Disorders/Galactosemia\|galactosemia]] causes zonular cataracts with haziness of perinuclear layers.
 - Galactose-1-phosphate uridyltransferase deficiency drives oil droplet cataract formation.
 - Early dietary intervention with galactose-free diet reverses early lens changes.
 - Cerebrotendinous xanthomatosis causes childhood cataracts alongside [[Gastrointestinal/Chronic Diarrhea\|chronic diarrhea]] and neurologic impairment.

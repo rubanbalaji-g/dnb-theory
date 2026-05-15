@@ -21,7 +21,7 @@
 * **Mucociliary Clearance (The "Escalator"):** Cilia beat in a coordinated, rhythmic wave (Metachronal rhythm) at 10–15 Hz.
 * **Mechanism:** They propel the overlying mucus layer (trapping dust, bacteria, and debris) cephalad (towards the pharynx) to be swallowed or expectorated.
 * **Host Defense:** Primary innate defense mechanism preventing lower respiratory tract infections.
-## Primary Ciliary Dyskinesia (PCD)
+## [[Respiratory/Primary Ciliary Dyskinesia\|Primary Ciliary Dyskinesia]] (PCD)
 
 ### 1. Introduction
 * **Definition:** A genetically heterogeneous, autosomal recessive disorder characterized by abnormal ciliary structure or function, leading to impaired mucociliary clearance.
@@ -34,17 +34,17 @@
 ### 2. Clinical Presentation
 Symptoms often begin in the neonatal period and persist.
 
-* **Neonatal Period (High Index of Suspicion):**
+* **Neonatal Period (High [[Statistics/Index\|Index]] of Suspicion):**
     * **Unexplained Respiratory Distress:** Term infant requiring $O_2$ without risk factors (e.g., Meconium, sepsis).
     * **Neonatal Rhinitis:** Continuous nasal discharge from birth.
 
 * **Childhood & Adolescence:**
     * **Respiratory:**
         * **Chronic Wet Cough:** Daily, year-round, starting in infancy.
-        * **Recurrent Pneumonia:** Leading to early Bronchiectasis (lower lobes).
-        * **Intractable Asthma:** "Difficult asthma" unresponsive to treatment.
+        * **[[Respiratory/Recurrent Pneumonia\|Recurrent Pneumonia]]:** Leading to early Bronchiectasis (lower lobes).
+        * **Intractable [[Respiratory/Asthma\|Asthma]]:** "Difficult [[Respiratory/Asthma\|asthma]]" unresponsive to treatment.
     * **ENT:**
-        * **Chronic Rhinosinusitis:** Nasal polyps are rare (unlike CF) but congestion is constant.
+        * **Chronic Rhinosinusitis:** [[Respiratory/Nasal Polyps\|Nasal polyps]] are rare (unlike CF) but congestion is constant.
         * **Chronic Otitis Media with Effusion (OME):** Conductive hearing loss is almost universal.
     * **Situs Abnormalities:** Situs inversus totalis or situs ambiguus (heterotaxy).
 
@@ -65,7 +65,7 @@ Diagnosis is challenging and requires a tiered approach.
     3.  **Genetic Testing:** Panels testing for *DNAH5*, *DNAI1* (common mutations).
 
 ### 4. Management
-There is no curative therapy. Management is supportive, largely adapted from Cystic Fibrosis protocols.
+There is no curative therapy. Management is supportive, largely adapted from [[Respiratory/Cystic Fibrosis\|Cystic Fibrosis]] protocols.
 
 **A. Airway Clearance (The Cornerstone)**
 * **Chest Physiotherapy:** Twice daily percussion/vibration or oscillatory PEP devices (Flutter/Acapella).
@@ -87,5 +87,5 @@ There is no curative therapy. Management is supportive, largely adapted from Cys
 * **Vaccination:** Influenza and Pneumococcal vaccines are mandatory.
 
 ### 5. Prognosis
-* Generally better than Cystic Fibrosis.
+* Generally better than [[Respiratory/Cystic Fibrosis\|Cystic Fibrosis]].
 * Slow decline in lung function; end-stage lung disease may require transplantation in adulthood.

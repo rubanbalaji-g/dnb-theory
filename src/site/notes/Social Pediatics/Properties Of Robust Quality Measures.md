@@ -36,13 +36,13 @@ Data without utility is not a robust measure; it must drive change.
 * Specificity: Changes in the measure should specifically reflect changes in the quality of care, rather than external confounding variables.
 
 ### Risk Adjustability
-* Essential in pediatrics to account for variations in patient complexity, age, gestational maturity, and underlying comorbidities (case-mix index).
+* Essential in pediatrics to account for variations in patient complexity, age, gestational maturity, and underlying comorbidities (case-mix [[Statistics/Index\|index]]).
 * Comparing unadjusted mortality rates between a Level IV surgical NICU and a Level II step-down unit lacks robustness; risk adjustment ensures fair benchmarking.
 
 ## Alignment With The Donabedian Framework
 Robust QI initiatives utilize a balanced portfolio of measures across this framework:
 * Structure Measures: Assess the environment, equipment, and resources (e.g., ratio of pediatric-certified nurses to patients).
-* Process Measures: Assess the actual delivery of care and adherence to protocols (e.g., percentage of asthmatic children receiving a written asthma action plan prior to discharge). Process measures are highly actionable.
+* Process Measures: Assess the actual delivery of care and adherence to protocols (e.g., percentage of asthmatic children receiving a written [[Respiratory/Asthma\|asthma]] action plan prior to discharge). Process measures are highly actionable.
 * Outcome Measures: Assess the final clinical result or patient health status (e.g., pediatric readmission rate within 30 days).
 * Balancing Measures: Assess whether changes to improve one part of the system inadvertently cause new problems in another part (e.g., ensuring that reducing length of stay does not increase readmission rates).
 

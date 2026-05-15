@@ -36,13 +36,13 @@
 |Rotavirus vaccine|Maximum age for first dose comprises 14 weeks 6 days; maximum age for final dose comprises 8 months.|
 |Typhoid conjugate vaccine|Administer up to 18 years; provide single intramuscular dose.|
 |Measles-mumps-rubella|Administer up to 5 years routinely; previously unimmunized older children require two doses 4 weeks apart.|
-|Hepatitis B vaccine|Administer at any age; provide three doses at 0, 1, and 6 months.|
+|[[Gastrointestinal/Hepatitis B\|Hepatitis B]] vaccine|Administer at any age; provide three doses at 0, 1, and 6 months.|
 
 ## Catch-Up Immunization Beyond Seven Years
 
 - Diphtheria-tetanus-pertussis vaccines remain strictly contraindicated beyond 7 years due to increased reactogenicity.
-- Substitute whole-cell vaccines with tetanus-diphtheria-acellular pertussis vaccine or tetanus-diphtheria vaccine.
+- Substitute whole-cell vaccines with tetanus-diphtheria-acellular [[Misc/Pertussis Vaccine\|pertussis vaccine]] or tetanus-diphtheria vaccine.
 - Unimmunized children above 7 years require three doses of tetanus-containing vaccines administered at 0, 1, and 6 months.
 - Administer tetanus-diphtheria-acellular pertussis for initial catch-up dose.
 - Administer tetanus-diphtheria formulation for second and third catch-up doses.
-- Administer Varicella vaccine in two doses spaced 3 months apart for children under 13 years, or 4 weeks apart for older adolescents.
+- Administer [[Misc/Varicella Vaccine\|Varicella vaccine]] in two doses spaced 3 months apart for children under 13 years, or 4 weeks apart for older adolescents.

@@ -37,7 +37,7 @@
 - Manifests precipitously with extensive hemorrhage, ecchymoses, and numerous petechiae.
 - Bone marrow reveals increased normal or immature megakaryocytes despite peripheral thrombocytopenia.
 
-### Langerhans Cell Histiocytosis
+### [[Hematology/Langerhans Cell Histiocytosis\|Langerhans Cell Histiocytosis]]
 
 - Features clusters of infiltrative, crusted, hemorrhagic papules.
 - Systemic involvement induces thrombocytopenia, increasing petechial risk.

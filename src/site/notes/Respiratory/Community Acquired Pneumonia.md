@@ -33,7 +33,7 @@
 |**Neonates (<3 wk)**|Group B _Streptococcus_, _Escherichia coli_, Gram-negative bacilli, _Streptococcus pneumoniae_, _H. influenzae_.|
 |**3 wk to 3 mo**|Respiratory syncytial virus (RSV), Rhinoviruses, Parainfluenza, _S. pneumoniae_, _H. influenzae_, _Chlamydia trachomatis_.|
 |**4 mo to 4 yr**|RSV, Rhinoviruses, Parainfluenza, Adenovirus, _S. pneumoniae_, _H. influenzae_, _Mycoplasma pneumoniae_, Group A _Streptococcus_ (GAS).|
-|**$\ge$5 yr**|_M. pneumoniae_, _S. pneumoniae_, _Chlamydophila pneumoniae_, _H. influenzae_, Influenza, COVID-19, _Legionella pneumophila_.|
+|**$\ge$5 yr**|_M. pneumoniae_, _S. pneumoniae_, _Chlamydophila pneumoniae_, _H. influenzae_, Influenza, [[Infectious Diseases/COVID-19\|COVID-19]], _Legionella pneumophila_.|
 
 ### Exposure-Specific Pathogens
 
@@ -67,7 +67,7 @@
 
 ### Differentiating Pneumonia Syndromes
 
-|Feature|Viral Pneumonia|Bacterial (Typical)|Atypical Pneumonia|
+|Feature|Viral Pneumonia|Bacterial (Typical)|[[Respiratory/Atypical Pneumonia\|Atypical Pneumonia]]|
 |:--|:--|:--|:--|
 |**Onset**|Gradual, follows short URTI.|Sudden, rapid progression.|Gradual.|
 |**Fever**|Low-grade.|High-grade.|Low-grade.|
@@ -75,13 +75,13 @@
 |**Auscultation**|Bilateral crackles, wheezing.|Localized crackles, bronchial breathing.|Diffuse crackles, wheezing.|
 |**X-ray**|Hyperinflation, bilateral interstitial infiltrates.|Lobar consolidation.|Diffuse lung involvement, bilateral perihilar streaks.|
 
-## Differential Diagnosis: Recurrent Pneumonia
+## Differential Diagnosis: [[Respiratory/Recurrent Pneumonia\|Recurrent Pneumonia]]
 
 _Definition: $\ge$2 episodes/year or $\ge$3 episodes ever, with radiographic clearing between episodes._
 
-- **Hereditary**: Cystic fibrosis, Sickle cell disease.
+- **Hereditary**: [[Respiratory/Cystic Fibrosis\|Cystic fibrosis]], [[Hematology/Sickle Cell Disease\|Sickle cell disease]].
 - **Immunodeficiency**: HIV/AIDS, Bruton agammaglobulinemia, Chronic granulomatous disease, SCID.
-- **Ciliary Disorders**: Primary ciliary dyskinesia, Kartagener syndrome.
+- **Ciliary Disorders**: [[Respiratory/Primary Ciliary Dyskinesia\|Primary ciliary dyskinesia]], Kartagener syndrome.
 - **Anatomic Disorders**: Pulmonary sequestration, Congenital pulmonary airway malformation (CPAM), Bronchiectasis, [[Gastrointestinal/Tracheoesophageal Fistula\|Tracheoesophageal fistula]].
 - **Acquired**: Foreign body aspiration, Gastroesophageal reflux.
 
@@ -139,10 +139,10 @@ _Note: Transition to oral antibiotics upon clinical improvement (afebrile for 48
 ## Complications
 
 - **Local/Intrathoracic**: Pleural effusion, empyema, pyopneumothorax, pneumatocele, lung abscess, necrotizing pneumonia, bronchopleural fistula.
-- **Systemic/Metastatic**: Bacteremia, sepsis, purulent pericarditis, meningitis, suppurative arthritis, osteomyelitis.
+- **Systemic/Metastatic**: Bacteremia, sepsis, purulent [[Cardiology/Pericarditis\|pericarditis]], [[Neurology/Meningitis\|meningitis]], suppurative arthritis, osteomyelitis.
 
 ## Prevention
 
-- **Immunization**: PCV (Pneumococcal conjugate vaccine), Hib vaccine, Influenza vaccine, Measles vaccine, Pertussis vaccine.
+- **Immunization**: PCV (Pneumococcal conjugate vaccine), Hib vaccine, [[Misc/Influenza Vaccine\|Influenza vaccine]], [[Misc/Measles Vaccine\|Measles vaccine]], [[Misc/Pertussis Vaccine\|Pertussis vaccine]].
 - **Prophylaxis**: Nirsevimab (RSV monoclonal antibody) for high-risk infants.
 - **Environmental & Nutritional**: Promotion of exclusive breastfeeding, avoidance of passive smoking, prevention of household crowding, Zinc supplementation.

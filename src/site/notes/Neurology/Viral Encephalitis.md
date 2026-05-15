@@ -19,8 +19,8 @@
 ||Mumps, Measles, Varicella Zoster (VZV)|Vaccine-preventable. Rare in industrialized nations. VZV associated with vasculitis/cerebellitis.|
 ||Enteroviruses (Coxsackie, ECHO, EV71)|Peak in summer/fall. High incidence in children.|
 ||Rabies, HIV, Cytomegalovirus (CMV)|CMV/HIV common in immunocompromised hosts.|
-|**Epidemic**|Japanese Encephalitis Virus (JEV)|Most common vaccine-preventable epidemic cause in Asia. Mosquito-borne (Culex). Pigs/birds are reservoirs.|
-||Dengue, West Nile Virus (WNV)|Mosquito-borne flaviviruses.|
+|**Epidemic**|[[Infectious Diseases/Japanese Encephalitis\|Japanese Encephalitis]] Virus (JEV)|Most common vaccine-preventable epidemic cause in Asia. Mosquito-borne (Culex). Pigs/birds are reservoirs.|
+||[[Infectious Diseases/Dengue\|Dengue]], West Nile Virus (WNV)|Mosquito-borne flaviviruses.|
 ||Kyasanur Forest Disease (KFD)|Tick-borne. Endemic to Karnataka forests (India).|
 ||Eastern/Western Equine Encephalitis|Mosquito-borne alphaviruses.|
 |**Emerging**|Nipah Virus|Paramyxovirus. Endemic in Southeast Asia. Fruit bats reservoir. High mortality (40-70%).|
@@ -32,7 +32,7 @@
 ### Mechanisms of Injury
 
 - **Primary:** Direct invasion and replication of infectious agent in tissue leading to necrosis.
-- **Parainfectious:** Immune-mediated injury with marked demyelination and relative preservation of neurons/axons (e.g., Acute Disseminated Encephalomyelitis - ADEM).
+- **Parainfectious:** Immune-mediated injury with marked demyelination and relative preservation of neurons/axons (e.g., Acute Disseminated Encephalomyelitis - [[Neurology/ADEM\|ADEM]]).
 
 ### Specific Pathologic Signatures
 
@@ -46,17 +46,17 @@
 - **Prodrome:** Fever, headache, nausea, vomiting, lethargy.
 - **Cerebral Dysfunction:**
     - Sensorial alterations: Irritability, mental dullness, stupor, deep coma.
-    - Generalized or focal seizures.
+    - Generalized or [[Neurology/Focal seizures\|focal seizures]].
     - Focal neurological deficits: Hemiparesis, cranial nerve palsies, speech disturbance.
 - **Specific Viral Syndromes:**
-    - **HSV Encephalitis (HSE):** Focal seizures and deficits common. Neonatal HSE presents with disseminated infection and liver involvement.
-    - **Japanese Encephalitis:** High-grade fever, signs of meningeal irritation, cranial nerve palsies, prominent extrapyramidal symptoms, generalized/focal seizures.
+    - **[[Infectious Diseases/HSV Encephalitis\|HSV Encephalitis]] (HSE):** [[Neurology/Focal seizures\|Focal seizures]] and deficits common. Neonatal HSE presents with disseminated infection and liver involvement.
+    - **[[Infectious Diseases/Japanese Encephalitis\|Japanese Encephalitis]]:** High-grade fever, signs of meningeal irritation, cranial nerve palsies, prominent extrapyramidal symptoms, generalized/focal seizures.
     - **Nipah Virus:** Severe encephalitis, reduced consciousness, prominent brainstem dysfunction.
-    - **Enterovirus:** Aseptic meningitis, [[Neuromuscular/Acute Flaccid Paralysis\|acute flaccid paralysis]], brainstem encephalitis (EV71).
+    - **Enterovirus:** Aseptic [[Neurology/Meningitis\|meningitis]], [[Neuromuscular/Acute Flaccid Paralysis\|acute flaccid paralysis]], brainstem encephalitis (EV71).
 
 ## Differential Diagnosis
 
-|Feature|Viral Encephalitis|Encephalopathy (Metabolic/Toxic)|
+|Feature|[[Neurology/Viral Encephalitis\|Viral Encephalitis]]|Encephalopathy (Metabolic/Toxic)|
 |:--|:--|:--|
 |**Pathology**|Infectious inflammation of neurons.|Non-infectious generalized dysfunction.|
 |**Causes**|Viral direct invasion.|Hypoglycemia, diabetic ketoacidosis, hepatic/renal failure, toxins, Reye's syndrome.|
@@ -64,21 +64,21 @@
 |**Neuroimaging**|Focal changes on MRI.|Non-focal, generalized changes.|
 |**EEG**|Focal slowing or discharges (e.g., PLEDs).|Generalized slowing. No focal features.|
 
-- **Other Differentials:** Acute Pyogenic Meningitis, Tuberculous Meningitis, Cerebral Malaria, ADEM, Mass lesions, CNS Vasculitis.
+- **Other Differentials:** Acute Pyogenic [[Neurology/Meningitis\|Meningitis]], Tuberculous [[Neurology/Meningitis\|Meningitis]], [[Infectious Diseases/Cerebral Malaria\|Cerebral Malaria]], [[Neurology/ADEM\|ADEM]], Mass lesions, CNS Vasculitis.
 
 ## Diagnostic Evaluation
 
 ### Baseline Investigations
 
 - **Peripheral Smear:** Relative lymphocytosis common. Leukopenia and thrombocytopenia suggest rickettsial infection or viral hemorrhagic fever.
-- **Blood Chemistry:** Liver enzymes elevated in EBV/CMV. Hyponatremia suggests Syndrome of Inappropriate Antidiuretic Hormone (SIADH).
-- **Blood Culture/Widal:** Exclude bacterial meningitis, brain abscess, enteric encephalopathy.
+- **Blood Chemistry:** Liver enzymes elevated in EBV/CMV. Hyponatremia suggests Syndrome of Inappropriate Antidiuretic Hormone ([[Endocrinology/SIADH\|SIADH]]).
+- **Blood Culture/Widal:** Exclude bacterial [[Neurology/Meningitis\|meningitis]], [[Neurology/Brain Abscess\|brain abscess]], enteric encephalopathy.
 
 ### Cerebrospinal Fluid (CSF) Analysis
 
 - Lumbar Puncture (LP) mandatory unless contraindicated (raised Intracranial Pressure/papilledema).
 
-|Parameter|Finding in Viral Encephalitis|Remarks|
+|Parameter|Finding in [[Neurology/Viral Encephalitis\|Viral Encephalitis]]|Remarks|
 |:--|:--|:--|
 |**Gross Appearance**|Clear to turbid.|Hemorrhagic/bloody in HSE or acute necrotizing hemorrhagic leukoencephalitis.|
 |**Pressure**|Normal or slightly elevated.||
@@ -91,7 +91,7 @@
 ### Specific Viral Diagnosis
 
 - **Polymerase Chain Reaction (PCR):** Investigation of choice for DNA/RNA viruses in CSF. Specificity 94%, Sensitivity 98%. Replaces brain biopsy for HSE diagnosis. Rapid turnaround. Sensitive even after short antiviral course.
-- **Serology:** Detection of IgM antibody in serum/CSF via ELISA. Mainstay for Japanese Encephalitis diagnosis. Useful for Dengue, Leptospira.
+- **Serology:** Detection of IgM antibody in serum/CSF via ELISA. Mainstay for [[Infectious Diseases/Japanese Encephalitis\|Japanese Encephalitis]] diagnosis. Useful for [[Infectious Diseases/Dengue\|Dengue]], Leptospira.
 - **Viral Culture:** Rarely useful. Low diagnostic yield (<5%).
 
 ### Neuroimaging (MRI & CT)
@@ -109,7 +109,7 @@
 ### Electroencephalography (EEG)
 
 - Generally shows nonspecific, diffuse, high-amplitude slow waves.
-- **Periodic Lateralized Epileptiform Discharges (PLEDs):** Characteristic in temporal lobes for HSV encephalitis, though non-specific.
+- **Periodic Lateralized Epileptiform Discharges (PLEDs):** Characteristic in temporal lobes for [[Infectious Diseases/HSV Encephalitis\|HSV encephalitis]], though non-specific.
 
 ## Management
 
@@ -117,7 +117,7 @@
 
 - **ICU Admission:** Mandatory for severe VE. Modified Glasgow Coma Scale monitoring.
 - **Cardiorespiratory Support:** Intubation and ventilation required for deep coma or refractory seizures.
-- **Fluid & Electrolytes:** Maintain nutrition and hydration. Implement fluid restriction for SIADH.
+- **Fluid & Electrolytes:** Maintain nutrition and hydration. Implement fluid restriction for [[Endocrinology/SIADH\|SIADH]].
 
 ### Management of Immediate Complications
 
@@ -145,8 +145,8 @@
 
 ### Role of Corticosteroids
 
-- Controversial in routine viral encephalitis.
-- Efficacious in VZV encephalitis (reduces vasculitic component), ADEM, and in management of severe cerebral edema.
+- Controversial in routine [[Neurology/Viral Encephalitis\|viral encephalitis]].
+- Efficacious in VZV encephalitis (reduces vasculitic component), [[Neurology/ADEM\|ADEM]], and in management of severe cerebral edema.
 
 ## Prognosis and Rehabilitation
 
@@ -159,7 +159,7 @@
 
 - **Vaccination:**
     - Universal immunization against Measles, Mumps, Rubella (MMR), Polio.
-    - Japanese Encephalitis: Inactivated mouse brain vaccine (Nakayama strain), Killed primary hamster kidney cell vaccine, Live SA-14-14-2 vaccine. Administer to populations in endemic/epidemic zones.
+    - [[Infectious Diseases/Japanese Encephalitis\|Japanese Encephalitis]]: Inactivated mouse brain vaccine (Nakayama strain), Killed primary hamster kidney cell vaccine, Live SA-14-14-2 vaccine. Administer to populations in endemic/epidemic zones.
 - **Vector and Environmental Control (Arboviruses):**
     - Personal: Mosquito repellents, long-sleeved clothing, impregnated bednets.
     - Environmental: Aerial/ground fogging with ultra-low volume insecticides (malathion/fenitrothion) in 2-3 km radius of infected area. Segregation of pigs from human dwellings.

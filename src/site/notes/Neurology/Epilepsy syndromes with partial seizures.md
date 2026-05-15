@@ -81,7 +81,7 @@ The most common form of focal epilepsy in adolescents and adults.
 ### IV. Specific Etiology-Linked Syndromes
 
 #### 1. Rasmussen’s Encephalitis
-* **Pathology:** Chronic, progressive T-cell mediated autoimmune encephalitis affecting one hemisphere.
+* **Pathology:** Chronic, progressive T-cell mediated [[Neurology/Autoimmune Encephalitis\|autoimmune encephalitis]] affecting one hemisphere.
 * **Age:** Peak 6–7 years.
 * **Clinical:**
     * **EPC:** Epilepsia Partialis Continua (continuous focal jerking of a limb/face).
@@ -104,7 +104,7 @@ The most common form of focal epilepsy in adolescents and adults.
 
 ---
 
-### V. Acquired Epileptic Aphasia (Landau-Kleffner Syndrome)
+### V. Acquired Epileptic Aphasia ([[Neurology/Landau-Kleffner Syndrome\|Landau-Kleffner Syndrome]])
 * **Nature:** An epileptic encephalopathy with focal EEG features but global cognitive impact.
 * **Clinical:** Normal early development $\rightarrow$ Subacute onset of **Verbal Auditory Agnosia** ("Word deafness") $\rightarrow$ Loss of speech.
 * **Seizures:** Infrequent focal motor seizures (25% have no clinical seizures).

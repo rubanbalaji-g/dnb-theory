@@ -36,9 +36,9 @@
 ## Integration with National Child Health Programs
 - **IMNCI & HBNC**: WASH messages in home visits, diarrhea management (ORS + zinc + handwashing)
 - **POSHAN Abhiyaan & Anemia Mukt Bharat**: Reduction of environmental enteropathy → better nutrient absorption
-- **National Deworming Day & Vitamin A Supplementation**: Synergistic effect with sanitation
+- **National Deworming Day & [[Nutrition/Vitamin A\|Vitamin A]] Supplementation**: Synergistic effect with sanitation
 - **MCP Card & VHSND**: WASH counselling integrated at every contact point
-- **Rashtriya Bal Swasthya Karyakram (RBSK)**: Screening for sanitation-related morbidities
+- **[[Social Pediatics/Rashtriya Bal Swasthya Karyakram (RBSK)\|Rashtriya Bal Swasthya Karyakram (RBSK)]]**: Screening for sanitation-related morbidities
 
 ## Impact on Child Health (Evidence-Based)
 - Diarrheal deaths in under-5 reduced by >50% post-2014 (NFHS-5 data)

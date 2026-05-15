@@ -29,7 +29,7 @@
 
 ## Differential Diagnosis And Clinical Clues
 
-|Diagnostic Feature|Trichotillomania|Alopecia Areata|Tinea Capitis|
+|Diagnostic Feature|[[Misc/Trichotillomania\|Trichotillomania]]|Alopecia Areata|Tinea Capitis|
 |:--|:--|:--|:--|
 |Pattern|Irregular pattern with mixed length and stubbly hairs.|Circular or oval patches.|Broken hairs at scalp surface (black-dot).|
 |Specific Hair Clues|Blunt-tipped broken hairs.|Exclamation-point hairs.|None.|

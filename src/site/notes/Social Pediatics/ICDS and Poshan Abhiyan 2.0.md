@@ -38,12 +38,12 @@ The ICDS scheme delivers an integrated package of six core services, fostering c
     *   Hyper-focus on the **"First 1000 Days of Life"** (conception to 2 years) as the critical window for neurocognitive development.
     *   Community-based management of Severe Acute Malnutrition (SAM) and Moderate Acute Malnutrition (MAM).
 2.  **Delivery of Quality Supplementary Nutrition (SNP):**
-    *   Fortification of Take-Home Rations (THR) with micronutrients (Iron, Folic Acid, Zinc, Vitamin A, B-complex).
+    *   Fortification of Take-Home Rations (THR) with micronutrients (Iron, Folic Acid, Zinc, [[Nutrition/Vitamin A\|Vitamin A]], B-complex).
     *   Promotion of millets (Shree Anna) and locally sourced, culturally appropriate foods.
 3.  **Poshan Tracker (ICT-based Real-Time Monitoring):**
     *   A robust, real-time digital platform replacing physical registers.
     *   Enables Aadhar-seeded tracking of beneficiaries to eliminate ghost beneficiaries.
-    *   Auto-plots anthropometric data (height/weight) against WHO growth charts to instantly flag stunting, wasting, and underweight children.
+    *   Auto-plots anthropometric data (height/weight) against WHO [[Development/Growth Charts\|growth charts]] to instantly flag stunting, wasting, and underweight children.
 4.  **Convergence and AYUSH Integration:**
     *   Establishing "Poshan Vatikas" (Nutri-gardens) at AWCs for organic, local produce.
     *   Integration of AYUSH systems for wellness and anemia management.
@@ -59,4 +59,4 @@ Financial and nutritional norms under Poshan 2.0 are strictly defined to combat 
 ### Pediatrician's Role and Relevance
 *   **Early Identification:** Utilizing AWC data to screen for developmental delays and SAM.
 *   **Referral Loop:** Managing complicated SAM cases referred from AWCs at tertiary NRCs, and ensuring successful back-referral for community follow-up.
-*   **Advocacy:** Promoting exclusive breastfeeding for 6 months and timely, diverse complementary feeding in clinical practice, aligning with Poshan Maah (September) and Poshan Pakhwada campaigns.
+*   **Advocacy:** Promoting exclusive breastfeeding for 6 months and timely, diverse [[Nutrition/Complementary Feeding\|complementary feeding]] in clinical practice, aligning with Poshan Maah (September) and Poshan Pakhwada campaigns.

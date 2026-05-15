@@ -29,7 +29,7 @@ Hypothermia causes serious homeostatic disturbances and is an independent predic
 
 ### A. Physiological Consequences
 * **General:** Peripheral vasoconstriction (pallor, acrocyanosis, cool extremities), irritability.
-* **CNS:** Lethargy, poor suck/cry, hypotonia, apnea, intraventricular hemorrhage (IVH).
+* **CNS:** Lethargy, poor suck/cry, hypotonia, apnea, [[Neonatalogy/Intraventricular hemorrhage\|intraventricular hemorrhage]] (IVH).
 * **Respiratory:** Respiratory distress, increased pulmonary vascular resistance (PPHN), pulmonary hemorrhage.
 * **Cardiovascular:** Bradycardia, hypotension, decreased cardiac output.
 * **Gastrointestinal:** Abdominal distension, emesis, feed intolerance, necrotizing enterocolitis (NEC).
@@ -39,7 +39,7 @@ Hypothermia causes serious homeostatic disturbances and is an independent predic
 * **Hypoglycemia:** Due to increased metabolic rate and glycogen depletion.
 * **Metabolic Acidosis:** Due to tissue hypoxia and anaerobic metabolism (lactic acidosis).
 * **Hypoxia:** Increased oxygen consumption leads to hypoxemia.
-* **Coagulation Failure:** Disseminated intravascular coagulation (DIC) may occur.
+* **Coagulation Failure:** [[Hematology/Disseminated Intravascular Coagulation\|Disseminated intravascular coagulation]] (DIC) may occur.
 * **Electrolytes/Renal:** Hyperkalemia, azotemia, oliguria.
 
 ## 4. PREVENTION: THE WARM CHAIN
@@ -52,7 +52,7 @@ A set of 10 interlinked steps to minimize heat loss.
 6.  **Postpone Bathing:** Delay until stable/24 hours; sponge bath or swaddle bath preferred.
 7.  **Appropriate Clothing:** 1-2 layers more than adults, cap, socks, mittens.
 8.  **Mother and Baby Together:** Rooming-in/bedding-in for warmth.
-9.  **Warm Transportation:** Use incubator or STS (Kangaroo Mother Care) during transport.
+9.  **Warm Transportation:** Use incubator or STS ([[Neonatalogy/Kangaroo Mother Care\|Kangaroo Mother Care]]) during transport.
 10. **Training:** Education of healthcare personnel.
 
 **Specifics for Preterm Neonates (<32 weeks):**

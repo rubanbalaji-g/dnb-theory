@@ -20,7 +20,7 @@
 - Intensified year-round Behaviour Change Communication (BCC)
 - Test-Treat-Track approach using digital hemoglobinometers
 - Mandatory provision of IFA-fortified foods in public programmes
-- Addressing non-nutritional causes (malaria, haemoglobinopathies, fluorosis)
+- Addressing non-nutritional causes ([[Infectious Diseases/Malaria\|malaria]], haemoglobinopathies, fluorosis)
 
 ### 6 Institutional Mechanisms
 - Intra- & inter-ministerial convergence
@@ -57,7 +57,7 @@
 
 ## Management of Anemia (Therapeutic)
 - Mild/Moderate: Therapeutic IFA (double prophylactic dose) + dietary counseling + deworming + 3-month follow-up
-- Severe: Hospital referral, injectable iron (if oral intolerance), blood transfusion if Hb <7 g/dL or cardiac failure; investigate underlying causes (thalassemia screen, stool for occult blood, malaria)
+- Severe: Hospital referral, injectable iron (if oral intolerance), blood transfusion if Hb <7 g/dL or cardiac failure; investigate underlying causes ([[Hematology/Thalassemia\|thalassemia]] screen, stool for occult blood, [[Infectious Diseases/Malaria\|malaria]])
 - Nutritional counseling: Iron-rich foods + vitamin C; avoid tea/milk with meals
 
 ## Pediatrician’s Role & Integration

@@ -8,15 +8,15 @@
 
 ## 2. TIMING
 * **Ideal Time:** **15–20 weeks** of gestation.
-* **Early Amniocentesis (11–14 weeks):** Generally avoided due to higher rates of fetal loss, fluid leakage, and Talipes Equinovarus (Clubfoot).
-* **Late Amniocentesis (>24 weeks):** Used for managing polyhydramnios or rarely for fetal lung maturity.
+* **Early [[Neonatalogy/Amniocentesis\|Amniocentesis]] (11–14 weeks):** Generally avoided due to higher rates of fetal loss, fluid leakage, and Talipes Equinovarus (Clubfoot).
+* **Late [[Neonatalogy/Amniocentesis\|Amniocentesis]] (>24 weeks):** Used for managing polyhydramnios or rarely for fetal lung maturity.
 
 ## 3. INDICATIONS
 ### A. Diagnostic (Genetic/Structural)
 * **Abnormal Screening:** High-risk NIPT/NIPS, abnormal Combined/Quadruple test.
 * **Ultrasound Anomalies:** Detection of soft markers or structural defects.
 * **Previous History:** Previous child with chromosomal abnormality or metabolic disorder.
-* **Parental Carrier Status:** Balanced translocation or autosomal recessive trait (e.g., Thalassemia, SMA).
+* **Parental Carrier Status:** Balanced translocation or autosomal recessive trait (e.g., [[Hematology/Thalassemia\|Thalassemia]], SMA).
 * **Biochemical:** Elevated maternal serum AFP (to test amniotic AFP + Acetylcholinesterase for NTDs).
 
 ### B. Infectious (Fetal Infection)
@@ -43,7 +43,7 @@
     * **Karyotype:** Gold standard for aneuploidy and large rearrangements (10-14 days culture time).
     * **Chromosomal Microarray (CMA):** Preferred first-line test if structural anomalies are present (detects microdeletions).
 * **Biochemical:**
-    * **Alpha-Fetoprotein (AFP) + Acetylcholinesterase (AChE):** Diagnostic for Neural Tube Defects (Open Spina Bifida).
+    * **Alpha-Fetoprotein (AFP) + Acetylcholinesterase (AChE):** Diagnostic for [[Neurology/Neural Tube Defects\|Neural Tube Defects]] (Open Spina Bifida).
     * **Enzyme Assays:** For Inborn Errors of Metabolism (Tay-Sachs, Gaucher).
 * **Lung Maturity (Historical):** L/S ratio (Lecithin/Sphingomyelin) >2 indicates maturity (rarely used now).
 

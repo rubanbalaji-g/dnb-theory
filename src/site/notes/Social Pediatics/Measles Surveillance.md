@@ -56,7 +56,7 @@
 - **Day 3**: Case investigation form completed; blood sample despatched to MR lab
 - **Day 7**: Preliminary lab results; outbreak investigation if cluster detected
 - **Outbreak Response Immunization (ORI)**: MR vaccine to all children 6 months–14 years in affected area within 72 hours of confirmation
-- Contact tracing and vitamin A supplementation
+- Contact tracing and [[Nutrition/Vitamin A\|vitamin A]] supplementation
 
 ## Key Performance Indicators
 - Non-measles AFR rate: ≥2 per 1,00,000 population

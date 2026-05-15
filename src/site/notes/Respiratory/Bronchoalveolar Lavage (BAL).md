@@ -18,7 +18,7 @@
 
 ### 2. Therapeutic Indications
 * **Pulmonary Alveolar Proteinosis (PAP):** Whole lung lavage to wash out surfactant protein accumulation.
-* **Mucus Plugging:** To dislodge tenacious plugs (e.g., in severe Asthma or Cystic Fibrosis).
+* **Mucus Plugging:** To dislodge tenacious plugs (e.g., in severe [[Respiratory/Asthma\|Asthma]] or [[Respiratory/Cystic Fibrosis\|Cystic Fibrosis]]).
 
 ## III. Procedure (Technique)
 1.  **Wedging:** The bronchoscope tip is wedged into a segmental or subsegmental bronchus.
@@ -39,9 +39,9 @@ The fluid is sent for Microscopy, Culture, Cytology, and PCR.
 ### 2. Abnormal Patterns
 | Finding | Differential Diagnosis |
 | :--- | :--- |
-| **Neutrophilia** (>50%) | Bacterial pneumonia, Aspiration, Cystic Fibrosis. |
+| **Neutrophilia** (>50%) | Bacterial pneumonia, Aspiration, [[Respiratory/Cystic Fibrosis\|Cystic Fibrosis]]. |
 | **Lymphocytosis** (>15%) | Hypersensitivity Pneumonitis, Sarcoidosis, Viral infection, TB. |
-| **Eosinophilia** (>5%) | Asthma, ABPA, Parasitic infection, Drug reaction. |
+| **Eosinophilia** (>5%) | [[Respiratory/Asthma\|Asthma]], ABPA, Parasitic infection, Drug reaction. |
 | **Hemosiderin-laden Macrophages** | Diffuse Alveolar Hemorrhage (DAH), Idiopathic Pulmonary Hemosiderosis. |
 | **Lipid-laden Macrophages** | Chronic Aspiration (sensitive but non-specific). |
 | **Milky/Opaque Fluid** | Pulmonary Alveolar Proteinosis (PAP). |

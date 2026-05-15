@@ -12,23 +12,23 @@ Source
 
 # #Definition
 
-Asthma is a heterogeneous disease, usually characterized by chronic airway inflammation. It is defined by the history of respiratory symptoms, such as <mark style="background: #FFF3A3A6;">wheeze, shortness of breath, chest tightness and cough</mark>, that vary over time and in intensity, together with variable expiratory airflow limitation.
+[[Respiratory/Asthma\|Asthma]] is a heterogeneous disease, usually characterized by chronic airway inflammation. It is defined by the history of respiratory symptoms, such as <mark style="background: #FFF3A3A6;">wheeze, shortness of breath, chest tightness and cough</mark>, that vary over time and in intensity, together with variable expiratory airflow limitation.
 
 > [!def] The triad
 > - Variable airflow limitation
 > - Airway hyperresponsiveness
 > - Airway remodelling
 
-Types of Asthma
+Types of [[Respiratory/Asthma\|Asthma]]
 
-| Type of Asthma                            | Features                                                                                             |
+| Type of [[Respiratory/Asthma\|Asthma]]                            | Features                                                                                             |
 | ----------------------------------------- | ---------------------------------------------------------------------------------------------------- |
-| Allergic asthma                           | - start in childhood<br>- h/o atopy +<br>- sputum reveals eosinophilic airway inflammatin            |
-| Non allergic asthma                       | - sputum can be neutrophilic, eosinophilic or paucigranulocytic<br>- less short term response to ICS |
-| cough variant asthma                      | - cough may be only symptom<br>- airflow limitation may be absent                                    |
-| adult onset asthma                        | - present in adulthood<br>- often refractory to ICS                                                  |
-| asthma with persistent airflow limitation | - may not be completely reversible with bronchodialators<br>- may be associated with COPD            |
-| asthma with obesity                       | - prominent respiratory inflammation with little eosinophilic inflammation                           |
+| Allergic [[Respiratory/Asthma\|asthma]]                           | - start in childhood<br>- h/o atopy +<br>- sputum reveals eosinophilic airway inflammatin            |
+| Non allergic [[Respiratory/Asthma\|asthma]]                       | - sputum can be neutrophilic, eosinophilic or paucigranulocytic<br>- less short term response to ICS |
+| cough variant [[Respiratory/Asthma\|asthma]]                      | - cough may be only symptom<br>- airflow limitation may be absent                                    |
+| adult onset [[Respiratory/Asthma\|asthma]]                        | - present in adulthood<br>- often refractory to ICS                                                  |
+| [[Respiratory/Asthma\|asthma]] with persistent airflow limitation | - may not be completely reversible with bronchodialators<br>- may be associated with COPD            |
+| [[Respiratory/Asthma\|asthma]] with obesity                       | - prominent respiratory inflammation with little eosinophilic inflammation                           |
 
 #### Pathophysiology
 - Atopy
@@ -49,7 +49,7 @@ Types of Asthma
 - Th2 cells
 	- Interleukin 3,4, 5, 13, GM CSF
 - Neutrophil
-	- Severe asthma
+	- Severe [[Respiratory/Asthma\|asthma]]
 	- Non responsive to glucocorticoid therapy
 - Epithelial mesenchymal tropical unit model
 	- Bronchial epithelial cells, fibroblast and airway smooth muscle play a role
@@ -65,9 +65,9 @@ Types of Asthma
 
 - Vitamin D deficiency in maternal diet
 - Omega 6 fatty acids
-- Vitamin E deficiency
+- [[Nutrition/Vitamin E Deficiency\|Vitamin E deficiency]]
 - Refined sugar
-- Maternal asthma
+- Maternal [[Respiratory/Asthma\|asthma]]
 - Maternal exposure to smoking
 - Acetaminophen
 - Antacids
@@ -118,15 +118,15 @@ Types of Asthma
 
 ###### <mark style="background: #FF5582A6;">Allergic tests</mark>
 - skin prick test or specific immunoglobulin test
-- can not confirm allergen is the cause of asthma, but a useful test
+- can not confirm allergen is the cause of [[Respiratory/Asthma\|asthma]], but a useful test
 ###### <mark style="background: #FF5582A6;">Imaging</mark>
 - not routinely used
 - most used to identify the differential diagnosis
 ###### <mark style="background: #FF5582A6;">Exhaled Nitric Oxide</mark>
-- not a useful for diagnosis of asthma
+- not a useful for diagnosis of [[Respiratory/Asthma\|asthma]]
 - Higher FeNO is associated with elevated IL-4, IL-13
-- elevated in asthma, eosinophilic bronchitis, atopy, allergic rhinitis, eczema
-## #differential for asthma
+- elevated in [[Respiratory/Asthma\|asthma]], eosinophilic bronchitis, atopy, [[Respiratory/Allergic Rhinitis\|allergic rhinitis]], eczema
+## #differential for [[Respiratory/Asthma\|asthma]]
 
 <mark style="background: #ADCCFFA6;">older children</mark>
 
@@ -139,14 +139,14 @@ Types of Asthma
 ## Treatment
 ##### Goal 
 - Remission -
-	- clinical remission - no asthma symptoms / exacerbations for a specific period of time
+	- clinical remission - no [[Respiratory/Asthma\|asthma]] symptoms / exacerbations for a specific period of time
 	- complete (pathophysiological) remission - normal lung function, airway responsiveness, inflammatory markers
 - Remission on Treatment -goal of GINA
 
 ##### Non Pharmacological strategies
 - cessation of smoking / avoid passive smoking
 - Physical activity
-- avoid medication that can make asthma worse (NSAIDs, aspirin, Beta blockers)
+- avoid medication that can make [[Respiratory/Asthma\|asthma]] worse (NSAIDs, aspirin, Beta blockers)
 - avoid allergens (pollen, dust mite, pets, cockroaches, fungi)
 - weight reduction
 - breathing exercises (Buteyko and Papworth) 
@@ -170,10 +170,10 @@ Types of Asthma
 
 | Symptom                                                                           | Preferred initial treatment                                                        |
 | --------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------- |
-| infrequent asthma <br>1-2 days a week                                             | [low dose ICS + SABA] sos                                                          |
-| asthma on some days <br>3-5 days/week with normal or mildly reduced lung function | low dose ICS daily + SABA sos                                                      |
-| Asthma on most days<br>4-5 days/week                                              | [low dose ICS + LABA] daily + SABA sos<br>(or)<br>medium dose ICS daily + SABA sos |
-| daily asthma/ night asthma 1 per week                                             | [medium dose ICS + LABA] + SABA sos<br>(or)<br>[low dose ICS + formoterol] as MART |
+| infrequent [[Respiratory/Asthma\|asthma]] <br>1-2 days a week                                             | [low dose ICS + SABA] sos                                                          |
+| [[Respiratory/Asthma\|asthma]] on some days <br>3-5 days/week with normal or mildly reduced lung function | low dose ICS daily + SABA sos                                                      |
+| [[Respiratory/Asthma\|Asthma]] on most days<br>4-5 days/week                                              | [low dose ICS + LABA] daily + SABA sos<br>(or)<br>medium dose ICS daily + SABA sos |
+| daily asthma/ night [[Respiratory/Asthma\|asthma]] 1 per week                                             | [medium dose ICS + LABA] + SABA sos<br>(or)<br>[low dose ICS + formoterol] as MART |
 | exarcerabation                                                                    | treat as exarcerbation                                                             |
 
 ![](https://i.ibb.co/VWnF8brw/Wo-AMQn-C-d.webp)
@@ -188,7 +188,7 @@ Types of Asthma
 - assess risk factors and control for at least 4 weeks or longer
 - measure lung function at the start of treatment, 3-6 months after starting ICS and 1-2 yearly thereafter.
 - chose a suitable time to change treatment
-- written asthma action plan
+- written [[Respiratory/Asthma\|asthma]] action plan
 ###### <mark style="background: #ABF7F7A6;">Adjust</mark>
 - adjust ICS dose by 25-50%
 - stop other maintenance medication
@@ -248,16 +248,16 @@ Types of Asthma
 		- Antibiotics (not recommended)
 		- Sedatives (avoided)
 
-## Asthma control 
+## [[Respiratory/Asthma\|Asthma]] control 
 - symptom control
 - future risk of adverse outcomes
 - ![](https://i.ibb.co/20dzsmpz/AR6fZIO.png)
 - ![](https://i.ibb.co/TMwqKLvJ/ATNt6yt-d.webp)
 
-- Asthma Control Questionnaire (ACQ)
-- Asthma Control test (ACT)
-- Specific Questionnaire for asthma in children aged 6-11 yrs
-	- asthma symptom control
+- [[Respiratory/Asthma\|Asthma]] Control Questionnaire (ACQ)
+- [[Respiratory/Asthma\|Asthma]] Control test (ACT)
+- Specific Questionnaire for [[Respiratory/Asthma\|asthma]] in children aged 6-11 yrs
+	- [[Respiratory/Asthma\|asthma]] symptom control
 		- day symptoms
 		- night symptoms
 		- reliever use
@@ -273,7 +273,7 @@ Types of Asthma
 		- adherence
 		- goals/concern
 	- Comorbidities
-		- Allergic rhinitis
+		- [[Respiratory/Allergic Rhinitis\|Allergic rhinitis]]
 		- Eczema
 		- Food allergy
 		- obesity
@@ -281,8 +281,8 @@ Types of Asthma
 		- 2-week diary
 		- formal exercise challenge
 
-## Severity of asthma
-- **Uncontrolled asthma** - lack of control due to incorrect inhaler technique, poor adherence, over use of SABA, comorbidities, persistent environmental exposures
+## Severity of [[Respiratory/Asthma\|asthma]]
+- **Uncontrolled [[Respiratory/Asthma\|asthma]]** - lack of control due to incorrect inhaler technique, poor adherence, over use of SABA, comorbidities, persistent environmental exposures
 - different meaning in different setting
 - GINA - <mark style="background: #FFB86CA6;">Retrospective diagnosis</mark> based on <mark style="background: #D2B3FFA6;">difficulty to treat</mark> in older children
 - ![](https://i.ibb.co/JWq0hFxY/KrV1xHz.png)

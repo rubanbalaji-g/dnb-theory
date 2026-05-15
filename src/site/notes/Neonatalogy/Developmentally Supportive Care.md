@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/neonatalogy/developmentally-supportive-care/","dgPassFrontmatter":true}
 ---
 
-## A. WHAT IS DEVELOPMENTALLY SUPPORTIVE CARE?
+## A. WHAT IS [[Neonatalogy/Developmentally Supportive Care\|DEVELOPMENTALLY SUPPORTIVE CARE]]?
 * **Definition:** DSC is a systematic, structured process starting from NICU admission until discharge and beyond, designed to support the infant's development.
 * **Rationale:** The period of maximum cognitive development (3rd trimester to 3 months post-birth) for preterm infants occurs in the NICU.
 * **The Problem:** A standard NICU environment is often harmful and overstimulating, leaving infants exhausted, fussy, and irritable.
@@ -11,7 +11,7 @@
 
 ---
 
-## B. COMPONENTS OF DEVELOPMENTALLY SUPPORTIVE CARE
+## B. COMPONENTS OF [[Neonatalogy/Developmentally Supportive Care\|DEVELOPMENTALLY SUPPORTIVE CARE]]
 There are **seven core components** of DSC.
 
 ### 1. Safeguarding Sleep
@@ -19,7 +19,7 @@ There are **seven core components** of DSC.
 * **Interventions:**
     * **Quiet Time:** Each infant deserves periods without medical or caregiving interruptions.
     * **Environment:** Dimming lights and reducing noise aids undisturbed sleep.
-    * **Techniques:** Kangaroo Mother Care (KMC), nesting, swaddling, containment, and lateral positioning.
+    * **Techniques:** [[Neonatalogy/Kangaroo Mother Care\|Kangaroo Mother Care]] (KMC), nesting, swaddling, containment, and lateral positioning.
     * **Cluster Care:** Grouping care activities to maximize sleep duration.
 
 ### 2. Minimizing Stress and Pain

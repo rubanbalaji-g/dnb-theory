@@ -47,7 +47,7 @@ The foundation of the BFHI is the "Ten Steps to Successful Breastfeeding." The 2
 
 ## Assessment and Accreditation Process
 * **Self-Appraisal:** The hospital reviews its own practices using standardized WHO/UNICEF or national BFHI-India toolkits.
-* **External Assessment:** Conducted by trained external assessors who evaluate policies, test staff knowledge, and interview mothers about their experiences.
+* **External Assessment:** Conducted by trained external assessors who evaluate policies, test staff knowledge, and interview mothers [[About\|about]] their experiences.
 * **Certification:** Awarded only upon scoring >80% in all steps and demonstrating full compliance with the IMS Act. The "Baby Friendly" status requires periodic re-assessment to be maintained.
 
 ## Impact and Evidence

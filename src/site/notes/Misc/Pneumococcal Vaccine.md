@@ -14,8 +14,8 @@
 
 - Infants and young children act as main reservoirs.
 - Nasopharyngeal carriage ranges from 27% to 85% globally.
-- Causes invasive pneumococcal disease including meningitis, bacteremia, and severe pneumonia.
-- Causes non-invasive disease including acute otitis media and sinusitis.
+- Causes invasive pneumococcal disease including [[Neurology/Meningitis\|meningitis]], bacteremia, and severe pneumonia.
+- Causes non-invasive disease including [[Misc/Acute Otitis Media\|acute otitis media]] and sinusitis.
 - Highly prevalent serotypes in India include 1, 6B, 14, 19F, and 23F.
 
 ### Antimicrobial Resistance
@@ -32,12 +32,12 @@
 - Poorly immunogenic in children below 2 years of age.
 - Fails to induce immunologic memory.
 - Does not reduce nasopharyngeal carriage.
-- Cannot provide herd immunity.
+- Cannot provide [[Misc/Herd Immunity\|herd immunity]].
 - Dosage: 0.5 mL, intramuscular or subcutaneous.
 - Administration site: Deltoid muscle.
 - Storage requirement: 2–8°C, do not freeze.
 
-### Pneumococcal Conjugate Vaccines (PCVs)
+### Pneumococcal [[Misc/Conjugate Vaccines\|Conjugate Vaccines]] (PCVs)
 
 - Capsular polysaccharides conjugated to specific carrier proteins.
 - Elicits T-cell-dependent immune activation.
@@ -69,17 +69,17 @@
 ### Identification Of High-Risk Groups
 
 - Chronic heart disease including cyanotic congenital heart disease and cardiac failure.
-- Chronic lung disease including asthma requiring prolonged high-dose oral corticosteroids.
+- [[Respiratory/Chronic Lung Disease\|Chronic lung disease]] including [[Respiratory/Asthma\|asthma]] requiring prolonged high-dose oral corticosteroids.
 - Diabetes mellitus.
 - Cerebrospinal fluid leaks.
 - Cochlear implants.
 - Primary immunodeficiency, human immunodeficiency virus infection, immunosuppressive therapy.
-- Anatomic or functional asplenia, sickle cell disease.
+- Anatomic or functional asplenia, [[Hematology/Sickle Cell Disease\|sickle cell disease]].
 - Prematurity and very low birth weight.
 
 ### Vaccination Strategy For High-Risk Children
 
-- Conjugate vaccines preferred over polysaccharide vaccines due to herd protection potential and superior immunogenicity.
+- [[Misc/Conjugate Vaccines\|Conjugate vaccines]] preferred over polysaccharide vaccines due to herd protection potential and superior immunogenicity.
 - PPSV23 strictly contraindicated below 2 years of age.
 
 |Age & Prior Vaccination|PCV-13 Recommendation|PPSV23 Recommendation|
@@ -90,7 +90,7 @@
 |6–18 years (Nil prior doses)|One dose PCV-13|Dose 1: 8 weeks after PCV-13. Dose 2: 5 years after Dose 1|
 
 - Maximum two doses of PPSV23 recommended per lifetime.
-- If cochlear implant placement planned, complete PCV-13 and PPSV23 vaccination 2 weeks prior to surgery.
+- If [[Misc/Cochlear Implant\|cochlear implant]] placement planned, complete PCV-13 and PPSV23 vaccination 2 weeks prior to surgery.
 
 ## Efficacy And Safety Profile
 
@@ -98,7 +98,7 @@
 
 - Invasive pneumococcal disease: Pooled vaccine efficacy of 80% against vaccine-type disease.
 - Radiologically defined pneumonia: Pooled vaccine efficacy of 27%.
-- Acute otitis media: Relative risk reduction up to 53% for pneumococcal otitis media.
+- [[Misc/Acute Otitis Media\|Acute otitis media]]: Relative risk reduction up to 53% for pneumococcal otitis media.
 - Effectiveness of one PCV-13 dose estimated at 48%, two doses at 87%, and three doses (2+1 schedule) at 100%.
 
 ### Adverse Events Following Immunization

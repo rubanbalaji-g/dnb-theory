@@ -3,15 +3,15 @@
 ---
 
 ## Introduction
-The District Early Intervention Centre (DEIC) is the pivotal secondary-tier referral and management hub established under the Rashtriya Bal Swasthya Karyakram (RBSK), a flagship child health program of the Ministry of Health and Family Welfare (MoHFW), under the National Health Mission (NHM). It is designed to provide accessible, comprehensive, and multidisciplinary care for children identified with specific health conditions.
+The [[Social Pediatics/District Early Intervention Centre (DEIC)\|District Early Intervention Centre (DEIC)]] is the pivotal secondary-tier referral and management hub established under the [[Social Pediatics/Rashtriya Bal Swasthya Karyakram (RBSK)\|Rashtriya Bal Swasthya Karyakram (RBSK)]], a flagship child health program of the Ministry of Health and Family Welfare (MoHFW), under the National Health Mission (NHM). It is designed to provide accessible, comprehensive, and multidisciplinary care for children identified with specific health conditions.
 
 ## Core Objectives
 * To provide multidisciplinary medical, surgical, and rehabilitative interventions under one roof at zero cost to the beneficiaries.
 * To manage and treat children from birth to 18 years of age who screen positive for the "4Ds":
-	- Defects at birth (e.g., neural tube defects, congenital heart diseases, cleft lip/palate, clubfoot).
+	- Defects at birth (e.g., [[Neurology/Neural Tube Defects\|neural tube defects]], congenital heart diseases, cleft lip/palate, clubfoot).
 	- Deficiencies (e.g., severe acute malnutrition, vitamin A/D deficiency, anemia).
 	- Diseases (e.g., rheumatic heart disease, reactive airway disease, otitis media).
-	- Developmental delays and disabilities (e.g., cerebral palsy, autism spectrum disorder, ADHD, hearing/vision impairment).
+	- Developmental delays and disabilities (e.g., [[Neurology/Cerebral Palsy\|cerebral palsy]], [[Development/Autism Spectrum Disorder\|autism spectrum disorder]], [[Development/ADHD\|ADHD]], hearing/vision impairment).
 * To focus heavily on the critical "early intervention" window (0-6 years) to optimize neuroplasticity and minimize the long-term impact of developmental delays.
 
 ## Location And Infrastructure
@@ -38,8 +38,8 @@ Upon arrival at the DEIC, the child undergoes a multidisciplinary triage and eva
 ### 3. Intervention And Management Protocols
 * Medical Management: Prescription of medications for chronic conditions like epilepsy or reactive airway disease.
 * Surgical Linkage: Seamless coordination with empanelled tertiary care centers or medical colleges for free surgical interventions (e.g., surgical closure of ventricular septal defects, cleft palate repair, clubfoot casting/tenotomy).
-* Developmental Therapeutics: Regular sessions for physical therapy (spasticity management in cerebral palsy), occupational therapy, speech therapy, and provision of assistive devices (hearing aids, orthotics, spectacles).
-* Nutritional Rehabilitation: Coordinated linkage with the Nutritional Rehabilitation Centre (NRC) for the management of Severe Acute Malnutrition (SAM).
+* Developmental Therapeutics: Regular sessions for physical therapy (spasticity management in [[Neurology/Cerebral Palsy\|cerebral palsy]]), occupational therapy, speech therapy, and provision of assistive devices (hearing aids, orthotics, spectacles).
+* Nutritional Rehabilitation: Coordinated linkage with the [[Social Pediatics/Nutritional Rehabilitation Centre (NRC)\|Nutritional Rehabilitation Centre (NRC)]] for the management of Severe Acute Malnutrition (SAM).
 
 ### 4. Tracking And Follow-Up
 * Digital Tracking: Every child is registered and tracked using a unique identification number on the centralized RBSK software portal.

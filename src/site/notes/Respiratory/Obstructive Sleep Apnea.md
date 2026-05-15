@@ -5,7 +5,7 @@
 
 ## #definition
 
-Obstructive Sleep Apnea (OSA) is part of a spectrum of Sleep Disordered Breathing (SDB).
+[[Respiratory/Obstructive Sleep Apnea\|Obstructive Sleep Apnea]] (OSA) is part of a spectrum of Sleep Disordered Breathing (SDB).
 
 - It is characterized by repeated episodes of prolonged upper airway obstruction during sleep despite continued or increased respiratory effort.
 - This results in either a complete cessation of airflow (apnea) or a partial cessation (hypopnea) at the nose and/or mouth, leading to disrupted sleep.
@@ -28,7 +28,7 @@ OSA is caused by an anatomically or functionally narrowed upper airway. This typ
 
 | Category                             | Factors                    |                                                                        |                                                                                     |                                |                                                   |                        |
 | ------------------------------------ | -------------------------- | ---------------------------------------------------------------------- | ----------------------------------------------------------------------------------- | ------------------------------ | ------------------------------------------------- | ---------------------- |
-| **NOSE**                             | Anterior nasal stenosis    | Choanal stenosis/ atresia                                              | Deviated nasal septum                                                               | Seasonal or perennial rhinitis | Nasal polyps, foreign body, hematoma, mass lesion |                        |
+| **NOSE**                             | Anterior nasal stenosis    | Choanal stenosis/ atresia                                              | Deviated nasal septum                                                               | Seasonal or perennial rhinitis | [[Respiratory/Nasal Polyps\|Nasal polyps]], foreign body, hematoma, mass lesion |                        |
 | **NASOPHARYNGEAL AND OROPHARYNGEAL** | Adenotonsillar hypertrophy | Macroglossia                                                           | Cystic hygroma                                                                      | Velopharyngeal flap repair     | Cleft palate repair                               | Pharyngeal mass lesion |
 | **CRANIOFACIAL**                     | Micrognathia/ retrognathia | Midface hypoplasia (e.g., trisomy 21, Crouzon disease, Apert syndrome) | Mandibular hypoplasia (Pierre Robin, Treacher Collins, Cornelia de Lange syndromes) | Craniofacial trauma            |                                                   |                        |
 | **SKELETAL AND STORAGE DISEASES**    | Achondroplasia             | Storage diseases (e.g., glycogen; Hunter, Hurler syndromes)            |                                                                                     |                                |                                                   |                        |
@@ -44,9 +44,9 @@ OSA is caused by an anatomically or functionally narrowed upper airway. This typ
 - **Other conditions**:
     - Allergies with chronic rhinitis.
     - Craniofacial abnormalities.
-    - Neuromuscular diseases (e.g., hypotonic cerebral palsy, muscular dystrophies). - increased collapsablity
+    - Neuromuscular diseases (e.g., hypotonic [[Neurology/Cerebral Palsy\|cerebral palsy]], muscular dystrophies). - increased collapsablity
     - Hypothyroidism.
-    - Arnold-Chiari malformation, meningomyelocele, thalamic dysregulation - decreased central respiratory drive
+    - [[Neurology/Arnold-Chiari Malformation\|Arnold-Chiari malformation]], meningomyelocele, thalamic dysregulation - decreased central respiratory drive
 
 ## Epidemiology
 
@@ -90,7 +90,7 @@ OSA is caused by an anatomically or functionally narrowed upper airway. This typ
 - Daytime sleepiness, difficulty waking in the morning, and napping.
 - Mood changes such as irritability, emotional dysregulation, and low frustration tolerance.
 - Behavioral issues including hyperactivity, impulsivity, aggression, and oppositional behavior.
-- Symptoms show substantial overlap with the diagnostic criteria for ADHD, such as inattention and poor concentration.
+- Symptoms show substantial overlap with the diagnostic criteria for [[Development/ADHD\|ADHD]], such as inattention and poor concentration.
     
 ## Diagnosis
 
@@ -105,11 +105,11 @@ The gold standard for diagnosing OSA is an in-lab overnight polysomnogram (PSG).
 - **Craniofacial**: "Adenoidal facies" (open mouth posture, long face), retrognathia, micrognathia, high-arched palate.
 - **Cardiovascular**: Systemic hypertension may be present, especially in obese children. In severe cases, signs of pulmonary hypertension or cor pulmonale may be seen.
 
-#### Polysomnography (PSG)
+#### [[Development/Polysomnography\|Polysomnography]] (PSG)
 
 - An overnight sleep study that monitors brain activity, heart rate, breathing, oxygen saturation, and body movements during sleep.
 - The key parameter is the
-	    **Apnea-Hypopnea Index (AHI)**, which is the number of apnea and hypopnea events per hour of sleep.
+	    **Apnea-Hypopnea [[Statistics/Index\|Index]] (AHI)**, which is the number of apnea and hypopnea events per hour of sleep.
 - **Diagnostic Criteria**:
     - **Children (≤ 12 years)**: Obstructive AHI > 1 event/hour or total AHI > 1.5 events/hour is generally considered abnormal.
     - **Adolescents**: An $AHI \ge 5$ is generally used, similar to adults.
@@ -121,7 +121,7 @@ The American Academy of Pediatrics provides guidelines for the diagnosis and man
 | Key Action Statement           | Recommendation                                                                                                                                                                |
 | ------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Screening**                  | Clinicians should screen for snoring at routine health maintenance visits. If snoring is present along with other signs/symptoms of OSA, a more focused evaluation is needed. |
-| **Polysomnography**            | If a child snores regularly and has OSA symptoms, clinicians should either obtain a PSG or refer to a specialist.                                                             |
+| **[[Development/Polysomnography\|Polysomnography]]**            | If a child snores regularly and has OSA symptoms, clinicians should either obtain a PSG or refer to a specialist.                                                             |
 | **Adenotonsillectomy**         | This is recommended as the first-line treatment for OSA with adenotonsillar hypertrophy if there are no contraindications.                                                    |
 | **High-Risk Patients**         | High-risk patients undergoing adenotonsillectomy should be monitored as inpatients postoperatively.                                                                           |
 | **Reevaluation**               | All patients should be reassessed for persistent symptoms after therapy. High-risk patients should be reevaluated with an objective test (e.g., PSG).                         |
@@ -153,15 +153,15 @@ The American Academy of Pediatrics provides guidelines for the diagnosis and man
 
 ## #definition
 
-**Polysomnography (PSG)** is an in-lab, technician-supervised, overnight sleep study that documents various physiologic variables during sleep. It is considered the
+**[[Development/Polysomnography\|Polysomnography]] (PSG)** is an in-lab, technician-supervised, overnight sleep study that documents various physiologic variables during sleep. It is considered the
 
-**gold standard** for diagnosing certain sleep disorders, most notably Obstructive Sleep Apnea (OSA), because clinical history and physical findings alone cannot accurately predict the condition. An overnight PSG is not routinely required for all childhood sleep problems but is indicated when there are symptoms of specific disorders like OSA, periodic limb movement disorder, or unexplained daytime sleepiness.
+**gold standard** for diagnosing certain sleep disorders, most notably [[Respiratory/Obstructive Sleep Apnea\|Obstructive Sleep Apnea]] (OSA), because clinical history and physical findings alone cannot accurately predict the condition. An overnight PSG is not routinely required for all childhood sleep problems but is indicated when there are symptoms of specific disorders like OSA, periodic limb movement disorder, or unexplained daytime sleepiness.
 
 ---
 
 ## Indications for Use in Children
 
-#### Obstructive Sleep Apnea (OSA)
+#### [[Respiratory/Obstructive Sleep Apnea\|Obstructive Sleep Apnea]] (OSA)
 
 - PSG is the primary tool for diagnosing OSA and differentiating it from primary snoring.
 - The American Academy of Pediatrics recommends a PSG for any child who snores regularly and presents with other signs or symptoms of OSA, such as breathing pauses, restless sleep, or daytime neurobehavioral problems.
@@ -184,14 +184,14 @@ A comprehensive PSG records multiple physiological signals simultaneously to get
 | ---------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Sleep Staging & Arousals** | Electroencephalography (EEG), Electrooculography (EOG), Chin & Leg Electromyography (EMG)                                                                                                                                          |
 | **Respiration**              | Airflow (oronasal thermal sensor, nasal pressure transducer), Respiratory Effort (chest/abdominal bands), Oxygen Saturation ( O2​ pulse oximeter), Carbon Dioxide (CO2​ end-tidal or transcutaneous monitor), Snoring (microphone) |
-| **Cardiac**                  | Electrocardiogram (ECG)                                                                                                                                                                                                            |
+| **Cardiac**                  | Electrocardiogram ([[Misc/ECG\|ECG]])                                                                                                                                                                                                            |
 | **Body Movement & Position** | Body position sensors, Video recording                                                                                                                                                                                             |
 ## Interpretation of Results
 
 While there are no universally accepted normal PSG reference values for children, certain parameters are key to diagnosis.
 
 - The most common metric used to evaluate sleep-disordered breathing is the
-    **Apnea-Hypopnea Index (AHI)**, which represents the total number of apneas and hypopneas per hour of sleep.
+    **Apnea-Hypopnea [[Statistics/Index\|Index]] (AHI)**, which represents the total number of apneas and hypopneas per hour of sleep.
 - **Normal Values & Severity in Children (≤ 12 years)**:
     
     - **Normal**: An obstructive AHI of **<1 event/hour** or a total AHI of **<1.5 events/hour** is generally considered normal.
@@ -207,5 +207,5 @@ In situations where a full, in-lab polysomnogram is not available, the American 
 
 - Nocturnal video recording.
 - Nocturnal oximetry
-- Daytime nap polysomnography.
-- Ambulatory (home) polysomnography.
+- Daytime nap [[Development/Polysomnography\|polysomnography]].
+- Ambulatory (home) [[Development/Polysomnography\|polysomnography]].

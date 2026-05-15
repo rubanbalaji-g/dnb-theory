@@ -14,7 +14,7 @@
 ### Causative Organisms
 
 - Respiratory Syncytial Virus (RSV) most common agent, isolated 75% cases (30-70% Indian studies).
-- Additional viral agents: Rhinovirus, parainfluenza, adenovirus, human metapneumovirus, bocavirus, influenza, coronavirus (COVID-19).
+- Additional viral agents: Rhinovirus, parainfluenza, adenovirus, human metapneumovirus, bocavirus, influenza, coronavirus ([[Infectious Diseases/COVID-19\|COVID-19]]).
 - _Mycoplasma pneumoniae_ frequently implicated older children.
 - Viral co-infections occur; impact clinical severity remains unclear.
 
@@ -26,7 +26,7 @@
 |:--|:--|
 |Host Factors|Prematurity (<32 weeks gestation), low birth weight.|
 |Age|<6-12 weeks age.|
-|Comorbidities|Chronic lung disease (bronchopulmonary dysplasia).|
+|Comorbidities|[[Respiratory/Chronic Lung Disease\|Chronic lung disease]] (bronchopulmonary dysplasia).|
 |Cardiac|Hemodynamically significant congenital heart disease, moderate-severe pulmonary hypertension, cyanotic heart disease.|
 |Systemic|Immunodeficiency, neuromuscular disorders.|
 |Environmental|Older siblings, household crowding, child care attendance.|
@@ -87,7 +87,7 @@
 
 |Condition|Differentiating Characteristics|
 |:--|:--|
-|Bronchial Asthma|Unusual <1 year age, positive family history, recurrent attacks, consistent bronchodilator response, lacks preceding URI.|
+|Bronchial [[Respiratory/Asthma\|Asthma]]|Unusual <1 year age, positive family history, recurrent attacks, consistent bronchodilator response, lacks preceding URI.|
 |Congestive Heart Failure|Cardiomegaly CXR, tachycardia, large tender liver, raised JVP, basilar lung rales.|
 |Foreign Body Aspiration|Sudden onset, localized wheeze, localized obstructive emphysema/collapse, absence infectious prodrome.|
 |Bacterial Pneumonia|High fever (>39°C), pronounced adventitious sounds, focal crackles, severe toxemia.|
@@ -99,7 +99,7 @@
 
 - Primarily clinical diagnosis based age, seasonal occurrence, typical presentation.
 - Routine blood investigations, radiology not indicated.
-- Pulse oximetry essential identifying hypoxia, establishing admission requirement.
+- [[Emergencies/Pulse Oximetry\|Pulse oximetry]] essential identifying hypoxia, establishing admission requirement.
 
 ### Specific Modalities
 
@@ -147,11 +147,11 @@
 
 ### Known Complications
 
-- Acute Respiratory Distress Syndrome (ARDS).
+- Acute [[Neonatalogy/Respiratory Distress Syndrome\|Respiratory Distress Syndrome]] (ARDS).
 - Congestive heart failure, myocarditis, arrhythmias.
-- Secondary bacterial infection, acute otitis media.
+- Secondary bacterial infection, [[Misc/Acute Otitis Media\|acute otitis media]].
 - Bronchiolitis obliterans.
-- Predisposition childhood asthma (relationship observed 25% cases).
+- Predisposition childhood [[Respiratory/Asthma\|asthma]] (relationship observed 25% cases).
 
 ## Prevention
 
@@ -161,5 +161,5 @@
 - Avoidance passive smoking.
 - Encourage breastfeeding.
 - Palivizumab: Monoclonal antibody administered intramuscularly (15 mg/kg) monthly during seasonal epidemics. Maximum five doses.
-- Palivizumab Indications: Infants <12 months possessing prematurity <29 weeks, chronic lung disease prematurity, hemodynamically significant congenital heart disease.
+- Palivizumab Indications: Infants <12 months possessing prematurity <29 weeks, [[Respiratory/Chronic Lung Disease\|chronic lung disease]] prematurity, hemodynamically significant congenital heart disease.
 - Nirsevimab: Single dose providing 5 months protection.

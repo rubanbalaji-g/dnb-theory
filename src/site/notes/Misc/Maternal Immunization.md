@@ -14,25 +14,25 @@
 
 |Vaccine|Timing|Primary Goal|
 |:--|:--|:--|
-|Tetanus, diphtheria, acellular pertussis|27-36 weeks|Prevents infant pertussis <2 months.|
+|Tetanus, [[Infectious Diseases/Diphtheria\|diphtheria]], acellular pertussis|27-36 weeks|Prevents infant pertussis <2 months.|
 |Inactivated influenza|Any trimester|Prevents infant flu <6 months.|
 |Respiratory syncytial virus|32-36 weeks|Prevents infant severe lower respiratory tract disease.|
 |Coronavirus disease|Any trimester|Prevents severe maternal disease and preterm birth.|
 
-### Tetanus, Diphtheria, And Acellular Pertussis
+### Tetanus, [[Infectious Diseases/Diphtheria\|Diphtheria]], And Acellular Pertussis
 
 - Requires one dose during each pregnancy regardless of prior vaccination history.
 - Optimal administration timing spans 27 to 36 weeks.
-- Unimmunized women require one tetanus, diphtheria, acellular pertussis dose plus one tetanus, reduced diphtheria dose separated by at least one month.
+- Unimmunized women require one tetanus, [[Infectious Diseases/Diphtheria\|diphtheria]], acellular pertussis dose plus one tetanus, reduced [[Infectious Diseases/Diphtheria\|diphtheria]] dose separated by at least one month.
 - Protects infants <2 months before primary infant vaccination series begins.
 
-### Inactivated Influenza Vaccine
+### Inactivated [[Misc/Influenza Vaccine\|Influenza Vaccine]]
 
 - Forms integral part of routine prenatal care.
 - Safe for administration during any trimester.
 - Reduces infant influenza infections by 63% during first six months of life.
 - Half-life of maternally acquired antibodies lasts 42-50 days.
-- Live attenuated influenza vaccine remains absolutely contraindicated.
+- Live attenuated [[Misc/Influenza Vaccine\|influenza vaccine]] remains absolutely contraindicated.
 
 ### Respiratory Syncytial Virus Vaccine
 
@@ -46,7 +46,7 @@
 
 - Pregnancy increases risk for intensive care admission, mechanical ventilation, and stillbirth.
 - Messenger ribonucleic acid vaccines generate robust maternal immunity.
-- Facilitates effective protective antibody transfer to fetal circulation.
+- Facilitates effective protective antibody transfer to [[Neonatalogy/Fetal circulation\|fetal circulation]].
 - Demonstrates no significant association with adverse pregnancy outcomes.
 
 ### Contraindications And Precautions

@@ -33,7 +33,7 @@
 4. [[Neonatalogy/Feeding Problems in Neonates\|Feeding Problems in Neonates]]
 ## Problems after birth
 1. [[Neonatalogy/Infants of Diabetic Mother\|Infants of Diabetic Mother]]
-## Sepsis in Newborn
+## [[Neonatalogy/Sepsis in newborn\|Sepsis in Newborn]]
 1. [[Neonatalogy/Scoring to Predict Mortality in Neonatology\|Scoring to Predict Mortality in Neonatology]]
 2. [[Neonatalogy/Sepsis in newborn\|Sepsis in newborn]]
 ## Developmental Supportive Care

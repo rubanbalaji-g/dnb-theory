@@ -64,8 +64,8 @@
 	- V2: Traverses foramina C6 to C2.
 	- V3: Traverses C1, pierces dura at foramen magnum.
 	- V4: Ascends to join contralateral vertebral artery.
-- V4 gives rise to Posterior Inferior Cerebellar Artery (PICA).
-- PICA supplies lateral medulla, inferior cerebellar surface.
+- V4 gives rise to Posterior Inferior Cerebellar Artery ([[Development/Pica\|PICA]]).
+- [[Development/Pica\|PICA]] supplies lateral medulla, inferior cerebellar surface.
 
 ### Basilar Artery
 
@@ -113,7 +113,7 @@
 ### Medullary Supply
 
 - **Medial Medulla:** Branches of vertebral or lower basilar artery.
-- **Lateral Medulla:** Vertebral artery, Posterior Inferior Cerebellar Artery (PICA), superior/middle/inferior lateral medullary arteries.
+- **Lateral Medulla:** Vertebral artery, Posterior Inferior Cerebellar Artery ([[Development/Pica\|PICA]]), superior/middle/inferior lateral medullary arteries.
 
 ### Pontine Supply
 

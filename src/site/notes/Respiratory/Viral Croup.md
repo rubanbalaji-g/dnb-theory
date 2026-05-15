@@ -45,7 +45,7 @@
     - Sudden onset in early morning hours.
     - Absence of viral prodrome, coryza, or fever.
     - Resolves rapidly within a few hours.
-    - High recurrence rate; possible allergic component or associated with gastroesophageal reflux disease (GERD).
+    - High recurrence rate; possible allergic component or associated with gastroesophageal reflux disease ([[Gastrointestinal/GERD\|GERD]]).
 
 ## Clinical Severity Assessment
 
@@ -62,7 +62,7 @@ Clinical severity guides management. Assessed using sensorium, distress, stridor
 
 Must differentiate from other causes of acute upper airway obstruction.
 
-|Feature|Viral Croup|Acute Epiglottitis|Bacterial Tracheitis|Retropharyngeal Abscess|Foreign Body Aspiration|
+|Feature|[[Respiratory/Viral Croup\|Viral Croup]]|[[Respiratory/Acute Epiglottitis\|Acute Epiglottitis]]|Bacterial Tracheitis|Retropharyngeal Abscess|Foreign Body Aspiration|
 |:--|:--|:--|:--|:--|:--|
 |**Age**|6 months - 3 years|3 - 14 years|6 months - 14 years|2 - 4 years|6 months - 3 years|
 |**Onset**|Gradual (Days)|Very Rapid (Hours)|Rapid|Gradual|Sudden (Minutes)|
@@ -128,7 +128,7 @@ Must differentiate from other causes of acute upper airway obstruction.
 - Observation for at least 2-3 hours post-adrenaline nebulization.
 - No stridor at rest.
 - Normal air entry.
-- Normal pulse oximetry.
+- Normal [[Emergencies/Pulse Oximetry\|pulse oximetry]].
 - Normal level of consciousness.
 - Received systemic corticosteroids.
 

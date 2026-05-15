@@ -21,7 +21,7 @@
     - Uses **four-chamber view of heart, outflow tracts, mid-sagittal brain sections, and facial views** for comprehensive assessment1.
         
 - **Third-trimester scan (28–40 weeks):** <span style="color:rgb(255, 255, 0)">GROWTH SCAN</span>
-    - Monitors growth restriction, late-onset anomalies, and evolving conditions (e.g., hydrocephalus, bowel obstruction).
+    - Monitors growth restriction, late-onset anomalies, and evolving conditions (e.g., [[Neurology/Hydrocephalus\|hydrocephalus]], bowel obstruction).
 ### Advances in Ultrasound Technology
 
 - **High-resolution transducers** improve visualization of subtle defects.  
@@ -33,7 +33,7 @@
 
 - Detection rates vary with **gestational age, maternal habitus, fetal position, and operator expertise**.
 - Some anomalies (e.g., metabolic disorders, mild structural defects) may not be detected prenatally.
-- False positives can occur, requiring correlation with **genetic testing (amniocentesis, chorionic villus sampling)** or **MRI**.
+- False positives can occur, requiring correlation with **genetic testing ([[Neonatalogy/Amniocentesis\|amniocentesis]], chorionic villus sampling)** or **MRI**.
 ### Notes on Key Prenatal Ultrasound Scans
 
 - **Dating Scan (11–14 weeks):**
@@ -49,4 +49,4 @@
 - **Growth Scans (Third trimester, 28–40 weeks):**
     - Monitor fetal growth and well-being.
     - Detects intrauterine growth restriction (IUGR) or macrosomia.
-    - Evaluates amniotic fluid volume and Doppler studies for fetal circulation.
+    - Evaluates amniotic fluid volume and Doppler studies for [[Neonatalogy/Fetal circulation\|fetal circulation]].

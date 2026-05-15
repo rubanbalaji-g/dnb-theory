@@ -13,7 +13,7 @@ SDG 3 aims to ensure healthy lives and promote well-being for all at all ages. S
 * Target 3.2 (Neonatal and Under-5 Mortality): By 2030, end preventable deaths of newborns and children under 5 years of age.
 	- Reduce Neonatal Mortality Rate (NMR) to at least as low as 12 per 1000 live births.
 	- Reduce Under-5 Mortality Rate (U5MR) to at least as low as 25 per 1000 live births.
-* Target 3.3 (Communicable Diseases): End the epidemics of AIDS, tuberculosis, malaria, and neglected tropical diseases, and combat hepatitis, water-borne diseases, and other communicable diseases.
+* Target 3.3 (Communicable Diseases): End the epidemics of AIDS, tuberculosis, [[Infectious Diseases/Malaria\|malaria]], and neglected tropical diseases, and combat hepatitis, water-borne diseases, and other communicable diseases.
 * Target 3.4 (Non-Communicable Diseases): Reduce by one-third premature mortality from non-communicable diseases (NCDs) and promote mental health and well-being (highly relevant for adolescent health).
 * Target 3.7 (Sexual and Reproductive Health): Ensure universal access to sexual and reproductive healthcare services, including family planning and integration into national strategies (crucial for adolescent pregnancy prevention).
 * Target 3.8 (Universal Health Coverage): Achieve Universal Health Coverage (UHC), including financial risk protection and access to safe, effective, quality, and affordable essential medicines and vaccines for all.

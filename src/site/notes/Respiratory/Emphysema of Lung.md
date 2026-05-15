@@ -12,7 +12,7 @@ Localized emphysema (hyperinflation) results from a "ball-valve" mechanism where
     4. Vascular Rings/Slings: e.g., Double aortic arch or Pulmonary artery sling.
 * **Acquired Causes:**
     1. Foreign Body Aspiration: Most common cause of sudden localized hyperinflation.
-    2. Mucus Plugging: Common in Asthma, Cystic Fibrosis, or Bronchiolitis.
+    2. Mucus Plugging: Common in [[Respiratory/Asthma\|Asthma]], [[Respiratory/Cystic Fibrosis\|Cystic Fibrosis]], or Bronchiolitis.
     3. Endobronchial Tumors: e.g., Bronchial carcinoid (rare in children).
     4. Post-infectious: Lymph node enlargement (TB) or bronchial stenosis.
 ### 2. Congenital Lobar Emphysema (CLE): Pathophysiology
@@ -31,7 +31,7 @@ The presentation depends on the severity of air trapping and mediastinal shift.
 * **Chest X-ray (CXR):** Hyperlucent lobe with loss of bronchovascular markings. Shows depression of the ipsilateral diaphragm and herniation of the lung across the midline.
 * **Antenatal Ultrasound/MRI:** May detect fetal lung masses (hyperechoic lung).
 * **CT Chest (High Resolution):** Gold standard to confirm the affected lobe, assess the lung parenchyma, and rule out extrinsic vascular compression.
-* **Echocardiography:** Mandatory, as 10-15% of CLE cases are associated with Congenital Heart Disease (VSD, PDA).
+* **Echocardiography:** Mandatory, as 10-15% of CLE cases are associated with Congenital Heart Disease ([[Cardiology/VSD\|VSD]], PDA).
 ### 5. Management
 * **Emergency Stabilization:** Oxygen supplementation; avoid Positive Pressure Ventilation (PPV) if possible, as it may worsen air trapping and cause tension pneumothorax-like physiology.
 * **Surgical Management:**

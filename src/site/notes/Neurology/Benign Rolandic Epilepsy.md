@@ -27,7 +27,7 @@
     * **Speech Arrest (Anarthria):** Inability to speak despite preserved consciousness (due to motor aphonia, not aphasia).
     * **Hypersalivation (Sialorrhea):** Prominent pooling of saliva.
     * **Clonic movements:** Twitching of one side of the face, mouth, or pharynx.
-* **Consciousness:** Usually preserved in focal seizures; lost if secondary generalization occurs.
+* **Consciousness:** Usually preserved in [[Neurology/Focal seizures\|focal seizures]]; lost if secondary generalization occurs.
 * **Frequency:** Usually infrequent; 10–20% of patients have only a single seizure.
 
 #### **B. Neurological Examination**
@@ -57,7 +57,7 @@
 * **Panayiotopoulos Syndrome:** Autonomic seizures (vomiting), occipital spikes.
 * **Benign Epilepsy with Occipital Paroxysms (Gastaut Type):** Visual hallucinations.
 * **Structural Focal Epilepsy:** Tumor or cortical dysplasia (ruled out by MRI).
-* **Landau-Kleffner Syndrome / CSWS:** If significant language regression or continuous spike-waves in sleep occur.
+* **[[Neurology/Landau-Kleffner Syndrome\|Landau-Kleffner Syndrome]] / CSWS:** If significant language regression or continuous spike-waves in sleep occur.
 
 ### 6. Management
 #### **A. General Measures**

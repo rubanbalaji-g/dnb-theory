@@ -7,21 +7,21 @@ The following table outlines the features of Partial (Focal) Epilepsy, classifie
 
 | Classification | Etiology | Clinical Features | Semiology (Signs & Symptoms) | EEG Features |
 | :--- | :--- | :--- | :--- | :--- |
-| **Focal Aware Seizures**<br>(Formerly: Simple Partial Seizures) | **Structural:** Cortical dysplasia, tumor, vascular malformation, post-stroke gliosis.<br>**Genetic:** KCNQ2/3 mutations (Benign Familial Neonatal).<br>**Infectious:** Cysticercosis, tuberculoma.<br>**Metabolic:** Hypocalcemia, hypoglycemia. | **Consciousness:** Preserved (Fully aware of self/environment).<br>**Duration:** Seconds to minutes.<br>**Post-ictal:** Usually no confusion; immediate return to baseline. | **Motor:** Clonic jerking (Jacksonian march), tonic posturing, version (head turning).<br>**Sensory:** Paresthesias, visual flashes, auditory buzzing.<br>**Autonomic:** Epigastric rising, sweating, flushing, *ictal tachycardia*.<br>**Psychic:** Déjà vu, fear, forced thinking. | **Interictal:** Focal sharp waves or spikes over the affected region (e.g., temporal or frontal leads).<br>**Ictal:** Rhythmic focal discharge; *Note:* Surface EEG may be normal in deep/small foci (e.g., frontal lobe). |
-| **Focal Impaired Awareness Seizures**<br>(Formerly: Complex Partial Seizures) | **Mesial Temporal Sclerosis:** Most common cause in temporal lobe epilepsy.<br>**Limbic System Pathology:** Tumors (DNET), gliosis.<br>**Infectious:** Herpes encephalitis sequelae. | **Consciousness:** Impaired (Staring, unresponsiveness).<br>**Duration:** 1–2 minutes.<br>**Aura:** Often preceded by a focal aware seizure (aura).<br>**Post-ictal:** Confusion, fatigue, amnesia for event, transient aphasia (if dominant hemisphere). | **Automatisms:** <br>_Oro-alimentary:_ Lip smacking, chewing, swallowing.<br>_Manual:_ Fumbling, picking at clothes.<br>_Ambulatory:_ Wandering.<br>**Motor:** Dystonic posturing (contralateral limb). | **Interictal:** Anterior temporal spikes/sharp waves (temporal lobe); midline/frontal spikes (frontal lobe).<br>**Ictal:** Rhythmic theta (4–7 Hz) or delta activity, typically evolving in amplitude and frequency. |
+| **Focal Aware Seizures**<br>(Formerly: Simple [[Neurology/Partial Seizures\|Partial Seizures]]) | **Structural:** Cortical dysplasia, tumor, vascular malformation, post-stroke gliosis.<br>**Genetic:** KCNQ2/3 mutations (Benign Familial Neonatal).<br>**Infectious:** Cysticercosis, tuberculoma.<br>**Metabolic:** Hypocalcemia, hypoglycemia. | **Consciousness:** Preserved (Fully aware of self/environment).<br>**Duration:** Seconds to minutes.<br>**Post-ictal:** Usually no confusion; immediate return to baseline. | **Motor:** Clonic jerking (Jacksonian march), tonic posturing, version (head turning).<br>**Sensory:** Paresthesias, visual flashes, auditory buzzing.<br>**Autonomic:** Epigastric rising, sweating, flushing, *ictal tachycardia*.<br>**Psychic:** Déjà vu, fear, forced thinking. | **Interictal:** Focal sharp waves or spikes over the affected region (e.g., temporal or frontal leads).<br>**Ictal:** Rhythmic focal discharge; *Note:* Surface EEG may be normal in deep/small foci (e.g., frontal lobe). |
+| **Focal Impaired Awareness Seizures**<br>(Formerly: Complex [[Neurology/Partial Seizures\|Partial Seizures]]) | **Mesial Temporal Sclerosis:** Most common cause in temporal lobe epilepsy.<br>**Limbic System Pathology:** Tumors (DNET), gliosis.<br>**Infectious:** Herpes encephalitis sequelae. | **Consciousness:** Impaired (Staring, unresponsiveness).<br>**Duration:** 1–2 minutes.<br>**Aura:** Often preceded by a focal aware seizure (aura).<br>**Post-ictal:** Confusion, fatigue, amnesia for event, transient aphasia (if dominant hemisphere). | **Automatisms:** <br>_Oro-alimentary:_ Lip smacking, chewing, swallowing.<br>_Manual:_ Fumbling, picking at clothes.<br>_Ambulatory:_ Wandering.<br>**Motor:** Dystonic posturing (contralateral limb). | **Interictal:** Anterior temporal spikes/sharp waves (temporal lobe); midline/frontal spikes (frontal lobe).<br>**Ictal:** Rhythmic theta (4–7 Hz) or delta activity, typically evolving in amplitude and frequency. |
 | **Focal to Bilateral Tonic-Clonic Seizures**<br>(Formerly: Secondarily Generalized) | **Progression:** spread of discharge from a focal focus to bilateral networks (corpus callosum/thalamocortical). | **Consciousness:** Initially preserved (aura) then lost.<br>**Evolution:** Focal onset $\rightarrow$ Generalization.<br>**Post-ictal:** Deep sleep, Todd’s paresis (transient focal weakness). | **Onset:** Asymmetrical tonic posturing (Figure of 4).<br>**Progression:** Bilateral symmetric tonic stiffening followed by rhythmic clonic jerking. | **Onset:** Focal spikes or sharp waves.<br>**Progression:** Rapid generalization to high-amplitude polyspikes and slow waves obscuring focal onset. |
 
 ---
 
-### Treatment of Simple Partial Seizures (Focal Aware Seizures)
+### Treatment of Simple [[Neurology/Partial Seizures\|Partial Seizures]] (Focal Aware Seizures)
 
 **1. General Management Principles**
 * **Goal:** Complete seizure freedom with no adverse effects.
-* **Diagnosis Confirmation:** Ensure the event is epileptic and not a mimic (e.g., TIA, migraine, psychogenic).
+* **Diagnosis Confirmation:** Ensure the event is epileptic and not a mimic (e.g., TIA, [[Neurology/Migraine\|migraine]], psychogenic).
 * **Initiation:** Pharmacotherapy is usually started after the second unprovoked seizure. Treatment after a single seizure is considered if there is a high risk of recurrence (abnormal EEG/MRI, structural lesion).
 
 **2. Pharmacotherapy (First-Line Agents)**
-* **Carbamazepine (CBZ):** Long-standing first-line agent. Effective for focal seizures.
+* **Carbamazepine (CBZ):** Long-standing first-line agent. Effective for [[Neurology/Focal seizures\|focal seizures]].
     * *Dose:* Start 10–20 mg/kg/day. Monitor for rash (HLA-B*1502 screening in risk populations) and hyponatremia.
 * **Oxcarbazepine (OXC):** Similar efficacy to CBZ with fewer side effects and no auto-induction of metabolism.
     * *Dose:* 8–10 mg/kg/day starting.
@@ -32,7 +32,7 @@ The following table outlines the features of Partial (Focal) Epilepsy, classifie
 
 **3. Alternative and Add-On Therapies**
 * **Second-Line/Adjunctive:** Lacosamide, Topiramate, Zonisamide, Valproate.
-* **Topiramate:** Good for comorbidities like migraine or obesity.
+* **Topiramate:** Good for comorbidities like [[Neurology/Migraine\|migraine]] or obesity.
 * **Lacosamide:** Sodium channel blocker, available IV/PO, useful for rapid loading.
 
 **4. Management of Refractory Cases**
@@ -44,7 +44,7 @@ The following table outlines the features of Partial (Focal) Epilepsy, classifie
 * **Avoid Precipitating Factors:** Sleep deprivation, alcohol, stress.
 * **Safety:** Precautions regarding driving, swimming, and heights.
 
-### Management of Complex Partial Seizures (Focal Impaired Awareness Seizures)
+### Management of Complex [[Neurology/Partial Seizures\|Partial Seizures]] (Focal Impaired Awareness Seizures)
 
 #### 1. Definition and Goals
 * **Current Terminology:** Classified as **Focal Impaired Awareness Seizures** (ILAE 2017).
@@ -70,7 +70,7 @@ The following table outlines the features of Partial (Focal) Epilepsy, classifie
 **Principles:** Start low, go slow. Monotherapy is successful in 50–70% of patients.
 
 * **First-Line Agents (Drugs of Choice):**
-    * **Carbamazepine (CBZ):** Gold standard for focal seizures.
+    * **Carbamazepine (CBZ):** Gold standard for [[Neurology/Focal seizures\|focal seizures]].
         * *Dose:* 10–20 mg/kg/day (Start 5 mg/kg, titrate biweekly).
         * *Monitor:* CBC (agranulocytosis), Sodium (hyponatremia), HLA-B*1502 (SJS risk).
     * **Oxcarbazepine (OXC):** Similar efficacy to CBZ, better tolerability, less enzyme induction.

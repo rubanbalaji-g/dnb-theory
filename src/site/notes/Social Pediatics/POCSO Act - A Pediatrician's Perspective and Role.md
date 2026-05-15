@@ -38,7 +38,7 @@
   * *Chlamydia & Gonorrhea:* Ceftriaxone (IM) + Azithromycin (Oral).
   * *Syphilis:* Benzathine Penicillin G (if indicated by protocols).
 * **HIV Post-Exposure Prophylaxis (PEP):** Initiate ideally within 72 hours of exposure (typically a 3-drug regimen for 28 days) based on risk stratification.
-* **Hepatitis B:** Administer Hep B vaccine and HBIG if the child is unvaccinated or immune status is unknown.
+* **[[Gastrointestinal/Hepatitis B\|Hepatitis B]]:** Administer [[Misc/Hep B Vaccine\|Hep B vaccine]] and HBIG if the child is unvaccinated or immune status is unknown.
 * **Emergency Contraception:** Provide to post-menarchal girls (Levonorgestrel 1.5 mg single dose within 72 hours, or Ulipristal up to 120 hours).
 * **Tetanus Prophylaxis:** Update according to immunization status.
 

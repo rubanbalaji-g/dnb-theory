@@ -18,7 +18,7 @@
 ## Target Population & Facilities
 - All children birth to 12 years (newborns, infants, under-5 and school-age)
 - Facilities covered:
-  - District Hospitals (DH): 4 departments – Paediatric OPD, Paediatric Ward, SNCU, Nutrition Rehabilitation Centre (NRC)
+  - District Hospitals (DH): 4 departments – Paediatric OPD, Paediatric Ward, [[Neonatalogy/SNCU\|SNCU]], Nutrition Rehabilitation Centre (NRC)
   - Sub-District Hospitals (SDH): 3 departments – Paediatric OPD, Paediatric Ward, SNCU/NBSU
   - Functional FRU-CHCs: 2 departments – Paediatric OPD, NBSU/SNCU (if available)
   - LaQshya-certified facilities & Medical Colleges: All 4 departments
@@ -29,7 +29,7 @@
 - Promotion, protection and support of breastfeeding
 - Pain-free procedures with distraction techniques and sucrose analgesia
 - Evidence-based protocols aligned with IMNCI, F-IMNCI, RBSK and NTEP paediatric guidelines
-- Infection prevention & control with safe injection practices
+- Infection prevention & control with [[Social Pediatics/Safe Injection Practices\|safe injection practices]]
 
 ## Implementation Mechanism
 - **Rapid Improvement (RI) Cycles**: 2-month cycles with continuous gap assessment and corrective actions

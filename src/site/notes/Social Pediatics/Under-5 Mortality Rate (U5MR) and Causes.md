@@ -25,7 +25,7 @@
 - Birth asphyxia & birth trauma: 10–12%
 - Neonatal sepsis & infections: 8–10%
 - Congenital anomalies: 5–7%
-- Others: Respiratory distress syndrome, hypothermia, jaundice
+- Others: [[Neonatalogy/Respiratory Distress Syndrome\|Respiratory distress syndrome]], hypothermia, jaundice
 
 ### Post-Neonatal & Child (1–59 months)
 - Acute Respiratory Infections (pneumonia): 15–17%
@@ -33,7 +33,7 @@
 - Severe Acute Malnutrition (SAM) & micronutrient deficiencies: 6–8%
 - Vaccine-preventable diseases (measles, pertussis, tetanus): 3–5%
 - Injuries, poisoning & accidents: 4–6%
-- Malaria, meningitis, tuberculosis, congenital heart disease
+- [[Infectious Diseases/Malaria\|Malaria]], [[Neurology/Meningitis\|meningitis]], tuberculosis, congenital heart disease
 
 ## Key Determinants
 - Biological: LBW/prematurity, male sex, multiple births
@@ -45,11 +45,11 @@
 ## National Interventions Addressing U5MR
 - RMNCH+A & LaQshya quality certification
 - Facility-Based Newborn Care (FBNC): NBCC–NBSU–SNCU/MNCU
-- SAANS Campaign (pneumonia)
+- [[Social Pediatics/SAANS Campaign\|SAANS Campaign]] (pneumonia)
 - Anemia Mukt Bharat & POSHAN Abhiyaan
 - Mission Indradhanush & U-WIN (immunization)
-- Home-Based Newborn Care (HBNC) & RBSK (4Ds screening)
-- Janani Shishu Suraksha Karyakram (JSSK) – free transport/drugs
+- [[Social Pediatics/Home-Based Newborn Care (HBNC)\|Home-Based Newborn Care (HBNC)]] & RBSK (4Ds screening)
+- [[Social Pediatics/Janani Shishu Suraksha Karyakram (JSSK)\|Janani Shishu Suraksha Karyakram (JSSK)]] – free transport/drugs
 - MusQan & ABDM for quality & digital tracking
 
 ## Prevention Strategies (Pediatrician’s Perspective)

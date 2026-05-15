@@ -11,8 +11,8 @@ Acute onset hemiplegia is the sudden development of weakness on one side of the 
 The mechanism of weakness depends on the underlying etiology:
 * **Ischemia/Infarction:** Energy failure leading to cytotoxic edema (Stroke).
 * **Post-ictal Inhibition:** Exhaustion of neurons following a seizure (Todd's Paresis).
-* **Inflammation/Demyelination:** Interruption of conduction (ADEM).
-* **Cortical Spreading Depression:** Wave of depolarization followed by suppression (Hemiplegic Migraine).
+* **Inflammation/Demyelination:** Interruption of conduction ([[Neurology/ADEM\|ADEM]]).
+* **Cortical Spreading Depression:** Wave of depolarization followed by suppression (Hemiplegic [[Neurology/Migraine\|Migraine]]).
 
 **3. Etiology (Classification)**
 Causes are broadly divided into Vascular (Stroke) and Non-Vascular (Mimics).
@@ -20,20 +20,20 @@ Causes are broadly divided into Vascular (Stroke) and Non-Vascular (Mimics).
 **A. Vascular Causes (Stroke) - Most Common**
 * **Arterial Ischemic Stroke (AIS):**
     * *Arteriopathies:* Focal Cerebral Arteriopathy (Post-Varicella), Moyamoya disease, Dissection (Trauma).
-    * *Hematologic:* Sickle Cell Disease, Prothrombotic states (Protein C/S deficiency).
+    * *Hematologic:* [[Hematology/Sickle Cell Disease\|Sickle Cell Disease]], Prothrombotic states (Protein C/S deficiency).
     * *Cardiac:* Congenital Heart Disease (R-L shunts), Endocarditis.
-* **Cerebral Sinovenous Thrombosis (CSVT):** Complication of mastoiditis, dehydration, or nephrotic syndrome.
+* **Cerebral Sinovenous Thrombosis (CSVT):** Complication of mastoiditis, dehydration, or [[Nephrology/Nephrotic Syndrome\|nephrotic syndrome]].
 * **Hemorrhagic Stroke:** Rupture of AVM or Cavernoma.
 
 **B. Infectious and Inflammatory**
-* **ADEM (Acute Disseminated Encephalomyelitis):** Post-viral/vaccine immune response affecting white matter.
+* **[[Neurology/ADEM\|ADEM]] (Acute Disseminated Encephalomyelitis):** Post-viral/vaccine immune response affecting white matter.
 * **Intracranial Abscess:** Pyogenic or Tuberculoma (Mass effect).
-* **Meningitis:** Bacterial meningitis causing vasculitis/infarction.
+* **[[Neurology/Meningitis\|Meningitis]]:** Bacterial [[Neurology/Meningitis\|meningitis]] causing vasculitis/infarction.
 * **Encephalitis:** HSV (typically causes focal temporal lobe necrosis).
 
 **C. Functional and Paroxysmal (Common Mimics)**
 * **Todd’s Paresis:** Post-ictal weakness following a focal seizure. Lasts minutes to 48 hours.
-* **Hemiplegic Migraine:** Headache preceded/accompanied by reversible hemiplegia. Strong family history.
+* **Hemiplegic [[Neurology/Migraine\|Migraine]]:** Headache preceded/accompanied by reversible hemiplegia. Strong family history.
 
 **D. Metabolic / Toxic**
 * **Hypoglycemia:** Can present with focal signs (stroke mimic).
@@ -54,7 +54,7 @@ The goal is to differentiate Stroke from Mimics.
 * **Neuroimaging (Stat):**
     * **MRI Brain with DWI (Gold Standard):**
         * *Restricted Diffusion:* Confirms **Ischemic Stroke**.
-        * *T2 Hyperintensities:* Suggests **ADEM** or **Encephalitis**.
+        * *T2 Hyperintensities:* Suggests **[[Neurology/ADEM\|ADEM]]** or **Encephalitis**.
         * *Ring Enhancement:* Suggests **Abscess**.
     * *CT Head:* Used if MRI unavailable or to rule out acute hemorrhage/mass effect.
 * **Laboratory Workup:**
@@ -71,13 +71,13 @@ The goal is to differentiate Stroke from Mimics.
     * **Anticoagulation (LMWH):** Indicated for Arterial Dissection or CSVT.
     * **Sickle Cell:** Exchange transfusion to lower HbS < 30%.
 
-* **B. If Inflammatory (ADEM):**
+* **B. If Inflammatory ([[Neurology/ADEM\|ADEM]]):**
     * High-dose **IV Methylprednisolone** (30 mg/kg/day for 3–5 days).
     * IVIG if steroid-unresponsive.
 
 * **C. If Infectious:**
     * **Abscess:** IV Antibiotics + Neurosurgical drainage.
-    * **HSV Encephalitis:** IV Acyclovir.
+    * **[[Infectious Diseases/HSV Encephalitis\|HSV Encephalitis]]:** IV Acyclovir.
 
 * **D. If Todd’s Paresis:**
     * Optimization of anti-epileptic drugs; observation (weakness resolves spontaneously).

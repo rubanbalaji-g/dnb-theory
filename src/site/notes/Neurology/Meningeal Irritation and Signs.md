@@ -3,7 +3,7 @@
 ---
 
 ## INTRODUCTION
-Meningeal signs (meningismus) are physical findings indicating inflammation of the meninges (meningitis, subarachnoid hemorrhage). Their presentation varies significantly by age, being subtle in infants and classic in older children.
+Meningeal signs (meningismus) are physical findings indicating inflammation of the meninges ([[Neurology/Meningitis\|meningitis]], subarachnoid hemorrhage). Their presentation varies significantly by age, being subtle in infants and classic in older children.
 
 ## A. SIGNS IN INFANTS (< 12–18 MONTHS)
 Classic signs like neck rigidity are notoriously absent or difficult to elicit in infants. The features are often nonspecific.
@@ -71,4 +71,4 @@ The key differentiator is the **Plane of Movement**.
 | **Systemic Signs** | Headache, Vomiting, Photophobia. | Local signs (e.g., stridor in abscess, tender lymph nodes). |
 
 ### 3. Kiss the Knee Test
-* In true meningitis, the child cannot touch their lips to their knee due to spinal stiffness. In pseudo-rigidity (if cervical only), thoracolumbar flexibility may be preserved.
+* In true [[Neurology/Meningitis\|meningitis]], the child cannot touch their lips to their knee due to spinal stiffness. In pseudo-rigidity (if cervical only), thoracolumbar flexibility may be preserved.

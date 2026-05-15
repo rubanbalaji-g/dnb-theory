@@ -23,7 +23,7 @@ Movement disorders are neurological conditions characterized by an abnormality i
 * **Types:**
     * *Transient Tic Disorder:* < 1 year.
     * *Chronic Tic Disorder:* > 1 year (motor or vocal).
-    * **Tourette Syndrome:** Multiple motor + at least one vocal tic, lasting > 1 year.
+    * **[[Development/Tourette Syndrome\|Tourette Syndrome]]:** Multiple motor + at least one vocal tic, lasting > 1 year.
 
 #### B. Chorea
 * **Definition:** Involuntary, irregular, purposeless, random, flowing movements that flit from one body part to another ("Dance-like").
@@ -49,7 +49,7 @@ Movement disorders are neurological conditions characterized by an abnormality i
 #### D. Tremor
 * **Definition:** Rhythmic, oscillatory movement of a body part produced by alternating contractions of agonist and antagonist muscles.
 * **Types:**
-    * **Physiologic:** Enhanced by anxiety, thyrotoxicosis, caffeine, beta-agonists (asthma inhalers).
+    * **Physiologic:** Enhanced by anxiety, thyrotoxicosis, caffeine, beta-agonists ([[Respiratory/Asthma\|asthma]] inhalers).
     * **Essential Tremor:** Action tremor, often familial.
     * **Resting Tremor:** Rare in kids (Juvenile Parkinsonism, Wilson's).
     * **Rubral/Holmes Tremor:** Slow, coarse tremor (Midbrain lesion).
@@ -58,14 +58,14 @@ Movement disorders are neurological conditions characterized by an abnormality i
 * **Definition:** Sudden, brief, shock-like jerks caused by muscle contraction (positive) or inhibition (negative/asterixis).
 * **Types:**
     * **Physiologic:** Hypnic jerks (sleep starts).
-    * **Epileptic:** Juvenile Myoclonic Epilepsy (JME), SSPE (Subacute Sclerosing Panencephalitis).
-    * **Opsoclonus-Myoclonus Syndrome:** "Dancing eyes, dancing feet" (Paraneoplastic - Neuroblastoma).
+    * **Epileptic:** Juvenile Myoclonic Epilepsy (JME), [[Infectious Diseases/SSPE\|SSPE]] (Subacute Sclerosing Panencephalitis).
+    * **Opsoclonus-Myoclonus Syndrome:** "Dancing eyes, dancing feet" (Paraneoplastic - [[Hematology/Neuroblastoma\|Neuroblastoma]]).
 
 #### F. Stereotypies
 * **Definition:** Rhythmic, repetitive, fixed, purposeless movements.
 * **Key Features:** Occur during excitement, stress, or boredom. Can be stopped with distraction (unlike tics which have an urge).
 * **Examples:** Hand flapping, body rocking, head banging.
-* **Association:** Autism Spectrum Disorder (ASD), but also common in normal children ("Physiologic Stereotypies").
+* **Association:** [[Development/Autism Spectrum Disorder\|Autism Spectrum Disorder]] ([[Cardiology/ASD\|ASD]]), but also common in normal children ("Physiologic Stereotypies").
 
 ---
 

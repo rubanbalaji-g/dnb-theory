@@ -7,8 +7,8 @@
 - Complex pulmonary hypersensitivity reaction involving Type I, Type III, and Type IV responses.
 - Triggered by airway colonization by fungus Aspergillus fumigatus.
 - Represents allergic response, not invasive infection.
-- Predisposing conditions include Cystic Fibrosis (prevalence up to 15%) and Asthma (prevalence 1-2%).
-- Rarely occurs in Cystic Fibrosis children under 6 years of age.
+- Predisposing conditions include [[Respiratory/Cystic Fibrosis\|Cystic Fibrosis]] (prevalence up to 15%) and [[Respiratory/Asthma\|Asthma]] (prevalence 1-2%).
+- Rarely occurs in [[Respiratory/Cystic Fibrosis\|Cystic Fibrosis]] children under 6 years of age.
 
 ## Pathophysiology
 
@@ -21,7 +21,7 @@
 
 ## Clinical Features
 
-- Poorly controlled asthma or Cystic Fibrosis despite optimal therapy.
+- Poorly controlled [[Respiratory/Asthma\|asthma]] or [[Respiratory/Cystic Fibrosis\|Cystic Fibrosis]] despite optimal therapy.
 - Recurrent wheezing exacerbations.
 - Cough productive of brownish-black mucus plugs, golden-brown casts, or rust-colored sputum.
 - Occasional hemoptysis resulting from bronchiectasis.
@@ -32,7 +32,7 @@
 
 ### Predisposing Condition
 
-- Asthma or Cystic Fibrosis.
+- [[Respiratory/Asthma\|Asthma]] or [[Respiratory/Cystic Fibrosis\|Cystic Fibrosis]].
 
 ### Mandatory Criteria
 
@@ -68,7 +68,7 @@
 |I|Acute|Typical symptoms, infiltrates|Very High|Corticosteroids|
 |II|Remission|Asymptomatic, clear radiograph|Drops 35-50%|Observe|
 |III|Exacerbation|Recurrence of symptoms/infiltrates|Doubles|Resume Corticosteroids|
-|IV|Corticosteroid-Dependent|Asthma worsens on weaning|Persistently High|Corticosteroids + Antifungals|
+|IV|Corticosteroid-Dependent|[[Respiratory/Asthma\|Asthma]] worsens on weaning|Persistently High|Corticosteroids + Antifungals|
 |V|Fibrotic|Irreversible fibrosis, respiratory failure|Variable|Supportive Care|
 
 ## Management

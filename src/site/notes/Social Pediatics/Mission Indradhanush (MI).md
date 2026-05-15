@@ -11,7 +11,7 @@
 ## Objectives
 - Increase national FIC from ~65% (NFHS-4) to >90%
 - Reduce morbidity and mortality due to 12 vaccine preventable diseases (VPDs)
-- Strengthen RI micro-planning, cold chain, monitoring and community mobilization
+- Strengthen RI micro-planning, [[Misc/Cold Chain\|cold chain]], monitoring and community mobilization
 - Bridge equity gaps in immunization coverage
 
 ## Target Population
@@ -20,12 +20,12 @@
 - All UIP beneficiaries in identified low-coverage districts/blocks
 
 ## Vaccines Covered
-- Initially 7 antigens (BCG, DPT, OPV, Measles, Hepatitis B, Hib, JE in endemic areas)
-- Later expanded to full UIP schedule: Pentavalent, Rotavirus, Pneumococcal Conjugate Vaccine (PCV), Inactivated Polio Vaccine (IPV), Measles-Rubella (MR), Td, Japanese Encephalitis, HPV (in selected states)
+- Initially 7 antigens ([[Misc/BCG\|BCG]], DPT, OPV, Measles, [[Gastrointestinal/Hepatitis B\|Hepatitis B]], Hib, JE in endemic areas)
+- Later expanded to full UIP schedule: Pentavalent, Rotavirus, Pneumococcal Conjugate Vaccine (PCV), Inactivated Polio Vaccine (IPV), Measles-Rubella (MR), Td, [[Infectious Diseases/Japanese Encephalitis\|Japanese Encephalitis]], HPV (in selected states)
 - All vaccines provided free of cost
 
 ## Phases of Implementation
-- Mission Indradhanush (MI): 6 phases (2015–2016) covering 554 districts
+- [[Social Pediatics/Mission Indradhanush (MI)\|Mission Indradhanush (MI)]]: 6 phases (2015–2016) covering 554 districts
 - Intensified Mission Indradhanush (IMI): Launched October 2017; 12 phases conducted till IMI 5.0 (up to 2023)
 - Special focus in later phases: Measles-Rubella elimination drive, urban slums, migrant populations
 
@@ -40,7 +40,7 @@
 
 ## Implementation Mechanism
 - State, district and block level task forces for planning and monitoring
-- Training of ANMs, ASHAs and vaccinators on UIP schedule and cold chain
+- Training of ANMs, ASHAs and vaccinators on UIP schedule and [[Misc/Cold Chain\|cold chain]]
 - Special emphasis on left-out (never vaccinated) and drop-out children
 - Mobile teams for hard-to-reach areas; Model Immunization Centres in select states
 

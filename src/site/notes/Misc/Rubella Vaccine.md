@@ -44,8 +44,8 @@
 ## Efficacy And Immunogenicity
 
 - Single dose provides lifelong protection in over 95% of vaccinees.
-- Primary goal prevents Congenital Rubella Syndrome.
-- Suboptimal coverage shifts disease epidemiology to older age groups, paradoxically increasing Congenital Rubella Syndrome incidence.
+- Primary goal prevents [[Infectious Diseases/Congenital Rubella Syndrome\|Congenital Rubella Syndrome]].
+- Suboptimal coverage shifts disease epidemiology to older age groups, paradoxically increasing [[Infectious Diseases/Congenital Rubella Syndrome\|Congenital Rubella Syndrome]] incidence.
 - Maternal antibodies interfere with vaccine response before 9 months.
 
 ## Adverse Reactions

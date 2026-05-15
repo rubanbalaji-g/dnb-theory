@@ -16,7 +16,7 @@
 ### 3. Clinical Features
 * **Age:** Toddlers and school-age children (2–6 years).
 * **Onset:** Sudden (over hours to days).
-* **The "Happy Ataxic":** The hallmark is severe truncal/gait ataxia with **preserved sensorium**. The child is alert and interactive, unlike in meningitis or toxic ingestion.
+* **The "Happy Ataxic":** The hallmark is severe truncal/gait ataxia with **preserved sensorium**. The child is alert and interactive, unlike in [[Neurology/Meningitis\|meningitis]] or toxic ingestion.
 * **Cerebellar Signs:**
     * **Gait:** Wide-based, reeling, "drunken" gait. Inability to walk or sit without support.
     * **Tremor:** Intention tremor (finger-nose test), titubation of head/trunk.
@@ -29,7 +29,7 @@
 * **Acute Labyrinthitis:** Associated with vertigo/tinnitus.
 * **[[Neuromuscular/Guillain-Barré Syndrome\|Guillain-Barré Syndrome]] (Miller-Fisher Variant):** Ataxia + Areflexia + Ophthalmoplegia.
 * **Posterior Fossa Tumor:** Medulloblastoma (usually subacute, but can present acutely with bleed/hydrocephalus).
-* **Opsoclonus-Myoclonus Syndrome:** "Dancing eyes," irritability (Neuroblastoma).
+* **Opsoclonus-Myoclonus Syndrome:** "Dancing eyes," irritability ([[Hematology/Neuroblastoma\|Neuroblastoma]]).
 
 ### 5. Investigations
 * **Neuroimaging (MRI Brain):**

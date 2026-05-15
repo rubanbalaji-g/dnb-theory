@@ -15,7 +15,7 @@ These syndromes typically present at specific ages due to the maturation levels 
 #### **1. Early Myoclonic Encephalopathy (EME)**
 
 - **Onset:** First 2 months of life (often neonatal).
-- **Seizure Type:** Fragmentary, severe myoclonic seizures, and erratic focal seizures.
+- **Seizure Type:** Fragmentary, severe myoclonic seizures, and erratic [[Neurology/Focal seizures\|focal seizures]].
 - **Etiology:** Predominantly metabolic (e.g., Non-ketotic hyperglycinemia, [[Metabolic Disorders/Organic Acidemias\|organic acidemias]]),.
 - **EEG:** **Burst-suppression pattern** (periods of flat background interrupted by high-voltage spikes). This pattern is often enhanced by sleep.
 - **Prognosis:** Ominous; high mortality and severe impairment.
@@ -28,14 +28,14 @@ These syndromes typically present at specific ages due to the maturation levels 
 - **EEG:** **Burst-suppression pattern** (consistent during both sleep and wakefulness).
 - **Evolution:** Often progresses to West syndrome and later Lennox-Gastaut syndrome.
 
-#### **3. Epilepsy of Infancy with Migrating Focal Seizures (EIMFS)**
+#### **3. Epilepsy of Infancy with Migrating [[Neurology/Focal seizures\|Focal Seizures]] (EIMFS)**
 
 - **Clinical Features:** Multifocal seizures with autonomic symptoms (apnea, flushing). Seizures are nearly continuous.
 - **Genetics:** Strongly associated with _KCNT1_ (gain-of-function) mutations,.
 - **EEG:** Ictal rhythms migrating from one brain region to another contiguous or contralateral region.
 ### B. Infancy
 
-#### **1. West Syndrome (Infantile Spasms)**
+#### **1. West Syndrome ([[Neurology/Infantile Spasms\|Infantile Spasms]])**
 
 - **Triad:**
     1. **Epileptic Spasms:** Sudden flexion, extension, or mixed movements of proximal muscles, often occurring in clusters upon awakening,.
@@ -52,7 +52,7 @@ These syndromes typically present at specific ages due to the maturation levels 
 - **Genetics:** Loss-of-function mutation in **_SCN1A_** (sodium channel gene) in ~80% of cases.
 - **Clinical Course:**
     - **Onset:** ~6 months with prolonged febrile or afebrile clonic seizures (often hemiclonic).
-    - **Evolution:** Development of myoclonic, atypical absence, and focal seizures between 1–4 years. Developmental regression/stagnation occurs after onset.
+    - **Evolution:** Development of myoclonic, atypical absence, and [[Neurology/Focal seizures\|focal seizures]] between 1–4 years. Developmental regression/stagnation occurs after onset.
     - **Triggers:** Hyperthermia (fever, hot bath), photic stimulation.
 - **Management:**
     - **Contraindicated:** Sodium channel blockers (Carbamazepine, Phenytoin, Lamotrigine) as they exacerbate seizures.
@@ -68,7 +68,7 @@ These syndromes typically present at specific ages due to the maturation levels 
     3. **EEG:** Slow spike-and-wave discharges (<2.5 Hz) and Generalized Paroxysmal Fast Activity (GPFA) in sleep.
 - **Management:** Highly refractory. Valproate, Lamotrigine, Topiramate, Clobazam, Rufinamide, and Epidiolex (CBD) are used,. Corpus callosotomy may be palliative for drop attacks.
 
-#### **2. Landau-Kleffner Syndrome (LKS)**
+#### **2. [[Neurology/Landau-Kleffner Syndrome\|Landau-Kleffner Syndrome]] (LKS)**
 
 - **Definition:** Acquired epileptic aphasia. A previously normal child loses language skills (verbal auditory agnosia).
 - **EEG:** **Electrical Status Epilepticus in Sleep (ESES)**—continuous spike-waves occupying >85% of slow-wave sleep, typically bitemporal or generalized.
@@ -93,14 +93,14 @@ The etiology of EE is categorized into:
 1. **Genetic:** Single gene mutations affecting ion channels (_SCN1A, KCNQ2_), synaptic transmission (_STXBP1_), or cell signaling (_mTOR_ pathway),.
 2. **Structural:** Malformations of cortical development (e.g., Lissencephaly, Focal Cortical Dysplasia), Tuberous Sclerosis,.
 3. **Metabolic:** Pyridoxine dependency, Biotinidase deficiency, GLUT-1 deficiency, Mitochondrial disorders (e.g., Alpers-Huttenlocher due to _POLG_),,.
-4. **Infectious/Inflammatory:** Congenital infections (TORCH), Autoimmune encephalitis (e.g., Anti-NMDA receptor).
+4. **Infectious/Inflammatory:** Congenital infections (TORCH), [[Neurology/Autoimmune Encephalitis\|Autoimmune encephalitis]] (e.g., Anti-NMDA receptor).
 5. **Unknown:** Previously termed cryptogenic.
 
 ## Diagnostic Evaluation
 
 1. **Video-EEG:** Essential for classifying seizure types (e.g., spasms vs. myoclonus) and identifying syndromic patterns (e.g., hypsarrhythmia, burst-suppression).
 2. **Neuroimaging (MRI):** High-resolution MRI (epilepsy protocol) to identify structural lesions like focal cortical dysplasia or tuberous sclerosis,.
-3. **Genetic Testing:** Gene panels or Whole Exome Sequencing are crucial, especially for early-onset encephalopathies (e.g., _SCN1A_ for Dravet, _KCNT1_ for EIMFS).
+3. **Genetic Testing:** Gene panels or Whole [[Genetics/Exome Sequencing\|Exome Sequencing]] are crucial, especially for early-onset encephalopathies (e.g., _SCN1A_ for Dravet, _KCNT1_ for EIMFS).
 4. **Metabolic Screening:** Indicated in infants with refractory seizures. Tests include CSF/plasma amino acids, urine organic acids, and trial of Pyridoxine (Vitamin B6),.
 
 ## Management Principles
@@ -135,4 +135,4 @@ The prognosis is generally guarded. While some syndromes like _Benign familial n
 
 - **Intractable Epilepsy:** Failure of multiple AEDs.
 - **Cognitive Decline:** Ranging from learning disabilities to profound intellectual disability,.
-- **Mortality:** Increased risk of Sudden Unexpected Death in Epilepsy (SUDEP) and aspiration pneumonia.
+- **Mortality:** Increased risk of Sudden Unexpected Death in Epilepsy (SUDEP) and [[Respiratory/Aspiration Pneumonia\|aspiration pneumonia]].

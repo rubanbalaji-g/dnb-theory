@@ -14,7 +14,7 @@
 
 ## Clinical Manifestations
 
-### Infantile Seborrheic Dermatitis
+### Infantile [[Misc/Seborrheic Dermatitis\|Seborrheic Dermatitis]]
 
 - Onset typically occurs within first 4 weeks of life.
 - Illness remains self-limiting, generally resolving by 12 weeks to 1 year of age.
@@ -24,9 +24,9 @@
 - Cutaneous lesions generally remain nonpruritic in infants.
 - Postinflammatory pigmentary changes (hypopigmentation) commonly observed in darker skin tones.
 - Intractable seborrhea-like dermatitis associated with [[Gastrointestinal/Chronic Diarrhea\|chronic diarrhea]] and failure to thrive mandates urgent evaluation for systemic immune dysfunction.
-- Chronic treatment-resistant pattern occasionally indicates underlying Langerhans cell histiocytosis.
+- Chronic treatment-resistant pattern occasionally indicates underlying [[Hematology/Langerhans Cell Histiocytosis\|Langerhans cell histiocytosis]].
 
-### Adolescent Seborrheic Dermatitis
+### Adolescent [[Misc/Seborrheic Dermatitis\|Seborrheic Dermatitis]]
 
 - Disease onset universally follows puberty.
 - Follows chronic relapsing course, generally lacking spontaneous resolution.
@@ -48,9 +48,9 @@
 
 |Diagnostic Entity|Distinguishing Clinical Features|
 |:--|:--|
-|Atopic Dermatitis|Characterized by acute weeping, severe pruritus; often clinically indistinguishable from seborrheic dermatitis in early infancy.|
+|Atopic Dermatitis|Characterized by acute weeping, severe pruritus; often clinically indistinguishable from [[Misc/Seborrheic Dermatitis\|seborrheic dermatitis]] in early infancy.|
 |Psoriasis|Exhibits bright red, scaly, well-demarcated plaques; highly persistent; strong family history common.|
-|Langerhans Cell Histiocytosis|Presents with treatment-resistant, infiltrative, crusted, hemorrhagic papules in groin, axillae, scalp; accompanied by systemic signs including hepatosplenomegaly and anemia.|
+|[[Hematology/Langerhans Cell Histiocytosis\|Langerhans Cell Histiocytosis]]|Presents with treatment-resistant, infiltrative, crusted, hemorrhagic papules in groin, axillae, scalp; accompanied by systemic signs including hepatosplenomegaly and anemia.|
 |Candidiasis|Involves intertriginous and convex surfaces; features bright-red plaques with diagnostic satellite pustules.|
 |Irritant Diaper Dermatitis|Strictly spares intertriginous creases; localized strictly to convex contact surfaces.|
 

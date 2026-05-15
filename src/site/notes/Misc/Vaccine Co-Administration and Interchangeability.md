@@ -41,7 +41,7 @@
 - Separate simultaneous intramuscular injections in the same limb by a minimum of one inch or three centimeters.
 - Prioritize anterolateral thigh for simultaneous intramuscular injections in infants and younger children due to greater muscle mass.
 - Prioritize deltoid muscle for older children and adults receiving multiple intramuscular injections.
-- Administer highly reactogenic vaccines, including diphtheria, tetanus, acellular pertussis, meningococcal B, and pneumococcal vaccines, in different limbs.
+- Administer highly reactogenic vaccines, including [[Infectious Diseases/Diphtheria\|diphtheria]], tetanus, acellular pertussis, meningococcal B, and pneumococcal vaccines, in different limbs.
 - Administer most painful vaccines last during the clinical visit.
 - Separate injection sites completely when administering a specific vaccine alongside its corresponding immune globulin.
 - Observe patients for allergic reactions or anaphylaxis for fifteen to twenty minutes following immunization.
@@ -70,16 +70,16 @@
 #### Viral Vaccines
 
 - Coronavirus disease: Any available authorized vaccine completes a primary series initiated with another product.
-- Hepatitis A: Monovalent vaccines remain fully interchangeable. Any age-appropriate vaccine provides an effective booster dose.
-- Hepatitis B: Monovalent vaccines remain fully interchangeable using manufacturer-recommended schedules. Hepatitis A and B combination vaccine completes the hepatitis B primary series.
+- [[Gastrointestinal/Hepatitis A\|Hepatitis A]]: Monovalent vaccines remain fully interchangeable. Any age-appropriate vaccine provides an effective booster dose.
+- [[Gastrointestinal/Hepatitis B\|Hepatitis B]]: Monovalent vaccines remain fully interchangeable using manufacturer-recommended schedules. [[Gastrointestinal/Hepatitis A\|Hepatitis A]] and B [[Misc/Combination Vaccine\|combination vaccine]] completes the [[Gastrointestinal/Hepatitis B\|hepatitis B]] primary series.
 - Influenza: Prefer identical vaccine type for both doses in children requiring two doses during the same season. Utilize any age-appropriate alternative if the initial type remains unavailable.
 - Measles, mumps, and rubella: Authorized vaccines remain fully interchangeable based on expert consensus.
-- Rotavirus: Avoid interchanging monovalent and pentavalent rotavirus vaccines due to distinct compositions and schedules. Complete series with available product if previous product remains unknown. Administer a total of three doses if any previous dose involved the pentavalent vaccine.
-- Varicella: Complete the two-dose schedule with identical univalent varicella or combination measles, mumps, rubella, and varicella vaccine unless unavoidable barriers exist.
+- Rotavirus: Avoid interchanging monovalent and pentavalent rotavirus vaccines due to distinct compositions and schedules. Complete series with available product if previous product remains unknown. Administer a total of three doses if any previous dose involved the [[Misc/Pentavalent Vaccine\|pentavalent vaccine]].
+- Varicella: Complete the two-dose schedule with identical univalent varicella or combination measles, mumps, rubella, and [[Misc/Varicella Vaccine\|varicella vaccine]] unless unavoidable barriers exist.
 - Rabies: Complete series with identical product whenever possible. Vaccines remain fully interchangeable if identical product proves unfeasible. Pre-exposure prophylaxis boosters accept either formulation.
 
 #### Bacterial Vaccines
 
-- Diphtheria, tetanus, pertussis, poliomyelitis, Haemophilus influenzae type b: Complete routine primary series with appropriate combination vaccine from identical manufacturer whenever possible. Utilize alternative combination vaccine from different manufacturer if original remains unknown or unavailable. Administer booster doses using appropriate product from any manufacturer.
+- [[Infectious Diseases/Diphtheria\|Diphtheria]], tetanus, pertussis, poliomyelitis, Haemophilus influenzae type b: Complete routine primary series with appropriate [[Misc/Combination Vaccine\|combination vaccine]] from identical manufacturer whenever possible. Utilize alternative [[Misc/Combination Vaccine\|combination vaccine]] from different manufacturer if original remains unknown or unavailable. Administer booster doses using appropriate product from any manufacturer.
 - Meningococcal conjugate: Complete infant primary series with identical vaccine when possible. Utilize any quadrivalent conjugate vaccine for revaccination regardless of initial vaccine brand.
 - Typhoid: Presume full interchangeability for booster doses regardless of initial formulation administered.

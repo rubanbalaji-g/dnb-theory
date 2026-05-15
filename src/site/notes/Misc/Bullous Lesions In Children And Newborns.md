@@ -15,7 +15,7 @@
 ### Sucking Blisters
 
 - Present strictly at birth.
-- Located on upper limbs including radial forearm, thumb, and index finger.
+- Located on upper limbs including radial forearm, thumb, and [[Statistics/Index\|index]] finger.
 - Induced directly by vigorous in utero sucking.
 - Resolves rapidly without permanent sequelae.
 - Requires no therapeutic intervention.
@@ -86,4 +86,4 @@
 |Epidermolysis Bullosa Simplex|Intraepidermal.|Electron microscopy, immunofluorescence mapping.|
 |Junctional Epidermolysis Bullosa|Subepidermal.|Electron microscopy, immunofluorescence mapping.|
 |Pemphigus Vulgaris|Suprabasal (Intraepidermal).|Direct immunofluorescence demonstrating "chicken wire" pattern.|
-|Erythema Multiforme|Subepidermal.|Routine histopathology.|
+|[[Misc/Erythema Multiforme\|Erythema Multiforme]]|Subepidermal.|Routine histopathology.|

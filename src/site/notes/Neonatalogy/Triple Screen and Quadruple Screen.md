@@ -53,12 +53,12 @@ Beyond Down Syndrome, these screening modalities detect other chromosomal, struc
 | **Trisomy 18 (Edwards)** | Very Low | Very Low | Increased |
 | **Trisomy 13 (Patau)** | Low | Low | Increased |
 | **Triploidy** | Very Low | Low | Normal/Inc |
-| **Turner Syndrome (45,X)** | Low | Normal | Very High (Cystic Hygroma) |
+| **[[Genetics/Turner Syndrome\|Turner Syndrome]] (45,X)** | Low | Normal | Very High (Cystic Hygroma) |
 | **Preeclampsia Risk** | **Low PAPP-A** is a marker for poor placentation and future preeclampsia/IUGR. | | |
 
 ### 2. Utility of Triple & Quadruple Tests (2nd Trimester)
 
-**A. Neural Tube Defects (NTDs)**
+**A. [[Neurology/Neural Tube Defects\|Neural Tube Defects]] (NTDs)**
 * **Marker:** **Alpha-Fetoprotein (AFP)**.
 * **Pattern:** Significantly **Raised (>2.5 MoM)**.
 * **Conditions:** Anencephaly (highest levels), Open Spina Bifida, Encephalocele.

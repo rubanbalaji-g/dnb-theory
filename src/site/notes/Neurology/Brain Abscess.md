@@ -2,9 +2,9 @@
 {"dg-publish":true,"uplink":"/neurology/neurology/","uptext":"Back to Index (Neurology)","permalink":"/neurology/brain-abscess/","dgPassFrontmatter":true}
 ---
 
-## **1. Risk Factors for Brain Abscess 
+## **1. Risk Factors for [[Neurology/Brain Abscess\|Brain Abscess]] 
 
-A brain abscess is a focal collection of pus within the brain parenchyma. In approximately 20% of cases, no predisposing factor is identified; however, in the majority of children, distinct risk factors facilitate bacterial entry into the brain through contiguous spread, hematogenous dissemination, or direct inoculation.
+A [[Neurology/Brain Abscess\|brain abscess]] is a focal collection of pus within the brain parenchyma. In approximately 20% of cases, no predisposing factor is identified; however, in the majority of children, distinct risk factors facilitate bacterial entry into the brain through contiguous spread, hematogenous dissemination, or direct inoculation.
 
 ### **A. Contiguous Spread (Direct Extension)** 
 Infections in the head and neck region can erode through bone or spread via valveless emissary veins to the brain.
@@ -13,14 +13,14 @@ Infections in the head and neck region can erode through bone or spread via valv
 - **Sinusitis:** Infections of the frontal, ethmoid, or sphenoid sinuses can extend intracranially, typically causing frontal lobe abscesses,.
 - **Dental Infections:** Molar infections can lead to intracranial spread.
 - **Orbital Cellulitis:** Can extend posteriorly to involve the frontal lobe.
-- **Meningitis:** Rarely, bacterial meningitis (e.g., _Citrobacter koseri_ or _Proteus mirabilis_ in neonates) may complicate into abscess formation.
+- **[[Neurology/Meningitis\|Meningitis]]:** Rarely, bacterial [[Neurology/Meningitis\|meningitis]] (e.g., _Citrobacter koseri_ or _Proteus mirabilis_ in neonates) may complicate into abscess formation.
 
 ### **B. Hematogenous Dissemination (Metastatic Spread)** 
 Bacteria travel through the bloodstream from a distant focus.
 
-- **Congenital Cyanotic Heart Disease (CCHD):** Right-to-left shunts (e.g., Tetralogy of Fallot) allow bacteria to bypass pulmonary macrophage filtration and seed the brain. This is a major risk factor in children >2 years of age,.
+- **Congenital Cyanotic Heart Disease (CCHD):** Right-to-left shunts (e.g., [[Cardiology/Tetralogy of Fallot\|Tetralogy of Fallot]]) allow bacteria to bypass pulmonary macrophage filtration and seed the brain. This is a major risk factor in children >2 years of age,.
 - **Pulmonary Infections:** Lung abscess, empyema, bronchiectasis, and arteriovenous malformations (AVMs),.
-- **Infective Endocarditis:** Septic emboli can cause multiple microabscesses.
+- **[[Cardiology/Infective endocarditis\|Infective Endocarditis]]:** Septic emboli can cause multiple microabscesses.
 
 ### **C. Direct Inoculation**
 
@@ -32,7 +32,7 @@ Bacteria travel through the bloodstream from a distant focus.
 
 - Children with HIV/AIDS, malignancy, or those on immunosuppressive therapy are at risk for opportunistic pathogens (fungi, _Toxoplasma_, _Nocardia_).
 
-## **2. Clinical Features of Brain Abscess 
+## **2. Clinical Features of [[Neurology/Brain Abscess\|Brain Abscess]] 
 
 The clinical presentation is variable and depends on the location, size, number of lesions, and the host's immune status. The classic triad of fever, headache, and focal neurologic deficit is present in **less than 50%** of patients.
 
@@ -45,11 +45,11 @@ The clinical presentation is variable and depends on the location, size, number 
 - **Focal Neurological Deficits:** Occur in 50% of cases and depend on the site:
     - _Frontal lobe:_ Hemiparesis, behavioral changes, seizures.
     - _Temporal lobe:_ Aphasia, visual field defects (homonymous hemianopia).
-    - _Cerebellum:_ Ataxia, nystagmus, dysmetria, and hydrocephalus due to 4th ventricle compression.
+    - _Cerebellum:_ Ataxia, nystagmus, dysmetria, and [[Neurology/Hydrocephalus\|hydrocephalus]] due to 4th ventricle compression.
 - **Seizures:** Focal or generalized seizures occur in 25–50% of patients and may be the presenting sign.
 - **Neonates:** Present non-specifically with poor feeding, lethargy, irritability, bulging fontanelle, and seizures.
 
-## 3. Etiology of Brain Abscess
+## 3. Etiology of [[Neurology/Brain Abscess\|Brain Abscess]]
 
 The microbiology correlates strongly with the predisposing condition. Streptococci are the most predominant organisms.
 
@@ -78,7 +78,7 @@ The microbiology correlates strongly with the predisposing condition. Streptococ
 - **Contraindication:** Generally **contraindicated** in large focal abscesses due to the risk of brain herniation,.
 - **CSF Findings:** If done safely (rarely), may show elevated protein, mild pleocytosis, and normal glucose. Cultures are usually negative unless the abscess has ruptured into the ventricle.
 
-## Treatment of Brain Abscess
+## Treatment of [[Neurology/Brain Abscess\|Brain Abscess]]
 
 Management involves a combination of medical therapy and neurosurgical intervention.
 

@@ -3,39 +3,39 @@
 ---
 
 ## Definition
-The Open Vial Policy (OVP), also known as the Multi-Dose Vial Policy (MDVP), is a programmatic guideline endorsed by the World Health Organization (WHO) and implemented by the Ministry of Health and Family Welfare (MoHFW) under the Universal Immunization Programme (UIP). It permits the safe utilization of opened multi-dose vials of specific liquid vaccines in subsequent immunization sessions for up to 28 days, provided strict criteria concerning cold chain maintenance, sterility, and vaccine vial monitors are fulfilled.
+The [[Misc/Open Vial Policy\|Open Vial Policy]] (OVP), also known as the Multi-Dose Vial Policy (MDVP), is a programmatic guideline endorsed by the World Health Organization (WHO) and implemented by the Ministry of Health and Family Welfare (MoHFW) under the Universal Immunization Programme (UIP). It permits the safe utilization of opened multi-dose vials of specific liquid vaccines in subsequent immunization sessions for up to 28 days, provided strict criteria concerning [[Misc/Cold Chain\|cold chain]] maintenance, sterility, and vaccine vial monitors are fulfilled.
 
 ## Rationale and Objectives
 * **Minimization of Vaccine Wastage:** Significantly reduces the wastage rate of high-cost and high-demand vaccines, ensuring optimal utilization of resources.
 * **Economic Efficiency:** Lowers programmatic costs associated with vaccine procurement, transport, and distribution.
-* **Cold Chain Optimization:** Decreases the volumetric burden on cold chain storage facilities and transport mechanisms.
+* **[[Misc/Cold Chain\|Cold Chain]] Optimization:** Decreases the volumetric burden on [[Misc/Cold Chain\|cold chain]] storage facilities and transport mechanisms.
 * **Increased Session Frequency and Coverage:** Empowers healthcare workers to open vials even for a single eligible beneficiary without the hesitation of wasting remaining doses, directly improving vaccination coverage rates.
 
 ## Criteria for Applicability
 An opened multi-dose vial can be safely utilized in subsequent sessions for up to 28 days ONLY if it fulfills all four of the following absolute prerequisites:
 1. **Expiry Date:** The explicit expiry date printed on the vaccine vial has not passed.
-2. **Cold Chain Maintenance:** The vaccine has been continuously stored under appropriate and documented cold chain conditions (between 2 to 8 degrees Celsius).
-3. **Vaccine Vial Monitor (VVM) Integrity:** The VVM is intact, attached directly to the vial, and has not reached the discard point. It must be in Stage 1 or Stage 2 (where the inner square is lighter than the outer reference circle).
+2. **[[Misc/Cold Chain\|Cold Chain]] Maintenance:** The vaccine has been continuously stored under appropriate and documented [[Misc/Cold Chain\|cold chain]] conditions (between 2 to 8 degrees Celsius).
+3. **[[Misc/Vaccine Vial Monitor\|Vaccine Vial Monitor]] (VVM) Integrity:** The VVM is intact, attached directly to the vial, and has not reached the discard point. It must be in Stage 1 or Stage 2 (where the inner square is lighter than the outer reference circle).
 4. **Sterility and Physical Integrity:** There is no visible evidence of biological contamination, no floating particles, the septum remains uncompromised, and the vial has not been submerged in water.
 
 ## Classification of Vaccines Under OVP
 
 ### Vaccines Included in OVP
 These are typically liquid formulations containing specific preservatives (such as thiomersal) that actively inhibit bacterial and fungal proliferation. They can be used up to 28 days after the first puncture:
-* Oral Polio Vaccine (OPV)
-* Hepatitis B Vaccine
-* Diphtheria, Pertussis, and Tetanus (DPT) Vaccine
-* Tetanus Toxoid (TT) / Tetanus and adult Diphtheria (Td)
-* Pentavalent Vaccine (DPT + Hep B + Hib)
+* [[Misc/Oral Polio Vaccine\|Oral Polio Vaccine]] (OPV)
+* [[Gastrointestinal/Hepatitis B\|Hepatitis B]] Vaccine
+* [[Infectious Diseases/Diphtheria\|Diphtheria]], Pertussis, and Tetanus (DPT) Vaccine
+* [[Misc/Tetanus Toxoid\|Tetanus Toxoid]] (TT) / Tetanus and adult [[Infectious Diseases/Diphtheria\|Diphtheria]] (Td)
+* [[Misc/Pentavalent Vaccine\|Pentavalent Vaccine]] (DPT + Hep B + Hib)
 * Inactivated Poliovirus Vaccine (IPV)
 * Pneumococcal Conjugate Vaccine (PCV)
 * Liquid formulations of Rotavirus Vaccine
 
 ### Vaccines Excluded from OVP
 These vaccines either lack preservatives, are live attenuated lyophilized formulations that rapidly lose potency, or are highly susceptible to contamination post-reconstitution. They must be discarded within 4 hours of opening/reconstitution, or at the conclusion of the immunization session, whichever is earlier:
-* Bacillus Calmette-Guerin (BCG) Vaccine
+* Bacillus Calmette-Guerin ([[Misc/BCG\|BCG]]) Vaccine
 * Measles, Mumps, and Rubella (MMR) / Measles-Rubella (MR) Vaccine
-* Japanese Encephalitis (JE) Vaccine
+* [[Infectious Diseases/Japanese Encephalitis\|Japanese Encephalitis]] (JE) Vaccine
 * Lyophilized formulations of Rotavirus Vaccine (requiring reconstitution)
 * Any opened vial lacking a VVM attached directly to the vial itself (e.g., if the VVM is located solely on the secondary packaging).
 
@@ -49,7 +49,7 @@ These vaccines either lack preservatives, are live attenuated lyophilized formul
 ## Contraindications for Use of Opened Vials
 A multi-dose vial must be discarded immediately, regardless of the time elapsed since opening, under the following circumstances:
 * The VVM indicates Stage 3 or Stage 4 (inner square matches or is darker than the outer circle).
-* The cold chain is documented or suspected to have been broken.
+* The [[Misc/Cold Chain\|cold chain]] is documented or suspected to have been broken.
 * The glass vial is cracked, or the rubber septum is damaged/leaking.
 * The vial was dropped in water, compromising the septum, or rendering the label illegible.
 * A freeze-sensitive vaccine (e.g., DPT, Hep B, TT, Pentavalent, PCV) has been subjected to freezing temperatures (confirmed by the Shake Test if suspected).

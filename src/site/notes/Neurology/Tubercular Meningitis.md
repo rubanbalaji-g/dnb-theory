@@ -4,7 +4,7 @@
 
 ### **1. Introduction and Epidemiology**
 
-Tubercular meningitis (TBM) is the most severe form of tuberculosis in children and a leading cause of neurological morbidity and mortality. It typically occurs as a serious complication of primary infection, usually developing within a year of the initial exposure.
+[[Neurology/Tubercular Meningitis\|Tubercular meningitis]] (TBM) is the most severe form of tuberculosis in children and a leading cause of neurological morbidity and mortality. It typically occurs as a serious complication of primary infection, usually developing within a year of the initial exposure.
 
 - **Age Distribution:** TBM most commonly affects children between **6 months and 4 years of age**, though it can occur at any age.
 - **Predisposing Factors:**
@@ -20,12 +20,12 @@ TBM is not a direct result of primary bacillaemia but rather a two-step process:
 
 **Pathological Triad:** The resulting hypersensitivity reaction induces a thick, gelatinous exudate, primarily in the basal cisterns. This leads to three cardinal pathological features:
 
-1. **Basal Meningitis:** Thick exudates encase cranial nerves (leading to palsies) and obstruct cerebrospinal fluid (CSF) pathways.
+1. **Basal [[Neurology/Meningitis\|Meningitis]]:** Thick exudates encase cranial nerves (leading to palsies) and obstruct cerebrospinal fluid (CSF) pathways.
 2. **Vasculitis (Endarteritis):** Inflammation of cerebral vessels, particularly the middle cerebral artery and perforating vessels, causes infarction, commonly in the basal ganglia, thalamus, and internal capsule.
-3. **Hydrocephalus:** Obstruction of CSF flow (communicating or obstructive) occurs due to the thick basal exudates blocking the cisterns or arachnoid granulations.
+3. **[[Neurology/Hydrocephalus\|Hydrocephalus]]:** Obstruction of CSF flow (communicating or obstructive) occurs due to the thick basal exudates blocking the cisterns or arachnoid granulations.
 ### **3. Clinical Features and Staging**
 
-The onset is usually **insidious** (subacute), progressing over 2–3 weeks, unlike the acute onset of purulent meningitis.
+The onset is usually **insidious** (subacute), progressing over 2–3 weeks, unlike the acute onset of purulent [[Neurology/Meningitis\|meningitis]].
 
 #### **A. Clinical Presentation**
 
@@ -56,13 +56,13 @@ Diagnosis relies on a combination of clinical features, CSF analysis, and neuroi
 #### **B. Microbiological Confirmation**
 
 - **Smear/Culture:** Acid-fast bacilli (AFB) are rarely seen on smear. Culture (Liquid MGIT) is more sensitive but takes weeks.
-- **NAAT (GeneXpert/Truenat):** Upfront molecular testing is recommended. While specificity is high, sensitivity in CSF is only about 30–40%; a negative result does **not** rule out TBM.
+- **[[Genetics/NAAT\|NAAT]] (GeneXpert/Truenat):** Upfront molecular testing is recommended. While specificity is high, sensitivity in CSF is only [[About\|about]] 30–40%; a negative result does **not** rule out TBM.
 
 #### **C. Neuroimaging (CECT or MRI)** 
 Contrast-Enhanced CT (CECT) is the initial modality, but MRI is more sensitive. The diagnostic triad on imaging includes:
 
 1. **Basal Meningeal Enhancement:** Intense enhancement of basal cisterns.
-2. **Hydrocephalus:** Present in almost all cases.
+2. **[[Neurology/Hydrocephalus\|Hydrocephalus]]:** Present in almost all cases.
 3. **Infarcts:** Typically in the basal ganglia or thalamus.
 
 - **Tuberculomas:** May present as ring-enhancing lesions with perilesional edema.
@@ -72,18 +72,18 @@ TBM should be suspected in a child with insidious fever (>5 days) and neurologic
 
 1. **Clinical/Lab Criteria:** CSF >10 cells, Lymphocytes >50%, Protein >100 mg/dL, Glucose <40 mg/dL.
 2. **Risk Factors:** Contact with active TB, HIV, or SAM.
-3. **Imaging:** Basal enhancement, hydrocephalus, or tuberculoma.
+3. **Imaging:** Basal enhancement, [[Neurology/Hydrocephalus\|hydrocephalus]], or tuberculoma.
 4. **Evidence of TB elsewhere:** Chest X-ray abnormalities or Mantoux positivity.
 ### **5. Differential Diagnosis**
 
-- **Partially Treated Pyogenic Meningitis:** Chief differential. CSF shows neutrophils, but glucose may be normal or slightly low. Culture is usually sterile.
+- **Partially Treated Pyogenic [[Neurology/Meningitis\|Meningitis]]:** Chief differential. CSF shows neutrophils, but glucose may be normal or slightly low. Culture is usually sterile.
 - **Viral Meningoencephalitis:** Acute onset, normal CSF glucose, and lack of basal enhancement on imaging.
-- **Fungal Meningitis (Cryptococcal):** Common in HIV/immunocompromised children. CSF India ink or antigen test is positive.
-- **Neurocysticercosis (NCC):** Lesions are usually smaller (<20mm), cystic with a scolex, and show less perilesional edema compared to tuberculomas. Basal meningitis is absent.
+- **Fungal [[Neurology/Meningitis\|Meningitis]] (Cryptococcal):** Common in HIV/immunocompromised children. CSF India ink or antigen test is positive.
+- **[[Infectious Diseases/Neurocysticercosis\|Neurocysticercosis]] (NCC):** Lesions are usually smaller (<20mm), cystic with a scolex, and show less perilesional edema compared to tuberculomas. Basal [[Neurology/Meningitis\|meningitis]] is absent.
 ### **6. Management**
 
 #### **A. Antitubercular Therapy (ATT)** 
-Treatment follows the National Tuberculosis Elimination Programme (NTEP) guidelines for extrapulmonary TB with CNS involvement. The total duration is **12 months**.
+Treatment follows the [[Social Pediatics/National Tuberculosis Elimination Programme (NTEP)\|National Tuberculosis Elimination Programme (NTEP)]] guidelines for extrapulmonary TB with CNS involvement. The total duration is **12 months**.
 
 - **Intensive Phase (IP):** 2 months of **HRZE** (Isoniazid, Rifampicin, Pyrazinamide, Ethambutol).
 - **Continuation Phase (CP):** 10 months of **HRE** (Isoniazid, Rifampicin, Ethambutol). _Note: CP is extended to 10 months specifically for CNS and spinal TB_.
@@ -106,10 +106,10 @@ Treatment follows the National Tuberculosis Elimination Programme (NTEP) guideli
 1. **Raised Intracranial Pressure (ICP):**
     - General measures: Head elevation to 30 degrees, midline positioning.
     - Osmotherapy: Mannitol (0.25–1 g/kg) or Hypertonic Saline (3%) for acute spikes.
-2. **Hydrocephalus:**
-    - **Medical:** Acetazolamide and furosemide may be used temporarily for communicating hydrocephalus but have limited long-term efficacy.
-    - **Surgical:** Ventriculoperitoneal (VP) shunt is the standard for obstructive hydrocephalus or failed medical management. Endoscopic Third Ventriculostomy (ETV) is an alternative.
-3. **Hyponatremia:** Often due to SIADH (fluid restriction) or Cerebral Salt Wasting (fluid and salt replacement).
+2. **[[Neurology/Hydrocephalus\|Hydrocephalus]]:**
+    - **Medical:** Acetazolamide and furosemide may be used temporarily for communicating [[Neurology/Hydrocephalus\|hydrocephalus]] but have limited long-term efficacy.
+    - **Surgical:** Ventriculoperitoneal (VP) shunt is the standard for obstructive [[Neurology/Hydrocephalus\|hydrocephalus]] or failed medical management. Endoscopic Third Ventriculostomy (ETV) is an alternative.
+3. **Hyponatremia:** Often due to [[Endocrinology/SIADH\|SIADH]] (fluid restriction) or Cerebral Salt Wasting (fluid and salt replacement).
 4. **Seizures:** Aggressive management with anticonvulsants is required. Prophylactic treatment is generally not recommended unless seizures occur.
 ### **7. Prognosis and Sequelae**
 
@@ -126,5 +126,5 @@ The outcome is strictly correlated with the **stage of disease** at diagnosis an
 - **Endocrine:** Hypothalamic/pituitary dysfunction (e.g., precocious puberty, obesity).
 ### **8. Prevention**
 
-- **BCG Vaccination:** Provides protection (up to 85%) against severe forms of TB, including meningitis and miliary TB, in infants.
+- **[[Misc/BCG\|BCG]] Vaccination:** Provides protection (up to 85%) against severe forms of TB, including [[Neurology/Meningitis\|meningitis]] and miliary TB, in infants.
 - **TB Preventive Therapy (TPT):** Isoniazid preventive therapy (10 mg/kg/day) for 6 months is indicated for all children <5 years who are household contacts of a pulmonary TB patient, after ruling out active disease.

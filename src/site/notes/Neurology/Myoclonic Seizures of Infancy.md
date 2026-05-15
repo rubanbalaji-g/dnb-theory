@@ -15,7 +15,7 @@ The differential diagnosis is critical as prognosis varies from benign to devast
 | **Benign Myoclonic Epilepsy of Infancy (BMEI)** | 6 months – 3 years (Peak 1–2 yrs) | • **Brief myoclonic jerks** of head/arms (nodding/flinging).<br>• Occurs in **normal** infants.<br>• No other seizure types initially.<br>• Rare reflex triggers (noise/touch). | **Interictal:** Normal background. Generalized spike/polyspike-and-wave (3 Hz) during sleep/drowsiness.<br>**Ictal:** Generalized polyspike-wave burst. | **Excellent.** Seizures respond well to Valproate. Development usually normal. Resolves in childhood. |
 | **Dravet Syndrome** (Severe Myoclonic Epilepsy of Infancy - SMEI) | < 1 year (Peak 5–8 months) | • **Febrile seizures** (prolonged/hemiclonic) often first.<br>• **Myoclonic seizures** appear later (1–4 yrs).<br>• Multiple types: Atypical absence, focal, tonic-clonic.<br>• Triggered by fever/hot bath. | **Early:** Normal.<br>**Later:** Generalized/focal spikes, polyspike-waves. Photosensitivity is common. | **Poor.** High mortality (SUDEP), severe intellectual disability, refractory to treatment. |
 | **Myoclonic Astatic Epilepsy (Doose Syndrome)** | 7 months – 6 years (Peak 2–4 yrs) | • **Drop attacks:** Myoclonic jerk followed by loss of tone (astatic) $\rightarrow$ Falls.<br>• Staring spells, GTCs.<br>• Previous development often normal. | **Interictal:** Parietal rhythmic theta (4–7 Hz).<br>**Ictal:** Polyspike-and-wave followed by slow wave (atonia). | **Variable.** 50% have cognitive impairment. Often resistant to drugs; responsive to Ketogenic Diet. |
-| **Infantile Spasms (West Syndrome)** | 3 – 7 months | • **Spasms:** Sustained (1–2 sec) flexion/extension clusters.<br>• *Not true brief myoclonus, but often confused.* | **Hypsarrhythmia:** Chaotic high voltage slow waves + multifocal spikes. | **Poor** if not treated early. Risk of LGS and regression. |
+| **[[Neurology/Infantile Spasms\|Infantile Spasms]] (West Syndrome)** | 3 – 7 months | • **Spasms:** Sustained (1–2 sec) flexion/extension clusters.<br>• *Not true brief myoclonus, but often confused.* | **Hypsarrhythmia:** Chaotic high voltage slow waves + multifocal spikes. | **Poor** if not treated early. Risk of LGS and regression. |
 | **Early Myoclonic Encephalopathy (EME)** | Neonatal / Early Infancy (< 3 mo) | • Erratic, fragmentary myoclonus.<br>• Severe hypotonia, metabolic etiology (e.g., Non-ketotic hyperglycinemia). | **Suppression-Burst** pattern. | **Very Poor.** High mortality in infancy. |
 
 ### 3. Approach to an Infant with Myoclonic Seizures
@@ -28,7 +28,7 @@ The differential diagnosis is critical as prognosis varies from benign to devast
 * **Family Hx:** Febrile seizures (GEFS+ spectrum/Dravet).
 
 **B. Clinical Examination**
-* **Neurocutaneous:** Ash leaf macules (Tuberous Sclerosis $\rightarrow$ Infantile Spasms).
+* **Neurocutaneous:** Ash leaf macules (Tuberous Sclerosis $\rightarrow$ [[Neurology/Infantile Spasms\|Infantile Spasms]]).
 * **Neurological:** Head size, tone, fundoscopy (metabolic storage disorders).
 * **Provocation:** Clap test (auditory reflex) or photic stimulation.
 

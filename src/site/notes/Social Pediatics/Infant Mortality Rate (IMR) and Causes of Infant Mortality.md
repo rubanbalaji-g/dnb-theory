@@ -33,7 +33,7 @@
 - Diarrhoeal diseases: 8–10%
 - Malnutrition / Severe Acute Malnutrition (SAM): 6–8%
 - Vaccine-preventable diseases (measles, pertussis)
-- Injuries, congenital heart disease, meningitis
+- Injuries, congenital heart disease, [[Neurology/Meningitis\|meningitis]]
 
 ## Determinants & Risk Factors
 - **Biological**: LBW/prematurity, male sex, multiple births
@@ -45,15 +45,15 @@
 ## National Interventions Addressing IMR
 - RMNCH+A strategy & LaQshya
 - Facility-Based Newborn Care (FBNC): NBCC, NBSU, SNCU/MNCU
-- SAANS Campaign (pneumonia management)
+- [[Social Pediatics/SAANS Campaign\|SAANS Campaign]] (pneumonia management)
 - Anemia Mukt Bharat & POSHAN Abhiyaan
 - Mission Indradhanush & U-WIN (immunization)
-- Home-Based Newborn Care (HBNC) by ASHA
-- Janani Shishu Suraksha Karyakram (JSSK) – free transport, drugs, diagnostics
+- [[Social Pediatics/Home-Based Newborn Care (HBNC)\|Home-Based Newborn Care (HBNC)]] by ASHA
+- [[Social Pediatics/Janani Shishu Suraksha Karyakram (JSSK)\|Janani Shishu Suraksha Karyakram (JSSK)]] – free transport, drugs, diagnostics
 - MusQan quality certification for paediatric services
 
 ## Prevention Strategies (Pediatrician’s Perspective)
-- Antenatal: 4+ ANC visits, IFA, tetanus toxoid, detection of high-risk pregnancies
+- Antenatal: 4+ ANC visits, IFA, [[Misc/Tetanus Toxoid\|tetanus toxoid]], detection of high-risk pregnancies
 - Intranatal: Skilled birth attendance, partograph use, delayed cord clamping
 - Postnatal: Essential Newborn Care (warm chain, breastfeeding within 1 hour, vitamin K, eye care)
 - Community: ASHA home visits, KMC for LBW, danger-sign recognition

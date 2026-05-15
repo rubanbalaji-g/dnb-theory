@@ -6,15 +6,15 @@
 ## I. Introduction & Definitions
 Aspiration is the inhalation of oropharyngeal or gastric contents into the lower respiratory tract. It leads to three distinct clinical syndromes:
 1.  **Chemical Pneumonitis (Mendelson’s Syndrome):** Acute lung injury from sterile, acidic gastric contents.
-2.  **Bacterial Aspiration Pneumonia:** Infection resulting from aspiration of bacteria from the oropharynx.
+2.  **Bacterial [[Respiratory/Aspiration Pneumonia\|Aspiration Pneumonia]]:** Infection resulting from aspiration of bacteria from the oropharynx.
 3.  **Mechanical Obstruction:** Aspiration of particulate matter (fluids/solids).
 
 ## II. Predisposing Conditions (Risk Factors)
 Aspiration occurs when protective airway reflexes (cough, glottic closure) are compromised or overwhelmed.
 
 ### 1. Neurological (Most Common)
-* **Central Nervous System:** Cerebral Palsy (pseudobulbar palsy), hypoxic-ischemic encephalopathy, intracranial hemorrhage.
-* **Neuromuscular Disorders:** Spinal Muscular Atrophy (SMA), muscular dystrophies, myopathies (poor swallow coordination).
+* **Central Nervous System:** [[Neurology/Cerebral Palsy\|Cerebral Palsy]] (pseudobulbar palsy), hypoxic-ischemic encephalopathy, intracranial hemorrhage.
+* **Neuromuscular Disorders:** [[Neuromuscular/Spinal Muscular Atrophy\|Spinal Muscular Atrophy]] (SMA), muscular dystrophies, myopathies (poor swallow coordination).
 * **Altered Sensorium:** Seizures, post-ictal state, coma, general anesthesia/sedation.
 
 ### 2. Anatomical Anomalies
@@ -22,7 +22,7 @@ Aspiration occurs when protective airway reflexes (cough, glottic closure) are c
 * **Oral/Pharyngeal:** Cleft palate, macroglossia (Down syndrome), Pierre Robin sequence.
 
 ### 3. Gastrointestinal
-* **Gastroesophageal Reflux Disease (GERD):** Severe reflux overcoming lower esophageal sphincter pressure.
+* **Gastroesophageal Reflux Disease ([[Gastrointestinal/GERD\|GERD]]):** Severe reflux overcoming lower esophageal sphincter pressure.
 * **Obstruction:** Esophageal stricture, achalasia, vascular ring (dysphagia lusoria).
 
 ### 4. Iatrogenic/Mechanical
@@ -42,8 +42,8 @@ Aspiration occurs when protective airway reflexes (cough, glottic closure) are c
 * Fever (may be delayed in chemical pneumonitis).
 ### **Chronic/Recurrent Aspiration:**
 #### 1. Respiratory Symptoms
-* **Recurrent Pneumonia:** Frequent episodes of lower respiratory tract infection, often in dependent lobes.
-* **Chronic Cough/Wheeze:** Often misdiagnosed as "Difficult Asthma" unresponsive to standard bronchodilators/steroids.
+* **[[Respiratory/Recurrent Pneumonia\|Recurrent Pneumonia]]:** Frequent episodes of lower respiratory tract infection, often in dependent lobes.
+* **Chronic Cough/Wheeze:** Often misdiagnosed as "Difficult [[Respiratory/Asthma\|Asthma]]" unresponsive to standard bronchodilators/steroids.
 * **Purulent Sputum:** Suggests bronchiectasis (sequelae).
 * **Morning Symptoms:** Wet cough or congestion upon waking (night-time micro-aspiration).
 #### 2. Feeding & General Symptoms
@@ -87,7 +87,7 @@ The goal is to protect the airway while maintaining adequate nutrition. Manageme
 
 #### 2. Medical Management
 * **Oral Hygiene:** Critical. Reducing the bacterial load in the mouth reduces the risk of pneumonia even if aspiration occurs.
-* **Anti-Reflux Therapy:** Proton Pump Inhibitors (PPIs) or H2 blockers if GERD is confirmed.
+* **Anti-Reflux Therapy:** Proton Pump Inhibitors (PPIs) or H2 blockers if [[Gastrointestinal/GERD\|GERD]] is confirmed.
     * *Note:* Acid suppression changes the *pH* of the aspirate but does not prevent the *volume* of aspiration.
 * **Airway Clearance:** Chest physiotherapy and suctioning for chronic secretions.
 * **Glycopyrrolate:** To reduce excessive salivary secretions (drooling) contributing to aspiration.
@@ -98,17 +98,17 @@ Indicated when conservative measures fail and respiratory health/growth is compr
     * **Gastrostomy (PEG):** Preferred for long-term feeding support.
     * **Jejunostomy:** If severe reflux persists despite gastrostomy.
 * **Anti-Reflux Surgery:**
-    * **Nissen Fundoplication:** Often combined with PEG if GERD is the primary driver of aspiration.
+    * **Nissen Fundoplication:** Often combined with PEG if [[Gastrointestinal/GERD\|GERD]] is the primary driver of aspiration.
 * **Airway Separation (Last Resort):**
     * Tracheostomy, Laryngotracheal separation, or Laryngeal diversion (rare, for intractable life-threatening aspiration).
 
 ## VI. Prognosis
 * Depends on the reversibility of the underlying cause.
-* Chronic aspiration is the leading cause of death in children with severe cerebral palsy.
+* Chronic aspiration is the leading cause of death in children with severe [[Neurology/Cerebral Palsy\|cerebral palsy]].
 * Early intervention prevents irreversible lung fibrosis and bronchiectasis.
 
 ## VIII. Complications
 1.  Lung Abscess (Necrotizing pneumonia).
 2.  Empyema.
 3.  Bronchiectasis (sequelae of recurrent aspiration).
-4.  Chronic Lung Disease (Fibrosis).
+4.  [[Respiratory/Chronic Lung Disease\|Chronic Lung Disease]] (Fibrosis).

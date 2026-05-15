@@ -2,8 +2,8 @@
 {"dg-publish":true,"permalink":"/neonatalogy/antenatal-diagnosis-of-congenital-malformations/","dgPassFrontmatter":true}
 ---
 
-## PART 1: ANTENATAL DIAGNOSIS OF NEURAL TUBE DEFECTS (NTDs)
-Neural Tube Defects (e.g., Anencephaly, Spina Bifida, Encephalocele) are among the most common congenital anomalies, resulting from failure of neural tube closure by the 4th week of gestation.
+## PART 1: [[Neonatalogy/Antenatal Diagnosis\|ANTENATAL DIAGNOSIS]] OF [[Neurology/Neural Tube Defects\|NEURAL TUBE DEFECTS]] (NTDs)
+[[Neurology/Neural Tube Defects\|Neural Tube Defects]] (e.g., Anencephaly, Spina Bifida, Encephalocele) are among the most common congenital anomalies, resulting from failure of neural tube closure by the 4th week of gestation.
 
 ### 1. Screening Methods (Biochemical)
 **Maternal Serum Alpha-Fetoprotein (MSAFP)**
@@ -20,7 +20,7 @@ High-resolution ultrasound (Level II) is diagnostic in >95% of cases.
 Reliable indirect signs of open spina bifida seen in the 2nd trimester:
 * **Lemon Sign:** Scalloping of frontal bones (due to hypotension in the subarachnoid space).
 * **Banana Sign:** Herniation of the cerebellum through the foramen magnum, curving it around the brainstem; obliteration of the Cisterna Magna.
-* **Ventriculomegaly:** Associated hydrocephalus (often >10mm).
+* **Ventriculomegaly:** Associated [[Neurology/Hydrocephalus\|hydrocephalus]] (often >10mm).
 
 **B. Spinal Signs**
 * **Transverse view:** Splaying of posterior ossification centers ("U" shape instead of normal circle).
@@ -29,7 +29,7 @@ Reliable indirect signs of open spina bifida seen in the 2nd trimester:
 
 ### 3. Confirmatory Invasive Testing
 Indicated if USG is equivocal or in obese patients where visualization is poor.
-* **Amniocentesis:**
+* **[[Neonatalogy/Amniocentesis\|Amniocentesis]]:**
     * **Amniotic Fluid AFP (AFAFP):** Significantly elevated.
     * **Acetylcholinesterase (AChE):** Qualitative assay. **diagnostic** for open NTDs (highly specific, rules out other causes of high AFP).
 
@@ -37,10 +37,10 @@ Indicated if USG is equivocal or in obese patients where visualization is poor.
 * **Primary Prevention:** **Folic Acid 4 mg/day** (pre-conceptional) for high-risk mothers reduces recurrence by 70%.
 * **Management:**
     * **Termination:** Option up to 24 weeks (India MTP Act 2021) for severe defects.
-    * **Fetal Surgery:** *in-utero* repair (MOMS Trial) for Myelomeningocele (reduces shunt dependence).
+    * **[[Neonatalogy/Fetal Surgery\|Fetal Surgery]]:** *in-utero* repair (MOMS Trial) for Myelomeningocele (reduces shunt dependence).
     * **Delivery:** Caesarean section recommended for large cysts to prevent sac rupture.
 
-## PART 2: ANTENATAL DIAGNOSIS OF CONGENITAL MALFORMATIONS (GENERAL)
+## PART 2: [[Neonatalogy/Antenatal Diagnosis of Congenital Malformations\|ANTENATAL DIAGNOSIS OF CONGENITAL MALFORMATIONS]] (GENERAL)
 
 ### 1. Classification of Diagnostic Modalities
 Diagnosis follows a tiered approach: **Screening** (Population-based) $\rightarrow$ **Diagnostic** (High risk).
@@ -48,7 +48,7 @@ Diagnosis follows a tiered approach: **Screening** (Population-based) $\rightarr
 ### A. Non-Invasive Visualization (Ultrasound)
 **1. First Trimester Scan (11–13+6 Weeks)**
 * **Dating:** Crown-Rump Length (CRL) is accurate for age (vital for interpretation of biomarkers).
-* **Nuchal Translucency (NT):** >3mm or >95th centile. Associated with Trisomy 21, Turner syndrome, Cardiac defects, Diaphragmatic hernia.
+* **Nuchal Translucency (NT):** >3mm or >95th centile. Associated with Trisomy 21, [[Genetics/Turner Syndrome\|Turner syndrome]], Cardiac defects, Diaphragmatic hernia.
 * **Nasal Bone:** Absence is a strong marker for Down syndrome.
 * **Early Anatomy:** Acrania (early Anencephaly), Megacystis, Limb reduction defects.
 
@@ -83,13 +83,13 @@ Used to obtain fetal tissue for genetic/genomic analysis when screening is abnor
 
 | Procedure | Timing | Tissue | Indications |
 | :--- | :--- | :--- | :--- |
-| **CVS** | 10–13 wks | Trophoblast | Early genetic diagnosis (Thalassemia, SMA). |
-| **Amniocentesis** | 15–20 wks | Amniocytes | Karyotype, CMA, Infection (CMV), Enzyme assays. |
-| **Cordocentesis** | >18 wks | Fetal Blood | Rapid karyotype (late gestation), Fetal anemia. |
+| **CVS** | 10–13 wks | Trophoblast | Early genetic diagnosis ([[Hematology/Thalassemia\|Thalassemia]], SMA). |
+| **[[Neonatalogy/Amniocentesis\|Amniocentesis]]** | 15–20 wks | Amniocytes | Karyotype, CMA, Infection (CMV), Enzyme assays. |
+| **[[Neonatalogy/Cordocentesis\|Cordocentesis]]** | >18 wks | Fetal Blood | Rapid karyotype (late gestation), Fetal anemia. |
 
 **Laboratory Advances:**
 * **Chromosomal Microarray (CMA):** First-line test for structural anomalies (detects microdeletions missed by karyotype).
-* **Whole Exome Sequencing (WES):** For syndromic fetuses with normal CMA.
+* **Whole [[Genetics/Exome Sequencing\|Exome Sequencing]] (WES):** For syndromic fetuses with normal CMA.
 
 ### 5. Summary of Diagnostic Flow
 1.  **Risk Assessment:** Age, Family History, Teratogen exposure.

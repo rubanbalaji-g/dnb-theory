@@ -7,11 +7,11 @@ Two main classification systems are used in pediatrics.
 
 #### A. International Classification of Headache Disorders (ICHD-3)
 1.  **Primary Headaches:** No underlying structural or metabolic cause.
-    * Migraine (with or without aura).
+    * [[Neurology/Migraine\|Migraine]] (with or without aura).
     * Tension-Type Headache (TTH).
     * Trigeminal Autonomic Cephalalgias (e.g., Cluster headache - rare in children).
-2.  **Secondary Headaches:** Symptom of underlying pathology.
-    * Attributed to infection (meningitis, sinusitis).
+2.  **[[Neurology/Secondary headaches\|Secondary Headaches]]:** Symptom of underlying pathology.
+    * Attributed to infection ([[Neurology/Meningitis\|meningitis]], sinusitis).
     * Attributed to head/neck trauma.
     * Attributed to vascular disorder (AVM, bleed).
     * Attributed to non-vascular intracranial disorder (tumor, IIH).
@@ -31,9 +31,9 @@ Clinically most useful for establishing differential diagnosis.
 
 | Pattern | Common Causes | Less Common / Serious Causes |
 | :--- | :--- | :--- |
-| **Acute** | **Systemic Infection:** Viral fever, Influenza.<br>**CNS Infection:** Meningitis, Encephalitis.<br>**Sinusitis:** Acute bacterial.<br>**Dental:** Abscess. | **Hemorrhage:** SAH, Intracranial bleed.<br>**Trauma:** Concussion.<br>**First presentation of Migraine.** |
-| **Acute Recurrent** | **Migraine:** (Most common cause).<br>**Tension-Type Headache (Episodic).** | **Epilepsy:** Ictal headache.<br>**Paroxysmal Hypertension:** Pheochromocytoma.<br>**Neuralgias.** |
-| **Chronic Progressive** *(Red Flag Category)* | **Raised ICP:** Brain Tumor (Posterior fossa), Hydrocephalus, Abscess.<br>**Pseudotumor Cerebri** (Idiopathic Intracranial Hypertension). | **Subdural Hematoma** (Chronic).<br>**Chiari Malformation.**<br>**Lead Poisoning.** |
+| **Acute** | **Systemic Infection:** Viral fever, Influenza.<br>**CNS Infection:** [[Neurology/Meningitis\|Meningitis]], Encephalitis.<br>**Sinusitis:** Acute bacterial.<br>**Dental:** Abscess. | **Hemorrhage:** SAH, Intracranial bleed.<br>**Trauma:** Concussion.<br>**First presentation of [[Neurology/Migraine\|Migraine]].** |
+| **Acute Recurrent** | **[[Neurology/Migraine\|Migraine]]:** (Most common cause).<br>**Tension-Type Headache (Episodic).** | **Epilepsy:** Ictal headache.<br>**Paroxysmal Hypertension:** [[Endocrinology/Pheochromocytoma\|Pheochromocytoma]].<br>**Neuralgias.** |
+| **Chronic Progressive** *(Red Flag Category)* | **Raised ICP:** Brain Tumor (Posterior fossa), [[Neurology/Hydrocephalus\|Hydrocephalus]], Abscess.<br>**[[Neurology/Pseudotumor Cerebri\|Pseudotumor Cerebri]]** (Idiopathic Intracranial Hypertension). | **Subdural Hematoma** (Chronic).<br>**Chiari Malformation.**<br>**Lead Poisoning.** |
 | **Chronic Non-Progressive** | **Chronic Tension-Type Headache.**<br>**Psychogenic:** Conversion, Somatization.<br>**Analgesic Overuse Headache.** | **Refractive Errors.**<br>**Post-concussion syndrome.** |
 
 ---
@@ -42,11 +42,11 @@ Clinically most useful for establishing differential diagnosis.
 
 #### Step 1: Detailed History (The "OLDCARTS" Mnemonic)
 * **O**nset: Sudden (SAH) vs. Gradual (Tumor).
-* **L**ocation: Unilateral (Migraine) vs. Band-like (Tension) vs. Occipital (Posterior fossa tumor/Chiari).
-* **D**uration: Hours (Migraine) vs. Continuous (IIH).
-* **C**haracter: Throbbing (Migraine) vs. Squeezing (Tension) vs. Worst headache of life (Hemorrhage).
-* **A**ggravating factors: Coughing/Straining (Raised ICP), School stress (Tension), Light/Sound (Migraine).
-* **R**elieving factors: Sleep (Migraine), Vomiting (Raised ICP - transient relief).
+* **L**ocation: Unilateral ([[Neurology/Migraine\|Migraine]]) vs. Band-like (Tension) vs. Occipital (Posterior fossa tumor/Chiari).
+* **D**uration: Hours ([[Neurology/Migraine\|Migraine]]) vs. Continuous (IIH).
+* **C**haracter: Throbbing ([[Neurology/Migraine\|Migraine]]) vs. Squeezing (Tension) vs. Worst headache of life (Hemorrhage).
+* **A**ggravating factors: Coughing/Straining (Raised ICP), School stress (Tension), Light/Sound ([[Neurology/Migraine\|Migraine]]).
+* **R**elieving factors: Sleep ([[Neurology/Migraine\|Migraine]]), Vomiting (Raised ICP - transient relief).
 * **T**iming: Early morning worsening (Raised ICP).
 * **S**everity: Interference with play/school.
 
@@ -75,17 +75,17 @@ Clinically most useful for establishing differential diagnosis.
 #### Step 3: Diagnostic Investigations
 * **Neuroimaging (MRI Brain preferred over CT):**
     * *Indications:* Abnormal neurologic exam, Papilledema, Chronic progressive pattern, Headache waking child from sleep, Persistent vomiting, Occipital headache.
-    * *Note:* Routine imaging is **NOT** indicated for classic Migraine or Tension headache with normal exam.
-* **Lumbar Puncture:** Indicated if meningitis suspected or to measure opening pressure (Pseudotumor cerebri) *after* ruling out mass effect.
+    * *Note:* Routine imaging is **NOT** indicated for classic [[Neurology/Migraine\|Migraine]] or Tension headache with normal exam.
+* **Lumbar Puncture:** Indicated if [[Neurology/Meningitis\|meningitis]] suspected or to measure opening pressure ([[Neurology/Pseudotumor Cerebri\|Pseudotumor cerebri]]) *after* ruling out mass effect.
 * **EEG:** Only if history suggests seizure equivalents (otherwise low yield).
 * **Sinus X-ray/CT:** If chronic sinusitis suspected.
 
 #### Step 4: Management Algorithm
 1.  **Acute Management:**
-    * **Migraine:** NSAIDs (Ibuprofen > Paracetamol), Triptans (Sumatriptan/Rizatriptan approved for >6y/12y), Antiemetics.
+    * **[[Neurology/Migraine\|Migraine]]:** NSAIDs (Ibuprofen > Paracetamol), Triptans (Sumatriptan/Rizatriptan approved for >6y/12y), Antiemetics.
     * **TTH:** Relaxation, Hydration, NSAIDs.
 2.  **Preventive Therapy:** Indicated if headache frequency >3-4/month or severe disability.
-    * *Migraine:* Flunarizine, Propranolol, Topiramate, Amitriptyline.
+    * *[[Neurology/Migraine\|Migraine]]:* Flunarizine, Propranolol, Topiramate, Amitriptyline.
     * *TTH:* Amitriptyline, CBT.
 3.  **Lifestyle Modification (Bio-behavioral):**
     * Sleep hygiene (regular schedule).

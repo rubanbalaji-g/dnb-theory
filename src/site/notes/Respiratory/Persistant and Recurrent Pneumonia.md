@@ -4,7 +4,7 @@
 
 ## I. Definitions
 * **Persistent Pneumonia:** Persistence of clinical symptoms or radiological shadows for **> 4 weeks** despite appropriate antibiotic therapy.
-* **Recurrent Pneumonia:**
+* **[[Respiratory/Recurrent Pneumonia\|Recurrent Pneumonia]]:**
     * **2 or more episodes** in a single year, OR
     * **3 or more episodes** in a lifetime.
     * *Key Feature:* There must be radiographic **clearing** between episodes.
@@ -26,17 +26,17 @@ The causes can be categorized based on the underlying mechanism.
     * Tracheobronchial stenosis.
 
 ### B. Aspiration Syndromes
-1.  **Oropharyngeal Dysphagia:** Cerebral Palsy, Bulbar palsy.
-2.  **Gastroesophageal Reflux (GERD):** Severe reflux + microaspiration.
+1.  **Oropharyngeal Dysphagia:** [[Neurology/Cerebral Palsy\|Cerebral Palsy]], Bulbar palsy.
+2.  **Gastroesophageal Reflux ([[Gastrointestinal/GERD\|GERD]]):** Severe reflux + microaspiration.
 3.  **H-type [[Gastrointestinal/Tracheoesophageal Fistula\|Tracheoesophageal Fistula]]:** Presentation often delayed.
 
 ### C. Generalized/Host Defense Defects (Often diffuse/multilobar)
-1.  **Cystic Fibrosis (CF):** Most common genetic cause of suppurative lung disease.
-2.  **Primary Ciliary Dyskinesia (PCD):** Recurrent pneumonia + Situs Inversus + Sinusitis (Kartagener syndrome).
+1.  **[[Respiratory/Cystic Fibrosis\|Cystic Fibrosis]] (CF):** Most common genetic cause of suppurative lung disease.
+2.  **[[Respiratory/Primary Ciliary Dyskinesia\|Primary Ciliary Dyskinesia]] (PCD):** [[Respiratory/Recurrent Pneumonia\|Recurrent pneumonia]] + Situs Inversus + Sinusitis (Kartagener syndrome).
 3.  **Immunodeficiency:**
     * **Humoral:** X-linked Agammaglobulinemia, Selective IgA deficiency.
     * **Cellular:** HIV/AIDS, SCID.
-    * **Phagocytic:** Chronic Granulomatous Disease (CGD).
+    * **Phagocytic:** [[Infectious Diseases/Chronic Granulomatous Disease (CGD)\|Chronic Granulomatous Disease (CGD)]].
 
 ### D. Specific Infections (Persistent)
 * **Tuberculosis:** Always the first differential in endemic areas.
@@ -49,7 +49,7 @@ The causes can be categorized based on the underlying mechanism.
 * **Choking history:** Suspect Foreign Body.
 * **Site:** *Same lobe* (Anatomic/FB) vs *Different lobes* (Immune/Aspiration).
 * **Associated features:**
-    * Greasy stools/Failure to thrive $\rightarrow$ **Cystic Fibrosis**.
+    * Greasy stools/Failure to thrive $\rightarrow$ **[[Respiratory/Cystic Fibrosis\|Cystic Fibrosis]]**.
     * Ear discharge/Dextrocardia $\rightarrow$ **PCD**.
     * Feeding difficulties $\rightarrow$ **Aspiration**.
 
@@ -57,7 +57,7 @@ The causes can be categorized based on the underlying mechanism.
 1.  **Complete Blood Count:** Lymphopenia (Immune def), Neutropenia.
 2.  **Chest X-Ray:** Compare with previous films to confirm persistence vs recurrence.
 3.  **Mantoux Test / IGRA:** To rule out TB.
-4.  **Sweat Chloride Test:** **Gold Standard** for Cystic Fibrosis (Should be done in ALL cases of recurrent pneumonia).
+4.  **Sweat Chloride Test:** **Gold Standard** for [[Respiratory/Cystic Fibrosis\|Cystic Fibrosis]] (Should be done in ALL cases of [[Respiratory/Recurrent Pneumonia\|recurrent pneumonia]]).
 5.  **Immunoglobulin Profile:** IgG, IgM, IgA levels.
 6.  **HIV ELISA.**
 
@@ -67,7 +67,7 @@ The causes can be categorized based on the underlying mechanism.
     * [Image of CT chest bronchiectasis]
 2.  **Flexible Bronchoscopy:**
     * Visualizes airway dynamics (malacia), foreign bodies, or compression.
-    * **Bronchoalveolar Lavage (BAL):** For culture and lipid-laden macrophages (aspiration).
+    * **[[Respiratory/Bronchoalveolar Lavage (BAL)\|Bronchoalveolar Lavage (BAL)]]:** For culture and lipid-laden macrophages (aspiration).
 
 ### Step 4: Phase III Investigations (Specific)
 * **Barium Swallow:** For vascular rings/TEF/GERD.
@@ -86,12 +86,12 @@ The causes can be categorized based on the underlying mechanism.
 | Etiology | Specific Management |
 | :--- | :--- |
 | **Foreign Body** | Rigid Bronchoscopy and removal. |
-| **Cystic Fibrosis** | Nebulized saline/DNAse, Azithromycin, Creon enzymes, CFTR modulators. |
+| **[[Respiratory/Cystic Fibrosis\|Cystic Fibrosis]]** | Nebulized saline/DNAse, Azithromycin, Creon enzymes, CFTR modulators. |
 | **Tuberculosis** | Anti-tubercular therapy (ATT) as per weight bands. |
 | **Immune Deficiency** | IVIG replacement (for humoral defects), prophylactic cotrimoxazole. |
-| **GERD** | Thickened feeds, positioning, PPIs; Fundoplication if refractory. |
+| **[[Gastrointestinal/GERD\|GERD]]** | Thickened feeds, positioning, PPIs; Fundoplication if refractory. |
 | **Anatomic Defect** | Surgical resection (e.g., Sequestration, Cyst). |
-| **Asthma** | Inhaled Corticosteroids (ICS) – Asthma often mimics recurrent pneumonia (atelectasis misread as pneumonia). |
+| **[[Respiratory/Asthma\|Asthma]]** | Inhaled Corticosteroids (ICS) – [[Respiratory/Asthma\|Asthma]] often mimics [[Respiratory/Recurrent Pneumonia\|recurrent pneumonia]] (atelectasis misread as pneumonia). |
 
 ### C. Follow-up
 * Monitor growth velocity.

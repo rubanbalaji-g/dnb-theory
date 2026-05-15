@@ -25,12 +25,12 @@ Diagnosis requires **$\ge$ 2** of the following 7 features:
 7.  **Family History:** First-degree relative with NF1.
 
 **3. Systemic Complications**
-* **Neurologic:** Learning disabilities (40–60%), ADHD, seizures (rare), unidentified bright objects (UBOs) on MRI.
-* **Malignancy:** Malignant Peripheral Nerve Sheath Tumor (MPNST), Pheochromocytoma, Leukemia (JMML).
+* **Neurologic:** Learning disabilities (40–60%), [[Development/ADHD\|ADHD]], seizures (rare), unidentified bright objects (UBOs) on MRI.
+* **Malignancy:** Malignant Peripheral Nerve Sheath Tumor (MPNST), [[Endocrinology/Pheochromocytoma\|Pheochromocytoma]], Leukemia (JMML).
 * **Orthopedic:** Scoliosis, short stature.
-* **Vascular:** Renal artery stenosis (Hypertension), Moyamoya syndrome.
+* **Vascular:** [[Nephrology/Renal Artery Stenosis\|Renal artery stenosis]] (Hypertension), Moyamoya syndrome.
 
-### II. Tuberous Sclerosis Complex (TSC)
+### II. [[Neurology/Tuberous Sclerosis Complex (TSC)\|Tuberous Sclerosis Complex (TSC)]]
 Second most common; characterized by hamartomas in multiple organs.
 
 **1. Genetics**
@@ -45,16 +45,16 @@ Second most common; characterized by hamartomas in multiple organs.
     * **Shagreen Patch:** Leathery connective tissue nevus (lumbosacral).
     * **Ungual Fibromas:** Koenen tumors.
 * **Neurologic:**
-    * **Epilepsy (>90%):** Infantile Spasms (West syndrome) are classic. Focal seizures later.
+    * **Epilepsy (>90%):** [[Neurology/Infantile Spasms\|Infantile Spasms]] (West syndrome) are classic. [[Neurology/Focal seizures\|Focal seizures]] later.
     * **Pathology:** Cortical Tubers, Subependymal Nodules (SEN).
-    * **SEGA (Subependymal Giant Cell Astrocytoma):** Can cause obstructive hydrocephalus.
+    * **SEGA (Subependymal Giant Cell Astrocytoma):** Can cause obstructive [[Neurology/Hydrocephalus\|hydrocephalus]].
 * **Systemic:**
     * **Cardiac:** Rhabdomyomas (often regress spontaneously).
     * **Renal:** Angiomyolipomas (bleed risk).
     * **Pulmonary:** Lymphangioleiomyomatosis (LAM) in adult females.
 
 **3. Management**
-* **Seizures:** Vigabatrin (Drug of choice for Infantile Spasms in TSC).
+* **Seizures:** Vigabatrin (Drug of choice for [[Neurology/Infantile Spasms\|Infantile Spasms]] in TSC).
 * **mTOR Inhibitors:** Everolimus/Sirolimus for SEGA and large renal AMLs.
 
 ### III. Sturge-Weber Syndrome (Encephalotrigeminal Angiomatosis)
@@ -101,8 +101,8 @@ A combined neurocutaneous and immunodeficiency disorder.
 
 | Syndrome | Genetics | Key Features |
 | :--- | :--- | :--- |
-| **Von Hippel-Lindau (VHL)** | *VHL* (3p25), AD | • Hemangioblastomas (Cerebellum/Retina)<br>• Renal Cell Carcinoma<br>• Pheochromocytoma |
-| **Incontinentia Pigmenti** | *NEMO* (Xq28), X-linked Dom | • Lethal in males.<br>• **4 Stages:** Vesicular $\rightarrow$ Verrucous $\rightarrow$ Hyperpigmented (Marble cake swirls) $\rightarrow$ Atrophic.<br>• Seizures, microcephaly. |
+| **Von Hippel-Lindau (VHL)** | *VHL* (3p25), AD | • Hemangioblastomas (Cerebellum/Retina)<br>• Renal Cell Carcinoma<br>• [[Endocrinology/Pheochromocytoma\|Pheochromocytoma]] |
+| **Incontinentia Pigmenti** | *NEMO* (Xq28), X-linked Dom | • Lethal in males.<br>• **4 Stages:** Vesicular $\rightarrow$ Verrucous $\rightarrow$ Hyperpigmented (Marble cake swirls) $\rightarrow$ Atrophic.<br>• Seizures, [[Neurology/Microcephaly\|microcephaly]]. |
 | **Hypomelanosis of Ito** | Chromosomal Mosaicism | • "Incontinentia Pigmenti Achromians"<br>• Hypopigmented streaks along **Lines of Blaschko**.<br>• ID, Seizures in 50%. |
 | **Linear Sebaceous Nevus** | Somatic Mosaicism | • Yellow/orange alopecia plaque on scalp.<br>• Associated with hemimegalencephaly/seizures. |
 

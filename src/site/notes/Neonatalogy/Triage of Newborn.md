@@ -113,7 +113,7 @@ Once triaged and decision to admit is made, stabilize using the STABLE framework
 3.  **A - Airway:** Position head, clear secretions, support breathing (O2/CPAP).
 4.  **B - Blood Pressure (Perfusion):** Check CFT. Give NS bolus if shock is present.
 5.  **L - Lab work:** Septic screen, Glucose, Calcium, Bilirubin.
-6.  **E - Emotional Support:** Inform parents about the condition and admission plan.
+6.  **E - Emotional Support:** Inform parents [[About\|about]] the condition and admission plan.
 
 ## 6. INFECTION CONTROL DURING TRIAGE
 * **Hand Hygiene:** Essential before touching the baby.

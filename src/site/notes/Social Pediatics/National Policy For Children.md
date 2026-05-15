@@ -3,7 +3,7 @@
 ---
 
 ## Introduction
-The National Policy for Children (NPC) 2013 was adopted by the Government of India to reaffirm its commitment to a rights-based approach for the survival, development, and protection of all children. It replaced the earlier policy of 1974, shifting the paradigm from a "welfare-based" approach to a "rights-based" framework, recognizing children as independent entities with distinct rights.
+The [[Social Pediatics/National Policy For Children\|National Policy for Children]] (NPC) 2013 was adopted by the Government of India to reaffirm its commitment to a rights-based approach for the survival, development, and protection of all children. It replaced the earlier policy of 1974, shifting the paradigm from a "welfare-based" approach to a "rights-based" framework, recognizing children as independent entities with distinct rights.
 
 ## Definition Of A Child
 According to the NPC 2013, a child is defined as any person below the age of 18 years. This definition aligns with the United Nations Convention on the Rights of the Child (UNCRC), to which India is a signatory.
@@ -14,7 +14,7 @@ The policy identifies four key priority areas for focused interventions:
 ### 1. Survival, Health, And Nutrition
 * **Maternal and Neonatal Care:** Ensures equitable access to quality pre-natal, intra-natal, and post-natal care.
 * **Reduction of Mortality:** Aims to reduce Neonatal Mortality Rate (NMR), Infant Mortality Rate (IMR), and Under-5 Mortality Rate (U5MR).
-* **Nutrition:** Focuses on addressing stunting, wasting, and micronutrient deficiencies (Anemia, Vitamin A, and Iodine) through the first 1000 days of life.
+* **Nutrition:** Focuses on addressing stunting, wasting, and micronutrient deficiencies (Anemia, [[Nutrition/Vitamin A\|Vitamin A]], and Iodine) through the first 1000 days of life.
 * **Immunization:** Guarantees universal access to all vaccines under the National Immunization Schedule.
 * **Safe Water and Sanitation:** Recognizes clean drinking water and a sanitation-secure environment as essential for pediatric health (WASH).
 
@@ -49,6 +49,6 @@ The policy identifies four key priority areas for focused interventions:
 
 ## Significance For Pediatricians
 The NPC 2013 provides the legal and policy mandate for many clinical and public health initiatives pediatricians manage, including:
-* **Rashtriya Bal Swasthya Karyakram (RBSK):** For the "4Ds" screening and early intervention.
+* **[[Social Pediatics/Rashtriya Bal Swasthya Karyakram (RBSK)\|Rashtriya Bal Swasthya Karyakram (RBSK)]]:** For the "4Ds" screening and early intervention.
 * **Anemia Mukt Bharat:** Addressing the nutritional mandates of the policy.
 * **POSHAN Abhiyaan:** Implementing the survival and nutrition priority area.

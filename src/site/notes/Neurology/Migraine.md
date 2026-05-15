@@ -78,7 +78,7 @@
 
 - can occur in 10.6% of 5-15 yr old children
 
-## migraine without aura
+## [[Neurology/Migraine\|migraine]] without aura
 - recurrent and episodic
 - usual duration 4-72 hrs
 - young children can have much shorter duration (2-72 hrs)
@@ -87,12 +87,12 @@
 - worsening while doing daily activities like walking upstairs or downstairs
 - overlap of abdominal symptoms
   - recurrent vomiting
-  - recurrent abdominal pain
+  - [[Gastrointestinal/Recurrent Abdominal Pain\|recurrent abdominal pain]]
   - early morning vomiting
-- babies with high colicky pain can often end up in migraine
+- babies with high colicky pain can often end up in [[Neurology/Migraine\|migraine]]
 - vomiting + ----> think of raised intracranial pressures
   - vomiting improves after starting daily activities - intracranial pressure
-  - vomiting worsens after starting routine activities - migraine
+  - vomiting worsens after starting routine activities - [[Neurology/Migraine\|migraine]]
 
 - 90% have familial preponderance
 - additional triggers
@@ -102,7 +102,7 @@
   - weather changes
   - pattern association (Monday mornings, before schools, menses)
 
-## migraine with aura
+## [[Neurology/Migraine\|migraine]] with aura
 - most common aura - photopsia
   - flashes of light
   - multicolored
@@ -119,7 +119,7 @@
 > - lower cranial nerve symptoms
 > - distortion (alice in wonderland syndrome)
 
-#### hemiplegic migraine
+#### hemiplegic [[Neurology/Migraine\|migraine]]
 - transient unilateral weakness lasting for hours to days
 - familial and sporadic forms
 - mutations in CACNA1A, ATP1A2, SCN1A
@@ -131,24 +131,24 @@
   - CSF pleocytosis
   - cerebral edema
 
-## migraine with brainstem aura (basilar type migraine)
+## [[Neurology/Migraine\|migraine]] with brainstem aura (basilar type [[Neurology/Migraine\|migraine]])
 disorder of basilar artery
 can cause symptoms as described above
 pupils dialated and ptosis evident
 
 #### syndrome of transient headache and neurological deficit with CSF pleocytosis
-- migraine like headaches with neurological deficits
+- [[Neurology/Migraine\|migraine]] like headaches with neurological deficits
 - not reported in pediatric population
 
 #### childhood periodic syndromes
-- group of recurrent episodic events that frequently occur with migraine
+- group of recurrent episodic events that frequently occur with [[Neurology/Migraine\|migraine]]
 - events include
   - GI related symptoms
     - colic
     - motion sickness
-    - recurrent abdominal pain
+    - [[Gastrointestinal/Recurrent Abdominal Pain\|recurrent abdominal pain]]
     - recurrent vomiting
-    - abdominal migraine
+    - abdominal [[Neurology/Migraine\|migraine]]
   - sleep disorders
     - sleep walking
     - sleep talking
@@ -159,8 +159,8 @@ pupils dialated and ptosis evident
 - must be differentiated from other causes
 - diagnosis of exclusion
 
-#### abdominal migraine
-- migraine without headache
+#### abdominal [[Neurology/Migraine\|migraine]]
+- [[Neurology/Migraine\|migraine]] without headache
 - mid-abdominal pain with free pian between attacks
 - 1-72 hrs
 - must be associated with anorexia, nausea, vomiting, pallor
@@ -173,15 +173,15 @@ pupils dialated and ptosis evident
    - severity
    - use of medicines
    - disability
-- Family history is very important almost all cases of migraine has family history
+- Family history is very important almost all cases of [[Neurology/Migraine\|migraine]] has family history
 - History of potential comorbid conditions
 - drug use
-- some patient with chronic migraine might have increased cranial pressure without papilledema in which CSF drain can relieve pain
-- <ins>CADASIL</ins> (cerebral autosomal dominant arteriopathy with subcortical infracts and leukopathy), moya moya disease, <ins>SMART</ins> (stoke like migraine attacks after radiation therapy) can initially present with migraine
+- some patient with chronic [[Neurology/Migraine\|migraine]] might have increased cranial pressure without papilledema in which CSF drain can relieve pain
+- <ins>CADASIL</ins> (cerebral autosomal dominant arteriopathy with subcortical infracts and leukopathy), moya moya disease, <ins>SMART</ins> (stoke like [[Neurology/Migraine\|migraine]] attacks after radiation therapy) can initially present with [[Neurology/Migraine\|migraine]]
 - indications for neuroimaging
   - neurological imaging abnormal
-  - migraine on awakening
-  - migraine causing waking from sleep
+  - [[Neurology/Migraine\|migraine]] on awakening
+  - [[Neurology/Migraine\|migraine]] causing waking from sleep
   - negative family history
 - imaging indication of choice - ==MRI==
 - in case of acute headache - Do CR to look for blood ---> if negative do  CSF to rule out xanthochromia
@@ -213,7 +213,7 @@ NSAIDS
   - Can use a maximum of 2-3 times per week to prevent transformation into medication overuse headache
 
 Triptans
-- if migraine is severe then use triptans
+- if [[Neurology/Migraine\|migraine]] is severe then use triptans
 - 3 triptans approved by the FDA
     - Almotriptan for children aged 12 to 17 yrs
     - Rizatriptan for children as young as 6 yrs
@@ -229,18 +229,18 @@ Antiemetics with dopaminergic activity can have the best efficacy. (prochlorpera
 
 in case of status migrainosus, ergots can be tried
 
-#### emergency room management of migraine
+#### emergency room management of [[Neurology/Migraine\|migraine]]
 ##### Antidopaminergic drugs (prochlorperazine, metoclopramide)
-- not only control nausea vomiting associated with migraine, but can abort migraine itself
+- not only control nausea vomiting associated with [[Neurology/Migraine\|migraine]], but can abort [[Neurology/Migraine\|migraine]] itself
 - metoclopramide (0.13-0.15 mg/kg/day) max dose of 10mg given IV over 15 mins
 - extrapyramidal side-effects can be treated with diphenhydramine
 
 #####  NSAIDS - ketorolac
-- prevent aseptic inflammation associated with migraine when used alone of with prochlorperazine
+- prevent aseptic inflammation associated with [[Neurology/Migraine\|migraine]] when used alone of with prochlorperazine
 
 ##### Antiepileptics - valporate
 - mechanism is not understood
-- 15-20 mg/kg IV bolus followed by 15-20 mg/kg/day oral can abort migraine
+- 15-20 mg/kg IV bolus followed by 15-20 mg/kg/day oral can abort [[Neurology/Migraine\|migraine]]
 
 ##### triptans 
 - sublingual sumatriptan can be given
@@ -280,12 +280,12 @@ used in children who suffer from  frequent ( more than 1 headaches per week) or 
 
 ##### β blockers
 - propranolol
-- CI in asthma or allergic reaction
-- most effective in basilar type of migraine  
+- CI in [[Respiratory/Asthma\|asthma]] or allergic reaction
+- most effective in basilar type of [[Neurology/Migraine\|migraine]]  
 
 cyproheptadine 0.1-0.2 mg/kg orally twice a day. riboflavin 25-400 mg, CoQ 1-2 mg/kg/day, butterbur are other modalities that can be tried
 
-Onabotulinismtoxin A is first FDA approved drug for chronic migraine in adults. 
+Onabotulinismtoxin A is first FDA approved drug for chronic [[Neurology/Migraine\|migraine]] in adults. 
 
 Eptinezumab, erunumab, galcanezumab, fremanezumab are some monoclonal antibiotics against the calcitonin gene related peptide.
 
@@ -297,7 +297,7 @@ Eptinezumab, erunumab, galcanezumab, fremanezumab are some monoclonal antibiotic
  - biofeedback associated relaxation and cognitive behavioral therapy are effective
 
 #### transition from pediatric to adult health care provider
-OCPs can prevent menstural migraine. but OCPs is not approved for treatment of menstrual migraine. 
+OCPs can prevent menstural [[Neurology/Migraine\|migraine]]. but OCPs is not approved for treatment of menstrual [[Neurology/Migraine\|migraine]]. 
 
 
 

@@ -4,7 +4,7 @@
 
 ## Disease Burden And Rationale
 
-- Enteric fever caused by _Salmonella Typhi_ heavily impacts low-income and middle-income nations.
+- [[Infectious Diseases/Enteric Fever\|Enteric fever]] caused by _Salmonella Typhi_ heavily impacts low-income and middle-income nations.
 - Children under 15 years carry highest disease burden.
 - Rising extensively drug-resistant strains necessitate effective prevention.
 - Immunization reduces transmission, severe complications, and hospitalization.
@@ -34,11 +34,11 @@
 
 ### Mechanism And Advantages
 
-- Links Vi-polysaccharide to carrier proteins like Tetanus Toxoid, Diphtheria Toxoid, or CRM197.
+- Links Vi-polysaccharide to carrier proteins like [[Misc/Tetanus Toxoid\|Tetanus Toxoid]], [[Misc/Diphtheria Toxoid\|Diphtheria Toxoid]], or CRM197.
 - Transforms T-independent polysaccharide into T-dependent antigen.
 - Triggers T-cell dependent humoral responses.
 - Generates strong anamnestic response and immune memory.
-- Induces herd immunity.
+- Induces [[Misc/Herd Immunity\|herd immunity]].
 
 ### Administration And Efficacy
 
@@ -48,9 +48,9 @@
 
 ### Formulations Available
 
-- Typbar-TCV utilizes Tetanus Toxoid carrier.
+- Typbar-TCV utilizes [[Misc/Tetanus Toxoid\|Tetanus Toxoid]] carrier.
 - Typhibev incorporates CRM197 carrier.
-- Zyvac TCV employs Tetanus Toxoid carrier.
+- Zyvac TCV employs [[Misc/Tetanus Toxoid\|Tetanus Toxoid]] carrier.
 
 ## Live Attenuated Oral Vaccine (Ty21a)
 
@@ -78,7 +78,7 @@
 
 ## Future Innovations
 
-### Bivalent Conjugate Vaccines
+### Bivalent [[Misc/Conjugate Vaccines\|Conjugate Vaccines]]
 
 - Designed to concurrently target _Salmonella Typhi_ and _Salmonella Paratyphi A_.
 - Integrates Vi-conjugate with O:2 specific polysaccharide conjugate.

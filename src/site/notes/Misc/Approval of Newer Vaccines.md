@@ -12,7 +12,7 @@
 | PVPI (Pharmacovigilance Program of India)                 | Review safety data.                                                                                                                     |
 | NTAGI (National Technical Advisory Group on Immunization) | Reviews disease burden, efficacy, and cost-effectiveness. Recommends new vaccine introduction to Ministry Of Health And Family Welfare. |
 | ITSU (Immunization technical Support Unit)                | Supports advisory group technical functions.                                                                                            |
-| AEFI Surveillance System                                  | Monitors safety signals after market introduction.                                                                                      |
+| [[Misc/AEFI\|AEFI]] Surveillance System                                  | Monitors safety signals after market introduction.                                                                                      |
 
 - India lacks vaccine-specific national regulatory authority for licensing, post marketing surveillance, GMP inspection, and clinical trial approval.
 
@@ -28,19 +28,19 @@
 
 ## Recently Approved Newer Vaccines
 
-### Pneumococcal And Typhoid Conjugate Vaccines
+### Pneumococcal And Typhoid [[Misc/Conjugate Vaccines\|Conjugate Vaccines]]
 
 - Drugs Controller General Of India approved ten-valent pneumococcal conjugate vaccine (Pneumosil) by Serum Institute Of India for active immunization against invasive disease and pneumonia in infants from six weeks.
 - Pneumosil contains capsular polysaccharides of ten serotypes conjugated to cross-reactive material.
 - Subject Expert Committee recommended fourteen-valent vaccine (Biological E) demonstrating noninferiority to thirteen-valent vaccine.
-- Twenty-valent pneumococcal vaccine licensed since June 2023 for adults over eighteen years.
-- Thirteen-valent vaccine conjugated to tetanus toxoid (Pneumoguard) licensed for primary series at six, ten, and fourteen weeks.
+- Twenty-valent [[Misc/Pneumococcal Vaccine\|pneumococcal vaccine]] licensed since June 2023 for adults over eighteen years.
+- Thirteen-valent vaccine conjugated to [[Misc/Tetanus Toxoid\|tetanus toxoid]] (Pneumoguard) licensed for primary series at six, ten, and fourteen weeks.
 - Typbar-TCV licensed in 2013 for children aged six months and older, demonstrating eighty-one percent efficacy at one year.
 - Zyvac-TCV and Typhibev received marketing authorizations based on noninferiority trials.
 
 ### Viral Vaccines
 
-- Cervavac granted market authorization as quadrivalent HPV vaccine containing viral proteins of serotypes six, eleven, sixteen, and eighteen.
+- Cervavac granted market authorization as quadrivalent [[Misc/HPV Vaccine\|HPV vaccine]] containing viral proteins of serotypes six, eleven, sixteen, and eighteen.
 - Cervavac developed by recombinant DNA technology producing noninfectious virus-like particles.
 - Covaxin approved for children aged six to twelve years as whole virion inactivated vaccine.
 - Corbevax approved for children aged five to twelve years.
@@ -54,16 +54,16 @@
 
 - Pentavalent meningococcal conjugate vaccine (MenFive) licensed in 2023 for individuals between eighteen and eighty-five years.
 - MenFive targets serogroups A, C, W, Y, and X.
-- Quadrivalent meningococcal conjugate vaccines Menactra and Menveo licensed earlier.
+- Quadrivalent meningococcal [[Misc/Conjugate Vaccines\|conjugate vaccines]] Menactra and Menveo licensed earlier.
 
 ## Vaccines In Pipeline And Future Prospects
 
 ### Vector-Borne Disease Vaccines
 
-- Dengvaxia not licensed in India due to requirement of additional safety data and observed increased risk of severe dengue in seronegative individuals.
+- Dengvaxia not licensed in India due to requirement of additional safety data and observed increased risk of severe [[Infectious Diseases/Dengue\|dengue]] in seronegative individuals.
 - Qdenga phase three trial data pending in India.
-- WHO approved RTS,S/AS01 and R21/Matrix-M malaria vaccines globally.
-- Indian introduction of malaria vaccines awaiting further evaluation in highly endemic tribal and hilly areas.
+- WHO approved RTS,S/AS01 and R21/Matrix-M [[Infectious Diseases/Malaria\|malaria]] vaccines globally.
+- Indian introduction of [[Infectious Diseases/Malaria\|malaria]] vaccines awaiting further evaluation in highly endemic tribal and hilly areas.
 
 ### Bacterial Enteric And Tuberculosis Vaccines
 

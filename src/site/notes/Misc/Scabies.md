@@ -25,17 +25,17 @@
 
 |Clinical Variant|Diagnostic Morphology|Typical Anatomical Distribution|Target Pediatric Population|
 |:--|:--|:--|:--|
-|Infantile Scabies|Bullae, pustules, wheals, and diffuse eczematous eruption masking classical burrows.|Face, scalp, neck, palms, and soles consistently affected.|Infants and toddlers.|
-|Nodular Scabies|Pruritic, red-brown or violaceous firm nodules representing pronounced hypersensitivity reaction.|Covered areas including axillae, groin, and male genitalia.|Children and sexually active adolescents.|
+|Infantile [[Misc/Scabies\|Scabies]]|Bullae, pustules, wheals, and diffuse eczematous eruption masking classical burrows.|Face, scalp, neck, palms, and soles consistently affected.|Infants and toddlers.|
+|Nodular [[Misc/Scabies\|Scabies]]|Pruritic, red-brown or violaceous firm nodules representing pronounced hypersensitivity reaction.|Covered areas including axillae, groin, and male genitalia.|Children and sexually active adolescents.|
 |Crusted (Norwegian)|Massive hyperinfestation featuring psoriasiform hyperkeratotic plaques, thick crusts, and dystrophic nails.|Scalp, face, neck, hands, feet, with dense subungual mite populations.|Immunocompromised, Down syndrome, institutionalized patients.|
-|Canine Scabies|Tiny papules, vesicles, wheals lacking classic burrows due to host incompatibility.|Arms, chest, abdomen representing direct contact points with infested animal.|Pet owners exposed to _Sarcoptes scabiei var canis_.|
+|Canine [[Misc/Scabies\|Scabies]]|Tiny papules, vesicles, wheals lacking classic burrows due to host incompatibility.|Arms, chest, abdomen representing direct contact points with infested animal.|Pet owners exposed to _Sarcoptes scabiei var canis_.|
 
 ## Complications And Differential Diagnosis
 
 - Severe excoriations precipitate secondary pyodermas including impetigo, ecthyma, folliculitis, and cellulitis.
 - Streptococcal superinfection potentially triggers acute poststreptococcal glomerulonephritis.
 - Massive infestation in crusted variants causes significant peripheral eosinophilia and generalized lymphadenopathy.
-- Histopathology of nodular scabies mimics malignant lymphoid neoplasms, demonstrating deep perivascular infiltrate containing atypical mononuclear cells, histiocytes, and plasma cells.
+- Histopathology of nodular [[Misc/Scabies\|scabies]] mimics malignant lymphoid neoplasms, demonstrating deep perivascular infiltrate containing atypical mononuclear cells, histiocytes, and plasma cells.
 - Diagnostic confirmation requires microscopic visualization of mites, ova, or scybala from targeted epidermal scrapings.
 
 ## Therapeutic Management Protocol

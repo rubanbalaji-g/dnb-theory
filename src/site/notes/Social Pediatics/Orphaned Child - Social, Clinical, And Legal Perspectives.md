@@ -19,23 +19,23 @@ The absence of a primary caregiver leads to the **Syndrome of Deprivation**, cha
 
 ### 1. Growth And Nutrition
 *   **Malnutrition:** High prevalence of stunting, wasting, and micronutrient deficiencies (Anemia, Vitamin D, and Zinc).
-*   **Growth Failure:** Psychosocial dwarfism, often resolving rapidly once placed in a nurturing family environment.
+*   **Growth Failure:** Psychosocial [[Endocrinology/Dwarfism\|dwarfism]], often resolving rapidly once placed in a nurturing family environment.
 
 ### 2. Infectious Diseases
 *   Uncertain immunization status.
-*   Increased risk of Tuberculosis (TB), Hepatitis B, Hepatitis C, and HIV, especially in children coming from high-risk backgrounds or institutional care.
-*   Chronic parasitic infestations and skin infections (scabies, pediculosis).
+*   Increased risk of Tuberculosis (TB), [[Gastrointestinal/Hepatitis B\|Hepatitis B]], [[Gastrointestinal/Hepatitis C\|Hepatitis C]], and HIV, especially in children coming from high-risk backgrounds or institutional care.
+*   Chronic parasitic infestations and skin infections ([[Misc/Scabies\|scabies]], [[Misc/Pediculosis\|pediculosis]]).
 
 ### 3. Developmental And Psychological Features
 *   **Developmental Delay:** Significant global delays, particularly in expressive language and fine motor skills.
 *   **Reactive Attachment Disorder (RAD):** Inhibited, emotionally withdrawn behavior toward adult caregivers.
 *   **Disinhibited Social Engagement Disorder (DSED):** Excessive familiarity with relative strangers.
-*   **Behavioral Issues:** ADHD, aggression, night terrors, and eating disorders (pica or hoarding).
+*   **Behavioral Issues:** [[Development/ADHD\|ADHD]], aggression, night terrors, and [[Development/Eating Disorders\|eating disorders]] ([[Development/Pica\|pica]] or hoarding).
 
 ## The Pediatric Assessment And Evaluation
 
 ### 1. Clinical Evaluation
-*   Detailed anthropometry (plotted on WHO growth charts).
+*   Detailed anthropometry (plotted on WHO [[Development/Growth Charts\|growth charts]]).
 *   Thorough physical examination for signs of abuse or neglect (scars, healed fractures).
 *   Comprehensive developmental screening using standardized tools (e.g., PEDS, ASQ).
 
@@ -66,6 +66,6 @@ The absence of a primary caregiver leads to the **Syndrome of Deprivation**, cha
 *   **Monitoring Catch-up Growth:** Regular follow-up post-placement to monitor developmental gains.
 
 ## Social Schemes For Orphans In India
-*   **PM CARES for Children:** Specifically launched for children orphaned during the COVID-19 pandemic, providing monthly stipends and a corpus at age 23.
+*   **PM CARES for Children:** Specifically launched for children orphaned during the [[Infectious Diseases/COVID-19\|COVID-19]] pandemic, providing monthly stipends and a corpus at age 23.
 *   **Vatsalya Scheme:** Integrated child protection scheme providing grants for institutional and non-institutional care.
 *   **Ayushman Bharat (PM-JAY):** Free health insurance coverage for children in CCIs and orphans.

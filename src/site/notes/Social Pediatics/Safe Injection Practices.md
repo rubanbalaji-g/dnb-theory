@@ -39,7 +39,7 @@
 ## Pediatric-Specific Considerations
 - Use shortest possible needle (25–27G for IM in infants); vastus lateralis preferred site <12 months
 - Distraction techniques, sucrose analgesia, proper positioning to reduce pain
-- Vaccine-specific: Cold chain maintenance + AD syringes for all UIP antigens
+- Vaccine-specific: [[Misc/Cold Chain\|Cold chain]] maintenance + AD syringes for all UIP antigens
 - Integration with RBSK (DEIC injections), SNCU/pediatric wards, school health
 - AB PM-JAY/ABDM linkage: Record every injection in digital health record for traceability
 

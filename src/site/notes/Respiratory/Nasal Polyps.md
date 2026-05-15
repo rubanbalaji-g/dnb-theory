@@ -6,7 +6,7 @@
 * **Definition:** Non-neoplastic, pedunculated, edematous hypertrophy of the nasal or sinus mucosa.
 * **Characteristics:** Typically pale, pearly white, glistening, **insensate** (pain-free on probing), and **non-tender**.
 * **Pediatric Rule:** While common in adults, polyps are **rare** in children <10 years.
-    * *Red Flag:* The presence of bilateral ethmoidal polyps in a child necessitates a work-up for **Cystic Fibrosis**.
+    * *Red Flag:* The presence of bilateral ethmoidal polyps in a child necessitates a work-up for **[[Respiratory/Cystic Fibrosis\|Cystic Fibrosis]]**.
 
 ## II. Classification
 Broadly classified into two types based on origin and presentation.
@@ -17,16 +17,16 @@ Broadly classified into two types based on origin and presentation.
 | **Laterality** | **Unilateral** | **Bilateral** |
 | **Number** | Solitary | Multiple ("Bunch of grapes") |
 | **Age Group** | **Children & Adolescents** | Adults (Rare in children) |
-| **Etiology** | Infection / Sinus blockage | Allergy, Cystic Fibrosis, Asthma |
+| **Etiology** | Infection / Sinus blockage | Allergy, [[Respiratory/Cystic Fibrosis\|Cystic Fibrosis]], [[Respiratory/Asthma\|Asthma]] |
 | **Shape** | Trilobed (Antral, Nasal, Choanal) | Small, multiple masses |
 | **Recurrence** | Uncommon after complete removal | Common |
 
 ## III. Etiology and Associations
 1.  **Infection (Main cause of ACP):** Chronic maxillary sinusitis leads to venous stasis and edema at the ostium.
-2.  **Cystic Fibrosis (CF):** Most common cause of *bilateral* polyps in children.
+2.  **[[Respiratory/Cystic Fibrosis\|Cystic Fibrosis]] (CF):** Most common cause of *bilateral* polyps in children.
 3.  **Allergic Fungal Rhinosinusitis (AFRS):** Common in adolescents; characterized by thick "peanut-butter" mucin and fungal debris.
-4.  **Primary Ciliary Dyskinesia (Kartagener's):** Due to poor mucociliary clearance.
-5.  **Samter’s Triad:** Aspirin sensitivity + Bronchial Asthma + Nasal Polyps (Rare in children, more common in adults).
+4.  **[[Respiratory/Primary Ciliary Dyskinesia\|Primary Ciliary Dyskinesia]] (Kartagener's):** Due to poor mucociliary clearance.
+5.  **Samter’s Triad:** Aspirin sensitivity + Bronchial [[Respiratory/Asthma\|Asthma]] + [[Respiratory/Nasal Polyps\|Nasal Polyps]] (Rare in children, more common in adults).
 
 ## IV. Clinical Features
 1.  **Nasal Obstruction:**
@@ -53,7 +53,7 @@ Broadly classified into two types based on origin and presentation.
 Before biopsy/surgery in a child, rule out:
 1.  **Meningocele/Encephalocele:** Pulsatile, cough impulse (+), reducible. *Do not biopsy!*
 2.  **Juvenile Nasopharyngeal Angiofibroma (JNA):** Adolescent male, bleeds profusely on touch.
-3.  **Rhabdomyosarcoma:** Rapidly growing, destructive.
+3.  **[[Hematology/Rhabdomyosarcoma\|Rhabdomyosarcoma]]:** Rapidly growing, destructive.
 
 ## VII. Management
 

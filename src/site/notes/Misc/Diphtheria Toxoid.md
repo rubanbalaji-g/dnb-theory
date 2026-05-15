@@ -24,7 +24,7 @@
 - Standard pediatric vaccines (DTwP, DTaP, DT) contain 20-30 limit of flocculation (Lf) units.
 - Standard dose DT shows more immunogenicity and less reactogenicity than conventional DTP.
 - Reactogenicity increases significantly with advancing age.
-- Reduced antigen formulations (Td, Tdap) contain smaller amounts (2 Lf units) of diphtheria toxoid.
+- Reduced antigen formulations (Td, Tdap) contain smaller amounts (2 Lf units) of [[Misc/Diphtheria Toxoid\|diphtheria toxoid]].
 - Reduced formulations exclusively utilized beyond 7 years of age.
 - Available in multivalent combinations including Pentavalent and Hexavalent preparations.
 

@@ -25,12 +25,12 @@
 
 |Vaccine Type|Heat/Light Sensitivity|Freeze Sensitivity|Storage Temperature|
 |:--|:--|:--|:--|
-|BCG (freeze-dried)|Sensitive to light|Not damaged by freezing|+2°C to +8°C|
+|[[Misc/BCG\|BCG]] (freeze-dried)|Sensitive to light|Not damaged by freezing|+2°C to +8°C|
 |OPV|Heat sensitive|Not damaged by freezing|+2°C to +8°C|
 |Measles, MR, MMR|Sensitive to heat and light|Not damaged by freezing|+2°C to +8°C|
 |DPT, DT, Td, Hep B|Relatively heat-stable|Damaged by freezing|+2°C to +8°C|
 
-## Cold Chain Equipment
+## [[Misc/Cold Chain\|Cold Chain]] Equipment
 
 ### Electrical Equipment
 
@@ -56,9 +56,9 @@
 ## Ice-Lined Refrigerator Storage Arrangement
 
 - Bottom compartment is coldest part.
-- Store heat-sensitive vaccines at bottom: Measles, MR, MMR, BCG, OPV, Yellow fever, live JE, Varicella, Rotavirus.
+- Store heat-sensitive vaccines at bottom: Measles, MR, MMR, [[Misc/BCG\|BCG]], OPV, Yellow fever, live JE, Varicella, Rotavirus.
 - Middle and upper compartments store freeze-sensitive vaccines.
-- Store heat-resistant vaccines at top: Pertussis-containing combination vaccines, inactivated hepatitis A, TCV, PCV, HPV, Rabies.
+- Store heat-resistant vaccines at top: Pertussis-containing combination vaccines, inactivated [[Gastrointestinal/Hepatitis A\|hepatitis A]], TCV, PCV, HPV, Rabies.
 
 ## Temperature Monitoring Tools
 

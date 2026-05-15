@@ -4,13 +4,13 @@
 
 ## Introduction
 - Flagship public health intervention under National Health Mission (NHM), Child Health Division, Ministry of Health & Family Welfare (MoHFW), Government of India
-- Launched in 1970s; revised & strengthened as part of RMNCH+A strategy to combat Vitamin A deficiency (VAD)
+- Launched in 1970s; revised & strengthened as part of RMNCH+A strategy to combat [[Nutrition/Vitamin A\|Vitamin A]] deficiency (VAD)
 - VAD is major preventable cause of childhood blindness, increased morbidity & mortality from measles & diarrhea
-- Provides prophylactic mega-dose oral Vitamin A to prevent subclinical & clinical deficiency in under-5 children
+- Provides prophylactic mega-dose oral [[Nutrition/Vitamin A\|Vitamin A]] to prevent subclinical & clinical deficiency in under-5 children
 - Universal coverage approach – no screening required; biannual fixed-day strategy
 
 ## Objectives
-- Prevent & control Vitamin A deficiency disorders (night blindness, Bitot’s spots, corneal xerosis/ulceration, keratomalacia)
+- Prevent & control [[Nutrition/Vitamin A\|Vitamin A]] deficiency disorders (night blindness, Bitot’s spots, corneal xerosis/ulceration, keratomalacia)
 - Reduce under-5 mortality & morbidity (especially measles case-fatality, diarrhea severity)
 - Improve child survival, growth & immunity
 - Achieve >90% coverage of 9 doses in 9–59 months age group
@@ -35,9 +35,9 @@
   - Village Health Sanitation & Nutrition Days (VHSND)
   - Anganwadi Centers (ICDS)
   - ASHA home visits & MCP card tracking
-  - Special biannual Vitamin A supplementation rounds (2 fixed days per year)
+  - Special biannual [[Nutrition/Vitamin A\|Vitamin A]] supplementation rounds (2 fixed days per year)
 - **Service Providers**: ANM, ASHA, AWW – trained on administration, contraindications & recording
-- **Supply Chain**: Vitamin A syrup supplied free through NHM; cold-chain not required (stable at room temperature)
+- **Supply Chain**: [[Nutrition/Vitamin A\|Vitamin A]] syrup supplied free through NHM; cold-chain not required (stable at room temperature)
 - **Contraindications**: None for prophylaxis; defer only in acute illness with vomiting or known hypervitaminosis
 - **Counseling**: Mothers advised on side-effects (transient vomiting, bulging fontanelle – rare), benefits & next due date
 
@@ -47,8 +47,8 @@
 - **MCP Card**: Recording of each dose with date & batch number
 - **POSHAN Abhiyaan & Anemia Mukt Bharat**: Synergistic with micronutrient supplementation
 - **IMNCI & HBNC**: VAD screening & supplementation in sick-child management
-- **Rashtriya Bal Swasthya Karyakram (RBSK)**: Referral of clinical VAD cases
-- **Facility-based care of SAM**: Therapeutic Vitamin A as per WHO protocol for severe acute malnutrition
+- **[[Social Pediatics/Rashtriya Bal Swasthya Karyakram (RBSK)\|Rashtriya Bal Swasthya Karyakram (RBSK)]]**: Referral of clinical VAD cases
+- **Facility-based care of SAM**: Therapeutic [[Nutrition/Vitamin A\|Vitamin A]] as per WHO protocol for severe acute malnutrition
 
 ## Monitoring & Evaluation
 - **Indicators**: Coverage of ≥2 doses in last 6 months (NFHS-5: ~71% national average)

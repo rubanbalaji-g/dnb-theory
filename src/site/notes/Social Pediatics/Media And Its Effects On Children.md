@@ -40,7 +40,7 @@ Media in the pediatric context includes traditional media (television, movies, r
 
 ### 4. Psychosocial And Mental Health
 * **Cyberbullying:** Increased risk of peer victimization, leading to depression, anxiety, and suicidal ideation.
-* **Body Image:** Social media platforms promote unrealistic beauty standards, contributing to body dissatisfaction and eating disorders (e.g., Anorexia, Bulimia).
+* **Body Image:** Social media platforms promote unrealistic beauty standards, contributing to body dissatisfaction and [[Development/Eating Disorders\|eating disorders]] (e.g., Anorexia, Bulimia).
 * **Privacy and Safety:** Risk of "Sexting," online predators, and exposure to age-inappropriate content (pornography, self-harm, substance abuse).
 
 ## Role Of The Pediatrician: Management Strategies

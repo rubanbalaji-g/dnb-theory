@@ -59,7 +59,7 @@
 
 - Distinguishing acute upper airway obstruction etiologies remains critical.
 
-|Feature|Acute Epiglottitis|Viral Croup|Bacterial Tracheitis|Retropharyngeal Abscess|
+|Feature|[[Respiratory/Acute Epiglottitis\|Acute Epiglottitis]]|[[Respiratory/Viral Croup\|Viral Croup]]|Bacterial Tracheitis|Retropharyngeal Abscess|
 |:--|:--|:--|:--|:--|
 |**Age**|3–14 Years|6 Months To 3 Years|6 Months To 14 Years|2–4 Years|
 |**Onset Speed**|Very Rapid (Hours)|Gradual|Rapid|Gradual|
@@ -136,7 +136,7 @@
 - Mortality falls below 1 Percent following successful airway securement.
 - Fatal outcomes stem directly from complete laryngeal obstruction.
 - Concomitant infections include pneumonia, cervical adenopathy, and otitis media.
-- Meningitis and septic arthritis rarely occur alongside _Haemophilus influenzae_ type b infections.
+- [[Neurology/Meningitis\|Meningitis]] and septic arthritis rarely occur alongside _Haemophilus influenzae_ type b infections.
 - Pulmonary edema may associate with acute airway obstruction.
 
 ## Prevention And Chemoprophylaxis

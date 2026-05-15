@@ -5,7 +5,7 @@
 ### 1. Introduction and Definition
 * **Definition:** A clinical syndrome characterized by the triad of **tremors, mental regression/developmental delay, and skin pigmentation** in a plump, anemic infant.
 * **Historical Context:** First described in India (Dikshit, 1957). Also known as "Pre-kwashiorkor" or "Nutritional Tremor Syndrome."
-* **Current Consensus:** It is primarily a manifestation of severe **Vitamin B12 deficiency**.
+* **Current Consensus:** It is primarily a manifestation of severe **[[Hematology/Vitamin B12 Deficiency\|Vitamin B12 deficiency]]**.
 
 ### 2. Epidemiology
 * **Geography:** Predominantly seen in the Indian subcontinent (India, Pakistan, Nepal) and Southeast Asia.
@@ -24,7 +24,7 @@
     * Magnesium deficiency.
     * Zinc deficiency.
     * Iron deficiency (co-existing).
-    * *Older theories of viral encephalitis are largely discarded.*
+    * *Older theories of [[Neurology/Viral Encephalitis\|viral encephalitis]] are largely discarded.*
 
 ### 4. Clinical Features
 The disease typically evolves in stages:
@@ -65,8 +65,8 @@ The disease typically evolves in stages:
 
 | Condition | Differentiating Features |
 | :--- | :--- |
-| **Viral Encephalitis** | Acute febrile onset, altered sensorium, CSF pleocytosis, no skin changes. |
-| **Cerebral Palsy** | History of birth asphyxia, spasticity (usually), non-progressive, no pigmentation. |
+| **[[Neurology/Viral Encephalitis\|Viral Encephalitis]]** | Acute febrile onset, altered sensorium, CSF pleocytosis, no skin changes. |
+| **[[Neurology/Cerebral Palsy\|Cerebral Palsy]]** | History of birth asphyxia, spasticity (usually), non-progressive, no pigmentation. |
 | **Degenerative Brain Disease** | Progressive loss of milestones, no anemia/pigmentation, MRI shows specific patterns (e.g., Leukodystrophy). |
 | **Kwashiorkor** | Edema is prominent, tremors are rare/absent, hepatomegaly with fatty liver (rare in ITS). |
 

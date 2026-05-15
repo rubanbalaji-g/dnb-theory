@@ -60,5 +60,5 @@ The Point of Care Quality Improvement (POCQI) framework is the standard adapted 
 	- Decreasing the incidence of admission hypothermia in Very Low Birth Weight (VLBW) infants using plastic wraps and strict thermal chain protocols.
 	- Reducing turnaround time for the first dose of antibiotics in neonatal sepsis.
 * General Pediatrics:
-	- Improving the compliance of providing written "Asthma Action Plans" at the time of discharge for children admitted with asthma exacerbations.
+	- Improving the compliance of providing written "[[Respiratory/Asthma\|Asthma]] Action Plans" at the time of discharge for children admitted with [[Respiratory/Asthma\|asthma]] exacerbations.
 	- Reducing medication prescription errors in the Pediatric Intensive Care Unit (PICU) by transitioning to computerized physician order entry (CPOE) and structured dosing protocols.

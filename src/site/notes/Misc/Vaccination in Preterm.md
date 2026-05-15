@@ -12,15 +12,15 @@
 
 ## Specific Vaccine Recommendations
 
-### Hepatitis B Vaccine Management For Infants Weighing <2000 Grams
+### [[Gastrointestinal/Hepatitis B\|Hepatitis B]] Vaccine Management For Infants Weighing <2000 Grams
 
 - Decreased immune response observed when vaccine administered before one month of chronological age.
 - Birth dose must not be counted as part of the primary series.
 
 |Maternal HBsAg Status|Action Plan|
 |---|---|
-|Positive|Give Hepatitis B immune globulin + Hepatitis B vaccine within 12 hours of birth. Do not count birth dose. Give three additional doses at 6, 10, and 14 weeks.|
-|Unknown|Give Hepatitis B immune globulin + Hepatitis B vaccine within 12 hours. Test mother for HBsAg. Do not count birth dose. Give three additional doses at 6, 10, and 14 weeks.|
+|Positive|Give [[Gastrointestinal/Hepatitis B\|Hepatitis B]] immune globulin + [[Gastrointestinal/Hepatitis B\|Hepatitis B]] vaccine within 12 hours of birth. Do not count birth dose. Give three additional doses at 6, 10, and 14 weeks.|
+|Unknown|Give [[Gastrointestinal/Hepatitis B\|Hepatitis B]] immune globulin + [[Gastrointestinal/Hepatitis B\|Hepatitis B]] vaccine within 12 hours. Test mother for HBsAg. Do not count birth dose. Give three additional doses at 6, 10, and 14 weeks.|
 |Negative|Give birth dose but do not count as part of primary series. Follow with standard primary doses. Alternatively, first dose may be postponed by one month.|
 
 ### Bacillus Calmette-Guerin Vaccine

@@ -3,19 +3,19 @@
 ---
 
 ## DEFINITION
-Neural Tube Defects (NTDs) are a group of congenital malformations resulting from the failure of the neural tube to close during the 3rd and 4th weeks of gestational age (days 21 to 28 post-conception).
+[[Neurology/Neural Tube Defects\|Neural Tube Defects]] (NTDs) are a group of congenital malformations resulting from the failure of the neural tube to close during the 3rd and 4th weeks of gestational age (days 21 to 28 post-conception).
 
 ## CLASSIFICATION (TYPES)
 NTDs are broadly classified based on the involvement of overlying skin and the site of the defect.
 
-### 1. Open Neural Tube Defects (ONTDs)
+### 1. Open [[Neurology/Neural Tube Defects\|Neural Tube Defects]] (ONTDs)
 The defect is not covered by skin; neural tissue is exposed.
 * **Anencephaly:** Failure of the anterior neuropore to close; absence of a major portion of the brain, skull, and scalp.
 * **Encephalocele:** Herniation of brain and meninges through a cranial defect (most common in the occipital region).
 * **Myelomeningocele:** Most common form; herniation of both spinal cord and meninges through a vertebral defect.
 * **Myeloschisis:** The most severe form of spina bifida where the spinal cord is exposed as a flattened mass of nervous tissue.
 
-### 2. Closed Neural Tube Defects (Slight/Occult)
+### 2. Closed [[Neurology/Neural Tube Defects\|Neural Tube Defects]] (Slight/Occult)
 The defect is covered by skin.
 * **Spina Bifida Occulta:** Failure of fusion of vertebral arches without protrusion of spinal cord or meninges. Often marked by a tuft of hair, nevus, or dimple.
 * **Meningocele:** Herniation of meninges only; spinal cord remains in the canal.
@@ -47,7 +47,7 @@ Prevention is primarily focused on peri-conceptional Folic Acid supplementation.
 ### 2. Secondary Prevention (Prenatal Screening)
 * **Maternal Serum Alpha-Fetoprotein (MSAFP):** Elevated in 80-90% of Open NTDs (performed at 15-20 weeks).
 * **Targeted Ultrasound:** "Lemon sign" (scalloping of frontal bones) and "Banana sign" (curved cerebellum) indicate Chiari II malformation associated with myelomeningocele.
-* **Amniocentesis:** Elevated Acetylcholinesterase in amniotic fluid is diagnostic of ONTD.
+* **[[Neonatalogy/Amniocentesis\|Amniocentesis]]:** Elevated Acetylcholinesterase in amniotic fluid is diagnostic of ONTD.
 
 ## MANAGEMENT
 Management is multidisciplinary, involving Neonatologists, Neurosurgeons, Urologists, and Physiotherapists.
@@ -55,12 +55,12 @@ Management is multidisciplinary, involving Neonatologists, Neurosurgeons, Urolog
 ### 1. Immediate Neonatal Care
 * **Positioning:** Prone or lateral position to avoid pressure on the sac.
 * **Moist Dressings:** Cover the defect with sterile, non-adherent saline-soaked gauze to prevent desiccation and infection.
-* **Antibiotics:** Broad-spectrum IV antibiotics to prevent meningitis.
+* **Antibiotics:** Broad-spectrum IV antibiotics to prevent [[Neurology/Meningitis\|meningitis]].
 
 ### 2. Surgical Management
 * **Primary Closure:** Definitive surgical repair of the defect within 24 to 48 hours of birth.
-* **Ventriculoperitoneal (VP) Shunt:** Required in 80-90% of cases due to associated Hydrocephalus or Chiari II malformation.
-* **Fetal Surgery:** In-utero repair (MOMS trial) reduces the need for shunting and improves motor outcomes but carries maternal risks.
+* **Ventriculoperitoneal (VP) Shunt:** Required in 80-90% of cases due to associated [[Neurology/Hydrocephalus\|Hydrocephalus]] or Chiari II malformation.
+* **[[Neonatalogy/Fetal Surgery\|Fetal Surgery]]:** In-utero repair (MOMS trial) reduces the need for shunting and improves motor outcomes but carries maternal risks.
 
 ### 3. Long-term Multidisciplinary Care
 * **Urological:** Intermittent catheterization (CIC) and Anticholinergics to manage neurogenic bladder and prevent renal scarring.

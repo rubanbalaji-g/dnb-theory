@@ -5,7 +5,7 @@
 ## Introduction
 
 - Targets Haemophilus influenzae type b, an aerobic, fastidious, pleomorphic gram-negative coccobacillus.
-- Prevents invasive infections including pneumonia, meningitis, bacteremia, cellulitis, osteomyelitis, septic arthritis, and epiglottitis.
+- Prevents invasive infections including pneumonia, [[Neurology/Meningitis\|meningitis]], bacteremia, cellulitis, osteomyelitis, septic arthritis, and epiglottitis.
 - Protects highly susceptible children under two years of age.
 
 ## Vaccine Characteristics
@@ -14,9 +14,9 @@
 - Chief antigen relies on capsular polysaccharide polyribosyl-ribitol-phosphate.
 - Polysaccharide conjugated to carrier protein converts it to a T-cell dependent antigen.
 - T-cell dependent response ensures robust immunity during early infancy.
-- Carrier proteins encompass tetanus toxoid, diphtheria toxoid, mutant diphtheria toxin CRM-197, and meningococcal outer membrane protein.
+- Carrier proteins encompass [[Misc/Tetanus Toxoid\|tetanus toxoid]], [[Misc/Diphtheria Toxoid\|diphtheria toxoid]], mutant [[Infectious Diseases/Diphtheria\|diphtheria]] toxin CRM-197, and meningococcal outer membrane protein.
 - Meningococcal outer membrane protein conjugate confers rapid protection following one or two initial doses.
-- Utilized widely as combination vaccines, particularly pentavalent formulations containing diphtheria, pertussis, tetanus, and hepatitis B.
+- Utilized widely as combination vaccines, particularly pentavalent formulations containing [[Infectious Diseases/Diphtheria\|diphtheria]], pertussis, tetanus, and [[Gastrointestinal/Hepatitis B\|hepatitis B]].
 - Hexavalent formulations further incorporate inactivated poliovirus vaccine.
 - Dose administration volume standardized at 0.5 milliliters.
 - Administered strictly via intramuscular route.
@@ -44,7 +44,7 @@
 
 - Recommended for older children possessing specific vulnerabilities.
 - Indicated for functional or anatomic asplenia.
-- Required for human immunodeficiency virus infection, sickle cell disease, chronic cardiac disease, and chronic pulmonary disease.
+- Required for human immunodeficiency virus infection, [[Hematology/Sickle Cell Disease\|sickle cell disease]], chronic cardiac disease, and chronic pulmonary disease.
 
 ## Efficacy And Protection
 
@@ -53,7 +53,7 @@
 - Short term serologic correlate of protection established at 0.15 micrograms per milliliter.
 - Long term serologic correlate of protection determined at 1.0 microgram per milliliter.
 - Diminishes nasopharyngeal carriage of organism.
-- Confers significant herd immunity to unimmunized susceptible children.
+- Confers significant [[Misc/Herd Immunity\|herd immunity]] to unimmunized susceptible children.
 
 ## Adverse Effects And Contraindications
 

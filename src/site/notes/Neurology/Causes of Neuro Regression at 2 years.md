@@ -8,7 +8,7 @@ Neuroregression is the loss of previously acquired developmental milestones.
 ### 2. Genetic and Neurocutaneous Syndromes (Top Differentials)
 * **Rett Syndrome (MECP2 mutation):**
     * *Classic Course:* Normal development until 6–18 months, followed by rapid regression.
-    * *Features:* Loss of purposeful hand skills, development of hand stereotypies (wringing/washing), loss of verbal skills, gait ataxia, and acquired microcephaly.
+    * *Features:* Loss of purposeful hand skills, development of hand stereotypies (wringing/washing), loss of verbal skills, gait ataxia, and acquired [[Neurology/Microcephaly\|microcephaly]].
 * **Neurofibromatosis Type 1 (NF1):** Can present with regression due to optic pathway gliomas or vascular (Moyamoya) changes, though less common as primary regression.
 * **Tuberous Sclerosis:** Regression due to intractable epilepsy (Infantile spasms/LGS) or SEGA.
 
@@ -34,39 +34,39 @@ Classified based on primary site of pathology:
 
 ### 4. Epileptic Encephalopathies
 * **Lennox-Gastaut Syndrome (LGS):** Evolution from West Syndrome or de novo. Multiple seizure types + cognitive regression.
-* **Landau-Kleffner Syndrome (Acquired Epileptic Aphasia):**
+* **[[Neurology/Landau-Kleffner Syndrome\|Landau-Kleffner Syndrome]] (Acquired Epileptic Aphasia):**
     * *Specific Regression:* Loss of language (verbal auditory agnosia) in a previously speaking child.
     * *Age:* Usually 3–7 years, but can start as early as 18–24 months.
 
-### 5. Pervasive Developmental Disorders
-* **Autism Spectrum Disorder (Regressive Type):**
-    * *Presentation:* ~30% of children with ASD show regression between **15 and 24 months**.
+### 5. [[Development/Pervasive Developmental Disorders\|Pervasive Developmental Disorders]]
+* **[[Development/Autism Spectrum Disorder\|Autism Spectrum Disorder]] (Regressive Type):**
+    * *Presentation:* ~30% of children with [[Cardiology/ASD\|ASD]] show regression between **15 and 24 months**.
     * *Features:* Loss of language ("words lost"), loss of social smile/eye contact, social withdrawal. Motor milestones are usually preserved.
 
 ### 6. Infectious and Post-Infectious
 * **HIV Encephalopathy:** Progressive loss of milestones, spastic diplegia, and failure to thrive.
-* **Subacute Sclerosing Panencephalitis (SSPE):** Usually school age, but can present rapidly in toddlers if primary measles infection occurred in infancy (<1 year). Features: Behavioral changes $\rightarrow$ Myoclonus $\rightarrow$ Regression.
-* **Chronic Meningitis:** Tuberculous meningitis (TBM) sequelae or indolent presentation.
+* **Subacute Sclerosing Panencephalitis ([[Infectious Diseases/SSPE\|SSPE]]):** Usually school age, but can present rapidly in toddlers if primary measles infection occurred in infancy (<1 year). Features: Behavioral changes $\rightarrow$ Myoclonus $\rightarrow$ Regression.
+* **Chronic [[Neurology/Meningitis\|Meningitis]]:** Tuberculous [[Neurology/Meningitis\|meningitis]] (TBM) sequelae or indolent presentation.
 
 ### 7. Toxic and Nutritional
 * **Lead Poisoning (Plumbism):**
-    * *History:* Pica, living in old housing.
+    * *History:* [[Development/Pica\|Pica]], living in old housing.
     * *Features:* Anemia, irritability, aggressive behavior, loss of skills, encephalopathy.
-* **Vitamin B12 Deficiency:** Infantile Tremor Syndrome (usually earlier, but untreated cases regress).
+* **[[Hematology/Vitamin B12 Deficiency\|Vitamin B12 Deficiency]]:** [[Neurology/Infantile Tremor Syndrome\|Infantile Tremor Syndrome]] (usually earlier, but untreated cases regress).
 
 ### 8. Structural and Vascular
-* **Intracranial Space Occupying Lesion:** Craniopharyngioma, Posterior fossa tumors (medulloblastoma) causing hydrocephalus.
+* **Intracranial Space Occupying Lesion:** Craniopharyngioma, Posterior fossa tumors (medulloblastoma) causing [[Neurology/Hydrocephalus\|hydrocephalus]].
 * **Moyamoya Disease:** Recurrent TIA/strokes leading to stepwise regression.
 
 ### 9. Approach Summary Table
 
 | Clinical Clue | Suspected Condition |
 | :--- | :--- |
-| **Female + Hand Stereotypies + Microcephaly** | Rett Syndrome |
+| **Female + Hand Stereotypies + [[Neurology/Microcephaly\|Microcephaly]]** | Rett Syndrome |
 | **Loss of Language + Social Withdrawal only** | Regressive Autism |
 | **Gait Ataxia + Spasticity (UMN signs)** | Metachromatic Leukodystrophy (MLD) |
 | **Seizures + Visual Loss (Cherry Red Spot)** | Gangliosidosis / NCL |
-| **Pica + Anemia + Irritability** | Lead Poisoning |
+| **[[Development/Pica\|Pica]] + Anemia + Irritability** | Lead Poisoning |
 | **Macrocephaly** | Canavan / Alexander Disease |
 ## Neuro-regression with HSM
 
@@ -165,7 +165,7 @@ Based on the clinical phenotype (Phenotype-Genotype correlation).
     * *Gaucher Cells:* "Crumpled tissue paper" cytoplasm.
     * *Niemann-Pick Cells:* "Foam cells" (Sea-blue histiocytes).
 ### Summary of Management
-* **Gaucher Type 1/3:** Enzyme Replacement Therapy (ERT) - Imiglucerase.
+* **Gaucher Type 1/3:** [[Genetics/Enzyme Replacement Therapy (ERT)\|Enzyme Replacement Therapy (ERT)]] - Imiglucerase.
 * **MPS I/II:** ERT (Laronidase/Idursulfase) + Hematopoietic Stem Cell Transplant (HSCT) for CNS protection (in Hurler).
 * **Niemann-Pick C:** **Miglustat** (Substrate reduction therapy) stabilizes neurological progression.
 * **Supportive:** Seizure control, physiotherapy, nutritional support.

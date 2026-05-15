@@ -35,7 +35,7 @@
 
 - Hypertensive retinal changes mandate investigation for underlying systemic etiologies.
 - Suspect underlying renal disease.
-- Evaluate for pheochromocytoma.
+- Evaluate for [[Endocrinology/Pheochromocytoma\|pheochromocytoma]].
 - Rule out collagen vascular diseases.
 - Assess for structural cardiovascular disorders.
 - Coarctation of aorta represents specific cardiovascular association requiring evaluation.

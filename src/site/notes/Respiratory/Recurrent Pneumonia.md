@@ -21,7 +21,7 @@
 ### Anatomic And Structural Anomalies
 | Category | Specific Conditions |
 | :--- | :--- |
-| Congenital Lung Lesions | Congenital pulmonary airway malformation, bronchopulmonary sequestration, congenital lobar emphysema, bronchogenic cysts. |
+| Congenital Lung Lesions | Congenital pulmonary airway malformation, bronchopulmonary sequestration, congenital lobar emphysema, [[Respiratory/Bronchogenic Cysts\|bronchogenic cysts]]. |
 | Airway Obstruction | Foreign body aspiration, bronchial stenosis, aberrant bronchus, endobronchial tumors. |
 | Extrinsic Compression | Vascular ring, enlarged lymph node, neoplasm, mediastinal cyst. |
 | Tracheobronchial Defects | Tracheomalacia, bronchomalacia, right middle lobe syndrome. |
@@ -36,14 +36,14 @@
 ### Immune And Genetic Disorders
 | System | Specific Disorders |
 | :--- | :--- |
-| Hereditary | Cystic fibrosis, primary ciliary dyskinesia, sickle cell disease. |
+| Hereditary | [[Respiratory/Cystic Fibrosis\|Cystic fibrosis]], [[Respiratory/Primary Ciliary Dyskinesia\|primary ciliary dyskinesia]], [[Hematology/Sickle Cell Disease\|sickle cell disease]]. |
 | Humoral/Cellular Immunity | HIV/AIDS, Bruton agammaglobulinemia, common variable immunodeficiency, severe combined immunodeficiency, selective immunoglobulin G subclass deficiencies. |
 | Phagocytic/Complement | Chronic granulomatous disease, hyperimmunoglobulin E syndromes, leukocyte adhesion defect, complement deficiency states. |
 
 ### Inflammatory And Autoimmune Conditions
 | Type | Specific Conditions |
 | :--- | :--- |
-| Allergic/Reactive | Asthma, allergic bronchopulmonary aspergillosis, hypersensitivity pneumonitis. |
+| Allergic/Reactive | [[Respiratory/Asthma\|Asthma]], allergic bronchopulmonary aspergillosis, hypersensitivity pneumonitis. |
 | Autoimmune | Granulomatosis with polyangiitis, collagen-vascular diseases, pulmonary hemosiderosis. |
 | Interstitial/Fibrotic | Desquamative interstitial pneumonia, lymphocytic interstitial pneumonia, alveolar proteinosis. |
 
@@ -59,15 +59,15 @@
 ### Diffuse Or Multilobar Recurrence
 - Involves varying, distinct lung locations during subsequent episodes.
 - Indicates underlying systemic immunologic or genetic condition.
-- Points toward primary immunodeficiency, HIV infection, or cystic fibrosis.
-- Warrants immediate consideration of primary ciliary dyskinesia.
+- Points toward primary immunodeficiency, HIV infection, or [[Respiratory/Cystic Fibrosis\|cystic fibrosis]].
+- Warrants immediate consideration of [[Respiratory/Primary Ciliary Dyskinesia\|primary ciliary dyskinesia]].
 
 ### Associated Clinical Clues
 - Coexisting frequent otitis media, adenitis, or dermatologic lesions suggest underlying immunodeficiency, phagocytic defect, or complement deficiency.
-- Otitis media accompanying suppurative sinopulmonary disease strongly indicates primary ciliary dyskinesia.
+- Otitis media accompanying suppurative sinopulmonary disease strongly indicates [[Respiratory/Primary Ciliary Dyskinesia\|primary ciliary dyskinesia]].
 - Recurrent lung infiltrates during first year of life with cow's milk hypersensitivity suggests pulmonary hemosiderosis.
-- Paroxysmal coughing episodes raise suspicion for cystic fibrosis or pertussis syndrome.
-- Digital clubbing, steatorrhea, and malabsorption point conclusively toward cystic fibrosis.
+- Paroxysmal coughing episodes raise suspicion for [[Respiratory/Cystic Fibrosis\|cystic fibrosis]] or pertussis syndrome.
+- Digital clubbing, steatorrhea, and malabsorption point conclusively toward [[Respiratory/Cystic Fibrosis\|cystic fibrosis]].
 - Persistent wheezing lacking expected bronchodilator response suggests anatomical defect or external mass.
 
 ## Complications Of Recurrent Infection
@@ -80,8 +80,8 @@
 | Chronic Respiratory Failure | Progressive hypoxemia, hypercapnia, eventual right-sided heart failure (cor pulmonale). |
 
 ## Specific Pathogen Indicators
-- Isolation of *Pseudomonas aeruginosa* or *Burkholderia cepacia* strongly correlates with cystic fibrosis.
-- Predominance of *Staphylococcus aureus* suggests cystic fibrosis or hyperimmunoglobulin E syndrome.
+- Isolation of *Pseudomonas aeruginosa* or *Burkholderia cepacia* strongly correlates with [[Respiratory/Cystic Fibrosis\|cystic fibrosis]].
+- Predominance of *Staphylococcus aureus* suggests [[Respiratory/Cystic Fibrosis\|cystic fibrosis]] or hyperimmunoglobulin E syndrome.
 - Recurrent encapsulated bacterial infections (*Streptococcus pneumoniae*, *Haemophilus influenzae*) highlight humoral immune defects.
 - Opportunistic organisms (*Pneumocystis jirovecii*, Cytomegalovirus, *Mycobacterium avium-intracellulare*) indicate severe cellular immunodeficiency or advanced HIV/AIDS.
 - Polymicrobial or anaerobic flora reflects chronic aspiration syndromes or established lung abscess.
@@ -102,11 +102,11 @@
 - Gastrointestinal pH probe monitoring assesses severity of gastroesophageal reflux.
 
 ### Laboratory Investigations
-- Sweat chloride testing (quantitative pilocarpine iontophoresis) diagnoses cystic fibrosis (chloride >60 mEq/L considered abnormal).
+- Sweat chloride testing (quantitative pilocarpine iontophoresis) diagnoses [[Respiratory/Cystic Fibrosis\|cystic fibrosis]] (chloride >60 mEq/L considered abnormal).
 - Complete blood count identifies neutropenia, lymphopenia, or prominent eosinophilia.
 - Immunologic workup assesses quantitative immunoglobulins, immunoglobulin G subclasses, and specific vaccine antibody responses.
 - HIV serology and CD4 counts rule out acquired cellular immunodeficiency.
-- Nasal nitric oxide measurement and ciliary biopsy via electron microscopy diagnose primary ciliary dyskinesia.
+- Nasal nitric oxide measurement and ciliary biopsy via electron microscopy diagnose [[Respiratory/Primary Ciliary Dyskinesia\|primary ciliary dyskinesia]].
 - Autoimmune panel evaluates potential vasculitis and associated pulmonary-renal syndromes.
 
 ## Management Principles

@@ -2,11 +2,11 @@
 {"dg-publish":true,"uplink":"/misc/miscellaneous-topics/","uptext":"Back to Index (⭕ Misc)","permalink":"/misc/vdpv-and-vapp/","dgPassFrontmatter":true}
 ---
 
-## Vaccine-Associated Paralytic Poliomyelitis
+## Vaccine-Associated [[Neuromuscular/Paralytic Poliomyelitis\|Paralytic Poliomyelitis]]
 
 ### Definition And Diagnostic Criteria
 
-- Vaccine-associated paralytic poliomyelitis represents paralytic polio occurring in vaccine recipients or close contacts.
+- Vaccine-associated [[Neuromuscular/Paralytic Poliomyelitis\|paralytic poliomyelitis]] represents paralytic polio occurring in vaccine recipients or close contacts.
 - Causative agent involves poliovirus strain genetically altered in host intestine from original attenuated vaccine strain.
 - Diagnosis requires [[Neuromuscular/Acute Flaccid Paralysis\|acute flaccid paralysis]] demonstrating residual paralysis lasting minimum 60 days.
 - Paralysis manifests in oral poliovirus vaccine recipients between 4 and 40 days following administration.
@@ -15,7 +15,7 @@
 
 ### Epidemiology And Incidence
 
-- Clinical presentation remains indistinguishable from paralytic poliomyelitis caused by wild virus.
+- Clinical presentation remains indistinguishable from [[Neuromuscular/Paralytic Poliomyelitis\|paralytic poliomyelitis]] caused by wild virus.
 - Global incidence ranges from 2 to 4 cases per million births annually.
 - Highest risk follows initial oral vaccine dose, occurring in 1 per 2.9 million administered doses.
 - Initial dose recipients and contacts carry 6.6-fold higher risk compared to subsequent dose recipients.
@@ -74,19 +74,19 @@
 
 ### Vaccine Complications Comparison
 
-|Feature|Vaccine-Associated Paralytic Poliomyelitis|Circulating Vaccine-Derived Poliovirus|Immunodeficiency-Associated Vaccine-Derived Poliovirus|
+|Feature|Vaccine-Associated [[Neuromuscular/Paralytic Poliomyelitis\|Paralytic Poliomyelitis]]|Circulating Vaccine-Derived Poliovirus|Immunodeficiency-Associated Vaccine-Derived Poliovirus|
 |:--|:--|:--|:--|
 |**Origin**|Spontaneous mutation in single vaccinee or close contact.|Extended circulation and mutation in under-immunized community.|Chronic unchecked replication in immunodeficient host.|
 |**Transmission**|Limited to immediate close contacts.|Active person-to-person community transmission.|Limited transmission, chronic individual shedding.|
 |**Genetic Drift**|Minimal nucleotide changes.|>1% divergence (Types 1, 3) or >0.6% (Type 2).|Progressive divergence during chronic carriage.|
 |**Primary Serotype**|Type 3 predominantly.|Type 2 predominantly (>90%).|Varies based on exposure.|
-|**Risk Factors**|First vaccine dose, lack of maternal antibodies.|Low herd immunity, poor sanitation.|Primary B-cell or combined immunodeficiency.|
+|**Risk Factors**|First vaccine dose, lack of maternal antibodies.|Low [[Misc/Herd Immunity\|herd immunity]], poor sanitation.|Primary B-cell or combined immunodeficiency.|
 
 ## Management And Preventive Strategies
 
 ### Immunization Schedule Modifications
 
-- Sequential administration utilizing inactivated polio vaccine followed by oral polio vaccine reduces or eliminates paralytic complication risks.
+- Sequential administration utilizing inactivated polio vaccine followed by [[Misc/Oral Polio Vaccine\|oral polio vaccine]] reduces or eliminates paralytic complication risks.
 - Inactivated vaccine bypasses intestinal interference, providing systemic immunity without risk of reversion.
 - World Health Organization mandates inclusion of at least one inactivated vaccine dose in all national schedules to induce baseline immunity.
 - Inactivated vaccine administration prior to oral vaccine minimizes complication risks while ensuring adequate mucosal immunity to interrupt wild virus circulation.
@@ -99,4 +99,4 @@
 - Development and emergency deployment of novel oral poliovirus vaccine type 2 directly addresses circulating vaccine-derived outbreaks.
 - Novel type 2 vaccine features genetic stabilization, significantly reducing likelihood of reversion to neurovirulent forms in low immunity settings.
 - Sabin-inactivated poliovirus utilizes attenuated strains for manufacture, reducing biosafety risks and enabling affordable mass production in developing nations.
-- Enhanced environmental surveillance and reverse cold chain transport of stool samples ensure rapid detection and genomic sequencing of divergent strains.
+- Enhanced environmental surveillance and reverse [[Misc/Cold Chain\|cold chain]] transport of stool samples ensure rapid detection and genomic sequencing of divergent strains.

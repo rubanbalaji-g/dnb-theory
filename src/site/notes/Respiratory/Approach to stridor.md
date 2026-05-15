@@ -2,7 +2,7 @@
 {"dg-publish":true,"uplink":"/respiratory/respiratory-system/","uptext":"Back to Index (🫁Respiratory System)","permalink":"/respiratory/approach-to-stridor/","dgPassFrontmatter":true}
 ---
 
-## Algorithmic Approach To Stridor
+## Algorithmic [[Respiratory/Approach to stridor\|Approach To Stridor]]
 
 ```mermaid
 graph TD
@@ -89,8 +89,8 @@ graph TD
 
 |Category|Sub-Category|Etiologies|
 |---|---|---|
-|Acute Febrile|Low-Grade Fever|Viral Croup (Laryngotracheobronchitis), Diphtheria|
-|Acute Febrile|High-Grade Fever|Acute Epiglottitis, Bacterial Tracheitis, Retropharyngeal Abscess, Peritonsillar Abscess|
+|Acute Febrile|Low-Grade Fever|[[Respiratory/Viral Croup\|Viral Croup]] (Laryngotracheobronchitis), [[Infectious Diseases/Diphtheria\|Diphtheria]]|
+|Acute Febrile|High-Grade Fever|[[Respiratory/Acute Epiglottitis\|Acute Epiglottitis]], Bacterial Tracheitis, Retropharyngeal Abscess, Peritonsillar Abscess|
 |Acute Afebrile|Non-Infectious|Foreign Body Aspiration, Hypocalcemia (Tetany), Angioedema/Anaphylaxis, Caustic Ingestion, Trauma, Spasmodic Croup, Neurogenic Stridor (Chiari Crisis)|
 
 #### Chronic Or Recurrent Stridor
@@ -105,7 +105,7 @@ graph TD
 - Tracheobronchial Causes:
     - Tracheomalacia/Bronchomalacia: Chondromalacia causing insufficient cartilage support.
     - Vascular Rings: Extrinsic compression.
-    - Mediastinal Masses: Lymphangioma, bronchogenic cysts, congenital goiter.
+    - Mediastinal Masses: Lymphangioma, [[Respiratory/Bronchogenic Cysts\|bronchogenic cysts]], congenital goiter.
 
 ## Clinical Evaluation
 
@@ -114,7 +114,7 @@ graph TD
 - Onset And Duration: Acute onset suggests infection or foreign body. Onset at birth suggests severe anatomic anomaly. Onset at 2 weeks peaking at 6 months suggests laryngomalacia or hemangioma.
 - Triggers And Modifying Factors: Worsened by feeding, crying, or supine position indicates laryngomalacia. Worsened by neck flexion indicates vascular ring.
 - Associated Symptoms:
-    - Barking cough, coryza indicates viral croup.
+    - Barking cough, coryza indicates [[Respiratory/Viral Croup\|viral croup]].
     - Dysphagia, drooling, toxic appearance indicates epiglottitis.
     - Cutaneous hemangiomas indicate subglottic hemangioma.
     - Breathy cry indicates unilateral vocal cord paralysis or laryngeal web.
@@ -132,14 +132,14 @@ graph TD
 
 ### Specific Physical Signs
 
-- Tripod Posture: Sitting upright, leaning forward, chin thrust forward, mouth open indicates acute epiglottitis.
+- Tripod Posture: Sitting upright, leaning forward, chin thrust forward, mouth open indicates [[Respiratory/Acute Epiglottitis\|acute epiglottitis]].
 - Preferred Posture: Neck hyperextension preferred in vascular rings or retropharyngeal abscess.
 - Drooling And Dysphagia: Strongly points towards supraglottic pathology.
 - Tracheal Tenderness: Specific to bacterial tracheitis.
 
 ## Differential Diagnosis Of Acute Infectious Causes
 
-|Feature|Viral Croup|Acute Epiglottitis|Bacterial Tracheitis|Retropharyngeal Abscess|
+|Feature|[[Respiratory/Viral Croup\|Viral Croup]]|[[Respiratory/Acute Epiglottitis\|Acute Epiglottitis]]|Bacterial Tracheitis|Retropharyngeal Abscess|
 |---|---|---|---|---|
 |Age|6 Months To 3 Years|3–14 Years|6 Months To 14 Years|2–4 Years|
 |Onset Speed|Gradual|Very Rapid (Hours)|Rapid (Biphasic)|Gradual|
@@ -196,7 +196,7 @@ graph TD
 
 ### Specific Interventions
 
-#### Viral Croup
+#### [[Respiratory/Viral Croup\|Viral Croup]]
 
 - Mild: Single dose oral dexamethasone (0.6 mg/kg) or nebulized budesonide (2 mg). Discharge with parental counseling.
 - Moderate-To-Severe:
@@ -212,7 +212,7 @@ graph TD
 
 #### Congenital And Chronic Lesions
 
-- Laryngomalacia: Conservative management. Anti-reflux medication for concurrent GERD. Supraglottoplasty indicated for severe cases including cyanosis, cor pulmonale, failure to thrive.
+- Laryngomalacia: Conservative management. Anti-reflux medication for concurrent [[Gastrointestinal/GERD\|GERD]]. Supraglottoplasty indicated for severe cases including cyanosis, cor pulmonale, failure to thrive.
 - Subglottic Stenosis: Endoscopic dilation/laser for mild cases. Anterior cricoid split or laryngotracheal reconstruction for severe grades.
 - Subglottic Hemangioma: Propranolol (1-3 mg/kg/day). Monitor for hypoglycemia and bradycardia.
 - Saccular Cysts/Laryngoceles: Endoscopic CO2 laser excision or marsupialization.

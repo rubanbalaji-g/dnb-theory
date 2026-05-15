@@ -64,7 +64,7 @@
 
 ## Pediatric & Hospital-Specific Aspects
 - High volume of sharps (vaccinations, injections under UIP/RBSK), blood-soiled waste (SNCU/NICU), plastic disposables
-- Safe injection practices: Auto-disable (AD) syringes only; immediate disposal in white container (no recapping)
+- [[Social Pediatics/Safe Injection Practices\|Safe injection practices]]: Auto-disable (AD) syringes only; immediate disposal in white container (no recapping)
 - Integration with **MusQan**, **LaQshya**, **RBSK**, **SAANS**, **Anemia Mukt Bharat**
 - DEIC/SNCU/PICU: Strict segregation of neonatal waste (high infection risk)
 - Training: Mandatory for all pediatric residents & staff under NHM/IPC guidelines

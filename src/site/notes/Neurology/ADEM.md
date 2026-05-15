@@ -18,9 +18,9 @@
 
 ### Common Triggers
 
-- **Viral Infections:** Measles (1 in 1000 cases), varicella (1 in 4000–10000), rubella, mumps, influenza, parainfluenza, Epstein-Barr virus (EBV), human herpesvirus 6 (HHV-6), HIV, dengue, Zika, COVID-19.
+- **Viral Infections:** Measles (1 in 1000 cases), varicella (1 in 4000–10000), rubella, mumps, influenza, parainfluenza, Epstein-Barr virus (EBV), human herpesvirus 6 (HHV-6), HIV, [[Infectious Diseases/Dengue\|dengue]], Zika, [[Infectious Diseases/COVID-19\|COVID-19]].
 - **Bacterial Infections:** _Mycoplasma pneumoniae_.
-- **Vaccinations:** Live measles, smallpox, Semple rabies, Japanese encephalitis. Modern vaccines reduce ADEM risk.
+- **Vaccinations:** Live measles, smallpox, Semple rabies, [[Infectious Diseases/Japanese Encephalitis\|Japanese encephalitis]]. Modern vaccines reduce [[Neurology/ADEM\|ADEM]] risk.
 
 ## Clinical Features
 
@@ -63,12 +63,12 @@
 
 ## Differential Diagnosis
 
-- Viral Encephalitis.
+- [[Neurology/Viral Encephalitis\|Viral Encephalitis]].
 - Multiple Sclerosis (MS).
 
-### ADEM vs. Multiple Sclerosis (MS)
+### [[Neurology/ADEM\|ADEM]] vs. Multiple Sclerosis (MS)
 
-|Feature|ADEM|Multiple Sclerosis (MS)|
+|Feature|[[Neurology/ADEM\|ADEM]]|Multiple Sclerosis (MS)|
 |:--|:--|:--|
 |**Age & Sex**|<10 years, Male = Female|>10 years, Female preponderance|
 |**Seizures**|Present|Absent|
@@ -90,7 +90,7 @@
 
 ### Refractory/Severe Cases
 
-- **Intravenous Immunoglobulin (IVIG):** 2 g/kg over 2–5 days. Useful if differentiation from viral encephalitis difficult.
+- **Intravenous Immunoglobulin (IVIG):** 2 g/kg over 2–5 days. Useful if differentiation from [[Neurology/Viral Encephalitis\|viral encephalitis]] difficult.
 - **Plasmapheresis:** 5–7 exchanges administered every other day.
 
 ## Prognosis & Variants
@@ -99,5 +99,5 @@
 - Residual deficits (cognitive impairment, behavioral changes) common.
 - Mortality 5–20% in severe cases.
 - **Acute Hemorrhagic Leukoencephalitis (Weston-Hurst disease):** Severe progression variant. Leukodystrophy-like MRI. Edema with mass effect. Polymorphonuclear cell pleocytosis.
-- **Multiphasic ADEM (MDEM):** Recurrence $\ge$ 3 months post-initial event. Almost exclusively MOG-Ab positive.
-- **ADEM-ON:** ADEM followed by isolated optic neuritis relapse. MOG-Ab associated.
+- **Multiphasic [[Neurology/ADEM\|ADEM]] (MDEM):** Recurrence $\ge$ 3 months post-initial event. Almost exclusively MOG-Ab positive.
+- **ADEM-ON:** [[Neurology/ADEM\|ADEM]] followed by isolated optic neuritis relapse. MOG-Ab associated.

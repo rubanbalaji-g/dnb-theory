@@ -3,7 +3,7 @@
 ---
 
 ### I. Classification (ICHD-3)
-While Migraine is the most discussed pediatric headache, other primary headaches are significant causes of morbidity. They are classified based on the **International Classification of Headache Disorders, 3rd Edition (ICHD-3)**.
+While [[Neurology/Migraine\|Migraine]] is the most discussed pediatric headache, other primary headaches are significant causes of morbidity. They are classified based on the **International Classification of Headache Disorders, 3rd Edition (ICHD-3)**.
 1.  **Tension-Type Headache (TTH):** The most common primary headache.
 2.  **Trigeminal Autonomic Cephalalgias (TACs):** Rare in children, distinct autonomic features.
 3.  **Other Primary Headaches:** Stabbing, Cough, Exertional, etc.
@@ -20,7 +20,7 @@ While Migraine is the most discussed pediatric headache, other primary headaches
 * **Location:** Bilateral (Holocranial or Frontal/Occipital).
 * **Quality:** Pressing, tightening, or "band-like" sensation (Non-pulsating).
 * **Intensity:** Mild to moderate (does not prohibit activity).
-* **Aggravation:** **NOT** aggravated by routine physical activity (unlike migraine).
+* **Aggravation:** **NOT** aggravated by routine physical activity (unlike [[Neurology/Migraine\|migraine]]).
 * **Associated Symptoms:**
     * No vomiting (mild nausea allowed).
     * No photophobia OR phonophobia (one is allowed, but not both).
@@ -56,7 +56,7 @@ Characterized by unilateral headache in the trigeminal distribution + ipsilatera
     * **Behavior:** Patient is **restless/agitated** (paces around, rocks head) – distinct from migraineurs who lie still.
 * **Management:**
     * **Abortive:** High-flow **Oxygen** (100% via non-rebreather mask at 10–15 L/min). Sumatriptan (Subcutaneous or Intranasal).
-    * **Preventive:** Verapamil (monitor ECG), Topiramate, Lithium (rarely used in kids due to toxicity). Bridge therapy with oral steroids.
+    * **Preventive:** Verapamil (monitor [[Misc/ECG\|ECG]]), Topiramate, Lithium (rarely used in kids due to toxicity). Bridge therapy with oral steroids.
 
 #### 2. Paroxysmal Hemicrania (PH)
 * **Features:** Similar to Cluster but shorter duration (2–30 mins) and higher frequency (>5 attacks/day).
@@ -74,7 +74,7 @@ A diagnosis of exclusion, typically seen in adolescents.
     * Headache becomes daily and unremitting within 24 hours of onset.
     * Lasts >3 months.
     * "I remember the exact day it started."
-    * Pain can have Migraine or TTH features.
+    * Pain can have [[Neurology/Migraine\|Migraine]] or TTH features.
 * **Precipitant:** Often follows a viral illness (EBV) or stressful life event, but often idiopathic.
 * **Management:** notoriously refractory.
     * Aggressive treatment with Topiramate, Gabapentin, or Amitriptyline.

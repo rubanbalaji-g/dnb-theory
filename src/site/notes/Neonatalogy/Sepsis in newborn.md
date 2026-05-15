@@ -4,7 +4,7 @@
 
 ## 1. DEFINITION AND SCOPE
 * **Definition:** A clinical syndrome characterized by a dysregulated host response to bloodstream infection in the first 28 days of life.
-* **Clinical Scope:** Encompasses septicemia, meningitis, pneumonia, arthritis, osteomyelitis, and urinary tract infections. Superficial infections (e.g., conjunctivitis, oral thrush) are excluded.
+* **Clinical Scope:** Encompasses septicemia, [[Neurology/Meningitis\|meningitis]], pneumonia, arthritis, osteomyelitis, and urinary tract infections. Superficial infections (e.g., conjunctivitis, oral thrush) are excluded.
 * **Significance:** A major cause of neonatal mortality globally; nearly 25% of neonatal deaths are attributable to sepsis.
 
 ## 2. CLASSIFICATION
@@ -14,7 +14,7 @@
 | **Source** | Maternal genital tract (Ascending/Vertical) | Hospital (HAI) or Community environment |
 | **Common Organisms** | Klebsiella, E. coli, GBS | CONS, S. aureus, Klebsiella, Candida |
 | **Risk Factors** | Perinatal/Maternal factors | Prematurity, invasive lines, poor hygiene |
-| **Presentation** | Fulminant, respiratory distress, pneumonia | Insidious, septicemia, focal (meningitis) |
+| **Presentation** | Fulminant, respiratory distress, pneumonia | Insidious, septicemia, focal ([[Neurology/Meningitis\|meningitis]]) |
 
 ## 3. ETIOLOGY (INDIAN CONTEXT)
 * **Gram-negative (66%):** Acinetobacter spp. (22%), Klebsiella spp. (17%), E. coli (14%). High rates of multi-drug resistance (MDR) are prevalent.
@@ -38,7 +38,7 @@
 * **System-Specific:**
     * **Respiratory:** Tachypnea, grunting, chest retractions, apnea, gasping.
     * **Cardiovascular:** Poor perfusion (prolonged capillary refill), tachycardia/bradycardia, hypotension, shock.
-    * **CNS:** Bulging anterior fontanelle, vacant stare, high-pitched cry, seizures, neck retraction (Meningitis).
+    * **CNS:** Bulging anterior fontanelle, vacant stare, high-pitched cry, seizures, neck retraction ([[Neurology/Meningitis\|Meningitis]]).
     * **GIT:** Increased gastric residuals, vomiting, abdominal distension, paralytic ileus.
     * **Hemat/Metabolic:** Petechiae, purpura, direct hyperbilirubinemia, hypo/hyperglycemia, metabolic acidosis.
 
@@ -51,7 +51,7 @@
     4.  **Micro-ESR:** > 15 mm in 1st hour.
     5.  **CRP:** > 1 mg/dl (High negative predictive value).
 * **Lumbar Puncture (CSF):** Mandatory in all LOS, symptomatic sepsis, or if blood culture is positive. Normal CSF values: Term (Cells 0-32, Protein 20-170 mg/dl); Preterm (Cells 0-44, Protein 54-370 mg/dl).
-* **Radiology:** Chest X-ray (respiratory distress), Abdominal X-ray (distension/NEC), Neuroimaging (meningitis complications).
+* **Radiology:** Chest X-ray (respiratory distress), Abdominal X-ray (distension/NEC), Neuroimaging ([[Neurology/Meningitis\|meningitis]] complications).
 * **Biomarkers:** Procalcitonin (PCT) - age-specific cutoffs; Serum Amyloid A (promising but not routine).
 
 ## 7. MANAGEMENT
@@ -64,10 +64,10 @@
 * **Community-Acquired:** Ampicillin/Penicillin + Gentamicin.
 * **Hospital-Acquired (HAI):** Beta-lactam (e.g., Piperacillin-Tazobactam) + Aminoglycoside (e.g., Amikacin).
 * **Suspected Staphylococcal:** Cloxacillin or Vancomycin (if MRSA).
-* **Meningitis:** Third-generation cephalosporins (e.g., Cefotaxime) were traditional, but high resistance (60-70%) now limits use.
+* **[[Neurology/Meningitis\|Meningitis]]:** Third-generation cephalosporins (e.g., Cefotaxime) were traditional, but high resistance (60-70%) now limits use.
 * **Reserve Drugs:** Meropenem, Colistin, Linezolid (Avoid empiric use; reserve for proven sensitivity).
 ### C. Duration of Therapy
-* **Meningitis:** 21 days.
+* **[[Neurology/Meningitis\|Meningitis]]:** 21 days.
 * **Culture Positive (Septicemia):** 14 days.
 * **Culture Negative (Clinical Sepsis):** 5–7 days.
 * **Screen Negative/Rule out:** 48–72 hours.

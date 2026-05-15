@@ -27,7 +27,7 @@ TSC is a multi-system disorder. Key manifestations include:
 | System | Lesions / Features | Characteristics |
 | :--- | :--- | :--- |
 | **Dermatologic** (90%) | • **Hypomelanotic Macules:** "Ash-leaf spots" (>3).<br>• **Facial Angiofibromas:** Adenoma sebaceum (malar rash).<br>• **Shagreen Patch:** Connective tissue nevus (lumbosacral "orange peel").<br>• **Ungual Fibromas:** Koenen tumors (periungual). | Ash-leaf spots are earliest sign (visible under Wood's lamp). Angiofibromas appear age 4–6y. |
-| **Neurologic** (Most morbid) | • **Cortical Tubers:** Dysplastic neurons/giant cells.<br>• **SEN:** Subependymal Nodules.<br>• **SEGA:** Subependymal Giant Cell Astrocytoma.<br>• **TAND:** TSC-Associated Neuropsychiatric Disorders. | • **Epilepsy:** >80%. **Infantile Spasms** (West Syndrome) common in infancy.<br>• **SEGA:** can cause hydrocephalus (monitor with MRI).<br>• **Cognitive:** ID, Autism, ADHD. |
+| **Neurologic** (Most morbid) | • **Cortical Tubers:** Dysplastic neurons/giant cells.<br>• **SEN:** Subependymal Nodules.<br>• **SEGA:** Subependymal Giant Cell Astrocytoma.<br>• **TAND:** TSC-Associated Neuropsychiatric Disorders. | • **Epilepsy:** >80%. **[[Neurology/Infantile Spasms\|Infantile Spasms]]** (West Syndrome) common in infancy.<br>• **SEGA:** can cause [[Neurology/Hydrocephalus\|hydrocephalus]] (monitor with MRI).<br>• **Cognitive:** ID, Autism, [[Development/ADHD\|ADHD]]. |
 | **Renal** | • **Angiomyolipomas (AML):** Fat/vascular/muscle tumor.<br>• **Renal Cysts.** | AMLs >4cm risk spontaneous hemorrhage (Wunderlich syndrome). |
 | **Cardiac** | • **Rhabdomyomas.** | Often detected usually **regress spontaneously** after infancy. |
 | **Pulmonary** | • **LAM:** Lymphangioleiomyomatosis.<br>• **MMPH:** Multifocal Micronodular Pneumocyte Hyperplasia. | LAM occurs almost exclusively in adult females. |
@@ -51,7 +51,7 @@ Based on the clinical features listed below, the certainty of the diagnosis is c
 
 *(*Note: LAM and AML together count as only one Major feature if no other features exist).*
 
-### Management of Tuberous Sclerosis Complex (TSC)
+### Management of [[Neurology/Tuberous Sclerosis Complex (TSC)\|Tuberous Sclerosis Complex (TSC)]]
 
 #### 1. General Principles
 * **Multidisciplinary Approach:** Requires coordination between neurology, nephrology, cardiology, dermatology, and genetics.
@@ -68,17 +68,17 @@ Life-long surveillance is critical to detect complications early.
 #### 3. Management of Specific Manifestations
 
 ##### A. Epilepsy (Neurologic)
-* **Infantile Spasms (West Syndrome):**
+* **[[Neurology/Infantile Spasms\|Infantile Spasms]] (West Syndrome):**
     * **Drug of Choice:** **Vigabatrin** (First-line for TSC-associated spasms).
     * *Alternative:* ACTH or Oral Prednisolone.
-* **Focal Seizures:**
+* **[[Neurology/Focal seizures\|Focal Seizures]]:**
     * **First-line:** Levetiracetam, Oxcarbazepine, Carbamazepine.
     * **Adjunctive:** **Everolimus** (mTOR inhibitor) is FDA-approved for refractory seizures in TSC.
 * **Refractory Epilepsy:** Ketogenic Diet, Vagus Nerve Stimulation (VNS), or Epilepsy Surgery (tuberectomy) if a dominant epileptogenic tuber is identified.
 
 ##### B. Subependymal Giant Cell Astrocytoma (SEGA)
 * **Medical:** **mTOR Inhibitors (Everolimus/Sirolimus)** are first-line for growing, asymptomatic SEGAs. They cause tumor regression.
-* **Surgical:** Resection indicated if there is acute hydrocephalus or if the tumor does not respond to medical therapy.
+* **Surgical:** Resection indicated if there is acute [[Neurology/Hydrocephalus\|hydrocephalus]] or if the tumor does not respond to medical therapy.
 
 ##### C. Renal Angiomyolipoma (AML)
 * **Asymptomatic (<3 cm):** Observation.
@@ -92,4 +92,4 @@ Life-long surveillance is critical to detect complications early.
     * **Laser Therapy:** Pulsed dye laser for larger/vascular lesions.
 
 ##### E. Neuropsychiatric (TAND)
-* Management of Autism Spectrum Disorder (ASD), ADHD, anxiety, and intellectual disability via behavioral therapy and pharmacotherapy.
+* Management of [[Development/Autism Spectrum Disorder\|Autism Spectrum Disorder]] ([[Cardiology/ASD\|ASD]]), [[Development/ADHD\|ADHD]], anxiety, and intellectual disability via behavioral therapy and pharmacotherapy.

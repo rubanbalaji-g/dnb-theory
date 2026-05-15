@@ -28,7 +28,7 @@ Causes are broadly classified into Local and Systemic.
 1.  **Hematological Disorders:**
     * ITP (Immune Thrombocytopenia).
     * Leukemia.
-    * Coagulation defects (Hemophilia, von Willebrand Disease).
+    * Coagulation defects (Hemophilia, [[Hematology/Von Willebrand Disease\|von Willebrand Disease]]).
 2.  **Drugs:** NSAIDs, Aspirin, Anticoagulants.
 3.  **Cardiovascular:** Hypertension (rarely the sole cause in children).
 4.  **Vascular Malformations:** Hereditary Hemorrhagic Telangiectasia (Osler-Weber-Rendu syndrome).

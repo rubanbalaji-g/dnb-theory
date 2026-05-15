@@ -57,6 +57,6 @@
 
 |Complication/Issue|Clinical Management And Prevention|
 |:--|:--|
-|Pneumococcal meningitis|Represents severe potential complication. Strict mandate requires pneumococcal polyvalent vaccine (PCV13) administration prior to surgery.|
+|Pneumococcal [[Neurology/Meningitis\|meningitis]]|Represents severe potential complication. Strict mandate requires pneumococcal polyvalent vaccine (PCV13) administration prior to surgery.|
 |Acute mastoiditis|Occurs in 3.5 percent of implanted children. Successfully managed with intravenous antibiotics, tympanostomy tubes, and abscess drainage without requiring implant removal.|
 |Magnetic resonance imaging incompatibility|Strong magnetic fields risk implant damage. Most modern implants verified safe only for scanners up to 3.0 Tesla.|

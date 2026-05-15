@@ -36,7 +36,7 @@ Can also lead to secondary generalization
 - Sleep deprived EEG is preferred
 - MRI is superior to CT
 # Syndromes
-## Benign epilepsy with focal seizures
+## Benign epilepsy with [[Neurology/Focal seizures\|focal seizures]]
 | Name                                                           | Age               | Features                                                                                                                                                                                                                                                                                                            |
 | -------------------------------------------------------------- | ----------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Benign childhood epilepsy with centrotemporal spikes (BECTS)   | 3 to 10 years     | - child typically wakes up at night due to seizure<br>- buccal and throat tingling<br>- tonic contraction on one side of face with drooling and inability to speak<br>- secondary generalization can also occur<br>- MRI normal<br>- responds well to <span style=color:cyan>Oxcarbazepine and carbamazepine</span> |
@@ -46,10 +46,10 @@ Can also lead to secondary generalization
 | benign infantile familial convulsive syndromes                 |                   | with gene mutations                                                                                                                                                                                                                                                                                                 |
 | benign infantile non-familial syndromes                        |                   | - impaired awareness<br>- 2⁰ generalization<br>- mild gastroenteritis                                                                                                                                                                                                                                               |
 | Nocturanal autosomal dominant frontal epilepsy                 |                   | - acetylcholine receptor and KCNT1 gene mutation<br>- nocturnal seizure<br>- dystonic posture<br>- screaming, agitation, kicking<br>- responds well to carbamazepine                                                                                                                                                |
-## severe epilepsy syndromes with focal seizures
+## severe epilepsy syndromes with [[Neurology/Focal seizures\|focal seizures]]
 - most commonly have brain lesions
 - drug resistant epilepsy - can be metabolic seizure
-- brain malformations can cause focal seizures include <span style=color:cyan>focal cortical dysplasia, struge weber, hemimegalencephaly, dysembryonoplastic neuroepithelial tumors</span>
+- brain malformations can cause [[Neurology/Focal seizures\|focal seizures]] include <span style=color:cyan>focal cortical dysplasia, struge weber, hemimegalencephaly, dysembryonoplastic neuroepithelial tumors</span>
 - 
 
 | name                                                 | Age     | features                                                                                                                                                                                                                          |

@@ -36,6 +36,6 @@
 |Pentavalent Preparation|Diphtheria-tetanus-whole cell pertussis-hepatitis B-_Haemophilus influenzae_ type b.|
 |Hexavalent Preparation|Diphtheria-tetanus-acellular pertussis-hepatitis B-_Haemophilus influenzae_ type b-inactivated poliovirus.|
 |Tetravalent Preparation|Diphtheria-tetanus-acellular pertussis-inactivated poliovirus.|
-|Traditional Bacterial|Diphtheria-tetanus-whole cell pertussis, Diphtheria-tetanus-acellular pertussis, Tetanus-reduced diphtheria.|
+|Traditional Bacterial|Diphtheria-tetanus-whole cell pertussis, Diphtheria-tetanus-acellular pertussis, Tetanus-reduced [[Infectious Diseases/Diphtheria\|diphtheria]].|
 |Viral Combinations|Measles-mumps-rubella, Measles-rubella, Measles-mumps-rubella-varicella.|
 |Multivalent Conjugate/Polysaccharide|Pneumococcal conjugate (10-valent or 13-valent), Meningococcal conjugate (serogroups A, C, Y, W135), Inactivated influenza (trivalent or quadrivalent).|

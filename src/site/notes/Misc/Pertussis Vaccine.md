@@ -4,7 +4,7 @@
 
 ## Types Of Pertussis Vaccines
 
-### Whole-Cell Pertussis Vaccine
+### Whole-Cell [[Misc/Pertussis Vaccine\|Pertussis Vaccine]]
 
 - Contains killed _Bordetella pertussis_ bacilli.
 - Adsorbed on insoluble aluminum salts acting as adjuvants.
@@ -13,7 +13,7 @@
 - Associated with longer-lasting immunity and documented herd effect.
 - Immunity wanes over 6-12 years requiring periodic boosters.
 
-### Acellular Pertussis Vaccine
+### Acellular [[Misc/Pertussis Vaccine\|Pertussis Vaccine]]
 
 - Developed primarily due to reactogenicity concerns of whole-cell preparations.
 - Formulated with purified antigens including inactivated pertussis toxin, filamentous hemagglutinin, pertactin, and fimbriae.
@@ -21,7 +21,7 @@
 - Elicits Th2 biased immune responses.
 - Associated with two-thirds reduction in minor and major adverse effects.
 - Exhibits shorter duration of protection with faster waning.
-- Lacks documented herd immunity effect.
+- Lacks documented [[Misc/Herd Immunity\|herd immunity]] effect.
 
 ## Immunization Schedule And Administration
 
@@ -39,12 +39,12 @@
 - Children below 7 years require three doses at 0, 1, and 6 months.
 - Second childhood booster omitted if last dose given beyond 4 years.
 
-### Adolescent And Maternal Immunization
+### Adolescent And [[Misc/Maternal Immunization\|Maternal Immunization]]
 
 - Reduced antigen vaccine administered as single dose at 10-12 years.
 - Pregnant women require single dose during each pregnancy.
 - Optimal administration timing during pregnancy is 27-36 weeks gestation.
-- Maternal immunization protects vulnerable neonates via transplacental antibodies.
+- [[Misc/Maternal Immunization\|Maternal immunization]] protects vulnerable neonates via transplacental antibodies.
 
 ## Adverse Effects And Contraindications
 

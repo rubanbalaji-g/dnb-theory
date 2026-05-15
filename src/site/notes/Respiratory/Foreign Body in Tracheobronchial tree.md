@@ -41,7 +41,7 @@ Jackson described 4 types of bronchial obstruction based on the fit of the forei
 2.  **Stage 2: Asymptomatic Interval (The "Latent" Phase)**
     * The FB lodges in a bronchus; reflexes fatigue.
     * Child appears fine.
-    * **Danger:** Often leads to delayed diagnosis or misdiagnosis as asthma.
+    * **Danger:** Often leads to delayed diagnosis or misdiagnosis as [[Respiratory/Asthma\|asthma]].
 
 3.  **Stage 3: Complications**
     * Obstruction, erosion, or infection leads to pneumonia, lung abscess, or bronchiectasis.
@@ -95,8 +95,8 @@ Jackson described 4 types of bronchial obstruction based on the fit of the forei
 * Steroids (short course) for edema.
 
 ## VI. Complications
-* **Acute:** Laryngeal edema, Hypoxic brain injury, Pneumothorax.
+* **Acute:** Laryngeal edema, Hypoxic brain injury, [[Respiratory/Pneumothorax\|Pneumothorax]].
 * **Chronic (Delayed Diagnosis):**
-    * Recurrent Pneumonia (same lobe).
+    * [[Respiratory/Recurrent Pneumonia\|Recurrent Pneumonia]] (same lobe).
     * Lung Abscess.
     * Bronchiectasis (irreversible damage).

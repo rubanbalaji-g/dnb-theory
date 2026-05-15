@@ -6,7 +6,7 @@
 
 - Rare, severe blistering drug hypersensitivity reaction.
 - Lies on continuous clinical spectrum alongside Toxic Epidermal Necrolysis.
-- Stevens Johnson Syndrome strictly defined by affected body surface area < 10%.
+- [[Misc/Stevens Johnson Syndrome\|Stevens Johnson Syndrome]] strictly defined by affected body surface area < 10%.
 - Overlap syndrome features 10 to 30% affected body surface area.
 - Toxic Epidermal Necrolysis defined by > 30% affected body surface area.
 
@@ -42,7 +42,7 @@
 ### Cutaneous Lesions
 
 - Eruption begins abruptly on trunk with erythematous or purpuric macules.
-- Papules absent, distinguishing from typical Erythema Multiforme.
+- Papules absent, distinguishing from typical [[Misc/Erythema Multiforme\|Erythema Multiforme]].
 - Central necrosis develops rapidly, evolving into atypical target lesions, vesicles, and bullae.
 - Process results in large areas of epidermal denudation.
 - Positive Nikolsky sign characterized by skin denudation with gentle tangential pressure.
@@ -67,11 +67,11 @@
 ## Differential Diagnosis
 
 - Toxic Epidermal Necrolysis.
-- Erythema Multiforme (distinct due to acral distribution, classic target lesions, and Herpes Simplex Virus etiology).
+- [[Misc/Erythema Multiforme\|Erythema Multiforme]] (distinct due to acral distribution, classic target lesions, and Herpes Simplex Virus etiology).
 - Drug Rash with Eosinophilia and Systemic Symptoms.
 - Reactive Infectious Mucocutaneous Eruption.
 - Staphylococcal Scalded Skin Syndrome (cleavage plane intraepidermal, lacks extensive mucosal necrosis).
-- Kawasaki disease.
+- [[Rheumatology/Kawasaki Disease\|Kawasaki disease]].
 
 ## Management And Complications
 

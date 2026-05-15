@@ -63,15 +63,15 @@ Untreated or severe empyema leads to localized and systemic sequelae.
 - Bronchopleural fistula.
 - Pyopneumothorax.
 - Empyema necessitans (pus dissects through chest wall).
-- Purulent pericarditis.
+- Purulent [[Cardiology/Pericarditis\|pericarditis]].
 - Pulmonary abscesses.
-- Peritonitis (diaphragmatic extension).
+- [[Gastrointestinal/Peritonitis\|Peritonitis]] (diaphragmatic extension).
 - Rib osteomyelitis.
 
 ### Systemic Complications
 
 - Septicemia (common in _H. influenzae_ and pneumococcal infections).
-- Meningitis.
+- [[Neurology/Meningitis\|Meningitis]].
 - Suppurative arthritis.
 - Septic osteomyelitis.
 
@@ -95,7 +95,7 @@ Thoracentesis essential for definitive diagnosis.
 
 - Complete Blood Count: Leukocytosis.
 - Inflammatory Markers: C-Reactive Protein (CRP) trend monitoring.
-- Metabolic Panel: Electrolytes (assess for Syndrome of Inappropriate Antidiuretic Hormone Secretion - SIADH), total proteins, albumin.
+- Metabolic Panel: Electrolytes (assess for Syndrome of Inappropriate Antidiuretic Hormone Secretion - [[Endocrinology/SIADH\|SIADH]]), total proteins, albumin.
 - Blood Culture: Typically low positivity, but necessary.
 
 ## Management Principles

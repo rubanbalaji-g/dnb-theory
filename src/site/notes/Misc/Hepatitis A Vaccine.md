@@ -4,7 +4,7 @@
 
 ## Epidemiology And Rationale
 
-- Hepatitis A virus causes benign, asymptomatic infection in young children.
+- [[Gastrointestinal/Hepatitis A\|Hepatitis A]] virus causes benign, asymptomatic infection in young children.
 - Disease severity and mortality increase significantly in adolescents and adults.
 - Shifting endemicity in India leaves older populations susceptible, contributing to recurring outbreaks and fulminant hepatic failure.
 
@@ -30,8 +30,8 @@
 
 ## High-Risk Indications
 
-- Chronic liver disease patients.
-- Carriers of hepatitis b and c viruses.
+- [[Gastrointestinal/Chronic Liver Disease\|Chronic liver disease]] patients.
+- Carriers of [[Gastrointestinal/Hepatitis B\|hepatitis b]] and c viruses.
 - Congenital or acquired immunodeficiency.
 - Organ transplant recipients.
 - Travelers visiting highly endemic areas.
@@ -46,6 +46,6 @@
 
 ## Storage Guidelines
 
-- Maintain continuous cold chain between 2 and 8 degrees celsius.
+- Maintain continuous [[Misc/Cold Chain\|cold chain]] between 2 and 8 degrees celsius.
 - Do not freeze.
 - Protect live vaccines from light.

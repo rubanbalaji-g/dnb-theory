@@ -5,7 +5,7 @@
 - disease which produce antibodies against neuronal cell surface proteins
 - sometimes responds to immunoglobulins
 ## Types of Autoimmune Encephalopathy
-- possible autoimmune encephalitis
+- possible [[Neurology/Autoimmune Encephalitis\|autoimmune encephalitis]]
 - probable antibody negative encephalitis
 - definite antibody positive encephalitis
 ## Anti N-methyl D-Aspartate Receptor Encephalitis
@@ -43,7 +43,7 @@
 	- Extreme delta brush - characterized by beta-delta complexes
 - association with tumor (teratoma) in 40% of female older than 12
 - Association with HSV1
-- doubtful association with mycoplasma, HHV 6, enterovirus, COVID 19 and Japanese Encephalitis
+- doubtful association with mycoplasma, HHV 6, enterovirus, COVID 19 and [[Infectious Diseases/Japanese Encephalitis\|Japanese Encephalitis]]
 ### Treatment
 - Tumor removal and Immunotherapy
 	- Immunotherapy

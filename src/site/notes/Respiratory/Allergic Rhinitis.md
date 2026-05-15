@@ -11,8 +11,8 @@
 - Cardinal symptoms include sneezing, rhinorrhea, nasal itching, nasal block.
 - Diagnosis requires minimum two cardinal symptoms present >1 hour/day most days annually.
 - Affects 10-30% adults, nearly 40% children.
-- Strong asthma association; 80% asthmatics possess allergic rhinitis.
-- Conversely, 50% allergic rhinitis patients possess asthma.
+- Strong [[Respiratory/Asthma\|asthma]] association; 80% asthmatics possess [[Respiratory/Allergic Rhinitis\|allergic rhinitis]].
+- Conversely, 50% [[Respiratory/Allergic Rhinitis\|allergic rhinitis]] patients possess [[Respiratory/Asthma\|asthma]].
 
 ## Classification
 
@@ -41,7 +41,7 @@
 
 |Category|Associated Conditions|
 |---|---|
-|Primary|Asthma, sinusitis, otitis media with effusion, conjunctivitis, laryngitis, atopic dermatitis, recurrent upper respiratory tract infections, obstructive sleep apnea.|
+|Primary|[[Respiratory/Asthma\|Asthma]], sinusitis, otitis media with effusion, conjunctivitis, laryngitis, atopic dermatitis, recurrent upper respiratory tract infections, [[Respiratory/Obstructive Sleep Apnea\|obstructive sleep apnea]].|
 |Secondary|Decreased quality life, adenoid hypertrophy, snoring, bruxism, dental malocclusion, learning impairment, attention impairment.|
 
 ## Evaluation And Diagnosis

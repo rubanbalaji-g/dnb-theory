@@ -16,7 +16,7 @@ The classification is age-dependent (American Thoracic Society / chILD Foundatio
     * Congenital Alveolar Dysplasia.
 2.  **Growth Abnormalities:**
     * Pulmonary Hypoplasia.
-    * Chronic Lung Disease of Prematurity (BPD).
+    * [[Respiratory/Chronic Lung Disease\|Chronic Lung Disease]] of Prematurity (BPD).
 3.  **Specific Conditions of Unknown Etiology:**
     * **Neuroendocrine Hyperplasia of Infancy (NEHI):** Benign, "noisy breather."
     * Pulmonary Interstitial Glycogenosis (PIG).
@@ -27,7 +27,7 @@ The classification is age-dependent (American Thoracic Society / chILD Foundatio
 1.  **Systemic Disease Associated:**
     * Connective Tissue Disease (SLE, JIA).
     * Sarcoidosis.
-    * Langerhans Cell Histiocytosis (LCH).
+    * [[Hematology/Langerhans Cell Histiocytosis\|Langerhans Cell Histiocytosis]] (LCH).
 2.  **Environmental/Inhalational:**
     * Hypersensitivity Pneumonitis (e.g., Bird fancier's lung).
 3.  **Immunocompromised Host:**

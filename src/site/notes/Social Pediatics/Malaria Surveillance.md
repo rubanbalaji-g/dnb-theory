@@ -3,8 +3,8 @@
 ---
 
 ## Introduction
-- Core intervention under **National Centre for Vector Borne Diseases Control (NCVBDC)** (formerly NVBDCP) and **National Malaria Elimination Programme (NMEP)**
-- National Strategic Plan (NSP) 2023–2027: Transforms malaria surveillance into a **real-time, case-based, foci-based core strategy** for elimination (target: zero indigenous cases by 2027)
+- Core intervention under **National Centre for Vector Borne Diseases Control (NCVBDC)** (formerly NVBDCP) and **National [[Infectious Diseases/Malaria\|Malaria]] Elimination Programme (NMEP)**
+- National Strategic Plan (NSP) 2023–2027: Transforms [[Social Pediatics/Malaria Surveillance\|malaria surveillance]] into a **real-time, case-based, foci-based core strategy** for elimination (target: zero indigenous cases by 2027)
 - Integrated with Integrated Health Information Portal (IHIP) for near real-time web-based reporting
 - Follows **Test-Treat-Track (3Ts)** strategy with mandatory public + private sector notification
 
@@ -29,7 +29,7 @@
 - Fever screening + testing of contacts
 
 ### 4. Sentinel Surveillance
-- Designated hospitals for severe malaria monitoring and drug resistance
+- Designated hospitals for severe [[Infectious Diseases/Malaria\|malaria]] monitoring and drug resistance
 
 ### 5. Entomological Surveillance
 - Vector density, larval habitats, insecticide resistance monitoring
@@ -43,7 +43,7 @@
 ## Case Definitions & Diagnosis
 - **Suspected**: Fever with or without chills/rigors
 - **Confirmed**: Positive RDT or microscopy (Pf/Pv/Pm/Po/Pk)
-- **Severe Malaria**: As per WHO criteria (cerebral malaria, severe anemia, ARDS, etc.)
+- **Severe [[Infectious Diseases/Malaria\|Malaria]]**: As per WHO criteria ([[Infectious Diseases/Cerebral Malaria\|cerebral malaria]], severe anemia, ARDS, etc.)
 - Universal access to quality-assured RDT/microscopy; PCR for confirmation in elimination settings
 - Private sector mandatory reporting via IHIP
 
@@ -55,8 +55,8 @@
 
 ## Integration with Child Health Programmes
 - RBSK: Screening for fever/anemia in school children
-- RKSK: Adolescent malaria awareness
-- FBNC/SNCU: Severe malaria management in neonates/infants
+- RKSK: Adolescent [[Infectious Diseases/Malaria\|malaria]] awareness
+- FBNC/SNCU: Severe [[Infectious Diseases/Malaria\|malaria]] management in neonates/infants
 - SAANS/Anemia Mukt Bharat: Overlap with ARI/anemia
 - ABDM/ABHA: Digital case records & tracking
 

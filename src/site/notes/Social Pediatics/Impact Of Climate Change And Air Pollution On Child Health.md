@@ -15,23 +15,23 @@ Children bear a disproportionate burden of environmental health threats. They ar
 
 ### Respiratory System
 * Indoor Air Pollution: In developing regions, indoor combustion of solid biomass fuels generates extremely high PM2.5 levels, serving as a primary driver of acute lower respiratory tract infections (ALRTI) like severe pneumonia.
-* Lung Development: Chronic exposure to high ambient Air Quality Index (AQI) environments leads to measurable deficits in lung function growth and altered alveolar architecture.
-* Morbidity: Exposure acts as a potent trigger for exacerbations of reactive airway disease, increases the lifetime prevalence of childhood asthma, and exacerbates allergic rhinitis.
+* Lung Development: Chronic exposure to high ambient Air Quality [[Statistics/Index\|Index]] (AQI) environments leads to measurable deficits in lung function growth and altered alveolar architecture.
+* Morbidity: Exposure acts as a potent trigger for exacerbations of reactive airway disease, increases the lifetime prevalence of childhood [[Respiratory/Asthma\|asthma]], and exacerbates [[Respiratory/Allergic Rhinitis\|allergic rhinitis]].
 
 ### Pediatric Neurodevelopment
 * Neuroinflammation: Airborne toxicants, specifically PM2.5 and diesel exhaust particles, penetrate the central nervous system via the olfactory bulb or systemic circulation, causing chronic microglial activation and neuroinflammation.
 * Cognitive And Behavioral Deficits: Gestational and early childhood exposure is linked to significant reductions in cognitive and motor development scores on standard developmental assessments at ages 1 to 3 years.
-* Long-Term Risks: Epidemiological data links chronic exposure to a higher incidence of Attention Deficit Hyperactivity Disorder (ADHD) and early functional deficits.
+* Long-Term Risks: Epidemiological data links chronic exposure to a higher incidence of Attention Deficit Hyperactivity Disorder ([[Development/ADHD\|ADHD]]) and early functional deficits.
 
 ## Impact Of Climate Change
 
 ### Infectious Diseases And Vector Dynamics
-* Vector-Borne Diseases: Rising ambient temperatures and altered precipitation expand the geographic range, survival time, and breeding seasons of vectors (Aedes, Anopheles), escalating the pediatric burden of Dengue, Malaria, and Zika.
+* Vector-Borne Diseases: Rising ambient temperatures and altered precipitation expand the geographic range, survival time, and breeding seasons of vectors (Aedes, Anopheles), escalating the pediatric burden of [[Infectious Diseases/Dengue\|Dengue]], [[Infectious Diseases/Malaria\|Malaria]], and Zika.
 * Water-Borne Diseases: Flooding and extreme weather events compromise municipal sanitation infrastructure, increasing exposure to diarrheal pathogens and amplifying the cycle of infection and malnutrition.
 
 ### Nutrition And Growth (The First 1000 Days)
 * Food Insecurity: Climate shocks, prolonged droughts, and agrarian distress severely impact agricultural yields, acting as a key structural driver for maternal and pediatric food insecurity.
-* Malnutrition Pathways: Exacerbates the prevalence of severe acute malnutrition (SAM), stunting, and critical micronutrient deficiencies (e.g., iron, vitamin A).
+* Malnutrition Pathways: Exacerbates the prevalence of severe acute malnutrition (SAM), stunting, and critical micronutrient deficiencies (e.g., iron, [[Nutrition/Vitamin A\|vitamin A]]).
 * Fetal Programming: Poor maternal nutrition secondary to climate distress programs the fetal metabolism during gestation, increasing the offspring's lifetime susceptibility to non-communicable diseases (NCDs) such as childhood obesity, insulin resistance, and early-onset hypertension.
 
 ### Thermal Stress And Trauma

@@ -7,7 +7,7 @@
 - Represent critical milestones in combating _Plasmodium falciparum_ infections globally.
 - Target pre-erythrocytic stage specifically.
 - Prevent parasite from establishing initial hepatic infection.
-- Confer maximum impact when combined with seasonal malaria chemoprevention and insecticide-treated bed nets.
+- Confer maximum impact when combined with seasonal [[Infectious Diseases/Malaria\|malaria]] chemoprevention and insecticide-treated bed nets.
 - Save child lives and significantly reduce all-cause mortality in endemic areas.
 
 ## Approved Vaccines
@@ -17,18 +17,18 @@
 - First vaccine recommended for human parasitic disease by World Health Organization.
 - Recombinant fusion protein based on repeat sequence of circumsporozoite protein antigen.
 - Expressed on surface of _P. falciparum_ sporozoites.
-- Contains S antigen derived from hepatitis B surface antigen.
+- Contains S antigen derived from [[Gastrointestinal/Hepatitis B\|hepatitis B]] surface antigen.
 - Utilizes proprietary AS01 liquid adjuvant.
-- Demonstrates over 50% reduction in clinical malaria cases during first 12 months post-vaccination.
+- Demonstrates over 50% reduction in clinical [[Infectious Diseases/Malaria\|malaria]] cases during first 12 months post-vaccination.
 - Efficacy declines rapidly over time without timely booster doses.
 
 ### R21/Matrix-M Vaccine
 
 - Recommended by World Health Organization in 2023.
 - Virus-like protein based on circumsporozoite protein from _P. falciparum_ strain NF54.
-- Fused directly to N-terminus of hepatitis B surface antigen.
+- Fused directly to N-terminus of [[Gastrointestinal/Hepatitis B\|hepatitis B]] surface antigen.
 - Utilizes Matrix-M proprietary adjuvant.
-- Shows 71-76% efficacy against clinical malaria episodes over 12 months.
+- Shows 71-76% efficacy against clinical [[Infectious Diseases/Malaria\|malaria]] episodes over 12 months.
 - Prevents nearly 75% of cases when administered prior to rainy season in highly seasonal transmission areas.
 
 ## Immunization Schedule
@@ -50,7 +50,7 @@
 
 ### Multi-Stage Vaccines
 
-- Second Generation Malaria Vaccine Consortium developing candidates targeting multiple parasite lifecycle stages simultaneously.
+- Second Generation [[Misc/Malaria Vaccine\|Malaria Vaccine]] Consortium developing candidates targeting multiple parasite lifecycle stages simultaneously.
 - Combines R21 antigen with blood-stage antigens RH5.1 and R78C.
 - Targets RIPR and CyRPA antigens to block red blood cell invasion by merozoites.
 - Aims for stronger, longer-lasting protection and significantly reduced disease transmission.

@@ -13,12 +13,12 @@
 
 |Category|Specific Conditions|Key Clinical Features|
 |:--|:--|:--|
-|Infectious|Orbital cellulitis|Classic triad includes proptosis, painful ophthalmoplegia, and potentially decreased visual acuity.|
-|Infectious|Bacterial rhinosinusitis|Orbital extension from ethmoid sinuses causes proptosis alongside diplopia and severe headache.|
-|Inflammatory|Nonspecific orbital inflammation|Idiopathic inflammatory process presenting with periorbital edema, pain, and proptosis.|
+|Infectious|Orbital cellulitis|Classic triad includes [[Misc/Proptosis\|proptosis]], painful ophthalmoplegia, and potentially decreased visual acuity.|
+|Infectious|Bacterial rhinosinusitis|Orbital extension from ethmoid sinuses causes [[Misc/Proptosis\|proptosis]] alongside diplopia and severe headache.|
+|Inflammatory|Nonspecific orbital inflammation|Idiopathic inflammatory process presenting with periorbital edema, pain, and [[Misc/Proptosis\|proptosis]].|
 |Allergic|Allergic fungal sinusitis|Extensive disease expands ethmoid sinuses causing lateral displacement, or frontal sinuses causing inferolateral displacement.|
-|Neoplastic|Orbital tumors|Frequent in neurofibromatosis; teratomas exhibit explosive rapid growth and proptosis at birth.|
-|Vascular|Carotid-cavernous fistula|Presents with proptosis, diplopia, and characteristic orbital bruit.|
+|Neoplastic|Orbital tumors|Frequent in neurofibromatosis; teratomas exhibit explosive rapid growth and [[Misc/Proptosis\|proptosis]] at birth.|
+|Vascular|Carotid-cavernous fistula|Presents with [[Misc/Proptosis\|proptosis]], diplopia, and characteristic orbital bruit.|
 
 ## Clinical Evaluation And Signs
 

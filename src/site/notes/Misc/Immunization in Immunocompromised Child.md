@@ -10,7 +10,7 @@
 - Antibody titer monitoring required to ensure seroprotection.
 - Live vaccines contraindicated in severe immunodeficiency.
 - Mild to moderate immunodeficiency permits live vaccines if benefits outweigh risks.
-- Household contacts must avoid transmissible live vaccines, notably oral polio vaccine (OPV).
+- Household contacts must avoid transmissible live vaccines, notably [[Misc/Oral Polio Vaccine\|oral polio vaccine]] (OPV).
 - Nontransmissible live vaccines, including measles, mumps, rubella (MMR) and varicella, remain safe for household contacts.
 - Postexposure prophylaxis requires specific immunoglobulins for major exposures (rabies, tetanus, varicella), irrespective of prior vaccination history.
 
@@ -20,14 +20,14 @@ Vaccine administration depends upon specific immune compartment defects.
 
 ### B-Lymphocyte Defects
 
-- Disorders include X-linked agammaglobulinemia (XLA) and common variable immunodeficiency (CVID).
+- Disorders include [[Infectious Diseases/X-Linked Agammaglobulinemia (XLA)\|X-linked agammaglobulinemia (XLA)]] and common variable immunodeficiency (CVID).
 - All live vaccines contraindicated.
-- Annual inactivated influenza vaccine (IIV) recommended.
+- Annual inactivated [[Misc/Influenza Vaccine\|influenza vaccine]] (IIV) recommended.
 - Protection primarily provided via immunoglobulin replacement therapy.
 
 ### T-Lymphocyte Defects
 
-- Disorders include severe combined immunodeficiency (SCID) and complete DiGeorge syndrome.
+- Disorders include [[Infectious Diseases/Severe Combined Immunodeficiency (SCID)\|severe combined immunodeficiency (SCID)]] and complete DiGeorge syndrome.
 - All live viral and bacterial vaccines absolutely contraindicated.
 - Inactivated vaccines deemed safe but often ineffective.
 - Partial DiGeorge syndrome permits age-appropriate inactivated vaccines; live vaccines considered if CD3+ >500/mm³ and CD8+ >200/mm³.
@@ -56,12 +56,12 @@ Vaccine administration depends upon specific immune compartment defects.
 
 |Vaccine|Asymptomatic HIV|Symptomatic HIV|
 |:--|:--|:--|
-|BCG|Administer at birth|Contraindicated|
+|[[Misc/BCG\|BCG]]|Administer at birth|Contraindicated|
 |DTwP/DTaP/Tdap|Routine schedule|Routine schedule|
 |Polio|IPV preferred|IPV preferred|
 |MMR|Administer at 9, 15 months, 5 years|Consider if CD4+ >15%|
 |Varicella|Two doses|Consider if CD4+ >15%|
-|Hepatitis B|Routine schedule|Double dose, four doses, titer check|
+|[[Gastrointestinal/Hepatitis B\|Hepatitis B]]|Routine schedule|Double dose, four doses, titer check|
 |Pneumococcal|PCV and PPSV23 indicated|PCV and PPSV23 indicated|
 
 ### Corticosteroid And Immunosuppressive Therapy
@@ -80,14 +80,14 @@ Vaccine administration depends upon specific immune compartment defects.
 - Live vaccines contraindicated during therapy and for 6 months post-chemotherapy.
 - Non-live vaccines deferred until 6 months post-treatment to ensure durable immunity.
 - Annual IIV recommended during ongoing chemotherapy.
-- Hepatitis B vaccine recommended for previously unimmunized children at risk of transfusion-transmitted infections.
+- [[Gastrointestinal/Hepatitis B\|Hepatitis B]] vaccine recommended for previously unimmunized children at risk of transfusion-transmitted infections.
 - Sibling contacts must avoid OPV; IPV substitution mandatory.
 - Postexposure rabies prophylaxis requires specific immunoglobulin and full vaccine course regardless of prior immunization.
 
 ### Hematopoietic Stem Cell Transplants
 
 - Recipients lose memory immune responses post-ablation.
-- Inactivated vaccines (DTP, Hib, IPV, Hepatitis B, PCV) commence 6-12 months post-HSCT.
+- Inactivated vaccines (DTP, Hib, IPV, [[Gastrointestinal/Hepatitis B\|Hepatitis B]], PCV) commence 6-12 months post-HSCT.
 - Administer annual IIV starting 6 months post-HSCT.
 - Live vaccines (MMR, Varicella) considered 24 months post-HSCT if immunocompetent and free of active graft-versus-host disease.
 

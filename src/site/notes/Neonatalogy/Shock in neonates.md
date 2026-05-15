@@ -61,16 +61,16 @@ Additional features includes (to strengthen the diagnosis)
 | ------------------------ | ----------------------------------------------------------- | --------------------------------------------------------------------- | ---------------------------------------------------------- |
 | IVC collapsibility       | IVC collapsibility                                          | IVC collapsibility                                                    | IVC collapsibil                                            |
 | Left ventricular output  | systolic function and contractility                         | < 150 ml/kg/min                                                       | affected by PDA shunt                                      |
-| Right ventricular output | systolic function and contractility                         | < 150 ml/kg/min                                                       | affected by ASD / PFO                                      |
+| Right ventricular output | systolic function and contractility                         | < 150 ml/kg/min                                                       | affected by [[Cardiology/ASD\|ASD]] / PFO                                      |
 | ejection fraction        | systolic function and contactility                          | - 41-55% (mild reduction)<br>- 31- 40% (moderate)<br>- < 30% (severe) | affected by preload and after laod                         |
 | shortening fraction      | systolic function and contactility                          | < 25% to sd                                                           | affected by preload and after load                         |
 | superior vena cava flow  | cerebral blood flow return (surrogate for organ blood flow) | < 40 ml/kg/min in first 24-48 hrs                                     | difficult to measure <br> Only measure cerebral blood flow |
 
 ## other methods of assessment
-- chest  x ray -helpful to diagnose cardiomegaly, pulmonary oligemia or plethora, pleural effusion, pneumothorax
-- ECG - to diagnose myocardial injury and structural heart diseases
-- Perfusion index (PI) - ratio of pulsatile and non-pulsatile blood flow
-- plethysmograph variability index - derived from PI reflecting its dynamic change during one respiratory cycle
+- chest  x ray -helpful to diagnose cardiomegaly, pulmonary oligemia or plethora, pleural effusion, [[Respiratory/Pneumothorax\|pneumothorax]]
+- [[Misc/ECG\|ECG]] - to diagnose myocardial injury and structural heart diseases
+- Perfusion [[Statistics/Index\|index]] (PI) - ratio of pulsatile and non-pulsatile blood flow
+- plethysmograph variability [[Statistics/Index\|index]] - derived from PI reflecting its dynamic change during one respiratory cycle
 - Electrical bio-impedance and bio-reactance - continuous cardiac output measurement by measuring electrical impendence over thorax
 - cerebral and somatic oxygenation ( near infra-red spectrometry)
 
@@ -98,7 +98,7 @@ Additional features includes (to strengthen the diagnosis)
 - reduced stroke volume and low SBP, 
 - mimics
 	- cardiogenic shock - arrhythmias, cardiomyopathy
-	- pneumothorax, pleural effusion
+	- [[Respiratory/Pneumothorax\|pneumothorax]], pleural effusion
 
 # Management of shock
 ### Management of early signs of shock
@@ -135,7 +135,7 @@ Additional features includes (to strengthen the diagnosis)
 - adrenal insufficiency - use hydrocortisone
 - pulmonary artery hypertension - pulmonary vasodilator
 - refractory to two inotropes - consider hydrocortisone
-- rule out pneumothorax, cardiac tamponade, pleural collections
+- rule out [[Respiratory/Pneumothorax\|pneumothorax]], cardiac tamponade, pleural collections
 - use of two separate lines to provide maintenance fluids and inotropes is preferred
 - avoid using inotropes with vasculocorrosive drugs like calcium gluconate
 <img src=https://i.ibb.co/fYcRHfdR/EzDwCEW.jpg alt="algorithm for shock management">

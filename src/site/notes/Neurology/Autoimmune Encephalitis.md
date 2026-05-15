@@ -24,7 +24,7 @@
 - **Paraneoplastic:** Tumors expressing target neuronal antigens provoke immune response.
     - Frequent in adolescents/adults; rare in prepubertal children.
 - **Post-infectious/Viral:** Viral illnesses alter immune tolerance and increase blood-brain barrier permeability.
-    - Implicated agents: _Herpes simplex virus_ (HSV), _Mycoplasma pneumoniae_, Human herpesvirus 6 (HHV-6), Enterovirus, Influenza, COVID-19, Japanese encephalitis.
+    - Implicated agents: _Herpes simplex virus_ (HSV), _Mycoplasma pneumoniae_, Human herpesvirus 6 (HHV-6), Enterovirus, Influenza, [[Infectious Diseases/COVID-19\|COVID-19]], [[Infectious Diseases/Japanese Encephalitis\|Japanese encephalitis]].
     - Classical post-viral complication: Choreoathetosis post-HSV encephalitis (represents anti-NMDAR encephalitis triggered by HSV).
 
 ## DIAGNOSTIC CRITERIA
@@ -44,7 +44,7 @@ _Note: Alternative causes must be reasonably excluded for all categories._
 
 ### Anti-N-Methyl-D-Aspartate Receptor (NMDAR) Encephalitis
 
-- Most frequent autoimmune encephalitis post-ADEM in pediatric populations.
+- Most frequent [[Neurology/Autoimmune Encephalitis\|autoimmune encephalitis]] post-ADEM in pediatric populations.
 - Targets GluN1 subunit of NMDAR.
 - Female predominance (80% overall); male frequency >40% in children <12 years.
 
@@ -52,7 +52,7 @@ _Note: Alternative causes must be reasonably excluded for all categories._
 
 - **Prodrome:** Fever, headache, viral-like symptoms.
 - **Psychiatric/Behavioral Phase:** Anxiety, agitation, delusions, mania, insomnia.
-    - _Pediatric variants:_ Irritability, temper tantrums, mutism, autistic-like regression.
+    - _Pediatric variants:_ Irritability, [[Development/Temper Tantrums\|temper tantrums]], mutism, autistic-like regression.
 - **Neurologic Phase:** Decreased consciousness, seizures, status epilepticus.
 - **Movement Disorders:** Orofacial dyskinesias, choreoathetoid movements, limb dystonia.
     - _Pediatric variants:_ Cerebellar ataxia, hemiparesis.
@@ -87,13 +87,13 @@ _Note: Alternative causes must be reasonably excluded for all categories._
 
 |Syndrome/Antibody|Target Type|Core Clinical Features|Tumor Association / Prognosis|
 |:--|:--|:--|:--|
-|**Ophelia Syndrome (mGluR5)**|Cell Surface|Abnormal behavior, seizures, memory deficits.|Hodgkin lymphoma. Favorable recovery with treatment.|
+|**Ophelia Syndrome (mGluR5)**|Cell Surface|Abnormal behavior, seizures, memory deficits.|[[Hematology/Hodgkin Lymphoma\|Hodgkin lymphoma]]. Favorable recovery with treatment.|
 |**Bickerstaff Encephalitis (GQ1b)**|Cell Surface|Rapid bilateral ophthalmoplegia, ataxia, altered consciousness, hyperreflexia.|Good response to steroids/IVIG/Plasmapheresis.|
 |**GABABR**|Cell Surface|Encephalitis, seizures, cerebellar ataxia.|Rare in children.|
 |**DPPX**|Cell Surface|CNS hyperexcitability, Progressive encephalomyelitis with rigidity and myoclonus (PERM).|Rare in children.|
 |**GlyR**|Cell Surface|PERM, stiff person syndrome.|Rare in children.|
 |**GluK2**|Cell Surface|Cerebellitis, prominent ataxia.|Post-viral trigger typical.|
-|**Hu, Ma2, Amphiphysin**|Intracellular|Brainstem/limbic encephalitis, opsoclonus-myoclonus.|Neuroblastoma (Hu). Poor immunotherapy response.|
+|**Hu, Ma2, Amphiphysin**|Intracellular|Brainstem/limbic encephalitis, opsoclonus-myoclonus.|[[Hematology/Neuroblastoma\|Neuroblastoma]] (Hu). Poor immunotherapy response.|
 |**GAD65**|Intracellular|Encephalitis with refractory epilepsy.|Poor immunotherapy response.|
 
 ### Autoimmune Encephalopathies Associated with Specific Phenotypes
@@ -104,12 +104,12 @@ _Note: Alternative causes must be reasonably excluded for all categories._
     - Highly steroid-responsive.
 - **Rasmussen Encephalitis:**
     - Unknown immune mechanism; T-cell mediated suspicion.
-    - Features: Progressive refractory focal seizures, cognitive decline, progressive unilateral hemispheric atrophy.
+    - Features: Progressive refractory [[Neurology/Focal seizures\|focal seizures]], cognitive decline, progressive unilateral hemispheric atrophy.
     - Management: Functional hemispherectomy. Poor response to standard immunotherapy.
 - **Opsoclonus-Myoclonus Ataxia Syndrome (OMAS):**
     - Autoimmune B-cell trafficking disorder.
     - Features: Subacute irritability, tremor, ataxia, chaotic eye movements (opsoclonus).
-    - Tumor Association: Neuroblastoma (~40% cases).
+    - Tumor Association: [[Hematology/Neuroblastoma\|Neuroblastoma]] (~40% cases).
     - Treatment: ACTH, IVIG, Rituximab, tumor resection.
 - **Basal Ganglia Encephalitis:**
     - Infrequent Dopamine-2 Receptor (D2R) antibodies.
@@ -122,13 +122,13 @@ Differentiating AE from other etiologies is critical due to rapid treatment impl
 
 |Diagnosis Category|Differentiating Features|
 |:--|:--|
-|**Viral Encephalitis**|Acute onset, severe hyperthermia. Psychosis and dyskinesias significantly less frequent than in AE. Higher CSF pleocytosis/protein.|
+|**[[Neurology/Viral Encephalitis\|Viral Encephalitis]]**|Acute onset, severe hyperthermia. Psychosis and dyskinesias significantly less frequent than in AE. Higher CSF pleocytosis/protein.|
 |**New-Onset Psychosis**|Initial presentation of AE mimics psychosis; evolution of neurologic symptoms (seizures, dyskinesias) confirms AE.|
 |**Childhood Disintegrative Disorder**|Rapid loss of language, autistic features mimic AE. Unlike CDD, AE responds to immunotherapy.|
 |**Kleine-Levin Syndrome**|Hypersomnia, hyperphagia, hypersexuality. Relapsing-remitting course (unlike AE).|
 |**CNS Vasculitis**|Elevated systemic inflammatory markers (ESR, CRP). MRI shows ischemic microhemorrhages, leptomeningeal enhancement. Angiography/biopsy required.|
 |**Genetic/Metabolic**|HLH, Autoinflammatory syndromes (Aicardi-Goutières). Systemic features present (rash, cytopenias).|
-|**Acquired Demyelinating Syndromes**|ADEM, NMOSD. Distinguishable via MRI patterns and MOG/AQP4 antibody detection.|
+|**Acquired Demyelinating Syndromes**|[[Neurology/ADEM\|ADEM]], NMOSD. Distinguishable via MRI patterns and MOG/AQP4 antibody detection.|
 
 ## INVESTIGATIONS AND EVALUATION
 
@@ -144,7 +144,7 @@ Differentiating AE from other etiologies is critical due to rapid treatment impl
     - Rule out nonconvulsive status epilepticus.
     - Identifies characteristic patterns (e.g., extreme delta brush in NMDAR encephalitis).
 - **Tumor Surveillance:**
-    - Ultrasound/MRI of abdomen, pelvis, and testes to rule out occult malignancies (teratoma, neuroblastoma, Hodgkin lymphoma). Whole-body PET-CT for paraneoplastic suspicion.
+    - Ultrasound/MRI of abdomen, pelvis, and testes to rule out occult malignancies (teratoma, [[Hematology/Neuroblastoma\|neuroblastoma]], [[Hematology/Hodgkin Lymphoma\|Hodgkin lymphoma]]). Whole-body PET-CT for paraneoplastic suspicion.
 
 ## MANAGEMENT
 

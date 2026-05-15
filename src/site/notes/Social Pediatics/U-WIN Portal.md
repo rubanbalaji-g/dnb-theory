@@ -24,7 +24,7 @@ U-WIN is a comprehensive, citizen-centric digital platform designed to digitize 
 
 ## Implementation Structure
 - **Target Population:** 2.9 crore pregnant women and 2.6 crore infants annually.
-- **Vaccines Covered:** Covers all 12 Vaccine-Preventable Diseases (VPDs) under UIP (e.g., BCG, OPV, Pentavalent, Rotavirus, MR, PCV, DPT, Td).
+- **Vaccines Covered:** Covers all 12 Vaccine-Preventable Diseases (VPDs) under UIP (e.g., [[Misc/BCG\|BCG]], OPV, Pentavalent, Rotavirus, MR, PCV, DPT, Td).
 - **User Modules:** 
     1.  **Citizen Module:** For self-registration and certificate downloads.
     2.  **Vaccinator Module:** For recording administrative data and delivery outcomes.

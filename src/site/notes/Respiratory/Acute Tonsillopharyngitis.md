@@ -36,7 +36,7 @@
 ## Complications
 
 - Local suppurative: Parapharyngeal abscess, peritonsillar abscess, retropharyngeal abscess, sepsis.
-- Nonsuppurative: Acute rheumatic fever, acute post-streptococcal glomerulonephritis, reactive arthritis, pediatric autoimmune neuropsychiatric disorders.
+- Nonsuppurative: Acute rheumatic fever, [[Nephrology/Acute Post-Streptococcal Glomerulonephritis\|acute post-streptococcal glomerulonephritis]], reactive arthritis, pediatric autoimmune neuropsychiatric disorders.
 
 ## Diagnostic Evaluation
 
@@ -86,4 +86,4 @@ _Interpretation:_ Score 0-1: Do not test/treat. Score 2: Treat if rapid test pos
 - 5 episodes in two consecutive years.
 - 3 or more infections per year for three consecutive years despite medical therapy.
 - Chronic tonsillitis with streptococcal carrier state unresponsive to beta-lactamase-resistant antibiotics.
-- Diphtheria carriers, retention cysts, suppurative otitis media focus.
+- [[Infectious Diseases/Diphtheria\|Diphtheria]] carriers, retention cysts, suppurative otitis media focus.

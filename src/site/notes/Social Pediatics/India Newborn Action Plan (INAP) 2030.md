@@ -31,15 +31,15 @@ The INAP operational framework spans the continuum of care from pre-pregnancy to
 ### 1. Preconception and Antenatal Care
 * **Objective:** Optimize maternal health to prevent prematurity, low birth weight, and congenital anomalies.
 * **Key Interventions:**
-    * Iron and Folic Acid (IFA) supplementation to mitigate maternal anemia and prevent neural tube defects.
-    * Tetanus toxoid (TT) immunization.
+    * Iron and Folic Acid (IFA) supplementation to mitigate maternal anemia and prevent [[Neurology/Neural Tube Defects\|neural tube defects]].
+    * [[Misc/Tetanus Toxoid\|Tetanus toxoid]] (TT) immunization.
     * **Pradhan Mantri Surakshit Matritva Abhiyan (PMSMA):** Assured comprehensive and quality ANC by a medical officer/specialist on the 9th of every month.
     * Early identification and high-risk pregnancy management (e.g., PIH, gestational diabetes, infections).
 
 ### 2. Care During Labour and Childbirth
 * **Objective:** Prevent intrapartum complications (birth asphyxia) and fresh stillbirths.
 * **Key Interventions:**
-    * Promotion of institutional deliveries via Janani Suraksha Yojana (JSY), Janani Shishu Suraksha Karyakram (JSSK), and Surakshit Matritva Aashwasan (SUMAN).
+    * Promotion of institutional deliveries via Janani Suraksha Yojana (JSY), [[Social Pediatics/Janani Shishu Suraksha Karyakram (JSSK)\|Janani Shishu Suraksha Karyakram (JSSK)]], and Surakshit Matritva Aashwasan (SUMAN).
     * **LaQshya Initiative:** Upgrading labor rooms and maternity operation theatres to adhere to strict quality and intrapartum protocols.
     * Utilizing partographs for labor monitoring and administration of antenatal corticosteroids for anticipated preterm labor.
 
@@ -47,7 +47,7 @@ The INAP operational framework spans the continuum of care from pre-pregnancy to
 * **Objective:** Ensure intact survival in the "golden minute" and the immediate postnatal hours.
 * **Key Interventions:**
     * Provision of essential newborn care at dedicated Newborn Care Corners (NBCCs) located within delivery rooms.
-    * Standardized neonatal resuscitation capabilities via the Navjaat Shishu Suraksha Karyakram (NSSK) training.
+    * Standardized neonatal resuscitation capabilities via the [[Social Pediatics/Navjaat Shishu Suraksha Karyakram (NSSK)\|Navjaat Shishu Suraksha Karyakram (NSSK)]] training.
     * Strict adherence to delayed cord clamping, maintaining the warm chain, and immediate skin-to-skin contact.
     * Early initiation of breastfeeding (within one hour).
 
@@ -55,22 +55,22 @@ The INAP operational framework spans the continuum of care from pre-pregnancy to
 * **Objective:** Promote somatic growth, neurological development, and prevent community-acquired neonatal infections.
 * **Key Interventions:**
     * Exclusive breastfeeding promotion under the **MAA (Mothers' Absolute Affection)** program.
-    * Completion of birth-dose routine immunization (Hepatitis B, OPV, BCG) prior to institutional discharge.
+    * Completion of birth-dose routine immunization ([[Gastrointestinal/Hepatitis B\|Hepatitis B]], OPV, [[Misc/BCG\|BCG]]) prior to institutional discharge.
     * **Home Based Newborn Care (HBNC):** Scheduled domiciliary visits by ASHA workers to monitor weight, temperature, umbilical cord stump health, and feeding adequacy.
 
 ### 5. Care of the Small and Sick Newborn
 * **Objective:** Deliver specialized, high-acuity management for prematurity, neonatal sepsis, and hypoxic-ischemic encephalopathy.
 * **Key Interventions:**
-    * Tiered expansion of Facility Based Newborn Care (FBNC).
+    * Tiered expansion of [[Social Pediatics/Facility Based Newborn Care (FBNC)\|Facility Based Newborn Care (FBNC)]].
     * Establishment of Special Newborn Care Units (SNCUs) at district hospitals and Newborn Stabilization Units (NBSUs) at First Referral Units.
-    * Institutionalization of Kangaroo Mother Care (KMC) units for low birth weight infants.
+    * Institutionalization of [[Neonatalogy/Kangaroo Mother Care\|Kangaroo Mother Care]] (KMC) units for low birth weight infants.
     * Provision of non-invasive ventilation (CPAP) and safe oxygen delivery systems in SNCUs.
 
 ### 6. Care Beyond Newborn Survival
 * **Objective:** Optimize long-term neurodevelopmental outcomes and manage congenital anomalies.
 * **Key Interventions:**
-    * **Rashtriya Bal Swasthya Karyakram (RBSK):** Early pediatric screening for the "4 Ds": Defects at birth, Diseases, Deficiencies, and Developmental delays.
-    * Establishment of District Early Intervention Centers (DEICs) for longitudinal follow-up, early stimulation, and rehabilitation of high-risk SNCU graduates.
+    * **[[Social Pediatics/Rashtriya Bal Swasthya Karyakram (RBSK)\|Rashtriya Bal Swasthya Karyakram (RBSK)]]:** Early pediatric screening for the "4 Ds": Defects at birth, Diseases, Deficiencies, and Developmental delays.
+    * Establishment of District Early Intervention Centers (DEICs) for longitudinal follow-up, early stimulation, and rehabilitation of high-risk [[Neonatalogy/SNCU\|SNCU]] graduates.
 
 ## Health System Strengthening and Monitoring
 * **Bottleneck Assessment (BNA):** INAP relies on systematic BNA tools across states to dynamically identify and rectify gaps in health workforce, supply chain, and financing.

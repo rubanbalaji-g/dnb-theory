@@ -29,9 +29,9 @@
 |:--|:--|
 |Primary|Idiopathic|
 |Local Trauma|Digital manipulation (nose picking), facial trauma, septal perforation|
-|Inflammation & Infection|Upper respiratory tract infections, allergic rhinitis, sinusitis, foreign body, nasal diphtheria|
-|Neoplasms & Masses|Nasal polyps, juvenile nasopharyngeal angiofibroma, rhabdomyosarcoma|
-|Hematologic & Coagulopathies|Hemophilia, von Willebrand disease, leukemia, immune thrombocytopenia, platelet dysfunction, aplastic anemia, liver disease|
+|Inflammation & Infection|Upper respiratory tract infections, [[Respiratory/Allergic Rhinitis\|allergic rhinitis]], sinusitis, foreign body, nasal [[Infectious Diseases/Diphtheria\|diphtheria]]|
+|Neoplasms & Masses|[[Respiratory/Nasal Polyps\|Nasal polyps]], juvenile nasopharyngeal angiofibroma, [[Hematology/Rhabdomyosarcoma\|rhabdomyosarcoma]]|
+|Hematologic & Coagulopathies|Hemophilia, [[Hematology/Von Willebrand Disease\|von Willebrand disease]], leukemia, immune thrombocytopenia, platelet dysfunction, [[Hematology/Aplastic Anemia\|aplastic anemia]], liver disease|
 |Medications|Anticoagulants, nasal steroid sprays, aspirin, nonsteroidal anti-inflammatory drugs|
 |Vascular Anomalies|Hemangiomas, hereditary hemorrhagic telangiectasia (Osler-Weber-Rendu syndrome)|
 |Systemic Conditions|Hypertension, pertussis, renal failure|
@@ -45,7 +45,7 @@
 
 - Occurs without warning; blood flows slowly but freely from nostrils.
 - Bleeding often follows physical exercise in children with nasal lesions.
-- Nighttime bleeding often swallowed; manifests later as hematemesis or melena.
+- Nighttime bleeding often swallowed; manifests later as [[Gastrointestinal/Hematemesis\|hematemesis]] or melena.
 - Posterior epistaxis presents with copious bleeding; mimics upper gastrointestinal source.
 - Unilateral foul-smelling discharge suggests foreign body.
 - Profuse, recurrent unilateral bleeding in adolescent males strongly suggests juvenile nasopharyngeal angiofibroma.
@@ -69,14 +69,14 @@
 - Palpate abdomen for hepatosplenomegaly signifying malignancy or liver disease.
 - Perform anterior rhinoscopy using otoscope with wide-tipped speculum.
 - Clear purulent secretions and blood clots to visualize bleeding point.
-- Identify transverse nasal crease or Dennie-Morgan folds indicating allergic rhinitis.
+- Identify transverse nasal crease or Dennie-Morgan folds indicating [[Respiratory/Allergic Rhinitis\|allergic rhinitis]].
 - Refer to otolaryngologist for flexible endoscopic evaluation if bleeding point remains unidentified.
 
 ### Investigations
 
 - Usually self-limited; potentially life-threatening episodes require detailed evaluation.
 - Perform full blood count, urgent blood grouping, cross-matching, and coagulation studies for recurrent, prolonged, or significant bleeding.
-- Screen for von Willebrand disease in patients with familial bleeding history; standard coagulation profiles may appear normal.
+- Screen for [[Hematology/Von Willebrand Disease\|von Willebrand disease]] in patients with familial bleeding history; standard coagulation profiles may appear normal.
 
 ## Management
 
@@ -114,5 +114,5 @@
 - Discourage digital manipulation and nose picking.
 - Maintain proper room humidification during dry winter months.
 - Apply petrolatum ointment to nasal septum; increases moisture and prevents fissuring.
-- Treat underlying allergic rhinitis and nasal infections promptly.
+- Treat underlying [[Respiratory/Allergic Rhinitis\|allergic rhinitis]] and nasal infections promptly.
 - Discontinue offending medications such as nasal steroid sprays if implicated.

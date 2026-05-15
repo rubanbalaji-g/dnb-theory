@@ -9,7 +9,7 @@
 - Paediatric TB accounts for 6–7% of total notified cases (~3.42 lakh children 0–14 years estimated annually; ~1 lakh 0–14 years + 1.4 lakh 15–18 years reported)
 
 ## Burden & Challenges in Children
-- Higher proportion of extrapulmonary TB (EPTB) and severe disseminated forms (miliary, TB meningitis) compared to adults
+- Higher proportion of extrapulmonary TB (EPTB) and severe disseminated forms (miliary, TB [[Neurology/Meningitis\|meningitis]]) compared to adults
 - Paucibacillary disease → lower yield of conventional smear microscopy
 - Diagnostic difficulties: Non-specific symptoms, inability to expectorate sputum, overlap with malnutrition/pneumonia
 - High under-diagnosis & under-reporting; significant contribution to under-5 mortality
@@ -33,7 +33,7 @@
 ## Treatment – Drug-Susceptible TB (DS-TB)
 - **Daily weight-band paediatric Fixed-Dose Combinations (FDC) dispersible tablets** (preferred)
 - Standard regimen: **2HRZE (Intensive phase) / 4HRE (Continuation phase)** – total 6 months
-- Extension of continuation phase to 7–10 months in TB meningitis, osteoarticular, disseminated TB
+- Extension of continuation phase to 7–10 months in TB [[Neurology/Meningitis\|meningitis]], osteoarticular, [[Infectious Diseases/Disseminated TB\|disseminated TB]]
 - Doses (mg/kg/day): H 7–15 (avg 10), R 10–20 (avg 15), Z 30–40 (avg 35), E 15–25 (avg 20)
 - Pyridoxine supplementation: 10 mg/day (<5 years), 25 mg/day (>5 years) for all INH-containing regimens
 - Nutritional support: Nikshay Poshan Yojana (₹500/month to all notified patients)
@@ -44,10 +44,10 @@
 - INH mono/poly-resistant: Levofloxacin-based regimen
 - Longer oral M/XDR-TB regimen (18–20 months) using Group A/B/C drugs based on DST
 - Delamanid approved for ≥6 years in selected cases
-- Pre-treatment evaluation & monthly monitoring (ECG, LFT, hearing)
+- Pre-treatment evaluation & monthly monitoring ([[Misc/ECG\|ECG]], LFT, hearing)
 
 ## TB Preventive Therapy (TPT)
-- **All household contacts <5 years** of pulmonary TB index case offered TPT after active TB ruled out (CXR + clinical evaluation)
+- **All household contacts <5 years** of pulmonary TB [[Statistics/Index\|index]] case offered TPT after active TB ruled out (CXR + clinical evaluation)
 - Preferred regimens:
   - 3HP (Isoniazid + Rifapentine weekly × 3 months) – >2 years
   - 6H (Isoniazid daily × 6 months)

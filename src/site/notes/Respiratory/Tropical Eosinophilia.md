@@ -105,7 +105,7 @@
 
 ### Differential Diagnosis
 
-- Infectious Eosinophilia: _Strongyloides_, _Toxocara_, Ascariasis.
-- Respiratory: Bronchial asthma, Allergic Bronchopulmonary Aspergillosis (ABPA), Allergic rhinitis,.
+- Infectious Eosinophilia: _Strongyloides_, _Toxocara_, [[Infectious Diseases/Ascariasis\|Ascariasis]].
+- Respiratory: Bronchial [[Respiratory/Asthma\|asthma]], [[Respiratory/Allergic Bronchopulmonary Aspergillosis (ABPA)\|Allergic Bronchopulmonary Aspergillosis (ABPA)]], [[Respiratory/Allergic Rhinitis\|Allergic rhinitis]],.
 - Eosinophilic Syndromes: Acute/chronic eosinophilic pneumonia, Churg–Strauss syndrome, DRESS syndrome.
 - Infections: Miliary tuberculosis, Fungal pneumonia.

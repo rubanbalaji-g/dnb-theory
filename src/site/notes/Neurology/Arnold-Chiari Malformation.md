@@ -13,7 +13,7 @@ Arnold-Chiari Malformations (ACM) are a heterogeneous group of structural defect
 
 #### Chiari Type II (Classic Arnold-Chiari)
 * **Pathology:** Downward displacement of the cerebellar vermis, brainstem (pons and medulla), and fourth ventricle.
-* **Associations:** Nearly always associated with **Myelomeningocele** (MMC) and obstructive hydrocephalus (due to aqueductal stenosis).
+* **Associations:** Nearly always associated with **Myelomeningocele** (MMC) and obstructive [[Neurology/Hydrocephalus\|hydrocephalus]] (due to aqueductal stenosis).
 * **Radiological Signs:** "Beaking" of the tectum, low-lying torcular, and scalloping of the petrous bone.
 
 #### Chiari Type III
@@ -34,7 +34,7 @@ Arnold-Chiari Malformations (ACM) are a heterogeneous group of structural defect
     * Weak cry, swallowing difficulties, and chronic aspiration.
     * Opisthotonos and apneic spells.
 * **Older Children:** 
-    * Progressive hydrocephalus signs.
+    * Progressive [[Neurology/Hydrocephalus\|hydrocephalus]] signs.
     * Ataxia, spasticity, and hand weakness.
     * Scoliosis (often secondary to an underlying syrinx).
 
@@ -42,7 +42,7 @@ Arnold-Chiari Malformations (ACM) are a heterogeneous group of structural defect
 * **MRI Brain and Spine (Gold Standard):** 
     * To visualize the degree of tonsillar/vermicular herniation.
     * To rule out **Syringomyelia** (syrinx) or **Hydromyelia**.
-    * To assess for corpus callosum agenesis or hydrocephalus.
+    * To assess for corpus callosum agenesis or [[Neurology/Hydrocephalus\|hydrocephalus]].
 * **Cine-MRI:** To evaluate CSF flow dynamics at the craniocervical junction.
 * **Sleep Study:** If central apnea is suspected.
 
@@ -52,7 +52,7 @@ Arnold-Chiari Malformations (ACM) are a heterogeneous group of structural defect
     * **Duraplasty:** Opening the dura and patching it to expand the CSF space.
     * **Tonsillar Resection:** In severe Type I cases.
 * **Management of Comorbidities:**
-    * **Hydrocephalus:** Ventriculoperitoneal (VP) shunt. Note: Shunt malfunction can worsen Chiari symptoms.
+    * **[[Neurology/Hydrocephalus\|Hydrocephalus]]:** Ventriculoperitoneal (VP) shunt. Note: Shunt malfunction can worsen Chiari symptoms.
     * **MMC Repair:** Immediate postnatal (or fetal) closure of myelomeningocele.
 * **Follow-up:** Periodic monitoring for syrinx progression or recurrence of symptoms.
 

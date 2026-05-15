@@ -17,7 +17,7 @@
 |:--|:--|:--|
 |Middle Ear|Otitis media with effusion|Represents most common cause of dizziness in young children. Fluid accumulation alters middle-ear pressure dynamics.|
 |Vestibular|Benign paroxysmal vertigo|Most common cause of true vertigo in pediatric patients. Features short periods of vertigo lasting seconds to minutes with imbalance and nystagmus. Lacks hearing loss or tinnitus.|
-|Neurologic|Basilar or vestibular migraine|Common cause of episodic vertigo. Accompanied by headache in half to two-thirds of cases. Features rotary nystagmus, phonophobia, and photophobia.|
+|Neurologic|Basilar or vestibular [[Neurology/Migraine\|migraine]]|Common cause of episodic vertigo. Accompanied by headache in half to two-thirds of cases. Features rotary nystagmus, phonophobia, and photophobia.|
 |Structural|Perilymphatic fistula|Results from barotrauma, deep water diving, severe head trauma, or physical exertion. Characterized by sudden sensorineural hearing loss and vertigo.|
 |Structural|Semicircular canal dehiscence|Superior semicircular canal bone defect creates abnormal inner ear fluid movement.|
 
@@ -25,7 +25,7 @@
 
 ### Labyrinthitis (Vestibular Neuritis)
 
-- Develops as complication of acute otitis media, chronic otitis media, mastoiditis, or bacterial meningitis.
+- Develops as complication of [[Misc/Acute Otitis Media\|acute otitis media]], chronic otitis media, mastoiditis, or bacterial [[Neurology/Meningitis\|meningitis]].
 - Organisms enter labyrinth through internal auditory meatus, endolymphatic duct, perilymphatic duct, or vascular channels.
 - Presents with sudden rotatory vertigo, profound dysequilibrium, and deep-seated ear pain.
 - Child exhibits postural imbalance, frequently demonstrating furniture walking and falls toward affected side.

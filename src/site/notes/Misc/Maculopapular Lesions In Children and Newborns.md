@@ -29,7 +29,7 @@
 |Disease Entity|Cutaneous Morphology|Anatomical Distribution|Associated Clinical Features And Management|
 |:--|:--|:--|:--|
 |Systemic Lupus Erythematosus|Photosensitive erythematous macular or papular eruption; classic malar butterfly rash.|Photodistributed areas including face, upper trunk, extensor extremities.|Managed utilizing strict sun protection, sun avoidance, and low- to mid-potency topical corticosteroids.|
-|Kawasaki Disease|Polymorphic eruption manifesting variously as maculopapular or morbilliform eruptions.|Trunk, extremities, perineum.|Features high fever, cervical lymphadenopathy, erythematous cracked lips, strawberry tongue. First-line treatment utilizes aspirin and intravenous immunoglobulin.|
+|[[Rheumatology/Kawasaki Disease\|Kawasaki Disease]]|Polymorphic eruption manifesting variously as maculopapular or morbilliform eruptions.|Trunk, extremities, perineum.|Features high fever, cervical lymphadenopathy, erythematous cracked lips, strawberry tongue. First-line treatment utilizes aspirin and intravenous immunoglobulin.|
 |Immunoglobulin A Vasculitis|Palpable nonthrombocytopenic purpuric papules and plaques.|Gravity-dependent areas including buttocks and lower extremities.|Managed conservatively; self-resolves completely within 3-4 weeks.|
 
 ## Drug-Induced Maculopapular Eruptions

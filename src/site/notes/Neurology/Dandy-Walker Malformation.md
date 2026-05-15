@@ -3,7 +3,7 @@
 ---
 
 ### DEFINITION & CLASSIC TRIAD
-Dandy-Walker Malformation is a congenital posterior fossa anomaly characterized by a developmental failure of the roof of the fourth ventricle. The classic "Dandy-Walker Triad" includes:
+[[Neurology/Dandy-Walker Malformation\|Dandy-Walker Malformation]] is a congenital posterior fossa anomaly characterized by a developmental failure of the roof of the fourth ventricle. The classic "Dandy-Walker Triad" includes:
 1. Complete or partial agenesis of the cerebellar vermis.
 2. Cystic dilatation of the fourth ventricle.
 3. Enlarged posterior fossa with upward displacement of the tentorium, lateral sinuses, and torcular herophili (torcular-lambdoid inversion).
@@ -34,11 +34,11 @@ Dandy-Walker Malformation is a congenital posterior fossa anomaly characterized 
 ### INVESTIGATIONS
 1. **Neuroimaging (Gold Standard):**
     * **MRI Brain:** Best for assessing vermian anatomy, brainstem hypoplasia, and associated cortical malformations. Sagittal sections show "elevation of the torcular."
-    * **CT Scan:** Shows the "Cyst-like" posterior fossa and hydrocephalus (present in 80% of cases).
+    * **CT Scan:** Shows the "Cyst-like" posterior fossa and [[Neurology/Hydrocephalus\|hydrocephalus]] (present in 80% of cases).
     * **Antenatal USG:** Can detect DWM in the second trimester (look for "keyhole" appearance of the 4th ventricle).
-2. **Genetic Workup:** Karyotyping or Chromosomal Microarray if syndromic features are present.
+2. **Genetic Workup:** [[Genetics/Karyotyping\|Karyotyping]] or Chromosomal Microarray if syndromic features are present.
 ### MANAGEMENT
-* **Surgical Management:** Primary goal is treating hydrocephalus and reducing cyst pressure.
+* **Surgical Management:** Primary goal is treating [[Neurology/Hydrocephalus\|hydrocephalus]] and reducing cyst pressure.
     * **Cystoperitoneal Shunt (CP Shunt):** Shunting the posterior fossa cyst directly into the peritoneum.
     * **Ventriculoperitoneal Shunt (VP Shunt):** Shunting the lateral ventricles (often required if aqueductal stenosis is present).
     * **Combined Shunting:** Linking the cyst and ventricle to a single peritoneal limb to prevent upward/downward herniation.

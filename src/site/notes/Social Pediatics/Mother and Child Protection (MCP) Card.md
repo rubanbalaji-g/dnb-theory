@@ -29,7 +29,7 @@
 	- Age-appropriate milestones (green color)
 	- Parenting tips (blue color)
 	- Warning signs (red color)
-- **Nutrition & Others**: Exclusive breastfeeding, complementary feeding, deworming, Vitamin A, family planning methods
+- **Nutrition & Others**: Exclusive breastfeeding, [[Nutrition/Complementary Feeding\|complementary feeding]], deworming, [[Nutrition/Vitamin A\|Vitamin A]], family planning methods
 
 ## Color Coding & Counselling Features
 - Green: Normal milestones/activities

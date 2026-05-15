@@ -20,7 +20,7 @@
   - Child labour: 1.8–3.3 million (0.7–1.3%) depending on national vs. international definition  
   - Hazardous work: Significant proportion among adolescents  
 - **Geographic/Social Pattern**: Highest in rural areas (agriculture 70%), Uttar Pradesh, Bihar, Rajasthan, Maharashtra; higher among SC/ST, girls in domestic work, migrant children  
-- **Decline Trend**: Due to RTE Act 2009, NCLP, economic growth; but COVID-19 reversal noted in urban slums & informal sector
+- **Decline Trend**: Due to RTE Act 2009, NCLP, economic growth; but [[Infectious Diseases/COVID-19\|COVID-19]] reversal noted in urban slums & informal sector
 
 ## Causes and Risk Factors
 - **Poverty & Economic**: Family debt, low household income, migration  
@@ -50,7 +50,7 @@
 - **Constitutional Provisions**: Article 24 (no child <14 in hazardous work), Article 21A (RTE), Article 39(e&f)  
 - **Key Legislations**:  
   - Child & Adolescent Labour Act 2016 (stricter penalties: 6 months–2 years imprisonment + fine)  
-  - Juvenile Justice Act 2015 (care & protection)  
+  - [[Social Pediatics/Juvenile Justice Act\|Juvenile Justice Act]] 2015 (care & protection)  
   - RTE Act 2009, POCSO Act 2012, Bonded Labour Act  
 - **Programmes**:  
   - National Child Labour Project (NCLP) – now integrated with Samagra Shiksha Abhiyan (special training centres, vocational rehab)  
@@ -61,12 +61,12 @@
 - Weak enforcement in informal/unorganized sector (90% workforce)  
 - Poor rehabilitation & tracking of rescued children (high relapse)  
 - Inadequate inter-sectoral coordination (Labour, Education, Health, Police)  
-- COVID-19 & economic distress increased vulnerability  
+- [[Infectious Diseases/COVID-19\|COVID-19]] & economic distress increased vulnerability  
 - Data gaps & under-reporting
 
 ## Role of Pediatrician (Multifaceted – High-Yield)
 ### 1. **Clinical Role (OPD/Emergency/Inpatient)**
-   - High index of suspicion: Growth faltering, unexplained injuries, poor hygiene, school absenteeism, behavioural changes  
+   - High [[Statistics/Index\|index]] of suspicion: Growth faltering, unexplained injuries, poor hygiene, school absenteeism, behavioural changes  
    - Detailed history: Occupation, hours of work, family background, school attendance  
    - Comprehensive examination: Anthropometry, developmental assessment, signs of abuse/neglect/toxicity  
    - Management: Treat acute illnesses, nutritional rehabilitation, immunization catch-up, psychosocial support  

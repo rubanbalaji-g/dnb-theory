@@ -22,19 +22,19 @@
 |Memory Cells|Fails to induce memory B cells.|Induces robust immunological memory.|
 |Duration Of Protection|Brief protection requiring frequent revaccination.|Longer, consistent, and sustained protection.|
 |Booster Response|Poor response; potential for hyporesponsiveness.|Satisfactory and robust anamnestic response.|
-|Herd Immunity|Lacks effect on nasopharyngeal carriage; provides no herd immunity.|Significantly reduces nasopharyngeal carriage; provides excellent herd immunity.|
+|[[Misc/Herd Immunity\|Herd Immunity]]|Lacks effect on nasopharyngeal carriage; provides no [[Misc/Herd Immunity\|herd immunity]].|Significantly reduces nasopharyngeal carriage; provides excellent [[Misc/Herd Immunity\|herd immunity]].|
 
 ## Carrier Proteins
 
-- Tetanus toxoid utilizes detoxified tetanus toxin.
-- Diphtheria toxoid incorporates detoxified diphtheria toxin.
-- Cross-reactive material 197 represents nontoxic mutant diphtheria toxin.
+- [[Misc/Tetanus Toxoid\|Tetanus toxoid]] utilizes detoxified tetanus toxin.
+- [[Misc/Diphtheria Toxoid\|Diphtheria toxoid]] incorporates detoxified [[Infectious Diseases/Diphtheria\|diphtheria]] toxin.
+- Cross-reactive material 197 represents nontoxic mutant [[Infectious Diseases/Diphtheria\|diphtheria]] toxin.
 - Outer membrane protein derived from Neisseria meningitidis vesicles.
 - Protein D extracted from non-typeable Haemophilus influenzae.
 
 ## Common Clinical Examples
 
-- Haemophilus influenzae type b conjugate vaccine utilizes tetanus toxoid, diphtheria toxoid, cross-reactive material 197, or outer membrane protein.
-- Pneumococcal conjugate vaccines include 10-valent, 13-valent, 14-valent, and 20-valent formulations.
-- Typhoid conjugate vaccine utilizes tetanus toxoid or cross-reactive material 197 carrier proteins.
-- Meningococcal conjugate vaccines exist in monovalent, quadrivalent, and pentavalent formulations.
+- Haemophilus influenzae type b conjugate vaccine utilizes [[Misc/Tetanus Toxoid\|tetanus toxoid]], [[Misc/Diphtheria Toxoid\|diphtheria toxoid]], cross-reactive material 197, or outer membrane protein.
+- Pneumococcal [[Misc/Conjugate Vaccines\|conjugate vaccines]] include 10-valent, 13-valent, 14-valent, and 20-valent formulations.
+- Typhoid conjugate vaccine utilizes [[Misc/Tetanus Toxoid\|tetanus toxoid]] or cross-reactive material 197 carrier proteins.
+- Meningococcal [[Misc/Conjugate Vaccines\|conjugate vaccines]] exist in monovalent, quadrivalent, and pentavalent formulations.

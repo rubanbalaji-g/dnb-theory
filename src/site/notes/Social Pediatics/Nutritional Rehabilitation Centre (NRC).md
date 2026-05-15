@@ -31,12 +31,12 @@ Management at the NRC is strictly protocol-driven and divided into Stabilization
 
 ### 2. Prevent And Treat Hypothermia
 * Axillary temperature < 35.0°C (95°F).
-* Ensure "warm chain" (Kangaroo Mother Care, radiant warmers, wrapping, avoiding exposure).
+* Ensure "warm chain" ([[Neonatalogy/Kangaroo Mother Care\|Kangaroo Mother Care]], radiant warmers, wrapping, avoiding exposure).
 * Monitor temperature 2-hourly until stable.
 
 ### 3. Treat And Prevent Dehydration
 * Do not use standard ORS due to high sodium and low potassium.
-* Use ReSoMal (Rehydration Solution for Malnutrition): 5 ml/kg every 30 minutes for 2 hours, then 5-10 ml/kg/hour for the next 4-10 hours.
+* Use [[Nutrition/ReSoMal\|ReSoMal]] (Rehydration Solution for Malnutrition): 5 ml/kg every 30 minutes for 2 hours, then 5-10 ml/kg/hour for the next 4-10 hours.
 * IV fluids (Ringer's Lactate with 5% Dextrose) are strictly reserved for severe dehydration with shock.
 
 ### 4. Correct Electrolyte Imbalance
@@ -49,14 +49,14 @@ Management at the NRC is strictly protocol-driven and divided into Stabilization
 * Complicated/severe sickness: IV Ampicillin (50 mg/kg 6-hourly) + IV Gentamicin (7.5 mg/kg once daily) for 7 days. Add Ceftriaxone if no response in 48 hours.
 
 ### 6. Correct Micronutrient Deficiencies
-* Vitamin A: Administer on Day 1, Day 2, and Day 14 (Dose based on age).
+* [[Nutrition/Vitamin A\|Vitamin A]]: Administer on Day 1, Day 2, and Day 14 (Dose based on age).
 * Folic acid (5 mg on Day 1, then 1 mg/day), Zinc (2 mg/kg/day), and Copper (0.3 mg/kg/day).
 * **Strict Rule:** Withhold Iron supplementation during the stabilization phase; start only when the child enters the rehabilitation phase and is gaining weight.
 
 ### 7. Start Cautious Feeding (Stabilization Phase)
 * Use F-75 therapeutic diet (75 kcal and 0.9g protein per 100 ml).
 * Target: 100 kcal/kg/day and 1-1.5 g protein/kg/day. Fluid: 130 ml/kg/day.
-* Frequent, small feeds (every 2-3 hours) to prevent heart failure and refeeding syndrome.
+* Frequent, small feeds (every 2-3 hours) to prevent heart failure and [[Nutrition/Refeeding Syndrome\|refeeding syndrome]].
 
 ### 8. Achieve Catch-up Growth (Rehabilitation Phase)
 * Use F-100 therapeutic diet (100 kcal and 2.9g protein per 100 ml) or Ready-to-Use Therapeutic Food (RUTF).

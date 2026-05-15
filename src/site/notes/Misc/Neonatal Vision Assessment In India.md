@@ -10,8 +10,8 @@
 - National program operates under Rashtriya bal swasthya karyakram.
 - Initiative specifically targets defects at birth.
 - Ministry of health and family welfare governs targeted assessment protocols.
-- National neonatology forum provides specialized guidelines addressing retinopathy of prematurity.
-- Primary clinical targets include congenital cataract and retinopathy of prematurity.
+- National neonatology forum provides specialized guidelines addressing [[Neonatalogy/Retinopathy of prematurity\|retinopathy of prematurity]].
+- Primary clinical targets include [[Misc/Congenital Cataract\|congenital cataract]] and [[Neonatalogy/Retinopathy of prematurity\|retinopathy of prematurity]].
 - Screening identifies congenital glaucoma and structural anomalies including coloboma and anophthalmia.
 - Evaluation isolates severe ocular manifestations secondary to congenital infections.
 
@@ -43,7 +43,7 @@
 - Normal physiological result yields symmetrical and bright red-orange glow across both eyes.
 - Abnormal result manifests as leukocoria.
 - Leukocoria presents as distinctly white, dull, or grossly asymmetrical reflex.
-- Test promotes critical early detection of vision-threatening congenital cataract and retinoblastoma.
+- Test promotes critical early detection of vision-threatening [[Misc/Congenital Cataract\|congenital cataract]] and [[Hematology/Retinoblastoma\|retinoblastoma]].
 - Evaluation successfully identifies chorioretinitis and dense vitreous hemorrhage.
 
 ### Visual Milestones Development
@@ -52,7 +52,7 @@
 - Infants demonstrate ability to follow targets briefly by one month of postnatal age.
 - Normal neurological development produces distinct blinking response when exposed to bright light.
 
-## Targeted Screening For Retinopathy Of Prematurity
+## Targeted Screening For [[Neonatalogy/Retinopathy of prematurity\|Retinopathy Of Prematurity]]
 
 - Represents most heavily standardized component within Indian neonatal vision protocols.
 - Standardization strictly required due to extremely high regional disease burden.
@@ -69,7 +69,7 @@
 
 ### Systemic Risk Factors Mandating Expanded Screening
 
-- Presence of severe respiratory distress syndrome.
+- Presence of severe [[Neonatalogy/Respiratory Distress Syndrome\|respiratory distress syndrome]].
 - Administration of prolonged oxygen therapy exceeding forty-eight hours.
 - Utilization of invasive mechanical ventilation.
 - Episodes of severe clinical shock.
@@ -88,7 +88,7 @@
 - Perform early screening strictly between day fourteen and twenty of life.
 - Alternative timeline requires screening at thirty-one weeks post-menstrual age.
 - Protocol dictates utilizing whichever early marker occurs later.
-- Accelerated schedule crucial for detecting severe aggressive retinopathy of prematurity.
+- Accelerated schedule crucial for detecting severe aggressive [[Neonatalogy/Retinopathy of prematurity\|retinopathy of prematurity]].
 
 ### Technical Screening Methodology
 
@@ -107,9 +107,9 @@
 
 |Pathological Category|Specific Clinical Entities|Associated Ocular Manifestations|
 |:--|:--|:--|
-|Congenital infections|Cytomegalovirus, toxoplasmosis, rubella, syphilis.|High risk of chorioretinitis, congenital cataract, salt-and-pepper retinopathy.|
-|Craniofacial anomalies|Treacher Collins, Pierre Robin, various craniosynostosis syndromes.|Frequent presentation of comorbid structural ocular defects.|
-|Inherited metabolic disorders|Classical galactosemia.|Development of characteristic central oil-drop cataract.|
+|Congenital infections|Cytomegalovirus, toxoplasmosis, rubella, syphilis.|High risk of chorioretinitis, [[Misc/Congenital Cataract\|congenital cataract]], salt-and-pepper retinopathy.|
+|Craniofacial anomalies|Treacher Collins, Pierre Robin, various [[Neurology/Craniosynostosis\|craniosynostosis]] syndromes.|Frequent presentation of comorbid structural ocular defects.|
+|Inherited metabolic disorders|Classical [[Metabolic Disorders/Galactosemia\|galactosemia]].|Development of characteristic central oil-drop cataract.|
 |Severe neurological compromise|Perinatal hypoxia and severe asphyxia.|Development of permanent cortical visual impairment.|
 
 ## Red Flag Indicators Requiring Immediate Intervention
@@ -126,13 +126,13 @@
 
 ## Disease Management Protocols And Long-Term Prognosis
 
-### Congenital Cataract Interventions
+### [[Misc/Congenital Cataract\|Congenital Cataract]] Interventions
 
 - Condition mandates urgent surgical lenticular extraction.
 - Perform surgical intervention ideally within first four to six weeks of life.
 - Prompt intervention strictly prevents irreversible stimulus-deprivation amblyopia.
 
-### Retinopathy Of Prematurity Interventions
+### [[Neonatalogy/Retinopathy of prematurity\|Retinopathy Of Prematurity]] Interventions
 
 - Diagnosis of sight-threatening type one disease requires emergent therapeutic action.
 - Initiate destructive treatment strictly within forty-eight to seventy-two hours following positive diagnosis.

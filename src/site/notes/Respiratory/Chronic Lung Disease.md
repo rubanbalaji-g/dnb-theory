@@ -59,7 +59,7 @@ Management is multidisciplinary, focusing on minimizing injury and supporting gr
 ### D. Pharmacotherapy
 1.  **Diuretics (Thiazides/Furosemide):** For pulmonary edema/fluid overload (symptomatic relief).
 2.  **Caffeine:** Reduces apnea and facilitates extubation (proven to reduce BPD rates).
-3.  **Vitamin A (IM):** High dose supplementation reduces BPD risk (modest benefit).
+3.  **[[Nutrition/Vitamin A\|Vitamin A]] (IM):** High dose supplementation reduces BPD risk (modest benefit).
 4.  **Corticosteroids:**
     * *Systemic:* Dexamethasone (DART Protocol - low dose, short course) used only for those unable to wean from ventilator due to risk of CP.
     * *Inhaled:* Routine use is **not** recommended.

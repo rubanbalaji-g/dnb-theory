@@ -28,8 +28,8 @@
 
 |Compartment level|Vaccine characteristics|Specific vaccines|
 |:--|:--|:--|
-|Bottom shelf|Highly heat-sensitive|Measles, MR, MMR, BCG, OPV, yellow fever, live Japanese encephalitis, varicella, rotavirus, live-attenuated hepatitis A.|
-|Middle and upper shelves|Freeze-sensitive and heat-resistant|Pertussis-containing combinations (DPT, DTwP, DTaP), inactivated hepatitis A, typhoid conjugate, pneumococcal conjugate, meningococcal, inactivated influenza, HPV, rabies, inactivated Japanese encephalitis, TT, DT, Hepatitis B.|
+|Bottom shelf|Highly heat-sensitive|Measles, MR, MMR, [[Misc/BCG\|BCG]], OPV, yellow fever, live [[Infectious Diseases/Japanese Encephalitis\|Japanese encephalitis]], varicella, rotavirus, live-attenuated [[Gastrointestinal/Hepatitis A\|hepatitis A]].|
+|Middle and upper shelves|Freeze-sensitive and heat-resistant|Pertussis-containing combinations (DPT, DTwP, DTaP), inactivated [[Gastrointestinal/Hepatitis A\|hepatitis A]], typhoid conjugate, pneumococcal conjugate, meningococcal, inactivated influenza, HPV, rabies, inactivated [[Infectious Diseases/Japanese Encephalitis\|Japanese encephalitis]], TT, DT, [[Gastrointestinal/Hepatitis B\|Hepatitis B]].|
 
 ## Diluent management
 

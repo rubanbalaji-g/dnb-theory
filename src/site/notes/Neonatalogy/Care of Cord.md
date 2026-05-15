@@ -19,7 +19,7 @@ Guidelines are stratified by gestational age and vigor:
 
 3.  **Extreme Preterm ($< 28$ weeks):**
     * **Contraindicated.** UCM should **not** be performed.
-    * Rationale: Associated with an increased risk of severe Intraventricular Hemorrhage (IVH).
+    * Rationale: Associated with an increased risk of severe [[Neonatalogy/Intraventricular hemorrhage\|Intraventricular Hemorrhage]] (IVH).
 
 ## Controversies and Pathophysiology regarding UCM
 * **Hemodynamic Instability (The "Bolus" Effect):** Rapid stripping creates a sudden bolus of volume and pressure. In extremely fragile cerebral vasculature ($<28$ weeks), this fluctuation in cerebral blood flow is linked to high-grade IVH.

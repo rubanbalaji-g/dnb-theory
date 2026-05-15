@@ -3,7 +3,7 @@
 ---
 
 ## Introduction
-The LAQSHYA program is a targeted quality improvement initiative launched by the Ministry of Health and Family Welfare (MoHFW), Government of India. It aims to accelerate the decline of maternal mortality, neonatal mortality, and stillbirth rates by systematically improving the quality of care in Labor Rooms (LR) and Maternity Operation Theatres (MOT).
+The [[Social Pediatics/LAQSHYA Program\|LAQSHYA program]] is a targeted quality improvement initiative launched by the Ministry of Health and Family Welfare (MoHFW), Government of India. It aims to accelerate the decline of maternal mortality, neonatal mortality, and stillbirth rates by systematically improving the quality of care in Labor Rooms (LR) and Maternity Operation Theatres (MOT).
 
 ## Core Objectives
 * Reduce maternal and newborn morbidity and mortality, specifically aiming to reduce stillbirths and neonatal deaths due to birth asphyxia and sepsis.
@@ -27,7 +27,7 @@ The initiative encompasses all public health facilities managing deliveries, pri
 ### Human Resources And Capacity Building
 * Competency-based training of doctors and nursing staff.
 * Implementation of the "Dakshata" program for skill building in intrapartum care.
-* Mandatory certification of staff in Navjaat Shishu Suraksha Karyakram (NSSK) for neonatal resuscitation.
+* Mandatory certification of staff in [[Social Pediatics/Navjaat Shishu Suraksha Karyakram (NSSK)\|Navjaat Shishu Suraksha Karyakram (NSSK)]] for neonatal resuscitation.
 
 ### Clinical Protocols And Quality Management
 * Strict adherence to clinical guidelines for the management of pre-eclampsia, postpartum hemorrhage (PPH), and obstructed labor.
@@ -42,7 +42,7 @@ For the pediatrician, LAQSHYA mandates strict compliance with immediate newborn 
 * Cord Care: Practice of delayed cord clamping (1-3 minutes) in term and preterm vigorous infants to prevent neonatal anemia.
 * Nutrition: Ensuring early skin-to-skin contact and initiation of exclusive breastfeeding within one hour of birth.
 * Infection Prevention: Strict asepsis during delivery, clean cord care (no harmful applications), and prevention of health-care-associated infections (sepsis) through standardized hand hygiene and instrument sterilization.
-* Preterm Care: Administration of antenatal corticosteroids for threatened preterm labor and immediate Kangaroo Mother Care (KMC) post-stabilization.
+* Preterm Care: Administration of antenatal corticosteroids for threatened preterm labor and immediate [[Neonatalogy/Kangaroo Mother Care\|Kangaroo Mother Care]] (KMC) post-stabilization.
 
 ## Certification And Evaluation Process
 Facilities are assessed based on National Quality Assurance Standards (NQAS).

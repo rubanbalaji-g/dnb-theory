@@ -5,7 +5,7 @@
 ## Vaccine Characteristics
 
 - Comprises live-attenuated virus.
-- Available globally primarily as combination vaccine containing measles, mumps, and rubella components.
+- Available globally primarily as [[Misc/Combination Vaccine\|combination vaccine]] containing measles, mumps, and rubella components.
 - Formulated as lyophilized powder requiring reconstitution with sterile diluent.
 - Contains no preservatives.
 
@@ -27,13 +27,13 @@
 
 ## Storage Guidelines
 
-- Maintain strict cold chain between 2°C and 8°C.
+- Maintain strict [[Misc/Cold Chain\|cold chain]] between 2°C and 8°C.
 - Protect un-reconstituted and reconstituted vials from light exposure.
 - Reconstituted vaccine loses potency rapidly; discard within 4 to 6 hours to prevent bacterial contamination.
 
 ## Immunization Schedule
 
-- Indian Academy Of Pediatrics recommends three-dose schedule utilizing combination vaccine.
+- Indian Academy Of Pediatrics recommends three-dose schedule utilizing [[Misc/Combination Vaccine\|combination vaccine]].
 - Universal Immunization Programme currently excludes mumps component, utilizing measles-rubella vaccine instead.
 
 |Dose Sequence|Recommended Age|
@@ -52,8 +52,8 @@
 
 - Fever exceeding 39°C occurs 7 to 12 days post-vaccination in roughly 5% recipients.
 - Transient parotitis occurs rarely.
-- Aseptic meningitis manifests 2 to 3 weeks following administration.
-- Meningitis risk correlates directly with utilized strain (Leningrad-Zagreb carries highest risk, followed by Hoshino, Urabe, and Jeryl Lynn).
+- Aseptic [[Neurology/Meningitis\|meningitis]] manifests 2 to 3 weeks following administration.
+- [[Neurology/Meningitis\|Meningitis]] risk correlates directly with utilized strain (Leningrad-Zagreb carries highest risk, followed by Hoshino, Urabe, and Jeryl Lynn).
 - Vaccine virus demonstrates no transmission from vaccinees to close contacts.
 - Lacks any proven causal relationship with autism, Guillain-Barre syndrome, or inflammatory bowel disease.
 

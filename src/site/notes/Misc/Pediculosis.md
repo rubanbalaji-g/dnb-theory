@@ -16,7 +16,7 @@
 
 ## Clinical Manifestations By Subtype
 
-### Pediculosis Capitis
+### [[Misc/Pediculosis\|Pediculosis]] Capitis
 
 - Peak incidence in children aged 3 to 12 years.
 - Transmitted via head-to-head contact or fomites including combs and towels.
@@ -25,14 +25,14 @@
 - Favors occipital region and above ears.
 - Complications include secondary pyoderma, hair matting, and occipital lymphadenopathy.
 
-### Pediculosis Corporis
+### [[Misc/Pediculosis\|Pediculosis]] Corporis
 
 - Associated with poor hygiene and cold climates.
 - Primary lesion features pruritic red macule with central hemorrhagic punctum.
 - Predilection for shoulders, trunk, and buttocks.
 - Chronic infestation produces vagabond's skin (lichenified, hyperpigmented plaques).
 
-### Pediculosis Pubis
+### [[Misc/Pediculosis\|Pediculosis]] Pubis
 
 - Transmitted via sexual contact or skin-to-skin exposure.
 - Manifests in children occasionally as eyelash or eyebrow infestation.

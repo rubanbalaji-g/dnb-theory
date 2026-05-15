@@ -8,7 +8,7 @@
 - Combat gravity effects during upright posture and movement.
 - Origin: Higher centers including Midbrain, Basal Ganglia, and Cortex.
 - Pattern: Appear during infancy; persist throughout life.
-- Differentiates from primitive reflexes (present at birth, disappear over time).
+- Differentiates from [[Neurology/Primitive Reflexes\|primitive reflexes]] (present at birth, disappear over time).
 - Function: Provide basis for voluntary movement, posture, and balance.
 
 ## Classification and Timeline
@@ -23,7 +23,7 @@ Broadly classified into three groups based on function and chronological appeara
 
 ## Foundational Assessment: Postural Tone
 
-Postural tone creates the required resistance to passive movement, serving as the prerequisite for postural reflexes.
+Postural tone creates the required resistance to passive movement, serving as the prerequisite for [[Neurology/Postural Reflexes\|postural reflexes]].
 
 - **Traction Response:** Pull infant to sitting position. Normal term infant shows slight head lag, then head falls forward. Severe lag indicates hypotonia.
 - **Vertical Suspension:** Hold infant by axillae. Normal infant remains suspended with flexed lower extremities. Hypotonic infant slips through hands.
@@ -51,7 +51,7 @@ Postural tone creates the required resistance to passive movement, serving as th
 - **Diagnostic Significance:**
     - **Hypotonia:** Infant collapses into inverted "U" shape (Classic [[Neuromuscular/Approach to a floppy infant\|Approach to a floppy infant]] sign).
     - **Hypertonia/Spasticity:** Excessive extension or lower extremity scissoring.
-    - **Absence:** Strong indicator of motor dysfunction (e.g., Cerebral Palsy).
+    - **Absence:** Strong indicator of motor dysfunction (e.g., [[Neurology/Cerebral Palsy\|Cerebral Palsy]]).
     - **Prognostication:** Favorable prognostic sign for eventual standing.
 
 ### Body-on-Body (BOB) and Neck-on-Body (NOB)
@@ -97,10 +97,10 @@ Postural tone creates the required resistance to passive movement, serving as th
 
 ## Clinical Utility and Diagnostics
 
-### Early Diagnosis of Cerebral Palsy (CP)
+### Early Diagnosis of [[Neurology/Cerebral Palsy\|Cerebral Palsy]] (CP)
 
-- Diagnosis relies heavily on the "Motor Quotient" (interplay of primitive vs. postural reflexes).
-- **Classic CP Pattern:** Retention of Primitive Reflexes (e.g., ATNR, Moro) combined with Delayed or Absent Postural Reflexes.
+- Diagnosis relies heavily on the "Motor Quotient" (interplay of primitive vs. [[Neurology/Postural Reflexes\|postural reflexes]]).
+- **Classic CP Pattern:** Retention of [[Neurology/Primitive Reflexes\|Primitive Reflexes]] (e.g., ATNR, Moro) combined with Delayed or Absent [[Neurology/Postural Reflexes\|Postural Reflexes]].
 - **Clinical Example:** 9-month-old infant with persistent Moro reflex and absent Parachute reflex possesses high probability of CP.
 
 ### Localization of Neurological Lesions
@@ -111,5 +111,5 @@ Postural tone creates the required resistance to passive movement, serving as th
 
 ### Neuromotor Prognostication
 
-- Timely appearance of postural reflexes serves as a superior predictor of eventual ambulation compared to the mere disappearance of primitive reflexes.
+- Timely appearance of [[Neurology/Postural Reflexes\|postural reflexes]] serves as a superior predictor of eventual ambulation compared to the mere disappearance of [[Neurology/Primitive Reflexes\|primitive reflexes]].
 - Presence of Landau reflex acts as a strong positive predictor for eventual standing capability.

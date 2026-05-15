@@ -12,15 +12,15 @@ School health services are an economical and powerful tool for the promotion of 
 * Developing healthy lifestyle habits and life skills.
 * Establishing a link between the school, home, and community health services.
 
-## Current Framework: Rashtriya Bal Swasthya Karyakram (RBSK)
+## Current Framework: [[Social Pediatics/Rashtriya Bal Swasthya Karyakram (RBSK)\|Rashtriya Bal Swasthya Karyakram (RBSK)]]
 The Ministry of Health and Family Welfare (MoHFW) provides school health services primarily through the RBSK program under the National Health Mission (NHM).
 
 ### The 4Ds Approach
 Children are screened for 30 specific health conditions categorized as:
-* Defects at Birth: Neural tube defects, congenital heart disease, cleft lip/palate, club foot.
-* Deficiencies: Anemia, Vitamin A deficiency, Vitamin D deficiency, Severe Acute Malnutrition (SAM).
+* Defects at Birth: [[Neurology/Neural Tube Defects\|Neural tube defects]], congenital heart disease, cleft lip/palate, club foot.
+* Deficiencies: Anemia, [[Nutrition/Vitamin A\|Vitamin A]] deficiency, Vitamin D deficiency, Severe Acute Malnutrition (SAM).
 * Diseases: Skin conditions, otitis media, rheumatic heart disease, dental caries.
-* Developmental Delays and Disabilities: Vision/hearing impairment, ADHD, Autism, Learning disabilities.
+* Developmental Delays and Disabilities: Vision/hearing impairment, [[Development/ADHD\|ADHD]], Autism, Learning disabilities.
 
 ### Delivery Mechanism
 * Mobile Health Teams (MHTs): Consisting of two doctors (one male, one female), one nurse/pharmacist, and one lab technician.
@@ -40,7 +40,7 @@ Children are screened for 30 specific health conditions categorized as:
 * Primary (Class 1-5): 450 calories and 12g protein.
 * Upper Primary (Class 6-8): 700 calories and 20g protein.
 * Weekly Iron and Folic Acid Supplementation (WIFS): Blue IFA tablet (60mg elemental iron + 500mcg folic acid) administered every Monday.
-* National Deworming Day (NDD): Biannual administration of Tablet Albendazole (400mg) in February and August.
+* [[Social Pediatics/National Deworming Day (NDD)\|National Deworming Day (NDD)]]: Biannual administration of Tablet Albendazole (400mg) in February and August.
 
 ### 3. Immunization
 Administered according to the National Immunization Schedule:

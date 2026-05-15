@@ -4,7 +4,7 @@
 
 ## 1. INTRODUCTION
 * **Definition:** A spectrum of prenatal and intrapartum tests designed to monitor fetal health, primarily to detect **fetal hypoxia and acidosis**.
-* **Goal:** To prevent intrauterine fetal death (IUFD) and long-term neurological injury (cerebral palsy) through timely intervention.
+* **Goal:** To prevent intrauterine fetal death (IUFD) and long-term neurological injury ([[Neurology/Cerebral Palsy\|cerebral palsy]]) through timely intervention.
 
 ## 2. CLINICAL INDICATIONS FOR SURVEILLANCE
 Fetal surveillance is indicated in pregnancies where the risk of fetal demise exceeds the risk of neonatal death from prematurity.
@@ -62,7 +62,7 @@ Fetal surveillance is indicated in pregnancies where the risk of fetal demise ex
 **4. Modified BPP**
 * A rapid screening tool combining:
     1.  **NST** (Acute marker)
-    2.  **Amniotic Fluid Index (AFI)** (Chronic marker)
+    2.  **Amniotic Fluid [[Statistics/Index\|Index]] (AFI)** (Chronic marker)
 * Normal if both are normal.
 
 ### C. Doppler Velocimetry (Hemodynamic Monitoring)

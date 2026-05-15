@@ -47,7 +47,7 @@ Indicates the lungs are working fine, but "less oxygen is entering" the alveoli.
 ### 2. Hypoxemia with ELEVATED A-a Gradient
 Indicates a defect in gas exchange *within* the lung or cardiovascular system.
 * **V/Q Mismatch (Most Common):**
-    * Asthma, Pneumonia, Bronchiolitis.
+    * [[Respiratory/Asthma\|Asthma]], Pneumonia, Bronchiolitis.
     * Pulmonary Embolism (High dead space).
 * **Shunt (Right-to-Left):**
     * *Intracardiac:* Cyanotic Congenital Heart Disease (TOF).

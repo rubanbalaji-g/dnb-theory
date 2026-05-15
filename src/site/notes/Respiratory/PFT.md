@@ -35,7 +35,7 @@ Measures volumes that cannot be measured by spirometry alone.
 ### 4. Diffusion Capacity (DLCO)
 * Measures the ability of the lungs to transfer gas (Carbon Monoxide) from alveoli to red blood cells.
 * **Decreased in:** Interstitial Lung Disease (fibrosis), Emphysema, Anemia.
-* **Increased in:** Pulmonary hemorrhage, Polycythemia, Asthma (mild).
+* **Increased in:** Pulmonary hemorrhage, Polycythemia, [[Respiratory/Asthma\|Asthma]] (mild).
 
 ### 5. Pediatric Specific: Impulse Oscillometry (IOS)
 * Used in children **< 6 years** who cannot perform forced maneuvers.
@@ -43,7 +43,7 @@ Measures volumes that cannot be measured by spirometry alone.
 
 ## III. Interpretation of Patterns
 
-| Parameter | Obstructive Pattern (e.g., Asthma, CF) | Restrictive Pattern (e.g., Fibrosis, Scoliosis) |
+| Parameter | Obstructive Pattern (e.g., [[Respiratory/Asthma\|Asthma]], CF) | Restrictive Pattern (e.g., Fibrosis, Scoliosis) |
 | :--- | :--- | :--- |
 | **FEV1** | **Decreased** (<80%) | Decreased or Normal |
 | **FVC** | Normal (or decreased in severe air trapping) | **Decreased** (<80%) |
@@ -52,18 +52,18 @@ Measures volumes that cannot be measured by spirometry alone.
 | **RV** | **Increased** (Air trapping) | Decreased |
 ![Interpretation of PFT](https://i.ibb.co/9mP3jjy3/p362-f2.jpg)
 **Bronchodilator Reversibility Test:**
-* Significant reversibility (Asthma) is defined as an **increase in FEV1 by ≥12% AND ≥200 ml** after salbutamol inhalation.
+* Significant reversibility ([[Respiratory/Asthma\|Asthma]]) is defined as an **increase in FEV1 by ≥12% AND ≥200 ml** after salbutamol inhalation.
 
 ## IV. Clinical Utility 
 
 ### 1. Diagnostic Utility
-* **Diagnosis of Disease:** Confirms airflow limitation in Asthma and COPD.
+* **Diagnosis of Disease:** Confirms airflow limitation in [[Respiratory/Asthma\|Asthma]] and COPD.
 * **Differentiating Etiology:** Distinguishes between Obstructive (Asthma/CF) and Restrictive (ILD/Chest wall deformity) causes of dyspnea.
 * **Upper Airway Obstruction:** Flow-volume loops can detect tracheal stenosis or vocal cord dysfunction (variable extrathoracic obstruction).
 
 ### 2. Monitoring and Prognostic Utility
-* **Disease Progression:** Monitoring decline in lung function in Cystic Fibrosis (FEV1 is a key predictor of mortality) and Duchenne Muscular Dystrophy.
-* **Response to Treatment:** assessing efficacy of steroids or bronchodilators in asthma.
+* **Disease Progression:** Monitoring decline in lung function in [[Respiratory/Cystic Fibrosis\|Cystic Fibrosis]] (FEV1 is a key predictor of mortality) and Duchenne Muscular Dystrophy.
+* **Response to Treatment:** assessing efficacy of steroids or bronchodilators in [[Respiratory/Asthma\|asthma]].
 * **Drug Toxicity:** Monitoring for drug-induced lung injury (e.g., Bleomycin, Methotrexate).
 
 ### 3. Pre-operative Assessment

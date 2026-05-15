@@ -44,7 +44,7 @@
 - Dose: 0.5 mL.
 - Route: Intramuscular injection.
 - Site: Deltoid muscle (left upper arm).
-- Co-administration: Safe with other vaccines (hepatitis B, Tdap, meningococcal) at different anatomical sites.
+- Co-administration: Safe with other vaccines ([[Gastrointestinal/Hepatitis B\|hepatitis B]], Tdap, meningococcal) at different anatomical sites.
 - Maximum age for catch-up: 45 years for females (Gardasil-4), 26 years for females/males (Gardasil-9, Cervavac).
 - Interrupted schedule: Do not restart series. Continue from missed dose.
 

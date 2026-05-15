@@ -28,7 +28,7 @@
 
 ### Universal Immunization Program
 
-- Employs measles-rubella combination vaccine.
+- Employs measles-rubella [[Misc/Combination Vaccine\|combination vaccine]].
 
 |Dose Sequence|Age Of Administration|
 |:--|:--|
@@ -54,9 +54,9 @@
 
 ## Immunogenicity And Efficacy
 
-- Single dose median vaccine effectiveness measures 84% at 9 to 11 months.
-- Single dose median vaccine effectiveness increases to 92.5% beyond 12 months.
-- Maternal antibody interference causes primary vaccine failure in 15% of infants vaccinated at 9 months.
+- Single dose median [[Misc/Vaccine Effectiveness\|vaccine effectiveness]] measures 84% at 9 to 11 months.
+- Single dose median [[Misc/Vaccine Effectiveness\|vaccine effectiveness]] increases to 92.5% beyond 12 months.
+- Maternal antibody interference causes primary [[Misc/Vaccine Failure\|vaccine failure]] in 15% of infants vaccinated at 9 months.
 - Second dose induces protective immunity in 95% of primary non-responders.
 
 ## Adverse Effects And Contraindications

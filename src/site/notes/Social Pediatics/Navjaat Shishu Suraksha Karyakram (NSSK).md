@@ -15,8 +15,8 @@
 - Integrate with other RMNCH+A components (SBA, HBNC, NBSU/SNCU)
 
 ## Key Components (The 4 Pillars of NSSK)
-- **Prevention of hypothermia**: Warm chain (immediate drying, skin-to-skin contact, delayed bathing, Kangaroo Mother Care for LBW)
-- **Prevention of infection**: 5 cleans, hand hygiene, aseptic cord care, exclusive breastfeeding, maternal immunization
+- **Prevention of hypothermia**: Warm chain (immediate drying, skin-to-skin contact, delayed bathing, [[Neonatalogy/Kangaroo Mother Care\|Kangaroo Mother Care]] for LBW)
+- **Prevention of infection**: 5 cleans, hand hygiene, aseptic cord care, exclusive breastfeeding, [[Misc/Maternal Immunization\|maternal immunization]]
 - **Early initiation of breastfeeding**: Within 1 hour, exclusive till 6 months, techniques of positioning & attachment
 - **Basic newborn resuscitation**: For non-breathing/asphyxiated babies
 
@@ -34,9 +34,9 @@
 	- Delayed cord clamping (1–3 min)
 	- Vitamin K prophylaxis, eye prophylaxis
 	- Weighing, APGAR scoring, identification
-- **Kangaroo Mother Care (KMC)**: For all stable LBW babies (<2500g); continuous skin-to-skin, exclusive breastfeeding
+- **[[Neonatalogy/Kangaroo Mother Care\|Kangaroo Mother Care]] (KMC)**: For all stable LBW babies (<2500g); continuous skin-to-skin, exclusive breastfeeding
 - **Monitoring**: Danger signs recognition, timely referral
-- **Counseling**: Mother & family on home-based newborn care (HBNC)
+- **Counseling**: Mother & family on [[Social Pediatics/Home-Based Newborn Care (HBNC)\|home-based newborn care (HBNC)]]
 
 ## Monitoring & Integration
 - Part of NHM key performance indicators
@@ -47,4 +47,4 @@
 ## Impact & Prognosis
 - Significant contribution to decline in NMR from 29 (2014) to 18 (2022) per 1000 live births
 - Cost-effective intervention; high return on investment in low-resource settings
-- Long-term: Reduces cerebral palsy, developmental delays secondary to asphyxia
+- Long-term: Reduces [[Neurology/Cerebral Palsy\|cerebral palsy]], developmental delays secondary to asphyxia

@@ -5,14 +5,14 @@
 # Congenital Malformations of the Lungs (CTM)
 
 ### 1. Introduction & Classification 
-Congenital Thoracic Malformations (CTM) are a spectrum of developmental anomalies of the lower respiratory tract. They are often diagnosed antenatally due to widespread ultrasonography.
+[[Respiratory/Congenital Thoracic malformations\|Congenital Thoracic Malformations]] (CTM) are a spectrum of developmental anomalies of the lower respiratory tract. They are often diagnosed antenatally due to widespread ultrasonography.
 
 **Classification (Key Entities):**
 The spectrum is often overlapping, but the four major entities are:
 1.  **[[Respiratory/Morphogenesis, Malformations, and Natural Course of CCAM\|Congenital Pulmonary Airway Malformation (CPAM/CCAM)]]:** Hamartomatous lesions replacing normal lung tissue.
 2.  **Bronchopulmonary Sequestration (BPS):** Non-functioning lung tissue with **anomalous systemic blood supply** and no connection to the tracheobronchial tree.
 3.  **Congenital Lobar Emphysema (CLE/CLO):** Over-distension of a lobe (usually LUL) due to air trapping (ball-valve obstruction).
-4.  **Bronchogenic Cysts:** Foregut duplication cysts arising from abnormal budding.
+4.  **[[Respiratory/Bronchogenic Cysts\|Bronchogenic Cysts]]:** Foregut duplication cysts arising from abnormal budding.
 
 ---
 
@@ -33,7 +33,7 @@ Crucial feature: **Systemic arterial supply** (usually thoracic/abdominal aorta)
 | :--- | :--- | :--- |
 | **Pleural Cover** | Shares pleura with normal lung | Has its own separate pleural sac |
 | **Venous Drainage** | Pulmonary veins (L-to-L shunt) | Systemic/Portal veins (L-to-R shunt) |
-| **Presentation** | Late (Recurrent pneumonia) | Early (Neonatal distress/Feeding issue) |
+| **Presentation** | Late ([[Respiratory/Recurrent Pneumonia\|Recurrent pneumonia]]) | Early (Neonatal distress/Feeding issue) |
 | **Side** | LLL (Posterior basal) | LLL (Posterior basal) |
 
 #### C. Congenital Lobar Emphysema (CLE)
@@ -50,7 +50,7 @@ Crucial feature: **Systemic arterial supply** (usually thoracic/abdominal aorta)
 
 ### 3. Diagnosis 
 
-#### A. Antenatal Diagnosis (Routine USG)
+#### A. [[Neonatalogy/Antenatal Diagnosis\|Antenatal Diagnosis]] (Routine USG)
 * **Appearance:** Hyperechoic lung mass (microcystic) or hypoechoic cysts (macrocystic).
 * **Prognostic Factor:** **CPAM Volume Ratio (CVR)**.
     * Formula: $(L \times H \times W \times 0.52) \div \text{Head Circumference}$.
@@ -59,7 +59,7 @@ Crucial feature: **Systemic arterial supply** (usually thoracic/abdominal aorta)
 
 #### B. Postnatal Presentation
 * **Asymptomatic:** Increasing number detected due to antenatal screening.
-* **Symptomatic:** Respiratory distress (neonates), Recurrent pneumonia, failure to thrive (infants/children).
+* **Symptomatic:** Respiratory distress (neonates), [[Respiratory/Recurrent Pneumonia\|Recurrent pneumonia]], failure to thrive (infants/children).
 * **CLE specific:** Rapidly worsening distress with hyper-resonance and mediastinal shift.
 
 #### C. Postnatal Imaging
@@ -81,11 +81,11 @@ Crucial feature: **Systemic arterial supply** (usually thoracic/abdominal aorta)
 * **Hydrops Present / CVR > 1.6:**
     * Maternal Steroids (Betamethasone) - shrinks lesion (Type 3/microcystic).
     * Thoraco-amniotic shunt (for macrocystic).
-    * *Rare:* Fetal surgery or EXIT procedure.
+    * *Rare:* [[Neonatalogy/Fetal Surgery\|Fetal surgery]] or EXIT procedure.
 
 #### B. Postnatal Management (Symptomatic)
 * **Immediate Surgery:** Indicated for respiratory distress.
-* **CLE Caution:** **Do NOT needle aspirate** a CLE (unless in extremis code situations). It creates a tension pneumothorax. Selective intubation of the healthy lung may be needed.
+* **CLE Caution:** **Do NOT needle aspirate** a CLE (unless in extremis code situations). It creates a tension [[Respiratory/Pneumothorax\|pneumothorax]]. Selective intubation of the healthy lung may be needed.
 * **Procedure:** Lobectomy (preferred) or segmentectomy. Thoracoscopic (VATS) approaches are now standard.
 
 #### C. Postnatal Management (Asymptomatic) - *The Debate*
@@ -93,7 +93,7 @@ Current consensus favors **Elective Resection**.
 * **Timing:** Between **6 to 12 months** of age (allows lung growth, reduces anesthetic risk).
 * **Rationale for Surgery:**
     1.  **Infection Risk:** Cysts eventually get infected (abscess).
-    2.  **Malignancy Risk:** Small but definite risk of Bronchioloalveolar Carcinoma (BAC) or Rhabdomyosarcoma (in CPAM Type 1/4) and Pleuropulmonary Blastoma.
+    2.  **Malignancy Risk:** Small but definite risk of Bronchioloalveolar Carcinoma (BAC) or [[Hematology/Rhabdomyosarcoma\|Rhabdomyosarcoma]] (in CPAM Type 1/4) and Pleuropulmonary Blastoma.
     3.  **Compensatory Growth:** Early resection allows compensatory alveolar growth of remaining lung.
 * **Conservative:** Watchful waiting (CT surveillance) is an alternative but carries risk of lost follow-up and late complications.
 

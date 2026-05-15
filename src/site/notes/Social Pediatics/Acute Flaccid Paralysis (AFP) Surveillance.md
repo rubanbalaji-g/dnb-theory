@@ -7,7 +7,7 @@
 - Integrated with Integrated Disease Surveillance Programme (IDSP) and IHIP (Integrated Health Information Platform)
 - India certified polio-free in March 2014 (last wild poliovirus case 2011)
 - Continued high-sensitivity surveillance maintained to detect any re-introduction of Wild Poliovirus (WPV) or Vaccine-Derived Poliovirus (VDPV/cVDPV)
-- Aligned with Global Polio Eradication Initiative (GPEI) and Global AFP Surveillance Guidelines 2026
+- Aligned with Global Polio Eradication Initiative (GPEI) and Global [[Infectious Diseases/AFP surveillance\|AFP Surveillance]] Guidelines 2026
 
 ## Objectives
 - Early detection of all cases of AFP to rule out or confirm poliovirus
@@ -31,7 +31,7 @@
 - **Notification**: Immediate reporting of every suspected AFP case within 24 hours via IHIP
 - **Case Investigation**: Detailed clinical & epidemiological investigation within 48 hours
 - **Stool Sample Collection**: Two stool specimens (8–10 gm each) collected 24–48 hours apart, within 14 days of paralysis onset
-- **Transportation**: Reverse cold chain (2–8°C) to accredited Polio Laboratory within 72 hours
+- **Transportation**: Reverse [[Misc/Cold Chain\|cold chain]] (2–8°C) to accredited Polio Laboratory within 72 hours
 - **Contact Sampling**: Stool from 3–5 household/neighbour contacts in high-risk areas
 - **Follow-up**: 60-day follow-up examination for residual paralysis
 
@@ -47,7 +47,7 @@
 - Completeness of reporting: ≥90%
 
 ## Current Status (2026)
-- India maintains one of the most sensitive AFP surveillance systems globally
+- India maintains one of the most sensitive [[Infectious Diseases/AFP surveillance\|AFP surveillance]] systems globally
 - Gradual transition of NPSP network (from ~280 to lower units by 2027) while maintaining standards
 - Strong integration with RBSK (for physical disability screening), IDSP and ABDM
 - Continued focus on high-risk areas (Uttar Pradesh, Bihar, migrant populations, international borders)

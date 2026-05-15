@@ -12,10 +12,10 @@
 
 |Cause Category|Pathophysiology|Clinical Examples|
 |:--|:--|:--|
-|Vaccine Product-Related|Individual immune response or microbial replication due to inherent vaccine properties.|Anaphylaxis following measles vaccine; Bacillus Calmette-Guérin (BCG) adenitis.|
+|Vaccine Product-Related|Individual immune response or microbial replication due to inherent vaccine properties.|Anaphylaxis following [[Misc/Measles Vaccine\|measles vaccine]]; Bacillus Calmette-Guérin ([[Misc/BCG\|BCG]]) adenitis.|
 |Vaccine Quality Defect-Related|Manufacturing defect impacting individual response.|Incomplete viral inactivation causing abortive polio (e.g., historical Cutter incident).|
-|Immunization Error-Related|Preventable errors in prescribing, preparation, handling, storage, or administration. Most common cause of serious events.|Toxic shock syndrome from contaminated measles vaccine; muscle relaxant erroneously used as BCG diluent.|
-|Immunization-Triggered Stress Response|Psychological or physiological response to fear or pain of injection. Unrelated to vaccine content.|Vasovagal syncope, hyperventilation, vomiting, breath-holding spells.|
+|Immunization Error-Related|Preventable errors in prescribing, preparation, handling, storage, or administration. Most common cause of serious events.|Toxic shock syndrome from contaminated [[Misc/Measles Vaccine\|measles vaccine]]; muscle relaxant erroneously used as [[Misc/BCG\|BCG]] diluent.|
+|Immunization-Triggered Stress Response|Psychological or physiological response to fear or pain of injection. Unrelated to vaccine content.|Vasovagal syncope, hyperventilation, vomiting, [[Development/Breath-Holding Spells\|breath-holding spells]].|
 |Coincidental|Unrelated event temporally linked to vaccination by chance.|Pre-existing neurological seizure disorder manifesting post-DPT vaccination; unrelated acute gastroenteritis.|
 
 ## Classification Based On Severity
@@ -43,7 +43,7 @@
 
 |Vaccine|Specific Serious Adverse Event|Onset Timeline|
 |:--|:--|:--|
-|Oral Poliovirus|Vaccine-associated paralytic poliomyelitis.|1–6 months.|
+|Oral Poliovirus|Vaccine-associated [[Neuromuscular/Paralytic Poliomyelitis\|paralytic poliomyelitis]].|1–6 months.|
 |Measles|Thrombocytopenic purpura.|7–30 days.|
 |Measles, Mumps, Rubella|Encephalopathy or encephalitis.|<15 days.|
 |Tetanus|Brachial neuritis.|<28 days.|

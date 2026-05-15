@@ -23,7 +23,7 @@ Understanding the signs requires a detailed knowledge of the boundaries and cont
     * **Brainstem Components:** Pons and Medulla.
     * **Cerebellar Components:** Flocculus and Cerebellar peduncles.
 
-### III. CLINICAL STAGING OF CP ANGLE TUMORS
+### III. CLINICAL STAGING OF [[Neurology/CP angle Tumors\|CP ANGLE TUMORS]]
 Symptoms typically progress in a predictable sequence based on the "Centrifugal Growth" of the tumor:
 1. **Stage I (Intracanalicular Stage):** Symptoms limited to CN VIII (hearing loss, tinnitus).
 2. **Stage II (Cisternal Stage):** Tumor exits the internal auditory meatus; involvement of CN V and VII.
@@ -67,7 +67,7 @@ Symptoms typically progress in a predictable sequence based on the "Centrifugal 
 * **Symptoms:** Dysphagia, hoarseness (vocal cord palsy), and diminished gag reflex.
 
 #### F. Increased Intracranial Pressure (ICP)
-* **Mechanism:** Dislocation of the brainstem causes compression of the Aqueduct of Sylvius or the 4th ventricle, leading to obstructive hydrocephalus.
+* **Mechanism:** Dislocation of the brainstem causes compression of the Aqueduct of Sylvius or the 4th ventricle, leading to obstructive [[Neurology/Hydrocephalus\|hydrocephalus]].
 * **Triad:** Headache (worse in the morning), nausea/vomiting, and papilledema.
 * **Abducens Nerve (CN VI):** Diplopia due to lateral rectus palsy (often a "false localizing sign" from increased ICP).
 ### V. INVESTIGATIVE CORRELATION

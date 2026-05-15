@@ -3,8 +3,8 @@
 ---
 
 ## 1. Introduction and Definition
-* **Definition:** Meningitis is the inflammation of the leptomeninges (pia and arachnoid mater) with variable involvement of the encephalon.
-* Classification:** Acute meningitis is classified by etiology into bacterial (pyogenic), viral (aseptic), fungal, or parasitic. Bacterial meningitis is a medical emergency with high mortality if untreated.
+* **Definition:** [[Neurology/Meningitis\|Meningitis]] is the inflammation of the leptomeninges (pia and arachnoid mater) with variable involvement of the encephalon.
+* Classification:** Acute [[Neurology/Meningitis\|meningitis]] is classified by etiology into bacterial (pyogenic), viral (aseptic), fungal, or parasitic. Bacterial [[Neurology/Meningitis\|meningitis]] is a medical emergency with high mortality if untreated.
 
 ## 2. Epidemiology and Etiology
 The etiological agents vary significantly by age and immune status.
@@ -22,8 +22,8 @@ The etiological agents vary significantly by age and immune status.
 ### B. Predisposing Factors
 * **Hematogenous spread:** From distant foci (lungs, skin, bones).
 * **Contiguous spread:** Otitis media, mastoiditis, sinusitis.
-* **Anatomical defects:** Neural tube defects, fracture base of skull (CSF rhinorrhea), pilonidal sinus.
-* **Immunocompromised states:** HIV, asplenia (Sickle cell disease), hypogammaglobulinemia, complement deficiency.
+* **Anatomical defects:** [[Neurology/Neural Tube Defects\|Neural tube defects]], fracture base of skull (CSF rhinorrhea), pilonidal sinus.
+* **Immunocompromised states:** HIV, asplenia ([[Hematology/Sickle Cell Disease\|Sickle cell disease]]), hypogammaglobulinemia, complement deficiency.
 
 ## 3. Pathogenesis
 The bacteria typically colonize the nasopharynx and invade the bloodstream.
@@ -36,7 +36,7 @@ The bacteria typically colonize the nasopharynx and invade the bloodstream.
 5.  **Inflammation:** Bacterial lysis releases cell wall components $\rightarrow$ production of cytokines (IL-1, IL-6, TNF).
 6.  **Pathology:**
     * **Cerebral Edema:** Vasogenic, cytotoxic, and interstitial.
-    * **Raised ICP:** Due to edema and obstructed CSF flow (hydrocephalus).
+    * **Raised ICP:** Due to edema and obstructed CSF flow ([[Neurology/Hydrocephalus\|hydrocephalus]]).
     * **Neuronal Damage:** Cortical injury from inflammation and ischemia.
 
 
@@ -58,7 +58,7 @@ These may be absent in very young infants or deeply comatose children.
 ### C. Other Signs
 * **Skin:** Petechiae/purpura (Meningococcemia).
 * **Neurological Deficits:** Focal deficits (10-20%), VI nerve palsy (false localizing sign).
-* **Fundus:** Papilledema is uncommon in acute meningitis; if present, suggests complications like abscess or venous sinus thrombosis.
+* **Fundus:** Papilledema is uncommon in acute [[Neurology/Meningitis\|meningitis]]; if present, suggests complications like abscess or venous sinus thrombosis.
 
 ## 5. Investigations
 **Lumbar Puncture (LP)** is the gold standard diagnostic test
@@ -79,13 +79,13 @@ These may be absent in very young infants or deeply comatose children.
 | **Stains** | Negative | Gram Stain (+ve) | AFB/GeneXpert | Negative |
 
 ### C. Other Investigations
-* **Blood:** CBC (Leukocytosis), Blood Culture (Positive in 50%), CRP, Electrolytes (SIADH).
+* **Blood:** CBC (Leukocytosis), Blood Culture (Positive in 50%), CRP, Electrolytes ([[Endocrinology/SIADH\|SIADH]]).
 * **Latex Agglutination:** For partially treated cases (detects antigens of Hib, Pneumococcus, Meningococcus).
 * **Neuroimaging (CT/MRI):** Not routine. Indicated for focal signs, persistent fever, suspected abscess, or raised ICP.
 
 
 
-## 6. Management of Acute Bacterial Meningitis
+## 6. Management of Acute Bacterial [[Neurology/Meningitis\|Meningitis]]
 Goal: Rapid sterilization of CSF and control of intracranial pressure.
 
 ### A. Empiric Antibiotic Therapy 
@@ -104,10 +104,10 @@ Start immediately after samples are drawn.
 * **Rationale:** Reduces cytokine-mediated inflammation, hearing loss, and neurological sequelae.
 * **Dose:** 0.15 mg/kg/dose IV every 6 hours for 4 days.
 * **Timing:** Must be given **15 minutes before** or with the first dose of antibiotics.
-* **Indication:** Strongly recommended for *H. influenzae* and *Pneumococcal* meningitis.
+* **Indication:** Strongly recommended for *H. influenzae* and *Pneumococcal* [[Neurology/Meningitis\|meningitis]].
 
 ### C. Supportive Care 
-1.  **Fluids:** Maintenance fluids recommended. Restrict to 2/3rd maintenance only if SIADH is confirmed (Na <120 mEq/L). Avoid hypotonic fluids.
+1.  **Fluids:** Maintenance fluids recommended. Restrict to 2/3rd maintenance only if [[Endocrinology/SIADH\|SIADH]] is confirmed (Na <120 mEq/L). Avoid hypotonic fluids.
 2. **Raised ICP:** Elevate head to 30°. Mannitol (0.25-0.5 g/kg) if signs of herniation. Hyperventilation (maintain pCO2 25-30 mmHg) in ventilated patients.
 3.  **Seizures:** Treat with IV Benzodiazepines and Phenytoin.
 4.  **Vitals:** Maintain normothermia, normoglycemia, and adequate perfusion.
@@ -117,13 +117,13 @@ Start immediately after samples are drawn.
 * Seizures (early onset <4 days).
 * Raised Intracranial Tension / Herniation.
 * Shock / DIC (Waterhouse-Friderichsen syndrome).
-* Hyponatremia (SIADH).
+* Hyponatremia ([[Endocrinology/SIADH\|SIADH]]).
 
 ### Subacute/Chronic
 * **Subdural Effusion:** Suspect if persistent fever, increasing head size. Treat only if symptomatic (taps).
 * **Subdural Empyema:** Requires surgical drainage.
-* **Hydrocephalus:** Communicating or obstructive.
-* **Brain Abscess:** Focal deficits, fever.
+* **[[Neurology/Hydrocephalus\|Hydrocephalus]]:** Communicating or obstructive.
+* **[[Neurology/Brain Abscess\|Brain Abscess]]:** Focal deficits, fever.
 
 ### Sequelae
 * Sensorineural Hearing Loss (10-25%).
@@ -133,7 +133,7 @@ Start immediately after samples are drawn.
 
 ## 8. Prevention
 ### A. Vaccination
-1.  **Hib Vaccine:** Dramatically reduced H. flu meningitis (>95% reduction).
+1.  **Hib Vaccine:** Dramatically reduced H. flu [[Neurology/Meningitis\|meningitis]] (>95% reduction).
 2.  **Pneumococcal Conjugate Vaccine (PCV):** Prevents invasive pneumococcal disease.
 3.  **Meningococcal Vaccine:** For epidemics and high-risk groups (>2 yrs).
 
@@ -141,26 +141,26 @@ Start immediately after samples are drawn.
 * **Meningococcus:** Rifampicin (20 mg/kg/day BD for 2 days) OR Ciprofloxacin (single dose).
 * **H. influenzae:** Rifampicin (20 mg/kg/day OD for 4 days).
 
-## 9. Addendum: Tuberculous Meningitis (Chronic Meningitis)
+## 9. Addendum: Tuberculous [[Neurology/Meningitis\|Meningitis]] (Chronic [[Neurology/Meningitis\|Meningitis]])
 
-* **Definition:** Chronic meningitis (>4 weeks duration) caused by *Mycobacterium tuberculosis*.
+* **Definition:** Chronic [[Neurology/Meningitis\|meningitis]] (>4 weeks duration) caused by *Mycobacterium tuberculosis*.
 * **Clinical Stages:** 
     * **Stage I (Prodrome):** Nonspecific fever, anorexia, irritability.
     * **Stage II (Meningitic):** Signs of meningeal irritation, cranial nerve palsies, lethargy.
     * **Stage III (Coma):** Deep coma, decerebrate posturing.
 * **Diagnosis:**
     * **CSF:** Cobweb coagulum, Lymphocytic pleocytosis, High protein, Low sugar .
-    * **Imaging:** Basal exudates, Hydrocephalus, Tuberculomas, Infarcts (Triad).
+    * **Imaging:** Basal exudates, [[Neurology/Hydrocephalus\|Hydrocephalus]], Tuberculomas, Infarcts (Triad).
 * **Treatment:** 
     * **ATT:** 2 HRZS + 10 HR (Total 12 months).
     * **Steroids:** Prednisolone/Dexamethasone for 4-6 weeks (improves survival and reduces sequelae).
-## 10. ADDENDUM: HAEMOPHILUS INFLUENZAE MENINGITIS
+## 10. ADDENDUM: HAEMOPHILUS INFLUENZAE [[Neurology/Meningitis\|MENINGITIS]]
 
 ### 1. Introduction and Etiology
 * **Agent:** *Haemophilus influenzae* is a Gram-negative coccobacillus.
 * **Virulence:** Serotype b (Hib) is the most virulent strain causing invasive disease.
 * **Epidemiology:**
-    * Classically the **commonest cause** of bacterial meningitis in children $\le 3$ years of age.
+    * Classically the **commonest cause** of bacterial [[Neurology/Meningitis\|meningitis]] in children $\le 3$ years of age.
     * Endemic occurrence is more common than epidemics.
     * Incidence has declined significantly (>95% reduction) in regions with effective Hib vaccination programs.
 
@@ -170,7 +170,7 @@ Start immediately after samples are drawn.
 * **Environmental:** Malnutrition and overcrowding are contributing factors.
 
 ### 3. Clinical Specifics
-While general features mimic other pyogenic meningitis, certain associations are notable:
+While general features mimic other pyogenic [[Neurology/Meningitis\|meningitis]], certain associations are notable:
 * **Onset:** Typically presents with fever, vomiting, and irritability.
 * **Subdural Effusions:** More frequently associated with *H. influenzae* and *Streptococcus pneumoniae* etiologies compared to other agents.
 * **Sequelae:**
@@ -183,7 +183,7 @@ While general features mimic other pyogenic meningitis, certain associations are
     * **Cytology:** Polymorphonuclear pleocytosis.
     * **Biochemistry:** Elevated protein (100–500 mg/dl) and low sugar (<40 mg/dl).
     * **Gram Stain:** Reveals Gram-negative coccobacilli.
-* **Rapid Diagnostics:** Latex agglutination tests can detect Hib antigens, useful in partially treated meningitis.
+* **Rapid Diagnostics:** Latex agglutination tests can detect Hib antigens, useful in partially treated [[Neurology/Meningitis\|meningitis]].
 
 ### 5. Management
 #### A. Antibiotic Therapy
@@ -194,7 +194,7 @@ While general features mimic other pyogenic meningitis, certain associations are
 * **Duration:** Therapy should continue for **10–14 days**.
 
 #### B. Adjuvant Corticosteroids
-* **Indication:** Dexamethasone is specifically indicated for *H. influenzae* meningitis to reduce audiologic and neurologic sequelae.
+* **Indication:** Dexamethasone is specifically indicated for *H. influenzae* [[Neurology/Meningitis\|meningitis]] to reduce audiologic and neurologic sequelae.
 * **Dose:** $0.15$ mg/kg/dose every 6 hours for 4 days.
 * **Timing:** Must be administered **15 minutes before** the first dose of antibiotics.
 

@@ -44,7 +44,7 @@
 ### Immunological Impact
 
 - Induces robust systemic immunity against all three poliovirus types.
-- Provides essential baseline immunity against vaccine-associated paralytic poliomyelitis.
+- Provides essential baseline immunity against vaccine-associated [[Neuromuscular/Paralytic Poliomyelitis\|paralytic poliomyelitis]].
 - Protects populations against circulating vaccine-derived polioviruses.
 - Mitigates critical immunity gaps following global cessation of type 2 oral poliovirus vaccine.
 - Boosts intestinal and humoral immunity in prior oral poliovirus vaccine non-responders.

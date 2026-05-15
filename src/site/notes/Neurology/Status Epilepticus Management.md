@@ -9,7 +9,7 @@
 ### 2. General Principles (ABCDE)
 * **Airway:** Position head, suction secretions, consider intubation if GCS < 8 or airway compromised.
 * **Breathing:** High-flow oxygen (100%). Monitor SpO2 and EtCO2.
-* **Circulation:** Establish 2 large-bore IV lines. Monitor BP and ECG.
+* **Circulation:** Establish 2 large-bore IV lines. Monitor BP and [[Misc/ECG\|ECG]].
 * **Dextrose:** Bedside glucometry. If **Hypoglycemia (<60 mg/dL)**: Give **Dextrose 10% (2–5 mL/kg)** or D25 (2 mL/kg).
 * **Electrolytes:** Send samples for Na+, Ca++, Mg++, AED levels, ABG, Toxicology.
 

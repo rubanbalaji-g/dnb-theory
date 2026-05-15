@@ -30,7 +30,7 @@
 |Hyperbilirubinemia|Jaundice severity requiring exchange transfusion.|
 |Pharmacotherapy|Ototoxic medication exposure (Aminoglycosides, loop diuretics) exceeding 5 days.|
 |Congenital Infections|Intrauterine infections including Cytomegalovirus, Rubella, Syphilis.|
-|Postnatal Infections|Culture-positive neonatal sepsis or meningitis.|
+|Postnatal Infections|Culture-positive neonatal sepsis or [[Neurology/Meningitis\|meningitis]].|
 |Congenital Anomalies|Craniofacial defects including cleft lip/palate, ear tags, atresia.|
 |Hereditary Factors|Family history of permanent childhood sensorineural hearing loss.|
 |Genetic Syndromes|Phenotypes associated with hearing loss including Waardenburg, Alport, Pendred syndromes.|

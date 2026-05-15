@@ -22,7 +22,7 @@
 
 ---
 
-## Chronology of Primitive Reflexes
+## Chronology of [[Neurology/Primitive Reflexes\|Primitive Reflexes]]
 
 |Reflex|Onset (Gestational Age)|Fully Developed|Duration/Disappearance (Postnatal)|
 |:--|:--|:--|:--|
@@ -41,7 +41,7 @@
 - **Elicitation Method 1:** Support infant in semierect position. Allow head to fall backward onto examiner's hand.
 - **Elicitation Method 2:** Support head in midline with one hand, back with the other. Raise infant to 45°. Let head fall through 10°. Repeat three times.
 - **Normal Response:**
-	- **Phase 1 (Abduction and Extension):** The infant abruptly abducts and extends the arms, spreading them outward. The hands open, and the fingers flare, typically with the thumb and index finger forming a distinct "C" shape.
+	- **Phase 1 (Abduction and Extension):** The infant abruptly abducts and extends the arms, spreading them outward. The hands open, and the fingers flare, typically with the thumb and [[Statistics/Index\|index]] finger forming a distinct "C" shape.
 	- **Phase 2 (Adduction and Flexion):** The infant then brings the arms back toward the midline in a smooth, clasping, or embracing motion, often flexing the arms over the chest.
 - **Clinical Nuances:**
     - **Absent in term newborn:** Ominous sign. Suggests significant diffuse CNS dysfunction.
@@ -50,7 +50,7 @@
 
 ### 2. Palmar Grasp and Traction Response
 
-- **Elicitation:** Place index finger into infant's open palm. Gently press palmar surface. Avoid touching dorsal surface.
+- **Elicitation:** Place [[Statistics/Index\|index]] finger into infant's open palm. Gently press palmar surface. Avoid touching dorsal surface.
 - **Normal Response:** Forced grasp of examiner's finger.
 - **Traction Component:** By 37 weeks gestation, grasp is strong enough to lift infant from bed with gentle traction.
 - **Clinical Nuances:**
@@ -65,7 +65,7 @@
 - **Clinical Nuances:**
     - Visible movement may be absent; change in muscle tone is sufficient.
     - **Obligatory ATNR:** Infant becomes stuck in fencing posture. Always abnormal. Implies severe CNS disorder.
-    - Persistent ATNR beyond 6 months strongly suggests Cerebral Palsy.
+    - Persistent ATNR beyond 6 months strongly suggests [[Neurology/Cerebral Palsy\|Cerebral Palsy]].
 
 ### 4. Rooting and Sucking Reflexes
 
@@ -92,14 +92,14 @@
 
 ### Indicators of CNS Depression
 
-- **Hypoxic-Ischemic Encephalopathy (HIE):** Primitive reflexes are depressed or absent. Moderate HIE: Poor suck. Severe HIE: Unable to suck.
+- **Hypoxic-Ischemic Encephalopathy (HIE):** [[Neurology/Primitive Reflexes\|Primitive reflexes]] are depressed or absent. Moderate HIE: Poor suck. Severe HIE: Unable to suck.
 - **General CNS Insult:** Apathy, floppiness, and absent Moro/suck reflexes are critical alarm signs of early brain damage.
 
-### Indicators of Cerebral Palsy (CP)
+### Indicators of [[Neurology/Cerebral Palsy\|Cerebral Palsy]] (CP)
 
-- **Persistence:** Persistence of primitive reflexes (e.g., ATNR, Moro, Rooting) beyond typical disappearance age is a hallmark clinical feature of CP.
-- **Delayed Postural Reflexes:** Absence of parachute and Landau reflexes further supports CP diagnosis.
-- **Prognostic Value:** Persistent primitive reflexes beyond 2 years of age predict a poor neuromotor outcome and non-ambulatory status in CP.
+- **Persistence:** Persistence of [[Neurology/Primitive Reflexes\|primitive reflexes]] (e.g., ATNR, Moro, Rooting) beyond typical disappearance age is a hallmark clinical feature of CP.
+- **Delayed [[Neurology/Postural Reflexes\|Postural Reflexes]]:** Absence of parachute and Landau reflexes further supports CP diagnosis.
+- **Prognostic Value:** Persistent [[Neurology/Primitive Reflexes\|primitive reflexes]] beyond 2 years of age predict a poor neuromotor outcome and non-ambulatory status in CP.
 
 ### Differential Diagnosis via Reflexes
 

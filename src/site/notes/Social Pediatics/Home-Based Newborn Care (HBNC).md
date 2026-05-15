@@ -3,7 +3,7 @@
 ---
 
 ## Definition
-Home-Based Newborn Care (HBNC) is a comprehensive package of highly effective, low-cost interventions provided by a trained community health worker (ASHA) at the doorstep of the beneficiary. It aims to reduce Neonatal Mortality Rate (NMR) by providing essential care, identifying danger signs early, and ensuring prompt referral of sick neonates.
+[[Social Pediatics/Home-Based Newborn Care (HBNC)\|Home-Based Newborn Care (HBNC)]] is a comprehensive package of highly effective, low-cost interventions provided by a trained community health worker (ASHA) at the doorstep of the beneficiary. It aims to reduce Neonatal Mortality Rate (NMR) by providing essential care, identifying danger signs early, and ensuring prompt referral of sick neonates.
 
 ## Objectives
 - Ensuring essential newborn care (warmth, hygiene, and breastfeeding).
@@ -23,7 +23,7 @@ The number of visits depends on the place of delivery:
 ## Key Components Of HBNC
 
 ### 1. Essential Newborn Care
-- **Thermal Protection:** Maintaining the "warm chain." Promoting skin-to-skin contact and Kangaroo Mother Care (KMC), especially for low birth weight (LBW) infants. Delaying the first bath until 72 hours.
+- **Thermal Protection:** Maintaining the "warm chain." Promoting skin-to-skin contact and [[Neonatalogy/Kangaroo Mother Care\|Kangaroo Mother Care]] (KMC), especially for low birth weight (LBW) infants. Delaying the first bath until 72 hours.
 - **Hygiene:** Proper cord care (keeping it dry/no application), eye care, and skin care.
 - **Breastfeeding Support:** Counseling on early initiation (within 1 hour) and exclusive breastfeeding (EBF). Correcting attachment and positioning issues.
 
@@ -53,7 +53,7 @@ The ASHA is trained to screen for:
 
 ## Role Of ASHA And Convergence
 - The ASHA receives a performance-based incentive (Rs. 250) for completing the full schedule of visits.
-- Convergence with the Anganwadi Worker (AWW) and Auxiliary Nurse Midwife (ANM) during Village Health Sanitation and Nutrition Days (VHSND) to ensure immunization (BCG, OPV-0, Hepatitis B).
+- Convergence with the Anganwadi Worker (AWW) and Auxiliary Nurse Midwife (ANM) during Village Health Sanitation and Nutrition Days (VHSND) to ensure immunization ([[Misc/BCG\|BCG]], OPV-0, [[Gastrointestinal/Hepatitis B\|Hepatitis B]]).
 
 ## Impact And Significance
 - **Continuum of Care:** Bridges the gap between the birth and the 6-week immunization visit.

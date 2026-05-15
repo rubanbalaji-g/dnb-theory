@@ -23,7 +23,7 @@
 - Multiplies extensively within mucosal cells.
 - Induces robust mucosal immunity mediated by secretory immunoglobulin A.
 - Reduces viral shedding and limits feco-oral transmission.
-- Provides indirect herd immunity protecting unvaccinated community members.
+- Provides indirect [[Misc/Herd Immunity\|herd immunity]] protecting unvaccinated community members.
 - Systemic immunity generated but mucosal response remains relatively short-lived compared to inactivated alternatives.
 
 ### Factors Influencing Immunogenicity
@@ -51,7 +51,7 @@
 - Mopping-up campaigns conduct house-to-house administration targeting reservoirs.
 - Coadministration remains safe with other childhood vaccines without compromising efficacy.
 
-## Storage And Cold Chain Management
+## Storage And [[Misc/Cold Chain\|Cold Chain]] Management
 
 - Exhibits high sensitivity to heat and temperature fluctuations.
 - Maintain frozen at -15°C to -25°C for long-term bulk storage.
@@ -60,7 +60,7 @@
 
 ## Adverse Effects And Safety Issues
 
-### Vaccine-Associated Paralytic Poliomyelitis
+### Vaccine-Associated [[Neuromuscular/Paralytic Poliomyelitis\|Paralytic Poliomyelitis]]
 
 - Defined as paralytic polio occurring in vaccinee or close contact.
 - Attributed to genetic mutation of attenuated vaccine strain in human gut.

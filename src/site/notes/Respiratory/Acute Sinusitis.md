@@ -45,9 +45,9 @@
 
 ### Predisposing Risk Factors
 
-- Host Factors: Allergic rhinitis (most frequent risk factor).
-- Anatomical Defects: Septal deviation, adenoid hypertrophy, nasal polyps, concha bullosa.
-- Systemic Conditions: Cystic Fibrosis (bilateral polyps), Primary Ciliary Dyskinesia, primary immunodeficiencies.
+- Host Factors: [[Respiratory/Allergic Rhinitis\|Allergic rhinitis]] (most frequent risk factor).
+- Anatomical Defects: Septal deviation, adenoid hypertrophy, [[Respiratory/Nasal Polyps\|nasal polyps]], concha bullosa.
+- Systemic Conditions: [[Respiratory/Cystic Fibrosis\|Cystic Fibrosis]] (bilateral polyps), [[Respiratory/Primary Ciliary Dyskinesia\|Primary Ciliary Dyskinesia]], primary immunodeficiencies.
 - Environmental/Iatrogenic: Tobacco smoke exposure, prolonged nasogastric/nasotracheal intubation blocking sinus ostia.
 
 ## Clinical Manifestations And Diagnostic Criteria
@@ -80,7 +80,7 @@
 
 ### Imaging And Laboratory Assessment
 
-- Clinical Diagnosis: Sufficient uncomplicated acute sinusitis.
+- Clinical Diagnosis: Sufficient uncomplicated [[Respiratory/Acute Sinusitis\|acute sinusitis]].
 - Plain Radiographs: Obsolete pediatrics, high false positive/negative rates, not recommended.
 - Contrast-Enhanced Computed Tomography (CT): Gold standard delineating sinus anatomy. Indications strictly reserved suspected orbital/intracranial complications, surgical planning, severe recalcitrant disease.
 - Microbiological Diagnosis: Sinus aspirate culture represents gold standard. Routine aspiration impractical, strictly reserved nonresponsive, highly immunocompromised patients.
@@ -90,7 +90,7 @@
 ### Alternate Etiologies
 
 - Viral Upper Respiratory Infection: Clear discharge, symptom duration <10 days.
-- Allergic Rhinitis: Seasonal variation, profound nasal eosinophilia, transverse nasal crease.
+- [[Respiratory/Allergic Rhinitis\|Allergic Rhinitis]]: Seasonal variation, profound nasal eosinophilia, transverse nasal crease.
 - Nasal Foreign Body: Unilateral foul-smelling purulent discharge.
 
 ## Complications
@@ -103,14 +103,14 @@
 
 - Represents most frequent complication, typically originating ethmoiditis.
 - Stage I (Preseptal Cellulitis): Eyelid edema, erythema. Intact, normal extraocular movement.
-- Stage II (Orbital Cellulitis): Post-septal inflammation. Proptosis, chemosis, marked ophthalmoplegia.
+- Stage II (Orbital Cellulitis): Post-septal inflammation. [[Misc/Proptosis\|Proptosis]], chemosis, marked ophthalmoplegia.
 - Stage III (Subperiosteal Abscess): Purulent collection between lamina papyracea, periorbita. Globe displaced laterally/downward.
 - Stage IV (Orbital Abscess): Purulent collection within intraorbital fat. Imposes severe visual threat.
 - Stage V (Cavernous Sinus Thrombosis): Bilateral progression, cranial nerve III, IV, VI palsies.
 
 ### Intracranial And Osseous Complications
 
-- Intracranial Spread: Epidural/Subdural empyema, severe meningitis, brain abscess. Requires emergent broad-spectrum intravenous coverage (Cefotaxime/Ceftriaxone plus Vancomycin, Metronidazole).
+- Intracranial Spread: Epidural/Subdural empyema, severe [[Neurology/Meningitis\|meningitis]], [[Neurology/Brain Abscess\|brain abscess]]. Requires emergent broad-spectrum intravenous coverage (Cefotaxime/Ceftriaxone plus Vancomycin, Metronidazole).
 - Osseous Spread: Pott Puffy Tumor (frontal bone osteomyelitis producing doughy subgaleal forehead swelling).
 
 ## Management Strategies
@@ -132,6 +132,6 @@
 
 ### Adjuvant And Surgical Therapy
 
-- Adjuvant Measures: Normal saline irrigation beneficial clearing viscous secretions. Intranasal steroids offer modest benefit primarily concurrent allergic rhinitis.
+- Adjuvant Measures: Normal saline irrigation beneficial clearing viscous secretions. Intranasal steroids offer modest benefit primarily concurrent [[Respiratory/Allergic Rhinitis\|allergic rhinitis]].
 - Contraindicated Adjuvants: Decongestants, antihistamines strictly NOT recommended, severely thicken secretions impairing clearance.
 - Surgical Intervention: Functional Endoscopic Sinus Surgery (FESS) establishes drainage/ventilation. Indications include Chandler Stage III+ orbital complications, intracranial extension, failure maximal medical therapy, underlying severe anatomical defects.

@@ -40,6 +40,6 @@
 |Anterior Chamber|Hypopyon and iris infiltration|Heralds relapse or central nervous system involvement.|
 |Retina|Sausage-shaped dilated veins|Indicates leukemic retinopathy during acute stage.|
 |Retina|White-centered hemorrhages (Roth spots)|Classic posterior segment manifestation.|
-|Orbit|Extraocular mass or proptosis|Suggests metastatic spread mimicking cellulitis.|
+|Orbit|Extraocular mass or [[Misc/Proptosis\|proptosis]]|Suggests metastatic spread mimicking cellulitis.|
 |Lacrimal Gland|Dacryoadenitis|Represents localized glandular leukemic infiltration.|
 |Central Nervous System|Profound visual loss|Denotes leukemic extension into neuro-ophthalmic pathways.|

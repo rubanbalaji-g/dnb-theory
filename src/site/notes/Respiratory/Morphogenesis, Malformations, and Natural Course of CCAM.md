@@ -27,7 +27,7 @@ Lung development occurs in **5 overlapping stages**.
 ![Pasted image 20260328181243.png](/img/user/+%C4%B0mages/Pasted%20image%2020260328181243.png)
 
 ## II. Enumeration of Congenital Lung Malformations 
-These are often grouped as **Congenital Thoracic Malformations (CTMs)**.
+These are often grouped as **[[Respiratory/Congenital Thoracic malformations\|Congenital Thoracic Malformations]] (CTMs)**.
 
 ![Pasted image 20260328181452.png](/img/user/+%C4%B0mages/Pasted%20image%2020260328181452.png)
 
@@ -58,7 +58,7 @@ The natural history varies significantly from fetal life to childhood.
 
 ### 2. Postnatal Symptomatic Course
 * **Neonatal Respiratory Distress:** ~25% of neonates present at birth with distress due to air trapping/mass effect (requires emergency surgery).
-* **Recurrent Infection:** If untreated, the cyst acts as a reservoir for infection, leading to recurrent pneumonia or lung abscess in infancy/childhood.
+* **Recurrent Infection:** If untreated, the cyst acts as a reservoir for infection, leading to [[Respiratory/Recurrent Pneumonia\|recurrent pneumonia]] or lung abscess in infancy/childhood.
 
 ### 3. Malignant Potential (The Critical Concern)
 There is a small but definite risk of malignant transformation within the CPAM, typically in **Type 1 (large cyst)** or **Type 4** lesions.

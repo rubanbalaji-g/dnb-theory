@@ -23,13 +23,13 @@
 2.  **Autonomic Dysregulation (ANS Dysfunction):**
     * Temperature instability, profuse sweating, arrhythmias (sinus pauses), reduced pupillary light response.
 3.  **Associations:**
-    * **Haddad Syndrome:** CCHS + Hirschsprung Disease (15–20% of cases).
-    * **Neural Crest Tumors:** Neuroblastoma or Ganglioneuroma (requires surveillance).
+    * **Haddad Syndrome:** CCHS + [[Gastrointestinal/Hirschsprung disease\|Hirschsprung Disease]] (15–20% of cases).
+    * **Neural Crest Tumors:** [[Hematology/Neuroblastoma\|Neuroblastoma]] or Ganglioneuroma (requires surveillance).
 
 ## IV. Diagnosis
 Diagnosis is one of exclusion followed by genetic confirmation.
 1.  **Clinical Criteria:** Persistent hypoventilation ($PaCO_2$ >60 mmHg) during sleep without primary lung, cardiac, or neuromuscular disease.
-2.  **Polysomnography (Sleep Study):** Shows severe hypoventilation/apnea with **absence of arousal** despite hypercapnia.
+2.  **[[Development/Polysomnography\|Polysomnography]] (Sleep Study):** Shows severe hypoventilation/apnea with **absence of arousal** despite hypercapnia.
 3.  **Genetic Testing (Gold Standard):** Detection of *PHOX2B* mutation confirms diagnosis.
 
 ## V. Management
@@ -40,8 +40,8 @@ There is no cure; management is supportive and lifelong.
 2.  **Diaphragm Pacing:**
     * Phrenic nerve pacing allows for increased mobility and "liberation" from mechanical ventilators during the day (implanted in older children).
 3.  **Monitoring:**
-    * Continuous pulse oximetry and capnography ($EtCO_2$) during sleep.
-    * Annual screening for Neuroblastoma and Holter monitoring (cardiac pauses).
+    * Continuous [[Emergencies/Pulse Oximetry\|pulse oximetry]] and capnography ($EtCO_2$) during sleep.
+    * Annual screening for [[Hematology/Neuroblastoma\|Neuroblastoma]] and Holter monitoring (cardiac pauses).
 
 ## VI. Prognosis
 * Lifelong dependence on ventilation during sleep.

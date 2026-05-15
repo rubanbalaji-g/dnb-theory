@@ -4,7 +4,7 @@
 
 ## Definition And Composition
 
-- Active substance comprises viral surface protein hepatitis B surface antigen.
+- Active substance comprises viral surface protein [[Gastrointestinal/Hepatitis B\|hepatitis B]] surface antigen.
 - Produced via recombinant DNA technology in yeast.
 - Adsorbed onto aluminum salts serving as adjuvant.
 - Available in monovalent formulation or combined in pentavalent and hexavalent vaccines.
@@ -35,9 +35,9 @@
 
 ## Management In Special Situations
 
-### Mother Hepatitis B Surface Antigen Positive
+### Mother [[Gastrointestinal/Hepatitis B\|Hepatitis B]] Surface Antigen Positive
 
-- Administer Hepatitis B vaccine and Hepatitis B immunoglobulin within 12 hours of birth.
+- Administer [[Gastrointestinal/Hepatitis B\|Hepatitis B]] vaccine and [[Gastrointestinal/Hepatitis B\|Hepatitis B]] immunoglobulin within 12 hours of birth.
 - Administer products at separate anatomical injection sites.
 - Follow with three additional vaccine doses at 6, 10, and 14 weeks.
 - Perform post-vaccination serology testing at 9-12 months of age to confirm immunity.

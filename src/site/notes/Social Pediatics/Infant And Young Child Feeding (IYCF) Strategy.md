@@ -14,7 +14,7 @@
 * **Exclusive Breastfeeding (EBF):** The infant receives only breast milk (including expressed breast milk) for the first six months. No other solids or liquids, including water, are permitted (except ORS, drops, or syrups of vitamins/medicines).
 * **Continued Breastfeeding:** Breastfeeding should continue up to two years of age or beyond, as it remains a significant source of energy, high-quality protein, and fat-soluble vitamins.
 
-### 2. Complementary Feeding (CF)
+### 2. [[Nutrition/Complementary Feeding\|Complementary Feeding]] (CF)
 * **Timely Initiation:** Introduction of semi-solid, nutrient-dense foods at exactly six months (180 days) of age.
 * **MACS Criteria for Quality CF:**
   * **Meal Frequency:** 2–3 times/day (6–8 months); 3–4 times/day (9–23 months) with 1–2 additional nutritious snacks.
@@ -56,4 +56,4 @@
 ## Implementation Strategies In India
 * **POSHAN Abhiyaan:** A multi-ministerial mission targeting stunting, undernutrition, and anemia through behavior change communication (Jan Andolan).
 * **Village Health Sanitation and Nutrition Day (VHSND):** A community platform for monitoring growth and counseling caregivers.
-* **Home-Based Care for Young Child (HBYC):** ASHA visits at 3, 6, 9, 12, and 15 months to ensure IYCF compliance.
+* **[[Social Pediatics/Home-Based Care For Young Child (HBYC)\|Home-Based Care for Young Child (HBYC)]]:** ASHA visits at 3, 6, 9, 12, and 15 months to ensure IYCF compliance.

@@ -7,7 +7,7 @@
 * **Goal:** Antibiotic therapy is strictly reserved for confirmed or highly suspected **bacterial** etiologies to prevent resistance and adverse effects.
 * **"Watchful Waiting":** A key strategy in non-severe cases (especially AOM and Sinusitis), involving observation for 48–72 hours before starting antibiotics.
 
-## II. Acute Otitis Media (AOM)
+## II. [[Misc/Acute Otitis Media\|Acute Otitis Media]] (AOM)
 Based on **AAP 2013 Guidelines**. Antibiotics are indicated based on age and severity.
 
 ### 1. Absolute Indications (Treat Immediately)
@@ -52,7 +52,7 @@ Antibiotics are indicated ONLY for **Group A Beta-Hemolytic Streptococcus (GABHS
 * **Positive Throat Culture.**
 * *Note:* Empirical treatment is generally discouraged unless testing is unavailable and clinical suspicion (Score >4) is very high in a Rheumatic-endemic area.
 
-## V. Pertussis (Whooping Cough)
+## V. [[Infectious Diseases/Pertussis (Whooping Cough)\|Pertussis (Whooping Cough)]]
 * **Indication:** Suspected cases with prolonged cough (>14 days), paroxysms, or inspiratory whoop.
 * **Antibiotic:** Macrolides (Azithromycin) are used to decrease transmission (most effective in catarrhal phase) and treat the patient.
 

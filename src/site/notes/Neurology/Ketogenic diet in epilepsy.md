@@ -27,7 +27,7 @@ In these metabolic disorders, the brain *cannot* utilize glucose effectively; KD
 Selected syndromes where KD statistically outperforms many AEDs:
 * **Dravet Syndrome** (Severe Myoclonic Epilepsy of Infancy).
 * **Myoclonic Astatic Epilepsy (Doose Syndrome).**
-* **Infantile Spasms (West Syndrome)** – especially if resistant to ACTH/Vigabatrin.
+* **[[Neurology/Infantile Spasms\|Infantile Spasms]] (West Syndrome)** – especially if resistant to ACTH/Vigabatrin.
 * **Tuberous Sclerosis Complex.**
 * **Rett Syndrome.**
 
@@ -40,7 +40,7 @@ Before starting KD, metabolic screening is **mandatory** to rule out fatty acid 
 
 | Absolute Contraindications | Relative Contraindications |
 | :--- | :--- |
-| • **Primary Carnitine Deficiency**<br>• **Carnitine Palmitoyltransferase (CPT) I or II deficiency**<br>• **Carnitine Translocase deficiency**<br>• **Beta-oxidation defects** (e.g., MCAD, LCHAD, VLCAD)<br>• **Porphyria**<br>• **Pyruvate Carboxylase Deficiency** | • Severe gastrointestinal reflux (GERD)<br>• Kidney stones (Nephrolithiasis)<br>• Failure to thrive / Severe malnutrition<br>• Parent/Caregiver inability to maintain strict compliance<br>• Pregnancy |
+| • **Primary Carnitine Deficiency**<br>• **Carnitine Palmitoyltransferase (CPT) I or II deficiency**<br>• **Carnitine Translocase deficiency**<br>• **Beta-oxidation defects** (e.g., MCAD, LCHAD, VLCAD)<br>• **Porphyria**<br>• **Pyruvate Carboxylase Deficiency** | • Severe gastrointestinal reflux ([[Gastrointestinal/GERD\|GERD]])<br>• Kidney stones (Nephrolithiasis)<br>• Failure to thrive / Severe malnutrition<br>• Parent/Caregiver inability to maintain strict compliance<br>• Pregnancy |
 
 ### 5. Types of Ketogenic Dietary Therapies
 The diet is tailored to the patient's age and tolerability.
@@ -50,7 +50,7 @@ The diet is tailored to the patient's age and tolerability.
 | **Classic KD** | **4:1 or 3:1 Ratio**<br>(4g Fat : 1g Protein+Carb)<br>90% calories from Fat. | Most efficacious. Highest ketosis levels. | Strict weighing required. Low palatability. Higher side effect profile. | Infants, Tube-fed patients, Severe refractory cases. |
 | **MCT Diet** | Uses **Medium Chain Triglycerides** (oil/emulsion). MCTs yield more ketones per kcal than LCTs. | Allows more protein/carbs. Better variety. | GI cramps, diarrhea, vomiting common. Expensive. | Children who need higher protein/carbs. |
 | **Modified Atkins (MAD)** | **~1:1 Ratio.**<br>Carbs restricted to 10–20g/day. High Fat, Unrestricted Protein. | No weighing of food. Socially less restrictive. | Lower ketosis than classic. Efficacy slightly lower but comparable. | Adolescents, Adults, Outpatients. |
-| **LGIT (Low Glycemic Index)** | Carbs 40–60g/day but restricted to **GI < 50**. | Most liberal. Nutritious. | Variable ketosis. Lowest efficacy among the group. | Mild cases, families unable to manage strict KD. |
+| **LGIT (Low Glycemic [[Statistics/Index\|Index]])** | Carbs 40–60g/day but restricted to **GI < 50**. | Most liberal. Nutritious. | Variable ketosis. Lowest efficacy among the group. | Mild cases, families unable to manage strict KD. |
 
 ### 6. Implementation Protocol
 

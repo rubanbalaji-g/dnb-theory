@@ -2,7 +2,7 @@
 {"dg-publish":true,"uptext":"Back to Index (⭕ Misc)","uplink":"/misc/miscellaneous-topics/","permalink":"/misc/rsv-vaccine/","dgPassFrontmatter":true}
 ---
 
-## Active Maternal Immunization
+## Active [[Misc/Maternal Immunization\|Maternal Immunization]]
 
 - Employs bivalent prefusion f protein-based vaccine, Abrysvo.
 - Administered strictly between 32 and 36 weeks gestation.

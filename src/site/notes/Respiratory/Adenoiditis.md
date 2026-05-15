@@ -13,7 +13,7 @@
 ## Etiology And Pathophysiology
 
 - Driven by recurrent viral (Rhino/Adenovirus) or bacterial (Beta-hemolytic Streptococci, _Haemophilus influenzae_, _Moraxella catarrhalis_) infections.
-- Exacerbated by chronic allergic rhinitis triggering continuous lymphoid hyperplasia.
+- Exacerbated by chronic [[Respiratory/Allergic Rhinitis\|allergic rhinitis]] triggering continuous lymphoid hyperplasia.
 - Associated with environmental irritants including passive cigarette smoke.
 - Provoked by chronic irritation from gastroesophageal reflux disease.
 - Enlargement causes direct mechanical obstruction of nasopharynx and Eustachian tube orifices,.
@@ -26,17 +26,17 @@
 |Feature|Clinical Manifestation|
 |:--|:--|
 |Nasal Obstruction|Bilateral, persistent blockage requiring continuous mouth breathing, especially during sleep.|
-|Discharge|Chronic mucopurulent nasal discharge indicating concurrent adenoiditis.|
+|Discharge|Chronic mucopurulent nasal discharge indicating concurrent [[Respiratory/Adenoiditis\|adenoiditis]].|
 |Voice Alteration|Hyponasal speech (Rhinolalia clausa) lacking normal nasal resonance.|
-|Sleep Disordered Breathing|Ranges from simple snoring to severe obstructive sleep apnea.|
+|Sleep Disordered Breathing|Ranges from simple snoring to severe [[Respiratory/Obstructive Sleep Apnea\|obstructive sleep apnea]].|
 
 ### Otologic And Systemic Symptoms
 
 |System|Specific Findings|
 |:--|:--|
-|Otologic|Eustachian tube dysfunction, recurrent acute otitis media, otitis media with effusion (glue ear) causing conductive hearing loss.|
+|Otologic|Eustachian tube dysfunction, recurrent [[Misc/Acute Otitis Media\|acute otitis media]], otitis media with effusion (glue ear) causing conductive hearing loss.|
 |Sleep Disturbances|Restless sleep, night terrors, enuresis,.|
-|Cardiopulmonary|Rare development of pulmonary hypertension (cor pulmonale) secondary to severe chronic obstructive sleep apnea.|
+|Cardiopulmonary|Rare development of pulmonary hypertension (cor pulmonale) secondary to severe chronic [[Respiratory/Obstructive Sleep Apnea\|obstructive sleep apnea]].|
 
 ### Adenoid Facies
 
@@ -60,24 +60,24 @@
 |Diagnostic Nasal Endoscopy|Gold standard investigation directly visualizing adenoid size and choanal patency.|
 |X-Ray Nasopharynx (Lateral)|Soft tissue technique utilizing Fujioka’s Method. Ratio of adenoidal depth to nasopharyngeal space >0.8 indicates significant hypertrophy.|
 |Tympanometry|Rules out associated otitis media with effusion demonstrating flat Type B curve.|
-|Polysomnography|Gold standard sleep study indicated for suspected obstructive sleep apnea.|
+|[[Development/Polysomnography\|Polysomnography]]|Gold standard sleep study indicated for suspected [[Respiratory/Obstructive Sleep Apnea\|obstructive sleep apnea]].|
 
 ## Differential Diagnosis
 
 - Choanal atresia (unilateral or bilateral bony/membranous blockage).
 - Antrochoanal polyp (solitary mass originating from maxillary sinus).
 - Juvenile nasopharyngeal angiofibroma (adolescent males, profuse bleeding).
-- Allergic rhinitis (pale turbinates, sneezing).
+- [[Respiratory/Allergic Rhinitis\|Allergic rhinitis]] (pale turbinates, sneezing).
 - Foreign body (unilateral foul-smelling discharge).
 
 ## Management
 
 ### Medical Management
 
-- Constitutes first-line therapy for mild-to-moderate symptoms without severe obstructive sleep apnea.
+- Constitutes first-line therapy for mild-to-moderate symptoms without severe [[Respiratory/Obstructive Sleep Apnea\|obstructive sleep apnea]].
 - Intranasal corticosteroids (Fluticasone/Mometasone) administered for 6–12 weeks.
 - Reduces adenoid size by decreasing local lymphocyte infiltration.
-- Antibiotics (Amoxicillin-Clavulanate) utilized for acute adenoiditis exacerbations.
+- Antibiotics (Amoxicillin-Clavulanate) utilized for acute [[Respiratory/Adenoiditis\|adenoiditis]] exacerbations.
 - Saline nasal washes indicated for clearing mucopurulent secretions.
 - Strict control of underlying co-morbidities including allergies and gastroesophageal reflux.
 
@@ -85,10 +85,10 @@
 
 - **Indications:**
     - Severe nasal obstruction causing persistent mouth breathing or established adenoid facies.
-    - Documented obstructive sleep apnea.
+    - Documented [[Respiratory/Obstructive Sleep Apnea\|obstructive sleep apnea]].
     - Recurrent rhinosinusitis failing maximal medical therapy,.
     - Chronic otitis media with effusion lasting >3 months with associated hearing loss.
-    - Recurrent acute otitis media,.
+    - Recurrent [[Misc/Acute Otitis Media\|acute otitis media]],.
     - Severe dental malocclusion.
 - **Surgical Techniques:**
     - Conventional blind curettage utilizing St. Clair Thomson curette.

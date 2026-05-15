@@ -8,7 +8,7 @@
 - Single dose contains 5 limit of flocculation (Lf) of toxoid.
 - Confers active immunity and generates immune memory requiring periodic boosters.
 - Administered via intramuscular route, preferring anterolateral thigh for infants and deltoid for older children.
-- Available widely in combinations like diphtheria, tetanus, whole-cell pertussis (DTwP), diphtheria, tetanus, acellular pertussis (DTaP), tetanus and reduced diphtheria (Td), and pentavalent vaccines.
+- Available widely in combinations like [[Infectious Diseases/Diphtheria\|diphtheria]], tetanus, whole-cell pertussis (DTwP), [[Infectious Diseases/Diphtheria\|diphtheria]], tetanus, acellular pertussis (DTaP), tetanus and reduced [[Infectious Diseases/Diphtheria\|diphtheria]] (Td), and pentavalent vaccines.
 
 ## Immunization Schedule
 
@@ -22,16 +22,16 @@
 |Adolescents|10-12 years|Tdap|
 |Adults|Every 10 years|Td or Tdap|
 
-### Maternal Immunization
+### [[Misc/Maternal Immunization\|Maternal Immunization]]
 
 - Routine immunization during pregnancy declines neonatal tetanus incidence.
-- Provides passive immunity to newborn via transplacental passage of immunoglobulin G (IgG) antibodies.
+- Provides [[Infectious Diseases/Passive Immunity\|passive immunity]] to newborn via transplacental passage of immunoglobulin G (IgG) antibodies.
 - Recommend single dose of Tdap during each pregnancy, preferably between 27 and 36 weeks.
 - Unimmunized pregnant women require two doses, including one Tdap, administered at least 1 month apart, with second dose at least 2 weeks before delivery.
 
 ## Wound Management Prophylaxis
 
-- Tetanus toxoid and tetanus immunoglobulin (TIG) indications depend on wound severity and previous vaccination status.
+- [[Misc/Tetanus Toxoid\|Tetanus toxoid]] and tetanus immunoglobulin (TIG) indications depend on wound severity and previous vaccination status.
 
 |Previous Vaccine Doses|Clean Minor Wound|All Other Wounds|
 |---|---|---|

@@ -24,4 +24,4 @@
 
 - Optic neuropathy develops, characterized by disc swelling and blurred vision.
 - Heredodegenerative optic atrophy associates with sensorineural hearing loss in juvenile-onset insulin-dependent diabetes.
-- Wolfram syndrome presents with diabetes insipidus, diabetes mellitus, optic atrophy, and deafness.
+- Wolfram syndrome presents with [[Endocrinology/Diabetes Insipidus\|diabetes insipidus]], diabetes mellitus, optic atrophy, and deafness.

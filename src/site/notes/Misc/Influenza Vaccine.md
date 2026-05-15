@@ -28,7 +28,7 @@
 
 ## Dosage And Administration Schedule
 
-|Parameter|Inactivated Influenza Vaccine|Live-Attenuated Influenza Vaccine|
+|Parameter|Inactivated [[Misc/Influenza Vaccine\|Influenza Vaccine]]|Live-Attenuated [[Misc/Influenza Vaccine\|Influenza Vaccine]]|
 |:--|:--|:--|
 |**Minimum Age**|6 months|2 years|
 |**Dose And Route**|0.5 ml (15 µg); Intramuscular|0.25 ml in each nostril; Intranasal|

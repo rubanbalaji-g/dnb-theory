@@ -92,7 +92,7 @@ Rapid growth causes the neural tube to fold.
 * **PNS:** Performed by Schwann Cells (Neural crest). Starts 4th month.
 
 ## 7. CONGENITAL ANOMALIES (EMBRYOLOGICAL BASIS)
-1.  **Neural Tube Defects:** Failure of neuropore closure (Anencephaly, Spina Bifida).
+1.  **[[Neurology/Neural Tube Defects\|Neural Tube Defects]]:** Failure of neuropore closure (Anencephaly, Spina Bifida).
 2.  **Holoprosencephaly:** Failure of prosencephalon cleavage (SHH signaling defect).
-3.  **Dandy-Walker Malformation:** Failure of foramina of Luschka/Magendie to open; cerebellar vermis agenesis.
-4.  **Hirschsprung Disease:** Failure of neural crest cell migration to the colon.
+3.  **[[Neurology/Dandy-Walker Malformation\|Dandy-Walker Malformation]]:** Failure of foramina of Luschka/Magendie to open; cerebellar vermis agenesis.
+4.  **[[Gastrointestinal/Hirschsprung disease\|Hirschsprung Disease]]:** Failure of neural crest cell migration to the colon.

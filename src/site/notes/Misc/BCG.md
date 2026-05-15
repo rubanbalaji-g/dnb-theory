@@ -28,7 +28,7 @@
 
 - Primarily induces cell-mediated immunity.
 - Protective efficacy against primary pulmonary infection remains low (8-79%).
-- Affords excellent protection (72-100%) against severe disseminated forms like miliary tuberculosis and tubercular meningitis.
+- Affords excellent protection (72-100%) against severe disseminated forms like miliary tuberculosis and [[Neurology/Tubercular Meningitis\|tubercular meningitis]].
 - Immunity duration typically wanes over 10-15 years.
 - Scar failure occurs in approximately 10% of recipients but does not signify immunization failure due to positive in vitro responses,.
 - Exhibits non-specific heterologous protection against neonatal sepsis and respiratory viral infections.
@@ -43,8 +43,8 @@
 
 - Local complications include persistent ulceration and ipsilateral regional (axillary or cervical) lymphadenitis.
 - Suppurative lymphadenitis requires needle aspiration; surgical excision reserved for failed repeated aspirations.
-- Severe rare complications involve osteitis, osteomyelitis, and disseminated BCG infection.
-- Disseminated BCG disease incidence measures two cases per one million vaccinations.
+- Severe rare complications involve osteitis, osteomyelitis, and disseminated [[Misc/BCG\|BCG]] infection.
+- Disseminated [[Misc/BCG\|BCG]] disease incidence measures two cases per one million vaccinations.
 
 ## Contraindications And Special Populations
 

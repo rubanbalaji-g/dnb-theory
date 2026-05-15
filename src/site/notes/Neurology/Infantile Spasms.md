@@ -5,7 +5,7 @@
 ### 1. Definition and Epidemiology
 * **Definition:** An age-dependent epileptic encephalopathy occurring in infancy.
 * **West Syndrome Triad:**
-    1.  **Infantile Spasms:** Unique seizure type (clusters of flexor/extensor jerks).
+    1.  **[[Neurology/Infantile Spasms\|Infantile Spasms]]:** Unique seizure type (clusters of flexor/extensor jerks).
     2.  **Hypsarrhythmia:** Pathognomonic interictal EEG pattern.
     3.  **Developmental Regression:** Arrest or regression of psychomotor development.
 * **Peak Onset:** 3 to 7 months of age (90% onset < 1 year).
@@ -15,7 +15,7 @@ Currently classified into **Structural/Metabolic (Symptomatic)** and **Unknown (
 
 | Category | Common Causes |
 | :--- | :--- |
-| **Structural (Most Common)** | **Tuberous Sclerosis Complex (TSC)** (Major cause), Hypoxic-Ischemic Encephalopathy (HIE), Neurofibromatosis 1, Cortical Dysplasia, Lissencephaly, Aicardi Syndrome. |
+| **Structural (Most Common)** | **[[Neurology/Tuberous Sclerosis Complex (TSC)\|Tuberous Sclerosis Complex (TSC)]]** (Major cause), Hypoxic-Ischemic Encephalopathy (HIE), Neurofibromatosis 1, Cortical Dysplasia, Lissencephaly, Aicardi Syndrome. |
 | **Metabolic** | [[Metabolic Disorders/Phenylketonuria\|Phenylketonuria]] (PKU), Non-ketotic hyperglycinemia, Pyridoxine dependency, Mitochondrial disorders. |
 | **Genetic** | *ARX* and *CDKL5* mutations; Trisomy 21. |
 | **Unknown** | No cause identified despite investigation (better prognosis). |
@@ -34,7 +34,7 @@ Currently classified into **Structural/Metabolic (Symptomatic)** and **Unknown (
     * **Ictal:** High-voltage slow wave followed by voltage attenuation (electrodecremental response).
 * **Neuroimaging (MRI Brain):** Mandatory to identify structural substrates (tubers, malformations).
 * **Metabolic Screen:** If MRI is normal (Tandem Mass Spectrometry, Urine organic acids, Ammonia, Lactate).
-* **Genetic Testing:** Whole Exome Sequencing (WES) or Epilepsy Gene Panels if etiology remains obscure.
+* **Genetic Testing:** Whole [[Genetics/Exome Sequencing\|Exome Sequencing]] (WES) or Epilepsy Gene Panels if etiology remains obscure.
 
 ### 5. Management
 Early treatment is critical to improve neurodevelopmental outcomes (Lead Time Bias).

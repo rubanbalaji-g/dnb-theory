@@ -5,7 +5,7 @@
 ## Definition
 * **Definition:** A group of permanent disorders of the development of movement and posture, causing activity limitation, attributed to **non-progressive** disturbances that occurred in the developing fetal or infant brain.
 * **The "CP Plus" Concept:** The motor disorders are often accompanied by disturbances of sensation, perception, cognition, communication, and behavior, by epilepsy, and by secondary musculoskeletal problems.
-## Classification and Types of Cerebral Palsy (CP)
+## Classification and Types of [[Neurology/Cerebral Palsy\|Cerebral Palsy]] (CP)
 ### I. Physiological Classification (Based on Motor Abnormality)
 Classified by the type of movement disorder and the site of brain injury.
 
@@ -23,7 +23,7 @@ Classified by the type of movement disorder and the site of brain injury.
 * **Subtypes:**
     * **Choreoathetoid:** Rapid, jerky, irregular movements (chorea) + slow, writhing movements (athetosis). Worse with stress/voluntary movement.
     * **Dystonic:** Sustained muscle contractions causing twisting and repetitive movements or abnormal postures. Tone fluctuates ("Lead-pipe" or "Cogwheel" rigidity may be felt).
-* **Key Feature:** Primitive reflexes persist longer; intelligence is often preserved despite severe physical disability.
+* **Key Feature:** [[Neurology/Primitive Reflexes\|Primitive reflexes]] persist longer; intelligence is often preserved despite severe physical disability.
 
 #### 3. Ataxic CP (< 5%)
 * **Site of Lesion:** Cerebellum.
@@ -42,12 +42,12 @@ Used primarily for Spastic CP.
 | :--- | :--- | :--- |
 | **Spastic Hemiplegia** | One side of body. **Upper limb > Lower limb.** | **Perinatal Stroke** (MCA territory), Porencephalic cyst. |
 | **Spastic Diplegia** | Both sides. **Lower limbs > Upper limbs.** | **Prematurity** (Periventricular Leukomalacia - PVL). |
-| **Spastic Quadriplegia** | All 4 limbs severely involved. often associated with bulbar palsy and seizures. | **Severe HIE**, Multicystic Encephalomalacia, Meningitis. |
+| **Spastic Quadriplegia** | All 4 limbs severely involved. often associated with bulbar palsy and seizures. | **Severe HIE**, Multicystic Encephalomalacia, [[Neurology/Meningitis\|Meningitis]]. |
 | **Monoplegia** | One limb only (Rare). | Diagnosis usually revises to hemiplegia over time. |
 | **Double Hemiplegia** | All 4 limbs, but **Arms > Legs.** | Uncommon variant. |
 ### III. Functional Classification - Gross Motor Function Classification System (GMFCS)
 #### 1. Introduction
-* **Definition:** The GMFCS is a standardized, 5-level clinical classification system that describes the gross motor function of children and youth with **Cerebral Palsy (CP)** on the basis of their **self-initiated movement** with particular emphasis on sitting, walking, and wheeled mobility.
+* **Definition:** The GMFCS is a standardized, 5-level clinical classification system that describes the gross motor function of children and youth with **[[Neurology/Cerebral Palsy\|Cerebral Palsy]] (CP)** on the basis of their **self-initiated movement** with particular emphasis on sitting, walking, and wheeled mobility.
 * **Purpose:**
     * To classify the severity of motor disability.
     * To predict future motor potential (prognosis).
@@ -94,11 +94,11 @@ While GMFCS covers **Motor** function, comprehensive CP assessment uses analogou
 | **III** | Walker/Crutches | Wheelchair       | Railing + Help |
 | **IV**  | Power/Assisted  | Power/Manual     | Impossible     |
 | **V**   | Manual Chair    | Manual Chair     | Impossible     |
-## Evaluation of a Child with Cerebral Palsy (CP)
+## Evaluation of a Child with [[Neurology/Cerebral Palsy\|Cerebral Palsy]] (CP)
 ### Step I: History and Risk Factor Assessment
-* **Prenatal:** TORCH infections, maternal toxins, brain malformations, intrauterine stroke.
+* **Prenatal:** [[Infectious Diseases/TORCH Infections\|TORCH infections]], maternal toxins, brain malformations, intrauterine stroke.
 * **Natal:** **Perinatal Asphyxia (HIE)**, prolonged labor, instrumental delivery.
-* **Postnatal:** Kernicterus, meningitis, head trauma, hypoglycemia.
+* **Postnatal:** Kernicterus, [[Neurology/Meningitis\|meningitis]], head trauma, hypoglycemia.
 * **Developmental Red Flags:**
     * **Hand Preference < 1 year:** Indicates hemiplegia on the contralateral side.
     * **"Commando Crawl" (Bunny hopping):** Dragging legs (Diplegia).
@@ -108,7 +108,7 @@ While GMFCS covers **Motor** function, comprehensive CP assessment uses analogou
 ### Step II: Clinical Examination
 
 #### A. General Physical Examination
-* **Microcephaly:** Common in severe quadriparetic CP.
+* **[[Neurology/Microcephaly\|Microcephaly]]:** Common in severe quadriparetic CP.
 * **Neurocutaneous markers:** To rule out phakomatoses.
 * **Dysmorphism:** Suggests genetic/syndromic etiology.
 
@@ -118,7 +118,7 @@ While GMFCS covers **Motor** function, comprehensive CP assessment uses analogou
     * **Dyskinetic CP:** Fluctuating tone, dystonia, choreoathetosis.
     * **Hypotonic/Ataxic:** "[[Neuromuscular/Approach to a floppy infant\|Approach to a floppy infant]]" initially, evolving into ataxia.
     * **Cortical Thumb:** Thumb adducted into the palm (fisting) beyond neonatal period.
-2.  **Primitive Reflexes (Persistence is Pathognomonic):**
+2.  **[[Neurology/Primitive Reflexes\|Primitive Reflexes]] (Persistence is Pathognomonic):**
     * Persistence of **Moro, ATNR** (Asymmetric Tonic Neck Reflex), **Palmar Grasp** beyond 6 months prevents voluntary motor development.
     * *Obligatory ATNR:* Child cannot turn head without extending arm (prevents rolling over).
 3.  **Postural Reactions (Delayed/Absent):**
@@ -149,7 +149,7 @@ While GMFCS covers **Motor** function, comprehensive CP assessment uses analogou
 
 ### Step V: Investigations
 #### 1. Neuroimaging (The Gold Standard)
-Neuroimaging is recommended for all children with cerebral palsy to establish an etiology and timing of the insult.
+Neuroimaging is recommended for all children with [[Neurology/Cerebral Palsy\|cerebral palsy]] to establish an etiology and timing of the insult.
 
 * **MRI Brain (Modality of Choice):**
     * **Diagnostic Yield:** Identifies a cause in 85–90% of cases.
@@ -163,7 +163,7 @@ Neuroimaging is recommended for all children with cerebral palsy to establish an
 
 * **CT Scan:**
     * Less sensitive than MRI.
-    * **Indication:** Primarily used to detect **Calcifications** (e.g., TORCH infections like CMV/Toxoplasmosis) or intracranial hemorrhage if MRI is unavailable.
+    * **Indication:** Primarily used to detect **Calcifications** (e.g., [[Infectious Diseases/TORCH Infections\|TORCH infections]] like CMV/Toxoplasmosis) or intracranial hemorrhage if MRI is unavailable.
 
 #### 2. Metabolic and Genetic Testing
 Performed if neuroimaging is normal (approx. 10–15% cases) or if there are "Red Flags" suggesting a mimic (progressive course, family history, loss of milestones).
@@ -192,13 +192,13 @@ Performed if neuroimaging is normal (approx. 10–15% cases) or if there are "Re
     * Sensory-neural hearing loss is common in post-meningitic and dyskinetic CP.
 
 #### 5. Coagulation Profile
-* **Thrombophilia Screen:** (Protein C, S, Factor V Leiden).
+* **[[Hematology/Thrombophilia\|Thrombophilia]] Screen:** (Protein C, S, Factor V Leiden).
 * **Indication:** Specifically for children with **Spastic Hemiplegia** (perinatal stroke) to rule out hypercoagulable states.
 
 #### 6. Functional Assessment (for Management Planning)
 * **Gait Analysis:** 3D Gait analysis in ambulant children to plan orthopedic surgery.
-* **Hip Surveillance (X-ray Pelvis):** Annual/Bi-annual X-rays to monitor "Reimer’s Migration Index" (Risk of hip dislocation).
-## Management of Cerebral Palsy (CP)
+* **Hip Surveillance (X-ray Pelvis):** Annual/Bi-annual X-rays to monitor "Reimer’s Migration [[Statistics/Index\|Index]]" (Risk of hip dislocation).
+## Management of [[Neurology/Cerebral Palsy\|Cerebral Palsy]] (CP)
 ### 1. Goals and Principles
 * **Goal:** To maximize functional independence, prevent secondary deformities, and improve Quality of Life (QoL), rather than "curing" the neurological deficit.
 * **Approach:** Multidisciplinary Team (MDT) involving Pediatrician, Neurologist, Orthopedician, Physiotherapist, Occupational Therapist, and Speech Therapist.
@@ -241,7 +241,7 @@ Target is to reduce spasticity/dystonia to facilitate hygiene or function.
 * **Epilepsy (40%):** Treat based on seizure type. Avoid Phenobarbital/Benzodiazepines if sedation worsens motor function.
 * **Gastrointestinal:**
     * *Feeding:* Gastrostomy (PEG) for severe dysphagia/aspiration risk (GMFCS V).
-    * *GERD:* PPIs, Fundoplication.
+    * *[[Gastrointestinal/GERD\|GERD]]:* PPIs, Fundoplication.
     * *Constipation:* Laxatives, high fiber.
 * **Sialorrhea (Drooling):**
     * Socially stigmatizing.
@@ -251,7 +251,7 @@ Target is to reduce spasticity/dystonia to facilitate hygiene or function.
 ### 6. Summary of Interventions by GMFCS Level
 * **Level I-III (Ambulant):** Focus on gait improvement, Botox, Orthopedic surgery (SEMLS).
 * **Level IV-V (Non-Ambulant):** Focus on comfort, hygiene, preventing hip dislocation, spinal alignment, and technology for communication.
-## Early Diagnosis and Intervention in Cerebral Palsy
+## Early Diagnosis and Intervention in [[Neurology/Cerebral Palsy\|Cerebral Palsy]]
 ### 1. Rationale (The "Why")
 * **Neuroplasticity:** The infant brain has the highest potential for reorganization and recovery in the first 2 years of life ("Critical Period").
 * **"Wait and Watch" is obsolete:** Delaying diagnosis until milestones are missed loses the window of opportunity for neuroprotection and effective rehabilitation.

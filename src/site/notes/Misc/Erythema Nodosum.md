@@ -16,8 +16,8 @@
 
 |Etiologic Category|Specific Associated Triggers|
 |:--|:--|
-|Bacterial Infections|Group A streptococcus, tuberculosis, Yersinia, Shigella, Escherichia coli, cat-scratch disease, leprosy, leptospirosis, tularemia, mycoplasma, Whipple disease, lymphogranuloma venereum, psittacosis, brucellosis, meningococcosis, neisserial infection, syphilis.|
-|Viral Infections|Epstein-Barr virus, hepatitis B, mumps.|
+|Bacterial Infections|Group A streptococcus, tuberculosis, Yersinia, Shigella, Escherichia coli, cat-scratch disease, leprosy, [[Infectious Diseases/Leptospirosis\|leptospirosis]], tularemia, mycoplasma, Whipple disease, lymphogranuloma venereum, psittacosis, brucellosis, meningococcosis, neisserial infection, syphilis.|
+|Viral Infections|Epstein-Barr virus, [[Gastrointestinal/Hepatitis B\|hepatitis B]], mumps.|
 |Fungal Infections|Coccidioidomycosis, histoplasmosis, blastomycosis, sporotrichosis, Trichophyton mentagrophytes.|
 |Pharmacologic Agents|Cephalosporins, penicillins, macrolides, sulfonamides, bromides, estrogen-containing oral contraceptives.|
 |Inflammatory And Autoimmune|Inflammatory bowel disease, ulcerative colitis, systemic lupus erythematosus, Behçet syndrome, severe acne, [[Gastrointestinal/Celiac disease\|celiac disease]], Sweet syndrome.|

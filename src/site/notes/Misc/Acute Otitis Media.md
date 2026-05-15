@@ -79,7 +79,7 @@ _Severe symptoms defined as toxic appearance, otalgia persisting beyond 48 hours
 |Category|Specific Complications|
 |:--|:--|
 |Extracranial|Acute coalescent mastoiditis, subperiosteal abscess, facial nerve paralysis, labyrinthitis, tympanic membrane perforation.|
-|Intracranial|Meningitis, epidural abscess, subdural empyema, brain abscess, sigmoid sinus thrombosis, otitic hydrocephalus.|
+|Intracranial|[[Neurology/Meningitis\|Meningitis]], epidural abscess, subdural empyema, [[Neurology/Brain Abscess\|brain abscess]], sigmoid sinus thrombosis, otitic [[Neurology/Hydrocephalus\|hydrocephalus]].|
 |Chronic Sequelae|Tympanosclerosis, tympanic membrane atelectasis, adhesive otitis media, acquired cholesteatoma.|
 
 ## Prevention

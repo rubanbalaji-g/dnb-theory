@@ -25,13 +25,13 @@
 
 |Etiologic Category|Specific Conditions|Key Clinical Features|
 |:--|:--|:--|
-|Congenital And Developmental|Optic nerve hypoplasia, microphthalmia, congenital cataracts, Peters anomaly, congenital hydrocephalus.|Often associated with chromosomal syndromes, structural anterior segment dysgenesis, or central nervous system malformations.|
-|Perinatal And Neonatal|Retinopathy of prematurity, hypoxia-ischemia, birth trauma.|Retinopathy of prematurity strongly linked to extreme prematurity, low birth weight, and oxygen therapy.|
-|Infectious And Inflammatory|Meningitis, toxoplasmosis, rubella, cytomegalovirus, herpes simplex, trachoma, ophthalmia neonatorum.|Untreated gonococcal ophthalmia neonatorum carries severe risk for rapid corneal perforation and blindness.|
-|Nutritional Deficiencies|Vitamin A deficiency.|Precipitated by acute gastroenteritis or measles; causes severe keratomalacia and irreversible bilateral blindness.|
+|Congenital And Developmental|Optic nerve hypoplasia, microphthalmia, congenital cataracts, Peters anomaly, congenital [[Neurology/Hydrocephalus\|hydrocephalus]].|Often associated with chromosomal syndromes, structural anterior segment dysgenesis, or central nervous system malformations.|
+|Perinatal And Neonatal|[[Neonatalogy/Retinopathy of prematurity\|Retinopathy of prematurity]], hypoxia-ischemia, birth trauma.|[[Neonatalogy/Retinopathy of prematurity\|Retinopathy of prematurity]] strongly linked to extreme prematurity, low birth weight, and oxygen therapy.|
+|Infectious And Inflammatory|[[Neurology/Meningitis\|Meningitis]], toxoplasmosis, rubella, cytomegalovirus, herpes simplex, trachoma, [[Misc/Ophthalmia Neonatorum\|ophthalmia neonatorum]].|Untreated gonococcal [[Misc/Ophthalmia Neonatorum\|ophthalmia neonatorum]] carries severe risk for rapid corneal perforation and blindness.|
+|Nutritional Deficiencies|[[Nutrition/Vitamin A\|Vitamin A]] deficiency.|Precipitated by acute gastroenteritis or measles; causes severe keratomalacia and irreversible bilateral blindness.|
 |Neurodegenerative Disorders|Tay-Sachs disease, leukodystrophies, mucopolysaccharidoses, Batten disease.|Progressive visual loss accompanies cerebral storage issues and motor decline.|
 |Inherited Retinal Dystrophies|Retinitis pigmentosa, Leber congenital amaurosis, Stargardt disease.|Gradual painless bilateral diminution of vision, abnormal electroretinography, night blindness.|
-|Tumors And Phakomatoses|Retinoblastoma, optic glioma, craniopharyngioma, neurofibromatosis.|Retinoblastoma frequently manifests initially with leukocoria or strabismus.|
+|Tumors And Phakomatoses|[[Hematology/Retinoblastoma\|Retinoblastoma]], optic glioma, craniopharyngioma, neurofibromatosis.|[[Hematology/Retinoblastoma\|Retinoblastoma]] frequently manifests initially with leukocoria or strabismus.|
 |Trauma|Shaken baby syndrome, penetrating globe injuries, severe chemical burns.|Inflicted neurotrauma typically manifests with multiple retinal hemorrhages across all layers.|
 
 ## Clinical Manifestations And Diagnostic Clues
@@ -39,7 +39,7 @@
 - Clinical manifestations vary with age, functional abilities, mode of onset, laterality, and severity.
 - Nystagmus or strabismus frequently represent initial clues in non-verbal infants.
 - Defective ocular fixation or abnormal visual interactions demand comprehensive evaluation.
-- Leukocoria mandates urgent exclusion of retinoblastoma, dense cataracts, or severe retinopathy of prematurity.
+- Leukocoria mandates urgent exclusion of [[Hematology/Retinoblastoma\|retinoblastoma]], dense cataracts, or severe [[Neonatalogy/Retinopathy of prematurity\|retinopathy of prematurity]].
 - Toddlers exhibit excessive timidity, clumsiness, or unexplained behavioral changes.
 - Older children demonstrate progressive deterioration in school performance and profound indifference to school activities.
 - School-age children often attempt concealing visual disabilities from parents and teachers.
@@ -49,8 +49,8 @@
 - Amaurosis describes partial or total loss of vision, implying profound impairment or near blindness.
 - Congenital amaurosis requires exclusion of developmental malformations, gestational infections, or genetic pathway anomalies.
 - Acquired amaurosis demands differentiation based on speed of onset.
-- Rapid onset suggests acute encephalopathy, infectious optic neuritis, vasculitis, migraine, or trauma.
-- Precipitous visual loss frequently indicates increased intracranial pressure, rapidly progressive hydrocephalus, or ventricular shunt dysfunction.
+- Rapid onset suggests acute encephalopathy, infectious optic neuritis, vasculitis, [[Neurology/Migraine\|migraine]], or trauma.
+- Precipitous visual loss frequently indicates increased intracranial pressure, rapidly progressive [[Neurology/Hydrocephalus\|hydrocephalus]], or ventricular shunt dysfunction.
 - Acute demyelinating disease affecting optic nerves or chiasm causes precipitous blindness.
 - Slowly progressive visual loss suggests enlarging tumors (gliomas, craniopharyngiomas) or insidious neurodegenerative diseases.
 
@@ -64,7 +64,7 @@
 
 ## High-Yield Blinding Conditions
 
-### Retinopathy Of Prematurity
+### [[Neonatalogy/Retinopathy of prematurity\|Retinopathy Of Prematurity]]
 
 - Complex vascular disease affecting developing retinal vasculature in premature infants.
 - Chief risk factors include birth before 32 weeks gestation, birth weight under 1500 grams, and supplemental oxygen therapy.
@@ -73,7 +73,7 @@
 
 ### Nutritional Blindness
 
-- Vitamin A deficiency remains catastrophic blinding condition in young malnourished children.
+- [[Nutrition/Vitamin A\|Vitamin A]] deficiency remains catastrophic blinding condition in young malnourished children.
 - Lack of adequate hepatic reserves combined with poor maternal nutrition triggers susceptibility.
 - Systemic stressors including measles, pneumonia, or acute gastroenteritis precipitate rapid corneal melting and bilateral keratomalacia.
 
@@ -91,7 +91,7 @@
 ## Diagnostic Evaluation
 
 - Complete delineation of childhood amaurosis requires extensive multidisciplinary investigation.
-- Neurologic evaluation and neuroimaging (magnetic resonance imaging) detect intracranial masses, hydrocephalus, and leukodystrophies.
+- Neurologic evaluation and neuroimaging (magnetic resonance imaging) detect intracranial masses, [[Neurology/Hydrocephalus\|hydrocephalus]], and leukodystrophies.
 - Electrophysiologic tests, including electroretinography and visual evoked responses, assess retinal function and neural pathway integrity.
 - Metabolic screening and targeted genetic studies identify specific inborn errors and hereditary retinal dystrophies.
 

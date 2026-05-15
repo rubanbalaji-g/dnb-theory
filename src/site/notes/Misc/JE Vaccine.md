@@ -27,8 +27,8 @@
 - Minimum age of administration is 8 months.
 - Dose measures 0.5 mL given subcutaneously.
 - Two-dose schedule recommended in endemic districts.
-- First dose given at 9 months alongside measles and rubella vaccine.
-- Second dose given at 16-18 months alongside diphtheria, tetanus, and pertussis booster.
+- First dose given at 9 months alongside measles and [[Misc/Rubella Vaccine\|rubella vaccine]].
+- Second dose given at 16-18 months alongside [[Infectious Diseases/Diphtheria\|diphtheria]], tetanus, and pertussis booster.
 
 ### Inactivated JEEV Vaccine
 

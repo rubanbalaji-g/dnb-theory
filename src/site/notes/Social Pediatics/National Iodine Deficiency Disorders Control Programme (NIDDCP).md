@@ -4,7 +4,7 @@
 
 ## Introduction And Historical Background
 *   **Origin:** Initially launched in 1962 as the National Goitre Control Programme (NGCP) focusing primarily on the clinical manifestation of goitre.
-*   **Evolution:** In 1992, recognizing that goitre is merely the "tip of the iceberg" and that iodine deficiency causes a broader spectrum of neurodevelopmental and physical defects, it was renamed the National Iodine Deficiency Disorders Control Programme (NIDDCP).
+*   **Evolution:** In 1992, recognizing that goitre is merely the "tip of the iceberg" and that iodine deficiency causes a broader spectrum of neurodevelopmental and physical defects, it was renamed the [[Social Pediatics/National Iodine Deficiency Disorders Control Programme (NIDDCP)\|National Iodine Deficiency Disorders Control Programme (NIDDCP)]].
 *   **Core Rationale:** Iodine is an essential micronutrient required for the synthesis of thyroid hormones (Thyroxine and Triiodothyronine). Iodine deficiency is the world's single most significant preventable cause of brain damage and mental retardation.
 
 ## Spectrum Of Iodine Deficiency Disorders (IDD)

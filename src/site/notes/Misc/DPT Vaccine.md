@@ -4,7 +4,7 @@
 
 ## Overview
 
-- Composed of diphtheria toxoid, tetanus toxoid, and killed whole-cell or acellular pertussis bacilli.
+- Composed of [[Misc/Diphtheria Toxoid\|diphtheria toxoid]], [[Misc/Tetanus Toxoid\|tetanus toxoid]], and killed whole-cell or acellular pertussis bacilli.
 - Adsorbed on insoluble aluminum salts acting as adjuvants.
 - Standard formulations include DTwP, DTaP, DT, Td, and Tdap.
 
@@ -12,8 +12,8 @@
 
 |Component|DTwP Vaccine|DTaP Vaccine|Tdap Vaccine|
 |:--|:--|:--|:--|
-|Diphtheria toxoid|20-30 Lf|20-30 Lf|2 Lf|
-|Tetanus toxoid|5-25 Lf|5-25 Lf|5 Lf|
+|[[Misc/Diphtheria Toxoid\|Diphtheria toxoid]]|20-30 Lf|20-30 Lf|2 Lf|
+|[[Misc/Tetanus Toxoid\|Tetanus toxoid]]|5-25 Lf|5-25 Lf|5 Lf|
 |Pertussis antigen|>4 IU (Whole-cell killed)|>4 IU (Inactivated toxin, FHA, pertactin)|Reduced acellular pertussis|
 |Target age group|<7 years|<7 years|>7 years|
 
@@ -37,7 +37,7 @@
 
 ## Efficacy And Protection
 
-- Diphtheria and tetanus: Protective efficacy exceeds 95%.
+- [[Infectious Diseases/Diphtheria\|Diphtheria]] and tetanus: Protective efficacy exceeds 95%.
 - Pertussis: Efficacy ranges from 70-90%.
 - Duration: Immunity wanes over 6-12 years, necessitating regular boosters.
 - Comparison: DTwP provides superior, longer-lasting immunity compared to DTaP.

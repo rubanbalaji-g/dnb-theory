@@ -6,7 +6,7 @@
 
 ### Upper Motor Neuron (UMN) Lesions
 Involves the Corticospinal tracts from the Cortex to the synapse with the Anterior Horn Cell.
-1.  **Cerebral Palsy (Spastic Diplegia/Quadriplegia):** Periventricular Leukomalacia (PVL) or HIE.
+1.  **[[Neurology/Cerebral Palsy\|Cerebral Palsy]] (Spastic Diplegia/Quadriplegia):** Periventricular Leukomalacia (PVL) or HIE.
 2.  **Acute Transverse Myelitis:** Inflammatory demyelination of the cord.
 3.  **Spinal Cord Compression:** Pott’s Spine (Tuberculosis) or Spinal tumors (Ewing’s sarcoma metastasis).
 4.  **Leukodystrophies:** Metachromatic Leukodystrophy (MLD), Adrenoleukodystrophy.
@@ -14,7 +14,7 @@ Involves the Corticospinal tracts from the Cortex to the synapse with the Anteri
 
 ### Lower Motor Neuron (LMN) Lesions
 Involves the Anterior Horn Cell, Nerve Root, Peripheral Nerve, or Neuromuscular Junction.
-1.  **Spinal Muscular Atrophy (SMA):** Anterior Horn Cell degeneration (Werdnig-Hoffmann).
+1.  **[[Neuromuscular/Spinal Muscular Atrophy\|Spinal Muscular Atrophy]] (SMA):** Anterior Horn Cell degeneration (Werdnig-Hoffmann).
 2.  **Poliomyelitis:** Viral destruction of Anterior Horn Cells.
 3.  **[[Neuromuscular/Guillain-Barré Syndrome\|Guillain-Barré Syndrome]] (GBS):** Acute Inflammatory Demyelinating Polyneuropathy.
 4.  **Traumatic Neuritis:** Injection palsy (Sciatic nerve injury) or Obstetric Brachial Plexus Injury (Erb’s Palsy).

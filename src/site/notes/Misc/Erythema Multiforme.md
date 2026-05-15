@@ -10,8 +10,8 @@
 
 |Subtype|Clinical Characteristics|Mucosal Involvement|
 |:--|:--|:--|
-|Erythema Multiforme Minor|Affects < 10% body surface area.|Absent or limited (often single site like mouth).|
-|Erythema Multiforme Major|Affects < 10% body surface area. Constitutional symptoms present.|Conspicuous involvement of $\ge$ 2 mucosal sites. Includes severe buccal erosions and hemorrhagic crusts of lips.|
+|[[Misc/Erythema Multiforme\|Erythema Multiforme]] Minor|Affects < 10% body surface area.|Absent or limited (often single site like mouth).|
+|[[Misc/Erythema Multiforme\|Erythema Multiforme]] Major|Affects < 10% body surface area. Constitutional symptoms present.|Conspicuous involvement of $\ge$ 2 mucosal sites. Includes severe buccal erosions and hemorrhagic crusts of lips.|
 
 ## Etiology And Pathogenesis
 
@@ -54,10 +54,10 @@
 ## Differential Diagnosis
 
 - Stevens-Johnson syndrome: Distinguished by erythematous or purpuric macules (lacking papules) starting primarily on trunk.
-- Urticaria: Individual lesions fade within 24 hours, unlike fixed erythema multiforme lesions.
+- Urticaria: Individual lesions fade within 24 hours, unlike fixed [[Misc/Erythema Multiforme\|erythema multiforme]] lesions.
 - Reactive infectious mucocutaneous eruption.
 - Bullous pemphigoid and pemphigus vulgaris.
-- Kawasaki disease.
+- [[Rheumatology/Kawasaki Disease\|Kawasaki disease]].
 - Cefaclor-induced serum sickness-like reaction (pruritic, transient, migratory).
 
 ## Management Protocol

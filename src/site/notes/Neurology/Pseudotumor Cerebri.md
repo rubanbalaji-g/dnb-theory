@@ -2,7 +2,7 @@
 {"dg-publish":true,"uplink":"/neurology/neurology/","uptext":"Back to Index (Neurology)","permalink":"/neurology/pseudotumor-cerebri/","dgPassFrontmatter":true}
 ---
 
-Pseudotumor Cerebri, now more accurately termed **Idiopathic Intracranial Hypertension (IIH)**, is a syndrome characterized by raised intracranial pressure (ICP) in the absence of a mass lesion, hydrocephalus, or abnormal cerebrospinal fluid (CSF) composition. Historically termed "benign intracranial hypertension," this name is now discouraged because the condition carries a significant risk of permanent visual loss if untreated.
+[[Neurology/Pseudotumor Cerebri\|Pseudotumor Cerebri]], now more accurately termed **Idiopathic Intracranial Hypertension (IIH)**, is a syndrome characterized by raised intracranial pressure (ICP) in the absence of a mass lesion, [[Neurology/Hydrocephalus\|hydrocephalus]], or abnormal cerebrospinal fluid (CSF) composition. Historically termed "benign intracranial hypertension," this name is now discouraged because the condition carries a significant risk of permanent visual loss if untreated.
 
 ## **Epidemiology**
 
@@ -13,7 +13,7 @@ Pseudotumor Cerebri, now more accurately termed **Idiopathic Intracranial Hypert
 ## **Etiology** 
 By definition, IIH has no identifiable cause. However, a similar clinical picture (**Secondary Intracranial Hypertension**) can be triggered by various factors, which must be ruled out:
 
-1. **Medications:** Tetracyclines, Vitamin A derivatives (isotretinoin, excessive intake), growth hormone, nalidixic acid, and withdrawal of corticosteroids.
+1. **Medications:** Tetracyclines, [[Nutrition/Vitamin A\|Vitamin A]] derivatives (isotretinoin, excessive intake), growth hormone, nalidixic acid, and withdrawal of corticosteroids.
 2. **Systemic Disorders:** Anemia, renal failure, Addison’s disease, hypoparathyroidism, and Systemic Lupus Erythematosus (SLE).
 3. **Venous Outflow Obstruction:** Cerebral venous sinus thrombosis (CVST), mastoiditis, or transverse sinus stenosis.
 
@@ -37,7 +37,7 @@ A diagnosis of definite IIH requires **all** of the following criteria (A throug
 1. **Papilledema (Criterion A):** Presence of optic disc swelling.
 2. **Normal Neurologic Examination (Criterion B):** The patient must have a normal neurologic status, with the specific exception of cranial nerve abnormalities (typically unilateral or bilateral **sixth nerve palsy**).
 3. **Neuroimaging Findings (Criterion C):**
-    - Brain MRI must show normal brain parenchyma without evidence of hydrocephalus, mass, or structural lesion.
+    - Brain MRI must show normal brain parenchyma without evidence of [[Neurology/Hydrocephalus\|hydrocephalus]], mass, or structural lesion.
     - There must be no abnormal meningeal enhancement.
     - **Venous thrombosis must be excluded** (preferably via MR Venography).
 4. **Normal CSF Composition (Criterion D):** Normal cell count, glucose, and protein levels.
@@ -59,7 +59,7 @@ In the absence of papilledema, a diagnosis of IIH can be made if Criteria B thro
 ### Important Considerations
 
 - **Neuroimaging:** An MRI with MR Venography (MRV) is mandatory to rule out cerebral sinovenous thrombosis (CSVT), which is a secondary cause of intracranial hypertension.
-- **Secondary Causes:** Before diagnosing _Idiopathic_ IH, secondary causes such as medication use (tetracyclines, vitamin A derivatives, steroids), anemia, and endocrine disorders (Addison disease) must be excluded.
+- **Secondary Causes:** Before diagnosing _Idiopathic_ IH, secondary causes such as medication use (tetracyclines, [[Nutrition/Vitamin A\|vitamin A]] derivatives, steroids), anemia, and endocrine disorders (Addison disease) must be excluded.
 
 ## **Management** 
 The primary goals are to relieve symptoms (headache) and preserve vision.

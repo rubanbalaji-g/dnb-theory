@@ -20,7 +20,7 @@
 ## Three-Pronged Strategy (PPT Approach)
 ### 1. Protect
 - Exclusive breastfeeding for first 6 months
-- Adequate complementary feeding and nutrition (linkage with POSHAN Abhiyaan)
+- Adequate [[Nutrition/Complementary Feeding\|complementary feeding]] and nutrition (linkage with POSHAN Abhiyaan)
 - Hand hygiene and clean environment
 
 ### 2. Prevent
@@ -38,7 +38,7 @@
 	- Door-to-door visits: Screen all 0–5 year children
 	- Identify suspected pneumonia (fast breathing, chest indrawing, danger signs)
 	- Pre-referral single dose of syrup Amoxicillin + immediate referral
-	- Use of pulse oximetry at sub-centre/CHC level
+	- Use of [[Emergencies/Pulse Oximetry\|pulse oximetry]] at sub-centre/CHC level
 - **Facility strengthening**:
 	- Availability of oxygen, antibiotics, pulse oximeters at all levels (HWC to district hospital)
 	- Training of service providers on revised pneumonia guidelines

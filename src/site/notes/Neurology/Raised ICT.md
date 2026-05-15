@@ -12,7 +12,7 @@ Raised intracranial pressure (ICP) is a critical neurological emergency in pedia
 
 ## Pathophysiology
 
-The pathophysiology of raised ICT is governed by the fixed volume of the cranial vault and the dynamic relationship between its contents.
+The pathophysiology of [[Neurology/Raised ICT\|raised ICT]] is governed by the fixed volume of the cranial vault and the dynamic relationship between its contents.
 
 ### 1. The Monro-Kellie Doctrine
 
@@ -44,13 +44,13 @@ When ICP increases significantly, brain tissue shifts from high-pressure compart
 The causes of raised ICP can be categorized by the compartment affected:
 
 1. **Increased Brain Volume:**
-    - **Cerebral Edema:** Cytotoxic (e.g., Hypoxic-ischemic encephalopathy, Reye’s syndrome) or Vasogenic (e.g., Tumors, abscesses, meningitis).
+    - **Cerebral Edema:** Cytotoxic (e.g., Hypoxic-ischemic encephalopathy, Reye’s syndrome) or Vasogenic (e.g., Tumors, abscesses, [[Neurology/Meningitis\|meningitis]]).
     - **Space-occupying lesions:** Brain tumors, hematomas (epidural, subdural), abscesses, tuberculomas.
 2. **Increased Blood Volume:**
     - Hyperemia (vasodilation due to hypercarbia or hypoxia).
     - Venous obstruction (e.g., Cerebral sinovenous thrombosis).
 3. **Increased CSF Volume:**
-    - **Hydrocephalus:** Obstructive (aqueductal stenosis) or communicating (post-meningitic).
+    - **[[Neurology/Hydrocephalus\|Hydrocephalus]]:** Obstructive (aqueductal stenosis) or communicating (post-meningitic).
     - Choroid plexus papilloma (overproduction).
 
 ## Clinical Features
@@ -131,7 +131,7 @@ For ICP that remains elevated despite Tier 1 measures:
     - Therapeutic hypothermia (32–34°C) is a salvage therapy option but evidence for routine use in pediatric TBI is weak and it carries risks of coagulopathy and infection,.
 ### D. Etiology-Specific Management
 
-- **Hydrocephalus:** Ventriculoperitoneal (VP) shunt or Endoscopic Third Ventriculostomy (ETV).
+- **[[Neurology/Hydrocephalus\|Hydrocephalus]]:** Ventriculoperitoneal (VP) shunt or Endoscopic Third Ventriculostomy (ETV).
 - **Space Occupying Lesion:** Surgical resection or evacuation of hematoma/abscess,.
 - **Idiopathic Intracranial Hypertension:** Acetazolamide, weight loss, or optic nerve sheath fenestration.
 

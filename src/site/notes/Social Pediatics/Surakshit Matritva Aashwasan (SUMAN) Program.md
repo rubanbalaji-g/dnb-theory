@@ -44,13 +44,13 @@ The Surakshit Matritva Aashwasan (SUMAN) initiative was launched by the Ministry
 For the pediatric practitioner, SUMAN reinforces and guarantees access to critical neonatal interventions:
 * Essential Newborn Care (ENC): Immediate drying, tactile stimulation, and maintenance of the warm chain.
 * Neonatal Resuscitation: Assured availability of trained personnel (NSSK certified) and functional newborn care corners (NBCC) at all delivery points.
-* Nutrition And KMC: Uninterrupted support for early initiation of exclusive breastfeeding within one hour and implementation of Kangaroo Mother Care for premature and low birth weight infants.
+* Nutrition And KMC: Uninterrupted support for early initiation of exclusive breastfeeding within one hour and implementation of [[Neonatalogy/Kangaroo Mother Care\|Kangaroo Mother Care]] for premature and low birth weight infants.
 * Sick Newborn Care: Guaranteed free treatment of neonatal sepsis, birth asphyxia, and prematurity complications at Special Newborn Care Units (SNCUs) and First Referral Units (FRUs).
-* Immunization: Assured administration of zero-dose vaccines (BCG, OPV, Hepatitis B) prior to discharge.
+* Immunization: Assured administration of zero-dose vaccines ([[Misc/BCG\|BCG]], OPV, [[Gastrointestinal/Hepatitis B\|Hepatitis B]]) prior to discharge.
 
 ## Integration With Existing Health Schemes
 SUMAN consolidates the benefits and operational frameworks of multiple prior initiatives to prevent duplication and ensure seamless service delivery:
-* Janani Shishu Suraksha Karyakram (JSSK): Forms the backbone of the "zero out-of-pocket expenditure" mandate.
+* [[Social Pediatics/Janani Shishu Suraksha Karyakram (JSSK)\|Janani Shishu Suraksha Karyakram (JSSK)]]: Forms the backbone of the "zero out-of-pocket expenditure" mandate.
 * Pradhan Mantri Surakshit Matritva Abhiyan (PMSMA): Integrates the mandatory antenatal check-ups on the 9th of every month by a medical officer/specialist.
 * LaQshya: Incorporates the Labor Room Quality Improvement Initiative to standardize infrastructure and protocols in maternity operation theatres and labor rooms.
 * Janani Suraksha Yojana (JSY): Integrates the conditional cash transfer mechanism for institutional deliveries.

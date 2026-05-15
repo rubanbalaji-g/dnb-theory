@@ -44,7 +44,7 @@ Aqueductal stenosis (AS) is the narrowing of the Aqueduct of Sylvius, the critic
 * **Upstream Dilation:**
     * **Lateral Ventricles:** Massive dilation due to accumulating CSF.
     * **3rd Ventricle:** Becomes ballooned/dilated.
-    * **Result:** **"Bi-ventricular"** or **"Tri-ventricular"** hydrocephalus (depending on nomenclature, strictly it affects Lat + 3rd).
+    * **Result:** **"Bi-ventricular"** or **"Tri-ventricular"** [[Neurology/Hydrocephalus\|hydrocephalus]] (depending on nomenclature, strictly it affects Lat + 3rd).
 * **Downstream Spared:**
     * **4th Ventricle:** Remains **normal or small** size (isolated from the pressure).
     * **Posterior Fossa:** Normal size (unlike Dandy-Walker where it is large).
@@ -54,8 +54,8 @@ Aqueductal stenosis (AS) is the narrowing of the Aqueduct of Sylvius, the critic
 * **Corpus Callosum:** Stretched and thinned.
 * **Tectal Plate Compression:** Dilated suprapineal recess pushes on the midbrain tectum $\rightarrow$ Parinaud’s phenomenon (Sunsetting eyes - inability to gaze upward).
 
-## ETIOLOGY & PATHOPHYSIOLOGY OF HYDROCEPHALUS 
-### A. Etiology of Hydrocephalus
+## ETIOLOGY & PATHOPHYSIOLOGY OF [[Neurology/Hydrocephalus\|HYDROCEPHALUS]] 
+### A. Etiology of [[Neurology/Hydrocephalus\|Hydrocephalus]]
 Classified broadly into Non-Communicating (Obstructive) and Communicating (Non-obstructive).
 
 #### 1. Non-Communicating (Obstructive)
@@ -63,29 +63,29 @@ Classified broadly into Non-Communicating (Obstructive) and Communicating (Non-o
 
 * **Congenital:**
     * **Aqueductal Stenosis:**
-        * *X-linked Hydrocephalus (L1CAM mutation):* Stenosis + adducted thumbs.
+        * *X-linked [[Neurology/Hydrocephalus\|Hydrocephalus]] (L1CAM mutation):* Stenosis + adducted thumbs.
         * *Congenital infection (TORCH):* Toxoplasmosis/CMV causing ependymitis/gliosis.
-    * **Dandy-Walker Malformation:** Cystic dilation of 4th ventricle + Vermian agenesis + Large posterior fossa.
+    * **[[Neurology/Dandy-Walker Malformation\|Dandy-Walker Malformation]]:** Cystic dilation of 4th ventricle + Vermian agenesis + Large posterior fossa.
     * **Chiari II Malformation:** Associated with Myelomeningocele; displacement of cerebellar tonsils blocks CSF exit at foramen magnum/4th ventricle.
-    * **Neural Tube Defects:** Encephalocele.
+    * **[[Neurology/Neural Tube Defects\|Neural Tube Defects]]:** Encephalocele.
 
 * **Acquired:**
     * **Tumors:** Supratentorial (compressing 3rd vent) or Infratentorial (Medulloblastoma, Ependymoma, Astrocytoma compressing 4th vent).
-    * **Intraventricular Hemorrhage (IVH):** Acute clot obstructing the aqueduct.
+    * **[[Neonatalogy/Intraventricular hemorrhage\|Intraventricular Hemorrhage]] (IVH):** Acute clot obstructing the aqueduct.
     * **Ventriculitis:** Pyogenic pus organizing and blocking foramina.
 
 #### 2. Communicating (Non-Obstructive)
 *CSF exits ventricles but absorption is blocked at arachnoid granulations or flow blocked in SAS.*
 
-* **Post-Infectious:** Tuberculous Meningitis (basal arachnoiditis), bacterial meningitis (fibrosis of granulations).
+* **Post-Infectious:** Tuberculous [[Neurology/Meningitis\|Meningitis]] (basal arachnoiditis), bacterial [[Neurology/Meningitis\|meningitis]] (fibrosis of granulations).
 * **Post-Hemorrhagic:** IVH (Preterms), Subarachnoid Hemorrhage. Blood products clog arachnoid villi and cause inflammatory fibrosis.
 * **Hyper-secretory (Rare):** Choroid Plexus Papilloma (Production exceeds maximal absorption capacity).
-### B. Pathophysiology of Hydrocephalus
+### B. Pathophysiology of [[Neurology/Hydrocephalus\|Hydrocephalus]]
 
 **1. Fundamental Imbalance**
-Hydrocephalus results from a disturbance in CSF dynamics where:
+[[Neurology/Hydrocephalus\|Hydrocephalus]] results from a disturbance in CSF dynamics where:
 $$\text{Formation} > \text{Absorption}$$
-*(Except in rare hydrocephalus ex-vacuo which is compensatory to brain atrophy).*
+*(Except in rare [[Neurology/Hydrocephalus\|hydrocephalus]] ex-vacuo which is compensatory to brain atrophy).*
 
 **2. Phase I: Acute Compensation**
 * **CSF Displacement:** CSF is shunted to the spinal subarachnoid space (if communicating).
@@ -104,7 +104,7 @@ $$\text{Formation} > \text{Absorption}$$
 $$T = P \times R$$
 *(Wall Tension = Pressure $\times$ Radius)*
 * As ventricles dilate (Radius increases), the tension on the ventricular wall increases even if pressure normalizes slightly.
-* This tension maintains the dilation (**Normal Pressure Hydrocephalus mechanism**).
+* This tension maintains the dilation (**Normal Pressure [[Neurology/Hydrocephalus\|Hydrocephalus]] mechanism**).
 
 **5. Clinical Pathophysiology Correlations**
 * **Macewen Sign:** Cracked pot sound on percussion due to separated sutures.

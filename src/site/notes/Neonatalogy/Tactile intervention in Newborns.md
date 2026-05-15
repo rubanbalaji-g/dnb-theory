@@ -12,7 +12,7 @@ Touch is the first sense to develop (by 8 weeks gestation) and is the primary ch
     * **Technique:** Caregiver gently holds the infant’s head and lower back/feet, keeping limbs flexed near the midline.
     * **Role:** Provides security during painful procedures, reduces physiological instability (bradycardia/desaturation).
 * **Comfort Touch:** Gentle, firm, constant contact (avoid light stroking/tickling which is overstimulating).
-* **Skin-to-Skin Contact (Kangaroo Mother Care):**
+* **Skin-to-Skin Contact ([[Neonatalogy/Kangaroo Mother Care\|Kangaroo Mother Care]]):**
     * **Role:** Essential for thermoregulation (thermal synchrony), stabilization of heart rate/breathing, and promotion of deep sleep states (Quiet Sleep).
 ### **Benefits**
 * Reduces cortisol levels.

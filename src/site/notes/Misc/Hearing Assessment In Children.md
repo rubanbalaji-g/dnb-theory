@@ -68,7 +68,7 @@
 - Severe prematurity with birth weight below 1500 grams.
 - Hyperbilirubinemia requiring emergent exchange transfusion.
 - Mechanical ventilation utilization exceeding 5 days.
-- History of bacterial meningitis or recurrent severe otitis media.
+- History of bacterial [[Neurology/Meningitis\|meningitis]] or recurrent severe otitis media.
 - Substantial ototoxic medication exposure (prolonged aminoglycosides, loop diuretics).
 - Craniofacial anomalies including cleft palate and structural auricular malformations.
 - Intrauterine gestational infections (cytomegalovirus, rubella, syphilis, toxoplasmosis).

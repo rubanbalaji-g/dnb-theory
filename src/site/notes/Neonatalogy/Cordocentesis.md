@@ -5,7 +5,7 @@
 (Synonym: Percutaneous Umbilical Blood Sampling - PUBS)
 
 ## 1. DEFINITION
-* An invasive prenatal procedure allowing direct access to the fetal circulation by puncturing the umbilical cord under ultrasound guidance.
+* An invasive prenatal procedure allowing direct access to the [[Neonatalogy/Fetal circulation\|fetal circulation]] by puncturing the umbilical cord under ultrasound guidance.
 * **Purpose:** To obtain fetal blood for analysis or to perform intrauterine transfusion.
 
 ## 2. TIMING
@@ -18,10 +18,10 @@ With advancements in non-invasive monitoring (MCA Doppler) and molecular genetic
 ### A. Diagnostic Indications
 1.  **Fetal Anemia:**
     * Gold standard for *confirming* fetal anemia in Rh Isoimmunization or Parvovirus B19 infection (indicated if MCA-PSV Doppler is >1.5 MoM).
-2.  **Rapid Karyotyping:**
+2.  **Rapid [[Genetics/Karyotyping\|Karyotyping]]:**
     * Used in late gestation (>24 weeks) when decisions must be made urgently (lymphocytes culture in 48–72 hours vs 10–14 days for amniocytes).
 3.  **Fetal Infection:**
-    * To detect IgM antibodies or viral load (e.g., CMV, Toxoplasmosis, Rubella) if amniocentesis is inconclusive.
+    * To detect IgM antibodies or viral load (e.g., CMV, Toxoplasmosis, Rubella) if [[Neonatalogy/Amniocentesis\|amniocentesis]] is inconclusive.
 4.  **Hematological Disorders:**
     * Fetal thrombocytopenia (NAIT - Alloimmune Thrombocytopenia).
     * Hemophilia / Coagulation profile.
@@ -48,7 +48,7 @@ With advancements in non-invasive monitoring (MCA Doppler) and molecular genetic
     * Sample purity confirmed by Mean Corpuscular Volume (MCV) analysis (Fetal MCV is high >100 fL; Maternal is <100 fL) or Apt test (alkali denaturation).
 
 ## 5. COMPLICATIONS
-Risk is higher than Amniocentesis or CVS.
+Risk is higher than [[Neonatalogy/Amniocentesis\|Amniocentesis]] or CVS.
 * **Fetal Loss Rate:** **1–2%** (higher in hydropic fetuses).
 * **Bradycardia:** Transient fetal bradycardia is common (due to vasospasm).
 * **Bleeding:** Puncture site bleeding (usually transient; prolonged in thrombocytopenia).

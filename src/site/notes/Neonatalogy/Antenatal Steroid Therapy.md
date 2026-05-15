@@ -11,9 +11,9 @@
 * **Fetal Lung Maturation:**
     * Stimulates Type II Pneumocytes to increase surfactant production.
     * Increases lung compliance and fluid clearance.
-    * Significantly reduces the risk of **Respiratory Distress Syndrome (RDS)**.
+    * Significantly reduces the risk of **[[Neonatalogy/Respiratory Distress Syndrome\|Respiratory Distress Syndrome]] (RDS)**.
 * **Systemic Maturation:**
-    * Stabilizes germinal matrix vasculature (reduces **Intraventricular Hemorrhage - IVH**).
+    * Stabilizes germinal matrix vasculature (reduces **[[Neonatalogy/Intraventricular hemorrhage\|Intraventricular Hemorrhage]] - IVH**).
     * Accelerates gut maturation (reduces **Necrotizing Enterocolitis - NEC**).
     * Reduces risk of **systemic infections** in the neonate.
 
@@ -40,7 +40,7 @@ The preferred corticosteroids are those that cross the placenta in active form (
 * **Choice:** Depends on availability and local guidelines.
 
 ## 5. REPEAT COURSES (Rescue Therapy)
-Routine multiple courses are **not** recommended due to concerns about fetal growth (brain/somatic).
+Routine multiple courses are **not** recommended due to concerns [[About\|about]] fetal growth (brain/somatic).
 
 * **Single Rescue Course:** May be considered if:
     1.  The patient remains at risk of preterm birth.
@@ -51,8 +51,8 @@ Routine multiple courses are **not** recommended due to concerns about fetal gro
 ## 6. BENEFITS (Evidence Base)
 Administration of a complete course is associated with significant reductions in:
 1.  **Neonatal Mortality** (Death).
-2.  **Respiratory Distress Syndrome (RDS)**.
-3.  **Intraventricular Hemorrhage (IVH)**.
+2.  **[[Neonatalogy/Respiratory Distress Syndrome\|Respiratory Distress Syndrome]] (RDS)**.
+3.  **[[Neonatalogy/Intraventricular hemorrhage\|Intraventricular Hemorrhage]] (IVH)**.
 4.  **Necrotizing Enterocolitis (NEC)**.
 5.  **Systemic Infections**.
 6.  **Neurodevelopment:** Associated with improved long-term neurological outcomes.

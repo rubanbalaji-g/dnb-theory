@@ -3,15 +3,15 @@
 ---
 
 ### I. DEFINITION
-* **Febrile Seizure (FS):** A seizure occurring in children aged 6 months to 5 years (some guidelines extend to 3 months or 6 years), associated with a temperature ≥38°C (100.4°F), not resulting from CNS infection, metabolic/electrolyte imbalance, or a history of prior afebrile seizures.
+* **[[Neurology/Febrile seizure\|Febrile Seizure]] (FS):** A seizure occurring in children aged 6 months to 5 years (some guidelines extend to 3 months or 6 years), associated with a temperature ≥38°C (100.4°F), not resulting from CNS infection, metabolic/electrolyte imbalance, or a history of prior afebrile seizures.
 * **Peak Incidence:** 12–18 months of age.
 
 ### II. CLASSIFICATION
-1. **Simple Febrile Seizure (80%):** - Primary generalized tonic-clonic seizure.
+1. **Simple [[Neurology/Febrile seizure\|Febrile Seizure]] (80%):** - Primary generalized tonic-clonic seizure.
    - Duration <15 minutes.
    - No recurrence within 24 hours.
    - Short post-ictal phase with rapid return to baseline.
-2. **Complex Febrile Seizure (20%):**
+2. **Complex [[Neurology/Febrile seizure\|Febrile Seizure]] (20%):**
    - Focal onset or lateralizing features.
    - Prolonged duration ≥15 minutes.
    - Recurrence within 24 hours.
@@ -27,13 +27,13 @@
 
 ### IV. CLINICAL EVALUATION
 1. **History:** Focus on seizure semiology (focal vs. generalized), duration, fever onset, and post-ictal state. Assess family history and developmental status.
-2. **Examination:** - Search for extracranial focus (Otitis media, pharyngitis, UTI).
+2. **Examination:** - Search for extracranial focus (Otitis media, pharyngitis, [[Nephrology/UTI\|UTI]]).
    - Neurologic: Check for meningeal signs (Kernig’s/Brudzinski’s - unreliable <12 months), fontanelle tension, and focal deficits.
 3. **Red Flags:** Persistent altered sensorium (>1 hour post-seizure), petechial rash, bulging fontanelle, or focal neurological signs.
 
 ### V. INVESTIGATIONS
 1. **Lumbar Puncture (LP):**
-   - **Mandatory:** Clinical signs of meningitis (nuchal rigidity, etc.).
+   - **Mandatory:** Clinical signs of [[Neurology/Meningitis\|meningitis]] (nuchal rigidity, etc.).
    - **Consider:** Infants 6–12 months if immunization status (Hib/Pneumococcal) is incomplete/unknown or if the child is on antibiotics (may mask signs).
 2. **Blood Studies:** Not routine for simple FS. Check glucose if prolonged post-ictal state. Electrolytes indicated only if history of dehydration/vomiting.
 3. **Neuroimaging (CT/MRI):** Not recommended for simple FS. Consider for complex FS with focal features or persistent neurologic abnormality.

@@ -51,7 +51,7 @@
 ### Specific Adverse Reactions
 
 - Measles: Induces mild fever or transient macular rash 7 to 12 days post-vaccination.
-- Mumps: Triggers transient parotitis, fever, or rarely aseptic meningitis.
+- Mumps: Triggers transient parotitis, fever, or rarely aseptic [[Neurology/Meningitis\|meningitis]].
 - Rubella: Causes mild rash, transient arthralgia or arthritis in susceptible post-pubertal females, and rare immune thrombocytopenic purpura.
 
 ### Contraindications And Precautions

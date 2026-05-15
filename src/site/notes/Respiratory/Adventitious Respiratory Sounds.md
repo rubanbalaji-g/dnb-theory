@@ -14,7 +14,7 @@
     - **Expiratory Stridor:** A singing or harsh sound resulting from tracheobronchial obstruction or semi-approximated vocal cords offering resistance to exhalation.
     - **Biphasic Stridor:** A harsh vibratory sound heard during both phases of respiration, caused by a fixed obstruction where there is minimal or no change in the airway diameter during the respiratory cycle.
 - **Clinical Conditions:**
-    - Infectious causes include croup (most common), diphtheria, bacterial tracheitis, retropharyngeal abscess, and acute epiglottitis.
+    - Infectious causes include croup (most common), [[Infectious Diseases/Diphtheria\|diphtheria]], bacterial tracheitis, retropharyngeal abscess, and [[Respiratory/Acute Epiglottitis\|acute epiglottitis]].
     - Non-infectious causes include upper airway foreign body aspiration, angioneurotic edema (anaphylaxis), laryngomalacia, and airway burns.
 
 ### 2. Wheeze
@@ -23,10 +23,10 @@
 - **Anatomical Level:** It denotes a lower airway obstruction, localizing the pathology to the intra-thoracic trachea, bronchi, and bronchioles.
 - **Clinical Conditions:**
     - Infectious causes include acute viral bronchiolitis (e.g., Respiratory Syncytial Virus) and bronchopneumonia.
-    - Inflammatory or reactive conditions include acute bronchial asthma and anaphylaxis.
+    - Inflammatory or reactive conditions include acute bronchial [[Respiratory/Asthma\|asthma]] and anaphylaxis.
     - Structural or mechanical obstructions include tracheobronchial foreign body aspiration, airway hemangiomas, vascular rings/slings, and extrinsic compression by mediastinal lymph nodes or tumors.
     - Cardiovascular conditions such as congestive cardiac failure (CCF) or myocarditis can also produce a "cardiac wheeze".
-- **Clinical Caveat:** In severe lower airway obstruction (e.g., severe asthma), wheezing may disappear, resulting in a "silent chest"; this is an ominous sign indicating severely inadequate air exchange and imminent respiratory arrest.
+- **Clinical Caveat:** In severe lower airway obstruction (e.g., severe [[Respiratory/Asthma\|asthma]]), wheezing may disappear, resulting in a "silent chest"; this is an ominous sign indicating severely inadequate air exchange and imminent respiratory arrest.
 
 ### 3. Crepitations (Crackles)
 
@@ -34,7 +34,7 @@
 - **Anatomical Level:** The presence of crepitations localizes the primary pathology to the lung parenchyma, specifically the alveoli and interstitial spaces.
 - **Clinical Conditions:**
     - Infectious etiologies include viral or bacterial community-acquired pneumonia.
-    - Non-infectious etiologies include acute respiratory distress syndrome (ARDS), and cardiogenic or non-cardiogenic pulmonary edema (such as that seen in severe malaria, systemic inflammation, or congestive heart failure).
+    - Non-infectious etiologies include acute [[Neonatalogy/Respiratory Distress Syndrome\|respiratory distress syndrome]] (ARDS), and cardiogenic or non-cardiogenic pulmonary edema (such as that seen in severe [[Infectious Diseases/Malaria\|malaria]], systemic inflammation, or congestive heart failure).
 
 ### 4. Grunting
 
@@ -48,7 +48,7 @@
 
 |Adventitious Sound|Primary Anatomical Localization|Pathophysiological Mechanism|Key Clinical Conditions|
 |:--|:--|:--|:--|
-|**Stridor**|Upper Airway (Above thoracic inlet: pharynx, larynx, extra-thoracic trachea)|Turbulent airflow through narrowed or partially obstructed upper respiratory passages.|Croup, diphtheria, epiglottitis, retropharyngeal abscess, upper airway foreign body, angioneurotic edema.|
-|**Wheeze**|Lower Airway (Intra-thoracic trachea, bronchi, bronchioles)|Vibrations caused by air forced through a constricted or narrowed luminal diameter during expiration.|Bronchial asthma, acute bronchiolitis, lower airway foreign body, congestive cardiac failure.|
+|**Stridor**|Upper Airway (Above thoracic inlet: pharynx, larynx, extra-thoracic trachea)|Turbulent airflow through narrowed or partially obstructed upper respiratory passages.|Croup, [[Infectious Diseases/Diphtheria\|diphtheria]], epiglottitis, retropharyngeal abscess, upper airway foreign body, angioneurotic edema.|
+|**Wheeze**|Lower Airway (Intra-thoracic trachea, bronchi, bronchioles)|Vibrations caused by air forced through a constricted or narrowed luminal diameter during expiration.|Bronchial [[Respiratory/Asthma\|asthma]], [[Respiratory/Acute Bronchiolitis\|acute bronchiolitis]], lower airway foreign body, congestive cardiac failure.|
 |**Crepitations**|Lung Parenchyma (Alveoli and interstitial spaces)|Sudden opening of collapsed alveoli or passage of air through fluid/exudates.|Bronchopneumonia, ARDS, pulmonary edema.|
 |**Grunting**|Lung Parenchyma (Mechanically produced at the glottis)|Forced expiration against a closed glottis to generate intrinsic PEEP and prevent alveolar collapse.|Severe pneumonia, severe ARDS.|

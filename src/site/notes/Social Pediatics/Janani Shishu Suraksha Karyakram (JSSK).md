@@ -42,7 +42,7 @@
 - 108/102/ambulance services strengthened for free transport
 - No user charges; displayed prominently in all facilities
 - Convergence with:
-	- Facility-Based Newborn Care (FBNC): NBCC–NBSU–SNCU linkage
+	- Facility-Based Newborn Care (FBNC): NBCC–NBSU–[[Neonatalogy/SNCU\|SNCU]] linkage
 	- RBSK: Birth defect screening at delivery points
 	- SAANS: Pneumonia management
 	- ABDM: Digital entitlement tracking via ABHA

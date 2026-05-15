@@ -14,13 +14,13 @@ In its simplest terms, **telemedicine** is "healing from a distance". It is the 
 
 ### General Pediatrics
 * Triage: Deciding whether a child needs an emergency room visit, an in-person clinic visit, or home care.
-* Minor Ailments: Management of uncomplicated upper respiratory tract infections, mild acute gastroenteritis, allergic rhinitis, and mild dermatological conditions.
+* Minor Ailments: Management of uncomplicated upper respiratory tract infections, mild acute gastroenteritis, [[Respiratory/Allergic Rhinitis\|allergic rhinitis]], and mild dermatological conditions.
 * Follow-Up: Reviewing investigation reports, monitoring treatment response, and tapering medications.
 * Nutritional Counseling: Infant and young child feeding advice, management of uncomplicated malnutrition.
 
 ### Pediatric Subspecialties
 * Pediatric Neurology: Seizure semiology review via caregiver videos, medication dose adjustments, EEG report review.
-* Developmental And Behavioral Pediatrics: Ideal for long-term follow-up of Autism Spectrum Disorder, ADHD, and specific learning disabilities.
+* Developmental And Behavioral Pediatrics: Ideal for long-term follow-up of [[Development/Autism Spectrum Disorder\|Autism Spectrum Disorder]], [[Development/ADHD\|ADHD]], and specific learning disabilities.
 * Pediatric Endocrinology: Reviewing home blood glucose logs for Type 1 Diabetes Mellitus, titrating insulin doses.
 * Neonatology: Tele-NICU (hub and spoke model) guiding peripheral centers in neonatal resuscitation and ventilation.
 
@@ -28,7 +28,7 @@ In its simplest terms, **telemedicine** is "healing from a distance". It is the 
 * Triad Of Communication: Involves the Registered Medical Practitioner (RMP), the child, and the caregiver/parent.
 * Caregiver Role: Heavy reliance on caregivers for providing an accurate history, obtaining vitals (temperature, weight), and facilitating physical examination maneuvers on camera.
 * Legal Age: Consent must be obtained from a legally authorized representative (parent/guardian) for minors under 18 years of age. Assent should be sought from older children and adolescents.
-* Non-Accidental Trauma: High index of suspicion must be maintained; red flags for child abuse may be difficult to detect via telemedicine.
+* Non-Accidental Trauma: High [[Statistics/Index\|index]] of suspicion must be maintained; red flags for child abuse may be difficult to detect via telemedicine.
 
 ## Telemedicine Practice Guidelines (India)
 
@@ -42,7 +42,7 @@ In its simplest terms, **telemedicine** is "healing from a distance". It is the 
 
 ### Prescription Categories
 * List O: Over-the-counter drugs (e.g., Paracetamol, ORS, Cough Lozenges). Can be prescribed via any mode of consultation.
-* List A: First consultation (video mode only) or follow-up consultation. Includes relatively safe drugs (e.g., standard antibiotics, asthma inhalers).
+* List A: First consultation (video mode only) or follow-up consultation. Includes relatively safe drugs (e.g., standard antibiotics, [[Respiratory/Asthma\|asthma]] inhalers).
 * List B: Add-on drugs to optimize an existing treatment for a chronic condition on a follow-up consultation.
 * Prohibited List: Schedule X drugs, Narcotic and Psychotropic substances (e.g., injectable anesthetics, strong opioids) cannot be prescribed via telemedicine.
 

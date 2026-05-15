@@ -61,8 +61,8 @@
 ### Application in Indian Context
 - Explains >50% of preventable neonatal and child deaths (Lancet series)
 - Addressed through:
-	- Janani Suraksha Yojana (JSY), Janani Shishu Suraksha Karyakram (JSSK) for free transport/drugs
-	- Home-based newborn care (HBNC), ASHA training on danger signs
+	- Janani Suraksha Yojana (JSY), [[Social Pediatics/Janani Shishu Suraksha Karyakram (JSSK)\|Janani Shishu Suraksha Karyakram (JSSK)]] for free transport/drugs
+	- [[Social Pediatics/Home-Based Newborn Care (HBNC)\|Home-based newborn care (HBNC)]], ASHA training on danger signs
 	- 108/102 ambulance services, DEIC/RBSK referral pathways
 
 ### Strategies to Overcome Delays

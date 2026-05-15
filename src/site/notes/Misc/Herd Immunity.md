@@ -4,16 +4,16 @@
 
 ## Definitions
 
-- Herd immunity refers to proportion of subjects possessing immunity within a given population.
+- [[Misc/Herd Immunity\|Herd immunity]] refers to proportion of subjects possessing immunity within a given population.
 - Herd effect signifies reduction of infection or disease in unimmunized segment resulting from immunizing a population proportion.
-- Herd immunity threshold denotes minimum population proportion requiring immunization to eliminate disease.
+- [[Misc/Herd Immunity\|Herd immunity]] threshold denotes minimum population proportion requiring immunization to eliminate disease.
 - Herd protection describes unimmunized individuals remaining protected within a herd due to protection rendered by immunized members.
-- Herd immunity results from immunization or infection transmitted from human to human.
+- [[Misc/Herd Immunity\|Herd immunity]] results from immunization or infection transmitted from human to human.
 - Herd effect results from immunization or health interventions reducing transmission probability.
 
 ## Measurement Modalities
 
-- Herd immunity measured by testing population samples for specific immune parameters.
+- [[Misc/Herd Immunity\|Herd immunity]] measured by testing population samples for specific immune parameters.
 - Herd effect measured by quantifying disease incidence decline in unimmunized segments following immunization program institution.
 
 ## Pathophysiology And Mechanisms
@@ -37,7 +37,7 @@
 
 |Feature|Vaccines With Herd Effect|Vaccines Without Herd Effect|
 |:--|:--|:--|
-|Key Examples|Oral poliovirus vaccine, Measles vaccine, Conjugated pneumococcal vaccine, Haemophilus influenzae type b conjugate vaccine.|Tetanus toxoid, Bacillus Calmette-Guérin vaccine, Diphtheria vaccine.|
+|Key Examples|Oral poliovirus vaccine, [[Misc/Measles Vaccine\|Measles vaccine]], Conjugated [[Misc/Pneumococcal Vaccine\|pneumococcal vaccine]], Haemophilus influenzae type b conjugate vaccine.|[[Misc/Tetanus Toxoid\|Tetanus toxoid]], Bacillus Calmette-Guérin vaccine, [[Infectious Diseases/Diphtheria\|Diphtheria]] vaccine.|
 |Primary Mechanism|Prevents infection and mucosal carriage.|Protects primarily against clinical disease without clearing carriage.|
 |Epidemiological Reservoir|Humans act as exclusive or chief reservoir.|Environmental or non-human reservoirs frequently exist.|
 |Public Health Impact|Protects unimmunized contacts via reduced transmission.|Protects exclusively the vaccinated individual.|

@@ -8,7 +8,7 @@
 
 - Denotes complete lack of splenic tissue.
 - Includes surgical asplenia, congenital asplenia, and functional asplenia.
-- Sickle cell disease causes functional asplenia.
+- [[Hematology/Sickle Cell Disease\|Sickle cell disease]] causes functional asplenia.
 - Isolated congenital asplenia linked to pathogenic variants in RPSA protein.
 
 ### Diagnostic Markers
@@ -21,7 +21,7 @@
 - Splenectomy increases risk of overwhelming sepsis.
 - Extreme susceptibility to encapsulated bacteria.
 - Key pathogens include Streptococcus pneumoniae, Neisseria meningitidis, Haemophilus influenzae type b.
-- Defective clearance of intra-erythrocytic parasites worsens malaria and babesiosis.
+- Defective clearance of intra-erythrocytic parasites worsens [[Infectious Diseases/Malaria\|malaria]] and babesiosis.
 
 ## Timing of Immunization
 
@@ -45,7 +45,7 @@
 - Follow with pneumococcal polysaccharide vaccine (PPSV23) at least eight weeks later.
 - Administer second polysaccharide booster five years after initial polysaccharide dose.
 - Restrict polysaccharide vaccine to maximum two lifetime doses due to immune hyporesponsiveness.
-- Separate conjugate pneumococcal vaccine and specific meningococcal vaccines (MenACWY-D) by four weeks, giving pneumococcal conjugate first.
+- Separate conjugate [[Misc/Pneumococcal Vaccine\|pneumococcal vaccine]] and specific meningococcal vaccines (MenACWY-D) by four weeks, giving pneumococcal conjugate first.
 
 ### Meningococcal Immunization
 

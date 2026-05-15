@@ -2,21 +2,21 @@
 {"dg-publish":true,"uplink":"/neurology/neurology/","uptext":"Back to Index (Neurology)","permalink":"/neurology/craniosynostosis/","dgPassFrontmatter":true}
 ---
 
-**Craniosynostosis** is the premature fusion of one or more cranial sutures, occurring before the cessation of brain growth.
+**[[Neurology/Craniosynostosis\|Craniosynostosis]]** is the premature fusion of one or more cranial sutures, occurring before the cessation of brain growth.
 * **Incidence:** Approx 1 in 2,000 to 2,500 live births.
 * **Virchow’s Law:** The primary principle governing the skull deformity.
     * Skull growth is **restricted** in the plane perpendicular to the fused suture.
     * Compensatory **overgrowth** occurs at the patent sutures parallel to the fused suture to accommodate brain expansion.
 
 ##  Classification
-Craniosynostosis is classified based on etiology and the number of sutures involved.
+[[Neurology/Craniosynostosis\|Craniosynostosis]] is classified based on etiology and the number of sutures involved.
 
 **1. Based on Etiology**
 * **Primary (Isolated):** Due to intrinsic defect in the suture (genetic/developmental). Most common.
 * **Secondary:** Due to underlying systemic pathology or mechanical constraint.
     * *Metabolic:* Hyperthyroidism, Rickets, Hypophosphatasia, Mucopolysaccharidosis.
-    * *Hematologic:* Thalassemia, Sickle cell anemia (marrow expansion).
-    * *Mechanical:* Microcephaly (failure of brain growth), shunted hydrocephalus (over-drainage).
+    * *Hematologic:* [[Hematology/Thalassemia\|Thalassemia]], Sickle cell anemia (marrow expansion).
+    * *Mechanical:* [[Neurology/Microcephaly\|Microcephaly]] (failure of brain growth), shunted [[Neurology/Hydrocephalus\|hydrocephalus]] (over-drainage).
     * *Teratogens:* Valproate, Phenytoin, Fluconazole.
 
 **2. Based on Complexity**
@@ -27,24 +27,24 @@ Craniosynostosis is classified based on etiology and the number of sutures invol
 * **Non-Syndromic:** Isolated anomaly (approx 75-85% of cases).
 * **Syndromic:** Associated with other extracranial anomalies/genetic syndromes (approx 15-25% of cases).
 
-## Syndromes Associated with Craniosynostosis
+## Syndromes Associated with [[Neurology/Craniosynostosis\|Craniosynostosis]]
 
 Most syndromic cases are Autosomal Dominant and involve mutations in Fibroblast Growth Factor Receptors (FGFR) or Transcription factors (TWIST).
 
-### Major Craniosynostosis Syndromes (The "Big 5")
+### Major [[Neurology/Craniosynostosis\|Craniosynostosis]] Syndromes (The "Big 5")
 
 | Syndrome                     | Gene / Locus           | Inheritance | Key Clinical Features                                                                                                                                                                                                                              |
 | :--------------------------- | :--------------------- | :---------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Crouzon Syndrome**         | *FGFR2* (Exon 7, 9)    | AD          | • **Craniofacial:** Bicoronal synostosis (Brachycephaly), maxillary hypoplasia, proptosis (shallow orbits), hypertelorism, parrot-beak nose.<br>• **Limbs:** Normal hands/feet (Distinguishing feature from Apert).<br>• Normal intellect usually. |
+| **Crouzon Syndrome**         | *FGFR2* (Exon 7, 9)    | AD          | • **Craniofacial:** Bicoronal synostosis (Brachycephaly), maxillary hypoplasia, [[Misc/Proptosis\|proptosis]] (shallow orbits), hypertelorism, parrot-beak nose.<br>• **Limbs:** Normal hands/feet (Distinguishing feature from Apert).<br>• Normal intellect usually. |
 | **Apert Syndrome**           | *FGFR2* (S252W, P253R) | AD          | • **Craniofacial:** Brachycephaly, high prominent forehead, flat occiput, severe midface hypoplasia.<br>• **Limbs:** **Symmetrical complex syndactyly** of hands/feet ("Mitten hands/Sock feet").<br>• Intellectual disability is common.          |
-| **Pfeiffer Syndrome**        | *FGFR1* or *FGFR2*     | AD          | • **Craniofacial:** Brachycephaly, proptosis.<br>• **Limbs:** **Broad thumbs and great toes** (medially deviated).<br>• *Type 1:* Mild, normal intelligence.<br>• *Type 2/3:* Cloverleaf skull, severe proptosis, elbow ankylosis, poor prognosis. |
+| **Pfeiffer Syndrome**        | *FGFR1* or *FGFR2*     | AD          | • **Craniofacial:** Brachycephaly, [[Misc/Proptosis\|proptosis]].<br>• **Limbs:** **Broad thumbs and great toes** (medially deviated).<br>• *Type 1:* Mild, normal intelligence.<br>• *Type 2/3:* Cloverleaf skull, severe [[Misc/Proptosis\|proptosis]], elbow ankylosis, poor prognosis. |
 | **Saethre-Chotzen Syndrome** | *TWIST1* (7p21)        | AD          | • **Craniofacial:** Brachycephaly or Plagiocephaly, low frontal hairline, facial asymmetry, ptosis.<br>• **Limbs:** Mild cutaneous syndactyly (digits 2-3), broad great toe.<br>• Distinctive ear crus prominence.                                 |
 | **Carpenter Syndrome**       | *RAB23*                | **AR**      | • **Craniofacial:** Tower skull (Acrocephaly).<br>• **Limbs:** Polydactyly, syndactyly.<br>• Obesity, hypogonadism, congenital heart defects.                                                                                                      |
 
 ### Other Syndromes
 * **Muenke Syndrome (*FGFR3*):** Uni/bilateral coronal synostosis, sensorineural hearing loss.
 * **Antley-Bixler Syndrome:** Brachycephaly + radiohumeral synostosis.
-* **Baller-Gerold Syndrome:** Craniosynostosis + radial aplasia.
+* **Baller-Gerold Syndrome:** [[Neurology/Craniosynostosis\|Craniosynostosis]] + radial aplasia.
 ## Clinical Characteristics of Common Types
 Clinical features depend on the specific suture fused. The diagnosis is primarily clinical, supported by skull shape.
 
@@ -101,7 +101,7 @@ Clinical features depend on the specific suture fused. The diagnosis is primaril
     * **Head Shape:** Short, wide skull.
     * **Occiput:** Flat ("Turricephaly" or Tower skull if significant vertical growth occurs).
     * **Face:** Flat midface, supraorbital recession.
-    * **Complications:** High risk of raised ICP and hydrocephalus.
+    * **Complications:** High risk of raised ICP and [[Neurology/Hydrocephalus\|hydrocephalus]].
 
 ### 5. Lambdoid Synostosis (Posterior Plagiocephaly)
 * **Frequency:** Very rare (must distinguish from positional plagiocephaly).

@@ -5,8 +5,8 @@
 ## Characteristics
 - can occur after head trauma
 - chronic headache if occurs 3 months after head trauma
-- pervious h/o headache, family history are at higher risk of conversion into chronic migraine
-- can sometimes present with features of primary headaches like tension type, migraine or cervicogenic headaches
+- pervious h/o headache, family history are at higher risk of conversion into chronic [[Neurology/Migraine\|migraine]]
+- can sometimes present with features of primary headaches like tension type, [[Neurology/Migraine\|migraine]] or cervicogenic headaches
 - may require frequent analgesics - can sometime lead to medication overuse headache
 - can be complicated by headache relapses
 
@@ -22,7 +22,7 @@
 ##### raised intracranial pressure
 - can be caused by mass, or intrinsic increase in pressure
 - headache is caused by increased pressure on dura
-- idiopathic intracranial hypertension can be caused by increased ingestion of fat soluble vitamins like vitamin A, minocycline, hormonal changes, or blocked venous drainage due to causes like mastoiditis
+- idiopathic intracranial hypertension can be caused by increased ingestion of fat soluble vitamins like [[Nutrition/Vitamin A\|vitamin A]], minocycline, hormonal changes, or blocked venous drainage due to causes like mastoiditis
 - MRA or MRV should be performed
 - if headache persist or visual changes present - carbonic anhydrase inhibitors, optic nerve fenestration or shunt need to be considered
 

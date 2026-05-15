@@ -4,14 +4,14 @@
 
 ## Introduction
 - Nationwide catch-up and elimination drive under Universal Immunization Programme (UIP), Ministry of Health & Family Welfare
-- First launched in phased manner from 2017; integrated into routine UIP as MR vaccine replacing measles vaccine
+- First launched in phased manner from 2017; integrated into routine UIP as MR vaccine replacing [[Misc/Measles Vaccine\|measles vaccine]]
 - Current phase: **National Zero Measles-Rubella Elimination Campaign 2025-26** launched on 24 April 2025 by Union Health Minister
 - Goal: Achieve measles and rubella elimination by 2026 (incidence <1 case per million population) through >95% coverage with two doses of MR vaccine
 
 ## Objectives
 - Provide a second opportunity (catch-up dose) to all children who missed routine MR vaccine
 - Rapidly increase population immunity to interrupt transmission of measles and rubella viruses
-- Reduce morbidity, mortality and congenital rubella syndrome (CRS) burden
+- Reduce morbidity, mortality and [[Infectious Diseases/Congenital Rubella Syndrome\|congenital rubella syndrome]] (CRS) burden
 - Strengthen routine immunization through micro-planning and community mobilisation
 - Generate evidence for certification of elimination
 
@@ -27,7 +27,7 @@
   - MR-2: 16–24 months
 - Campaign dose: Single supplementary dose irrespective of previous vaccination status
 - Auto-disable (AD) syringes used; cold-chain maintained (2–8°C)
-- Safe injection practices and biomedical waste management mandatory
+- [[Social Pediatics/Safe Injection Practices\|Safe injection practices]] and biomedical waste management mandatory
 
 ## Implementation Strategy
 - **Phased approach**: Conducted state-wise/region-wise over 4–6 weeks per phase
@@ -35,12 +35,12 @@
 - Fixed + outreach + mobile sessions by ANM/ASHA/AWW
 - Convergence with Mission Indradhanush (IMI), RBSK, RKSK, SAANS, POSHAN Abhiyaan and ABDM (ABHA linkage for digital tracking)
 - Massive IEC/BCC: “MR Vaccine – Ek Dose, Do Bachao” campaign, rallies, school health programmes
-- Real-time monitoring through U-WIN portal, CoWIN linkage and ABDM
+- Real-time monitoring through [[Social Pediatics/U-WIN Portal\|U-WIN portal]], CoWIN linkage and ABDM
 
 ## Key Activities (2025-26 Campaign)
 - House-to-house vaccination drive with focus on zero-dose and drop-out children
 - Special sessions in schools, Anganwadis, migrant colonies
-- Pulse oximetry and vitamin-A linkage where required
+- [[Emergencies/Pulse Oximetry\|Pulse oximetry]] and vitamin-A linkage where required
 - Post-campaign coverage evaluation surveys (PCE)
 - Surveillance strengthening: Integrated measles-rubella surveillance through IDSP
 

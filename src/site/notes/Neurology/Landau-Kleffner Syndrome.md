@@ -29,7 +29,7 @@
 ### 4. Investigations
 * **Electroencephalogram (EEG) - Gold Standard:**
     * **Awake:** High-amplitude focal spikes/sharp waves, typically **bitemporal** or posterior temporal.
-    * **Sleep (Critical):** Marked activation of discharges during non-REM sleep. May progress to **CSWS/ESES** (Electrical Status Epilepticus during Sleep), where spike-wave index >85% of slow-wave sleep.
+    * **Sleep (Critical):** Marked activation of discharges during non-REM sleep. May progress to **CSWS/ESES** (Electrical Status Epilepticus during Sleep), where spike-wave [[Statistics/Index\|index]] >85% of slow-wave sleep.
 * **Audiometry:** Mandatory to rule out sensorineural hearing loss (results are normal in LKS).
 * **MRI Brain:** Usually normal; performed to exclude structural lesions (tumors, inflammation).
 * **Genetic Testing:** Panel for _GRIN2A_ variants.

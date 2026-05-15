@@ -14,15 +14,15 @@
 ## Clinical features
 
 ### **Respiratory:**
-- _Upper:_ Nasal polyps, Pansinusitis.
+- _Upper:_ [[Respiratory/Nasal Polyps\|Nasal polyps]], Pansinusitis.
 - _Lower:_ Bronchiectasis (upper lobe predominant), ABPA, Recurrent infections (_Staph. aureus_ early, _Pseudomonas_ late).
 ### **Gastrointestinal:** 
-- _Newborn:_ Meconium ileus, Peritonitis.
-- _Child:_ DIOS, Rectal prolapse, GERD.      
+- _Newborn:_ Meconium ileus, [[Gastrointestinal/Peritonitis\|Peritonitis]].
+- _Child:_ DIOS, Rectal prolapse, [[Gastrointestinal/GERD\|GERD]].      
 ### **Pancreatic/Hepatic:**  
 - Exocrine insufficiency (Steatorrhea, FTT, ADEK deficiency).        
 - Endocrine: CFRD.
-- Liver: Focal biliary cirrhosis $\rightarrow$ Portal hypertension.       
+- Liver: Focal biliary cirrhosis $\rightarrow$ [[Gastrointestinal/Portal Hypertension\|Portal hypertension]].       
 ###  **Genitourinary:**
 - CBAVD (Congenital Bilateral Absence of Vas Deferens) in males ($95\%$).
 - Delayed puberty/Amenorrhea in females.
@@ -72,14 +72,14 @@ Often associated with Pancreatic Sufficiency and milder lung disease.
 | **IV** | Conductance | Low Flow | Mild | R117H | Potentiators |
 | **V** | Quantity | Low Amount | Mild | A455E | Potentiators |
 | **VI** | Stability | High Turnover | Mild | - | Stabilizers |
-## Diagnosis of Cystic Fibrosis
+## Diagnosis of [[Respiratory/Cystic Fibrosis\|Cystic Fibrosis]]
 
-- Cystic fibrosis (consensus diagnostic criteria)
+- [[Respiratory/Cystic Fibrosis\|Cystic fibrosis]] (consensus diagnostic criteria)
 - Should match one clinical and one laboratory criteria
 	- Clinical criteria
-		- Clinical suspicion of CF – recurrent pneumonia, Meconium ileus in the first 24 hours, failure to thrive, steatorrhea, nasal polyps
-		- Newborn screening test positive (positive immunoreactive trypsinogen test)
-		- Family history of cystic fibrosis
+		- Clinical suspicion of CF – [[Respiratory/Recurrent Pneumonia\|recurrent pneumonia]], Meconium ileus in the first 24 hours, failure to thrive, steatorrhea, [[Respiratory/Nasal Polyps\|nasal polyps]]
+		- [[Neonatalogy/Newborn Screening\|Newborn screening]] test positive (positive immunoreactive trypsinogen test)
+		- Family history of [[Respiratory/Cystic Fibrosis\|cystic fibrosis]]
 	- Laboratory criteria
 		- 2 different CF mutations
 		- One abnormal nasal potential difference
@@ -96,7 +96,7 @@ Often associated with Pancreatic Sufficiency and milder lung disease.
 	- Nasal potential difference
 		- Used in intermediate / equivocal sweat chloride test or <2 CF mutation present
 		- More negative basal potential difference and large drop with amiloride is characteristic
-## Management of Cystic Fibrosis
+## Management of [[Respiratory/Cystic Fibrosis\|Cystic Fibrosis]]
 ### Pulmonary measures
 **1. General Measures**
 - Nutrition (High calorie/protein), Hydration, Vaccination (Flu, Pneumococcal).
@@ -132,7 +132,7 @@ Often associated with Pancreatic Sufficiency and milder lung disease.
     
 **6. Advanced Management**
 
-- Management of complications: Pneumothorax, Hemoptysis (Bronchial artery embolization).
+- Management of complications: [[Respiratory/Pneumothorax\|Pneumothorax]], Hemoptysis (Bronchial artery embolization).
 - Lung Transplantation (End-stage).
 ### Non pulmonary management
 **Non-Pulmonary Complication Management in CF**
@@ -142,7 +142,7 @@ Often associated with Pancreatic Sufficiency and milder lung disease.
     * **PERT:** Pancreatic Enzyme Replacement Therapy (e.g., Creon) with all meals and snacks. Dosing based on fat intake (500-2500 units lipase/kg/meal).
     * **Vitamins:** Supplementation of fat-soluble vitamins (**A, D, E, K**) in water-soluble formulations.
 * **Nutrition:**
-    * High-calorie, high-fat diet aiming for **110–200% of RDA** for age.
+    * High-calorie, high-fat diet aiming for **110–200% of [[Nutrition/RDA\|RDA]]** for age.
     * Overnight enteral feeding (gastrostomy) if failure to thrive persists.
 * **Salt Supplementation:** * Oral NaCl supplements required due to sweat losses, especially in infants and hot climates.
 
@@ -150,11 +150,11 @@ Often associated with Pancreatic Sufficiency and milder lung disease.
 * **Distal Intestinal Obstruction Syndrome (DIOS):**
     * **Prevention:** Adequate hydration, adjusting enzyme dose, laxatives (PEG).
     * **Treatment:** Rehydration + Oral/Nasogastric **Polyethylene Glycol (PEG)** or **Gastrografin** enemas. Surgery rarely needed.
-* **GERD:** Proton Pump Inhibitors (PPIs) improve enzyme efficacy.
+* **[[Gastrointestinal/GERD\|GERD]]:** Proton Pump Inhibitors (PPIs) improve enzyme efficacy.
 
 **3. Hepato-biliary (CFLD)**
 * **Cholestasis/Liver Disease:** **Ursodeoxycholic acid (UDCA)** (20 mg/kg/day) to delay progression.
-* Monitoring for portal hypertension (varices management).
+* Monitoring for [[Gastrointestinal/Portal Hypertension\|portal hypertension]] (varices management).
 
 **4. Metabolic (CFRD)**
 * **CF Related Diabetes:** * **Insulin** is the treatment of choice. 

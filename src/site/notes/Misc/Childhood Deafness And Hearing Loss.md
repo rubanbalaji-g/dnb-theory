@@ -32,7 +32,7 @@
 
 - Cytomegalovirus represents most common congenital infectious cause.
 - Other prenatal infections include toxoplasmosis, syphilis, and rubella.
-- Postnatal infections include bacterial meningitis, particularly Streptococcus pneumoniae.
+- Postnatal infections include bacterial [[Neurology/Meningitis\|meningitis]], particularly Streptococcus pneumoniae.
 
 ### Genetic Causes
 
@@ -45,9 +45,9 @@
 |Autosomal Dominant|Waardenburg syndrome|Dystopia canthorum, heterochromic irises, white forelock.|
 |Autosomal Dominant|Branchiootorenal syndrome|Preauricular pits, branchial clefts, renal anomalies.|
 |Autosomal Recessive|Usher syndrome|Vestibular areflexia, progressive retinitis pigmentosa leading to blindness.|
-|Autosomal Recessive|Pendred syndrome|Vestibular aqueduct dilation, thyroid goiter.|
+|Autosomal Recessive|[[Endocrinology/Pendred Syndrome\|Pendred syndrome]]|Vestibular aqueduct dilation, thyroid goiter.|
 |Autosomal Recessive|Jervell and Lange-Nielsen|Prolonged QT interval, risk of sudden cardiac death.|
-|Sex-Linked|Alport syndrome|Nephritis, microscopic hematuria, progressive hearing loss.|
+|Sex-Linked|[[Nephrology/Alport Syndrome\|Alport syndrome]]|Nephritis, microscopic hematuria, progressive hearing loss.|
 
 ### Physical And Toxic Causes
 
@@ -99,4 +99,4 @@
 - Cochlear implantation indicated for severe to profound bilateral sensorineural loss lacking hearing aid benefit.
 - Implants bypass damaged organ of Corti to directly stimulate spiral ganglion neurons.
 - Minimum age for cochlear implantation reduced to 9 months by regulatory agencies.
-- Pre-implantation protocols require pneumococcal polyvalent vaccination to prevent subsequent meningitis complications.
+- Pre-implantation protocols require pneumococcal polyvalent vaccination to prevent subsequent [[Neurology/Meningitis\|meningitis]] complications.

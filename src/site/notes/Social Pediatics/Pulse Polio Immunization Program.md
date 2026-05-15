@@ -3,13 +3,13 @@
 ---
 
 ## Introduction
-The Pulse Polio Immunization (PPI) program was launched in India in 1995 following the World Health Assembly resolution of 1988 for the Global Polio Eradication Initiative. It is a supplementary immunization activity (SIA) intended to complement routine immunization and achieve the goal of a polio-free world.
+The [[Infectious Diseases/Pulse Polio Immunization\|Pulse Polio Immunization]] (PPI) program was launched in India in 1995 following the World Health Assembly resolution of 1988 for the Global Polio Eradication Initiative. It is a supplementary immunization activity (SIA) intended to complement routine immunization and achieve the goal of a polio-free world.
 
 ## Scientific Rationale
 The program is based on the concept of "Environmental Flooding" and the induction of high intestinal immunity:
-* **Mucosal Immunity:** Oral Polio Vaccine (OPV) induces secretory IgA in the gut, which prevents the multiplication of wild poliovirus (WPV) and its subsequent shedding in feces.
+* **Mucosal Immunity:** [[Misc/Oral Polio Vaccine\|Oral Polio Vaccine]] (OPV) induces secretory IgA in the gut, which prevents the multiplication of wild poliovirus (WPV) and its subsequent shedding in feces.
 * **Environmental Flooding:** Simultaneously administering OPV to all eligible children in a geographic area floods the environment with attenuated vaccine virus, displacing the WPV.
-* **Herd Immunity:** High coverage levels ensure protection for the few individuals who may not have been vaccinated or did not seroconvert.
+* **[[Misc/Herd Immunity\|Herd Immunity]]:** High coverage levels ensure protection for the few individuals who may not have been vaccinated or did not seroconvert.
 
 ## Implementation Strategy
 The program targets all children between the ages of 0 to 5 years, regardless of their previous routine immunization status.
@@ -30,16 +30,16 @@ The program targets all children between the ages of 0 to 5 years, regardless of
     * **'X' (Missed):** One or more eligible children in the house were absent or missed; these are revisited.
 
 ## [[Neuromuscular/Acute Flaccid Paralysis\|Acute Flaccid Paralysis]] (AFP) Surveillance
-The diagnostic backbone of the program involves the "Gold Standard" AFP surveillance:
+The diagnostic backbone of the program involves the "Gold Standard" [[Infectious Diseases/AFP surveillance\|AFP surveillance]]:
 * **Case Definition:** Any child <15 years with acute onset of flaccid paralysis (including [[Neuromuscular/Guillain-Barré Syndrome\|Guillain-Barré syndrome]]) or any person of any age where polio is suspected.
 * **Stool Sampling:** Two "adequate" stool samples collected 24 hours apart within 14 days of onset of paralysis.
-* **Virological Analysis:** Samples are sent under cold chain (+2 to +8°C) to WHO-accredited laboratories for viral isolation and "reverse transcription-polymerase chain reaction" (RT-PCR) to differentiate WPV from vaccine-derived poliovirus (VDPV).
+* **Virological Analysis:** Samples are sent under [[Misc/Cold Chain\|cold chain]] (+2 to +8°C) to WHO-accredited laboratories for viral isolation and "reverse transcription-polymerase chain reaction" (RT-PCR) to differentiate WPV from vaccine-derived poliovirus (VDPV).
 * **Environmental Surveillance:** Routine testing of sewage samples from major urban centers to detect silent circulation of polioviruses.
 
 ## The Polio Endgame Strategy and "The Switch"
 As WPV Type 2 was declared eradicated in 2015, the risk shifted toward Circulating Vaccine-Derived Poliovirus Type 2 (cVDPV2).
 * **The Switch:** On April 25, 2016, India executed a synchronized transition from Trivalent OPV (tOPV) to Bivalent OPV (bOPV, containing types 1 and 3).
-* **Inactivated Polio Vaccine (IPV):** To maintain immunity against Type 2, fractional IPV (fIPV) was introduced into the National Immunization Schedule at 6 weeks, 14 weeks, and 9 months (intradermal).
+* **Inactivated Polio Vaccine (IPV):** To maintain immunity against Type 2, fractional IPV ([[Misc/fIPV\|fIPV]]) was introduced into the National Immunization Schedule at 6 weeks, 14 weeks, and 9 months (intradermal).
 
 ## Milestones and Current Status
 * **Last Case of WPV:** Reported on January 13, 2011, in Howrah, West Bengal (WPV Type 1).

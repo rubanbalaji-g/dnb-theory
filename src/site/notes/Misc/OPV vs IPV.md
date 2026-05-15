@@ -10,9 +10,9 @@
 |Administration Route|Oral administration consisting of two drops.|Intramuscular injection or intradermal fractional dose.|
 |Immune Response|Induces both systemic and excellent intestinal mucosal immunity via secretory immunoglobulin A.|Induces strong systemic humoral immunity via immunoglobulin G. Weak induction of intestinal mucosal immunity.|
 |Herd Effect|Confers contact immunity due to fecal shedding of vaccine virus, protecting unimmunized contacts.|Lacks contact immunity transmission. Does not significantly reduce wild virus circulation in poor sanitation settings.|
-|Safety Profile|Risk of vaccine-associated paralytic poliomyelitis and circulating vaccine-derived polioviruses.|Extremely safe. Zero risk of vaccine-associated paralytic poliomyelitis or vaccine-derived polioviruses.|
+|Safety Profile|Risk of vaccine-associated [[Neuromuscular/Paralytic Poliomyelitis\|paralytic poliomyelitis]] and circulating vaccine-derived polioviruses.|Extremely safe. Zero risk of vaccine-associated [[Neuromuscular/Paralytic Poliomyelitis\|paralytic poliomyelitis]] or vaccine-derived polioviruses.|
 |Contraindications|Contraindicated in immunodeficiency and household contacts of immunocompromised individuals.|Safe for administration in immunocompromised patients.|
-|Temperature Sensitivity|Highly heat-sensitive. Potency monitored via vaccine vial monitor.|Relatively heat-stable but damaged by freezing.|
+|Temperature Sensitivity|Highly heat-sensitive. Potency monitored via [[Misc/Vaccine Vial Monitor\|vaccine vial monitor]].|Relatively heat-stable but damaged by freezing.|
 
 ## Polio Eradication And Endgame Strategic Plan
 
@@ -21,7 +21,7 @@
 - Wild poliovirus type 2 eradicated globally in 1999.
 - Continued emergence of circulating vaccine-derived poliovirus outbreaks noted primarily in high-risk areas.
 - Approximately 90 percent of all vaccine-derived poliovirus outbreaks attributed to Sabin type 2 strain.
-- Vaccine-associated paralytic poliomyelitis burden necessitated shifting toward safer inactivated alternatives.
+- Vaccine-associated [[Neuromuscular/Paralytic Poliomyelitis\|paralytic poliomyelitis]] burden necessitated shifting toward safer inactivated alternatives.
 
 ### The Global Switch
 
@@ -33,7 +33,7 @@
 
 - World Health Organization mandated inclusion of at least one inactivated poliovirus vaccine dose in routine schedules globally.
 - Primary objective entails inducing baseline immunity against type 2 poliovirus following bivalent vaccine transition.
-- Sequential schedules utilizing inactivated vaccine prior to oral vaccine minimize vaccine-associated paralytic poliomyelitis risk while maintaining essential mucosal immunity.
+- Sequential schedules utilizing inactivated vaccine prior to oral vaccine minimize vaccine-associated [[Neuromuscular/Paralytic Poliomyelitis\|paralytic poliomyelitis]] risk while maintaining essential mucosal immunity.
 - Indian national schedule incorporates fractional intradermal inactivated doses at 6 weeks, 14 weeks, and 9 to 12 months alongside oral vaccine doses.
 - Ultimate endgame strategy involves complete withdrawal of all oral poliovirus vaccines and exclusive utilization of inactivated vaccines post-eradication.
 
