@@ -46,12 +46,12 @@
 
 | Category | Associated Conditions |
 | :--- | :--- |
-| **Renal (Most Common)** | Chronic glomerulonephritis, pyelonephritis/renal scarring, congenital dysplastic/polycystic kidney disease, vesicoureteral reflux nephropathy, obstructive nephropathy, hemolytic-uremic syndrome (HUS), Wilms tumor, Ask-Upmark kidney. |
-| **Vascular** | Coarctation of the aorta (thoracic/abdominal), renal artery stenosis, fibromuscular dysplasia, thrombosis, Takayasu arteritis, systemic lupus erythematosus vasculitis, Kawasaki disease. |
-| **Endocrine** | Hyperthyroidism (systolic HTN/tachycardia), hypothyroidism, hyperparathyroidism (hypercalcemia), congenital adrenal hyperplasia (CAH), Cushing syndrome, primary aldosteronism, pheochromocytoma, neuroblastoma. |
+| **Renal (Most Common)** | Chronic glomerulonephritis, pyelonephritis/renal scarring, congenital dysplastic/polycystic kidney disease, vesicoureteral reflux nephropathy, obstructive nephropathy, hemolytic-uremic syndrome (HUS), [[Hematology/Wilms Tumor\|Wilms tumor]], Ask-Upmark kidney. |
+| **Vascular** | Coarctation of the aorta (thoracic/abdominal), [[Nephrology/Renal Artery Stenosis\|renal artery stenosis]], fibromuscular dysplasia, thrombosis, [[Rheumatology/Takayasu Arteritis\|Takayasu arteritis]], systemic lupus erythematosus vasculitis, [[Rheumatology/Kawasaki Disease\|Kawasaki disease]]. |
+| **Endocrine** | Hyperthyroidism (systolic HTN/tachycardia), hypothyroidism, hyperparathyroidism (hypercalcemia), [[Endocrinology/Congenital Adrenal Hyperplasia\|congenital adrenal hyperplasia]] (CAH), [[Endocrinology/Cushing Syndrome\|Cushing syndrome]], primary aldosteronism, [[Endocrinology/Pheochromocytoma\|pheochromocytoma]], [[Hematology/Neuroblastoma\|neuroblastoma]]. |
 | **Monogenic/Genetic** | Liddle syndrome, Gordon syndrome, apparent mineralocorticoid excess, glucocorticoid-remediable aldosteronism (low renin). |
 | **Neurologic** | Increased intracranial pressure, [[Neuromuscular/Guillain-Barré Syndrome\|Guillain-Barré syndrome]], autonomic storm (spinal cord injury), familial dysautonomia, posterior fossa lesions, encephalitis. |
-| **Transient/Intermittent** | Acute postinfectious glomerulonephritis, Henoch-Schönlein purpura, HUS, acute kidney injury, hypervolemia, pain/anxiety, hypercalcemia. |
+| **Transient/Intermittent** | Acute postinfectious glomerulonephritis, Henoch-Schönlein purpura, HUS, [[Nephrology/Acute Kidney Injury\|acute kidney injury]], hypervolemia, pain/anxiety, hypercalcemia. |
 | **Drugs/Toxins** | Cocaine, amphetamines, sympathomimetics, corticosteroids, oral contraceptives, calcineurin inhibitors (cyclosporine, tacrolimus), licorice, heavy metals (lead, mercury), Vitamin D intoxication. |
 
 ## Clinical Manifestations
@@ -89,13 +89,13 @@
 
 | System/Category | Findings & Potential Relevance |
 | :--- | :--- |
-| **General** | Pale mucous membranes, edema, growth retardation (Chronic kidney disease). Elfin facies, upturned nose (Williams syndrome). Webbed neck, wide carrying angle (Turner syndrome). Moon face, buffalo hump, striae (Cushing syndrome). |
-| **Habitus** | Thinness (Pheochromocytoma, hyperthyroidism, severe renal disease). Obesity (Primary hypertension, Metabolic syndrome). |
-| **Head, Neck, Eyes** | Fundal changes (chronic severe HTN), Proptosis (Hyperthyroidism), Goiter (Thyroid disease), Adenotonsillar hypertrophy (Sleep-disordered breathing). |
+| **General** | Pale mucous membranes, edema, growth retardation ([[Nephrology/Chronic Kidney Disease\|Chronic kidney disease]]). Elfin facies, upturned nose ([[Genetics/Williams Syndrome\|Williams syndrome]]). Webbed neck, wide carrying angle ([[Genetics/Turner Syndrome\|Turner syndrome]]). Moon face, buffalo hump, striae ([[Endocrinology/Cushing Syndrome\|Cushing syndrome]]). |
+| **Habitus** | Thinness ([[Endocrinology/Pheochromocytoma\|Pheochromocytoma]], hyperthyroidism, severe renal disease). Obesity (Primary hypertension, [[Endocrinology/Metabolic Syndrome\|Metabolic syndrome]]). |
+| **Head, Neck, Eyes** | Fundal changes (chronic severe HTN), [[Misc/Proptosis\|Proptosis]] (Hyperthyroidism), Goiter (Thyroid disease), Adenotonsillar hypertrophy (Sleep-disordered breathing). |
 | **Cardiovascular** | Absent/diminished femoral pulses, radial-femoral delay, right arm > leg BP gradient (Aortic coarctation). Bruits over abdomen/great vessels (Arteritis/renovascular disease). |
-| **Abdomen** | Hepatomegaly, abdominal mass (Neuroblastoma, Wilms tumor, polycystic kidneys), epigastric/renal bruit. |
-| **Genitourinary** | Ambiguous/virilized genitalia (Congenital adrenal hyperplasia - 11$\beta$ or 17$\alpha$ hydroxylase deficiency). |
-| **Neuromuscular** | Muscle weakness (Hyperaldosteronism, Liddle syndrome/hypokalemia). Cafe-au-lait spots, neurofibromas (Neurofibromatosis - associated with pheochromocytoma/renal artery stenosis). |
+| **Abdomen** | Hepatomegaly, abdominal mass ([[Hematology/Neuroblastoma\|Neuroblastoma]], [[Hematology/Wilms Tumor\|Wilms tumor]], polycystic kidneys), epigastric/renal bruit. |
+| **Genitourinary** | Ambiguous/virilized genitalia ([[Endocrinology/Congenital Adrenal Hyperplasia\|Congenital adrenal hyperplasia]] - 11$\beta$ or 17$\alpha$ hydroxylase deficiency). |
+| **Neuromuscular** | Muscle weakness ([[Endocrinology/Hyperaldosteronism\|Hyperaldosteronism]], Liddle syndrome/hypokalemia). Cafe-au-lait spots, neurofibromas (Neurofibromatosis - associated with pheochromocytoma/renal artery stenosis). |
 
 ### Ambulatory Blood Pressure Monitoring (ABPM)
 - Superior predictor of target-organ damage compared to clinic BP.
@@ -110,13 +110,13 @@
 | **Tier 2 (Comorbidities / $\ge$ 95th percentile)** | Identify hyperlipidemia, metabolic abnormalities | Fasting lipid panel, Fasting glucose, HbA1c, Liver function tests (for overweight/obese). Complete blood count (rule out chronic disease anemia). |
 | **Tier 3 (Target Organ Damage)** | Assess LVH prior to initiating pharmacotherapy | Echocardiogram: Assess LV mass, function, screen for coarctation. LVH defined as LV mass >51 g/m2.7 (>8 yrs) or >115 g/BSA (boys <8 yrs) / >95 g/BSA (girls <8 yrs). |
 | **Tier 4 (Secondary Causes)** | Identify renal scarring, structural anomalies, disparities | Renal Ultrasound (Indicated for all <6 yrs, or abnormal urinalysis/renal function). |
-| **Tier 5 (Specialized/High Suspicion)** | Suspected renovascular disease, pheochromocytoma | Doppler ultrasonography, CT/MR Angiography (Renovascular). Plasma/urine catecholamines, Plasma renin/aldosterone, Plasma/urine steroids. Polysomnography (Sleep-disordered breathing). |
+| **Tier 5 (Specialized/High Suspicion)** | Suspected renovascular disease, [[Endocrinology/Pheochromocytoma\|pheochromocytoma]] | Doppler ultrasonography, CT/MR Angiography (Renovascular). Plasma/urine catecholamines, Plasma renin/aldosterone, Plasma/urine steroids. [[Development/Polysomnography\|Polysomnography]] (Sleep-disordered breathing). |
 
 ## Management Strategies
 
 ### Treatment Goals
 - General pediatric goal: Reduce BP <90th percentile for age/sex/height or <130/80 mm Hg (whichever is lower).
-- Chronic Kidney Disease (CKD): Stricter goal; 24-hour MAP <50th percentile on ABPM.
+- [[Nephrology/Chronic Kidney Disease\|Chronic Kidney Disease]] (CKD): Stricter goal; 24-hour MAP <50th percentile on ABPM.
 
 ### Therapeutic Lifestyle Interventions (Primary Therapy)
 - Indicated for all patients (elevated BP and hypertension).
@@ -132,7 +132,7 @@
 - Stage 2 hypertension without modifiable risk factors.
 - Secondary hypertension.
 - Hypertension complicated by Target-Organ Damage (e.g., LVH).
-- Presence of Diabetes Mellitus (Type 1 or 2) or Chronic Kidney Disease.
+- Presence of Diabetes Mellitus (Type 1 or 2) or [[Nephrology/Chronic Kidney Disease\|Chronic Kidney Disease]].
 - Failure of non-pharmacologic interventions (3-6 months trial).
 
 #### Stepped-Care Approach
@@ -162,7 +162,7 @@
 
 | Medication | Mechanism | Dose | Side Effects & Cautions |
 | :--- | :--- | :--- | :--- |
-| **Labetalol** | $\alpha$ and $\beta$ blocker | IV infusion: 0.25-3 mg/kg/hr. IV bolus: 0.2-1 mg/kg/dose. | Bradycardia, orthostatic hypotension, bronchospasm. Avoid in asthma. |
+| **Labetalol** | $\alpha$ and $\beta$ blocker | IV infusion: 0.25-3 mg/kg/hr. IV bolus: 0.2-1 mg/kg/dose. | Bradycardia, orthostatic hypotension, bronchospasm. Avoid in [[Respiratory/Asthma\|asthma]]. |
 | **Nicardipine** | Calcium Channel Blocker | IV infusion: 0.5-4 mcg/kg/min. | Preferred agent due to efficacy and safety. Flushing, reflex tachycardia, phlebitis. |
 | **Sodium Nitroprusside** | Direct Vasodilator | IV infusion: 0.5-8 mcg/kg/min. | Rapid onset (30 sec). **Cyanide/thiocyanate toxicity** (monitor in prolonged use/renal failure). |
 | **Esmolol** | Selective $\beta1$ blocker | IV loading: 100-500 mcg/kg. Infusion: 50-500 mcg/kg/min. | Rapid onset/short half-life (9 min). Profound bradycardia/hypotension. |

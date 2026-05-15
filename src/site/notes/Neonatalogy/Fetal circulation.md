@@ -38,7 +38,7 @@
 # Neonatal circulation
 - some of the above-mentioned changes can be instantaneous or some can occur after a long time over hour or even weeks.
 - Largest decline in the PVR occurs at day 2-3 of life (can occur till day 7)
-- decrease in PVR and increase in SVR is an ongoing process, so minor cardiovascular defects like VSD may not present early in life due to PVR still higher than SVR
+- decrease in PVR and increase in SVR is an ongoing process, so minor cardiovascular defects like [[Cardiology/VSD\|VSD]] may not present early in life due to PVR still higher than SVR
 ## Differences between neonatal and adult circulation
 - RTL or LTR shunting may still persist through PFO, PDA
 - neonatal pulmonary vasculature closes vigorously to hypoxemia, hypercapnia and acidosis

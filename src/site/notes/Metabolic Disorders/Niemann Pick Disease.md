@@ -3,7 +3,7 @@
 ---
 
 ## 1. INTRODUCTION AND CLASSIFICATION
-* **Definition:** A heterogeneous group of autosomal recessive lysosomal storage disorders.
+* **Definition:** A heterogeneous group of autosomal recessive [[Metabolic Disorders/Lysosomal Storage Disorders\|lysosomal storage disorders]].
 * **Historical Classification:** Types A, B, C, and D.
 * **Modern Classification (Based on biochemical defect):**
     1.  **Acid Sphingomyelinase Deficiency (ASMD):** Encompasses NPD Types **A** and **B**. Caused by deficiency of acid sphingomyelinase (ASM).
@@ -41,7 +41,7 @@
 * **Neurologic:** **Normal intellect**; usually no primary neurodegeneration (though minor signs may exist).
 * **Visceral:**
     * Significant **Hepatosplenomegaly** (Spleen > Liver).
-    * Liver dysfunction: Fibrosis, cirrhosis, portal hypertension.
+    * Liver dysfunction: Fibrosis, cirrhosis, [[Gastrointestinal/Portal Hypertension\|portal hypertension]].
 * **Pulmonary (Major Morbidity):**
     * Interstitial Lung Disease (ILD) due to foam cell infiltration.
     * Recurrent respiratory infections, dyspnea, exercise intolerance.
@@ -57,7 +57,7 @@
 * **Bone Marrow:** Foam cells (Sea-blue histiocytes) – suggestive but not specific.
 
 ### 4. MANAGEMENT (ASMD)
-* **Enzyme Replacement Therapy (ERT):**
+* **[[Genetics/Enzyme Replacement Therapy (ERT)\|Enzyme Replacement Therapy (ERT)]]:**
     * **Olipudase alfa:** Recombinant human acid sphingomyelinase. First and only approved treatment for non-CNS manifestations of ASMD (Type B and visceral Type A).
     * *Effect:* Reduces spleen/liver volume, improves lung function.
 * **Supportive Care:**
@@ -84,7 +84,7 @@ Can present from fetal life to adulthood.
 #### **A. Visceral / Perinatal**
 * **Fetal:** Fetal ascites, **Hydrops fetalis**.
 * **Neonatal:**
-    * **Prolonged Neonatal Jaundice:** Cholestatic jaundice (often transient) is a classic early sign.
+    * **Prolonged Neonatal Jaundice:** [[Gastrointestinal/Cholestatic Jaundice\|Cholestatic jaundice]] (often transient) is a classic early sign.
     * Hepatosplenomegaly (HSM): Can be isolated.
 
 #### **B. Neurologic (The Hallmark)**
@@ -98,7 +98,7 @@ Can present from fetal life to adulthood.
 * **Cognitive:**
     * Pediatric: Developmental delay, regression, school failure.
     * Adult: Early-onset dementia, psychosis, schizophrenia-like syndrome.
-* **Dysphagia/Dysarthria:** Leading to aspiration pneumonia.
+* **Dysphagia/Dysarthria:** Leading to [[Respiratory/Aspiration Pneumonia\|aspiration pneumonia]].
 
 #### **C. Clinical Subtypes by Age**
 * **Early Infantile (<2 yrs):** Delay, hypotonia, HSM.

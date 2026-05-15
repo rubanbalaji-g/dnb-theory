@@ -23,7 +23,7 @@ Clinical spectrum ranges from severe (neuropathic) to attenuated (somatic).
 * **Neurologic:**
     * Significant developmental delay and intellectual disability.
     * Behavioral problems: Hyperactivity, aggression, sleep disturbances.
-    * Communicating hydrocephalus.
+    * Communicating [[Neurology/Hydrocephalus\|hydrocephalus]].
 * **Somatic:** Similar to Hurler syndrome but generally slower progression.
 
 ### B. Attenuated Form (Mild Hunter)
@@ -51,7 +51,7 @@ Clinical spectrum ranges from severe (neuropathic) to attenuated (somatic).
 ## 5. DIAGNOSIS
 * **Screening:**
     * **Urine GAGs:** Quantitative elevation of **Dermatan Sulfate** and **Heparan Sulfate**.
-    * Newborn Screening (NBS): Available in some regions (assaying enzyme activity in dried blood spots).
+    * [[Neonatalogy/Newborn Screening\|Newborn Screening]] (NBS): Available in some regions (assaying enzyme activity in dried blood spots).
 * **Confirmatory (Gold Standard):**
     * **Enzyme Assay:** Deficient **iduronate-2-sulfatase** activity in plasma, leukocytes, or fibroblasts.
     * *Note:* Normal activity of other sulfatases (to rule out Multiple Sulfatase Deficiency).
@@ -60,7 +60,7 @@ Clinical spectrum ranges from severe (neuropathic) to attenuated (somatic).
 ## 6. MANAGEMENT
 **Multidisciplinary approach is mandatory.**
 
-### A. Enzyme Replacement Therapy (ERT)
+### A. [[Genetics/Enzyme Replacement Therapy (ERT)\|Enzyme Replacement Therapy (ERT)]]
 * **Drug:** **Idursulfase** (Recombinant human iduronate-2-sulfatase).
 * **Efficacy:** Improves somatic features (liver/spleen volume), respiratory function (FVC), and walking distance (6MWT).
 * **Limitation:** Does **not** cross the blood-brain barrier; ineffective for cognitive decline in severe forms.
@@ -72,7 +72,7 @@ Clinical spectrum ranges from severe (neuropathic) to attenuated (somatic).
 
 ### C. Supportive & Surgical
 * **Airway:** CPAP/BiPAP for sleep apnea; tonsillectomy/adenoidectomy; tracheostomy if severe.
-* **Neurologic:** VP shunt for hydrocephalus.
+* **Neurologic:** VP shunt for [[Neurology/Hydrocephalus\|hydrocephalus]].
 * **Orthopedic:** Management of contractures; carpal tunnel release.
 * **Hernia repair.**
 

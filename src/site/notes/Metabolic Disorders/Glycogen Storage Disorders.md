@@ -2,7 +2,7 @@
 {"dg-publish":true,"uplink":"/metabolic-disorders","uptext":"Back to Index (Metabolic Disorders)","permalink":"/metabolic-disorders/glycogen-storage-disorders/","dgPassFrontmatter":true}
 ---
 
-# Glycogen Storage Disorders
+# [[Metabolic Disorders/Glycogen Storage Disorders\|Glycogen Storage Disorders]]
 
 ## Definition And Pathophysiology
 
@@ -65,7 +65,7 @@
 ### GSD Type V (McArdle Disease)
 
 - **Defect:** Muscle phosphorylase.
-- **Clinical Features:** Exercise intolerance, muscle cramps, myalgia, and recurrent myoglobinuria carrying a risk of acute kidney injury.
+- **Clinical Features:** Exercise intolerance, muscle cramps, myalgia, and recurrent myoglobinuria carrying a risk of [[Nephrology/Acute Kidney Injury\|acute kidney injury]].
 - **Second Wind Phenomenon:** Improved exercise tolerance after approximately 10 minutes due to the metabolic switch to fatty acid oxidation.
 
 ## Diagnostic Evaluation
@@ -96,9 +96,9 @@
     - Continuous nocturnal gastric drip feeding for infants.
     - Strict avoidance of fructose, sucrose, and galactose in GSD I, as these cannot be converted to glucose and exacerbate lactic acidosis.
 - **Pharmacotherapy:** Allopurinol for hyperuricemia, lipid-lowering agents (fibrates/statins) for hypertriglyceridemia, and ACE inhibitors for microalbuminuria. Granulocyte Colony-Stimulating Factor (G-CSF) or Empagliflozin is used for neutropenia in GSD Ib.
-- **Surgical:** Liver transplantation is curative for the metabolic defect and indicated for poor control or development of multiple adenomas.
+- **Surgical:** [[Gastrointestinal/Liver Transplantation\|Liver transplantation]] is curative for the metabolic defect and indicated for poor control or development of multiple adenomas.
 
 ### Muscle GSDs
 
-- **Pompe Disease (Type II):** Enzyme Replacement Therapy (ERT) using Alglucosidase alfa is lifesaving for the infantile form and stabilizes late-onset forms. Immunomodulation is required for Cross-Reactive Immunologic Material (CRIM)-negative patients to prevent neutralizing antibody formation.
+- **Pompe Disease (Type II):** [[Genetics/Enzyme Replacement Therapy (ERT)\|Enzyme Replacement Therapy (ERT)]] using Alglucosidase alfa is lifesaving for the infantile form and stabilizes late-onset forms. Immunomodulation is required for Cross-Reactive Immunologic Material (CRIM)-negative patients to prevent neutralizing antibody formation.
 - **McArdle Disease (Type V):** Avoidance of strenuous anaerobic exercise. Pre-exercise administration of oral sucrose helps induce the "second wind" phenomenon.

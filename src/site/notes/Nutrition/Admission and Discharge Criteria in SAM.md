@@ -94,6 +94,6 @@ To ensure sustainable recovery and prevent relapse, the following steps are mand
 - **Micronutrient Supplementation:** Ensure the child is prescribed Iron and Folic acid to continue at home (Iron for 2-3 months).
 - **Deworming:** Administer a single dose of Albendazole (200 mg for 12-23 months; 400 mg for > 24 months) if not given on admission.
 - **Immunization:** Update all due vaccines.
-- **Dietary Counseling:** Teach the mother [[About\|about]] energy-dense home foods (katori-spoon feeding), hygiene, and frequency of feeding.
+- **Dietary Counseling:** Teach the mother about energy-dense home foods (katori-spoon feeding), hygiene, and frequency of feeding.
 - **Sensory Stimulation:** Train the mother in play therapy and structured play activities (15-30 min/day) to support mental development,.
 - **Follow-up Plan:** Schedule a follow-up visit (usually 1 week after discharge, then every 2 weeks/monthly).

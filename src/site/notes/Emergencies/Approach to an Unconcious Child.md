@@ -88,13 +88,13 @@ H1 --> I
 
 |Category|Primary Sub-Categories|Specific Etiologies|
 |---|---|---|
-|**Direct Causes (CNS Insult)**|Infections|Bacterial Meningitis, Viral Meningoencephalitis, Tubercular Meningitis, Cerebral Malaria, Brain Abscess.|
+|**Direct Causes (CNS Insult)**|Infections|Bacterial [[Neurology/Meningitis\|Meningitis]], Viral Meningoencephalitis, [[Neurology/Tubercular Meningitis\|Tubercular Meningitis]], [[Infectious Diseases/Cerebral Malaria\|Cerebral Malaria]], [[Neurology/Brain Abscess\|Brain Abscess]].|
 ||Vascular|Arterial Ischemic Stroke, Cerebral Venous Sinus Thrombosis, Subarachnoid Hemorrhage, Intracranial Hemorrhage.|
-||Space-Occupying Lesions|Central Nervous System Neoplasms, Obstructive Hydrocephalus.|
-||Paroxysmal Disorders|Status Epilepticus, Non-Convulsive Status Epilepticus, Todd’s Paralysis, Acute Confusional Migraine.|
+||Space-Occupying Lesions|Central Nervous System Neoplasms, Obstructive [[Neurology/Hydrocephalus\|Hydrocephalus]].|
+||Paroxysmal Disorders|Status Epilepticus, Non-Convulsive Status Epilepticus, Todd’s Paralysis, Acute Confusional [[Neurology/Migraine\|Migraine]].|
 ||Post-Infectious|Acute Disseminated Encephalomyelitis, Post-Immunization Encephalopathy.|
 |**Indirect Causes (Non-CNS)**|Hypoxic-Ischemic|Cardiac Arrest, Profound Shock, Near-Drowning.|
-||Toxic-Metabolic|Hypoglycemia, Diabetic Ketoacidosis, Inborn Errors Of Metabolism, Hepatic Encephalopathy, Uremic Encephalopathy.|
+||Toxic-Metabolic|Hypoglycemia, Diabetic Ketoacidosis, Inborn Errors Of Metabolism, [[Gastrointestinal/Hepatic Encephalopathy\|Hepatic Encephalopathy]], Uremic Encephalopathy.|
 ||Drugs And Toxins|Sedatives, Opioids, Tricyclic Antidepressants, Organophosphates, Lead Encephalopathy, Snake Bite.|
 ||Systemic/Endocrine|Hypertensive Encephalopathy, Severe Dyselectrolytemia, Sepsis.|
 
@@ -103,7 +103,7 @@ H1 --> I
 ### Clinical History Clues
 
 - Sudden Onset Strongly Suggests Trauma, Spontaneous Intracranial Hemorrhage, Seizures, Or Drug Overdose.
-- Gradual Progressive Onset Indicates Expanding Mass Lesion, Hydrocephalus, Or Indolent Infection Like Tubercular Meningitis.
+- Gradual Progressive Onset Indicates Expanding Mass Lesion, [[Neurology/Hydrocephalus\|Hydrocephalus]], Or Indolent Infection Like [[Neurology/Tubercular Meningitis\|Tubercular Meningitis]].
 - Preceding Fever Indicates Acute Infectious Etiology Or Infection-Triggered Syndromes Like Reye's Syndrome.
 - Recurrent Episodic Encephalopathy With Developmental Delay Points Toward Inborn Error Of Metabolism.
 
@@ -114,11 +114,11 @@ H1 --> I
 |**Vitals**|Tachycardia/Tachypnea|Fever, Shock, Acidosis.|
 ||Cushing's Triad|Hypertension, Bradycardia, Irregular Breathing Indicate Late Brain Herniation.|
 ||Hypothermia|Hypoglycemia, Sepsis, Sedative Intoxication.|
-|**Skin/Mucosa**|Pallor|Intracranial Bleed, Cerebral Malaria.|
-||Icterus|Hepatic Encephalopathy, Complicated Malaria.|
-||Petechial Rashes|Meningococcemia, Dengue.|
+|**Skin/Mucosa**|Pallor|Intracranial Bleed, [[Infectious Diseases/Cerebral Malaria\|Cerebral Malaria]].|
+||Icterus|[[Gastrointestinal/Hepatic Encephalopathy\|Hepatic Encephalopathy]], Complicated [[Infectious Diseases/Malaria\|Malaria]].|
+||Petechial Rashes|Meningococcemia, [[Infectious Diseases/Dengue\|Dengue]].|
 |**Breath Odor**|Fruity Odor|Diabetic Ketoacidosis.|
-||Musty/Fishy Odor|Hepatic Encephalopathy.|
+||Musty/Fishy Odor|[[Gastrointestinal/Hepatic Encephalopathy\|Hepatic Encephalopathy]].|
 ||Garlic Odor|Organophosphate Poisoning.|
 
 ### Targeted Neurological Examination
@@ -145,7 +145,7 @@ H1 --> I
 - Perform Immediate Bedside Blood Glucose Test Via Reagent Strip.
 - Send Complete Blood Count, Arterial Blood Gas, Lactate, And Comprehensive Biochemistry.
 - Include Serum Electrolytes, Renal Function Tests, And Liver Function Tests.
-- Obtain Blood Cultures, Malaria Rapid Diagnostic Tests, Peripheral Smears, And Tropical Fever Serology In Febrile Children.
+- Obtain Blood Cultures, [[Infectious Diseases/Malaria\|Malaria]] Rapid Diagnostic Tests, Peripheral Smears, And Tropical Fever Serology In Febrile Children.
 - Evaluate Urine Dipstick For Ketones And Reducing Sugars.
 
 ### Neuroimaging And Lumbar Puncture
@@ -182,9 +182,9 @@ H1 --> I
 
 |Clinical Suspicion|Targeted Empiric Therapy|
 |---|---|
-|**Acute Meningitis**|Intravenous Ceftriaxone Combined With Vancomycin.|
+|**Acute [[Neurology/Meningitis\|Meningitis]]**|Intravenous Ceftriaxone Combined With Vancomycin.|
 |**Herpes Encephalitis**|Intravenous Acyclovir 10-15 mg/kg/dose Every 8 Hours.|
-|**Cerebral Malaria**|Intravenous Artesunate.|
+|**[[Infectious Diseases/Cerebral Malaria\|Cerebral Malaria]]**|Intravenous Artesunate.|
 |**Opiate Overdose**|Intravenous Naloxone 0.1 mg/kg.|
 |**Benzodiazepine Toxicity**|Intravenous Flumazenil.|
-|**Inflammatory / Specific Infections**|Intravenous Corticosteroids Indicated For Tubercular Meningitis, Acute Disseminated Encephalomyelitis, Pyogenic Meningitis.|
+|**Inflammatory / Specific Infections**|Intravenous Corticosteroids Indicated For [[Neurology/Tubercular Meningitis\|Tubercular Meningitis]], Acute Disseminated Encephalomyelitis, Pyogenic [[Neurology/Meningitis\|Meningitis]].|

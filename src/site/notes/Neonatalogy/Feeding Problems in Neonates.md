@@ -86,7 +86,7 @@ Breastfeeding is the gold standard for infant nutrition. However, technical and 
 **Causes:** Pain (birth trauma), illness (blocked nose, sepsis), or fast let-down (choking).
 **Management:**
 * Treat underlying cause (saline drops for nose).
-* **Skin-to-skin contact** (Kangaroo Mother Care) to promote instinctual feeding.
+* **Skin-to-skin contact** ([[Neonatalogy/Kangaroo Mother Care\|Kangaroo Mother Care]]) to promote instinctual feeding.
 * Feed in a semi-reclined position if let-down is strong.
 
 ### D. Cleft Lip and Palate
@@ -97,7 +97,7 @@ Breastfeeding is the gold standard for infant nutrition. However, technical and 
 
 ### E. Preterm / Weak Suck
 * **Management:**
-    * **Kangaroo Mother Care (KMC)** to promote reflexes.
+    * **[[Neonatalogy/Kangaroo Mother Care\|Kangaroo Mother Care]] (KMC)** to promote reflexes.
     * Express breast milk (EBM) via tube/spoon until suck-swallow-breathe coordination matures (~34 weeks).
 
 ---

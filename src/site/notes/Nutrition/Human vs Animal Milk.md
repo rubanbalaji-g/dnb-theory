@@ -21,7 +21,7 @@ Human milk is "species-specific," uniquely adapted to meet the nutritional, immu
 
 ### 2. Lipid Composition
 
-- **Quantity:** Both milks contain similar total fat (~3.5–3.8 g/100 ml), providing [[About\|about]] 50% of total energy.
+- **Quantity:** Both milks contain similar total fat (~3.5–3.8 g/100 ml), providing about 50% of total energy.
 - **Quality:**
     - **Essential Fatty Acids (EFA):** Human milk is rich in Linoleic acid (LA) and Alpha-linolenic acid (ALA). It has a Polyunsaturated/Saturated (P/S) ratio of **1.2:1**, whereas cow's milk has a ratio of **1:2** (mostly saturated fats).
     - **LCPs (DHA & ARA):** Human milk contains Long-Chain Polyunsaturated Fatty Acids (Docosahexaenoic acid and Arachidonic acid), critical for brain myelination and retinal development. These are virtually absent in cow's milk.
@@ -65,7 +65,7 @@ Human milk is "species-specific," uniquely adapted to meet the nutritional, immu
 
 ## Difference in Milk Composition: Preterm vs. Term
 
-Mothers delivering prematurely produce "Preterm Milk" (PTM), which is biologically adapted to meet the rapid growth needs and immature physiology of the preterm infant. This difference typically persists for [[About\|about]] 4 weeks.
+Mothers delivering prematurely produce "Preterm Milk" (PTM), which is biologically adapted to meet the rapid growth needs and immature physiology of the preterm infant. This difference typically persists for about 4 weeks.
 
 ### 1. Protein and Nitrogen
 

@@ -17,7 +17,7 @@
 
 ## Basic Steps in the Practice of EBM
 
-- **Step 1: Ask (Formulate the question):** The first step involves converting the need for information into an answerable, structured clinical question. This is commonly done using the PICO framework (Population/Patient, Intervention, Comparison, Outcome).
+- **Step 1: Ask (Formulate the question):** The first step involves converting the need for information into an answerable, structured clinical question. This is commonly done using the [[Statistics/PICO Framework\|PICO framework]] (Population/Patient, Intervention, Comparison, Outcome).
 - **Step 2: Acquire (Search for evidence):** This step requires systematically searching the medical literature and clinical databases to retrieve the best available evidence to answer the formulated clinical question.
 - **Step 3: Appraise (Critically evaluate):** The retrieved evidence must be critically appraised for its validity (closeness to the truth) and its impact (the size of the effect and precision of the estimate).
 - **Step 4: Apply (Implement the findings):** The appraised evidence is then integrated with the physician's own clinical expertise and the patient's unique biological characteristics, values, and clinical circumstances to make a shared healthcare decision.

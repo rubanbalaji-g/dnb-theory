@@ -38,9 +38,9 @@
 
 ### Syndromic Growth Disorders
 
-- **Turner Syndrome:** Referral to a pediatric endocrinologist must occur within the first year of life for diagnosed infants, or as soon as possible for those diagnosed in childhood and adolescence, to initiate human growth hormone therapy and plan for eventual estrogen replacement therapy.
+- **[[Genetics/Turner Syndrome\|Turner Syndrome]]:** Referral to a pediatric endocrinologist must occur within the first year of life for diagnosed infants, or as soon as possible for those diagnosed in childhood and adolescence, to initiate human growth hormone therapy and plan for eventual estrogen replacement therapy.
 - **Noonan Syndrome:** Referral to an endocrinologist is required if there is clear evidence of growth failure or concurrent symptoms of hypothyroidism.
-- **Genetic Confirmation:** Referral to a clinical geneticist is appropriate for families of children diagnosed with syndromic growth disorders (such as Down syndrome or Turner syndrome) to address parental concerns, discuss long-term expectations, and provide genetic counseling.
+- **Genetic Confirmation:** Referral to a clinical geneticist is appropriate for families of children diagnosed with syndromic growth disorders (such as Down syndrome or [[Genetics/Turner Syndrome\|Turner syndrome]]) to address parental concerns, discuss long-term expectations, and provide genetic counseling.
 
 ### Head Circumference and Neurodevelopmental Referrals
 

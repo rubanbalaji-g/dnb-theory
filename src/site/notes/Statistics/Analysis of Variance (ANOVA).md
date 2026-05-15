@@ -4,7 +4,7 @@
 
 ### Definition and Purpose
 
-- Analysis of variance (ANOVA) is a commonly used statistical methodology for partitioning the total variance within a data set into components, allowing researchers to estimate and test hypotheses about population means.
+- [[Statistics/Analysis of Variance (ANOVA)\|Analysis of variance (ANOVA)]] is a commonly used statistical methodology for partitioning the total variance within a data set into components, allowing researchers to estimate and test hypotheses about population means.
 - It is primarily applied to examine the difference in means of three or more independent groups or populations.
 - The fundamental null hypothesis ($H_0$) in ANOVA states that all population means are identical ($H_0: \mu_1 = \mu_2 = \dots = \mu_g$), meaning any observed variation between the groups is solely attributable to random sampling errors.
 - The alternative hypothesis ($H_1$) dictates that at least one group mean is significantly different from the others.

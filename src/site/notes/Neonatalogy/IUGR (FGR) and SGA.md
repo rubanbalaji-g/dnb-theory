@@ -43,7 +43,7 @@
 - reduced levels of thyroid hormones
 ## Pathogenesis
 - reduction in umbilical blood flow - redistribution of blood from liver - reduction of abdominal circumference
-- elevated placental resistance - decreased umbilical artery end-diastolic flow - increased pulsatility index - later can cause absent end-diastolic flow or reversed end-diastolic flow
+- elevated placental resistance - decreased umbilical artery end-diastolic flow - increased pulsatility [[Statistics/Index\|index]] - later can cause absent end-diastolic flow or reversed end-diastolic flow
 - redirection of blood to vital organs - end-diastolic flow increases in cerebral arteries - <span style=color:pink>brain sparing effect</span>
 
 ### difference between early FGR and late FGR
@@ -108,7 +108,7 @@
 ### Neonatal management
 - High risk of short and long term complications
 - 20-30% of recurrence in subsequent pregnancies
-- feed to be started with high index of suspection
+- feed to be started with high [[Statistics/Index\|index]] of suspection
 ### Prevention
 - optimizing maternal age of delivery
 - maternal nutrition
@@ -143,8 +143,8 @@
  6. Detect postpartum complications in the mother and refer appropriately.
  7. Counsel the couple to choose an appropriate family planning method.
  8. Provide immediate newborn care in case of those deliveries that do not occur  in institutions
-### Kangaroo mother care
-- 4 components of kangaroo mother care
+### [[Neonatalogy/Kangaroo Mother Care\|Kangaroo mother care]]
+- 4 components of [[Neonatalogy/Kangaroo Mother Care\|kangaroo mother care]]
 	- kangaroo position
 		- skin to skin contact
 		- semi-reclined position of mother
@@ -196,7 +196,7 @@
 		- Fortification with HMF and preterm formula
 		- preterm babies have inadequate source of following nutrients and hence needs to be supplemented
 			- calcium and phosphate - Osteocalcium 5-6 ml/kg/day
-			- Vitamin A, B, zinc - Visyneral/ Dexvita 1ml/day
+			- [[Nutrition/Vitamin A\|Vitamin A]], B, zinc - Visyneral/ Dexvita 1ml/day
 			- Vitamin D3 - Arbivit / sunsips (800/1) - 0.5 ml/day
 			- Iron - started at 4-6 weeks of life - Tonoferon 2 drops/kg/day
 			- Folate - Folvite / folium 0.1 ml/day
@@ -206,7 +206,7 @@
 > [!faq] PYQ
 > 1. Interventions to improve neurodevelopmental outcome of LBW infants at 1 year of age (DNB 2017/2)
 
- - Family centric developmentally supportive care
+ - Family centric [[Neonatalogy/Developmentally Supportive Care\|developmentally supportive care]]
 	- positioning of baby 'as if in-utero' - universal flexion, achieved with swaddling, soft boundaries and a padded foot wall
 	- clustering of activities like pricking for sample, diaper change, examination of newborn
 	- protected sleep - prone positioning, use of dim light, reduced noise levels, use of separate room for each neonate
@@ -231,15 +231,15 @@
 - **Normal vital signs** (heart rate, respiratory rate, oxygen saturation).
 ### Parental Readiness
 - Parents/caregivers trained in:
-  - **Kangaroo Mother Care (KMC)**
+  - **[[Neonatalogy/Kangaroo Mother Care\|Kangaroo Mother Care]] (KMC)**
   - **Breastfeeding techniques**
   - **Danger signs recognition**
   - **Hygiene and thermal care**
 - Confident and capable of caring for the baby at home.
 ### Follow-Up Plan
 - A clear follow-up schedule including:
-  - **Home-Based Newborn Care (HBNC)** visits by ASHA workers.
-  - Scheduled visits to the **nearest health facility or SNCU follow-up clinic**.
+  - **[[Social Pediatics/Home-Based Newborn Care (HBNC)\|Home-Based Newborn Care (HBNC)]]** visits by ASHA workers.
+  - Scheduled visits to the **nearest health facility or [[Neonatalogy/SNCU\|SNCU]] follow-up clinic**.
 ### Immunization
 - Baby should have received **age-appropriate immunizations** before discharge.
 

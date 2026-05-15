@@ -19,7 +19,7 @@
 | **X-Axis**          | Represents the follow-up time (e.g. days, months, or years) starting from a defined baseline.                                                                                                             |
 | **Starting Point**  | The curve universally begins at a probability of 1.0 (100%) at time zero, as all recruited participants are initially free of the event.                                                                  |
 | **Censoring Ticks** | Short vertical lines or upward ticks placed on the horizontal lines indicate censored patients (those who drop out, are lost to follow-up, or reach the end of the study without experiencing the event). |
-| **Dashed Lines**    | Often plotted on either side of the main survival curve to represent the 95% Confidence Interval (CI) of the survival estimate.                                                                           |
+| **Dashed Lines**    | Often plotted on either side of the main survival curve to represent the 95% [[Statistics/Confidence Interval\|Confidence Interval]] (CI) of the survival estimate.                                                                           |
 
 ### The "Stair and Step" Mechanism
 
@@ -37,7 +37,7 @@
 - A critical strength of KM analysis is its ability to handle incomplete data through a concept called "censoring".
 - Censored patients contribute valuable data to the "at-risk" denominator up until the exact point they are censored, after which they are removed from the calculation pool.
 - Because censored patients sequentially drop out of the at-risk pool, the survival estimates become progressively less precise as time advances.
-- This loss of precision is visually reflected by the progressive widening of the 95% Confidence Interval (the dashed lines) towards the right side of the plot.
+- This loss of precision is visually reflected by the progressive widening of the 95% [[Statistics/Confidence Interval\|Confidence Interval]] (the dashed lines) towards the right side of the plot.
 
 ### Interpretation and Clinical Utility
 

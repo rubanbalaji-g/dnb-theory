@@ -15,12 +15,12 @@
 |:--|:--|
 |**Socioeconomic Factors**|Poverty, hunger, and scarcity of opportunities significantly restrict access to adequate nutrition and stimulation.|
 |**Parental and Caregiver Factors**|Suboptimal parenting, dysfunctional parent-child relationships, maternal depression (which leads to unresponsive caregiving), and lack of emotional warmth or support.|
-|**Knowledge and Feeding Practices**|Misperceptions or lack of parental knowledge regarding appropriate diet, failure to establish breastfeeding, feeding diluted formulae, and inappropriate complementary feeding practices.|
+|**Knowledge and Feeding Practices**|Misperceptions or lack of parental knowledge regarding appropriate diet, failure to establish breastfeeding, feeding diluted formulae, and inappropriate [[Nutrition/Complementary Feeding\|complementary feeding]] practices.|
 |**Environmental Stressors**|Domestic and community violence, physical or sexual abuse, institutionalization (e.g., orphanages), and overall lack of a nurturing, secure environment.|
 
-### Pathophysiology of Psychosocial Dwarfism
+### Pathophysiology of Psychosocial [[Endocrinology/Dwarfism\|Dwarfism]]
 
-- Severe and prolonged non-organic FTT can manifest as psychosocial dwarfism, alternatively known as emotional deprivation dwarfism, maternal deprivation dwarfism, or hyperphagic short stature.
+- Severe and prolonged non-organic FTT can manifest as psychosocial [[Endocrinology/Dwarfism\|dwarfism]], alternatively known as emotional deprivation [[Endocrinology/Dwarfism\|dwarfism]], maternal deprivation [[Endocrinology/Dwarfism\|dwarfism]], or hyperphagic short stature.
 - It is classically seen in children living in unhappy home environments where their fundamental emotional needs are neglected.
 - The chronic stress and lack of affection directly prejudice the neurochemical regulation of growth hormone release from the pituitary gland.
 - This emotional deprivation results in functional hypopituitarism, which is biochemically characterized by low insulin-like growth factor-1 (IGF-1) levels and an inadequate response of growth hormone (GH) to provocative stimulation tests.

@@ -10,17 +10,17 @@
 - Pericardial space: Contains small amount of serous fluid between layers. Facilitates smooth cardiac movement.
 - Function: Optimizes diastolic coupling between right and left-sided cardiac chambers through transmission of intracavitary filling pressures.
 
-## Acute Pericarditis
+## Acute [[Cardiology/Pericarditis\|Pericarditis]]
 ### Definition
 - Inflammation of pericardial layers.
 - Episode lasting <4-6 weeks.
-- Incessant pericarditis: Lasts >4-6 weeks without remission.
-- Recurrent pericarditis: New signs/symptoms following symptom-free interval of 4-6 weeks.
-- Chronic pericarditis: Lasts >3 months.
+- Incessant [[Cardiology/Pericarditis\|pericarditis]]: Lasts >4-6 weeks without remission.
+- Recurrent [[Cardiology/Pericarditis\|pericarditis]]: New signs/symptoms following symptom-free interval of 4-6 weeks.
+- Chronic [[Cardiology/Pericarditis\|pericarditis]]: Lasts >3 months.
 ### Etiology
 | Category                         | Agents / Conditions                                                                                                                                                                                                   |
 | :------------------------------- | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Viral**                        | Enteroviruses (Coxsackievirus, echoviruses), Influenza, Herpesviruses (EBV, CMV, HHV-6), Adenovirus, Varicella, Mumps, Rubella, Parvovirus B19, Hepatitis B/C, HIV, COVID-19. Most common cause in developed nations. |
+| **Viral**                        | Enteroviruses (Coxsackievirus, echoviruses), Influenza, Herpesviruses (EBV, CMV, HHV-6), Adenovirus, Varicella, Mumps, Rubella, Parvovirus B19, Hepatitis B/C, HIV, [[Infectious Diseases/COVID-19\|COVID-19]]. Most common cause in developed nations. |
 | **Bacterial**                    | _Mycobacterium tuberculosis_ (most frequent worldwide/developing nations), _Staphylococcus aureus_, _Streptococcus pneumoniae_, _Haemophilus influenzae_, Meningococcus, _Mycoplasma_.                                |
 | **Fungal/Parasitic**             | _Aspergillus_, _Candida_, _Histoplasma_, _Toxoplasma_, _Echinococcus_, _Trypanosoma cruzi_.                                                                                                                           |
 | **Autoimmune/Connective Tissue** | Acute rheumatic fever, Systemic Lupus Erythematosus (SLE), Juvenile Idiopathic Arthritis (JIA), Scleroderma, Sjogren syndrome, Systemic vasculitides. Periodic fever syndromes (Familial Mediterranean Fever, TRAPS). |
@@ -56,23 +56,23 @@ Diagnosis requires presence of at least two of four criteria:
 
 1. Pleuritic chest pain.
 2. Pericardial friction rub.
-3. Characteristic electrocardiogram (ECG) changes.
+3. Characteristic electrocardiogram ([[Misc/ECG\|ECG]]) changes.
 4. New or worsening pericardial effusion.
 
 ### Investigations
 
-#### Electrocardiogram (ECG)
+#### Electrocardiogram ([[Misc/ECG\|ECG]])
 
 - Widespread or localized changes. Characteristic sequential changes noted in 60% of patients.
 - Sinus tachycardia frequently present. Low QRS voltage with large effusion.
 - Electrical alternans: Specific but insensitive sign. Related to anterior-posterior cardiac motion within effusion.
 
-| Stage       | ECG Findings                                                                                                                                                |
+| Stage       | [[Misc/ECG\|ECG]] Findings                                                                                                                                                |
 | :---------- | :---------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Stage 1** | PR segment depression. Generalized concave ST segment elevation in lateral/inferior leads (I, II, aVF, aVL, V4-V6). Reciprocal ST depression in aVR and V1. |
 | **Stage 2** | ST segment normalizes. J points on baseline. T wave amplitude begins flattening.                                                                            |
 | **Stage 3** | ST segment remains normal. T wave inversion in lateral/inferior leads (aVF, aVL, V4-V6).                                                                    |
-| **Stage 4** | Normalization of ECG. Some T wave changes may persist.                                                                                                      |
+| **Stage 4** | Normalization of [[Misc/ECG\|ECG]]. Some T wave changes may persist.                                                                                                      |
 
 #### Laboratory Biomarkers
 
@@ -82,7 +82,7 @@ Diagnosis requires presence of at least two of four criteria:
 
 #### Echocardiography
 
-- Primary imaging modality. Normal in up to 40% of acute pericarditis cases.
+- Primary imaging modality. Normal in up to 40% of acute [[Cardiology/Pericarditis\|pericarditis]] cases.
 - Identifies effusion size. Classifications based on echo-free space at end-diastole: trivial (systole only), small (<10 mm), moderate (10-20 mm), large (21-25 mm), very large (>25 mm).
 - Excludes complications: Identifies concurrent ventricular dysfunction (myopericarditis), signs of tamponade, or constrictive physiology.
 
@@ -105,7 +105,7 @@ Diagnosis requires presence of at least two of four criteria:
 | :---------------------------- | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **NSAIDs + Colchicine**       | First-line therapy. <br>Colchicine disrupts tubulin, inhibits neutrophil chemotaxis/mobility. <br>Proven efficacy preventing recurrences.                                                                                                            |
 | **Corticosteroids**           | E.g., Prednisone 0.2-0.5 mg/kg/day. <br>Associated with increased risk of disease recurrence, prolonged tapering, and corticosteroid-dependence. <br>Reserved for incomplete response, failure of first-line agents, or known autoimmune etiologies. |
-| **IL-1 Receptor Antagonists** | Anakinra, Rilonacept. <br>Highly effective in refractory, colchicine-resistant, or corticosteroid-dependent recurrent pericarditis.                                                                                                                  |
+| **IL-1 Receptor Antagonists** | Anakinra, Rilonacept. <br>Highly effective in refractory, colchicine-resistant, or corticosteroid-dependent recurrent [[Cardiology/Pericarditis\|pericarditis]].                                                                                                                  |
 
 #### Procedural and Lifestyle Management
 
@@ -114,32 +114,32 @@ Diagnosis requires presence of at least two of four criteria:
 
 ### Specific Subtypes
 
-#### Viral Pericarditis
+#### Viral [[Cardiology/Pericarditis\|Pericarditis]]
 
 - Self-limited disease. Mnemonic: Enteroviruses, Influenza, Herpesviruses, Adenovirus.
 - Treatment: Symptomatic management. NSAIDs + Colchicine. Corticosteroids generally contraindicated.
 
-#### Bacterial (Purulent) Pericarditis
+#### Bacterial (Purulent) [[Cardiology/Pericarditis\|Pericarditis]]
 
 - Severe, life-threatening. Fulminant course leading to tamponade.
 - Organisms: _Staphylococcus aureus_ (most common, ~50%), _H. influenzae_, _S. pneumoniae_.
 - Presentation: High fever, tachycardia out of proportion, hypotension, toxemia.
-- Management: Urgent pericardiocentesis/surgical drainage mandatory. Fibrinolysis (streptokinase) may prevent organization. Broad-spectrum IV antibiotics (penicillinase-resistant penicillin + 3rd-generation cephalosporin + Vancomycin for MRSA risk) for 3-4 weeks. High risk of subsequent constrictive pericarditis.
+- Management: Urgent pericardiocentesis/surgical drainage mandatory. Fibrinolysis (streptokinase) may prevent organization. Broad-spectrum IV antibiotics (penicillinase-resistant penicillin + 3rd-generation cephalosporin + Vancomycin for MRSA risk) for 3-4 weeks. High risk of subsequent constrictive [[Cardiology/Pericarditis\|pericarditis]].
 
-#### Tuberculous Pericarditis
+#### Tuberculous [[Cardiology/Pericarditis\|Pericarditis]]
 
 - Most common cause in developing nations. Subacute/insidious onset (fever, night sweats, weight loss).
 - Diagnosis: Serosanguinous/hemorrhagic fluid. Lymphocytic predominance. Elevated Adenosine Deaminase (ADA) level (30-60 U/L). Acid-fast bacilli on auramine-rhodamine stain.
-- Treatment: Multi-drug regimen. Rifampin, Isoniazid, Pyrazinamide, Ethambutol for 2 months. Followed by 4 months Isoniazid + Rifampin. High risk of constrictive pericarditis development.
+- Treatment: Multi-drug regimen. Rifampin, Isoniazid, Pyrazinamide, Ethambutol for 2 months. Followed by 4 months Isoniazid + Rifampin. High risk of constrictive [[Cardiology/Pericarditis\|pericarditis]] development.
 
 #### Post-Cardiac Injury Syndrome (PCIS)
 
-- Encompasses Post-pericardiotomy syndrome (PPS), Post-myocardial infarction (Dressler syndrome), post-traumatic pericarditis.
+- Encompasses Post-pericardiotomy syndrome (PPS), Post-myocardial infarction (Dressler syndrome), post-traumatic [[Cardiology/Pericarditis\|pericarditis]].
 - Pathophysiology: Autoimmune trigger from damaged pericardial/pleural tissues and exposed endogenous antigens.
 - Diagnosis: COPPS criteria (needs 2 of 5): Fever, pericardial/pleuritic pain, friction rub, pericardial effusion, pleural effusion with elevated CRP.
 - Treatment: NSAIDs + Colchicine for 4-6 weeks.
 
-## Constrictive Pericarditis
+## Constrictive [[Cardiology/Pericarditis\|Pericarditis]]
 
 ### Definition and Pathophysiology
 
@@ -187,7 +187,7 @@ Diagnosis requires presence of at least two of four criteria:
     - Identifies septal motion, wall tethering, conical ventricular deformity.
     - Late Gadolinium Enhancement (LGE) assesses ongoing pericardial inflammation/fibrosis (guides potential medical management for transient constriction).
 
-#### Cardiac Catheterization
+#### [[Cardiology/Cardiac Catheterization\|Cardiac Catheterization]]
 
 - Gold standard hemodynamic confirmation. Necessary when noninvasive imaging is inconclusive.
 - Equalization of diastolic pressures: Right atrial mean, RV end-diastolic, PA diastolic, and Pulmonary Capillary Wedge Pressure (PCWP) are identical or within 5 mmHg.
@@ -195,15 +195,15 @@ Diagnosis requires presence of at least two of four criteria:
 - RV End-Diastolic Pressure > 1/3 of RV Systolic Pressure.
 - Right-to-left ventricle systolic area ratio > 1.1 during inspiration.
 
-### Differentiating Restrictive Cardiomyopathy vs. Constrictive Pericarditis
+### Differentiating Restrictive Cardiomyopathy vs. Constrictive [[Cardiology/Pericarditis\|Pericarditis]]
 
-|Feature|Restrictive Cardiomyopathy|Constrictive Pericarditis|
+|Feature|Restrictive Cardiomyopathy|Constrictive [[Cardiology/Pericarditis\|Pericarditis]]|
 |:--|:--|:--|
 |**Physical Exam**|Kussmaul sign may be present, prominent Point of Maximal Impulse (PMI).|Kussmaul sign present, absent PMI. Pericardial knock.|
-|**ECG**|Low-voltage QRS unusual.|Low-voltage QRS common.|
+|**[[Misc/ECG\|ECG]]**|Low-voltage QRS unusual.|Low-voltage QRS common.|
 |**Echocardiography**|Marked atrial dilation. Reduced longitudinal strain. Septal e' <6 cm/s. Hepatic vein flow reversal on _inspiration_.|May be enlarged. Respirophasic septal shift. Septal e' >8 cm/s (Annulus reversus). Hepatic vein flow reversal on _expiration_.|
 |**MRI / CT**|Normal pericardium.|Thickened (>4 mm) or calcified pericardium.|
-|**Cardiac Catheterization**|LVEDP exceeds RVEDP by >4 mmHg. RVSP >50 mmHg. No respirophasic changes in wedge-LV gradient.|RVEDP = LVEDP. RVSP <50 mmHg. Dip-and-plateau (square root) sign.|
+|**[[Cardiology/Cardiac Catheterization\|Cardiac Catheterization]]**|LVEDP exceeds RVEDP by >4 mmHg. RVSP >50 mmHg. No respirophasic changes in wedge-LV gradient.|RVEDP = LVEDP. RVSP <50 mmHg. Dip-and-plateau (square root) sign.|
 
 ### Management
 
@@ -214,7 +214,7 @@ Diagnosis requires presence of at least two of four criteria:
 
 #### Surgical Therapy
 
-- **Radical Pericardiectomy:** Definitive and only effective treatment for chronic constrictive pericarditis.
+- **Radical Pericardiectomy:** Definitive and only effective treatment for chronic constrictive [[Cardiology/Pericarditis\|pericarditis]].
 - Approaches: Median sternotomy (preferred, maximizes access for cardiopulmonary bypass), bilateral thoracotomy, clamshell incision.
 - Goal: Complete or wide anterior resection. Frees ventricles, normalizes hemodynamics.
 - Comorbidities: Tricuspid regurgitation is common. Tricuspid valve surgery indicated in ~12% of procedures if moderate-severe regurgitation persists.

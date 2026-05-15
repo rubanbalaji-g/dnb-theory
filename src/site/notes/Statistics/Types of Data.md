@@ -37,7 +37,7 @@
 
 ### Explanatory and Response Variables
 
-- In the context of experimental design and regression analysis, variables are also categorized by their causal or associative relationships.
+- In the context of experimental design and [[Statistics/Regression Analysis\|regression analysis]], variables are also categorized by their causal or associative relationships.
 - **Independent Variable:** Alternatively known as the explanatory or predictor variable; it is the factor that is either manipulated or observed to evaluate its potential effect on another variable.
 - **Dependent Variable:** Alternatively known as the response or outcome variable; it is the observed result or condition that is potentially caused or influenced by changes in the independent variable.
 

@@ -42,7 +42,7 @@
 |**Parallel Design**|Patients are randomized to one of two (or more) treatment arms and each patient receives only one type of treatment.|The most common design; simple to analyze but requires a larger sample size.|
 |**Crossover Design**|Patients receive both treatments in sequence (e.g., Treatment A then B, or B then A) separated by a washout period.|Patients serve as their own controls, requiring fewer participants. Limited to chronic, stable conditions. Risk of "carryover effects" from the first treatment.|
 |**Factorial Design**|Tests the effect of more than one treatment simultaneously (e.g., 2x2 design).|Allows the assessment of potential interactions among the different treatments using a smaller overall sample size.|
-|**Cluster Randomized Trials**|Entire groups or clusters (e.g., families, schools, hospitals) are randomized rather than individuals.|Avoids treatment contamination and is administratively convenient, but requires complex statistical analysis to account for clustering.|
+|**[[Statistics/Cluster Randomized Trials\|Cluster Randomized Trials]]**|Entire groups or clusters (e.g., families, schools, hospitals) are randomized rather than individuals.|Avoids treatment contamination and is administratively convenient, but requires complex statistical analysis to account for clustering.|
 
 ### Blinding and Analysis Strategies
 

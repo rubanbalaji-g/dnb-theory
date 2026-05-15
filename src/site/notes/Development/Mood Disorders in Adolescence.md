@@ -6,7 +6,7 @@
 
 - Mood disorders represent a spectrum of interrelated psychiatric conditions characterized by a fundamental deficit in emotional self-regulation.
 - They are broadly divided into depressive disorders (featuring dysphoric or "low" mood) and bipolar disorders (featuring euphoric or "high" mood alongside depressive episodes).
-- These disorders are highly prevalent in the pediatric population, ranking as the most common psychiatric illnesses following attention-deficit/hyperactivity disorder (ADHD) and anxiety disorders.
+- These disorders are highly prevalent in the pediatric population, ranking as the most common psychiatric illnesses following attention-deficit/hyperactivity disorder ([[Development/ADHD\|ADHD]]) and anxiety disorders.
 - Adolescents typically present with distinct clinical features compared to younger children; whereas young children may present predominantly with somatic complaints and irritability, adolescents are more likely to exhibit overt disturbances in energy, activity levels, sleep, and appetite.
 
 ### Depressive Disorders
@@ -59,8 +59,8 @@
 
 |Category|Specific Differential Diagnoses|
 |:--|:--|
-|**Psychiatric Conditions**|Attention-Deficit/Hyperactivity Disorder (ADHD), Oppositional Defiant Disorder (ODD), Anxiety Disorders, Substance Use Disorders, Adjustment Disorder, Eating Disorders, and Schizophrenia Spectrum Disorders.|
-|**Medical/Systemic Illnesses**|Hypothyroidism, hyperthyroidism, anemia, autoimmune encephalitis, chronic fatigue syndrome, systemic infections, and central nervous system tumors.|
+|**Psychiatric Conditions**|Attention-Deficit/Hyperactivity Disorder ([[Development/ADHD\|ADHD]]), Oppositional Defiant Disorder (ODD), Anxiety Disorders, Substance Use Disorders, Adjustment Disorder, [[Development/Eating Disorders\|Eating Disorders]], and Schizophrenia Spectrum Disorders.|
+|**Medical/Systemic Illnesses**|Hypothyroidism, hyperthyroidism, anemia, [[Neurology/Autoimmune Encephalitis\|autoimmune encephalitis]], chronic fatigue syndrome, systemic infections, and central nervous system tumors.|
 |**Substance/Medication-Induced**|Illicit drugs (cocaine, methamphetamines), alcohol, corticosteroids, beta-blockers, oral contraceptives, and isotretinoin.|
 
 ### Evaluation and Screening
@@ -89,5 +89,5 @@
 #### Pharmacotherapy for Bipolar Disorders
 
 - **Antidepressant Contraindication:** Antidepressants must never be used as monotherapy in confirmed Bipolar I disorder due to the high risk of precipitating an iatrogenic manic switch.
-- **Atypical Antipsychotics:** Considered the first-line pharmacotherapy for acute mania in adolescents. Aripiprazole, Risperidone, Olanzapine, and Quetiapine are highly efficacious but carry significant risks for weight gain, metabolic syndrome, and extrapyramidal symptoms.
+- **Atypical Antipsychotics:** Considered the first-line pharmacotherapy for acute mania in adolescents. Aripiprazole, Risperidone, Olanzapine, and Quetiapine are highly efficacious but carry significant risks for weight gain, [[Endocrinology/Metabolic Syndrome\|metabolic syndrome]], and extrapyramidal symptoms.
 - **Mood Stabilizers:** Lithium is FDA-approved for acute mania and maintenance in patients 12 years and older. It requires strict monitoring of serum trough levels (therapeutic range 0.8–1.2 mEq/L), thyroid function, and renal function. Valproic acid may be used as an alternative or adjunct, requiring monitoring of liver function tests and complete blood counts.

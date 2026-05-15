@@ -4,7 +4,7 @@
 
 ## Core Management Principles
 
-Management of CCF utilizes a structured, four-pronged approach targeting inadequate cardiac output.
+[[Cardiology/Management of CCF\|Management of CCF]] utilizes a structured, four-pronged approach targeting inadequate cardiac output.
 
 - Reduce cardiac work.
 - Augment myocardial contractility.
@@ -53,7 +53,7 @@ Inhibit inappropriate compensatory renin-angiotensin-aldosterone system (RAAS) a
 
 |Class|Agent|Mechanism/Clinical Notes|Dosage|
 |:--|:--|:--|:--|
-|**ACE Inhibitors**|Captopril|Blocks Angiotensin II production. Causes arterial/venous dilation. Monitor for acute kidney injury, dry cough, hypotension. Avoid in dehydration/neonates.|PO: 0.1-0.5 mg/kg/dose (Children).|
+|**ACE Inhibitors**|Captopril|Blocks Angiotensin II production. Causes arterial/venous dilation. Monitor for [[Nephrology/Acute Kidney Injury\|acute kidney injury]], dry cough, hypotension. Avoid in dehydration/neonates.|PO: 0.1-0.5 mg/kg/dose (Children).|
 |**ACE Inhibitors**|Enalapril|Long-acting alternative to Captopril.|PO: 0.08-0.5 mg/kg/day divided q12-24h.|
 |**ARBs**|Losartan|Utilized if ACE inhibitors induce persistent cough.|Titrate per clinical response.|
 |**ARNi**|Sacubitril/Valsartan|Neprilysin inhibitor combined with ARB. Approved for >1 year age with systemic left ventricular systolic dysfunction (EF <=40%).|Dose depends on age/weight.|

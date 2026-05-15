@@ -3,7 +3,7 @@
 ---
 
 ## 1. Definition
-* **Definition**: A group of hereditary, progressive lysosomal storage disorders caused by pathogenic variants in genes encoding lysosomal enzymes required for the degradation of glycosaminoglycans (GAGs).
+* **Definition**: A group of hereditary, progressive [[Metabolic Disorders/Lysosomal Storage Disorders\|lysosomal storage disorders]] caused by pathogenic variants in genes encoding lysosomal enzymes required for the degradation of glycosaminoglycans (GAGs).
 * **Pathophysiology**:
     * Deficiency of specific lysosomal enzymes leads to the failure of stepwise degradation of GAGs (heparan sulfate, dermatan sulfate, keratan sulfate, chondroitin sulfate).
     * Undegraded GAG fragments accumulate within lysosomes, causing lysosomal distension and cellular dysfunction.
@@ -37,9 +37,9 @@
 * **Skeletal**: Short stature, dysostosis multiplex, joint stiffness/contractures, claw hands.
 * **Visceral**: Hepatosplenomegaly, inguinal/umbilical hernias.
 * **Ocular**: Corneal clouding (ground-glass appearance), retinal degeneration, glaucoma.
-* **ENT**: Recurrent otitis media, hearing loss (conductive/sensorineural), noisy breathing, obstructive sleep apnea.
+* **ENT**: Recurrent otitis media, hearing loss (conductive/sensorineural), noisy breathing, [[Respiratory/Obstructive Sleep Apnea\|obstructive sleep apnea]].
 * **Cardiac**: Valvular disease (mitral/aortic regurgitation or stenosis), cardiomyopathy, coronary artery narrowing.
-* **CNS**: Developmental delay, regression, communicating hydrocephalus.
+* **CNS**: Developmental delay, regression, communicating [[Neurology/Hydrocephalus\|hydrocephalus]].
 
 ### B. Specific Syndromes
 * **MPS I (Hurler) [Severe]**:
@@ -55,7 +55,7 @@
     * **"CNS severe, Somatic mild"**: Severe behavioral problems (aggression, hyperactivity), sleep disturbance, progressive dementia.
     * Somatic features are mild; diagnosis often delayed.
 * **MPS IV (Morquio)**:
-    * **"Skeletal severe, CNS normal"**: Short-trunk dwarfism, pectus carinatum, genu valgum.
+    * **"Skeletal severe, CNS normal"**: Short-trunk [[Endocrinology/Dwarfism\|dwarfism]], pectus carinatum, genu valgum.
     * **Critical**: Odontoid hypoplasia leading to atlantoaxial instability and cervical myelopathy (lifesaving fusion needed).
     * Ligamentous laxity (unlike other MPS which have stiffness).
 * **MPS VI (Maroteaux-Lamy)**:
@@ -78,7 +78,7 @@
     * **Enzyme Assay**: Gold standard. Measured in leukocytes, plasma, or fibroblasts.
     * **Molecular Genetics**: Gene panel or sequencing (essential for carrier testing in Hunter/X-linked).
 * **Prenatal Diagnosis**:
-    * Enzyme assay or DNA analysis on Chorionic Villus Sampling (CVS) or amniocytes.
+    * Enzyme assay or DNA analysis on [[Neonatalogy/Chorionic Villus Sampling (CVS)\|Chorionic Villus Sampling (CVS)]] or amniocytes.
 
 ## 7. Management
 * **Definitive Therapy**:
@@ -87,11 +87,11 @@
         * Prevents cognitive decline, improves hepatosplenomegaly, facial features, and cardiac findings.
         * Also used in MPS II, VI, and VII.
         * Does *not* correct skeletal dysplasia effectively.
-    * **Enzyme Replacement Therapy (ERT)**:
+    * **[[Genetics/Enzyme Replacement Therapy (ERT)\|Enzyme Replacement Therapy (ERT)]]**:
         * Recombinant enzymes available for MPS I, II, IV, VI, VII.
         * Improves somatic features (visceromegaly, endurance, apnea) but **does not cross blood-brain barrier** (no effect on CNS).
 * **Supportive Care**:
-    * **Neurosurgical**: Shunt for hydrocephalus; cervical decompression/fusion for atlantoaxial instability (esp. Morquio, MPS VI).
+    * **Neurosurgical**: Shunt for [[Neurology/Hydrocephalus\|hydrocephalus]]; cervical decompression/fusion for atlantoaxial instability (esp. Morquio, MPS VI).
     * **ENT**: Tonsillectomy/adenoidectomy for airway obstruction; hearing aids.
     * **Cardiac**: Valve replacement for severe regurgitation.
     * **Ophthalmology**: Corneal transplant (if severe clouding).

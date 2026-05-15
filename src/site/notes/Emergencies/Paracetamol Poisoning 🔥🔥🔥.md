@@ -4,7 +4,7 @@
 
 ## Pathophysiology of Paracetamol Toxicity
 
-- Paracetamol (acetaminophen) is a widely used analgesic and antipyretic agent, and its toxicity is the most common cause of acute liver failure in the Western world.
+- Paracetamol (acetaminophen) is a widely used analgesic and antipyretic agent, and its toxicity is the most common cause of [[Gastrointestinal/Acute Liver Failure\|acute liver failure]] in the Western world.
 - In therapeutic use, paracetamol is primarily detoxified in the liver via glucuronidation and sulfation into nontoxic products.
 - A small percentage (approximately $5\%$) is metabolized by the hepatic cytochrome P450 enzyme (CYP2E1) into a highly reactive intermediate metabolite, N-acetyl-p-benzoquinoneimine (NAPQI).
 - Normally, NAPQI is immediately conjugated with glutathione to form a nontoxic  mercapturic acid conjugate and excreted harmlessly.
@@ -47,7 +47,7 @@
 
 - N-acetylcysteine (NAC) acts as a precursor for glutathione synthesis, directly reducing the incidence of hepatotoxicity if administered promptly.
 - If administered within $8$ hours of the overdose, NAC is highly effective, and mortality from liver failure is virtually eliminated.
-- Delays in NAC administration beyond the $8$-hour window increase the risk of acute liver failure, requiring empirical NAC therapy to be started pending laboratory results for late presentations.
+- Delays in NAC administration beyond the $8$-hour window increase the risk of [[Gastrointestinal/Acute Liver Failure\|acute liver failure]], requiring empirical NAC therapy to be started pending laboratory results for late presentations.
 - NAC can be administered via oral or intravenous routes, both of which are considered equally efficacious for systemic detoxification.
 - Intravenous NAC is specifically indicated in cases of intractable vomiting, established hepatic failure, and pregnancy.
 - Administration of intravenous NAC (especially during the loading dose) may cause non-IgE-mediated anaphylactoid reactions, which are managed by temporarily stopping the infusion, administering diphenhydramine or epinephrine, and restarting at a slower rate.
@@ -66,24 +66,24 @@
 |:--|:--|:--|
 |**Category 1: Prophylactic**|Normal transaminases|If levels fall in the "possible/probable toxicity" range on the Rumack-Matthew nomogram, start NAC. If time of ingestion is unknown, treat until paracetamol is undetectable.|
 |**Category 2: Hepatic Injury**|Elevated transaminases (AST > ALT) and rising INR|Indicates hepatocellular necrosis. NAC is mandatory. Discontinue NAC only when transaminases and INR have peaked and are actively declining.|
-|**Category 3: Acute Liver Failure**|Fulfills King's College Criteria for transplant referral|Requires intensive care and urgent evaluation for liver transplantation.|
+|**Category 3: [[Gastrointestinal/Acute Liver Failure\|Acute Liver Failure]]**|Fulfills King's College Criteria for transplant referral|Requires intensive care and urgent evaluation for [[Gastrointestinal/Liver Transplantation\|liver transplantation]].|
 |**Category 4: Repeated Supratherapeutic**|Multiple doses $>90$ mg/kg/day; Nomogram not applicable|If asymptomatic with normal AST and APAP $<10$ $\mu$g/mL, no therapy is needed. If APAP is elevated but AST is normal, give NAC until APAP is undetectable. If AST is elevated or patient is symptomatic (jaundice, vomiting), empirically start NAC.|
 
-## Indications for Liver Transplantation
+## Indications for [[Gastrointestinal/Liver Transplantation\|Liver Transplantation]]
 
-- The King's College criteria are the standard prognostic tool used for deciding referral for liver transplantation in paracetamol-induced acute liver failure.
+- The King's College criteria are the standard prognostic tool used for deciding referral for [[Gastrointestinal/Liver Transplantation\|liver transplantation]] in paracetamol-induced [[Gastrointestinal/Acute Liver Failure\|acute liver failure]].
 - Transplantation referral is indicated if there is severe acidemia with a <span style="color:rgb(255, 192, 0)">serum pH &lt;7.3</span>following adequate fluid resuscitation.
 - Alternatively, referral is strictly indicated if all three of the following criteria are met: 
 	- <span style="color:rgb(255, 192, 0)">severe coagulopathy with an INR > 6.0 (or >6.5), </span>
 	- <span style="color:rgb(255, 192, 0)">severe renal dysfunction with serum creatinine > 3.3 mg/dL (or >3.4 mg/dL)</span>, and 
-	- <span style="color:rgb(255, 192, 0)">grade III or IV hepatic encephalopathy</span>.
+	- <span style="color:rgb(255, 192, 0)">grade III or IV [[Gastrointestinal/Hepatic Encephalopathy\|hepatic encephalopathy]]</span>.
 - A serum lactic acid level $> 3$ mmol/L after intravenous fluid resuscitation adds significant sensitivity and specificity for predicting mortality and the need for a transplant.
-- The absolute peak value of transaminase elevation does not determine the need for liver transplantation.
+- The absolute peak value of transaminase elevation does not determine the need for [[Gastrointestinal/Liver Transplantation\|liver transplantation]].
 
-## Differential Diagnosis of Acute Liver Failure in Children
+## Differential Diagnosis of [[Gastrointestinal/Acute Liver Failure\|Acute Liver Failure]] in Children
 
 - In children presenting with features of hepatotoxicity and encephalopathy, other conditions should be rapidly considered, especially if the paracetamol level is non-toxic.
-- Acute infectious hepatitis (Hepatitis A, B, E) remains the most common cause of acute liver failure in Indian children.
-- Metabolic liver diseases, such as Wilson disease (indicated by Kayser-Fleischer rings, low ceruloplasmin, Coombs-negative hemolytic anemia) and Galactosemia, should be considered.
-- Autoimmune hepatitis, characterized by positive ANA, SMA, or LKM antibodies, may present acutely with a hepatitis-like picture.
+- Acute infectious hepatitis ([[Gastrointestinal/Hepatitis A\|Hepatitis A]], B, E) remains the most common cause of [[Gastrointestinal/Acute Liver Failure\|acute liver failure]] in Indian children.
+- Metabolic liver diseases, such as [[Gastrointestinal/Wilson Disease\|Wilson disease]] (indicated by Kayser-Fleischer rings, low ceruloplasmin, Coombs-negative hemolytic anemia) and [[Metabolic Disorders/Galactosemia\|Galactosemia]], should be considered.
+- [[Gastrointestinal/Autoimmune hepatitis\|Autoimmune hepatitis]], characterized by positive ANA, SMA, or LKM antibodies, may present acutely with a hepatitis-like picture.
 - Other drug-induced hepatotoxicities, such as valproate toxicity or idiosyncratic reactions to anti-tuberculosis drugs (isoniazid, rifampicin), must be systematically ruled out.

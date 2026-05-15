@@ -56,7 +56,7 @@ Diagnosis relies on a combination of clinical features, CSF analysis, and neuroi
 #### **B. Microbiological Confirmation**
 
 - **Smear/Culture:** Acid-fast bacilli (AFB) are rarely seen on smear. Culture (Liquid MGIT) is more sensitive but takes weeks.
-- **[[Genetics/NAAT\|NAAT]] (GeneXpert/Truenat):** Upfront molecular testing is recommended. While specificity is high, sensitivity in CSF is only [[About\|about]] 30–40%; a negative result does **not** rule out TBM.
+- **[[Genetics/NAAT\|NAAT]] (GeneXpert/Truenat):** Upfront molecular testing is recommended. While specificity is high, sensitivity in CSF is only about 30–40%; a negative result does **not** rule out TBM.
 
 #### **C. Neuroimaging (CECT or MRI)** 
 Contrast-Enhanced CT (CECT) is the initial modality, but MRI is more sensitive. The diagnostic triad on imaging includes:

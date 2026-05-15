@@ -86,7 +86,7 @@ A milder zoonosis distributed worldwide.
 - **Reservoir:** Rats (peridomestic).
 - **Clinical Features:**
     - Similar to epidemic typhus but generally milder.
-    - Triad of fever, headache, and rash is seen in [[About\|about]] half of patients.
+    - Triad of fever, headache, and rash is seen in about half of patients.
     - The course is usually self-limiting (12–14 days).
 
 ---

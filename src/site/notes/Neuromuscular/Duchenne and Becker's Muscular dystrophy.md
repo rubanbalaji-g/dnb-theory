@@ -40,7 +40,7 @@ Duchenne Muscular Dystrophy (DMD) and Becker Muscular Dystrophy (BMD) are dystro
 - **Complications:** After loss of ambulation, patients develop worsening kyphoscoliosis, joint contractures (ankle, knee, elbow), and respiratory deficits due to weak intercostal and diaphragmatic muscles.
 - **Systemic Involvement:**
     - Subclinical cardiomyopathy is common; symptomatic in 20%. Deletion of exons 48, 48-49, and 45-53 strongly predisposes to cardiac complications and arrhythmias.
-    - Intellectual impairment (IQ < 70) occurs in [[About\|about]] 20% of cases. Impaired gastric motility is also noted.
+    - Intellectual impairment (IQ < 70) occurs in about 20% of cases. Impaired gastric motility is also noted.
 - **Mortality:** Death typically occurs before 20 years of age due to respiratory insufficiency and cardiomyopathy.
 
 ### Becker Muscular Dystrophy (BMD)

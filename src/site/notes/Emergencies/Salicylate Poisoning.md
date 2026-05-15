@@ -11,7 +11,7 @@
 
 ## Clinical Manifestations
 
-- Salicylate poisoning is broadly categorized into acute and chronic ingestions, with acute toxicity being much more prevalent in pediatric patients.
+- [[Emergencies/Salicylate Poisoning\|Salicylate poisoning]] is broadly categorized into acute and chronic ingestions, with acute toxicity being much more prevalent in pediatric patients.
 - Significant insensible fluid losses occur due to vomiting, diaphoresis, tachypnea, and heat generated from the uncoupling of oxidative phosphorylation.
 
 |Severity / Type|Characteristic Clinical Features|
@@ -62,4 +62,4 @@
 |**Metabolic**|Severe acidosis and acidemia, or steadily rising serum salicylate levels despite adequate decontamination and properly alkalinized urine.|
 |**Neurological**|Development of cerebral edema, coma, or uncontrollable seizures.|
 |**Respiratory**|Development of noncardiogenic pulmonary edema or respiratory failure.|
-|**Renal/Hepatic**|Presence of acute kidney injury or hepatic failure.|
+|**Renal/Hepatic**|Presence of [[Nephrology/Acute Kidney Injury\|acute kidney injury]] or hepatic failure.|

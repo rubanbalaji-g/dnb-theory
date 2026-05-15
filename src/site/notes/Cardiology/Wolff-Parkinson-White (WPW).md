@@ -21,17 +21,17 @@
 |**Orthodromic AVRT**|AV Node|Accessory Pathway|Narrow QRS complex|
 |**Antidromic AVRT**|Accessory Pathway|AV Node|Wide QRS complex|
 
-## Electrocardiographic (ECG) Manifestations
+## Electrocardiographic ([[Misc/ECG\|ECG]]) Manifestations
 
-### Baseline ECG (Sinus Rhythm)
+### Baseline [[Misc/ECG\|ECG]] (Sinus Rhythm)
 
 - Short PR interval.
 - Delta wave (slow upstroke of widened QRS complex).
 - Functional bundle branch block pattern.
 - Features may be intermittent.
-- Delta wave may not be evident in every ECG lead.
+- Delta wave may not be evident in every [[Misc/ECG\|ECG]] lead.
 
-### Arrhythmia ECG
+### Arrhythmia [[Misc/ECG\|ECG]]
 
 - **Orthodromic AVRT:** Narrow QRS complex tachycardia with retrograde P waves.
 - **Antidromic AVRT:** Wide QRS complex tachycardia.
@@ -78,7 +78,7 @@
 |**MERRF**|tRNALys point variant|Myoclonus, ataxia, HCM, WPW.|
 |**Mitochondrial Ribosomal Subunit Deficiencies**|MRPS22, MRPl3, MRPL44|Leukoencephalopathy, seizures, HCM, WPW.|
 
-### Cardiomyopathies
+### [[Cardiology/Cardiomyopathies\|Cardiomyopathies]]
 
 - **Hypertrophic Cardiomyopathy (HCM):** Certain forms associated with prominent voltages and ventricular preexcitation.
 

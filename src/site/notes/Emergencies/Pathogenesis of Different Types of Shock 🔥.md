@@ -42,7 +42,7 @@
 ### Obstructive Shock
 
 - Obstructive shock occurs when decreased perfusion is caused by a mechanical obstruction to the ventricular inflow or outflow of blood from the heart.
-- Common etiologies include pericardial tamponade, tension pneumothorax, massive pulmonary embolism, and duct-dependent congenital heart diseases (like severe aortic stenosis or coarctation of the aorta).
+- Common etiologies include pericardial tamponade, tension [[Respiratory/Pneumothorax\|pneumothorax]], massive pulmonary embolism, and duct-dependent congenital heart diseases (like severe aortic stenosis or coarctation of the aorta).
 - The mechanical obstruction prevents adequate ventricular filling (preload) or emptying, leading to an abrupt drop in cardiac output despite normal intravascular volume and contractility.
 
 ## Pathological Changes in Different Organs (End-Organ Damage)
@@ -56,14 +56,14 @@
 ### Kidneys (Renal System)
 
 - The kidneys are highly sensitive to reduced perfusion pressure; renal hypoperfusion manifests early as a drop in urine output (oliguria) and progresses to anuria in late shock.
-- Ischemia causes Acute Kidney Injury (AKI) primarily through Acute Tubular Necrosis (ATN).
+- Ischemia causes [[Nephrology/Acute Kidney Injury\|Acute Kidney Injury]] (AKI) primarily through Acute Tubular Necrosis (ATN).
 - The pathological changes in ATN include diminished tubular function, impaired sodium reabsorption (resulting in high urine sodium), and an inability to concentrate urine.
 - Failure of renal acid excretion exacerbates the severe metabolic acidosis already present due to anaerobic metabolism.
 
 ### Respiratory System (Lungs)
 
 - Shock frequently leads to respiratory failure, manifesting as tachypnea and hyperventilation as the body attempts to compensate for metabolic acidosis (Kussmaul breathing).
-- Endothelial damage and dysregulated inflammatory cascades increase pulmonary capillary permeability, leading to non-cardiac pulmonary edema and Acute Respiratory Distress Syndrome (ARDS).
+- Endothelial damage and dysregulated inflammatory cascades increase pulmonary capillary permeability, leading to non-cardiac pulmonary edema and Acute [[Neonatalogy/Respiratory Distress Syndrome\|Respiratory Distress Syndrome]] (ARDS).
 - The exudation of proteinaceous edema fluid into the alveoli inactivates surfactant, creating stress concentrators and causing widespread alveolar collapse (atelectasis).
 - This results in severe ventilation-perfusion mismatch, increased intrapulmonary shunting, and refractory hypoxemia.
 
@@ -83,6 +83,6 @@
 ### Hematological System and Endothelium
 
 - The vascular endothelium sustains direct damage from inflammatory cytokines, free radicals, and hypoxia, losing its barrier function and causing massive capillary leak into the interstitium.
-- In severe shock (particularly septic and hypovolemic), the interaction of coagulation pathways with the innate immune system triggers Disseminated Intravascular Coagulation (DIC).
+- In severe shock (particularly septic and hypovolemic), the interaction of coagulation pathways with the innate immune system triggers [[Hematology/Disseminated Intravascular Coagulation\|Disseminated Intravascular Coagulation]] (DIC).
 - Pathologically, DIC is characterized by the intravascular activation of coagulation, leading to widespread microvascular thrombosis that causes further tissue necrosis.
 - The simultaneous consumption of platelets and clotting factors, along with hyperfibrinolysis, results in a paradoxical bleeding diathesis, presenting as petechiae, purpura, and severe hemorrhage from mucosal and puncture sites.

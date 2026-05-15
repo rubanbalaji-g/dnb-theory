@@ -38,7 +38,7 @@
 - Serum biomarkers should be monitored serially based on the CKD stage and include calcium, phosphorus, PTH, alkaline phosphatase (ALP), and 25-hydroxyvitamin D.
 - Hypocalcemia, hyperphosphatemia, and elevated levels of ALP and PTH are hallmark biochemical characteristics of the high-turnover state seen in secondary hyperparathyroidism.
 - In adynamic bone disease, PTH is over-suppressed, commonly accompanied by hypercalcemia and low ALP activity.
-- Iliac crest bone biopsy with double tetracycline labeling remains the gold standard for diagnosis; it provides definitive information [[About\|about]] the histologic appearance and dynamics of bone formation and mineralization.
+- Iliac crest bone biopsy with double tetracycline labeling remains the gold standard for diagnosis; it provides definitive information about the histologic appearance and dynamics of bone formation and mineralization.
 - Severe abnormalities in bone volume and mineralization may be observed on conventional radiographs, which are specifically indicated in children with bone pain, suspected atraumatic fractures, or manifestations suggestive of avascular necrosis.
 
 ### Management

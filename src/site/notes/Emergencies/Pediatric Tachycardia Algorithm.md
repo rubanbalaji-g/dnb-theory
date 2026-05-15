@@ -8,15 +8,15 @@
 - The evaluation of a child presenting with a rhythm disturbance hinges on two primary considerations: the child's typical heart rate/rhythm for their age and the patient's hemodynamic status (clinical condition).
 - Tachycardia is defined as a heart rate that is abnormally fast compared to the normal physiological heart rate for the patient's age.
 - The rhythm is clinically categorized as "unstable" if the tachycardia produces signs of poor tissue perfusion, such as weak pulses, hypotensive shock, respiratory distress, or altered consciousness.
-- Once a pulse is confirmed to be present, tachyarrhythmias are classified based on the width of the QRS complex on the electrocardiogram (ECG).
-- **Narrow Complex Tachycardia (QRS $\le$ 0.09 seconds):** Includes Sinus Tachycardia (ST), Supraventricular Tachycardia (SVT), and Atrial Flutter.
+- Once a pulse is confirmed to be present, tachyarrhythmias are classified based on the width of the QRS complex on the electrocardiogram ([[Misc/ECG\|ECG]]).
+- **Narrow Complex Tachycardia (QRS $\le$ 0.09 seconds):** Includes Sinus Tachycardia (ST), [[Cardiology/Supraventricular tachycardia (SVT)\|Supraventricular Tachycardia (SVT)]], and Atrial Flutter.
 - **Wide Complex Tachycardia (QRS > 0.09 seconds):** Includes Ventricular Tachycardia (VT) and SVT with aberrant intraventricular conduction.
 
 ### Differentiating Narrow Complex Tachycardias (ST vs. SVT)
 
-- Distinguishing between Sinus Tachycardia (ST) and Supraventricular Tachycardia (SVT) is a critical step in the narrow-complex algorithm, guided by clinical history and ECG characteristics.
+- Distinguishing between Sinus Tachycardia (ST) and [[Cardiology/Supraventricular tachycardia (SVT)\|Supraventricular Tachycardia (SVT)]] is a critical step in the narrow-complex algorithm, guided by clinical history and [[Misc/ECG\|ECG]] characteristics.
 
-|Parameter|Sinus Tachycardia (ST)|Supraventricular Tachycardia (SVT)|
+|Parameter|Sinus Tachycardia (ST)|[[Cardiology/Supraventricular tachycardia (SVT)\|Supraventricular Tachycardia (SVT)]]|
 |:--|:--|:--|
 |**Heart Rate (Infants)**|Usually < 220 beats/min|Usually $\ge$ 220 beats/min|
 |**Heart Rate (Children)**|Usually < 180 beats/min|Usually $\ge$ 180 beats/min|

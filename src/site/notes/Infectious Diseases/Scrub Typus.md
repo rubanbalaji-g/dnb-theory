@@ -53,7 +53,7 @@ The incubation period typically ranges from 6 to 21 days (usually 9–11 days). 
 #### Systemic Involvement
 
 - **Lymphadenopathy:** Regional lymphadenopathy draining the eschar site is common, often progressing to generalized lymphadenopathy (23–93% of cases).
-- **Hepatosplenomegaly:** Hepatomegaly is seen in [[About\|about]] two-thirds of children, and splenomegaly in [[About\|about]] one-third.
+- **Hepatosplenomegaly:** Hepatomegaly is seen in about two-thirds of children, and splenomegaly in about one-third.
 - **Respiratory:** Cough is very common. Interstitial pneumonia is a frequent complication.
 - **Gastrointestinal:** Nausea, vomiting, diarrhea, and abdominal pain are common presenting symptoms.
 - **Neurological:** Sensorineural hearing loss occurring concurrently with fever is a useful diagnostic clue. Meningoencephalitis can occur, presenting with altered sensorium, seizures, or meningeal signs.

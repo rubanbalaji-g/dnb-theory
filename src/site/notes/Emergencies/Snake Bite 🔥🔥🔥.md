@@ -12,8 +12,8 @@
 | --------------------------------------------------------------------------------- | --------- | -------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Indian Cobra**<br>![Pasted image 20260402135814.png](/img/user/+%C4%B0mages/Pasted%20image%2020260402135814.png)<br>_Naja naja_           | Elapidae  | Neurotoxic (Post-synaptic), Cardiotoxic, Cytotoxic | Rapid extension of local swelling, necrosis, blistering, and descending paralysis (ptosis, ophthalmoplegia, dysarthria, dysphagia, dyspnea).                   |
 | **Indian Krait**<br>![Pasted image 20260402135851.png](/img/user/+%C4%B0mages/Pasted%20image%2020260402135851.png)<br>_Bungarus caeruleus_  | Elapidae  | Neurotoxic (Pre-synaptic)                          | Occult bites with absent or minimal local signs, early morning severe epigastric/umbilical pain, and delayed onset of descending paralysis.                    |
-| **Russell's Viper**<br>![Pasted image 20260402140032.png](/img/user/+%C4%B0mages/Pasted%20image%2020260402140032.png)<br>_Daboia russelii_  | Viperidae | Vasculotoxic, Hemotoxic, Nephrotoxic               | Severe local pain and swelling, compartment syndrome, systemic bleeding, acute kidney injury, cerebral arterial thrombosis, and anterior pituitary infarction. |
-| **Saw-Scaled Viper**<br>![Pasted image 20260402140124.png](/img/user/+%C4%B0mages/Pasted%20image%2020260402140124.png)<br>_Echis carinatus_ | Viperidae | Vasculotoxic, Hemotoxic, Nephrotoxic               | Local swelling and blistering, consumptive coagulopathy, spontaneous systemic bleeding, and acute kidney injury.                                               |
+| **Russell's Viper**<br>![Pasted image 20260402140032.png](/img/user/+%C4%B0mages/Pasted%20image%2020260402140032.png)<br>_Daboia russelii_  | Viperidae | Vasculotoxic, Hemotoxic, Nephrotoxic               | Severe local pain and swelling, compartment syndrome, systemic bleeding, [[Nephrology/Acute Kidney Injury\|acute kidney injury]], cerebral arterial thrombosis, and anterior pituitary infarction. |
+| **Saw-Scaled Viper**<br>![Pasted image 20260402140124.png](/img/user/+%C4%B0mages/Pasted%20image%2020260402140124.png)<br>_Echis carinatus_ | Viperidae | Vasculotoxic, Hemotoxic, Nephrotoxic               | Local swelling and blistering, consumptive coagulopathy, spontaneous systemic bleeding, and [[Nephrology/Acute Kidney Injury\|acute kidney injury]].                                               |
 - Snake venom is a highly complex mixture containing more than $100$ toxic and non-toxic proteins, peptides, carbohydrates, lipids, and amines.
 - The average dry weight of venom injected at a strike is approximately $60$ mg in _N. naja_, $13$ mg in _E. carinatus_, and $63$ mg in _D. russelii_.
 - The exact same amount of venom affects children much more severely than adults because the total serum volume of distribution is significantly smaller in children.
@@ -74,7 +74,7 @@
 #### ASV Preparation and Composition
 
 - In India, polyvalent ASV is raised in horses and neutralizes the venom of the four most important venomous snakes: the Indian cobra (_Naja naja_), Indian krait (_Bungarus caeruleus_), Russell's viper (_Daboia russelii_), and saw-scaled viper (_Echis carinatus_).
-- It is available in freeze-dried (lyophilized, heat-stable) or neat liquid (heat-labile, requires $2-8^\circ\text{C}$ cold chain) forms.
+- It is available in freeze-dried (lyophilized, heat-stable) or neat liquid (heat-labile, requires $2-8^\circ\text{C}$ [[Misc/Cold Chain\|cold chain]]) forms.
 - The dry powder form must be reconstituted by diluting it in $10\text{ ml}$ of distilled water or normal saline by swirling gently, not by vigorous shaking.
 - Reconstituted solutions that appear opaque to any extent must be discarded.
 

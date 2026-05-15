@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/gastrointestinal/approach-to-child-with-ascites/","noteIcon":"","created":"2025-02-26T23:19:00","updated":"2025-02-27T22:27:00","dgPassFrontmatter":true}
+{"dg-publish":true,"created":"2025-02-26T23:19:00","uptext":"Back to Index (🍴 Gastroenterology)","uplink":"/gastrointestinal/gastroenterology/","permalink":"/gastrointestinal/approach-to-child-with-ascites/","dgPassFrontmatter":true}
 ---
 
 ## definition and pathophysiology

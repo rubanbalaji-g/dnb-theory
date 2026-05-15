@@ -23,12 +23,12 @@ The loudness of the components provides clues to underlying pressures:
     * Dilated pulmonary artery.
     * Thin chest wall.
 * **Soft/Absent P2:**
-    * Tetralogy of Fallot (TOF).
+    * [[Cardiology/Tetralogy of Fallot\|Tetralogy of Fallot]] (TOF).
     * Severe Pulmonary Stenosis (PS).
     * Pulmonary Atresia.
 * **Loud A2:**
     * Systemic Hypertension.
-    * Transposition of Great Arteries (Aorta is anterior).
+    * [[Cardiology/Transposition of great arteries\|Transposition of Great Arteries]] (Aorta is anterior).
     * Coarctation of Aorta.
 * **Soft A2:**
     * Severe Aortic Stenosis (Calcific or Valvular).
@@ -38,14 +38,14 @@ The loudness of the components provides clues to underlying pressures:
 
 ### A. Wide Physiological Split
 Occurs when there is a delay in RV contraction or increased RV volume:
-* **RV Volume Overload:** ASD (but usually fixed), Partial Anomalous Pulmonary Venous Connection (PAPVC).
+* **RV Volume Overload:** [[Cardiology/ASD\|ASD]] (but usually fixed), Partial Anomalous Pulmonary Venous Connection (PAPVC).
 * **RV Outflow Obstruction:** Pulmonary Stenosis (the split widens as severity increases).
 * **Electrical Delay:** Right Bundle Branch Block (RBBB).
-* **LV Early Emptying:** Mitral Regurgitation, VSD (A2 occurs early).
+* **LV Early Emptying:** Mitral Regurgitation, [[Cardiology/VSD\|VSD]] (A2 occurs early).
 
 ### B. Fixed Wide Split
 The split does not vary with respiration.
-* **Atrial Septal Defect (ASD):** Pathognomonic. Equalization of respiratory changes in venous return between both atria via the defect.
+* **Atrial Septal Defect ([[Cardiology/ASD\|ASD]]):** Pathognomonic. Equalization of respiratory changes in venous return between both atria via the defect.
 * **Severe Right Heart Failure.**
 
 ### C. Narrow Split
@@ -60,9 +60,9 @@ P2 precedes A2. The split narrows on inspiration and widens on expiration.
 
 ### E. Single S2 (No Split Audible)
 * **Only one valve present:** Truncus Arteriosus.
-* **One valve atretic:** Pulmonary atresia, Tricuspid atresia.
+* **One valve atretic:** Pulmonary atresia, [[Cardiology/Tricuspid Atresia\|Tricuspid atresia]].
 * **One component inaudible:** Severe PS, TOF (P2 too soft).
-* **Overlapping components:** Eisenmenger Syndrome (P2 occurs early).
+* **Overlapping components:** [[Cardiology/Eisenmenger syndrome\|Eisenmenger Syndrome]] (P2 occurs early).
 * **Malposition:** D-TGA (Aorta anteriorly masks P2).
 
 ## 5. DIAGNOSTIC UTILITY IN PEDIATRICS
@@ -75,8 +75,8 @@ Assessment of S2 is critical for bedside diagnosis:
 
 | Condition | S2 Pattern | Intensity Change |
 |-----------|------------|------------------|
-| ASD | Wide Fixed Split | Normal P2 |
-| VSD | Wide Split | Loud P2 (if PAH) |
+| [[Cardiology/ASD\|ASD]] | Wide Fixed Split | Normal P2 |
+| [[Cardiology/VSD\|VSD]] | Wide Split | Loud P2 (if PAH) |
 | TOF | Single S2 | Soft/Absent P2 |
 | PS | Wide Split | Soft P2 |
 | AS | Narrow/Reversed | Soft A2 |

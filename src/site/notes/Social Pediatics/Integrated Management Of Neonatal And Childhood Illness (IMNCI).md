@@ -162,7 +162,7 @@ When a child is classified in the <span style="color: #ff1493; font-weight:bold;
 
 ## Counseling The Mother
 IMNCI places heavy emphasis on empowering the caregiver. Counseling encompasses:
-1.  **Assess the Child's Feeding:** Ask [[About\|about]] breastfeeding frequency, complementary foods (consistency, frequency, active feeding).
+1.  **Assess the Child's Feeding:** Ask about breastfeeding frequency, complementary foods (consistency, frequency, active feeding).
 2.  **Feeding Recommendations:** Promote exclusive breastfeeding up to 6 months, and introduction of nutrient-dense complementary foods at 6 months while continuing breastfeeding up to 2 years.
 3.  **Fluid Requirements During Illness:** Advise the mother to increase fluid intake (including breastmilk) to prevent dehydration.
 4.  **When to Return Immediately:**

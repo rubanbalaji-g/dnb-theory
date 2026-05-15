@@ -6,7 +6,7 @@
 
 - The Cochrane Collaboration is an international network of individuals who are committed to preparing, maintaining, and disseminating systematic reviews regarding the effects of healthcare interventions.
 - The organization is primarily concerned with synthesizing evidence derived from randomized clinical trials (RCTs).
-- Cochrane reviews represent an extremely important contribution to improving the methodological standards of both clinical trials and systematic reviews globally.
+- [[Statistics/Cochrane Reviews\|Cochrane reviews]] represent an extremely important contribution to improving the methodological standards of both clinical trials and systematic reviews globally.
 - The initiative was inspired by Archibald L. Cochrane (1909–1988), a Scottish physician who strongly argued for the widespread adoption of RCTs to formally test treatments and to collate reliable, up-to-date medical evidence.
 - The collaboration's formation was set in motion by Cochrane's monograph _Effectiveness and Efficiency: Random Reflections on Health Services_, where he heavily criticized the medical profession for failing to organize a periodic, critical summary of all randomized controlled trials categorized by specialty and subspeciality.
 
@@ -39,12 +39,12 @@
 - By pooling the studies together, the review increases the available sample size, reduces the standard error, improves the precision of the effect estimate, and increases the overall statistical power,.
 - If significant clinical or statistical heterogeneity (variations in treatment effect beyond what is expected by chance) is discovered among the pooled studies, a random-effects model is used to account for varying effect sizes,.
 - Conversely, if there is no significant heterogeneity, a fixed-effect model is applied, assuming one true effect underlies all studies,.
-- Cochrane reviews utilize specific mathematical weighting techniques for pooling data, allocating weight based on sample size and variance, such as the Inverse variance method for continuous outcomes and the Mantel-Haenszel method for binary outcomes,,.
+- [[Statistics/Cochrane Reviews\|Cochrane reviews]] utilize specific mathematical weighting techniques for pooling data, allocating weight based on sample size and variance, such as the Inverse variance method for continuous outcomes and the Mantel-Haenszel method for binary outcomes,,.
 
 ### Potential Pitfalls and Limitations Encountered in Reviews
 
-- Despite utilizing highly rigorous methodologies, Cochrane reviews can still be vulnerable to reporting biases inherent in the primary clinical literature they analyze.
-- Evidence indicates that approximately a third of Cochrane reviews have contained at least one trial with a high suspicion of outcome reporting bias.
+- Despite utilizing highly rigorous methodologies, [[Statistics/Cochrane Reviews\|Cochrane reviews]] can still be vulnerable to reporting biases inherent in the primary clinical literature they analyze.
+- Evidence indicates that approximately a third of [[Statistics/Cochrane Reviews\|Cochrane reviews]] have contained at least one trial with a high suspicion of outcome reporting bias.
 - Outcome reporting bias occurs when primary trial authors selectively omit, modify, or add an outcome based purely on the direction of statistical results, leading to a potentially inflated and flawed estimate of the treatment effect.
 - When such biased evidence is collected and statistically synthesized in systematic reviews, it risks reinforcing skewed medical evidence in clinical practice.
 - Another significant challenge involves reliance on unpublished or unverified industry data, as clearly demonstrated by the Tamiflu (oseltamivir) controversy.

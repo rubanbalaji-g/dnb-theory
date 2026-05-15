@@ -4,7 +4,7 @@
 
 ## Overview
 
-- Routine pulse oximetry screening recommended for all newborns.
+- Routine [[Emergencies/Pulse Oximetry\|pulse oximetry]] screening recommended for all newborns.
 - Primary goal: Detect unsuspected critical cyanotic congenital heart disease (CCHD).
 - Detects respiratory disorders and primary pulmonary hypertension.
 - Overcomes visual limitations; clinical cyanosis easily missed due to dark skin color, poor lighting, or anemia.
@@ -15,8 +15,8 @@
 ### Target Lesions Detected
 | Category                                                       | Specific Critical Congenital Heart Lesions                                                                                                              |
 | -------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Duct-Dependent Systemic Circulation**                        | Hypoplastic left heart syndrome (HLHS) <br> Critical aortic valve stenosis <br> Severe coarctation of the aorta <br> Interrupted aortic arch            |
-| **Duct-Dependent Pulmonary Circulation / Right-Sided Lesions** | Pulmonary atresia with intact ventricular septum (PA/IVS) <br> Critical pulmonary stenosis <br> Severe Tetralogy of Fallot (TOF) <br> Tricuspid atresia |
+| **Duct-Dependent Systemic Circulation**                        | [[Cardiology/Hypoplastic left heart syndrome\|Hypoplastic left heart syndrome]] (HLHS) <br> Critical aortic valve stenosis <br> Severe coarctation of the aorta <br> Interrupted aortic arch            |
+| **Duct-Dependent Pulmonary Circulation / Right-Sided Lesions** | Pulmonary atresia with intact ventricular septum (PA/IVS) <br> Critical pulmonary stenosis <br> Severe [[Cardiology/Tetralogy of Fallot\|Tetralogy of Fallot]] (TOF) <br> [[Cardiology/Tricuspid Atresia\|Tricuspid atresia]] |
 | **Mixing Lesions / Transposition**                             | D-Transposition of the great arteries (D-TGA) (especially at risk for restrictive atrial septum)                                                        |
 | **Severe Venous/Valvular Lesions**                             | Obstructed total anomalous pulmonary venous return (TAPVR) <br> Congenital mitral and tricuspid valve regurgitation <br> Neonatal Ebstein anomaly       |
 ## Screening Protocol
@@ -25,9 +25,9 @@
 - Executed before discharge in asymptomatic newborns.
 - Measurements required: Pre-ductal (right hand) and post-ductal (either foot).
 
-### Pulse Oximetry Screening Algorithm
+### [[Emergencies/Pulse Oximetry\|Pulse Oximetry]] Screening Algorithm
 
-|Result Category|Pulse Oximetry Criteria|Clinical Action|
+|Result Category|[[Emergencies/Pulse Oximetry\|Pulse Oximetry]] Criteria|Clinical Action|
 |:--|:--|:--|
 |**Pass**|$\ge$ 95% in right hand or foot **AND** $\le$ 3% difference between right hand and foot|Screen passed; routine care.|
 |**Fail (Immediate)**|< 90% in either right hand or foot|Urgent echocardiography indicated.|

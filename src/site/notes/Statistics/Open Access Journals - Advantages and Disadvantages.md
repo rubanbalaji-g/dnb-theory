@@ -8,7 +8,7 @@
 ## 2. Major Routes of Open Access
 To provide context for the advantages and disadvantages, it is crucial to outline the primary models of OA:
 * **Gold OA:** Articles are immediately freely available on the journal's website. Costs are usually covered by Article Processing Charges (APCs) paid by the author or their institution.
-* **Green OA:** Authors self-archive a version of their manuscript (pre-print or post-print) in an institutional or subject repository, often after an embargo period set by the publisher.
+* **Green OA:** Authors self-archive a version of their [[Statistics/manuscript\|manuscript]] (pre-print or post-print) in an institutional or subject repository, often after an embargo period set by the publisher.
 * **Hybrid OA:** Traditional subscription-based journals that offer authors the option to pay an APC to make their specific article open access.
 * **Diamond/Platinum OA:** Journals that are free for both readers (no paywalls) and authors (no APCs), typically subsidized by academic institutions, university presses, or philanthropic grants.
 
@@ -21,7 +21,7 @@ To provide context for the advantages and disadvantages, it is crucial to outlin
 
 ### B. For the Medical Community and Society
 * **Global Equity:** Removes financial barriers for researchers, clinicians, and students in Low- and Middle-Income Countries (LMICs), granting them access to the same evidence-based literature as those in high-income nations.
-* **Translation to Clinical Practice:** Allows frontline healthcare workers and policymakers immediate access to the latest clinical guidelines and trial data, accelerating the adoption of new medical interventions (critically demonstrated during the COVID-19 pandemic).
+* **Translation to Clinical Practice:** Allows frontline healthcare workers and policymakers immediate access to the latest clinical guidelines and trial data, accelerating the adoption of new medical interventions (critically demonstrated during the [[Infectious Diseases/COVID-19\|COVID-19]] pandemic).
 * **Public Accountability:** Taxpayers who indirectly fund government-sponsored research gain access to the results of their investment.
 
 ## 4. Disadvantages and Challenges of Open Access Journals

@@ -2,9 +2,9 @@
 {"dg-publish":true,"uplink":"/statistics/statistics/","uptext":"Back to Index (🔢 Statistics)","permalink":"/statistics/statistical-errors/","dgPassFrontmatter":true}
 ---
 
-## Types of Errors in Statistical Hypothesis Testing
+## Types of Errors in Statistical [[Statistics/Hypothesis Testing\|Hypothesis Testing]]
 
-- In statistical hypothesis testing, researchers evaluate sample data to reach a conclusion regarding a specific research question.
+- In statistical [[Statistics/Hypothesis Testing\|hypothesis testing]], researchers evaluate sample data to reach a conclusion regarding a specific research question.
 - The decision is made by either rejecting or failing to reject the null hypothesis ($H_0$), which typically states that there is no difference or no association between the groups being studied.
 - Because statistical inference relies on generalizing findings from a limited sample to a larger population, there is an inherent degree of uncertainty.
 - Consequently, there are two primary types of errors that can be committed during this decision-making process: Type I error and Type II error.
@@ -41,7 +41,7 @@
 - If a researcher attempts to reduce the risk of a Type I error by making the significance level stricter (e.g., moving $\alpha$ from 0.05 to 0.01), the risk of committing a Type II error will inherently increase.
 - The only methodological way to lower the risk of a Type II error without increasing the risk of a Type I error is to increase the overall sample size of the study.
 - Increasing the sample size improves the precision of the estimated means and reduces data overlap, thereby increasing the overall power of the study to detect true differences.
-- Performing an _a priori_ sample size calculation before initiating a clinical trial is therefore essential to control the risk of Type II errors.
+- Performing an _a priori_ [[Statistics/Sample Size Calculation\|sample size calculation]] before initiating a clinical trial is therefore essential to control the risk of Type II errors.
 
 ### Summary Matrix of Statistical Decisions
 

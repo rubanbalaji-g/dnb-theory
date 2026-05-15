@@ -64,7 +64,7 @@ Diagnostic workup relies on identifying the specific biochemical abnormalities a
 - Maintain a severely protein-restricted diet combined with essential amino acid supplements.
 - Prescribe oral nitrogen scavengers, such as sodium benzoate, phenylbutyrate, or glycerol phenylbutyrate.
 - Provide lifelong supplementation with L-citrulline or L-arginine.
-- Liver transplantation is curative for the metabolic defect and is usually performed between 6 months and 1 year of age to prevent further neurocognitive damage, though it does not reverse pre-existing brain damage.
+- [[Gastrointestinal/Liver Transplantation\|Liver transplantation]] is curative for the metabolic defect and is usually performed between 6 months and 1 year of age to prevent further neurocognitive damage, though it does not reverse pre-existing brain damage.
 
 ## Prognosis
 

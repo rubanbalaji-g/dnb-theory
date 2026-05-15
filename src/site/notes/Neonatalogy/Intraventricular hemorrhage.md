@@ -5,7 +5,7 @@
 ## Key Facts
 
 - Peri-intraventricular haemorrhage (PIVH) is a condition characterised by bleeding in and around the ventricles of the brain, typically occurring in premature infants.
-- PIVH can lead to significant neurological complications, including hydrocephalus and developmental delays.
+- PIVH can lead to significant neurological complications, including [[Neurology/Hydrocephalus\|hydrocephalus]] and developmental delays.
 - Early detection, proper management and strategies to prevent prematurity are crucial for reducing the risk and impact of PIVH.
 
 ## Epidemiology
@@ -67,8 +67,8 @@
 
    - Antenatal maternal steroids for those at risk of preterm delivery.    
 ## Surgical
-- Surgical interventions may be considered for severe cases with progressive hydrocephalus, such as ventriculoperitoneal shunt placement.
+- Surgical interventions may be considered for severe cases with progressive [[Neurology/Hydrocephalus\|hydrocephalus]], such as ventriculoperitoneal shunt placement.
 # Prognosis
 - The prognosis for infants with PIVH varies based on the severity of haemorrhage and any associated complications.
-- Those with severe IVH are at greater risk of neurological deficits, seizures, developmental delays or cerebral palsy.
+- Those with severe IVH are at greater risk of neurological deficits, seizures, developmental delays or [[Neurology/Cerebral Palsy\|cerebral palsy]].
 - Early intervention and neurodevelopmental follow up are essential for optimising outcomes.

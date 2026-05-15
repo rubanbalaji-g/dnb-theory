@@ -9,7 +9,7 @@
 - Provide safe and effective control of pain, anxiety, and motion to allow necessary therapeutic and diagnostic procedures.
 - Ensure appropriate amnesia and decreased awareness of the intensive care environment.
 - Facilitate mechanical ventilation by improving patient-ventilator synchrony and overcoming patient-ventilation dys-synchrony.
-- Decrease systemic or myocardial oxygen consumption and metabolic demand (e.g., in septic shock, cardiogenic shock, or severe acute respiratory distress syndrome).
+- Decrease systemic or myocardial oxygen consumption and metabolic demand (e.g., in septic shock, cardiogenic shock, or severe acute [[Neonatalogy/Respiratory Distress Syndrome\|respiratory distress syndrome]]).
 - Blunt the physiologic stress response, which can trigger systemic inflammatory response syndrome (SIRS).
 
 ### Continuum of Sedation
@@ -31,14 +31,14 @@
 |ASA Class|Description|Sedation Suitability|
 |:--|:--|:--|
 |**Class 1**|Healthy patient (unremarkable past medical history).|Excellent.|
-|**Class 2**|Mild systemic disease (e.g., controlled asthma, diabetes).|Generally good.|
+|**Class 2**|Mild systemic disease (e.g., controlled [[Respiratory/Asthma\|asthma]], diabetes).|Generally good.|
 |**Class 3**|Severe systemic disease with functional limitations.|Intermediate to poor (benefits relative to risks).|
 |**Class 4**|Severe systemic disease that is a constant threat to life.|Poor (benefits rarely outweigh risks).|
 |**Class 5**|Moribund patient not expected to survive without intervention.|Extremely poor.|
 
 - Continuous monitoring of the child's face, mouth, and chest wall movement is essential.
-- Use of physiological monitors: Electrocardiogram (ECG), continuous pulse oximetry, and non-invasive/invasive blood pressure monitoring.
-- Objective assessment tools include the Bispectral Index (BIS) to assess the depth of sedation, especially in chemically paralyzed patients.
+- Use of physiological monitors: Electrocardiogram ([[Misc/ECG\|ECG]]), continuous [[Emergencies/Pulse Oximetry\|pulse oximetry]], and non-invasive/invasive blood pressure monitoring.
+- Objective assessment tools include the Bispectral [[Statistics/Index\|Index]] (BIS) to assess the depth of sedation, especially in chemically paralyzed patients.
 - Clinical scoring systems are utilized to titrate medications, such as the COMFORT scale or the State Behavioral Scale (SBS) (target scores generally depend on the clinical requirement, e.g., SBS $-1$ to $0$ for moderate sedation).
 
 ### Protocolized Sedation and Weaning
@@ -71,7 +71,7 @@
 
 - **Ketamine:** An NMDA receptor antagonist that dissociates the cerebral cortex from the limbic system.
 - **Effects:** Provides simultaneous hypnosis, profound analgesia, and amnesia.
-- **Advantages:** Preserves spontaneous respiratory drive, airway reflexes, and cardiac output. It is a potent bronchodilator, making it the sedative of choice for intubated children with acute severe asthma.
+- **Advantages:** Preserves spontaneous respiratory drive, airway reflexes, and cardiac output. It is a potent bronchodilator, making it the sedative of choice for intubated children with acute severe [[Respiratory/Asthma\|asthma]].
 - **Side Effects:** Increases myocardial oxygen demand, heart rate, and blood pressure. It acts as a secretagogue (causes sialorrhea, necessitating anticholinergics like glycopyrrolate) and may cause emergence delirium/hallucinations. Associated with increased intracranial pressure (ICP), requiring caution in traumatic brain injury.
 
 ### Propofol

@@ -41,7 +41,7 @@ This is the most common presentation.
 - **Incubation Period:** 6 to 72 hours (median 24 hours).
 - **Symptoms:** Abrupt onset of nausea, vomiting, and crampy abdominal pain (often periumbilical or lower quadrant), followed by diarrhea.
 - **Stool Characteristics:** Diarrhea ranges from loose watery stools to [[Gastrointestinal/Dysentery\|dysentery]] with blood and mucus. In infants, stools may be green and slimy.
-- **Systemic Signs:** Fever ($38^\circ\text{C} - 39^\circ\text{C}$) is common, occurring in [[About\|about]] 70–80% of patients.
+- **Systemic Signs:** Fever ($38^\circ\text{C} - 39^\circ\text{C}$) is common, occurring in about 70–80% of patients.
 - **Course:** The illness is usually self-limiting, resolving within 2–7 days.
 
 ### 5.2. Bacteremia

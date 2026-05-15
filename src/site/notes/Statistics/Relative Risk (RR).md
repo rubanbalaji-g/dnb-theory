@@ -4,7 +4,7 @@
 
 ### Definition and Calculation
 
-- Relative risk (RR), which is also synonymous with cumulative incidence ratio or risk ratio, is a fundamental statistical measure used to quantify the association between exposure to a particular risk factor and the subsequent occurrence of a specific clinical outcome or disease.
+- [[Statistics/Relative Risk (RR)\|Relative risk (RR)]], which is also synonymous with cumulative incidence ratio or risk ratio, is a fundamental statistical measure used to quantify the association between exposure to a particular risk factor and the subsequent occurrence of a specific clinical outcome or disease.
 - It is mathematically defined as the ratio of the incidence rate (or probability) of an event occurring among an exposed group divided by the incidence rate of the event occurring among a non-exposed (control) group.
 - To calculate the relative risk, data are typically organized into a 2x2 contingency table where 'a' represents individuals who are exposed and diseased, 'b' represents exposed and healthy, 'c' represents unexposed and diseased, and 'd' represents unexposed and healthy.
 - The risk or incidence among the exposed population is calculated as the number of diseased individuals divided by the total number of exposed individuals: $a / (a+b)$.
@@ -17,12 +17,12 @@
 - The calculation of relative risk is strictly reserved for prospective study designs, such as longitudinal cohort studies and randomized controlled trials.
 - These specific study designs allow researchers to follow disease-free subjects forward in time, thereby enabling the direct and accurate measurement of true disease incidence within the defined populations.
 - Relative risk cannot be validly calculated in retrospective case-control studies, because the total populations at risk are not naturally observed; instead, the researcher artificially fixes the number of cases and controls.
-- In such retrospective designs, the odds ratio (OR) must be utilized as the measure of association; however, if the disease being studied is exceptionally rare, the odds ratio will mathematically approximate the relative risk.
+- In such retrospective designs, the [[Statistics/Odds Ratio (OR)\|odds ratio (OR)]] must be utilized as the measure of association; however, if the disease being studied is exceptionally rare, the odds ratio will mathematically approximate the relative risk.
 
 ### Clinical Interpretation
 
 - The interpretation of a relative risk estimate centers around comparing the calculated value to a null value of 1.0, which assumes equal risk across both populations.
-- To determine statistical significance, the 95% confidence interval for the relative risk must be evaluated; if the confidence interval includes the value of 1, the association is deemed not statistically significant.
+- To determine statistical significance, the 95% [[Statistics/Confidence Interval\|confidence interval]] for the relative risk must be evaluated; if the [[Statistics/Confidence Interval\|confidence interval]] includes the value of 1, the association is deemed not statistically significant.
 
 |Relative Risk Value|Clinical Interpretation|
 |:--|:--|

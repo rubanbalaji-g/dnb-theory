@@ -4,17 +4,17 @@
 
 ### Definition and Core Concepts
 
-- Breath-holding spells are reflex events of childhood that are typically initiated by a provocation causing anger, frustration, startle, or pain, which prompts the child to cry.
+- [[Development/Breath-Holding Spells\|Breath-holding spells]] are reflex events of childhood that are typically initiated by a provocation causing anger, frustration, startle, or pain, which prompts the child to cry.
 - During the event, the crying stops at full expiration, leading the child to become apneic and subsequently cyanotic or pale.
 - The spells are a vasovagal phenomenon that typically begins in infancy and recurs up until approximately 6 years of age.
-- Epidemiologically, the onset of breath-holding spells is rare before 6 months of age, incidence peaks at around 2 years of age, and the episodes generally abate by 5 to 6 years of age.
+- Epidemiologically, the onset of [[Development/Breath-Holding Spells\|breath-holding spells]] is rare before 6 months of age, incidence peaks at around 2 years of age, and the episodes generally abate by 5 to 6 years of age.
 
 ### Clinical Presentation and Subtypes
 
 - The sequence of events is highly stereotyped: an immediate preceding trigger (e.g., minor injury, tantrum) is followed by altered respiratory effort (apnea on expiration) and prominent autonomic features.
 - If the apnea is prolonged, the child may become unconscious and exhibit changes in tone, such as hypotonia (going limp) or stiffening.
 - In extended events, brief tonic-clonic movements or a short seizure may occur.
-- Importantly, there is no increased risk of the child developing a chronic seizure disorder or epilepsy, even in the presence of short seizures during the breath-holding spells.
+- Importantly, there is no increased risk of the child developing a chronic seizure disorder or epilepsy, even in the presence of short seizures during the [[Development/Breath-Holding Spells\|breath-holding spells]].
 
 |Subtype|Clinical Characteristics and Pathophysiology|
 |:--|:--|
@@ -24,7 +24,7 @@
 
 ### Etiology and Common Associations
 
-- While the exact primary etiology is an immature autonomic reflex arc, breath-holding spells are strongly associated with systemic iron deficiency, with or without concurrent anemia.
+- While the exact primary etiology is an immature autonomic reflex arc, [[Development/Breath-Holding Spells\|breath-holding spells]] are strongly associated with systemic iron deficiency, with or without concurrent anemia.
 - Repetitive spells can inadvertently become a learned, reinforced behavior if the child gains significant attention or successfully manipulating caregivers through the episodes.
 
 ### Differential Diagnosis
@@ -34,7 +34,7 @@
 |Diagnostic Category|Specific Conditions to Exclude|
 |:--|:--|
 |**Neurologic Disorders**|True epileptic seizures, Chiari crisis, central nervous system lesions, and hereditary hyperekplexia.|
-|**Cardiovascular Disorders**|Cardiac arrhythmias, most notably prolonged QT syndrome, which must be ruled out particularly in cases of pallid spells.|
+|**Cardiovascular Disorders**|[[Cardiology/Cardiac arrhythmias\|Cardiac arrhythmias]], most notably prolonged QT syndrome, which must be ruled out particularly in cases of pallid spells.|
 |**Autonomic Disorders**|Familial dysautonomia and severe vasovagal syncope.|
 |**Sleep Disorders**|Cataplexy (though typically triggered by positive emotions rather than pain or frustration).|
 
@@ -56,5 +56,5 @@
 
 ### Medical and Psychiatric Interventions
 
-- Medical therapy includes targeted iron supplementation, as some children with breath-holding spells show a marked reduction in episode frequency when treated with iron therapy.
-- Referral for a formal mental health evaluation is indicated if the breath-holding spells are accompanied by severe head banging, high levels of aggression, or if the behavior uncharacteristically persists into the latency or preteen years.
+- Medical therapy includes targeted iron supplementation, as some children with [[Development/Breath-Holding Spells\|breath-holding spells]] show a marked reduction in episode frequency when treated with iron therapy.
+- Referral for a formal mental health evaluation is indicated if the [[Development/Breath-Holding Spells\|breath-holding spells]] are accompanied by severe head banging, high levels of aggression, or if the behavior uncharacteristically persists into the latency or preteen years.

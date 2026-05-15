@@ -124,7 +124,7 @@ Strict, lifelong elimination of gluten remains the sole medical therapy.
 ### 3. NIH "CELIAC" Mnemonic for Management
 
 - **C:** Consultation with skilled dietitian.
-- **E:** Education [[About\|about]] disease.
+- **E:** Education about disease.
 - **L:** Lifelong adherence to GFD.
 - **I:** Identification/treatment of nutritional deficiencies.
 - **A:** Access to advocacy group.

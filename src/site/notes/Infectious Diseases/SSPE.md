@@ -158,7 +158,7 @@ While no drug is universally effective, combination therapy is often attempted.
 - **Inosiplex (Isoprinosine):** An oral immunomodulator.
     - **Dosage:** 100 mg/kg/day.
     - **Mechanism:** Enhances natural killer cell activity and T-cell function.
-    - **Efficacy:** Studies suggest it may prolong survival and stabilize the disease in [[About\|about]] 30–50% of patients compared to untreated historical controls. It is most beneficial if started in Stage I.
+    - **Efficacy:** Studies suggest it may prolong survival and stabilize the disease in about 30–50% of patients compared to untreated historical controls. It is most beneficial if started in Stage I.
 - **Interferon-alpha:**
     - **Route:** Since it does not cross the blood-brain barrier well, it is administered via the intrathecal or intraventricular route (Ommaya reservoir).
     - **Combined Therapy:** Often used in conjunction with oral Isoprinosine. Some studies report stabilization or improvement, but results are variable and relapse is common upon cessation.
@@ -178,7 +178,7 @@ The prognosis is grave.
 
 - **Course:** The disease is relentlessly progressive.
 - **Survival:** Death usually occurs within **1 to 3 years** of diagnosis.
-- **Variability:** Approximately 10% of patients have a fulminant course leading to death within 3 months. Conversely, [[About\|about]] 5–10% may experience spontaneous remission or a prolonged course lasting several years.
+- **Variability:** Approximately 10% of patients have a fulminant course leading to death within 3 months. Conversely, about 5–10% may experience spontaneous remission or a prolonged course lasting several years.
 - **Cause of Death:** Usually due to superadded infection, autonomic failure, or loss of bulbar function.
 
 ## Prevention

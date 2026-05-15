@@ -4,7 +4,7 @@
 
 ### Definition and Core Concepts
 
-- The linear correlation coefficient, universally known as Pearson's product-moment correlation coefficient, is a statistical measure used to quantify the strength and direction of a linear relationship between two continuous quantitative variables.
+- The [[Statistics/Linear Correlation Coefficient\|linear correlation coefficient]], universally known as Pearson's product-moment correlation coefficient, is a statistical measure used to quantify the strength and direction of a linear relationship between two continuous quantitative variables.
 - The sample correlation coefficient is denoted by the letter $r$, whereas the true population correlation coefficient is denoted by the Greek letter $\rho$ (rho).
 - It is invariant to the linear change of the scale for the variables, meaning it is a dimensionless number with no measurement units attached to it.
 
@@ -27,7 +27,7 @@
 - **Bivariate Normality:** Both variables should be approximately normally distributed, and their joint distribution should form a bivariate normal distribution.
 - **Linearity:** The relationship between the two variables must inherently be linear, a prerequisite that should always be verified visually using a scatter plot prior to mathematical analysis.
 
-### Hypothesis Testing and Statistical Significance
+### [[Statistics/Hypothesis Testing\|Hypothesis Testing]] and Statistical Significance
 
 - A hypothesis test is conducted to determine whether the observed sample correlation ($r$) is a true reflection of the population correlation ($\rho$) or simply a product of random sampling error.
 - The null hypothesis ($H_0$) postulates that $\rho = 0$, meaning there is absolutely no linear correlation in the broader population.
@@ -48,7 +48,7 @@
 |:--|:--|:--|
 |**Primary Objective**|Assesses the presence, strength, and direction of a linear association.|Quantifies the relationship to predict the exact value of an outcome based on a predictor.|
 |**Variable Hierarchy**|Treats both variables symmetrically; there is no designated independent or dependent variable.|Strictly defines one independent (explanatory) variable and one dependent (response) variable.|
-|**Mathematical Output**|Produces a single dimensionless index score ($r$).|Produces a linear equation ($y = \alpha + \beta x$) establishing the intercept and slope.|
+|**Mathematical Output**|Produces a single dimensionless [[Statistics/Index\|index]] score ($r$).|Produces a linear equation ($y = \alpha + \beta x$) establishing the intercept and slope.|
 
 ### Limitations and Clinical Caveats
 

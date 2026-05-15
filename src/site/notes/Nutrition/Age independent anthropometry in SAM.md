@@ -59,7 +59,7 @@ Also known as the Body Mass [[Statistics/Index\|Index]] (BMI) equivalent for cla
 
 This ratio is useful in children aged 1 to 5 years.
 
-- **Principle:** At birth, Head Circumference (HC) is greater than Chest Circumference (CC). By [[About\|about]] one year of age, they become equal. After one year, CC should exceed HC.
+- **Principle:** At birth, Head Circumference (HC) is greater than Chest Circumference (CC). By about one year of age, they become equal. After one year, CC should exceed HC.
 - **Interpretation:**
     - In a child older than 1 year, if **CC < HC** (ratio < 1), it indicates malnutrition (failure of chest muscle/fat accretion).
 

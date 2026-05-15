@@ -24,7 +24,7 @@
 
 ### Diagnosis and Management
 
-- Diagnosis is primarily clinical, as genetic testing of peripheral blood leukocytes has limited sensitivity (detecting the mutation in only [[About\|about]] 50% of cases) due to somatic mosaicism.
+- Diagnosis is primarily clinical, as genetic testing of peripheral blood leukocytes has limited sensitivity (detecting the mutation in only about 50% of cases) due to somatic mosaicism.
 - Precocious puberty in females is managed medically with aromatase inhibitors (such as letrozole or anastrozole) or estrogen receptor antagonists (such as tamoxifen or fulvestrant).
 - Routine surgical resection or cystectomy for ovarian cysts should be avoided because of high recurrence rates; intervention is reserved for specific risks like ovarian torsion.
 - If the patient's bone age advances to a pubertal level, central (gonadotropin-dependent) precocious puberty may become superimposed, necessitating the addition of gonadotropin-releasing hormone (GnRH) agonist therapy.

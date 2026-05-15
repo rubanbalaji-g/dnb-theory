@@ -21,7 +21,7 @@
 
 - **Systolic murmur grade I or II:** Soft murmurs do not exclude heart disease.
 - **Abnormal second heart sound:** Highly subjective but extremely useful bedside tool for classifying heart disease.
-- **Abnormal electrocardiogram (ECG):** Determines axis, hypertrophy, or conduction issues.
+- **Abnormal electrocardiogram ([[Misc/ECG\|ECG]]):** Determines axis, hypertrophy, or conduction issues.
 - **Abnormal chest X-ray:** True cardiomegaly on inspiratory film suggests heart disease. Caution: Normal thymus mimics cardiomegaly in children under two years.
 - **Abnormal blood pressure:** Aids in identifying specific hemodynamic anomalies.
 

@@ -17,7 +17,7 @@ The primary mechanism is **Chronic Placental Insufficiency** due to placental ag
     * Reduced surface area for gas and nutrient exchange.
 * **Fetal Consequences:**
     * **Nutritional Deprivation:** Loss of subcutaneous fat and muscle mass (wasting) due to utilization of glycogen and fat stores.
-    * **Chronic Hypoxia:** Leads to polycythemia (increased erythropoietin) and potential neurological injury.
+    * **Chronic Hypoxia:** Leads to polycythemia (increased [[Hematology/Erythropoietin\|erythropoietin]]) and potential neurological injury.
     * **Oligohydramnios:** Reduced fetal urine output due to renal hypoperfusion; increases risk of cord compression.
     * **Meconium Passage:** Hypoxia stimulates gut peristalsis and sphincter relaxation; oligohydramnios makes meconium thick/particulate (aspiration risk).
 
@@ -61,7 +61,7 @@ Infants are typically **SGA (Small for Gestational Age)** or have signs of wasti
 ### Postnatal
 * **Clinical Assessment:** Assessment of gestational age (Ballard Score) vs. physical appearance.
     * *Discrepancy:* Baby scores "post-term" on neuromuscular maturity but looks malnourished.
-* **Ponderal Index (PI):** Calculation: $Weight (g) \times 100 / Length (cm)^3$. PI is typically low (<2.2), indicating wasting.
+* **Ponderal [[Statistics/Index\|Index]] (PI):** Calculation: $Weight (g) \times 100 / Length (cm)^3$. PI is typically low (<2.2), indicating wasting.
 * **Labs:**
     * Blood Glucose (monitoring for hypoglycemia).
     * Hematocrit (screen for polycythemia).
@@ -78,7 +78,7 @@ Infants are typically **SGA (Small for Gestational Age)** or have signs of wasti
     * Be prepared for **Meconium Aspiration**.
     * *Current NRP Guidelines:* If meconium-stained and vigorous $\rightarrow$ Routine care. If non-vigorous $\rightarrow$ Initiate PPV if not breathing (routine endotracheal suctioning is no longer recommended).
 2.  **Thermoregulation:**
-    * Aggressive prevention of heat loss (Kangaroo Mother Care, radiant warmer).
+    * Aggressive prevention of heat loss ([[Neonatalogy/Kangaroo Mother Care\|Kangaroo Mother Care]], radiant warmer).
 3.  **Metabolic Support:**
     * **Hypoglycemia:** Early breastfeeding (within 1 hour). Screen glucose at 2 hours. IV Dextrose (Start at 6-8 mg/kg/min) if symptomatic or persistent hypoglycemia.
 4.  **Respiratory Support:**
@@ -90,5 +90,5 @@ Infants are typically **SGA (Small for Gestational Age)** or have signs of wasti
 * **Mortality:** Perinatal mortality is increased 2–3 fold compared to term infants (primarily due to asphyxia and MAS).
 * **Morbidity:**
     * Short-term: Respiratory failure, seizures (HIE).
-    * Long-term: Increased risk of cerebral palsy and neurodevelopmental delay if significant intrapartum asphyxia occurred.
-    * **Barker Hypothesis:** Intrauterine growth restriction/dysmaturity is linked to adult-onset metabolic syndrome (hypertension, diabetes, CAD).
+    * Long-term: Increased risk of [[Neurology/Cerebral Palsy\|cerebral palsy]] and neurodevelopmental delay if significant intrapartum asphyxia occurred.
+    * **Barker Hypothesis:** Intrauterine growth restriction/dysmaturity is linked to adult-onset [[Endocrinology/Metabolic Syndrome\|metabolic syndrome]] (hypertension, diabetes, CAD).

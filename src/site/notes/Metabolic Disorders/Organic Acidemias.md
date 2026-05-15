@@ -26,13 +26,13 @@
 
 - Presents as a "sepsis-like" state following a symptom-free interval of 24–72 hours.
 - Rapid deterioration marked by poor feeding, vomiting, lethargy, hypotonia, seizures, and coma.
-- Specific features include encephalopathy with "boxing/bicycling" movements in MSUD, severe metabolic acidosis in organic acidemias, and pure hyperammonemia with respiratory alkalosis in UCDs.
+- Specific features include encephalopathy with "boxing/bicycling" movements in MSUD, severe metabolic acidosis in [[Metabolic Disorders/Organic Acidemias\|organic acidemias]], and pure hyperammonemia with respiratory alkalosis in UCDs.
 
 ### Chronic Or Late-Onset Presentation
 
 - **Neurological:** Intellectual disability (classic PKU, [[Metabolic Disorders/Homocystinuria\|Homocystinuria]]), developmental regression, ataxia, and movement disorders.
 - **Hepatic:** Liver failure, cirrhosis, and hepatocellular carcinoma seen in [[Metabolic Disorders/Tyrosinemia\|Tyrosinemia]] Type I.
-- **Ocular/Cutaneous:** Ectopia lentis ([[Metabolic Disorders/Homocystinuria\|Homocystinuria]]), cataracts (Galactosemia), and albinism.
+- **Ocular/Cutaneous:** Ectopia lentis ([[Metabolic Disorders/Homocystinuria\|Homocystinuria]]), cataracts ([[Metabolic Disorders/Galactosemia\|Galactosemia]]), and albinism.
 - **Psychiatric:** Autism-like features and behavioral issues prevalent in untreated PKU.
 
 ### Characteristic Odors
@@ -47,8 +47,8 @@
 
 ## Key Prototype Disorders
 
-- **[[Metabolic Disorders/Phenylketonuria\|Phenylketonuria]] (PKU):** Deficiency of Phenylalanine Hydroxylase (PAH) or BH4 cofactor. Results in severe intellectual disability, microcephaly, and hypopigmentation if untreated. Diagnosed via elevated Phenylalanine and low Tyrosine. Treated with low Phenylalanine diet and Sapropterin.
-- **[[Metabolic Disorders/Tyrosinemia\|Tyrosinemia]] Type I:** Defect in Fumarylacetoacetate Hydrolase (FAH) causing accumulation of toxic succinylacetone. Presents with infantile liver failure and renal Fanconi syndrome. Treated with Nitisinone (NTBC) and specific diet.
+- **[[Metabolic Disorders/Phenylketonuria\|Phenylketonuria]] (PKU):** Deficiency of Phenylalanine Hydroxylase (PAH) or BH4 cofactor. Results in severe intellectual disability, [[Neurology/Microcephaly\|microcephaly]], and hypopigmentation if untreated. Diagnosed via elevated Phenylalanine and low Tyrosine. Treated with low Phenylalanine diet and Sapropterin.
+- **[[Metabolic Disorders/Tyrosinemia\|Tyrosinemia]] Type I:** Defect in Fumarylacetoacetate Hydrolase (FAH) causing accumulation of toxic succinylacetone. Presents with infantile liver failure and renal [[Nephrology/Fanconi syndrome\|Fanconi syndrome]]. Treated with Nitisinone (NTBC) and specific diet.
 - **[[Metabolic Disorders/Maple Syrup Urine Disease\|Maple Syrup Urine Disease]] (MSUD):** Defect in Branched-chain $\alpha$-ketoacid dehydrogenase complex. Accumulation of Leucine, Isoleucine, and Valine. Presence of Alloisoleucine is pathognomonic.
 
 ## Diagnostic Approach
@@ -56,16 +56,16 @@
 ### First-Line Screening
 
 - **Blood Glucose:** Detects hypoglycemia seen in MSUD and [[Metabolic Disorders/Tyrosinemia\|Tyrosinemia]].
-- **Arterial Blood Gas (ABG):** Differentiates metabolic acidosis (Organic acidemias) from respiratory alkalosis (UCDs).
+- **Arterial Blood Gas (ABG):** Differentiates metabolic acidosis ([[Metabolic Disorders/Organic Acidemias\|Organic acidemias]]) from respiratory alkalosis (UCDs).
 - **Plasma Ammonia:** Critical to rule out [[Metabolic Disorders/Urea Cycle Disorders\|Urea Cycle Disorders]].
-- **Urine Ketones:** Present in Organic Acidemias and MSUD; absent in Fatty Acid Oxidation Defects.
+- **Urine Ketones:** Present in [[Metabolic Disorders/Organic Acidemias\|Organic Acidemias]] and MSUD; absent in Fatty Acid Oxidation Defects.
 
 ### Confirmatory Investigations
 
 - **High Performance Liquid Chromatography (HPLC):** Gold standard for quantifying plasma amino acids.
-- **Urine Organic Acids (GC-MS):** Essential for identifying organic acidemias.
-- **Tandem Mass Spectrometry (TMS):** Utilized for Newborn Screening on dried blood spots.
-- **Molecular Genetics:** Gene panel testing or exome sequencing for definitive diagnosis.
+- **Urine Organic Acids (GC-MS):** Essential for identifying [[Metabolic Disorders/Organic Acidemias\|organic acidemias]].
+- **Tandem Mass Spectrometry (TMS):** Utilized for [[Neonatalogy/Newborn Screening\|Newborn Screening]] on dried blood spots.
+- **Molecular Genetics:** Gene panel testing or [[Genetics/Exome Sequencing\|exome sequencing]] for definitive diagnosis.
 
 ## Management Principles
 
@@ -80,4 +80,4 @@
 
 - **Dietary Modification:** Implement lifelong restriction of the offending amino acid and supplement essential downstream products (e.g., Tyrosine in PKU).
 - **Surveillance:** Regular monitoring of neurodevelopment, growth, and nutritional markers like Albumin, Zinc, and Selenium.
-- **Transplantation:** Consider liver transplantation for MSUD, [[Metabolic Disorders/Tyrosinemia\|Tyrosinemia]], and UCDs, or kidney transplantation for Methylmalonic Acidemia.
+- **Transplantation:** Consider [[Gastrointestinal/Liver Transplantation\|liver transplantation]] for MSUD, [[Metabolic Disorders/Tyrosinemia\|Tyrosinemia]], and UCDs, or kidney transplantation for Methylmalonic Acidemia.

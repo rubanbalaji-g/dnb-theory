@@ -92,7 +92,7 @@ Diagnosis relies on characteristic screening tests and specific confirmatory mod
 
 ## Differential Diagnosis
 
-Conditions presenting with dark urine must be differentiated from Alkaptonuria.
+Conditions presenting with dark urine must be differentiated from [[Metabolic Disorders/Alkaptonuria\|Alkaptonuria]].
 
 - Porphyria (urine turns dark on standing).
 - Hemoglobinuria or Myoglobinuria.

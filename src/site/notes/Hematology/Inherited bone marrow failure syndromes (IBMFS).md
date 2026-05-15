@@ -49,7 +49,7 @@
 
 - Supportive care is a mainstay of treatment, utilizing judicious, leukocyte-depleted, irradiated red blood cell and platelet transfusions only when clinically indicated to prevent severe alloimmunization and iron overload.
 - Corticosteroids (e.g., prednisone) are the primary medical therapy for Diamond-Blackfan anemia, inducing a reticulocyte response in approximately 80% of patients.
-- Androgen therapy (e.g., oxymetholone or danazol) can stimulate hematopoiesis and is effective in improving blood counts in [[About\|about]] 50% of patients with [[Hematology/Fanconi Anemia\|Fanconi anemia]] and Dyskeratosis congenita.
+- Androgen therapy (e.g., oxymetholone or danazol) can stimulate hematopoiesis and is effective in improving blood counts in about 50% of patients with [[Hematology/Fanconi Anemia\|Fanconi anemia]] and Dyskeratosis congenita.
 - Cytokine therapy with Granulocyte Colony-Stimulating Factor (G-CSF) is utilized to manage severe neutropenia in SCN, SDS, and occasionally FA, though it must be monitored closely due to the risk of promoting leukemic transformation.
 - Allogeneic hematopoietic stem cell transplantation (HSCT) is the only curative therapy for the bone marrow failure, MDS, and leukemia associated with IBMFS.
 - Preparative regimens for HSCT must frequently employ reduced-intensity conditioning (avoiding radiation and high-dose alkylating agents) due to the exquisite sensitivity of patients (especially those with FA and DC) to DNA-damaging therapies.

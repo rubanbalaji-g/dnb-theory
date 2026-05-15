@@ -121,7 +121,7 @@ As per IMNCI and IYCF guidelines, the frequency depends on age and breastfeeding
 #### 12–24 Months (Family Diet)
 
 - **Diet:** Everything cooked at home (Family Pot). No separate cooking required.
-- **Volume:** Child should eat [[About\|about]] half the quantity of the mother.
+- **Volume:** Child should eat about half the quantity of the mother.
 - **Breastfeeding:** Continue on demand, preferably after meals to ensure food intake.
 
 ### The "Weaning Bridge" Concept

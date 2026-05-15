@@ -43,7 +43,7 @@ graph TD
    * Fetal pancreatic $\beta$-cell hyperplasia $\rightarrow$ **Fetal Hyperinsulinemia**.
    * Postnatal separation from placenta $\rightarrow$ interruption of glucose supply + persistent hyperinsulinemia $\rightarrow$ **Hypoglycemia**.
    * Hyperinsulinemia acts as a fetal growth hormone $\rightarrow$ Macrosomia/Organomegaly.
-   * Fetal metabolic demand $\rightarrow$ Intrauterine Hypoxia $\rightarrow$ increased Erythropoietin $\rightarrow$ **Polycythemia**.
+   * Fetal metabolic demand $\rightarrow$ Intrauterine Hypoxia $\rightarrow$ increased [[Hematology/Erythropoietin\|Erythropoietin]] $\rightarrow$ **Polycythemia**.
 
 ## 2. Metabolic Complications
 ### A. Hypoglycemia (Most Common)
@@ -128,13 +128,13 @@ graph TD
 * Mild, transient; associated with polycythemia/hyperviscosity.
 
 ## 4. Respiratory Complications
-* **Respiratory Distress Syndrome (RDS):** Delayed surfactant maturation due to antagonism of cortisol by insulin.
+* **[[Neonatalogy/Respiratory Distress Syndrome\|Respiratory Distress Syndrome]] (RDS):** Delayed surfactant maturation due to antagonism of cortisol by insulin.
 * **Transient Tachypnea of Newborn (TTN):** Common in infants delivered via elective CS (associated with macrosomia).
 
 ## 5. Congenital Anomalies (Embryopathy)
 * Occurs due to hyperglycemia during organogenesis (First Trimester).
-* **Cardiac:** Hypertrophic Cardiomyopathy (septal hypertrophy - transient), Transposition of Great Arteries (TGA), VSD.
-* **CNS:** Neural tube defects, Anencephaly.
+* **Cardiac:** Hypertrophic Cardiomyopathy (septal hypertrophy - transient), [[Cardiology/Transposition of great arteries\|Transposition of Great Arteries]] (TGA), [[Cardiology/VSD\|VSD]].
+* **CNS:** [[Neurology/Neural Tube Defects\|Neural tube defects]], Anencephaly.
 * **Skeletal:** Caudal Regression Syndrome (Sacral Agenesis) – most specific to IDM.
 * **Gastrointestinal:** Small Left Colon Syndrome, Situs Inversus.
 * **Renal:** Renal vein thrombosis (associated with polycythemia).

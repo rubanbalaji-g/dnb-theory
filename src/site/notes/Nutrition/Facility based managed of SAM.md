@@ -114,7 +114,7 @@ Management involves preparing the family for discharge to prevent relapse.
     - Good appetite and eating home food.
     - Medical complications resolved.
 - **Home Diet:** Transition from F-100 to nutritious home-based food (High energy/protein).
-- **Education:** Teach the mother [[About\|about]] hygiene, energy-dense food preparation, and danger signs.
+- **Education:** Teach the mother about hygiene, energy-dense food preparation, and danger signs.
 - **Schedule:** Follow-up at 1 week, 2 weeks, 1 month, 3 months, and 6 months.
 
 ### Summary of Dietary Formulas

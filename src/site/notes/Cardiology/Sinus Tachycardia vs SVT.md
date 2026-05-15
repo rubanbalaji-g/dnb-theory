@@ -11,7 +11,7 @@
 - Characterized by gradual acceleration (warm-up) and gradual deceleration (cool-down).
 - Heart rate dynamically fluctuates with changes in autonomic tone.
 
-### Supraventricular Tachycardia (SVT)
+### [[Cardiology/Supraventricular tachycardia (SVT)\|Supraventricular Tachycardia (SVT)]]
 
 - Encompasses paroxysmal or incessant tachycardias excluding ventricular tachycardia.
 - Predominantly driven by re-entrant mechanisms (Atrioventricular Reciprocating Tachycardia [AVRT], Atrioventricular Nodal Reentry Tachycardia [AVNRT]).
@@ -33,9 +33,9 @@
 - Exacerbated by caffeine, nonprescription decongestants, bronchodilators.
 - In utero SVT causes hydrops fetalis.
 
-## Electrocardiographic (ECG) Differentiation
+## Electrocardiographic ([[Misc/ECG\|ECG]]) Differentiation
 
-|Feature|Sinus Tachycardia|Supraventricular Tachycardia (SVT)|
+|Feature|Sinus Tachycardia|[[Cardiology/Supraventricular tachycardia (SVT)\|Supraventricular Tachycardia (SVT)]]|
 |:--|:--|:--|
 |**Heart Rate**|Variable; typically <230 bpm (rarely up to 240 bpm).|Fixed; 180-320 bpm (240-300 bpm in infants).|
 |**Rate Dynamics**|Varies with respiration and autonomic tone.|Abrupt changes; rigidly regular rate.|

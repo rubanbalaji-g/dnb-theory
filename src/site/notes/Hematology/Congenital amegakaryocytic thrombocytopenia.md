@@ -17,7 +17,7 @@ Additionally, a small proportion of patients presenting with a clinical picture 
 
 The onset of symptoms typically occurs between birth and the first year of life. Newborns frequently present within the first few days or weeks with petechiae, purpura, bruising, or overt bleeding. A major life-threatening complication is intracranial hemorrhage, which affects approximately 25% of patients (occurring 13% in utero, 4% at birth, and 7% within the first four weeks of life).
 
-While most patients have normal physical and imaging features, [[About\|about]] 10–20% of cases are accompanied by physical anomalies. The most common are neurologic abnormalities, including prominent developmental delay and cerebral or cerebellar atrophy. Congenital heart defects (such as atrial and ventricular septal defects, patent ductus arteriosus, [[Cardiology/Tetralogy of Fallot\|tetralogy of Fallot]], and coarctation of the aorta) are rare but possible, as are kidney malformations, eye anomalies, abnormal hips or feet, [[Neurology/Microcephaly\|microcephaly]], and cleft or high-arched palates.
+While most patients have normal physical and imaging features, about 10–20% of cases are accompanied by physical anomalies. The most common are neurologic abnormalities, including prominent developmental delay and cerebral or cerebellar atrophy. Congenital heart defects (such as atrial and ventricular septal defects, patent ductus arteriosus, [[Cardiology/Tetralogy of Fallot\|tetralogy of Fallot]], and coarctation of the aorta) are rare but possible, as are kidney malformations, eye anomalies, abnormal hips or feet, [[Neurology/Microcephaly\|microcephaly]], and cleft or high-arched palates.
 
 ### Laboratory Findings
 

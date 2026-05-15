@@ -16,12 +16,12 @@
 |Category|Specific Etiologies|
 |:--|:--|
 |**Normal Variants**|Familial (genetic) short stature, Constitutional delay of growth and puberty (CDGP).|
-|**Pathological (Proportionate)**|Chronic systemic illness (cerebral palsy, congenital heart disease, cystic fibrosis, asthma, chronic kidney disease).|
-|**Pathological (Proportionate)**|Undernutrition, malabsorption syndromes (e.g., [[Gastrointestinal/Celiac disease\|celiac disease]], chronic liver disease).|
-|**Pathological (Proportionate)**|Endocrine causes (Growth hormone deficiency or insensitivity, hypothyroidism, Cushing syndrome, poorly controlled diabetes mellitus).|
+|**Pathological (Proportionate)**|Chronic systemic illness ([[Neurology/Cerebral Palsy\|cerebral palsy]], congenital heart disease, [[Respiratory/Cystic Fibrosis\|cystic fibrosis]], [[Respiratory/Asthma\|asthma]], [[Nephrology/Chronic Kidney Disease\|chronic kidney disease]]).|
+|**Pathological (Proportionate)**|Undernutrition, malabsorption syndromes (e.g., [[Gastrointestinal/Celiac disease\|celiac disease]], [[Gastrointestinal/Chronic Liver Disease\|chronic liver disease]]).|
+|**Pathological (Proportionate)**|Endocrine causes (Growth hormone deficiency or insensitivity, hypothyroidism, [[Endocrinology/Cushing Syndrome\|Cushing syndrome]], poorly controlled diabetes mellitus).|
 |**Pathological (Proportionate)**|Children born small for gestational age (SGA) with inadequate catch-up growth.|
-|**Pathological (Proportionate)**|Psychosocial dwarfism (emotional deprivation).|
-|**Pathological (Proportionate)**|Genetic and chromosomal syndromes (Turner syndrome, Down syndrome, Prader-Willi syndrome, Noonan syndrome).|
+|**Pathological (Proportionate)**|Psychosocial [[Endocrinology/Dwarfism\|dwarfism]] (emotional deprivation).|
+|**Pathological (Proportionate)**|Genetic and chromosomal syndromes ([[Genetics/Turner Syndrome\|Turner syndrome]], Down syndrome, Prader-Willi syndrome, Noonan syndrome).|
 |**Pathological (Disproportionate)**|Skeletal dysplasias (e.g., achondroplasia, hypochondroplasia, osteogenesis imperfecta).|
 |**Pathological (Disproportionate)**|Rickets, spinal anomalies (Caries spine, hemivertebra), metabolic bone disease.|
 |**Idiopathic**|Idiopathic short stature (ISS) where no specific nutritional, endocrine, or genetic abnormality is identified.|
@@ -31,8 +31,8 @@
 - **Familial Short Stature:** The child's height is below the 3rd centile but is entirely appropriate for the genetic potential determined by the parents' heights.
 - **Constitutional Delay of Growth and Puberty (CDGP):** Children are born with normal size, decelerate growth in the first year, and then grow parallel to the 3rd centile; they experience a delayed pubertal growth spurt but achieve a normal final adult height.
 - **Small for Gestational Age (SGA):** Approximately 10-15% of babies born SGA fail to demonstrate catch-up growth by two years of age, remaining persistently short due to subtle defects in the growth hormone-insulin-like growth factor (GH-IGF) axis.
-- **Psychosocial Dwarfism:** Seen in emotionally neglected children, characterized by functional hypopituitarism with low IGF-1 levels and inadequate response to GH stimulation; rapid catch-up growth occurs upon removal from the stressful environment.
-- **Turner Syndrome:** Affects 1 in 2000 live-born girls; short stature may be the only presenting feature, mandating chromosomal evaluation (karyotype) in all girls presenting with unexplained short stature.
+- **Psychosocial [[Endocrinology/Dwarfism\|Dwarfism]]:** Seen in emotionally neglected children, characterized by functional hypopituitarism with low IGF-1 levels and inadequate response to GH stimulation; rapid catch-up growth occurs upon removal from the stressful environment.
+- **[[Genetics/Turner Syndrome\|Turner Syndrome]]:** Affects 1 in 2000 live-born girls; short stature may be the only presenting feature, mandating chromosomal evaluation (karyotype) in all girls presenting with unexplained short stature.
 
 ## Clinical Approach and History Taking
 
@@ -43,8 +43,8 @@
 |History Finding|Potential Etiological Clue|
 |:--|:--|
 |**Low birth weight / IUGR**|Small for gestational age (SGA) without catch-up, intrauterine infections (TORCH).|
-|**Polyuria, polydipsia**|Chronic renal failure, renal tubular acidosis, diabetes insipidus.|
-|**[[Gastrointestinal/Chronic Diarrhea\|Chronic diarrhea]], greasy stools**|Malabsorption syndromes (e.g., [[Gastrointestinal/Celiac disease\|celiac disease]], cystic fibrosis).|
+|**Polyuria, polydipsia**|Chronic renal failure, renal tubular acidosis, [[Endocrinology/Diabetes Insipidus\|diabetes insipidus]].|
+|**[[Gastrointestinal/Chronic Diarrhea\|Chronic diarrhea]], greasy stools**|Malabsorption syndromes (e.g., [[Gastrointestinal/Celiac disease\|celiac disease]], [[Respiratory/Cystic Fibrosis\|cystic fibrosis]]).|
 |**Neonatal hypoglycemia, prolonged jaundice, micropenis**|Congenital hypopituitarism.|
 |**Headache, vomiting, visual field defects**|Pituitary or hypothalamic space-occupying lesion (e.g., craniopharyngioma).|
 |**Lethargy, constipation, cold intolerance**|Hypothyroidism.|
@@ -57,18 +57,18 @@
 - The mid-parental height (MPH) must be calculated to establish the child's genetic target height; for boys, it is [(Mother's height + Father's height + 13 cm) / 2], and for girls, [(Mother's height + Father's height - 13 cm) / 2].
 - A target range of approximately 4 inches (or 6.5 cm) above and below the MPH is used to define the expected genetic height potential.
 - Body proportions must be evaluated by calculating the upper segment to lower segment (US/LS) ratio, which is normally 1.7 at birth, 1.3 at 3 years, and 1.0 by 7 to 10 years of age.
-- An increased US/LS ratio (short limbs) suggests skeletal dysplasias like achondroplasia or untreated congenital hypothyroidism, whereas a decreased ratio (short trunk) suggests spinal anomalies or mucopolysaccharidosis.
+- An increased US/LS ratio (short limbs) suggests skeletal dysplasias like achondroplasia or untreated [[Endocrinology/Congenital Hypothyroidism\|congenital hypothyroidism]], whereas a decreased ratio (short trunk) suggests spinal anomalies or mucopolysaccharidosis.
 - Arm span is normally shorter than height by 2.5 cm at birth, equals height by 10 to 11 years, and slightly exceeds height in adulthood.
 
 |Physical Examination Finding|Potential Etiological Clue|
 |:--|:--|
 |**Disproportionate growth (abnormal US/LS ratio)**|Skeletal dysplasia, severe rickets, severe hypothyroidism.|
-|**Dysmorphic facial features or webbed neck**|Congenital syndromes (Turner syndrome, Noonan syndrome, Down syndrome).|
-|**Pallor, clubbing, or chronic hypoxia signs**|Chronic anemia, chronic kidney disease, congenital heart disease, malabsorption.|
-|**Hypertension**|Chronic kidney disease, Turner syndrome, Cushing syndrome.|
+|**Dysmorphic facial features or webbed neck**|Congenital syndromes ([[Genetics/Turner Syndrome\|Turner syndrome]], Noonan syndrome, Down syndrome).|
+|**Pallor, clubbing, or chronic hypoxia signs**|Chronic anemia, [[Nephrology/Chronic Kidney Disease\|chronic kidney disease]], congenital heart disease, malabsorption.|
+|**Hypertension**|[[Nephrology/Chronic Kidney Disease\|Chronic kidney disease]], [[Genetics/Turner Syndrome\|Turner syndrome]], [[Endocrinology/Cushing Syndrome\|Cushing syndrome]].|
 |**Frontal bossing, depressed nasal bridge, small penis**|Hypopituitarism.|
 |**Goiter, coarse dry skin, sparse hair**|Hypothyroidism.|
-|**Central obesity, purple striae, hirsutism**|Cushing syndrome.|
+|**Central obesity, purple striae, hirsutism**|[[Endocrinology/Cushing Syndrome\|Cushing syndrome]].|
 |**Costochondral beading, wrist widening, Harrison sulcus**|Rickets.|
 
 ## Diagnostic Investigations
@@ -92,9 +92,9 @@
 |Investigation Level|Specific Tests Included|Diagnostic Purpose|
 |:--|:--|:--|
 |**Level 1 (Essential Screening)**|Complete blood count with ESR, Urinalysis (microscopy, osmolality, pH), Stool examination (parasites, occult blood, steatorrhea).|Screen for chronic infections, anemia, renal tubular acidosis, and malabsorption syndromes.|
-|**Level 1 (Metabolic/Bone)**|Blood urea, creatinine, electrolytes (bicarbonate, Ca, P, ALP), fasting glucose, albumin, LFTs.|Evaluate for chronic kidney disease, rickets, liver failure, and severe malnutrition.|
+|**Level 1 (Metabolic/Bone)**|Blood urea, creatinine, electrolytes (bicarbonate, Ca, P, ALP), fasting glucose, albumin, LFTs.|Evaluate for [[Nephrology/Chronic Kidney Disease\|chronic kidney disease]], rickets, liver failure, and severe malnutrition.|
 |**Level 2 (Specific Endocrine & Genetic)**|Serum free T4, TSH, Celiac serology (tissue transglutaminase antibodies).|Rule out hypothyroidism and occult [[Gastrointestinal/Celiac disease\|celiac disease]].|
-|**Level 2 (Karyotype)**|Standard Karyotype (or chromosomal microarray) strictly in all females.|Rule out Turner syndrome, regardless of the presence or absence of classic dysmorphic features.|
+|**Level 2 (Karyotype)**|Standard Karyotype (or chromosomal microarray) strictly in all females.|Rule out [[Genetics/Turner Syndrome\|Turner syndrome]], regardless of the presence or absence of classic dysmorphic features.|
 |**Level 3 (Advanced Endocrine)**|Serum IGF-1, IGFBP-3, Provocative growth hormone testing.|Confirm Growth Hormone Deficiency or insensitivity.|
 |**Level 3 (Imaging)**|MRI Brain (focusing on the pituitary gland and hypothalamus).|Identify anatomical defects or space-occupying lesions (e.g., craniopharyngioma) if GH deficiency is confirmed.|
 |**Targeted Imaging**|Complete skeletal survey (radiographs of skull, spine, pelvis, limbs).|Required for all patients presenting with disproportionate short stature to diagnose specific skeletal dysplasias.|
@@ -106,6 +106,6 @@
 - Undernutrition and chronic illnesses (e.g., [[Gastrointestinal/Celiac disease\|celiac disease]], renal tubular acidosis) require targeted nutritional rehabilitation and medical therapy, which typically leads to rapid catch-up growth.
 - Primary hypothyroidism is treated aggressively with daily levothyroxine replacement therapy to restore linear growth and prevent developmental delay.
 - Recombinant human growth hormone (rhGH) therapy, administered via daily subcutaneous injections, is the definitive treatment for confirmed Growth Hormone Deficiency.
-- rhGH therapy is also FDA-approved and highly recommended for optimizing final adult height in several non-GH deficient conditions, including Turner syndrome, Prader-Willi syndrome, chronic kidney disease, and in children born SGA who fail to demonstrate catch-up growth by two years of age.
+- rhGH therapy is also FDA-approved and highly recommended for optimizing final adult height in several non-GH deficient conditions, including [[Genetics/Turner Syndrome\|Turner syndrome]], Prader-Willi syndrome, [[Nephrology/Chronic Kidney Disease\|chronic kidney disease]], and in children born SGA who fail to demonstrate catch-up growth by two years of age.
 - In cases of severe skeletal dysplasia (e.g., achondroplasia), specialized orthopedic interventions, including surgical limb-lengthening procedures, may be considered at dedicated centers.
 - For selected pubertal patients with CDGP experiencing significant psychosocial distress due to extreme delay, a brief course of low-dose sex steroids may occasionally be utilized to initiate the pubertal growth spurt and secondary sexual characteristics.

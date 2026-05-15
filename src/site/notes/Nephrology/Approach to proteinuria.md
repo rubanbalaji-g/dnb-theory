@@ -29,7 +29,7 @@
 
 ### History and Physical Examination
 
-- A comprehensive history must inquire [[About\|about]] recent infectious illnesses, visible hematuria, facial or peripheral swelling, and the use of nephrotoxic medications like nonsteroidal anti-inflammatory drugs (NSAIDs).
+- A comprehensive history must inquire about recent infectious illnesses, visible hematuria, facial or peripheral swelling, and the use of nephrotoxic medications like nonsteroidal anti-inflammatory drugs (NSAIDs).
 - The clinician should elicit any family history of kidney disease, deafness, or autoimmune conditions.
 - Physical examination requires accurate blood pressure measurement to screen for hypertension, assessment of volume status (edema, jugular venous pulse, hepatomegaly), and evaluation of systemic signs such as a vasculitic rash, arthritis, or dysmorphic features.
 

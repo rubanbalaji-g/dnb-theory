@@ -10,7 +10,7 @@ The [[Infectious Diseases/COVID-19\|COVID-19]] pandemic precipitated a secondary
 
 There was a documented surge in pediatric emergency department (ED) visits for mental health conditions during the pandemic.
 
-- **Depression and Anxiety:** Feelings of isolation, chaos derived from virtual schooling, and anxiety [[About\|about]] family health contributed to rising rates of internalizing disorders. High school students reported significant adversity, with female students and those identifying as LGBTQ+ experiencing the highest rates of poor mental health,.
+- **Depression and Anxiety:** Feelings of isolation, chaos derived from virtual schooling, and anxiety about family health contributed to rising rates of internalizing disorders. High school students reported significant adversity, with female students and those identifying as LGBTQ+ experiencing the highest rates of poor mental health,.
 - **Suicidality:** Studies indicated that suicidal behavior and ideation in youths were higher during months of school closures in 2020 compared to 2019,.
 - **[[Development/Eating Disorders\|Eating Disorders]]:** Adolescent girls showed a distinct spike in ED visits for [[Development/Eating Disorders\|eating disorders]]. Contributing factors included the loss of daily routine, lack of social connections, heightened anxiety, and increased exposure to social media during lockdowns,.
 - **Other Manifestations:** Increases in tic disorders and obsessive-compulsive disorder (OCD) were also observed, particularly among teen girls.

@@ -21,9 +21,9 @@
 
 |Subtype|Anatomic Features|Pathophysiology & Clinical Presentation|
 |:--|:--|:--|
-|**D-TGA with Intact Ventricular Septum (IVS)**|Isolated/simple TGA; no VSD.|Hypoxemia within first days of life following ductus arteriosus closure. Survival entirely dependent on patent foramen ovale (PFO)/atrial septal defect (ASD) and patent ductus arteriosus (PDA) for mixing.|
-|**D-TGA with Ventricular Septal Defect (VSD)**|VSD present, typically perimembranous.|Increased pulmonary blood flow. Severity of cyanosis determined by degree of mixing at ventricular level. Congestive heart failure develops around 4-10 weeks of age.|
-|**D-TGA with VSD and Pulmonary Stenosis (LVOTO)**|Associated with subaortic stenosis or dynamic/acquired left ventricular outflow tract obstruction (LVOTO).|Mimics Tetralogy of Fallot physiology, but obstruction is in the LV. Results in left-to-right anatomic shunting with limited effective pulmonary blood flow.|
+|**D-TGA with Intact Ventricular Septum (IVS)**|Isolated/simple TGA; no [[Cardiology/VSD\|VSD]].|Hypoxemia within first days of life following ductus arteriosus closure. Survival entirely dependent on patent foramen ovale (PFO)/atrial septal defect ([[Cardiology/ASD\|ASD]]) and patent ductus arteriosus (PDA) for mixing.|
+|**D-TGA with Ventricular Septal Defect ([[Cardiology/VSD\|VSD]])**|[[Cardiology/VSD\|VSD]] present, typically perimembranous.|Increased pulmonary blood flow. Severity of cyanosis determined by degree of mixing at ventricular level. Congestive heart failure develops around 4-10 weeks of age.|
+|**D-TGA with [[Cardiology/VSD\|VSD]] and Pulmonary Stenosis (LVOTO)**|Associated with subaortic stenosis or dynamic/acquired left ventricular outflow tract obstruction (LVOTO).|Mimics [[Cardiology/Tetralogy of Fallot\|Tetralogy of Fallot]] physiology, but obstruction is in the LV. Results in left-to-right anatomic shunting with limited effective pulmonary blood flow.|
 
 ### Diagnosis
 
@@ -41,15 +41,15 @@
 #### Postnatal Evaluation
 
 - **Chest Radiograph (CXR):** Classic "egg on a string" appearance; narrow mediastinal silhouette; absent thymic shadow.
-- **Electrocardiogram (ECG):** Right axis deviation; right ventricular hypertrophy.
-- **Echocardiography:** Gold standard. Subcostal view confirms posterior PA arising from LV and anterior aorta arising from RV. Parasternal short-axis shows semilunar valves as two circles (aorta anterior/rightward). Evaluates mixing lesions (PFO, VSD, PDA) and coronary artery anatomy.
+- **Electrocardiogram ([[Misc/ECG\|ECG]]):** Right axis deviation; right ventricular hypertrophy.
+- **Echocardiography:** Gold standard. Subcostal view confirms posterior PA arising from LV and anterior aorta arising from RV. Parasternal short-axis shows semilunar valves as two circles (aorta anterior/rightward). Evaluates mixing lesions (PFO, [[Cardiology/VSD\|VSD]], PDA) and coronary artery anatomy.
 
 ### Surgical Management
 
 - **Preoperative Palliation:** Balloon atrial septostomy (Rashkind procedure) for restrictive atrial septum to improve mixing and reduce LA pressure.
-- **D-TGA (IVS or small VSD):** Arterial switch operation (ASO). Pulmonary artery and aorta transected and switched; coronary arteries transferred from aortic to pulmonary root.
-- **D-TGA with VSD and LVOTO:**
-    - _Rastelli procedure:_ VSD patch connects LV to aorta; native PA transected/oversewn; RV-to-PA extracardiac conduit placed.
+- **D-TGA (IVS or small [[Cardiology/VSD\|VSD]]):** Arterial switch operation (ASO). Pulmonary artery and aorta transected and switched; coronary arteries transferred from aortic to pulmonary root.
+- **D-TGA with [[Cardiology/VSD\|VSD]] and LVOTO:**
+    - _Rastelli procedure:_ [[Cardiology/VSD\|VSD]] patch connects LV to aorta; native PA transected/oversewn; RV-to-PA extracardiac conduit placed.
     - _Réparation à l'Etage Ventriculaire (REV):_ Infundibular septum resected; intraventricular baffle placed; native PA directly implanted to RV without conduit.
     - _Nikaidoh procedure:_ Aortic root and coronary arteries translocated entirely to LV; biventricular outflow tract reconstruction.
 - **Historical/Alternative Operations:** Mustard or Senning procedures (atrial switch) using pericardial or autologous atrial baffles to redirect venous flow. Used historically or if ASO contraindicated.
@@ -72,22 +72,22 @@ Isolated CC-TGA occurs in only 10-20% of cases. 80-90% present with associated s
 
 |Associated Lesion|Incidence|Pathophysiologic Impact|
 |:--|:--|:--|
-|**Ventricular Septal Defect (VSD)**|60-80%|Typically perimembranous. Large VSDs lead to systemic-level pressures in both ventricles and congestive heart failure.|
-|**Pulmonary Outflow Obstruction**|50%|Variable severity (mild to pulmonary atresia). Co-existing VSD and pulmonary stenosis mimics Tetralogy of Fallot physiology.|
+|**Ventricular Septal Defect ([[Cardiology/VSD\|VSD]])**|60-80%|Typically perimembranous. Large VSDs lead to systemic-level pressures in both ventricles and congestive heart failure.|
+|**Pulmonary Outflow Obstruction**|50%|Variable severity (mild to pulmonary atresia). Co-existing [[Cardiology/VSD\|VSD]] and pulmonary stenosis mimics [[Cardiology/Tetralogy of Fallot\|Tetralogy of Fallot]] physiology.|
 |**Left-sided Tricuspid Valve (TV) Anomalies**|90%|Ebstein-like anomaly of the systemic TV; apical displacement of septal leaflet; dysplasia. Results in progressive systemic TV regurgitation, LA dilation, and heart failure.|
 |**Conduction System Abnormalities**|~40% AV Block|Displaced, unstable AV node. Up to 40% born with or develop complete AV block; risk increases ~2% annually.|
 
 ### Diagnosis
 
 - **Chest Radiograph (CXR):** Straight left upper border of cardiac silhouette formed by ascending aorta. Levocardia without cardiomegaly typical in isolated/mild disease; progressive cardiomegaly correlates with severe TV regurgitation.
-- **Electrocardiogram (ECG):** Ventricular inversion reflected by absent Q waves in precordial lead V6; abnormal Q waves in III, aVR, aVF, V1; upright T waves across precordium. Frequently shows AV block.
+- **Electrocardiogram ([[Misc/ECG\|ECG]]):** Ventricular inversion reflected by absent Q waves in precordial lead V6; abnormal Q waves in III, aVR, aVF, V1; upright T waves across precordium. Frequently shows AV block.
 - **Echocardiography:** Demonstrates AV and VA discordance. Parasternal short-axis verifies anterior and levo-positioned (leftward) aortic valve. Long-axis views essential for sub-pulmonary obstruction evaluation.
 - **Cardiac Magnetic Resonance (CMR) / Angiography:** Flat, sagittally positioned interventricular septum separating right-sided LV and left-sided RV. CMR indicated for quantification of systemic RV size, volume, and function, including late gadolinium enhancement (LGE) for fibrosis.
 
 ### Surgical Management
 
 - **Indications:** Declining systemic RV function, worsening systemic TV regurgitation, or symptomatic heart failure. Symptomatic CC-TGA with severe TV insufficiency requires TV replacement.
-- **Conventional (Physiologic) Repair:** Closure of VSD or relief of pulmonary stenosis without altering the morphologic RV's role as the systemic pump. High risk of postoperative complete AV block.
+- **Conventional (Physiologic) Repair:** Closure of [[Cardiology/VSD\|VSD]] or relief of pulmonary stenosis without altering the morphologic RV's role as the systemic pump. High risk of postoperative complete AV block.
 - **Double Switch Operation:** Anatomic repair to restore morphologic LV as systemic ventricle. Includes atrial switch (Senning/Mustard) plus arterial switch (ASO) or Rastelli procedure (if VSD/pulmonary stenosis present).
 
 ## Comparative Summary: D-TGA vs. L-TGA

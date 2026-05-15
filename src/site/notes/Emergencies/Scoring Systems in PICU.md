@@ -38,13 +38,13 @@ First developed in 1988, the PRISM score has evolved through PRISM III and curre
 * **Advantages:** Exceptionally high discrimination power; provides a comprehensive physiological snapshot. It is highly validated across diverse PICU populations globally.
 * **Limitations (The Treatment Paradox):** Because PRISM gathers data over 24 hours, early, aggressive, and high-quality PICU interventions can normalize physiological variables (e.g., fluid resuscitation normalizing heart rate and BUN). Paradoxically, this lowers the PRISM score, making the patient appear "less sick" at baseline, which confounds the assessment of the unit's actual care quality. This phenomenon is known as "lead-time bias" or the "treatment paradox."
 
-### B. Pediatric Index of Mortality (PIM)
+### B. Pediatric [[Statistics/Index\|Index]] of Mortality (PIM)
 Developed specifically to overcome the treatment paradox seen with PRISM, PIM (currently utilized as PIM 2 and PIM 3) relies on data collected at the immediate point of ICU encounter.
 * **Timing of Data Collection:** Data must be collected within the first 1 hour of PICU admission, or at the time of initial face-to-face contact with the ICU team.
 * **Variables in PIM 3:** Comprises 10 variables, making it significantly less labor-intensive than PRISM. It heavily weights the pre-ICU context.
 	* **Physiological:** Systolic blood pressure, pupillary reaction to light, PaO2/FiO2 ratio, and base excess.
 	* **Therapeutic:** Whether the patient is on mechanical ventilation at the time of admission.
-	* **Contextual & Diagnostic:** Classifies admissions as elective vs. non-elective; assesses post-cardiopulmonary bypass status; and stratifies patients based on specific high-risk diagnoses (e.g., severe combined immunodeficiency, leukemia) and low-risk diagnoses (e.g., asthma, bronchiolitis).
+	* **Contextual & Diagnostic:** Classifies admissions as elective vs. non-elective; assesses post-cardiopulmonary bypass status; and stratifies patients based on specific high-risk diagnoses (e.g., severe combined immunodeficiency, leukemia) and low-risk diagnoses (e.g., [[Respiratory/Asthma\|asthma]], bronchiolitis).
 * **Advantages:** Because it assesses the patient prior to the full effect of intensive care interventions, PIM accurately reflects the severity of illness presented to the ICU, completely avoiding the treatment paradox. It requires no complex laboratory panels, making it highly applicable in resource-limited settings.
 * **Limitations:** It may underestimate the true risk of mortality in patients who experience sudden clinical deterioration or nosocomial complications later in their PICU stay.
 

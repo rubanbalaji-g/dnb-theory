@@ -8,13 +8,13 @@
 - Primary embryonic defect: Anterior and cephalad deviation of infundibular (conal) septum.
 - Four classic anatomic components:
     - Right ventricular outflow tract (RVOT) obstruction (infundibular, valvar, or supravalvar pulmonary stenosis).
-    - Malalignment ventricular septal defect (VSD).
+    - Malalignment ventricular septal defect ([[Cardiology/VSD\|VSD]]).
     - Dextroposition/overriding aorta.
     - Right ventricular hypertrophy (RVH).
 
 ## Pathophysiology
 
-- Unrestrictive VSD permitting equalized systolic pressures between right and left ventricles.
+- Unrestrictive [[Cardiology/VSD\|VSD]] permitting equalized systolic pressures between right and left ventricles.
 - Shunt direction and cyanosis severity dictated by RVOT obstruction severity.
 - Mild RVOT obstruction: Balanced or left-to-right shunting, minimal cyanosis ("Pink TOF").
 - Severe RVOT obstruction: Right-to-left shunting, systemic hypoxemia, overt clinical cyanosis.
@@ -45,7 +45,7 @@
 - Palpable systolic thrill at mid/upper left sternal border.
 - Normal first heart sound (S1).
 - Single second heart sound (S2) or soft, delayed pulmonary component.
-- Harsh, crescendo-decrescendo ejection systolic murmur at mid/upper left sternal border (originating from RVOT turbulence, not VSD).
+- Harsh, crescendo-decrescendo ejection systolic murmur at mid/upper left sternal border (originating from RVOT turbulence, not [[Cardiology/VSD\|VSD]]).
 - Murmur shortens and softens with progressive RVOT obstruction.
 
 ## Associated Anomalies
@@ -62,9 +62,9 @@
 
 |Modality|Key Findings|
 |:--|:--|
-|**Electrocardiogram (ECG)**|Right axis deviation (RAD).Right ventricular hypertrophy (RVH) (tall R wave in V1, deep S wave in V6).Upright T wave in V1.Right atrial enlargement (peaked P waves).|
+|**Electrocardiogram ([[Misc/ECG\|ECG]])**|Right axis deviation (RAD).Right ventricular hypertrophy (RVH) (tall R wave in V1, deep S wave in V6).Upright T wave in V1.Right atrial enlargement (peaked P waves).|
 |**Chest Radiograph (CXR)**|Normal overall cardiac size."Boot-shaped" cardiac silhouette (Coeur en Sabot) due to upturned RV apex.Concave main pulmonary artery segment ("pulmonary bay").Oligemic (decreased) pulmonary vascular markings.Right-sided aortic arch (indentation on right side of trachea).|
-|**Echocardiography**|Diagnostic modality of choice.Anterior malalignment of conal septum.Overriding aorta with mitral-aortic fibrous continuity.Large malalignment VSD.Multilevel RVOT obstruction evaluation via continuous/pulsed wave Doppler.Assessment of pulmonary valve annulus and branch pulmonary arteries.|
+|**Echocardiography**|Diagnostic modality of choice.Anterior malalignment of conal septum.Overriding aorta with mitral-aortic fibrous continuity.Large malalignment [[Cardiology/VSD\|VSD]].Multilevel RVOT obstruction evaluation via continuous/pulsed wave Doppler.Assessment of pulmonary valve annulus and branch pulmonary arteries.|
 |**Cardiac CT / MRI / Angiography**|Indicated for complex pulmonary artery anatomy evaluation.Delineation of coronary artery anomalies (LAD from RCA) crossing RVOT.Post-repair quantification of RV volumes, ejection fraction, and pulmonary regurgitation.|
 
 ## Management
@@ -86,7 +86,7 @@
 - Elective timing typically between 3 and 12 months of age (commonly 4-6 months).
 - Cardiopulmonary bypass utilization.
 - Transatrial-transpulmonary approach preferred (avoids large right ventriculotomy).
-- VSD patch closure.
+- [[Cardiology/VSD\|VSD]] patch closure.
 - RVOT obstruction relief (infundibular muscle resection, pulmonary valvotomy).
 - Transannular patch placement for hypoplastic pulmonary valve annulus.
 - "Valve-sparing" strategies increasingly preferred to mitigate long-term pulmonary regurgitation.
@@ -97,8 +97,8 @@
 | :---------------------------------------------------------------------------------- | :------------------------------------------------------------- |
 | Polycythemia and hyperviscosity syndrome                                            | Pulmonary valve regurgitation (common post-transannular patch) |
 | Cerebral thrombosis/stroke (exacerbated by dehydration and iron deficiency)         | Right ventricular dilation and systolic/diastolic dysfunction  |
-| Brain abscess                                                                       | Ventricular arrhythmias and sudden cardiac death               |
-| Infective endocarditis / endarteritis,                                              | Right bundle branch block (RBBB),                              |
+| [[Neurology/Brain Abscess\|Brain abscess]]                                                                       | Ventricular arrhythmias and sudden cardiac death               |
+| [[Cardiology/Infective endocarditis\|Infective endocarditis]] / endarteritis,                                              | Right bundle branch block (RBBB),                              |
 | Delayed puberty and growth failure                                                  | Residual RVOT obstruction or branch pulmonary artery stenosis  |
 | Congestive heart failure (rare, seen in "pink" TOF with large left-to-right shunt), | Atrial arrhythmias (e.g., atrial flutter, atrial fibrillation) |
 |                                                                                     | Aortic root dilation and progressive aortic regurgitation      |

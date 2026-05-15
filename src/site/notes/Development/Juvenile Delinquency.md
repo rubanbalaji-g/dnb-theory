@@ -20,14 +20,14 @@
 
 - **Psychiatric Precursors:** Disruptive, impulse-control, and conduct disorders (CD) are strongly associated with a wide range of adverse outcomes, including the eventual development of delinquency and criminality.
 - **Prenatal Exposures:** In utero exposure to illicit substances strongly correlates with later delinquency; specifically, exposure to marijuana and cocaine is linked to behavioral problems and delinquency in the offspring.
-- **Fetal Alcohol Effects:** Specific alcohol-associated attention-deficit/hyperactivity disorder (ADHD) frequently manifests with antisocial behavior, poor judgment, conduct disorders, and delinquent behaviors.
-- **Psychosocial and Environmental Factors:** Dysfunctional family environments, poor parenting styles, and association with gangs or antisocial peer groups heavily influence the trajectory toward juvenile delinquency.
+- **Fetal Alcohol Effects:** Specific alcohol-associated attention-deficit/hyperactivity disorder ([[Development/ADHD\|ADHD]]) frequently manifests with antisocial behavior, poor judgment, conduct disorders, and delinquent behaviors.
+- **Psychosocial and Environmental Factors:** Dysfunctional family environments, poor parenting styles, and association with gangs or antisocial peer groups heavily influence the trajectory toward [[Development/Juvenile Delinquency\|juvenile delinquency]].
 
 ### Clinical Associations and Comorbidities
 
 |Comorbid Condition|Clinical Significance|
 |:--|:--|
-|**Attention-Deficit/Hyperactivity Disorder (ADHD)**|Delinquency, conduct disorder, and oppositional defiant behaviors are highly recognized behavioral comorbidities associated with ADHD.|
+|**Attention-Deficit/Hyperactivity Disorder ([[Development/ADHD\|ADHD]])**|Delinquency, conduct disorder, and oppositional defiant behaviors are highly recognized behavioral comorbidities associated with [[Development/ADHD\|ADHD]].|
 |**Mental Health Disorders**|Delinquency frequently co-occurs with a spectrum of severe mental health issues, including anxiety, depression, mood disorders, and suicidality.|
 |**Substance Use Disorders**|Experimentation with or abuse of alcohol and illicit drugs is both a defining illegal behavior of delinquency and a primary comorbidity.|
 

@@ -4,7 +4,7 @@
 
 ### 1. Definition
 * **Innocent Murmur:** Produced by normal blood flow through anatomically normal heart structures (occurs in up to 80% of children).
-* **Organic Murmur:** Result of structural heart disease (e.g., VSD, Valvular Stenosis).
+* **Organic Murmur:** Result of structural heart disease (e.g., [[Cardiology/VSD\|VSD]], Valvular Stenosis).
 
 ### 2. Clinical History
 
@@ -31,7 +31,7 @@ Innocent murmurs typically follow the **7S** characteristics:
 | **Intensity** | Grade ≤ 2/6 | Grade ≥ 3/6 (with thrill) |
 | **Timing** | Midsystolic (Crescendo-Decrescendo) | Pansystolic, Late Systolic, or Diastolic |
 | **Quality** | Musical, vibratory, blowing | Harsh, blowing, or "machinery" |
-| **S2 Sound** | Normal physiological splitting | Fixed split (ASD) or single S2 (TGA) |
+| **S2 Sound** | Normal physiological splitting | Fixed split ([[Cardiology/ASD\|ASD]]) or single S2 (TGA) |
 | **Clicks/Snaps** | Absent | Ejection clicks or opening snaps present |
 ### 5. Red Flags for Organic Murmurs 
 Presence of any of the following mandates further investigation (ECHO):

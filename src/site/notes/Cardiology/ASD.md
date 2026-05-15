@@ -33,9 +33,9 @@
 
 |Syndrome / Genetic Variant|Key Clinical Features & Associations|
 |---|---|
-|**Holt-Oram Syndrome**|Autosomal dominant _TBX5_ mutation. Upper limb/radial defects, phocomelia, AV block, secundum ASD,,.|
-|**_NKX2.5_ Mutation**|Familial ASD associated with progressive atrioventricular conduction block,.|
-|**_GATA4_ Mutation**|Familial secundum ASD without associated heart block.|
+|**Holt-Oram Syndrome**|Autosomal dominant _TBX5_ mutation. Upper limb/radial defects, phocomelia, AV block, secundum [[Cardiology/ASD\|ASD]],,.|
+|**_NKX2.5_ Mutation**|Familial [[Cardiology/ASD\|ASD]] associated with progressive atrioventricular conduction block,.|
+|**_GATA4_ Mutation**|Familial secundum [[Cardiology/ASD\|ASD]] without associated heart block.|
 |**Ellis-van Creveld**|Autosomal recessive _EVC_ mutation. Common atrium/ASD, short limbs/ribs, postaxial polydactyly, dysplastic nails,.|
 
 ## Clinical Features
@@ -52,12 +52,12 @@
 
 ## Investigations
 
-### Electrocardiogram (ECG)
+### Electrocardiogram ([[Misc/ECG\|ECG]])
 
 - Right axis deviation, right ventricular hypertrophy,.
 - Incomplete right bundle branch block (rSR' pattern in V1) seen in ~90% cases,.
-- Crochetage sign: Notch near apex of R wave in inferior limb leads (II, III, aVF). Highly specific for ASD when combined with incomplete RBBB.
-- Left axis deviation (-30° to -90°) pathognomonic for ostium primum ASD.
+- Crochetage sign: Notch near apex of R wave in inferior limb leads (II, III, aVF). Highly specific for [[Cardiology/ASD\|ASD]] when combined with incomplete RBBB.
+- Left axis deviation (-30° to -90°) pathognomonic for ostium primum [[Cardiology/ASD\|ASD]].
 - Prolonged PR interval common (prolonged interatrial conduction time).
 
 ### Chest X-Ray (CXR)
@@ -79,15 +79,15 @@
 ### Advanced Modalities
 
 - **Cardiac Magnetic Resonance (CMR):** Quantifies Qp:Qs, precise RV/LV volume assessment, invaluable for delineating anomalous pulmonary venous drainage,.
-- **Cardiac Catheterization:** Seldom diagnostic. Reserved for assessing severe PAH, testing vasoreactivity, or calculating pulmonary vascular resistance (PVR) prior to closure,,.
+- **[[Cardiology/Cardiac Catheterization\|Cardiac Catheterization]]:** Seldom diagnostic. Reserved for assessing severe PAH, testing vasoreactivity, or calculating pulmonary vascular resistance (PVR) prior to closure,,.
 
 ## Natural History & Complications
 
 - **Spontaneous Closure:** High likelihood for defects <5mm; mostly occurs by age 3 years. Defects >8mm unlikely to close.
 - **Arrhythmias:** Atrial flutter and fibrillation prevalence increases significantly after age 40 or with co-existing PAH,,.
-- **Pulmonary Arterial Hypertension (PAH):** Develops in small proportion (6-17%). Unpredictable, progressive. Can lead to irreversible Eisenmenger syndrome (cyanosis, shunt reversal),,,.
+- **Pulmonary Arterial Hypertension (PAH):** Develops in small proportion (6-17%). Unpredictable, progressive. Can lead to irreversible [[Cardiology/Eisenmenger syndrome\|Eisenmenger syndrome]] (cyanosis, shunt reversal),,,.
 - **Paradoxical Embolism:** Risk of venous thromboembolism traversing defect leading to stroke,.
-- **Infective Endocarditis:** Extremely rare due to low-velocity turbulence. Antibiotic prophylaxis not routinely recommended,.
+- **[[Cardiology/Infective endocarditis\|Infective Endocarditis]]:** Extremely rare due to low-velocity turbulence. Antibiotic prophylaxis not routinely recommended,.
 
 ## Management
 
@@ -98,7 +98,7 @@
 |Right heart volume overload / RV enlargement,,.|Severe, irreversible PAH.|
 |Qp:Qs > 1.5:1 without cyanosis at rest,.|PVR > 2/3 Systemic Vascular Resistance (SVR),.|
 |History or high risk of paradoxical embolism/stroke,.|PA systolic pressure > 2/3 systemic systolic pressure,.|
-|Orthodeoxia-platypnea syndrome.|Net right-to-left shunting (Eisenmenger syndrome),.|
+|Orthodeoxia-platypnea syndrome.|Net right-to-left shunting ([[Cardiology/Eisenmenger syndrome\|Eisenmenger syndrome]]),.|
 
 ### Timing
 
@@ -115,10 +115,10 @@
 
 ### Surgical Closure
 
-- **Indications:** Large defects, deficient rims, sinus venosus ASD, coronary sinus ASD, primum ASD, or concurrent surgical indications,,,.
+- **Indications:** Large defects, deficient rims, sinus venosus [[Cardiology/ASD\|ASD]], coronary sinus [[Cardiology/ASD\|ASD]], primum [[Cardiology/ASD\|ASD]], or concurrent surgical indications,,,.
 - **Procedure:** Performed via median sternotomy or mini-sternotomy on cardiopulmonary bypass,.
 - **Technique:** Primary direct suture (small defects) or patch closure using autologous pericardium, PTFE, or Dacron,,.
 - **Specialized Procedures:**
-    - **Warden Procedure:** Specifically for superior sinus venosus ASD with partial anomalous pulmonary venous return. Divides SVC above anomalous veins, anastomoses proximal SVC to RA appendage, and baffles remaining SVC stump (with pulmonary veins) through ASD into LA,. Avoids sinus node injury.
-    - **Transcaval Repair:** Single autologous pericardial patch utilized for favorable sinus venosus anatomy; closes ASD while simultaneously rerouting pulmonary veins to LA.
+    - **Warden Procedure:** Specifically for superior sinus venosus [[Cardiology/ASD\|ASD]] with partial anomalous pulmonary venous return. Divides SVC above anomalous veins, anastomoses proximal SVC to RA appendage, and baffles remaining SVC stump (with pulmonary veins) through [[Cardiology/ASD\|ASD]] into LA,. Avoids sinus node injury.
+    - **Transcaval Repair:** Single autologous pericardial patch utilized for favorable sinus venosus anatomy; closes [[Cardiology/ASD\|ASD]] while simultaneously rerouting pulmonary veins to LA.
 - **Surgical Complications:** Extremely low mortality (<1%). Potential for postoperative arrhythmias, sinus node dysfunction (especially after sinus venosus repair), or residual shunts,,. Post-pericardiotomy syndrome with pericardial effusion requires early identification, NSAIDs, or pericardiocentesis if tamponade develops.

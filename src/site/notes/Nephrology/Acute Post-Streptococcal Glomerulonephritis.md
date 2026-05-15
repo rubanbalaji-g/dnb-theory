@@ -33,7 +33,7 @@
 - The classic presentation is an acute nephritic syndrome characterized by the sudden, abrupt onset of gross hematuria, edema, hypertension, and oliguria.
 - Gross hematuria is reported in approximately 30% to 33% of patients and is typically described as smoky, brown, tea-colored, or cola-colored.
 - Edema is present in up to 90% of symptomatic children; it usually begins as facial or periorbital puffiness that does not pit readily on pressure, and can progress to pedal edema.
-- Hypertension occurs in 60% to 80% of children, is primarily volume-dependent, and can be severe enough to require immediate pharmacological intervention in [[About\|about]] half of cases.
+- Hypertension occurs in 60% to 80% of children, is primarily volume-dependent, and can be severe enough to require immediate pharmacological intervention in about half of cases.
 
 ### Atypical Presentation and Complications
 

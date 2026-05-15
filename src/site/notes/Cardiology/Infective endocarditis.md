@@ -16,7 +16,7 @@
 ### Endothelial Injury & NBTE Formation
 
 - Pathogenesis relies on complex interaction between pathogenic bacteria and valvular endothelium.
-- Turbulent blood flow (high-pressure gradients across VSD, aortic stenosis) traumatizes vascular endothelium.
+- Turbulent blood flow (high-pressure gradients across [[Cardiology/VSD\|VSD]], aortic stenosis) traumatizes vascular endothelium.
 - Endothelial damage triggers thrombogenesis. Fibrin and platelet deposition forms sterile Nonbacterial Thrombotic Endocarditis (NBTE).
 - Implanted mechanical devices (valves, catheters, pacemaker wires) develop biofilm serving as adhesive substrate.
 
@@ -60,7 +60,7 @@ Presentation highly heterogeneous. Symptoms relate to four pathophysiological me
 
 Occur in ~30% of patients. High risk with vegetations >10mm, fungal etiologies, and left-sided lesions.
 
-- **Central Nervous System:** Ischemic/hemorrhagic stroke, mycotic aneurysm rupture, brain abscess. Presents with seizures, hemiparesis, altered sensorium.
+- **Central Nervous System:** Ischemic/hemorrhagic stroke, mycotic aneurysm rupture, [[Neurology/Brain Abscess\|brain abscess]]. Presents with seizures, hemiparesis, altered sensorium.
 - **Pulmonary Emboli:** Common in right-sided IE. Presents with chest pain, hypoxemia, hemoptysis.
 - **Systemic Emboli:** Renal infarcts (hematuria), splenic infarcts (splenomegaly, left flank pain), mesenteric ischemia.
 - **Janeway Lesions:** Non-tender, erythematous/hemorrhagic macules on palms and soles.
@@ -151,7 +151,7 @@ Early surgical intervention improves survival in complicated IE. Do not delay su
 Antibiotic prophylaxis limited to patients with highest risk of adverse IE outcomes:
 
 1. Prosthetic cardiac valves or prosthetic material used for valve repair.
-2. Previous history of Infective Endocarditis.
+2. Previous history of [[Cardiology/Infective endocarditis\|Infective Endocarditis]].
 3. Unrepaired cyanotic CHD (including palliative shunts/conduits).
 4. Completely repaired CHD utilizing prosthetic material or device (surgical or transcatheter), **during the first 6 months** post-procedure (allows endothelialization).
 5. Repaired CHD with residual defects at or adjacent to the site of a prosthetic patch/device.

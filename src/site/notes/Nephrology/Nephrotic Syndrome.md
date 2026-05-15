@@ -200,7 +200,7 @@ This follows a structured, stepwise algorithm:
   * Switching to **Rituximab** or **MMF** to reduce CNI exposure and toxicity.  
 * **For Patients with Continued Non-Response:** If the patient fails CNI therapy and subsequent add-on therapies (Rituximab/MMF), immunosuppression is generally withdrawn, and care becomes supportive, focusing on slowing CKD progression.
 
-###### **What [[About\|about]] Cyclophosphamide?**
+###### **What about Cyclophosphamide?**
 
 * **IV Cyclophosphamide:** Considered an **alternate therapy**, but it is **inferior to CNIs** for inducing remission in SRNS. It may be used if CNIs are unavailable or contraindicated.  
 * **Oral Cyclophosphamide:** **NOT recommended** for the treatment of SRNS.

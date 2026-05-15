@@ -40,7 +40,7 @@ The preferred corticosteroids are those that cross the placenta in active form (
 * **Choice:** Depends on availability and local guidelines.
 
 ## 5. REPEAT COURSES (Rescue Therapy)
-Routine multiple courses are **not** recommended due to concerns [[About\|about]] fetal growth (brain/somatic).
+Routine multiple courses are **not** recommended due to concerns about fetal growth (brain/somatic).
 
 * **Single Rescue Course:** May be considered if:
     1.  The patient remains at risk of preterm birth.

@@ -35,9 +35,9 @@
 
 ### Diagnostic Evaluation
 
-- **Pulse Oximetry:** Standard bedside pulse oximetry ($SpO_2$) is notoriously unreliable and misleading in the setting of CO poisoning. Standard two-wavelength oximeters cannot differentiate between oxyhemoglobin and carboxyhemoglobin, frequently displaying a falsely reassuring, normal oxygen saturation ($>95%$) despite life-threatening tissue hypoxia.
+- **[[Emergencies/Pulse Oximetry\|Pulse Oximetry]]:** Standard bedside [[Emergencies/Pulse Oximetry\|pulse oximetry]] ($SpO_2$) is notoriously unreliable and misleading in the setting of CO poisoning. Standard two-wavelength oximeters cannot differentiate between oxyhemoglobin and carboxyhemoglobin, frequently displaying a falsely reassuring, normal oxygen saturation ($>95%$) despite life-threatening tissue hypoxia.
 - **Blood Gas and Co-oximetry:** The definitive diagnostic test is an arterial or venous blood gas analyzed with co-oximetry to directly measure the $HbCO$ fraction. CO toxicity and tissue hypoxia must be assumed until $HbCO$ levels are documented to be $<10%$.
-- **Cardiac Evaluation:** Because the myocardium is highly sensitive to hypoxia, an electrocardiogram (ECG) and cardiac troponin levels should be obtained in any patient exhibiting cardiovascular symptoms, syncope, or severe poisoning to evaluate for myocardial ischemia.
+- **Cardiac Evaluation:** Because the myocardium is highly sensitive to hypoxia, an electrocardiogram ([[Misc/ECG\|ECG]]) and cardiac troponin levels should be obtained in any patient exhibiting cardiovascular symptoms, syncope, or severe poisoning to evaluate for myocardial ischemia.
 - **Other Biomarkers:** A serum creatine kinase (CK) level should be evaluated in severely poisoned or comatose patients to screen for rhabdomyolysis resulting from prolonged immobility or tissue hypoxia.
 - **Pregnancy Screening:** A pregnancy test is mandatory for all adolescent females, as fetal hemoglobin has a higher affinity for CO, putting the fetus at an extreme risk of anoxic injury even at lower maternal $HbCO$ concentrations.
 
@@ -54,7 +54,7 @@
     - History of syncope or loss of consciousness.
     - Coma or seizures.
     - Persistent altered mental status or confusion.
-    - Objective evidence of myocardial ischemia (ECG changes or elevated troponin).
+    - Objective evidence of myocardial ischemia ([[Misc/ECG\|ECG]] changes or elevated troponin).
     - An $HbCO$ level $>25%$ in any patient.
     - An $HbCO$ level $>15%$ in a pregnant patient (due to the high vulnerability of the fetus).
     - Abnormal cerebellar examination findings (e.g., ataxia).

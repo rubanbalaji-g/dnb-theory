@@ -21,7 +21,7 @@
 ### Ion Channel Modulation
 
 - The primary toxicological mechanism involves the direct interaction of specific venom proteins ($\alpha$-toxins and $\beta$-toxins) with excitable neuronal ion channels.
-- The $\alpha$-toxin specifically targets site $3$ of the sodium channel, completely inactivating its closing potential without modifying the opening potential; this provokes massive depolarization, prolonged action potentials, cardiac arrhythmias, and paralysis.
+- The $\alpha$-toxin specifically targets site $3$ of the sodium channel, completely inactivating its closing potential without modifying the opening potential; this provokes massive depolarization, prolonged action potentials, [[Cardiology/Cardiac arrhythmias\|cardiac arrhythmias]], and paralysis.
 - The $\beta$-toxin targets site $4$ of the sodium channel, directly inducing spastic or myoclonic muscular contractions.
 
 ### The Autonomic Storm
@@ -35,7 +35,7 @@
 - **Cardiovascular System:** Marked by intense catecholamine-induced vasospasm, extreme increases in myocardial oxygen demand, and altered sarcolemma permeability to calcium. This cascade culminates in severe myocardial injury, acute left ventricular (LV) dysfunction, and acute pulmonary edema (present in $3-24.5\%$ of cases).
 - **Central Nervous System:** Extreme hypertension and enormous catecholamine levels can precipitate hypertensive encephalopathy, cortical damage, cerebral infarctions, and seizures.
 - **Peripheral Nervous System:** Presents as wild flailing, thrashing, abnormal oculomotor movements, and facial fasciculations.
-- **Other Systems:** Microthrombi and altered clotting pathways can induce disseminated intravascular coagulation (DIC), while intense hemolysis can precipitate acute kidney injury. Direct venom toxicity can also manifest as acute pancreatitis and severe gastrointestinal distress.
+- **Other Systems:** Microthrombi and altered clotting pathways can induce [[Hematology/Disseminated Intravascular Coagulation\|disseminated intravascular coagulation]] (DIC), while intense hemolysis can precipitate [[Nephrology/Acute Kidney Injury\|acute kidney injury]]. Direct venom toxicity can also manifest as [[Gastrointestinal/Acute Pancreatitis\|acute pancreatitis]] and severe gastrointestinal distress.
 
 ## Clinical Manifestations
 
@@ -54,7 +54,7 @@
 
 ## Diagnostic and Laboratory Evaluation
 
-- **Electrocardiography (ECG):** An essential early screening tool for myocardial injury; classic findings include peaked T waves, QR prolongation, ST-segment elevation (in leads I and aVL), QTc prolongation, low voltage complexes, and left anterior hemiblock.
+- **Electrocardiography ([[Misc/ECG\|ECG]]):** An essential early screening tool for myocardial injury; classic findings include peaked T waves, QR prolongation, ST-segment elevation (in leads I and aVL), QTc prolongation, low voltage complexes, and left anterior hemiblock.
 - **Echocardiography:** The gold standard for assessing the severity of cardiogenic shock, often revealing global left ventricular dysfunction, ventricular dilatation, and distinct regional wall motion abnormalities.
 - **Chest Radiography:** Can identify early pulmonary edema within $3$ hours of the sting, manifesting as prominent hilar congestion, peripheral non-branching lines, and inter-lobular septal edema.
 - **Biochemical Profiling:** Toxicity often induces elevated levels of serum amylase, liver enzymes, lactate dehydrogenase (LDH), and potassium; lipid profile analysis may demonstrate elevated free fatty acids alongside diminished cholesterol and triglycerides.

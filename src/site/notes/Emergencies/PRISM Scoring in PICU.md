@@ -6,7 +6,7 @@
 The **Pediatric Risk of Mortality (PRISM)** score is a physiologically based scoring system designed to assess the severity of illness and predict the risk of mortality in infants and children admitted to Pediatric Intensive Care Units (PICUs). Developed by Pollack et al., it is primarily used for risk-adjustment, institutional quality benchmarking, and clinical research.
 
 ## Evolution of PRISM
-* **PRISM (1988):** Derived from the Physiologic Stability Index (PSI); reduced variables from 34 to 14.
+* **PRISM (1988):** Derived from the Physiologic Stability [[Statistics/Index\|Index]] (PSI); reduced variables from 34 to 14.
 * **PRISM III (1996):** Expanded to 17 variables with refined categories and improved calibration. Validated over the first 12 or 24 hours of admission.
 * **PRISM IV (2016):** The most recent update; optimized for current PICU practices. It focuses on the **first 4 hours** of admission to minimize the influence of treatment effects on the score.
 

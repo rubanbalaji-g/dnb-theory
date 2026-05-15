@@ -31,7 +31,7 @@
 
 - Because the investigator artificially decides the number of cases and controls, case-control studies cannot yield true estimates of disease incidence or prevalence in the general population.
 - Consequently, the actual Relative Risk cannot be directly calculated.
-- Instead, the primary measure of association used is the Odds Ratio (OR).
+- Instead, the primary measure of association used is the [[Statistics/Odds Ratio (OR)\|Odds Ratio (OR)]].
 - The Odds Ratio estimates the odds of prior exposure among the diseased cases divided by the odds of prior exposure among the non-diseased controls.
 - An Odds Ratio serves as a reliable approximation of the Relative Risk primarily when the disease being studied is rare.
 
@@ -62,7 +62,7 @@
 ### Measures of Disease and Association
 
 - Because a cohort study tracks a defined disease-free population over time, it directly measures the true incidence rate of the disease.
-- The primary measure of association is the Relative Risk (RR), also known as the Risk Ratio.
+- The primary measure of association is the [[Statistics/Relative Risk (RR)\|Relative Risk (RR)]], also known as the Risk Ratio.
 - Relative Risk is calculated as the incidence rate of the disease among the exposed subjects divided by the incidence rate among the unexposed subjects.
 - A Relative Risk greater than 1.0 indicates that the exposed individuals are at a higher risk of developing the disease, suggesting a hazardous association.
 
@@ -82,7 +82,7 @@
 |**Direction of Inquiry**|Retrospective (Outcome $\rightarrow$ Exposure).|Prospective or Retrospective (Exposure $\rightarrow$ Outcome).|
 |**Starting Population**|Selected based on presence or absence of the disease.|Selected based on presence or absence of the exposure.|
 |**Disease Status at Inception**|Disease is already present in the "cases".|All subjects must be completely disease-free.|
-|**Primary Measure of Association**|Odds Ratio (OR).|Relative Risk (RR) / Risk Ratio.|
+|**Primary Measure of Association**|[[Statistics/Odds Ratio (OR)\|Odds Ratio (OR)]].|[[Statistics/Relative Risk (RR)\|Relative Risk (RR)]] / Risk Ratio.|
 |**Incidence / Prevalence**|Cannot calculate incidence or prevalence.|Directly calculates true incidence rates.|
 |**Primary Utility**|Best for investigating **rare diseases** and long latent periods.|Best for investigating **rare exposures**.|
 |**Multiple Variable Analysis**|Can assess multiple risk factors/exposures for a single disease.|Can assess multiple outcomes/diseases for a single exposure.|

@@ -5,7 +5,7 @@
 ## Definition And Etiology
 
 - Autosomal recessive disorders of sulfur amino acid metabolism characterized by the accumulation of homocysteine in blood and urine.
-- Classic Homocystinuria results from a deficiency of Cystathionine $\beta$-Synthase (CBS), requiring Vitamin B6 as a cofactor.
+- Classic [[Metabolic Disorders/Homocystinuria\|Homocystinuria]] results from a deficiency of Cystathionine $\beta$-Synthase (CBS), requiring Vitamin B6 as a cofactor.
 - Other forms result from defects in homocysteine remethylation, such as Methylene Tetrahydrofolate Reductase (MTHFR) deficiency or Cobalamin (Vitamin B12) processing defects.
 
 ```mermaid
@@ -61,7 +61,7 @@ Patients typically appear normal at birth, with multisystem involvement developi
 ### Screening Tests
 
 - **Cyanide-Nitroprusside Test:** Urine turns deep red/magenta, detecting sulfhydryl groups. False negatives can occur with low protein intake, and false positives occur in cystinuria.
-- **Newborn Screening (NBS):** Detects elevated methionine. Note that it may miss B6-responsive forms or remethylation defects where methionine levels are low.
+- **[[Neonatalogy/Newborn Screening\|Newborn Screening]] (NBS):** Detects elevated methionine. Note that it may miss B6-responsive forms or remethylation defects where methionine levels are low.
 
 ### Confirmatory Tests
 
@@ -73,7 +73,7 @@ Patients typically appear normal at birth, with multisystem involvement developi
 ### Pyridoxine (B6) Challenge Test
 
 - Administer 100–500 mg of Vitamin B6 daily to determine B6 responsiveness (a key prognostic factor).
-- A significant drop in plasma homocysteine and methionine implies B6-Responsive Homocystinuria, which carries a milder phenotype.
+- A significant drop in plasma homocysteine and methionine implies B6-Responsive [[Metabolic Disorders/Homocystinuria\|Homocystinuria]], which carries a milder phenotype.
 
 ## Management
 

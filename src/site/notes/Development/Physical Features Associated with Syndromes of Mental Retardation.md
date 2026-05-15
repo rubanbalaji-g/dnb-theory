@@ -12,13 +12,13 @@
 
 |Physical Finding|Associated Syndromes with Mental Retardation|
 |:--|:--|
-|**Macrocephaly**|Sotos syndrome, Fragile X syndrome, Mucopolysaccharidoses, Alexander syndrome, Canavan disease.|
-|**Microcephaly**|Fetal alcohol syndrome, Angelman syndrome, Cornelia de Lange syndrome, Trisomy 13, Trisomy 18, prenatal infections (e.g., TORCH).|
-|**Flat Occiput / Brachycephaly**|Down syndrome (Trisomy 21), Zellweger syndrome.|
+|**Macrocephaly**|Sotos syndrome, [[Genetics/Fragile X Syndrome\|Fragile X syndrome]], Mucopolysaccharidoses, Alexander syndrome, Canavan disease.|
+|**[[Neurology/Microcephaly\|Microcephaly]]**|Fetal alcohol syndrome, Angelman syndrome, Cornelia de Lange syndrome, Trisomy 13, Trisomy 18, prenatal infections (e.g., TORCH).|
+|**Flat Occiput / Brachycephaly**|[[Genetics/Down Syndrome (Trisomy 21)\|Down syndrome (Trisomy 21)]], Zellweger syndrome.|
 |**Prominent Occiput**|Trisomy 18 (Edwards syndrome).|
 |**Synophrys (joined eyebrows)**|Cornelia de Lange syndrome.|
-|**Midface Hypoplasia**|Fetal alcohol syndrome, Down syndrome, Williams syndrome.|
-|**Cataracts / Corneal Clouding**|Galactosemia, Lowe syndrome, Mucopolysaccharidoses (e.g., Hurler syndrome), congenital rubella.|
+|**Midface Hypoplasia**|Fetal alcohol syndrome, Down syndrome, [[Genetics/Williams Syndrome\|Williams syndrome]].|
+|**Cataracts / Corneal Clouding**|[[Metabolic Disorders/Galactosemia\|Galactosemia]], Lowe syndrome, Mucopolysaccharidoses (e.g., Hurler syndrome), congenital rubella.|
 |**Brushfield Spots (speckled iris)**|Down syndrome.|
 |**Lisch Nodules (iris hamartomas)**|Neurofibromatosis type 1.|
 
@@ -26,20 +26,20 @@
 
 |Syndrome|Diagnostic Physical Features|
 |:--|:--|
-|**Down Syndrome (Trisomy 21)**|Upward slanting palpebral fissures, epicanthal folds, flat facial profile, small dysplastic ears, protruding tongue, single transverse palmar crease, wide gap between 1st and 2nd toes (sandal gap), and generalized hypotonia.|
-|**Fragile X Syndrome**|Long face, prominent square jaw, large protruding ears, macroorchidism (enlarged testes post-puberty), and generalized joint hyperextensibility.|
+|**[[Genetics/Down Syndrome (Trisomy 21)\|Down Syndrome (Trisomy 21)]]**|Upward slanting palpebral fissures, epicanthal folds, flat facial profile, small dysplastic ears, protruding tongue, single transverse palmar crease, wide gap between 1st and 2nd toes (sandal gap), and generalized hypotonia.|
+|**[[Genetics/Fragile X Syndrome\|Fragile X Syndrome]]**|Long face, prominent square jaw, large protruding ears, macroorchidism (enlarged testes post-puberty), and generalized joint hyperextensibility.|
 |**Prader-Willi Syndrome**|Severe neonatal hypotonia, early childhood obesity driven by hyperphagia, almond-shaped eyes, down-turned mouth, small hands and feet, and hypogenitalism.|
-|**Angelman Syndrome**|Acquired microcephaly, deep-set eyes, midface hypoplasia, wide mouth with prominent jaw, fair hair and skin, ataxia with a wide-based "puppet-like" gait, and unprovoked laughter.|
+|**Angelman Syndrome**|Acquired [[Neurology/Microcephaly\|microcephaly]], deep-set eyes, midface hypoplasia, wide mouth with prominent jaw, fair hair and skin, ataxia with a wide-based "puppet-like" gait, and unprovoked laughter.|
 |**Cornelia de Lange Syndrome**|Synophrys, long and thick eyelashes, short nasal bridge with anteverted nares, thin downturned upper lip, micrognathia, and severe limb reduction defects (micromelia, phocomelia, or oligodactyly).|
 |**Rubinstein-Taybi Syndrome**|Broad thumbs and broad halluces (great toes) with valgus deviation, down-slanting palpebral fissures, prominent beaked nose, and highly arched palate.|
 |**Trisomy 13 (Patau Syndrome)**|Cleft lip and palate (often midline), microphthalmia, iris coloboma, postaxial polydactyly, sloping forehead, and aplasia cutis congenita (scalp defects).|
-|**Trisomy 18 (Edwards Syndrome)**|Clenched hands with overlapping fingers (index finger over 3rd, 5th digit over 4th), rocker-bottom feet with prominent talus, micrognathia, and narrow hips.|
-|**Williams Syndrome**|Round face with full cheeks and lips, long philtrum, stellate pattern in the iris, and supravalvular aortic stenosis.|
+|**Trisomy 18 (Edwards Syndrome)**|Clenched hands with overlapping fingers ([[Statistics/Index\|index]] finger over 3rd, 5th digit over 4th), rocker-bottom feet with prominent talus, micrognathia, and narrow hips.|
+|**[[Genetics/Williams Syndrome\|Williams Syndrome]]**|Round face with full cheeks and lips, long philtrum, stellate pattern in the iris, and supravalvular aortic stenosis.|
 |**Fetal Alcohol Spectrum Disorder**|Short palpebral fissures, flat nasal bridge, smooth and flat philtrum, thin upper vermilion border of the lip, radioulnar synostosis, and cardiac septal defects.|
 
 ### Cutaneous and Extremity Associations
 
-- Skin lesions often provide immediate visual clues to underlying neurocutaneous syndromes (phakomatoses), which are strongly associated with seizures and intellectual disability.
+- Skin lesions often provide immediate visual clues to underlying [[Neurology/Neurocutaneous Syndromes (Phakomatoses)\|neurocutaneous syndromes (phakomatoses)]], which are strongly associated with seizures and intellectual disability.
 - Extremity abnormalities, including alterations in digit shape, size, or number, are frequently a component of contiguous gene deletion or chromosomal syndromes affecting cognitive development.
 
 |System / Finding|Associated Syndromes with Mental Retardation|
@@ -50,4 +50,4 @@
 |**Postaxial Polydactyly**|Trisomy 13, Bardet-Biedl syndrome, Ellis-van Creveld syndrome.|
 |**Syndactyly**|Cornelia de Lange syndrome, Smith-Lemli-Opitz syndrome, Apert syndrome.|
 |**Clinodactyly (5th finger incurving)**|Down syndrome, Fetal alcohol syndrome, Trisomy 18.|
-|**Hyperconvex or Hypoplastic Nails**|Turner syndrome (hyperconvex), Trisomy 13/18 (hypoplastic), Fetal alcohol syndrome.|
+|**Hyperconvex or Hypoplastic Nails**|[[Genetics/Turner Syndrome\|Turner syndrome]] (hyperconvex), Trisomy 13/18 (hypoplastic), Fetal alcohol syndrome.|

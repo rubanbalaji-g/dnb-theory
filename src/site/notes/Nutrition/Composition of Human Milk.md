@@ -22,8 +22,8 @@ Human milk protein content is lower than that of animal milks but is biochemical
     - In early lactation, the ratio can be as high as 80:20.
     - Whey proteins form a soft, flocculent curd in the stomach, facilitating easy digestion and rapid gastric emptying.
 - **Specific Protein Components:**
-    - **Alpha-lactalbumin:** The major whey protein ([[About\|about]] 40% of whey), rich in tryptophan.
-    - **Lactoferrin:** Constitutes [[About\|about]] 30% of whey proteins. It binds iron (bacteriostatic effect against _E. coli_) and enhances the absorption of iron and zinc,.
+    - **Alpha-lactalbumin:** The major whey protein (about 40% of whey), rich in tryptophan.
+    - **Lactoferrin:** Constitutes about 30% of whey proteins. It binds iron (bacteriostatic effect against _E. coli_) and enhances the absorption of iron and zinc,.
     - **Secretory IgA (sIgA):** Represents 15–20% of whey proteins; resistant to proteolysis and provides surface immunity.
     - **Absence of Beta-lactoglobulin:** Human milk lacks beta-lactoglobulin, the major allergen found in cow's milk,.
 - **Amino Acid Profile:**

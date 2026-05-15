@@ -42,7 +42,7 @@ Successful ASPs, whether inpatient or outpatient, rely on a multidisciplinary te
 4. **Action:** Implementing interventions to improve prescribing.
 5. **Tracking:** Monitoring antibiotic use and resistance patterns.
 6. **Reporting:** Sharing data with prescribers and staff.
-7. **Education:** Educating clinicians [[About\|about]] resistance and optimal prescribing.
+7. **Education:** Educating clinicians about resistance and optimal prescribing.
 
 ## 4. Inpatient Antimicrobial Stewardship
 

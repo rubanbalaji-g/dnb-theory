@@ -45,7 +45,7 @@
 |:--|:--|
 |Hypovolemia|Toxins|
 |Hypoxia / ventilation problems|Tamponade (cardiac)|
-|Hydrogen ion (acidosis)|Tension pneumothorax|
+|Hydrogen ion (acidosis)|Tension [[Respiratory/Pneumothorax\|pneumothorax]]|
 |Hypoglycemia|Thrombosis (coronary or pulmonary)|
 |Hypo- / Hyperkalemia|Trauma (causing hypovolemia)|
 |Hypothermia / Hyperthermia||

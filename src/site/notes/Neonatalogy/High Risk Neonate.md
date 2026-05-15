@@ -7,7 +7,7 @@
 * **Rationale:**
     * **Resource Allocation:** Rigorous follow-up of *all* neonates discharged is neither practical nor feasible in most healthcare settings.
     * **Targeted Surveillance:** Selecting "at-risk" infants allows for the concentration of specialized resources on those most likely to benefit.
-    * **Morbidity Prevalence:** Systematic reviews indicate a high prevalence of long-term neurodevelopmental sequelae in specific groups (e.g., Sepsis 40%, Meningitis 42%, HIE 31%, Preterm birth 31%).
+    * **Morbidity Prevalence:** Systematic reviews indicate a high prevalence of long-term neurodevelopmental sequelae in specific groups (e.g., Sepsis 40%, [[Neurology/Meningitis\|Meningitis]] 42%, HIE 31%, Preterm birth 31%).
 
 ## 2. Basic Elements of the High-Risk Care System
 ### A. Selection Criteria (Who is High Risk?)
@@ -16,7 +16,7 @@ Selection is based on gestational age, birth weight, perinatal interventions, an
     * Birth weight <1500 g.
     * Gestation <32 weeks.
 * **Clinical Criteria (examples):**
-    * Meningitis, HIE Stage 2 or higher.
+    * [[Neurology/Meningitis\|Meningitis]], HIE Stage 2 or higher.
     * Mechanical ventilation >48 hours.
     * Major malformations or chromosomal disorders.
     * Symptomatic hypoglycemia or polycythemia.
@@ -27,7 +27,7 @@ Selection is based on gestational age, birth weight, perinatal interventions, an
 The high-risk concept extends beyond identification to ensuring safe transition home.
 * **Physiological Stability:** Hemodynamically stable, maintaining temperature in an open crib.
 * **Feeding Competence:** Full enteral feeds established; consistent weight gain (at least 3 days).
-* **Parental Readiness:** Parents confident in care, danger sign recognition, and basic skills (Kangaroo Mother Care, feeding).
+* **Parental Readiness:** Parents confident in care, danger sign recognition, and basic skills ([[Neonatalogy/Kangaroo Mother Care\|Kangaroo Mother Care]], feeding).
 
 ### C. The Follow-up Infrastructure
 * **Dedicated Clinic:** Needs a specific venue, fixed timing, and multidisciplinary team (Neonatologist, Psychologist, Occupational Therapist, Ophthalmologist, ENT, etc.).
@@ -36,7 +36,7 @@ The high-risk concept extends beyond identification to ensuring safe transition 
     * **Correction of Age:** Essential element for preterm infants; age is corrected for prematurity until 24 months to avoid false labeling of delay.
 
 ## 3. Advantages of the High-Risk Approach
-* **Early Detection:** Facilitates early identification of morbidities like cerebral palsy, sensory impairment (ROP, hearing loss), and growth failure.
+* **Early Detection:** Facilitates early identification of morbidities like [[Neurology/Cerebral Palsy\|cerebral palsy]], sensory impairment (ROP, hearing loss), and growth failure.
 * **Early Intervention:** Enables timely referrals (e.g., rehabilitation for tone abnormalities, glasses for refractive errors) which optimizes intact survival.
 * **Holistic Management:** The multidisciplinary model addresses non-medical needs, including social issues, parental counseling, and neurodevelopmental support.
 * **Improved Quality of Life:** Aims to minimize long-term disability and maximize potential through surveillance of "silent" morbidities (e.g., cognitive deficits appearing at school age).
@@ -64,7 +64,7 @@ The high-risk concept extends beyond identification to ensuring safe transition 
     * Minor neurological disabilities or cognitive/learning difficulties often become apparent only with increasing age (school entry), necessitating follow-up until at least 8 years.
     * Hearing loss can occur even after passing initial screens (OAE/AABR); continued surveillance is essential.
 * **The "No-CP" Morbidity:**
-    * Focusing solely on Cerebral Palsy (CP) misses a significant burden (19-40%) of mild-moderate motor impairments in "non-CP" high-risk survivors.
+    * Focusing solely on [[Neurology/Cerebral Palsy\|Cerebral Palsy]] (CP) misses a significant burden (19-40%) of mild-moderate motor impairments in "non-CP" high-risk survivors.
 
 ## 6. Components of High-Risk Evaluation (The "Elements" in Practice)
 * **Growth Monitoring:** Using specific charts (Fenton’s until 50 weeks PMA, then WHO).

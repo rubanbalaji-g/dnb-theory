@@ -9,7 +9,7 @@
 - The terms 'growth' and 'development' are not interchangeable, as they represent two different facets of change dynamics: quantity and quality.
 - Growth and development usually proceed concurrently and are closely interlinked; factors affecting one process generally impact the other.
 
-## Core Principles of Growth and Development
+## Core [[Development/Principles of Growth and Development\|Principles of Growth and Development]]
 
 ### Continuous and Orderly Process
 
@@ -41,9 +41,9 @@
 - During early development, an infant's initial disorganized and generalized mass activity is gradually replaced by specific, individual, and purposeful responses.
 - An example of this principle is a very young infant who excitedly moves all their limbs and pants upon seeing a bright toy, whereas an older infant will smoothly and specifically smile and reach out only their hands to grasp the object.
 
-### Integration and Loss of Primitive Reflexes
+### Integration and Loss of [[Neurology/Primitive Reflexes\|Primitive Reflexes]]
 
-- The attainment of voluntary motor milestones absolutely requires that certain relevant primitive reflexes resolve and disappear.
+- The attainment of voluntary motor milestones absolutely requires that certain relevant [[Neurology/Primitive Reflexes\|primitive reflexes]] resolve and disappear.
 - An infant can only voluntarily and purposefully hold an object once the primitive palmar grasp reflex has faded.
 - Similarly, a child can only successfully roll and turn over once the asymmetric tonic neck reflex completely disappears.
 
@@ -89,17 +89,17 @@
 - Infancy and early childhood are the most crucial ages for development, heavily reliant on a secure physical and psychosocial environment.
 - Poverty is a critical risk factor, chronically exposing children to a scarcity of opportunities, excessive stress, malnutrition, and environmental toxins.
 - Suboptimal parenting, lack of emotional warmth, and institutionalization during early life profoundly increase the risk of poor growth, attachment disorders, and poor cognition.
-- Protective factors such as secure homes, educated parents, responsive caregiving, and kangaroo mother care can completely offset socioeconomic disadvantages and pave the way for optimal developmental outcomes.
+- Protective factors such as secure homes, educated parents, responsive caregiving, and [[Neonatalogy/Kangaroo Mother Care\|kangaroo mother care]] can completely offset socioeconomic disadvantages and pave the way for optimal developmental outcomes.
 
 ### Nutritional Influences
 
 - Maternal malnutrition during pregnancy negatively affects birth weight and neurocognitive development, and can lead to severe stunting.
 - Postnatally, exclusive breastfeeding provides adequate initial nutrition and significantly protects against infections, supporting baseline growth.
-- Subsequently, faulty complementary feeding, protein-energy malnutrition, and specific micronutrient deficiencies (calcium, iron, zinc, iodine, and vitamins) significantly retard somatic growth, motor skills, and intellectual potential.
+- Subsequently, faulty [[Nutrition/Complementary Feeding\|complementary feeding]], protein-energy malnutrition, and specific micronutrient deficiencies (calcium, iron, zinc, iodine, and vitamins) significantly retard somatic growth, motor skills, and intellectual potential.
 
 ## Deviations in Developmental Principles
 
 - Deviance is defined as the acquisition of milestones in a sequence that differs entirely from the normal developmental progression.
-- A clinical example of deviance is an infant with cerebral palsy who shows early standing with support secondary to increased extensor tone, bypassing the typical orderly sequence of crawling and creeping.
+- A clinical example of deviance is an infant with [[Neurology/Cerebral Palsy\|cerebral palsy]] who shows early standing with support secondary to increased extensor tone, bypassing the typical orderly sequence of crawling and creeping.
 - Dissociation describes the acquisition of developmental milestones in various domains at differing and unequal rates.
 - A common example of dissociation is an isolated speech delay with completely normal gross and fine motor development, as seen in patients with congenital hearing loss.

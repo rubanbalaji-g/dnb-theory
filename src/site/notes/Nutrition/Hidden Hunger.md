@@ -115,6 +115,6 @@ A multi-pronged approach involving medical, dietary, and public health intervent
 
 ### 5. Nutrition Education
 
-- Educating families [[About\|about]] the importance of "protective foods" (vitamins and minerals).
+- Educating families about the importance of "protective foods" (vitamins and minerals).
 - Promoting "My Plate" concepts to ensure balanced consumption of food groups.
 - Addressing food fads and cooking practices that destroy nutrients.

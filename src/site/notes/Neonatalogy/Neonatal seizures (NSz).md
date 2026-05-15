@@ -58,14 +58,14 @@ Paroxysmal alteration in neurological function i.e., motor, behavior and / or au
 	- pyridoxine dependent seizures
 	- folic acid responsive seizures
 ### Infection
-- Bacterial meningitis - in latter part of first week of life
+- Bacterial [[Neurology/Meningitis\|meningitis]] - in latter part of first week of life
 - Meningoencephalitis - secondary to intrauterine infection
 ### Intracranial hemorrhage and vascular causes
 - IVH in preterms
 - SAH, intraparenchymal hemorrhage and SDH in terms
 - seizure in a well baby in day 2-3 of life
 ### Developmental defects
-- cerebral dysgenesis and neuronal migration disorders
+- cerebral dysgenesis and [[Neurology/Neuronal Migration Disorders\|neuronal migration disorders]]
 ### Miscellaneous
 - polycythemia, maternal narcotic withdrawal, drug toxicity, phacomatosis (tuberous sclerosis, incontinentia pigmentii)
 
@@ -74,7 +74,7 @@ Paroxysmal alteration in neurological function i.e., motor, behavior and / or au
 ### seizure history
 - history of eye movements, restrain of episode by passive flexion, change in skin color, autonomic phenomenon
 - seizure in day 1-3 are associated with perinatal asphyxia, intracranial hemorrhage
-- seizure in day 4-7 are associated with sepsis, meningitis, developmental defects
+- seizure in day 4-7 are associated with sepsis, [[Neurology/Meningitis\|meningitis]], developmental defects
 ### Antenatal history
 - intrauterine infection, maternal diabetes, narcotic addiction
 ### Perinatal history
@@ -172,7 +172,7 @@ no evidence of clinical seizure required
 - high risk of hepatotoxicity in children less than 2 years of age
 - to be used cautiously 
 #### Vigabatrin
-- used in infantile spasms
+- used in [[Neurology/Infantile Spasms\|infantile spasms]]
 - 50 mg/kg/day
 #### Topiramate
 - neuroprotective in seizures

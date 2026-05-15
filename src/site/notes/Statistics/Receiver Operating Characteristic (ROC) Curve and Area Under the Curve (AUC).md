@@ -26,13 +26,13 @@
 - Any test producing a curve that lies below the diagonal line indicates that its diagnostic ability is actually worse than a random guess.
 - The optimal cut-off point is chosen based on a clinical trade-off between the implications of false positive versus false negative results, alongside the prevalence of the condition.
 - For instance, when screening for a deadly but curable disease, it may be desirable to select a cut-off that accepts more false positives (lower specificity) in return for missing fewer cases (higher sensitivity).
-- Statistical software can suggest an optimum cut-off point by calculating Youden’s index, which is defined as Sensitivity + Specificity - 1.
-- The highest value of Youden's index on the curve corresponds to the mathematically optimal threshold point.
+- Statistical software can suggest an optimum cut-off point by calculating Youden’s [[Statistics/Index\|index]], which is defined as Sensitivity + Specificity - 1.
+- The highest value of Youden's [[Statistics/Index\|index]] on the curve corresponds to the mathematically optimal threshold point.
 
 ### Area Under the Curve (AUC)
 
 - The Area Under the Curve (AUC) is a single metric that quantifies the overall probability of the test yielding a correct prediction.
-- It serves as a reliable index of how well the diagnostic test discriminates between the diseased population and the healthy population.
+- It serves as a reliable [[Statistics/Index\|index]] of how well the diagnostic test discriminates between the diseased population and the healthy population.
 - The AUC ranges in value from 0.5 to 1.0.
 - The AUC is particularly helpful when comparing the diagnostic accuracy of multiple different testing methods simultaneously.
 - When comparing multiple tests plotted on the same graph, the curve with the higher AUC represents a superior discriminating test.

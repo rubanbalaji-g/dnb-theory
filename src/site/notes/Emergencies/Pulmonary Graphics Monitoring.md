@@ -2,9 +2,9 @@
 {"dg-publish":true,"uptext":"Back to Index (🚑 Emergencies and Critical Care)","uplink":"/emergencies/emergencies-and-critical-care/","permalink":"/emergencies/pulmonary-graphics-monitoring/","dgPassFrontmatter":true}
 ---
 
-## Pulmonary Graphics Monitoring
+## [[Emergencies/Pulmonary Graphics Monitoring\|Pulmonary Graphics Monitoring]]
 
-- Pulmonary graphics monitoring has emerged as a valuable tool in the Pediatric Intensive Care Unit (PICU).
+- [[Emergencies/Pulmonary Graphics Monitoring\|Pulmonary graphics monitoring]] has emerged as a valuable tool in the Pediatric Intensive Care Unit (PICU).
 - The flow sensor collects the air flow data to help derive multiple respiratory mechanics parameters.
 - The basic parameters measured include the pressure ($P$) necessary to cause a flow ($Q$) of gas to enter the airway and increase the volume ($V$) of the lungs.
 
@@ -38,7 +38,7 @@
 ||Endotracheal tube (ETT) leaks, bronchopleural fistulas, or other air leaks are identified by the expiratory limb failing to return to the baseline.|
 |**Flow-Time**|The shape of the flow waveform is a descending ramp in pressure ventilation and square in volume ventilation.|
 ||Failure of the expiratory flow to return to zero indicates gas trapping, auto-PEEP, or an air leak.|
-||Auto-PEEP can cause pneumothorax or pulmonary interstitial emphysema; remedial measures include decreasing the set respiratory rate, decreasing the inspiratory time to give more expiratory time, or considering hypoventilation if the patient is triggering the rate.|
+||Auto-PEEP can cause [[Respiratory/Pneumothorax\|pneumothorax]] or pulmonary interstitial emphysema; remedial measures include decreasing the set respiratory rate, decreasing the inspiratory time to give more expiratory time, or considering hypoventilation if the patient is triggering the rate.|
 ||Airway obstruction is indicated if the expiratory flow limb is deeply curved and takes a longer time to return to the baseline.|
 ||In emphysema, the peak expiratory flow has a more relaxed, rounded contour.|
 

@@ -21,6 +21,6 @@
 - The AVPU scale is frequently used as a rapid alternative or adjunct to the more detailed Glasgow Coma Scale (GCS) or the Full Outline of Unresponsiveness (FOUR) score in emergency and critical care settings.
 - An abnormal score on the AVPU scale necessitates immediate further evaluation, including the mandatory checking of blood glucose (using dextrostix) to rule out hypoglycemia, which is an easily treatable and reversible cause of altered consciousness.
 - Based on the AVPU assessment, brain dysfunction can be rapidly categorized to guide management:
-    - **Primary brain dysfunction:** Alterations in consciousness due to direct central nervous system etiologies, such as meningitis, encephalitis, or intracranial bleed.
+    - **Primary brain dysfunction:** Alterations in consciousness due to direct central nervous system etiologies, such as [[Neurology/Meningitis\|meningitis]], encephalitis, or intracranial bleed.
     - **Secondary brain dysfunction:** Alterations in consciousness resulting from systemic issues, primarily hypoxia or shock causing secondary brain injury.
 - The scale is also a critical assessment parameter used in identifying specific toxidromes and evaluating the neurological impact of various toxic agents or poisonings in children.

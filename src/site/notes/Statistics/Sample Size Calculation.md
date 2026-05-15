@@ -4,9 +4,9 @@
 
 ### Rationale and Importance
 
-- Sample size calculation is a foundational step in the statistical design of any medical research or clinical trial, ensuring the study possesses adequate statistical power to answer the research question reliably.
+- [[Statistics/Sample Size Calculation\|Sample size calculation]] is a foundational step in the statistical design of any medical research or clinical trial, ensuring the study possesses adequate statistical power to answer the research question reliably.
 - Because a selected sample only represents a fraction of the broader population, any calculated estimate is subject to sampling error and uncertainty.
-- Increasing the sample size reduces the standard error of the mean, which yields a narrower confidence interval and a more precise estimate of the true population parameter.
+- Increasing the sample size reduces the standard error of the mean, which yields a narrower [[Statistics/Confidence Interval\|confidence interval]] and a more precise estimate of the true population parameter.
 - A study designed with a sample size that is too small lacks the statistical power to detect a true difference, frequently resulting in a false negative result (a Type II error).
 - Conversely, recruiting an unnecessarily large sample size is scientifically wasteful of time and financial resources.
 - Over-recruitment is also considered unethical because it unnecessarily exposes a larger number of human subjects to potential harms, side effects, or inferior treatments without providing any additional scientific value.
@@ -45,10 +45,10 @@
 - For instance, if the formula mandates 140 patients per group and a 10% dropout rate is expected, the adjusted sample size becomes $140 / (1 - 0.10) = 156$ patients per group.
 - For observational study designs, the required inputs differ significantly from RCTs.
 - Descriptive cross-sectional surveys require the total population size, the expected disease prevalence, and an acceptable margin of error.
-- Case-control studies dictate inputs such as the ratio of controls to cases, the expected exposure percentage in controls, and the anticipated Odds Ratio (OR).
-- Cohort studies require the proportion of unexposed versus exposed subjects and the expected Relative Risk (RR).
+- Case-control studies dictate inputs such as the ratio of controls to cases, the expected exposure percentage in controls, and the anticipated [[Statistics/Odds Ratio (OR)\|Odds Ratio (OR)]].
+- Cohort studies require the proportion of unexposed versus exposed subjects and the expected [[Statistics/Relative Risk (RR)\|Relative Risk (RR)]].
 
-### Tools for Sample Size Calculation
+### Tools for [[Statistics/Sample Size Calculation\|Sample Size Calculation]]
 
 - Due to mathematical complexity, researchers rarely calculate sample sizes manually, relying instead on validated software tools.
 - Free software alternatives include G*Power, PS (Power and Sample Size Calculations), and Epi Info™ (developed by the CDC).

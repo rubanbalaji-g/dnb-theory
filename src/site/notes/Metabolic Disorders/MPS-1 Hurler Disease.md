@@ -39,11 +39,11 @@
     * **Hepatosplenomegaly:** Massive, due to GAG storage; abdomen is protuberant.
 * **Cardiorespiratory:**
     * Valvular heart disease (Mitral/Aortic regurgitation or stenosis).
-    * Obstructive sleep apnea due to airway narrowing and macroglossia.
+    * [[Respiratory/Obstructive Sleep Apnea\|Obstructive sleep apnea]] due to airway narrowing and macroglossia.
 * **Neurologic:**
     * Developmental delay (sitting/walking delayed).
     * Progressive intellectual regression after 1-2 years.
-    * Communicating hydrocephalus.
+    * Communicating [[Neurology/Hydrocephalus\|hydrocephalus]].
 
 ## 4. INVESTIGATIONS
 * **Screening Tests:**
@@ -62,13 +62,13 @@
     * Prevents progressive neurocognitive decline.
     * Resolves hepatosplenomegaly and improves hearing/facial features.
     * Does not fully correct skeletal or corneal issues.
-* **Enzyme Replacement Therapy (ERT):**
+* **[[Genetics/Enzyme Replacement Therapy (ERT)\|Enzyme Replacement Therapy (ERT)]]:**
     * **Agent:** Laronidase (recombinant human alpha-L-iduronidase).
     * **Role:** Manages somatic symptoms (liver, spleen, joints) and improves respiratory function.
     * **Limitation:** Does not cross the blood-brain barrier; ineffective for CNS disease.
 * **Supportive Care:**
     * Hernia repair.
-    * VP shunt for hydrocephalus.
+    * VP shunt for [[Neurology/Hydrocephalus\|hydrocephalus]].
     * Corneal transplantation for severe clouding.
     * CPAP for sleep apnea.
 

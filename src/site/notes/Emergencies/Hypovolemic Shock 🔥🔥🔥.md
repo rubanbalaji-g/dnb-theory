@@ -24,7 +24,7 @@
 |**Fluid and electrolyte losses**|* Acute gastroenteritis * Excessive sweating * Renal diseases|
 |**Plasma loss**|* Burns * Third space losses|
 |**Hemorrhage**|* External: Trauma, bleeding disorders, gastrointestinal bleeding * Internal: Visceral injury, vascular injury, fractures|
-|**Endocrinal disorders**|* Adrenal insufficiency * Diabetes mellitus * Diabetes insipidus|
+|**Endocrinal disorders**|* Adrenal insufficiency * Diabetes mellitus * [[Endocrinology/Diabetes Insipidus\|Diabetes insipidus]]|
 
 ## Classification of Hemorrhagic Shock
 

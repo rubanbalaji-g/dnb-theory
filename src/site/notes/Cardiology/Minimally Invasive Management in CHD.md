@@ -15,24 +15,24 @@
 
 |Fetal Lesion|Intervention|Procedural Technique & Hemodynamic Goal|
 |:--|:--|:--|
-|**Severe Aortic Stenosis (AS)**|Fetal Aortic Valvuloplasty|Balloon advanced across aortic annulus; inflated 100-120% of annulus size. Goal: Prevent evolving hypoplastic left heart syndrome (HLHS) and promote biventricular circulation.|
+|**Severe Aortic Stenosis (AS)**|Fetal Aortic Valvuloplasty|Balloon advanced across aortic annulus; inflated 100-120% of annulus size. Goal: Prevent evolving [[Cardiology/Hypoplastic left heart syndrome\|hypoplastic left heart syndrome]] (HLHS) and promote biventricular circulation.|
 |**Pulmonary Atresia/Critical PS**|Fetal Pulmonary Valvuloplasty|Performed for intact ventricular septum to prevent evolving hypoplastic right heart syndrome (HRHS).|
 |**HLHS with Restrictive Atrial Septum**|Fetal Atrial Septoplasty|Balloon dilation or septal stent placement for established HLHS with intact/restrictive atrial septum. Goal: Improve neonatal stability.|
 
 ## Transcatheter Septal Defect Closures
 
-### Atrial Septal Defect (ASD) & Patent Foramen Ovale (PFO)
+### Atrial Septal Defect ([[Cardiology/ASD\|ASD]]) & Patent Foramen Ovale (PFO)
 
 - Standard therapy for secundum ASDs and PFOs with sufficient tissue margins.
 - Procedure guided by intracardiac echocardiography (ICE) or 3D transesophageal echocardiography (TEE).
 - Femoral vein access standard; transhepatic approach preferred if bilateral femoral venous occlusion exists.
 - Superior sinus venosus ASDs may utilize covered stents (chimney technique).
 
-### Ventricular Septal Defect (VSD)
+### Ventricular Septal Defect ([[Cardiology/VSD\|VSD]])
 
 - Device closure standard for muscular and perimembranous VSDs.
 - Approaches include antegrade (venous) or retrograde (arterial) delivery systems.
-- Membranous VSD closure carries small risk of complete heart block.
+- Membranous [[Cardiology/VSD\|VSD]] closure carries small risk of complete heart block.
 
 ### Patent Ductus Arteriosus (PDA)
 
@@ -88,11 +88,11 @@ Hybrid therapies involve multidisciplinary collaboration between surgeons and in
 - Avoids neonatal CPB exposure in high-risk patients with severe instability.
 - Requires comprehensive Stage 2 reconstruction subsequently.
 
-### Perventricular VSD Closure
+### Perventricular [[Cardiology/VSD\|VSD]] Closure
 
 - Indicated for muscular VSDs in infants <5 kg where percutaneous delivery systems are too large for fragile peripheral vessels.
 - Access achieved via subxiphoid or limited median sternotomy off-pump.
-- Sheath introduced directly into RV free wall. Amplatzer muscular VSD device deployed under TEE guidance without fluoroscopy.
+- Sheath introduced directly into RV free wall. Amplatzer muscular [[Cardiology/VSD\|VSD]] device deployed under TEE guidance without fluoroscopy.
 
 ### Intraoperative Stenting
 
@@ -106,7 +106,7 @@ Hybrid therapies involve multidisciplinary collaboration between surgeons and in
 - Utilizes radiofrequency (resistive/conductive heating) or cryothermal (hemispherical "iceball") energy.
 - Cryothermal ablation preferred near AV node to eliminate permanent heart block risk.
 - Electroanatomic mapping systems (magnetic/impedance-based) localize abnormal scar tissue, generate propagation maps, and minimize/eliminate fluoroscopy.
-- Indicated for recurrent supraventricular tachycardia (SVT), atrioventricular nodal reentrant tachycardia (AVNRT), Wolff-Parkinson-White (WPW) syndrome, intra-atrial reentrant tachycardia (IART), and monomorphic ventricular tachycardia (VT).
+- Indicated for recurrent [[Cardiology/Supraventricular tachycardia (SVT)\|supraventricular tachycardia (SVT)]], [[Cardiology/Atrioventricular nodal reentrant tachycardia (AVNRT)\|atrioventricular nodal reentrant tachycardia (AVNRT)]], [[Cardiology/Wolff-Parkinson-White (WPW)\|Wolff-Parkinson-White (WPW)]] syndrome, intra-atrial reentrant tachycardia (IART), and monomorphic ventricular tachycardia (VT).
 
 ### Cardiac Rhythm Devices
 

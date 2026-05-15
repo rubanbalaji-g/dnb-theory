@@ -28,7 +28,7 @@
 ### Types of t-Tests and Clinical Applications
 
 - In pediatric research and general medical statistics, the selection of the specific t-test depends entirely on the study design and the relationship between the comparison groups.
-- For example, an independent t-test is ideal for comparing the mean haematocrit levels between a control group of children with Tetralogy of Fallot and a separate treatment group.
+- For example, an independent t-test is ideal for comparing the mean haematocrit levels between a control group of children with [[Cardiology/Tetralogy of Fallot\|Tetralogy of Fallot]] and a separate treatment group.
 
 |Type of t-Test|Clinical Indication / Usage|Null Hypothesis ($H_0$)|Degrees of Freedom (df)|Non-Parametric Equivalent|
 |:--|:--|:--|:--|:--|

@@ -74,7 +74,7 @@
 ### RAAS Inhibitors (ACEi / ARB / ARNi)
 
 - **First-Dose Hypotension:** Initiate at one-quarter calculated dose to prevent acute decompensation.
-- **Renal Toxicity:** Avoid in neonates due to risk of acute kidney injury. Withhold in settings of severe dehydration. Monitor creatinine and electrolytes every 1–2 weeks for initial 4–6 weeks.
+- **Renal Toxicity:** Avoid in neonates due to risk of [[Nephrology/Acute Kidney Injury\|acute kidney injury]]. Withhold in settings of severe dehydration. Monitor creatinine and electrolytes every 1–2 weeks for initial 4–6 weeks.
 - **Hyperkalemia:** Risk increased when co-administered with spironolactone or potassium supplements; requires regular serum monitoring.
 
 ### Sodium Nitroprusside
@@ -85,7 +85,7 @@
 
 ### Nitrates (Nitroglycerin)
 
-- **Side Effects:** Methemoglobinemia, tolerance, flushing, headache, hypotension, tachycardia.
+- **Side Effects:** [[Hematology/Methemoglobinemia\|Methemoglobinemia]], tolerance, flushing, headache, hypotension, tachycardia.
 - **Contraindications:** Increased intracranial pressure, hypovolemia.
 
 ### Inodilators (Milrinone & Levosimendan)

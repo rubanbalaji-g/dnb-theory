@@ -3,20 +3,20 @@
 ---
 
 - Non-invasive monitoring of gas exchange is a cornerstone in the pediatric intensive care unit (PICU) for continuously evaluating a child's oxygenation and ventilation status without the need for repeated arterial blood sampling.
-- The primary modalities include pulse oximetry for oxygenation, capnography and transcutaneous monitoring for ventilation, and derived non-invasive indices for assessing the severity of respiratory failure.
+- The primary modalities include [[Emergencies/Pulse Oximetry\|pulse oximetry]] for oxygenation, capnography and transcutaneous monitoring for ventilation, and derived non-invasive indices for assessing the severity of respiratory failure.
 
-### Pulse Oximetry (SpO2)
+### [[Emergencies/Pulse Oximetry\|Pulse Oximetry]] (SpO2)
 
-- Pulse oximetry is a simple, inexpensive, and continuous bedside non-invasive tool utilized to directly measure the percentage of oxyhemoglobin saturation in the blood.
+- [[Emergencies/Pulse Oximetry\|Pulse oximetry]] is a simple, inexpensive, and continuous bedside non-invasive tool utilized to directly measure the percentage of oxyhemoglobin saturation in the blood.
 - It serves as a highly reliable tool for trending arterial oxygen saturation, particularly when the arterial oxygen saturation (SaO2) remains above 60%.
 - In a healthy child, an oxygen saturation of > 94% on room air indicates normal oxygenation.
 - During ongoing management of ventilated infants and children, the targeted SpO2 is generally > 92%, and alarm limits are set within 1 to 2%.
 - In specific clinical scenarios, such as children with cyanotic congenital heart disease, a lower target SpO2 between 70-75% is acceptable provided that global tissue oxygenation parameters (like mixed venous oxygen saturation ~60% and normal lactate) are maintained.
-- Despite its widespread utility, pulse oximetry has notable physiological limitations:
+- Despite its widespread utility, [[Emergencies/Pulse Oximetry\|pulse oximetry]] has notable physiological limitations:
     - It is not a reliable measure of adequate ventilation (carbon dioxide clearance).
     - It completely fails to detect hyperoxia.
     - It frequently underestimates true SaO2 in the presence of circulatory shock or localized edema.
-    - It provides grossly inaccurate readings in the presence of dyshemoglobinemias, such as methemoglobinemia (metHb) or carbon monoxide poisoning (COHb).
+    - It provides grossly inaccurate readings in the presence of dyshemoglobinemias, such as [[Hematology/Methemoglobinemia\|methemoglobinemia]] (metHb) or carbon monoxide poisoning (COHb).
 
 ### Capnography (End-Tidal CO2 - ETCO2)
 
@@ -27,7 +27,7 @@
     - Endotracheal tube (ETT) position, accidental displacement, or acute obstruction.
     - Patient-ventilator asynchrony.
     - The quality and effectiveness of chest compressions during cardiopulmonary resuscitation (CPR).
-- Advanced ventilator management utilizes ETCO2 to calculate derived parameters indicative of the severity of lung injury, such as the dead space to tidal volume ratio, End Tidal Alveolar Dead Space Fraction (AVDSF), and the Ventilation Index.
+- Advanced ventilator management utilizes ETCO2 to calculate derived parameters indicative of the severity of lung injury, such as the dead space to tidal volume ratio, End Tidal Alveolar Dead Space Fraction (AVDSF), and the Ventilation [[Statistics/Index\|Index]].
 - A major limitation of capnography is that its reliability is highly dependent on pulmonary blood flow; its use is largely limited to patients exhibiting a perfusing rhythm and weighing more than 2 kg.
 
 ### Transcutaneous Carbon Dioxide (TcPCO2) Monitoring
@@ -38,14 +38,14 @@
 
 ### Non-Invasive Oxygenation Indices
 
-- In the management of pediatric acute respiratory distress syndrome (PARDS), the traditional diagnostic criteria rely heavily on invasive arterial blood gas measurements (e.g., PaO2/FiO2 ratio or Oxygenation Index).
-- To decrease the dependence on invasive arterial sampling, non-invasive surrogates utilizing SpO2 have been validated for diagnosing and risk-stratifying PARDS.
+- In the management of pediatric acute [[Neonatalogy/Respiratory Distress Syndrome\|respiratory distress syndrome]] ([[Emergencies/PARDS\|PARDS]]), the traditional diagnostic criteria rely heavily on invasive arterial blood gas measurements (e.g., PaO2/FiO2 ratio or Oxygenation [[Statistics/Index\|Index]]).
+- To decrease the dependence on invasive arterial sampling, non-invasive surrogates utilizing SpO2 have been validated for diagnosing and risk-stratifying [[Emergencies/PARDS\|PARDS]].
 - These non-invasive indices are only considered valid and accurate when the patient's SpO2 is < 97%, to avoid the masking effect of the flat upper portion of the oxyhemoglobin dissociation curve.
 
-|Non-Invasive Index|Calculation Formula|Clinical Utility & Stratification|
+|Non-Invasive [[Statistics/Index\|Index]]|Calculation Formula|Clinical Utility & Stratification|
 |:--|:--|:--|
-|**SpO2/FiO2 (SF) Ratio**|SpO2 ÷ FiO2|* Used in non-intubated patients receiving non-invasive ventilation (NIV) via full-face mask with a minimum CPAP of 5 cm H2O. * An SF ratio ≤ 264 is used as a threshold to diagnose PARDS.|
-|**Oxygenation Saturation Index (OSI)**|(Mean Airway Pressure × FiO2 × 100) ÷ SpO2|* Used for risk stratification of disease severity in mechanically ventilated patients. * Mild PARDS: OSI 5 to < 7.5. * Moderate PARDS: OSI 7.5 to < 12.3. * Severe PARDS: OSI ≥ 12.3.|
+|**SpO2/FiO2 (SF) Ratio**|SpO2 ÷ FiO2|* Used in non-intubated patients receiving non-invasive ventilation (NIV) via full-face mask with a minimum CPAP of 5 cm H2O. * An SF ratio ≤ 264 is used as a threshold to diagnose [[Emergencies/PARDS\|PARDS]].|
+|**Oxygenation Saturation [[Statistics/Index\|Index]] (OSI)**|(Mean Airway Pressure × FiO2 × 100) ÷ SpO2|* Used for risk stratification of disease severity in mechanically ventilated patients. * Mild [[Emergencies/PARDS\|PARDS]]: OSI 5 to < 7.5. * Moderate [[Emergencies/PARDS\|PARDS]]: OSI 7.5 to < 12.3. * Severe [[Emergencies/PARDS\|PARDS]]: OSI ≥ 12.3.|
 
 ### Advanced Tissue Gas Exchange Monitoring
 

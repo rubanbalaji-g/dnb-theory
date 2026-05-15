@@ -6,7 +6,7 @@
 
 ### Assessment of Adequacy of Breast Milk
 
-Mothers and grandmothers often worry [[About\|about]] whether breast milk is sufficient, which frequently leads to the unnecessary introduction of infant milk substitutes. It is crucial to distinguish between a mother's perception of insufficiency and actual low supply.
+Mothers and grandmothers often worry about whether breast milk is sufficient, which frequently leads to the unnecessary introduction of infant milk substitutes. It is crucial to distinguish between a mother's perception of insufficiency and actual low supply.
 
 The adequacy of breast milk in a 2-month-old baby is assessed using the following objective criteria:
 

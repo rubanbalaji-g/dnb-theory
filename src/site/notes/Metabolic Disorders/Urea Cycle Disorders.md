@@ -61,7 +61,7 @@ Diagnostic evaluation relies on identifying the exact biochemical blockage utili
 |Investigation|Diagnostic Finding And Significance|
 |---|---|
 |**Plasma Ammonia**|Markedly elevated, often >150 µmol/L in neonates and >1000 µmol/L during acute crises. Must be transported on ice and analyzed immediately.|
-|**Arterial Blood Gas**|Reveals respiratory alkalosis (high pH, low pCO2), distinguishing urea cycle disorders from [[Metabolic Disorders/Organic Acidemias\|organic acidemias]] which exhibit high anion gap metabolic acidosis.|
+|**Arterial Blood Gas**|Reveals respiratory alkalosis (high pH, low pCO2), distinguishing [[Metabolic Disorders/Urea Cycle Disorders\|urea cycle disorders]] from [[Metabolic Disorders/Organic Acidemias\|organic acidemias]] which exhibit high anion gap metabolic acidosis.|
 |**Blood Glucose & LFTs**|Typically normal, helping to exclude primary hypoglycemia or primary liver failure as the cause of encephalopathy.|
 
 ### Biochemical Differentiation
@@ -74,7 +74,7 @@ Diagnostic evaluation relies on identifying the exact biochemical blockage utili
 |**Argininosuccinic Aciduria (ASL)**|High|Moderately High|Normal|High argininosuccinic acid|
 |**Argininemia (ARG1)**|Mild/High|Normal|Normal|High arginine|
 
-_Confirmatory Tests:_ Molecular genetics via gene panel testing is the standard of care. Newborn screening detects citrullinemia and argininosuccinic aciduria but frequently misses OTC and CPS1 deficiencies.
+_Confirmatory Tests:_ Molecular genetics via gene panel testing is the standard of care. [[Neonatalogy/Newborn Screening\|Newborn screening]] detects citrullinemia and argininosuccinic aciduria but frequently misses OTC and CPS1 deficiencies.
 
 ## Management
 
@@ -92,9 +92,9 @@ _Confirmatory Tests:_ Molecular genetics via gene panel testing is the standard 
 - Maintain a strict protein-restricted diet supplemented with essential amino acids to match growth demands.
 - Administer chronic oral scavengers such as sodium phenylbutyrate or glycerol phenylbutyrate.
 - Provide ongoing oral supplementation of L-citrulline or L-arginine.
-- Liver transplantation is curative for primary hepatic enzyme defects (e.g., OTC, CPS1) and is indicated for poor metabolic control, though it cannot reverse pre-existing neurological damage.
+- [[Gastrointestinal/Liver Transplantation\|Liver transplantation]] is curative for primary hepatic enzyme defects (e.g., OTC, CPS1) and is indicated for poor metabolic control, though it cannot reverse pre-existing neurological damage.
 
 ## Prognosis
 
 - Mortality remains extremely high in severe neonatal-onset forms without rapid intervention.
-- Morbidity, including intellectual disability, cerebral palsy, and epilepsy, strictly correlates with the severity and duration of the hyperammonemic coma.
+- Morbidity, including intellectual disability, [[Neurology/Cerebral Palsy\|cerebral palsy]], and epilepsy, strictly correlates with the severity and duration of the hyperammonemic coma.

@@ -13,7 +13,7 @@
 ### Clinical Indications
 
 - HFNC is primarily utilized for children presenting with acute hypoxemic respiratory failure or severe respiratory distress.
-- It is heavily utilized and predominantly studied in infants suffering from acute bronchiolitis.
+- It is heavily utilized and predominantly studied in infants suffering from [[Respiratory/Acute Bronchiolitis\|acute bronchiolitis]].
 - It serves as a critical respiratory support option in severe community-acquired pneumonia to prevent further clinical deterioration.
 - In infants experiencing severe respiratory distress or respiratory failure, the timely application of HFNC may successfully avert the need for mechanical ventilation and endotracheal intubation.
 
@@ -26,7 +26,7 @@
 ### HFNC Settings and Flow Rate Guidelines
 
 - The definition of "high flow" varies according to the age and size of the pediatric patient: a flow rate $>1 \text{ L/min}$ is considered high flow for neonates, $>3 \text{ L/min}$ is high flow for toddlers, and $>5 \text{ L/min}$ is classified as high flow for older children.
-- To define "At-risk" Pediatric Acute Respiratory Distress Syndrome (PARDS) in non-intubated children, the minimum high flow oxygen requirements are $<1 \text{ year}: 2 \text{ L/min}$, $1-5 \text{ years}: 4 \text{ L/min}$, $5-10 \text{ years}: 6 \text{ L/min}$, and $>10 \text{ years}: 8 \text{ L/min}$.
+- To define "At-risk" Pediatric Acute [[Neonatalogy/Respiratory Distress Syndrome\|Respiratory Distress Syndrome]] ([[Emergencies/PARDS\|PARDS]]) in non-intubated children, the minimum high flow oxygen requirements are $<1 \text{ year}: 2 \text{ L/min}$, $1-5 \text{ years}: 4 \text{ L/min}$, $5-10 \text{ years}: 6 \text{ L/min}$, and $>10 \text{ years}: 8 \text{ L/min}$.
 - The humidifier temperature must be maintained optimally around $32-36 ^\circ\text{C}$ to ensure the gas is adequately warmed and humidified.
 - The $FiO_2$ should be carefully titrated to achieve and maintain a target oxygen saturation ($SpO_2$) of $92%-97%$.
 
@@ -50,4 +50,4 @@
 
 - Whether HFNC is equivalent or inferior in efficacy compared to traditional NIV remains debatable due to a lack of sufficient, high-quality pediatric data.
 - A large systematic review encompassing over 2100 children concluded that HFNC, although safe, does not offer superior clinical benefits for children with bronchiolitis when compared to other oxygen delivery modes; consequently, NICE guidelines continue to recommend CPAP for impending respiratory failure in these patients.
-- Furthermore, in the specific management of COVID-19 pneumonia for children at risk of PARDS, CPAP or BILEVEL devices are explicitly preferred over HFNC, particularly if the $SpO_2/FiO_2$ (S/F) ratio falls between 221 and 264.
+- Furthermore, in the specific management of [[Infectious Diseases/COVID-19\|COVID-19]] pneumonia for children at risk of [[Emergencies/PARDS\|PARDS]], CPAP or BILEVEL devices are explicitly preferred over HFNC, particularly if the $SpO_2/FiO_2$ (S/F) ratio falls between 221 and 264.

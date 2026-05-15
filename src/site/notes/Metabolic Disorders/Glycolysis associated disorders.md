@@ -50,14 +50,14 @@ Most glycolytic defects are rare Autosomal Recessive disorders, with the excepti
 |---|---|
 |**Screening Tests**|Complete Blood Count shows anemia and reticulocytosis in hemolytic forms. Creatine Kinase (CK) is elevated at rest or massively elevated post-exercise in myopathic forms. Urinalysis reveals myoglobinuria after exercise.|
 |**Ischemic Forearm Exercise Test**|Normal response is a simultaneous rise in Lactate and Ammonia. Glycolytic defects (GSD V, VII, X, XI) show a flat Lactate curve (no rise) with a normal Ammonia rise. In LDH deficiency specifically, venous pyruvate rises significantly, but lactate does not.|
-|**Confirmatory Tests**|Molecular genetics via gene sequencing or Next-Generation Sequencing (NGS) panels is the gold standard. Enzyme assays can be performed on erythrocytes, leukocytes, or muscle biopsy tissue.|
+|**Confirmatory Tests**|Molecular genetics via gene sequencing or [[Genetics/Next-Generation Sequencing (NGS)\|Next-Generation Sequencing (NGS)]] panels is the gold standard. Enzyme assays can be performed on erythrocytes, leukocytes, or muscle biopsy tissue.|
 
 ## Management
 
 ### General And Myopathic Forms
 
 - Strict avoidance of precipitating factors, particularly strenuous anaerobic exercise.
-- Aggressive hydration during episodes of myoglobinuria to prevent Acute Kidney Injury.
+- Aggressive hydration during episodes of myoglobinuria to prevent [[Nephrology/Acute Kidney Injury\|Acute Kidney Injury]].
 - High-protein diets may provide alternative metabolic substrates.
 - Glucose or sucrose supplementation before exercise is strictly contraindicated in Tarui Disease (GSD VII), as it inhibits alternative fatty acid fuel sources.
 

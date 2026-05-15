@@ -102,7 +102,7 @@ While the total mineral content (ash) of human milk is lower than that of cow's 
 Micronutrient composition varies significantly based on the gestational age of the neonate.
 
 - **Electrolytes and Minerals:** Preterm milk has higher concentrations of Sodium, Chloride, Magnesium, Iron, Copper, and Zinc compared to term milk to meet the higher metabolic needs of the preterm infant.
-- **Decline:** The high protein and mineral content in preterm milk declines to term milk levels by [[About\|about]] 4–6 weeks.
+- **Decline:** The high protein and mineral content in preterm milk declines to term milk levels by about 4–6 weeks.
 - **Need for Fortification:** Despite higher initial levels, the rapid growth rate of Very Low Birth Weight (VLBW) infants exceeds the provision from breast milk alone. **Human Milk Fortifiers (HMF)** are added to expressed breast milk to provide additional Calcium, Phosphorus, Zinc, Vitamin D, and other nutrients to prevent osteopenia of prematurity and ensure adequate growth.
 
 ### 2. Comparison with Cow's Milk (Micronutrient Perspective)

@@ -10,7 +10,7 @@
 - Nephrogenesis (the formation of new nephrons) occurs primarily during gestation and is definitively completed by 34 to 36 weeks of gestation.
 - The first glomeruli form in the juxtamedullary regions, while the superficial cortical glomeruli are formed last and remain the most immature at birth.
 - Glomerular capillary loops are formed through both angiogenesis and vasculogenesis, guided by vascular endothelial growth factor (VEGF) which drives endothelial precursor invasion into the S-shaped body.
-- The thickness of the glomerular basement membrane (GBM) dynamically evolves, measuring approximately 150 nm at birth and maturing to [[About\|about]] 320–370 nm by 11 years of age.
+- The thickness of the glomerular basement membrane (GBM) dynamically evolves, measuring approximately 150 nm at birth and maturing to about 320–370 nm by 11 years of age.
 
 ### Postnatal Maturation
 

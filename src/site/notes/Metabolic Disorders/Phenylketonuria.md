@@ -4,7 +4,7 @@
 
 ## Definition And Genetics
 
-- Phenylketonuria is an autosomal recessive inborn error of amino acid metabolism.
+- [[Metabolic Disorders/Phenylketonuria\|Phenylketonuria]] is an autosomal recessive inborn error of amino acid metabolism.
 - The disorder is caused by a deficiency of the hepatic enzyme Phenylalanine Hydroxylase (PAH).
 - The genetic defect involves the _PAH_ gene located on chromosome 12q23.2.
 - Classic PKU accounts for >98% of cases, while 1-3% of cases result from defects in the synthesis or recycling of its cofactor, Tetrahydrobiopterin (BH4).
@@ -40,7 +40,7 @@ Infants appear completely normal at birth due to effective placental clearance o
 ### Central Nervous System Manifestations
 
 - Profound intellectual disability with an IQ <35 in 50-70% of untreated patients.
-- Microcephaly and severe global developmental delay.
+- [[Neurology/Microcephaly\|Microcephaly]] and severe [[Development/Global Developmental Delay\|global developmental delay]].
 - Neurological signs include spasticity, hyperreflexia, tremors, and seizures (present in 25% of cases).
 
 ### Behavioral And Dermatological Manifestations
@@ -56,7 +56,7 @@ Infants appear completely normal at birth due to effective placental clearance o
 
 |Investigation Type|Details and Findings|
 |:--|:--|
-|**Newborn Screening (NBS)**|Uses Tandem Mass Spectrometry (TMS) at 24–48 hours of life, targeting elevated Phe and increased Phe:Tyrosine ratio.|
+|**[[Neonatalogy/Newborn Screening\|Newborn Screening]] (NBS)**|Uses Tandem Mass Spectrometry (TMS) at 24–48 hours of life, targeting elevated Phe and increased Phe:Tyrosine ratio.|
 |**Plasma Amino Acids**|Quantitative measurement reveals elevated phenylalanine and low or normal tyrosine.|
 |**Cofactor Screening**|Mandatory for all hyperphenylalaninemia cases to rule out BH4 deficiency by measuring urine/blood pterins (neopterin, biopterin) and DHPR enzyme activity.|
 |**Molecular Genetics**|_PAH_ gene sequencing confirms the diagnosis in 98% of cases.|
@@ -78,8 +78,8 @@ Infants appear completely normal at birth due to effective placental clearance o
 - **Pegvaliase:** An injectable PEGylated phenylalanine ammonia-lyase enzyme substitution therapy for adults with uncontrolled levels, which converts phenylalanine to harmless metabolites.
 - **Large Neutral Amino Acids (LNAA):** Given to competitively inhibit phenylalanine transport across the blood-brain barrier.
 
-## Maternal Phenylketonuria Syndrome
+## Maternal [[Metabolic Disorders/Phenylketonuria\|Phenylketonuria]] Syndrome
 
 - High maternal phenylalanine levels are highly teratogenic to the developing fetus.
-- Fetal consequences include microcephaly, intellectual disability, severe intrauterine growth restriction (IUGR), and congenital heart disease.
+- Fetal consequences include [[Neurology/Microcephaly\|microcephaly]], intellectual disability, severe intrauterine growth restriction (IUGR), and congenital heart disease.
 - Prevention mandates strict metabolic control (phenylalanine 2–6 mg/dL) prior to conception and maintained throughout the entire pregnancy.

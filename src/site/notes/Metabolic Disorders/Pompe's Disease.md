@@ -53,14 +53,14 @@
     * **Staining:** PAS-positive, diastase-sensitive glycogen accumulation within lysosomes.
 
 ## 5. DIFFERENTIAL DIAGNOSIS
-* **IOPD:** Spinal Muscular Atrophy (SMA) type 1, hypothyroidism, endocardial fibroelastosis, other causes of [[Neuromuscular/Approach to a floppy infant\|Approach to a floppy infant]].
+* **IOPD:** [[Neuromuscular/Spinal Muscular Atrophy\|Spinal Muscular Atrophy]] (SMA) type 1, hypothyroidism, endocardial fibroelastosis, other causes of [[Neuromuscular/Approach to a floppy infant\|Approach to a floppy infant]].
 * **LOPD:** Duchenne/Becker muscular dystrophy, Limb-girdle muscular dystrophy, Polymyositis.
 
 ## 6. MANAGEMENT
 **Goal:** Prevent irreversible muscle damage and manage complications.
 
 ### A. Specific Therapy
-* **Enzyme Replacement Therapy (ERT):**
+* **[[Genetics/Enzyme Replacement Therapy (ERT)\|Enzyme Replacement Therapy (ERT)]]:**
     * **Drug:** Recombinant human acid $\alpha$-glucosidase (e.g., Alglucosidase alfa).
     * **Mechanism:** Replaces deficient enzyme; improves survival and cardiac function.
     * **Efficacy:** Significantly reverses cardiomyopathy; variable effect on skeletal muscle.

@@ -51,7 +51,7 @@ Regimen selection is stratified by age and weight to ensure appropriate dosing a
 
 - **Preferred Regimen:** **Tenofovir (TDF) + Lamivudine (3TC) + Dolutegravir (DTG)**.
 - **Acronym:** TLD regimen.
-- **Note:** TDF is generally avoided in pre-pubertal children due to concerns [[About\|about]] bone mineral density, but approved for older children/adolescents.
+- **Note:** TDF is generally avoided in pre-pubertal children due to concerns about bone mineral density, but approved for older children/adolescents.
 
 **Summary Table of First-Line Regimens (NACO 2021):**
 

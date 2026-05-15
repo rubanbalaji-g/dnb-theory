@@ -3,7 +3,7 @@
 ---
 
 ## 1. INTRODUCTION
-* **Definition:** Both are subgroups of **Lysosomal Storage Disorders (LSDs)** caused by genetic defects in the degradation of complex macromolecules.
+* **Definition:** Both are subgroups of **[[Metabolic Disorders/Lysosomal Storage Disorders\|Lysosomal Storage Disorders]] (LSDs)** caused by genetic defects in the degradation of complex macromolecules.
 * **Sphingolipidoses:** Disorders of lipid metabolism involving sphingolipids (major components of cell membranes and myelin).
 * **Mucolipidoses:** Disorders where the stored material includes both mucopolysaccharides (GAGs) and lipids, typically due to defects in enzyme trafficking/targeting rather than the degradative enzymes themselves.
 

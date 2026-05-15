@@ -69,7 +69,7 @@ graph TD
 ### History and Physical Examination
 
 - A meticulous history is required, focusing on the color of the urine (brown/cola-colored suggests glomerular; bright red suggests lower tract), timing in relation to the urinary stream, and associated symptoms like abdominal pain or dysuria.
-- The clinician must inquire [[About\|about]] recent upper respiratory, skin, or gastrointestinal infections, which can precipitate IgA nephropathy, postinfectious glomerulonephritis, or HUS.
+- The clinician must inquire about recent upper respiratory, skin, or gastrointestinal infections, which can precipitate IgA nephropathy, postinfectious glomerulonephritis, or HUS.
 - A family history of deafness, renal disease, polycystic kidneys, or urolithiasis is critical for diagnosing hereditary conditions like [[Nephrology/Alport Syndrome\|Alport syndrome]] or idiopathic hypercalciuria.
 - Physical examination should assess for hypertension, facial or peripheral edema, and signs of heart failure, which are classic indicators of acute glomerulonephritis.
 - The skin and joints should be examined for purpuric rashes and arthritis, suggesting IgA vasculitis or lupus, while the abdomen is palpated to rule out distended bladder, hydronephrosis, or tumors.

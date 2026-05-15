@@ -48,7 +48,7 @@
 
 ### Genetic and Developmental Defects of the Adrenal Gland
 
-- **X-Linked Adrenal Hypoplasia Congenita (AHC):** Caused by mutations in the _NR0B1_ (_DAX1_) gene. The definitive zone of the adrenal cortex fails to develop. [[About\|About]] 50% of affected males present with salt-wasting and glucocorticoid insufficiency in early infancy, often associated with hypogonadotropic hypogonadism and cryptorchidism.
+- **X-Linked Adrenal Hypoplasia Congenita (AHC):** Caused by mutations in the _NR0B1_ (_DAX1_) gene. The definitive zone of the adrenal cortex fails to develop. about 50% of affected males present with salt-wasting and glucocorticoid insufficiency in early infancy, often associated with hypogonadotropic hypogonadism and cryptorchidism.
 - **Familial Glucocorticoid Deficiency (FGD):** Characterized by profound unresponsiveness to ACTH due to mutations in the ACTH receptor (_MC2R_, FGD Type 1) or its accessory protein (_MRAP_, FGD Type 2). Patients present with hypoglycemia, seizures, and severe hyperpigmentation, usually with preserved mineralocorticoid function.
 - **Triple A (Allgrove) Syndrome:** An autosomal recessive disorder caused by _AAAS_ mutations (encoding the ALADIN protein), characterized by ACTH-resistant adrenal insufficiency, achalasia of the cardia, and alacrima (absence of tears), often accompanied by progressive neurological deterioration.
 - **IMAGe and MIRAGE Syndromes:** Rare genetic syndromes associated with severe intrauterine growth restriction, metaphyseal dysplasia, genitourinary anomalies, and primary adrenal hypoplasia.

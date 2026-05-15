@@ -58,7 +58,7 @@ Diagnosis of HIE requires evidence of acute perinatal event, acidosis, and encep
 | -------------------------------------- | --------------------- | ----------------------- | ------------------------------- |
 | **Spontaneous activity**               | Normal or increased   | Decreased               | Absent                          |
 | **Level of consciousness (Alertness)** | Hyperalert, irritable | Lethargic, obtunded     | Stupor / coma                   |
-| **Primitive reflexes**                 |                       |                         |                                 |
+| **[[Neurology/Primitive Reflexes\|Primitive reflexes]]**                 |                       |                         |                                 |
 | – Suck                                 | Strong                | Weak                    | Absent                          |
 | – Moro                                 | Exaggerated           | Incomplete              | Absent                          |
 | **Posture**                            | Normal                | Distal flexion          | Decerebrate / flaccid           |
@@ -114,7 +114,7 @@ HIE is a systemic disease ("Asphyxia rarely spares the kidneys").
 ### B. Neuroimaging
 * **Cranial Ultrasound:**
     * Initial: To rule out hemorrhage (IVH, Subdural).
-    * Doppler: Low Resistive Index (RI < 0.55) indicates luxury perfusion/vasoparalysis (poor prognosis).
+    * Doppler: Low Resistive [[Statistics/Index\|Index]] (RI < 0.55) indicates luxury perfusion/vasoparalysis (poor prognosis).
 * **MRI Brain (Gold Standard):**
     * **Timing:** Best performed between **Day 5 and 10** of life.
     * **DWI (Diffusion Weighted Imaging):** Detects injury early (Day 1–4) as restricted diffusion (bright signal).
@@ -141,7 +141,7 @@ Management focuses on **Supportive Neurocritical Care** and **Neuroprotection**.
 * **Metabolic:**
     * **Glucose:** Maintain euglycemia (70–125 mg/dL). Treat hypoglycemia aggressively; avoid severe hyperglycemia.
     * **Calcium/Electrolytes:** Maintain normal $Ca^{2+}$ and $Mg^{2+}$.
-* **Fluids:** Restrict fluid initially ($40-60$ mL/kg/day) due to risk of SIADH and ATN, monitor urine output.
+* **Fluids:** Restrict fluid initially ($40-60$ mL/kg/day) due to risk of [[Endocrinology/SIADH\|SIADH]] and ATN, monitor urine output.
 ### B. Management of Seizures
 * Treat clinical seizures or electrographic seizures detected on aEEG.
 * **First Line:** Phenobarbitone (Loading: 20 mg/kg IV).
@@ -166,7 +166,7 @@ The only proven therapy to reduce mortality and major neurodisability in moderat
 
 ## 8. Prognosis and Follow-up
 * **Mortality:** 15–20% in moderate-severe cases.
-* **Morbidity:** Cerebral Palsy (CP), intellectual disability, epilepsy, cortical visual impairment.
+* **Morbidity:** [[Neurology/Cerebral Palsy\|Cerebral Palsy]] (CP), intellectual disability, epilepsy, cortical visual impairment.
 * **Poor Prognostic Indicators:**
     * Stage 3 (Severe) Sarnat encephalopathy.
     * Abnormal aEEG (Burst suppression/Flat) persisting > 48 hours.
@@ -177,7 +177,7 @@ The only proven therapy to reduce mortality and major neurodisability in moderat
     * Developmental assessment (HINE, Bayley scales) at 18–24 months.
 
 ## 9. Recent Advances / Experimental Therapies
-* **Erythropoietin:** Neurotrophic and anti-apoptotic.
+* **[[Hematology/Erythropoietin\|Erythropoietin]]:** Neurotrophic and anti-apoptotic.
 * **Xenon / Argon:** NMDA antagonism.
 * **Stem Cells:** Umbilical cord blood stem cells (autologous).
 * **Allopurinol:** Xanthine oxidase inhibitor (free radical scavenger).

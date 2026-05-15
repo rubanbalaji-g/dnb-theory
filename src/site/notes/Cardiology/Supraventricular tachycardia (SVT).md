@@ -20,7 +20,7 @@
 
 - **AVRT (Accessory Pathway-Mediated):** Most common SVT mechanism in infants. Utilizes accessory bypass tract (e.g., Wolff-Parkinson-White syndrome). Orthodromic AVRT (antegrade AV node, retrograde pathway) produces narrow QRS. Antidromic AVRT (antegrade pathway, retrograde AV node) produces wide QRS.
 - **AVNRT:** Rare in infancy; increases in childhood and adolescence. Involves slow and fast functional pathways within AV node,. Associated with exercise and syncope.
-- **Atrial Flutter:** Macroreentrant circuit,. Neonates frequently have normal hearts; older children often have congenital heart disease (e.g., stretched atria from tricuspid atresia, Ebstein anomaly, Fontan procedure).
+- **Atrial Flutter:** Macroreentrant circuit,. Neonates frequently have normal hearts; older children often have congenital heart disease (e.g., stretched atria from [[Cardiology/Tricuspid Atresia\|tricuspid atresia]], Ebstein anomaly, Fontan procedure).
 - **Ectopic Atrial Tachycardia (EAT):** Automatic focus in atrial myocardium remote from sinus node. Often incessant, leading to tachycardia-induced cardiomyopathy.
 - **Junctional Ectopic Tachycardia (JET):** Automatic focus near His bundle. Most commonly occurs postoperatively after congenital heart surgery,.
 
@@ -32,11 +32,11 @@
 
 ## Diagnostic Evaluation
 
-### Electrocardiography (ECG) Features vs. Sinus Tachycardia
+### Electrocardiography ([[Misc/ECG\|ECG]]) Features vs. Sinus Tachycardia
 
 - **Heart Rate:** SVT exhibits fixed, rapid rates (>230 beats/min in infants) lacking normal beat-to-beat variability seen in sinus tachycardia.
-- **P Waves:** Visible in only 50–60% of neonates on standard ECG. Abnormal P-wave axis (normal is positive in I and aVF) strongly argues against sinus tachycardia,.
-- **Transesophageal Lead:** Detects P waves effectively when surface ECG is obscure.
+- **P Waves:** Visible in only 50–60% of neonates on standard [[Misc/ECG\|ECG]]. Abnormal P-wave axis (normal is positive in I and aVF) strongly argues against sinus tachycardia,.
+- **Transesophageal Lead:** Detects P waves effectively when surface [[Misc/ECG\|ECG]] is obscure.
 
 ### Differential Diagnosis of Narrow QRS Tachycardia
 

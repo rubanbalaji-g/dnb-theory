@@ -76,7 +76,7 @@ F3 --> G3[<b>Enhanced Elimination</b><br>Dialysis or Alkalinization]:::step
 | :---------------- | :------------------------------------------------------------------------------------------------------------------------ | :--------------------------------------------------- |
 | Anticholinergic   | Delirium, mydriasis, tachycardia, hyperthermia, dry skin, dry oral mucosa, flushing, urinary retention.                   | Atropine, antihistamines, tricyclic antidepressants. |
 | Cholinergic       | Diarrhea, urination, miosis, bradycardia, bronchorrhea, emesis, lacrimation, salivation, muscle fasciculations.           | Organophosphates, carbamate pesticides.              |
-| Sympathomimetic   | Agitation, seizures, mydriasis, tachycardia, hypertension, diaphoresis, hyperthermia.                                     | Amphetamines, cocaine, ADHD medications.             |
+| Sympathomimetic   | Agitation, seizures, mydriasis, tachycardia, hypertension, diaphoresis, hyperthermia.                                     | Amphetamines, cocaine, [[Development/ADHD\|ADHD]] medications.             |
 | Opioid            | Profound central nervous system depression, respiratory depression, miosis, bradycardia, hypotension, hypothermia.        | Morphine, heroin, methadone, buprenorphine.          |
 | Sedative-Hypnotic | Coma, respiratory depression, normal to decreased heart rate, normal to decreased blood pressure, normal or small pupils. | Benzodiazepines, barbiturates, alcohols, zolpidem.   |
 

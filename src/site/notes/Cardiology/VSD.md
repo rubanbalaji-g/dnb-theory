@@ -18,20 +18,20 @@ A defect in the ventricular septum allowing communication between the RV and LV.
 ### 3. Clinical Features
 | Size Category          | Absolute Diameter | Relative to Aortic Root / Annulus             | Hemodynamic Status     | Shunt Magnitude (Qp:Qs) |
 | ---------------------- | ----------------- | --------------------------------------------- | ---------------------- | ----------------------- |
-| **Very Small / Small** | < 5 mm            | VSD to Aorta ratio < 0.5                      | Pressure restrictive   | < 1.5:1                 |
-| **Moderate (Medium)**  | 5 – 10 mm         | VSD to Aorta ratio ≈ 1                        | Moderately restrictive | 1.5:1 – 2:1             |
+| **Very Small / Small** | < 5 mm            | [[Cardiology/VSD\|VSD]] to Aorta ratio < 0.5                      | Pressure restrictive   | < 1.5:1                 |
+| **Moderate (Medium)**  | 5 – 10 mm         | [[Cardiology/VSD\|VSD]] to Aorta ratio ≈ 1                        | Moderately restrictive | 1.5:1 – 2:1             |
 | **Large**              | > 10 mm           | > 50% of Aortic diameter, or ≥ Aortic annulus | Non-restrictive        | > 2:1                   |
 * Symptoms: Tachypnea, diaphoresis during feeds, failure to thrive, recurrent chest infections.
 ### 4. Physical Examination
 * **Palpation:** Hyperdynamic precordium, Systolic Thrill at LLSB.
 * **Auscultation:**
     * **Murmur:** Harsh, **Pansystolic Murmur** best heard at **Left Lower Sternal Border (LLSB)**.
-    * *Pearl:* Intensity is **inversely proportional** to size (Small VSD = Loud Murmur).
+    * *Pearl:* Intensity is **inversely proportional** to size (Small [[Cardiology/VSD\|VSD]] = Loud Murmur).
     * **P2:** Loud (if Pulmonary Hypertension develops).
     * **Mid-diastolic rumble:** At apex (due to increased flow across Mitral valve in large VSDs).
 ### 5. Investigations
 * **CXR:** Cardiomegaly (LV type), Pulmonary Plethora (increased vascular markings).
-* **ECG:**
+* **[[Misc/ECG\|ECG]]:**
     * QRS Small to Normal.
     * Large: **Left Atrial Enlargement (LAE)** and **Biventricular Hypertrophy (BVH)**.
     * *Classic Sign:* **Katz-Wachtel Phenomenon** (Large equiphasic QRS complexes in V2-V5).
@@ -47,7 +47,7 @@ A defect in the ventricular septum allowing communication between the RV and LV.
     1.  Uncontrolled CHF / Failure to thrive.
     2.  Qp:Qs > 2:1.
     3.  Development of Pulmonary Hypertension (pre-Eisenmenger).
-    4.  Supracristal VSD with **Aortic Regurgitation** (prolapse of right coronary cusp).
+    4.  Supracristal [[Cardiology/VSD\|VSD]] with **Aortic Regurgitation** (prolapse of right coronary cusp).
 * **Methods:**
     * **Surgical Patch Closure:** (Dacron/Gore-tex) - Gold standard.
     * **Transcatheter Device Closure:** For suitable Muscular VSDs.

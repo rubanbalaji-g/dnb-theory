@@ -8,7 +8,7 @@
 - Global prevalence estimated at 33.4 million in 2015, rising to 40.5 million in 2019.
 - Approximately 300,000 deaths annually worldwide.
 - Predominantly afflicts disadvantaged, marginalized populations in low- and middle-income (LMI) countries (Sub-Saharan Africa, South Asia, Oceania).
-- Acute Rheumatic Fever (ARF) peaks between 5-14 years of age.
+- [[Infectious Diseases/Acute Rheumatic Fever (ARF)\|Acute Rheumatic Fever (ARF)]] peaks between 5-14 years of age.
 - RHD prevalence peaks in adulthood between 20-44 years.
 - Female predominance, especially after age 15.
 
@@ -107,7 +107,7 @@ Erythema Marginatum
 - **MS Specifics:** <span style="color:rgb(146, 208, 80)">"Hockey-stick"</span> appearance of anterior mitral leaflet in diastole.
 - **Color Doppler:** Quantifies severity of regurgitant jets (jet length, peak velocity, pan-systolic/pan-diastolic nature).
 
-### Electrocardiography (ECG)
+### Electrocardiography ([[Misc/ECG\|ECG]])
 
 - Prolonged PR interval (non-specific, does not alone indicate carditis).
 - Advanced AV block (rare).
@@ -166,7 +166,7 @@ Erythema Marginatum
 - **Congestive Heart Failure:** Primary cause of morbidity and mortality.
 - **Arrhythmias:** Atrial fibrillation (AF) strongly associated with left atrial dilation in MS. High risk of thromboembolism.
 - **Thromboembolism:** Systemic embolization leading to stroke. Incidence elevated in AF and massive left atrial enlargement.
-- **Infective Endocarditis:** Damaged endothelium serves as nidus. Risk mandates rigorous dental hygiene. Antibiotic prophylaxis indicated prior to bacteremia-inducing procedures in patients with established RHD or prosthetic valves.
+- **[[Cardiology/Infective endocarditis\|Infective Endocarditis]]:** Damaged endothelium serves as nidus. Risk mandates rigorous dental hygiene. Antibiotic prophylaxis indicated prior to bacteremia-inducing procedures in patients with established RHD or prosthetic valves.
 - **Pulmonary Hypertension:** Irreversible pulmonary vascular disease consequence of untreated, long-standing left-sided valvular lesions.
 
 ### Prognosis

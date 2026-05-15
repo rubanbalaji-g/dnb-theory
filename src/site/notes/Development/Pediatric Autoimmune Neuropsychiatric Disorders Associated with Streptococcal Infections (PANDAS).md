@@ -23,14 +23,14 @@
 
 |Clinical Domain|Associated Signs and Symptoms|
 |:--|:--|
-|**Psychiatric and Behavioral**|Severe separation anxiety; acute personality changes; oppositional behaviors; intense emotional lability; depression; aggression; and nighttime fears or nightmares.|
+|**Psychiatric and Behavioral**|Severe separation anxiety; acute personality changes; oppositional behaviors; intense emotional lability; depression; aggression; and nighttime fears or [[Development/Nightmares\|nightmares]].|
 |**Neurologic and Motor**|Chorea-like movements; soft neurologic signs such as resting tremors; and coordination difficulties.|
 |**Cognitive and Academic**|Acute behavioral or developmental regression; sudden deterioration in school performance; specific deterioration in math skills; and dysgraphia (deterioration of handwriting).|
 
 ### Evaluation and Diagnosis
 
 - PANDAS remains a controversial clinical diagnosis because specific autoantibodies directed against basal ganglia cells have not been consistently isolated in routine laboratory assays.
-- A thorough diagnostic workup is required to rule out other known medical and neurologic disorders that mimic acute psychosis or movement disorders, including Sydenham chorea, Tourette syndrome, systemic lupus erythematosus, and autoimmune encephalitis.
+- A thorough diagnostic workup is required to rule out other known medical and neurologic disorders that mimic acute psychosis or movement disorders, including Sydenham chorea, [[Development/Tourette Syndrome\|Tourette syndrome]], systemic lupus erythematosus, and [[Neurology/Autoimmune Encephalitis\|autoimmune encephalitis]].
 - Establishing the diagnosis requires proving a temporal association between the symptom onset and a recent GABHS infection.
 - Checking single antistreptococcal antibody titers (e.g., antistreptolysin O and anti-deoxyribonuclease B) has no diagnostic utility, as most children naturally develop positive titers by their teenage years.
 - A recent, active infection is best confirmed by demonstrating a doubling of streptococcal antibody titers in paired samples drawn weeks apart.

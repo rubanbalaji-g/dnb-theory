@@ -6,8 +6,8 @@
 Endocrine disorders on the first day of life are medical emergencies. Early recognition is critical to prevent metabolic collapse (hypoglycemia, shock), incorrect gender assignment, or long-term neurodevelopmental sequelae. Diagnosis primarily relies on recognizing clinical "red flags" before screening results are available.
 
 ### 2. Presentation A: Ambiguous Genitalia (DSD)
-The most common endocrine cause for ambiguous genitalia is Congenital Adrenal Hyperplasia (CAH).
-* **Congenital Adrenal Hyperplasia (CAH):**
+The most common endocrine cause for ambiguous genitalia is [[Endocrinology/Congenital Adrenal Hyperplasia\|Congenital Adrenal Hyperplasia]] (CAH).
+* **[[Endocrinology/Congenital Adrenal Hyperplasia\|Congenital Adrenal Hyperplasia]] (CAH):**
     * **Pathophysiology:** 21-hydroxylase deficiency (90%) leads to cortisol deficiency and androgen excess.
     * **Day 1 Findings:**
         * **Females (46,XX):** Virilization, clitoromegaly, labial fusion, single perineal opening (Prader staging).
@@ -32,7 +32,7 @@ Hypoglycemia on Day 1 that requires high Glucose Infusion Rates (GIR > 8-10 mg/k
 ### 4. Presentation C: Physical Stigmata & Dysmorphism
 Certain syndromes with endocrine components present with visible signs on Day 1.
 
-* **Congenital Hypothyroidism (Sporadic/Athyrosis):**
+* **[[Endocrinology/Congenital Hypothyroidism\|Congenital Hypothyroidism]] (Sporadic/Athyrosis):**
     * Usually asymptomatic on Day 1, but severe cases may show:
     * Large posterior fontanelle (> 0.5 cm).
     * Macroglossia.
@@ -41,7 +41,7 @@ Certain syndromes with endocrine components present with visible signs on Day 1.
 * **Neonatal Thyrotoxicosis:**
     * **History:** Mother with Graves' disease (TSH receptor antibodies cross placenta).
     * **Signs:** Irritability, tachycardia (>180 bpm), prominent eyes, goiter, frontal bossing.
-* **Turner Syndrome (45,XO):**
+* **[[Genetics/Turner Syndrome\|Turner Syndrome]] (45,XO):**
     * Presents with **pedal lymphedema** (puffy feet) and redundant nuchal skin (web neck).
 * **DiGeorge Syndrome (22q11.2 deletion):**
     * Presents with hypocalcemic seizures (Hypoparathyroidism) + Cardiac defects (Truncus/TOF).

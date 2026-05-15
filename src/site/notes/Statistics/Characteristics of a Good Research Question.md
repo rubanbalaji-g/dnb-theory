@@ -11,7 +11,7 @@
 
 - **Question Format:** The research idea must be explicitly phrased as a question that the study sets out to resolve.
 - **Specific:** The question must be highly focused and clearly define the parameters of the study, which includes specifying the time frame, the geographical place or setting, the exact subjects or population being studied, and the specific condition or intervention under investigation.
-- **Answerable:** The question must be practical and feasible to answer through scientific methods, data collection, and statistical hypothesis testing.
+- **Answerable:** The question must be practical and feasible to answer through scientific methods, data collection, and statistical [[Statistics/Hypothesis Testing\|hypothesis testing]].
 - **Novel:** The proposed question should seek to add new information, insights, or value to the current medical literature rather than simply duplicating already established facts.
 - **Relevant:** The question must be directly pertinent to medical knowledge, meaning the answer should have the potential to influence clinical practice, public health, or future scientific inquiries.
 

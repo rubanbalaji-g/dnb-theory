@@ -2,16 +2,16 @@
 {"dg-publish":true,"uplink":"/development/developmental-pediatrics/","uptext":"Back to Index (📈 Development and Growth)","permalink":"/development/growth-charts-and-anthropometry/","dgPassFrontmatter":true}
 ---
 
-- Growth charts are essential surveillance tools in pediatric practice that represent the frequency distribution curves (percentiles or z-scores) of anthropometric parameters in a reference population.
+- [[Development/Growth Charts\|Growth charts]] are essential surveillance tools in pediatric practice that represent the frequency distribution curves (percentiles or z-scores) of anthropometric parameters in a reference population.
 - Plotting a single value determines if a child is within the normal range at a specific point in time, while sequential plotting allows monitoring of growth trends and trajectories against the median.
 - Growth parameters are highly sensitive indicators of overall well-being, chronic disease status, nutritional adequacy, and psychosocial stress.
 
 ## Types of Growth Standards and References
 
-- The selection of appropriate growth charts depends on the age of the child and the clinical context.
+- The selection of appropriate [[Development/Growth Charts\|growth charts]] depends on the age of the child and the clinical context.
 - It is critical to distinguish between a "growth standard" (which prescribes how children should optimally grow) and a "growth reference" (which describes how a specific population actually grew),.
 
-|Feature|WHO Multicentre Growth Reference Study (MGRS) Charts|CDC 2000 Growth Charts|Indian Academy of Pediatrics (IAP) Charts|
+|Feature|WHO Multicentre Growth Reference Study (MGRS) Charts|CDC 2000 [[Development/Growth Charts\|Growth Charts]]|Indian Academy of Pediatrics (IAP) Charts|
 |:--|:--|:--|:--|
 |**Age Range**|0 to 5 years (routinely recommended for 0-24 months),.|2 to 19 years.|5 to 18 years,.|
 |**Data Nature**|Growth standard (prescriptive, describing optimal growth),.|Growth reference (descriptive, based on historical cross-sectional data),.|Growth reference based on contemporary data from 33,148 Indian children.|
@@ -21,11 +21,11 @@
 ## Anthropometric Parameters Assessed
 
 - For infants and toddlers (under 2 years), routine parameters plotted include weight for age, length for age, head circumference for age, and weight for length,.
-- For children older than 5 years, height for age and Body Mass Index (BMI) for age are the most important parameters for defining normal or abnormal growth and nutritional status.
+- For children older than 5 years, height for age and Body Mass [[Statistics/Index\|Index]] (BMI) for age are the most important parameters for defining normal or abnormal growth and nutritional status.
 - BMI is calculated as weight in kilograms divided by the square of height in meters, and it must be interpreted strictly relative to age and gender,,.
 - The normal BMI trajectory is characterized by a relatively flat curve between 2 and 5 years of age, making age-specific plotting crucial for accurate interpretation,.
 
-## Interpretation of Percentiles and Z-Scores
+## Interpretation of [[Statistics/Percentiles and Z-scores\|Percentiles and Z-Scores]]
 
 - Percentiles define the percentage of individuals in a population who have achieved a specific measured quantity (e.g., the 5th, 10th, and 25th percentiles correspond to -1.65, -1.3, and -0.7 standard deviations, respectively).
 - Z-scores allow for cross-population standardization and are calculated using the formula: Z-score = (Observed value - mean value) / Standard deviation.
@@ -50,7 +50,7 @@
 
 ## Differential Diagnosis Using Growth Trajectories
 
-- Growth charts vividly display specific patterns that aid the pediatric diagnostician in distinguishing the etiology of abnormal growth.
+- [[Development/Growth Charts\|Growth charts]] vividly display specific patterns that aid the pediatric diagnostician in distinguishing the etiology of abnormal growth.
 
 |Etiology of Short Stature|Characteristic Growth Chart Trajectory|
 |:--|:--|
@@ -69,5 +69,5 @@
 
 - **Correcting for Prematurity:** The gestational duration of prematurity must be actively subtracted from the infant's chronological age. This correction is required for accurately plotting length, weight, and head circumference until two to three years of age to avoid the overdiagnosis of growth failure,,.
 - **Target Height Estimation:** Mid-parental height (MPH) must be calculated to estimate genetic potential. For boys: (Mother's height + Father's height + 13 cm) / 2. For girls: (Mother's height + Father's height - 13 cm) / 2. This target should be plotted at the 18-20 year mark on the chart to establish expected percentile tracking,.
-- **Condition-Specific Charts:** To prevent misclassification of growth abnormalities, specialized charts must be utilized for patients with inherent growth-altering conditions. Standardized specific charts exist for very low birthweight (VLBW) infants, Trisomy 21 (Down syndrome), Turner syndrome, and Achondroplasia.
+- **Condition-Specific Charts:** To prevent misclassification of growth abnormalities, specialized charts must be utilized for patients with inherent growth-altering conditions. Standardized specific charts exist for very low birthweight (VLBW) infants, Trisomy 21 (Down syndrome), [[Genetics/Turner Syndrome\|Turner syndrome]], and Achondroplasia.
 - **Preterm Fetal-Infant Charts:** For extremely premature neonates, specialized tools such as the Fenton growth chart (an update of the Babson and Benda chart) allow for plotting parameters starting from 22 weeks of gestation to smoothly track extrauterine transition,,.

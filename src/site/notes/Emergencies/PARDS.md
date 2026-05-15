@@ -2,9 +2,9 @@
 {"dg-publish":true,"uptext":"Back to Index (🚑 Emergencies and Critical Care)","uplink":"/emergencies/emergencies-and-critical-care/","permalink":"/emergencies/pards/","dgPassFrontmatter":true}
 ---
 
-## Diagnostic Criteria for Pediatric ARDS (PARDS)
+## Diagnostic Criteria for Pediatric ARDS ([[Emergencies/PARDS\|PARDS]])
 
-- The diagnosis of PARDS is established using the Pediatric Acute Lung Injury Consensus Conference (PALICC) 2015 criteria,.
+- The diagnosis of [[Emergencies/PARDS\|PARDS]] is established using the Pediatric Acute Lung Injury Consensus Conference (PALICC) 2015 criteria,.
 
 |Criterion|Definition|
 |:--|:--|
@@ -13,13 +13,13 @@
 |**Origin of Edema**|Respiratory failure not fully explained by cardiac failure or fluid overload.|
 |**Chest Imaging**|Findings of new infiltrate(s) consistent with acute pulmonary parenchymal disease.|
 |**Oxygenation (Non-Invasive)**|Full face-mask Bi-level ventilation or CPAP $\ge$ 5 cm H2O yielding a PaO2/FiO2 (PF) ratio $\le$ 300 or SpO2/FiO2 (SF) ratio $\le$ 264.|
-|**Oxygenation (Invasive)**|Stratified using Oxygenation Index (OI) or Oxygen Saturation Index (OSI).|
+|**Oxygenation (Invasive)**|Stratified using [[Emergencies/Oxygenation Index (OI)\|Oxygenation Index (OI)]] or Oxygen Saturation [[Statistics/Index\|Index]] (OSI).|
 
 - Severity stratification based on invasive mechanical ventilation oxygenation criteria:
-    - **Mild PARDS:** 4 $\le$ OI < 8 or 5 $\le$ OSI < 7.5.
-    - **Moderate PARDS:** 8 $\le$ OI < 16 or 7.5 $\le$ OSI < 12.3.
-    - **Severe PARDS:** OI $\ge$ 16 or OSI $\ge$ 12.3.
-- Special criteria apply for cyanotic heart disease, chronic lung disease, and left ventricular dysfunction, where an acute deterioration in oxygenation not explained by the underlying disease confirms PARDS,.
+    - **Mild [[Emergencies/PARDS\|PARDS]]:** 4 $\le$ OI < 8 or 5 $\le$ OSI < 7.5.
+    - **Moderate [[Emergencies/PARDS\|PARDS]]:** 8 $\le$ OI < 16 or 7.5 $\le$ OSI < 12.3.
+    - **Severe [[Emergencies/PARDS\|PARDS]]:** OI $\ge$ 16 or OSI $\ge$ 12.3.
+- Special criteria apply for cyanotic heart disease, [[Respiratory/Chronic Lung Disease\|chronic lung disease]], and left ventricular dysfunction, where an acute deterioration in oxygenation not explained by the underlying disease confirms [[Emergencies/PARDS\|PARDS]],.
 
 ## Pathogenesis
 

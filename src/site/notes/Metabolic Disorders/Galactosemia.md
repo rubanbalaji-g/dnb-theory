@@ -28,14 +28,14 @@
 * **Acute Neonatal Symptoms:**
     * **Hepatic:** Jaundice (often conjugated), hepatomegaly, hepatic failure, coagulopathy, ascites.
     * **Gastrointestinal:** Vomiting, feeding intolerance, poor weight gain.
-    * **Neurologic:** Lethargy, irritability, seizures, cerebral edema (pseudotumor cerebri with bulging fontanelle).
+    * **Neurologic:** Lethargy, irritability, seizures, cerebral edema ([[Neurology/Pseudotumor Cerebri\|pseudotumor cerebri]] with bulging fontanelle).
     * **Ophthalmologic:** **Nuclear cataracts** ("oil drop" appearance) detectable within days to weeks.
 * **Infection Risk:** High susceptibility to **_E. coli_ neonatal sepsis**; onset often precedes the metabolic diagnosis.
-* **Renal:** Renal Fanconi syndrome (aminoaciduria, phosphaturia, acidosis) due to tubular toxicity.
+* **Renal:** Renal [[Nephrology/Fanconi syndrome\|Fanconi syndrome]] (aminoaciduria, phosphaturia, acidosis) due to tubular toxicity.
 
 ## 4. INVESTIGATIONS
 * **Screening Tests:**
-    * **Newborn Screening (NBS):** Measures total galactose and/or GALT enzyme activity.
+    * **[[Neonatalogy/Newborn Screening\|Newborn Screening]] (NBS):** Measures total galactose and/or GALT enzyme activity.
     * **Urine Reducing Substances:** Positive **Clinitest** (detects galactose) with Negative **Clinistix** (specific for glucose). *Note: False negatives possible if infant is not feeding or vomiting*.
 * **Confirmatory Tests:**
     * **RBC GALT Enzyme Activity (Gold Standard):** Absent or markedly reduced activity. *Caution: Avoid testing after blood transfusion (false negative)*.

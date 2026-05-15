@@ -32,7 +32,7 @@ Congenital toxoplasmosis presents with a spectrum of neuroradiological findings 
 
 ### Other Findings
 
-- **[[Neurology/Microcephaly\|Microcephaly]]:** Occurs in [[About\|about]] 12% of cases, usually reflecting severe brain damage and associated with numerous calcifications,.
+- **[[Neurology/Microcephaly\|Microcephaly]]:** Occurs in about 12% of cases, usually reflecting severe brain damage and associated with numerous calcifications,.
 
 ## Brain CT Findings in [[Infectious Diseases/Neurocysticercosis\|Neurocysticercosis]] (NCC)
 

@@ -60,7 +60,7 @@
     * X-ray/MRI: To detect Erlenmeyer flask deformity, medullary infarction, and osteonecrosis.
 
 ## 5. MANAGEMENT
-### A. Enzyme Replacement Therapy (ERT)
+### A. [[Genetics/Enzyme Replacement Therapy (ERT)\|Enzyme Replacement Therapy (ERT)]]
 * **Drug:** Recombinant acid $\beta$-glucosidase (e.g., **Imiglucerase**, Velaglucerase).
 * **Indications:** Standard of care for Type 1 and Type 3 (visceral symptoms).
 * **Efficacy:** Reverses hematologic and visceral pathology; improves bone density. **Does not cross blood-brain barrier** (ineffective for CNS symptoms).

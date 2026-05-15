@@ -4,7 +4,7 @@
 
 ## Overview
 
-- Tyrosinemia represents a group of autosomal recessive inborn errors of tyrosine metabolism.
+- [[Metabolic Disorders/Tyrosinemia\|Tyrosinemia]] represents a group of autosomal recessive inborn errors of tyrosine metabolism.
 - Disorders are characterized by elevated blood tyrosine levels (hypertyrosinemia) and specific organ damage depending on the exact enzymatic defect.
 - Tyrosine is an aromatic amino acid essential for the synthesis of dopamine, norepinephrine, epinephrine, melanin, and thyroxine.
 ```mermaid
@@ -50,17 +50,17 @@ flowchart TD
     ALA -->|Enzyme conversion inhibited by <br> Succinylacetone| PBG
     SuccAcetone -. Inhibits .-> ALA
 ```
-## Classification Of Tyrosinemia
+## Classification Of [[Metabolic Disorders/Tyrosinemia\|Tyrosinemia]]
 
-| Feature                   | Tyrosinemia Type I                  | Tyrosinemia Type II                          | Tyrosinemia Type III                         | Transient Tyrosinemia                |
+| Feature                   | [[Metabolic Disorders/Tyrosinemia\|Tyrosinemia]] Type I                  | [[Metabolic Disorders/Tyrosinemia\|Tyrosinemia]] Type II                          | [[Metabolic Disorders/Tyrosinemia\|Tyrosinemia]] Type III                         | Transient [[Metabolic Disorders/Tyrosinemia\|Tyrosinemia]]                |
 | :------------------------ | :---------------------------------- | :------------------------------------------- | :------------------------------------------- | :----------------------------------- |
-| **Alternate Name**        | Hepatorenal Tyrosinemia             | Oculocutaneous Tyrosinemia (Richner-Hanhart) | 4-HPPD Deficiency                            | Transient Tyrosinemia of the Newborn |
+| **Alternate Name**        | Hepatorenal [[Metabolic Disorders/Tyrosinemia\|Tyrosinemia]]             | Oculocutaneous [[Metabolic Disorders/Tyrosinemia\|Tyrosinemia]] (Richner-Hanhart) | 4-HPPD Deficiency                            | Transient [[Metabolic Disorders/Tyrosinemia\|Tyrosinemia]] of the Newborn |
 | **Enzyme Defect**         | Fumarylacetoacetate Hydrolase (FAH) | Tyrosine Aminotransferase (TAT)              | 4-Hydroxyphenylpyruvate Dioxygenase (4-HPPD) | Delayed maturation of 4-HPPD         |
 | **Gene**                  | _FAH_ (15q25.1)                     | _TAT_ (16q22.2)                              | _HPD_ (12q24.31)                             | None (Maturational delay)            |
 | **Pathognomonic Marker**  | Elevated Succinylacetone (SA)       | Extreme Hypertyrosinemia (>1,200 µmol/L)     | Absent Succinylacetone                       | High Tyrosine and Phenylalanine      |
 | **Primary Target Organs** | Liver, Kidneys, Peripheral Nerves   | Eyes, Skin, Central Nervous System           | Central Nervous System                       | Usually asymptomatic                 |
 
-## Tyrosinemia Type I (Hepatorenal Tyrosinemia)
+## [[Metabolic Disorders/Tyrosinemia\|Tyrosinemia]] Type I (Hepatorenal [[Metabolic Disorders/Tyrosinemia\|Tyrosinemia]])
 
 ### Pathophysiology
 
@@ -73,18 +73,18 @@ flowchart TD
 ### Clinical Features
 
 - **Acute Infantile Form (<6 months):**
-    - Acute liver failure, jaundice, coagulopathy with bleeding, and ascites.
+    - [[Gastrointestinal/Acute Liver Failure\|Acute liver failure]], jaundice, coagulopathy with bleeding, and ascites.
     - Sepsis-like presentation with fever, vomiting, and irritability.
     - Characteristic "boiled cabbage" odor due to methionine metabolites.
 - **Chronic Childhood Form (>6 months):**
     - **Hepatic:** Chronic micronodular cirrhosis, failure to thrive, and high risk of Hepatocellular Carcinoma (HCC).
-    - **Renal:** Renal Fanconi syndrome causing phosphaturia, glycosuria, and aminoaciduria, resulting in Vitamin D-resistant rickets.
+    - **Renal:** Renal [[Nephrology/Fanconi syndrome\|Fanconi syndrome]] causing phosphaturia, glycosuria, and aminoaciduria, resulting in Vitamin D-resistant rickets.
     - **Neurologic:** Porphyria-like crises triggered by infection, manifesting as painful peripheral neuropathy, extensor hypertonia, and respiratory failure requiring ventilation.
 
 ### Investigations
 
 - **Diagnostic Marker:** Elevated Succinylacetone in blood or urine is pathognomonic.
-- **Newborn Screening (NBS):** Succinylacetone is the preferred target, as testing tyrosine alone misses cases.
+- **[[Neonatalogy/Newborn Screening\|Newborn Screening]] (NBS):** Succinylacetone is the preferred target, as testing tyrosine alone misses cases.
 - **Biochemistry:**
     - Elevated plasma Tyrosine, Methionine, and Phenylalanine.
     - Markedly elevated Alpha-fetoprotein (AFP), often >100,000 ng/mL.
@@ -97,9 +97,9 @@ flowchart TD
     - Inhibits 4-Hydroxyphenylpyruvate Dioxygenase (4-HPPD) upstream of the defect, preventing formation of toxic Succinylacetone.
     - Causes secondary hypertyrosinemia, requiring dietary management.
 - **Dietary Modification:** Low Phenylalanine and Tyrosine diet using special metabolic formulas to prevent NTBC-induced hypertyrosinemia complications.
-- **Liver Transplantation:** Indicated for acute liver failure refractory to medical therapy, confirmed or suspected Hepatocellular Carcinoma, or poor response to Nitisinone.
+- **[[Gastrointestinal/Liver Transplantation\|Liver Transplantation]]:** Indicated for [[Gastrointestinal/Acute Liver Failure\|acute liver failure]] refractory to medical therapy, confirmed or suspected Hepatocellular Carcinoma, or poor response to Nitisinone.
 
-## Tyrosinemia Type II (Oculocutaneous Tyrosinemia)
+## [[Metabolic Disorders/Tyrosinemia\|Tyrosinemia]] Type II (Oculocutaneous [[Metabolic Disorders/Tyrosinemia\|Tyrosinemia]])
 
 ### Pathophysiology And Clinical Features
 
@@ -113,7 +113,7 @@ flowchart TD
 
 - Strict dietary restriction of Phenylalanine and Tyrosine leads to rapid resolution of skin and eye lesions.
 
-## Tyrosinemia Type III
+## [[Metabolic Disorders/Tyrosinemia\|Tyrosinemia]] Type III
 
 ### Pathophysiology And Clinical Features
 
@@ -122,7 +122,7 @@ flowchart TD
 - Characterized by absent Succinylacetone and absence of liver or kidney damage.
 - Treated exclusively with dietary restriction of Phenylalanine and Tyrosine.
 
-## Transient Tyrosinemia Of The Newborn
+## Transient [[Metabolic Disorders/Tyrosinemia\|Tyrosinemia]] Of The Newborn
 
 ### Pathophysiology And Management
 

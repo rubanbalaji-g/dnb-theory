@@ -42,8 +42,8 @@
 | System            | Specific Complications                                                                                                                                                                                          |
 | ----------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Neurologic**    | Metabolic stroke affecting the globus pallidus in the basal ganglia, leading to movement disorders like dystonia, chorea, and spasticity.                                                                       |
-| **Renal**         | <span style="color:rgb(255, 255, 0)">Chronic tubulointerstitial nephritis</span> leading to progressive Chronic Kidney Disease, a feature unique to Methylmalonic Acidemia compared to other [[Metabolic Disorders/Organic Acidemias\|organic acidemias]]. |
-| **Other Systems** | Acute pancreatitis, optic nerve atrophy, cardiomyopathy, and acrodermatitis enteropathica-like skin rashes.                                                                                                     |
+| **Renal**         | <span style="color:rgb(255, 255, 0)">Chronic tubulointerstitial nephritis</span> leading to progressive [[Nephrology/Chronic Kidney Disease\|Chronic Kidney Disease]], a feature unique to Methylmalonic Acidemia compared to other [[Metabolic Disorders/Organic Acidemias\|organic acidemias]]. |
+| **Other Systems** | [[Gastrointestinal/Acute Pancreatitis\|Acute pancreatitis]], optic nerve atrophy, cardiomyopathy, and acrodermatitis enteropathica-like skin rashes.                                                                                                     |
 
 ## Investigations
 
@@ -71,10 +71,10 @@
 |---|---|
 |**Dietary**|Low-protein diet restricting Isoleucine, Valine, Methionine, and Threonine, supplemented with specific medical foods. Avoidance of prolonged fasting.|
 |**Pharmacotherapy**|Intramuscular Hydroxocobalamin for B12-responsive subtypes. Maintenance L-Carnitine (50-100 mg/kg/day). Gut sterilization using oral Metronidazole or Neomycin to decrease propionate production by enteric bacteria.|
-|**Transplantation**|Liver transplantation corrects metabolic instability but fails to prevent chronic renal progression or reverse existing brain damage. Combined Liver-Kidney transplantation is indicated for patients exhibiting renal failure.|
+|**Transplantation**|[[Gastrointestinal/Liver Transplantation\|Liver transplantation]] corrects metabolic instability but fails to prevent chronic renal progression or reverse existing brain damage. Combined Liver-Kidney transplantation is indicated for patients exhibiting renal failure.|
 
 ## Prognosis
 
 - Prognosis heavily depends on the underlying subtype, with mut⁰ carrying the highest morbidity and poorest outcome.
 - Major long-term morbidities include irreversible intellectual disability, basal ganglia damage, and chronic renal failure.
-- While early diagnosis via Newborn Screening significantly improves initial survival, it does not completely prevent long-term systemic complications.
+- While early diagnosis via [[Neonatalogy/Newborn Screening\|Newborn Screening]] significantly improves initial survival, it does not completely prevent long-term systemic complications.

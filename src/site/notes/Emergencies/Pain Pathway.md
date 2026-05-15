@@ -5,7 +5,7 @@
 ## Definition and Conceptual Framework of Pain
 
 - The International Association for the Study of Pain (IASP) defines pain as an unpleasant sensory and emotional experience associated with, or resembling that associated with, actual or potential tissue damage.
-- The IASP further expands this definition to include six key notes that outline the conceptual framework of the pain pathway:
+- The IASP further expands this definition to include six key notes that outline the conceptual framework of the [[Emergencies/Pain Pathway\|pain pathway]]:
     - Pain is always a personal experience that is influenced to varying degrees by biologic, psychologic, and social factors.
     - Pain and nociception are distinct and different phenomena; pain cannot be inferred solely from activity in sensory neurons.
     - Through their life experiences, individuals actively learn the concept of pain.
@@ -13,14 +13,14 @@
     - Although pain typically serves an adaptive and protective role, it may have adverse effects on an individual's function and social and psychologic well-being.
     - Verbal description is merely one of several behaviors used to express pain; the inability to communicate does not negate the possibility that a human experiences pain.
 
-## The Neurophysiologic Pain Pathway (Nociception)
+## The Neurophysiologic [[Emergencies/Pain Pathway\|Pain Pathway]] (Nociception)
 
 - Nociception refers to the specific peripheral and central nervous system mechanisms responsible for transmitting nerve impulses associated with tissue damage or noxious stimuli.
 - The neurophysiologic pathway encompasses peripheral sensing, spinal cord transmission, and complex central neural connectivity.
 
 ### Peripheral Receptors and Nerve Fibers
 
-- The pain pathway begins in the periphery, where specialized nerve fibers transmit signals originating from peripheral mechanoreceptors and chemoreceptors.
+- The [[Emergencies/Pain Pathway\|pain pathway]] begins in the periphery, where specialized nerve fibers transmit signals originating from peripheral mechanoreceptors and chemoreceptors.
 - The primary fibers responsible for transmitting these nociceptive impulses are largely, but not exclusively, the small, unmyelinated C fibers and the thinly myelinated A-delta fibers.
 - Visceral pain receptors are located in the mesentery, on the serosal surfaces, and within the muscles and mucosa of viscera.
 - These visceral receptors typically respond to mechanical stimuli (such as distention or twisting of muscles, serosa, or mesentery) or chemical stimuli (such as acid, inflammation, or ischemia in the mucosa).
@@ -47,7 +47,7 @@
     - **Neural Networks:** The default mode network, the salience network, and the sensorimotor network.
     - **White Matter Bundles:** The superior longitudinal fasciculus, posterior corona radiata, cingulum bundle, and the corpus callosum.
 
-### Diagrammatic Representation of the Pain Pathway
+### Diagrammatic Representation of the [[Emergencies/Pain Pathway\|Pain Pathway]]
 
 ```mermaid
 graph TD

@@ -4,10 +4,10 @@
 
 ### Definition and Clinical Features
 
-- Temper tantrums are emotional outbursts typically characterized by crying, screaming, kicking, arm flailing, back arching, pushing, throwing objects, hitting, and head banging.
+- [[Development/Temper Tantrums\|Temper tantrums]] are emotional outbursts typically characterized by crying, screaming, kicking, arm flailing, back arching, pushing, throwing objects, hitting, and head banging.
 - These behavioral episodes generally emerge between 16 and 18 months of age, peak in frequency around 2 years of age, and gradually subside by 3 to 6 years of age.
 - A typical tantrum episode lasts between 30 seconds and 5 minutes, although occasionally episodes may persist for more than 30 minutes.
-- During a tantrum, children may also exhibit breath-holding spells, or attempt to inflict injury on themselves or others.
+- During a tantrum, children may also exhibit [[Development/Breath-Holding Spells\|breath-holding spells]], or attempt to inflict injury on themselves or others.
 
 ### Pathophysiology and Etiology
 
@@ -28,7 +28,7 @@
 |**Frequency**|Episodes regularly occurring more than three times per day.|
 |**Severity**|Episodes associated with significant acts of physical aggression toward others, or resulting in self-inflicted injury.|
 |**Age of Persistence**|Tantrums that remain prominent and severe beyond 3 to 4 years of age.|
-|**Underlying Etiology**|Atypical tantrums may reflect underlying medical, emotional, developmental (e.g., autism spectrum disorder), or social problems.|
+|**Underlying Etiology**|Atypical tantrums may reflect underlying medical, emotional, developmental (e.g., [[Development/Autism Spectrum Disorder\|autism spectrum disorder]]), or social problems.|
 
 ### Management Principles
 

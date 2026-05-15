@@ -35,7 +35,7 @@ Presents in the neonatal period with a recognizable dysmorphic phenotype.
 * **Sensory Deficits:**
     * **Vision:** Cataracts, glaucoma, corneal clouding, "Leopard spot" pigmentary retinopathy.
     * **Hearing:** Sensorineural hearing loss.
-* **Development:** Profound global developmental delay; little to no interaction.
+* **Development:** Profound [[Development/Global Developmental Delay\|global developmental delay]]; little to no interaction.
 
 ### C. Visceral (Hepato-Renal)
 * **Liver:** Hepatomegaly with prolonged neonatal jaundice (cholestasis). Progresses to cirrhosis/fibrosis.

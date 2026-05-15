@@ -18,13 +18,13 @@
 
 - Immediate symptoms include intense, burning pain at the site of the spill, the lips, and the oral cavity.
 - Oropharyngeal injury commonly presents with excessive salivation, drooling, dysphagia, and odynophagia.
-- Esophageal and gastric involvement manifests as hematemesis, severe epigastric pain, and refusal to feed.
-- Patients with full-thickness necrosis may develop perforation of the stomach or esophagus, leading to peritonitis or mediastinitis, characterized by a rigid abdomen, rebound tenderness, and hemodynamic collapse.
+- Esophageal and gastric involvement manifests as [[Gastrointestinal/Hematemesis\|hematemesis]], severe epigastric pain, and refusal to feed.
+- Patients with full-thickness necrosis may develop perforation of the stomach or esophagus, leading to [[Gastrointestinal/Peritonitis\|peritonitis]] or mediastinitis, characterized by a rigid abdomen, rebound tenderness, and hemodynamic collapse.
 
 ### Respiratory and Systemic Effects
 
 - Respiratory involvement is a critical emergency, manifesting as hoarseness of voice, dyspnea, and stridor secondary to rapidly progressing laryngeal edema.
-- Aspiration of the corrosive agent can result in chemical pneumonitis, pulmonary edema, and acute respiratory distress syndrome (ARDS).
+- Aspiration of the corrosive agent can result in chemical pneumonitis, pulmonary edema, and acute [[Neonatalogy/Respiratory Distress Syndrome\|respiratory distress syndrome]] (ARDS).
 - Severe systemic absorption of specific agents can lead to metabolic acidosis, hepatic dysfunction, and renal failure.
 
 ### Delayed Complications
@@ -66,7 +66,7 @@
 ### Upper Gastrointestinal Endoscopy
 
 - Upper gastrointestinal endoscopy is the diagnostic gold standard and should be performed within $12$ to $24$ hours of ingestion to assess the extent and severity of the esophageal and gastric mucosal injury.
-- Endoscopy is contraindicated in patients with hemodynamic compromise, clinical signs of peritonitis or mediastinitis, severe oropharyngeal burns precluding safe scope passage, and in entirely asymptomatic children with a history of mild, doubtful ingestion.
+- Endoscopy is contraindicated in patients with hemodynamic compromise, clinical signs of [[Gastrointestinal/Peritonitis\|peritonitis]] or mediastinitis, severe oropharyngeal burns precluding safe scope passage, and in entirely asymptomatic children with a history of mild, doubtful ingestion.
 
 ### Zargar Classification of Corrosive Injury
 

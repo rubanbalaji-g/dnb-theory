@@ -25,11 +25,11 @@ Expands the 3Cs to include:
 Effective communication is the cornerstone of addressing hesitancy in clinical practice.
 
 ### Presumptive Approach
-- Instead of asking "What do you think [[About\|about]] vaccines?", use a presumptive statement: "Your child is due for the MMR and Varicella vaccines today." This normalizes the procedure.
+- Instead of asking "What do you think about vaccines?", use a presumptive statement: "Your child is due for the MMR and Varicella vaccines today." This normalizes the procedure.
 
 ### The CASE Approach
 - **Corroborate:** Acknowledge the parent's concern to build rapport ("I understand you want the best for your child").
-- **[[About\|About]]:** Describe what you know [[About\|about]] the concern based on clinical expertise.
+- **about:** Describe what you know about the concern based on clinical expertise.
 - **Science:** Provide the evidence-based facts regarding the vaccine's safety and efficacy.
 - **Explain/Advise:** Give a firm recommendation based on the science.
 

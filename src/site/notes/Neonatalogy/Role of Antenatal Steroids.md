@@ -6,9 +6,9 @@
 
 ###  Key Roles of Antenatal Steroids
 
-- **Fetal lung maturation**: Stimulates surfactant production, reducing risk of **respiratory distress syndrome (RDS)**.
+- **Fetal lung maturation**: Stimulates surfactant production, reducing risk of **[[Neonatalogy/Respiratory Distress Syndrome\|respiratory distress syndrome]] (RDS)**.
 - **Reduction in neonatal mortality**: Decreases risk of death in preterm infants.
-- **Prevention of complications**: Lowers incidence of **intraventricular hemorrhage (IVH)**, **necrotizing enterocolitis (NEC)**, and **systemic infections**.
+- **Prevention of complications**: Lowers incidence of **[[Neonatalogy/Intraventricular hemorrhage\|intraventricular hemorrhage]] (IVH)**, **necrotizing enterocolitis (NEC)**, and **systemic infections**.
 - **Neurodevelopmental benefit**: Associated with improved long-term neurological outcomes.
 - **Benefit across gestational ages**: Most effective between **24–34 weeks**, but can be considered as early as 23 weeks and up to 36+6 weeks in selected cases.
 ### Clinical Indications

@@ -15,7 +15,7 @@
 
 - Behavioral and physiologic signs are essential for preverbal children, infants, and cognitively impaired children.
 - **Physiologic changes:** Include tachycardia, tachypnea, increased blood pressure, increased muscle tone, oxygen desaturation, sweating, flushing, and pallor.
-- **Behavioral changes:** Include facial grimacing (bulging brow, tightly closed eyelids, deeply furrowed nasolabial groove, taut/quivering tongue), finger clenching, thrashing of limbs, back arching, inconsolable crying, sleep disturbance, poor feeding, and pseudoparalysis.
+- **Behavioral changes:** Include facial grimacing (bulging brow, tightly closed eyelids, deeply furrowed nasolabial groove, taut/quivering tongue), finger clenching, thrashing of limbs, back arching, inconsolable crying, sleep disturbance, poor feeding, and [[Neuromuscular/Pseudoparalysis\|pseudoparalysis]].
 
 ### Pain Assessment Scales
 
@@ -73,7 +73,7 @@
 ### Adjuvant and Unconventional Analgesics
 
 - Used primarily for neuropathic pain, complex regional pain syndrome (CRPS), migraines, and severe muscle spasms.
-- Tricyclic Antidepressants (TCAs) inhibit norepinephrine reuptake and are useful for neuropathic pain, functional abdominal pain, and sleep disorders.
+- Tricyclic Antidepressants (TCAs) inhibit norepinephrine reuptake and are useful for neuropathic pain, [[Gastrointestinal/Functional Abdominal Pain\|functional abdominal pain]], and sleep disorders.
 
 |Medication|Starting Dose|Indications & Side Effects|
 |:--|:--|:--|
@@ -96,7 +96,7 @@
 
 - CBT modifies behavioral and environmental factors that exacerbate pain and disability.
 - Parents are taught to encourage wellness behaviors rather than reinforcing illness behaviors (e.g., minimizing secondary gains from pain complaints).
-- CBT has large positive effects on children with chronic headaches, functional abdominal pain, and fibromyalgia.
+- CBT has large positive effects on children with chronic headaches, [[Gastrointestinal/Functional Abdominal Pain\|functional abdominal pain]], and fibromyalgia.
 
 ## Management in Specific Clinical Scenarios
 

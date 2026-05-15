@@ -34,8 +34,8 @@
 
 |Shunt Type|Anatomy|Pathophysiology|Clinical Course|
 |:--|:--|:--|:--|
-|**Post-Tricuspid**|VSD, PDA, Aortopulmonary window|Exposes pulmonary circulation to both volume and pressure overload.|Early onset of PVD (often first years of life).|
-|**Pre-Tricuspid**|ASD (Secundum, Sinus Venosus)|Exposes pulmonary circulation to volume overload only.|Late onset. Rare progression to ES ("Eisenmenger ASD") requiring genetic predisposition.|
+|**Post-Tricuspid**|[[Cardiology/VSD\|VSD]], PDA, Aortopulmonary window|Exposes pulmonary circulation to both volume and pressure overload.|Early onset of PVD (often first years of life).|
+|**Pre-Tricuspid**|[[Cardiology/ASD\|ASD]] (Secundum, Sinus Venosus)|Exposes pulmonary circulation to volume overload only.|Late onset. Rare progression to ES ("Eisenmenger [[Cardiology/ASD\|ASD]]") requiring genetic predisposition.|
 
 ## Clinical Features
 
@@ -66,13 +66,13 @@
 |**Hematologic**|Secondary erythrocytosis (adaptive response to hypoxia). Increased risk of hyperviscosity.|Treat underlying iron deficiency. Avoid routine phlebotomy.|
 |**Hemostatic**|Thrombocytopenia (megakaryocytes bypass lungs), platelet dysfunction, bleeding diathesis.|Avoid routine anticoagulation unless specific indications (PA thrombosis, AF) due to bleeding risk.|
 |**Pulmonary**|Massive PA dilation causing left main coronary compression, PA in-situ thrombosis, hemoptysis (rupture of plexiform lesions).|Hemoptysis can be life-threatening. Reverse anticoagulation, consider selective lung intubation.|
-|**Neurologic**|Paradoxical emboli causing TIA/Stroke, brain abscess.|Strict IV line care (filters) to prevent air/paradoxical emboli.|
+|**Neurologic**|Paradoxical emboli causing TIA/Stroke, [[Neurology/Brain Abscess\|brain abscess]].|Strict IV line care (filters) to prevent air/paradoxical emboli.|
 |**Renal/Metabolic**|Renal dysfunction (glomerulopathy from hyperviscosity), Hyperuricemia (Gout), Cholelithiasis.|Cautious use of diuretics. Monitor renal function.|
 |**Obstetric**|Pregnancy is strictly contraindicated (mWHO class 4). Maternal mortality 16-50%.|Contraception mandatory. Avoid estrogen. IUD or subdermal devices preferred.|
 
 ## Investigations
 
-### Electrocardiogram (ECG)
+### Electrocardiogram ([[Misc/ECG\|ECG]])
 
 - Right ventricular hypertrophy (RVH).
 - Right axis deviation or extreme axis (in AV septal defects).
@@ -96,7 +96,7 @@
 - CMR evaluates RV volumes, function, and establishes that pulmonary flow is not significantly raised (confirming PVD).
 - CT identifies PA in-situ thrombosis, PA calcification, and coronary compression.
 
-### Cardiac Catheterization & CPET
+### [[Cardiology/Cardiac Catheterization\|Cardiac Catheterization]] & CPET
 
 - Determines vasoreactivity to identify potential responders to therapy.
 - Cardiopulmonary Exercise Testing (CPET): Shows extremely low peak VO2 (<50% predicted), high VE/VCO2 slope (inefficient ventilation), and chronotropic incompetence.

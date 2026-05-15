@@ -30,7 +30,7 @@ Intrinsic myocardial disease without associated structural heart deformity. Hete
 
 - 50-66% cases classified idiopathic/undetermined.
 - 25-30% cases feature identifiable familial component.
-- Identifiable secondary causes: Viral myocarditis (14-22%), Kawasaki disease, anomalous left coronary artery from pulmonary artery (ALCAPA), arrhythmias (tachycardia-induced).
+- Identifiable secondary causes: Viral myocarditis (14-22%), [[Rheumatology/Kawasaki Disease\|Kawasaki disease]], anomalous left coronary artery from pulmonary artery (ALCAPA), arrhythmias (tachycardia-induced).
 
 |Genetic/Molecular Category|Genes/Pathways Implicated in DCM|
 |:--|:--|
@@ -59,7 +59,7 @@ Intrinsic myocardial disease without associated structural heart deformity. Hete
 ### Diagnostic Evaluation
 
 - **Echocardiography (Gold Standard):** LV end-diastolic volume (LVEDV) >2 standard deviations (SD) above normal for body surface area (BSA). Fractional shortening (FS) or ejection fraction (EF) >2 SD below normal.
-- **Electrocardiogram (ECG):** Sinus tachycardia, biatrial abnormalities, right axis deviation, ventricular hypertrophy. Prolonged QTc or conduction delays possible.
+- **Electrocardiogram ([[Misc/ECG\|ECG]]):** Sinus tachycardia, biatrial abnormalities, right axis deviation, ventricular hypertrophy. Prolonged QTc or conduction delays possible.
 - **Chest X-Ray (CXR):** Severe cardiomegaly, pulmonary venous congestion, asymmetric pulmonary edema.
 - **Laboratory Studies:** BNP/NT-proBNP (elevated), troponin, lactate. Metabolic screening for inborn errors (carnitine, acylcarnitine profile). Viral PCR for myocarditis.
 - **Cardiac MRI (CMR):** Differentiates idiopathic DCM from myocarditis (edema, late gadolinium enhancement).
@@ -87,7 +87,7 @@ Intrinsic myocardial disease without associated structural heart deformity. Hete
 ### Definition & Epidemiology
 
 - Hypertrophied, non-dilated LV in absence of hemodynamic stimulus (excludes physiologic hypertrophy/athlete's heart, systemic hypertension, aortic stenosis).
-- Incidence 0.47/100,000 children. Constitutes ~40% of pediatric cardiomyopathies.
+- Incidence 0.47/100,000 children. Constitutes ~40% of pediatric [[Cardiology/Cardiomyopathies\|cardiomyopathies]].
 
 ### Etiology & Genetics
 
@@ -117,7 +117,7 @@ Intrinsic myocardial disease without associated structural heart deformity. Hete
 ### Diagnostic Evaluation
 
 - **Echocardiography:** Maximum LV wall thickness Z-score >5-7 standard deviations represents definitive hypertrophy equivalent to adult 15mm cutoff. Identifies SAM, LVOT gradient, asymmetric septal hypertrophy.
-- **Electrocardiogram (ECG):** Increased voltages (LVH), repolarization abnormalities (T-wave inversion in left precordial leads). Giant inverted lateral T-waves in apical HCM. Short PR, massive QRS in Pompe disease. WPW pattern in PRKAG2/Danon.
+- **Electrocardiogram ([[Misc/ECG\|ECG]]):** Increased voltages (LVH), repolarization abnormalities (T-wave inversion in left precordial leads). Giant inverted lateral T-waves in apical HCM. Short PR, massive QRS in Pompe disease. WPW pattern in PRKAG2/Danon.
 - **Cardiac MRI (CMR):** Late gadolinium enhancement (LGE) confirms fibrosis. Refines SCD risk stratification.
 - **Exercise Testing:** Abnormal blood pressure response (failure to increase systolic BP >20 mmHg or drop >20 mmHg) implies risk.
 
@@ -148,7 +148,7 @@ Intrinsic myocardial disease without associated structural heart deformity. Hete
 
 ### Etiology & Genetics
 
-- Most pediatric cases are idiopathic. Secondary infiltrative causes (amyloidosis, sarcoidosis, hemochromatosis) are exceptionally rare in children.
+- Most pediatric cases are idiopathic. Secondary infiltrative causes (amyloidosis, sarcoidosis, [[Gastrointestinal/Hemochromatosis\|hemochromatosis]]) are exceptionally rare in children.
 - 25-30% exhibit positive family history.
 - **Sarcomeric Mutations:** TNNI3, TNNT2, MYH7, ACTC1, TTN, FLNC.
 - **Non-sarcomeric Mutations:** BAG3, DES (Desmin - associated with AV block), LMNA.
@@ -162,20 +162,20 @@ Intrinsic myocardial disease without associated structural heart deformity. Hete
 
 ### Clinical Presentation
 
-- Dyspnea, severe exercise intolerance, fatigue. Frequently misdiagnosed as "asthma" or recurrent respiratory infections.
+- Dyspnea, severe exercise intolerance, fatigue. Frequently misdiagnosed as "[[Respiratory/Asthma\|asthma]]" or recurrent respiratory infections.
 - Syncope (due to ischemia, arrhythmias, thromboembolism).
 - Physical signs: Loud P2 (pulmonary hypertension), S3/S4 gallop, hepatomegaly, elevated jugular venous pressure.
 
 ### Diagnostic Evaluation
 
 - **Echocardiography:** Pathognomonic biatrial enlargement with normal ventricles. Abnormal mitral inflow (short deceleration time), elevated E/A ratio, elevated E/e' ratio.
-- **Electrocardiogram (ECG):** Abnormal in >90%. Biatrial enlargement, ST segment depression, T-wave abnormalities. High-grade AV block (seen in DES mutations).
+- **Electrocardiogram ([[Misc/ECG\|ECG]]):** Abnormal in >90%. Biatrial enlargement, ST segment depression, T-wave abnormalities. High-grade AV block (seen in DES mutations).
 - **Chest X-Ray (CXR):** Cardiomegaly (due to atrial enlargement), pulmonary venous congestion, possible pleural effusions.
-- **Cardiac Catheterization:** Confirms elevated filling pressures and evaluates pulmonary vascular resistance (PVR). Differentiates RCM from constrictive pericarditis.
+- **[[Cardiology/Cardiac Catheterization\|Cardiac Catheterization]]:** Confirms elevated filling pressures and evaluates pulmonary vascular resistance (PVR). Differentiates RCM from constrictive [[Cardiology/Pericarditis\|pericarditis]].
 
 ### Outcomes and Management
 
-- Worst prognosis among pediatric cardiomyopathies. High risk of sudden death, thromboembolism, and irreversible pulmonary hypertension.
+- Worst prognosis among pediatric [[Cardiology/Cardiomyopathies\|cardiomyopathies]]. High risk of sudden death, thromboembolism, and irreversible pulmonary hypertension.
 - 1- and 5-year transplant-free survival extremely poor (48% and 22% for pure RCM).
 - **Medical Therapy (Symptom-based only):**
     - Judicious diuretics (relieve congestion but maintain necessary preload).
@@ -218,12 +218,12 @@ Intrinsic myocardial disease without associated structural heart deformity. Hete
 
 ### Clinical Features & Diagnosis
 
-- **Presentation:** Ventricular tachyarrhythmias, palpitations, syncope, sudden cardiac arrest. Often triggered/accelerated by exercise or acute myocarditis.
+- **Presentation:** Ventricular tachyarrhythmias, palpitations, syncope, sudden cardiac arrest. Often triggered/accelerated by exercise or [[Cardiology/Acute Myocarditis\|acute myocarditis]].
 - **Diagnosis:** Based on revised Padua criteria integrating multiple domains:
     - Global/regional right or left ventricular dysfunction.
     - Fibrofatty infiltration on CMR.
-    - Repolarization changes on ECG (T-wave inversion in right precordial leads).
-    - Depolarization changes on ECG (epsilon waves).
+    - Repolarization changes on [[Misc/ECG\|ECG]] (T-wave inversion in right precordial leads).
+    - Depolarization changes on [[Misc/ECG\|ECG]] (epsilon waves).
     - Ventricular arrhythmias (LBBB morphology VT or frequent PVCs).
     - Positive family history/genetics.
 - **Management:** Exercise restriction, beta-blockers, antiarrhythmics, ICD placement for sudden death prevention.

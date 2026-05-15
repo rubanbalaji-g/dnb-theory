@@ -67,10 +67,10 @@ Presentation varies by age of onset and severity.
     * **Lyso-Gb1 / Lyso-SM-509:** Sensitive for Gaucher/Niemann-Pick.
 
 ### Step 3: Molecular Genetics
-* **Next-Generation Sequencing (NGS):**
+* **[[Genetics/Next-Generation Sequencing (NGS)\|Next-Generation Sequencing (NGS)]]:**
     * Single gene (if diagnosis clear).
     * **LSD Gene Panels:** Preferred for overlapping phenotypes.
-    * Whole Exome Sequencing (WES) for difficult cases.
+    * Whole [[Genetics/Exome Sequencing\|Exome Sequencing]] (WES) for difficult cases.
 
 ## 5. SPECIFIC IMPORTANT DISORDERS (SUMMARY)
 
@@ -105,7 +105,7 @@ Presentation varies by age of onset and severity.
 ## 6. MANAGEMENT
 Moving from supportive care to disease-modifying therapies.
 
-### A. Enzyme Replacement Therapy (ERT)
+### A. [[Genetics/Enzyme Replacement Therapy (ERT)\|Enzyme Replacement Therapy (ERT)]]
 Recombinant enzymes given IV (weekly/biweekly). Effective for visceral symptoms; generally does not cross Blood-Brain Barrier (BBB).
 * **Gaucher:** Imiglucerase, Velaglucerase.
 * **Fabry:** Agalsidase alfa/beta.
@@ -134,7 +134,7 @@ Small molecules that stabilize misfolded enzymes (amenable mutations only).
 
 ### E. Supportive Care
 * Physical therapy for contractures.
-* VP shunt for hydrocephalus.
+* VP shunt for [[Neurology/Hydrocephalus\|hydrocephalus]].
 * Management of seizures and feeding.
 
 ## 7. PROGNOSIS

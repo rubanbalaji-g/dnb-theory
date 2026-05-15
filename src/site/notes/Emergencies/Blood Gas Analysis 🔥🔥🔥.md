@@ -143,9 +143,9 @@
 - If hypoxemia is present but the $(A-a) DO_2$ is normal, the etiology is strictly hypoventilation (as the concomitant elevation in $PCO_2$ entirely explains the drop in $PaO_2$).
 - If the $(A-a) DO_2$ is elevated, the hypoxemia is due to a ventilation-perfusion ($V/Q$) mismatch, a diffusion defect, or an intra-pulmonary shunt.
 - If hypoxemia significantly improves with an increase in $FiO_2$, a minor $V/Q$ mismatch is likely; if there is little to no improvement, a true right-to-left shunt (>20% fraction) is indicated.
-- The $PaO_2/FiO_2$ (P:F) ratio is a standard metric for oxygenation impairment; a normal value is $300-500$, while a ratio $<200$ defines severe impairment consistent with Acute Respiratory Distress Syndrome (ARDS).
+- The $PaO_2/FiO_2$ (P:F) ratio is a standard metric for oxygenation impairment; a normal value is $300-500$, while a ratio $<200$ defines severe impairment consistent with Acute [[Neonatalogy/Respiratory Distress Syndrome\|Respiratory Distress Syndrome]] (ARDS).
 - The $a/A PO_2$ ratio normalizes for changes in $FiO_2$, with a normal range of 0.74 to 0.77 on room air and 0.80 to 0.82 on 100% oxygen; a value $<0.20$ implies an intrapulmonary shunt fraction >20%.
-- The Oxygenation Index (OI) is a highly robust parameter often utilized in mechanically ventilated children because it incorporates mean airway pressure (MAP).
+- The [[Emergencies/Oxygenation Index (OI)\|Oxygenation Index (OI)]] is a highly robust parameter often utilized in mechanically ventilated children because it incorporates mean airway pressure (MAP).
 - OI is calculated as: $$OI = \frac{\text{Mean Airway Pressure} \times FiO_2}{PaO_2} \times 100$$
 - An OI of $4-8$ signifies mild pediatric ARDS, $8-16$ indicates moderate ARDS, and $\ge16$ defines severe ARDS. An OI $\ge25$ strongly indicates severe hypoxemic respiratory failure.
-- If arterial access is unavailable, the Oxygenation Saturation Index (OSI) can be calculated using pulse oximetry: $$OSI = \frac{\text{Mean Airway Pressure} \times FiO_2}{SpO_2} \times 100$$
+- If arterial access is unavailable, the Oxygenation Saturation [[Statistics/Index\|Index]] (OSI) can be calculated using [[Emergencies/Pulse Oximetry\|pulse oximetry]]: $$OSI = \frac{\text{Mean Airway Pressure} \times FiO_2}{SpO_2} \times 100$$

@@ -6,7 +6,7 @@
 
 Disturbance in electrical impulse conduction from atria through atrioventricular (AV) node to ventricles. Spectrum ranges from transmission delay to complete electrical dissociation.
 
-|Block Type|Electrocardiographic (ECG) Features|Clinical Characteristics|
+|Block Type|Electrocardiographic ([[Misc/ECG\|ECG]]) Features|Clinical Characteristics|
 |:--|:--|:--|
 |**First-Degree AV Block**|PR interval prolonged beyond upper normal limit for age.|Asymptomatic. 8% prevalence in normal children secondary to increased vagal tone.|
 |**Second-Degree (Mobitz I / Wenckebach)**|Progressive PR prolongation terminating in non-conducted P-wave.|Block at AV node level. Normal during sleep (high parasympathetic tone) or in athletes.|
@@ -18,10 +18,10 @@ Disturbance in electrical impulse conduction from atria through atrioventricular
 
 |Category|Etiologies & High-Yield Associations|
 |:--|:--|
-|**Autoimmune (Congenital)**|Transplacental transfer of maternal IgG antibodies (+SSA/Ro, +SSB/La) in Systemic Lupus Erythematosus (SLE) or Sjögren syndrome,. Accounts for 60–70% of congenital CHB. Represents 80% of cases with structurally normal hearts.|
-|**Structural CHD**|Left atrial isomerism (Heterotaxy) (absent/abnormal SA node). Congenitally corrected transposition of great arteries (ccTGA) (40% incidence, increases 2% annually). Atrioventricular canal defects.|
-|**Genetic / Familial**|Familial AV Block (FAVB) linked to SCN5A variants (sodium channel) or Connexin 40. NKX2-5 mutations associated with CHB and Atrial Septal Defect (ASD).|
-|**Postoperative (Acquired)**|1–3% incidence following congenital cardiac surgery. Highest risk procedures involve VSD, AV canal, tetralogy of Fallot, ccTGA, and heterotaxy repairs. Transient AV block (5–10% of cases) resolves within 7–10 days.|
+|**Autoimmune (Congenital)**|Transplacental transfer of maternal IgG antibodies (+SSA/Ro, +SSB/La) in Systemic Lupus Erythematosus (SLE) or [[Rheumatology/Sjögren Syndrome\|Sjögren syndrome]],. Accounts for 60–70% of congenital CHB. Represents 80% of cases with structurally normal hearts.|
+|**Structural CHD**|Left atrial isomerism (Heterotaxy) (absent/abnormal SA node). Congenitally corrected [[Cardiology/Transposition of great arteries\|transposition of great arteries]] (ccTGA) (40% incidence, increases 2% annually). Atrioventricular canal defects.|
+|**Genetic / Familial**|Familial AV Block (FAVB) linked to SCN5A variants (sodium channel) or Connexin 40. NKX2-5 mutations associated with CHB and Atrial Septal Defect ([[Cardiology/ASD\|ASD]]).|
+|**Postoperative (Acquired)**|1–3% incidence following congenital cardiac surgery. Highest risk procedures involve [[Cardiology/VSD\|VSD]], AV canal, [[Cardiology/Tetralogy of Fallot\|tetralogy of Fallot]], ccTGA, and heterotaxy repairs. Transient AV block (5–10% of cases) resolves within 7–10 days.|
 |**Infectious / Inflammatory**|Viral myocarditis, Lyme carditis (heart block seen in 4-10% of cases), acute rheumatic fever, Chagas disease,,.|
 |**Pharmacologic**|Digoxin, beta-blockers, calcium channel blockers, clonidine, amiodarone, lithium,.|
 
@@ -52,8 +52,8 @@ Disturbance in electrical impulse conduction from atria through atrioventricular
 
 ## Diagnostic Evaluation
 
-- **12-Lead Electrocardiogram (ECG):** Confirms dissociation of P waves and QRS complexes in CHB. QRS duration normal (<120 ms) if block located high in AV node/Bundle of His,. Wide QRS suggests distal block location.
-- **24-Hour Ambulatory ECG (Holter):** Assesses average diurnal heart rate, longest ventricular pauses, and occult ventricular ectopy.
+- **12-Lead Electrocardiogram ([[Misc/ECG\|ECG]]):** Confirms dissociation of P waves and QRS complexes in CHB. QRS duration normal (<120 ms) if block located high in AV node/Bundle of His,. Wide QRS suggests distal block location.
+- **24-Hour Ambulatory [[Misc/ECG\|ECG]] (Holter):** Assesses average diurnal heart rate, longest ventricular pauses, and occult ventricular ectopy.
 - **Echocardiography:** Excludes associated structural heart disease (e.g., ccTGA, heterotaxy). Evaluates ventricular function and rules out EFE,.
 - **Maternal Serology:** Anti-SSA/Ro and anti-SSB/La antibody testing mandated for unexplained fetal or neonatal AV block.
 - **Genetic Testing:** Indicated in Familial AV block without evidence of maternal autoimmune disease.

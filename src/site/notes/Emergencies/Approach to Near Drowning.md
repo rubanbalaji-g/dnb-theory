@@ -64,7 +64,7 @@ D --> E3
 - Passive aspiration of surrounding water and stomach contents into lungs occurs.
 - Severe myocardial hypoxia develops within 3-4 minutes.
 - Peripheral vasoconstriction, decreased cardiac output, and abrupt circulatory failure follow.
-- Cardiac arrhythmias evolve progressively from reflex tachycardia to severe bradycardia.
+- [[Cardiology/Cardiac arrhythmias\|Cardiac arrhythmias]] evolve progressively from reflex tachycardia to severe bradycardia.
 - Pulseless electrical activity or asystole results ultimately.
 
 ### Specific Organ System Pathogenesis
@@ -72,10 +72,10 @@ D --> E3
 | Organ System           | Pathogenic Mechanisms and Consequences                                                                                                                                                                                                                                                           |
 | ---------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | Central Nervous System | Irreversible hypoxic-ischemic brain injury begins within 3-5 minutes of sustained anoxia. <br>Secondary cerebral edema develops several hours post-resuscitation. <br>Intracranial hypertension exacerbates ischemic damage.                                                                     |
-| Pulmonary System       | Aspiration of fluid severely compromises lung compliance. <br>Water washes out pulmonary surfactant. <br>Alveolar instability, profound ventilation-perfusion mismatch, and severe intrapulmonary shunting occur. <br>Disruption mimics acute respiratory distress syndrome phenotype.           |
+| Pulmonary System       | Aspiration of fluid severely compromises lung compliance. <br>Water washes out pulmonary surfactant. <br>Alveolar instability, profound ventilation-perfusion mismatch, and severe intrapulmonary shunting occur. <br>Disruption mimics acute [[Neonatalogy/Respiratory Distress Syndrome\|respiratory distress syndrome]] phenotype.           |
 | Osmolar Fluid Shifts   | Theoretical differences exist between fresh water and salt water. <br>Fresh water causes alveolar fluid absorption. <br>Salt water draws plasma into alveoli. <br>Clinical management remains identical. Victims rarely aspirate sufficient volume to cause massive systemic electrolyte shifts. |
 | Cardiovascular System  | Hypoxia-induced myocardial depression impairs contractility. <br>Arterial hypotension predisposes myocardium to infarction and fatal arrhythmias.                                                                                                                                                |
-| Systemic and Metabolic | Global hypoperfusion induces acute kidney injury. <br>Cortical necrosis, disseminated intravascular coagulation, hemolysis, and profound gastrointestinal mucosal sloughing occur.                                                                                                               |
+| Systemic and Metabolic | Global hypoperfusion induces [[Nephrology/Acute Kidney Injury\|acute kidney injury]]. <br>[[Nephrology/Cortical Necrosis\|Cortical necrosis]], [[Hematology/Disseminated Intravascular Coagulation\|disseminated intravascular coagulation]], hemolysis, and profound gastrointestinal mucosal sloughing occur.                                                                                                               |
 
 ### Impact of Cold Water Immersion
 
@@ -133,13 +133,13 @@ D --> E3
 
 ### Respiratory and Systemic Support
 
-- Invasive mechanical ventilation required for acute respiratory distress syndrome.
+- Invasive mechanical ventilation required for acute [[Neonatalogy/Respiratory Distress Syndrome\|respiratory distress syndrome]].
 - Implement lung-protective strategies strictly limiting tidal volumes (<5-8 mL/kg).
 - Optimize positive end-expiratory pressure to overcome alveolar collapse and intrapulmonary shunting.
 - Prophylactic antimicrobial therapy not indicated.
 - Initial inflammatory response remains chemical rather than infectious.
 - Antibiotics prescribed only based on subsequent radiographic evidence or strong clinical suspicion of bacterial pneumonia.
-- Extracorporeal life support utilized successfully in profound, medically refractory acute respiratory distress syndrome or severe reversible cardiac failure.
+- Extracorporeal life support utilized successfully in profound, medically refractory acute [[Neonatalogy/Respiratory Distress Syndrome\|respiratory distress syndrome]] or severe reversible cardiac failure.
 - Protect gastrointestinal integrity.
 - Severe mucosal sloughing mandates strict bowel rest, nasogastric decompression, and gastric acid neutralization.
 

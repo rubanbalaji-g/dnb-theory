@@ -2,7 +2,7 @@
 {"dg-publish":true,"uplink":"/development/developmental-pediatrics/","uptext":"Back to Index (📈 Development and Growth)","permalink":"/development/growth-charts/","dgPassFrontmatter":true}
 ---
 
-Growth charts are essential tools for monitoring the growth and development of children. Various types of charts have been developed and used over time:
+[[Development/Growth Charts\|Growth charts]] are essential tools for monitoring the growth and development of children. Various types of charts have been developed and used over time:
 
 - **Road to Health Chart:**
     - Popularized by David Morley, these charts are used for growth monitoring in well-baby clinics and ICDS programs.
@@ -16,17 +16,17 @@ Growth charts are essential tools for monitoring the growth and development of c
     - They are based on the Multicentre Growth Reference Study (MGRS) and serve as a "standard" (prescriptive) rather than a "reference" (descriptive).
 - **ICMR Standards:**
     - Indian Council of Medical Research (ICMR) standards exist but are often considered to have unacceptably low values compared to international standards.
-- **Mother and Child Protection (MCP) Card:**
+- **[[Social Pediatics/Mother and Child Protection (MCP) Card\|Mother and Child Protection (MCP) Card]]:**
     - Widely used in India (also known as Mamta Card).
     - It contains pre-printed growth curves (WHO standards) to track weight-for-age and serves as a counseling and family empowerment tool,.
 - **ELIZ Health Path:**
     - A chart designed for adolescents that incorporates weight, height, and BMI in a single chart to diagnose undernutrition and obesity.
 - **Specialized Charts:**
-    - Available for specific conditions like Down syndrome, Turner syndrome, and Achondroplasia, as standard charts may not apply.
+    - Available for specific conditions like Down syndrome, [[Genetics/Turner Syndrome\|Turner syndrome]], and Achondroplasia, as standard charts may not apply.
 
-## WHO Growth Charts (2006)
+## WHO [[Development/Growth Charts\|Growth Charts]] (2006)
 
-The World Health Organization (WHO) growth charts are the global gold standard for assessing the growth of children up to 5 years of age.
+The World Health Organization (WHO) [[Development/Growth Charts\|growth charts]] are the global gold standard for assessing the growth of children up to 5 years of age.
 
 ### Background and Methodology (MGRS)
 
@@ -43,7 +43,7 @@ The World Health Organization (WHO) growth charts are the global gold standard f
     - Weight-for-age
     - Length/Height-for-age
     - Weight-for-Length/Height
-    - Body Mass Index (BMI)-for-age (provided for children under 5 years for the first time).
+    - Body Mass [[Statistics/Index\|Index]] (BMI)-for-age (provided for children under 5 years for the first time).
     - Head circumference
     - Mid-upper arm circumference (MUAC)
     - Subscapular and triceps skinfold thickness.

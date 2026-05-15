@@ -21,8 +21,8 @@
 ## Hemodynamics
 
 - **Flow Pathway** : Systemic venous return $\rightarrow$ RA $\rightarrow$ ASD/PFO $\rightarrow$ LA (mixes with pulmonary venous return) $\rightarrow$ LV $\rightarrow$ Aorta (Systemic).
-- **Pulmonary Flow Source** : LV $\rightarrow$ VSD $\rightarrow$ Hypoplastic RV $\rightarrow$ Pulmonary Artery (PA) OR via Patent Ductus Arteriosus (PDA).
-- **Physiologic Determinants** : Degree of pulmonary blood flow (PBF) dictated by VSD size, great artery relationship, and Right Ventricular Outflow Tract (RVOT) obstruction.
+- **Pulmonary Flow Source** : LV $\rightarrow$ [[Cardiology/VSD\|VSD]] $\rightarrow$ Hypoplastic RV $\rightarrow$ Pulmonary Artery (PA) OR via Patent Ductus Arteriosus (PDA).
+- **Physiologic Determinants** : Degree of pulmonary blood flow (PBF) dictated by [[Cardiology/VSD\|VSD]] size, great artery relationship, and Right Ventricular Outflow Tract (RVOT) obstruction.
 
 ## Classification
 
@@ -42,22 +42,22 @@ _(Note: Subclassified into A (Pulmonary Atresia), B (Pulmonary Stenosis), C (No 
 - **Heart Failure** : Tachypnea / Poor feeding / Diaphoresis at 4-8 weeks (Type II / unrestricted PBF).
 - **Apical Impulse** : LV type impulse (Unique among cyanotic CHD).
 - **JVP** : Prominent 'a' wave (RA contraction against atretic valve).
-- **Auscultation** : Single S2 / Holosystolic murmur at left sternal border (VSD) / Continuous murmur (PDA).
+- **Auscultation** : Single S2 / Holosystolic murmur at left sternal border ([[Cardiology/VSD\|VSD]]) / Continuous murmur (PDA).
 
 ## Diagnostics
 
 ### Bedside & Imaging
 
-- **ECG** : Left Axis Deviation (LAD) (-45°) / Left Ventricular Hypertrophy (LVH) / Right Atrial Enlargement (tall spiked P waves in lead II). _Diagnostic hallmark differentiating TA from Tetralogy of Fallot (TOF)._
+- **[[Misc/ECG\|ECG]]** : Left Axis Deviation (LAD) (-45°) / Left Ventricular Hypertrophy (LVH) / Right Atrial Enlargement (tall spiked P waves in lead II). _Diagnostic hallmark differentiating TA from [[Cardiology/Tetralogy of Fallot\|Tetralogy of Fallot]] (TOF)._
 - **CXR** : Pulmonary undercirculation (Type I) OR Pulmonary overcirculation (Type II) / Cardiomegaly (LV/RA enlargement).
-- **Echocardiography (Diagnostic)** : Fibromuscular membrane substituting TV / Hypoplastic RV / VSD size / ASD size / Great vessel orientation.
-- **Cardiac Catheterization** : Right-to-Left atrial shunt / Angiographic filling defect between RA and LV / Useful for evaluating pulmonary vascular resistance (PVR).
+- **Echocardiography (Diagnostic)** : Fibromuscular membrane substituting TV / Hypoplastic RV / [[Cardiology/VSD\|VSD]] size / [[Cardiology/ASD\|ASD]] size / Great vessel orientation.
+- **[[Cardiology/Cardiac Catheterization\|Cardiac Catheterization]]** : Right-to-Left atrial shunt / Angiographic filling defect between RA and LV / Useful for evaluating pulmonary vascular resistance (PVR).
 
 ## Differential Diagnosis (Cyanotic CHD)
 
-|Feature|Tricuspid Atresia|Tetralogy of Fallot (TOF)|
+|Feature|[[Cardiology/Tricuspid Atresia\|Tricuspid Atresia]]|[[Cardiology/Tetralogy of Fallot\|Tetralogy of Fallot]] (TOF)|
 |:--|:--|:--|
-|**ECG Axis**|Left Axis Deviation (LAD)|Right Axis Deviation (RAD)|
+|**[[Misc/ECG\|ECG]] Axis**|Left Axis Deviation (LAD)|Right Axis Deviation (RAD)|
 |**Ventricular Hypertrophy**|Left Ventricular Hypertrophy (LVH)|Right Ventricular Hypertrophy (RVH)|
 |**Apical Impulse**|LV type|RV type heave|
 
@@ -66,7 +66,7 @@ _(Note: Subclassified into A (Pulmonary Atresia), B (Pulmonary Stenosis), C (No 
 ### Medical Management
 
 - **PGE1 (Alprostadil) / Infusion / Maintain ductal patency** : Prevents severe hypoxia in duct-dependent PBF / 0.05-0.1 μg/kg/min.
-- **Rashkind Balloon Atrial Septostomy / Procedure / Decompress RA** : Relieves restrictive ASD / Improves right-to-left mixing.
+- **Rashkind Balloon Atrial Septostomy / Procedure / Decompress RA** : Relieves restrictive [[Cardiology/ASD\|ASD]] / Improves right-to-left mixing.
 - **Diuretics & Afterload Reduction / Medication / Manage CHF** : Used in Type II (Transposition) with pulmonary overcirculation.
 
 ### Surgical Palliation (Staged Univentricular Pathway)
@@ -85,7 +85,7 @@ Goal: Separate systemic and pulmonary circulations, offload LV, bypass right hea
 
 ### Hemodynamic Nuances
 
-- **Spontaneous VSD Closure / Complication / Alters hemodynamics** : Occurs in ~40% of patients.
+- **Spontaneous [[Cardiology/VSD\|VSD]] Closure / Complication / Alters hemodynamics** : Occurs in ~40% of patients.
     - _In Type I (Normal Great Arteries)_: Worsening cyanosis due to restricted PBF.
     - _In Type II (d-TGA)_: Systemic hypoperfusion / Subaortic stenosis / Cardiogenic shock.
 

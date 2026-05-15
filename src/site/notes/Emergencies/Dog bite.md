@@ -21,7 +21,7 @@
 
 _Table adapted from the National Guidelines on Rabies Prophylaxis_
 
-## Comprehensive Management of Dog Bite in Children
+## Comprehensive Management of [[Emergencies/Dog bite\|Dog Bite]] in Children
 
 - Post-exposure prophylaxis requires a simultaneous three-pronged approach depending on the specific category of exposure.
 
@@ -35,11 +35,11 @@ _Table adapted from the National Guidelines on Rabies Prophylaxis_
 - If suturing is surgically unavoidable, it must be delayed by a few hours after adequate wound cleansing and local RIG infiltration.
 - Only minimum loose sutures should be applied to arrest life-threatening bleeding.
 - Cauterization of the wound is contraindicated as it leaves bad scars and provides no additional benefit over soap and water washing.
-- Tetanus toxoid and antibiotic prophylaxis should be administered to prevent secondary bacterial sepsis.
+- [[Misc/Tetanus Toxoid\|Tetanus toxoid]] and antibiotic prophylaxis should be administered to prevent secondary bacterial sepsis.
 
 ### 2. Passive Immunization: Rabies Immunoglobulin (RIG)
 
-- RIG provides immediate passive immunity via ready-made anti-rabies antibodies before the child's own immune system can mount a response to the vaccine.
+- RIG provides immediate [[Infectious Diseases/Passive Immunity\|passive immunity]] via ready-made anti-rabies antibodies before the child's own immune system can mount a response to the vaccine.
 - It is strictly indicated for all Category III exposures and for Category II exposures in immune-compromised individuals.
 - Equine Rabies Immunoglobulin (ERIG): Administered at a dose of $40 \text{ IU/kg}$ body weight.
 - Human Rabies Immunoglobulin (HRIG): Administered at a dose of $20 \text{ IU/kg}$ body weight.

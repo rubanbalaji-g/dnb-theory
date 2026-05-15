@@ -32,7 +32,7 @@
 
 - Symptoms of fat malabsorption and steatorrhea are frequently present from birth due to [[Gastrointestinal/Exocrine Pancreatic Insufficiency\|exocrine pancreatic insufficiency]].
 - Approximately 50% of patients experience spontaneous clinical improvement in pancreatic enzyme secretion as they grow older.
-- Hepatomegaly and elevated liver transaminases are observed in [[About\|about]] 61% of patients.
+- Hepatomegaly and elevated liver transaminases are observed in about 61% of patients.
 
 ### Skeletal and Physical Abnormalities
 
@@ -48,7 +48,7 @@
 ## Malignancy Predisposition
 
 - SDS patients have a markedly elevated risk for developing <span style="color:rgb(255, 192, 0)">myelodysplastic syndrome (MDS) and [[Hematology/Acute Myeloid Leukemia\|acute myeloid leukemia]] (AML)</span>.
-- Clonal marrow cytogenetic abnormalities, MDS, or leukemia develop in approximately 25% of patients by age 18, and [[About\|about]] one-third of patients develop leukemia by age 30.
+- Clonal marrow cytogenetic abnormalities, MDS, or leukemia develop in approximately 25% of patients by age 18, and about one-third of patients develop leukemia by age 30.
 - Isochromosome 7q [i(7q)] is a particularly common cytogenetic abnormality, alongside monosomy 7, translocations involving 7q, and deletions of 20q.
 
 ## Diagnosis and Laboratory Findings

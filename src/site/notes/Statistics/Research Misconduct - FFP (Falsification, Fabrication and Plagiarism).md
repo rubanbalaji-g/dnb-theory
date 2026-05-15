@@ -20,7 +20,7 @@ Research misconduct is defined by international and national scientific regulato
     * **Direct (Verbatim) Plagiarism:** Copying text word-for-word from a source without using quotation marks and proper citation.
     * **Mosaic (Patchwork) Plagiarism:** Borrowing phrases from multiple sources and integrating them into one's own text without altering the core structure or meaning, even if synonyms are substituted.
     * **Idea Plagiarism:** Using a unique hypothesis, clinical algorithm, or conceptual framework developed by someone else without acknowledgment.
-    * **Self-Plagiarism (Text/Data Recycling):** Republishing one's own previously published work (text, data, or figures) in a new manuscript without disclosing the original publication, leading to redundant or duplicate publication.
+    * **Self-Plagiarism (Text/Data Recycling):** Republishing one's own previously published work (text, data, or figures) in a new [[Statistics/manuscript\|manuscript]] without disclosing the original publication, leading to redundant or duplicate publication.
 
 ## 3. Regulatory Framework and Guidelines
 * **COPE (Committee on Publication Ethics):** Provides standardized international flowcharts and protocols for medical journal editors to handle suspected FFP.
@@ -28,7 +28,7 @@ Research misconduct is defined by international and national scientific regulato
 * **UGC (University Grants Commission) Regulations (India):** Mandates acceptable limits of text similarity (excluding quotes, bibliography, and generic terms) for postgraduate theses and publications:
     * **Level 0:** Similarities up to 10% (Minor, no penalty).
     * **Level 1:** 10% to 40% (Student asked to submit a revised manuscript/thesis within a stipulated time).
-    * **Level 2:** 40% to 60% (Student debarred from submitting a revised manuscript for a period of 1 year).
+    * **Level 2:** 40% to 60% (Student debarred from submitting a revised [[Statistics/manuscript\|manuscript]] for a period of 1 year).
     * **Level 3:** >60% (Student registration for the postgraduate program is cancelled).
 
 ## 4. Detection and Investigation

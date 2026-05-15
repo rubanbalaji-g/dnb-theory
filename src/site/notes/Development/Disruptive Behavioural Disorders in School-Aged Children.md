@@ -20,12 +20,12 @@
 
 - **Neurobiologic Factors:** Reduced basal cortisol reactivity, lower heart rate and skin conductance reactivity, serotonergic abnormalities, and structural variations in the amygdala and prefrontal cortex are associated with aggressive behavior disorders.
 - **Temperamental Vulnerabilities:** Difficult temperamental characteristics, including negative affectivity, poor frustration tolerance, impulsivity, and emotional reactivity, strongly predispose children to these disorders.
-- **Family and Environmental Factors:** Ineffective parenting is a major risk factor; parents may use inconsistent rules, issue unclear commands, or utilize harsh and neglectful parenting styles. Additional factors include child maltreatment, exposure to domestic violence, family poverty, and family genetic liability (e.g., a family history of substance use, antisocial behavior, or ADHD).
+- **Family and Environmental Factors:** Ineffective parenting is a major risk factor; parents may use inconsistent rules, issue unclear commands, or utilize harsh and neglectful parenting styles. Additional factors include child maltreatment, exposure to domestic violence, family poverty, and family genetic liability (e.g., a family history of substance use, antisocial behavior, or [[Development/ADHD\|ADHD]]).
 - **Cognitive Characteristics:** Affected children often exhibit cognitive rigidity and tend to make hostile attributions for ambiguous social cues, reacting to benign interactions with aggression.
 
 ### Comorbidities
 
-- There is a highly significant diagnostic overlap with Attention-Deficit/Hyperactivity Disorder (ADHD); the presence of comorbid ADHD with ODD increases the likelihood of progression to Conduct Disorder.
+- There is a highly significant diagnostic overlap with Attention-Deficit/Hyperactivity Disorder ([[Development/ADHD\|ADHD]]); the presence of comorbid [[Development/ADHD\|ADHD]] with ODD increases the likelihood of progression to Conduct Disorder.
 - Depressive disorders, anxiety disorders, and substance use disorders are also frequently comorbid and predict worse overall clinical outcomes.
 
 ### Management Principles
@@ -43,6 +43,6 @@
 
 |Medication Class|Clinical Application|
 |:--|:--|
-|**Stimulants**|Highly effective in reducing oppositional behavior, anger outbursts, and aggression in youths who have comorbid ADHD.|
-|**Alpha-2 Adrenergic Agonists**|Agents like extended-release guanfacine are efficacious for managing oppositionality and impulsivity, specifically when comorbid with ADHD.|
+|**Stimulants**|Highly effective in reducing oppositional behavior, anger outbursts, and aggression in youths who have comorbid [[Development/ADHD\|ADHD]].|
+|**Alpha-2 Adrenergic Agonists**|Agents like extended-release guanfacine are efficacious for managing oppositionality and impulsivity, specifically when comorbid with [[Development/ADHD\|ADHD]].|
 |**Atypical Antipsychotics**|Risperidone has strong evidence for reducing severe aggression and conduct problems; however, use is strictly reserved for severe presentations where safety is compromised due to metabolic side effects.|

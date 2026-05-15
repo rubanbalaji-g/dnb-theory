@@ -4,7 +4,7 @@
 
 ### Definition and Core Concepts
 
-- The Chi-square test is a non-parametric statistical procedure used to analyze unordered categorical or nominal data.
+- The [[Statistics/Chi-Square Test\|Chi-square test]] is a non-parametric statistical procedure used to analyze unordered categorical or nominal data.
 - It operates by comparing the actual observed frequencies of an event against the theoretical expected frequencies, assuming the null hypothesis is true.
 - The test evaluates the deviation between these observed and expected counts to determine if the difference is statistically significant or simply due to random chance.
 - It is exclusively a test of significance and provides no information regarding the strength of association or the magnitude of the effect size.
@@ -20,7 +20,7 @@
 - **Data Format:** Data must be presented as raw counts or frequencies, not as percentages or proportions.
 - **Independence of Observations:** Each subject must contribute data to only one cell in the contingency table, meaning there are no repeated measurements on the same individual.
 - **Minimum Expected Frequencies (Rule of 5):** For the test to be mathematically valid, at least 80% of the expected cell frequencies must be greater than 5, and no expected frequency should be less than 1.
-- If the sample size is small (e.g., less than 40) or the expected frequency rule is violated, Fisher's exact test should be used instead of the Chi-square test.
+- If the sample size is small (e.g., less than 40) or the expected frequency rule is violated, Fisher's exact test should be used instead of the [[Statistics/Chi-Square Test\|Chi-square test]].
 - Yates' continuity correction is often applied in 2x2 tables to improve the approximation of the discrete probability of observed frequencies to the continuous Chi-square distribution, thereby reducing the risk of a Type I false-positive error.
 
 ### Calculation Principles

@@ -4,7 +4,7 @@
 
 ### Definition and Core Principles
 
-- Regression analysis is a statistical tool used to investigate and quantify the relationship between one or more independent variables (predictors) and an outcome (dependent) variable.
+- [[Statistics/Regression Analysis\|Regression analysis]] is a statistical tool used to investigate and quantify the relationship between one or more independent variables (predictors) and an outcome (dependent) variable.
 - It goes beyond merely describing the strength and direction of an association by quantifying the exact mathematical relationship, thus generating a regression equation.
 - The two primary clinical and research purposes of regression are predicting the value of an outcome variable based on known predictors, and controlling (adjusting) for confounding variables to isolate the true effect of a specific exposure or intervention.
 - Regression models are classified as "simple" when there is only one independent variable, and "multiple" (or multivariable) when there are two or more independent variables influencing the outcome.
@@ -16,7 +16,7 @@
 |Outcome Variable Type|Required Regression Model|Effect Measure Produced|
 |:--|:--|:--|
 |Continuous (Numerical)|Linear Regression|Regression Coefficient / Mean Difference|
-|Binary (Dichotomous)|Logistic Regression|Odds Ratio (OR)|
+|Binary (Dichotomous)|Logistic Regression|[[Statistics/Odds Ratio (OR)\|Odds Ratio (OR)]]|
 |Time-to-Event (Survival)|Cox Proportional Hazards Regression|Hazard Ratio (HR)|
 
 ### Linear Regression
@@ -34,7 +34,7 @@
 - Applied when the outcome variable is binary or dichotomous, meaning it has only two possible states (e.g., disease present/absent, dead/alive, complication/no complication).
 - Because a binary outcome cannot be modelled directly on a linear scale without predicting impossible values outside the 0 to 1 range, logistic regression uses a logit transformation to model the natural logarithm of the odds of the event occurring.
 - The underlying equation is $$ln (\frac{p}{(1-p)}) = b_0 + b_1x$$, where $p$ is the probability of the outcome.
-- The exponent of the regression coefficient ($exp(b_1)$) yields the Odds Ratio (OR), representing the multiplicative increase in the odds of the outcome for each unit increase in the predictor.
+- The exponent of the regression coefficient ($exp(b_1)$) yields the [[Statistics/Odds Ratio (OR)\|Odds Ratio (OR)]], representing the multiplicative increase in the odds of the outcome for each unit increase in the predictor.
 - In multiple logistic regression, the resulting OR is an "adjusted Odds Ratio," meaning it actively accounts for and removes the simultaneous effects of other confounding variables in the model.
 
 ### Cox Proportional Hazards Regression

@@ -14,7 +14,7 @@
 ## 3. Block Randomization (Permuted Block)
 * **Mechanism:** Participants are divided into "blocks" of even sizes (e.g., 4, 6, or 8). Randomization occurs within each block, ensuring an exact, equal number of subjects are allocated to each group per block (e.g., 2 Treatment and 2 Control in a block of 4).
 * **Advantages:** Guarantees strict balance in sample sizes across treatment arms at any given point during the trial, which is crucial for trials utilizing interim analyses.
-* **Disadvantages:** If the block size is fixed and known to the investigator, the final allocation in a block becomes predictable, threatening allocation concealment. *Solution: Use randomly varying block sizes.*
+* **Disadvantages:** If the block size is fixed and known to the investigator, the final allocation in a block becomes predictable, threatening [[Statistics/Allocation Concealment\|allocation concealment]]. *Solution: Use randomly varying block sizes.*
 
 ## 4. Stratified Randomization
 * **Mechanism:** The study population is first divided into homogeneous subgroups (strata) based on highly influential prognostic variables (e.g., birth weight $<1000g$ vs $>1000g$, or disease severity). Block randomization is then performed independently within each stratum.

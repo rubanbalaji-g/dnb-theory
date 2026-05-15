@@ -18,7 +18,7 @@
 
 |Category|Specific Causes|
 |:--|:--|
-|**Inflammatory/Infectious**|Acute myocarditis (often viral)|
+|**Inflammatory/Infectious**|[[Cardiology/Acute Myocarditis\|Acute myocarditis]] (often viral)|
 |**Myocardial**|Dilated cardiomyopathy, restrictive cardiomyopathy, hypertrophic cardiomyopathy|
 |**Dysrhythmias**|Supraventricular tachycardia, ventricular tachycardia, complete heart block, sinus node dysfunction|
 |**Metabolic**|Hypoxia, severe hypoglycemia, profound acidosis, hypothermia, uremia, hypocalcemia|
@@ -38,7 +38,7 @@
 
 - **Echocardiography:** The gold standard for assessing structural causes of heart failure, identifying cardiac dysfunction, estimating ejection fraction, and predicting fluid responsiveness.
 - **Chest X-ray:** Required to evaluate cardiomegaly, specific cardiac chamber enlargement, pulmonary edema, and plethora of lung fields.
-- **Electrocardiography (ECG):** Helps identify life-threatening arrhythmias, chamber hypertrophy, ST-T wave changes, and ischemic changes.
+- **Electrocardiography ([[Misc/ECG\|ECG]]):** Helps identify life-threatening arrhythmias, chamber hypertrophy, ST-T wave changes, and ischemic changes.
 - **Biomarkers:** Troponin I and T, and B-type natriuretic peptide (BNP) help differentiate respiratory distress of cardiac origin from pulmonary causes and predict outcomes.
 - **Laboratory Investigations:** Arterial blood gas (ABG) for pH and base deficit, lactate (to quantify tissue hypoperfusion), complete blood count, and comprehensive metabolic panels (electrolytes, renal, and liver function tests) to assess end-organ damage.
 

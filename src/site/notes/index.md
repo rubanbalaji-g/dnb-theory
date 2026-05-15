@@ -99,4 +99,6 @@ Organ-system–based approach to pediatric diseases.
 > Child protection, preventive pediatrics, national programs, and community health.  
 > [[Social Pediatics/🚸 Social Pediatrics\|View Notes →]]
 
-
+> [!purple] 🔬Recent Advances
+> Latest clinical guidelines, breakthrough research, and emerging trends in pediatric medicine.  
+> [[Recents/Recent Advances\|View Notes →]]

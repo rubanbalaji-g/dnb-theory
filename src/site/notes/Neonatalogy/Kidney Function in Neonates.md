@@ -76,4 +76,4 @@ Neonates have a **limited capacity** to both concentrate and dilute urine.
 ## 6. Clinical Implications
 * **Fluid Therapy:** Neonates cannot handle large rapid fluid boluses (risk of overload) or severe restriction (risk of dehydration/AKI).
 * **Drug Clearance:** Nephrotoxic drugs (e.g., Aminoglycosides) require extended dosing intervals due to low GFR.
-* **Renal Reserve:** Reduced renal functional reserve makes neonates highly susceptible to Acute Kidney Injury (AKI) during stress, asphyxia, or sepsis.
+* **Renal Reserve:** Reduced renal functional reserve makes neonates highly susceptible to [[Nephrology/Acute Kidney Injury\|Acute Kidney Injury]] (AKI) during stress, asphyxia, or sepsis.

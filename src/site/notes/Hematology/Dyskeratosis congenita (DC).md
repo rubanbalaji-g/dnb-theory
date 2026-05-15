@@ -51,7 +51,7 @@
 ### Non-Hematologic Organ System Involvement
 
 - **Pulmonary:** Pulmonary fibrosis and restrictive lung disease with reduced diffusion capacity occur in approximately 20% of patients. It is a unique and often fatal complication of DC.
-- **Ophthalmic:** Excessive tearing (epiphora) due to nasolacrimal duct obstruction is seen in [[About\|about]] 30% of patients. Blepharitis, conjunctivitis, loss of eyelashes, cataracts, strabismus, and optic atrophy also occur.
+- **Ophthalmic:** Excessive tearing (epiphora) due to nasolacrimal duct obstruction is seen in about 30% of patients. Blepharitis, conjunctivitis, loss of eyelashes, cataracts, strabismus, and optic atrophy also occur.
 - **Gastrointestinal and Hepatic:** Liver fibrosis, esophageal webs and strictures, peptic ulceration, and severe GI bleeding caused by vascular lesions.
 - **Neurological:** Learning difficulties and developmental delay are observed in approximately 25% of patients.
 - **Skeletal:** Osteoporosis, avascular necrosis of the hips and shoulders, abnormal bone trabeculation, scoliosis, and mandibular hypoplasia.

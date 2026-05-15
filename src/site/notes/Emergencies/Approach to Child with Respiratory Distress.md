@@ -88,9 +88,9 @@ G3 --> H4
 
 |Clinical signs|Anatomical localization|Common etiologies|
 |---|---|---|
-|Ala nasi flaring, suprasternal/supraclavicular retractions, stridor|Upper airway obstruction|Croup, Epiglottitis, Foreign body, Diphtheria|
-|Subcostal/intercostal retractions, prolonged expiration, wheeze|Lower airway obstruction|Asthma, Acute bronchiolitis|
-|Intercostal/subcostal retractions, grunting, crepitations|Lung parenchyma|Community acquired pneumonia, Acute respiratory distress syndrome|
+|Ala nasi flaring, suprasternal/supraclavicular retractions, stridor|Upper airway obstruction|Croup, Epiglottitis, Foreign body, [[Infectious Diseases/Diphtheria\|Diphtheria]]|
+|Subcostal/intercostal retractions, prolonged expiration, wheeze|Lower airway obstruction|[[Respiratory/Asthma\|Asthma]], [[Respiratory/Acute Bronchiolitis\|Acute bronchiolitis]]|
+|Intercostal/subcostal retractions, grunting, crepitations|Lung parenchyma|[[Respiratory/Community Acquired Pneumonia\|Community acquired pneumonia]], Acute [[Neonatalogy/Respiratory Distress Syndrome\|respiratory distress syndrome]]|
 |See-saw breathing, irregular breathing, bradypnea|Central disordered control|Raised intracranial pressure, Brain injury|
 
 ### Pathophysiological mechanisms
@@ -152,7 +152,7 @@ G3 --> H4
 
 ## Disease-specific emergency management
 
-### Acute asthma exacerbation
+### Acute [[Respiratory/Asthma\|asthma]] exacerbation
 
 - Administer inhaled salbutamol and repeat inhalation therapy every 20 minutes for the first hour.
 - Administer systemic corticosteroids using oral prednisolone or intravenous hydrocortisone.
@@ -166,7 +166,7 @@ G3 --> H4
 - Administer single dose oral, intramuscular, or intravenous dexamethasone at 0.6 milligrams per kilogram.
 - Deliver nebulized adrenaline utilizing 5 milliliters of 1:1000 undiluted solution for severe respiratory distress.
 
-### Acute bronchiolitis care
+### [[Respiratory/Acute Bronchiolitis\|Acute bronchiolitis]] care
 
 - Management remains primarily supportive focusing on oxygenation and hydration.
 - Consider therapeutic trial of nebulized 3 percent hypertonic saline or adrenaline.

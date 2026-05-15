@@ -13,17 +13,17 @@
 
 | Age Group    | Causes                                                                                                                                                                                                                                                                                                                                                                             |
 | :----------- | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Infants**  | - Congenital heart disease (CHD) <br>- Myocarditis and primary myocardial disease <br>- Tachyarrhythmias, bradyarrhythmias <br>- Kawasaki disease with coronary occlusion <br>- Pulmonary hypertension (persistent pulmonary hypertension of newborn, primary, airway obstruction hypoxia) <br>- Miscellaneous: Anemia, hypoglycemia, infections, hypocalcemia, neonatal asphyxia. |
+| **Infants**  | - Congenital heart disease (CHD) <br>- Myocarditis and primary myocardial disease <br>- Tachyarrhythmias, bradyarrhythmias <br>- [[Rheumatology/Kawasaki Disease\|Kawasaki disease]] with coronary occlusion <br>- Pulmonary hypertension (persistent pulmonary hypertension of newborn, primary, airway obstruction hypoxia) <br>- Miscellaneous: Anemia, hypoglycemia, infections, hypocalcemia, neonatal asphyxia. |
 | **Children** | - Rheumatic fever, rheumatic heart disease (typically >5 years) <br>- CHD complicated by anemia, infection, or endocarditis <br>- Systemic hypertension <br>- Myocarditis, primary myocardial disease <br>- Pulmonary hypertension (primary, secondary).                                                                                                                           |
 
 ### Time of Onset of CCF in CHD
 
 |Time of Onset|Specific Cardiac Lesions|
 |:--|:--|
-|**Birth–1 week**|Duct-dependent systemic circulation (hypoplastic left heart syndrome, critical aortic stenosis, severe coarctation, interrupted aortic arch); obstructed total anomalous pulmonary venous return (TAPVR); congenital mitral/tricuspid valve regurgitation; neonatal Ebstein anomaly.|
-|**1–4 weeks**|Patent ductus arteriosus (PDA) in preterms; ventricular septal defect (VSD) with coarctation; persistent truncus arteriosus; transposition of great arteries (TGA) with large VSD/PDA; critical aortic stenosis; congenital mitral/tricuspid regurgitation; single ventricle with unrestrictive pulmonary flow.|
-|**1–2 months**|TGA with VSD/PDA; endocardial cushion defects; VSD; PDA; severe coarctation; anomalous left coronary artery from pulmonary artery (ALCAPA); single ventricle with unrestrictive flow.|
-|**2–6 months**|VSD; PDA; endocardial cushion defect; ALCAPA; coarctation; single ventricle with unrestrictive pulmonary flow.|
+|**Birth–1 week**|Duct-dependent systemic circulation ([[Cardiology/Hypoplastic left heart syndrome\|hypoplastic left heart syndrome]], critical aortic stenosis, severe coarctation, interrupted aortic arch); obstructed total anomalous pulmonary venous return (TAPVR); congenital mitral/tricuspid valve regurgitation; neonatal Ebstein anomaly.|
+|**1–4 weeks**|Patent ductus arteriosus (PDA) in preterms; ventricular septal defect ([[Cardiology/VSD\|VSD]]) with coarctation; persistent truncus arteriosus; [[Cardiology/Transposition of great arteries\|transposition of great arteries]] (TGA) with large VSD/PDA; critical aortic stenosis; congenital mitral/tricuspid regurgitation; single ventricle with unrestrictive pulmonary flow.|
+|**1–2 months**|TGA with VSD/PDA; endocardial cushion defects; [[Cardiology/VSD\|VSD]]; PDA; severe coarctation; anomalous left coronary artery from pulmonary artery (ALCAPA); single ventricle with unrestrictive flow.|
+|**2–6 months**|[[Cardiology/VSD\|VSD]]; PDA; endocardial cushion defect; ALCAPA; coarctation; single ventricle with unrestrictive pulmonary flow.|
 
 ### Correctable/Subtle Causes of CCF
 
@@ -53,7 +53,7 @@
 
 ### Myocardial Failure
 
-- Cardiomyopathies compromise systolic contractility (dilated) or diastolic relaxation (restrictive).
+- [[Cardiology/Cardiomyopathies\|Cardiomyopathies]] compromise systolic contractility (dilated) or diastolic relaxation (restrictive).
 - Viral myocarditis initiates inflammatory myocardial damage, leading to ventricular enlargement and poor function.
 
 ## Diagnosis
@@ -91,7 +91,7 @@ Evaluate acute decompensated heart failure classifying into four profiles based 
     - Cold and Dry (Low perfusion, no congestion).
     - Cold and Wet (Low perfusion, significant congestion).
 
-### Nadas' Criteria for Clinical Diagnosis of Heart Disease
+### [[Cardiology/Nadas' Criteria for Clinical Diagnosis of Heart Disease\|Nadas' Criteria for Clinical Diagnosis of Heart Disease]]
 
 Used to identify underlying heart disease in presence of CCF.
 
@@ -110,7 +110,7 @@ Used to identify underlying heart disease in presence of CCF.
 ### Imaging Modalities
 
 - **Chest X-Ray (CXR):** Reveals cardiomegaly, pulmonary venous congestion, prominent vascular markings, frank pulmonary edema, pleural effusions. Blunting of cardiophrenic angle indicates fluid.
-- **Electrocardiogram (ECG):** Identifies tachyarrhythmias, severe bradycardia (complete heart block), ventricular hypertrophy, conduction disturbances, low QRS voltages, non-specific ST-T wave changes.
+- **Electrocardiogram ([[Misc/ECG\|ECG]]):** Identifies tachyarrhythmias, severe bradycardia (complete heart block), ventricular hypertrophy, conduction disturbances, low QRS voltages, non-specific ST-T wave changes.
 - **Echocardiography:** Gold standard. Confirms specific anatomic CHD diagnosis, visualizes chamber dilation, assesses systolic and diastolic ventricular function, identifies valvar regurgitation, detects pericardial effusions. Essential to exclude structural causes before diagnosing idiopathic cardiomyopathy.
 
 ### Laboratory Investigations
@@ -120,4 +120,4 @@ Used to identify underlying heart disease in presence of CCF.
 - **Complete Blood Count (CBC):** Rules out severe anemia causing high-output failure. Elevated white blood cells suggest infectious/inflammatory etiologies.
 - **Cardiac Biomarkers:** Elevated Brain Natriuretic Peptide (BNP), pro-BNP, Creatine Kinase-MB (CK-MB), and Troponin indicate myocardial stretch, ischemia, or injury.
 - **Inflammatory Markers:** Erythrocyte Sedimentation Rate (ESR), C-Reactive Protein (CRP), procalcitonin elevation suggests active infection, acute rheumatic fever, or myocarditis.
-- **Specific Etiologic Testing:** Viral PCR (Coxsackie, Adenovirus, Parvovirus). Blood cultures for suspected infective endocarditis. Thyroid panel, carnitine levels, urine organic acids for metabolic cardiomyopathies.
+- **Specific Etiologic Testing:** Viral PCR (Coxsackie, Adenovirus, Parvovirus). Blood cultures for suspected [[Cardiology/Infective endocarditis\|infective endocarditis]]. Thyroid panel, carnitine levels, urine organic acids for metabolic [[Cardiology/Cardiomyopathies\|cardiomyopathies]].

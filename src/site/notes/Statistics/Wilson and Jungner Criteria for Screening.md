@@ -5,7 +5,7 @@
 The Wilson-Jungner criteria represent the gold standard framework formulated by the WHO in 1968 to evaluate the suitability of a screening program for a specific disease.
 
 ### The Ten Criteria
-1.  **The condition sought should be an important health problem:** Defined by high prevalence, high mortality, or significant morbidity (e.g., Congenital Hypothyroidism).
+1.  **The condition sought should be an important health problem:** Defined by high prevalence, high mortality, or significant morbidity (e.g., [[Endocrinology/Congenital Hypothyroidism\|Congenital Hypothyroidism]]).
 2.  **There should be an accepted treatment for patients with recognized disease:** Screening is unethical if no intervention exists to improve the outcome.
 3.  **Facilities for diagnosis and treatment should be available:** The healthcare infrastructure must be able to handle the influx of screen-positive cases for definitive testing (e.g., confirmatory TSH/T4) and long-term management.
 4.  **There should be a recognizable latent or early symptomatic stage:** There must be a "window of opportunity" where the disease is detectable but hasn't caused irreversible damage.

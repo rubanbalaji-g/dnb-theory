@@ -37,12 +37,12 @@
 |:--|:--|
 |**Physiological / Normal Variants**|Familial short stature, Constitutional growth delay.|
 |**Undernutrition**|Chronic protein-energy malnutrition, inadequate dietary intake.|
-|**Chronic Systemic Illnesses**|Cerebral palsy, congenital heart disease, cystic fibrosis, asthma.|
-|**Malabsorption / GI Disorders**|[[Gastrointestinal/Celiac disease\|Celiac disease]], chronic liver disease, [[Gastrointestinal/Chronic Diarrhea\|chronic diarrhea]].|
-|**Endocrine Causes**|Growth hormone (GH) deficiency or insensitivity, hypothyroidism, Cushing syndrome, pseudohypoparathyroidism, precocious or delayed puberty.|
-|**Genetic / Chromosomal Syndromes**|Turner syndrome, Down syndrome, Prader-Willi syndrome, Russell-Silver syndrome, Seckel syndrome.|
+|**Chronic Systemic Illnesses**|[[Neurology/Cerebral Palsy\|Cerebral palsy]], congenital heart disease, [[Respiratory/Cystic Fibrosis\|cystic fibrosis]], [[Respiratory/Asthma\|asthma]].|
+|**Malabsorption / GI Disorders**|[[Gastrointestinal/Celiac disease\|Celiac disease]], [[Gastrointestinal/Chronic Liver Disease\|chronic liver disease]], [[Gastrointestinal/Chronic Diarrhea\|chronic diarrhea]].|
+|**Endocrine Causes**|Growth hormone (GH) deficiency or insensitivity, hypothyroidism, [[Endocrinology/Cushing Syndrome\|Cushing syndrome]], pseudohypoparathyroidism, precocious or delayed puberty.|
+|**Genetic / Chromosomal Syndromes**|[[Genetics/Turner Syndrome\|Turner syndrome]], Down syndrome, Prader-Willi syndrome, Russell-Silver syndrome, Seckel syndrome.|
 |**Skeletal Dysplasias**|Achondroplasia, hypochondroplasia (abnormal skeletal proportions).|
-|**Other Pathological Causes**|Rickets, psychosocial dwarfism (emotional deprivation), small for gestational age (SGA) with inadequate catch-up growth, idiopathic short stature (ISS).|
+|**Other Pathological Causes**|Rickets, psychosocial [[Endocrinology/Dwarfism\|dwarfism]] (emotional deprivation), small for gestational age (SGA) with inadequate catch-up growth, idiopathic short stature (ISS).|
 
 ## Schedule for Investigation of Retarded Growth
 
@@ -51,11 +51,11 @@
 - A comprehensive clinical schedule begins with a meticulously detailed medical, developmental, and family history.
 - The history must screen for clues such as low birth weight (suggesting SGA), polyuria (suggesting renal tubular acidosis), [[Gastrointestinal/Chronic Diarrhea\|chronic diarrhea]] (suggesting malabsorption), or a family history of delayed puberty (suggesting constitutional delay).
 - The physical examination should assess body proportions (Upper Segment:Lower Segment ratio and arm span) to rule out skeletal dysplasias, and look for dysmorphism, pallor, goiter, central obesity, or signs of rickets.
-- Height should be accurately measured using an infantometer (for children <2 years) or a stadiometer (for children >2 years) and plotted on appropriate growth charts to calculate height velocity and compare it against the mid-parental height (genetic potential).
+- Height should be accurately measured using an infantometer (for children <2 years) or a stadiometer (for children >2 years) and plotted on appropriate [[Development/Growth Charts\|growth charts]] to calculate height velocity and compare it against the mid-parental height (genetic potential).
 
 ### Radiological Evaluation
 
-- **Bone Age Assessment:** A radiograph of the left hand and wrist should be performed in all children presenting with short stature to determine skeletal maturity.
+- **[[Development/Bone Age Assessment\|Bone Age Assessment]]:** A radiograph of the left hand and wrist should be performed in all children presenting with short stature to determine skeletal maturity.
 - Bone age helps differentiate between etiologies: it equals chronological age in familial short stature, but is delayed (less than chronological age) in constitutional delay, hypothyroidism, and GH deficiency.
 - **Skeletal Survey:** If the child presents with disproportionate short stature, a full skeletal survey (skull, thoracolumbar spine, chest, pelvis, and limbs) is required to rule out rickets or specific skeletal dysplasias.
 
@@ -63,6 +63,6 @@
 
 |Investigation Tier|Specific Tests & Rationale|
 |:--|:--|
-|**Level 1 (Essential Screening)**|**Complete Hemogram with ESR:** To rule out chronic anemia and chronic infections.**Urinalysis:** Including microscopy, osmolality, and pH to screen for chronic kidney disease or renal tubular acidosis.**Stool Examination:** For parasites, steatorrhea, and occult blood to assess for malabsorption.**Serum Biochemistry:** Blood urea, creatinine, bicarbonate, pH, calcium, phosphate, alkaline phosphatase, fasting glucose, albumin, and transaminases to comprehensively evaluate renal, hepatic, and bone health.|
-|**Level 2 (Targeted Evaluation)**|**Endocrine Profile:** Serum thyroxine (T4) and Thyroid Stimulating Hormone (TSH) to rule out occult hypothyroidism.**Genetic Testing:** Karyotype (or Chromosomal Microarray) in all girls with unexplained short stature to definitely rule out Turner syndrome, even in the absence of classic dysmorphic features.**Gastrointestinal:** Celiac serology.|
+|**Level 1 (Essential Screening)**|**Complete Hemogram with ESR:** To rule out chronic anemia and chronic infections.**Urinalysis:** Including microscopy, osmolality, and pH to screen for [[Nephrology/Chronic Kidney Disease\|chronic kidney disease]] or renal tubular acidosis.**Stool Examination:** For parasites, steatorrhea, and occult blood to assess for malabsorption.**Serum Biochemistry:** Blood urea, creatinine, bicarbonate, pH, calcium, phosphate, alkaline phosphatase, fasting glucose, albumin, and transaminases to comprehensively evaluate renal, hepatic, and bone health.|
+|**Level 2 (Targeted Evaluation)**|**Endocrine Profile:** Serum thyroxine (T4) and Thyroid Stimulating Hormone (TSH) to rule out occult hypothyroidism.**Genetic Testing:** Karyotype (or Chromosomal Microarray) in all girls with unexplained short stature to definitely rule out [[Genetics/Turner Syndrome\|Turner syndrome]], even in the absence of classic dysmorphic features.**Gastrointestinal:** Celiac serology.|
 |**Level 3 (Specialized Testing)**|**GH-IGF Axis Evaluation:** Serum insulin-like growth factor-1 (IGF-1) and insulin-like growth factor binding protein-3 (IGFBP-3) levels.**Provocative Testing:** Provocative growth hormone testing if baseline markers suggest deficiency.**Neuroimaging:** MRI of the brain (specifically focusing on the pituitary and hypothalamus) if the peak growth hormone level is low, to rule out structural anomalies or space-occupying lesions like craniopharyngiomas.|

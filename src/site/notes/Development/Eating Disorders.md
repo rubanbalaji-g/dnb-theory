@@ -4,7 +4,7 @@
 
 ## Definition and Core Concepts
 
-- Eating disorders (EDs) are psychiatric conditions characterized by severe body dissatisfaction, overvaluation of a thin body ideal, and dysfunctional cognitive and weight control behaviors.
+- [[Development/Eating Disorders\|Eating disorders]] (EDs) are psychiatric conditions characterized by severe body dissatisfaction, overvaluation of a thin body ideal, and dysfunctional cognitive and weight control behaviors.
 - Anorexia nervosa (AN) typically affects 15 to 19-year-old girls and involves a significant overestimation of body size and shape, coupled with a relentless pursuit of thinness.
 - AN presents with an intense fear of becoming fat despite the patient being significantly underweight (often body weight <85% of expected).
 - Bulimia nervosa (BN) generally affects 10 to 19-year-old youth (chiefly females) and tends to emerge in later adolescence, sometimes evolving directly from preexisting AN.
@@ -17,7 +17,7 @@
 |:--|:--|:--|
 |**Typical Onset**|Early to middle adolescence (15–19 years).|Later adolescence (10–19 years).|
 |**Personality Traits**|Above-average intelligence, perfectionist, conflict-avoidant, and risk-aversive.|High impulsivity and frequent features of borderline personality disorder.|
-|**Psychiatric Comorbidities**|High rates of anxiety, obsessive-compulsive symptoms, and emotional "numbness" to starvation.|Pronounced mood swings, depression, posttraumatic stress disorder (PTSD), and higher risk of suicidal ideation.|
+|**Psychiatric Comorbidities**|High rates of anxiety, obsessive-compulsive symptoms, and emotional "numbness" to starvation.|Pronounced mood swings, depression, [[Development/Posttraumatic Stress Disorder (PTSD)\|posttraumatic stress disorder (PTSD)]], and higher risk of suicidal ideation.|
 
 ### DSM-5 Diagnostic Criteria
 
@@ -44,7 +44,7 @@
 |System|Anorexia Nervosa|Bulimia Nervosa|
 |:--|:--|:--|
 |**General & Metabolic**|Cachexia, hypothermia (<35.5°C), cold intolerance, hypoglycemia, and metabolic acidosis/alkalosis.|Weight variable; hypometabolic state less common, but high risk for hypokalemia and electrolyte imbalances.|
-|**Cardiovascular**|Sinus bradycardia, hypotension, orthostasis, and low ECG voltage.|Palpitations, hypovolemia, and dangerous cardiac arrhythmias secondary to electrolyte disturbances.|
+|**Cardiovascular**|Sinus bradycardia, hypotension, orthostasis, and low [[Misc/ECG\|ECG]] voltage.|Palpitations, hypovolemia, and dangerous [[Cardiology/Cardiac arrhythmias\|cardiac arrhythmias]] secondary to electrolyte disturbances.|
 |**Dermatologic & Hair**|Dry and scaly skin, lanugo hair growth on face/body, alopecia, and acrocyanosis.|Calluses over proximal knuckle joints (Russell sign) from digital pharyngeal stimulation.|
 |**Oral & Gastrointestinal**|Early satiety, gastric atony, and severe constipation.|Dental enamel erosion (perimolysis), parotid gland enlargement, subconjunctival hemorrhage, and esophageal ulceration.|
 |**Endocrine & Skeletal**|Amenorrhea (preceding weight loss in up to 30%), delayed puberty, osteopenia, and osteoporosis.|Irregular menses; osteopenia is generally less pronounced than in AN.|
@@ -64,7 +64,7 @@
 - The approach should utilize the biopsychosocial model, framing the ED as a "maladaptive coping mechanism" and avoiding placing blame on the patient or the parents.
 - **Nutritional Rehabilitation (AN):**
     - The initial goal is to achieve steady weight gain (0.5–1 lb/week) by increasing energy intake by 100–200 kcal increments toward a target of approximately 90% of expected body weight.
-    - Refeeding must proceed carefully, monitoring for refeeding syndrome (characterized by rapid drops in serum phosphorus, magnesium, and potassium) which can precipitate tachycardia, heart failure, and neurologic symptoms.
+    - Refeeding must proceed carefully, monitoring for [[Nutrition/Refeeding Syndrome\|refeeding syndrome]] (characterized by rapid drops in serum phosphorus, magnesium, and potassium) which can precipitate tachycardia, heart failure, and neurologic symptoms.
     - Fat content may initially need to be lowered to 15–20% to accommodate fat phobia, alongside calcium and vitamin D supplementation to address osteopenia.
 - **Inpatient Medical Hospitalization (AN):** Indicated for physiological instability, including a heart rate <50 beats/min, blood pressure <80/50 mm Hg, profound hypothermia (<36.1°C), severe electrolyte disturbances, or body weight <80% of healthy expected weight.
 - **Psychotherapy:**

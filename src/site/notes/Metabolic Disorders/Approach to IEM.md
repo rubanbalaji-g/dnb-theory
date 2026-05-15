@@ -14,7 +14,7 @@ Based on the pathophysiology and clinical presentation:
 
 ### A. Intoxication Disorders
 * **Mechanism:** Accumulation of toxic compounds proximal to the metabolic block.
-* **Examples:** [[Metabolic Disorders/Urea Cycle Disorders\|Urea Cycle Disorders]] (UCD), [[Metabolic Disorders/Organic Acidemias\|Organic Acidemias]] (OA), Galactosemia, [[Metabolic Disorders/Maple Syrup Urine Disease\|Maple Syrup Urine Disease]] (MSUD).
+* **Examples:** [[Metabolic Disorders/Urea Cycle Disorders\|Urea Cycle Disorders]] (UCD), [[Metabolic Disorders/Organic Acidemias\|Organic Acidemias]] (OA), [[Metabolic Disorders/Galactosemia\|Galactosemia]], [[Metabolic Disorders/Maple Syrup Urine Disease\|Maple Syrup Urine Disease]] (MSUD).
 * **Clinical Pattern:** Symptom-free interval after birth $\rightarrow$ Rapid deterioration once feeding (protein/sugar) is introduced.
 
 ### B. Energy Deficiency Disorders
@@ -29,7 +29,7 @@ Based on the pathophysiology and clinical presentation:
 
 ## 3. CLINICAL APPROACH: "WHEN TO SUSPECT"
 
-### Key Red Flags (Index of Suspicion)
+### Key Red Flags ([[Statistics/Index\|Index]] of Suspicion)
 1.  **Sepsis Mimicry:** Neonates appearing septic (lethargy, refusal to feed) with negative cultures or no response to antibiotics.
 2.  **Sudden Deterioration:** Rapid decline in a previously healthy neonate after a symptom-free interval.
 3.  **Family History:** Consanguinity, unexplained sibling deaths, or SIDS.
@@ -41,12 +41,12 @@ Search for specific signs to narrow the differential:
 
 | Physical Finding | Suspected IEM |
 | :--- | :--- |
-| **Cataracts** | Galactosemia |
-| **Corneal Clouding** | Mucopolysaccharidosis (MPS) |
+| **Cataracts** | [[Metabolic Disorders/Galactosemia\|Galactosemia]] |
+| **Corneal Clouding** | [[Metabolic Disorders/Mucopolysaccharidosis (MPS)\|Mucopolysaccharidosis (MPS)]] |
 | **Cherry Red Spots** | Tay-Sachs, Niemann-Pick |
 | **Alopecia** | Biotinidase Deficiency |
 | **Coarse Hair** | Menkes Kinky Hair Disease |
-| **Hepatomegaly** | Galactosemia, [[Metabolic Disorders/Tyrosinemia\|Tyrosinemia]], GSD, LSD |
+| **Hepatomegaly** | [[Metabolic Disorders/Galactosemia\|Galactosemia]], [[Metabolic Disorders/Tyrosinemia\|Tyrosinemia]], GSD, LSD |
 | **Cardiomyopathy** | Pompe (GSD), FAOD, Mitochondrial disorders |
 ### Characteristic Urine Odors
 "Smelling the urine" is a high-yield bedside test:
@@ -159,7 +159,7 @@ flowchart TD
     * *Diagnosis:* **Fatty Acid Oxidation Defects (FAOD)** (e.g., MCAD, LCHAD).
     * *Mechanism:* Inability to generate ketones during fasting (hypoketotic hypoglycemia).
 * **Normal Glucose + Normal Lactate:**
-    * *Diagnosis:* **Renal Tubular Acidosis (RTA)** (Note: This is a renal, not metabolic, cause of acidosis).
+    * *Diagnosis:* **[[Nephrology/Renal Tubular Acidosis (RTA)\|Renal Tubular Acidosis (RTA)]]** (Note: This is a renal, not metabolic, cause of acidosis).
 * **Normal Glucose + High Lactate:**
     * *Diagnosis:* **Disorders of Pyruvate Metabolism** (Pyruvate Dehydrogenase deficiency), Mitochondrial disorders.
 
@@ -184,7 +184,7 @@ flowchart TD
 
 
 ## 6. BIOCHEMICAL SUMMARY (Brief)
-* **Carbohydrates:** Disorders of Galactose (Galactosemia) and Fructose (HFI).
+* **Carbohydrates:** Disorders of Galactose ([[Metabolic Disorders/Galactosemia\|Galactosemia]]) and Fructose (HFI).
 * **Proteins:** Break down into Amino Acids $\rightarrow$ Nitrogen (Urea Cycle) and Organic Acids. Defects lead to Amino Acidopathies (PKU, MSUD) or [[Metabolic Disorders/Organic Acidemias\|Organic Acidemias]].
 * **Fats:** Beta-oxidation defects lead to hypoketotic hypoglycemia.
 
@@ -205,7 +205,7 @@ The priority is to reverse the catabolic state which exacerbates most IEMs.
 * **Sepsis Coverage (The "Sepsis Mimic"):**
     * Infants often present with lethargy, refusal to feed, and temperature instability.
     * Start broad-spectrum antibiotics immediately.
-    * **Specific Alert:** Cover for *E. coli* sepsis in suspected **Galactosemia**.
+    * **Specific Alert:** Cover for *E. coli* sepsis in suspected **[[Metabolic Disorders/Galactosemia\|Galactosemia]]**.
 
 #### B. Correct Metabolic Derangements
 * **Hypoglycemia:**
@@ -249,7 +249,7 @@ Administer cofactors that might boost residual enzyme activity pending diagnosis
 ### 4. LONG-TERM MANAGEMENT PRINCIPLES
 #### Dietary Modification
 * **Lifelong Restriction:**
-    * **Galactosemia:** Soy-based/elemental formula (Strict Lactose/Galactose avoidance).
+    * **[[Metabolic Disorders/Galactosemia\|Galactosemia]]:** Soy-based/elemental formula (Strict Lactose/Galactose avoidance).
     * **PKU:** Low Phenylalanine diet.
     * **Fructose Intolerance:** Avoidance of fructose/sucrose (fruit juices).
 * **Medical Formulas:** Use of specific amino-acid free formulas (e.g., Leucine-free for MSUD).
@@ -257,7 +257,7 @@ Administer cofactors that might boost residual enzyme activity pending diagnosis
 #### Monitoring and Prognosis
 * **Sick Day Regimen:** Parents must be trained to increase glucose intake and stop protein during intercurrent illnesses/fever to prevent catabolic decompensation.
 * **Organ Surveillance:**
-    * **Eye:** Cataracts (Galactosemia).
+    * **Eye:** Cataracts ([[Metabolic Disorders/Galactosemia\|Galactosemia]]).
     * **Liver:** Hepatomegaly/Dysfunction ([[Metabolic Disorders/Tyrosinemia\|Tyrosinemia]], GSD).
     * **Heart:** Cardiomyopathy (Pompe disease, FAOD).
     * **Neurological:** Developmental milestones and seizure control.

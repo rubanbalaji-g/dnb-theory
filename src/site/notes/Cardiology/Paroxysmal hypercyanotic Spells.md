@@ -58,8 +58,8 @@ graph TD
 
 ## Differential Diagnosis of Cyanotic Episodes
 
-- Cyanotic breath-holding spells (forced expiration during crying, age 6 months to 5 years).
-- Pallid breath-holding spells (associated severe bradycardia, first 1-2 years of life).
+- Cyanotic [[Development/Breath-Holding Spells\|breath-holding spells]] (forced expiration during crying, age 6 months to 5 years).
+- Pallid [[Development/Breath-Holding Spells\|breath-holding spells]] (associated severe bradycardia, first 1-2 years of life).
 - Acrocyanosis (peripheral cyanosis with cold exposure, normal pink mucous membranes).
 - Respiratory disorders (variable partial pressure of oxygen, responsive to mechanical ventilation).
 - Central nervous system disorders (hypoxia reversed with artificial ventilation).

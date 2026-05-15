@@ -63,4 +63,4 @@
 - Address emotional reactions, including shock, denial, guilt, and grief.
 - Discourage discussions regarding institutionalization unless explicitly asked by the parents.
 - Connect families with support networks, such as the Down Syndrome Federation of India.
-- Inform parents [[About\|about]] government schemes, financial assistance for therapies, and disability certification.
+- Inform parents about government schemes, financial assistance for therapies, and disability certification.

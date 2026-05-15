@@ -2,7 +2,7 @@
 {"dg-publish":true,"uplink":"/cardiology/cardiology/","uptext":"Back to Index (","permalink":"/cardiology/treatment-of-arf-and-rheumatic-carditis/","dgPassFrontmatter":true}
 ---
 
-## Acute Rheumatic Fever (ARF) and Carditis Management
+## [[Infectious Diseases/Acute Rheumatic Fever (ARF)\|Acute Rheumatic Fever (ARF)]] and Carditis Management
 
 ### Supportive Care
 - Bed rest recommended.
@@ -54,7 +54,7 @@
 - **Afterload Reduction:** ACE inhibitors (monitor creatinine/electrolytes, withhold in dehydration). Angiotensin receptor blockers (e.g., losartan) if ACE-inhibitor cough persists.
 - **Beta-Blockers:** Carvedilol, metoprolol (improve symptoms, suppress catecholamines, prevent arrhythmias). Start low dose.
 - **Inotropes/Vasodilators:** Sodium nitroprusside or milrinone for acute care settings. Phosphodiesterase inhibitors (milrinone) utilized cautiously due to proarrhythmic potential.
-### Infective Endocarditis Prophylaxis
+### [[Cardiology/Infective endocarditis\|Infective Endocarditis]] Prophylaxis
 
 - Indicated before procedures expected to produce bacteremia (e.g., dental procedures).
 - Required for patients with established RHD or prosthetic valves.

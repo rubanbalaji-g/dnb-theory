@@ -14,7 +14,7 @@
 * **Ethical Considerations:** In certain clinical or educational settings, cluster randomization provides ethical advantages by ensuring all members of a specific functional group (like a single hospital ward or classroom) receive a uniform standard of care or intervention.
 
 ### Methodological and Statistical Characteristics
-* **Statistical Efficiency:** Cluster randomized trials are generally considered not as statistically efficient as traditional parallel trials that utilize individual randomization.
+* **Statistical Efficiency:** [[Statistics/Cluster Randomized Trials\|Cluster randomized trials]] are generally considered not as statistically efficient as traditional parallel trials that utilize individual randomization.
 * **Sample Size Requirements:** Because individuals within a specific cluster tend to share similarities, these trials inherently require a larger overall sample size to achieve adequate statistical power compared to individual randomization.
 * **Analytical Complexity:** The statistical analysis of the trial data is significantly more complex because the mathematical models must properly account for the clustering effect, adjusting for the correlated nature of the data within each respective group.
 
@@ -23,7 +23,7 @@
 
 | Feature | Cluster Randomization | Cluster Sampling |
 | :--- | :--- | :--- |
-| **Primary Application** | Experimental interventional studies (Randomized Controlled Trials). | Observational studies, census, and surveys. |
+| **Primary Application** | Experimental interventional studies (Randomized Controlled Trials). | [[Statistics/Observational Studies\|Observational studies]], census, and surveys. |
 | **Core Mechanism** | Randomly allocating pre-existing groups (clusters) to different therapeutic or intervention arms. | Directly sampling entire units (e.g., a city or school) from a population using probability methods like simple random sampling. |
 | **Subject Inclusion** | All individuals within the allocated clusters typically receive the assigned intervention or standard of care. | Every member of the population belongs to one group, but only the individuals within the specifically sampled clusters are surveyed or measured. |
 | **Methodological Distinction** | Designed to compare the efficacy of treatments across different groups. | Designed to survey a population efficiently; unlike stratified sampling (which samples elements from *every* group), cluster sampling only gathers data from the *selected* clusters. |

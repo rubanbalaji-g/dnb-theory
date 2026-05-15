@@ -2,7 +2,7 @@
 {"dg-publish":true,"uplink":"/statistics/statistics/","uptext":"Back to Index (🔢 Statistics)","permalink":"/statistics/tests-of-statistical-significance/","dgPassFrontmatter":true}
 ---
 
-### Principles of Hypothesis Testing
+### Principles of [[Statistics/Hypothesis Testing\|Hypothesis Testing]]
 
 - A statistical hypothesis test is a method of making decisions using data from a controlled experiment or an observational study to generalize study results from a sample to the broader population.
 - The statistical analysis journey begins with defining two competing hypotheses: the null hypothesis ($H_0$), which states that nothing is happening or there is no difference, and the alternative hypothesis ($H_1$), which represents the researcher's theory that a difference or association exists,.
@@ -29,19 +29,19 @@
 |Continuous (Numerical)|2|Paired (Dependent)|Paired t-test|Wilcoxon signed-rank test|
 |Continuous (Numerical)|> 2|Independent|One-way ANOVA|Kruskal-Wallis test|
 |Continuous (Numerical)|> 2|Paired (Dependent)|Repeated measures ANOVA|Friedman test|
-|Categorical (Nominal)|2|Independent|-|Chi-square test / Fisher's exact test|
+|Categorical (Nominal)|2|Independent|-|[[Statistics/Chi-Square Test\|Chi-square test]] / Fisher's exact test|
 |Categorical (Nominal)|2|Paired (Dependent)|-|McNemar's test|
 <img src=https://i.imgur.com/AUJlOgj.png>
 ### Common Statistical Tests in Clinical Research
 
 - **Independent samples t-test:** Compares the means of two distinct groups to ascertain if they are significantly different, requiring tests for normality and homogeneity of variance (Levene's test) prior to execution.
 - **Paired t-test:** Evaluates whether the mean of the paired differences between two related conditions on the same subjects equals zero.
-- **Analysis of Variance (ANOVA):** Utilizes the ratio of "between-group variance" to "within-group variance" to determine if significant differences exist among the means of three or more independent groups.
+- **[[Statistics/Analysis of Variance (ANOVA)\|Analysis of Variance (ANOVA)]]:** Utilizes the ratio of "between-group variance" to "within-group variance" to determine if significant differences exist among the means of three or more independent groups.
 - **Post-hoc testing:** Following a significant ANOVA result, adjustments like the Bonferroni or Tukey methods are used to perform pairwise comparisons without inflating the risk of false-positive errors,.
 - **Mann-Whitney U test:** The non-parametric counterpart to the independent t-test that compares the sum of ranks for two independent groups.
 - **Wilcoxon signed-rank test:** Analyzes paired, non-normally distributed data by ranking the absolute differences between two conditions and utilizing the signs of the actual differences to evaluate median shifts,.
-- **Chi-square test:** Assesses the association between categorical variables by evaluating the deviation between actual observed frequencies and the theoretical expected frequencies under the null hypothesis,.
-- **Fisher’s exact test:** Used for 2x2 contingency tables when the sample size is small or when more than 20% of the expected cell counts fall below 5, bypassing the approximations of the Chi-square test,.
+- **[[Statistics/Chi-Square Test\|Chi-square test]]:** Assesses the association between categorical variables by evaluating the deviation between actual observed frequencies and the theoretical expected frequencies under the null hypothesis,.
+- **Fisher’s exact test:** Used for 2x2 contingency tables when the sample size is small or when more than 20% of the expected cell counts fall below 5, bypassing the approximations of the [[Statistics/Chi-Square Test\|Chi-square test]],.
 - **McNemar’s test:** Applied to paired binary nominal variables to evaluate changes in proportions over two time points, such as assessing pass/fail rates before and after an intervention.
 
 ### Errors in Statistical Testing

@@ -31,7 +31,7 @@
         * **Optic Atrophy:** Visual impairment.
 * **Dermatologic (Cutaneous):**
     * **Alopecia:** Diffuse hair thinning to total alopecia (involves scalp, eyebrows, lashes).
-    * **Skin Rash:** Eczematous or scaly, erythematous rash, often **periorificial** (around eyes, nose, mouth) and perineal. similar to Acrodermatitis Enteropathica.
+    * **Skin Rash:** Eczematous or scaly, erythematous rash, often **periorificial** (around eyes, nose, mouth) and perineal. similar to [[Nutrition/Acrodermatitis enteropathica\|Acrodermatitis Enteropathica]].
 * **Immunologic:**
     * Recurrent infections (fungal/Candida) due to T-cell and B-cell dysfunction.
 * **Respiratory:**
@@ -46,12 +46,12 @@
 * **Confirmatory Test (Gold Standard):**
     * **Enzyme Assay:** Absent or reduced **Serum Biotinidase Activity**.
     * *Note:* Unlike other metabolic enzymes often requiring tissue, biotinidase is abundant in serum.
-* **Newborn Screening (NBS):**
+* **[[Neonatalogy/Newborn Screening\|Newborn Screening]] (NBS):**
     * Many programs screen for this using colorimetric or fluorometric enzyme assays on dried blood spots.
 
 ## 5. DIAGNOSIS DIFFERENTIAL
 * **Holocarboxylase Synthetase Deficiency:** Presents earlier (neonatal), severe acidosis, normal biotinidase activity.
-* **Zinc Deficiency (Acrodermatitis Enteropathica):** Similar rash and alopecia.
+* **Zinc Deficiency ([[Nutrition/Acrodermatitis enteropathica\|Acrodermatitis Enteropathica]]):** Similar rash and alopecia.
 * **Essential Fatty Acid Deficiency.**
 
 ## 6. MANAGEMENT

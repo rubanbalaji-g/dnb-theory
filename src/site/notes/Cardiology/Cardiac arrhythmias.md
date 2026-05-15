@@ -15,7 +15,7 @@
 
 ## Diagnostic Evaluation
 
-- **12-lead Electrocardiogram (ECG):** Initial noninvasive diagnostic of choice.
+- **12-lead Electrocardiogram ([[Misc/ECG\|ECG]]):** Initial noninvasive diagnostic of choice.
 - **Ambulatory Monitoring:** 24-hour Holter monitor, event monitors, implantable loop recorders (ILR) evaluate arrhythmia burden, correlate symptoms, and assess therapy efficacy.
 - **Exercise Stress Testing:** Elicits catecholamine-sensitive arrhythmias (e.g., Catecholaminergic Polymorphic Ventricular Tachycardia).
 - **Electrophysiology Study (EPS):** Invasive transvenous catheter mapping. Indicated for unexplained syncope, survived sudden cardiac arrest, or pre-ablation mapping.
@@ -26,7 +26,7 @@
 
 ### Sinus Node Dysfunction
 
-- **Sinus Bradycardia:** Sinoatrial node rate below lower limit for age (<90 bpm in neonates, <60 bpm in older children). Physiologic in conditioned athletes. Secondary to hypothermia, hypothyroidism, eating disorders, or high vagal tone.
+- **Sinus Bradycardia:** Sinoatrial node rate below lower limit for age (<90 bpm in neonates, <60 bpm in older children). Physiologic in conditioned athletes. Secondary to hypothermia, hypothyroidism, [[Development/Eating Disorders\|eating disorders]], or high vagal tone.
 - **Sinus Arrhythmia:** Normal physiologic variation. Heart rate slows during expiration, accelerates during inspiration. Abolished by exercise.
 - **Sick Sinus Syndrome:** Abnormalities in sinus node or atrial conduction. Common post-surgical complication (Fontan, Senning, Mustard procedures).
 
@@ -34,7 +34,7 @@
 
 - Disturbance in impulse conduction through AV node to ventricles.
 
-|Block Type|ECG Characteristics|Clinical Context|
+|Block Type|[[Misc/ECG\|ECG]] Characteristics|Clinical Context|
 |:--|:--|:--|
 |**First-Degree**|Prolonged PR interval beyond upper limit of normal for age.|Often asymptomatic. Found in ~8% of normal children secondary to increased vagal tone.|
 |**Second-Degree (Mobitz I / Wenckebach)**|Progressive PR prolongation until nonconducted P-wave occurs.|Common in normal children during sleep (high parasympathetic tone) or athletes. Block at AV node level.|
@@ -49,10 +49,10 @@
 
 ### Re-entrant Mechanisms
 
-- **Atrioventricular Reciprocating Tachycardia (AVRT):** Utilizes muscular accessory pathway bypassing AV node. Wolff-Parkinson-White (WPW) syndrome. Orthodromic AVRT (antegrade AV node, retrograde pathway) yields narrow QRS. Antidromic AVRT (antegrade pathway, retrograde AV node) yields wide QRS.
+- **Atrioventricular Reciprocating Tachycardia (AVRT):** Utilizes muscular accessory pathway bypassing AV node. [[Cardiology/Wolff-Parkinson-White (WPW)\|Wolff-Parkinson-White (WPW)]] syndrome. Orthodromic AVRT (antegrade AV node, retrograde pathway) yields narrow QRS. Antidromic AVRT (antegrade pathway, retrograde AV node) yields wide QRS.
 - **Atrioventricular Nodal Reentry Tachycardia (AVNRT):** Utilizes dual functional pathways (fast and slow) within AV node. Rare in infancy; common in adolescence.
-- **Atrial Flutter:** Macro-reentry circuit within atria. ECG demonstrates regular saw-tooth flutter waves with variable AV conduction. Common in neonates with normal hearts or older children with surgically stretched atria (e.g., Fontan).
-- **Atrial Fibrillation:** Chaotic, rapid atrial excitation (400-700 bpm) producing irregularly irregular ventricular response. Rare in pediatrics. Associated with left-sided CHD, cardiomyopathies, or pre-excitation syndromes.
+- **Atrial Flutter:** Macro-reentry circuit within atria. [[Misc/ECG\|ECG]] demonstrates regular saw-tooth flutter waves with variable AV conduction. Common in neonates with normal hearts or older children with surgically stretched atria (e.g., Fontan).
+- **Atrial Fibrillation:** Chaotic, rapid atrial excitation (400-700 bpm) producing irregularly irregular ventricular response. Rare in pediatrics. Associated with left-sided CHD, [[Cardiology/Cardiomyopathies\|cardiomyopathies]], or pre-excitation syndromes.
 
 ### Automatic Mechanisms
 
@@ -72,9 +72,9 @@
 - Morphology: Monomorphic, polymorphic, bidirectional, or torsades de pointes.
 - Diagnostic Clues: Ventriculoatrial (VA) dissociation, sinus capture beats, fusion beats.
 - **Etiology:**
-    - _Structural:_ Postoperative CHD (Tetralogy of Fallot macro-reentry circuits).
+    - _Structural:_ Postoperative CHD ([[Cardiology/Tetralogy of Fallot\|Tetralogy of Fallot]] macro-reentry circuits).
     - _Cardiomyopathies:_ Arrhythmogenic Cardiomyopathy (ACM), Hypertrophic Cardiomyopathy (HCM), Dilated Cardiomyopathy (DCM).
-    - _Channelopathies:_ Long QT syndrome, Brugada syndrome, Catecholaminergic Polymorphic Ventricular Tachycardia (CPVT).
+    - _Channelopathies:_ [[Cardiology/Long QT syndrome\|Long QT syndrome]], Brugada syndrome, Catecholaminergic Polymorphic Ventricular Tachycardia (CPVT).
     - _Inflammatory:_ Myocarditis.
     - _Idiopathic (Benign):_ Right ventricular outflow tract (RVOT) VT, idiopathic left ventricular (fascicular/Belhassen) tachycardia. Respond well to calcium channel blockers.
 
@@ -86,10 +86,10 @@
 
 ## Genetic Arrhythmia Syndromes
 
-|Syndrome|Pathophysiology|Clinical & ECG Features|Management|
+|Syndrome|Pathophysiology|Clinical & [[Misc/ECG\|ECG]] Features|Management|
 |:--|:--|:--|:--|
-|**Long QT Syndrome (LQTS)**|Genetic abnormality of ventricular repolarization.|Prolonged QT interval. Predisposes to torsades de pointes, syncope, sudden death. Exertional/auditory triggers depending on genotype.|Beta-blockers, Left Cardiac Sympathetic Denervation (LCSD), ICD.|
-|**Catecholaminergic Polymorphic VT (CPVT)**|Calcium handling defect (RYR2 mutations).|Normal resting ECG. Exercise induces monomorphic PVCs progressing to bidirectional/polymorphic VT.|Nadolol, flecainide, LCSD, ICD.|
+|**[[Cardiology/Long QT syndrome\|Long QT Syndrome]] (LQTS)**|Genetic abnormality of ventricular repolarization.|Prolonged QT interval. Predisposes to torsades de pointes, syncope, sudden death. Exertional/auditory triggers depending on genotype.|Beta-blockers, Left Cardiac Sympathetic Denervation (LCSD), ICD.|
+|**Catecholaminergic Polymorphic VT (CPVT)**|Calcium handling defect (RYR2 mutations).|Normal resting [[Misc/ECG\|ECG]]. Exercise induces monomorphic PVCs progressing to bidirectional/polymorphic VT.|Nadolol, flecainide, LCSD, ICD.|
 |**Brugada Syndrome**|Sodium channel defect (SCN5A).|Coved ST-segment elevation in V1-V3. Risk of ventricular fibrillation.|Fever avoidance, ICD.|
 |**Arrhythmogenic Cardiomyopathy (ACM)**|Desmosomal protein mutations (PKP2, DSP, etc.).|Fibrofatty replacement of RV/LV myocardium. Exercise-induced ventricular arrhythmias, sudden death.|Exercise restriction, antiarrhythmics, ICD.|
 

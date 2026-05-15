@@ -31,7 +31,7 @@ Categorizes agents based on primary electrophysiological mechanism of action.
 
 #### Procainamide (Class IA)
 
-- **Indication:** Supraventricular tachycardia (SVT), Atrial fibrillation/flutter, Ventricular tachycardia (VT).
+- **Indication:** [[Cardiology/Supraventricular tachycardia (SVT)\|Supraventricular tachycardia (SVT)]], Atrial fibrillation/flutter, Ventricular tachycardia (VT).
 - **Mechanism:** Depresses myocardial excitability and conduction.
 - **Dose:** IV load 10–15 mg/kg over 30–60 min; continuous infusion 20–80 mcg/kg/min (Max: 2000 mg/day).
 - **Caution:** Monitor for hypotension during loading. Stop infusion if QRS widens >50%.
@@ -54,7 +54,7 @@ Categorizes agents based on primary electrophysiological mechanism of action.
 
 #### Propranolol
 
-- **Indication:** SVT, Long QT syndrome.
+- **Indication:** SVT, [[Cardiology/Long QT syndrome\|Long QT syndrome]].
 - **Dose:** PO 1–4 mg/kg/day divided Q6H. IV 0.01–0.15 mg/kg/dose slow push.
 - **Caution:** Risk of bronchospasm, hypoglycemia, bradycardia.
 

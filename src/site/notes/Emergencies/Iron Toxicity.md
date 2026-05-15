@@ -6,10 +6,10 @@
 
 - Iron poisoning is a potentially fatal pediatric emergency, with severity directly related to the amount of elemental iron ingested.
 - Adult iron preparations and prenatal vitamins are the most toxic sources, whereas children's vitamins, multivitamin preparations, and nonionic forms (carbonyl iron, iron polysaccharide) rarely contain enough elemental iron to cause significant toxicity.
-### Iron Toxicity Based on Ingested Dose
+### [[Emergencies/Iron Toxicity\|Iron Toxicity]] Based on Ingested Dose
 
-- The risk assessment and severity of iron toxicity are determined strictly by the amount of **elemental iron** ingested, rather than the total weight of the iron salt tablet.
-- The therapeutic dose for treating iron deficiency anemia is typically 3 to 6 mg/kg/day.
+- The risk assessment and severity of [[Emergencies/Iron Toxicity\|iron toxicity]] are determined strictly by the amount of **elemental iron** ingested, rather than the total weight of the iron salt tablet.
+- The therapeutic dose for treating [[Hematology/Iron Deficiency Anemia\|iron deficiency anemia]] is typically 3 to 6 mg/kg/day.
 - Acute ingestions exceeding these therapeutic limits are categorized based on the milligram per kilogram (mg/kg) of elemental iron ingested, which correlates with expected clinical manifestations.
 
 |Dose of Elemental Iron Ingested|Expected Toxicity and Clinical Features|
@@ -18,7 +18,7 @@
 |20−60 mg/kg|**Mild to Moderate Toxicity:** Results primarily in local gastrointestinal (GI) symptoms such as abdominal pain, vomiting, and diarrhea.|
 |60−120 mg/kg|**Severe Toxicity:** High potential for systemic toxicity, including metabolic acidosis, shock, coagulopathy, and hepatorenal failure.|
 |>120 mg/kg|**Potentially Lethal:** Associated with life-threatening systemic collapse, severe morbidity, and high mortality.|
-- Iron has a direct corrosive effect on the gastrointestinal mucosa, leading to hematemesis, melena, ulceration, and potential perforation.
+- Iron has a direct corrosive effect on the gastrointestinal mucosa, leading to [[Gastrointestinal/Hematemesis\|hematemesis]], melena, ulceration, and potential perforation.
 - The presence of free iron causes massive volume losses, increased capillary membrane permeability, and vasodilation, which collectively precipitate early hypotension.
 - Iron accumulates in target tissues, notably the Kupffer cells of the liver and myocardial cells, causing hepatotoxicity, coagulopathy, and cardiac dysfunction.
 - Profound metabolic acidosis occurs due to a combination of hypovolemia, hypotension, and iron's direct interference with oxidative phosphorylation and the Krebs cycle.
@@ -34,12 +34,12 @@
 
 ## Clinical Manifestations
 
-- The clinical progression of acute iron toxicity is classically described in five overlapping stages.
+- The clinical progression of acute [[Emergencies/Iron Toxicity\|iron toxicity]] is classically described in five overlapping stages.
 - Patients who remain completely asymptomatic without gastrointestinal symptoms within $6$ hours of ingestion are highly unlikely to develop serious toxicity.
 
 | Phase                   | Time After Ingestion | Characteristic Clinical Features                                                                                                                        |
 | :---------------------- | :------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| **1. Gastrointestinal** | $6$ hours            | Vomiting, diarrhea, hematemesis, hematochezia.                                                                                                          |
+| **1. Gastrointestinal** | $6$ hours            | Vomiting, diarrhea, [[Gastrointestinal/Hematemesis\|hematemesis]], hematochezia.                                                                                                          |
 | **2. Latent**           | $6-24$ hours         | Resolution of gastrointestinal symptoms, tachycardia, acidosis, depressed mental status.                                                                |
 | **3. Systemic**         | $12-24$ hours        | Return of gastrointestinal symptoms, severe acidosis (HAGMA), leukocytosis, coagulopathy, renal failure, lethargy or coma, and cardiovascular collapse. |
 | **4. Hepatic**          | $2-5$ days           | Fulminant liver failure, coagulopathy.                                                                                                                  |
@@ -74,4 +74,4 @@
 |**Indications**|Serum iron concentration $>500$ $\mu$g/dL OR the presence of moderate to severe symptoms (e.g., metabolic acidosis, lethargy) regardless of the serum iron level.|
 |**Dosage**|Continuous intravenous infusion initiated at $15$ mg/kg/hr (maximum dose: $6$ g/24 hr).|
 |**Adverse Effects**|Hypotension (which can be mitigated by titrating the dose up slowly).|
-|**Complications of Prolonged Use**|Infusions lasting $>24$ hours are associated with acute respiratory distress syndrome (ARDS) and _Yersinia_ sepsis.|
+|**Complications of Prolonged Use**|Infusions lasting $>24$ hours are associated with acute [[Neonatalogy/Respiratory Distress Syndrome\|respiratory distress syndrome]] (ARDS) and _Yersinia_ sepsis.|

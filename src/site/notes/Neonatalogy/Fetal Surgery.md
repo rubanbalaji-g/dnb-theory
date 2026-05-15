@@ -20,7 +20,7 @@ Intervention is justified only if:
 ---
 
 ## 3. CLASSIFICATION OF SURGICAL MODALITIES
-Fetal surgery is classified by the level of invasiveness and access route.
+[[Neonatalogy/Fetal Surgery\|Fetal surgery]] is classified by the level of invasiveness and access route.
 
 ### A. Percutaneous Ultrasound-Guided Procedures (Needle-based)
 Least invasive; performed under local anesthesia + sedation.
@@ -46,12 +46,12 @@ Uses small endoscopes (2–3 mm) via trocars; reduced maternal morbidity compare
 3.  **Amniotic Band Lysis:**
     * Laser or sharp division of bands threatening limb amputation.
 
-### C. Open Fetal Surgery
+### C. Open [[Neonatalogy/Fetal Surgery\|Fetal Surgery]]
 Requires maternal laparotomy and hysterotomy. Highest risk profile (uterine rupture, preterm labor).
 1.  **Myelomeningocele (MMC) Repair:**
     * *Study:* **MOMS Trial (Management of Myelomeningocele Study)**.
     * *Technique:* Exposure of fetal back $\rightarrow$ Layered closure of dura, muscle, and skin.
-    * *Benefit:* Reduced Chiari II malformation reversal, reduced hydrocephalus (shunt need), improved ambulation.
+    * *Benefit:* Reduced Chiari II malformation reversal, reduced [[Neurology/Hydrocephalus\|hydrocephalus]] (shunt need), improved ambulation.
 2.  **CCAM/CPAM Resection:**
     * Lobectomy for massive lung lesions causing mediastinal shift and hydrops.
 3.  **Sacrococcygeal Teratoma (SCT) Resection:**
@@ -69,7 +69,7 @@ Requires maternal laparotomy and hysterotomy. Highest risk profile (uterine rupt
 ---
 
 ## 4. PERIOPERATIVE MANAGEMENT
-The success of fetal surgery relies heavily on preventing the primary complication: **Preterm Labor**.
+The success of [[Neonatalogy/Fetal Surgery\|fetal surgery]] relies heavily on preventing the primary complication: **Preterm Labor**.
 
 1.  **Tocolysis:** Indomethacin (pre-op) and Magnesium Sulfate (intra-op) to prevent uterine contractions.
 2.  **Maternal Anesthesia:** General anesthesia (Open/EXIT) or Regional/Local (Fetoscopy).
@@ -124,5 +124,5 @@ The success of fetal surgery relies heavily on preventing the primary complicati
 
 ## 8. FUTURE HORIZONS
 * **Tissue Engineering:** Use of amniotic fluid stem cells to repair defects (e.g., diaphragmatic patches).
-* **Gene Editing (CRISPR):** In-utero correction of monogenic diseases (SMA, CF) before irreversible damage occurs.
+* **Gene Editing ([[Genetics/CRISPR\|CRISPR]]):** In-utero correction of monogenic diseases (SMA, CF) before irreversible damage occurs.
 * **Microneurosurgery:** Fetoscopic repair of Myelomeningocele (reducing maternal hysterotomy risks).

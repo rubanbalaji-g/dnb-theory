@@ -68,7 +68,7 @@
 
 - Objective physiological measurements are necessary to confirm the clinical diagnosis and quantify the severity of the respiratory failure.
 
-### Pulse Oximetry (SpO2)
+### [[Emergencies/Pulse Oximetry\|Pulse Oximetry]] (SpO2)
 
 - An SpO2 of < 94% in room air indicates abnormal oxygenation.
 - An SpO2 dropping below 90% is a critical threshold that confirms severe respiratory compromise and signals the presence of hypoxemic respiratory failure.
@@ -81,7 +81,7 @@
 
 ### Advanced Indices of Oxygenation
 
-- **Alveolar-arterial (A-a) PO2 Gradient:** This physiological index measures the difference between alveolar and arterial oxygen tensions. It is calculated to differentiate the causes of hypoxemia. An elevated gradient (>10-15 mm Hg in room air) diagnoses intrinsic lung disease, V/Q mismatch, or shunting, while a normal gradient in a hypoxemic patient points to central alveolar hypoventilation.
-- **PaO2/FiO2 (P:F) Ratio:** This ratio quantifies the severity of hypoxemia regardless of the administered oxygen concentration. A P:F ratio < 300 indicates acute lung injury, and a ratio < 200 mm Hg is a diagnostic feature of Acute Respiratory Distress Syndrome (ARDS).
-- **Oxygenation Index (OI):** OI incorporates the airway pressure required to maintain oxygenation, calculated as: `(Mean Airway Pressure × FiO2 × 100) / PaO2`. It is a highly robust physiological index where values > 16 indicate severe pediatric ARDS and significant hypoxemic respiratory failure.
-- **Oxygen Saturation Index (OSI):** When an arterial sample for PaO2 is unavailable, OSI is utilized as a reliable non-invasive surrogate, calculated as: `(Mean Airway Pressure × FiO2 × 100) / SpO2`. An OSI > 12.3 is diagnostic of severe respiratory failure and ARDS.
+- **Alveolar-arterial (A-a) PO2 Gradient:** This physiological [[Statistics/Index\|index]] measures the difference between alveolar and arterial oxygen tensions. It is calculated to differentiate the causes of hypoxemia. An elevated gradient (>10-15 mm Hg in room air) diagnoses intrinsic lung disease, V/Q mismatch, or shunting, while a normal gradient in a hypoxemic patient points to central alveolar hypoventilation.
+- **PaO2/FiO2 (P:F) Ratio:** This ratio quantifies the severity of hypoxemia regardless of the administered oxygen concentration. A P:F ratio < 300 indicates acute lung injury, and a ratio < 200 mm Hg is a diagnostic feature of Acute [[Neonatalogy/Respiratory Distress Syndrome\|Respiratory Distress Syndrome]] (ARDS).
+- **[[Emergencies/Oxygenation Index (OI)\|Oxygenation Index (OI)]]:** OI incorporates the airway pressure required to maintain oxygenation, calculated as: `(Mean Airway Pressure × FiO2 × 100) / PaO2`. It is a highly robust physiological [[Statistics/Index\|index]] where values > 16 indicate severe pediatric ARDS and significant hypoxemic respiratory failure.
+- **Oxygen Saturation [[Statistics/Index\|Index]] (OSI):** When an arterial sample for PaO2 is unavailable, OSI is utilized as a reliable non-invasive surrogate, calculated as: `(Mean Airway Pressure × FiO2 × 100) / SpO2`. An OSI > 12.3 is diagnostic of severe respiratory failure and ARDS.

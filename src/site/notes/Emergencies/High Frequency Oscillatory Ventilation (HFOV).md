@@ -19,7 +19,7 @@
 - Because of this squared relationship, even a small change in tidal volume during high frequency ventilation may lead to significant changes in minute ventilation.
 - The optimal frequency on HFOV is often described as the corner frequency ($Fc$), at which optimal gas exchange occurs in combination with the least injurious pressures.
 - Corner frequency is defined by the equation $Fc = 1/(2\pi RC)$, where $R$ is resistance and $C$ is compliance.
-- The corner frequency is altered by the underlying lung diseases, notably increasing in lung pathologies with short time constants and low compliance, such as Pediatric Acute Respiratory Distress Syndrome (PARDS).
+- The corner frequency is altered by the underlying lung diseases, notably increasing in lung pathologies with short time constants and low compliance, such as Pediatric Acute [[Neonatalogy/Respiratory Distress Syndrome\|Respiratory Distress Syndrome]] ([[Emergencies/PARDS\|PARDS]]).
 - During HFOV, the oscillations are produced by a piston or micro-processor flow controller at a selected rate and displacement.
 - A continuous bias flow of oxygenated, humidified gas is passed in front of an oscillating membrane, which actively pushes and pulls the gas into and out of the patient.
 - This active expiration is an attribute entirely unique to HFOV among high-frequency modes.
@@ -33,14 +33,14 @@
 
 ### Indications for HFOV
 
-- HFOV is primarily indicated as "rescue therapy" in cases of refractory hypercarbia with hypoxemic respiratory failure or severe PARDS.
+- HFOV is primarily indicated as "rescue therapy" in cases of refractory hypercarbia with hypoxemic respiratory failure or severe [[Emergencies/PARDS\|PARDS]].
 - It is considered when there are high or injurious conventional ventilator setting requirements, specifically when FiO_2 > 60% and Peak Inspiratory Pressures (PIP) $> 30\ cm\ H_2O$.
 - It serves as a "salvage therapy" in refractory hypoxemic respiratory failure where Extracorporeal Membrane Oxygenation (ECMO) is not available.
 - HFOV is also indicated in the management of airleak syndromes.
 - It may be considered in patients with known pulmonary hypertension, severe right ventricular dysfunction, or as a bridge to ECMO.
 - HFOV has been utilized for neonates and infants with respiratory distress following congenital cardiac surgery, where it demonstrated shorter durations of mechanical ventilation and ICU stay compared to CMV.
 - Current guidelines do not recommend the routine use of HFOV as an initial strategy for ARDS, advocating for its use solely as a rescue mode when conventional ventilation fails.
-- HFOV should be considered in children with moderate-to-severe PARDS in whom plateau airway pressures exceed $28\ cm\ H_2O$ in the absence of clinical evidence of reduced chest wall compliance.
+- HFOV should be considered in children with moderate-to-severe [[Emergencies/PARDS\|PARDS]] in whom plateau airway pressures exceed $28\ cm\ H_2O$ in the absence of clinical evidence of reduced chest wall compliance.
 
 ### Preparation Before Starting HFOV
 
@@ -55,7 +55,7 @@
 ### Initial Settings and Goals of Ventilation
 
 - Most Pediatric Intensive Care Units use SensorMedics ventilators, deploying the 3100A model for patients less than 35 kg and the 3100B model for patients weighing more than 35 kg.
-- Patients are usually initially started on conventional ventilation according to lung-protective goals (arterial $pH \ge 7.25$, $SpO_2 \sim 88 - 92\%$, and $PaO_2 \sim 60\ mm\ Hg$) before deploying HFOV when the Oxygenation Index (OI) is >15 despite high levels of PEEP.
+- Patients are usually initially started on conventional ventilation according to lung-protective goals (arterial $pH \ge 7.25$, $SpO_2 \sim 88 - 92\%$, and $PaO_2 \sim 60\ mm\ Hg$) before deploying HFOV when the [[Emergencies/Oxygenation Index (OI)\|Oxygenation Index (OI)]] is >15 despite high levels of PEEP.
 - The $FiO_2$ is usually set at 100% (1.0) at the beginning of HFOV and is subsequently weaned based on oxygenation, with an attempt to decrease $FiO_2 < 60\%$.
 - The mPaw is typically set at 5-8 cm $H_2O$ above the last mPaw on CMV for a high volume strategy.
 - If starting HFOV immediately without prior CMV, the clinician should use an mPaw $\approx 8-10\ cm\ H_2O$ in neonates and $15-18\ cm\ H_2O$ in infants/children.
@@ -107,17 +107,17 @@
 
 ### Monitoring, Troubleshooting, and Complications
 
-- Nursing care for a patient on HFOV can be challenging; at least two nursing staff must be involved during position changes and in-line suctioning due to the high risk of derecruitment or pneumothorax.
-- Proper documentation of the "chest wiggle factor" is paramount to early detection of complications such as an obstructed tube, one-sided airleak, or pneumothorax.
-- A $PaCO_2 < 35$ mm Hg strongly correlates with an increased risk of pneumothorax.
+- Nursing care for a patient on HFOV can be challenging; at least two nursing staff must be involved during position changes and in-line suctioning due to the high risk of derecruitment or [[Respiratory/Pneumothorax\|pneumothorax]].
+- Proper documentation of the "chest wiggle factor" is paramount to early detection of complications such as an obstructed tube, one-sided airleak, or [[Respiratory/Pneumothorax\|pneumothorax]].
+- A $PaCO_2 < 35$ mm Hg strongly correlates with an increased risk of [[Respiratory/Pneumothorax\|pneumothorax]].
 - To minimize the risk of volutrauma, it is critical to use the least amount of Tidal Volume (Power or Amplitude) possible to achieve ventilation.
-- Most HFOV machines have predefined audible and visual alarm systems, but these have limitations in warning of difficult conditions such as a tension pneumothorax or tracheal tube obstruction.
+- Most HFOV machines have predefined audible and visual alarm systems, but these have limitations in warning of difficult conditions such as a tension [[Respiratory/Pneumothorax\|pneumothorax]] or tracheal tube obstruction.
 
 |Complication|Troubleshooting Strategy|
 |:--|:--|
 |**Hyperinflation or Barotrauma**|Decrease the mPaw.|
 |**Secretions**|Increase the frequency of suctioning, check humidification, and evaluate for Ventilator-Associated Pneumonia (VAP) if associated with fever, worsening infiltrates, and oxygenation.|
-|**Hypotension**|Decrease the mPaw, and rule out other causes such as pneumothorax, excessive sedation/analgesia, new-onset sepsis, or fluid restriction.|
+|**Hypotension**|Decrease the mPaw, and rule out other causes such as [[Respiratory/Pneumothorax\|pneumothorax]], excessive sedation/analgesia, new-onset sepsis, or fluid restriction.|
 
 ### Weaning from HFOV
 
@@ -130,10 +130,10 @@
 ### Clinical Evidence and Trials
 
 - In the neonatal population, a systematic review and meta-analysis summarizing patient data from 10 randomized controlled trials failed to reveal any mortality benefit or decrease in the incidence of Bronchopulmonary Dysplasia (BPD).
-- However, compared with conventional ventilation, neonatal HFOV use resulted in a reduction in the need for surgical closure of patent ductus arteriosus and a reduction in the risk of retinopathy of prematurity stage 2 or more.
+- However, compared with conventional ventilation, neonatal HFOV use resulted in a reduction in the need for surgical closure of patent ductus arteriosus and a reduction in the risk of [[Neonatalogy/Retinopathy of prematurity\|retinopathy of prematurity]] stage 2 or more.
 - A Cochrane review of elective HFOV comprising 19 studies concluded that HFOV compared to CMV revealed no mortality benefit at 28 to 30 days of age or at approximately term equivalent age.
 - In adults, the OSCAR study showed similar all-cause 30-day mortality in the HFOV (41.7%) and CMV (41.1%) groups, but noted a higher use of sedatives and muscle relaxants in the HFOV group.
 - The adult OSCILLATE study was stopped early because it showed a significantly higher mortality in the HFOV group (47%) compared to the controlled ventilation group (35%), alongside a greater requirement for inotropic and vasopressor support.
 - In pediatrics, the theoretical advantages of HFOV have been challenged as evidence shows it may not entirely protect from volutrauma and atelectotrauma, and the high mean airway pressures may contribute to barotrauma.
-- The Prone and Oscillation Pediatric Clinical Trial (PROSpect) is a randomized controlled trial currently enrolling patients with moderate-to-severe PARDS ($OI > 12$) to determine whether prone versus supine positioning and HFOV versus CMV will result in an improvement of ventilator-free days.
+- The Prone and Oscillation Pediatric Clinical Trial (PROSpect) is a randomized controlled trial currently enrolling patients with moderate-to-severe [[Emergencies/PARDS\|PARDS]] ($OI > 12$) to determine whether prone versus supine positioning and HFOV versus CMV will result in an improvement of ventilator-free days.
 - Despite the lack of apparent widespread mortality benefit in most trials, HFOV remains a critical rescue mode when conventional ventilation has failed, or as the primary ventilation mode of choice as a lung protective strategy in units that strictly protocolize its application.

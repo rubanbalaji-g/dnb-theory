@@ -4,7 +4,7 @@
 
 ### Definition and Concept
 
-- A confidence interval (CI) is an estimated range of probable values, calculated from sample data, within which we expect to find the true but unknown population parameter.
+- A [[Statistics/Confidence Interval\|confidence interval]] (CI) is an estimated range of probable values, calculated from sample data, within which we expect to find the true but unknown population parameter.
 - It represents our uncertainty regarding the exact true population value and provides a range that gives a specific level of confidence.
 - The interval is composed of two boundaries: a lower confidence limit and an upper confidence limit.
 - The mathematical calculation of a CI relies heavily on the Standard Error (SE).
@@ -13,7 +13,7 @@
 ### Key Characteristics
 
 - **Interpretation:** The scientifically precise interpretation of a 95% CI states that if an experiment is repeated an infinite number of times under the same conditions, 95% of all constructed confidence intervals will contain the true population mean.
-- **Effect of Sample Size:** The width of the CI is directly influenced by the sample size; taking a larger sample size reduces the standard error, which mathematically results in a narrower and more precise confidence interval.
+- **Effect of Sample Size:** The width of the CI is directly influenced by the sample size; taking a larger sample size reduces the standard error, which mathematically results in a narrower and more precise [[Statistics/Confidence Interval\|confidence interval]].
 - **Effect of Confidence Level:** Adjusting the desired confidence level alters the interval's width; for example, a 90% CI will be narrower than a 95% CI because it allows for a larger margin of error (10% versus 5%).
 
 ### Clinical Application and Interpretation

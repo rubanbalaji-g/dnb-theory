@@ -22,10 +22,10 @@ Disease progression involves three distinct phases:
 
 |Category|Specific Agents/Causes|
 |:--|:--|
-|**Viral (Most Common)**|Coxsackieviruses (A/B), Echovirus, Adenovirus, Parvovirus B19, Epstein-Barr virus (EBV), Cytomegalovirus (CMV), Influenza A/B, Human herpes virus-6 (HHV-6), SARS-CoV-2 (COVID-19).|
-|**Vaccine-Associated**|mRNA COVID-19 vaccination, Smallpox vaccine.|
-|**Bacterial/Other Infectious**|Diphtheria (toxic myocarditis with circulatory collapse), Beta-hemolytic streptococcus (Rheumatic fever), _Borrelia burgdorferi_ (Lyme disease), _Trypanosoma cruzi_ (Chagas disease), Fungal infections.|
-|**Immune/Autoimmune**|Kawasaki disease, Systemic Lupus Erythematosus (SLE), Rheumatoid Arthritis, Churg-Strauss syndrome, Hypereosinophilic syndrome, Giant cell myocarditis.|
+|**Viral (Most Common)**|Coxsackieviruses (A/B), Echovirus, Adenovirus, Parvovirus B19, Epstein-Barr virus (EBV), Cytomegalovirus (CMV), Influenza A/B, Human herpes virus-6 (HHV-6), SARS-CoV-2 ([[Infectious Diseases/COVID-19\|COVID-19]]).|
+|**Vaccine-Associated**|mRNA [[Infectious Diseases/COVID-19\|COVID-19]] vaccination, Smallpox vaccine.|
+|**Bacterial/Other Infectious**|[[Infectious Diseases/Diphtheria\|Diphtheria]] (toxic myocarditis with circulatory collapse), Beta-hemolytic streptococcus (Rheumatic fever), _Borrelia burgdorferi_ (Lyme disease), _Trypanosoma cruzi_ (Chagas disease), Fungal infections.|
+|**Immune/Autoimmune**|[[Rheumatology/Kawasaki Disease\|Kawasaki disease]], Systemic Lupus Erythematosus (SLE), Rheumatoid Arthritis, Churg-Strauss syndrome, Hypereosinophilic syndrome, Giant cell myocarditis.|
 |**Toxic/Drug-Induced**|Anthracyclines, Immune checkpoint inhibitors, Cocaine, Heavy metals (copper, iron), Venoms.|
 |**Genetic Predisposition**|12% of affected children carry pathogenic autosomal recessive variants in cardiac genes (BAG3, DSP, LMNA, MYH7, TTN), predisposing vulnerable myocardium to inflammation.|
 
@@ -44,7 +44,7 @@ Presentation is highly heterogeneous and strongly age-dependent.
 - **Cardiac Biomarkers:** Troponin T/I frequently elevated. Indicates myocardial injury/inflammation. Low sensitivity (71%) and specificity (86%) for pediatric myocarditis diagnosis. Poor prognostic correlation with LV function.
 - **Heart Failure Markers:** BNP/NT-proBNP useful to assess ventricular dysfunction severity and predict clinical course.
 - **Viral Testing:** Viral genome detection via Polymerase Chain Reaction (PCR) (blood, tracheal secretions, stool) preferred. Serology obsolete.
-### Electrocardiogram (ECG)
+### Electrocardiogram ([[Misc/ECG\|ECG]])
 - Abnormal in 93% of cases. Highly nonspecific.
 - Sinus tachycardia (46%) out of proportion to fever/pain.
 - Bradycardia with AV block (22%), Right bundle branch block.
@@ -76,9 +76,9 @@ Presentation is highly heterogeneous and strongly age-dependent.
 - Anomalous Left Coronary Artery from Pulmonary Artery (ALCAPA).
 - Idiopathic Dilated Cardiomyopathy (DCM).
 - Carnitine deficiency / Inborn errors of metabolism.
-- Kawasaki disease.
+- [[Rheumatology/Kawasaki Disease\|Kawasaki disease]].
 - Endocardial Fibroelastosis (EFE).
-- Acute pericarditis / Myopericarditis.
+- Acute [[Cardiology/Pericarditis\|pericarditis]] / Myopericarditis.
 
 ## Management
 
@@ -99,7 +99,7 @@ No specific medical therapy exists; primary focus is supportive and symptomatic 
 - Clearance criteria to resume sports (minimum 3–6 months post-illness):
     - Normal ventricular systolic function.
     - Normalization of serum markers (injury, inflammation, heart failure).
-    - Absence of clinically relevant arrhythmias on Holter monitor and graded exercise ECG.
+    - Absence of clinically relevant arrhythmias on Holter monitor and graded exercise [[Misc/ECG\|ECG]].
     - Absence of active inflammation on CMR.
 
 ## Prognosis & Follow-up
@@ -110,4 +110,4 @@ No specific medical therapy exists; primary focus is supportive and symptomatic 
 	- age <2 years, 
 	- LVEF <30% at presentation, 
 	- presence of extensive septal LGE on CMR.
-- COVID-19 mRNA vaccine-associated myocarditis demonstrates excellent prognosis with full recovery typically noted by 90 days. Follow-up echocardiography required.
+- [[Infectious Diseases/COVID-19\|COVID-19]] mRNA vaccine-associated myocarditis demonstrates excellent prognosis with full recovery typically noted by 90 days. Follow-up echocardiography required.

@@ -4,14 +4,14 @@
 
 ## Introduction and Etiology
 
-- Hypoplastic left heart syndrome (HLHS) represents a spectrum of congenital heart anomalies characterized by severe underdevelopment of the left side of the heart, rendering the left ventricle incapable of supporting the systemic circulation.
+- [[Cardiology/Hypoplastic left heart syndrome\|Hypoplastic left heart syndrome]] (HLHS) represents a spectrum of congenital heart anomalies characterized by severe underdevelopment of the left side of the heart, rendering the left ventricle incapable of supporting the systemic circulation.
 - HLHS accounts for 2% to 3% of all congenital heart defects, with an estimated incidence of 0.2 to 0.26 per 1000 live births and a male-to-female predominance of 1.5:1.
 - Anatomical sub-classifications are based on the status of the mitral and aortic valves: mitral atresia with aortic atresia (MA-AA), mitral stenosis with aortic atresia (MS-AA), and mitral stenosis with aortic stenosis (MS-AS).
 - The etiology is multifactorial, strongly driven by the "no flow–no grow" hypothesis, wherein decreased fetal blood flow through the left heart (e.g., due to severe aortic stenosis) stunts left ventricular development.
 - Other contributing mechanisms include intrinsic myocardial cell defects and genetic mutations involving genes such as GJA1, NKX2-5, NOTCH1, and MYH6.
-- HLHS is associated with genetic anomalies in up to 15% of cases, including Turner syndrome, Trisomy 13, 18, and 21, Holt-Oram syndrome, and Jacobsen syndrome.
+- HLHS is associated with genetic anomalies in up to 15% of cases, including [[Genetics/Turner Syndrome\|Turner syndrome]], Trisomy 13, 18, and 21, Holt-Oram syndrome, and Jacobsen syndrome.
 
-## Pathophysiology and Fetal Circulation
+## Pathophysiology and [[Neonatalogy/Fetal circulation\|Fetal Circulation]]
 
 - Survival depends entirely on the morphological right ventricle maintaining both the pulmonary and systemic circulations.
 - Oxygenated pulmonary venous blood returning to the left atrium must cross the atrial septum via a patent foramen ovale or an atrial septal defect into the right atrium, where it undergoes complete mixing with systemic venous blood.
@@ -29,10 +29,10 @@
 
 |Modality|Specific Findings|
 |:--|:--|
-|**Electrocardiogram (ECG)**|Initially shows the normal neonatal pattern of right ventricular dominance; subsequently, right ventricular hypertrophy becomes prominent with reduced left ventricular forces, right axis deviation, and tall P waves indicating right atrial enlargement.|
+|**Electrocardiogram ([[Misc/ECG\|ECG]])**|Initially shows the normal neonatal pattern of right ventricular dominance; subsequently, right ventricular hypertrophy becomes prominent with reduced left ventricular forces, right axis deviation, and tall P waves indicating right atrial enlargement.|
 |**Chest Radiograph (CXR)**|Heart size is variable initially but rapidly progresses to cardiomegaly; pulmonary vascularity is increased; in patients with a restrictive atrial septum, severe bilateral infiltrates and pulmonary edema are prominent.|
 |**Echocardiography**|The definitive diagnostic tool demonstrating a hypoplastic or atretic mitral valve, a variably miniaturized or slit-like left ventricle, an atretic or severely hypoplastic aortic root, and enlargement of the right atrium and right ventricle. Echo-bright endocardium suggests endocardial fibroelastosis. Doppler confirms retrograde flow in the transverse aortic arch and left-to-right shunting across the atrial septum.|
-|**Cardiac Catheterization**|Rarely required for primary diagnosis; however, angiography will define the hypoplastic ascending aorta and right ventricular-dependent coronary circulation. Therapeutically utilized for emergent balloon atrial septostomy or stent placement.|
+|**[[Cardiology/Cardiac Catheterization\|Cardiac Catheterization]]**|Rarely required for primary diagnosis; however, angiography will define the hypoplastic ascending aorta and right ventricular-dependent coronary circulation. Therapeutically utilized for emergent balloon atrial septostomy or stent placement.|
 
 ## Management
 

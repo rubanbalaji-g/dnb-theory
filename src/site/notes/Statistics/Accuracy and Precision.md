@@ -22,10 +22,10 @@
 - As the sample size expands to more closely match the true population size, sample means cluster much more tightly around the population mean, yielding a highly precise estimate.
 - When calculating confidence intervals, a wide interval unequivocally indicates that the estimate is not precise, whereas a narrow interval indicates a highly precise estimate.
 
-### The Relationship Between Accuracy and Precision
+### The Relationship Between [[Statistics/Accuracy and Precision\|Accuracy and Precision]]
 
-- Accuracy and precision describe two entirely different dimensions of measurement quality, and one does not guarantee the other.
-- An estimate can be highly precise—perhaps having a very narrow confidence interval or being quoted to a large number of decimal places—but still be completely inaccurate if it is systematically biased away from the true value.
+- [[Statistics/Accuracy and Precision\|Accuracy and precision]] describe two entirely different dimensions of measurement quality, and one does not guarantee the other.
+- An estimate can be highly precise—perhaps having a very narrow [[Statistics/Confidence Interval\|confidence interval]] or being quoted to a large number of decimal places—but still be completely inaccurate if it is systematically biased away from the true value.
 - Conversely, a set of measurements can be accurate (centred symmetrically around the true target value) but remain imprecise if there is a wide, random scatter of data points.
 - The Mean Squared Error (MSE) is a statistical metric specifically utilized because it simultaneously reflects both the bias (lack of accuracy) and the precision (variance) of a parameter estimator.
 
@@ -36,11 +36,11 @@
 |**Primary Definition**|The degree to which an estimate or measurement conforms to the true, recognized standard value.|The degree of spread or consistency of repeated estimates or measurements.|
 |**Statistical Measure**|Inversely related to Bias / Systematic Error.|Measured by the Standard Error and Variance.|
 |**Effect of Sample Size**|Unaffected by sample size; increasing sample size will not fix systematic inaccuracies.|Highly dependent on sample size; increasing sample size directly increases precision.|
-|**Interval Characteristic**|Determines if the confidence interval actually captures the true population parameter.|Determines the exact width (narrowness) of the confidence interval.|
+|**Interval Characteristic**|Determines if the [[Statistics/Confidence Interval\|confidence interval]] actually captures the true population parameter.|Determines the exact width (narrowness) of the [[Statistics/Confidence Interval\|confidence interval]].|
 |**Clinical Analogy**|Hitting the exact center of a target or bullseye.|Hitting the exact same spot on the target repeatedly, regardless of where that spot is.|
 
 ### Clinical and Laboratory Application
 
 - In clinical laboratories and medical research, rigorous quality control procedures must be designed and implemented to ensure that both the precision and the accuracy of diagnostic laboratory tests are maintained within acceptable limits.
 - A procedure known as "calibration" is frequently used when a cheap and easy-to-apply measurement method is known to be imprecise and subject to bias (inaccurate).
-- By comparing the cheap method across a range of concentrations against a well-established, highly accurate reference method, a calibration curve can be constructed to read off accurate estimates, thereby correcting the inherent lack of accuracy and precision in the routine test.
+- By comparing the cheap method across a range of concentrations against a well-established, highly accurate reference method, a calibration curve can be constructed to read off accurate estimates, thereby correcting the inherent lack of [[Statistics/Accuracy and Precision\|accuracy and precision]] in the routine test.

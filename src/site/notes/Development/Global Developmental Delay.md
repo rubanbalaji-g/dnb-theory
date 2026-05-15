@@ -4,7 +4,7 @@
 
 ## Definition and Epidemiology
 
-- Global developmental delay is defined as a significant delay in acquiring milestones in two or more of the following domains: gross and fine motor, speech and language, cognition, socio-personal, and activities of daily living.
+- [[Development/Global Developmental Delay\|Global developmental delay]] is defined as a significant delay in acquiring milestones in two or more of the following domains: gross and fine motor, speech and language, cognition, socio-personal, and activities of daily living.
 - Above 5 years of age, the term intellectual disability (ID) replaces the term mental retardation.
 - The diagnosis of ID requires significant impairment in general intellectual function (reasoning, memory, learning, problem-solving), typically indicated by an intelligence quotient (IQ) score approximately 2 standard deviations below the mean (<70 or 75).
 - The definition also requires significant impairment in adaptive behavior, emphasizing deficits in conceptual, social, and practical skills that impact daily functioning.
@@ -21,7 +21,7 @@
 |Period|Etiological Factors|
 |:--|:--|
 |**Antenatal**|Genetic syndromes (Fragile X, Rett syndrome, Prader-Willi), Chromosomal disorders (Down syndrome, Klinefelter syndrome, 1p36 deletion), Cortical malformations (lissencephaly), Intrauterine infections (syphilis, toxoplasmosis, rubella, cytomegalovirus, Zika virus), Teratogen exposure (fetal alcohol syndrome), Inborn errors of metabolism.|
-|**Perinatal & Neonatal**|Hypoxic ischemic encephalopathy, Kernicterus, Hypoglycemic brain injury, Hypothyroidism, Neonatal meningitis or encephalitis, Intraventricular hemorrhage, Periventricular leukomalacia.|
+|**Perinatal & Neonatal**|Hypoxic ischemic encephalopathy, Kernicterus, Hypoglycemic brain injury, Hypothyroidism, Neonatal [[Neurology/Meningitis\|meningitis]] or encephalitis, [[Neonatalogy/Intraventricular hemorrhage\|Intraventricular hemorrhage]], Periventricular leukomalacia.|
 |**Postnatal**|Deficiency of vitamin B12, iodine, or B1; Toxins (lead exposure); Traumatic head injury; Postnatal central nervous system infections; Severe nutritional deficiencies.|
 
 ## Clinical Features and Red Flags
@@ -31,7 +31,7 @@
 
 |Age Group|Common Presentations of Intellectual Disability|
 |:--|:--|
-|**Newborn**|Dysmorphic syndromes, multiple congenital anomalies, microcephaly, major organ system dysfunction (e.g., feeding, breathing).|
+|**Newborn**|Dysmorphic syndromes, multiple congenital anomalies, [[Neurology/Microcephaly\|microcephaly]], major organ system dysfunction (e.g., feeding, breathing).|
 |**Early infancy (2-4 months)**|Failure to interact with the environment, concerns about vision and hearing impairments, unusual muscle tone (hypotonia or hypertonia).|
 |**Later infancy (6-18 months)**|Gross motor delay (lack of sitting, crawling, or walking).|
 |**Toddlers (2-3 years)**|Language delays or significant communication difficulties.|
@@ -45,28 +45,28 @@
 ## Differential Diagnosis
 
 - **Delayed Maturation ("Slow Starters"):** An occasional child is delayed in multiple fields in the first weeks but subsequently catches up to become intellectually normal; diagnosing ID requires caution if the head circumference is normal.
-- **Cerebral Palsy:** Cerebral palsy (CP) can mimic ID due to severe mechanical and motor difficulties; notably, a child with the athetoid form of CP may have a normal intelligence level despite profound physical impairments.
+- **[[Neurology/Cerebral Palsy\|Cerebral Palsy]]:** [[Neurology/Cerebral Palsy\|Cerebral palsy]] (CP) can mimic ID due to severe mechanical and motor difficulties; notably, a child with the athetoid form of CP may have a normal intelligence level despite profound physical impairments.
 - **Neuromuscular Diseases:** Conditions like Duchenne muscular dystrophy or severe hypotonia can cause failure to achieve motor milestones, confusing the diagnosis.
 - **Sensory Defects:** Unrecognized visual impairments or severe deafness may cause significant delays in social smiling, eye following, and language, leading to an erroneous diagnosis of ID.
 - **Psychosocial Adversity and Emotional Deprivation:** Severe neglect, abuse, or prolonged institutional care can cause poor performance on developmental tests, simulating ID, which may improve upon environmental enrichment.
-- **Autism Spectrum Disorder (ASD):** While frequently comorbid, isolated ASD features a discrepancy where social communication and adaptive skills are far more impaired than nonverbal reasoning and cognitive skills.
+- **[[Development/Autism Spectrum Disorder\|Autism Spectrum Disorder]] ([[Cardiology/ASD\|ASD]]):** While frequently comorbid, isolated [[Cardiology/ASD\|ASD]] features a discrepancy where social communication and adaptive skills are far more impaired than nonverbal reasoning and cognitive skills.
 - **Specific Learning Disabilities:** Academic challenges that are isolated to reading (dyslexia), writing (dysgraphia), or mathematics (dyscalculia) in the presence of preserved general cognition.
 
 ## Associated Conditions and Comorbidities
 
 |Category|Specific Comorbid Conditions|
 |:--|:--|
-|**Medical & Physical**|Seizures and epilepsy (high frequency in severe ID), cerebral palsy, endocrine abnormalities (e.g., hypothyroidism, short stature), gastrointestinal issues (constipation, reflux, dysphagia), dental caries, obesity, sleep disorders (obstructive sleep apnea).|
+|**Medical & Physical**|Seizures and epilepsy (high frequency in severe ID), [[Neurology/Cerebral Palsy\|cerebral palsy]], endocrine abnormalities (e.g., hypothyroidism, short stature), gastrointestinal issues (constipation, reflux, dysphagia), dental caries, obesity, sleep disorders ([[Respiratory/Obstructive Sleep Apnea\|obstructive sleep apnea]]).|
 |**Sensory Impairments**|Hearing loss, vision impairment (refractive errors, cataracts, strabismus).|
-|**Psychiatric & Behavioral**|Attention-deficit/hyperactivity disorder (ADHD), autism spectrum disorder, emotional disorders (anxiety, depression, posttraumatic stress disorder), obsessive-compulsive disorder, severe aggression, self-injurious behavior, movement disorders (tics, stereotypies).|
+|**Psychiatric & Behavioral**|Attention-deficit/hyperactivity disorder ([[Development/ADHD\|ADHD]]), [[Development/Autism Spectrum Disorder\|autism spectrum disorder]], emotional disorders (anxiety, depression, posttraumatic stress disorder), obsessive-compulsive disorder, severe aggression, self-injurious behavior, movement disorders (tics, stereotypies).|
 
 ## Diagnostic Evaluation
 
 - **Clinical Assessment:** A comprehensive history (including prenatal, perinatal, and postnatal events) and a three-generation pedigree to identify neurological abnormalities or consanguinity.
 - **Physical Examination:** Meticulous evaluation for minor or subtle dysmorphisms, growth parameters, neurocutaneous stigmata, organomegaly, and focal neurological signs.
 - **Sensory Screening:** Mandatory audiological and ophthalmological evaluations in all patients to rule out primary sensory deficits.
-- **Genetic Testing:** Chromosomal microarray (CMA) is recommended in all individuals with ID or GDD. Fragile X (FMR1) repeat analysis is recommended for males, and for females with a family history of ID or specific suggestive features. Exome sequencing (ES) should be considered if initial testing is nondiagnostic.
-- **Neuroimaging:** Magnetic resonance imaging (MRI) of the brain is preferred over CT and is indicated for macrocephaly, microcephaly, abnormal neurological examination findings, or a history of seizures.
+- **Genetic Testing:** Chromosomal microarray (CMA) is recommended in all individuals with ID or GDD. Fragile X (FMR1) repeat analysis is recommended for males, and for females with a family history of ID or specific suggestive features. [[Genetics/Exome Sequencing\|Exome sequencing]] (ES) should be considered if initial testing is nondiagnostic.
+- **Neuroimaging:** Magnetic resonance imaging (MRI) of the brain is preferred over CT and is indicated for macrocephaly, [[Neurology/Microcephaly\|microcephaly]], abnormal neurological examination findings, or a history of seizures.
 - **Metabolic Testing:** Pursued especially when there is unexplained GDD/ID, regression, or specific clinical clues; standard workup via the Treatable Intellectual Disability Endeavor (TIDE) protocol includes plasma amino acids, acylcarnitine profile, total homocysteine, and urine organic acids.
 - **Electroencephalogram (EEG):** Recommended only if there is a clinical history suspicious for seizures or significant language regression.
 - **Psychologic Testing:** Formal diagnosis requires individually administered tests of intelligence (e.g., Bayley Scales of Infant and Toddler Development for children under 42 months, or Wechsler Scales for older children) and standardized measures of adaptive functioning (e.g., Vineland Adaptive Behavior Scale) evaluated across multiple environments.
@@ -76,6 +76,6 @@
 - **Multidisciplinary Team:** Care requires coordination among pediatricians, neurologists, geneticists, psychologists, psychiatrists, occupational therapists, physiotherapists, speech-language pathologists, and social workers.
 - **Educational Interventions:** In the United States, the Individuals with Disabilities Education Act (IDEA) mandates an individualized family service plan (IFSP) for infants and toddlers up to 36 months in natural environments, and an individualized education program (IEP) for school-aged children.
 - **Behavioral Management:** Functional behavioral assessment should be utilized to determine the antecedents and consequences of challenging behaviors, followed by specific behavioral intervention plans and parent training.
-- **Pharmacotherapy:** No medications are currently available to improve the core cognitive deficits of ID. However, pharmacotherapy is highly effective for associated psychiatric disorders (e.g., stimulants or alpha-agonists for ADHD, antipsychotics for aggression and self-injury, and SSRIs for anxiety or depression).
+- **Pharmacotherapy:** No medications are currently available to improve the core cognitive deficits of ID. However, pharmacotherapy is highly effective for associated psychiatric disorders (e.g., stimulants or alpha-agonists for [[Development/ADHD\|ADHD]], antipsychotics for aggression and self-injury, and SSRIs for anxiety or depression).
 - **Targeted Metabolic Treatments:** Early identification of specific inborn errors of metabolism allows for treatments such as dietary modifications (e.g., for PKU), enzyme replacement therapy, or substrate reduction therapy that can significantly improve outcomes.
 - **Family Support and Transition:** Comprehensive care involves providing respite care, connecting families with community programs (e.g., Special Olympics), and advanced planning for the transition to adulthood, encompassing supported employment, guardianship, and community-integrated living arrangements.

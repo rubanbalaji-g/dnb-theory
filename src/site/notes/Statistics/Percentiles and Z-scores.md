@@ -10,7 +10,7 @@
 - It effectively divides a probability distribution, frequency distribution, or ranked dataset into 100 equal parts.
 - The 50th percentile corresponds exactly to the median, meaning half of the population values are above it and half are below it.
 - The 25th percentile is known as the first quartile (Q1), and the 75th percentile is known as the third quartile (Q3).
-- In medical practice, percentiles are commonly used to define the limits of a normal range, particularly in pediatric growth charts.
+- In medical practice, percentiles are commonly used to define the limits of a normal range, particularly in pediatric [[Development/Growth Charts\|growth charts]].
 - For example, if a child's blood pressure or weight is at the 80th percentile, it means their measurement is greater than 80% of the other recorded values in the reference population.
 - Values that fall outside the 5th and 95th percentiles (the lowest and highest 5% of the population) are frequently considered abnormal.
 

@@ -4,7 +4,7 @@
 
 ## Overview of Biomedical Study Designs
 
-- In biomedical and clinical research, study designs are broadly categorized into two main groups: observational studies and interventional (or experimental) studies.
+- In biomedical and clinical research, study designs are broadly categorized into two main groups: [[Statistics/Observational Studies\|observational studies]] and interventional (or experimental) studies.
 - In an observational study, the researcher merely observes the subjects and collects data without applying any active intervention or altering the subjects' natural environment or treatments.
 - In an interventional or experimental study, the researcher actively applies a specific intervention—such as a novel drug, a surgical technique, a medical device, or an educational program—to evaluate its safety, efficacy, and clinical outcomes,.
 
@@ -12,8 +12,8 @@
 | Study Type                | Description and Methodology                                                                                                                                          | Key Advantages                                                                                                                                         | Key Disadvantages                                                                                                                        | Measure of Association           |
 | :------------------------ | :------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :----------------------------------------------------------------------------------------------------------------------------------------------------- | :--------------------------------------------------------------------------------------------------------------------------------------- | :------------------------------- |
 | **Cross-Sectional Study** | Data are collected from a sample at a single, defined point in time (a "snapshot").                                                                                  | Quick, inexpensive, easy to perform, and has no loss to follow-up. Useful for determining the point prevalence of conditions.                          | Cannot determine a temporal sequence, making it impossible to establish causality. Not suitable for rare diseases.                       | Prevalence.                      |
-| **Case-Control Study**    | A retrospective design where patients with a disease (cases) are compared to those without the disease (controls) regarding past exposure to suspected risk factors. | Highly efficient and inexpensive for studying rare diseases or diseases with long latent periods.                                                      | Prone to recall bias and observer bias when ascertaining past exposures. Cannot yield estimates of true disease incidence or prevalence. | Odds Ratio (OR).                 |
-| **Cohort Study**          | Follows disease-free exposed and unexposed groups forward in time to observe who develops the outcome of interest. Can be prospective or retrospective.              | Establishes a clear temporal sequence, providing stronger evidence for causality. Valuable for studying rare exposures and calculating true incidence. | Expensive, time-consuming, requires a large sample size, and is highly vulnerable to attrition or loss to follow-up.                     | Relative Risk (RR) or Incidence. |
+| **Case-Control Study**    | A retrospective design where patients with a disease (cases) are compared to those without the disease (controls) regarding past exposure to suspected risk factors. | Highly efficient and inexpensive for studying rare diseases or diseases with long latent periods.                                                      | Prone to recall bias and observer bias when ascertaining past exposures. Cannot yield estimates of true disease incidence or prevalence. | [[Statistics/Odds Ratio (OR)\|Odds Ratio (OR)]].                 |
+| **Cohort Study**          | Follows disease-free exposed and unexposed groups forward in time to observe who develops the outcome of interest. Can be prospective or retrospective.              | Establishes a clear temporal sequence, providing stronger evidence for causality. Valuable for studying rare exposures and calculating true incidence. | Expensive, time-consuming, requires a large sample size, and is highly vulnerable to attrition or loss to follow-up.                     | [[Statistics/Relative Risk (RR)\|Relative Risk (RR)]] or Incidence. |
 ### Cross-Sectional Studies
 
 - A cross-sectional study involves the collection of data from a defined sample of a population at a single, specific point in time, essentially providing a snapshot of the population,.
@@ -29,7 +29,7 @@
 - Investigators look back in time to collect data on previous exposures or risk factors to determine if the history of exposure differs significantly between the cases and the controls.
 - This design is highly efficient, inexpensive, and particularly well-suited for studying rare diseases or conditions with a very long latency period where a prospective study would be impractical.
 - To minimize the effect of confounding variables (such as age, gender, or socioeconomic status), controls are often carefully matched to cases through either frequency matching (matching group proportions) or individual pairwise matching (matching one case to one or more specific controls),.
-- The primary measure of association derived from case-control studies is the Odds Ratio (OR), which estimates the odds of exposure among cases compared to controls.
+- The primary measure of association derived from case-control studies is the [[Statistics/Odds Ratio (OR)\|Odds Ratio (OR)]], which estimates the odds of exposure among cases compared to controls.
 - A major limitation is the susceptibility to recall bias (patients with the disease may remember past exposures differently than healthy controls) and difficulties in obtaining reliable historical information,.
 - **Suitable Example:** Investigating the association between high school obesity and the subsequent development of bipolar disorder. Researchers select a group of university students diagnosed with bipolar disorder (cases) and a matched group of students without the disorder (controls), then retrospectively review their high school medical records or use questionnaires to determine their past obesity status.
 
@@ -40,7 +40,7 @@
 - Cohort studies provide strong evidence for causality because they establish a clear temporal sequence, proving that the exposure preceded the disease,.
 - These studies can be _prospective_ (identifying subjects now and following them into the future) or _retrospective_ (using historical records, like employee files, to define past exposure and tracking outcomes up to the present),.
 - While highly valuable for studying rare exposures and measuring true disease incidence, cohort studies are expensive, time-consuming, and highly vulnerable to attrition bias if patients are lost to follow-up,.
-- The primary measure of association used is the Relative Risk (RR) or Risk Ratio, which compares the disease incidence in the exposed group to the unexposed group.
+- The primary measure of association used is the [[Statistics/Relative Risk (RR)\|Relative Risk (RR)]] or Risk Ratio, which compares the disease incidence in the exposed group to the unexposed group.
 - **Suitable Example:** A prospective study examining if obesity causes depression. A large sample of students, none of whom currently have depression, is selected. Their baseline BMI is measured to divide them into obese (exposed) and non-obese (unexposed) cohorts. Both cohorts are followed for 10 years to determine and compare the rate at which members of each group develop clinical depression,.
 
 ### Ecological Studies
@@ -59,7 +59,7 @@
 | **Cluster Randomized Trial** | Groups or clusters of individuals (such as families, geographical areas, or hospital wards) are randomly allocated to the intervention groups instead of randomizing individuals. Often used to avoid treatment contamination or for administrative convenience.                           |
 | **Non-inferiority Trial**    | Designed to prove that a new drug is no worse (by a pre-specified margin) than a current standard treatment.                                                                                                                                                                               |
 | **Equivalence Trial**        | Aims to determine whether one intervention is therapeutically similar (neither significantly better nor worse within a defined margin) to another existing treatment.                                                                                                                      |
-### Parallel Randomized Controlled Trials (RCT)
+### Parallel [[Statistics/Randomized Controlled Trials (RCT)\|Randomized Controlled Trials (RCT)]]
 
 - A randomized controlled trial is the gold standard of clinical research. It is an experimental study where subjects are assigned entirely by chance (random allocation) to either an intervention arm or a comparison (control) arm,.
 - The intervention group receives the new treatment, drug, or protocol, while the control group receives standard-of-care therapy, no intervention, or an inert placebo,.
@@ -85,7 +85,7 @@
 - Most importantly, it allows statisticians to assess potential "interaction effects" to determine if the efficacy of one treatment is influenced by the presence or absence of the second treatment,.
 - **Suitable Example:** A trial investigating the effects of treadmill exercise and a new medication on restoring gait in multiple sclerosis. Patients are divided into four groups: medication only, treadmill exercise only, medication plus treadmill exercise, and neither. Researchers can then evaluate if combining the drug and exercise yields a synergistic improvement in gait compared to either intervention alone,.
 
-### Cluster Randomized Trials
+### [[Statistics/Cluster Randomized Trials\|Cluster Randomized Trials]]
 
 - In a cluster randomized trial, the unit of randomization is not the individual patient, but rather an entire group, community, or "cluster" of individuals,.
 - Clusters can be entire geographical areas, specific hospital wards, schools, families, or maternity units,.

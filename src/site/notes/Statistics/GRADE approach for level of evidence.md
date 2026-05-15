@@ -28,7 +28,7 @@ The rating begins based on study design but is modified by specific criteria:
 5.  **Publication Bias:** Selective reporting of studies/outcomes.
 
 ### B. Factors that Increase Quality (Upgrading)
-*Applied primarily to observational studies:*
+*Applied primarily to [[Statistics/Observational Studies\|observational studies]]:*
 1.  **Large Magnitude of Effect:** Strong or very strong association (e.g., RR >2 or <0.5).
 2.  **Dose-Response Gradient:** Evidence of a relationship between dose/exposure and outcome.
 3.  **Confounding Factors:** When all plausible residual confounders would decrease the observed effect.
@@ -47,4 +47,4 @@ Recommendations are categorized as **Strong** or **Weak/Conditional**.
 * **Weak Recommendation:** Different choices will be appropriate for different patients; requires shared decision-making.
 
 ## 7. Importance in Pediatrics
-GRADE is essential for developing National Health Programs (e.g., WHO guidelines for IMNCI or Vitamin A supplementation) and standardized Pediatric protocols (e.g., IAP guidelines), ensuring that recommendations are based on rigorous evidence rather than just eminence-based medicine.
+GRADE is essential for developing National Health Programs (e.g., WHO guidelines for IMNCI or [[Nutrition/Vitamin A\|Vitamin A]] supplementation) and standardized Pediatric protocols (e.g., IAP guidelines), ensuring that recommendations are based on rigorous evidence rather than just eminence-based medicine.

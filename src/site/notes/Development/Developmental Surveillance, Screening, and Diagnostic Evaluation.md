@@ -43,7 +43,7 @@
 - Pediatricians cite severe time constraints (72%), lack of available treatment or referral options (45%), and inability to appropriately use screening tools (28%) as primary reasons for relying on inaccurate informal assessments.
 - Formal developmental screening and assessment training is currently lacking in standard post-graduate pediatric curricula in India, leaving pediatricians cognitively aware but lacking the necessary psychomotor and communication skills.
 - Parents' recall of developmental milestones in India is often inaccurate, and parents tend to overestimate language development while under-rating fine motor skills, making parental interview alone less reliable in LMICs due to varying literacy levels and social stigma,.
-- The Government of India launched the Rashtriya Bal Swasthya Karyakram (RBSK) in 2013, which aims to screen for 4 D’s: Defects at birth, Diseases, Deficiencies, and Developmental delays including disabilities in children from 0 to 18 years.
+- The Government of India launched the [[Social Pediatics/Rashtriya Bal Swasthya Karyakram (RBSK)\|Rashtriya Bal Swasthya Karyakram (RBSK)]] in 2013, which aims to screen for 4 D’s: Defects at birth, Diseases, Deficiencies, and Developmental delays including disabilities in children from 0 to 18 years.
 - Under RBSK, pre-school children are screened by Anganwadi workers using age-appropriate checklists in the periphery, and positive cases are referred for re-assessment by trained personnel at secondary and tertiary care levels.
 - The implementation of such national programs inevitably leads to an upsurge in pediatric consultations by concerned parents, requiring pediatricians to be equipped with appropriate tools to tackle these referrals responsibly.
 
@@ -77,7 +77,7 @@
 - The TDSC is extremely rapid (takes 5 minutes), requires minimal training, and is interpreted by drawing a vertical line at the child's chronological age; failure to achieve items to the left of the line indicates developmental delay,.
 - **Baroda Developmental Screening Test (BDST):** Developed from the Bayley Scales of Infant Development (Baroda Norms), it screens infants from 0 to 30 months across motor and cognitive domains,.
 - The BDST contains 54 items, takes approximately 10 minutes to administer directly, and reports an age equivalent and developmental quotient, demonstrating a sensitivity of 65-93% and specificity of 77.4-94.4%.
-- **INCLEN Neurodevelopmental Screening Test (NDST):** A comprehensive tool developed by Indian neurodevelopmental experts to screen for 10 specific neurodevelopmental disorders (NDDs) including Autism Spectrum Disorders, ADHD, Intellectual Disability, Cerebral Palsy, and sensory impairments.
+- **INCLEN Neurodevelopmental Screening Test (NDST):** A comprehensive tool developed by Indian neurodevelopmental experts to screen for 10 specific neurodevelopmental disorders (NDDs) including Autism Spectrum Disorders, [[Development/ADHD\|ADHD]], Intellectual Disability, [[Neurology/Cerebral Palsy\|Cerebral Palsy]], and sensory impairments.
 - The INCLEN NDST is validated for children aged 2-9 years, and positive screens are sequentially applied to Consensus Clinical Criteria algorithms for definitive diagnosis; multi-centric validation in India revealed an NDD prevalence of 7.5-18.5% using this tool.
 - **Guide for Monitoring Child Development (GMCD):** Originally developed in Turkey, this parental report-based monitoring tool takes 5-10 minutes, covers children from 0 to 3.5 years, and is currently undergoing international standardization including extensive testing in India.
 
@@ -96,19 +96,19 @@
 
 - During diagnostic evaluation, the pediatrician must differentiate between specific patterns of developmental abnormality: delay, dissociation, deviance, and regression.
 - **Developmental Delay:** Development occurs in its usual sequence but at a significantly slower rate (e.g., milestones achieved later than the normal range), resulting in a DQ below 70.
-- **Global Developmental Delay (GDD):** Significant delay (more than 2 standard deviations below the mean) in two or more developmental domains in a child under 5 years of age.
+- **[[Development/Global Developmental Delay\|Global Developmental Delay]] (GDD):** Significant delay (more than 2 standard deviations below the mean) in two or more developmental domains in a child under 5 years of age.
 - **Developmental Dissociation:** The acquisition of milestones at markedly differing rates across various domains. For example, a child with normal gross and fine motor skills but severe expressive language delay (suggesting hearing impairment or specific language disorder),,.
-- **Developmental Deviance:** The acquisition of milestones in an abnormal sequence. For example, a child with spastic diplegic cerebral palsy who stands with support (due to increased extensor tone) before learning to sit independently.
-- **Developmental Regression:** The loss of previously acquired developmental skills. This is a severe red flag indicating a possible neurodegenerative disorder, metabolic condition, severe epileptic encephalopathy (like Landau-Kleffner syndrome), or specific phenotypes of Autism Spectrum Disorder,.
+- **Developmental Deviance:** The acquisition of milestones in an abnormal sequence. For example, a child with spastic diplegic [[Neurology/Cerebral Palsy\|cerebral palsy]] who stands with support (due to increased extensor tone) before learning to sit independently.
+- **Developmental Regression:** The loss of previously acquired developmental skills. This is a severe red flag indicating a possible neurodegenerative disorder, metabolic condition, severe epileptic encephalopathy (like [[Neurology/Landau-Kleffner Syndrome\|Landau-Kleffner syndrome]]), or specific phenotypes of [[Development/Autism Spectrum Disorder\|Autism Spectrum Disorder]],.
 
 ## Medical, Audiologic, and Genetic Investigations during Evaluation
 
 - The diagnostic evaluation goes beyond psychometric testing and mandates a thorough medical, neurological, genetic, and metabolic workup based on the clinical phenotype,.
-- **Vision and Hearing:** A complete audiologic assessment and ophthalmologic evaluation are mandatory for any child with language delay or global developmental delay, as sensory impairments can perfectly mimic intellectual disability,,.
-- **Genetic Evaluation:** Chromosomal Microarray Analysis (CMA) has replaced karyotyping as the first-tier genetic test for unexplained global developmental delay, intellectual disability, and Autism Spectrum Disorder,.
+- **Vision and Hearing:** A complete audiologic assessment and ophthalmologic evaluation are mandatory for any child with language delay or [[Development/Global Developmental Delay\|global developmental delay]], as sensory impairments can perfectly mimic intellectual disability,,.
+- **Genetic Evaluation:** Chromosomal Microarray Analysis (CMA) has replaced [[Genetics/Karyotyping\|karyotyping]] as the first-tier genetic test for unexplained [[Development/Global Developmental Delay\|global developmental delay]], intellectual disability, and [[Development/Autism Spectrum Disorder\|Autism Spectrum Disorder]],.
 - Fragile X DNA testing is recommended in males with GDD/ID, and MECP2 gene sequencing should be considered in females presenting with regression and severe intellectual disability (Rett Syndrome),.
-- If microarray and Fragile X testing are non-diagnostic, Whole Exome Sequencing (WES) is increasingly used to identify monogenic etiologies, resulting in a higher diagnostic yield and cost-effectiveness.
-- **Neuroimaging:** Magnetic Resonance Imaging (MRI) of the brain is indicated if the developmental delay is accompanied by microcephaly, macrocephaly, asymmetric head shape, new focal neurologic findings, or seizures,.
+- If microarray and Fragile X testing are non-diagnostic, Whole [[Genetics/Exome Sequencing\|Exome Sequencing]] (WES) is increasingly used to identify monogenic etiologies, resulting in a higher diagnostic yield and cost-effectiveness.
+- **Neuroimaging:** Magnetic Resonance Imaging (MRI) of the brain is indicated if the developmental delay is accompanied by [[Neurology/Microcephaly\|microcephaly]], macrocephaly, asymmetric head shape, new focal neurologic findings, or seizures,.
 - **Metabolic Testing:** Serum creatine kinase (CK) and thyroid function tests are recommended for children with gross motor delay and hypotonia.
 - Comprehensive metabolic screening (plasma amino acids, urine organic acids, acylcarnitine profile) is reserved for children exhibiting developmental regression, episodic encephalopathy, ataxia, or unexplained severe hypotonia,.
 

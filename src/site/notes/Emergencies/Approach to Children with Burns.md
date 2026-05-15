@@ -209,7 +209,7 @@ B3 --> I2
 - Suspect cyanide toxicity with synthetic material combustion.
 - Administer intravenous hydroxycobalamin 70 mg/kg addressing cyanide toxicity.
 - Hydroxycobalamin binds cyanide forming stable cyanocobalamin for urinary excretion.
-- Avoid amyl nitrite and sodium nitrite strictly due to severe methemoglobinemia induction risk.
+- Avoid amyl nitrite and sodium nitrite strictly due to severe [[Hematology/Methemoglobinemia\|methemoglobinemia]] induction risk.
 ### Electrical Injuries
 - Anticipate direct contact or arcing mechanisms.
 - Characterized distinctly by specific entry and exit wounds.

@@ -4,7 +4,7 @@
 
 ## Definition & Pathophysiology
 
-- Reentrant supraventricular tachycardia (SVT) utilizing two functional pathways within atrioventricular (AV) node.
+- Reentrant [[Cardiology/Supraventricular tachycardia (SVT)\|supraventricular tachycardia (SVT)]] utilizing two functional pathways within atrioventricular (AV) node.
 - **Dual AV Nodal Physiology:** Requires electrophysiologically distinct pathways.
     - **Slow Pathway:** Short refractory period. Extends from AV node inferiorly toward coronary sinus ostium.
     - **Fast Pathway:** Longer refractory period. Located higher on atrial septum, extending laterally away from AV node.
@@ -27,7 +27,7 @@
 - **Syncope:** Occasional presentation.
 - No increased risk of sudden cardiac death (lacks manifest accessory pathway).
 
-## Electrocardiographic (ECG) Features
+## Electrocardiographic ([[Misc/ECG\|ECG]]) Features
 
 - Regular, narrow QRS complex tachycardia.
 - **Rate:** 150–250 beats/min in children and young adults.
@@ -55,7 +55,7 @@
 |Modality|Indication / Dosage|Nuances & Adverse Effects|
 |:--|:--|:--|
 |**Vagal Maneuvers**|First-line (stable)|Ice bag to face (15-30s) in infants. Valsalva, straining, head-stand in older children. Ocular pressure contraindicated. Carotid massage rarely effective.|
-|**Adenosine**|Drug of choice (stable)|Rapid IV push: 0.1 mg/kg (max 6 mg). May increase to 0.2 mg/kg (max 12 mg). Requires continuous ECG and immediate direct current (DC) cardioversion availability (risk of inducing atrial fibrillation).|
+|**Adenosine**|Drug of choice (stable)|Rapid IV push: 0.1 mg/kg (max 6 mg). May increase to 0.2 mg/kg (max 12 mg). Requires continuous [[Misc/ECG\|ECG]] and immediate direct current (DC) cardioversion availability (risk of inducing atrial fibrillation).|
 |**Calcium Channel Blockers**|Alternative (older children)|Verapamil reduces cardiac output. **Contraindicated** in infants <1 year (causes severe hypotension/cardiac arrest).|
 |**DC Cardioversion**|Hemodynamic instability|Synchronized shock: 0.5–2 J/kg.|
 |**Esophageal Pacing**|Alternative termination|Pace termination using esophageal catheter.|

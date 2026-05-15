@@ -35,11 +35,11 @@
 
 |Pressure Parameter|Definition & Physiological Role|Clinical Significance & Side Effects|
 |:--|:--|:--|
-|**Peak Inspiratory Pressure (PIP)**|* The highest pressure that occurs during the inspiratory phase, typically at the end of inspiration. * PIP = Resistance / Compliance. * It determines the delivered tidal volume (Vt) and minute ventilation, thus affecting CO2 removal.|* Higher PIP increases Mean Airway Pressure (MAP) and improves oxygenation. * Excessive PIP causes barotrauma, pneumothorax, and triggers high-pressure alarms.|
+|**Peak Inspiratory Pressure (PIP)**|* The highest pressure that occurs during the inspiratory phase, typically at the end of inspiration. * PIP = Resistance / Compliance. * It determines the delivered tidal volume (Vt) and minute ventilation, thus affecting CO2 removal.|* Higher PIP increases Mean Airway Pressure (MAP) and improves oxygenation. * Excessive PIP causes barotrauma, [[Respiratory/Pneumothorax\|pneumothorax]], and triggers high-pressure alarms.|
 |**Positive End-Expiratory Pressure (PEEP)**|* The positive airway pressure maintained at the end of expiration. * Normal physiological PEEP is ~3 cm H2O. * PEEP prevents the closure or collapse of recruited alveoli during expiration.|* It is the most effective parameter to increase oxygenation. * Increases functional residual capacity (FRC) and improves V/Q matching. * Excessive PEEP impedes venous return, decreases cardiac output, decreases cerebral perfusion, and causes gas trapping.|
-|**Mean Airway Pressure (MAP)**|* The average pressure perceived by the airways throughout the entire respiratory cycle. * Calculated as: `k (Ti x PIP) + (Te x PEEP) / (Ti + Te)` (where k is a constant based on the waveform).|* Major determinant of oxygenation. * Used to calculate the Oxygenation Index (OI): `(MAP x FiO2 x 100) / PaO2`.|
+|**Mean Airway Pressure (MAP)**|* The average pressure perceived by the airways throughout the entire respiratory cycle. * Calculated as: `k (Ti x PIP) + (Te x PEEP) / (Ti + Te)` (where k is a constant based on the waveform).|* Major determinant of oxygenation. * Used to calculate the [[Emergencies/Oxygenation Index (OI)\|Oxygenation Index (OI)]]: `(MAP x FiO2 x 100) / PaO2`.|
 |**Driving Pressure (ΔP)**|* The pressure difference driving gas into the lungs, calculated as PIP minus PEEP (ΔP = PIP - PEEP).|* Directly proportional to the tidal volume delivered in pressure-controlled modes. * Maintaining a low driving pressure is strongly associated with improved survival in ARDS.|
-|**Auto-PEEP (Intrinsic PEEP)**|* Unintentional positive pressure remaining in the alveoli at the end of expiration due to incomplete lung emptying (gas trapping).|* Severely increases the work of breathing and causes patient-ventilator asynchrony. * May cause pneumothorax or hypotension. * Counterbalanced by adding extrinsic PEEP or increasing expiratory time (Te).|
+|**Auto-PEEP (Intrinsic PEEP)**|* Unintentional positive pressure remaining in the alveoli at the end of expiration due to incomplete lung emptying (gas trapping).|* Severely increases the work of breathing and causes patient-ventilator asynchrony. * May cause [[Respiratory/Pneumothorax\|pneumothorax]] or hypotension. * Counterbalanced by adding extrinsic PEEP or increasing expiratory time (Te).|
 
 ## Modes of Mechanical Ventilation and Their Uses
 
@@ -101,10 +101,10 @@
 - **Indication Logic:** Since lung mechanics (compliance and resistance) are normal, VCV safely guarantees minute ventilation and prevents atelectasis without a high risk of barotrauma.
 - **Settings:** Tidal Volume: 6-8 ml/kg, PIP: 12-15 cm H2O, PEEP: 3-4 cm H2O, Rate: Age-appropriate normal.
 
-### 2. Acute Severe Asthma (Obstructive Airway Disease)
+### 2. Acute Severe [[Respiratory/Asthma\|Asthma]] (Obstructive Airway Disease)
 
 - **Preferred Mode:** Pressure Controlled Ventilation (PCV) is preferred.
-- **Indication Logic:** Asthma is characterized by severely high airway resistance and prolonged expiratory time constants. VCV with a constant flow can generate dangerously high peak pressures and cause barotrauma. PCV utilizes a decelerating flow pattern which better overcomes resistance and limits the absolute peak pressure.
+- **Indication Logic:** [[Respiratory/Asthma\|Asthma]] is characterized by severely high airway resistance and prolonged expiratory time constants. VCV with a constant flow can generate dangerously high peak pressures and cause barotrauma. PCV utilizes a decelerating flow pattern which better overcomes resistance and limits the absolute peak pressure.
 - **Settings:** The primary goal is to reduce work of breathing and allow permissive hypercapnia to avoid dynamic hyperinflation (auto-PEEP).
 - Tidal Volume: 5-6 ml/kg, PIP: 20-25 cm H2O, PEEP: Low (2-3 cm H2O) to match auto-PEEP and splint airways, I:E Ratio: Prolonged expiratory time (1:3 to 1:4), Rate: Low (e.g., 8-12/min in older children).
 

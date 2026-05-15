@@ -2,7 +2,7 @@
 {"dg-publish":true,"uptext":"Back to Index (🚑 Emergencies and Critical Care)","uplink":"/emergencies/emergencies-and-critical-care/","permalink":"/emergencies/capnography-et-co-2/","dgPassFrontmatter":true}
 ---
 
-## Physiological Principles of Capnography (EtCO2)
+## Physiological Principles of [[Emergencies/Capnography (EtCO2)\|Capnography (EtCO2)]]
 
 - Capnography is a continuous, non-invasive bedside monitoring modality utilized to qualitatively and quantitatively assess a patient's ventilation by measuring the end-tidal carbon dioxide (EtCO2) in exhaled breaths.
 - It provides vital real-time information regarding alveolar ventilation and is primarily indicated for critically ill patients requiring invasive mechanical ventilation.
@@ -32,8 +32,8 @@
 
 ### Dead Space and Ventilation Indices
 
-- In Pediatric Acute Respiratory Distress Syndrome (PARDS), end-tidal CO2 monitoring is recommended to calculate derived parameters that indicate the severity of the lung injury.
-- These advanced indices include the dead space to tidal volume ratio (VD/VT), the End-Tidal Alveolar Dead Space Fraction (AVDSF), and the Ventilation Index.
+- In Pediatric Acute [[Neonatalogy/Respiratory Distress Syndrome\|Respiratory Distress Syndrome]] ([[Emergencies/PARDS\|PARDS]]), end-tidal CO2 monitoring is recommended to calculate derived parameters that indicate the severity of the lung injury.
+- These advanced indices include the dead space to tidal volume ratio (VD/VT), the End-Tidal Alveolar Dead Space Fraction (AVDSF), and the Ventilation [[Statistics/Index\|Index]].
 - These parameters serve as essential bedside markers to differentiate between effective alveolar recruitment versus harmful alveolar overdistension, and higher values are directly linked to an increased mortality risk in ARDS.
 
 ### Calculation of Dead Space

@@ -86,8 +86,8 @@ _Note: Table adapted from clinical and laboratory features of 'Cold shock' and '
 ### Fluid Resuscitation Strategies
 
 - Isotonic crystalloids, such as Normal Saline (0.9% NaCl) or Ringer's Lactate, are the recommended fluids for initial resuscitation due to their rapid distribution, availability, and fewer side effects.
-- Current guidelines prefer balanced salt solutions (like Ringer's Lactate) over Normal Saline to prevent hyperchloremic acidosis and acute kidney injury, except in specific conditions like raised intracranial tension or hyponatremia.
-- The use of synthetic colloids (e.g., hydroxyethyl starch solutions) is strictly not recommended, as they increase the risk of acute kidney injury, coagulopathy, and mortality.
+- Current guidelines prefer balanced salt solutions (like Ringer's Lactate) over Normal Saline to prevent hyperchloremic acidosis and [[Nephrology/Acute Kidney Injury\|acute kidney injury]], except in specific conditions like raised intracranial tension or hyponatremia.
+- The use of synthetic colloids (e.g., hydroxyethyl starch solutions) is strictly not recommended, as they increase the risk of [[Nephrology/Acute Kidney Injury\|acute kidney injury]], coagulopathy, and mortality.
 - Fluids should be administered as rapid boluses of 10-20 ml/kg over 15-20 minutes or 5-10 minutes, but they must be immediately discontinued if clinical signs of fluid overload develop (e.g., increasing liver span, jugular venous distension, pulmonary edema).
 
 ### Vasoactive Medications

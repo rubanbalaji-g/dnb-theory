@@ -4,12 +4,12 @@
 
 ## Introduction and Indications
 
-Diagnostic cardiac catheterization utilization declined due to high-quality noninvasive imaging (Echocardiography, MRI, CT). Remains crucial for hemodynamic assessment, interventional therapy, and complex anatomic evaluation.
+Diagnostic [[Cardiology/Cardiac Catheterization\|cardiac catheterization]] utilization declined due to high-quality noninvasive imaging (Echocardiography, MRI, CT). Remains crucial for hemodynamic assessment, interventional therapy, and complex anatomic evaluation.
 
 ### Diagnostic Indications
 
 - Inconsistent or equivocal noninvasive imaging.
-- Complex congenital heart disease (CHD) evaluation (e.g., Tetralogy of Fallot with major aortopulmonary collateral arteries [MAPCAs], Pulmonary atresia with intact ventricular septum and coronary sinusoids).
+- Complex congenital heart disease (CHD) evaluation (e.g., [[Cardiology/Tetralogy of Fallot\|Tetralogy of Fallot]] with major aortopulmonary collateral arteries [MAPCAs], Pulmonary atresia with intact ventricular septum and coronary sinusoids).
 - Hemodynamic assessment (shunt quantification, pulmonary vascular resistance [PVR] calculation).
 - Between staged single-ventricle palliations (e.g., pre-Glenn or pre-Fontan evaluation).
 - Long-term surveillance post-complex repair.
@@ -19,7 +19,7 @@ Diagnostic cardiac catheterization utilization declined due to high-quality noni
 ### Interventional Indications
 
 - Preferred alternative to surgery (patent ductus arteriosus [PDA] closure, atrial septal defect [ASD] closure, balloon valvuloplasty).
-- High-risk surgical candidates (e.g., transcatheter superior sinus venosus ASD closure with pulmonary hypertension).
+- High-risk surgical candidates (e.g., transcatheter superior sinus venosus [[Cardiology/ASD\|ASD]] closure with pulmonary hypertension).
 
 ## Pre-Procedure Preparation
 
@@ -35,7 +35,7 @@ Diagnostic cardiac catheterization utilization declined due to high-quality noni
 - Goals: Reduce anxiety, promote cooperation, induce amnesia, maintain hemodynamic stability.
 - General anesthesia: Preferred in children. Facilitates procedural safety, airway control, immobility for interventions. May alter hemodynamics.
 - Local anesthesia (Lidocaine): Frequent burning sensation. Minimize discomfort with small needles (25-gauge), buffering with sodium bicarbonate, prior sedation.
-- Ketamine: Increases systemic vascular resistance (SVR). Ideal for Tetralogy of Fallot. Prevents vasodilation and hypercyanotic spells.
+- Ketamine: Increases systemic vascular resistance (SVR). Ideal for [[Cardiology/Tetralogy of Fallot\|Tetralogy of Fallot]]. Prevents vasodilation and hypercyanotic spells.
 - Propofol: Profound negative inotrope. Avoid in systolic dysfunction.
 
 ## Vascular Access Techniques
@@ -109,7 +109,7 @@ Provides structural delineation of cardiac chambers and great vessels via contra
 
 ### Balloon Atrial Septostomy (Rashkind Procedure)
 
-- Creates atrial communication in duct-dependent lesions (e.g., Transposition of Great Arteries, tricuspid atresia).
+- Creates atrial communication in duct-dependent lesions (e.g., [[Cardiology/Transposition of great arteries\|Transposition of Great Arteries]], [[Cardiology/Tricuspid Atresia\|tricuspid atresia]]).
 - Performed via femoral or umbilical vein.
 - Catheter advanced across patent foramen ovale into LA. Balloon inflated. Pulled rapidly/forcefully back to RA-IVC junction.
 - Complications: Arrhythmias, atrial free wall perforation, IVC avulsion.
@@ -149,4 +149,4 @@ Overall complication rate ~7.8% (6% minor, 1.8% major). Major complications high
 |**Cardiac Perforation**|Excessive force against wall. Common sites: Atrial appendage, RVOT, RV free wall (during biopsy).|Immediate recognition via echocardiography. Reverse anticoagulation. Pericardiocentesis. Autotransfusion via sheath side-arm.|
 |**Vascular Access Thrombosis**|Common in infants <5 kg, long sheaths, large sheaths, small femoral arteries (<3 mm).|Systemic heparinization. Doppler US evaluation. Recombinant tissue plasminogen activator (rTPA) infusion. Recanalization.|
 |**Air Embolism**|Balloon rupture, inadequate flushing, or negative intrathoracic pressure (snoring) drawing air through open catheter.|Use CO2 for balloon inflation (absorbs quickly). "Canadian technique" (water seal with saline-filled syringe) during wire removal.|
-|**Cyanosis / Hypoxia**|Hypoventilation, pneumothorax, or increased right-to-left shunting (e.g., hypercyanotic spell in TOF).|Supplemental oxygen. Identify and correct underlying etiology (e.g., fluid bolus/phenylephrine for tet spell).|
+|**Cyanosis / Hypoxia**|Hypoventilation, [[Respiratory/Pneumothorax\|pneumothorax]], or increased right-to-left shunting (e.g., hypercyanotic spell in TOF).|Supplemental oxygen. Identify and correct underlying etiology (e.g., fluid bolus/phenylephrine for tet spell).|

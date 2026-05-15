@@ -29,9 +29,9 @@ Care is provided at three distinct levels corresponding to the health infrastruc
     * Management of sepsis, neonatal jaundice, and feeding support.
     * Stabilization of sick neonates before referral to Level III.
 
-### Level III: Secondary/Tertiary Care (Special Newborn Care Unit - SNCU)
+### Level III: Secondary/Tertiary Care (Special Newborn Care Unit - [[Neonatalogy/SNCU\|SNCU]])
 * **Location:** District Hospitals (DH).
-* **Facility:** **Special Newborn Care Unit (SNCU)**.
+* **Facility:** **Special Newborn Care Unit ([[Neonatalogy/SNCU\|SNCU]])**.
 * **Requirement:** Mandatory for facilities with >3000 deliveries/year.
 * **Target Group:** Sick newborns requiring special care (excluding assisted ventilation and major surgery, per basic guidelines).
 * **Services:**
@@ -59,7 +59,7 @@ Care is provided at three distinct levels corresponding to the health infrastruc
     * **Nurses:** 1 dedicated staff nurse round-the-clock.
     * **Doctors:** Medical officer skilled in newborn care.
 
-### C. Special Newborn Care Unit (SNCU)
+### C. Special Newborn Care Unit ([[Neonatalogy/SNCU\|SNCU]])
 * **Bed Strength:** Minimum 8, Maximum 16 (based on 3 beds/1000 annual deliveries + 30% extramural buffer).
 * **Space Requirement:** **100 sq. ft. per bed** minimum.
     * *Baby Care Area:* 50 sq. ft./bed.

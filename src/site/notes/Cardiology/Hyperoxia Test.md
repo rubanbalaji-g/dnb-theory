@@ -20,15 +20,15 @@
 |$PaO_2$ Level (mm Hg)|Likely Etiology|Key Notes|
 |:--|:--|:--|
 |**> 300**|Healthy newborn|Normal response.|
-|**150 - 300**|Noncardiac etiologies (Pulmonary disease, CNS disorders, Methemoglobinemia)|Not 100% confirmative; rare cyanotic CHD cases achieve >150 mm Hg via favorable intracardiac streaming.|
+|**150 - 300**|Noncardiac etiologies (Pulmonary disease, CNS disorders, [[Hematology/Methemoglobinemia\|Methemoglobinemia]])|Not 100% confirmative; rare cyanotic CHD cases achieve >150 mm Hg via favorable intracardiac streaming.|
 |**100 - 150**|Cyanotic CHD (mixing lesions with increased pulmonary blood flow) or PPHN|-.|
 |**< 100**|Cyanotic CHD (decreased pulmonary blood flow)|Typical of severe right ventricular outflow tract obstruction.|
 
 ## Clinical Nuances & Differential Diagnosis
 
 - **Central Nervous System (CNS) Disorders:** Hypoxia reverses completely with artificial ventilation.
-- **Transposition of the Great Arteries (TGA):** Profound hypoxemia/cyanosis (saturations <70%) remains unresponsive to hyperoxia test.
-- **Management Implication:** Lack of response to hyperoxia test in suspected TGA mandates immediate prostaglandin (PGE) initiation.
+- **Transposition of the Great Arteries (TGA):** Profound hypoxemia/cyanosis (saturations <70%) remains unresponsive to [[Cardiology/Hyperoxia Test\|hyperoxia test]].
+- **Management Implication:** Lack of response to [[Cardiology/Hyperoxia Test\|hyperoxia test]] in suspected TGA mandates immediate prostaglandin (PGE) initiation.
 
 ## Related Fetal Variant: Maternal Hyperoxygenation (MH) Test
 
@@ -43,7 +43,7 @@
 - **Normal Fetal Response:** $\geq$ 10% decrease in Doppler pulsatility indices of branch pulmonary arteries.
 - **TGA Application:** Alterations in septum primum position or foramen ovale flow during MH predict postnatal need for balloon atrial septostomy (BAS).
 
-### Algorithmic Approach to the Hyperoxia Test
+### Algorithmic Approach to the [[Cardiology/Hyperoxia Test\|Hyperoxia Test]]
 
 ```mermaid
 graph TD;

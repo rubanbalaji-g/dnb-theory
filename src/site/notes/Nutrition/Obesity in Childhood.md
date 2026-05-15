@@ -29,7 +29,7 @@ Obesity is defined as an excess of body fat. Since direct measurement of body fa
 
 - **Global:** The prevalence has increased dramatically, often described as an "epidemic". In the US, prevalence increased by 300% over 40 years.
 - **India:** There is a steep rise in urban areas and among affluent families.
-    - According to **NFHS-5 (2019-21)**, [[About\|about]] **4%** of children aged 5–9 years are overweight/obese. In the 10–19 years group, the prevalence is **5%**.
+    - According to **NFHS-5 (2019-21)**, about **4%** of children aged 5–9 years are overweight/obese. In the 10–19 years group, the prevalence is **5%**.
     - **Tracking:** Obesity tracks strongly into adulthood; 50–80% of obese children become obese adults.
 
 ### 3. Etiopathogenesis

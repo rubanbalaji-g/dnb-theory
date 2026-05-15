@@ -29,7 +29,7 @@
 |**Writing and Spelling**|Making repeated spelling mistakes, untidy or illegible handwriting, and slow written output.|
 |**Preserved Strengths**|Listening comprehension is typically robust, and overall intelligence is preserved.|
 
-- Dyslexia frequently coexists with attention-deficit/hyperactivity disorder (ADHD), with a comorbidity rate ranging from 15% in nonreferred samples to 40% in referred samples.
+- Dyslexia frequently coexists with attention-deficit/hyperactivity disorder ([[Development/ADHD\|ADHD]]), with a comorbidity rate ranging from 15% in nonreferred samples to 40% in referred samples.
 
 ### Diagnosis
 

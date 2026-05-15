@@ -16,7 +16,7 @@
 - The bias similarly affects studies comparing screen-detected cases to symptomatic cases within a population where screening is offered.
 - This bias inherently arises if survival is estimated simply as the time from diagnosis to death in cancer cases detected via screening.
 
-### Comparison of Lead Time and Lead Time Bias
+### Comparison of [[Statistics/Lead Time and Lead Time Bias\|Lead Time and Lead Time Bias]]
 
 |Concept|Clinical Definition|Statistical Implication|
 |:--|:--|:--|

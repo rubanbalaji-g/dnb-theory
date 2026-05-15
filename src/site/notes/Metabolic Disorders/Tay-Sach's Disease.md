@@ -30,7 +30,7 @@
     * **Cherry-Red Spot:** Present in >90% of cases. Caused by lipid-laden whitish ganglion cells surrounding the normal red fovea centralis.
     * Optic atrophy and eventual blindness.
 * **Neurologic Progression:**
-    * **Macrocephaly:** Develops after 12-18 months due to reactive cerebral gliosis (brain overgrowth), not hydrocephalus.
+    * **Macrocephaly:** Develops after 12-18 months due to reactive cerebral gliosis (brain overgrowth), not [[Neurology/Hydrocephalus\|hydrocephalus]].
     * Spasticity, hyperreflexia, and extensor plantar responses replace initial hypotonia.
     * **Seizures:** Tonic-clonic or myoclonic, often refractory to treatment.
     * Decerebrate posturing.
@@ -54,7 +54,7 @@
     * **Respiratory:** Suctioning, chest physiotherapy for secretion management.
 * **Prevention:**
     * **Carrier Screening:** Enzyme assay or DNA testing recommended for high-risk populations (Ashkenazi Jews).
-    * **Prenatal Diagnosis:** CVS or amniocentesis for enzyme analysis.
+    * **Prenatal Diagnosis:** CVS or [[Neonatalogy/Amniocentesis\|amniocentesis]] for enzyme analysis.
 
 ## 6. PROGNOSIS
 * **Infantile Form:** Invariably fatal. Death typically occurs by **2 to 4 years** of age, usually due to bronchopneumonia.

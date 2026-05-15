@@ -52,7 +52,7 @@ The illness usually begins with a mild prodrome lasting 12 to 24 hours:
     - The vesicles on the palms and soles are firm and deep-seated.
     - Lesions on the buttocks usually present as a papular rash rather than frank vesicles.
     - The rash is usually non-pruritic (not itchy), though CVA6 infections can be itchy.
-- **Resolution:** Skin lesions resolve in [[About\|about]] 1 week (5–7 days) without scarring.
+- **Resolution:** Skin lesions resolve in about 1 week (5–7 days) without scarring.
 ### 4. Atypical HFMD (Coxsackievirus A6)
 Infection with CVA6 presents with a more severe and atypical phenotype:
 

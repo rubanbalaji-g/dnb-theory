@@ -7,7 +7,7 @@
 * **Paradigm Shift:** Moves away from "termination vs. waiting" to viewing the **"Fetus as a Patient"**.
 * **Goal:** To prevent fetal death or halt the progression of disease that would otherwise result in irreversible organ damage or severe disability.
 
-## 2. PREREQUISITES FOR FETAL THERAPY (Eurofetus Criteria)
+## 2. PREREQUISITES FOR [[Neonatalogy/Fetal Therapy\|FETAL THERAPY]] (Eurofetus Criteria)
 Before undertaking any intervention, the following must be met:
 1.  **Accurate Diagnosis:** Confirmed by Level II USG, MRI, or Karyotype/Microarray.
 2.  **Natural History:** The condition must have a known poor prognosis if left untreated.
@@ -18,16 +18,16 @@ Before undertaking any intervention, the following must be met:
 
 ---
 
-## 3. CLASSIFICATION OF FETAL THERAPY
+## 3. CLASSIFICATION OF [[Neonatalogy/Fetal Therapy\|FETAL THERAPY]]
 Therapy is broadly classified based on invasiveness:
 1.  **Medical (Transplacental):** Drugs given to mother $\rightarrow$ Placenta $\rightarrow$ Fetus.
 2.  **Minimally Invasive (Percutaneous/Fetoscopic):** Needle or endoscope guided by ultrasound.
-3.  **Open Fetal Surgery:** Maternal hysterotomy to expose the fetus.
+3.  **Open [[Neonatalogy/Fetal Surgery\|Fetal Surgery]]:** Maternal hysterotomy to expose the fetus.
 4.  **Ex-Utero Intrapartum Treatment (EXIT):** Procedures during delivery while on placental support.
 
 ---
 
-## 4. MEDICAL FETAL THERAPY (Pharmacologic)
+## 4. MEDICAL [[Neonatalogy/Fetal Therapy\|FETAL THERAPY]] (Pharmacologic)
 Non-invasive and most commonly used.
 
 ### A. Fetal Lung Maturation (Standard of Care)
@@ -37,15 +37,15 @@ Non-invasive and most commonly used.
 * **Benefit:** Improves neurodevelopmental outcomes.
 
 ### B. Fetal Arrhythmias
-* **Supraventricular Tachycardia (SVT):**
+* **[[Cardiology/Supraventricular tachycardia (SVT)\|Supraventricular Tachycardia (SVT)]]:**
     * *First Line:* **Digoxin** (Transplacental).
     * *Second Line:* Flecainide or Sotalol (if hydrops develops, as Digoxin transfer reduces in hydrops).
-* **Congenital Heart Block (Immune):**
+* **[[Cardiology/Congenital Heart Block\|Congenital Heart Block]] (Immune):**
     * *Cause:* Maternal Anti-Ro/La antibodies (SLE/Sjogren's).
     * *Therapy:* Dexamethasone (to reduce inflammation) + $\beta$-mimetics (Salbutamol) to increase heart rate.
 
 ### C. Endocrine & Metabolic Disorders
-* **Congenital Adrenal Hyperplasia (CAH):**
+* **[[Endocrinology/Congenital Adrenal Hyperplasia\|Congenital Adrenal Hyperplasia]] (CAH):**
     * *Drug:* **Dexamethasone** started <7 weeks gestation (before genital differentiation).
     * *Goal:* Suppress fetal ACTH to prevent virilization of female fetus.
 * **Fetal Hypothyroidism (Goiter):**
@@ -64,7 +64,7 @@ Performed under Ultrasound or Fetoscopic guidance.
 ### A. Ultrasound-Guided Needle Procedures
 1.  **Intrauterine Transfusion (IUT):**
     * *Indication:* Fetal Anemia (Rh Isoimmunization, Parvovirus B19).
-    * *Technique:* Cordocentesis (Umbilical vein puncture). Transfusion of O-negative packed cells.
+    * *Technique:* [[Neonatalogy/Cordocentesis\|Cordocentesis]] (Umbilical vein puncture). Transfusion of O-negative packed cells.
 2.  **Shunt Placements (Catheters):**
     * **Vesico-Amniotic Shunt:** For Lower Urinary Tract Obstruction (LUTO/PUV) to restore amniotic fluid and prevent pulmonary hypoplasia. (Trial: **PLUTO** - showed survival benefit but renal function often remains poor).
     * **Thoraco-Amniotic Shunt:** For massive pleural effusion/chylothorax causing hydrops.
@@ -86,7 +86,7 @@ Performed under Ultrasound or Fetoscopic guidance.
 
 ---
 
-## 6. OPEN FETAL SURGERY
+## 6. OPEN [[Neonatalogy/Fetal Surgery\|FETAL SURGERY]]
 Involves maternal laparotomy and hysterotomy. Highest risk to mother (uterine rupture).
 
 ### Myelomeningocele (MMC) Repair
@@ -111,10 +111,10 @@ Involves maternal laparotomy and hysterotomy. Highest risk to mother (uterine ru
 
 ---
 
-## 8. FUTURE DIRECTIONS: GENE & STEM CELL THERAPY
+## 8. FUTURE DIRECTIONS: GENE & [[Infectious Diseases/Stem Cell Therapy\|STEM CELL THERAPY]]
 * **In-Utero Stem Cell Transplantation (IUSCT):**
     * *Rationale:* Fetal immune tolerance allows engraftment without rejection.
-    * *Potential:* Osteogenesis Imperfecta, Thalassemia, Sickle Cell.
+    * *Potential:* Osteogenesis Imperfecta, [[Hematology/Thalassemia\|Thalassemia]], Sickle Cell.
 * **Gene Editing (CRISPR-Cas9):**
     * Experimental correction of monogenic disorders (e.g., Surfactant Protein B deficiency, SMA) in animal models.
 

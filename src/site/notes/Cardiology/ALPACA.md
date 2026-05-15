@@ -32,7 +32,7 @@
 
 ## Diagnostic Evaluation
 
-### Electrocardiogram (ECG)
+### Electrocardiogram ([[Misc/ECG\|ECG]])
 
 - Anterolateral myocardial infarction pattern.
 - Deep, wide Q waves and inverted T waves in leads I, aVL, V5, V6.

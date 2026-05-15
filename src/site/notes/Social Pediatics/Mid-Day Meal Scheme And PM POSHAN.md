@@ -30,7 +30,7 @@ The scheme is designed to provide roughly **one-third of the daily energy requir
 
 ## Key Features Of PM POSHAN (Updates Over MDM)
 * **Tithi Bhojan:** A community participation concept where people provide special food to children on occasions like festivals, birthdays, or anniversaries.
-* **School Nutrition Gardens:** Encouraging schools to grow their own vegetables and fruits (Kitchen Gardens) to provide fresh produce and educate children [[About\|about]] nature and nutrition.
+* **School Nutrition Gardens:** Encouraging schools to grow their own vegetables and fruits (Kitchen Gardens) to provide fresh produce and educate children about nature and nutrition.
 * **Social Audit:** Mandatory social audits in all districts to ensure transparency and quality control.
 * **Supplementary Nutrition:** The scheme allows states to provide additional items (e.g., milk, eggs, or fruits) using their own resources.
 * **Direct Benefit Transfer (DBT):** Cooking cost is transferred directly to the school’s account to prevent leakages.

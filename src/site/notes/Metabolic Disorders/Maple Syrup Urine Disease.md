@@ -4,7 +4,7 @@
 
 ## Definition And Genetics
 
-- Maple Syrup Urine Disease is an autosomal recessive inborn error of branched-chain amino acid (BCAA) metabolism.
+- [[Metabolic Disorders/Maple Syrup Urine Disease\|Maple Syrup Urine Disease]] is an autosomal recessive inborn error of branched-chain amino acid (BCAA) metabolism.
 - The disorder is caused by a deficiency of the mitochondrial **Branched-Chain $\alpha$-Ketoacid Dehydrogenase (BCKDH) complex.**
 - The BCKDH complex catalyzes the oxidative decarboxylation of branched-chain $\alpha$-ketoacids and consists of three catalytic components ($E_{1}$, $E_{2}$, and $E_{3}$).
 - Genetic defects involve specific subunits: _BCKDHA_ ($E_{1\alpha}$) and _BCKDHB_ ($E_{1\beta}$) account for ~80% of cases, _DBT_ ($E_{2}$) accounts for ~20% of cases, and _DLD_ ($E_{3}$) is rare.
@@ -32,7 +32,7 @@
 
 ## Diagnostic Investigations
 
-- **Newborn Screening (NBS):** Tandem Mass Spectrometry (TMS) detects elevated Leucine/Isoleucine and the presence of Alloisoleucine.
+- **[[Neonatalogy/Newborn Screening\|Newborn Screening]] (NBS):** Tandem Mass Spectrometry (TMS) detects elevated Leucine/Isoleucine and the presence of Alloisoleucine.
 - **Plasma Amino Acids:** Reveals markedly elevated Leucine, Isoleucine, and Valine alongside decreased Alanine.
 - **Alloisoleucine:** The presence of Alloisoleucine in plasma is pathognomonic for MSUD.
 - **Urine Organic Acids:** Demonstrates elevated branched-chain $\alpha$-ketoacids and hydroxyacids.
@@ -54,4 +54,4 @@
 - **Dietary Therapy:** Requires lifelong restriction of natural protein to limit Leucine intake, alongside BCAA-free medical formulas providing essential amino acids, calories, and micronutrients.
 - **Therapeutic Target:** Maintain plasma Leucine levels between 75–300 µmol/L depending on age.
 - **Pharmacotherapy:** A standardized Thiamine trial (50–200 mg/day for 3–4 weeks) is indicated for all newly diagnosed patients.
-- **Organ Transplantation:** Liver transplantation is curative for systemic metabolic instability, protecting the patient from acute crises and allowing diet liberalization, though it does not reverse pre-existing brain damage.
+- **Organ Transplantation:** [[Gastrointestinal/Liver Transplantation\|Liver transplantation]] is curative for systemic metabolic instability, protecting the patient from acute crises and allowing diet liberalization, though it does not reverse pre-existing brain damage.

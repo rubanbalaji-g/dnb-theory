@@ -28,7 +28,7 @@
 
 ### Central Nervous System and Cardiovascular Toxicity
 
-- Transient, mild CNS depression is commonly observed following hydrocarbon ingestion or inhalation.
+- Transient, mild CNS depression is commonly observed following [[Emergencies/Hydrocarbon Ingestion\|hydrocarbon ingestion]] or inhalation.
 - Aromatic and halogenated hydrocarbons easily cross the blood-brain barrier, leading to direct CNS depression, coma, and seizures.
 - Secondary CNS effects (e.g., restlessness, drowsiness, or seizures) may also result from profound hypoxia and metabolic acidosis following severe pulmonary aspiration.
 - Halogenated hydrocarbons (which contain chlorine, bromine, or fluorine) can heavily sensitize the myocardium to endogenous catecholamines.
@@ -40,7 +40,7 @@
 
 |System|Clinical Findings and Progression|
 |:--|:--|
-|**Respiratory**|Symptoms develop early, typically within $6$ hours, secondary to aspiration during ingestion or vomiting. Presentations range from mild cough, tachypnea, and localized wheezing to severe acute respiratory distress syndrome (ARDS) and complete respiratory failure.|
+|**Respiratory**|Symptoms develop early, typically within $6$ hours, secondary to aspiration during ingestion or vomiting. Presentations range from mild cough, tachypnea, and localized wheezing to severe acute [[Neonatalogy/Respiratory Distress Syndrome\|respiratory distress syndrome]] (ARDS) and complete respiratory failure.|
 |**Neurological**|Hypoxia and acidosis manifest as restlessness, drowsiness, seizures, and coma. Direct CNS toxicity may cause ataxia, altered mental status, and choreoathetosis.|
 |**Cardiovascular**|Tachycardia is common; severe ventricular dysrhythmias are specifically associated with aromatic and halogenated hydrocarbon abuse or exposure.|
 |**Systemic / Gastrointestinal**|Poorly absorbed agents like gasoline and kerosene cause considerable direct irritation to the gastrointestinal mucosa, leading to nausea and vomiting. Fever and leukocytosis are very common systemic responses to chemical pneumonitis and do not necessarily imply a bacterial superinfection.|
@@ -57,7 +57,7 @@
 ### Ancillary Testing
 
 - Arterial Blood Gas (ABG): Crucial for evaluating the degree of hypoxia, hypercapnia, and metabolic acidosis in patients with significant respiratory distress or altered sensorium.
-- Electrocardiogram (ECG): Mandatory for identifying cardiac conduction disturbances and ventricular dysrhythmias, particularly if halogenated or aromatic hydrocarbon exposure is suspected.
+- Electrocardiogram ([[Misc/ECG\|ECG]]): Mandatory for identifying cardiac conduction disturbances and ventricular dysrhythmias, particularly if halogenated or aromatic hydrocarbon exposure is suspected.
 
 ## Emergency Management and Supportive Care
 
@@ -78,7 +78,7 @@
 
 ### Clinical Approach and Disposition Algorithm
 
-- All patients with a reliable history of hydrocarbon ingestion must be observed in a medical facility for a minimum of $6$ hours, regardless of their initial clinical status.
+- All patients with a reliable history of [[Emergencies/Hydrocarbon Ingestion\|hydrocarbon ingestion]] must be observed in a medical facility for a minimum of $6$ hours, regardless of their initial clinical status.
 
 |Patient Status at Presentation|Intervention and Disposition Pathway|
 |:--|:--|

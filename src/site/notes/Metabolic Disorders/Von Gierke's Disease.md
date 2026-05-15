@@ -94,7 +94,7 @@
     * **Vitamin E:** Antioxidant support for neutrophil function.
 
 ### C. Surgical Management
-* **Liver Transplantation:**
+* **[[Gastrointestinal/Liver Transplantation\|Liver Transplantation]]:**
     * Curative for metabolic defects (corrects hypoglycemia).
     * Indicated for multiple adenomas, HCC, or poor metabolic control.
     * Does *not* reverse renal disease.

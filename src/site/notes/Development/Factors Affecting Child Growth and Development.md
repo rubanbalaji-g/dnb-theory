@@ -9,7 +9,7 @@
 - Intrauterine and postnatal growth are fundamentally determined by the genetic potential of the individual, with environmental and nutritional factors acting as modulators.
 - There is a strong correlation between maternal weight and height and the birth weight of the infant, a phenomenon known as ‘maternal constraint’ which limits fetal overgrowth to prevent dystocia.
 - The intelligence, personality, and educational attitudes of parents genetically influence the child’s cognitive ability, with the heritability of intelligence increasing from 20% in infancy to 60% or greater in later life.
-- Chromosomal disorders (such as Down syndrome and Turner syndrome) and single-gene defects (such as Prader-Willi and Noonan syndromes) typically manifest as severe growth retardation and developmental delay.
+- Chromosomal disorders (such as Down syndrome and [[Genetics/Turner Syndrome\|Turner syndrome]]) and single-gene defects (such as Prader-Willi and Noonan syndromes) typically manifest as severe growth retardation and developmental delay.
 - Conversely, certain genetic defects like Klinefelter syndrome and Sotos syndrome result in an abnormally tall stature and overgrowth phenotypes.
 
 ### Sex Differences
@@ -41,15 +41,15 @@
 
 - Maternal malnutrition involving both macronutrients and micronutrients severely restricts birth weight and negatively affects subsequent child neurodevelopment.
 - Teenage pregnancy, advanced maternal age (over 35–40 years), high parity, and short inter-pregnancy intervals negatively influence fetal size and increase the risk of chromosomal anomalies like Down syndrome.
-- Obstetric complications, including pregnancy-induced hypertension, pre-eclampsia, and multiple pregnancies, lead to placental insufficiency and fetal growth restriction.
-- Chronic maternal systemic diseases (such as chronic kidney disease or heart failure) and acquired infections (rubella, syphilis, cytomegalovirus, toxoplasmosis, and HIV) severely impact the physical growth and brain development of the fetus.
+- Obstetric complications, including pregnancy-induced hypertension, pre-eclampsia, and multiple pregnancies, lead to placental insufficiency and [[Neonatalogy/Fetal growth restriction\|fetal growth restriction]].
+- Chronic maternal systemic diseases (such as [[Nephrology/Chronic Kidney Disease\|chronic kidney disease]] or heart failure) and acquired infections (rubella, syphilis, cytomegalovirus, toxoplasmosis, and HIV) severely impact the physical growth and brain development of the fetus.
 - Severe maternal emotional stress and anxiety during the first trimester can alter fetal brain growth, reduce head circumference, and increase the child's risk for inattention, conduct disorders, and autism through dysregulation of the hypothalamic-pituitary-adrenal axis.
 
 ### Teratogens and Substance Abuse
 
 - Maternal ingestion of tobacco (smoked or chewed), alcohol, and illicit drugs severely retards fetal growth and disrupts normal neurodevelopment.
 - Nicotine causes vasoconstriction, disrupting dopaminergic pathways, leading to lower birth weight, smaller head circumference, and higher risks of learning and attention disorders.
-- Prenatal alcohol exposure causes Fetal Alcohol Syndrome, characterized by prenatal and postnatal growth restriction, microcephaly, intellectual disability, and characteristic midface hypoplasia.
+- Prenatal alcohol exposure causes Fetal Alcohol Syndrome, characterized by prenatal and postnatal growth restriction, [[Neurology/Microcephaly\|microcephaly]], intellectual disability, and characteristic midface hypoplasia.
 - Environmental toxins such as lead, mercury, arsenic, and polycyclic aromatic hydrocarbons cross the placenta and cause permanent structural brain defects and neurodegenerative susceptibility.
 
 ### Placental and Paternal Factors
@@ -65,7 +65,7 @@
 ### Gestational Age and Birth Weight
 
 - Low birth weight (LBW) and intrauterine growth restriction (IUGR) constitute significant risk factors for postnatal malnutrition, stunting, and persistent short stature.
-- Premature infants (born before 37 weeks, and especially before 32 weeks) are at the highest risk for developmental impairments, cerebral palsy, and sensorineural deafness.
+- Premature infants (born before 37 weeks, and especially before 32 weeks) are at the highest risk for developmental impairments, [[Neurology/Cerebral Palsy\|cerebral palsy]], and sensorineural deafness.
 - Children born small for gestational age (SGA) generally experience catch-up growth in the first two years, but up to 10-15% fail to catch up due to subtle defects in the growth hormone-IGF axis.
 
 ### Fetal Programming and Epigenetics
@@ -76,15 +76,15 @@
 ### Neonatal Morbidities
 
 - Perinatal asphyxia and severe hypoxia damage the developing brain, causing major neurocognitive disabilities and hypoxic-ischemic encephalopathy.
-- High serum bilirubin levels (hyperbilirubinemia) can cross the blood-brain barrier, resulting in kernicterus, cerebral palsy, and developmental delays.
-- Neonatal hypoglycemia, polycythaemia, and intraventricular hemorrhage further exacerbate the risk of long-term intellectual disability and attention-deficit disorders.
+- High serum bilirubin levels (hyperbilirubinemia) can cross the blood-brain barrier, resulting in kernicterus, [[Neurology/Cerebral Palsy\|cerebral palsy]], and developmental delays.
+- Neonatal hypoglycemia, polycythaemia, and [[Neonatalogy/Intraventricular hemorrhage\|intraventricular hemorrhage]] further exacerbate the risk of long-term intellectual disability and attention-deficit disorders.
 
 ## Postnatal Nutritional and Medical Factors
 
 ### Infant and Child Nutrition
 
 - Exclusive breastfeeding during early infancy provides optimal nutrition, prevents infections, and protects against undernourishment and cognitive deficits.
-- Faulty complementary feeding practices—such as introducing foods too late, providing insufficient energy density, or poor hygiene—increase the rates of underweight and stunting.
+- Faulty [[Nutrition/Complementary Feeding\|complementary feeding]] practices—such as introducing foods too late, providing insufficient energy density, or poor hygiene—increase the rates of underweight and stunting.
 - Deficiencies in essential micronutrients (calcium, iron, zinc, iodine, folate, and vitamins A, D, and B12) are closely linked to retarded somatic growth, poor academic performance, and neurodevelopmental disorders.
 - Overfeeding, consumption of junk food, and calorie-dense formulae cause upward crossing of growth centiles, accelerating somatic growth but increasing the risk of childhood obesity without enhancing final adult height.
 
@@ -92,8 +92,8 @@
 
 - In low-resource settings, persistent or recurrent diarrhea and respiratory tract infections are common causes of growth impairment and stunting.
 - The risk of stunting increases significantly with each episode of diarrhea before two years of age, with an attributable risk of 25% for five or more bouts.
-- Systemic infections (malaria, HIV, parasitic infestations) and central nervous system infections (meningitis, encephalitis) severely retard growth velocity and cause permanent cognitive deficits.
-- Chronic systemic illnesses, such as [[Gastrointestinal/Celiac disease\|celiac disease]], chronic liver disease, and congenital heart disease, manifest as pathological short stature due to malabsorption and increased metabolic demand.
+- Systemic infections ([[Infectious Diseases/Malaria\|malaria]], HIV, parasitic infestations) and central nervous system infections ([[Neurology/Meningitis\|meningitis]], encephalitis) severely retard growth velocity and cause permanent cognitive deficits.
+- Chronic systemic illnesses, such as [[Gastrointestinal/Celiac disease\|celiac disease]], [[Gastrointestinal/Chronic Liver Disease\|chronic liver disease]], and congenital heart disease, manifest as pathological short stature due to malabsorption and increased metabolic demand.
 
 ### Trauma
 
@@ -109,7 +109,7 @@
 
 ### Emotional Deprivation and Institutionalization
 
-- Normal physical and cognitive growth requires a secure, emotionally supportive environment; emotional deprivation severely impairs the neurochemical regulation of growth hormone release, resulting in "psychosocial dwarfism".
+- Normal physical and cognitive growth requires a secure, emotionally supportive environment; emotional deprivation severely impairs the neurochemical regulation of growth hormone release, resulting in "psychosocial [[Endocrinology/Dwarfism\|dwarfism]]".
 - Institutional care (e.g., orphanages) and broken homes limit social interactions, leading to delayed milestones, poor receptive/expressive language skills, attachment disorders, and autistic-like behaviors.
 - Exposure to domestic violence, community violence, and child abuse profoundly impacts psychological development, increasing the odds of preschool expulsion, delinquency, and later incarceration.
 
@@ -137,4 +137,4 @@
 
 - Excessive television viewing and early exposure to mobile devices act as passive entertainment, impairing a child's ability to learn language, read, and think creatively.
 - Unrestricted screen time is associated with poor sleep habits, aggressive behavior, attention deficits, and higher risks of obesity due to physical inactivity.
-- Social media exposure in older children and adolescents contributes to cyberbullying, poor body image, eating disorders, and risky health behaviors.
+- Social media exposure in older children and adolescents contributes to cyberbullying, poor body image, [[Development/Eating Disorders\|eating disorders]], and risky health behaviors.

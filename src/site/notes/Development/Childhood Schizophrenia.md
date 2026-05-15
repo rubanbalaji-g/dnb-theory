@@ -17,12 +17,12 @@
 |**Criterion B (Dysfunction)**|In childhood or adolescence, there is a failure to achieve the expected level of interpersonal, academic, or occupational functioning.|
 |**Criterion C (Duration)**|Continuous signs of the disturbance persist for at least 6 months, including at least 1 month of active-phase symptoms, and may include prodromal or residual periods.|
 |**Criterion D & E (Exclusions)**|Schizoaffective disorder, depressive/bipolar disorders with psychotic features, and physiologic effects of a substance or medical condition must be ruled out.|
-|**Criterion F (Comorbidity)**|If a history of autism spectrum disorder (ASD) or childhood-onset communication disorder exists, schizophrenia is diagnosed only if prominent delusions or hallucinations are additionally present for at least 1 month.|
+|**Criterion F (Comorbidity)**|If a history of [[Development/Autism Spectrum Disorder\|autism spectrum disorder]] ([[Cardiology/ASD\|ASD]]) or childhood-onset communication disorder exists, schizophrenia is diagnosed only if prominent delusions or hallucinations are additionally present for at least 1 month.|
 
 ### Clinical Features Specific to Childhood
 
 - In children, delusions and hallucinations may be less elaborate than in adults, and visual hallucinations may be more commonly experienced.
-- Disorganized speech in youth might be incorrectly attributed to an underlying communication disorder or ASD.
+- Disorganized speech in youth might be incorrectly attributed to an underlying communication disorder or [[Cardiology/ASD\|ASD]].
 - The most frequently reported psychotic symptoms in youth with schizophrenia are auditory hallucinations (82%), delusions (78%), thought disorder (66%), disorganized or bizarre behavior (53%), and negative symptoms (50%).
 - Negative symptoms include diminished emotional expression, avolition (decreased drive to perform tasks), alogia (lack of speech), anhedonia, and social withdrawal; these account for a substantial portion of the long-term morbidity.
 
@@ -48,12 +48,12 @@
 
 - Comorbid rates are strikingly high: 34% have posttraumatic stress disorder, 34% have attention-deficit/hyperactivity disorder and/or disruptive behavior disorders, and 32% have substance abuse/dependence.
 - At least 10% to 20% of children with schizophrenia have intellectual delays, alongside impairments in language, communication, and information processing.
-- Childhood-onset schizophrenia is strongly linked to ASD, with an estimated 30% to 50% of cases being preceded by an ASD diagnosis.
+- Childhood-onset schizophrenia is strongly linked to [[Cardiology/ASD\|ASD]], with an estimated 30% to 50% of cases being preceded by an [[Cardiology/ASD\|ASD]] diagnosis.
 
 ### Differential Diagnosis
 
 - The differential diagnosis is broad because many conditions can mimic psychosis while also increasing the risk for it.
-- Medical and neurologic conditions that can cause psychotic symptoms include epilepsy (especially temporal lobe or idiopathic occipital epilepsy), strokes, neoplasms, endocrine disorders, genetic syndromes (e.g., velocardiofacial syndrome), autoimmune encephalitis, and permanent sequelae of toxic exposures.
+- Medical and neurologic conditions that can cause psychotic symptoms include epilepsy (especially temporal lobe or idiopathic occipital epilepsy), strokes, neoplasms, endocrine disorders, genetic syndromes (e.g., velocardiofacial syndrome), [[Neurology/Autoimmune Encephalitis\|autoimmune encephalitis]], and permanent sequelae of toxic exposures.
 - Substance-induced psychotic disorders must be excluded; offending agents include cannabis, hallucinogens (LSD, psilocybin), stimulants, amphetamines, corticosteroids, and anticholinergics.
 
 |Red Flags Suggesting Secondary (Medical) Psychosis|

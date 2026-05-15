@@ -21,10 +21,10 @@
 
 ### Clinical Utility and Indications
 
-- Bone age assessment is classified as an essential, level 1 screening investigation recommended for all children presenting with short stature.
+- [[Development/Bone Age Assessment\|Bone age assessment]] is classified as an essential, level 1 screening investigation recommended for all children presenting with short stature.
 - The assessment provides crucial information regarding the proportion of adult height the child has already achieved and estimates the remaining potential for linear height gain.
-- When evaluated alongside growth charts, bone age assists in predicting the ultimate adult height, which is particularly useful for adolescents who are early or late maturers.
-- In children presenting with disproportionate short stature, bone age assessment is typically accompanied by a complete skeletal survey to rule out conditions such as rickets or skeletal dysplasias.
+- When evaluated alongside [[Development/Growth Charts\|growth charts]], bone age assists in predicting the ultimate adult height, which is particularly useful for adolescents who are early or late maturers.
+- In children presenting with disproportionate short stature, [[Development/Bone Age Assessment\|bone age assessment]] is typically accompanied by a complete skeletal survey to rule out conditions such as rickets or skeletal dysplasias.
 - Because of the complexity of growth disorders, bone age radiographs should ideally be interpreted with the guidance of a pediatric endocrinologist.
 
 ### Interpretation of Bone Age in Clinical Scenarios
@@ -42,7 +42,7 @@
 ### Radiographic Appearance of Ossification Centers
 
 - The appearance of various ossification centers follows a predictable chronological sequence, serving as the foundation for bone age estimation.
-- In severe cases of congenital hypothyroidism, typical distal femoral and proximal tibial epiphyses that normally calcify around 38 weeks of gestation may not be visible on a radiograph due to a profound delay in skeletal maturation.
+- In severe cases of [[Endocrinology/Congenital Hypothyroidism\|congenital hypothyroidism]], typical distal femoral and proximal tibial epiphyses that normally calcify around 38 weeks of gestation may not be visible on a radiograph due to a profound delay in skeletal maturation.
 
 |Bone / Epiphyseal Center|Typical Age at Appearance (Males)|Typical Age at Appearance (Females)|
 |:--|:--|:--|

@@ -69,7 +69,7 @@ G2 --> H
 - **B (Breathing & Ventilation):**
     - High-flow O2 (15L/min via NRBM).
     - Inspect for tracheal deviation, chest rise, and neck vein distension.
-    - Life-threats to exclude: Tension pneumothorax (needle decompression), Open pneumothorax, Massive hemothorax, Flail chest.
+    - Life-threats to exclude: Tension [[Respiratory/Pneumothorax\|pneumothorax]] (needle decompression), Open [[Respiratory/Pneumothorax\|pneumothorax]], Massive hemothorax, Flail chest.
 - **C (Circulation & Hemorrhage Control):**
     - Assess: Heart rate (earliest sign of shock), CRT (>2 sec), pulse volume, BP (late sign).
     - Access: Two large-bore peripheral IVs; if unsuccessful <90 seconds/3 attempts, proceed to Intraosseous (IO) access.

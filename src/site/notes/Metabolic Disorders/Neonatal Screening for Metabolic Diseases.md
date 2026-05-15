@@ -2,13 +2,13 @@
 {"dg-publish":true,"uplink":"/metabolic-disorders/metabolic-disorders/","uptext":"Back to Index (Metabolic Disorders)","permalink":"/metabolic-disorders/neonatal-screening-for-metabolic-diseases/","dgPassFrontmatter":true}
 ---
 
-## 1. Introduction and Role of Newborn Screening
-Newborn screening (NBS) is a comprehensive public health strategy aimed at the early identification of infants affected by certain genetic, metabolic, hormonal, and functional conditions. 
+## 1. Introduction and Role of [[Neonatalogy/Newborn Screening\|Newborn Screening]]
+[[Neonatalogy/Newborn Screening\|Newborn screening]] (NBS) is a comprehensive public health strategy aimed at the early identification of infants affected by certain genetic, metabolic, hormonal, and functional conditions. 
 * **Primary Role:** Secondary prevention. It aims to detect disorders **presymptomatically** (before clinical signs appear) to initiate timely intervention.
 * **Public Health Impact:**
     * **Reduction of Mortality:** Prevents neonatal and infant deaths caused by metabolic crises (e.g., salt wasting in CAH, hyperammonemia in UCDs).
-    * **Prevention of Morbidity:** Prevents irreversible sequelae such as intellectual disability (e.g., in Congenital Hypothyroidism, PKU), physical disability, and growth failure.
-    * **Genetic Counseling:** Identifies index cases, allowing for family screening and prenatal diagnosis for future pregnancies.
+    * **Prevention of Morbidity:** Prevents irreversible sequelae such as intellectual disability (e.g., in [[Endocrinology/Congenital Hypothyroidism\|Congenital Hypothyroidism]], PKU), physical disability, and growth failure.
+    * **Genetic Counseling:** Identifies [[Statistics/Index\|index]] cases, allowing for family screening and prenatal diagnosis for future pregnancies.
     * **Epidemiological Data:** Helps estimate the true burden of IEMs in the population (e.g., Indian incidence of CH is ~1:1172, significantly higher than global averages).
 
 ## 2. Criteria for Selection: In Which Conditions is NBS Useful?
@@ -21,13 +21,13 @@ Disorders selected for NBS must generally satisfy the **Wilson and Jungner Crite
 
 ### A. The "Core Panel" (Recommended for India)
 Based on prevalence and treatability in the Indian context (NNF/ICMR recommendations):
-1.  **Congenital Hypothyroidism (CH):**
+1.  **[[Endocrinology/Congenital Hypothyroidism\|Congenital Hypothyroidism]] (CH):**
     * *Incidence:* 1:1000 – 1:1500 (High in India).
     * *Utility:* Early thyroxine therapy prevents profound intellectual disability ("Cretinism").
-2.  **Congenital Adrenal Hyperplasia (CAH):**
+2.  **[[Endocrinology/Congenital Adrenal Hyperplasia\|Congenital Adrenal Hyperplasia]] (CAH):**
     * *Incidence:* ~1:5700.
     * *Utility:* Prevents life-threatening salt-wasting crises and incorrect gender assignment in females.
-3.  **Glucose-6-Phosphate Dehydrogenase Deficiency (G6PD):**
+3.  **[[Hematology/Glucose-6-Phosphate Dehydrogenase Deficiency\|Glucose-6-Phosphate Dehydrogenase Deficiency]] (G6PD):**
     * *Utility:* Prevents severe neonatal jaundice, kernicterus, and hemolysis by avoiding triggers (oxidative drugs, fava beans).
 
 ### B. Expanded Screening (Inborn Errors of Metabolism - IEM)
@@ -35,7 +35,7 @@ With the advent of Tandem Mass Spectrometry (LC-MS/MS), 40+ disorders can be scr
 * **Amino Acid Disorders:** [[Metabolic Disorders/Phenylketonuria\|Phenylketonuria]] (PKU), [[Metabolic Disorders/Maple Syrup Urine Disease\|Maple Syrup Urine Disease]] (MSUD), [[Metabolic Disorders/Homocystinuria\|Homocystinuria]], [[Metabolic Disorders/Tyrosinemia\|Tyrosinemia]].
 * **Fatty Acid Oxidation Disorders (FAODs):** MCAD deficiency, VLCAD deficiency. Important for preventing sudden infant death.
 * **[[Metabolic Disorders/Organic Acidemias\|Organic Acidemias]] (OAs):** Methylmalonic acidemia, Propionic acidemia, [[Metabolic Disorders/Isovaleric Acidemia\|Isovaleric acidemia]], Glutaric Aciduria Type 1.
-* **Other Defects:** Galactosemia (GALT deficiency), Biotinidase Deficiency, Cystic Fibrosis.
+* **Other Defects:** [[Metabolic Disorders/Galactosemia\|Galactosemia]] (GALT deficiency), Biotinidase Deficiency, [[Respiratory/Cystic Fibrosis\|Cystic Fibrosis]].
 
 ## 3. Methodology: How It Is Done
 NBS is a system, not just a test. The workflow involves several critical steps:
@@ -53,13 +53,13 @@ NBS is a system, not just a test. The workflow involves several critical steps:
 
 ### B. Analytical Phase (Laboratory Testing)
 Different technologies are used based on the analyte:
-1.  **Immunoassays (ELISA / DELFIA):** * Used for: TSH (CH), 17-OHP (CAH), IRT (Cystic Fibrosis).
+1.  **Immunoassays (ELISA / DELFIA):** * Used for: TSH (CH), 17-OHP (CAH), IRT ([[Respiratory/Cystic Fibrosis\|Cystic Fibrosis]]).
     * *DELFIA (Dissociation-Enhanced Lanthanide Fluorescent Immunoassay)* is the gold standard due to high sensitivity.
 2.  **Tandem Mass Spectrometry (LC-MS/MS):**
     * Used for: Amino acids (PKU, MSUD) and Acylcarnitines (FAODs, OAs).
     * *Mechanism:* Weighs molecules to identify abnormal metabolite patterns. High throughput, multiplexing capability.
 3.  **Enzymatic/Colorimetric Assays:**
-    * Used for: Galactosemia (GALT activity), G6PD deficiency, Biotinidase.
+    * Used for: [[Metabolic Disorders/Galactosemia\|Galactosemia]] (GALT activity), G6PD deficiency, Biotinidase.
 
 ### C. Post-Analytical Phase (Reporting & Follow-up)
 * **Recall:** Notification of parents/pediatricians immediately for "Screen Positive" results.
@@ -85,7 +85,7 @@ Interpretation requires clinical correlation and understanding of physiology.
 * **Maternal Factors:**
     * Maternal steroid intake (suppresses fetal 17-OHP).
     * Maternal thyroid antibodies.
-* **Transfusion:** Can mask G6PD deficiency or Galactosemia (donor cells are normal). Sample should be taken *before* transfusion or 3-4 months later.
+* **Transfusion:** Can mask G6PD deficiency or [[Metabolic Disorders/Galactosemia\|Galactosemia]] (donor cells are normal). Sample should be taken *before* transfusion or 3-4 months later.
 
 ### C. Algorithm for Abnormal Results
 1.  **Critical Value (e.g., extremely high Ammonia/Acylcarnitine):** Immediate admission, stop feeds, start glucose/IVF, collect confirmatory sample.
@@ -99,11 +99,11 @@ Interpretation requires clinical correlation and understanding of physiology.
 
 | Disorder | Primary Marker | Screening Technology | Confirmatory Test |
 | :--- | :--- | :--- | :--- |
-| **Congenital Hypothyroidism** | TSH (Thyroid Stimulating Hormone) | DELFIA / ELISA | Serum Free T4, TSH |
+| **[[Endocrinology/Congenital Hypothyroidism\|Congenital Hypothyroidism]]** | TSH (Thyroid Stimulating Hormone) | DELFIA / ELISA | Serum Free T4, TSH |
 | **CAH** | 17-OHP (17-Hydroxyprogesterone) | DELFIA / ELISA | Serum 17-OHP, Electrolytes |
 | **G6PD Deficiency** | G6PD Enzyme Activity | Fluorescent Spot / Spectrophotometry | Quantitative Enzyme Assay |
 | **[[Metabolic Disorders/Phenylketonuria\|Phenylketonuria]] (PKU)** | Phenylalanine (Phe) | LC-MS/MS | Plasma Amino Acids (HPLC) |
-| **Galactosemia** | GALT Enzyme / Total Galactose | Enzymatic / Fluorometric | GALT Enzyme Assay |
+| **[[Metabolic Disorders/Galactosemia\|Galactosemia]]** | GALT Enzyme / Total Galactose | Enzymatic / Fluorometric | GALT Enzyme Assay |
 | **MSUD** | Leucine / Isoleucine | LC-MS/MS | Plasma Amino Acids |
 | **Biotinidase Deficiency** | Biotinidase Enzyme Activity | Colorimetric / Fluorometric | Serum Biotinidase |
-| **Cystic Fibrosis** | IRT (Immunoreactive Trypsinogen) | DELFIA / ELISA | Sweat Chloride / Genetics |
+| **[[Respiratory/Cystic Fibrosis\|Cystic Fibrosis]]** | IRT (Immunoreactive Trypsinogen) | DELFIA / ELISA | Sweat Chloride / Genetics |

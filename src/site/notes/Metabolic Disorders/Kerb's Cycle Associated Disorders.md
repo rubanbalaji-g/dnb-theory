@@ -22,7 +22,7 @@
 
 |System|Manifestations|
 |---|---|
-|**Neurologic**|Leigh syndrome, global developmental delay, regression of milestones, intractable epilepsy, and severe central hypotonia. Movement disorders include dystonia, ataxia, and choreoathetosis.|
+|**Neurologic**|Leigh syndrome, [[Development/Global Developmental Delay\|global developmental delay]], regression of milestones, intractable epilepsy, and severe central hypotonia. Movement disorders include dystonia, ataxia, and choreoathetosis.|
 |**Cardiac**|Hypertrophic or dilated cardiomyopathy, particularly in SDH and Fumarase defects.|
 |**Hepatic And Metabolic**|Liver failure or dysfunction in PC deficiency. Recurrent severe high anion gap metabolic acidosis (lactic acidosis) triggered by catabolic stress.|
 
@@ -39,7 +39,7 @@
 ### Neuroimaging And Confirmation
 
 - **MRI Brain:** Bilateral symmetric T2 hyperintensities in the basal ganglia, thalamus, and brainstem indicating Leigh syndrome. Corpus callosum agenesis or cysts specifically suggest Pyruvate Carboxylase defects.
-- **Confirmation:** Whole Exome Sequencing (WES) or targeted gene panels (_DLD_, _SDHA_, _FH_, _PC_) are the standard of care, largely replacing invasive enzymatic assays.
+- **Confirmation:** Whole [[Genetics/Exome Sequencing\|Exome Sequencing]] (WES) or targeted gene panels (_DLD_, _SDHA_, _FH_, _PC_) are the standard of care, largely replacing invasive enzymatic assays.
 
 ## Management
 

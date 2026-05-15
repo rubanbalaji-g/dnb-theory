@@ -121,6 +121,6 @@ Non-nutritional interventions are equally important to prevent the loss of nutri
 
 ## 5. Nutrition Education and Awareness
 
-- **Behavior Change:** Educating mothers and families [[About\|about]] the importance of "protective foods" (vitamins and minerals) and correcting faulty cooking practices (e.g., discarding cooking water, overcooking vegetables).
+- **Behavior Change:** Educating mothers and families about the importance of "protective foods" (vitamins and minerals) and correcting faulty cooking practices (e.g., discarding cooking water, overcooking vegetables).
 - **Food Fads:** Dispelling myths and food fads that restrict nutrient-rich foods during illness or pregnancy.
 - **Counseling:** Utilizing contact points like immunization sessions to counsel on [[Nutrition/Complementary Feeding\|complementary feeding]] and iron supplementation.

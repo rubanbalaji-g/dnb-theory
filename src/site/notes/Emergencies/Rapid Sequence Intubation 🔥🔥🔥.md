@@ -20,7 +20,7 @@
 ### Induction Agents (Sedation and Analgesia)
 
 - RSI must always precede the neuromuscular blockade with an appropriate sedative or anesthetic agent to provide amnesia, reduce anxiety, and blunt catecholamine release.
-- Ketamine is the induction agent of choice in children presenting with acute severe asthma due to its potent bronchodilatory effects and minimal respiratory depression.
+- Ketamine is the induction agent of choice in children presenting with acute severe [[Respiratory/Asthma\|asthma]] due to its potent bronchodilatory effects and minimal respiratory depression.
 - For hemodynamically stable children, particularly those with raised ICP, induction can be achieved using midazolam (0.2-0.3 mg/kg IV) or etomidate (0.1-0.3 mg/kg IV), often combined with fentanyl (5-10 mcg/kg IV) for analgesia.
 - Midazolam should be avoided in hemodynamically unstable patients to prevent precipitous drops in blood pressure.
 - In cases of cardiogenic shock, sedatives can dangerously blunt endogenous catecholamines and reduce right ventricular preload; therefore, pre-medication with small boluses of epinephrine may be required to counterbalance these hemodynamic effects.

@@ -5,7 +5,7 @@
 ## Strength of Evidence
 
 - The strength of evidence relates to the statistical force and magnitude of an observed association or treatment effect within a given study.
-- In statistical hypothesis testing, the calculated p-value serves as the primary indicator of the strength of evidence against the null hypothesis.
+- In statistical [[Statistics/Hypothesis Testing\|hypothesis testing]], the calculated p-value serves as the primary indicator of the strength of evidence against the null hypothesis.
 - A low p-value indicates strong evidence against the null hypothesis, whereas a high p-value indicates weak evidence.
 - According to Hill's criteria of causality, the strength of an association is formally defined by the size of the risk, which is quantified using appropriate statistical tests.
 - The strength of evidence can be significantly increased by combining multiple independent studies in a meta-analysis, a process that increases the overall sample size, reduces the standard error, and improves the precision of the effect estimate.
@@ -18,7 +18,7 @@
 - Randomized controlled trials (RCTs) are considered a superior methodology and the gold standard in the hierarchy of evidence because random assignment minimizes the chance that unknown confounding variables will differ between treatment groups.
 - The utilization of double-blinding in trials further ensures high quality by preventing detection bias, which occurs when patients or clinicians exaggerate positive beliefs about a treatment based on their knowledge of the allocation.
 - Conversely, anecdotal evidence derived from single case reports represents a very low quality of evidence and is not scientifically acceptable for drawing definitive conclusions about medical therapies.
-- Observational studies generate lower-quality evidence regarding causality compared to experimental studies, because the associations identified in observational data are frequently open to alternative explanations.
+- [[Statistics/Observational Studies\|Observational studies]] generate lower-quality evidence regarding causality compared to experimental studies, because the associations identified in observational data are frequently open to alternative explanations.
 - The quality of evidence is directly compromised by systematic errors, known as bias, which can occur at any stage of research including design, measurement, or reporting.
 - Studies affected by outcome reporting bias or p-hacking (data dredging) produce low-quality, unreliable evidence because the results are selectively published merely to highlight statistical significance.
 - In the context of meta-analyses, methodologically better-quality studies deserve more weight to ensure that the summary estimate is a true reflection of the treatment effect, rather than relying on a simplistic arithmetic average.

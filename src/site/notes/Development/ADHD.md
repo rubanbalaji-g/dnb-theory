@@ -4,21 +4,21 @@
 
 ### Introduction and Epidemiology
 
-- Attention-deficit/hyperactivity disorder (ADHD) is one of the most common and extensively studied neurobehavioral disorders of childhood, characterized by symptoms of inattention, poor impulse control, decreased self-inhibitory capacity, and motor overactivity.
-- The estimated prevalence of ADHD in India is 1.3 per 1000 children.
+- Attention-deficit/hyperactivity disorder ([[Development/ADHD\|ADHD]]) is one of the most common and extensively studied neurobehavioral disorders of childhood, characterized by symptoms of inattention, poor impulse control, decreased self-inhibitory capacity, and motor overactivity.
+- The estimated prevalence of [[Development/ADHD\|ADHD]] in India is 1.3 per 1000 children.
 - Worldwide prevalence studies estimate that 5% to 10% of school-age children are affected by the disorder.
 - The condition exhibits a strong male preponderance, with a male-to-female ratio of 4:1 for the predominantly hyperactive-impulsive presentation and 2:1 for the predominantly inattentive presentation.
 - Females are more likely to be diagnosed with the inattentive presentation, which is frequently associated with internalizing symptoms such as anxiety and low mood.
-- Children with below-average intelligence quotients (IQ) possess an increased risk of coexisting ADHD, though children with high IQ are just as likely to have ADHD as those with average IQ.
+- Children with below-average intelligence quotients (IQ) possess an increased risk of coexisting [[Development/ADHD\|ADHD]], though children with high IQ are just as likely to have [[Development/ADHD\|ADHD]] as those with average IQ.
 
 ### Etiology and Pathogenesis
 
-- ADHD is a polygenic disorder where multiple common genetic variants act in tandem to increase the risk, demonstrating a 70% to 80% heritability in twin studies.
-- First-degree relatives of individuals with ADHD have a 5- to 10-fold increased risk of developing the condition.
+- [[Development/ADHD\|ADHD]] is a polygenic disorder where multiple common genetic variants act in tandem to increase the risk, demonstrating a 70% to 80% heritability in twin studies.
+- First-degree relatives of individuals with [[Development/ADHD\|ADHD]] have a 5- to 10-fold increased risk of developing the condition.
 - Neuroanatomic studies reveal structural and functional abnormalities, most notably the dysregulation of frontal subcortical circuits and a median 3-year delay in the attainment of peak cortical thickness in the prefrontal regions of the brain.
 - Abnormalities in the cerebellum, specifically involving the midline and vermian elements, are also commonly identified.
 - The core biochemical pathophysiology involves an imbalance in brain catecholamine metabolism, specifically a decrease in inhibitory dopamine activity coupled with an increase in norepinephrine activity.
-- Patients with ADHD have an increased dopamine transporter density, resulting in the overly rapid clearance of dopamine from the synapse.
+- Patients with [[Development/ADHD\|ADHD]] have an increased dopamine transporter density, resulting in the overly rapid clearance of dopamine from the synapse.
 - Environmental risk factors heavily influence pathogenesis; these include prenatal exposure to tobacco smoke or alcohol, prematurity (including late-preterm birth), and underlying maternal mental illness.
 - Dietary factors are not considered a primary pathogenetic mechanism for most children, though a highly specific and small subset of patients may be uniquely sensitive to certain foods, sugars, or additives.
 
@@ -28,11 +28,11 @@
 - Preschool-aged children most commonly manifest motor restlessness, aggressive tendencies, and disruptive behaviors.
 - Older adolescents and adults are more likely to present with disorganized, distractible, and inattentive symptoms, as overt motor hyperactivity generally decreases in late childhood.
 - Symptoms of impulsivity and inattention frequently persist throughout the lifespan.
-- The Diagnostic and Statistical Manual of Mental Disorders, Fifth Edition (DSM-5) categorizes ADHD into three distinct presentations: predominantly inattentive, predominantly hyperactive-impulsive, and combined presentation.
+- The Diagnostic and Statistical Manual of Mental Disorders, Fifth Edition (DSM-5) categorizes [[Development/ADHD\|ADHD]] into three distinct presentations: predominantly inattentive, predominantly hyperactive-impulsive, and combined presentation.
 
 ### Diagnostic Criteria (DSM-5)
 
-- The diagnosis of ADHD is fundamentally clinical and heavily relies on the fulfillment of predefined criteria across inattention, hyperactivity, and impulsivity domains.
+- The diagnosis of [[Development/ADHD\|ADHD]] is fundamentally clinical and heavily relies on the fulfillment of predefined criteria across inattention, hyperactivity, and impulsivity domains.
 
 |Diagnostic Domain|DSM-5 Criteria Specifications|
 |:--|:--|
@@ -45,27 +45,27 @@
 
 ### Diagnostic Approach and Evaluation
 
-- The American Academy of Pediatrics recommends initiating an evaluation for ADHD in any child between 4 and 18 years of age who presents with academic or behavioral problems accompanied by symptoms of inattention, hyperactivity, or impulsivity.
+- The American Academy of Pediatrics recommends initiating an evaluation for [[Development/ADHD\|ADHD]] in any child between 4 and 18 years of age who presents with academic or behavioral problems accompanied by symptoms of inattention, hyperactivity, or impulsivity.
 - Information must be systematically gathered from multiple sources, including the child, parents, teachers, and other relevant caretakers.
-- Validated behavior rating scales, such as the Vanderbilt ADHD Rating Scale, Conners 3 ADHD Index, and the ADHD Rating Scale 5, are essential for assessing symptom frequency and functional impairment across different settings.
+- Validated behavior rating scales, such as the Vanderbilt [[Development/ADHD\|ADHD]] Rating Scale, Conners 3 [[Development/ADHD\|ADHD]] [[Statistics/Index\|Index]], and the [[Development/ADHD\|ADHD]] Rating Scale 5, are essential for assessing symptom frequency and functional impairment across different settings.
 - Broadband rating scales (e.g., Child Behavior Checklist [CBCL] or Behavioral Assessment Scale for Children [BASC]) are highly useful in screening for coexisting conditions.
 - A comprehensive physical examination is required, with particular attention directed toward the neurologic and cardiac systems, thyroid evaluation, hearing/vision screening, and an assessment for dysmorphic features suggestive of genetic syndromes (e.g., fetal alcohol syndrome).
-- Routine laboratory tests, computerized attentional tasks, quantitative electroencephalography, and brain imaging are not routinely recommended for ADHD diagnosis and are subject to high false-positive and false-negative rates.
+- Routine laboratory tests, computerized attentional tasks, quantitative electroencephalography, and brain imaging are not routinely recommended for [[Development/ADHD\|ADHD]] diagnosis and are subject to high false-positive and false-negative rates.
 
 ### Differential Diagnosis and Comorbidities
 
 |Category|Specific Conditions and Causes|
 |:--|:--|
-|**Developmental**|Low cognitive abilities, superior intelligence, specific learning disabilities (reading, math, written expression), communication/language disorders, autism spectrum disorder (ASD), fetal alcohol syndrome.|
-|**Psychiatric**|Anxiety, depression, oppositional defiant disorder (ODD), conduct disorder (CD), bipolar disorder, disruptive mood dysregulation disorder, substance use disorder, posttraumatic stress disorder (PTSD).|
-|**Medical**|Sleep disorders (e.g., obstructive sleep apnea, restless legs syndrome), hearing/vision impairment, thyroid disorders, tic disorders, seizures, posttraumatic head injury, genetic syndromes (fragile X, Klinefelter, Turner, tuberous sclerosis, neurofibromatosis), medication side effects (antiepileptics, steroids).|
+|**Developmental**|Low cognitive abilities, superior intelligence, specific learning disabilities (reading, math, written expression), communication/language disorders, [[Development/Autism Spectrum Disorder\|autism spectrum disorder]] ([[Cardiology/ASD\|ASD]]), fetal alcohol syndrome.|
+|**Psychiatric**|Anxiety, depression, oppositional defiant disorder (ODD), conduct disorder (CD), bipolar disorder, disruptive mood dysregulation disorder, substance use disorder, [[Development/Posttraumatic Stress Disorder (PTSD)\|posttraumatic stress disorder (PTSD)]].|
+|**Medical**|Sleep disorders (e.g., [[Respiratory/Obstructive Sleep Apnea\|obstructive sleep apnea]], restless legs syndrome), hearing/vision impairment, thyroid disorders, tic disorders, seizures, posttraumatic head injury, genetic syndromes (fragile X, Klinefelter, Turner, tuberous sclerosis, neurofibromatosis), medication side effects (antiepileptics, steroids).|
 |**Psychosocial**|Response to abuse or neglect, chaotic home environments, inappropriate parenting practices, or an inappropriate classroom setting.|
 
 ### Management Strategies
 
 - The cornerstone of management is a multimodal, chronic-care approach that includes behavioral therapy, school-based accommodations, and pharmacotherapy.
 - For preschool-age children (under 6 years), evidence-based parent- and/or teacher-administered behavior therapy is the recommended first-line treatment, with medication reserved only for cases with moderate to severe functional impairment where behavioral interventions fail or are unavailable.
-- For school-age children ($\ge$ 6 years) and adolescents, FDA-approved ADHD medications are considered the first-line treatment, strongly recommended to be used in conjunction with behavioral and educational interventions.
+- For school-age children ($\ge$ 6 years) and adolescents, FDA-approved [[Development/ADHD\|ADHD]] medications are considered the first-line treatment, strongly recommended to be used in conjunction with behavioral and educational interventions.
 
 #### Behavioral and Educational Interventions
 
@@ -89,8 +89,8 @@
 
 ### Prognosis and Complications
 
-- ADHD is a chronic condition extending into adulthood for a significant portion of patients; approximately one-third to two-thirds of children diagnosed will continue to manifest impairing symptoms into their adult lives.
-- More than 50% of individuals with a childhood diagnosis of ADHD will develop a comorbid mental health condition, such as an anxiety disorder, depression, or substance use disorder in adulthood.
+- [[Development/ADHD\|ADHD]] is a chronic condition extending into adulthood for a significant portion of patients; approximately one-third to two-thirds of children diagnosed will continue to manifest impairing symptoms into their adult lives.
+- More than 50% of individuals with a childhood diagnosis of [[Development/ADHD\|ADHD]] will develop a comorbid mental health condition, such as an anxiety disorder, depression, or substance use disorder in adulthood.
 - Without proper treatment, adolescents and young adults face an increased likelihood of educational underachievement, occupational difficulties, relationship discord, and severe risk-taking behaviors.
 - The disorder is associated with a significantly increased risk of morbidity and premature death due to motor vehicle accidents, substance abuse, criminality, and suicide.
 - Consistent, multimodal treatment incorporating medication and adjuvant behavioral therapies significantly lowers the risk of these adverse life outcomes.

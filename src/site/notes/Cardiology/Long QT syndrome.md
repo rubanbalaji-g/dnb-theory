@@ -5,7 +5,7 @@
 ## Definition and Epidemiology
 
 - Genetic abnormality of ventricular repolarization.
-- Characterized by prolonged QT interval on surface electrocardiogram (ECG).
+- Characterized by prolonged QT interval on surface electrocardiogram ([[Misc/ECG\|ECG]]).
 - Predisposes to life-threatening polymorphic ventricular tachycardia (torsades de pointes).
 - Estimated incidence: 1 per 10,000 births to 1 in 2500-5000 individuals.
 - Inheritance: Predominantly autosomal dominant (90% familial). Rare autosomal recessive forms exist.
@@ -54,7 +54,7 @@
 
 ## Diagnosis
 
-### Electrocardiographic (ECG) Findings
+### Electrocardiographic ([[Misc/ECG\|ECG]]) Findings
 
 - **QTc Calculation:** Bazett's formula (QT interval divided by the square root of the preceding RR interval). Inaccurate at low heart rates.
 - **Diagnostic Thresholds:** QTc >0.47 sec highly indicative; >0.44 sec suggestive. Manifest LQTS defined as QTc >470 ms in males or >480 ms in females. Normal QTc <0.45 sec.
@@ -63,11 +63,11 @@
 
 ### Schwartz Diagnostic Score
 
-Clinical tool estimating LQTS likelihood based on ECG, history, and family history.
+Clinical tool estimating LQTS likelihood based on [[Misc/ECG\|ECG]], history, and family history.
 
 |Category|Finding|Points|
 |:--|:--|:--|
-|**ECG Findings**|QTc $\ge$ 480 ms|3|
+|**[[Misc/ECG\|ECG]] Findings**|QTc $\ge$ 480 ms|3|
 ||QTc 460–479 ms|2|
 ||QTc 450–459 ms (males)|1|
 ||QTc 4th minute recovery from exercise test $\ge$ 480 ms|1|
@@ -88,7 +88,7 @@ Clinical tool estimating LQTS likelihood based on ECG, history, and family histo
 - **Exercise Testing (CPET):** Evaluates chronotropic response and QTc dynamics. Amplifies genotype-phenotype correlation.
     - _LQT1:_ QTc prolongs during exercise; remains prolonged throughout recovery.
     - _LQT2:_ QTc lengthens in early exercise; normalizes at higher heart rates.
-- **Holter Monitor:** 24-hour ambulatory ECG to evaluate occult arrhythmias, T-wave alternans, and QT dynamics.
+- **Holter Monitor:** 24-hour ambulatory [[Misc/ECG\|ECG]] to evaluate occult arrhythmias, T-wave alternans, and QT dynamics.
 - **Genetic Testing:** Identifies pathogenic variant in ~80% of clinical cases. Essential for cascade screening of asymptomatic first-degree relatives.
 
 ## Acquired/Secondary LQTS
@@ -114,7 +114,7 @@ Clinical tool estimating LQTS likelihood based on ECG, history, and family histo
 ### Pharmacological Therapy
 
 - **Beta-Blockers:** Mainstay of therapy. Decreases risk of sudden cardiac arrest.
-    - _Indications:_ Recommended for all LQTS patients, including asymptomatic phenotype-negative gene carriers (unless contraindicated e.g., severe asthma).
+    - _Indications:_ Recommended for all LQTS patients, including asymptomatic phenotype-negative gene carriers (unless contraindicated e.g., severe [[Respiratory/Asthma\|asthma]]).
     - _Agent Selection:_ Non-selective beta-blockers preferred. Nadolol or sustained-release propranolol superior to metoprolol/atenolol.
     - _Efficacy:_ Highly protective in LQT1 and LQT2. Less effective in LQT3.
 - **Sodium Channel Blockers:** Mexiletine or flecainide. Decreases late sodium current. Shortens QT interval and reduces cardiac events specifically in LQT3.
@@ -137,4 +137,4 @@ Clinical tool estimating LQTS likelihood based on ECG, history, and family histo
 - **Manifestations:** Fetal bradycardia, 2nd-degree AV block, ventricular tachycardia.
 - **Characteristic Pattern:** Alternating episodes of fetal tachycardia and bradycardia strongly suspect for LQTS.
 - **Diagnosis:** Fetal magnetocardiography (fMCG) accurately assesses fetal rhythm and QT intervals.
-- **Neonatal ECG:** Severe QT prolongation (>500 ms) with T-wave alternans pathognomonic. Requires prompt initiation of beta-blockade.
+- **Neonatal [[Misc/ECG\|ECG]]:** Severe QT prolongation (>500 ms) with T-wave alternans pathognomonic. Requires prompt initiation of beta-blockade.
