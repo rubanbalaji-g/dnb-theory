@@ -50,7 +50,7 @@ Early treatment is critical to improve neurodevelopmental outcomes (Lead Time Bi
 
 #### B. Non-Pharmacologic
 * **Ketogenic Diet:** Highly effective in refractory cases or GLUT-1 deficiency.
-* **Epilepsy Surgery:** Focal resection/Hemispherectomy if a discrete resectable lesion (e.g., focal cortical dysplasia) is identified.
+* **[[Recents/Epilepsy Surgery\|Epilepsy Surgery]]:** Focal resection/Hemispherectomy if a discrete resectable lesion (e.g., focal cortical dysplasia) is identified.
 
 ### 6. Prognosis
 * **Seizure Control:** 50–70% respond to hormonal therapy or Vigabatrin.

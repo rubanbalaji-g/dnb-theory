@@ -74,7 +74,7 @@ Life-long surveillance is critical to detect complications early.
 * **[[Neurology/Focal seizures\|Focal Seizures]]:**
     * **First-line:** Levetiracetam, Oxcarbazepine, Carbamazepine.
     * **Adjunctive:** **Everolimus** (mTOR inhibitor) is FDA-approved for refractory seizures in TSC.
-* **Refractory Epilepsy:** Ketogenic Diet, Vagus Nerve Stimulation (VNS), or Epilepsy Surgery (tuberectomy) if a dominant epileptogenic tuber is identified.
+* **Refractory Epilepsy:** Ketogenic Diet, Vagus Nerve Stimulation (VNS), or [[Recents/Epilepsy Surgery\|Epilepsy Surgery]] (tuberectomy) if a dominant epileptogenic tuber is identified.
 
 ##### B. Subependymal Giant Cell Astrocytoma (SEGA)
 * **Medical:** **mTOR Inhibitors (Everolimus/Sirolimus)** are first-line for growing, asymptomatic SEGAs. They cause tumor regression.
