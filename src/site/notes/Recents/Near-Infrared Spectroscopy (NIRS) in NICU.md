@@ -11,11 +11,11 @@
 
 ## Key Physiological Metrics
 
-|Metric|Clinical Definition|Normal Range & Interpretation|
-|---|---|---|
-|**Cerebral rSO2 (crSO2)**|Measures brain oxygenation balance.|55% to 85% in stable term and preterm neonates.|
-|**Somatic rSO2 (srSO2/rrSO2)**|Measures splanchnic or renal organ perfusion.|Typically 10–15% higher than crSO2 due to lower baseline metabolic extraction.|
-|**Fractional Tissue Oxygen Extraction (FTOE)**|Calculated mathematically as `(SpO2 - rSO2) / SpO2`.|Elevated FTOE implies failing systemic oxygen delivery (low cardiac output) or increased metabolic demand.|
+| Metric                                         | Clinical Definition                                  | Normal Range & Interpretation                                                                              |
+| ---------------------------------------------- | ---------------------------------------------------- | ---------------------------------------------------------------------------------------------------------- |
+| **Cerebral rSO2 (crSO2)**                      | Measures brain oxygenation balance.                  | 55% to 85% in stable term and preterm neonates.                                                            |
+| **Somatic rSO2 (srSO2/rrSO2)**                 | Measures splanchnic or renal organ perfusion.        | Typically 10–15% higher than crSO2 due to lower baseline metabolic extraction.                             |
+| **Fractional Tissue Oxygen Extraction (FTOE)** | Calculated mathematically as `(SpO2 - rSO2) / SpO2`. | Elevated FTOE implies failing systemic oxygen delivery (low cardiac output) or increased metabolic demand. |
 
 ## Major Clinical Applications
 

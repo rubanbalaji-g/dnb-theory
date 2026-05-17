@@ -13,7 +13,7 @@
 3. [[Emergencies/Modified Glasgow Coma Scale for Pediatrics 🔥🔥🔥\|Modified Glasgow Coma Scale for Pediatrics 🔥🔥🔥]]
 4. [[Emergencies/APVU Scale\|APVU Scale]]
 ## Procedures and Therapies in Intensive Care Setting
-1. [[Emergencies/Rapid Sequence Intubation 🔥🔥🔥\|Rapid Sequence Intubation 🔥🔥🔥]]
+1. [[Emergencies/Rapid Sequence Intubation\|Rapid Sequence Intubation 🔥🔥🔥]]
 2. [[Emergencies/Mechanical Ventilation 🔥🔥🔥\|Mechanical Ventilation 🔥🔥🔥]]
 3. [[Emergencies/Blood Gas Analysis 🔥🔥🔥\|Blood Gas Analysis 🔥🔥🔥]]
 4. [[Emergencies/Sedation in PICU\|Sedation in PICU]]

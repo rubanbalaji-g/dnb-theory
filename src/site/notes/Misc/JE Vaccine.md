@@ -24,7 +24,7 @@
 
 ### Live-Attenuated SA 14-14-2 Vaccine
 
-- Minimum age of administration is 8 months.
+- Minimum age of administration is 9 months.
 - Dose measures 0.5 mL given subcutaneously.
 - Two-dose schedule recommended in endemic districts.
 - First dose given at 9 months alongside measles and [[Misc/Rubella Vaccine\|rubella vaccine]].

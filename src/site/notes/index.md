@@ -1,5 +1,5 @@
 ---
-{"hide":true,"dg-hide":true,"dg-publish":true,"dg-show-inline-title":false,"dg-content-classes":"hide-title","dg-home":true,"permalink":"/index/","contentClasses":"hide-title","tags":["gardenEntry"],"dgPassFrontmatter":true}
+{"hide":true,"dg-hide":true,"dg-publish":true,"dg-show-inline-title":false,"dg-content-classes":"hide-title","dg-home":true,"dg-path":"Index of Notes","permalink":"/index-of-notes/","contentClasses":"hide-title","tags":["gardenEntry"],"dgPassFrontmatter":true}
 ---
 
 <a href="https://pedianotes.in" style="background-color: #0a0a0a; color: #4ade80; border: 1px solid #4ade80; padding: 10px 20px; text-decoration: none; border-radius: 12px; font-family: sans-serif; font-weight: bold; display: inline-flex; align-items: center; gap: 8px; margin-top: 10px; width: fit-content;">
