@@ -21,19 +21,19 @@
 }
 
 h1 {
-    color: #ffef60;
+    color: var(--h1-color, inherit);
 }
 
 h2 {
-    color: #f06449;
+    color: var(--h2-color, inherit);
 }
 
 h3 {
-    color: #d4fcc3;
+    color: var(--h3-color, inherit);
 }
 
 h4 {
-    color: #72dcff;
+    color: var(--h4-color, inherit);
 }
 
 button {
@@ -68,30 +68,20 @@ button {
 }
 
 blockquote {
-    background: #ffffff17;
-    border-left: 10px solid #c1dbe3;
-    margin: 1.5em 10px;
-    padding: 0.5em 10px;
-    quotes: "\201C""\201D""\2018""\2019";
-}
-
-blockquote:before {
-    color: #ccc;
-    content: open-quote;
-    font-size: 4em;
-    line-height: 0.1em;
-    margin-right: 0.1em;
-    vertical-align: -0.4em;
-}
-
-blockquote p {
-    display: inline;
+    background: rgba(128, 128, 128, 0.06);
+    border-left: 3px solid var(--text-muted, #888);
+    margin: 1em 0;
+    padding: 0.6em 1em;
+    color: var(--text-muted, #555);
+    font-style: italic;
 }
 
 p > code {
-    //Inline code
-    color: #c7254e;
-    background-color: #1a1a1a;
+    color: var(--code-inline-color, #DC2626);
+    background-color: var(--code-inline-bg, #F3F4F6);
+    padding: 1px 5px;
+    border-radius: 3px;
+    font-size: 0.9em;
 }
 
 .callout {
@@ -169,7 +159,7 @@ p > code {
     border-width: var(--callout-border-width);
     border-radius: var(--callout-radius);
     margin: 1em 0;
-    mix-blend-mode: var(--callout-blend-mode);
+    /* mix-blend-mode removed — causes dark-mode rendering artifacts */
     background-color: rgba(var(--callout-color), 0.1);
     padding: var(--callout-padding);
 }

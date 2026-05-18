@@ -1,11 +1,3 @@
-@font-face {
-  font-family: 'LocalComicSans';
-  src: url('/fonts/comicsans.ttf') format('truetype');
-  font-weight: normal;
-  font-style: normal;
-  font-display: swap;
-}
-
 /* 1. LAYOUT NEUTRALIZATION: Force Single Column on Homepage */
 body:has(.home-dashboard) {
   /* Set base layout variables to 0 to collapse sidebar tracks */
@@ -48,12 +40,12 @@ body:has(.home-dashboard) .content {
 /* 2. Global Styling (Fonts & UI) */
 
 :root {
-  --default-font: "LocalComicSans", "Comic Sans MS", "Comic Sans", cursive, sans-serif !important;
-  --font-default: "LocalComicSans", "Comic Sans MS", "Comic Sans", cursive, sans-serif !important;
-  --font-interface: "LocalComicSans", "Comic Sans MS", "Comic Sans", cursive, sans-serif !important;
-  --font-text: "LocalComicSans", "Comic Sans MS", "Comic Sans", cursive, sans-serif !important;
-  --file-header-font: "LocalComicSans", "Comic Sans MS", "Comic Sans", cursive, sans-serif !important;
-  --inline-title-font: "LocalComicSans", "Comic Sans MS", "Comic Sans", cursive, sans-serif !important;
+  --default-font: "Inter", "Segoe UI", "Roboto", "Helvetica Neue", Arial, sans-serif !important;
+  --font-default: "Inter", "Segoe UI", "Roboto", "Helvetica Neue", Arial, sans-serif !important;
+  --font-interface: "Inter", "Segoe UI", "Roboto", "Helvetica Neue", Arial, sans-serif !important;
+  --font-text: "Inter", "Segoe UI", "Roboto", "Helvetica Neue", Arial, sans-serif !important;
+  --file-header-font: "Inter", "Segoe UI", "Roboto", "Helvetica Neue", Arial, sans-serif !important;
+  --inline-title-font: "Inter", "Segoe UI", "Roboto", "Helvetica Neue", Arial, sans-serif !important;
 }
 
 body,
@@ -61,9 +53,9 @@ body,
 .content,
 .title,
 button,
-blockquote,
-* {
+blockquote {
   font-family: var(--default-font);
+  line-height: 1.65;
 }
 
 .site-name-title {
@@ -196,7 +188,7 @@ main.content {
 @media screen and (min-width: 1000px) {
   /* COLLAPSED: BOTH HIDDEN (Applies to all >1000px) */
   body.layout-collapsed main.content {
-    --dg-content-max-width: 1100px !important;
+    --dg-content-max-width: 950px !important;
     margin-left: auto !important;
     margin-right: auto !important;
   }
@@ -677,28 +669,29 @@ body.theme-dark .moon-icon { display: none; }
   margin-bottom: 15px !important;
   text-align: left !important;
   display: block;
-  font-size: 2.2rem !important; /* Larger branding in filetree */
+  font-size: 1.6rem !important;
   font-weight: bold;
   overflow: visible;
   text-overflow: clip;
+  white-space: nowrap;
 }
 /* ============================================================
-   CUSTOM THEME OVERRIDES (TOP PRIORITY)
+   CLINICAL THEME OVERRIDES (TOP PRIORITY)
    ============================================================ */
 
 /* ============================================================
-   1. GLOBAL ACCENT & QUARTZ-STYLE LINKS
+   1. BASE FONT SIZE & INLINE CODE
    ============================================================ */
 html {
-    font-size: 13.5px !important;
+    font-size: 14px !important;
 }
 
-/* Specific size for Right Sidebar (TOC, Graph, etc.) */
+/* Right Sidebar (TOC, Graph, Backlinks) */
 .sidebar {
-    font-size: 10.5px !important;
+    font-size: 11px !important;
 }
 
-/* Force main content to use the larger 15.5px font size, while keeping filetree at 13.5px */
+/* Main content prose — larger for readability */
 .markdown-rendered p,
 .markdown-rendered li,
 .markdown-rendered table,
@@ -709,14 +702,26 @@ html {
     font-size: 15.5px !important;
 }
 
-body {
-    /* Define base link variables for the Quartz style (Dark Mode default - H1 Pastel Blue) */
-    --link-custom-color: #AAE5FA;
-    --link-custom-bg: rgba(170, 229, 250, 0.1);
-    --link-custom-border: rgba(170, 229, 250, 0.3);
-    --link-custom-bg-hover: rgba(170, 229, 250, 0.2);
+/* Inline code tokens */
+body.theme-light {
+    --code-inline-color: #DC2626;
+    --code-inline-bg: #F3F4F6;
+}
+body.theme-dark {
+    --code-inline-color: #F78166;
+    --code-inline-bg: #1E2030;
+}
 
-    /* Override default link colors with our custom variables */
+/* ============================================================
+   2. CLINICAL LINK STYLES (Content Area Only)
+   ============================================================ */
+body {
+    /* Dark Mode default */
+    --link-custom-color: #60A5FA;
+    --link-custom-bg: transparent;
+    --link-custom-border: transparent;
+    --link-custom-bg-hover: rgba(96, 165, 250, 0.08);
+
     --link-color: var(--link-custom-color) !important;
     --link-external-color: var(--link-custom-color) !important;
     --link-decoration: none !important;
@@ -725,31 +730,30 @@ body {
 }
 
 body.theme-light {
-    /* Light Mode - H1 Dark Blue */
-    --link-custom-color: #1E3A8A;
-    --link-custom-bg: rgba(30, 58, 138, 0.05);
-    --link-custom-border: rgba(30, 58, 138, 0.2);
-    --link-custom-bg-hover: rgba(30, 58, 138, 0.1);
+    --link-custom-color: #1A56DB;
+    --link-custom-bg: transparent;
+    --link-custom-border: transparent;
+    --link-custom-bg-hover: rgba(26, 86, 219, 0.05);
 }
 
-/* Apply Quartz v4 Style (Pill/Highlight with Border) to Links (ONLY IN MAIN CONTENT) */
+/* Clean text links — no pill backgrounds */
 div.cm-s-obsidian span.cm-link,
 div.cm-s-obsidian span.cm-hmd-internal-link,
 div.cm-s-obsidian span.cm-url,
 .content a:not(.site-name-link) {
     color: var(--link-custom-color) !important;
-    background-color: var(--link-custom-bg) !important;
-    border: 1px solid var(--link-custom-border) !important;
-    border-radius: 5px !important; /* Rounded corners */
-    padding: 1px 5px !important;
-    text-decoration: none !important; /* Remove underline */
-    box-shadow: none !important; /* Remove any border-bottom underlines */
-    transition: all 0.2s ease-in-out;
-    display: inline-block;
-    margin: 0 1px;
+    background-color: transparent !important;
+    border: none !important;
+    border-radius: 0 !important;
+    padding: 0 !important;
+    text-decoration: none !important;
+    box-shadow: none !important;
+    transition: color 0.15s ease, text-decoration 0.15s ease;
+    display: inline;
+    margin: 0;
 }
 
-/* Specific exception for Homepage link in sidebar */
+/* Homepage link in sidebar */
 a.site-name-link {
     background: none !important;
     border: none !important;
@@ -758,50 +762,100 @@ a.site-name-link {
     display: block !important;
 }
 
-/* PediaNotes Coloring */
+/* PediaNotes Branding Colors */
 .site-name-title .pedia {
     color: var(--h1-color) !important;
 }
 .theme-dark .site-name-title .notes {
-    color: var(--h3-color) !important; /* Pinkish in dark mode */
+    color: var(--h3-color) !important;
 }
 .theme-light .site-name-title .notes {
-    color: var(--h3-color) !important; /* Pinkish in light mode */
+    color: var(--h3-color) !important;
 }
 
-/* Hover Effect for Links (ONLY IN MAIN CONTENT) */
+/* Hover: underline only */
 div.cm-s-obsidian span.cm-link:hover,
 div.cm-s-obsidian span.cm-hmd-internal-link:hover,
 div.cm-s-obsidian span.cm-url:hover,
 .content a:not(.site-name-link):hover {
-    background-color: var(--link-custom-bg-hover) !important;
-    text-decoration: none !important;
-    border-color: var(--link-custom-color) !important;
+    text-decoration: underline !important;
+    border-color: transparent !important;
 }
 
-/* 2. HEADING STRUCTURE */
-.cm-header-1, h1 { font-size: 1.7em !important; font-weight: 700 !important; }
-.cm-header-2, h2 { font-size: 1.5em !important; font-weight: 700 !important; border-bottom: none !important; }
-.cm-header-3, h3 { font-size: 1.2em !important; font-weight: 600 !important; }
-.cm-header-4, h4 { font-size: 1.1em !important; font-weight: 500 !important; letter-spacing: 0.05em; }
-.cm-header-5, h5 { font-size: 1em !important; font-weight: 500 !important; letter-spacing: 0.05em; }
-.cm-header-6, h6 { font-size: 0.87em !important; font-weight: 400 !important; letter-spacing: 0.05em; }
+/* ============================================================
+   3. HEADING HIERARCHY — Clinical Scannable Structure
+   ============================================================ */
+.cm-header-1, h1 {
+    font-size: 1.75em !important;
+    font-weight: 700 !important;
+    border-bottom: 2px solid var(--link-custom-color) !important;
+    padding-bottom: 0.25em;
+    margin-top: 1.2em;
+    margin-bottom: 0.5em;
+    letter-spacing: -0.02em;
+}
+.cm-header-2, h2 {
+    font-size: 1.4em !important;
+    font-weight: 650 !important;
+    border-bottom: 1px solid var(--border-subtle, rgba(150,150,150,0.2)) !important;
+    padding-bottom: 0.2em;
+    margin-top: 1.5em;
+    margin-bottom: 0.4em;
+    letter-spacing: -0.01em;
+}
+.cm-header-3, h3 {
+    font-size: 1.2em !important;
+    font-weight: 600 !important;
+    margin-top: 1.4em;
+    margin-bottom: 0.35em;
+    letter-spacing: 0;
+}
+.cm-header-4, h4 {
+    font-size: 1.05em !important;
+    font-weight: 600 !important;
+    margin-top: 1.3em;
+    margin-bottom: 0.3em;
+    letter-spacing: 0;
+}
+.cm-header-5, h5 {
+    font-size: 0.95em !important;
+    font-weight: 600 !important;
+    text-transform: uppercase;
+    letter-spacing: 0.04em;
+    margin-top: 1.2em;
+    margin-bottom: 0.25em;
+}
+.cm-header-6, h6 {
+    font-size: 0.85em !important;
+    font-weight: 500 !important;
+    text-transform: uppercase;
+    letter-spacing: 0.04em;
+    color: var(--text-muted) !important;
+    margin-top: 1em;
+    margin-bottom: 0.2em;
+}
 
-/* 3. DARK THEME COLORS */
+/* ============================================================
+   4. DARK THEME — Radiopaedia Inspired
+   ============================================================ */
 body.theme-dark {
-    --text-normal: #CCCCCC !important;
-    --h1-color: #AAE5FA !important;
-    --h2-color: #ECC0F5 !important;
-    --h3-color: #FBC8C1 !important;
-    --h4-color: #F09B8E !important;
-    --h5-color: #FCAD70 !important;
-    --h6-color: #ABF5B9 !important;
-    background: linear-gradient(180deg, #0B0E14 0%, #1A1F2B 100%) fixed !important;
+    --text-normal: #D4D7DD !important;
+    --text-muted: #8891A0 !important;
+    --h1-color: #7CB3F0 !important;
+    --h2-color: #93C5FD !important;
+    --h3-color: #BAD6FA !important;
+    --h4-color: #D4D7DD !important;
+    --h5-color: #E5E7EB !important;
+    --h6-color: #8891A0 !important;
+    --border-subtle: rgba(255,255,255,0.06);
+    background: #0F1117 !important;
+    --background-primary: #0F1117 !important;
+    --background-secondary: #1A1D27 !important;
 }
 body.theme-dark .filetree-sidebar,
 body.theme-dark .sidebar {
     background: transparent !important;
-    backdrop-filter: blur(10px);
+    backdrop-filter: blur(12px);
 }
 
 body.theme-dark h1, body.theme-dark .cm-header-1, body.theme-dark .markdown-rendered h1, body.theme-dark .inline-title { color: var(--h1-color) !important; }
@@ -813,21 +867,27 @@ body.theme-dark h6, body.theme-dark .cm-header-6, body.theme-dark .markdown-rend
 body.theme-dark strong, body.theme-dark .cm-strong,
 body.theme-dark em, body.theme-dark .cm-em { color: #FFFFFF; }
 
-/* 4. LIGHT THEME COLORS */
+/* ============================================================
+   5. LIGHT THEME — UpToDate Inspired
+   ============================================================ */
 body.theme-light {
-    --text-normal: #404040 !important;
-    --h1-color: #1E3A8A !important;
-    --h2-color: #581C87 !important;
-    --h3-color: #9D174D !important;
-    --h4-color: #931616 !important;
-    --h5-color: #C2410C !important;
-    --h6-color: #2C3E50 !important;
-    background: linear-gradient(180deg, #F0F7FF 0%, #FFF0F5 100%) fixed !important;
+    --text-normal: #1A1A2E !important;
+    --text-muted: #5A6377 !important;
+    --h1-color: #0D2B4E !important;
+    --h2-color: #1A4A7A !important;
+    --h3-color: #2563A0 !important;
+    --h4-color: #1A1A2E !important;
+    --h5-color: #374151 !important;
+    --h6-color: #6B7280 !important;
+    --border-subtle: rgba(0,0,0,0.08);
+    background: #FFFFFF !important;
+    --background-primary: #FFFFFF !important;
+    --background-secondary: #F8F9FA !important;
 }
 body.theme-light .filetree-sidebar,
 body.theme-light .sidebar {
     background: transparent !important;
-    backdrop-filter: blur(10px);
+    backdrop-filter: blur(12px);
 }
 
 body.theme-light h1, body.theme-light .cm-header-1, body.theme-light .markdown-rendered h1, body.theme-light .inline-title { color: var(--h1-color) !important; }
@@ -839,7 +899,8 @@ body.theme-light h6, body.theme-light .cm-header-6, body.theme-light .markdown-r
 body.theme-light strong, body.theme-light .cm-strong,
 body.theme-light em, body.theme-light .cm-em { color: #000000; }
 
-/* Ensure bold and italic text in headings inherit the heading color */
+
+/* Ensure bold/italic text in headings inherit heading color */
 .markdown-rendered h1 *, .markdown-rendered h2 *, .markdown-rendered h3 *, 
 .markdown-rendered h4 *, .markdown-rendered h5 *, .markdown-rendered h6 *,
 .cm-header-1 *, .cm-header-2 *, .cm-header-3 *, 
@@ -848,7 +909,7 @@ body.theme-light em, body.theme-light .cm-em { color: #000000; }
     color: inherit !important;
 }
 
-/* Reset Sidebar & Filetree Links (TOC, navigation, etc.) to plain text style */
+/* Reset Sidebar & Filetree Links to plain text */
 body .sidebar a,
 body .sidebar-container a,
 body .toc-container a,
@@ -882,4 +943,43 @@ body .backlink-title {
     font-weight: bold !important;
 }
 
+/* ============================================================
+   6. TABLE STYLING — Clinical Density
+   ============================================================ */
+.markdown-rendered table {
+    border-collapse: collapse;
+    width: 100%;
+    margin: 1em 0;
+}
+.markdown-rendered th {
+    font-weight: 600;
+    text-align: left;
+}
+body.theme-light .markdown-rendered th {
+    background: #F0F4F8 !important;
+}
+body.theme-dark .markdown-rendered th {
+    background: rgba(255,255,255,0.04) !important;
+}
+.markdown-rendered th,
+.markdown-rendered td {
+    padding: 6px 10px !important;
+    border: 1px solid var(--border-subtle, rgba(150,150,150,0.2)) !important;
+}
+body.theme-light .markdown-rendered tr:nth-child(even) {
+    background: #FAFBFC;
+}
+body.theme-dark .markdown-rendered tr:nth-child(even) {
+    background: rgba(255,255,255,0.02);
+}
+
+/* ============================================================
+   7. CONTENT MAX-WIDTH (expanded vs collapsed)
+   ============================================================ */
+main.content {
+    max-width: 800px !important;
+}
+body.layout-collapsed main.content {
+    max-width: 950px !important;
+}
 
