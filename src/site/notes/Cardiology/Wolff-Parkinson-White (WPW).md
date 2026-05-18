@@ -4,7 +4,7 @@
 
 ## Definition and Pathophysiology
 
-- Ventricular preexcitation syndrome first described in 1915.
+- Ventricular preexcitationpreexcitation syndrome first described in 1915.
 - Characterized by paroxysms of tachycardia.
 - Caused by presence of accessory bypass tracts.
 - Bypasses normal atrioventricular (AV) node conduction.
@@ -63,12 +63,12 @@
 
 ### Genetic, Metabolic, and Systemic Syndromes
 
-|Syndrome / Disease|Genetic/Molecular Basis|Clinical Features|
-|:--|:--|:--|
-|**PRKAG2 Syndrome**|Autosomal dominant; PRKAG2 gene ($\gamma$2 subunit of AMPK)|Glycogen-accumulating cardiomyopathy. Conduction delay, advanced heart block, cardiac hypertrophy, sudden cardiac death.|
-|**Danon Disease**|Xq24; LAMP2 mutation|Lysosomal storage disorder. Associated with Hypertrophic Cardiomyopathy (HCM).|
-|**Tuberous Sclerosis**|-|Associated with cardiac rhabdomyomas and preexcitation.|
-|**Hypokalemic Periodic Paralysis**|-|Episodic muscle weakness associated with WPW.|
+| Syndrome / Disease                 | Genetic/Molecular Basis                                      | Clinical Features                                                                                                        |
+| :--------------------------------- | :----------------------------------------------------------- | :----------------------------------------------------------------------------------------------------------------------- |
+| **PRKAG2 Syndrome**                | Autosomal dominant; PRKAG2 gene ($\gamma$ 2 subunit of AMPK) | Glycogen-accumulating cardiomyopathy. Conduction delay, advanced heart block, cardiac hypertrophy, sudden cardiac death. |
+| **Danon Disease**                  | Xq24; LAMP2 mutation                                         | Lysosomal storage disorder. Associated with Hypertrophic Cardiomyopathy (HCM).                                           |
+| **Tuberous Sclerosis**             | -                                                            | Associated with cardiac rhabdomyomas and preexcitation.                                                                  |
+| **Hypokalemic Periodic Paralysis** | -                                                            | Episodic muscle weakness associated with WPW.                                                                            |
 
 ### Mitochondrial Diseases
 

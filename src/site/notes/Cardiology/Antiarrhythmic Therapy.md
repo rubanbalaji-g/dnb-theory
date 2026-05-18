@@ -12,7 +12,7 @@
 
 ## Vaughan-Williams Classification
 
-Categorizes agents based on primary electrophysiological mechanism of action.
+Categorizes agents based on primary electrophysiological mechanism of action.![Pasted image 20260518183854.png](/img/user/+%C4%B0mages/Pasted%20image%2020260518183854.png)
 
 |Class|Mechanism of Action|Examples|
 |:--|:--|:--|
@@ -28,6 +28,7 @@ Categorizes agents based on primary electrophysiological mechanism of action.
 ## Specific Pharmacologic Agents & Dosing Profiles
 
 ### Class I: Sodium Channel Blockers
+![Pasted image 20260518183632.png](/img/user/+%C4%B0mages/Pasted%20image%2020260518183632.png)
 
 #### Procainamide (Class IA)
 
@@ -51,6 +52,7 @@ Categorizes agents based on primary electrophysiological mechanism of action.
 - **Caution:** Negative inotropic effect. Strictly contraindicated in structural heart disease, severe heart failure, and AV block.
 
 ### Class II: Beta-Blockers
+![Pasted image 20260518183920.png](/img/user/+%C4%B0mages/Pasted%20image%2020260518183920.png)
 
 #### Propranolol
 
@@ -66,6 +68,7 @@ Categorizes agents based on primary electrophysiological mechanism of action.
 - **Dose:** IV load 100–500 mcg/kg; maintenance 25–100 mcg/kg/min (titrate up to 500 mcg/kg/min).
 
 ### Class III: Potassium Channel Blockers
+![Pasted image 20260518183748.png](/img/user/+%C4%B0mages/Pasted%20image%2020260518183748.png)
 
 #### Amiodarone
 
@@ -83,7 +86,7 @@ Categorizes agents based on primary electrophysiological mechanism of action.
 - **Caution:** Contraindicated in baseline prolonged QTc (>450 ms). Risk of Torsades de pointes.
 
 ### Class IV: Calcium Channel Blockers
-
+![Pasted image 20260518184010.png](/img/user/+%C4%B0mages/Pasted%20image%2020260518184010.png)
 #### Verapamil
 
 - **Indication:** SVT (excluding Wolff-Parkinson-White [WPW] syndrome).

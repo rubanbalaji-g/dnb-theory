@@ -68,7 +68,7 @@
 
 ### Ventricular Tachycardia (VT)
 
-- Definition: $\ge$3 consecutive premature ventricular contractions at >120 bpm.
+- Definition: $\ge$ 3 consecutive premature ventricular contractions at >120 bpm.
 - Morphology: Monomorphic, polymorphic, bidirectional, or torsades de pointes.
 - Diagnostic Clues: Ventriculoatrial (VA) dissociation, sinus capture beats, fusion beats.
 - **Etiology:**
