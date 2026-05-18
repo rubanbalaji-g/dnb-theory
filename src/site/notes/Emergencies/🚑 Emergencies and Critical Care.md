@@ -10,12 +10,11 @@
 ## Critical Care Scoring
 1. [[Emergencies/Scoring Systems in PICU\|Scoring Systems in PICU]]
 2. [[Emergencies/PRISM Scoring in PICU\|PRISM Scoring in PICU]]
-3. [[Emergencies/Modified Glasgow Coma Scale for Pediatrics 🔥🔥🔥\|Modified Glasgow Coma Scale for Pediatrics 🔥🔥🔥]]
-4. [[Emergencies/APVU Scale\|APVU Scale]]
+3. [[Emergencies/APVU Scale\|APVU Scale]]
 ## Procedures and Therapies in Intensive Care Setting
-1. [[Emergencies/Rapid Sequence Intubation\|Rapid Sequence Intubation 🔥🔥🔥]]
-2. [[Emergencies/Mechanical Ventilation 🔥🔥🔥\|Mechanical Ventilation 🔥🔥🔥]]
-3. [[Emergencies/Blood Gas Analysis 🔥🔥🔥\|Blood Gas Analysis 🔥🔥🔥]]
+1. [[Emergencies/Rapid Sequence Intubation\|Rapid Sequence Intubation]]
+2. [[Emergencies/Mechanical Ventilation\|Mechanical Ventilation]]
+3. [[Emergencies/Blood Gas Analysis\|Blood Gas Analysis]]
 4. [[Emergencies/Sedation in PICU\|Sedation in PICU]]
 5. [[Emergencies/Pain Management in PICU\|Pain Management in PICU]]
 6. [[Emergencies/High Frequency Oscillatory Ventilation (HFOV)\|High Frequency Oscillatory Ventilation (HFOV)]]
@@ -23,9 +22,9 @@
 ## Monitoring in PICU
 1. [[Emergencies/Pulse Oximetry\|Pulse Oximetry]] 
 2. [[Emergencies/Non-Invasive Estimation of Gas Exchange\|Non-Invasive Estimation of Gas Exchange]]
-3. [[Emergencies/Capnography (EtCO2)\|Capnography (EtCO2)]]
+3. [[Emergencies/Capnography\|Capnography (EtCO2)]]
 4. [[Emergencies/Pulmonary Graphics Monitoring\|Pulmonary Graphics Monitoring]]
-5. [[Emergencies/Oxygenation Index (OI)\|Oxygenation Index (OI)]]
+5. [[Emergencies/Oxygenation Index\|Oxygenation Index (OI)]]
 6. [[Emergencies/Ventilation Perfusion Ratio\|Ventilation Perfusion Ratio]]
 ## Pediatric Critical Conditions
 1. [[Emergencies/Respiratory Failure 🔥🔥🔥\|Respiratory Failure 🔥🔥🔥]]

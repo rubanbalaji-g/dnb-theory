@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"uptext":"Back to Index (🚑 Emergencies and Critical Care)","uplink":"/emergencies/emergencies-and-critical-care/","permalink":"/emergencies/high-flow-nasal-oxygen-therapy/","dgPassFrontmatter":true}
+{"dg-publish":true,"uptext":"Back to Index (🚑 Emergencies and Critical Care)","uplink":"/emergencies/emergencies-and-critical-care/","dg-path":"HFNO","permalink":"/hfno/","dgPassFrontmatter":true}
 ---
 
 ### Mechanism of Action and Physiological Benefits

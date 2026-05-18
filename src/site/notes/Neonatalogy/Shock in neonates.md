@@ -26,7 +26,7 @@ Additional features includes (to strengthen the diagnosis)
 - Mean blood pressure less than 5th percentile for the postnatal age in days
 - <span style="color:#e67e00">British Association of perinatal medicine - working Definition</span> MBP less than gestational age or <30 mm Hg whichever is higher
 - MPB of 20 mm Hg isacceptable if CrCP (Cerebral critical closing pressure) is maintained - undermines the importance of organ perfusion rather than blood pressure alone
-- Bedside capnography can be a surrogate marker for organ perfusion
+- Bedside [[Emergencies/Capnography\|capnography]] can be a surrogate marker for organ perfusion
 
 ## Classification of neonatal shock
 4 types irrespective of the etiology

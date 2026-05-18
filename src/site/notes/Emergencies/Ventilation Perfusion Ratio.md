@@ -4,7 +4,6 @@
 
 ## Definition of Ventilation/Perfusion (Va/Q) Ratio and Mismatch
 
-- _Please note: While the provided sources do not explicitly state the strict mathematical formula for the Ventilation/Perfusion (Va/Q) ratio, they comprehensively outline the physiological principles of alveolar ventilation, pulmonary perfusion, and the consequences of their mismatch._
 - The Ventilation/Perfusion (Va/Q) ratio functionally describes the dynamic balance between the amount of air reaching the alveoli (alveolar ventilation) and the amount of blood reaching the pulmonary capillaries (perfusion).
 - Optimal gas exchange across the alveolar-capillary membrane relies entirely on this balance; any deviation from this harmonious state is clinically termed a V/Q mismatch.
 - The extremes of Va/Q mismatch are physiologically categorized into two distinct states:

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"uptext":"Back to Index (🚑 Emergencies and Critical Care)","uplink":"/emergencies/emergencies-and-critical-care/","permalink":"/emergencies/high-frequency-oscillatory-ventilation-hfov/","dgPassFrontmatter":true}
+{"dg-publish":true,"uptext":"Back to Index (🚑 Emergencies and Critical Care)","uplink":"/emergencies/emergencies-and-critical-care/","dg-path":"hfov","permalink":"/hfov/","dgPassFrontmatter":true}
 ---
 
 ### Introduction and Definition
@@ -34,7 +34,7 @@
 ### Indications for HFOV
 
 - HFOV is primarily indicated as "rescue therapy" in cases of refractory hypercarbia with hypoxemic respiratory failure or severe [[Emergencies/PARDS\|PARDS]].
-- It is considered when there are high or injurious conventional ventilator setting requirements, specifically when FiO_2 > 60% and Peak Inspiratory Pressures (PIP) $> 30\ cm\ H_2O$.
+- It is considered when there are high or injurious conventional ventilator setting requirements, specifically when $FiO_2$ > 60% and Peak Inspiratory Pressures (PIP) $> 30\ cm\ H_2O$.
 - It serves as a "salvage therapy" in refractory hypoxemic respiratory failure where Extracorporeal Membrane Oxygenation (ECMO) is not available.
 - HFOV is also indicated in the management of airleak syndromes.
 - It may be considered in patients with known pulmonary hypertension, severe right ventricular dysfunction, or as a bridge to ECMO.
@@ -55,7 +55,7 @@
 ### Initial Settings and Goals of Ventilation
 
 - Most Pediatric Intensive Care Units use SensorMedics ventilators, deploying the 3100A model for patients less than 35 kg and the 3100B model for patients weighing more than 35 kg.
-- Patients are usually initially started on conventional ventilation according to lung-protective goals (arterial $pH \ge 7.25$, $SpO_2 \sim 88 - 92\%$, and $PaO_2 \sim 60\ mm\ Hg$) before deploying HFOV when the [[Emergencies/Oxygenation Index (OI)\|Oxygenation Index (OI)]] is >15 despite high levels of PEEP.
+- Patients are usually initially started on conventional ventilation according to lung-protective goals (arterial $pH \ge 7.25$, $SpO_2 \sim 88 - 92\%$, and $PaO_2 \sim 60\ mm\ Hg$) before deploying HFOV when the [[Emergencies/Oxygenation Index\|Oxygenation Index]] is >15 despite high levels of PEEP.
 - The $FiO_2$ is usually set at 100% (1.0) at the beginning of HFOV and is subsequently weaned based on oxygenation, with an attempt to decrease $FiO_2 < 60\%$.
 - The mPaw is typically set at 5-8 cm $H_2O$ above the last mPaw on CMV for a high volume strategy.
 - If starting HFOV immediately without prior CMV, the clinician should use an mPaw $\approx 8-10\ cm\ H_2O$ in neonates and $15-18\ cm\ H_2O$ in infants/children.

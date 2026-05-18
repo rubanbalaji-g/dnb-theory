@@ -21,7 +21,7 @@
 |**Anthropometric & Nutritional**|- Tracks Weight-for-Age, Height/Length-for-Age, and Head Circumference on WHO Growth Charts.- Severe Acute Malnutrition (SAM) screening using MUAC < 11.5 cm (6–59 months).- Clinical screening for nutritional anemia, Vitamin D (rickets), and Vitamin A (Bitot's spots) deficiencies.|
 |**Neurodevelopmental**|- Longitudinal surveillance at 2, 4, 6, 9, 12, 18, 24, 36, 48, and 60 months.- Utilizes standardized tools like the Trivandrum Developmental Screening Chart (TDSC) and Denver Developmental Screening Test (DDST-II).- Mandates M-CHAT-R/F at 18 and 24 months to detect Autism Spectrum Disorder (ASD).|
 |**Sensory (Hearing & Vision)**|- Universal Newborn Hearing Screening (UNHS) using TEOAE and AABR.- Infant vision screening via Brückner test (red reflex) for cataracts or retinoblastoma.- Visual acuity testing in toddlers (3–5 years) using Snellen E-charts or Lea Symbols.|
-|**Congenital & Systemic**|- Clinical screening for developmental dysplasia of the hip (Barlow/Ortolani maneuvers), clubfoot, and undescended testes.- Critical congenital heart disease (CCHD) screening via routine pulse oximetry.- Targeted heel-prick screening for congenital hypothyroidism, G6PD deficiency, and hemoglobinopathies.|
+|**Congenital & Systemic**|- Clinical screening for developmental dysplasia of the hip (Barlow/Ortolani maneuvers), clubfoot, and undescended testes.- Critical congenital heart disease (CCHD) screening via routine [[Emergencies/Pulse Oximetry\|pulse oximetry]].- Targeted heel-prick screening for congenital hypothyroidism, G6PD deficiency, and hemoglobinopathies.|
 
 ## Operational Implementation Framework
 

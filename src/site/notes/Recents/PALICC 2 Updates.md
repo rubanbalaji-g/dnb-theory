@@ -13,7 +13,7 @@
 ## Severity Stratification and "Possible PARDS"
 
 - Severity classification is now strictly assessed at least four hours post-diagnosis.
-- Stratification categorizes PARDS into mild, moderate, or severe based on the Oxygenation Index (OI) and Oxygen Saturation Index (OSI).
+- Stratification categorizes PARDS into mild, moderate, or severe based on the [[Emergencies/Oxygenation Index\|Oxygenation Index]] (OI) and Oxygen Saturation Index (OSI).
 - The new category of "Possible PARDS" captures children receiving High-Flow Nasal Cannula (HFNC) therapy at $\ge$ 2 L/kg/min with an SpO2/FiO2 ratio $\le$ 264.
 - Identifying "Possible PARDS" increases case capture by 20 to 30% without altering overall outcome patterns.
 

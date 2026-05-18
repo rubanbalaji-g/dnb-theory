@@ -31,7 +31,7 @@
 
 ## Clinical Features
 
-- Cyanosis present from birth or appearing in early infancy (worsens with ductal closure).
+- Cyanosis present from 6 week of life or appearing in early infancy (worsens with ductal closure).
 - Severity of cyanosis inversely related to systolic murmur intensity.
 - Effort intolerance and exertional dyspnea.
 - Squatting behavior in older children (increases systemic vascular resistance, augmenting pulmonary blood flow).

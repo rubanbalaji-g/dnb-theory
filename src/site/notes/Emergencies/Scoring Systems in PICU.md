@@ -2,7 +2,7 @@
 {"dg-publish":true,"uptext":"Back to Index (🚑 Emergencies and Critical Care)","uplink":"/emergencies/emergencies-and-critical-care/","permalink":"/emergencies/scoring-systems-in-picu/","dgPassFrontmatter":true}
 ---
 
-## 1. INTRODUCTION AND RATIONALE
+ ## 1. INTRODUCTION AND RATIONALE
 Scoring systems in the Pediatric Intensive Care Unit (PICU) are objective, mathematical tools designed to quantify the severity of illness, predict the probability of mortality, and assess the degree of organ dysfunction. Because critically ill children present with a heterogeneous mix of diagnoses and varying degrees of physiological derangement, subjective clinical assessment alone is insufficient for epidemiological and quality-control purposes. 
 
 **Core Utilities of PICU Scoring Systems:**
@@ -31,14 +31,14 @@ Scoring systems are broadly classified based on their primary objective and timi
 First developed in 1988, the PRISM score has evolved through PRISM III and currently PRISM IV. It is designed to estimate mortality risk based on the worst physiological derangements observed during the initial ICU period.
 * **Timing of Data Collection:** The most abnormal values recorded during the first 12 to 24 hours of PICU admission are utilized.
 * **Variables in PRISM IV:** Incorporates 17 physiological and laboratory variables, divided into distinct domains:
-  * **Cardiovascular/Vital Signs:** Systolic blood pressure, heart rate, temperature.
-  * **Neurologic:** Pupillary reflexes, mental status (Glasgow Coma Scale).
-  * **Respiratory & Acid-Base:** PaO2, pH, pCO2, total CO2.
-  * **Chemistry & Hematology:** Serum glucose, potassium, blood urea nitrogen (BUN), creatinine, total white blood cell (WBC) count, platelet count, Prothrombin Time (PT), and Partial Thromboplastin Time (PTT).
+	* **Cardiovascular/Vital Signs:** Systolic blood pressure, heart rate, temperature.
+	* **Neurologic:** Pupillary reflexes, mental status (Glasgow Coma Scale).
+	* **Respiratory & Acid-Base:** PaO2, pH, pCO2, total CO2.
+	* **Chemistry & Hematology:** Serum glucose, potassium, blood urea nitrogen (BUN), creatinine, total white blood cell (WBC) count, platelet count, Prothrombin Time (PT), and Partial Thromboplastin Time (PTT).
 * **Advantages:** Exceptionally high discrimination power; provides a comprehensive physiological snapshot. It is highly validated across diverse PICU populations globally.
 * **Limitations (The Treatment Paradox):** Because PRISM gathers data over 24 hours, early, aggressive, and high-quality PICU interventions can normalize physiological variables (e.g., fluid resuscitation normalizing heart rate and BUN). Paradoxically, this lowers the PRISM score, making the patient appear "less sick" at baseline, which confounds the assessment of the unit's actual care quality. This phenomenon is known as "lead-time bias" or the "treatment paradox."
 
-### B. Pediatric [[Statistics/Index\|Index]] of Mortality (PIM)
+### B. Pediatric Index of Mortality (PIM)
 Developed specifically to overcome the treatment paradox seen with PRISM, PIM (currently utilized as PIM 2 and PIM 3) relies on data collected at the immediate point of ICU encounter.
 * **Timing of Data Collection:** Data must be collected within the first 1 hour of PICU admission, or at the time of initial face-to-face contact with the ICU team.
 * **Variables in PIM 3:** Comprises 10 variables, making it significantly less labor-intensive than PRISM. It heavily weights the pre-ICU context.

@@ -11,7 +11,7 @@
 
 ### Pre-Intubation Preparation and Adjuncts
 
-- Preoxygenation with 100% oxygen is a mandatory initial step to maximize oxygen reserves, and the clinician must anticipate and prepare for potential procedure-induced hypotension.
+- Pre-oxygenation with 100% oxygen is a mandatory initial step to maximize oxygen reserves, and the clinician must anticipate and prepare for potential procedure-induced hypotension.
 - The application of cricoid pressure can be considered in unconscious children to minimize the risk of gastric aspiration; however, it must be promptly discontinued if it impedes bag-mask ventilation or interferes with the ease of intubation.
 - The intubation procedure should be gentle and strictly controlled; prolonged or multiple intubation attempts must be avoided to prevent secondary physiological derangements.
 - Atropine is not routinely recommended prior to intubation but should be used as a premedication when the risk of bradycardia is elevated, such as in young infants, near-drowning patients, or when succinylcholine is administered.
@@ -30,4 +30,4 @@
 - Following the administration of the sedative, a rapid-acting muscle relaxant is given to achieve complete vocal cord paralysis and optimize intubating conditions.
 - Short-acting non-depolarizing neuromuscular blocking agents are frequently recommended for this purpose.
 - Standard non-depolarizing options include vecuronium (0.1 mg/kg IV), atracurium (0.5 mg/kg IV), or rocuronium (0.6-1.2 mg/kg IV).
-- Succinylcholine, a depolarizing agent, may also be utilized to facilitate rapid intubation, provided that atropine premedication is considered to mitigate the risk of severe bradycardia.
+- Succinylcholine, a depolarizing agent, may also be utilized to facilitate rapid intubation, provided that atropine premedication is considered to mitigate the risk of severe bradycardia.[[Modified Glasgow Coma Scale for Pediatrics 🔥🔥🔥\|Modified Glasgow Coma Scale for Pediatrics 🔥🔥🔥]]

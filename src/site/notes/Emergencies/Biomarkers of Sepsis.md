@@ -35,7 +35,7 @@
 
 ### Base Deficit and Arterial pH
 
-- Arterial blood gas analysis provides essential early biochemical markers in the form of pH and base deficit.
+- Arterial [[Emergencies/Blood Gas Analysis\|blood gas analysis]] provides essential early biochemical markers in the form of pH and base deficit.
 - The calculation of the base deficit aids in the direct quantification of tissue hypoperfusion, as the severity of the metabolic acidosis strongly correlates with the severity of cellular hypoperfusion.
 
 ## Role of Biomarkers in Diagnosis and Management

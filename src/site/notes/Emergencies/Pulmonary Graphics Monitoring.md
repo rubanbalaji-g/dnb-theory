@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"uptext":"Back to Index (🚑 Emergencies and Critical Care)","uplink":"/emergencies/emergencies-and-critical-care/","permalink":"/emergencies/pulmonary-graphics-monitoring/","dgPassFrontmatter":true}
+{"dg-publish":true,"uptext":"Back to Index (🚑 Emergencies and Critical Care)","uplink":"/emergencies/emergencies-and-critical-care/","dg-path":null,"permalink":"/emergencies/pulmonary-graphics-monitoring/","dgPassFrontmatter":true}
 ---
 
-## [[Emergencies/Pulmonary Graphics Monitoring\|Pulmonary Graphics Monitoring]]
+## Pulmonary Graphics Monitoring
 
-- [[Emergencies/Pulmonary Graphics Monitoring\|Pulmonary graphics monitoring]] has emerged as a valuable tool in the Pediatric Intensive Care Unit (PICU).
+- Pulmonary graphics monitoring has emerged as a valuable tool in the Pediatric Intensive Care Unit (PICU).
 - The flow sensor collects the air flow data to help derive multiple respiratory mechanics parameters.
 - The basic parameters measured include the pressure ($P$) necessary to cause a flow ($Q$) of gas to enter the airway and increase the volume ($V$) of the lungs.
 

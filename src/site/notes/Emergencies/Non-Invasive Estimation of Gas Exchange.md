@@ -3,7 +3,7 @@
 ---
 
 - Non-invasive monitoring of gas exchange is a cornerstone in the pediatric intensive care unit (PICU) for continuously evaluating a child's oxygenation and ventilation status without the need for repeated arterial blood sampling.
-- The primary modalities include [[Emergencies/Pulse Oximetry\|pulse oximetry]] for oxygenation, capnography and transcutaneous monitoring for ventilation, and derived non-invasive indices for assessing the severity of respiratory failure.
+- The primary modalities include [[Emergencies/Pulse Oximetry\|pulse oximetry]] for oxygenation, [[Emergencies/Capnography\|capnography]] and transcutaneous monitoring for ventilation, and derived non-invasive indices for assessing the severity of respiratory failure.
 
 ### [[Emergencies/Pulse Oximetry\|Pulse Oximetry]] (SpO2)
 
@@ -12,23 +12,23 @@
 - In a healthy child, an oxygen saturation of > 94% on room air indicates normal oxygenation.
 - During ongoing management of ventilated infants and children, the targeted SpO2 is generally > 92%, and alarm limits are set within 1 to 2%.
 - In specific clinical scenarios, such as children with cyanotic congenital heart disease, a lower target SpO2 between 70-75% is acceptable provided that global tissue oxygenation parameters (like mixed venous oxygen saturation ~60% and normal lactate) are maintained.
-- Despite its widespread utility, [[Emergencies/Pulse Oximetry\|pulse oximetry]] has notable physiological limitations:
+- Despite its widespread utility, pulse oximetry has notable physiological limitations:
     - It is not a reliable measure of adequate ventilation (carbon dioxide clearance).
     - It completely fails to detect hyperoxia.
     - It frequently underestimates true SaO2 in the presence of circulatory shock or localized edema.
     - It provides grossly inaccurate readings in the presence of dyshemoglobinemias, such as [[Hematology/Methemoglobinemia\|methemoglobinemia]] (metHb) or carbon monoxide poisoning (COHb).
 
-### Capnography (End-Tidal CO2 - ETCO2)
+### [[Emergencies/Capnography\|Capnography]] (End-Tidal CO2 - ETCO2)
 
-- Capnography is a continuous, non-invasive method used to qualitatively and quantitatively assess ventilation by measuring the end-tidal carbon dioxide (ETCO2) in exhaled breaths.
+- [[Emergencies/Capnography\|Capnography]] is a continuous, non-invasive method used to qualitatively and quantitatively assess ventilation by measuring the end-tidal carbon dioxide (ETCO2) in exhaled breaths.
 - It is primarily indicated for patients on invasive mechanical ventilation and provides vital real-time bedside information regarding alveolar ventilation.
-- The clinical utility of capnography extends beyond simple CO2 monitoring, as it reliably detects:
+- The clinical utility of [[Emergencies/Capnography\|capnography]] extends beyond simple CO2 monitoring, as it reliably detects:
     - Respiratory rate and rhythm.
     - Endotracheal tube (ETT) position, accidental displacement, or acute obstruction.
     - Patient-ventilator asynchrony.
     - The quality and effectiveness of chest compressions during cardiopulmonary resuscitation (CPR).
 - Advanced ventilator management utilizes ETCO2 to calculate derived parameters indicative of the severity of lung injury, such as the dead space to tidal volume ratio, End Tidal Alveolar Dead Space Fraction (AVDSF), and the Ventilation [[Statistics/Index\|Index]].
-- A major limitation of capnography is that its reliability is highly dependent on pulmonary blood flow; its use is largely limited to patients exhibiting a perfusing rhythm and weighing more than 2 kg.
+- A major limitation of [[Emergencies/Capnography\|capnography]] is that its reliability is highly dependent on pulmonary blood flow; its use is largely limited to patients exhibiting a perfusing rhythm and weighing more than 2 kg.
 
 ### Transcutaneous Carbon Dioxide (TcPCO2) Monitoring
 

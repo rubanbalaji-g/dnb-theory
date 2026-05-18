@@ -47,7 +47,7 @@
 - Combine with an analgesic (like fentanyl) since sedatives lack analgesic properties.
 - Utilize Daily Sedation Interruption (DSI) (e.g., withholding sedatives for 2 hours daily) to prevent complications of oversedation and assess readiness for extubation.
 - Prolonged continuous infusion ($>5 \text{ days}$) of benzodiazepines or opioids leads to tolerance and physical dependence.
-- Weaning must be gradual (e.g., tapering by $10%-20%$ daily) to avoid Iatrogenic Withdrawal Syndrome (IWS).
+- Weaning must be gradual (e.g., tapering by $10\%-20 \%$ daily) to avoid Iatrogenic Withdrawal Syndrome (IWS).
 - Monitor withdrawal symptoms using validated tools like the Withdrawal Assessment Tool-1 (WAT-1) or the Sophia Observation withdrawal Symptoms-scale (SOS).
 
 ## Drugs Used for Sedation in the Intensive Care Setting

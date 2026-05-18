@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"uptext":"Back to Index (🚑 Emergencies and Critical Care)","uplink":"/emergencies/emergencies-and-critical-care/","permalink":"/emergencies/pain-management-in-picu/","dgPassFrontmatter":true}
+{"dg-publish":true,"uptext":"Back to Index (🚑 Emergencies and Critical Care)","uplink":"/emergencies/emergencies-and-critical-care/","dg-path":"pain-in-PICU","permalink":"/pain-in-picu/","dgPassFrontmatter":true}
 ---
 
 ## Definition and Physiology of Pain
@@ -21,13 +21,13 @@
 
 - Pain scales must be chosen based on the child's developmental age, cognitive ability, and clinical condition.
 
-|Scale Name|Target Age/Population|Features & Utility|Limitations|
-|:--|:--|:--|:--|
-|**Visual Analog Scale (VAS)**|$6-8 \text{ yrs}$ and older|Horizontal $10 \text{ cm}$ line from "no pain" to "most pain imaginable".|Requires cognitive ability to understand proportionality; cannot be used in younger children.|
-|**Numerical Rating Scale (NRS)**|$6-8 \text{ yrs}$ and older|Integers from $0$ to $10$. Considered the gold standard for children $>8 \text{ yrs}$.|Requires numerical processing skills.|
-|**Faces Scales (e.g., FACES-R, Wong-Baker)**|$>3 \text{ yrs}$|Line drawings or photos of faces indicating progressive distress.|Choice of "no pain" face (neutral vs. smiling) affects response; not universally applicable across cultures.|
-|**FLACC / Revised FLACC**|Infants, preverbal, cognitively impaired|Assesses **F**ace, **L**egs, **A**ctivity, **C**ry, and **C**onsolability on a $0-2$ scale (Total $0-10$).|May overrate pain in toddlers and underrate persistent pain.|
-|**CRIES Scale**|Neonates|Assesses **C**rying, **R**equires $O_2$, **I**ncreased vital signs, **E**xpression, and **S**leeplessness.|Score $>4$ requires immediate nonpharmacologic and pharmacologic interventions.|
+| Scale Name                                   | Target Age/Population                    | Features & Utility                                                                                                             | Limitations                                                                                                  |
+| :------------------------------------------- | :--------------------------------------- | :----------------------------------------------------------------------------------------------------------------------------- | :----------------------------------------------------------------------------------------------------------- |
+| **Visual Analog Scale (VAS)**                | $6-8 \text{ yrs}$ and older              | Horizontal $10 \text{ cm}$ line from "no pain" to "most pain imaginable".                                                      | Requires cognitive ability to understand proportionality; cannot be used in younger children.                |
+| **Numerical Rating Scale (NRS)**             | $6-8 \text{ yrs}$ and older              | Integers from $0$ to $10$. Considered the gold standard for children $>8 \text{ yrs}$.                                         | Requires numerical processing skills.                                                                        |
+| **Faces Scales (e.g., FACES-R, Wong-Baker)** | $>3 \text{ yrs}$                         | Line drawings or photos of faces indicating progressive distress.                                                              | Choice of "no pain" face (neutral vs. smiling) affects response; not universally applicable across cultures. |
+| **FLACC / Revised FLACC**                    | Infants, preverbal, cognitively impaired | Assesses <br>**F**ace, <br>**L**egs, <br>**A**ctivity, <br>**C**ry, and <br>**C**onsolability on a $0-2$ scale (Total $0-10$). | May overrate pain in toddlers and underrate persistent pain.                                                 |
+| **CRIES Scale**                              | Neonates                                 | Assesses <br>**C**rying, <br>**R**equires $O_2$, <br>**I**ncreased vital signs, <br>**E**xpression, and <br>**S**leeplessness. | Score $>4$ requires immediate nonpharmacologic and pharmacologic interventions.                              |
 
 ## Pharmacologic Management
 
@@ -51,13 +51,13 @@
 - Patient-Controlled Analgesia (PCA) or Parent/Nurse-Controlled Analgesia (PNCA) allows a basal infusion with intermittent boluses, providing superior pain control with fewer side effects compared to intermittent IM/IV dosing.
 - **Contraindications:** The FDA strictly contraindicates the use of codeine and tramadol in children $<12 \text{ yrs}$, and in adolescents $<18 \text{ yrs}$ post-tonsillectomy/adenoidectomy, due to risks of ultra-rapid metabolism causing severe respiratory depression.
 
-|Medication|Parenteral Dose|Oral Dose|Comments|
-|:--|:--|:--|:--|
-|**Morphine**|$0.05-0.1 \text{ mg/kg}$ q2-4h|$0.3 \text{ mg/kg}$ q3-4h (immediate release)|May cause histamine release and hypotension. Active metabolites excreted renally.|
-|**Fentanyl**|$0.5-1 \text{ \mu g/kg}$ q1-2h|Transmucosal: $10 \text{ \mu g/kg}$|$70-100$ times more potent than morphine. Rapid onset, stable hemodynamics.|
-|**Hydromorphone**|$0.01 \text{ mg/kg}$ q2-4h|$0.04-0.08 \text{ mg/kg}$ q3-4h|Five times more potent than morphine. No histamine release.|
-|**Methadone**|$0.1 \text{ mg/kg}$ q8-24h|$0.1 \text{ mg/kg}$ q8-24h|Long half-life ($15-40 \text{ hrs}$). Useful for chronic pain. Requires monitoring for QTc prolongation.|
-|**Oxycodone**|Not Available|$0.1-0.2 \text{ mg/kg}$ q3-4h|Strong opioid, preferable to hydrocodone.|
+| Medication        | Parenteral Dose                | Oral Dose                                     | Comments                                                                                                 |
+| :---------------- | :----------------------------- | :-------------------------------------------- | :------------------------------------------------------------------------------------------------------- |
+| **Morphine**      | $0.05-0.1 \text{ mg/kg}$ q2-4h | $0.3 \text{ mg/kg}$ q3-4h (immediate release) | May cause histamine release and hypotension. Active metabolites excreted renally.                        |
+| **Fentanyl**      | 0.5-1 mcg/kg q1-2h             | Transmucosal: 10 mcg/kg                       | $70-100$ times more potent than morphine. Rapid onset, stable hemodynamics.                              |
+| **Hydromorphone** | $0.01 \text{ mg/kg}$ q2-4h     | $0.04-0.08 \text{ mg/kg}$ q3-4h               | Five times more potent than morphine. No histamine release.                                              |
+| **Methadone**     | $0.1 \text{ mg/kg}$ q8-24h     | $0.1 \text{ mg/kg}$ q8-24h                    | Long half-life ($15-40 \text{ hrs}$). Useful for chronic pain. Requires monitoring for QTc prolongation. |
+| **Oxycodone**     | Not Available                  | $0.1-0.2 \text{ mg/kg}$ q3-4h                 | Strong opioid, preferable to hydrocodone.                                                                |
 
 ### Local and Topical Anesthetics
 
@@ -67,7 +67,7 @@
 |Agent|Dose / Application|Notes|
 |:--|:--|:--|
 |**EMLA (Lidocaine $2.5%$ + Prilocaine $2.5%$)**|Dose depends on age/weight (e.g., $1 \text{ g}$ for $<3 \text{ mo}$).|Requires $60 \text{ min}$ under occlusive dressing to achieve maximum effect.|
-|**LMX4 (Liposomal Lidocaine $5%$)**|$1-20 \text{ g}$ depending on age.|Requires $30-60 \text{ min}$ under occlusive dressing.|
+|**LMX4 (Liposomal Lidocaine $5\%$)**|$1-20 \text{ g}$ depending on age.|Requires $30-60 \text{ min}$ under occlusive dressing.|
 |**LET (Lidocaine, Epinephrine, Tetracaine)**|Apply to open wounds in children $\ge 1 \text{ yr}$.|Requires $20 \text{ min}$ for maximum effect.|
 
 ### Adjuvant and Unconventional Analgesics
@@ -75,19 +75,19 @@
 - Used primarily for neuropathic pain, complex regional pain syndrome (CRPS), migraines, and severe muscle spasms.
 - Tricyclic Antidepressants (TCAs) inhibit norepinephrine reuptake and are useful for neuropathic pain, [[Gastrointestinal/Functional Abdominal Pain\|functional abdominal pain]], and sleep disorders.
 
-|Medication|Starting Dose|Indications & Side Effects|
-|:--|:--|:--|
-|**Gabapentin**|$10-15 \text{ mg/kg/day}$ divided bid/tid.|Adjunct for neuropathic pain. Side effects: somnolence, dizziness.|
-|**Pregabalin**|$2.5 \text{ mg/kg/day}$ divided bid/tid.|Neuropathic pain, fibromyalgia. Side effects: ataxia, weight gain, drowsiness.|
-|**Amitriptyline / Nortriptyline**|$0.1 \text{ mg/kg}$ PO qhs (for $25-50 \text{ kg}$).|Neuropathic pain, migraines. Side effects: sedation, dry mouth, prolonged QTc.|
-|**Clonidine**|$5-25 \text{ \mu g/kg/day}$ divided q4-8h.|Anxiolytic, manages opioid withdrawal, neuropathic pain. Side effects: hypotension, bradycardia.|
-|**Ketamine**|Loading $0.25-0.5 \text{ mg/kg}$ IV.|NMDA receptor antagonist. Excellent for opioid-tolerant patients. Side effects: hallucinations, excess secretions.|
+| Medication                        | Starting Dose                                        | Indications & Side Effects                                                                                         |
+| :-------------------------------- | :--------------------------------------------------- | :----------------------------------------------------------------------------------------------------------------- |
+| **Gabapentin**                    | $10-15 \text{ mg/kg/day}$ divided bid/tid.           | Adjunct for neuropathic pain. Side effects: somnolence, dizziness.                                                 |
+| **Pregabalin**                    | $2.5 \text{ mg/kg/day}$ divided bid/tid.             | Neuropathic pain, fibromyalgia. Side effects: ataxia, weight gain, drowsiness.                                     |
+| **Amitriptyline / Nortriptyline** | $0.1 \text{ mg/kg}$ PO qhs (for $25-50 \text{ kg}$). | Neuropathic pain, migraines. Side effects: sedation, dry mouth, prolonged QTc.                                     |
+| **Clonidine**                     | $5-25 \text{mcg/kg/day}$ divided q4-8h.              | Anxiolytic, manages opioid withdrawal, neuropathic pain. Side effects: hypotension, bradycardia.                   |
+| **Ketamine**                      | Loading $0.25-0.5 \text{ mg/kg}$ IV.                 | NMDA receptor antagonist. Excellent for opioid-tolerant patients. Side effects: hallucinations, excess secretions. |
 
 ## Non-Pharmacologic Management
 
 ### Modalities by Age
 
-- **Neonates:** Non-nutritive sucking, breastfeeding, pacifier use, administration of $24%$ sucrose (which is opioid-mediated and reversible with naloxone), swaddling, skin-to-skin (kangaroo care), and gentle tactile-kinesthetic stimulation.
+- **Neonates:** Non-nutritive sucking, breastfeeding, pacifier use, administration of $24\%$ sucrose (which is opioid-mediated and reversible with naloxone), swaddling, skin-to-skin (kangaroo care), and gentle tactile-kinesthetic stimulation.
 - **Infants and Toddlers:** Distraction with bubbles, lighted wands, interactive sound or music, holding, and cuddling.
 - **Preschool and School-Age:** Distraction (video games, stories, movies), controlled deep breathing (e.g., pretending to blow up a balloon), guided imagery, and medical play (puppets, art therapy).
 - **Adolescents:** Hypnotherapy, biofeedback, progressive muscle relaxation, yoga, mindfulness meditation, and TENS (transcutaneous electrical nerve stimulation).

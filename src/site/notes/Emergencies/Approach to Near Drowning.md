@@ -128,7 +128,7 @@ D --> E3
 - Continuous hospital observation required for minimum 4-6 hours.
 - Observation mandatory even if initially asymptomatic.
 - Delayed pulmonary edema and progressive hypoxemia manifest during observation window.
-- Initial diagnostics include arterial blood gas analysis.
+- Initial diagnostics include arterial [[Emergencies/Blood Gas Analysis\|blood gas analysis]].
 - Complete metabolic panel, complete blood count, and chest radiography mandatory.
 
 ### Respiratory and Systemic Support

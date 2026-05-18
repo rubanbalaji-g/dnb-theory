@@ -40,7 +40,7 @@ There is no cure; management is supportive and lifelong.
 2.  **Diaphragm Pacing:**
     * Phrenic nerve pacing allows for increased mobility and "liberation" from mechanical ventilators during the day (implanted in older children).
 3.  **Monitoring:**
-    * Continuous [[Emergencies/Pulse Oximetry\|pulse oximetry]] and capnography ($EtCO_2$) during sleep.
+    * Continuous [[Emergencies/Pulse Oximetry\|pulse oximetry]] and [[Emergencies/Capnography\|capnography]] ($EtCO_2$) during sleep.
     * Annual screening for [[Hematology/Neuroblastoma\|Neuroblastoma]] and Holter monitoring (cardiac pauses).
 
 ## VI. Prognosis

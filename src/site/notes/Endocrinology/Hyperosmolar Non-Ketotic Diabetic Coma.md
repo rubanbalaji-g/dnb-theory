@@ -68,7 +68,7 @@
 
 - The initial diagnosis relies on a comprehensive metabolic panel demonstrating glucose levels consistently exceeding 600 mg/dL (33.3 mmol/L), frequently rising above 800 mg/dL or even 1000 mg/dL.
 - Serum electrolytes reveal extreme deficits in total body potassium, magnesium, and phosphate, resulting from prolonged osmotic diuresis, though initial serum concentrations may appear paradoxically normal due to hemoconcentration and fluid shifts.
-- Venous blood gas analysis confirms the absence of severe ketoacidosis (pH > 7.25, bicarbonate > 15 mmol/L), though a mild non-anion gap metabolic acidosis or a lactic acidosis secondary to poor tissue perfusion may be present.
+- Venous [[Emergencies/Blood Gas Analysis\|blood gas analysis]] confirms the absence of severe ketoacidosis (pH > 7.25, bicarbonate > 15 mmol/L), though a mild non-anion gap metabolic acidosis or a lactic acidosis secondary to poor tissue perfusion may be present.
 - Urine testing will demonstrate massive glycosuria with absent or trace ketones.
 
 ### Calculation of Serum Osmolality and Corrected Sodium

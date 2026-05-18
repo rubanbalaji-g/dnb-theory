@@ -43,7 +43,7 @@
 #### Phase IV: Third Therapy / Refractory Status (40 – 60 Minutes)
 * **Definition:** Seizure persists despite adequate Benzodiazepine + One Second-line ASM.
 * **Action:**
-    * Rapid Sequence Intubation (RSI) and mechanical ventilation.
+    * [[Emergencies/Rapid Sequence Intubation\|Rapid Sequence Intubation]] (RSI) and mechanical ventilation.
     * Continuous EEG monitoring (cEEG) is mandatory.
     * Initiate Continuous IV Anesthetic Infusion.
 

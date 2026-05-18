@@ -13,7 +13,7 @@
 |**Origin of Edema**|Respiratory failure not fully explained by cardiac failure or fluid overload.|
 |**Chest Imaging**|Findings of new infiltrate(s) consistent with acute pulmonary parenchymal disease.|
 |**Oxygenation (Non-Invasive)**|Full face-mask Bi-level ventilation or CPAP $\ge$ 5 cm H2O yielding a PaO2/FiO2 (PF) ratio $\le$ 300 or SpO2/FiO2 (SF) ratio $\le$ 264.|
-|**Oxygenation (Invasive)**|Stratified using [[Emergencies/Oxygenation Index (OI)\|Oxygenation Index (OI)]] or Oxygen Saturation [[Statistics/Index\|Index]] (OSI).|
+|**Oxygenation (Invasive)**|Stratified using [[Emergencies/Oxygenation Index\|Oxygenation Index]] or Oxygen Saturation [[Statistics/Index\|Index]] (OSI).|
 
 - Severity stratification based on invasive mechanical ventilation oxygenation criteria:
     - **Mild [[Emergencies/PARDS\|PARDS]]:** 4 $\le$ OI < 8 or 5 $\le$ OSI < 7.5.
@@ -36,7 +36,7 @@
 ## Laboratory and Imaging Findings
 
 - **Chest Radiography:** Demonstrates rapidly progressive, diffuse, bilateral pulmonary infiltrates or new infiltrates consistent with parenchymal disease,.
-- **Blood Gas Analysis:** Reveals severe hypoxemia (low PaO2), initially often accompanied by hypocapnia due to hyperventilation, which may progress to hypercapnia and acidosis as lung compliance worsens,.
+- **[[Emergencies/Blood Gas Analysis\|Blood Gas Analysis]]:** Reveals severe hypoxemia (low PaO2), initially often accompanied by hypocapnia due to hyperventilation, which may progress to hypercapnia and acidosis as lung compliance worsens,.
 - **Biomarkers:** Elevated soluble Triggering Receptor Expressed on Myeloid cells-1 (s-TREM-1), procalcitonin (PCT), copeptin, C-reactive protein (CRP), plasminogen activation inhibitor-1, and surfactant protein D can aid in diagnosis and prognosis.
 
 ## Treatment and Ventilatory Strategies

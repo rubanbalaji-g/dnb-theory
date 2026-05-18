@@ -85,7 +85,7 @@ F3 --> G3[<b>Enhanced Elimination</b><br>Dialysis or Alkalinization]:::step
 ### Basic Investigations
 
 - Require comprehensive laboratory testing assessing multi-organ dysfunction and screening specific highly toxic occult substances.
-- Include complete blood count, serum electrolytes, blood urea nitrogen, serum creatinine, liver transaminases, and blood gas analysis.
+- Include complete blood count, serum electrolytes, blood urea nitrogen, serum creatinine, liver transaminases, and [[Emergencies/Blood Gas Analysis\|blood gas analysis]].
 
 ### Acid-Base And Osmolar Gap Analysis
 

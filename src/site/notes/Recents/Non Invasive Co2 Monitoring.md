@@ -4,7 +4,7 @@
 
 ## Introduction And Clinical Rationale
 
-- Non-invasive CO2 monitoring utilizes transcutaneous CO2 (TcCO2) and end-tidal CO2 (EtCO2) capnography to provide continuous, real-time assessment of patient ventilation.
+- Non-invasive CO2 monitoring utilizes transcutaneous CO2 (TcCO2) and end-tidal CO2 (EtCO2) [[Emergencies/Capnography\|capnography]] to provide continuous, real-time assessment of patient ventilation.
 - It drastically reduces the need for repeated arterial blood gases (ABGs) by 50% to 70%, effectively minimizing procedure-related pain, iatrogenic anemia (especially in neonates), and nosocomial infection risks.
 - Continuous monitoring detects hypoventilation significantly earlier than pulse oximetry (SpO2), effectively guiding the titration of mechanical ventilation and non-invasive ventilation (NIV).
 
@@ -13,7 +13,7 @@
 |Modality|Mechanism Of Action|Clinical Application|
 |:--|:--|:--|
 |**Transcutaneous CO2 (TcCO2)**|Heats the skin to 42–44°C to promote arterialized capillary diffusion.|Preferred in neonates, non-intubated children, and for continuous steady-state assessment.|
-|**End-Tidal CO2 (EtCO2)**|Measures exhaled CO2 via mainstream or sidestream capnography, reflecting ventilation-perfusion matching.|Essential for intubated settings, confirming endotracheal tube placement, and emergency resuscitation.|
+|**End-Tidal CO2 (EtCO2)**|Measures exhaled CO2 via mainstream or sidestream [[Emergencies/Capnography\|capnography]], reflecting ventilation-perfusion matching.|Essential for intubated settings, confirming endotracheal tube placement, and emergency resuscitation.|
 
 ## Recent Evidence And Clinical Applications (2025–2026)
 
