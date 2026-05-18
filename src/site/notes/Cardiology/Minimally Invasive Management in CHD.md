@@ -106,7 +106,7 @@ Hybrid therapies involve multidisciplinary collaboration between surgeons and in
 - Utilizes radiofrequency (resistive/conductive heating) or cryothermal (hemispherical "iceball") energy.
 - Cryothermal ablation preferred near AV node to eliminate permanent heart block risk.
 - Electroanatomic mapping systems (magnetic/impedance-based) localize abnormal scar tissue, generate propagation maps, and minimize/eliminate fluoroscopy.
-- Indicated for recurrent [[Cardiology/Supraventricular tachycardia (SVT)\|supraventricular tachycardia (SVT)]], [[Cardiology/Atrioventricular nodal reentrant tachycardia (AVNRT)\|atrioventricular nodal reentrant tachycardia (AVNRT)]], [[Cardiology/Wolff-Parkinson-White (WPW)\|Wolff-Parkinson-White (WPW)]] syndrome, intra-atrial reentrant tachycardia (IART), and monomorphic ventricular tachycardia (VT).
+- Indicated for recurrent [[Cardiology/Supraventricular tachycardia (SVT)\|supraventricular tachycardia (SVT)]], [[atrioventricular nodal reentrant tachycardia (AVNRT)\|atrioventricular nodal reentrant tachycardia (AVNRT)]], [[Cardiology/Wolff-Parkinson-White (WPW)\|Wolff-Parkinson-White (WPW)]] syndrome, intra-atrial reentrant tachycardia (IART), and monomorphic ventricular tachycardia (VT).
 
 ### Cardiac Rhythm Devices
 

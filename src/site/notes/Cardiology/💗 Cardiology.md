@@ -25,10 +25,9 @@
 2. [[Cardiology/Cardiac arrhythmias\|Cardiac arrhythmias]]
 3. [[Cardiology/Antiarrhythmic Therapy\|Antiarrhythmic Therapy]]
 4. [[Cardiology/Supraventricular tachycardia (SVT)\|Supraventricular tachycardia (SVT)]]
-5. [[Cardiology/Atrioventricular nodal reentrant tachycardia (AVNRT)\|Atrioventricular nodal reentrant tachycardia (AVNRT)]]
-6. [[Cardiology/Sinus Tachycardia vs SVT\|Sinus Tachycardia vs SVT]]
-7. [[Cardiology/Long QT syndrome\|Long QT syndrome]]
-8. [[Cardiology/Congenital Heart Block\|Congenital Heart Block]]
+5. [[Cardiology/Sinus Tachycardia vs SVT\|Sinus Tachycardia vs SVT]]
+6. [[Cardiology/Long QT syndrome\|Long QT syndrome]]
+7. [[Cardiology/Congenital Heart Block\|Congenital Heart Block]]
 ## Acquired Heart Diseases
 1. [[Cardiology/Infective endocarditis\|Infective endocarditis]]
 2. [[Cardiology/Rheumatic Heart Diseases\|Rheumatic Heart Diseases]]
