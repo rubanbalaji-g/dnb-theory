@@ -29,7 +29,7 @@
 
 - **Tuberculosis (TB):** Utilizes Truenat MTB and MTB Plus assays for initial detection. Positive samples undergo reflex testing with the Truenat MTB-RIF Dx assay to detect rifampicin resistance within an additional hour. Highly effective for challenging pediatric samples like gastric aspirates, induced sputum, stool, and cerebrospinal fluid.
 - **Respiratory Pathogens:** Offers rapid diagnostic assays for SARS-CoV-2, Influenza A and B, and Respiratory Syncytial Virus (RSV).
-- **Vector-Borne Diseases:** Facilitates diagnosis of Acute Undifferentiated Febrile Illness (AUFI) etiologies, including Dengue, Malaria, Chikungunya, Scrub Typhus, and Leptospirosis.
+- **Vector-Borne Diseases:** Facilitates diagnosis of Acute Undifferentiated Febrile Illness (AUFI) etiologies, including Dengue, [[Infectious Diseases/Malaria\|Malaria]], Chikungunya, Scrub Typhus, and Leptospirosis.
 
 ## National Guidelines and Health Economics
 

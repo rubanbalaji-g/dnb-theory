@@ -30,7 +30,7 @@ Intrinsic myocardial disease without associated structural heart deformity. Hete
 
 - 50-66% cases classified idiopathic/undetermined.
 - 25-30% cases feature identifiable familial component.
-- Identifiable secondary causes: Viral myocarditis (14-22%), [[Rheumatology/Kawasaki Disease\|Kawasaki disease]], anomalous left coronary artery from pulmonary artery (ALCAPA), arrhythmias (tachycardia-induced).
+- Identifiable secondary causes: Viral myocarditis (14-22%), [[Rheumatology/Kawasaki Disease\|Kawasaki disease]], anomalous left coronary artery from pulmonary artery ([[Cardiology/ALCAPA\|ALCAPA]]), arrhythmias (tachycardia-induced).
 
 |Genetic/Molecular Category|Genes/Pathways Implicated in DCM|
 |:--|:--|

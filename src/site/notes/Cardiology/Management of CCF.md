@@ -101,7 +101,7 @@ Rapidly categorize acute CCF presentations by evaluating venous congestion ("wet
 - Provide prostaglandin E1 infusion (0.05-0.1 µg/kg/min) for ductal-dependent lesions (e.g., coarctation, HLHS).
 - Treat tachycardia-induced cardiomyopathy with cardioversion or antiarrhythmics.
 - Correct severe hypocalcemia, hypoglycemia, or upper airway obstructions immediately.
-- Perform surgical anomalous left coronary artery (ALCAPA) reimplantation to halt irreversible myocardial ischemia.
+- Perform surgical anomalous left coronary artery ([[Cardiology/ALCAPA\|ALCAPA]]) reimplantation to halt irreversible myocardial ischemia.
 
 ## Advanced Interventions and Surgical Care
 

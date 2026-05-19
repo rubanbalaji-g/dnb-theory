@@ -45,4 +45,4 @@
 5. [[Cardiology/Hypertension in Children\|Hypertension in Children]]
 6. [[Cardiology/Nadas' Criteria for Clinical Diagnosis of Heart Disease\|Nadas' Criteria for Clinical Diagnosis of Heart Disease]]
 7. [[Cardiology/Cardiomyopathies\|Cardiomyopathies]]
-8. [[Cardiology/ALPACA\|ALPACA]]
+8. [[Cardiology/ALCAPA\|ALCAPA]]

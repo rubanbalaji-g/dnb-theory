@@ -4,7 +4,7 @@
 
 ## Introduction
 
-[[Infectious Diseases/Pulse Polio Immunization\|Pulse Polio Immunization]] (PPI) is the largest single-day public health project in the world. It is a mass immunization campaign established by the Government of India in **1995** to eradicate poliomyelitis from the country. It was launched in pursuance of the World Health Assembly's resolution (1988) to eradicate polio globally. The initiative successfully eliminated the wild poliovirus from India, leading to the World Health Organization (WHO) certifying India as "Polio-free" in March 2014. However, the program continues in a modified form to maintain immunity and prevent the re-emergence or importation of the virus.
+Pulse Polio Immunization (PPI) is the largest single-day public health project in the world. It is a mass immunization campaign established by the Government of India in **1995** to eradicate poliomyelitis from the country. It was launched in pursuance of the World Health Assembly's resolution (1988) to eradicate polio globally. The initiative successfully eliminated the wild poliovirus from India, leading to the World Health Organization (WHO) certifying India as "Polio-free" in March 2014. However, the program continues in a modified form to maintain immunity and prevent the re-emergence or importation of the virus.
 
 ## Concept and Rationale
 
@@ -41,7 +41,7 @@ A standard NID or SNID involves a rigorous operational cycle:
 
 The choice of vaccine used in PPI has evolved based on the epidemiological landscape.
 
-- **Trivalent OPV (tOPV):** Initially, tOPV containing serotypes 1, 2, and 3 was used. This successfully eradicated Wild Poliovirus Type 2 (WPV2) globally in 1999.
+- **Trivalent OPV (tOPV):** Initially, tOPV containing serotypes 1, 2, and 3 was used. This successfully eradicated Wild Polio virus Type 2 (WPV2) globally in 1999.
 - **Monovalent (mOPV) and Bivalent (bOPV):** To tackle the remaining WPV1 and WPV3 more effectively, mOPV1 and mOPV3 were used in high-risk areas. Later, bOPV (containing types 1 and 3) became the vaccine of choice for campaigns.
 - **The "Switch" (April 2016):** As part of the **Polio Endgame Strategy**, there was a globally synchronized switch from tOPV to **bOPV**.
     - _Rationale:_ Since WPV2 was eradicated, the continued use of the type 2 component in tOPV posed a risk of **Vaccine-Associated [[Neuromuscular/Paralytic Poliomyelitis\|Paralytic Poliomyelitis]] (VAPP)** and the emergence of **Circulating Vaccine-Derived Polioviruses (cVDPVs)** type 2. Removing type 2 from the oral vaccine eliminates this risk.

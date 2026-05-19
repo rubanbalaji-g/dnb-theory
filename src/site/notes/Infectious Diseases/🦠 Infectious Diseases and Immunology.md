@@ -90,7 +90,7 @@
 3. [[Infectious Diseases/Malaria\|Malaria]]
 4. [[Infectious Diseases/Cerebral Malaria\|Cerebral Malaria]]
 5. [[Infectious Diseases/Drug Resistant Malaria\|Drug Resistant Malaria]]
-6. [[Infectious Diseases/Complicated (Severe) Malaria\|Complicated (Severe) Malaria]]
+6. [[Infectious Diseases/Complicated Malaria\|Complicated Malaria]]
 7. [[Infectious Diseases/Ascariasis\|Ascariasis]]
 8. [[Infectious Diseases/Management of Worm Infestation\|Management of Worm Infestation]]
 9. [[Infectious Diseases/Neurocysticercosis\|Neurocysticercosis]]

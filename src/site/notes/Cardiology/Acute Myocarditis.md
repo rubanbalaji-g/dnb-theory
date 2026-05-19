@@ -73,7 +73,7 @@ Presentation is highly heterogeneous and strongly age-dependent.
 
 ## Differential Diagnosis
 
-- Anomalous Left Coronary Artery from Pulmonary Artery (ALCAPA).
+- Anomalous Left Coronary Artery from Pulmonary Artery ([[Cardiology/ALCAPA\|ALCAPA]]).
 - Idiopathic Dilated Cardiomyopathy (DCM).
 - Carnitine deficiency / Inborn errors of metabolism.
 - [[Rheumatology/Kawasaki Disease\|Kawasaki disease]].

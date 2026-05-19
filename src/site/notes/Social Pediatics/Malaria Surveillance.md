@@ -61,13 +61,13 @@
 - ABDM/ABHA: Digital case records & tracking
 
 ## Monitoring & Reporting
-- Real-time IHIP-Malaria dashboard
+- Real-time IHIP-[[Infectious Diseases/Malaria\|Malaria]] dashboard
 - Annual Parasite Incidence (API), Annual Blood Examination Rate (ABER), Slide Positivity Rate (SPR)
 - Monthly/quarterly reviews at district/state level
 - Private sector inclusion mandatory
 
 ## Recent Developments (2026)
-- NSP 2023–27 fully operational; IHIP-Malaria rolled out nationwide
+- NSP 2023–27 fully operational; IHIP-[[Infectious Diseases/Malaria\|Malaria]] rolled out nationwide
 - Category-wise state stratification (Category 0–3) with tailored surveillance intensity
 - Focus on urban, tribal, forest, migrant & cross-border areas
 - India on track for WHO certification of elimination

@@ -2,140 +2,59 @@
 {"dg-publish":true,"uplink":"/infectious-diseases/infectious-diseases/","uptext":"Back to Index (Infectious Diseases)","permalink":"/infectious-diseases/hsv-encephalitis/","dgPassFrontmatter":true}
 ---
 
+## Introduction And Etiology
 
-Herpes simplex virus (HSV) encephalitis is a life-threatening neurological emergency and the most common cause of sporadic, fatal encephalitis in children and adults worldwide. Without prompt and appropriate antiviral therapy, the mortality rate approaches 75%, and survivors often suffer from severe long-term neurological sequelae. Management requires a high [[Statistics/Index\|index]] of suspicion, rapid diagnostic evaluation, and the immediate institution of high-dose intravenous acyclovir.
+- Herpes simplex virus encephalitis represents a life-threatening neurological emergency and remains the most frequent cause of sporadic, fatal encephalitis in pediatric and adult populations globally.
+- Without prompt antiviral administration, mortality approaches 75%, and survivors frequently experience severe long-term neurological sequelae.
+- In older children and adults, the disease is almost exclusively caused by HSV type 1.
+- In neonates, the condition frequently results from vertical transmission, with HSV type 2 accounting for approximately 70% of cases, while the remainder are caused by HSV type 1.
 
-## Etiology and Pathogenesis
+## Pathophysiology
 
-HSV is a double-stranded DNA virus belonging to the _Herpesviridae_ family.
-
-- **Causative Agents:** Beyond the neonatal period, [[Infectious Diseases/HSV Encephalitis\|HSV encephalitis]] is almost exclusively caused by **HSV type 1 (HSV-1)**. In neonates, encephalitis can be caused by either **HSV type 2 (HSV-2)** (approx. 70% of cases) or HSV-1, usually acquired vertically from the mother during passage through an infected birth canal.
-- **Pathophysiology:**
-    - **Primary Infection:** The virus typically enters through mucosal surfaces or abraded skin, replicates locally, and infects sensory nerve endings. It is then transported via retrograde axonal transport to sensory ganglia (e.g., <span style="color:rgb(0, 176, 240)">trigeminal ganglia</span>), where it establishes latency.
-    - **CNS Invasion:** Encephalitis may result from primary infection or, more commonly in older children and adults, reactivation of latent virus. The virus travels along nerve fibers (e.g., olfactory or trigeminal nerves) to the brain.
-    - **Brain Damage:** [[Infectious Diseases/HSV Encephalitis\|HSV encephalitis]] is an acute, necrotizing infection with a predilection for the <span style="color:rgb(0, 176, 240)">temporal and frontal lobes</span> and the limbic system. The infection causes extensive tissue necrosis, edema, and hemorrhage. Microscopic examination reveals perivascular cuffing, lymphocytic infiltration, and intranuclear inclusion bodies.
-    - **Neonatal Pathogenesis:** In neonates, the immature immune system allows for hematogenous dissemination or direct neuronal spread, potentially leading to global encephalitis rather than the focal temporal lobe involvement seen in older patients.
+- The virus enters via mucosal surfaces or abraded skin, replicates locally, and transports retrogradely along axons to sensory ganglia, such as the trigeminal ganglia, to establish latency.
+- Central nervous system invasion results from either primary infection or reactivation of latent virus, which travels along olfactory or trigeminal nerves directly into the brain.
+- The infection induces acute, necrotizing inflammation with a distinct predilection for the temporal and frontal lobes, alongside the limbic system.
+- Extensive tissue necrosis, hemorrhage, and cerebral edema ensue rapidly.
+- Microscopic evaluation typically reveals perivascular lymphocytic cuffing and characteristic intranuclear inclusion bodies.
+- In neonates, an immature immune system permits hematogenous dissemination or direct neuronal spread, frequently causing diffuse global encephalitis rather than isolated focal temporal involvement.
 
 ## Clinical Manifestations
 
-The clinical presentation varies significantly between the neonatal period and older childhood/adulthood.
+| Patient Group                 | Key Clinical Features                                                                                                                                                                                                                                                                                                                                                                                                             |
+| ----------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Older Children And Adults** | • Presentation features a prodrome of fever, malaise, headache, and nausea. <br>• Neurological signs encompass altered consciousness, focal or generalized seizures, and focal deficits including aphasia, hemiparesis, or ataxia. <br>• Limbic involvement triggers prominent personality changes, psychosis, memory loss, anosmia, and gustatory hallucinations.                                                                |
+| **Neonates**                  | • Symptoms classically emerge between 8 and 17 days of life, frequently mimicking bacterial sepsis or meningitis. <br>• Systemic features include temperature instability, lethargy, poor feeding, and vomiting. <br>• Neurological signs manifest as seizures, bulging fontanelle, and altered muscle tone. <br>• Skin vesicles are notably absent in approximately 40% of cases presenting with central nervous system disease. |
+## Diagnostic Evaluation
 
-### Older Children and Adults
+| Diagnostic Modality              | Characteristic Findings                                                                                                                                                                                                                             |
+| -------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Polymerase Chain Reaction**    | Cerebrospinal fluid PCR for HSV DNA serves as the definitive diagnostic method of choice, exhibiting high sensitivity and specificity. <br>It becomes positive within 24 hours of symptom onset.                                                    |
+| **Cerebrospinal Fluid Analysis** | Lumbar puncture classically reveals mononuclear pleocytosis, moderately elevated protein, and normal or mildly decreased glucose. <br>The presence of red blood cells in a non-traumatic tap is a classic hallmark reflecting hemorrhagic necrosis. |
+| **Neuroimaging**                 | Magnetic Resonance Imaging is the preferred modality, frequently demonstrating asymmetric high-intensity signals on T2 and FLAIR sequences within the temporal and frontal lobes.                                                                   |
+| **Electroencephalogram**         | Testing may reveal characteristic periodic lateralized epileptiform discharges originating from the temporal regions.                                                                                                                               |
 
-The onset can be insidious or fulminant. The classic presentation involves signs of acute encephalitis with focal neurological deficits reflecting the predilection for the temporal and frontal lobes.
+## Management Protocol
 
-- **Prodrome:** Nonspecific symptoms such as fever, malaise, headache, and nausea may precede neurological signs.
-- **Neurological Signs:**
-    - **Altered Consciousness:** Ranging from confusion and lethargy to stupor and coma.
-    - **Seizures:** Generalized or [[Neurology/Focal seizures\|focal seizures]] are common.
-    - **Focal Deficits:** Aphasia (due to dominant temporal lobe involvement), hemiparesis, cranial nerve deficits, and ataxia.
-    - **Behavioral Changes:** Personality changes, bizarre behavior, psychosis, and memory loss are characteristic of limbic system involvement.
-    - **Specific Symptoms:** Anosmia (loss of smell) and gustatory hallucinations may occur.
+### Antiviral Therapy
 
-### Neonates (Birth to 6 Weeks)
+- Intravenous Acyclovir must be initiated immediately and empirically upon clinical suspicion, prior to definitive diagnostic confirmation.
+- **Neonatal Dosing:** Administer 60 mg/kg/day intravenously, divided every 8 hours, for a minimum duration of 21 days. High-dose therapy significantly improves neurodevelopmental survival.
+- **Pediatric Dosing:** For infants, children, and adolescents, administer 30 mg/kg/day intravenously, divided every 8 hours, for a duration of 14 to 21 days.
+- Acyclovir precipitates in renal tubules, necessitating rigorous patient hydration and close monitoring of renal function to prevent obstructive nephropathy.
+- Neutropenia may occur, demanding twice-weekly absolute neutrophil count monitoring during treatment.
 
-Neonatal [[Infectious Diseases/HSV Encephalitis\|HSV encephalitis]] typically presents between **8 and 17 days of life**. The presentation is often indistinguishable from bacterial sepsis or [[Neurology/Meningitis\|meningitis]].
+### Management Of Resistant Strains
 
-- **Systemic Signs:** Temperature instability (fever or hypothermia), lethargy, poor feeding, irritability, and vomiting.
-- **Neurological Signs:** Seizures (focal or generalized), bulging fontanelle, tremors, and alterations in muscle tone.
-- **Cutaneous Signs:** Importantly, **skin vesicles are absent in approximately 40%** of neonates with CNS disease, making the diagnosis challenging.
+- Antiviral resistance, typically mediated by viral thymidine kinase gene mutations, necessitates alternative therapy utilizing Foscarnet or Cidofovir.
+- These alternative agents possess higher nephrotoxicity, demanding meticulous electrolyte and renal function monitoring.
 
-## Diagnosis
+### Supportive Care
 
-Early diagnosis is critical. Treatment should not be delayed while awaiting confirmation if the clinical suspicion is high.
+- Promptly manage seizures utilizing anticonvulsants such as levetiracetam or fosphenytoin to prevent further brain injury.
+- Manage cerebral edema and raised intracranial pressure by elevating the head of the bed and administering hyperosmolar therapy, such as mannitol or hypertonic saline.
+- Strictly monitor fluid balance to manage the high risk of concurrent Syndrome of Inappropriate Antidiuretic Hormone secretion.
 
-### 1. Cerebrospinal Fluid (CSF) Analysis
+### Neonatal Suppressive Therapy
 
-Lumbar puncture typically reveals findings of viral meningoencephalitis:
-
-- **Pleocytosis:** Moderate increase in white blood cells (10–500 cells/mm³), predominantly mononuclear cells (lymphocytes).
-- **Protein:** Mildly to moderately elevated (50–100 mg/dL or higher).
-- **Glucose:** Normal or mildly decreased (hypoglycorrhachia).
-- **Red Blood Cells (RBCs):** The presence of RBCs in the absence of a traumatic tap is a classic finding, reflecting the hemorrhagic necrosis of brain tissue. Note that CSF parameters can be normal early in the disease course, especially in neonates.
-
-### 2. Polymerase Chain Reaction (PCR)
-
-**CSF PCR for HSV DNA** is the diagnostic method of choice.
-
-- **Sensitivity and Specificity:** It is highly sensitive (>95%) and specific.
-- **Timing:** PCR typically becomes positive within 24 hours of symptom onset and remains positive for the first week of therapy. A negative PCR very early in the course (first 24–48 hours) does not rule out the disease if clinical suspicion remains high; repeat testing may be indicated.
-
-### 3. Neuroimaging
-
-- **Magnetic Resonance Imaging (MRI):** MRI is the preferred imaging modality. It typically shows high-intensity signals on T2-weighted and FLAIR images in the **temporal and frontal lobes**, often asymmetrically. In neonates, findings may be more diffuse or multifocal.
-- **Computed Tomography (CT):** CT scans are less sensitive, especially early in the disease, but may show hypodensities in the temporal lobes, edema, or hemorrhage later in the course.
-
-### 4. Electroencephalogram (EEG)
-
-EEG often shows nonspecific slowing but may reveal characteristic **periodic lateralized epileptiform discharges (PLEDs)** originating from the temporal regions. While suggestive, these findings are not pathognomonic.
-
-## Management
-
-The management of [[Infectious Diseases/HSV Encephalitis\|HSV encephalitis]] centers on immediate antiviral therapy and aggressive supportive care. The cornerstone of specific therapy is **Acyclovir**.
-
-### 1. Antiviral Therapy: Acyclovir
-
-Acyclovir is a nucleoside analog that inhibits viral DNA polymerase. It requires phosphorylation by the viral thymidine kinase enzyme to become active, ensuring selectivity for infected cells.
-
-#### Indications for Initiation
-
-Intravenous (IV) acyclovir should be started **empirically** and **immediately** in any patient with a clinical picture compatible with encephalitis, pending diagnostic confirmation. Delaying treatment until confirmation is associated with significantly worse outcomes.
-
-#### Dosage and Administration
-
-- **Neonates (<28 days):**
-    - **Dose:** **60 mg/kg/day** IV divided every 8 hours.
-    - **Duration:** Minimum of **21 days** for CNS disease.
-    - High-dose therapy improves survival and neurodevelopmental outcomes in neonates.
-- **Infants, Children, and Adolescents:**
-    - **Dose:** **30 mg/kg/day** (10 mg/kg/dose) IV divided every 8 hours.
-    - **Administration:** Infuse over 1 hour to prevent crystallization in renal tubules.
-    - **Duration:** **14 to 21 days** (21 days is preferred for severe cases).
-- **Adults:**
-    - **Dose:** 10 mg/kg/dose IV every 8 hours for 14–21 days.
-
-#### Monitoring and Adverse Effects
-
-- **Nephrotoxicity:** <span style="color:rgb(0, 176, 240)">Acyclovir can precipitate in renal tubules</span>, causing obstructive nephropathy. Patients must be **well-hydrated** during therapy. Monitor renal function (creatinine/BUN) closely.
-- **Neutropenia:** High-dose therapy, particularly in neonates, can cause neutropenia. Monitor absolute neutrophil counts (ANC) twice weekly during therapy.
-- **Neurotoxicity:** High doses may rarely cause tremors or seizures.
-- **Extravasation:** Can cause local tissue inflammation; ensure secure IV access.
-
-### 2. Management of Acyclovir-Resistant HSV
-
-Resistance is rare in immunocompetent hosts but may occur in immunocompromised patients or neonates with recurrent disease. It is usually mediated by mutations in the viral thymidine kinase gene.
-
-- **Alternative Agents:** **Foscarnet** (a pyrophosphate analog) or **Cidofovir** (a nucleotide analog) are used for acyclovir-resistant strains.
-    - **Foscarnet Dose:** 40–60 mg/kg IV every 8 hours or 90 mg/kg every 12 hours.
-    - **Caution:** These agents are significantly more nephrotoxic than acyclovir and require careful monitoring of electrolytes (calcium, magnesium, phosphorus) and renal function.
-
-### 3. Supportive Care
-
-- **Seizure Management:** Aggressive treatment of seizures is crucial to prevent further brain injury. Standard anticonvulsants (e.g., levetiracetam, fosphenytoin, phenobarbital) should be used. EEG monitoring may be necessary for non-convulsive status epilepticus.
-- **Intracranial Pressure (ICP) Management:** Cerebral edema is a major complication. Elevate the head of the bed, maintain euvolemia, and consider hyperosmolar therapy (mannitol or hypertonic saline) if signs of raised ICP develop.
-- **Fluid and Electrolyte Balance:** Monitor for Syndrome of Inappropriate Antidiuretic Hormone ([[Endocrinology/SIADH\|SIADH]]), which is a common complication. Restrict fluids if hyponatremia develops.
-
-### 4. Follow-up and Suppressive Therapy
-
-A unique aspect of neonatal HSV management is the requirement for long-term suppressive therapy to improve outcomes.
-
-- **Neonates:** Following the completion of 21 days of parenteral acyclovir, infants surviving neonatal HSV disease with CNS involvement should receive oral acyclovir suppressive therapy.
-    - **Regimen:** **Oral Acyclovir 300 mg/m²/dose** administered 3 times daily.
-    - **Duration:** **6 months**.
-    - **Rationale:** This regimen has been shown to prevent cutaneous recurrences and, more importantly, to significantly improve neurodevelopmental outcomes.
-    - **Monitoring:** Monitor ANC at 2 and 4 weeks after starting suppression, then monthly, due to the risk of neutropenia.
-
-### 5. Treatment of Relapse
-
-Relapse of [[Infectious Diseases/HSV Encephalitis\|HSV encephalitis]] can occur after completion of therapy. It may manifest as recurrence of symptoms or new neurological deficits. A repeat course of intravenous acyclovir is indicated, and evaluation for drug resistance should be considered if relapse occurs during therapy or shortly after.
-
-## Complications and Prognosis
-
-- **Mortality:** Before the acyclovir era, mortality was 70–75%. With acyclovir, mortality in children/adults has decreased to approximately 20–30%, and in neonates to 4–15% depending on the extent of disease.
-- **Morbidity:** Despite treatment, neurological sequelae are common and include:
-    - Cognitive deficits and memory impairment.
-    - Epilepsy (seizure disorders).
-    - Motor deficits (hemiparesis, spasticity).
-    - Developmental delay in infants.
-- **Predictors of Poor Outcome:** Coma at presentation, young age combined with severe CNS involvement, and delay in starting acyclovir therapy (>3 days from onset). In neonates, disseminated disease and specific CNS involvement (e.g., lethargy, coma) predict worse outcomes.
-
+- Following the initial 21-day intravenous course, neonates require prolonged oral suppressive therapy to improve neurodevelopmental outcomes and prevent cutaneous recurrences.
+- Administer oral Acyclovir at a dose of 300 mg/m² per dose three times daily for a complete duration of 6 months.

@@ -14,7 +14,7 @@
 
 - Acute mitral or aortic regurgitation.
 - Ventricular dysfunction secondary to myocarditis.
-- Anomalous left coronary artery from pulmonary artery (ALCAPA).
+- Anomalous left coronary artery from pulmonary artery ([[Cardiology/ALCAPA\|ALCAPA]]).
 - Early postoperative cardiac surgery period.
 - Left-to-right shunts (e.g., large VSDs); afterload reduction selectively lowers systemic resistance over pulmonary resistance, decreasing Qp:Qs ratio.
 - "Warm-Wet" hemodynamic profile; indicates adequate perfusion with significant congestion.

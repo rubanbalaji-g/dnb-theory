@@ -5,7 +5,7 @@
 ## Introduction and Significance
 
 - Developed collaboratively by the University of Oxford and the Serum Institute of India (SII) utilizing Novavax's Matrix-M adjuvant.
-- Represents the second malaria vaccine to achieve World Health Organization (WHO) prequalification in December 2023.
+- Represents the second [[Infectious Diseases/Malaria\|malaria]] vaccine to achieve World Health Organization (WHO) prequalification in December 2023.
 - Designed specifically to target _Plasmodium falciparum_, the pathogen responsible for severe neurological complications, severe anemia, and high mortality in children under five years of age.
 
 ## Composition and Mechanism of Action
@@ -19,14 +19,14 @@
 
 |Parameter|Clinical Guidelines|
 |:--|:--|
-|**Target Demographic**|Infants and children aged 5 to 36 months residing in areas with moderate-to-high malaria transmission.|
+|**Target Demographic**|Infants and children aged 5 to 36 months residing in areas with moderate-to-high [[Infectious Diseases/Malaria\|malaria]] transmission.|
 |**Primary Series**|3 doses administered intramuscularly (0.5 mL) at 4-week intervals.|
 |**Initiation Age**|Standard initiation occurs at 5 months of age alongside routine Expanded Programme on Immunization (EPI) vaccines.|
 |**Booster Dose**|A mandatory 4th dose administered 12 months after the 3rd dose to restore declining antibody titers.|
 
 ## Efficacy and Implementation Models
 
-- Phase III clinical trials proved high efficacy, meeting the WHO goal of $\ge 75%$ protection against clinical malaria.
+- Phase III clinical trials proved high efficacy, meeting the WHO goal of $\ge 75%$ protection against clinical [[Infectious Diseases/Malaria\|malaria]].
 - Demonstrates 75% efficacy in seasonal transmission regions and 67-68% efficacy in perennial transmission zones.
 - Formulated with a low antigen dose (5 μg), enabling high-volume manufacturing scalability and reducing procurement costs to $2 to $4 per dose.
 - National rollouts utilize two strategic delivery models based on epidemiology:
