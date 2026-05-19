@@ -19,12 +19,12 @@
 
 ## Educational And Family Dynamics
 
-|Disruptive Factor|Consequent Impact On Children|
-|---|---|
-|**Virtual Schooling**|Worsened emotional health, decreased physical activity, and deprived children of critical peer support and social skill development.|
-|**Increased Screen Time**|Problematic media use linked directly to higher levels of parental stress and physical complaints like eye strain.|
-|**Family Stress**|Economic hardship and confinement escalated domestic violence, corporal punishment, and hospitalizations for severe child abuse injuries.|
-|**Vulnerable Populations**|Children with special health care needs experienced severe disruptions to daily therapy and reported significantly higher stress levels.|
+| Disruptive Factor          | Consequent Impact On Children                                                                                                             |
+| -------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------- |
+| **Virtual Schooling**      | Worsened emotional health, decreased physical activity, and deprived children of critical peer support and social skill development.      |
+| **Increased Screen Time**  | Problematic media use linked directly to higher levels of parental stress and physical complaints like eye strain.                        |
+| **Family Stress**          | Economic hardship and confinement escalated domestic violence, corporal punishment, and hospitalizations for severe child abuse injuries. |
+| **Vulnerable Populations** | Children with special health care needs experienced severe disruptions to daily therapy and reported significantly higher stress levels.  |
 
 ## Psychosomatic And Physical Consequences
 

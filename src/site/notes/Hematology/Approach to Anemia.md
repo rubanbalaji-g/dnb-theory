@@ -141,5 +141,5 @@
 
 - **Bone Marrow Aspirate and Biopsy:** Evaluates cellularity, morphology (normoblastic, megaloblastic, sideroblastic), abnormal infiltrates (blasts, storage cells), and dyserythropoiesis.
 - **Cytogenetics:** Conventional [[Genetics/Karyotyping\|karyotyping]], fluorescence in situ hybridization (FISH), chromosomal breakage studies ([[Hematology/Fanconi Anemia\|Fanconi anemia]]).
-- **Viral PCR:** Parvovirus B19, CMV, EBV, HIV.
+- **Viral PCR:** Parvovirus B19, CMV, EBV, [[Infectious Diseases/HIV\|HIV]].
 - **Specific Assays:** Erythrocyte adenosine deaminase activity (elevated in Diamond-Blackfan anemia), telomere length (Dyskeratosis congenita).

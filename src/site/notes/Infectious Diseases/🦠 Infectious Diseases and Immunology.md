@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/infectious-diseases/infectious-diseases-and-immunology/","noteIcon":"","dgPassFrontmatter":true}
+{"dg-publish":true,"dg-path":"id","noteIcon":"","permalink":"/id/","dgPassFrontmatter":true}
 ---
 
 ## Immunity
@@ -77,13 +77,13 @@
 14. [[Infectious Diseases/Psychosocial Effects of COVID-19 on Children\|Psychosocial Effects of COVID-19 on Children]]
 15. [[Infectious Diseases/Approach to a Neonate Born to a COVID-19 Positive Mother\|Approach to a Neonate Born to a COVID-19 Positive Mother]]
 16. [[Infectious Diseases/Kawasaki Vs MIS-C\|Kawasaki Vs MIS-C]]
-17. [[Infectious Diseases/Perinatal HIV\|Perinatal HIV]]
-18. [[Infectious Diseases/Dried Blood Spot (DBS) PCR in Neonatal HIV Diagnosis\|Dried Blood Spot (DBS) PCR in Neonatal HIV Diagnosis]]
-19. [[Infectious Diseases/Pediatric HIV\|Pediatric HIV]]
-20. [[Infectious Diseases/HIV Post Exposure Prophylaxis\|HIV Post Exposure Prophylaxis]]
-21. [[Infectious Diseases/HIV and TB Co-infection in Children\|HIV and TB Co-infection in Children]]
-22. [[Infectious Diseases/Opportunistic Infections in HIV\|Opportunistic Infections in HIV]]
-23. [[Infectious Diseases/ART in HIV\|ART in HIV]]
+## HIV
+1. [[Infectious Diseases/Perinatal HIV\|Perinatal HIV]]
+2. [[Infectious Diseases/HIV\|HIV]]
+3. [[Infectious Diseases/HIV Post Exposure Prophylaxis\|HIV Post Exposure Prophylaxis]]
+4. [[Infectious Diseases/HIV and TB Co-infection in Children\|HIV and TB Co-infection in Children]]
+5. [[Infectious Diseases/Opportunistic Infections in HIV\|Opportunistic Infections in HIV]]
+6. [[Infectious Diseases/ART in HIV\|ART in HIV]]
 ## Protozoal and Parasitic Diseases
 1. [[Infectious Diseases/Cryptosporidial Diarrhea\|Cryptosporidial Diarrhea]]
 2. [[Infectious Diseases/Kala-azar (Visceral Leishmaniasis)\|Kala-azar (Visceral Leishmaniasis)]]

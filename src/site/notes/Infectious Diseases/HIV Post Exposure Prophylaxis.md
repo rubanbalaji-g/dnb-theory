@@ -2,94 +2,52 @@
 {"dg-publish":true,"uplink":"/infectious-diseases/infectious-diseases/","uptext":"Back to Index (Infectious Diseases)","permalink":"/infectious-diseases/hiv-post-exposure-prophylaxis/","dgPassFrontmatter":true}
 ---
 
-## Introduction
+## Introduction And Timing
 
-Post-exposure prophylaxis (PEP) refers to the use of antiretroviral (ARV) medication to prevent HIV infection in an HIV-negative person who has had a potential exposure to the virus. It is a critical secondary prevention strategy.
+- Post-exposure prophylaxis represents a critical secondary prevention strategy utilizing short-term antiretroviral medication to prevent viral establishment in an HIV-negative host following high-risk exposure.
+- Administration must occur within a golden window of 1 to 2 hours post-exposure.
+- The absolute maximum limit for initiation is 72 hours; presentation beyond this timeframe renders therapy ineffective and is not recommended.
 
-- **Definition:** A short-term antiretroviral treatment initiated immediately after a specific high-risk exposure to HIV to prevent the virus from becoming established in the host.
-- **Scenarios for Use:**
-    - **Occupational Exposure:** Healthcare workers exposed via percutaneous injury (needlestick) or contact with mucous membranes/non-intact skin with potentially infectious body fluids.
-    - **Non-Occupational Exposure (nPEP):**
-        - **Sexual Assault:** A critical component of management for survivors of sexual assault.
-        - **Consensual Sexual Contact:** Unprotected sexual intercourse with a partner of known or unknown HIV status.
-        - **Injection Drug Use:** Sharing of needles or equipment.
-        - **Other:** Human bites (if blood is involved) or accidents involving blood exposure.
+## Clinical Indications
 
-## Timing and Initiation
+|Exposure Category|Specific Scenarios|
+|---|---|
+|**Occupational Exposure**|Healthcare workers experiencing percutaneous needlestick injuries or mucosal contact with potentially infectious body fluids.|
+|**Non-Occupational Exposure**|Survivors of sexual assault, consensual unprotected sexual contact, sharing of intravenous drug equipment, and human bites involving blood exposure.|
 
-The efficacy of PEP is time-dependent. Animal studies and human observational data indicate that earlier initiation results in better outcomes.
+## Baseline Clinical And Laboratory Evaluation
 
-- **Golden Window:** PEP should be initiated as soon as possible, ideally within **1–2 hours** of exposure.
-- **Maximum Limit:** Most guidelines recommend initiating PEP no later than **72 hours** after exposure.
-- **Late Presentation:** If a patient presents >72 hours after exposure, PEP is generally not recommended as it is unlikely to be effective. However, this visit should be used for counseling, baseline testing, and referral for care if infection occurs.
+- The first dose of prophylactic medication must never be delayed while awaiting laboratory results.
 
-## Baseline Assessment and Testing
+|Evaluation Parameter|Key Actions And Investigations|
+|---|---|
+|**Source Assessment**|Determine HIV status, viral load, antiretroviral history, and established drug resistance patterns of the source individual.|
+|**Exposure Assessment**|Evaluate injury severity, including hollow needle use, deep tissue injury, or presence of visible blood.|
+|**HIV Screening**|Perform a 4th-generation HIV antigen/antibody ELISA to confirm the exposed patient is strictly HIV-negative at baseline.|
+|**Viral Co-Infections**|Screen for Hepatitis B (HBsAg, HBsAb) and Hepatitis C (HCV antibodies).|
+|**Organ Function**|Evaluate baseline renal function via serum creatinine (critical for Tenofovir dosing) and liver function via Alanine Aminotransferase.|
+|**Sexual Exposure**|Conduct concurrent screening for sexually transmitted infections, including Syphilis, Gonorrhea, and Chlamydia.|
 
-Before starting PEP, a risk assessment and baseline laboratory evaluation are necessary. However, the **first dose of PEP should not be delayed** while waiting for laboratory results.
+## Recommended Pharmacological Regimens
 
-### Risk Assessment
+- Current therapeutic guidelines mandate a definitive three-drug antiretroviral regimen administered for a standard duration of 28 days.
 
-- **Source Evaluation:** If possible, determine the HIV status of the source. If the source is known to be HIV-positive, information on their viral load, antiretroviral treatment history, and drug resistance patterns helps tailor the PEP regimen.
-- **Exposure Type:** Assess the severity of exposure (e.g., large-bore hollow needle, deep injury, visible blood, mucosal contact).
+|Patient Age And Weight Group|Preferred Regimen Backbone|Preferred Third Agent|
+|---|---|---|
+|**Adolescents ($\ge$ 12 Years) And Adults**|Tenofovir Disoproxil Fumarate + Emtricitabine|Dolutegravir OR Raltegravir.|
+|**Children 2 To <12 Years**|Tenofovir Disoproxil Fumarate + Emtricitabine|Raltegravir.|
+|**Children <2 Years**|Zidovudine + Lamivudine|Raltegravir (Lopinavir/ritonavir serves as a viable alternative).|
 
-### Laboratory Evaluation
+## Contraindicated Pharmacotherapy
 
-- **HIV Testing:** Perform a 4th generation HIV antigen/antibody test (ELISA) to confirm the exposed person is HIV-negative at baseline.
-    - PEP is not indicated if the person is already HIV-positive.
-- **Other Blood-Borne Viruses:**
-    - **[[Gastrointestinal/Hepatitis B\|Hepatitis B]] (HBV):** Test for HBsAg and HBsAb. If the patient has completed a vaccine series and is immune, testing may not be needed.
-    - **[[Gastrointestinal/Hepatitis C\|Hepatitis C]] (HCV):** Test for HCV antibody.
-- **General Health:**
-    - **Renal Function:** Serum creatinine (important for Tenofovir dosage).
-    - **Liver Function:** Alanine aminotransferase (ALT).
-- **Sexual Exposure Specifics:** For sexual exposures, test for other sexually transmitted infections (STIs) such as Syphilis, Gonorrhea, and Chlamydia.
+- **Nevirapine:** Strictly contraindicated due to the high risk of precipitating severe hepatotoxicity and life-threatening Stevens-Johnson syndrome in HIV-negative hosts possessing higher CD4 counts.
+- **Abacavir:** Strictly contraindicated because fatal hypersensitivity reactions can occur, and emergency settings do not permit adequate time for mandatory HLA-B*5701 allele screening.
 
-## Recommended PEP Regimens
+## Post-Exposure Follow-Up And Monitoring
 
-Current guidelines recommend a **three-drug regimen** for all significant risk exposures. The duration of treatment is **28 days**.
-
-The selection of drugs depends on the age and weight of the child or adolescent.
-
-### 1. Adolescents (≥12 years) and Adults
-
-- **Preferred Backbone:** Tenofovir Disoproxil Fumarate (TDF) + Emtricitabine (FTC).
-- **Third Agent:**
-    - **Dolutegravir (DTG):** An integrase inhibitor, preferred for its high barrier to resistance and once-daily dosing.
-    - **Raltegravir (RAL):** An alternative integrase inhibitor (requires twice-daily dosing).
-- **Note:** This aligns with adult guidelines and offers a convenient once-daily option if Dolutegravir is used.
-
-### 2. Children 2 to <12 years
-
-- **Preferred Backbone:** Tenofovir Disoproxil Fumarate (TDF) + Emtricitabine (FTC).
-- **Third Agent:** **Raltegravir (RAL)**.
-- **Rationale:** TDF is generally approved for use in children aged 2 years and older (specifically approved for Hep B in children ≥12 years or >35kg, but used in HIV regimens for younger children based on weight bands).
-
-### 3. Children <2 years
-
-- **Preferred Backbone:** **Zidovudine (AZT) + Lamivudine (3TC)**.
-- **Third Agent:** **Raltegravir (RAL)** (approved for neonates ≥37 weeks gestation and ≥2 kg).
-- **Alternative:** Lopinavir/ritonavir (LPV/r) can be used if Raltegravir is not available or suitable, though Raltegravir is preferred in newer guidance.
-
-### Drugs to Avoid in PEP
-
-- **Nevirapine (NVP):** Contraindicated for PEP due to the risk of severe hepatotoxicity and severe skin rashes (Stevens-Johnson syndrome) in HIV-negative individuals with higher CD4 counts.
-- **Abacavir (ABC):** Contraindicated for PEP because hypersensitivity reactions can be fatal and there is no time to screen for the HLA-B*5701 allele in an emergency setting.
-
-## Follow-up and Monitoring
-
-Post-exposure care extends beyond the initial prescription.
-
-### Serological Follow-up
-
-- **Schedule:** Repeat HIV testing at **4–6 weeks** and **3 months** post-exposure to document serostatus.
-- **[[Gastrointestinal/Hepatitis C\|Hepatitis C]] Co-exposure:** If HCV transmission is a possibility (or confirmed in the source), HIV testing should be repeated at **6 months**, as HCV co-infection can delay HIV seroconversion.
-
-### Adherence and Side Effects
-
-- **Adherence Counseling:** Adherence to the full 28-day course is crucial for efficacy. Side effects (nausea, fatigue, headache) can lead to discontinuation.
-- **Monitoring:** Monitor for toxicity based on the drugs used (e.g., anemia/neutropenia with Zidovudine, renal function with Tenofovir).
-
-### Prevention Education
-
-- Use the PEP consultation as an opportunity to educate on risk reduction.
-- For adolescents with ongoing high-risk behavior, discuss Pre-Exposure Prophylaxis (PrEP) as a future preventative measure after the PEP course is completed and HIV negative status is confirmed.
+|Monitoring Category|Protocol Guidelines|
+|---|---|
+|**Serological Follow-Up**|Repeat HIV testing precisely at 4 to 6 weeks and 3 months post-exposure to definitively document serostatus.|
+|**HCV Co-Exposure**|If Hepatitis C transmission remains a possibility, extend HIV testing to 6 months, as concurrent HCV infection can significantly delay HIV seroconversion.|
+|**Toxicity Monitoring**|Clinicians must monitor for specific drug toxicities, notably renal impairment secondary to Tenofovir and anemia or neutropenia secondary to Zidovudine.|
+|**Counseling**|Mandate strict adherence counseling to ensure completion of the full 28-day course and discuss future Pre-Exposure Prophylaxis for adolescents demonstrating ongoing high-risk behaviors.|

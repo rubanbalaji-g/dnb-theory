@@ -2,109 +2,84 @@
 {"dg-publish":true,"uplink":"/infectious-diseases/infectious-diseases/","uptext":"Back to Index (Infectious Diseases)","permalink":"/infectious-diseases/perinatal-hiv/","dgPassFrontmatter":true}
 ---
 
-## Approach to HIV
+## Transmission Dynamics
+
+- Vertical transmission represents the primary route of HIV infection in pediatric populations, accounting for >90% of cases. 
+- Without intervention, vertical transmission rates range from 15% to 45%.
+- Transmission occurs during three distinct perinatal phases:
+    - **Intrauterine (20-30%):** Occurs transplacentally, predominantly in late gestation, and is typically suggested by a positive PCR test within 48 hours of birth.
+    - **Intrapartum (70-80%):** Occurs via mucosal exposure to infected maternal blood and secretions during delivery or micro-transfusions during labor, suggested by a negative PCR at birth but positive at 1-2 weeks.
+    - **Postpartum (15-20%):** Occurs through breastfeeding in untreated populations, with risk directly increasing alongside the duration of breastfeeding and the practice of mixed feeding.
+
+## Risk Factors For Vertical Transmission
+
+|Factor Category|Specific Risk Determinants|
+|---|---|
+|**Viral Factors**|High maternal viral load serves as the most critical determinant; advanced maternal clinical disease and low CD4 count also significantly increase risk.|
+|**Obstetric Factors**|Vaginal delivery in the presence of a high viral load, prolonged rupture of membranes exceeding 4 hours, chorioamnionitis, and preterm delivery.|
+|**Infant Factors**|Breastfeeding, mixed feeding practices (combining breast milk with other liquids or solids), and the presence of oral thrush in the infant.|
+
+## Diagnostic Evaluation In Infants
+
+- Standard antibody tests (ELISA) remain strictly non-diagnostic in infants younger than 18 months secondary to the persistence of passively transferred maternal IgG antibodies.
+- Definitive diagnosis strictly relies on virologic assays, specifically HIV DNA PCR (detecting proviral DNA) or HIV RNA PCR (detecting viral load) utilizing dried blood spots or whole blood.
+
+### Testing Schedule And Confirmation
 ![](https://i.ibb.co/qY6K0rDT/unnamed.jpg)
 
-## Introduction
+## Prevention Of Mother-To-Child Transmission
 
-The management of infants born to HIV-seropositive mothers involves a dual approach: minimizing the risk of vertical transmission (prevention) and early identification and treatment of those who acquire the infection. Vertical transmission is the primary route of HIV infection in children.
+### Antenatal And Intrapartum Interventions
 
-## Transmission and Risk Factors
+- **Maternal Antiretroviral Therapy:** 
+	- All HIV-infected pregnant women must immediately initiate lifelong combination antiretroviral therapy (cART) to maintain a suppressed maternal viral load below 1,000 copies/mL. 
+	- The recommended standard regimen is Tenofovir plus Lamivudine plus Dolutegravir.  
+- **Mode Of Delivery:** 
+	- Vaginal delivery remains safe and recommended if the mother is on effective ART with a suppressed viral load (<1,000 copies/mL). 
+	- Elective Cesarean section is strictly recommended at 38 weeks for women presenting with a viral load >1,000 copies/mL or an unknown viral load.
+- **Obstetric Practices:** 
+	- Clinicians must avoid artificial rupture of membranes, fetal scalp monitoring, instrumental delivery, and routine episiotomy to minimize fetal exposure to maternal blood.
 
-Transmission can occur during pregnancy (intrauterine), labor and delivery (intrapartum), or through breastfeeding (postpartum). Without intervention, transmission rates range from 15% to 45%.
+### Infant Antiretroviral Prophylaxis
 
-### Modes of Transmission
+Postnatal prophylaxis aims to prevent the establishment of infection and depends entirely on the infant's specific risk categorization.
+#### Standard Risk
+- Mother on adequate/regular ART
+- viral load less than 1000 copies/mL from 32 weeks to delivery
+#### High Risk
+- Mother not on ART, on ART <4 weeks at delivery, 
+- Unknown/high viral load >1000 copies/mL from 32 weeks to delivery, 
+- Newly identified during pregnancy/within 6 weeks of delivery
 
-- **Intrauterine (20–30%):** Occurs transplacentally, mostly in late gestation. Suggested by positive PCR within 48 hours of birth.
-- **Intrapartum (70–80%):** Occurs through mucosal exposure to infected blood and secretions during delivery or micro-transfusions during labor. Suggested by negative PCR at birth but positive at 1–2 weeks.
-- **Postpartum:** Transmission through breast milk accounts for a significant proportion of infections in resource-limited settings.
+| Infant Risk Category  | Feeding Method                | Infant Prophylaxis Regimen                                                                                                                                |
+| :-------------------- | :---------------------------- | :-------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Standard Risk**<br> | Exclusive Breastfeeding       | Daily Nevirapine (NVP) at birth for 6 weeks                                                                                                               |
+|                       | Exclusive Replacement Feeding | Daily NVP **or** twice-daily Zidovudine (AZT) at birth for 4–6 weeks                                                                                      |
+| **High Risk**<br>     | Exclusive Breastfeeding       | **Two drugs:** Twice-daily AZT + once-daily NVP for the first 12 weeks.<br><br>*Note: For weeks 7–12, NVP alone can be used instead of the dual regimen.* |
+|                       | Exclusive Replacement Feeding | **Two drugs:** Twice-daily AZT + once-daily NVP for 6 weeks                                                                                               |
+### Dosage of  Prophylactic Drugs
+| Age / Duration | Weight Category | Nevirapine (NVP) Dosing (Syrup: 10 mg/mL) | Zidovudine (AZT) Dosing (Syrup: 10 mg/mL) |
+| :--- | :--- | :--- | :--- |
+| **Birth to 6 weeks** | < 2000 g | 2 mg/kg/dose once daily<br>*(0.2 mL/kg once daily)* | 5 mg per dose twice daily<br>*(0.5 mL of syrup twice daily)* |
+| | 2000–2449 g | 10 mg once daily<br>*(1 mL of syrup once daily)* | 10 mg per dose twice daily<br>*(1 mL of syrup twice daily)* |
+| | ≥ 2500 g | 15 mg once daily<br>*(1.5 mL of syrup once daily)* | 15 mg per dose twice daily<br>*(1.5 mL of syrup twice daily)* |
+| **> 6 weeks to 12 weeks** | All weights | 20 mg once daily<br>*(2.0 mL of syrup once daily)* | *Dose not established for prophylaxis*<br>Use treatment dose: 60 mg twice daily *(6 mL syrup twice daily)* |
 
-### Risk Factors for Vertical Transmission
+### Infant Feeding And General Care
 
-- **Viral Factors:** High maternal viral load (most important factor), advanced clinical disease, low CD4 count.
-- **Obstetric Factors:** Vaginal delivery (if viral load is high), prolonged rupture of membranes (>4 hours), chorioamnionitis, preterm delivery.
-- **Infant/Postnatal Factors:** Breastfeeding, mixed feeding (breast milk + other liquids/solids), oral thrush in the infant.
-
-## Diagnosis of HIV in Infants
-
-Standard antibody tests (ELISA) are not diagnostic in infants <18 months due to the persistence of passively transferred maternal IgG antibodies. Diagnosis relies on virologic assays.
-
-### Virologic Testing (DNA or RNA PCR)
-
-- **Method:** HIV DNA PCR (detects proviral DNA) or HIV RNA PCR (detects viral load) are the gold standards.
-- **Testing Schedule:**
-    - **Birth:** Recommended for high-risk infants to detect intrauterine infection.
-    - **4–6 Weeks:** Routine testing for all exposed infants.
-    - **4–6 Months:** Repeat testing to detect intrapartum or early breastfeeding transmission.
-    - **Post-weaning:** For breastfed infants, testing is required 6 weeks to 6 months after cessation of breastfeeding.
-- **Definitive Infection:** Confirmed by two positive virologic tests on separate samples.
-- **Exclusion of Infection:**
-    - Two negative virologic tests: one at ≥1 month and one at ≥4 months of age.
-    - Negative antibody test at >18 months.
-
-## Management of the HIV-Exposed Infant
-
-The immediate goal is to prevent the establishment of infection using antiretroviral (ARV) prophylaxis and to prevent opportunistic infections like _Pneumocystis jirovecii_ pneumonia (PCP).
-
-### 1. Antiretroviral Prophylaxis (prevention of MTCT)
-
-Prophylaxis strategies depend on the infant's risk categorization.
-
-- **Low-Risk Infants:** Born to mothers on ART with suppressed viral load (<1,000 copies/mL) near delivery.
-    - **Regimen:** Daily **Nevirapine (NVP)** or twice-daily **Zidovudine (AZT)**.
-    - **Duration:** Typically 6 weeks (some guidelines allow 4 weeks if mother suppressed >4 weeks before delivery).
-- **High-Risk Infants:** Born to mothers with unsuppressed viral load, no antenatal ART, or primary infection during pregnancy/breastfeeding.
-    - **Regimen:** Combination prophylaxis is recommended to act as presumptive treatment.
-        - **Option A:** **AZT + NVP** (dual prophylaxis) for 6–12 weeks.
-        - **Option B:** **AZT + Lamivudine (3TC) + NVP** (triple prophylaxis) for 6 weeks.
-    - **Duration:** At least 6 weeks, often extended to 12 weeks for breastfed infants.
-
-### 2. Cotrimoxazole Prophylaxis
-
-- **Rationale:** To prevent PCP, which has high mortality in HIV-infected infants, peaking at 3–6 months of age.
-- **Indication:** All HIV-exposed infants starting at **4–6 weeks** of age.
-- **Dose:** Trimethoprim/Sulfamethoxazole (TMP-SMX) 150/750 mg/m² or approx 5 mg/kg TMP daily or 3 days/week.
-- **Duration:** Continue until HIV infection is definitively excluded (typically 18 months or after cessation of breastfeeding with negative testing).
-
-### 3. Infant Feeding
-
-- **Resource-Rich Settings:** Formula feeding is recommended to eliminate the risk of postnatal transmission.
-- **Resource-Limited Settings:**
-    - **Exclusive Breastfeeding (EBF):** Recommended for the first 6 months if formula is not Affordable, Feasible, Acceptable, Sustainable, and Safe (AFASS).
-    - **Conditions:** The mother must be on effective ART. Mixed feeding should be strictly avoided as it increases transmission risk.
-    - **Weaning:** Should be gradual over 1 month around 12 months of age (or up to 24 months per WHO), ensuring adequate complementary foods.
-
-### 4. Immunization
-
-- **Standard Vaccines:** Administer according to the national schedule.
-- **Live Vaccines:**
-    - **[[Misc/BCG\|BCG]]:** WHO recommends [[Misc/BCG\|BCG]] at birth for asymptomatic HIV-exposed infants in endemic areas. It should _not_ be given to symptomatic HIV-infected infants due to risk of disseminated [[Misc/BCG\|BCG]] disease.
-    - **OPV:** Generally contraindicated in known HIV-infected children (IPV preferred), but often given in endemic areas to exposed infants.
-    - **MMR & Varicella:** Contraindicated in severe immunosuppression (CD4 <15%), but recommended for asymptomatic or mildly symptomatic children.
-
-## Clinical Manifestations of HIV Infection in Infants
-
-If transmission occurs, the disease course in infants is often more aggressive than in adults due to an immature immune system.
-
-### Patterns of Progression
-
-- **Rapid Progressors (15–25%):** Associated with intrauterine infection. Present with AIDS-defining illnesses, encephalopathy, and failure to thrive in the first few months. High mortality without treatment.
-- **Slow Progressors (60–80%):** Median survival of 6 years or more without treatment. Often infected intrapartum.
-
-### Common Clinical Findings
-
-- **General:** Failure to thrive, lymphadenopathy, hepatosplenomegaly, chronic parotitis.
-- **Infections:**
-    - **Bacterial:** [[Respiratory/Recurrent Pneumonia\|Recurrent pneumonia]], sepsis, otitis media.
-    - **Fungal:** Persistent oral candidiasis (thrush) beyond 6 weeks of age, esophageal candidiasis.
-    - **Viral:** CMV retinitis or pneumonitis, persistent HSV, Varicella.
-    - **Opportunistic:** _Pneumocystis jirovecii_ pneumonia (PCP) is the most common AIDS-defining illness in infants. Lymphoid Interstitial Pneumonitis (LIP) is a [[Respiratory/Chronic Lung Disease\|chronic lung disease]] specific to [[Infectious Diseases/Pediatric HIV\|pediatric HIV]].
-- **Neurologic:** HIV encephalopathy (loss of milestones, acquired [[Neurology/Microcephaly\|microcephaly]], motor deficits).
-
-## Treatment of HIV-Infected Infants
-
-- **Initiation:** **Universal ART** is recommended for all HIV-infected infants <1 year of age immediately upon diagnosis, regardless of CD4 count or clinical stage, to reduce mortality.
-- **Regimens:**
-    - **First-line:** Two Nucleoside Reverse Transcriptase Inhibitors (NRTIs) + one Integrase Strand Transfer Inhibitor (INSTI) or Protease Inhibitor (PI) or Non-Nucleoside Reverse Transcriptase Inhibitor (NNRTI).
-    - **Preferred:** Zidovudine (AZT) or Abacavir (ABC) + Lamivudine (3TC) + **Lopinavir/Ritonavir (LPV/r)** or **Dolutegravir (DTG)** (where approved for age/weight). Nevirapine-based regimens are less preferred for infants with prior NVP exposure due to resistance.
-- **Monitoring:** Regular assessment of growth, neurodevelopment, viral load, and CD4 counts is essential to monitor response and adherence.
+- **Feeding Practices:** 
+	- In resource-rich settings, formula feeding is universally recommended to completely eliminate postnatal transmission. 
+	- In resource-limited settings, exclusive breastfeeding is recommended for the first 6 months provided the mother remains on effective ART; mixed feeding must be strictly avoided as it drastically increases transmission risk.
+> [!orange] 📝 WHO, NACO and GoI stance 
+> - WHO, NACO and Government of India all advocate for the exclusive breastfeeding of the newborn till 6 months of age
+> - Replacement feeding is advised _only_ if  
+> 	- it meets the **AFASS** criteria: **A**cceptable, **F**easible, **A**ffordable, **S**ustainable, and **S**afe 
+> 	- Mother provides explicit written consent after Informed Councelling
+> - Mixed Feeding is to be avoided 
+- **Cotrimoxazole Prophylaxis:** 
+	- Mandatory for all HIV-exposed infants starting at 4 to 6 weeks of age to prevent life-threatening _Pneumocystis jirovecii_ pneumonia. 
+	- This must continue until HIV infection is definitively excluded.
+- **Immunization:** 
+	- Administer BCG at birth strictly to asymptomatic HIV-exposed infants
+	- It is strongly contraindicated in symptomatic HIV-infected infants due to the risk of disseminated BCG disease. 
+	  Inactivated vaccines are safe and recommended.

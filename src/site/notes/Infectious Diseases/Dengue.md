@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"uplink":"/infectious-diseases/infectious-diseases/","uptext":"Back to Index (Infectious Diseases)","permalink":"/infectious-diseases/dengue/","dgPassFrontmatter":true}
+{"dg-publish":true,"uplink":"/id/","uptext":"Back to Index (Infectious Diseases)","permalink":"/infectious-diseases/dengue/","dgPassFrontmatter":true}
 ---
 
 

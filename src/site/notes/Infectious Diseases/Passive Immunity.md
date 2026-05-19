@@ -42,7 +42,7 @@ The clinical applications of [[Infectious Diseases/Passive Immunity\|passive imm
 For children with defects in antibody production (e.g., X-linked Agammaglobulinemia, Common Variable Immunodeficiency), passive immunization is life-saving.
 
 - **IVIG or SCIG:** Used to maintain adequate serum IgG levels to prevent recurrent bacterial infections.
-- **Secondary Immunodeficiencies:** IVIG is also indicated for hypogammaglobulinemia associated with [[Infectious Diseases/Pediatric HIV\|pediatric HIV]] infection or B-cell malignancies (e.g., CLL).
+- **Secondary Immunodeficiencies:** IVIG is also indicated for hypogammaglobulinemia associated with [[Infectious Diseases/HIV\|HIV]] infection or B-cell malignancies (e.g., CLL).
 
 #### 2. Prophylaxis Against Infectious Diseases
 

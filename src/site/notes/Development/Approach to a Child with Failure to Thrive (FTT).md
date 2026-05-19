@@ -21,7 +21,7 @@
 |**Organic: Renal**|Renal tubular acidosis, [[Nephrology/Chronic Kidney Disease\|chronic kidney disease]].|
 |**Organic: Cardiopulmonary**|Congenital heart disease, [[Respiratory/Cystic Fibrosis\|cystic fibrosis]], [[Respiratory/Asthma\|asthma]].|
 |**Organic: Endocrine & Genetic**|Hypothyroidism, diabetes mellitus, inborn errors of metabolism, chromosomal anomalies.|
-|**Organic: Infections & Misc.**|Chronic parasitic infections of the gastrointestinal tract, tuberculosis, human immunodeficiency virus (HIV), lead poisoning, malignancy.|
+|**Organic: Infections & Misc.**|Chronic parasitic infections of the gastrointestinal tract, tuberculosis, human immunodeficiency virus ([[Infectious Diseases/HIV\|HIV]]), lead poisoning, malignancy.|
 |**Non-Organic (Psychosocial)**|Poverty, misperceptions or lack of parental knowledge about diet and feeding, lack of breastfeeding, feeding diluted formulae, and dysfunctional parent-child relationships.|
 
 ### Clinical Features
