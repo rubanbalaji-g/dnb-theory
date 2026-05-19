@@ -40,12 +40,12 @@ body:has(.home-dashboard) .content {
 /* 2. Global Styling (Fonts & UI) */
 
 :root {
-  --default-font: "Inter", "Segoe UI", "Roboto", "Helvetica Neue", Arial, sans-serif !important;
-  --font-default: "Inter", "Segoe UI", "Roboto", "Helvetica Neue", Arial, sans-serif !important;
-  --font-interface: "Inter", "Segoe UI", "Roboto", "Helvetica Neue", Arial, sans-serif !important;
-  --font-text: "Inter", "Segoe UI", "Roboto", "Helvetica Neue", Arial, sans-serif !important;
-  --file-header-font: "Inter", "Segoe UI", "Roboto", "Helvetica Neue", Arial, sans-serif !important;
-  --inline-title-font: "Inter", "Segoe UI", "Roboto", "Helvetica Neue", Arial, sans-serif !important;
+  --default-font: "Roboto", "Noto Sans", "Inter", "Calibri", sans-serif !important;
+  --font-default: "Roboto", "Noto Sans", "Inter", "Calibri", sans-serif !important;
+  --font-interface: "Roboto", "Noto Sans", "Inter", "Calibri", sans-serif !important;
+  --font-text: "Roboto", "Noto Sans", "Inter", "Calibri", sans-serif !important;
+  --file-header-font: "Roboto", "Noto Sans", "Inter", "Calibri", sans-serif !important;
+  --inline-title-font: "Roboto", "Noto Sans", "Inter", "Calibri", sans-serif !important;
 }
 
 body,
@@ -981,37 +981,37 @@ body .backlink-title {
 }
 
 /* --- Light mode table --- */
-body.theme-light .markdown-rendered th {
-    background: #166534 !important;   /* Dark forest green header */
-    color: #F0FDF4 !important;
+body.theme-light th {
+    background: #14532D !important;   /* Dark forest green header */
+    color: #FFFFFF !important;        /* Pure white text for excellent contrast */
     font-weight: 600;
     text-align: left;
 }
-body.theme-light .markdown-rendered tbody tr:nth-child(odd) {
-    background: #FFFFFF;
+body.theme-light tbody tr:nth-child(odd) {
+    background: #FFFFFF !important;   /* Pure white band */
 }
-body.theme-light .markdown-rendered tbody tr:nth-child(even) {
-    background: #F0FDF4;              /* Very light mint band */
+body.theme-light tbody tr:nth-child(even) {
+    background: #E8F5E9 !important;   /* Soft, premium light green clinical band */
 }
-body.theme-light .markdown-rendered tbody tr:hover {
-    background: #DCFCE7 !important;
+body.theme-light tbody tr:hover {
+    background: #DCFCE7 !important;   /* Gentle green hover highlight */
 }
 
 /* --- Dark mode table --- */
-body.theme-dark .markdown-rendered th {
-    background: #14532D !important;   /* Deep forest green header */
-    color: #D1FAE5 !important;
+body.theme-dark th {
+    background: #064E3B !important;   /* Sophisticated dark forest green for dark theme */
+    color: #ECFDF5 !important;        /* Soft mint text for optimal readability */
     font-weight: 600;
     text-align: left;
 }
-body.theme-dark .markdown-rendered tbody tr:nth-child(odd) {
-    background: transparent;
+body.theme-dark tbody tr:nth-child(odd) {
+    background: #0F1117 !important;   /* Dark background ("white" equivalent in dark mode) */
 }
-body.theme-dark .markdown-rendered tbody tr:nth-child(even) {
-    background: rgba(74, 222, 128, 0.04); /* Subtle green tint */
+body.theme-dark tbody tr:nth-child(even) {
+    background: #132A1F !important;   /* Elegant subtle dark green band ("light green" equivalent in dark mode) */
 }
-body.theme-dark .markdown-rendered tbody tr:hover {
-    background: rgba(74, 222, 128, 0.08) !important;
+body.theme-dark tbody tr:hover {
+    background: #1E3F2F !important;   /* Refined green hover highlight */
 }
 
 /* Selection highlight */
