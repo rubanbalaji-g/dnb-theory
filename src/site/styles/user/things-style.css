@@ -53,3 +53,10 @@ a, a:link, a:visited,
 .theme-light h4 { color: var(--h4-color) !important; }
 .theme-light h5 { color: var(--h5-color) !important; }
 .theme-light h6 { color: var(--h6-color) !important; }
+
+/* ============================================================
+   3. INLINE COLOR SPANS (Light Mode Readability)
+   ============================================================ */
+.theme-light span[style*="color"] {
+    filter: invert(1) hue-rotate(180deg);
+}
