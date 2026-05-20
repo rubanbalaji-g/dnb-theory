@@ -4,11 +4,13 @@
 
 ### 1. Introduction and Etiology
 
-[[Infectious Diseases/Diphtheria\|Diphtheria]] is an acute, toxin-mediated infectious disease caused by <span style="color:rgb(0, 176, 240)"><i>Corynebacterium diphtheriae</i></span>, an aerobic, gram-positive, non-spore-forming bacillus. Occasionally, toxigenic strains of _C. ulcerans_ also cause the disease. The organism is non-invasive and remains localized to mucosal surfaces, but its virulence is attributed to the production of a potent exotoxin ([[Infectious Diseases/Diphtheria\|diphtheria]] toxin). The toxin inhibits protein synthesis in host cells, leading to local tissue necrosis and systemic toxicity affecting the heart, kidneys, and nervous system.
+- Diphtheria is an acute, toxin-mediated infectious disease caused by <i>Corynebacterium diphtheriae</i>, an aerobic, gram-positive, non-spore-forming bacillus. 
+- Occasionally, toxigenic strains of _C. ulcerans_ also cause the disease. The organism is non-invasive and remains localized to mucosal surfaces, but its virulence is attributed to the production of a potent exotoxin (diphtheria toxin). 
+- The toxin inhibits protein synthesis in host cells, leading to local tissue necrosis and systemic toxicity affecting the heart, kidneys, and nervous system.
 
 ### 2. Epidemiology
 
-Although the incidence has declined globally due to immunization, [[Infectious Diseases/Diphtheria\|diphtheria]] remains endemic in many developing regions, particularly in Southeast Asia and Africa.
+Although the incidence has declined globally due to immunization, diphtheria remains endemic in many developing regions, particularly in Southeast Asia and Africa.
 
 - **Transmission:** Spread primarily occurs via respiratory droplets or direct contact with respiratory secretions or exudate from infected skin lesions.
 - **Incubation Period:** Typically 2–5 days (range 1–10 days).
@@ -16,33 +18,48 @@ Although the incidence has declined globally due to immunization, [[Infectious D
 
 ### 3. Pathogenesis and Pathology
 
-The [[Infectious Diseases/Diphtheria\|diphtheria]] toxin causes local necrosis of the epithelium, resulting in the formation of a characteristic **pseudomembrane** composed of fibrin, bacteria, epithelial cells, and inflammatory cells.
+The diphtheria toxin causes local necrosis of the epithelium, resulting in the formation of a characteristic **pseudomembrane** composed of fibrin, bacteria, epithelial cells, and inflammatory cells.
 
-- **Local Effect:** The membrane is gray-brown, leathery, and adherent; <span style="color:rgb(0, 176, 240)">attempts to remove it cause bleeding</span>.
+- **Local Effect:** The membrane is gray-brown, leathery, and adherent; attempts to remove it cause bleeding.
 - **Systemic Effect:** Absorption of the toxin leads to distant organ damage, specifically toxic cardiomyopathy, demyelinating neuropathy, and renal tubular necrosis.
 
 ### 4. Clinical Manifestations
 
 Clinical features depend on the anatomic site of infection.
 
-- **Faucial/Pharyngeal [[Infectious Diseases/Diphtheria\|Diphtheria]]:** The most common form. Onset is insidious with malaise, low-grade fever, and sore throat. A pseudomembrane forms on the tonsils and may extend to the soft palate and uvula. Extensive soft tissue edema and lymphadenopathy create the characteristic **"bull-neck" appearance**.
-- **Laryngeal [[Infectious Diseases/Diphtheria\|Diphtheria]]:** May be primary or an extension from the pharynx. Presents with fever, hoarseness, stridor, and a croupy cough. There is a high risk of airway obstruction by the membrane.
-- **Nasal [[Infectious Diseases/Diphtheria\|Diphtheria]]:** Primarily affects infants. Manifests as unilateral or bilateral serosanguinous or purulent discharge that may excoriate the upper lip. Systemic toxicity is usually mild due to poor toxin absorption from this site.
-- **Cutaneous [[Infectious Diseases/Diphtheria\|Diphtheria]]:** Presents as chronic, non-healing ulcers with a gray membrane.
+- **Faucial/Pharyngeal Diphtheria:** 
+	- The most common form. 
+	- Onset is insidious with malaise, low-grade fever, and sore throat. 
+	- A pseudomembrane forms on the tonsils and may extend to the soft palate and uvula. 
+	- Extensive soft tissue edema and lymphadenopathy create the characteristic **"bull-neck" appearance**.
+- **Laryngeal Diphtheria:** 
+	- May be primary or an extension from the pharynx. 
+	- Presents with fever, hoarseness, stridor, and a croupy cough. 
+	- There is a high risk of airway obstruction by the membrane.
+- **Nasal Diphtheria:** 
+	- Primarily affects infants. 
+	- Manifests as unilateral or bilateral serosanguinous or purulent discharge that may excoriate the upper lip. 
+	- Systemic toxicity is usually mild due to poor toxin absorption from this site.
+- **Cutaneous Diphtheria:** 
+	- Presents as chronic, non-healing ulcers with a gray membrane.
 
 ### 5. Diagnosis
 
 Diagnosis is primarily clinical and treatment should not be delayed for laboratory confirmation.
 
-- **Microscopy:** Albert stain of a swab may show metachromatic granules (Chinese letter pattern), but is not definitive.
-- **Culture:** The gold standard. Requires selective media like **<mark style="background: #ABF7F7A6;">Tellurite blood agar</mark>** (black colonies) or <mark style="background: #ABF7F7A6;">Loeffler's serum slope</mark>.
-- **Toxigenicity Testing:** Essential to confirm the strain produces toxin. Methods include the <mark style="background: #ABF7F7A6;">Elek test</mark> (immunoprecipitation) or PCR for the toxin gene.
+- **Microscopy:** 
+	- Albert stain of a swab may show metachromatic granules (Chinese letter pattern), but is not definitive.
+- **Culture:** 
+	- The gold standard. Requires selective media like **Tellurite blood agar** (black colonies) or Loeffler's serum slope.
+- **Toxigenicity Testing:** 
+	- Essential to confirm the strain produces toxin. 
+	- Methods include the Elek test (immunoprecipitation) or PCR for the toxin gene.
 
 ### 6. Differential Diagnosis
 
 - **Streptococcal Pharyngitis:** Higher fever, more intense pain, absence of adherent membrane.
 - **Infectious Mononucleosis:** Generalized lymphadenopathy, splenomegaly, atypical lymphocytes.
-- **Viral Croup/Epiglottitis:** Differentiated from laryngeal [[Infectious Diseases/Diphtheria\|diphtheria]] by the absence of a pharyngeal membrane and different clinical progression.
+- **Viral Croup/Epiglottitis:** Differentiated from laryngeal diphtheria by the absence of a pharyngeal membrane and different clinical progression.
 
 ### 7. Complications
 
@@ -54,7 +71,7 @@ Diagnosis is primarily clinical and treatment should not be delayed for laborato
 
 - **Isolation:** Strict droplet precautions until two consecutive negative cultures are obtained.
 - **Airway:** Immediate securing of the airway (tracheostomy or intubation) if obstruction is present.
-- **Antitoxin:** **Equine [[Infectious Diseases/Diphtheria\|Diphtheria]] Antitoxin (DAT)** is the mainstay of treatment. It neutralizes only free toxin and must be given immediately.
+- **Antitoxin:** **Equine Diphtheria Antitoxin (DAT)** is the mainstay of treatment. It neutralizes only free toxin and must be given immediately.
     - _Dose:_ 20,000 to 120,000 units depending on severity and site.
     - _Sensitivity Test:_ Mandatory prior to administration due to risk of anaphylaxis.
 - **Antibiotics:** Penicillin or Erythromycin for 14 days to eradicate the organism, stop toxin production, and prevent transmission.
@@ -69,13 +86,13 @@ Diagnosis is primarily clinical and treatment should not be delayed for laborato
 
 ---
 
-# [[Infectious Diseases/Diphtheria\|Diphtheria]] Myocarditis
+# Diphtheria Myocarditis
 
 ### 1. Incidence and Pathophysiology
 
-Myocarditis is the most serious complication of [[Infectious Diseases/Diphtheria\|diphtheria]] and is responsible for 20–25% of deaths. It occurs in approximately 10–25% of patients with respiratory [[Infectious Diseases/Diphtheria\|diphtheria]].
+[[Cardiology/Acute Myocarditis\|Acute Myocarditis]] is the most serious complication of diphtheria and is responsible for 20–25% of deaths. It occurs in approximately 10–25% of patients with respiratory diphtheria.
 
-- **Mechanism:** [[Infectious Diseases/Diphtheria\|Diphtheria]] toxin causes direct myonecrosis and inflammation. The risk of cardiac toxicity correlates directly with the extent of local disease and delay in antitoxin administration.
+- **Mechanism:** Diphtheria toxin causes direct myonecrosis and inflammation. The risk of cardiac toxicity correlates directly with the extent of local disease and delay in antitoxin administration.
 - **Pathology:** Histology reveals diffuse or focal myonecrosis with acute inflammatory response.
 
 ### 2. Clinical Presentation
@@ -100,7 +117,7 @@ The onset of cardiac involvement is characteristically between **7 and 14 days**
 
 - **Laboratory:** Serum aspartate transaminase (AST) levels may be elevated and parallel the severity of myonecrosis.
 - **Imaging:** Echocardiography may show dilated or hypertrophic cardiomyopathy with decreased contractility.
-- **Monitoring:** Careful cardiac monitoring is essential for patients with [[Infectious Diseases/Diphtheria\|diphtheria]], especially those with extensive membrane formation or delayed treatment.
+- **Monitoring:** Careful cardiac monitoring is essential for patients with diphtheria, especially those with extensive membrane formation or delayed treatment.
 
 ### 5. Treatment and Prognosis
 
@@ -112,11 +129,11 @@ The onset of cardiac involvement is characteristically between **7 and 14 days**
 
 ---
 
-# Antitoxin Therapy in [[Infectious Diseases/Diphtheria\|Diphtheria]]
+# Antitoxin Therapy in Diphtheria
 
 ### 1. Introduction
 
-[[Infectious Diseases/Diphtheria\|Diphtheria]] Antitoxin (DAT) is the cornerstone of management for [[Infectious Diseases/Diphtheria\|diphtheria]]. It is a hyperimmune serum derived from horses (equine origin).
+Diphtheria Antitoxin (DAT) is the cornerstone of management for diphtheria. It is a hyperimmune serum derived from horses (equine origin).
 
 ### 2. Mechanism of Action
 
@@ -125,9 +142,9 @@ The onset of cardiac involvement is characteristically between **7 and 14 days**
 
 ### 3. Indications
 
-- **Empiric Use:** DAT is indicated for all suspected cases of respiratory [[Infectious Diseases/Diphtheria\|diphtheria]].
+- **Empiric Use:** DAT is indicated for all suspected cases of respiratory diphtheria.
 - **Clinical Diagnosis:** Administration should be based on clinical diagnosis (presence of pseudomembrane, toxic appearance) and **should not be delayed** pending culture results.
-- **Cutaneous [[Infectious Diseases/Diphtheria\|Diphtheria]]:** Its value is uncertain, but it is often recommended to prevent toxic sequelae.
+- **Cutaneous Diphtheria:** Its value is uncertain, but it is often recommended to prevent toxic sequelae.
 
 ### 4. Dosage and Administration
 
@@ -151,11 +168,11 @@ Since DAT is a foreign protein (equine), there is a significant risk of hypersen
 - **Sensitivity Testing:** Must be performed before administration.
     - **Skin Prick/Intradermal Test:** Diluted serum is injected; a wheal >3mm indicates a positive reaction.
     - **Conjunctival Test:** One drop of 1:10 dilution in the eye.
-- **Desensitization:** If the patient is sensitive, a <span style="color:rgb(0, 176, 240)">Besredka desensitization protocol</span> (gradual administration of increasing small doses) must be followed.
+- **Desensitization:** If the patient is sensitive, a Besredka desensitization protocol (gradual administration of increasing small doses) must be followed.
 - **Adverse Reactions:**
     - **Anaphylaxis:** Immediate, life-threatening reaction (<1%). Epinephrine must always be available at the bedside.
     - **Serum Sickness:** A delayed reaction occurring 7–12 days after administration, characterized by fever, rash, urticaria, arthritis, and lymphadenopathy. Occurs in up to 15% of patients.
 
 ### 6. Role of IVIG
 
-Human Intravenous Immunoglobulin (IVIG) contains low titers of [[Infectious Diseases/Diphtheria\|diphtheria]] antibodies but is not a substitute for equine antitoxin and is not FDA approved for this indication. It may be considered only if equine antitoxin is unavailable.
+Human Intravenous Immunoglobulin (IVIG) contains low titers of diphtheria antibodies but is not a substitute for equine antitoxin and is not FDA approved for this indication. It may be considered only if equine antitoxin is unavailable.

@@ -4,11 +4,11 @@
 
 ## 1. Introduction and Definition
 
-[[Infectious Diseases/Enteric Fever\|Enteric fever]] is a systemic infection caused by the bacterium <span style="color:rgb(255, 255, 0)">_Salmonella enterica_ serovar Typhi (_S._ Typhi) and _Salmonella enterica_ serovar Paratyphi A, B, or C (_S._ Paratyphi).</span> While _S._ Typhi causes the majority of cases (approximately 90%), _S._ Paratyphi contributes to the remaining burden, though the clinical presentation is often indistinguishable. The disease is characterized by fever, abdominal pain, and multisystem involvement resulting from bacteremia and colonization of the reticuloendothelial system.
+Enteric fever is a systemic infection caused by the bacterium _Salmonella enterica_ serovar Typhi (_S._ Typhi) and _Salmonella enterica_ serovar Paratyphi A, B, or C (_S._ Paratyphi). While _S._ Typhi causes the majority of cases (approximately 90%), _S._ Paratyphi contributes to the remaining burden, though the clinical presentation is often indistinguishable. The disease is characterized by fever, abdominal pain, and multisystem involvement resulting from bacteremia and colonization of the reticuloendothelial system.
 
 ## 2. Epidemiology
 
-- **Global Burden:** [[Infectious Diseases/Enteric Fever\|Enteric fever]] remains a major public health problem in resource-limited settings with poor sanitation and water supply. It is endemic in the Indian subcontinent, Southeast Asia, and parts of Africa.
+- **Global Burden:** Enteric fever remains a major public health problem in resource-limited settings with poor sanitation and water supply. It is endemic in the Indian subcontinent, Southeast Asia, and parts of Africa.
 - **Pediatric Prevalence:** In endemic areas, the incidence is highest in children and adolescents (5–15 years), though recent data indicates a significant burden in children under 5 years of age.
 - **Transmission:** The mode of transmission is <span style="color:rgb(255, 255, 0)">fecal-oral</span>, typically through the ingestion of food or water contaminated with human feces containing the bacteria. Humans are the only natural reservoir for _S._ Typhi.
 - **Carriers:** Chronic carriers (excreting bacilli for >1 year) act as crucial reservoirs for infection spread. This state is less common in children than adults.
@@ -30,7 +30,7 @@ The clinical presentation varies by age. The classic "step-ladder" fever pattern
 
 ### 4.1. General Features
 
-- **Incubation Period:** Typically <span style="color:rgb(0, 176, 240)">7–14 days</span> (range 3–60 days).
+- **Incubation Period:** Typically 7–14 days (range 3–60 days).
 - **Onset:** Usually insidious with malaise, anorexia, dull frontal headache, and myalgia.
 - **Fever:** The hallmark sign. It rises in a <span style="color:rgb(255, 0, 0)">stepwise fashion in the first week</span>, becoming sustained/continuous (high grade 39°C–40°C) by the second week.
 - **Gastrointestinal:**
@@ -40,8 +40,8 @@ The clinical presentation varies by age. The classic "step-ladder" fever pattern
 - **Physical Findings:**
     - **Coated Tongue:** Central white fur with red margins.
     - **Hepatosplenomegaly:** Soft, tender splenomegaly is palpable by the end of the first week.
-    - **<span style="color:rgb(0, 176, 240)">Rose Spots:</span>** Blanching, erythematous maculopapular lesions (2–4 mm) on the trunk/chest. They appear around day 7–10, fade in 2–3 days, and are harder to see in dark-skinned patients.
-    - **Relative Bradycardia:** Pulse-temperature dissociation (<span style="color:rgb(0, 176, 240)">Faget's sign</span>) is less common in children than adults.
+    - <span style="color:rgb(255, 73, 41)"><b>Rose Spots:</b></span> Blanching, erythematous maculopapular lesions (2–4 mm) on the trunk/chest. They appear around day 7–10, fade in 2–3 days, and are harder to see in dark-skinned patients.
+    - **Relative Bradycardia:** Pulse-temperature dissociation (<span style="color:rgb(255, 73, 41)">Faget's sign</span>) is less common in children than adults.
 
 ### 4.2. Neonatal and Infant Typhoid
 
@@ -60,7 +60,7 @@ Complications usually occur in the 2nd or 3rd week of untreated illness.
 
 ### 5.2. Systemic/Extraintestinal Complications
 
-- **Neurologic (Typhoid Encephalopathy):** Occurs in 10–15% of cases. Manifests as delirium ("muttering delirium"), stupor, obtundation, coma, or shock. This defines **Severe [[Infectious Diseases/Enteric Fever\|Enteric Fever]]**.
+- **Neurologic (Typhoid Encephalopathy):** Occurs in 10–15% of cases. Manifests as delirium ("<span style="color:rgb(255, 73, 41)">muttering delirium</span>"), stupor, obtundation, coma, or shock. This defines **Severe Enteric Fever**.
 - **Cardiovascular:** Toxic myocarditis, shock.
 - **Hepatobiliary:** Hepatitis (Typhoid hepatitis), cholecystitis (rare in children).
 - **Hematologic:** Hemophagocytic lymphohistiocytosis (HLH), [[Hematology/Disseminated Intravascular Coagulation\|disseminated intravascular coagulation]] (DIC).
@@ -91,7 +91,7 @@ Complications usually occur in the 2nd or 3rd week of untreated illness.
 
 ## 7. Differential Diagnosis
 
-[[Infectious Diseases/Enteric Fever\|Enteric fever]] mimics many febrile illnesses:
+Enteric fever mimics many febrile illnesses:
 
 - **[[Infectious Diseases/Malaria\|Malaria]]:** Differentiated by fever pattern, rigors, splenomegaly, and peripheral smear.
 - **[[Infectious Diseases/Dengue\|Dengue]]:** Acute onset, retro-orbital pain, significant thrombocytopenia/leukopenia.
@@ -111,15 +111,15 @@ Complications usually occur in the 2nd or 3rd week of untreated illness.
 
 Antibiotic choice is guided by local susceptibility patterns, specifically the prevalence of Multi-Drug Resistant (MDR) and Fluoroquinolone-resistant strains.
 
-**A. Uncomplicated [[Infectious Diseases/Enteric Fever\|Enteric Fever]] (Outpatient)**
+**A. Uncomplicated Enteric Fever (Outpatient)**
 
 - **First Line:** **Cefixime** (20 mg/kg/day PO divided BD for 14 days) OR **Azithromycin** (10–20 mg/kg/day PO once daily for 5–7 days).
     - _Note:_ Azithromycin is highly effective for intracellular clearance and reduces relapse rates.
 - **Alternative:** Amoxicillin or Trimethoprim-Sulfamethoxazole (only if sensitivity is proven, as resistance is common).
 
-**B. Severe/Complicated [[Infectious Diseases/Enteric Fever\|Enteric Fever]] (Inpatient)**
+**B. Severe/Complicated Enteric Fever (Inpatient)**
 
-- **First Line:** **IV Ceftriaxone** (75–100 mg/kg/day IV OD or BD for 10–14 days).
+- **First Line:** **IV Ceftriaxone** (75–100 mg/kg/day IV OD or BD for 14 days).
 - **For MDR/XDR Strains:** If there is no response to Ceftriaxone or if Extensively Drug-Resistant (XDR) _S._ Typhi (resistant to ceftriaxone) is suspected (e.g., Pakistan outbreak strains):
     - **Meropenem** (Carbapenem).
     - **Aztreonam**.
@@ -160,5 +160,5 @@ Vaccination is recommended for children in endemic areas and travelers.
 3. **Ty21a (Oral Live Attenuated):**
     - _Age:_ >5 years or >6 years (capsule form).
     - _Schedule:_ 3–4 doses on alternate days.
-    - _Efficacy:_ Modest, requires boosters.
+    - _Efficacy:_ Modest, requires boosters every 3 years.
 

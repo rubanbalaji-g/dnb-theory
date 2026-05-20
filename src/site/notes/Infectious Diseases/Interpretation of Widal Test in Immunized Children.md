@@ -52,9 +52,18 @@ An "anamnestic response" is a critical concept in interpreting Widal tests in im
 
 ### 5. Challenges and Recommendations
 
-1. **Baseline Titers:** In endemic areas, "normal" children often have background antibody titers due to repeated subclinical exposure or vaccination. Interpretation requires knowledge of the local baseline titer.
-2. **Paired Sera:** The only reliable serological diagnosis is a **fourfold rise** in titers in paired sera (acute and convalescent). However, this is retrospective and clinically less useful for immediate treatment decisions.
-3. **Vaccine History:** A detailed vaccination history is essential. If a child received a vaccine containing O/H antigens (whole cell), the Widal is unreliable. If they received Vi-based vaccines, high O/H titers are more suggestive of infection but still require caution due to potential background immunity.
-4. **Clinical Correlation:** The Widal test should **never** be interpreted in isolation. It must be correlated with clinical signs (step-ladder fever, toxic look, hepatosplenomegaly). In the absence of clinical features, a positive Widal in an immunized child should be disregarded.
-5. **Alternative Diagnostics:** Due to these limitations, reliance should shift toward blood culture (gold standard) or more specific assays (e.g., IgM enzyme immunoassays or PCR), although Widal remains common in resource-limited settings.
+1. **Baseline Titers:** 
+	- In endemic areas, "normal" children often have background antibody titers due to repeated subclinical exposure or vaccination. 
+	- Interpretation requires knowledge of the local baseline titer.
+2. **Paired Sera:** 
+	- The only reliable serological diagnosis is a **fourfold rise** in titers in paired sera (acute and convalescent). 
+	- However, this is retrospective and clinically less useful for immediate treatment decisions.
+3. **Vaccine History:** 
+	- A detailed vaccination history is essential. If a child received a vaccine containing O/H antigens (whole cell), the Widal is unreliable. 
+	- If they received Vi-based vaccines, high O/H titers are more suggestive of infection but still require caution due to potential background immunity.
+4. **Clinical Correlation:** 
+	-  The Widal test should **never** be interpreted in isolation. It must be correlated with clinical signs (step-ladder fever, toxic look, hepatosplenomegaly). 
+	- In the absence of clinical features, a positive Widal in an immunized child should be disregarded.
+5. **Alternative Diagnostics:** 
+	- Due to these limitations, reliance should shift toward blood culture (gold standard) or more specific assays (e.g., IgM enzyme immunoassays or PCR), although Widal remains common in resource-limited settings.
 
