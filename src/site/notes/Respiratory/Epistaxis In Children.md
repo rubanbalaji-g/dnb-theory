@@ -17,7 +17,9 @@
 
 - Most common bleeding site is anterior nasal septum.
 - Area known as Kiesselbach plexus or Little's area.
-- Region features convergence of internal carotid branches (anterior and posterior ethmoid arteries) and external carotid branches (sphenopalatine and terminal internal maxillary arteries).
+- Region features convergence of 
+	- internal carotid branches (anterior and posterior ethmoid arteries) and 
+	- external carotid branches (sphenopalatine and terminal internal maxillary arteries).
 - Superficial mucosal location makes vessels highly vulnerable to mechanical and chemical insults.
 - Posterior bleeding arises from posterior sphenopalatine branches, Woodruff plexus, and venous sources.
 

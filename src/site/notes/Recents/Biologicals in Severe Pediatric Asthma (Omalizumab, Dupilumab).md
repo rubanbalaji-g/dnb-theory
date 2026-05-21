@@ -29,7 +29,7 @@
 
 - Efficacy: Biologics collectively reduce severe exacerbations by 50-65%, enhance FEV1, and minimize OCS exposure.
 - VOYAGE Trial (Dupilumab): Achieved 59-65% exacerbation reduction and improved ACQ-7 scores in children aged 6-11 years, with 77-79% remaining exacerbation-free at 52 weeks.
-- Comparative Data: Dupilumab demonstrates superiority over omalizumab in patients with frequent exacerbations, FEV1 <70% predicted, or comorbid nasal polyps.
+- Comparative Data: Dupilumab demonstrates superiority over omalizumab in patients with frequent exacerbations, FEV1 <70% predicted, or comorbid [[Respiratory/Nasal Polyps\|nasal polyps]].
 - Timing: Early biologic initiation ($\le$ 11 years) correlates with 53% lower exacerbation odds, amplifying benefits in polysensitized children.
 - Safety: Mild adverse events include injection-site reactions, eosinophilia, and viral upper respiratory infections. Serious adverse events remain <2%.
 

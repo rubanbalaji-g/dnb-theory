@@ -56,7 +56,7 @@
 
 |Pathophysiology & Features|Management|
 |:--|:--|
-|- **Eyes:** Nonproliferative retinopathy (small vessel occlusion).- Proliferative retinopathy: Neovascularization ("sea fans"), vitreous hemorrhage, retinal detachment.- Angioid streaks, hyphema.- **ENT:** High-frequency sensorineural hearing loss.- Adenotonsillar hypertrophy (compensation for splenic lymphoid loss), causing obstructive sleep apnea/hypoxemia.|- **Eyes:** Annual ophthalmologic exams (starting age 8 for HbSS, age 5 for HbSC).- Laser photocoagulation.- Anterior chamber paracentesis for hyphema.- **ENT:** Sleep study.- Early tonsillectomy and adenoidectomy.|
+|- **Eyes:** Nonproliferative retinopathy (small vessel occlusion).- Proliferative retinopathy: Neovascularization ("sea fans"), vitreous hemorrhage, retinal detachment.- Angioid streaks, hyphema.- **ENT:** High-frequency sensorineural hearing loss.- Adenotonsillar hypertrophy (compensation for splenic lymphoid loss), causing [[Respiratory/Obstructive Sleep Apnea\|obstructive sleep apnea]]/hypoxemia.|- **Eyes:** Annual ophthalmologic exams (starting age 8 for HbSS, age 5 for HbSC).- Laser photocoagulation.- Anterior chamber paracentesis for hyphema.- **ENT:** Sleep study.- Early tonsillectomy and adenoidectomy.|
 
 ### Growth, Immunity & Transfusion Overload
 

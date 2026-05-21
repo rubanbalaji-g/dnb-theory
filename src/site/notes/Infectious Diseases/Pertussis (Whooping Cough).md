@@ -36,7 +36,7 @@ _Bordetella pertussis_ produces multiple biologically active components serving 
 |---|---|
 |**Respiratory**|Pneumonia represents the most common cause of infant mortality. Apnea frequently occurs in infants under 6 months. Life-threatening pulmonary hypertension can cause cardiovascular collapse.|
 |**Neurologic**|Seizures manifest in 1-2% of infants secondary to hypoxia or hyponatremia. Encephalopathy and cerebral hemorrhage result from hypoxia or increased intracranial pressure during paroxysms.|
-|**Mechanical**|Increased intrathoracic and intra-abdominal pressure causes subconjunctival hemorrhages, epistaxis, hernias, rectal prolapse, and pneumothorax.|
+|**Mechanical**|Increased intrathoracic and intra-abdominal pressure causes subconjunctival hemorrhages, epistaxis, hernias, rectal prolapse, and [[Respiratory/Pneumothorax\|pneumothorax]].|
 |**Nutritional**|Severe weight loss and dehydration emerge due to intractable post-tussive vomiting.|
 
 ## Prevention And Management Protocol

@@ -39,4 +39,4 @@
 - Side effects are transient, occurring exclusively during the active "ON" stimulation phase due to co-stimulation of adjacent laryngeal and pharyngeal nerves.
 - Voice alteration or hoarseness is the most common side effect (up to 30%), alongside cough, throat paresthesia, and mild dyspnea upon exertion.
 - Surgical complications include hardware infection (3% to 6%), lead fracture, or lead migration.
-- VNS can exacerbate pre-existing sleep-disordered breathing and obstructive sleep apnea (OSA) by increasing upper airway resistance during stimulation cycles.
+- VNS can exacerbate pre-existing sleep-disordered breathing and [[Respiratory/Obstructive Sleep Apnea\|obstructive sleep apnea]] (OSA) by increasing upper airway resistance during stimulation cycles.

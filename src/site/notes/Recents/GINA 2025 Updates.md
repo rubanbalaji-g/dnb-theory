@@ -52,7 +52,7 @@ Biologics replace chronic oral corticosteroid use in severe, therapy-resistant a
 |:--|:--|:--|
 |**Omalizumab**|Anti-IgE|Severe allergic asthma ($\ge$ 6 years).|
 |**Mepolizumab / Benralizumab**|Anti-IL-5 Pathway|Severe eosinophilic phenotypes ($\ge$ 6 years for Mepolizumab, $\ge$ 12 years for Benralizumab).|
-|**Dupilumab**|Anti-IL-4R$\alpha$|Comorbid severe atopic dermatitis or chronic rhinosinusitis with nasal polyps ($\ge$ 6 years).|
+|**Dupilumab**|Anti-IL-4R$\alpha$|Comorbid severe atopic dermatitis or chronic rhinosinusitis with [[Respiratory/Nasal Polyps\|nasal polyps]] ($\ge$ 6 years).|
 |**Tezepelumab**|Anti-TSLP|Treats broader spectrum including T2-low (non-eosinophilic) asthma ($\ge$ 12 years).|
 
 ### Fractional Exhaled Nitric Oxide (FeNO) Integration

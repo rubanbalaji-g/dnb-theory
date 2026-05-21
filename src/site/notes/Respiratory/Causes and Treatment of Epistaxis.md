@@ -12,7 +12,7 @@ Causes are broadly classified into Local and Systemic.
 
 ### A. Local Causes (Most Common)
 1.  **Trauma:**
-    * **Digital Trauma (Nose picking):** The #1 cause in children.
+    * **Digital Trauma (Nose picking):** <sub>The #1 cause in children</sub>
     * Nasal bone fractures.
     * Foreign bodies (unilateral foul-smelling discharge + bleeding).
 2.  **Infection/Inflammation:**

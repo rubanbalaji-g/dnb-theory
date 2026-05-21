@@ -72,14 +72,14 @@ Often associated with Pancreatic Sufficiency and milder lung disease.
 | **IV** | Conductance | Low Flow | Mild | R117H | Potentiators |
 | **V** | Quantity | Low Amount | Mild | A455E | Potentiators |
 | **VI** | Stability | High Turnover | Mild | - | Stabilizers |
-## Diagnosis of [[Respiratory/Cystic Fibrosis\|Cystic Fibrosis]]
+## Diagnosis of Cystic Fibrosis
 
-- [[Respiratory/Cystic Fibrosis\|Cystic fibrosis]] (consensus diagnostic criteria)
+- Cystic fibrosis (consensus diagnostic criteria)
 - Should match one clinical and one laboratory criteria
 	- Clinical criteria
 		- Clinical suspicion of CF – [[Respiratory/Recurrent Pneumonia\|recurrent pneumonia]], Meconium ileus in the first 24 hours, failure to thrive, steatorrhea, [[Respiratory/Nasal Polyps\|nasal polyps]]
 		- [[Neonatalogy/Newborn Screening\|Newborn screening]] test positive (positive immunoreactive trypsinogen test)
-		- Family history of [[Respiratory/Cystic Fibrosis\|cystic fibrosis]]
+		- Family history of cystic fibrosis
 	- Laboratory criteria
 		- 2 different CF mutations
 		- One abnormal nasal potential difference
@@ -89,15 +89,12 @@ Often associated with Pancreatic Sufficiency and milder lung disease.
 		- Minimum sweat of 75 mg is analysed
 			- If < 29 mmol/lit – normal
 			- 29-59 mmol/lit – intermediate
-			- >60 mmol/lit – diagnostic
+			- \>60 mmol/lit – diagnostic
 	- Genetic analysis
 		- 2 CF mutation present – diagnostic
 		- If <2 mutation present – clinical suspicion / equivocal
 	- Nasal potential difference
-		- Used in intermediate / equivocal sweat chloride test or <2 CF mutation present
-		- More negative basal potential difference and large drop with amiloride is characteristic
-## Management of [[Respiratory/Cystic Fibrosis\|Cystic Fibrosis]]
-### Pulmonary measures
+		- Used in intermediate / equivocal sweat chloride test or <2 CF mu,
 **1. General Measures**
 - Nutrition (High calorie/protein), Hydration, Vaccination (Flu, Pneumococcal).
 

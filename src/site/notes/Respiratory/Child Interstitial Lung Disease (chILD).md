@@ -2,76 +2,116 @@
 {"dg-publish":true,"uplink":"/respiratory/respiratory-system/","uptext":"Back to Index (🫁Respiratory System)","permalink":"/respiratory/child-interstitial-lung-disease-ch-ild/","dgPassFrontmatter":true}
 ---
 
-## I. Definition
-Interstitial Lung Disease (ILD) refers to a heterogeneous group of rare respiratory disorders affecting the pulmonary parenchyma (alveoli, distal airways, and interstitium).
-* **Pathology:** Characterized by inflammation and/or fibrosis of the interalveolar septa, leading to impaired gas exchange and diffuse infiltrates on imaging.
-* **Pediatric Context:** Unlike adults, "chILD" encompasses developmental disorders and growth abnormalities specific to the developing lung.
+## Definition And Core Concepts
 
-## II. Classification of Pediatric ILDs
-The classification is age-dependent (American Thoracic Society / chILD Foundation).
+- Child Interstitial Lung Disease encompasses a heterogeneous group of rare respiratory disorders affecting the pulmonary parenchyma.
+- It specifically involves the alveoli, distal airways, and the pulmonary interstitium.
+- The pathology is primarily characterized by inflammation and fibrosis of the interalveolar septa.
+- This process leads to impaired gas exchange and diffuse infiltrates visible on imaging.
+- Unlike adult interstitial lung disease, the pediatric spectrum heavily features developmental disorders and specific growth abnormalities of the developing lung.
 
-### A. Disorders More Prevalent in Infancy (less than 2 years)
-1.  **Diffuse Developmental Disorders:**
-    * Acinar Dysplasia.
-    * Congenital Alveolar Dysplasia.
-2.  **Growth Abnormalities:**
-    * Pulmonary Hypoplasia.
-    * [[Respiratory/Chronic Lung Disease\|Chronic Lung Disease]] of Prematurity (BPD).
-3.  **Specific Conditions of Unknown Etiology:**
-    * **Neuroendocrine Hyperplasia of Infancy (NEHI):** Benign, "noisy breather."
-    * Pulmonary Interstitial Glycogenosis (PIG).
-4.  **Surfactant Dysfunction Mutations:**
-    * *SFTPB, SFTPC, ABCA3* mutations.
+## Classification
 
-### B. Disorders More Prevalent in Older Children (>2 years)
-1.  **Systemic Disease Associated:**
-    * Connective Tissue Disease (SLE, JIA).
-    * Sarcoidosis.
-    * [[Hematology/Langerhans Cell Histiocytosis\|Langerhans Cell Histiocytosis]] (LCH).
-2.  **Environmental/Inhalational:**
-    * Hypersensitivity Pneumonitis (e.g., Bird fancier's lung).
-3.  **Immunocompromised Host:**
-    * Opportunistic infections (PCP, CMV).
-    * Graft-vs-Host Disease (GVHD).
+### Disorders More Prevalent In Infancy (< 2 Years)
 
-## III. Lymphocytic Interstitial Pneumonitis (LIP)
-A benign lymphoproliferative disorder characterized by diffuse infiltration of the interstitium by mature polyclonal lymphocytes.
+- **Diffuse Developmental Disorders:** Includes acinar dysplasia, congenital alveolar dysplasia, and alveolocapillary dysplasia with misalignment of pulmonary veins.
+- **Growth Abnormalities:** Includes primary pulmonary hypoplasia and secondary conditions like chronic lung disease of prematurity (bronchopulmonary dysplasia).
+- **Conditions Of Unknown Etiology:**
+    - Neuroendocrine Hyperplasia of Infancy (NEHI), which often presents as a benign "noisy breather".
+    - Pulmonary Interstitial Glycogenosis (PIG).
+- **Surfactant Dysfunction Mutations:** Includes genetic mutations in Surfactant Protein B (SFTPB), Surfactant Protein C (SFTPC), ABCA3, and NKX2-1.
 
-* **Etiology/Association:**
-    * **HIV/AIDS:** LIP is an **AIDS-defining illness** in children (rare in adults).
-    * **Autoimmune:** Sjögren’s syndrome, SLE.
-    * **Immunodeficiency:** CVID (Common Variable Immunodeficiency).
-* **Pathology:** Alveolar septal infiltration with lymphocytes, plasma cells, and histiocytes. Lymphoid follicles may form.
-* **Clinical Features:**
-    * Insidious onset of cough and dyspnea.
-    * Painless generalized lymphadenopathy and parotid enlargement (classic in HIV-LIP).
-    * Clubbing is common.
-* **Diagnosis:**
-    * **HRCT:** Ground-glass opacities and **cysts**.
-    * **Biopsy:** Required for confirmation.
-* **Prognosis:** Variable. HIV-associated LIP often improves with HAART; autoimmune forms may progress to lymphoma (rare).
+### Disorders More Prevalent In Older Children (> 2 Years)
 
+- **Systemic Disease Associated:** Interstitial lung disease can manifest alongside connective tissue diseases like systemic lupus erythematosus, juvenile idiopathic arthritis, and juvenile dermatomyositis.
+- **Immune-Mediated And Granulomatous:** Includes Sarcoidosis, Goodpasture syndrome, and Langerhans Cell Histiocytosis.
+- **Environmental And Inhalational:** Hypersensitivity pneumonitis (e.g., bird fancier's lung) and toxic inhalation syndromes.
+- **Immunocompromised Host:** Opportunistic infections (Pneumocystis jirovecii, cytomegalovirus), graft-versus-host disease, and drug hypersensitivity.
+- **Post-infectious And Lymphoproliferative:** Postinfectious bronchiolitis obliterans (often following adenovirus) and Lymphocytic Interstitial Pneumonitis (LIP), which is an AIDS-defining illness in children infected with HIV.
 
+## Clinical Manifestations
 
-## IV. Treatment Options for ILD in Children
-Management is often empirical due to the rarity of randomized trials.
+### Symptomatology And Physical Signs
 
-### 1. Supportive Care (The Cornerstone)
-* **Oxygen Therapy:** Maintain SpO2 >92–95% to prevent pulmonary hypertension.
-* **Nutrition:** High-calorie diet (increased work of breathing causes failure to thrive).
-* **Vaccination:** Annual Influenza, Pneumococcal, and RSV prophylaxis (if eligible).
-* **Avoidance:** Removal of environmental antigens (e.g., birds, mold) if Hypersensitivity Pneumonitis is suspected.
+- Patients typically present with an insidious onset of respiratory symptoms that may go unrecognized for years.
+- Many children are erroneously misdiagnosed as having asthma and are treated with bronchodilators without success.
+- Common symptoms include tachypnea, dyspnea, exercise intolerance, and chronic cough.
+- Physical examination frequently reveals bibasilar crackles, retractions, and sometimes a chest wall deformity such as pectus excavatum.
+- Severe or advanced disease manifests with cyanosis, digital clubbing, failure to thrive, and an accentuated pulmonic component of the second heart sound indicating pulmonary hypertension.
+- Oxygen saturation may be normal at rest but often drops significantly during sleep or exercise.
 
-### 2. Pharmacotherapy
-* **Systemic Corticosteroids (First Line):**
-    * **Oral Prednisolone:** 1–2 mg/kg/day.
-    * **Pulse Methylprednisolone:** 10–30 mg/kg/day for 3 days monthly (preferred for rapid control with fewer side effects).
-* **Steroid-Sparing Agents (Second Line):**
-    * **Hydroxychloroquine (HCQ):** Often used for surfactant protein disorders (SP-C) and stable ILD.
-    * **Azithromycin:** For anti-inflammatory and immunomodulatory effects.
-* **Immunosuppressants (Refractory Cases):**
-    * Azathioprine, Mycophenolate Mofetil, or Cyclophosphamide.
-    * **Rituximab:** For autoimmune-associated ILD.
+### Diagnostic Clinical Suspicion Criteria
 
-### 3. Advanced/Surgical Options
-* **Lung Transplantation:** The final option for end-stage fibrosis or surfactant protein B deficiency (fatal without transplant).
+- Clinical suspicion for child Interstitial Lung Disease is warranted when a patient meets at least three of the following four criteria:
+    - Presence of respiratory symptoms (dyspnea, tachypnea, retractions, cough, exercise intolerance).
+    - Presence of physical signs (crackles, clubbing, failure to thrive).
+    - Documentation of hypoxemia.
+    - Diffuse abnormalities on chest radiographs or computed tomography not attributable to other known infectious or structural processes.
+
+## Diagnostic Evaluation
+
+### High-Resolution Computed Tomography
+
+- High-Resolution Computed Tomography of the chest is an essential initial investigation.
+- A volumetric scan acquired during inspiration provides optimal thin-section reformats to avoid volume averaging.
+- High-Resolution Computed Tomography detects <span style="color:rgb(179, 158, 255)">ground-glass opacities, cysts, fine parenchymal details, and mild bronchiectasis</span>.
+- Expiratory images are valuable for demonstrating air trapping and mosaic perfusion.
+- Controlled-ventilation techniques or sedation may be necessary in infants to avoid respiratory motion artifacts.
+
+### Bronchoalveolar Lavage
+
+- Functions as a "liquid biopsy" to sample the alveolar and distal airway milieu.
+- It is typically performed in the right middle lobe or lingula.
+- A milky appearance with sediment strongly suggests pulmonary alveolar proteinosis.
+- Sequential bloody aliquots confirm diffuse alveolar hemorrhage.
+- Cellular profile analysis helps narrow the differential diagnosis.
+- Significant lymphocytosis (>15%) suggests hypersensitivity pneumonitis, viral infection, or Lymphocytic Interstitial Pneumonitis.
+- Detection of lipid-laden or hemosiderin-laden macrophages acts as a marker for aspiration or hemorrhage, respectively.
+
+### Lung Biopsy
+
+- Transthoracic lung biopsy, usually via Video-Assisted Thoracoscopic Surgery, remains the gold standard for a definitive diagnosis.
+- Biopsies should be taken from at least two separate sites representing varying disease severity, avoiding the tip of the right middle lobe and lingula.
+- Strict handling protocols divide the specimen for microbiology cultures, polymerase chain reaction, immunofluorescence, electron microscopy, and light microscopy.
+
+### Additional Laboratory Investigations
+
+- Evaluation must identify predisposing primary disorders.
+- Assess immune function using immunoglobulins, T-cell subsets, and HIV serology.
+- Perform DNA analyses for specific mutations in SFTPB, SFTPC, ABCA3, and NKX2-1 genes in infants.
+- Screen for autoimmune markers including antinuclear antibodies and antineutrophil cytoplasmic antibodies.
+
+## Management Strategies
+
+### Supportive Care
+
+- Supportive therapy forms the cornerstone of management.
+- Continuous oxygen therapy aims to maintain oxygen saturation >92-95% to prevent the development of secondary pulmonary hypertension.
+- Provide strict nutritional support using a high-calorie diet, as the increased work of breathing often causes significant failure to thrive.
+- Gastrostomy tube feeding should be considered for severe growth failure.
+- Ensure comprehensive vaccination including annual influenza, pneumococcal vaccines, and respiratory syncytial virus prophylaxis.
+- Strictly avoid environmental hazards such as tobacco smoke and suspected organic antigens.
+
+### Pharmacotherapy
+
+- Due to the rarity of the conditions, specific management is largely empirical.
+- Systemic corticosteroids remain the first-line treatment to suppress inflammation and reduce fibrotic risk.
+- **Oral prednisolone** is initiated at 1-2 mg/kg/day.
+- **Pulse intravenous methylprednisolone** (10-30 mg/kg/day for 3 days monthly) is preferred for rapid control and is associated with fewer systemic side effects.
+- Steroid-sparing agents are utilized as second-line therapy.
+- **Hydroxychloroquine** (10 mg/kg/day) acts as an immunosuppressant and is particularly useful for stable interstitial lung disease and surfactant protein C mutations.
+- **Azithromycin** is employed for its immunomodulatory and anti-inflammatory properties.
+- Advanced immunosuppressants like Azathioprine, Mycophenolate Mofetil, Cyclophosphamide, and Rituximab are reserved for refractory cases or severe autoimmune-associated disease.
+
+### Surgical Interventions
+
+- Lung transplantation serves as the final therapeutic option for end-stage pulmonary fibrosis.
+- It is the only definitive treatment for fatal genetic conditions such as complete Surfactant Protein B deficiency.
+
+## Prognosis
+
+- The outcome is highly variable depending on the specific etiology.
+- Neuroendocrine Hyperplasia of Infancy generally carries a favorable prognosis, though patients may require prolonged supplemental oxygen.
+- A severe clinical course marked by growth failure, pulmonary hypertension, and severe fibrosis is associated with poor survival.
+- The overall mortality rate for children with interstitial lung disease is estimated at 15%.
+- A validated severity of illness score, which incorporates the degree of hypoxemia and the presence of pulmonary hypertension, reliably predicts survival probability.
