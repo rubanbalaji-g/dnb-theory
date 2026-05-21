@@ -95,10 +95,11 @@ Often associated with Pancreatic Sufficiency and milder lung disease.
 		- If <2 mutation present – clinical suspicion / equivocal
 	- Nasal potential difference
 		- Used in intermediate / equivocal sweat chloride test or <2 CF mu,
+
 **1. General Measures**
 - Nutrition (High calorie/protein), Hydration, Vaccination (Flu, Pneumococcal).
 
-**2. Airway Clearance Therapy (ACT) - _The "Toilet of Lung"_ **
+**2. Airway Clearance Therapy (ACT) - _The "Toilet of Lung"_**
 
 - _Sequence is vital:_
     1. **Bronchodilators:** (Salbutamol) to prevent bronchospasm.
