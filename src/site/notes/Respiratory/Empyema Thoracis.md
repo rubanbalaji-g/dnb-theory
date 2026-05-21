@@ -14,20 +14,20 @@
 
 Pathogens vary based on immune status and age. Empyema in children below two years is nearly always Staphylococcal in etiology.
 
-|Host Status|Common Pathogens|
-|:--|:--|
-|**Immunocompetent**|- _Streptococcus pneumoniae_ - _Staphylococcus aureus_ (MSSA and MRSA) - _Streptococcus pyogenes_ - _Haemophilus influenzae_ (rare post-vaccination)|
-|**Immunocompromised**|- Gram-negative organisms (_Pseudomonas aeruginosa_, _Klebsiella_) - Fungi - _Mycobacterium tuberculosis_ (rare)|
+| Host Status           | Common Pathogens                                                                                                                                                 |
+| :-------------------- | :--------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Immunocompetent**   | - _Streptococcus pneumoniae_ <br>- _Staphylococcus aureus_ (MSSA and MRSA) <br>- _Streptococcus pyogenes_ <br>- _Haemophilus influenzae_ (rare post-vaccination) |
+| **Immunocompromised** | - Gram-negative organisms (_Pseudomonas aeruginosa_, _Klebsiella_) <br>- Fungi <br>- _Mycobacterium tuberculosis_ (rare)                                         |
 
 ## Pathogenesis And Staging
 
 Empyema development represents a continuum divided into three distinct phases.
 
-|Stage|Timeline|Pleural Fluid Characteristics|Pathological Features|
-|:--|:--|:--|:--|
-|**Stage I (Exudative)**|Days 1-3|- Thin fluid - pH > 7.3 - Glucose > 60 mg/dL - LDH < 1,000 IU/L - Gram stain/Culture: Negative|- Minimal cellular response - Free-flowing fluid - Fibrinous exudate formation|
-|**Stage II (Fibrinopurulent)**|Days 4-14|- Purulent, viscous fluid - pH < 7.2 - Glucose < 40 mg/dL - LDH > 1,000 IU/L - Gram stain/Culture: Positive|- High polymorphonuclear leukocyte count - Fibrin deposition - Loculations and septations form - Parietal pleura thickening|
-|**Stage III (Organizational)**|>14 Days|- Reorganization of fluid|- Fibroblast proliferation - Solid fibrous peel/thick membrane formation - Entraps lung, prevents expansion|
+| Stage                          | Timeline      | Pleural Fluid Characteristics                                                                                               | Pathological Features                                                                                                                   |
+| :----------------------------- | :------------ | :-------------------------------------------------------------------------------------------------------------------------- | :-------------------------------------------------------------------------------------------------------------------------------------- |
+| **Stage I (Exudative)**        | Days <br>1-3  | - Thin fluid <br>- pH > 7.3 <br>- Glucose > 60 mg/dL <br>- LDH < 1,000 IU/L <br>- Gram stain/Culture: Negative              | - Minimal cellular response <br>- Free-flowing fluid <br>- Fibrinous exudate formation                                                  |
+| **Stage II (Fibrinopurulent)** | Days <br>4-14 | - Purulent, viscous fluid <br>- pH < 7.2 <br>- Glucose < 40 mg/dL <br>- LDH > 1,000 IU/L <br>- Gram stain/Culture: Positive | - High polymorphonuclear leukocyte count <br>- Fibrin deposition <br>- Loculations and septations form <br>- Parietal pleura thickening |
+| **Stage III (Organizational)** | >14 Days      | - Reorganization of fluid                                                                                                   | - Fibroblast proliferation <br>- Solid fibrous peel/thick membrane formation <br>- Entraps lung, prevents expansion                     |
 
 ## Clinical Presentation
 

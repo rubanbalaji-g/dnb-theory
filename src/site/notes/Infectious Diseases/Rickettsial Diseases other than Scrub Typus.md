@@ -15,10 +15,6 @@ The genus _Rickettsia_ is classically divided into two major antigenically disti
 1. **Spotted Fever Group (SFG):** Includes Rocky Mountain Spotted Fever, Indian Tick Typhus (Mediterranean Spotted Fever), and Rickettsialpox.
 2. **Typhus Group (TG):** Includes Epidemic Typhus and Murine Typhus.
 
-_(Note: Q Fever, caused by Coxiella burnetii, and Ehrlichiosis are closely related but distinct entities often discussed alongside rickettsiae.)_
-
----
-
 ## I. Spotted Fever Group (SFG)
 
 The Spotted Fever Group rickettsiae primarily target vascular endothelial cells, causing widespread vasculitis.

@@ -30,7 +30,7 @@
 |:--|:--|
 |Bacillus Calmette-Guerin|Administer up to 5 years; pre-vaccination Mantoux test remains not recommended.|
 |Oral poliovirus vaccine|Administer up to 5 years; provide three doses 4 weeks apart.|
-|Diphtheria-tetanus-pertussis|Administer up to 7 years; provide three doses at 0, 1, and 6 months.|
+|[[Infectious Diseases/Diphtheria\|Diphtheria]]-tetanus-pertussis|Administer up to 7 years; provide three doses at 0, 1, and 6 months.|
 |Hemophilus influenzae type b|Administer up to 5 years in healthy children; recommended beyond 5 years exclusively for high-risk groups.|
 |Pneumococcal conjugate vaccine|Administer up to 5 years in healthy children; recommended beyond 5 years exclusively for high-risk groups.|
 |Rotavirus vaccine|Maximum age for first dose comprises 14 weeks 6 days; maximum age for final dose comprises 8 months.|

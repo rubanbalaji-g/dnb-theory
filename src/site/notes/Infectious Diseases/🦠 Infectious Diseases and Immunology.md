@@ -47,7 +47,7 @@
 12. [[Infectious Diseases/Leptospirosis\|Leptospirosis]]
 13. [[Infectious Diseases/Scrub Typus\|Scrub Typus]]
 14. [[Infectious Diseases/Rickettsial Diseases other than Scrub Typus\|Rickettsial Diseases other than Scrub Typus]]
-15. [[Infectious Diseases/Mycoplasma Pneumonia\|Mycoplasma Pneumonia]]
+15. [[Infectious Diseases/Mycoplasma\|Mycoplasma]]
 ## Mycobacterial Diseases
 1. [[Infectious Diseases/Case Definitions of TB\|Case Definitions of TB]]
 2. [[Infectious Diseases/Clinical manifestation of TB\|Clinical manifestation of TB]]

@@ -2,8 +2,6 @@
 {"dg-publish":true,"uplink":"/infectious-diseases/infectious-diseases/","uptext":"Back to Index (Infectious Diseases)","permalink":"/infectious-diseases/clinical-manifestation-of-tb/","dgPassFrontmatter":true}
 ---
 
-# Clinical Manifestations of Tuberculosis in Children
-
 ## Introduction
 
 Tuberculosis (TB) in children is often referred to as "the great imitator" because of its protean manifestations. Unlike adults, where the disease is predominantly pulmonary and confined to the lungs (reactivation), pediatric TB is largely a primary disease characterized by lymphohematogenous spread. The clinical presentation depends heavily on the age of the child, immune status, and the time elapsed since the primary infection.
@@ -22,10 +20,10 @@ Understanding the natural history helps in anticipating clinical manifestations:
 
 Systemic symptoms are common to both pulmonary and extrapulmonary forms but are often nonspecific, leading to delayed diagnosis.
 
-- **Fever:** Usually low-grade, irregular, or appearing in the evening. In miliary TB, it may be high and spiking,.
+- **Fever:** Usually low-grade, irregular, or appearing in the evening. In miliary TB, it may be high and spiking.
 - **Failure to Thrive (FTT):** Significant weight loss (>5% in 3 months) or failure to gain weight despite adequate nutrition is a hallmark of pediatric TB. In infants, this may be the only presenting sign.
-- **Anorexia and Malaise:** Generalized fatigue, reduced playfulness, and loss of appetite,.
-- **Night Sweats:** Less common in young children than in adults/adolescents,.
+- **Anorexia and Malaise:** Generalized fatigue, reduced playfulness, and loss of appetite.
+- **Night Sweats:** Less common in young children than in adults/adolescents.
 
 ## 2. Pulmonary Tuberculosis (PTB)
 
@@ -37,7 +35,7 @@ The "Primary Complex" or Ghon Complex consists of a subpleural parenchymal focus
 
 - **Clinical Picture:** The vast majority of immunocompetent children are asymptomatic or have a transient flu-like illness that resolves unrecognized.
 - **Signs:** Physical examination is usually normal.
-- **Diagnosis:** Often incidental finding of a positive Tuberculin Skin Test (TST) or hilar adenopathy on Chest X-ray (CXR) done for contact screening,.
+- **Diagnosis:** Often incidental finding of a positive Tuberculin Skin Test (TST) or hilar adenopathy on Chest X-ray (CXR) done for contact screening.
 
 ### B. Symptomatic Primary Pulmonary Disease
 
@@ -53,7 +51,7 @@ This is the most common form of symptomatic PTB in infants and young children du
 
 - **Airway Compression:**
     - **Partial Obstruction:** Leads to ball-valve emphysema (hyperinflation) of the distal segment. Clinical features include localized **wheezing** (monophonic) and decreased air entry.
-    - **Complete Obstruction:** Leads to collapse (atelectasis). The classic radiographic finding is **"Collapse-Consolidation"** (Segmental lesion),.
+    - **Complete Obstruction:** Leads to collapse (atelectasis). The classic radiographic finding is **"Collapse-Consolidation"** (Segmental lesion).
 - **Endobronchial TB:** The lymph node may erode into the bronchus, discharging caseous material. This causes severe cough, respiratory distress, and sometimes expulsion of caseous plugs.
 - **Mediastinal Syndrome:** Rarely, massive adenopathy compresses the esophagus (dysphagia) or Superior Vena Cava (SVC syndrome).
 
@@ -61,13 +59,13 @@ This is the most common form of symptomatic PTB in infants and young children du
 
 Occurs when the primary focus enlarges and undergoes liquefaction instead of calcification.
 
-- **Presentation:** Resembles acute bacterial pneumonia with high fever, toxicity, and productive cough,.
+- **Presentation:** Resembles acute bacterial pneumonia with high fever, toxicity, and productive cough.
 - **Cavitation:** Rare in infants (primary cavity) but severe when it occurs.
 - **Course:** Without treatment, it may lead to miliary spread or extensive lung destruction.
 
 ### E. Reactivation (Adult-Type) TB
 
-Seen in children >7 years, particularly adolescents,.
+Seen in children >7 years, particularly adolescents.
 
 - **Pathology:** Apical infiltration and **cavitation** due to high oxygen tension favoring bacillary growth.
 - **Symptoms:** Productive cough, hemoptysis (rare in young children), chest pain, fever, and night sweats.
@@ -79,7 +77,7 @@ Common in older children (5–15 years), rare in infants. It represents a hypers
 
 - **Onset:** Can be acute (mimicking pneumococcal pneumonia) or insidious.
 - **Symptoms:** High fever, pleuritic chest pain (worse on inspiration), and breathlessness.
-- **Signs:** Stony dullness on percussion, decreased breath sounds, and mediastinal shift to the opposite side,.
+- **Signs:** Stony dullness on percussion, decreased breath sounds, and mediastinal shift to the opposite side.
 
 ## 3. Extrapulmonary Tuberculosis (EPTB)
 
@@ -87,7 +85,7 @@ EPTB is more common in children (20–30%) than adults due to efficient lymphohe
 
 ### A. Tuberculous Lymphadenitis (Scrofula)
 
-The most common form of EPTB (approx. 70%),.
+The most common form of EPTB (approx. 70%).
 
 - **Sites:** Anterior cervical (jugular), submandibular, and supraclavicular nodes are most frequently affected. Axillary/inguinal nodes may be involved secondary to [[Misc/BCG\|BCG]] or extremity lesions.
 - **Characteristics:**
@@ -120,7 +118,7 @@ The most severe form, carrying high mortality and morbidity.
 
 **2. Tuberculoma** A granulomatous mass presenting as an intracranial space-occupying lesion (ICSOL).
 
-- **Location:** Often infratentorial (brainstem/cerebellum) in children,.
+- **Location:** Often infratentorial (brainstem/cerebellum) in children.
 - **Symptoms:** Headache, vomiting, seizures (focal or generalized), and focal neurological deficits without signs of [[Neurology/Meningitis\|meningitis]].
 
 ### C. Abdominal Tuberculosis
@@ -130,7 +128,7 @@ Can involve the bowel, peritoneum, or lymph nodes.
 - **Intestinal TB:** Commonly affects the ileocecal region. Presents with colicky abdominal pain, alternating diarrhea and constipation, and a palpable mass in the right iliac fossa.
 - **Peritoneal TB:**
     - **Wet type:** Ascites (exudative).
-    - **Dry/Plastic type:** Doughy abdomen (due to matted omentum and intestines),.
+    - **Dry/Plastic type:** Doughy abdomen (due to matted omentum and intestines).
 - **Nodal TB:** Enlarged, necrotic mesenteric lymph nodes, often palpable as masses.
 - **Systemic:** Fever, weight loss, and anorexia are prominent.
 
@@ -142,7 +140,7 @@ Result of massive lymphohematogenous dissemination. Common in infants and immuno
     - **Onset:** Can be insidious or explosive (acute sepsis-like).
     - **Symptoms:** High spiking fever, wasting, dyspnea, and cough.
     - **Signs:** Generalized lymphadenopathy, significant **hepatosplenomegaly**, and fine crepitations on auscultation (often absent despite extensive radiological disease).
-    - **Pathognomonic Sign:** **Choroidal tubercles** on fundus examination (yellowish/white nodules on the retina) seen in up to 50% of cases,.
+    - **Pathognomonic Sign:** **Choroidal tubercles** on fundus examination (yellowish/white nodules on the retina) seen in up to 50% of cases.
     - **Skin:** Papulonecrotic tuberculids (rare).
 
 ### E. Skeletal Tuberculosis (Bone and Joint TB)
@@ -172,19 +170,10 @@ Rare but fatal if untreated.
     - Onset in 2nd–3rd week of life.
     - Sepsis-like picture: Respiratory distress, fever, lethargy, poor feeding.
     - **Hepatosplenomegaly** (prominent in transplacental spread).
-    - Obstructive jaundice and lymphadenopathy,.
+    - Obstructive jaundice and lymphadenopathy.
 
 ## 5. TB and HIV Co-infection
 
 - **Presentation:** TB is more aggressive and progresses rapidly.
 - **Features:** Higher rates of extrapulmonary and disseminated disease.
-- **Diagnostic Challenge:** TST is often negative (anergy). Classic cavitary disease is less common; interstitial infiltrates are common,.
-
-## Summary of Key Clinical Pearls
-
-1. **Age Matters:** Infants get miliary/meningeal TB; adolescents get cavitary pulmonary TB.
-2. **Symptoms:** Persistent fever and weight loss are the most consistent systemic signs.
-3. **Signs:** Lung findings are often disproportionately fewer than radiological findings.
-4. **Lymph Nodes:** Matted, non-tender cervical nodes suggest TB.
-5. **Neurology:** Basal [[Neurology/Meningitis\|meningitis]] with cranial nerve palsies is classic for TBM.
-6. **Eye:** Choroid tubercles are a specific clue for miliary TB.
+- **Diagnostic Challenge:** TST is often negative (anergy). Classic cavitary disease is less common; interstitial infiltrates are common.

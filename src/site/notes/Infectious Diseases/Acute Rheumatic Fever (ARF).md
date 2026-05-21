@@ -4,7 +4,7 @@
 
 ## 1. Introduction and Definition
 
-[[Infectious Diseases/Acute Rheumatic Fever (ARF)\|Acute Rheumatic Fever (ARF)]] is a nonsuppurative, immune-mediated, systemic inflammatory sequela of untreated group A _Streptococcus_ (GAS) pharyngitis,. It is characterized by inflammatory lesions involving the heart, joints, subcutaneous tissues, and the central nervous system.
+Acute Rheumatic Fever (ARF) is a nonsuppurative, immune-mediated, systemic inflammatory sequela of untreated group A _Streptococcus_ (GAS) pharyngitis,. It is characterized by inflammatory lesions involving the heart, joints, subcutaneous tissues, and the central nervous system.
 
 While the arthritis and chorea associated with ARF are self-limiting, the cardiac involvement (rheumatic carditis) can lead to permanent valvular damage, known as Rheumatic Heart Disease (RHD). RHD remains the most common form of acquired heart disease in children and young adults in developing nations.
 
@@ -27,14 +27,14 @@ While the arthritis and chorea associated with ARF are self-limiting, the cardia
 
 ARF results exclusively from infection of the upper respiratory tract with Group A _Streptococcus_ (GAS). Skin infections (impetigo) with GAS are associated with post-streptococcal glomerulonephritis but have not been definitively proven to cause ARF, although this remains a topic of debate in some endemic regions.
 
-**Rheumatogenicity:** Not all GAS strains cause ARF. "Rheumatogenic" strains (e.g., <span style="color:rgb(0, 176, 240)">M types 1, 3, 5, 6, 18, and 29</span>) are heavily encapsulated (mucoid) and rich in M protein, which resists phagocytosis.
+**Rheumatogenicity:** Not all GAS strains cause ARF. "Rheumatogenic" strains (<span style="color:rgb(124, 254, 187)">e.g., M types 1, 3, 5, 6, 18, and 29</span>) are heavily encapsulated (mucoid) and rich in M protein, which resists phagocytosis.
 
 ### 3.2. Mechanism: Molecular Mimicry
 
 The most widely accepted theory of pathogenesis is **molecular mimicry**.
 
 - **Latent Period:** There is a latent period of 10–21 days between the pharyngitis and the onset of ARF, suggesting an immune-mediated process rather than direct bacterial toxicity.
-- **Cross-Reactivity:** The GAS bacterium shares antigenic determinants (epitopes) with human host tissues. <span style="color:rgb(146, 208, 80)">Antibodies and T-cells directed against <span style="color:rgb(255, 192, 0)">GAS M protein</span>, <span style="color:rgb(255, 192, 0)">N-acetyl-beta-D-glucosamine</span> (cell wall carbohydrate), and <span style="color:rgb(255, 192, 0)">capsular hyaluronate</span> cross-react with host proteins such as <span style="color:rgb(255, 192, 0)">cardiac myosin</span> (heart valve), <span style="color:rgb(255, 192, 0)">laminin</span> (valvular endothelium), <span style="color:rgb(255, 192, 0)">synovium</span> (joints), and <span style="color:rgb(255, 192, 0)">basal ganglia</span> (brain)</span>.
+- **Cross-Reactivity:** The GAS bacterium shares antigenic determinants (epitopes) with human host tissues. Antibodies and T-cells directed against <span style="color:rgb(255, 138, 117)">GAS M protein, N-acetyl-beta-D-glucosamine (cell wall carbohydrate), and capsular hyaluronate cross-react with host proteins such as cardiac myosin (heart valve), laminin (valvular endothelium), synovium (joints), and basal ganglia (brain).</span>
 - **Valve Damage:** This autoimmune reaction leads to inflammation and subsequent scarring of the heart valves.
 
 ## 4. Clinical Manifestations
@@ -56,7 +56,7 @@ The clinical presentation of ARF is defined by the **Revised Jones Criteria (201
 Carditis is the most serious manifestation, occurring in 50–60% of cases. It is a **pancarditis** involving the endocardium, myocardium, and pericardium.
 
 - **Endocarditis (Valvulitis):** This is the universal and essential lesion of rheumatic carditis.
-    - **Mitral Valve:** Affected in nearly all cases. Acute inflammation causes mitral regurgitation, characterized by a <span style="color:rgb(0, 176, 240)">high-pitched apical holosystolic murmur radiating to the axilla</span>.
+    - **Mitral Valve:** Affected in nearly all cases. Acute inflammation causes mitral regurgitation, characterized by a high-pitched apical holosystolic murmur radiating to the axilla.
     - **Aortic Valve:** Less commonly involved alone; usually affected in combination with the mitral valve. Causes aortic regurgitation (high-pitched decrescendo diastolic murmur).
 - **Myocarditis:** May cause tachycardia disproportionate to fever and, in severe cases, congestive heart failure.
 - **[[Cardiology/Pericarditis\|Pericarditis]]:** Manifests as a friction rub, chest pain, or effusion. It rarely occurs without evidence of valvulitis.
@@ -88,8 +88,7 @@ Carditis is the most serious manifestation, occurring in 50–60% of cases. It i
 - **Frequency:** Rare (<1%), usually associated with severe carditis.
 - **Appearance:** Firm, painless, pea-sized nodules (0.5–1 cm) located over extensor surfaces of joints (knees, elbows) and the spine.
 
-## 5. Diagnosis: The Revised Jones Criteria (2015) #Diagnostic_criteria 
-
+## 5. Diagnosis: The Revised Jones Criteria (2015) #Criteria
 The 2015 revision by the American Heart Association (AHA) stratifies populations into **Low Risk** and **Moderate/High Risk** to improve sensitivity in endemic areas.
 
 **Risk Stratification:**
@@ -165,7 +164,7 @@ Therapy is aimed at suppressing inflammation causing arthritis and carditis.
     - **Monitoring:** Serum salicylate levels are typically not needed unless toxicity (tinnitus, hyperventilation) is suspected.
 - **Carditis:**
     - Mild to moderate carditis is managed with salicylates similar to arthritis.
-    - **Severe Carditis (with CHF):** Although not explicitly detailed in the treatment section of the provided text beyond salicylates, standard practice often involves corticosteroids (e.g., Prednisone) for severe carditis with cardiomegaly or heart failure, followed by a salicylate taper to prevent rebound. _Note: The source text mentions withholding anti-inflammatory agents initially if the diagnosis is unclear (arthralgia only) to observe for migratory patterns._
+    - **Severe Carditis (with CHF):** Standard practice often involves corticosteroids (e.g., Prednisone) for severe carditis with cardiomegaly or heart failure, followed by a salicylate taper to prevent rebound. 
 
 ### 7.3. Management of Sydenham Chorea
 

@@ -3,8 +3,12 @@
 ---
 
 ## Introduction
-
-The diagnosis of tuberculosis (TB) in children presents a unique challenge compared to adults. Pediatric TB is characterized by a paucibacillary nature (low bacterial load), non-specific clinical presentation, and difficulties in obtaining adequate respiratory specimens. Consequently, the traditional approach relied heavily on a "Golden Triad" of clinical history, tuberculin skin testing, and chest radiography. However, the landscape of TB diagnostics has shifted dramatically with the advent of rapid molecular diagnostics. Current guidelines (NTEP 2022) emphasize **Upfront Molecular Testing** (Universal Drug Susceptibility Testing or U-DST) to confirm the diagnosis microbiologically and detect drug resistance early. A systematic approach involving microbiological, radiological, immunological, and histological investigations is essential for accurate diagnosis and management.
+- The diagnosis of tuberculosis (TB) in children presents a unique challenge compared to adults. 
+- Pediatric TB is characterized by a paucibacillary nature (low bacterial load), non-specific clinical presentation, and difficulties in obtaining adequate respiratory specimens. 
+- Consequently, the traditional approach relied heavily on a "Golden Triad" of clinical history, tuberculin skin testing, and chest radiography. 
+- However, the landscape of TB diagnostics has shifted dramatically with the advent of rapid molecular diagnostics. 
+- Current guidelines (NTEP 2022) emphasize **Upfront Molecular Testing** (Universal Drug Susceptibility Testing or U-DST) to confirm the diagnosis microbiologically and detect drug resistance early. 
+- A systematic approach involving microbiological, radiological, immunological, and histological investigations is essential for accurate diagnosis and management.
 
 ## 1. Microbiological Investigations
 
@@ -14,10 +18,20 @@ Microbiological confirmation is the gold standard for diagnosis. It confirms the
 
 Obtaining appropriate samples is the first critical step. Since young children often swallow sputum, alternative methods are required.
 
-- **Gastric Aspirate (GA):** This is the preferred specimen for children < 6 years who cannot expectorate. Ideally, it is collected early in the morning after overnight fasting (minimum 4–6 hours) before the stomach empties. The procedure involves inserting a nasogastric tube, aspirating stomach contents, and neutralizing the acidity (if culture is delayed) to prevent killing the bacilli. Collecting samples on two consecutive days increases the yield.
-- **Induced Sputum (IS):** In older children or those unable to expectorate spontaneously, sputum production is induced using nebulized hypertonic saline (3–5%). This irritates the airways, increasing mucus clearance and inducing a cough. It is less invasive than GA and can be performed in ambulatory settings.
-- **[[Respiratory/Bronchoalveolar Lavage (BAL)\|Bronchoalveolar Lavage (BAL)]]:** Reserved for difficult cases where GA/IS are negative, but suspicion remains high, or for persistent pneumonia. It is invasive but may have a higher yield in specific situations.
-- **Other Specimens:** Depending on the site of involvement, other specimens include Cerebrospinal Fluid (CSF), Lymph Node (LN) aspirate (FNAC), pleural fluid, ascitic fluid, synovial fluid, urine, or tissue biopsies. **Note:** Extrapulmonary samples for culture should be sent in normal saline, _never_ in formalin.
+- **Gastric Aspirate (GA):** 
+	- This is the preferred specimen for children < 6 years who cannot expectorate. 
+	- Ideally, it is collected early in the morning after overnight fasting (minimum 4–6 hours) before the stomach empties. 
+	- The procedure involves inserting a nasogastric tube, aspirating stomach contents, and neutralizing the acidity (if culture is delayed) to prevent killing the bacilli. 
+	- Collecting samples on two consecutive days increases the yield.
+- **Induced Sputum (IS):** 
+	- In older children or those unable to expectorate spontaneously, sputum production is induced using nebulized hypertonic saline (3–5%). 
+	- This irritates the airways, increasing mucus clearance and inducing a cough. 
+	- It is less invasive than GA and can be performed in ambulatory settings.
+- **[[Respiratory/Bronchoalveolar Lavage (BAL)\|Bronchoalveolar Lavage (BAL)]]:** 
+	- Reserved for difficult cases where GA/IS are negative, but suspicion remains high, or for persistent pneumonia. 
+	- It is invasive but may have a higher yield in specific situations.
+- **Other Specimens:** 
+	- Depending on the site of involvement, other specimens include Cerebrospinal Fluid (CSF), Lymph Node (LN) aspirate (FNAC), pleural fluid, ascitic fluid, synovial fluid, urine, or tissue biopsies. 
 
 ### B. Smear Microscopy
 
@@ -25,7 +39,7 @@ Obtaining appropriate samples is the first critical step. Since young children o
 - **Fluorescence Microscopy:** Uses auramine-rhodamine staining. It is more sensitive than ZN staining and allows faster screening of slides.
 - **Limitations:** Smear microscopy has low sensitivity in children (<15–20%) due to paucibacillary disease. It cannot differentiate between drug-sensitive and drug-resistant strains or between _M. tuberculosis_ and Non-Tuberculous Mycobacteria (NTM).
 
-### C. Nucleic Acid Amplification Tests ([[Genetics/NAAT\|NAAT]])
+### C. Nucleic Acid Amplification Tests (NAAT)
 
 Molecular diagnostic tests have revolutionized pediatric TB diagnosis by detecting MTB DNA and drug resistance mutations within hours.
 
@@ -53,7 +67,7 @@ Culture remains the definitive gold standard for diagnosis and is essential for 
 These are molecular tests used to detect specific drug resistance mutations in DNA extracted from positive cultures or direct smear-positive specimens.
 
 - **First-Line LPA (FL-LPA):** Detects resistance to Isoniazid (_katG_, _inhA_ genes) and Rifampicin (_rpoB_ gene).
-- **Second-Line LPA (SL-LPA):** Detects resistance to Fluoroquinolones (_gyrA_, _gyrB_) and Second-line Injectables (_rrs_, _eis_).
+- **Second-Line LPA (SL-LPA):** Detects resistance to Fluoroquinolones (gyrA, gyrB) and Second-line Injectables (_rrs_, _eis_).
 
 ## 2. Radiological Investigations
 

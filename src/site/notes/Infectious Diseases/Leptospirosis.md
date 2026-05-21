@@ -4,7 +4,10 @@
 
 ## Introduction
 
-[[Infectious Diseases/Leptospirosis\|Leptospirosis]] is a widespread zoonotic disease caused by pathogenic spirochetes of the genus _Leptospira_. It is considered the most widespread zoonosis in the world, with significant morbidity and mortality, particularly in tropical and subtropical regions. The disease is characterized by a broad spectrum of clinical manifestations, ranging from subclinical or mild anicteric febrile illness to severe multiorgan failure known as Weil syndrome. It is often referred to as a "neglected tropical disease" and is an emerging pathogen due to increased human-animal interface and climate change events like flooding.
+- Leptospirosis is a widespread zoonotic disease caused by pathogenic spirochetes of the genus _Leptospira_. 
+- It is considered the most widespread zoonosis in the world, with significant morbidity and mortality, particularly in tropical and subtropical regions. 
+- The disease is characterized by a broad spectrum of clinical manifestations, ranging from subclinical or mild anicteric febrile illness to severe multiorgan failure known as Weil syndrome. 
+- It is often referred to as a "neglected tropical disease" and is an emerging pathogen due to increased human-animal interface and climate change events like flooding.
 
 ## Etiology
 
@@ -37,7 +40,7 @@ Following entry through skin or mucosa, the organisms enter the bloodstream and 
 
 ### Systemic Vasculitis
 
-The hallmark of [[Infectious Diseases/Leptospirosis\|leptospirosis]] is extensive **small-vessel vasculitis** (capillary injury).
+The hallmark of leptospirosis is extensive **small-vessel vasculitis** (capillary injury).
 
 - **Mechanism:** Leptospires damage the endothelium of small blood vessels.
 - **Consequence:** This leads to leakage of fluid and protein (edema), extravasation of cells (hemorrhage), and ischemic damage to end organs.
@@ -61,7 +64,7 @@ The natural history typically follows two phases:
 
 The incubation period is usually **7–12 days** (range 2–30 days). The clinical presentation is protean.
 
-### 1. Anicteric [[Infectious Diseases/Leptospirosis\|Leptospirosis]] (90% of cases)
+### 1. Anicteric Leptospirosis (90% of cases)
 
 This is the milder and most common form. It typically presents with a biphasic course.
 
@@ -77,7 +80,7 @@ This is the milder and most common form. It typically presents with a biphasic c
     - **Aseptic [[Neurology/Meningitis\|Meningitis]]:** Occurs in up to 80% of children (CSF pleocytosis) but clinical signs (neck stiffness) are present in only 50%.
     - **Uveitis:** Anterior uveitis (iridocyclitis) may develop weeks to months later.
 
-### 2. Icteric [[Infectious Diseases/Leptospirosis\|Leptospirosis]] (Weil Syndrome) (5–10% of cases)
+### 2. Icteric Leptospirosis (Weil Syndrome) (5–10% of cases)
 
 A severe, potentially fatal form characterized by the triad of **jaundice, renal failure, and hemorrhage**.
 
@@ -140,7 +143,7 @@ Diagnosis is based on a combination of clinical suspicion and laboratory confirm
 
 ## Differential Diagnosis
 
-[[Infectious Diseases/Leptospirosis\|Leptospirosis]] is a great mimicker.
+Leptospirosis is a great mimicker.
 
 - **[[Infectious Diseases/Dengue\|Dengue]] Fever:** Differentiated by retro-orbital pain, distinctive rash, and absence of significant renal failure or neutrophilic leukocytosis.
 - **[[Infectious Diseases/Malaria\|Malaria]]:** Differentiated by periodicity of fever, splenomegaly, and blood smear.
@@ -177,7 +180,7 @@ Crucial for determining outcome in severe cases.
     - Diuretics (furosemide) may be tried to convert oliguric to non-oliguric failure.
     - **Dialysis:** Early initiation of Peritoneal Dialysis or Hemodialysis significantly reduces mortality in Weil syndrome.
 - **Liver Failure:** Vitamin K for coagulopathy, nutritional support.
-- **Respiratory Failure:** Mechanical ventilation with high PEEP for pulmonary hemorrhage/ARDS.
+- **Respiratory Failure:** Mechanical ventilation with high PEEP for pulmonary  hemorrhage/ARDS.
 - **Transfusion:** Platelets/Fresh Frozen Plasma for severe bleeding.
 
 ## Prognosis

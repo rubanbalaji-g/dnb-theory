@@ -151,13 +151,9 @@ Diphtheria Antitoxin (DAT) is the cornerstone of management for diphtheria. It i
 The dose is empirical and depends on the **site** of infection, **severity** of toxicity, and **duration** of illness.
 
 - **Pharyngeal/Laryngeal Disease ( < 48 hours):** 20,000 – 40,000 Units.
-    
-- **Nasopharyngeal Disease:** 40,000 – 60,000 Units.
-    
+- **Nasopharyngeal Disease:** 40,000 – 60,000 Units
 - **Extensive Disease / > 3 Days Duration / Bull Neck:** 80,000 – 120,000 Units.
-    
 - **Route:**
-    
     - **Intravenous (IV):** Preferred for severe cases to achieve rapid neutralization. It should be mixed with saline and infused over 60 minutes.
     - **Intramuscular (IM):** Can be used for mild to moderate cases, but absorption is slower.
 

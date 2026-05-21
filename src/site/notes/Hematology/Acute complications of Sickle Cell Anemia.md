@@ -78,7 +78,7 @@
 ### Etiology & Risk Factors
 
 - Leading cause of death; second most common cause of hospitalization.
-- Causes: Infection (_Mycoplasma, Chlamydia, S. pneumoniae_, Parvovirus B19), fat embolization from infarcted marrow, hypoventilation, iatrogenic overhydration.
+- Causes: Infection (_[[Infectious Diseases/Mycoplasma\|Mycoplasma]], Chlamydia, S. pneumoniae_, Parvovirus B19), fat embolization from infarcted marrow, hypoventilation, iatrogenic overhydration.
 - Frequent preceding event: Systemic opioid treatment for VOE resulting in hypoventilation.
 - Incidence: Peak in 2- to 5-year-olds (25 events/100 patient-years).
 - Risk factors: [[Respiratory/Asthma\|Asthma]], high hemoglobin, elevated WBC count.

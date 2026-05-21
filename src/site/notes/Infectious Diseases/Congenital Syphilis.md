@@ -4,7 +4,7 @@
 
 ## Introduction
 
-[[Infectious Diseases/Congenital Syphilis\|Congenital syphilis]] affects multiple organ systems, with the skeletal system being involved in 60–80% of infants with clinical signs. Diagnosis relies on a combination of clinical features, radiographic findings, and laboratory confirmation, as no single test is 100% sensitive in the newborn period.
+Congenital syphilis affects multiple organ systems, with the skeletal system being involved in 60–80% of infants with clinical signs. Diagnosis relies on a combination of clinical features, radiographic findings, and laboratory confirmation, as no single test is 100% sensitive in the newborn period.
 
 ## 1. Radiological Features
 
@@ -15,7 +15,7 @@ Radiographic abnormalities of the long bones are often the most helpful diagnost
 This is the most characteristic lesion, primarily affecting the femur and humerus.
 
 - **Wegner’s Sign:** A serrated or "saw-tooth" appearance at the epiphyseal margin. This represents points of calcified cartilage along the nutrient cartilage canals.
-- **Wimberger’s Sign:** Localized demineralization or erosion of the **medial aspect of the proximal tibial metaphysis**. This is a classic and highly specific sign of [[Infectious Diseases/Congenital Syphilis\|congenital syphilis]],.
+- **Wimberger’s Sign:** Localized demineralization or erosion of the **medial aspect of the proximal tibial metaphysis**. This is a classic and highly specific sign of congenital syphilis,.
 - **Irregularity of Provisional Calcification:** Bands of metaphyseal lucency may occur at the epiphyseal plate.
 
 ### B. Periostitis
@@ -38,13 +38,13 @@ A definitive diagnosis is established when _Treponema pallidum_ is identified in
 
 ### A. Direct Visualization (The Gold Standard)
 
-- **Darkfield Microscopy:** The visualization of spirochetes in specimens from moist lesions (e.g., bullae, snuffles discharge, mucous patches), placenta, or umbilical cord confirms the diagnosis,.
+- **Dark-field Microscopy:** The visualization of spirochetes in specimens from moist lesions (e.g., bullae, snuffles discharge, mucous patches), placenta, or umbilical cord confirms the diagnosis,.
 - **Direct Fluorescent Antibody (DFA):** Staining of exudates or tissues with specific antitreponemal antibodies can identify the organism if darkfield microscopy is unavailable.
 
 ### B. Serological Confirmation
 
-- **Quantitative Nontreponemal Tests (RPR/VDRL):**
-    - A serum quantitative nontreponemal titer in the infant that is **fourfold (4x) or greater** than the mother’s titer (e.g., Mother 1:4, Infant 1:16) is diagnostic of [[Infectious Diseases/Congenital Syphilis\|congenital syphilis]],.
+- **Quantitative Non-treponemal Tests (RPR/VDRL):**
+    - A serum quantitative nontreponemal titer in the infant that is **fourfold (4x) or greater** than the mother’s titer (e.g., Mother 1:4, Infant 1:16) is diagnostic of congenital syphilis,.
     - **Note:** Tests should be performed on infant serum, not cord blood, to avoid contamination with maternal blood.
 - **Treponemal Tests (TPHA/TP-PA/FTA-ABS):**
     - A reactive treponemal test after the infant is **18 months of age** confirms the diagnosis. By this age, passively transferred maternal antibodies have disappeared,.
@@ -86,7 +86,7 @@ Based on the risk stratification, infants are categorized into four scenarios,,.
 
 **Criteria:**
 
-- Abnormal physical exam consistent with [[Infectious Diseases/Congenital Syphilis\|congenital syphilis]] (snuffles, hepatosplenomegaly, rash, etc.).
+- Abnormal physical exam consistent with congenital syphilis (snuffles, hepatosplenomegaly, rash, etc.).
 - Serum quantitative nontreponemal titer $\ge$ 4-fold higher than mother's titer.
 - Positive darkfield microscopy/PCR from body fluids/lesions.
 
@@ -97,7 +97,7 @@ Based on the risk stratification, infants are categorized into four scenarios,,.
     - **Aqueous Crystalline Penicillin G:** 50,000 units/kg/dose IV every 12 hours (first 7 days) then every 8 hours, for a total of **10 days**.
     - _OR_ Procaine Penicillin G: 50,000 units/kg/dose IM daily for 10 days.
 
-### Scenario 2: Possible [[Infectious Diseases/Congenital Syphilis\|Congenital Syphilis]]
+### Scenario 2: Possible Congenital Syphilis
 
 **Criteria:**
 
@@ -112,7 +112,7 @@ Based on the risk stratification, infants are categorized into four scenarios,,.
     - If workup is normal: Single dose **Benzathine Penicillin G** (50,000 units/kg IM).
 - **Option B (No full workup):** If full evaluation is not possible or follow-up is uncertain, treat blindly with **IV/IM Penicillin for 10 days** (covers potential neurosyphilis).
 
-### Scenario 3: [[Infectious Diseases/Congenital Syphilis\|Congenital Syphilis]] Less Likely
+### Scenario 3: Congenital Syphilis Less Likely
 
 **Criteria:**
 
@@ -126,7 +126,7 @@ Based on the risk stratification, infants are categorized into four scenarios,,.
 - **Treatment:** Single dose **Benzathine Penicillin G** (50,000 units/kg IM).
 - _rationale:_ Maternal treatment failure occurs in a small percentage of cases, and ensuring follow-up can be difficult.
 
-### Scenario 4: [[Infectious Diseases/Congenital Syphilis\|Congenital Syphilis]] Unlikely
+### Scenario 4: Congenital Syphilis Unlikely
 
 **Criteria:**
 
@@ -147,11 +147,8 @@ Proper follow-up is essential to ensure cure and exclude developmental sequelae,
     - Repeat at 2, 4, 6, and 12 months.
     - Titers should decline by 3 months and become non-reactive by 6 months.
     - If titers persist >6–12 months or rise, re-evaluate (including CSF) and treat.
-2. **Treponemal Tests:**
-    - Perform at 12–18 months. A positive test at 18 months confirms [[Infectious Diseases/Congenital Syphilis\|congenital syphilis]].
-3. **Neurosyphilis:**
-    - If initial CSF was abnormal, repeat LP every 6 months until normal.
-4. **General:**
+2. **Treponemal Tests:**,
+3. **General:**
     - Monitor for vision, hearing, and neurodevelopmental status.
 
 ### Summary of Treatment Doses
