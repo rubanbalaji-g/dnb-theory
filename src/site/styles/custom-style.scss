@@ -840,7 +840,7 @@ div.cm-s-obsidian span.cm-url:hover,
    4. DARK THEME — Professional Dark Green (Forest)
    ============================================================ */
 body.theme-dark {
-    --text-normal: #D4D7DD !important;
+    --text-normal: #B5BAC2 !important;
     --text-muted: #8891A0 !important;
     --h1-color: #4ADE80 !important;   /* Vivid emerald — dominant */
     --h2-color: #34D399 !important;   /* Cooler emerald — step down */
@@ -868,18 +868,20 @@ body.theme-dark h4, body.theme-dark .cm-header-4, body.theme-dark .markdown-rend
 body.theme-dark h5, body.theme-dark .cm-header-5, body.theme-dark .markdown-rendered h5 { color: var(--h5-color) !important; }
 body.theme-dark h6, body.theme-dark .cm-header-6, body.theme-dark .markdown-rendered h6 { color: var(--h6-color) !important; }
 /* Bold/italic: white, but NOT inside headings */
-body.theme-dark strong, body.theme-dark .cm-strong,
-body.theme-dark em, body.theme-dark .cm-em { color: #FFFFFF; }
-body.theme-dark h1 strong, body.theme-dark h2 strong, body.theme-dark h3 strong,
-body.theme-dark h4 strong, body.theme-dark h5 strong, body.theme-dark h6 strong,
-body.theme-dark h1 em, body.theme-dark h2 em, body.theme-dark h3 em,
-body.theme-dark h4 em, body.theme-dark h5 em, body.theme-dark h6 em { color: inherit !important; }
+body.theme-dark strong, body.theme-dark b, body.theme-dark .cm-strong,
+body.theme-dark em, body.theme-dark i, body.theme-dark .cm-em { color: #FFFFFF !important; }
+body.theme-dark h1 strong, body.theme-dark h2 strong, body.theme-dark h3 strong, body.theme-dark h4 strong, body.theme-dark h5 strong, body.theme-dark h6 strong,
+body.theme-dark h1 b, body.theme-dark h2 b, body.theme-dark h3 b, body.theme-dark h4 b, body.theme-dark h5 b, body.theme-dark h6 b,
+body.theme-dark h1 .cm-strong, body.theme-dark h2 .cm-strong, body.theme-dark h3 .cm-strong, body.theme-dark h4 .cm-strong, body.theme-dark h5 .cm-strong, body.theme-dark h6 .cm-strong,
+body.theme-dark h1 em, body.theme-dark h2 em, body.theme-dark h3 em, body.theme-dark h4 em, body.theme-dark h5 em, body.theme-dark h6 em,
+body.theme-dark h1 i, body.theme-dark h2 i, body.theme-dark h3 i, body.theme-dark h4 i, body.theme-dark h5 i, body.theme-dark h6 i,
+body.theme-dark h1 .cm-em, body.theme-dark h2 .cm-em, body.theme-dark h3 .cm-em, body.theme-dark h4 .cm-em, body.theme-dark h5 .cm-em, body.theme-dark h6 .cm-em { color: inherit !important; }
 
 /* ============================================================
    5. LIGHT THEME — Professional Dark Green
    ============================================================ */
 body.theme-light {
-    --text-normal: #1A1A2E !important;
+    --text-normal: #333333 !important;
     --text-muted: #5A6377 !important;
     --h1-color: #14532D !important;   /* Deep forest green — dominant */
     --h2-color: #166534 !important;   /* Dark green — step down */
@@ -907,12 +909,14 @@ body.theme-light h4, body.theme-light .cm-header-4, body.theme-light .markdown-r
 body.theme-light h5, body.theme-light .cm-header-5, body.theme-light .markdown-rendered h5 { color: var(--h5-color) !important; }
 body.theme-light h6, body.theme-light .cm-header-6, body.theme-light .markdown-rendered h6 { color: var(--h6-color) !important; }
 /* Bold/italic: black, but NOT inside headings */
-body.theme-light strong, body.theme-light .cm-strong,
-body.theme-light em, body.theme-light .cm-em { color: #000000; }
-body.theme-light h1 strong, body.theme-light h2 strong, body.theme-light h3 strong,
-body.theme-light h4 strong, body.theme-light h5 strong, body.theme-light h6 strong,
-body.theme-light h1 em, body.theme-light h2 em, body.theme-light h3 em,
-body.theme-light h4 em, body.theme-light h5 em, body.theme-light h6 em { color: inherit !important; }
+body.theme-light strong, body.theme-light b, body.theme-light .cm-strong,
+body.theme-light em, body.theme-light i, body.theme-light .cm-em { color: #000000 !important; }
+body.theme-light h1 strong, body.theme-light h2 strong, body.theme-light h3 strong, body.theme-light h4 strong, body.theme-light h5 strong, body.theme-light h6 strong,
+body.theme-light h1 b, body.theme-light h2 b, body.theme-light h3 b, body.theme-light h4 b, body.theme-light h5 b, body.theme-light h6 b,
+body.theme-light h1 .cm-strong, body.theme-light h2 .cm-strong, body.theme-light h3 .cm-strong, body.theme-light h4 .cm-strong, body.theme-light h5 .cm-strong, body.theme-light h6 .cm-strong,
+body.theme-light h1 em, body.theme-light h2 em, body.theme-light h3 em, body.theme-light h4 em, body.theme-light h5 em, body.theme-light h6 em,
+body.theme-light h1 i, body.theme-light h2 i, body.theme-light h3 i, body.theme-light h4 i, body.theme-light h5 i, body.theme-light h6 i,
+body.theme-light h1 .cm-em, body.theme-light h2 .cm-em, body.theme-light h3 .cm-em, body.theme-light h4 .cm-em, body.theme-light h5 .cm-em, body.theme-light h6 .cm-em { color: inherit !important; }
 
 
 /* Ensure bold/italic text in headings inherit heading color */
