@@ -790,6 +790,7 @@ div.cm-s-obsidian span.cm-url:hover,
     font-size: 1.75em !important;
     font-weight: 700 !important;
     border-bottom: 2px solid var(--link-custom-color) !important;
+    width: fit-content !important;
     padding-bottom: 0.25em;
     margin-top: 1.2em;
     margin-bottom: 0.5em;
@@ -798,7 +799,8 @@ div.cm-s-obsidian span.cm-url:hover,
 .cm-header-2, h2 {
     font-size: 1.4em !important;
     font-weight: 650 !important;
-    border-bottom: 1px solid var(--border-subtle, rgba(150,150,150,0.2)) !important;
+    border-bottom: 2px solid var(--border-subtle, rgba(150,150,150,0.2)) !important;
+    width: fit-content !important;
     padding-bottom: 0.2em;
     margin-top: 1.5em;
     margin-bottom: 0.4em;
