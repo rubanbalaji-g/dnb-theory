@@ -2,7 +2,6 @@
 {"dg-publish":true,"uplink":"/respiratory/respiratory-system/","uptext":"Back to Index (🫁Respiratory System)","permalink":"/respiratory/congenital-central-hypoventilation-syndrome-cchs/","dgPassFrontmatter":true}
 ---
 
-
 ## I. Introduction & Definition
 * **Synonym:** "Ondine’s Curse."
 * **Definition:** A rare, life-threatening disorder of the autonomic nervous system characterized by **alveolar hypoventilation** resulting from a failure of autonomic respiratory control.

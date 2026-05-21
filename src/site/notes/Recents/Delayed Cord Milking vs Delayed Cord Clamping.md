@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"uptext":"Back to Index (🔬Recent Advances)","uplink":"/recents/","dg-path":"cord-milk-vs-cord-clamp","permalink":"/cord-milk-vs-cord-clamp/","dgPassFrontmatter":true}
+{"dg-publish":true,"uptext":"Back to Index (🔬Recent Advances)","uplink":"/recents/","dg-path":"recents/cord-milk-vs-cord-clamp","permalink":"/recents/cord-milk-vs-cord-clamp/","dgPassFrontmatter":true}
 ---
 
 ## Paradigm Shift In Neonatal Resuscitation

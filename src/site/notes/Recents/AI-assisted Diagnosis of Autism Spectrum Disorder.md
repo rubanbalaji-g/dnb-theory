@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"uptext":"Back to Index (🔬Recent Advances)","uplink":"/recents/","dg-path":"ai-in-autism","permalink":"/ai-in-autism/","dgPassFrontmatter":true}
+{"dg-publish":true,"uptext":"Back to Index (🔬Recent Advances)","uplink":"/recents/","dg-path":"recents/ai-in-autism","permalink":"/recents/ai-in-autism/","dgPassFrontmatter":true}
 ---
 
 ## Introduction and Rationale

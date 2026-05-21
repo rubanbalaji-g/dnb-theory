@@ -59,7 +59,7 @@ Diagnosis is primarily clinical and treatment should not be delayed for laborato
 
 - **Streptococcal Pharyngitis:** Higher fever, more intense pain, absence of adherent membrane.
 - **Infectious Mononucleosis:** Generalized lymphadenopathy, splenomegaly, atypical lymphocytes.
-- **Viral Croup/Epiglottitis:** Differentiated from laryngeal diphtheria by the absence of a pharyngeal membrane and different clinical progression.
+- **[[Respiratory/Viral Croup\|Viral Croup]]/Epiglottitis:** Differentiated from laryngeal diphtheria by the absence of a pharyngeal membrane and different clinical progression.
 
 ### 7. Complications
 

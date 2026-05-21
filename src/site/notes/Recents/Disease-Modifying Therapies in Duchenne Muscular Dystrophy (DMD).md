@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"uptext":"Back to Index (🔬Recent Advances)","uplink":"/recents/","dg-path":"DMT in DMD","permalink":"/dmt-in-dmd/","dgPassFrontmatter":true}
+{"dg-publish":true,"uptext":"Back to Index (🔬Recent Advances)","uplink":"/recents/","dg-path":"recents/DMT in DMD","permalink":"/recents/dmt-in-dmd/","dgPassFrontmatter":true}
 ---
 
 ## Pathophysiological Basis

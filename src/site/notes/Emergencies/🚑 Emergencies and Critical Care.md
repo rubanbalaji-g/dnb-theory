@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/emergencies/emergencies-and-critical-care/","dgPassFrontmatter":true}
+{"dg-publish":true,"dg-path":"/emergencies/emergencies-and-critical-care/","permalink":"//emergencies/emergencies-and-critical-care//","dgPassFrontmatter":true}
 ---
 
 ## PALS Algorithms

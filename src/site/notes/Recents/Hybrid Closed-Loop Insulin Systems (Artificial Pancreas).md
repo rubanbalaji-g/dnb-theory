@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"uptext":"Back to Index (🔬Recent Advances)","uplink":"/recents/","dg-path":"artificial-pancreas","permalink":"/artificial-pancreas/","dgPassFrontmatter":true}
+{"dg-publish":true,"uptext":"Back to Index (🔬Recent Advances)","uplink":"/recents/","dg-path":"recents/artificial-pancreas","permalink":"/recents/artificial-pancreas/","dgPassFrontmatter":true}
 ---
 
 ## Technological Framework And Components

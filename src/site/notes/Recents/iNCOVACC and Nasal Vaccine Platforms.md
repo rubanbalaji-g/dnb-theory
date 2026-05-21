@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"uptext":"Back to Index (🔬Recent Advances)","uplink":"/recents/","dg-path":"iNCOVACC","permalink":"/i-ncovacc/","dgPassFrontmatter":true}
+{"dg-publish":true,"uptext":"Back to Index (🔬Recent Advances)","uplink":"/recents/","dg-path":"recents/iNCOVACC","permalink":"/recents/i-ncovacc/","dgPassFrontmatter":true}
 ---
 
 ## Introduction And Mechanism Of Action

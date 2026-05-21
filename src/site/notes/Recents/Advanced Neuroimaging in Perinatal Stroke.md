@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"uptext":"Back to Index (🔬Recent Advances)","uplink":"/recents/","dg-path":"perinatal-stroke-imaging","permalink":"/perinatal-stroke-imaging/","dgPassFrontmatter":true}
+{"dg-publish":true,"uptext":"Back to Index (🔬Recent Advances)","uplink":"/recents/","dg-path":"recents/perinatal-stroke-imaging","permalink":"/recents/perinatal-stroke-imaging/","dgPassFrontmatter":true}
 ---
 
 ## Introduction And Clinical Rationale

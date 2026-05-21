@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"uptext":"Back to Index (🔬Recent Advances)","uplink":"/recents/","dg-path":"CGM-for-DM","permalink":"/cgm-for-dm/","dgPassFrontmatter":true}
+{"dg-publish":true,"uptext":"Back to Index (🔬Recent Advances)","uplink":"/recents/","dg-path":"recents/CGM-for-DM","permalink":"/recents/cgm-for-dm/","dgPassFrontmatter":true}
 ---
 
 ## Introduction And Pathophysiological Rationale

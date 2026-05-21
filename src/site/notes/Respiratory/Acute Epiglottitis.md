@@ -15,15 +15,15 @@
 - Primarily infectious origin.
 - Accidental ingestion of hot liquid can also cause supraglottic injury mimicking epiglottitis.
 
-|Status|Bacterial Pathogens|Viral Pathogens|
-|:--|:--|:--|
-|**Immunocompetent**|_Haemophilus influenzae_ type b (unvaccinated/incompletely immunized)|Influenza Type A And B|
-||_Staphylococcus aureus_|Parainfluenza Virus|
-||_Streptococcus pneumoniae_|Herpes Simplex Virus|
-||_Streptococcus pyogenes_|Epstein-Barr Virus|
-||_Neisseria meningitidis_|Human Immunodeficiency Virus|
-||_Pasteurella multocida_|Severe Acute Respiratory Syndrome Coronavirus 2|
-|**Immunocompromised**|_Pseudomonas aeruginosa_|Fungal Agents|
+| Status                | Bacterial Pathogens                                                   | Other Pathogens                                 |
+| :-------------------- | :-------------------------------------------------------------------- | :---------------------------------------------- |
+| **Immunocompetent**   | _Haemophilus influenzae_ type b (unvaccinated/incompletely immunized) | Influenza Type A And B                          |
+|                       | _Staphylococcus aureus_                                               | Parainfluenza Virus                             |
+|                       | _Streptococcus pneumoniae_                                            | Herpes Simplex Virus                            |
+|                       | _Streptococcus pyogenes_                                              | Epstein-Barr Virus                              |
+|                       | _Neisseria meningitidis_                                              | Human Immunodeficiency Virus                    |
+|                       | _Pasteurella multocida_                                               | Severe Acute Respiratory Syndrome Coronavirus 2 |
+| **Immunocompromised** | _Pseudomonas aeruginosa_                                              | Fungal Agents                                   |
 
 ## Pathogenesis And Pathophysiology
 
@@ -43,7 +43,7 @@
 - Drooling heavily present.
 - Stridor indicates near-complete airway obstruction.
 - Barking cough characteristically absent.
-- Classic tripod or sniffing posture adopted.
+- <span style="color:rgb(255, 138, 117)">Classic tripod or sniffing posture </span>adopted.
 - Patient sits upright, leans forward, chin thrust forward, neck hyperextended, mouth open.
 - Extreme reluctance to lie flat.
 - Brief air hunger and restlessness precede rapidly increasing cyanosis and coma.
@@ -123,9 +123,9 @@
 ### Pharmacotherapy
 
 - Administer appropriate antimicrobials immediately post-airway stabilization.
-- Ceftriaxone 50 Milligrams/Kilogram/Day Intravenous or Intramuscular once daily.
-- Alternatively, Cefotaxime 50 Milligrams/Kilogram/Dose Eight hourly.
-- Add Vancomycin 15 Milligrams/Kilogram/Day divided Eight hourly if _Staphylococcus aureus_ suspected.
+- Ceftriaxone 50-100 mg/kg/day Intravenous or Intramuscular once/twice daily.
+- Alternatively, Cefotaxime 50 mg/kg/dose q8H.
+- Add Vancomycin 15 mg/kg/day q8H if _Staphylococcus aureus_ suspected.
 - Continue antibiotics for 7 To 10 days.
 - Avoid Corticosteroids; unproven benefit.
 - Avoid Bronchodilators and Racemic Epinephrine; strictly ineffective.

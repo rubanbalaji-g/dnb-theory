@@ -1,8 +1,6 @@
 ---
-{"dg-publish":true,"uptext":"Back to Index (🔬Recent Advances)","uplink":"/recents/","dg-path":"ECMO","permalink":"/ecmo/","dgPassFrontmatter":true}
+{"dg-publish":true,"uptext":"Back to Index (🔬Recent Advances)","uplink":"/recents/","dg-path":"recents/ECMO","permalink":"/recents/ecmo/","dgPassFrontmatter":true}
 ---
-
-# Extracorporeal Membrane Oxygenation In Pediatrics
 
 ## Introduction And Core Principles
 

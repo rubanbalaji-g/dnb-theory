@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"uptext":"Back to Index (🔬Recent Advances)","uplink":"/recents/","dg-path":"IAP2025-status-epilepticus","permalink":"/iap-2025-status-epilepticus/","dgPassFrontmatter":true}
+{"dg-publish":true,"uptext":"Back to Index (🔬Recent Advances)","uplink":"/recents/","dg-path":"recents/IAP2025-status-epilepticus","permalink":"/recents/iap-2025-status-epilepticus/","dgPassFrontmatter":true}
 ---
 
 ## Definition And Temporal Thresholds

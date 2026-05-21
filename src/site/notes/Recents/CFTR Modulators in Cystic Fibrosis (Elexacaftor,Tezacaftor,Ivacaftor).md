@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"uptext":"Back to Index (🔬Recent Advances)","uplink":"/recents/","dg-path":"CFTR-modulators","permalink":"/cftr-modulators/","dgPassFrontmatter":true}
+{"dg-publish":true,"uptext":"Back to Index (🔬Recent Advances)","uplink":"/recents/","dg-path":"recents/CFTR-modulators","permalink":"/recents/cftr-modulators/","dgPassFrontmatter":true}
 ---
 
 ## Introduction and Mechanism of Action

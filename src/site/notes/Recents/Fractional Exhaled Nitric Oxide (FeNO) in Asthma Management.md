@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"uptext":"Back to Index (🔬Recent Advances)","uplink":"/recents/","dg-path":"FeNO-in-Asthma-Management","permalink":"/fe-no-in-asthma-management/","dgPassFrontmatter":true}
+{"dg-publish":true,"uptext":"Back to Index (🔬Recent Advances)","uplink":"/recents/","dg-path":"recents/FeNO-in-Asthma","permalink":"/recents/fe-no-in-asthma/","dgPassFrontmatter":true}
 ---
 
 ## Pathophysiological Basis

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"uptext":"Back to Index (🔬Recent Advances)","uplink":"/recents/","dg-path":"newer-markers-AKI","permalink":"/newer-markers-aki/","dgPassFrontmatter":true}
+{"dg-publish":true,"uptext":"Back to Index (🔬Recent Advances)","uplink":"/recents/","dg-path":"recents/newer-markers-AKI","permalink":"/recents/newer-markers-aki/","dgPassFrontmatter":true}
 ---
 
 ## Rationale For Diagnostic Shift

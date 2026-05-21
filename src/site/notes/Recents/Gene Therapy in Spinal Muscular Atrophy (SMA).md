@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"uptext":"Back to Index (🔬Recent Advances)","uplink":"/recents/","dg-path":"sma-gene-therapy","permalink":"/sma-gene-therapy/","dgPassFrontmatter":true}
+{"dg-publish":true,"uptext":"Back to Index (🔬Recent Advances)","uplink":"/recents/","dg-path":"recents/sma-gene-therapy","permalink":"/recents/sma-gene-therapy/","dgPassFrontmatter":true}
 ---
 
 ## Introduction And Genetic Basis

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"uptext":"Back to Index (🔬Recent Advances)","uplink":"/recents/","dg-path":"BPaLM-for-DRTB","permalink":"/b-pa-lm-for-drtb/","dgPassFrontmatter":true}
+{"dg-publish":true,"uptext":"Back to Index (🔬Recent Advances)","uplink":"/recents/","dg-path":"recents/BPaLM-for-DRTB","permalink":"/recents/b-pa-lm-for-drtb/","dgPassFrontmatter":true}
 ---
 
 ## Introduction and Rationale

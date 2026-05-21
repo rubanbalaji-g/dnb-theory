@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"uptext":"Back to Index (🔬Recent Advances)","uplink":"/recents/","dg-path":"autoimmune-encephalitis-biomarkers","permalink":"/autoimmune-encephalitis-biomarkers/","dgPassFrontmatter":true}
+{"dg-publish":true,"uptext":"Back to Index (🔬Recent Advances)","uplink":"/recents/","dg-path":"recents/autoimmune-encephalitis-biomarkers","permalink":"/recents/autoimmune-encephalitis-biomarkers/","dgPassFrontmatter":true}
 ---
 
 ## Introduction and Clinical Utility

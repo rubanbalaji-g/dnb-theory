@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"uptext":"Back to Index (🫁Respiratory System)","permalink":"/respiratory/recurrent-pneumonia/","dgPassFrontmatter":true}
+{"dg-publish":true,"uptext":"Back to Index (🫁Respiratory System)","uplink":"/respiratory/respiratory-system/","permalink":"/respiratory/recurrent-pneumonia/","dgPassFrontmatter":true}
 ---
 
 ## Definition
@@ -27,7 +27,6 @@
 |Extraluminal Compression|Vascular rings, enlarged lymph nodes (Tuberculosis, Histoplasmosis), mediastinal cysts.|
 |Aspiration Syndromes|Gastroesophageal reflux disease, oropharyngeal dysphagia, tracheoesophageal fistula.|
 |Immune And Genetic Disorders|Cystic fibrosis, primary ciliary dyskinesia, sickle cell disease, severe combined immunodeficiency.|
-
 ## Clinical Nuances And Pathogen Indicators
 
 ### Location-Specific Recurrence

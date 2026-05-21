@@ -2,11 +2,10 @@
 {"dg-publish":true,"uplink":"/respiratory/respiratory-system/","uptext":"Back to Index (🫁Respiratory System)","permalink":"/respiratory/aspiration-pneumonia/","dgPassFrontmatter":true}
 ---
 
-
 ## I. Introduction & Definitions
 Aspiration is the inhalation of oropharyngeal or gastric contents into the lower respiratory tract. It leads to three distinct clinical syndromes:
 1.  **Chemical Pneumonitis (Mendelson’s Syndrome):** Acute lung injury from sterile, acidic gastric contents.
-2.  **Bacterial [[Respiratory/Aspiration Pneumonia\|Aspiration Pneumonia]]:** Infection resulting from aspiration of bacteria from the oropharynx.
+2.  **Bacterial Aspiration Pneumonia:** Infection resulting from aspiration of bacteria from the oropharynx.
 3.  **Mechanical Obstruction:** Aspiration of particulate matter (fluids/solids).
 
 ## II. Predisposing Conditions (Risk Factors)

@@ -50,6 +50,7 @@
 ## Clinical Severity Assessment
 
 Clinical severity guides management. Assessed using sensorium, distress, stridor, heart rate, and oxygen saturation.
+### Stridor Severity 
 
 |Sign|Mild|Moderate|Severe|Life-Threatening|
 |:--|:--|:--|:--|:--|
@@ -58,6 +59,23 @@ Clinical severity guides management. Assessed using sensorium, distress, stridor
 |**Respiratory Distress**|None|Tachypnea, suprasternal/subcostal retractions|Marked tachypnea, severe retractions|Declining intensity of retractions without clinical improvement|
 |**Heart Rate**|Normal|Tachycardia|Tachycardia|Bradycardia|
 |**SpO2 (Room Air)**|>95%|>92-95%|<92%|<90%, cyanosis|
+### Weasley Croup Score
+| Clinical Feature           | 0 Points | 1 Point                      | 2 Points                | 3 Points                |
+| :------------------------- | :------- | :--------------------------- | :---------------------- | :---------------------- |
+| **Cyanosis**               | None     |                              | With agitation/activity | At rest                 |
+| **Level of Consciousness** | Normal   |                              |                         | Disoriented / Depressed |
+| **Stridor**                | None     | Only with agitation/activity | At rest                 |                         |
+| **Air Entry**              | Normal   | Decreased                    | Markedly decreased      |                         |
+| **Retractions**            | None     | Mild                         | Moderate                | Severe                  |
+
+
+
+| Total Score | Severity                      | Management Guidance                                                                                          |
+| :---------: | :---------------------------- | :----------------------------------------------------------------------------------------------------------- |
+|  **0 - 2**  | Mild                          | Usually manageable at home; single dose of oral dexamethasone.                                               |
+|  **3 - 7**  | Moderate                      | Requires medical evaluation; oral/IM dexamethasone, consider nebulized epinephrine and observation.          |
+| **8 - 11**  | Severe                        | Urgent intervention; nebulized epinephrine, systemic corticosteroids, likely hospitalization/ICU monitoring. |
+|  **≥ 12**   | Impending Respiratory Failure | Emergency critical care; aggressive airway support, continuous nebulization, intensive care admission.       |
 ## Differential Diagnosis
 
 Must differentiate from other causes of acute upper airway obstruction.

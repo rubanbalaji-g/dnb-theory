@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"uptext":"Back to Index (🔬Recent Advances)","uplink":"/recents/","dg-path":"AQI-pediatric-burden","permalink":"/aqi-pediatric-burden/","dgPassFrontmatter":true}
+{"dg-publish":true,"uptext":"Back to Index (🔬Recent Advances)","uplink":"/recents/","dg-path":"recents/AQI-pediatric-burden","permalink":"/recents/aqi-pediatric-burden/","dgPassFrontmatter":true}
 ---
 
 ## Epidemiological Burden and Pediatric Vulnerability
