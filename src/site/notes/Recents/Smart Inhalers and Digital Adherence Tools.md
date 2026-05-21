@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"uptext":"Back to Index (🔬Recent Advances)","uplink":"/recents/","dg-path":"smart-inhalers-digital-adherence-tools","permalink":"/smart-inhalers-digital-adherence-tools/","dgPassFrontmatter":true}
+{"dg-publish":true,"uptext":"Back to Index (🔬Recent Advances)","uplink":"/recents/","dg-path":"recents/smart-inhalers-digital-adherence-tools","permalink":"/recents/smart-inhalers-digital-adherence-tools/","dgPassFrontmatter":true}
 ---
 
 ## Introduction and Clinical Rationale

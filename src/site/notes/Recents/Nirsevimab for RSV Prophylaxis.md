@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"uptext":"Back to Index (🔬Recent Advances)","uplink":"/recents/","dg-path":"nirsevimab-RSV","permalink":"/nirsevimab-rsv/","dgPassFrontmatter":true}
+{"dg-publish":true,"uptext":"Back to Index (🔬Recent Advances)","uplink":"/recents/","dg-path":"recents/nirsevimab-RSV","permalink":"/recents/nirsevimab-rsv/","dgPassFrontmatter":true}
 ---
 
 ## Introduction And Pharmacology

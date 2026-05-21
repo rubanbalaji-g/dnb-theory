@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"uptext":"Back to Index (🔬Recent Advances)","uplink":"/recents/","dg-path":"PFT-in-preschoolers","permalink":"/pft-in-preschoolers/","dgPassFrontmatter":true}
+{"dg-publish":true,"uptext":"Back to Index (🔬Recent Advances)","uplink":"/recents/","dg-path":"recents/PFT-in-preschoolers","permalink":"/recents/pft-in-preschoolers/","dgPassFrontmatter":true}
 ---
 
 ## Rationale And Clinical Challenges

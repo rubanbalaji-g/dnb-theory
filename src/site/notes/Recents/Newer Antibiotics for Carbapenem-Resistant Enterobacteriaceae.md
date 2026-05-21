@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"uptext":"Back to Index (🔬Recent Advances)","uplink":"/recents/","dg-path":"antibiotics-for-CRE","permalink":"/antibiotics-for-cre/","dgPassFrontmatter":true}
+{"dg-publish":true,"uptext":"Back to Index (🔬Recent Advances)","uplink":"/recents/","dg-path":"recents/antibiotics-for-CRE","permalink":"/recents/antibiotics-for-cre/","dgPassFrontmatter":true}
 ---
 
 ## Introduction and Mechanisms of Resistance

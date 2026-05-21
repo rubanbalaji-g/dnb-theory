@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"uptext":"Back to Index (🔬Recent Advances)","uplink":"/recents/","dg-path":"9-valent-HPV-vaccine-rollout","permalink":"/9-valent-hpv-vaccine-rollout/","dgPassFrontmatter":true}
+{"dg-publish":true,"uptext":"Back to Index (🔬Recent Advances)","uplink":"/recents/","dg-path":"recents/9-valent-HPV-vaccine-rollout","permalink":"/recents/9-valent-hpv-vaccine-rollout/","dgPassFrontmatter":true}
 ---
 
 ## Epidemiological Context

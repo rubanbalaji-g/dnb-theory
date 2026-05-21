@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"uptext":"Back to Index (🔬Recent Advances)","uplink":"/recents/","dg-path":"cmv-universal-screening","permalink":"/cmv-universal-screening/","dgPassFrontmatter":true}
+{"dg-publish":true,"uptext":"Back to Index (🔬Recent Advances)","uplink":"/recents/","dg-path":"recents/cmv-universal-screening","permalink":"/recents/cmv-universal-screening/","dgPassFrontmatter":true}
 ---
 
 ## Introduction And Disease Burden

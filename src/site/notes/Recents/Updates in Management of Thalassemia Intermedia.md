@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"uptext":"Back to Index (🔬Recent Advances)","uplink":"/recents/","dg-path":"NTDT-updates","permalink":"/ntdt-updates/","dgPassFrontmatter":true}
+{"dg-publish":true,"uptext":"Back to Index (🔬Recent Advances)","uplink":"/recents/","dg-path":"recents/NTDT-updates","permalink":"/recents/ntdt-updates/","dgPassFrontmatter":true}
 ---
 
 ## Disease Classification And Core Principles

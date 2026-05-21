@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"uptext":"Back to Index (🔬Recent Advances)","uplink":"/recents/","dg-path":"telepediatrics","permalink":"/telepediatrics/","dgPassFrontmatter":true}
+{"dg-publish":true,"uptext":"Back to Index (🔬Recent Advances)","uplink":"/recents/","dg-path":"recents/telepediatrics","permalink":"/recents/telepediatrics/","dgPassFrontmatter":true}
 ---
 
 ## Introduction To The Hybrid Paradigm

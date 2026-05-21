@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"uptext":"Back to Index (🔬Recent Advances)","uplink":"/recents/","dg-path":null,"permalink":"/recents/proton-beam-therapy-in-pediatric-solid-tumors/","dgPassFrontmatter":true}
+{"dg-publish":true,"uptext":"Back to Index (🔬Recent Advances)","uplink":"/recents/","dg-path":"recents/proton-beam","permalink":"/recents/proton-beam/","dgPassFrontmatter":true}
 ---
 
 ## Introduction And Mechanism Of Action

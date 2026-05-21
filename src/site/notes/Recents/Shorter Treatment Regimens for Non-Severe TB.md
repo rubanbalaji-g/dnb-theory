@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"uptext":"Back to Index (🔬Recent Advances)","uplink":"/recents/","dg-path":"shorter-TB-regimen","permalink":"/shorter-tb-regimen/","dgPassFrontmatter":true}
+{"dg-publish":true,"uptext":"Back to Index (🔬Recent Advances)","uplink":"/recents/","dg-path":"recents/shorter-TB-regimen","permalink":"/recents/shorter-tb-regimen/","dgPassFrontmatter":true}
 ---
 
 ## Introduction and Pathophysiological Rationale

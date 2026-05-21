@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"uptext":"Back to Index (🔬Recent Advances)","uplink":"/recents/","dg-path":"NIV-NAVA","permalink":"/niv-nava/","dgPassFrontmatter":true}
+{"dg-publish":true,"uptext":"Back to Index (🔬Recent Advances)","uplink":"/recents/","dg-path":"recents/NIV-NAVA","permalink":"/recents/niv-nava/","dgPassFrontmatter":true}
 ---
 
 ## Introduction And Core Concept

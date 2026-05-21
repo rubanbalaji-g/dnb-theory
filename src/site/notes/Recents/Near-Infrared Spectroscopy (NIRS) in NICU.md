@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"uptext":"Back to Index (🔬Recent Advances)","uplink":"/recents/","dg-path":"NIRS-NICU","permalink":"/nirs-nicu/","dgPassFrontmatter":true}
+{"dg-publish":true,"uptext":"Back to Index (🔬Recent Advances)","uplink":"/recents/","dg-path":"recents/NIRS-NICU","permalink":"/recents/nirs-nicu/","dgPassFrontmatter":true}
 ---
 
 ## Biophysical Principles

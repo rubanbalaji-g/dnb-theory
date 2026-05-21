@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"uptext":"Back to Index (🔬Recent Advances)","uplink":"/recents/","dg-path":"scrub-typus-2026-updates","permalink":"/scrub-typus-2026-updates/","dgPassFrontmatter":true}
+{"dg-publish":true,"uptext":"Back to Index (🔬Recent Advances)","uplink":"/recents/","dg-path":"recents/scrub-typus-2026-updates","permalink":"/recents/scrub-typus-2026-updates/","dgPassFrontmatter":true}
 ---
 
 ## Introduction and Clinical Suspicion

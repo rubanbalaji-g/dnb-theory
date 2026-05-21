@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"uptext":"Back to Index (🔬Recent Advances)","uplink":"/recents/","dg-path":"newer-TPO-in-ITP","permalink":"/newer-tpo-in-itp/","dgPassFrontmatter":true}
+{"dg-publish":true,"uptext":"Back to Index (🔬Recent Advances)","uplink":"/recents/","dg-path":"recents/newer-TPO-in-ITP","permalink":"/recents/newer-tpo-in-itp/","dgPassFrontmatter":true}
 ---
 
 ## Introduction And Rationale

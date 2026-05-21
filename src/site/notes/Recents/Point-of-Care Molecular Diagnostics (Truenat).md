@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"uptext":"Back to Index (🔬Recent Advances)","uplink":"/recents/","dg-path":"truenat","permalink":"/truenat/","dgPassFrontmatter":true}
+{"dg-publish":true,"uptext":"Back to Index (🔬Recent Advances)","uplink":"/recents/","dg-path":"recents/truenat","permalink":"/recents/truenat/","dgPassFrontmatter":true}
 ---
 
 ## Introduction and Principle

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"uptext":"Back to Index (🔬Recent Advances)","uplink":"/recents/","dg-path":"mgba-adhd","permalink":"/mgba-adhd/","dgPassFrontmatter":true}
+{"dg-publish":true,"uptext":"Back to Index (🔬Recent Advances)","uplink":"/recents/","dg-path":"recents/mgba-adhd","permalink":"/recents/mgba-adhd/","dgPassFrontmatter":true}
 ---
 
 ## Definition And Conceptual Framework
