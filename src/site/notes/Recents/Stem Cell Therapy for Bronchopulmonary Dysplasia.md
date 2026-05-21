@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"uptext":"Back to Index (🔬Recent Advances)","uplink":"/recents/","dg-path":"recents/stemcell-BPD","permalink":"/recents/stemcell-bpd/","dgPassFrontmatter":true}
+{"dg-publish":true,"uptext":"Back to Index (🔬Recent Advances)","uplink":"/Recents/","dg-path":"Recents/stemcell-BPD","permalink":"/recents/stemcell-bpd/","dgPassFrontmatter":true}
 ---
 
 ## Pathophysiological Rationale and Cell Sources

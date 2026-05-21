@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"uptext":"Back to Index (🔬Recent Advances)","uplink":"/recents/","dg-path":"recents/sepsis-3-definitons","permalink":"/recents/sepsis-3-definitons/","dgPassFrontmatter":true}
+{"dg-publish":true,"uptext":"Back to Index (🔬Recent Advances)","uplink":"/Recents/","dg-path":"Recents/sepsis-3-definitons","permalink":"/recents/sepsis-3-definitons/","dgPassFrontmatter":true}
 ---
 
 ## Introduction And Rationale For Change

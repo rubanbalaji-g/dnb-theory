@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"uptext":"Back to Index (🔬Recent Advances)","uplink":"/recents/","dg-path":"recents/fetal-therapy","permalink":"/recents/fetal-therapy/","dgPassFrontmatter":true}
+{"dg-publish":true,"uptext":"Back to Index (🔬Recent Advances)","uplink":"/Recents/","dg-path":"Recents/fetal-therapy","permalink":"/recents/fetal-therapy/","dgPassFrontmatter":true}
 ---
 
 ## Introduction And Diagnostics

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"uptext":"Back to Index (🔬Recent Advances)","uplink":"/recents/","dg-path":"recents/phoneix-sepsis-score","permalink":"/recents/phoneix-sepsis-score/","dgPassFrontmatter":true}
+{"dg-publish":true,"uptext":"Back to Index (🔬Recent Advances)","uplink":"/Recents/","dg-path":"Recents/phoneix-sepsis-score","permalink":"/recents/phoneix-sepsis-score/","dgPassFrontmatter":true}
 ---
 
 ## Introduction and Rationale

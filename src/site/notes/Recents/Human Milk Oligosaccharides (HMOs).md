@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"uptext":"Back to Index (🔬Recent Advances)","uplink":"/recents/","dg-path":"recents/HMOs","permalink":"/recents/hm-os/","dgPassFrontmatter":true}
+{"dg-publish":true,"uptext":"Back to Index (🔬Recent Advances)","uplink":"/Recents/","dg-path":"Recents/HMOs","permalink":"/recents/hm-os/","dgPassFrontmatter":true}
 ---
 
 ## Introduction And Quantitative Significance

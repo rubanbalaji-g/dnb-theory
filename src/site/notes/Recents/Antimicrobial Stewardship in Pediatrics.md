@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"uptext":"Back to Index (🔬Recent Advances)","uplink":"/recents/","dg-path":"recents/antibiotic-stewardship","permalink":"/recents/antibiotic-stewardship/","dgPassFrontmatter":true}
+{"dg-publish":true,"uptext":"Back to Index (🔬Recent Advances)","uplink":"/Recents/","dg-path":"Recents/antibiotic-stewardship","permalink":"/recents/antibiotic-stewardship/","dgPassFrontmatter":true}
 ---
 
 ## Introduction And Rationale

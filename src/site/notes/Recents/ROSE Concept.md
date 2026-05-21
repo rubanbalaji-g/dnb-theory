@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"uptext":"Back to Index (🔬Recent Advances)","uplink":"/recents/","dg-path":"recents/ROSE-concept","permalink":"/recents/rose-concept/","dgPassFrontmatter":true}
+{"dg-publish":true,"uptext":"Back to Index (🔬Recent Advances)","uplink":"/Recents/","dg-path":"Recents/ROSE-concept","permalink":"/recents/rose-concept/","dgPassFrontmatter":true}
 ---
 
 ## Introduction And Pathophysiological Rationale

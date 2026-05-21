@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"uptext":"Back to Index (🔬Recent Advances)","uplink":"/recents/","dg-path":"recents/chronic-hepB-updates","permalink":"/recents/chronic-hep-b-updates/","dgPassFrontmatter":true}
+{"dg-publish":true,"uptext":"Back to Index (🔬Recent Advances)","uplink":"/Recents/","dg-path":"Recents/chronic-hepB-updates","permalink":"/recents/chronic-hep-b-updates/","dgPassFrontmatter":true}
 ---
 
 ## Epidemiological Context and Rationale

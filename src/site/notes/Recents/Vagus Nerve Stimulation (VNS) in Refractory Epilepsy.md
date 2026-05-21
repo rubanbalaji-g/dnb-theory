@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"uptext":"Back to Index (🔬Recent Advances)","uplink":"/recents/","dg-path":"recents/vns-in-epilepsy","permalink":"/recents/vns-in-epilepsy/","dgPassFrontmatter":true}
+{"dg-publish":true,"uptext":"Back to Index (🔬Recent Advances)","uplink":"/Recents/","dg-path":"Recents/vns-in-epilepsy","permalink":"/recents/vns-in-epilepsy/","dgPassFrontmatter":true}
 ---
 
 ## Definition And Patient Selection

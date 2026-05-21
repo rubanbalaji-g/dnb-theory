@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"uptext":"Back to Index (🔬Recent Advances)","uplink":"/recents/","dg-path":"recents/probiotics-acute-diarrhea","permalink":"/recents/probiotics-acute-diarrhea/","dgPassFrontmatter":true}
+{"dg-publish":true,"uptext":"Back to Index (🔬Recent Advances)","uplink":"/Recents/","dg-path":"Recents/probiotics-acute-diarrhea","permalink":"/recents/probiotics-acute-diarrhea/","dgPassFrontmatter":true}
 ---
 
 ## Pathophysiology And Rationale

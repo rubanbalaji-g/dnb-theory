@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"uptext":"Back to Index (🔬Recent Advances)","uplink":"/recents/","dg-path":"recents/Home-NIV-CLD","permalink":"/recents/home-niv-cld/","dgPassFrontmatter":true}
+{"dg-publish":true,"uptext":"Back to Index (🔬Recent Advances)","uplink":"/Recents/","dg-path":"Recents/Home-NIV-CLD","permalink":"/recents/home-niv-cld/","dgPassFrontmatter":true}
 ---
 
 ## Clinical Rationale And Core Objectives

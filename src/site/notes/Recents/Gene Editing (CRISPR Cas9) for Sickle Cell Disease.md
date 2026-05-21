@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"uptext":"Back to Index (🔬Recent Advances)","uplink":"/recents/","dg-path":"recents/gene-editing-in-sickle-cell","permalink":"/recents/gene-editing-in-sickle-cell/","dgPassFrontmatter":true}
+{"dg-publish":true,"uptext":"Back to Index (🔬Recent Advances)","uplink":"/Recents/","dg-path":"Recents/gene-editing-in-sickle-cell","permalink":"/recents/gene-editing-in-sickle-cell/","dgPassFrontmatter":true}
 ---
 
 ## Introduction to CRISPR/Cas9 Therapy

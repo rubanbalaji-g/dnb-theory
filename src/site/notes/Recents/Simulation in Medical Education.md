@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"uptext":"Back to Index (🔬Recent Advances)","uplink":"/recents/","dg-path":"recents/stimulation-med-ed","permalink":"/recents/stimulation-med-ed/","dgPassFrontmatter":true}
+{"dg-publish":true,"uptext":"Back to Index (🔬Recent Advances)","uplink":"/Recents/","dg-path":"Recents/stimulation-med-ed","permalink":"/recents/stimulation-med-ed/","dgPassFrontmatter":true}
 ---
 
 ## Paradigm Shift In Pediatric Training

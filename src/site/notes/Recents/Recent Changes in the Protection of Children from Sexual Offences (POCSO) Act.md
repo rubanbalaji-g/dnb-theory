@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"uptext":"Back to Index (🔬Recent Advances)","uplink":"/recents/","dg-path":"recents/POCSO-updates","permalink":"/recents/pocso-updates/","dgPassFrontmatter":true}
+{"dg-publish":true,"uptext":"Back to Index (🔬Recent Advances)","uplink":"/Recents/","dg-path":"Recents/POCSO-updates","permalink":"/recents/pocso-updates/","dgPassFrontmatter":true}
 ---
 
 ## Introduction And Legislative Context

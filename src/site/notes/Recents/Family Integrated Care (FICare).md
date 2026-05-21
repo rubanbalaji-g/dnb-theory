@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"uptext":"Back to Index (🔬Recent Advances)","uplink":"/recents/","dg-path":"recents/FICare","permalink":"/recents/fi-care/","dgPassFrontmatter":true}
+{"dg-publish":true,"uptext":"Back to Index (🔬Recent Advances)","uplink":"/Recents/","dg-path":"Recents/FICare","permalink":"/recents/fi-care/","dgPassFrontmatter":true}
 ---
 
 ## Introduction and Core Philosophy

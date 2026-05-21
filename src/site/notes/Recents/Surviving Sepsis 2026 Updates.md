@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"uptext":"Back to Index (🔬Recent Advances)","uplink":"/recents/","dg-path":"recents/surviving-sepsis-2026","permalink":"/recents/surviving-sepsis-2026/","dgPassFrontmatter":true}
+{"dg-publish":true,"uptext":"Back to Index (🔬Recent Advances)","uplink":"/Recents/","dg-path":"Recents/surviving-sepsis-2026","permalink":"/recents/surviving-sepsis-2026/","dgPassFrontmatter":true}
 ---
 
 ## Paradigm Shift To Phoenix Criteria

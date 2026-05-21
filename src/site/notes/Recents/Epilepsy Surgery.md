@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"uptext":"Back to Index (🔬Recent Advances)","uplink":"/recents/","dg-path":"recents/epilepsy-surgery","permalink":"/recents/epilepsy-surgery/","dgPassFrontmatter":true}
+{"dg-publish":true,"uptext":"Back to Index (🔬Recent Advances)","uplink":"/Recents/","dg-path":"Recents/epilepsy-surgery","permalink":"/recents/epilepsy-surgery/","dgPassFrontmatter":true}
 ---
 
 ## Introduction And Patient Selection

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"uptext":"Back to Index (🔬Recent Advances)","uplink":"/recents/","dg-path":"recents/HFOV-updates","permalink":"/recents/hfov-updates/","dgPassFrontmatter":true}
+{"dg-publish":true,"uptext":"Back to Index (🔬Recent Advances)","uplink":"/Recents/","dg-path":"Recents/HFOV-updates","permalink":"/recents/hfov-updates/","dgPassFrontmatter":true}
 ---
 
 ## Introduction And Pathophysiological Rationale

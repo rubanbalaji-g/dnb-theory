@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"uptext":"Back to Index (🔬Recent Advances)","uplink":"/recents/","dg-path":"recents/telerehabilation","permalink":"/recents/telerehabilation/","dgPassFrontmatter":true}
+{"dg-publish":true,"uptext":"Back to Index (🔬Recent Advances)","uplink":"/Recents/","dg-path":"Recents/telerehabilation","permalink":"/recents/telerehabilation/","dgPassFrontmatter":true}
 ---
 
 ## Definition And Neurobiological Rationale

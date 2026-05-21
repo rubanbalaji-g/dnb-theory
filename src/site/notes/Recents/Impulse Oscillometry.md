@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"uptext":"Back to Index (🔬Recent Advances)","uplink":"/recents/","dg-path":"recents/impulse-oscillometry","permalink":"/recents/impulse-oscillometry/","dgPassFrontmatter":true}
+{"dg-publish":true,"uptext":"Back to Index (🔬Recent Advances)","uplink":"/Recents/","dg-path":"Recents/impulse-oscillometry","permalink":"/recents/impulse-oscillometry/","dgPassFrontmatter":true}
 ---
 
 ## Clinical Rationale And Mechanism

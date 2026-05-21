@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"uptext":"Back to Index (🔬Recent Advances)","uplink":"/recents/","dg-path":"recents/probiotics-NEC","permalink":"/recents/probiotics-nec/","dgPassFrontmatter":true}
+{"dg-publish":true,"uptext":"Back to Index (🔬Recent Advances)","uplink":"/Recents/","dg-path":"Recents/probiotics-NEC","permalink":"/recents/probiotics-nec/","dgPassFrontmatter":true}
 ---
 
 ## Introduction and Pathophysiological Rationale

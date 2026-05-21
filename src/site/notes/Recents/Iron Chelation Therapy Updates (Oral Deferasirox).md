@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"uptext":"Back to Index (🔬Recent Advances)","uplink":"/recents/","dg-path":"recents/iron-chelation-updates","permalink":"/recents/iron-chelation-updates/","dgPassFrontmatter":true}
+{"dg-publish":true,"uptext":"Back to Index (🔬Recent Advances)","uplink":"/Recents/","dg-path":"Recents/iron-chelation-updates","permalink":"/recents/iron-chelation-updates/","dgPassFrontmatter":true}
 ---
 
 ## Pathophysiological Basis and Pharmacological Profile

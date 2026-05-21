@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"uptext":"Back to Index (🔬Recent Advances)","uplink":"/recents/","dg-path":"recents/ECMO","permalink":"/recents/ecmo/","dgPassFrontmatter":true}
+{"dg-publish":true,"uptext":"Back to Index (🔬Recent Advances)","uplink":"/Recents/","dg-path":"Recents/ECMO","permalink":"/recents/ecmo/","dgPassFrontmatter":true}
 ---
 
 ## Introduction And Core Principles
