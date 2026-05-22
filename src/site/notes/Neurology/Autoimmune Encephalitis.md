@@ -106,12 +106,14 @@ _Note: Alternative causes must be reasonably excluded for all categories._
     - Unknown immune mechanism; T-cell mediated suspicion.
     - Features: Progressive refractory [[Neurology/Focal seizures\|focal seizures]], cognitive decline, progressive unilateral hemispheric atrophy.
     - Management: Functional hemispherectomy. Poor response to standard immunotherapy.
-- **Opsoclonus-Myoclonus Ataxia Syndrome (OMAS):**
+- **[[Neurology/Common Movement Disorders in Children#^OMAS2\|Opsoclonus-Myoclonus Ataxia Syndrome ]](OMAS):**
+{ #OMAS1}
+
     - Autoimmune B-cell trafficking disorder.
     - Features: Subacute irritability, tremor, ataxia, chaotic eye movements (opsoclonus).
     - Tumor Association: [[Hematology/Neuroblastoma\|Neuroblastoma]] (~40% cases).
     - Treatment: ACTH, IVIG, Rituximab, tumor resection.
-- **Basal Ganglia Encephalitis:**
+- **Basal Ganglia Encephalitis:** 
     - Infrequent Dopamine-2 Receptor (D2R) antibodies.
     - Features: Dystonia, chorea, parkinsonism, psychosis.
     - MRI: Basal ganglia T2/FLAIR abnormalities (normal in 50%).

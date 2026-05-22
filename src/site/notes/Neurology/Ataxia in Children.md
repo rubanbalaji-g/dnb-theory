@@ -2,10 +2,10 @@
 {"dg-publish":true,"uplink":"/neurology/neurology/","uptext":"Back to Index (Neurology)","permalink":"/neurology/ataxia-in-children/","dgPassFrontmatter":true}
 ---
 
-### I. Enumeration of Causes of Ataxia
-[[Neurology/Ataxia in Children\|Ataxia in children]] is classified based on the temporal course: Acute, Episodic, or Chronic.
+## I. Enumeration of Causes of Ataxia
+Ataxia in children is classified based on the temporal course: Acute, Episodic, or Chronic.
 
-#### A. Acute Ataxia (Most Common Presentation)
+### A. Acute Ataxia (Most Common Presentation)
 1.  **Infectious / Post-Infectious (Commonest):**
     * **[[Neurology/Acute Cerebellar Ataxia\|Acute Cerebellar Ataxia]] (ACA):** Post-viral (Varicella, Mumps, EBV, Coxsackie).
     * **Cerebellitis:** Direct viral invasion.
@@ -25,7 +25,7 @@
     * **Tumor:** Acute presentation of posterior fossa tumor (Medulloblastoma) due to hemorrhage or [[Neurology/Hydrocephalus\|hydrocephalus]].
 5.  **Otogenic:** Labyrinthitis, Benign Paroxysmal Vertigo.
 
-#### B. Acute Recurrent / Episodic Ataxia
+### B. Acute Recurrent / Episodic Ataxia
 1.  **[[Neurology/Migraine\|Migraine]]:** Basilar [[Neurology/Migraine\|Migraine]], Benign Paroxysmal Vertigo of Childhood.
 2.  **Metabolic:**
     * [[Metabolic Disorders/Maple Syrup Urine Disease\|Maple Syrup Urine Disease]] (MSUD).
@@ -34,7 +34,7 @@
 3.  **Genetic/Channelopathies:** Episodic Ataxia Type 1 and 2.
 4.  **Epileptic:** Non-convulsive status epilepticus (pseudo-ataxia).
 
-#### C. Chronic / Progressive Ataxia
+### C. Chronic / Progressive Ataxia
 1.  **Congenital Malformations:** [[Neurology/Dandy-Walker Malformation\|Dandy-Walker Malformation]], Chiari Malformation, Cerebellar Hypoplasia.
 2.  **Hereditary:**
     * **Friedreich’s Ataxia (FRDA).**
@@ -45,15 +45,15 @@
 
 ---
 
-### II. Investigations for Acute Onset Ataxia
+## II. Investigations for Acute Onset Ataxia
 The goal is to differentiate benign self-limiting causes (ACA, intoxication) from life-threatening ones (Tumor, Stroke, [[Neurology/ADEM\|ADEM]]).
 
-#### 1. First-Line Investigations (Emergency)
+### 1. First-Line Investigations (Emergency)
 * **Toxicology Screen:** Urine and blood screen for benzodiazepines, alcohol, anticonvulsant levels (if patient is on AEDs).
 * **Glucose & Electrolytes:** Rule out hypoglycemia and hyponatremia.
 * **Infection Screen:** CBC, CRP (Suggestion of viral vs bacterial etiology).
 
-#### 2. Neuroimaging (MRI Brain)
+### 2. Neuroimaging (MRI Brain)
 * **Indication:** Mandatory if there is altered sensorium, focal neurologic deficits, signs of raised ICP, asymmetry of ataxia, or history of trauma.
 * **Modality:** **MRI Brain with contrast** is superior to CT for posterior fossa visualization.
 * **Findings to Look For:**
@@ -62,29 +62,29 @@ The goal is to differentiate benign self-limiting causes (ACA, intoxication) fro
     * *Stroke:* Ischemic/Hemorrhagic changes.
     * *Cerebellitis:* Swelling/hyperintensity of cerebellar hemispheres.
 
-#### 3. Cerebrospinal Fluid (LP)
+### 3. Cerebrospinal Fluid (LP)
 * **Indication:** Suspected [[Neurology/Meningitis\|meningitis]], encephalitis, GBS, or [[Neurology/ADEM\|ADEM]] (after excluding raised ICP).
 * **Findings:**
     * *ACA:* Mild lymphocytic pleocytosis, slightly elevated protein.
     * *GBS:* Albuminocytologic dissociation (High protein, normal cells).
     * *[[Neurology/ADEM\|ADEM]]:* Pleocytosis, Oligoclonal bands (variable).
 
-#### 4. Specific Ancillary Tests (Based on Clinical Suspicion)
+### 4. Specific Ancillary Tests (Based on Clinical Suspicion)
 * **Urine VMA/HVA:** Screening for **[[Hematology/Neuroblastoma\|Neuroblastoma]]** in any child with Opsoclonus-Myoclonus (dancing eyes/feet).
 * **Metabolic Workup:** Ammonia, Lactate, ABG (if ataxia is precipitated by fever/high protein load or recurrent).
 * **EEG:** If non-convulsive status is suspected (fluctuating responsiveness).
 
 ---
 
-### III. Treatment of Acute Onset Ataxia
+## III. Treatment of Acute Onset Ataxia
 Management depends entirely on the underlying etiology.
 
-#### 1. General Supportive Care
+### 1. General Supportive Care
 * **Safety:** Gait assistance to prevent falls/injury.
 * **Hydration:** Maintain IV fluids if vomiting is present (common in cerebellar pathology).
 * **Observation:** Monitor GCS and signs of raised ICP.
 
-#### 2. Etiology-Specific Management
+### 2. Etiology-Specific Management
 * **[[Neurology/Acute Cerebellar Ataxia\|Acute Cerebellar Ataxia]] (ACA):**
     * **Course:** Benign and self-limiting.
     * **Tx:** Reassurance. Spontaneous recovery occurs in weeks to months. Steroids are generally *not* indicated unless swelling causes [[Neurology/Hydrocephalus\|hydrocephalus]].

@@ -59,7 +59,9 @@ Movement disorders are neurological conditions characterized by an abnormality i
 * **Types:**
     * **Physiologic:** Hypnic jerks (sleep starts).
     * **Epileptic:** Juvenile Myoclonic Epilepsy (JME), [[Infectious Diseases/SSPE\|SSPE]] (Subacute Sclerosing Panencephalitis).
-    * **Opsoclonus-Myoclonus Syndrome:** "Dancing eyes, dancing feet" (Paraneoplastic - [[Hematology/Neuroblastoma\|Neuroblastoma]]).
+    * **[[Neurology/Autoimmune Encephalitis#^OMAS1\|Opsoclonus-Myoclonus Ataxia Syndrome ]]** "Dancing eyes, dancing feet" (Parayneoplastic - [[Hematology/Neuroblastoma\|Neuroblastoma]]).
+{ #OMAS2}
+
 
 #### F. Stereotypies
 * **Definition:** Rhythmic, repetitive, fixed, purposeless movements.

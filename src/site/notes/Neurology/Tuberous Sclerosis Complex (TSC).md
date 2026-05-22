@@ -51,7 +51,7 @@ Based on the clinical features listed below, the certainty of the diagnosis is c
 
 *(*Note: LAM and AML together count as only one Major feature if no other features exist).*
 
-### Management of [[Neurology/Tuberous Sclerosis Complex (TSC)\|Tuberous Sclerosis Complex (TSC)]]
+### Management of Tuberous Sclerosis Complex (TSC)
 
 #### 1. General Principles
 * **Multidisciplinary Approach:** Requires coordination between neurology, nephrology, cardiology, dermatology, and genetics.
