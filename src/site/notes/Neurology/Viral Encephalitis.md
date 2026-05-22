@@ -98,13 +98,13 @@
 
 - MRI is imaging modality of choice. Fluid-attenuation inversion recovery (FLAIR) and diffusion-weighted sequences are extremely sensitive for early detection. More sensitive than CT.
 
-|Virus|Characteristic MRI Findings|
-|:--|:--|
-|**HSV**|Bilateral/unilateral temporal lobes, inferior frontal cortex, insula. Hemorrhagic/necrotic lesions.|
-|**JEV / Arboviruses**|Basal ganglia, thalamus (characteristic "Panda sign" in Midbrain).|
-|**VZV**|Ischemic, hemorrhagic infarctions, small infarcts mixed with demyelinating lesions (vasculitis).|
-|**Nipah Virus**|Discrete focal lesions in subcortical and deep white matter.|
-|**Enterovirus**|Hyperintense signals in brainstem (rhombencephalitis).|
+| Virus                 | Characteristic MRI Findings                                                                         |
+| :-------------------- | :-------------------------------------------------------------------------------------------------- |
+| **HSV**               | Bilateral/unilateral temporal lobes, inferior frontal cortex, insula. Hemorrhagic/necrotic lesions. |
+| **JEV / Arboviruses** | Basal ganglia, thalamus (characteristic "Panda sign" in Midbrain).                                  |
+| **VZV**               | Ischemic, hemorrhagic infarctions, small infarcts mixed with demyelinating lesions (vasculitis).    |
+| **Nipah Virus**       | Discrete focal lesions in subcortical and deep white matter.                                        |
+| **Enterovirus**       | Hyperintense signals in brainstem (rhombencephalitis).                                              |
 
 ### Electroencephalography (EEG)
 
