@@ -4,7 +4,7 @@
 
 ## Definition And Epidemiology
 
-- [[Neuromuscular/Paralytic Poliomyelitis\|Paralytic poliomyelitis]] is an acute viral infectious disease caused by the wild poliovirus that selectively destroys the anterior horn cells of the spinal cord and brain stem.
+- Paralytic poliomyelitis is an acute viral infectious disease caused by the wild poliovirus that selectively destroys the anterior horn cells of the spinal cord and brain stem.
 - It presents as a characteristic [[Neuromuscular/Acute Flaccid Paralysis\|Acute Flaccid Paralysis]] (AFP) syndrome.
 - Only 1-2% of individuals infected with the poliovirus develop paralytic disease.
 - Historically in India, the median age at onset was 18 months, with peak transmission occurring between July and September.
@@ -30,7 +30,7 @@
 
 ## Differential Diagnosis
 
-[[Neuromuscular/Paralytic Poliomyelitis\|Paralytic poliomyelitis]] must be differentiated from other causes of [[Neuromuscular/Acute Flaccid Paralysis\|Acute Flaccid Paralysis]].
+Paralytic poliomyelitis must be differentiated from other causes of [[Neuromuscular/Acute Flaccid Paralysis\|Acute Flaccid Paralysis]].
 
 ### Distinguishing Features Of [[Neuromuscular/Acute Flaccid Paralysis\|Acute Flaccid Paralysis]] Etiologies
 

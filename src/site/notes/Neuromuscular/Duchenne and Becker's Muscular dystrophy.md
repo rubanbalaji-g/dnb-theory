@@ -74,9 +74,7 @@ Duchenne Muscular Dystrophy (DMD) and Becker Muscular Dystrophy (BMD) are dystro
 
 ### Diagnostic Algorithm
 
-[[Statistics/Index\|Index]] Patient -> DNA (gene deletion screening via PCR/MLPA) -> If No Gene Deletion -> Southern Blot or Duplication analysis -> Haplotypic analysis -> Muscle Immunohistochemistry / Western blot -> Confirms diagnosis and enables detection of point mutation.
-
-## Management
+Index Patient -> DNA (gene deletion screening via PCR/MLPA) -> If No Gene Deletion -> Southern Blot or Duplication analysis -> Haplotypic analysis -> Muscle Immunohistochemistry / Western blot -> Confirms diagnosis and enables detection of point mutation.
 
 ### Pharmacotherapy
 
@@ -96,7 +94,7 @@ Duchenne Muscular Dystrophy (DMD) and Becker Muscular Dystrophy (BMD) are dystro
     - DEXA scan annually, along with serum calcium and vitamin D monitoring.
 - **Nutrition:** Low-fat diet to prevent obesity, which hampers ambulation and complicates care.
 
-### Newer Therapies
+### Newer Therapies #recents
 
 - **Exon Skipping:** Antisense oligonucleotides targeting Exon 45, 51, and 53.
 - **Stop Codon Read-Through:** Ataluren.

@@ -72,7 +72,7 @@
 
 ## Exocrine Pancreas & Drug-Induced Diabetes
 
-### Cystic Fibrosis-Related Diabetes (CFRD)
+### [[Respiratory/Cystic Fibrosis\|Cystic Fibrosis]]-Related Diabetes (CFRD)
 
 - Progressive islet amyloid deposition and fibrosis.
 - Impaired first-phase insulin secretion; concurrent insulin resistance during pulmonary exacerbations.

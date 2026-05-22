@@ -15,7 +15,7 @@
 
 ## Types of Continuous Glucose Monitoring Systems
 
-- **Retrospective or Blinded CGM:** These devices collect continuous glucose data without displaying it to the patient in real time. They are primarily utilized by healthcare providers over a short duration to identify occult glycemic patterns, assist with complex diagnoses (such as cystic fibrosis-related diabetes), and guide targeted insulin adjustments.
+- **Retrospective or Blinded CGM:** These devices collect continuous glucose data without displaying it to the patient in real time. They are primarily utilized by healthcare providers over a short duration to identify occult glycemic patterns, assist with complex diagnoses (such as [[Respiratory/Cystic Fibrosis\|cystic fibrosis]]-related diabetes), and guide targeted insulin adjustments.
 - **Real-Time CGM (rtCGM):** These systems continuously display the interstitial glucose concentration to the user, accompanied by trend arrows and customizable real-time alarms for predetermined high and low glucose thresholds.
 - **Intermittently Scanned CGM (isCGM / Flash Glucose Monitoring):** Unlike rtCGM, these systems do not constantly display glucose readings or provide automatic alarms. Instead, the user must actively hold a reader or a compatible smartphone close to the sensor to retrieve the current glucose level and the retrospective data curve.
 - **Implantable Sensors:** A newer class of long-term implantable subcutaneous real-time sensors has been approved for up to 3 to 6 months of continuous wear, offering an alternative to standard transcutaneous sensors that typically require replacement every 6 to 14 days.

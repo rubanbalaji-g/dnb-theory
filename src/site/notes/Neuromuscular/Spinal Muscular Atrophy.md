@@ -4,7 +4,7 @@
 
 ## Definition And Pathophysiology
 
-- [[Neuromuscular/Spinal Muscular Atrophy\|Spinal muscular atrophy]] (SMA) is a progressive, degenerative disease of the motor neurons beginning in fetal life or infancy.
+- Spinal muscular atrophy (SMA) is a progressive, degenerative disease of the motor neurons beginning in fetal life or infancy.
 - The disease is characterized by symmetrical muscular atrophy resulting from the degeneration of anterior horn cells in the spinal cord and brain stem nuclei.
 - When brain stem involvement predominates, it is termed <span style="color:rgb(115, 247, 238)">Fazio-Londe disease.</span>
 - It is a lower motor neuron disorder that selectively spares upper motor neurons, extraocular muscles, and sphincters in most cases.
@@ -13,12 +13,12 @@
 
 ## Epidemiology
 
-- [[Neuromuscular/Spinal Muscular Atrophy\|Spinal muscular atrophy]] is the most common genetic disorder affecting anterior horn cells in children.
+- Spinal muscular atrophy is the most common genetic disorder affecting anterior horn cells in children.
 - It is the second most frequent autosomal recessive disorder after [[Respiratory/Cystic Fibrosis\|cystic fibrosis]].
 - The incidence is estimated at 1 in 6000 to 10000 live births, with a carrier frequency of approximately 1 in 40 to 60.
 
 ## Genetics And Molecular Basis
-
+![](https://i.ibb.co/Y78GdWbp/image.png)
 - Inheritance is autosomal recessive, caused by a homozygous deletion or mutation in the survival motor neuron 1 (_SMN1_) gene on chromosome 5q13.2.
 - The _SMN1_ gene codes for a full-length, functional SMN protein required for motor neuron survival.
 - The SMN complex plays a role in the formation of small nuclear ribonucleoproteins, essential for pre-mRNA splicing in motor neurons.
@@ -41,7 +41,7 @@ The disease is classified into five types based on the age of onset and maximum 
 
 ## Differential Diagnosis
 
-[[Neuromuscular/Spinal Muscular Atrophy\|Spinal muscular atrophy]] type 1 and 2 present as [[Neuromuscular/Approach to a floppy infant\|floppy infant]] syndrome with profound weakness.
+Spinal muscular atrophy type 1 and 2 present as [[Neuromuscular/Approach to a floppy infant\|floppy infant]] syndrome with profound weakness.
 
 |Category|Examples|Distinguishing Features|
 |:--|:--|:--|
@@ -82,11 +82,11 @@ The disease is classified into five types based on the age of onset and maximum 
 
 Recent advances target the underlying genetic defect, significantly altering the natural history of the disease.
 
-|Drug Name|Mechanism Of Action|Route And Dosing|Target Population And Adverse Events|
-|:--|:--|:--|:--|
-|**Nusinersen (Spinraza)**|Antisense oligonucleotide (ASO). Modifies _SMN2_ pre-mRNA splicing to promote inclusion of exon 7, producing full-length functional SMN protein.|Intrathecal. Loading doses followed by maintenance doses every 4 months.|Approved for all SMA types and ages. Adverse events include lumbar puncture-related issues, thrombocytopenia, and proteinuria.|
-|**Onasemnogene Abeparvovec (Zolgensma)**|Gene replacement therapy. Utilises adeno-associated viral vector (AAV9) to deliver a fully functional copy of the _SMN1_ gene into motor neurons.|Intravenous. Single, one-time dose.|Approved for children $\le$ 2 years of age. Adverse events include liver enzyme elevation, asymptomatic thrombocytopenia, and rare [[Gastrointestinal/Acute Liver Failure\|acute liver failure]].|
-|**Risdiplam (Evrysdi)**|Small molecule splice modifier. Orally bioavailable compound promoting exon 7 inclusion in _SMN2_ pre-mRNA.|Oral. Administered daily.|Approved for patients $\ge$ 2 months of age. Adverse events include fever, diarrhea, rash, and oral ulcers.|
+| Drug Name                                        | Mechanism Of Action                                                                                                                               | Route And Dosing                                                         | Target Population And Adverse Events                                                                                                                        |
+| :----------------------------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------ | :----------------------------------------------------------------------- | :---------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Nusinersen (Spinraza)**                        | Antisense oligonucleotide (ASO). Modifies _SMN2_ pre-mRNA splicing to promote inclusion of exon 7, producing full-length functional SMN protein.  | Intrathecal. Loading doses followed by maintenance doses every 4 months. | Approved for all SMA types and ages. Adverse events include lumbar puncture-related issues, thrombocytopenia, and proteinuria.                              |
+| **Onasemnogene Abeparvovec (Zolgensma)** #recent | Gene replacement therapy. Utilises adeno-associated viral vector (AAV9) to deliver a fully functional copy of the _SMN1_ gene into motor neurons. | Intravenous. Single, one-time dose.                                      | Approved for children $\le$ 2 years of age. Adverse events include liver enzyme elevation, asymptomatic thrombocytopenia, and rare [[Gastrointestinal/Acute Liver Failure\|acute liver failure]]. |
+| **Risdiplam (Evrysdi)**                          | Small molecule splice modifier. Orally bioavailable compound promoting exon 7 inclusion in _SMN2_ pre-mRNA.                                       | Oral. Administered daily.                                                | Approved for patients $\ge$ 2 months of age. Adverse events include fever, diarrhea, rash, and oral ulcers.                                                 |
 
 ## Prognosis And Genetic Counseling
 

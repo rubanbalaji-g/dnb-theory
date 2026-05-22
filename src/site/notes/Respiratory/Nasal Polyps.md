@@ -6,7 +6,8 @@
 * **Definition:** Non-neoplastic, pedunculated, edematous hypertrophy of the nasal or sinus mucosa.
 * **Characteristics:** Typically pale, pearly white, glistening, **insensate** (pain-free on probing), and **non-tender**.
 * **Pediatric Rule:** While common in adults, polyps are **rare** in children <10 years.
-    * *Red Flag:* The presence of bilateral ethmoidal polyps in a child necessitates a work-up for **[[Respiratory/Cystic Fibrosis\|Cystic Fibrosis]]**.
+> [!red] 🚩 Red Flag:
+> The presence of bilateral ethmoidal polyps in a child necessitates a work-up for **[[Respiratory/Cystic Fibrosis\|Cystic Fibrosis]]**.
 
 ## II. Classification
 Broadly classified into two types based on origin and presentation.
@@ -51,7 +52,7 @@ Broadly classified into two types based on origin and presentation.
     * **AFRS:** "Double density" sign (central hyperdensity due to fungal elements).
 ## VI. Differential Diagnosis (The "Dangerous" Polyps)
 Before biopsy/surgery in a child, rule out:
-1.  **Meningocele/Encephalocele:** Pulsatile, cough impulse (+), reducible. *Do not biopsy!*
+1.  **Meningocele/Encephalocele:** Pulsatile, cough impulse (+), reducible. <span style="color:rgb(255, 138, 117)">Do not biopsy!</span>
 2.  **Juvenile Nasopharyngeal Angiofibroma (JNA):** Adolescent male, bleeds profusely on touch.
 3.  **[[Hematology/Rhabdomyosarcoma\|Rhabdomyosarcoma]]:** Rapidly growing, destructive.
 

@@ -5,7 +5,7 @@
 ## Introduction and Mechanism of Action
 
 - Elexacaftor/tezacaftor/ivacaftor (ETI) constitutes a highly effective CFTR modulator triple therapy (HEMT).
-- It shifts Cystic Fibrosis (CF) from a progressive fatal disease to a manageable chronic condition by directly addressing the underlying misfolded protein defect.
+- It shifts [[Respiratory/Cystic Fibrosis\|Cystic Fibrosis]] (CF) from a progressive fatal disease to a manageable chronic condition by directly addressing the underlying misfolded protein defect.
 
 |Modulator|Pharmacological Role|
 |:--|:--|

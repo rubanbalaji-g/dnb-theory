@@ -4,7 +4,7 @@
 
 ## Introduction and Clinical Utility
 
-- Autoimmune encephalitis (AE) is a critical, treatable cause of acute encephalopathy, frequently overlapping with acute encephalitis syndrome (AES).
+- [[Neurology/Autoimmune Encephalitis\|Autoimmune encephalitis]] (AE) is a critical, treatable cause of acute encephalopathy, frequently overlapping with acute encephalitis syndrome (AES).
 - Biomarkers are essential to confirm definite AE, differentiate from viral or metabolic encephalopathies (like PANS/PANDAS), guide targeted immunotherapy, and track therapeutic response.
 
 ## Routine Cerebrospinal Fluid (CSF) and Neuroinflammatory Markers

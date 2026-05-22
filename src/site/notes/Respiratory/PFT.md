@@ -2,8 +2,6 @@
 {"dg-publish":true,"uplink":"/respiratory/respiratory-system/","uptext":"Back to Index (🫁Respiratory System)","permalink":"/respiratory/pft/","dgPassFrontmatter":true}
 ---
 
-# Pulmonary Function Tests (PFTs) and Clinical Utility
-
 ## I. Introduction
 Pulmonary Function Tests are a group of non-invasive diagnostic tests that assess the functional status of the respiratory system by measuring airflow, lung volumes, and gas exchange.
 

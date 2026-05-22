@@ -14,7 +14,7 @@
 - Occurs 1–3 weeks post-precipitating viral illness or immunization.
 - Triggers cross-reactive immune response to infectious agent or vaccine.
 - Initiates inflammatory demyelinating response.
-- Autoantibodies to Myelin Basic Protein (MBP) and Myelin Oligodendrocyte Glycoprotein (MOG) detected in CSF/serum. MOG-Ab present in ~50% of affected children.
+- Autoantibodies to **Myelin Basic Protein (MBP)** and **Myelin Oligodendrocyte Glycoprotein (MOG)** detected in CSF/serum. MOG-Ab present in ~50% of affected children.
 
 ### Common Triggers
 
@@ -47,10 +47,11 @@
 
 ### Neuroimaging
 
-- **MRI Brain/Spine:** Modality of choice. Multiple hyperintensities on T2/FLAIR images.
-- Lesions large, fluffy, poorly demarcated.
-- Involves cerebral white matter, basal ganglia, cortical grey matter, brainstem, cerebellum, and spinal cord.
-- Contrast enhancement variable.
+- **MRI Brain/Spine:** Modality of choice. 
+	- Multiple hyperintensities on T2/FLAIR images.
+	- Lesions large, fluffy, poorly demarcated.
+	- Involves cerebral white matter, basal ganglia, cortical grey matter, brainstem, cerebellum, and spinal cord.
+	- Contrast enhancement variable.
 - **CT Scan:** Multiple hypodensities in white matter; may enhance with contrast.
 - **Follow-up MRI:** Complete/near-complete resolution typical at 3–12 months. No new lesions expected.
 
@@ -66,7 +67,7 @@
 - [[Neurology/Viral Encephalitis\|Viral Encephalitis]].
 - Multiple Sclerosis (MS).
 
-### [[Neurology/ADEM\|ADEM]] vs. Multiple Sclerosis (MS)
+### ADEM vs. Multiple Sclerosis (MS)
 
 |Feature|[[Neurology/ADEM\|ADEM]]|Multiple Sclerosis (MS)|
 |:--|:--|:--|

@@ -133,7 +133,6 @@ Often associated with Pancreatic Sufficiency and milder lung disease.
 - Management of complications: [[Respiratory/Pneumothorax\|Pneumothorax]], Hemoptysis (Bronchial artery embolization).
 - Lung Transplantation (End-stage).
 ### Non pulmonary management
-**Non-Pulmonary Complication Management in CF**
 
 **1. Gastrointestinal & Nutritional Management**
 * **Pancreatic Insufficiency (PI):**

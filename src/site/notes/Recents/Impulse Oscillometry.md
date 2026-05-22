@@ -32,7 +32,7 @@
 
 - **Asthma And Wheezing:** IOS detects peripheral airway obstruction and small-airway dysfunction frequently missed by the traditional FEV1 metric. Abnormal IOS parameters at age 4 firmly predict active asthma and impaired lung capacity by school age.
 - **Intra-Breath Analysis:** Advanced temporal resolution within respiratory cycles links early lower respiratory infections to elevated end-inspiratory resistance.
-- **Other Pulmonary Disorders:** IOS accurately diagnoses reversible obstruction in early Bronchopulmonary Dysplasia (BPD) and highlights distinct reactance abnormalities in Primary Ciliary Dyskinesia (PCD) compared to Cystic Fibrosis (CF).
+- **Other Pulmonary Disorders:** IOS accurately diagnoses reversible obstruction in early Bronchopulmonary Dysplasia (BPD) and highlights distinct reactance abnormalities in Primary Ciliary Dyskinesia (PCD) compared to [[Respiratory/Cystic Fibrosis\|Cystic Fibrosis]] (CF).
 
 ## Society Guidelines And Indian Implementation
 

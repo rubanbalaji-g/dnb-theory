@@ -26,7 +26,7 @@
 |Intraluminal Obstruction|Foreign body aspiration (especially right lower lobe), bronchial stenosis, endobronchial tumors.|
 |Extraluminal Compression|Vascular rings, enlarged lymph nodes (Tuberculosis, Histoplasmosis), mediastinal cysts.|
 |Aspiration Syndromes|Gastroesophageal reflux disease, oropharyngeal dysphagia, tracheoesophageal fistula.|
-|Immune And Genetic Disorders|Cystic fibrosis, primary ciliary dyskinesia, sickle cell disease, severe combined immunodeficiency.|
+|Immune And Genetic Disorders|[[Respiratory/Cystic Fibrosis\|Cystic fibrosis]], primary ciliary dyskinesia, sickle cell disease, severe combined immunodeficiency.|
 ## Clinical Nuances And Pathogen Indicators
 
 ### Location-Specific Recurrence
@@ -38,11 +38,11 @@
 ### Diffuse Or Multilobar Recurrence
 
 - Recurrence involving varying lung locations indicates an underlying systemic immunologic or genetic condition.
-- This pattern points toward primary immunodeficiency, HIV infection, cystic fibrosis, or primary ciliary dyskinesia.
+- This pattern points toward primary immunodeficiency, HIV infection, [[Respiratory/Cystic Fibrosis\|cystic fibrosis]], or primary ciliary dyskinesia.
 
 ### Microbiological Clues
 
-- Isolation of _Pseudomonas aeruginosa_ or _Burkholderia cepacia_ strongly correlates with cystic fibrosis.
+- Isolation of _Pseudomonas aeruginosa_ or _Burkholderia cepacia_ strongly correlates with [[Respiratory/Cystic Fibrosis\|cystic fibrosis]].
 - Recurrent encapsulated bacterial infections highlight potential humoral immune defects.
 - Opportunistic organisms indicate severe cellular immunodeficiency or advanced HIV/AIDS.
 
@@ -52,7 +52,7 @@
 
 - A detailed history must assess for choking events, greasy stools, or chronic ear discharge.
 - Basic investigations include a complete blood count, chest radiograph, and Mantoux test.
-- Sweat chloride testing acts as the gold standard for cystic fibrosis and should be performed in all cases of recurrent pneumonia.
+- Sweat chloride testing acts as the gold standard for [[Respiratory/Cystic Fibrosis\|cystic fibrosis]] and should be performed in all cases of recurrent pneumonia.
 - An immunoglobulin profile and HIV serology assess for primary and secondary humoral immunity defects.
 
 ### Anatomic And Functional Evaluation (Phase 2)
@@ -81,7 +81,7 @@
 |Etiology|Specific Management|
 |---|---|
 |Foreign Body|Rigid bronchoscopy for definitive therapeutic removal.|
-|Cystic Fibrosis|Nebulized hypertonic saline, dornase alfa, azithromycin, pancreatic enzymes, and CFTR modulators.|
+|[[Respiratory/Cystic Fibrosis\|Cystic Fibrosis]]|Nebulized hypertonic saline, dornase alfa, azithromycin, pancreatic enzymes, and CFTR modulators.|
 |Immune Deficiency|Intravenous immunoglobulin replacement and prophylactic antibiotics.|
 |Gastroesophageal Reflux|Thickened feeds, positioning, proton pump inhibitors, or surgical fundoplication.|
 |Anatomic Defect|Surgical resection of localized lesions like pulmonary sequestration or congenital cysts.|

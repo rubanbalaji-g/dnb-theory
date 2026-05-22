@@ -4,10 +4,10 @@
 
 ## Definition
 
-- [[Neuromuscular/Toxic Neuropathy\|Toxic neuropathy]] refers to peripheral nerve damage resulting from exposure to chemicals, toxins, heavy metals, industrial agents, biologic neurotoxins, or medications. 
+- Toxic neuropathy refers to peripheral nerve damage resulting from exposure to chemicals, toxins, heavy metals, industrial agents, biologic neurotoxins, or medications. 
 - It typically manifests as axonal degeneration or primary demyelination. 
 - It is distinct from other peripheral neuropathies due to its direct association with an identifiable exposure history. 
-- In pediatric practice, [[Neuromuscular/Toxic Neuropathy\|toxic neuropathy]] is less common than in adults, but it is frequently seen following exposure to prescribed medications (especially chemotherapy), environmental chemicals, or occupational hazards in developing regions.
+- In pediatric practice, toxic neuropathy is less common than in adults, but it is frequently seen following exposure to prescribed medications (especially chemotherapy), environmental chemicals, or occupational hazards in developing regions.
 
 ## Etiology And Classification
 
@@ -25,23 +25,23 @@
 
 ### Chemotherapy Agents Associated With Neuropathy
 
-|Drug Class|Specific Agent|Typical Neuropathy Pattern|Additional Notes|
-|:--|:--|:--|:--|
-|**Platinum Compounds**|Oxaliplatin, Cisplatin|Pure sensory with ataxia|Cisplatin causes coasting (continued worsening 2-3 months post-cessation) and ototoxicity|
-|**Taxanes**|Paclitaxel, Docetaxel|Predominantly sensory, often painful|Acute arthralgia and myalgia occur in 10-30% of patients|
-|**Vinca Alkaloids**|Vincristine|Distal weakness and sensory symptoms|Autonomic involvement is highly common|
-|**Proteasome Inhibitors**|Bortezomib|Painful, small-fiber predominant sensory|Autonomic involvement and non-length-dependent patterns may occur|
-|**Immune Checkpoint Inhibitors**|Nivolumab, Pembrolizumab|Acute or subacute polyradiculoneuropathy|Usually respond well to corticosteroid therapy|
+| Drug Class                       | Specific Agent           | Typical Neuropathy Pattern               | Additional Notes                                                                          |
+| :------------------------------- | :----------------------- | :--------------------------------------- | :---------------------------------------------------------------------------------------- |
+| **Platinum Compounds**           | Oxaliplatin, Cisplatin   | Pure sensory with ataxia                 | Cisplatin causes coasting (continued worsening 2-3 months post-cessation) and ototoxicity |
+| **Taxanes**                      | Paclitaxel, Docetaxel    | Predominantly sensory, often painful     | Acute arthralgia and myalgia occur in 10-30% of patients                                  |
+| **Vinca Alkaloids**              | Vincristine              | Distal weakness and sensory symptoms     | Autonomic involvement is highly common                                                    |
+| **Proteasome Inhibitors**        | Bortezomib               | Painful, small-fiber predominant sensory | Autonomic involvement and non-length-dependent patterns may occur                         |
+| **Immune Checkpoint Inhibitors** | Nivolumab, Pembrolizumab | Acute or subacute polyradiculoneuropathy | Usually respond well to corticosteroid therapy                                            |
 
 ### Other Medications Associated With Neuropathy
 
-|Drug Category|Specific Agents|Typical Neuropathy Pattern|Key Notes|
-|:--|:--|:--|:--|
-|**Immunosuppressants**|Tumor necrosis factor inhibitors, Calcineurin inhibitors|Acute or subacute polyradiculoneuropathy|Calcineurin inhibitors exclusively reported in posttransplant patients|
-|**Antibiotics**|Linezolid, Metronidazole, Nitrofurantoin, Dapsone|Painful length-dependent sensory axonal, or motor-predominant|Often dose-dependent with prolonged courses|
-|**Antituberculosis Drugs**|Isoniazid, Ethambutol|Sensory predominant axonal|Isoniazid toxicity is prevented with Pyridoxine (Vitamin B6) supplementation|
-|**Cardiac Drugs**|Amiodarone|Distal predominant sensorimotor with ataxia|Associated with tremor, cerebellar ataxia, and optic neuropathy|
-|**Vitamins**|Pyridoxine (Vitamin B6) Excess|Sensory ganglionopathy with profound ataxia|Due to prominent large-fiber loss; caused by massive multivitamin supplementation|
+| Drug Category              | Specific Agents                                          | Typical Neuropathy Pattern                                    | Key Notes                                                                         |
+| :------------------------- | :------------------------------------------------------- | :------------------------------------------------------------ | :-------------------------------------------------------------------------------- |
+| **Immunosuppressants**     | Tumor necrosis factor inhibitors, Calcineurin inhibitors | Acute or subacute polyradiculoneuropathy                      | Calcineurin inhibitors exclusively reported in posttransplant patients            |
+| **Antibiotics**            | Linezolid, Metronidazole, Nitrofurantoin, Dapsone        | Painful length-dependent sensory axonal, or motor-predominant | Often dose-dependent with prolonged courses                                       |
+| **Antituberculosis Drugs** | Isoniazid, Ethambutol                                    | Sensory predominant axonal                                    | Isoniazid toxicity is prevented with Pyridoxine (Vitamin B6) supplementation      |
+| **Cardiac Drugs**          | Amiodarone                                               | Distal predominant sensorimotor with ataxia                   | Associated with tremor, cerebellar ataxia, and optic neuropathy                   |
+| **Vitamins**               | Pyridoxine (Vitamin B6) Excess                           | Sensory ganglionopathy with profound ataxia                   | Due to prominent large-fiber loss; caused by massive multivitamin supplementation |
 
 ## Pathophysiology
 

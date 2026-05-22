@@ -24,7 +24,7 @@
 - **Paraneoplastic:** Tumors expressing target neuronal antigens provoke immune response.
     - Frequent in adolescents/adults; rare in prepubertal children.
 - **Post-infectious/Viral:** Viral illnesses alter immune tolerance and increase blood-brain barrier permeability.
-    - Implicated agents: _Herpes simplex virus_ (HSV), _Mycoplasma pneumoniae_, Human herpesvirus 6 (HHV-6), Enterovirus, Influenza, [[Infectious Diseases/COVID-19\|COVID-19]], [[Infectious Diseases/Japanese Encephalitis\|Japanese encephalitis]].
+    - Implicated agents: <span style="color:rgb(255, 138, 117)">Herpes simplex virus</span>(HSV), _Mycoplasma pneumoniae_, Human herpesvirus 6 (HHV-6), Enterovirus, Influenza, [[Infectious Diseases/COVID-19\|COVID-19]], [[Infectious Diseases/Japanese Encephalitis\|Japanese encephalitis]].
     - Classical post-viral complication: Choreoathetosis post-HSV encephalitis (represents anti-NMDAR encephalitis triggered by HSV).
 
 ## DIAGNOSTIC CRITERIA
@@ -32,11 +32,11 @@
 - Rapid symptom onset (typically <3 months).
 - Classified into Possible, Probable Antibody-Negative, and Definite Antibody-Positive categories.
 
-|Diagnostic Category|Required Clinical Features|Paraclinical Evidence Required|Serology Requirement|
-|:--|:--|:--|:--|
-|**Possible AE**|Onset $\le$ 3 months in previously healthy child. $\ge$ 2 features: Altered mental status, focal deficits, cognitive decline, acute regression, movement disorder, psychiatric symptoms, unexplained seizures.|Not strictly required for initial suspicion.|Not available/required.|
-|**Probable Antibody-Negative AE**|Same as Possible AE.|$\ge$ 1 feature: CSF pleocytosis/oligoclonal bands, MRI encephalitis features, Brain biopsy showing inflammation.|Negative for known autoantibodies.|
-|**Definite Antibody-Positive AE**|Same as Possible AE.|Not required if CSF antibody positive. If only serum positive, $\ge$ 1 paraclinical marker required.|Positive for well-characterized autoantibodies.|
+| Diagnostic Category               | Required Clinical Features                                                                                                                                                                                                  | Paraclinical Evidence Required                                                                                         | Serology Requirement                            |
+| :-------------------------------- | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :--------------------------------------------------------------------------------------------------------------------- | :---------------------------------------------- |
+| **Possible AE**                   | • Onset $\le$ 3 months in previously healthy child. <br>• $\ge$ 2 features:  <br>Altered mental status, focal deficits, cognitive decline, acute regression, movement disorder, psychiatric symptoms, unexplained seizures. | Not strictly required for initial suspicion.                                                                           | Not available/ required.                        |
+| **Probable Antibody-Negative AE** | Same as Possible AE.                                                                                                                                                                                                        | $\ge$ 1 feature: <br>CSF pleocytosis/ oligoclonal bands, MRI encephalitis features, Brain biopsy showing inflammation. | Negative for known autoantibodies.              |
+| **Definite Antibody-Positive AE** | Same as Possible AE.                                                                                                                                                                                                        | Not required if CSF antibody positive. If only serum positive, $\ge$ 1 paraclinical marker required.                   | Positive for well-characterized autoantibodies. |
 
 _Note: Alternative causes must be reasonably excluded for all categories._
 
@@ -61,7 +61,7 @@ _Note: Alternative causes must be reasonably excluded for all categories._
 #### Investigations in NMDAR Encephalitis
 
 - **CSF:** Lymphocytic pleocytosis, increased protein (80% of cases). Superior sensitivity for NMDAR antibodies compared to serum (100% vs 85%).
-- **EEG:** Abnormal in almost all patients. Focal/diffuse delta-theta slowing. "Extreme delta brush" pattern characteristic (30% adults, less frequent in children).
+- **EEG:** Abnormal in almost all patients. Focal/diffuse delta-theta slowing. "<span style="color:rgb(255, 138, 117)">Extreme delta brush</span>" pattern characteristic (30% adults, less frequent in children).
 - **MRI:** Abnormal in ~35%. Nonspecific cortical/subcortical T2-FLAIR hyperintensities.
 - **Tumor Screening:** Ovarian teratoma in 40% of females >12 years. Rare in young children. Screen via abdominal/pelvic ultrasound or MRI.
 
@@ -77,11 +77,11 @@ _Note: Alternative causes must be reasonably excluded for all categories._
 
 - Inflammatory process of limbic system (medial temporal lobes, amygdala, cingulate gyri).
 - **LGI1 Antibodies (Leucine-rich glioma-inactivated 1):**
-    - Adults: Hyponatremia, faciobrachial dystonic seizures.
+    - Adults: **Hyponatremia, faciobrachial dystonic seizures**.
     - Children: Extremely rare. Lacks classic adult symptoms.
 - **Caspr2 Antibodies (Contactin-associated protein-like 2):**
     - Features: Encephalopathy, neuromyotonia, sleep disorders (Morvan syndrome).
-    - Children: Flaccid paresis, hypertensive encephalopathy, palmoplantar erythema/eczema. No tumor association.
+    - Children: Flaccid paresis, **hypertensive encephalopathy, palmoplantar erythema/eczema**. No tumor association.
 
 ### Specific Autoimmune Syndromes and Antibodies
 
@@ -134,11 +134,11 @@ Differentiating AE from other etiologies is critical due to rapid treatment impl
 
 - **Neuroimaging (MRI Brain):**
     - Modality of choice. Findings vary by subtype.
-    - Limbic encephalitis: Bilateral medial temporal lobe abnormalities.
-    - GABA-A Encephalitis: Multifocal corticosubcortical hyperintensities.
+    - **Limbic encephalitis**: Bilateral medial temporal lobe abnormalities.
+    - **GABA-A Encephalitis**: Multifocal corticosubcortical hyperintensities.
     - Often normal or nonspecific in NMDAR encephalitis.
 - **Cerebrospinal Fluid (CSF) Analysis:**
-    - Essential for identifying autoantibodies. CSF more sensitive than serum for specific antibodies (e.g., NMDAR).
+    - Essential for identifying autoantibodies. CSF more sensitive than serum for specific antibodies (e.g., NMDAR). 
     - Typical profile: Mild/moderate lymphocytic pleocytosis, normal to elevated protein, normal glucose, possible oligoclonal bands.
 - **Electroencephalogram (EEG):**
     - Rule out nonconvulsive status epilepticus.

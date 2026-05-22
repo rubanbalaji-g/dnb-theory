@@ -35,7 +35,7 @@
 
 - Measures the Lung Clearance Index to identify ventilation inhomogeneity.
 - Multicenter trials report success rates exceeding 92 percent in the preschool demographic.
-- An elevated Lung Clearance Index (greater than 7.5 to 8.0) accurately predicts persistent wheezing and cystic fibrosis progression before spirometric changes occur.
+- An elevated Lung Clearance Index (greater than 7.5 to 8.0) accurately predicts persistent wheezing and [[Respiratory/Cystic Fibrosis\|cystic fibrosis]] progression before spirometric changes occur.
 
 ## Advances In Preschool Spirometry
 

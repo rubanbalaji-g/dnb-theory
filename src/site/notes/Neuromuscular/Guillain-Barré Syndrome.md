@@ -4,7 +4,7 @@
 
 ## Introduction & Epidemiology
 
-[[Neuromuscular/Guillain-Barré Syndrome\|Guillain-Barré Syndrome]] (GBS) represents an acute, severe, fulminant polyradiculoneuropathy of autoimmune origin.
+Guillain-Barré Syndrome (GBS) represents an acute, severe, fulminant polyradiculoneuropathy of autoimmune origin.
 
 - Acquired, post-infectious demyelinating disease involving peripheral nervous system.
 - Primarily affects motor nerves; sensory and autonomic nerves frequently involved.
@@ -70,7 +70,8 @@ Infection precedes onset in ~70% of cases by 1–3 weeks.
 
 - **Paresthesia:** Distal tingling dysesthesias frequent in extremities.
 - **Sensory Deficits:** Cutaneous sensory deficits (pain/temperature) typically mild. Large sensory fiber functions (proprioception, vibration) more severely affected.
-- **Pain:** Back, neck, shoulder, or diffuse spinal pain present early in ~50% of cases. Deep aching pain in weakened muscles resembles severe overexertion. Dysesthesia extremity pain prominent.
+- **Pain:** Back, neck, shoulder, or diffuse spinal pain present early in ~50% of cases. Deep aching pain in weakened muscles resembles severe overexertion. 
+- Dysesthesia extremity pain prominent.
 
 ### Autonomic Manifestations
 

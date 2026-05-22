@@ -111,7 +111,7 @@
 ## Differential Diagnosis
 
 - Recurrent pneumonia should be considered if there are $\ge$ 2 episodes per year or $\ge$ 3 episodes in a lifetime with radiographic clearing between episodes.
-- Hereditary causes include cystic fibrosis and sickle cell disease.
+- Hereditary causes include [[Respiratory/Cystic Fibrosis\|cystic fibrosis]] and sickle cell disease.
 - Immunodeficiency disorders like HIV, chronic granulomatous disease, and severe combined immunodeficiency present similarly.
 - Ciliary disorders such as primary ciliary dyskinesia should be excluded.
 - Anatomic malformations include pulmonary sequestration and congenital pulmonary airway malformations.

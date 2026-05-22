@@ -56,13 +56,13 @@
 
 ## Differential Diagnosis
 
-|Feature|[[Neurology/Viral Encephalitis\|Viral Encephalitis]]|Encephalopathy (Metabolic/Toxic)|
-|:--|:--|:--|
-|**Pathology**|Infectious inflammation of neurons.|Non-infectious generalized dysfunction.|
-|**Causes**|Viral direct invasion.|Hypoglycemia, diabetic ketoacidosis, hepatic/renal failure, toxins, Reye's syndrome.|
-|**CSF**|Pleocytosis present.|Normal. No pleocytosis.|
-|**Neuroimaging**|Focal changes on MRI.|Non-focal, generalized changes.|
-|**EEG**|Focal slowing or discharges (e.g., PLEDs).|Generalized slowing. No focal features.|
+| Feature          | Viral Encephalitis                         | Encephalopathy (Metabolic/Toxic)                                                     |
+| :--------------- | :----------------------------------------- | :----------------------------------------------------------------------------------- |
+| **Pathology**    | Infectious inflammation of neurons.        | Non-infectious generalized dysfunction.                                              |
+| **Causes**       | Viral direct invasion.                     | Hypoglycemia, diabetic ketoacidosis, hepatic/renal failure, toxins, Reye's syndrome. |
+| **CSF**          | Pleocytosis present.                       | Normal. No pleocytosis.                                                              |
+| **Neuroimaging** | Focal changes on MRI.                      | Non-focal, generalized changes.                                                      |
+| **EEG**          | Focal slowing or discharges (e.g., PLEDs). | Generalized slowing. No focal features.                                              |
 
 - **Other Differentials:** Acute Pyogenic [[Neurology/Meningitis\|Meningitis]], Tuberculous [[Neurology/Meningitis\|Meningitis]], [[Infectious Diseases/Cerebral Malaria\|Cerebral Malaria]], [[Neurology/ADEM\|ADEM]], Mass lesions, CNS Vasculitis.
 
@@ -78,13 +78,13 @@
 
 - Lumbar Puncture (LP) mandatory unless contraindicated (raised Intracranial Pressure/papilledema).
 
-|Parameter|Finding in [[Neurology/Viral Encephalitis\|Viral Encephalitis]]|Remarks|
-|:--|:--|:--|
-|**Gross Appearance**|Clear to turbid.|Hemorrhagic/bloody in HSE or acute necrotizing hemorrhagic leukoencephalitis.|
-|**Pressure**|Normal or slightly elevated.||
-|**Cells**|Mild-moderate pleocytosis (5-1,000 cells/mm3).|Initially polymorphonuclear, later lymphocytic.|
-|**Glucose**|Normal ratio (>50% of blood sugar).|Hypoglycorrhachia (low glucose) seen in mumps, or HSE (5-25%).|
-|**Protein**|Mildly elevated (0.5 - 1.0 g/L).||
+| Parameter            | Finding in Viral Encephalitis                  | Remarks                                                                       |
+| :------------------- | :--------------------------------------------- | :---------------------------------------------------------------------------- |
+| **Gross Appearance** | Clear to turbid.                               | Hemorrhagic/bloody in HSE or acute necrotizing hemorrhagic leukoencephalitis. |
+| **Pressure**         | Normal or slightly elevated.                   |                                                                               |
+| **Cells**            | Mild-moderate pleocytosis (5-1,000 cells/mm3). | Initially polymorphonuclear, later lymphocytic.                               |
+| **Glucose**          | Normal ratio (>50% of blood sugar).            | Hypoglycorrhachia (low glucose) seen in mumps, or HSE (5-25%).                |
+| **Protein**          | Mildly elevated (0.5 - 1.0 g/L).               |                                                                               |
 
 - _Correction for Bloody Tap:_ Subtract 1 WBC per 700 RBCs, and 0.1 g/dL protein per 1000 RBCs.
 
@@ -145,7 +145,7 @@
 
 ### Role of Corticosteroids
 
-- Controversial in routine [[Neurology/Viral Encephalitis\|viral encephalitis]].
+- Controversial in routine viral encephalitis.
 - Efficacious in VZV encephalitis (reduces vasculitic component), [[Neurology/ADEM\|ADEM]], and in management of severe cerebral edema.
 
 ## Prognosis and Rehabilitation

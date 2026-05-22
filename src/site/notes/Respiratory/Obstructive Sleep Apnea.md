@@ -42,12 +42,12 @@
 
 ### Anatomical Predisposing Factors
 
-|Anatomical Region|Specific Factors|
-|---|---|
-|Nasal|Anterior nasal stenosis, choanal stenosis/atresia, deviated septum, perennial rhinitis, nasal polyps.|
-|Nasopharyngeal And Oropharyngeal|Adenotonsillar hypertrophy, macroglossia, cystic hygroma, pharyngeal mass lesions, cleft palate repair.|
-|Craniofacial|Micrognathia, retrognathia, midface hypoplasia (Trisomy 21, Crouzon syndrome), mandibular hypoplasia (Pierre Robin).|
-|Skeletal And Storage Diseases|Achondroplasia, glycogen storage diseases, Hunter syndrome, Hurler syndrome.|
+| Anatomical Region                | Specific Factors                                                                                                     |
+| -------------------------------- | -------------------------------------------------------------------------------------------------------------------- |
+| Nasal                            | Anterior nasal stenosis, choanal stenosis/atresia, deviated septum, perennial rhinitis, nasal polyps.                |
+| Nasopharyngeal And Oropharyngeal | Adenotonsillar hypertrophy, macroglossia, cystic hygroma, pharyngeal mass lesions, cleft palate repair.              |
+| Craniofacial                     | Micrognathia, retrognathia, midface hypoplasia (Trisomy 21, Crouzon syndrome), mandibular hypoplasia (Pierre Robin). |
+| Skeletal And Storage Diseases    | Achondroplasia, glycogen storage diseases, Hunter syndrome, Hurler syndrome.                                         |
 
 ## Epidemiology
 

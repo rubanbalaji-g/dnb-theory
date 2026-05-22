@@ -23,7 +23,15 @@ The relationship is best understood by plotting Lung Volume (Y-axis) against Tra
 ## III. Pediatric Specifics: The "Floppy" Chest Wall
 In infants and young children, this relationship differs significantly from adults.
 
-![Pasted image 20260328182328.png](/img/user/+%C4%B0mages/Pasted%20image%2020260328182328.png)
+| Feature                                   | Child                                                                           | Adult                                                                 |
+| :---------------------------------------- | :------------------------------------------------------------------------------ | :-------------------------------------------------------------------- |
+| **Airway cartilage formation**            | Incomplete                                                                      | Complete                                                              |
+| **Airway resistance**                     | Greater increase in airway resistance with reduction in airway radius           | Smaller increase in airway resistance with reduction in airway radius |
+| **Chest-wall compliance**                 | Greater compliance in view of incomplete ribcage ossification                   | Less compliant in view of ribcage ossification                        |
+| **Alveolar maturation and impact on FRC** | 20–300 million alveoli (age-dependent); lower FRC                               | 300 million mature alveoli; higher FRC                                |
+| **Respiratory muscle reserve**            | More reliant on diaphragm                                                       | Less reliant on diaphragm                                             |
+| **Risk of pulmonary vascular remodeling** | Greater due to higher pulmonary vascular resistance during perinatal transition | Lower                                                                 |
+| **Metabolic requirements**                | Higher                                                                          | Lower                                                                 |
 ### 1. High Chest Wall Compliance
 * The pediatric chest wall is **highly compliant** ("floppy") due to cartilaginous ribs and weak musculature.
 * **Result:** The outward elastic recoil (spring-out force) of the chest wall is **very weak**.

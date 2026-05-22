@@ -4,67 +4,133 @@
 
 ## Definition And Epidemiology
 
-- Charcot-Marie-Tooth (CMT) disease is the most common hereditary neuropathy.
+- Charcot-Marie-Tooth disease is the most common hereditary neuropathy.
 - It is the most common peripheral neuropathy overall in children.
-- Classified as a primary hereditary neuropathy affecting the peripheral nerves (lower motor neuron unit).
+- It is classified as a primary hereditary neuropathy affecting the peripheral nerves.
+- The disease primarily affects the lower motor neuron unit.
+- It is also referred to as hereditary motor sensory neuropathy.
+- The overall prevalence of the most common demyelinating variant is approximately 3.8 cases per 100,000 population.
+- It accounts for more than 50 percent of all hereditary motor sensory neuropathy cases.
 
 ## Clinical Manifestations
 
-- **Onset And Course**: Insidious onset with a slowly progressive course over years.
-- **Motor Symptoms**:
-	- Predominantly distal weakness and wasting.
-	- Progressive gait difficulties and frequent falls due to twisting of ankles.
-	- 'Stork leg' appearance resulting from marked thinning of the lower legs.
-	- Upper limb involvement includes atrophy of thenar and hypothenar muscles along with clawing of fingers.
-- **Sensory Symptoms**: Prominent sensory signs are present in the absence of sensory symptoms.
-- **Skeletal Deformities**: Foot deformities are a hallmark and prominent clinical feature.
-- **Reflexes**: Hyporeflexia or completely depressed deep tendon reflexes due to lower motor neuron involvement.
-- **Family History**: A positive family history is a critical clue pointing towards an inherited neuropathy.
+### Onset And Progression
 
-## Classification And Electrophysiology
+- The disease has an insidious onset.
+- It follows a slowly progressive course over many years.
+- Most patients remain asymptomatic until late childhood or early adolescence.
+- Young children sometimes manifest gait disturbances as early as the second year of life.
 
-CMT presents as a polyneuropathy (involvement of $\ge$ 2 nerves). It is evaluated and classified primarily using electrophysiological studies (Nerve Conduction Studies and Electromyography).
+### Motor Symptoms
 
-- [[Neuromuscular/Charcot-Marie-Tooth Disease\|Charcot-Marie-Tooth disease]] types 1 and 3 are classical examples of demyelinating hereditary neuropathies.
-- Electrophysiological studies provide objective data to distinguish demyelinating forms of CMT from axonal forms.
 
-### Electrophysiological Characteristics Of Neuropathies
+- Weakness predominantly affects the distal muscles.
+- The peroneal and tibial nerves are the earliest and most severely affected.
+- Affected children are often described as being clumsy.
+- They experience progressive gait difficulties, frequent falls, and tripping over their own feet.
+- Progressive weakness of ankle dorsiflexion leads to eventual foot drop.
+- The lower legs develop marked thinning, leading to a classic 'stork leg' appearance.
+- This unique atrophy is also described as an 'inverted champagne bottle' appearance.
+![|right|200](https://i.ibb.co/wZRb7kd1/photo-3.jpg)
+- Upper limb involvement occurs later in the disease course.
+- This includes atrophy of the thenar and hypothenar muscles.
+- Advanced cases demonstrate clawing of the fingers and contractures of the wrists.
+- Proximal muscle weakness is a late manifestation and is usually mild.
 
-|Compound Muscle Action Potential Property|Demyelinating Pattern (e.g., CMT 1 & 3)|Axonal Pattern|
-|:--|:--|:--|
-|**Distal Latency**|Increased|Normal|
-|**Conduction Velocity**|Decreased|Normal|
-|**Amplitude**|Normal|Decreased|
-|**Conduction Block**|Present (in acquired causes)|Absent|
-|**Temporal Dispersion**|Present (in acquired causes)|Absent|
-## Diagnosis
+### Sensory And Autonomic Symptoms
 
-- **Clinical Evaluation**: Detailed history identifying insidious distal weakness, foot deformities, and family history.
-- **Electrophysiological Studies**: Nerve Conduction Velocity (NCV) and Electromyography (EMG) determine if the abnormality is axonal or demyelinating.
-- **Genetic Testing**: Useful and necessary for confirming the exact genetic diagnosis and subtype of CMT.
+- Prominent sensory signs are present even in the absence of prominent sensory symptoms.
+- Sensory involvement mainly affects large, myelinated nerve fibers.
+- This leads to a loss of proprioceptive information and vibratory sense.
+- The threshold for pain and temperature can also increase.
+- Children may complain of tingling or burning sensations in the feet, but pain is rare.
+- Autonomic manifestations may be expressed as poor vasomotor control.
+- This can lead to blotching or pallor of the skin of the feet and inappropriately cold feet.
+
+### Associated Features
+
+- Pes cavus foot deformities are a hallmark and prominent clinical feature.
+- Hammer toe deformities are also commonly observed.
+- Deep tendon reflexes are hyporeflexic or completely depressed due to lower motor neuron involvement.
+- Reflexes are typically lost distally.
+- Peripheral nerves often become palpably enlarged at an early age.
+- A positive family history is a critical clue pointing towards an inherited neuropathy.
+
+## Classification And Genetics
+
+- The disease exhibits vast genetic heterogeneity with more than 140 genes implicated.
+- The classification is broadly divided into demyelinating, axonal, and severe infantile forms.
+
+|Disease Subtype|Inheritance Pattern|Gene Or Locus|Pathophysiology And Clinical Features|
+|---|---|---|---|
+|**Charcot-Marie-Tooth 1A**|Autosomal dominant|Duplication at 17p11.2 (PMP22)|Most common subtype (70% of CMT1). Uniform conduction velocity slowing below 38 m/s. Demyelinating pattern.|
+|**Charcot-Marie-Tooth 1B**|Autosomal dominant|Mutation at 1q21-q23 (MPZ)|Demyelinating pattern. Gene product is myelin protein zero.|
+|**Charcot-Marie-Tooth 2A**|Autosomal dominant|Mutation at 1p36 (MFN2)|Most common axonal form. Relatively normal nerve conduction velocities. Predominantly reduced action potential amplitudes.|
+|**Charcot-Marie-Tooth 3 (Dejerine-Sottas)**|Autosomal dominant or recessive|17p11.2 (PMP22) or 1q21-q23 (MPZ)|Severe demyelinating form. Onset in infancy or the first year of life. Very low motor conduction velocity.|
+|**Charcot-Marie-Tooth 4**|Autosomal recessive|Multiple genes (e.g. GDAP1)|Childhood onset. Usually severe presentation. Contains both demyelinating and axonal types.|
+|**Charcot-Marie-Tooth X**|X-linked dominant or recessive|Mutation at Xq13 (Connexin 32)|Axonal and demyelinating features. Males are more severely affected. Central nervous system involvement is common.|
+
+## Diagnostic Evaluation
+
+### Clinical And Electrophysiological Studies
+
+- A detailed clinical history is required to identify insidious distal weakness, foot deformities, and familial patterns.
+- Electrophysiological studies, including nerve conduction velocity and electromyography, are the primary modalities to classify the disease.
+- These studies provide objective data to distinguish demyelinating forms from axonal forms.
+
+| Electrophysiological Property  | Demyelinating Pattern (e.g. CMT 1 and 3) | Axonal Pattern (e.g. CMT 2) |
+| ------------------------------ | ---------------------------------------- | --------------------------- |
+| **Distal Latency**             | Increased (prolonged).                   | Normal.                     |
+| **Conduction Velocity**        | Decreased (reduced).                     | Normal.                     |
+| **Action Potential Amplitude** | Normal.                                  | Decreased (reduced).        |
+| **Conduction Block**           | Absent in hereditary forms.              | Absent.                     |
+| **Temporal Dispersion**        | Absent in hereditary forms.              | Absent.                     |
+### Genetic And Histological Testing
+
+- Genetic testing is useful and necessary for confirming the exact genetic diagnosis and subtype.
+- The definitive molecular genetic diagnosis may easily be made using a blood sample.
+- A sural nerve biopsy is diagnostic and reserved for cases where genetic testing is inconclusive.
+- Biopsies of demyelinating forms reveal characteristic onion bulb formations.
+- These formations represent cycles of demyelination and remyelination using Toluidine blue staining.
+- This pathologic finding is termed interstitial hypertrophic neuropathy.
+- Biopsies of axonal forms reveal axonal degeneration rather than primary demyelination.
+- The cerebrospinal fluid protein may be elevated, but no cells appear in the fluid.
 
 ## Differential Diagnosis
 
-[[Neuromuscular/Charcot-Marie-Tooth Disease\|Charcot-Marie-Tooth disease]] must be differentiated from other acquired and hereditary causes of peripheral neuropathy and [[Neuromuscular/Acute Flaccid Paralysis\|acute flaccid paralysis]].
+- Distinguishing Charcot-Marie-Tooth disease from other acute and chronic neuropathies is essential.
 
-### Clinical Clues To Differentiate Common Neuropathies
+|Condition|Distinguishing Clinical Features|
+|---|---|
+|**Friedreich Ataxia**|Shows areflexia and distal weakness similar to Charcot-Marie-Tooth disease. Differentiated by clear ataxia, loss of joint position sense, and a sensory neuropathy pattern on neurophysiology.|
+|**Guillain-Barré Syndrome**|Acute onset over hours to days. Presents with ascending, bilaterally symmetrical flaccid weakness. Frequently has an antecedent infectious trigger.|
+|**Chronic Inflammatory Demyelinating Polyneuropathy**|Subacute to chronic progression. Involves both proximal and distal weakness. Concomitant sensory loss is present.|
+|**Spinal Muscular Atrophy**|Presents with tongue fasciculations and polyminimyoclonus. Face is relatively spared. Sensory pathways are unaffected.|
 
-|Condition|Onset, Duration And Progression|Pattern Of Weakness|Associated Features|
-|:--|:--|:--|:--|
-|**Hereditary Neuropathies (CMT)**|Insidious onset, gradually progressive over years|Distal more than proximal|Muscle atrophy, prominent foot deformities|
-|**[[Neuromuscular/Guillain-Barré Syndrome\|Guillain-Barré Syndrome]] (GBS)**|Acute onset|Ascending, bilaterally symmetrical flaccid weakness|Predominantly distal, antecedent infection|
-|**Chronic Inflammatory Demyelinating Polyneuropathy (CIDP)**|Subacute to chronic|Both proximal and distal weakness|Concomitant sensory loss|
+## Management And Genetic Counseling
 
-### Etiological Differentials For Peripheral Neuropathies
+- Supportive care remains the standard of therapy for this disease.
+- There is currently no effective specific pharmacologic or genetic treatment available in clinical practice.
 
-|Category|Examples|
-|:--|:--|
-|**Primary Hereditary Neuropathies**|Hereditary neuropathy with liability to pressure palsies, Hereditary sensory and [[Neuromuscular/Autonomic Neuropathies\|autonomic neuropathies]] (HSAN), Distal hereditary motor neuropathies, Hereditary neuralgic amyotrophy.|
-|**Multisystem Hereditary Disorders**|Leukodystrophies, Krabbe disease, Adrenoleukodystrophy, Metachromatic leukodystrophy, Porphyria, Ataxia telangiectasia, Friedrich ataxia.|
-|**Acquired Polyneuropathies**|[[Neuromuscular/Guillain-Barré Syndrome\|Guillain-Barré syndrome]], CIDP, [[Infectious Diseases/Diphtheria\|Diphtheria]], Toxic neuropathies (e.g., arsenic, lead, chemotherapy drugs), Vitamin B12 or E deficiency.|
-## Management And Counseling
+### Physical Therapy And Orthotics
 
-- **Supportive Care**: Supportive care remains the standard of therapy for CMT.
-- **Physical Therapy**: Regular physical therapy is required to maintain mobility, prevent contractures, and manage the progressive distal weakness.
-- **Orthopedic Intervention**: Bracing, orthotics, or surgical management may be required for severe foot deformities ('stork leg') and hand deformities (clawing of fingers).
-- **Genetic Counseling**: Genetic counseling must be offered to the patient’s family to discuss inheritance patterns, recurrence risks, and prenatal diagnosis options.
+- Regular physical therapy is required to maintain mobility.
+- It is crucial for preventing contractures and managing progressive distal weakness.
+- Progressive resistance exercise for foot dorsiflexion may attenuate the progression of weakness.
+- The lower legs should be protected from traumatic injury.
+- Orthotic appliances are frequently required to stabilize the ankles and support ambulation.
+- Stiff boots that extend to the midcalf often suffice in the early stages of the disease.
+- Lightweight plastic splints, which can be worn inside socks, are custom-made to extend beneath the foot and around the back of the ankle.
+- External short-leg braces or ankle-foot orthotics may be required when foot drop becomes complete.
+
+### Pharmacological And Surgical Interventions
+
+- Burning paresthesias of the feet are uncommon but can be abolished by administering phenytoin, carbamazepine, or gabapentin.
+- Compression neuropathy during sleep may be prevented by placing soft pillows beneath or between the lower legs.
+- Severe foot deformities and hand deformities may require surgical management.
+- Soft tissue release, bony foot surgery, or surgical fusion of the ankle may be considered in cases of progressive foot deformity.
+
+### Counseling
+
+- Genetic counseling must be offered to the patient’s family.
+- Discussions should cover inheritance patterns, recurrence risks, and options for prenatal diagnosis.
