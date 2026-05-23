@@ -90,7 +90,7 @@ Minerals in human milk have high bioavailability despite lower absolute concentr
 
 ### Bioactive and Immunological Factors
 
-Human milk is a "living fluid" containing cells and bioactive molecules that provide [[Infectious Diseases/Passive Immunity\|passive immunity]] and modulate development.
+Human milk is a "living fluid" containing cells and bioactive molecules that provide [[Infectious Diseases/Immunology/Passive Immunity\|Passive Immunity]] and modulate development.
 
 - **Cellular Components:** Macrophages (predominant), T and B lymphocytes, and neutrophils.
 - **Enzymes:**

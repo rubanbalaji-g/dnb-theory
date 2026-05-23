@@ -39,7 +39,7 @@ _Table adapted from the National Guidelines on Rabies Prophylaxis_
 
 ### 2. Passive Immunization: Rabies Immunoglobulin (RIG)
 
-- RIG provides immediate [[Infectious Diseases/Passive Immunity\|passive immunity]] via ready-made anti-rabies antibodies before the child's own immune system can mount a response to the vaccine.
+- RIG provides immediate [[Infectious Diseases/Immunology/Passive Immunity\|Passive Immunity]] via ready-made anti-rabies antibodies before the child's own immune system can mount a response to the vaccine.
 - It is strictly indicated for all Category III exposures and for Category II exposures in immune-compromised individuals.
 - Equine Rabies Immunoglobulin (ERIG): Administered at a dose of $40 \text{ IU/kg}$ body weight.
 - Human Rabies Immunoglobulin (HRIG): Administered at a dose of $20 \text{ IU/kg}$ body weight.

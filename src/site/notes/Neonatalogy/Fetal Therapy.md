@@ -111,7 +111,7 @@ Involves maternal laparotomy and hysterotomy. Highest risk to mother (uterine ru
 
 ---
 
-## 8. FUTURE DIRECTIONS: GENE & [[Infectious Diseases/Stem Cell Therapy\|STEM CELL THERAPY]]
+## 8. FUTURE DIRECTIONS: GENE & [[Infectious Diseases/Immunology/Stem Cell Therapy\|Stem Cell Therapy]]
 * **In-Utero Stem Cell Transplantation (IUSCT):**
     * *Rationale:* Fetal immune tolerance allows engraftment without rejection.
     * *Potential:* Osteogenesis Imperfecta, [[Hematology/Thalassemia\|Thalassemia]], Sickle Cell.

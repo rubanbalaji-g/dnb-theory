@@ -189,7 +189,7 @@ graph LR
 
 ## Infectious Emergencies
 
-### [[Infectious Diseases/Febrile Neutropenia\|Febrile Neutropenia]]
+### [[Infectious Diseases/Immunology/Febrile Neutropenia\|Febrile Neutropenia]]
 
 - Definition: Absolute neutrophil count (ANC) <500/mm³ (or <1000/mm³ with expected decline) accompanied by fever >38.3°C orally or sustained >38.0°C.
 - Carries immediate risk of life-threatening sepsis, shock, [[Hematology/Disseminated Intravascular Coagulation\|disseminated intravascular coagulation]].

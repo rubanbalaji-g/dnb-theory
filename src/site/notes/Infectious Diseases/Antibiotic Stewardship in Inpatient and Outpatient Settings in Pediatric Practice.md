@@ -65,7 +65,7 @@ In the hospital setting, ASPs utilize specific strategies to influence prescribi
 ### 4.2. Supplemental Inpatient Interventions
 
 1. **Antibiotic "Time-Outs":** A clinician-led reassessment of antibiotic need after 48–72 hours. This prompts the team to ask: "Does this patient still need antibiotics? Can we narrow the spectrum?".
-2. **Facility-Specific Guidelines:** Developing local clinical practice guidelines for common conditions (e.g., community-acquired pneumonia, [[Infectious Diseases/Febrile Neutropenia\|febrile neutropenia]]) based on local antibiograms (susceptibility patterns).
+2. **Facility-Specific Guidelines:** Developing local clinical practice guidelines for common conditions (e.g., community-acquired pneumonia, [[Infectious Diseases/Immunology/Febrile Neutropenia\|Febrile Neutropenia]]) based on local antibiograms (susceptibility patterns).
 3. **IV to Oral Conversion:** transitioning patients to oral therapy when clinically stable reduces hospital stay, costs, and line-associated complications.
 4. **Dose Optimization:** Pharmacists ensure optimal dosing (e.g., extended infusions for beta-lactams) and therapeutic drug monitoring for vancomycin and aminoglycosides to ensure efficacy and minimize toxicity.
 5. **Diagnostic Stewardship:** Utilizing rapid diagnostic tests (e.g., PCR panels for blood cultures) to identify pathogens quickly, allowing faster de-escalation.

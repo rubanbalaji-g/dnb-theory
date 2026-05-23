@@ -20,14 +20,14 @@ Vaccine administration depends upon specific immune compartment defects.
 
 ### B-Lymphocyte Defects
 
-- Disorders include [[Infectious Diseases/X-Linked Agammaglobulinemia (XLA)\|X-linked agammaglobulinemia (XLA)]] and common variable immunodeficiency (CVID).
+- Disorders include [[Infectious Diseases/Immunology/X-Linked Agammaglobulinemia (XLA)\|X-Linked Agammaglobulinemia (XLA)]] and common variable immunodeficiency (CVID).
 - All live vaccines contraindicated.
 - Annual inactivated [[Misc/Influenza Vaccine\|influenza vaccine]] (IIV) recommended.
 - Protection primarily provided via immunoglobulin replacement therapy.
 
 ### T-Lymphocyte Defects
 
-- Disorders include [[Infectious Diseases/Severe Combined Immunodeficiency (SCID)\|severe combined immunodeficiency (SCID)]] and complete DiGeorge syndrome.
+- Disorders include [[Infectious Diseases/Immunology/Severe Combined Immunodeficiency (SCID)\|Severe Combined Immunodeficiency (SCID)]] and complete DiGeorge syndrome.
 - All live viral and bacterial vaccines absolutely contraindicated.
 - Inactivated vaccines deemed safe but often ineffective.
 - Partial DiGeorge syndrome permits age-appropriate inactivated vaccines; live vaccines considered if CD3+ >500/mm³ and CD8+ >200/mm³.

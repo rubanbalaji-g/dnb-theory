@@ -113,7 +113,7 @@ The management of [[Hematology/Acute Lymphoblastic Leukemia\|Acute Lymphoblastic
 
 - **[[Hematology/Tumor Lysis Syndrome\|Tumor Lysis Syndrome]] (TLS) Prevention:** Aggressive intravenous hydration (2-3 times maintenance). Administer Allopurinol (300 mg/m²/day) or Rasburicase (0.15-0.2 mg/kg/day IV) for high-risk patients (WBC >100,000/mm³). Monitor electrolytes meticulously.
 - **Infection Prophylaxis:** _Pneumocystis jirovecii_ prophylaxis (Trimethoprim-sulfamethoxazole) mandatory throughout therapy.
-- **[[Infectious Diseases/Febrile Neutropenia\|Febrile Neutropenia]] Management:** Prompt hospitalization. Immediate broad-spectrum intravenous antibiotics (covering pseudomonas). Add antifungals if fever persists beyond 3-5 days.
+- **[[Infectious Diseases/Immunology/Febrile Neutropenia\|Febrile Neutropenia]] Management:** Prompt hospitalization. Immediate broad-spectrum intravenous antibiotics (covering pseudomonas). Add antifungals if fever persists beyond 3-5 days.
 - **Transfusion Support:** Irradiated, leukoreduced, cytomegalovirus-safe packed red blood cells and platelets administered for severe anemia or thrombocytopenia.
 
 ### Phases Of Systemic Chemotherapy

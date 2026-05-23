@@ -23,7 +23,7 @@
 - Both C-reactive protein (CRP) and procalcitonin (PCT) are widely recognized as primary bacterial sepsis biomarkers.
 - They are employed in early clinical evaluations to confirm the presence of a bacterial infection and to help differentiate it from other non-infectious causes of systemic inflammation.
 - Procalcitonin, specifically, has been shown to be a highly useful marker of infection in critically ill pediatric patients, including those presenting with multiorgan involvement.
-- CRP is utilized as a vital acute-phase reactant in risk-stratification models; for example, a CRP level > 60 mg/L is assigned significant prognostic weight when identifying high-risk patients in conditions like [[Infectious Diseases/Febrile Neutropenia\|febrile neutropenia]].
+- CRP is utilized as a vital acute-phase reactant in risk-stratification models; for example, a CRP level > 60 mg/L is assigned significant prognostic weight when identifying high-risk patients in conditions like [[Infectious Diseases/Immunology/Febrile Neutropenia\|Febrile Neutropenia]].
 - Elevated levels of these inflammatory markers, especially when seen alongside a neutrophil-predominant leukocyte count > 20,000/mm³, provide strong evidence of an underlying medical catastrophe or severe sepsis.
 
 ### Superior Vena Caval Oxygen Saturation (ScvO2)

@@ -47,8 +47,8 @@ IFDs are predominantly opportunistic. Risk factors can be categorized by host im
 - **Malignancy:** Particularly [[Hematology/Acute Myeloid Leukemia\|Acute Myeloid Leukemia]] (AML) and relapsed [[Hematology/Acute Lymphoblastic Leukemia\|Acute Lymphoblastic Leukemia]] (ALL).
 - **Neutropenia:** Profound (<500 cells/mm³) and prolonged (>7–10 days) neutropenia is the single most significant risk factor for mold infections like Aspergillosis and Fusariosis.
 - **Primary Immunodeficiencies:**
-    - [[Infectious Diseases/Chronic Granulomatous Disease (CGD)\|Chronic Granulomatous Disease (CGD)]]: High risk for _Aspergillus_ and _Nocardia_.
-    - [[Infectious Diseases/Severe Combined Immunodeficiency (SCID)\|Severe Combined Immunodeficiency (SCID)]], DiGeorge syndrome.
+    - [[Infectious Diseases/Immunology/Chronic Granulomatous Disease (CGD)\|Chronic Granulomatous Disease (CGD)]]: High risk for _Aspergillus_ and _Nocardia_.
+    - [[Infectious Diseases/Immunology/Severe Combined Immunodeficiency (SCID)\|Severe Combined Immunodeficiency (SCID)]], DiGeorge syndrome.
     - STAT1 gain-of-function mutations (Chronic Mucocutaneous Candidiasis).
 - **Acquired Immunodeficiency:** HIV/AIDS (low CD4 counts predispose to _Cryptococcus_, _Pneumocystis_, _Histoplasma_).
 - **Metabolic Disorders:** Diabetic Ketoacidosis (DKA) and iron overload states are specific risk factors for **Mucormycosis**.
@@ -189,7 +189,7 @@ Management involves three pillars: Antifungal therapy, Source control, and Rever
     
     - High dose **TMP-SMX** + Corticosteroids (if hypoxic).
 
-### 3. Empiric Therapy in [[Infectious Diseases/Febrile Neutropenia\|Febrile Neutropenia]]
+### 3. Empiric Therapy in [[Infectious Diseases/Immunology/Febrile Neutropenia\|Febrile Neutropenia]]
 
 - Indicated for high-risk neutropenic patients with persistent fever (>96 hours) despite broad-spectrum antibiotics.
 - Caspofungin or Liposomal Amphotericin B are preferred. Voriconazole is avoided if used for prophylaxis.
@@ -213,7 +213,7 @@ Management involves three pillars: Antifungal therapy, Source control, and Rever
 - **PCP Prophylaxis:** **TMP-SMX** is the gold standard for all infants exposed to HIV until infection is ruled out, and for infected children with severe immunosuppression.
 - **Cryptococcus:** Screening for CrAg in adolescents with CD4 <100; Fluconazole prophylaxis in specific high-risk scenarios.
 
-### 4. [[Infectious Diseases/Chronic Granulomatous Disease (CGD)\|Chronic Granulomatous Disease (CGD)]]
+### 4. [[Infectious Diseases/Immunology/Chronic Granulomatous Disease (CGD)\|Chronic Granulomatous Disease (CGD)]]
 
 - Lifelong prophylaxis with **Itraconazole** or **Posaconazole** to prevent _Aspergillus_.
 

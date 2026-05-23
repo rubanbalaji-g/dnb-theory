@@ -108,7 +108,7 @@
 
 ## Conditions Contraindicating Splenectomy
 
-- [[Infectious Diseases/Autoimmune Lymphoproliferative Syndrome (ALPS)\|Autoimmune Lymphoproliferative Syndrome (ALPS)]]: Extremely high risk of fatal sepsis despite prophylaxis.
+- [[Infectious Diseases/Immunology/Autoimmune Lymphoproliferative Syndrome (ALPS)\|Autoimmune Lymphoproliferative Syndrome (ALPS)]]: Extremely high risk of fatal sepsis despite prophylaxis.
 - Hereditary Stomatocytosis and Hereditary Xerocytosis: High risk of severe venous thromboembolic complications post-surgery.
 - Paroxysmal Cold Hemoglobinuria and Cold Agglutinin Disease.
 - Hepatic cirrhosis with thrombocytopenia.

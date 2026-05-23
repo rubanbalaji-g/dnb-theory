@@ -51,7 +51,7 @@
 
 ## Challenges and Limitations
 
-- **Insertional Mutagenesis:** Integration of viral vectors near proto-oncogenes can trigger oncogenesis, such as leukemia observed in early [[Infectious Diseases/Severe Combined Immunodeficiency (SCID)\|severe combined immunodeficiency (SCID)]] trials,.
+- **Insertional Mutagenesis:** Integration of viral vectors near proto-oncogenes can trigger oncogenesis, such as leukemia observed in early [[Infectious Diseases/Immunology/Severe Combined Immunodeficiency (SCID)\|Severe Combined Immunodeficiency (SCID)]] trials,.
 - **Immunogenicity:** Pre-existing antibodies against viral vectors (like AAV) can neutralize the therapy. High-dose AAV can also trigger severe hepatotoxicity or thrombotic microangiopathy.
 - **Genotoxicity and Off-Target Effects:** Gene editing tools may cause unintended double-strand breaks at genomic sites sharing sequence homology, posing long-term oncogenic risks,.
 - **Economic Barriers:** High manufacturing costs lead to exceptionally expensive treatments, severely limiting accessibility in low- and middle-income countries.

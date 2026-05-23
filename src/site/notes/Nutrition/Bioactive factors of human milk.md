@@ -6,7 +6,7 @@ Human milk is described as a "living fluid" and is species-specific, containing 
 
 ### 1. Immunological and Anti-Infective Factors
 
-Human milk provides "[[Infectious Diseases/Passive Immunity\|passive immunity]]" through a complex array of proteins and cells that protect the naive infant gut and respiratory tract.
+Human milk provides "[[Infectious Diseases/Immunology/Passive Immunity\|Passive Immunity]]" through a complex array of proteins and cells that protect the naive infant gut and respiratory tract.
 
 #### Humoral Factors
 

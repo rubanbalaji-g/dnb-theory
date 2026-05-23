@@ -93,7 +93,7 @@
 - Utilize strictly leukocyte-depleted, irradiated blood products.
 - Avoid blood products from blood relatives to prevent sensitization against potential transplant donors.
 - Single donor platelets preferred.
-- Provide rigorous antimicrobial and antifungal therapy for [[Infectious Diseases/Febrile Neutropenia\|febrile neutropenia]].
+- Provide rigorous antimicrobial and antifungal therapy for [[Infectious Diseases/Immunology/Febrile Neutropenia\|Febrile Neutropenia]].
 - Suppress menses with oral contraceptives to prevent severe blood loss.
 - Avoid medications impairing platelet function (aspirin, nonsteroidal anti-inflammatory drugs).
 

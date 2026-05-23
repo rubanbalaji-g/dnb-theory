@@ -110,7 +110,7 @@
 
 ## Management
 
-### Warm [[Hematology/Autoimmune Hemolytic Anemia\|Autoimmune Hemolytic Anemia]]
+### Warm Autoimmune Hemolytic Anemia
 
 - Blood transfusion: utilize "least incompatible" blood. Administer small volumes (5 ml/kg) slowly (2 ml/kg/h) to prevent cardiopulmonary embarrassment. Coordinate closely with blood bank.
 - Glucocorticoids: first-line therapy. Administer intravenous methylprednisolone (1-2 mg/kg/day, up to 30 mg/kg daily for 3 days in severe cases) or oral prednisone (2 mg/kg/day). Taper slowly over 4-6 months once hemoglobin stabilizes.

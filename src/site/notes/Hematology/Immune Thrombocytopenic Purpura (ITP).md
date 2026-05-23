@@ -176,5 +176,5 @@ Reserved for moderate-to-severe mucosal bleeding or profound hemorrhagic risk,.
 
 ### Second-Line Immunosuppressive Therapies
 
-- **Mycophenolate Mofetil / Sirolimus (Rapamycin):** Highly effective for ITP secondary to Evans syndrome or [[Infectious Diseases/Autoimmune Lymphoproliferative Syndrome (ALPS)\|Autoimmune Lymphoproliferative Syndrome (ALPS)]],.
+- **Mycophenolate Mofetil / Sirolimus (Rapamycin):** Highly effective for ITP secondary to Evans syndrome or [[Infectious Diseases/Immunology/Autoimmune Lymphoproliferative Syndrome (ALPS)\|Autoimmune Lymphoproliferative Syndrome (ALPS)]],.
 - **Alternative Agents:** Azathioprine, Danazol (avoid in prepubertal children due to premature epiphyseal closure), Dapsone, Cyclosporine, Cyclophosphamide, and Vincristine demonstrate variable efficacy in highly refractory cases,.

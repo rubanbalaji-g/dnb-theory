@@ -92,7 +92,7 @@ Mothers delivering prematurely produce "Preterm Milk" (PTM), which is biological
 
 ## Immunological Factors in Human Milk
 
-Human milk acts as a "living fluid," providing [[Infectious Diseases/Passive Immunity\|passive immunity]] and modulating the infant's active immune system. These factors are absent in formula.
+Human milk acts as a "living fluid," providing [[Infectious Diseases/Immunology/Passive Immunity\|Passive Immunity]] and modulating the infant's active immune system. These factors are absent in formula.
 
 ### 1. Humoral (Soluble) Factors
 

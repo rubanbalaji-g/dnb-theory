@@ -36,7 +36,7 @@ The causes can be categorized based on the underlying mechanism.
 3.  **Immunodeficiency:**
     * **Humoral:** X-linked Agammaglobulinemia, Selective IgA deficiency.
     * **Cellular:** HIV/AIDS, SCID.
-    * **Phagocytic:** [[Infectious Diseases/Chronic Granulomatous Disease (CGD)\|Chronic Granulomatous Disease (CGD)]].
+    * **Phagocytic:** [[Infectious Diseases/Immunology/Chronic Granulomatous Disease (CGD)\|Chronic Granulomatous Disease (CGD)]].
 
 ### D. Specific Infections (Persistent)
 * **Tuberculosis:** Always the first differential in endemic areas.

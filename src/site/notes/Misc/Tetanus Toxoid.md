@@ -25,7 +25,7 @@
 ### [[Misc/Maternal Immunization\|Maternal Immunization]]
 
 - Routine immunization during pregnancy declines neonatal tetanus incidence.
-- Provides [[Infectious Diseases/Passive Immunity\|passive immunity]] to newborn via transplacental passage of immunoglobulin G (IgG) antibodies.
+- Provides [[Infectious Diseases/Immunology/Passive Immunity\|Passive Immunity]] to newborn via transplacental passage of immunoglobulin G (IgG) antibodies.
 - Recommend single dose of Tdap during each pregnancy, preferably between 27 and 36 weeks.
 - Unimmunized pregnant women require two doses, including one Tdap, administered at least 1 month apart, with second dose at least 2 weeks before delivery.
 

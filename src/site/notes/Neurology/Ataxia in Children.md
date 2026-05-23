@@ -18,7 +18,7 @@ Ataxia in children is classified based on the temporal course: Acute, Episodic, 
 3.  **Inflammatory / Autoimmune:**
     * **[[Neurology/ADEM\|ADEM]] (Acute Disseminated Encephalomyelitis).**
     * **[[Neuromuscular/Guillain-Barré Syndrome\|Guillain-Barré Syndrome]] (GBS):** Specifically Miller-Fisher variant (Ataxia, Areflexia, Ophthalmoplegia).
-    * **Opsoclonus-Myoclonus Syndrome (OMS):** Paraneoplastic ([[Hematology/Neuroblastoma\|Neuroblastoma]]).
+    * **[[Neurology/Autoimmune Encephalitis#^OMAS1\|Opsoclonus-Myoclonus Ataxia Syndrome ]] (OMAS):** Paraneoplastic ([[Hematology/Neuroblastoma\|Neuroblastoma]]).
 4.  **Structural / Vascular:**
     * **Trauma:** Concussion, posterior fossa hematoma.
     * **Stroke:** Cerebellar hemorrhage or infarction (rare in kids; check for dissection).
