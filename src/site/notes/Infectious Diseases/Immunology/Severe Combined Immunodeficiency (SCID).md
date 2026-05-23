@@ -2,7 +2,6 @@
 {"dg-publish":true,"uptext":"Back to Index (🦠 Infectious Diseases)","uplink":"/infectious-diseases/infectious-diseases/","permalink":"/infectious-diseases/immunology/severe-combined-immunodeficiency-scid/","dgPassFrontmatter":true}
 ---
 
-![final_output 1.png](/img/user/+%C4%B0mages/final_output%201.png)
 ### Pathogenesis and Immunologic Deficits
 
 - Severe combined immunodeficiency (SCID) represents the most severe form of primary immune deficiency, caused by diverse pathogenic gene variants that lead to the profound absence of T-cell and B-cell function.

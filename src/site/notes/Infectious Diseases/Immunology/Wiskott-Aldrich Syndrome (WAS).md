@@ -2,7 +2,6 @@
 {"dg-publish":true,"uptext":"Back to Index (🦠 Infectious Diseases)","uplink":"/infectious-diseases/infectious-diseases/","permalink":"/infectious-diseases/immunology/wiskott-aldrich-syndrome-was/","dgPassFrontmatter":true}
 ---
 
-![Pasted image 20260324204706.png](/img/user/+%C4%B0mages/Pasted%20image%2020260324204706.png)
 ## Introduction
 
 - Wiskott-Aldrich syndrome is a profound combined immunodeficiency disorder.

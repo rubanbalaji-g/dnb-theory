@@ -2,7 +2,6 @@
 {"dg-publish":true,"uptext":"Back to Index (🦠 Infectious Diseases)","uplink":"/infectious-diseases/infectious-diseases/","permalink":"/infectious-diseases/immunology/chronic-granulomatous-disease-cgd/","dgPassFrontmatter":true}
 ---
 
-![Pasted image 20260324204601.png](/img/user/+%C4%B0mages/Pasted%20image%2020260324204601.png)
 ## Introduction And Pathogenesis
 
 - Chronic Granulomatous Disease is a rare primary immunodeficiency.

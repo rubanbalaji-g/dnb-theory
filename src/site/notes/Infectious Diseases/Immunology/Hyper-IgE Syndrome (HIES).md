@@ -2,7 +2,6 @@
 {"dg-publish":true,"uptext":"Back to Index (🦠 Infectious Diseases)","uplink":"/infectious-diseases/infectious-diseases/","permalink":"/infectious-diseases/immunology/hyper-ig-e-syndrome-hies/","dgPassFrontmatter":true}
 ---
 
-![Pasted image 20260324204635.png](/img/user/+%C4%B0mages/Pasted%20image%2020260324204635.png)
 ## Introduction
 
 Hyper-IgE Syndrome (HIES) is a rare primary immunodeficiency disorder. It presents with highly elevated serum IgE levels, severe eczema, and recurrent infections. It is genetically and clinically heterogeneous. The syndrome is inherited in both autosomal dominant and autosomal recessive patterns. It requires a high index of clinical suspicion for early diagnosis and management.

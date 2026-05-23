@@ -49,18 +49,20 @@ The initial diagnosis of primary immune deficiency diseases is frequently delaye
 
 Physicians must be acutely aware of specific clinical red flags. These red flags mandate a thorough immunologic evaluation. A high burden of recurrent or sentinel infections is the most common reason to initiate an immunologic workup.
 
-### General Clinical Red Flags
+### 10 Clinical Red Flags for Primary Immunodeficiency (PID)
 
-- Infections requiring hospitalization or prolonged intravenous antibiotics.
-- Infections caused by unusual or opportunistic pathogens.
-- Fever presenting without a known focus.
-- Severe periodontitis or poor formation of pus at active infection sites.
-- Unusual inflammatory or autoimmune diseases.
-- Severe adverse, systemic reactions to live attenuated virus vaccines.
-- Specific concerning vaccines include rotavirus, varicella, and measles-mumps-rubella.
-- A family history of primary immune deficiency significantly increases clinical suspicion.
-- The presence of consanguinity is a critical warning sign for an inherited immunologic defect.
+According to the Jeffrey Modell Foundation and international expert consensus, the following clinical features should raise suspicion of a Primary Immunodeficiency in pediatric patients:
 
+1.  **Eight or more new ear infections** within one year.
+2.  **Two or more serious sinus infections** within one year.
+3.  **Two or more months of antibiotics** with little effect.
+4.  **Two or more pneumonias** within one year.
+5.  **Failure of an infant to gain weight** or grow normally.
+6.  **Recurrent, deep skin or organ abscesses.**
+7.  **Persistent thrush in the mouth or fungal infection on the skin** after age one.
+8.  **Need for intravenous antibiotics** to clear infections.
+9.  **Two or more deep-seated infections** including septicemia.
+10. **A family history** of primary immunodeficiency.
 ### Clinical Clues Guiding The Diagnostic Algorithm
 
 Specific patterns of infection and physical findings help guide the initial laboratory evaluation toward a specific compartment of the immune system.

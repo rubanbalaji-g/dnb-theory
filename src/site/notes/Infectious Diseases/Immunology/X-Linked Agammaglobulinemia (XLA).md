@@ -2,7 +2,6 @@
 {"dg-publish":true,"uptext":"Back to Index (🦠 Infectious Diseases)","uplink":"/infectious-diseases/infectious-diseases/","permalink":"/infectious-diseases/immunology/x-linked-agammaglobulinemia-xla/","dgPassFrontmatter":true}
 ---
 
-![Pasted image 20260324210218.png](/img/user/+%C4%B0mages/Pasted%20image%2020260324210218.png)
 ## Introduction
 
 - X-Linked Agammaglobulinemia is a profound primary immunodeficiency.
