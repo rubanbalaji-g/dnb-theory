@@ -33,7 +33,10 @@
 4. [[Neonatalogy/Feeding Problems in Neonates\|Feeding Problems in Neonates]]
 ## Problems after birth
 1. [[Neonatalogy/Infants of Diabetic Mother\|Infants of Diabetic Mother]]
-## [[Neonatalogy/Sepsis in newborn\|Sepsis in Newborn]]
+2. [[Neonatalogy/Neonatal Hypocalcemia\|Neonatal Hypocalcemia]]
+3. [[Neonatalogy/Neonatal Hypoglycemia\|Neonatal Hypoglycemia]]
+4. [[Neonatalogy/Polycythemia\|Polycythemia]]
+## Sepsis in Newborn
 1. [[Neonatalogy/Scoring to Predict Mortality in Neonatology\|Scoring to Predict Mortality in Neonatology]]
 2. [[Neonatalogy/Sepsis in newborn\|Sepsis in newborn]]
 ## Developmental Supportive Care
@@ -42,11 +45,10 @@
 3. [[Neonatalogy/Skin Care in Newborns\|Skin Care in Newborns]]
 ## Others
 1. [[Neonatalogy/Shock in neonates\|Shock in neonates]]
-2. [[Neonatalogy/Intraventricular hemorrhage\|Intraventricular hemorrhage]]
-3. [[Neonatalogy/Apnea of Prematurity\|Apnea of Prematurity]]
-4. [[Neonatalogy/Neonatal seizures (NSz)\|Neonatal seizures (NSz)]]
-5. [[Neonatalogy/IUGR (FGR) and SGA\|IUGR (FGR) and SGA]]
-6. [[Neonatalogy/Fetal circulation\|Fetal circulation]]
-7. [[Neonatalogy/Retinopathy of prematurity\|Retinopathy of prematurity]]
-8. [[Neonatalogy/Endocrine Issues at Day 1 of life\|Endocrine Issues at Day 1 of life]]
-9. [[Neonatalogy/Placental Dysfunction Syndrome\|Placental Dysfunction Syndrome]]
+2. [[Neonatalogy/Apnea of Prematurity\|Apnea of Prematurity]]
+3. [[Neonatalogy/Neonatal seizures (NSz)\|Neonatal seizures (NSz)]]
+4. [[Neonatalogy/IUGR (FGR) and SGA\|IUGR (FGR) and SGA]]
+5. [[Neonatalogy/Fetal circulation\|Fetal circulation]]
+6. [[Neonatalogy/Retinopathy of prematurity\|Retinopathy of prematurity]]
+7. [[Neonatalogy/Endocrine Issues at Day 1 of life\|Endocrine Issues at Day 1 of life]]
+8. [[Neonatalogy/Placental Dysfunction Syndrome\|Placental Dysfunction Syndrome]]

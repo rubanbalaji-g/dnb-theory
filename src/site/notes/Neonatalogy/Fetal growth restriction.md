@@ -84,7 +84,7 @@
 - feed to be started with high [[Statistics/Index\|index]] of suspesion
 #### short term complications 
 - hypoglycemia
-- polycythemia
+- [[Neonatalogy/Polycythemia\|polycythemia]]
 - hypocalcemia
 - 3-4x higher risk of feed intolerance
 - 2.5x higher risk of necrotizing enterocolitis

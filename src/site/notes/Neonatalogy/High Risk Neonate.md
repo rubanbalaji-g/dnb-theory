@@ -19,7 +19,7 @@ Selection is based on gestational age, birth weight, perinatal interventions, an
     * [[Neurology/Meningitis\|Meningitis]], HIE Stage 2 or higher.
     * Mechanical ventilation >48 hours.
     * Major malformations or chromosomal disorders.
-    * Symptomatic hypoglycemia or polycythemia.
+    * Symptomatic hypoglycemia or [[Neonatalogy/Polycythemia\|polycythemia]].
     * Hyperbilirubinemia requiring exchange transfusion.
     * Abnormal neurological exam at discharge.
 

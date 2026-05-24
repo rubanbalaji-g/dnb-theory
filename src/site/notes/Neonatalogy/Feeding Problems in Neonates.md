@@ -14,7 +14,12 @@ Breastfeeding is the gold standard for infant nutrition. However, technical and 
 * Improper use of breast pump.
 
 **Management:**
-1.  **Correct Positioning:** Ensure the baby's mouth is wide open and the lower lip is everted (asymmetrical latch).
+1.  **Correct Positioning:** 
+> [!crit] The **CALM** acronym represents the four essential points of correct breastfeeding positioning to ensure a deep latch and comfortable feeding:
+> * **C – Close:** The infant's body is held close to the mother's torso with no large gaps, preventing the baby from pulling on the breast tissue and causing nipple trauma.
+> * **A – Aligned:** The infant's head, neck, and spine are kept in a straight line; the neck is neither twisted nor bent forward, allowing for optimal swallowing.
+> * **L – Lateral:** The baby's entire body is turned completely toward the mother, facing the breast in a "chest-to-chest" or "tummy-to-tummy" orientation so they do not have to turn their head.
+> * **M – Maintained:** The mother provides steady support across the infant's entire body—including the back, hips, and bottom—rather than just holding the head or shoulders.
 2.  **Hindmilk Application:** Apply a few drops of hindmilk to the nipple after feeding and allow it to air dry (healing properties).
 3.  **Avoid Irritants:** Do not use soap, alcohol, or frequent washing of nipples.
 4.  **Breaks:** If pain is severe, a short rest (12–24 hours) with manual expression may be needed.
@@ -99,10 +104,3 @@ Breastfeeding is the gold standard for infant nutrition. However, technical and 
 * **Management:**
     * **[[Neonatalogy/Kangaroo Mother Care\|Kangaroo Mother Care]] (KMC)** to promote reflexes.
     * Express breast milk (EBM) via tube/spoon until suck-swallow-breathe coordination matures (~34 weeks).
-
----
-
-## 4. Key Principles
-* **Prevention is better than cure:** Early initiation (first hour) and correct attachment prevent most problems.
-* **Do not stop feeding:** In almost all benign breast conditions (including mastitis), breastfeeding should continue.
-* **Avoid artificial nipples:** Strictly no bottles in the first 4–6 weeks.

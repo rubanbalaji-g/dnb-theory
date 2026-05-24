@@ -107,14 +107,14 @@ HIE is a systemic disease ("Asphyxia rarely spares the kidneys").
 ## 6. Diagnosis and Investigations
 ### A. Inclusion Criteria for HIE (AAP/ACOG) - All 4 should be met
 > [!crit] If all 4 criteria are not met it is called Perinatal Depression
-1.  **Metabolic Acidosis:** Cord or early (within 1 hr) arterial pH $< 7.0$ or Base Deficit $\ge 12-16$ mmol/L.
-2.  **Low APGAR:** Score $\le 5$ at 10 minutes.
-3.  **Resuscitation:** Need for PPV/intubation at birth continued at 10 mins.
-4.  **Encephalopathy:** Presence of moderate/severe encephalopathy (Stage 2/3).
+1. **Metabolic Acidosis:** Cord or early (within 1 hr) arterial pH $< 7.0$ or Base Deficit $\ge 12-16$ mmol/L.
+2. **Low APGAR:** Score $\le 5$ at 10 minutes.
+3. **Encephalopathy:** Presence of moderate/severe encephalopathy (Stage 2/3).
+4. **Multisystem Organ Dysfunction** 
 ### B. Neuroimaging
 * **Cranial Ultrasound:**
     * Initial: To rule out hemorrhage (IVH, Subdural).
-    * Doppler: Low Resistive [[Statistics/Index\|Index]] (RI < 0.55) indicates luxury perfusion/vasoparalysis (poor prognosis).
+    * Doppler: Low Resistive Index (RI < 0.55) indicates luxury perfusion/vasoparalysis (poor prognosis).
 * **MRI Brain (Gold Standard):**
     * **Timing:** Best performed between **Day 5 and 10** of life.
     * **DWI (Diffusion Weighted Imaging):** Detects injury early (Day 1–4) as restricted diffusion (bright signal).
