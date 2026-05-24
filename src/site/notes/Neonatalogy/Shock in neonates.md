@@ -111,7 +111,7 @@ Point of care echocardiography is recommended to evaluate cardiovascular hemodyn
 - Increased left ventricular contractility can quickly deteriorate, leading to increased systemic vascular resistance.
 - The late cold phase involves low systolic and diastolic blood pressures, multiorgan dysfunction, and poor cardiac output.
 - A state of relative adrenal insufficiency is frequently described in severe neonatal sepsis.
-
+////
 ### Perinatal Asphyxia
 
 - Asphyxia typically presents with shock in the initial 48 hours of life.

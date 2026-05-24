@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/neonatalogy/hypoxemic-ischemic-encephalopathy/","dgPassFrontmatter":true}
+{"dg-publish":true,"uptext":"Back to Index (Neonatology)","uplink":"/neonatology/","permalink":"/neonatalogy/hypoxemic-ischemic-encephalopathy/","dgPassFrontmatter":true}
 ---
 
 ## 1. Introduction and Definitions
