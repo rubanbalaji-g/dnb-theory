@@ -81,7 +81,7 @@
 - Direct antiglobulin test (DAT/Coombs) to exclude Evans syndrome (concurrent [[Hematology/Autoimmune Hemolytic Anemia\|autoimmune hemolytic anemia]]),.
 - Antinuclear antibody (ANA), double-stranded DNA to exclude systemic lupus erythematosus (SLE),.
 - Viral polymerase chain reaction (PCR)/serology: HIV, HCV, EBV, CMV, Parvovirus.
-- Quantitative immunoglobulins to exclude common variable immunodeficiency (CVID).
+- Quantitative immunoglobulins to exclude [[Infectious Diseases/Common Variable Immunodeficiency\|common variable immunodeficiency]] (CVID).
 - _Helicobacter pylori_ testing.
 - Thyroid function screening (TSH, free T4, antithyroid antibodies).
 

@@ -2,8 +2,7 @@
 {"dg-publish":true,"permalink":"/neonatalogy/retinopathy-of-prematurity/","noteIcon":"","dgPassFrontmatter":true}
 ---
 
-
-[[Neonatalogy/Retinopathy of prematurity\|Retinopathy of prematurity]] is a vascular-proliferative disorder of retina in preterm infants
+Retinopathy of prematurity is a vascular-proliferative disorder of retina in preterm infants
 ## Classification
 Based on **International Classification of ROP (ICROP)**
 ### Zones of ROP

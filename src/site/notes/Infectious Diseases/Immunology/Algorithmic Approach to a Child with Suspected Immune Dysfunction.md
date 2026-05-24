@@ -130,7 +130,7 @@ If the initial basic screening reveals abnormalities, the algorithm branches int
 - The gold standard for diagnosing specific antibody deficiency involves evaluating the response to the 23-valent pneumococcal polysaccharide vaccine.
 - An antibody titer of 1.3 mg/mL is generally considered the protective threshold.
 - Advanced flow cytometry is utilized to enumerate specific percentages of naive B cells, memory B cells, and class-switched memory B cells.
-- A deficiency in class-switched memory B cells helps diagnose common variable immunodeficiency.
+- A deficiency in class-switched memory B cells helps diagnose [[Infectious Diseases/Common Variable Immunodeficiency\|common variable immunodeficiency]].
 
 ### Evaluation Of Suspected Cell-Mediated (T-Cell And Combined) Deficiencies
 

@@ -8,6 +8,7 @@
 - Produces a karyogram, a digital representation organizing the entire genome's paired chromosomes.
 - Chromosomes are classified based on length (chromosome 1 is longest, 22 is smallest), banding pattern, and centromere position (metacentric, submetacentric, or acrocentric).
 - Standard resolution is 5-10 Megabases (Mb), allowing detection of numerical abnormalities (aneuploidies) and large structural rearrangements.
+![|600](https://www.genome.gov/sites/default/files/media/images/tg/Karyotype.jpg)
 
 ## Methodology And Procedure
 

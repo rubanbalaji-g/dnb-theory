@@ -4,7 +4,7 @@
 
 ## Definition and Overview
 
-- [[Genetics/Cytogenetic Analysis\|Cytogenetic analysis]] involves the study of chromosome number, structure, and function, typically in metaphase cells, to detect numerical and structural abnormalities.
+- Cytogenetic analysis involves the study of chromosome number, structure, and function, typically in metaphase cells, to detect numerical and structural abnormalities.
 - Provides a visual and genomic assessment of large-scale chromosomal changes, acting as a cornerstone in pediatric genetics for evaluating dysmorphic syndromes, congenital anomalies, and malignancies.
 - Standard resolution for classical [[Genetics/Karyotyping\|karyotyping]] is 5 to 10 Megabases (Mb), whereas molecular cytogenetic techniques like Chromosomal Microarray (CMA) offer a much higher resolution of 10 to 100 kilobases (kb).
 

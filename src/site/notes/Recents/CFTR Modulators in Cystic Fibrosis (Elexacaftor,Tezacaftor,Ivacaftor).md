@@ -44,4 +44,4 @@
 - **Diagnostic Gaps:** Underestimated true incidence (likely 1:10,000–1:40,000 births) limits identification due to delayed diagnosis and minimal neonatal screening.
 - **Access Barriers:** Extremely high cost (₹2-3 crore/year) and prolonged patent barriers up to 2037 restrict equitable access.
 - **Policy Integration:** Supported under the National Policy for Rare Diseases (NPRD) Group 3, offering financial support up to ₹20 lakh/patient via specialized Centres of Excellence.
-- **Pediatrician's Role:** Suspect CF early, confirm via sweat chloride and Next-Generation Sequencing (NGS) genotyping panels, and aggressively advocate for biosimilars or compassionate access programs.
+- **Pediatrician's Role:** Suspect CF early, confirm via sweat chloride and [[Genetics/Next-Generation Sequencing (NGS)\|Next-Generation Sequencing (NGS)]] genotyping panels, and aggressively advocate for biosimilars or compassionate access programs.

@@ -20,7 +20,7 @@ Vaccine administration depends upon specific immune compartment defects.
 
 ### B-Lymphocyte Defects
 
-- Disorders include [[Infectious Diseases/Immunology/X-Linked Agammaglobulinemia (XLA)\|X-Linked Agammaglobulinemia (XLA)]] and common variable immunodeficiency (CVID).
+- Disorders include [[Infectious Diseases/Immunology/X-Linked Agammaglobulinemia (XLA)\|X-Linked Agammaglobulinemia (XLA)]] and [[Infectious Diseases/Common Variable Immunodeficiency\|common variable immunodeficiency]] (CVID).
 - All live vaccines contraindicated.
 - Annual inactivated [[Misc/Influenza Vaccine\|influenza vaccine]] (IIV) recommended.
 - Protection primarily provided via immunoglobulin replacement therapy.

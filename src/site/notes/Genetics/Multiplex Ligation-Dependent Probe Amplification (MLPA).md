@@ -4,7 +4,6 @@
 
 ## Introduction And Definition
 
-- Introduced by Schouten et al. in 2002.
 - High-throughput, semi-quantitative molecular technique designed to detect abnormal gene copy numbers (deletions and duplications) and specific point mutations across multiple genomic targets simultaneously.
 - Rapid diagnostic test capable of delivering precise clinical results within 1 to 2 days.
 - Amplifies specifically designed, hybridized probes rather than amplifying the target patient DNA directly.

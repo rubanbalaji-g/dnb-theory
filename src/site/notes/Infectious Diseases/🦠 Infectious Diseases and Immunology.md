@@ -22,10 +22,16 @@
 5. [[Infectious Diseases/Immunology/Chronic Granulomatous Disease (CGD)\|Chronic Granulomatous Disease (CGD)]]
 6. [[Infectious Diseases/Immunology/Febrile Neutropenia\|Febrile Neutropenia]]
 7. [[Infectious Diseases/Immunology/Autoimmune Lymphoproliferative Syndrome (ALPS)\|Autoimmune Lymphoproliferative Syndrome (ALPS)]]
+8. [[Infectious Diseases/Leukocyte Adhesion Deficiency\|Leukocyte Adhesion Deficiency]]
+9. [[Infectious Diseases/Chédiak-Higashi syndrome\|Chédiak-Higashi syndrome]]
+10. [[Infectious Diseases/Common Variable Immunodeficiency\|Common Variable Immunodeficiency]]
+11. [[Infectious Diseases/Complement Defects\|Complement Defects]]
 ### Transplant Immunology
 1. [[Infectious Diseases/Immunology/Risks and benefits of bone marrow transplantation in children\|Risks and benefits of bone marrow transplantation in children]]
 2. [[Infectious Diseases/Immunology/Stem Cell Therapy\|Stem Cell Therapy]]
 3. [[Infectious Diseases/Immunology/Graft vs Host Disease\|Graft vs Host Disease]]
+### Hypersensitivity Reactions
+1. [[Infectious Diseases/Hypersensitivity Reactions\|Hypersensitivity Reactions]]
 ## Infection - Basics
 1. [[Infectious Diseases/Approach to fever without focus in an infant\|Approach to fever without focus in an infant]]
 2. [[Infectious Diseases/Diagnostic Approach to Fever with Rash\|Diagnostic Approach to Fever with Rash]]

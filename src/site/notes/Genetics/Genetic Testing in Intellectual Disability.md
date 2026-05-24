@@ -30,7 +30,6 @@
 |**Tier 2: Phenotype-Driven**|Targeted Gene Panels|Specific clinical clues (e.g., epilepsy, skeletal dysplasia).|Variable.|
 |**Tier 3: Advanced/Residual**|Iterative Reanalysis|Negative Tier 1/2 results; reanalyze ES/GS data every 1-2 years.|Increases yield by 10-15%.|
 |**Tier 3: Advanced/Residual**|Methylation / MLPA|Suspected imprinting disorders (e.g., Prader-Willi/Angelman syndromes).|Syndrome specific.|
-
 ## Specific Genetic Tests And Characteristics
 
 - **Chromosomal Microarray (CMA):** Single Nucleotide Polymorphism (SNP) array is the preferred platform. It detects Copy Number Variants (CNVs) and Regions of Homozygosity (ROH). Identifying ROH is critical in consanguineous families to pinpoint autosomal recessive conditions.

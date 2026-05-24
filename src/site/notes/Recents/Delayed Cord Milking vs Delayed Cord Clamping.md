@@ -50,7 +50,7 @@
 ### Gestational Age Caveats And Risks
 
 - UCM is strictly contraindicated in extremely preterm infants under 28 weeks gestation.
-- Rapid bolus effects from UCM cause large fluctuations in cerebral blood flow, significantly increasing the risk of severe intraventricular hemorrhage (IVH) in extreme preemies.
+- Rapid bolus effects from UCM cause large fluctuations in cerebral blood flow, significantly increasing the risk of severe [[Neonatalogy/Intraventricular hemorrhage\|intraventricular hemorrhage]] (IVH) in extreme preemies.
 - Both techniques increase the volume of red blood cell breakdown, elevating the risk of neonatal hyperbilirubinemia and necessitating vigilant monitoring for phototherapy.
 
 ### Absolute Contraindications

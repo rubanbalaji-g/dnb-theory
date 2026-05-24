@@ -4,17 +4,17 @@
 
 ## Definition And Core Principles
 
-- [[Genetics/Next-Generation Sequencing (NGS)\|Next-Generation Sequencing (NGS)]] is a high-throughput, massively parallel sequencing technology that determines the nucleotide order in DNA or RNA fragments simultaneously.
+- Next-Generation Sequencing (NGS) is a high-throughput, massively parallel sequencing technology that determines the nucleotide order in DNA or RNA fragments simultaneously.
 - Generates millions to billions of sequence reads in a single run, serving as a rapid and cost-effective alternative to traditional Sanger sequencing.
 - Identifies sequence-level alterations, including single nucleotide variants (SNVs), small insertions, and deletions (indels) that disrupt normal gene expression and protein function.
 
 ## Types Of Next-Generation Sequencing Modalities
 
-|Sequencing Modality|Features And Scope|Clinical Indications|
-|:--|:--|:--|
-|**Targeted Gene Panels**|Sequences a predefined subset of genes (50–500 genes) known to be associated with specific overlapping clinical phenotypes. Offers high depth of coverage (>100x) and lowers the rate of incidental findings.|Locus heterogeneity, overlapping phenotypes, or disorders sharing a common biological pathway (e.g., epilepsy, deafness, RASopathies, muscular dystrophies).|
-|**Whole [[Genetics/Exome Sequencing\|Exome Sequencing]] (WES)**|Targets protein-coding regions (exons), representing only 1–2% of the genome but harboring approximately 85% of disease-causing mutations. Yields a diagnosis in 25–40% of undiagnosed cases.|Extreme genetic heterogeneity, dual diagnoses, atypical phenotypes, unexplained [[Development/Global Developmental Delay\|global developmental delay]], and severe intellectual disability where _de novo_ mutations are common.|
-|**Whole Genome Sequencing (WGS)**|Sequences the entire genome, including both coding and non-coding (intronic or regulatory) regions. Provides improved detection of structural variations, copy number variations (CNVs), and repeat expansions.|Suspected non-coding or structural variations, critically ill neonates requiring rapid data generation, and nondiagnostic WES cases.|
+| Sequencing Modality                  | Features And Scope                                                                                                                                                                                              | Clinical Indications                                                                                                                                                                     |
+| :----------------------------------- | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Targeted Gene Panels**             | Sequences a predefined subset of genes (50–500 genes) known to be associated with specific overlapping clinical phenotypes. Offers high depth of coverage (>100x) and lowers the rate of incidental findings.   | Locus heterogeneity, overlapping phenotypes, or disorders sharing a common biological pathway (e.g., epilepsy, deafness, RASopathies, muscular dystrophies).                             |
+| **Whole [[Genetics/Exome Sequencing\|Exome Sequencing]] (WES)** | Targets protein-coding regions (exons), representing only 1–2% of the genome but harboring approximately 85% of disease-causing mutations. Yields a diagnosis in 25–40% of undiagnosed cases.                   | Extreme genetic heterogeneity, dual diagnoses, atypical phenotypes, unexplained [[Development/Global Developmental Delay\|global developmental delay]], and severe intellectual disability where _de novo_ mutations are common. |
+| **Whole Genome Sequencing (WGS)**    | Sequences the entire genome, including both coding and non-coding (intronic or regulatory) regions. Provides improved detection of structural variations, copy number variations (CNVs), and repeat expansions. | Suspected non-coding or structural variations, critically ill neonates requiring rapid data generation, and nondiagnostic WES cases.                                                     |
 
 ## Workflow And Methodology
 

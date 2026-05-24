@@ -4,7 +4,7 @@
 
 ## Definition And Core Principles
 
-- Nucleic Acid Amplification Test ([[Genetics/NAAT\|NAAT]]) is a molecular diagnostic method that detects and amplifies specific nucleic acid sequences of the Mycobacterium tuberculosis complex (MTBC) directly from clinical specimens.
+- Nucleic Acid Amplification Test (NAAT) is a molecular diagnostic method that detects and amplifies specific nucleic acid sequences of the Mycobacterium tuberculosis complex (MTBC) directly from clinical specimens.
 - It is the preferred initial diagnostic tool in pediatric tuberculosis due to the paucibacillary nature of the disease in children.
 - The mechanism involves DNA or RNA extraction from the sample, followed by target amplification utilizing specific primers and probes.
 - Common gene targets include the rpoB gene (utilized for MTB detection and rifampicin resistance), IS6110, and 16S rRNA.
@@ -12,12 +12,12 @@
 
 ## Types Of Platforms Used In Pediatrics
 
-|Platform|Characteristics And Utility|
-|---|---|
-|**Cartridge-Based [[Genetics/NAAT\|NAAT]] (CBNAAT / GeneXpert MTB/RIF)**|Utilizes semi-nested real-time PCR. Detects MTB and rifampicin resistance via five overlapping rpoB probes. World Health Organization recommended as an initial test. Provides results within 2 hours.|
-|**Truenat MTB/RIF**|Portable, battery-operated, chip-based real-time PCR. Highly suitable for peripheral laboratories and point-of-care use in children.|
-|**Line Probe Assay (LPA)**|Includes GenoType MTBDRplus and MTBDRsl for first- and second-line drug resistance detection. Can be performed from positive cultures or direct specimens. Generates results in 24 hours.|
-|**Loop-Mediated Isothermal Amplification (LAMP / TB-LAMP)**|A simple, equipment-light method utilized primarily for resource-limited settings.|
+| Platform                                                    | Characteristics And Utility                                                                                                                                                                            |
+| ----------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| **Cartridge-Based NAAT (CBNAAT / GeneXpert MTB/RIF)**       | Utilizes semi-nested real-time PCR. Detects MTB and rifampicin resistance via five overlapping rpoB probes. World Health Organization recommended as an initial test. Provides results within 2 hours. |
+| **Truenat MTB/RIF**                                         | Portable, battery-operated, chip-based real-time PCR. Highly suitable for peripheral laboratories and point-of-care use in children.                                                                   |
+| **Line Probe Assay (LPA)**                                  | Includes GenoType MTBDRplus and MTBDRsl for first- and second-line drug resistance detection. Can be performed from positive cultures or direct specimens. Generates results in 24 hours.              |
+| **Loop-Mediated Isothermal Amplification (LAMP / TB-LAMP)** | A simple, equipment-light method utilized primarily for resource-limited settings.                                                                                                                     |
 
 ## Clinical Indications In Pediatric Practice
 
@@ -36,12 +36,12 @@
 
 ## Interpretation Of Results And Management
 
-|[[Genetics/NAAT\|NAAT]] Result|Clinical Interpretation And Action|
-|---|---|
-|**MTB Detected**|Initiate daily Anti-Tubercular Therapy (ATT). If rifampicin resistance is identified, initiate shorter or longer MDR-TB regimen per current protocols.|
-|**MTB Not Detected**|Does not definitively exclude TB. Integrate with clinical features, chest radiograph, Mantoux/IGRA, histopathology, and overall treatment response.|
-|**Rifampicin Resistant**|Avoid rifampicin in the treatment regimen. Confirm resistance with phenotypic Drug Susceptibility Testing (DST) on culture.|
-|**Invalid Or Error**|Repeat the test using a fresh sample. Check for technical issues or presence of inhibitors in the sample.|
+| NAAT Result              | Clinical Interpretation And Action                                                                                                                     |
+| ------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| **MTB Detected**         | Initiate daily Anti-Tubercular Therapy (ATT). If rifampicin resistance is identified, initiate shorter or longer MDR-TB regimen per current protocols. |
+| **MTB Not Detected**     | Does not definitively exclude TB. Integrate with clinical features, chest radiograph, Mantoux/IGRA, histopathology, and overall treatment response.    |
+| **Rifampicin Resistant** | Avoid rifampicin in the treatment regimen. Confirm resistance with phenotypic Drug Susceptibility Testing (DST) on culture.                            |
+| **Invalid Or Error**     | Repeat the test using a fresh sample. Check for technical issues or presence of inhibitors in the sample.                                              |
 
 ## Advantages And Limitations
 
@@ -56,4 +56,4 @@
 - Infants and young children have a higher proportion of extrapulmonary and [[Infectious Diseases/Disseminated TB\|disseminated TB]]; diagnostic yield improves significantly with multiple gastric aspirates and lymph node sampling.
 - Gastric lavage technique is critical, requiring proper tube placement, early morning collection, and neutralization if processing is delayed.
 - In neonates, use smallest volume platforms (like Truenat) combined with chest radiograph and CSF analysis.
-- In HIV-exposed infants, [[Genetics/NAAT\|NAAT]] is mandatory to differentiate TB from other opportunistic infections causing failure to thrive and pneumonia.
+- In HIV-exposed infants, NAAT is mandatory to differentiate TB from other opportunistic infections causing failure to thrive and pneumonia.

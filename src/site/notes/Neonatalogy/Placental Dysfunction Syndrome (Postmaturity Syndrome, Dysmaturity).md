@@ -61,7 +61,7 @@ Infants are typically **SGA (Small for Gestational Age)** or have signs of wasti
 ### Postnatal
 * **Clinical Assessment:** Assessment of gestational age (Ballard Score) vs. physical appearance.
     * *Discrepancy:* Baby scores "post-term" on neuromuscular maturity but looks malnourished.
-* **Ponderal [[Statistics/Index\|Index]] (PI):** Calculation: $Weight (g) \times 100 / Length (cm)^3$. PI is typically low (<2.2), indicating wasting.
+* **Ponderal Index (PI):** Calculation: $$Weight (g) \times 100 / Length (cm)^3$$PI is typically low (<2.2), indicating wasting.
 * **Labs:**
     * Blood Glucose (monitoring for hypoglycemia).
     * Hematocrit (screen for polycythemia).

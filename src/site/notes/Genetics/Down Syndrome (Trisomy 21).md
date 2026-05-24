@@ -24,21 +24,31 @@ The extra chromosome 21 results in a gene dosage imbalance. Overexpression of ap
 
 The clinical presentation involves a recognizable pattern of dysmorphic features and multisystem anomalies.
 
-|System|Clinical Manifestations|
-|:--|:--|
-|**Craniofacial**|Flat facial profile, upslanting palpebral fissures, epicanthic folds, Brushfield spots, flat nasal bridge, small ears, protruding tongue, short neck with excess nuchal skin.|
-|**Cardiovascular**|Present in 40-50% of patients. Atrioventricular septal defect (AVSD) is the most common, followed by ventricular septal defect ([[Cardiology/VSD\|VSD]]), patent ductus arteriosus (PDA), and [[Cardiology/Tetralogy of Fallot\|tetralogy of Fallot]].|
-|**Gastrointestinal**|Present in 10-15% of patients. Duodenal atresia, [[Gastrointestinal/Hirschsprung disease\|Hirschsprung disease]], annular pancreas, and [[Gastrointestinal/Celiac disease\|celiac disease]].|
-|**Neurological**|Mild to moderate intellectual disability (IQ 35-70), delayed speech, hypotonia, early-onset Alzheimer disease pathology by age 40, and seizures.|
-|**Musculoskeletal**|Single transverse palmar crease, clinodactyly, sandal-gap toe, brachydactyly, generalized joint laxity, and atlantoaxial instability.|
-|**Endocrine**|[[Endocrinology/Congenital Hypothyroidism\|Congenital hypothyroidism]], [[Nutrition/Obesity in adolescence\|obesity in adolescence]], and type 1 diabetes mellitus.|
-|**Hematological**|Transient myeloproliferative disorder (neonates) and an increased risk of acute megakaryoblastic leukemia.|
-|**Sensory**|Conductive or sensorineural hearing loss, strabismus, refractive errors, and cataracts.|
+| System               | Clinical Manifestations                                                                                                                                                                                |
+| :------------------- | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Craniofacial**     | Flat facial profile, upslanting palpebral fissures, epicanthic folds, Brushfield spots, flat nasal bridge, small ears, protruding tongue, short neck with excess nuchal skin.                          |
+| **Cardiovascular**   | Present in 40-50% of patients. Atrioventricular septal defect (AVSD) is the most common, followed by ventricular septal defect ([[Cardiology/VSD\|VSD]]), patent ductus arteriosus (PDA), and [[Cardiology/Tetralogy of Fallot\|tetralogy of Fallot]]. |
+| **Gastrointestinal** | Present in 10-15% of patients. Duodenal atresia, [[Gastrointestinal/Hirschsprung disease\|Hirschsprung disease]], annular pancreas, and [[Gastrointestinal/Celiac disease\|celiac disease]].                                                                                   |
+| **Neurological**     | Mild to moderate intellectual disability (IQ 35-70), delayed speech, hypotonia, early-onset Alzheimer disease pathology by age 40, and seizures.                                                       |
+| **Musculoskeletal**  | Single transverse palmar crease, clinodactyly, sandal-gap toe, brachydactyly, generalized joint laxity, and atlantoaxial instability.                                                                  |
+| **Endocrine**        | [[Endocrinology/Congenital Hypothyroidism\|Congenital hypothyroidism]], [[Nutrition/Obesity in adolescence\|obesity in adolescence]], and type 1 diabetes mellitus.                                                                                                               |
+| **Hematological**    | Transient myeloproliferative disorder (neonates) and an increased risk of acute megakaryoblastic leukemia.                                                                                             |
+| **Sensory**          | Conductive or sensorineural hearing loss, strabismus, refractive errors, and cataracts.                                                                                                                |
 
 ## Investigations and Screening
 
 - **Diagnostic Confirmation:** [[Genetics/Karyotyping\|Karyotyping]] is the gold standard for diagnosis and identifying translocations. Fluorescence In Situ Hybridization (FISH) or Quantitative Fluorescent PCR (QF-PCR) provides rapid preliminary results.
-- **Prenatal Screening:** First-trimester screening shows decreased Pregnancy-Associated Plasma Protein A (PAPP-A) and elevated free beta-hCG, alongside increased nuchal translucency and absent nasal bone on ultrasonography. Second-trimester quadruple markers show low alpha-fetoprotein, low unconjugated estriol, high hCG, and high inhibin-A. Non-Invasive Prenatal Testing (NIPT) analyzing cell-free fetal DNA offers high sensitivity.
+- **Prenatal Screening:** 
+	- First-trimester screening shows 
+		- decreased Pregnancy-Associated Plasma Protein A (PAPP-A) and 
+		- elevated free beta-hCG, 
+		- alongside increased nuchal translucency and absent nasal bone on ultrasonography. 
+	- Second-trimester quadruple markers show 
+		- low alpha-fetoprotein, 
+		- low unconjugated estriol, 
+		- high hCG, and 
+		- high inhibin-A. 
+	- Non-Invasive Prenatal Testing (NIPT) analyzing cell-free fetal DNA offers high sensitivity.
 - **System-Specific Surveillance:**
     - Echocardiography is mandatory before 9 months of age.
     - Thyroid Stimulating Hormone (TSH) levels must be checked at birth, at 6 and 12 months, and annually thereafter.

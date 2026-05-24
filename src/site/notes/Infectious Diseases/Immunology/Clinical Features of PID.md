@@ -27,7 +27,7 @@
 - Administration of the live attenuated [[Misc/Oral Polio Vaccine\|oral polio vaccine]] can result in vaccine-associated [[Neuromuscular/Paralytic Poliomyelitis\|paralytic poliomyelitis]].
 - Long-term non-infectious complications include severe bronchiectasis and an inflammatory bowel disease-like enteropathy.
 
-### Common Variable Immunodeficiency (CVID)
+### [[Infectious Diseases/Common Variable Immunodeficiency\|Common Variable Immunodeficiency]] (CVID)
 
 - CVID typically presents later in life, mostly before age 20, with recurrent sinopulmonary infections leading to irreversible airway damage and bronchiectasis.
 - Unlike XLA, patients with CVID often possess normal-sized or enlarged tonsils and lymph nodes, and approximately 25% develop prominent splenomegaly.

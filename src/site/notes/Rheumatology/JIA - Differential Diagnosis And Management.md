@@ -16,7 +16,7 @@ Juvenile idiopathic arthritis requires meticulous clinical exclusion of other di
 |Neoplastic Disorders|Leukemia, [[Hematology/Neuroblastoma\|neuroblastoma]], lymphoma, bone tumors,.|
 |Orthopedic And Mechanical|Trauma, growing pains, hypermobility syndromes, Legg-Calve-Perthes disease, slipped capital femoral epiphysis, chondrolysis,.|
 |Autoinflammatory Syndromes|Periodic fever syndromes, [[Rheumatology/Macrophage Activation Syndrome\|macrophage activation syndrome]], familial Mediterranean fever,.|
-|Immunodeficiencies|Hypogammaglobulinemia, IgA deficiency, common variable immunodeficiency.|
+|Immunodeficiencies|Hypogammaglobulinemia, IgA deficiency, [[Infectious Diseases/Common Variable Immunodeficiency\|common variable immunodeficiency]].|
 |Congenital And Metabolic|Gout, mucopolysaccharidoses, thyroid disease, [[Nutrition/Scurvy\|scurvy]], skeletal dysplasias,.|
 
 ### Differentiating Features

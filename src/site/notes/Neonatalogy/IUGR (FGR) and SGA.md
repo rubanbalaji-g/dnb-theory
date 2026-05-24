@@ -2,22 +2,19 @@
 {"dg-publish":true,"permalink":"/neonatalogy/iugr-fgr-and-sga/","noteIcon":"","dgPassFrontmatter":true}
 ---
 
-
 ## Definition
 - SGA ≠ FGR
 - SGA is baby less than 10th percentile in intergrowth 21 charts
 - FGR is baby not attaining full growth potential due to environmental or genetic factors
 ## Types
 
-| Asymmetric | 80% | occurs at later gestational age                         | reduced cell size   |
-| ---------- | --- | ------------------------------------------------------- | ------------------- |
-| symmetric  | 15% | occurs at earlier age, no evidence of placental disease | Reduced cell number |
-| mixed      | 5%  | mix of two                                              |                     |
+| Type       | frequency | Occurs at                                               | Pathology           |
+| ---------- | --------- | ------------------------------------------------------- | ------------------- |
+| Asymmetric | 80%       | occurs at later gestational age                         | reduced cell size   |
+| symmetric  | 15%       | occurs at earlier age, no evidence of placental disease | Reduced cell number |
+| mixed      | 5%        | mix of two                                              |                     |
 ## Causes
 
-> [!faq] PYQ
-> 1. Enumerate the etiology of fetal or intrauterine growth retardation (IUGR). (DNB 2011/2) 3
-> 2. Factors associated with IUGR (DNB 1993/1)10 
 ### maternal
 - <16 yrs or >36 yrs
 - low socioeconomic status
@@ -43,7 +40,7 @@
 - reduced levels of thyroid hormones
 ## Pathogenesis
 - reduction in umbilical blood flow - redistribution of blood from liver - reduction of abdominal circumference
-- elevated placental resistance - decreased umbilical artery end-diastolic flow - increased pulsatility [[Statistics/Index\|index]] - later can cause absent end-diastolic flow or reversed end-diastolic flow
+- elevated placental resistance - decreased umbilical artery end-diastolic flow - increased pulsatility index - later can cause absent end-diastolic flow or reversed end-diastolic flow
 - redirection of blood to vital organs - end-diastolic flow increases in cerebral arteries - <span style=color:pink>brain sparing effect</span>
 
 ### difference between early FGR and late FGR
@@ -58,8 +55,6 @@
 
 ## Complication of IUGR
 
-> [!faq] PYQ
-> 1. Immediate and late problems due to low birth weight (DNB 2013/1)5  
 ### short term complications 
 - hypoglycemia
 - polycythemia
@@ -75,8 +70,6 @@
 - coronary artery disease
 - cerebrovascular stroke
 ## Screening and Diagnosis
-> [!faq] PYQ
-> 1. Describe the screening and diagnosis of IUGR (DNB 2011/2)3+4+3 
 ### Screening
 #### Clinical examination
 - symphysio-fundal height
@@ -95,20 +88,18 @@
 - UA velocities for early FGR
 ### Diagnostic criteria - Consensus Definition 
 
-| Early FGR                                                                                                                                                                              | late FGR                                                                                                                                                                                             |
-| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <32 weeks in the absence of congential anomolies                                                                                                                                       | >32 weeks in the absence of congenital anamolies                                                                                                                                                     |
-| abdominal circumference/Estimated fetal wight <3rd centile or UA-AEDF<br><br>or<br><br>AC/EFW <10th centile combained with<br>1. UtA PI >95th centile and/or<br>2. UA PI >95th centile | AC/EFW <3rd centile<br><br>or <br><br>Atleast 2 or 3<br>1. AC/EFW <10th centile<br>2. AC/EFW crossing centiles >2 quartiles<br>3. CPR (cerebral perfusion ratio) < 5th centile or UA-PI 95th centile |
+| Early FGR                                                                                                                                                                               | late FGR                                                                                                                                                                                             |
+| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| <32 weeks in the absence of congential anomolies                                                                                                                                        | >32 weeks in the absence of congenital anamolies                                                                                                                                                     |
+| abdominal circumference/Estimated fetal weight <3rd centile or UA-AEDF<br><br>or<br><br>AC/EFW <10th centile combained with<br>1. UtA PI >95th centile and/or<br>2. UA PI >95th centile | AC/EFW <3rd centile<br><br>or <br><br>Atleast 2 or 3<br>1. AC/EFW <10th centile<br>2. AC/EFW crossing centiles >2 quartiles<br>3. CPR (cerebral perfusion ratio) < 5th centile or UA-PI 95th centile |
 
-> [!faq] PYQ
-> 1. Immune status of SFD babies (DNB 1998/1)15 
 ## Management
 ### Timing of delivery
 - If Doppler velocity abnormalities are detected, baby can be delivered at any age after completion of steroids
 ### Neonatal management
 - High risk of short and long term complications
 - 20-30% of recurrence in subsequent pregnancies
-- feed to be started with high [[Statistics/Index\|index]] of suspection
+- feed to be started with high index of suspection
 ### Prevention
 - optimizing maternal age of delivery
 - maternal nutrition
@@ -118,9 +109,6 @@
 - <span style=color:gold>Aspirin</span> - inhibit platelet aggregation by enhancing nitric oxide - reduce uteroplacental resistance
 - aspirin to be given in all women with risk factors of placental insufficiency or pre-eclampsia (81 gms from 12 to 28 weeks of gestation - preferably before 16 weeks)
 ## Principles of Community care
-> [!faq] PYQ
-> 1. List the principles of community care of LBW infants. Define Kangaroo Mother care. Outline its advantages and disadvantages (DNB 2004/2)4+2+4 
-
 1. Mobilizing all pregnant women to ensure compliance with full antenatal care.
 2. Undertake birth planning and birth preparedness with the mother and family to ensure access to safe delivery. 
 3. Provide newborn care through a series of home visits and performing the following activities:
@@ -143,7 +131,7 @@
  6. Detect postpartum complications in the mother and refer appropriately.
  7. Counsel the couple to choose an appropriate family planning method.
  8. Provide immediate newborn care in case of those deliveries that do not occur  in institutions
-### [[Neonatalogy/Kangaroo Mother Care\|Kangaroo mother care]]
+### Kangaroo mother care
 - 4 components of [[Neonatalogy/Kangaroo Mother Care\|kangaroo mother care]]
 	- kangaroo position
 		- skin to skin contact
@@ -174,10 +162,6 @@
 	- major congenital malformations
 	- no major illness in care-giver
 ## Feeding of LBW
-> [!faq] PYQ
-> 1. Feeding of low birth weight babies (DNB 2015/1)5 
-> 2. Outline the handicaps in enteral feeding of LBW newborns. Briefly discuss the feeding strategies for LBW babies (DNB 2004/2)3+4+3 
-
 - Babies are born prematurely and have poor feeding skills
 - Initial feeding to be decided based on whether the baby is sick or healthy
 	- sick - babies on inotropic supports, babies on ventilator supports, symptomatic hypoglycemia, seizures, electrolyte abnormalities, AKI etc..
@@ -200,12 +184,10 @@
 			- Vitamin D3 - Arbivit / sunsips (800/1) - 0.5 ml/day
 			- Iron - started at 4-6 weeks of life - Tonoferon 2 drops/kg/day
 			- Folate - Folvite / folium 0.1 ml/day
-	- Feed intolerance can occur
-		- ![](https://i.ibb.co/Q3ghG2jZ/IMG-4026.jpg)
+	- Feed intolerance can occur8. Provide immediate newborn care in case of those deliveries that do not occur  in institutions
+￼￼￼￼￼Kangaroo mother care
+		![](https://i.ibb.co/Q3ghG2jZ/IMG-4026.jpg)
 ## Improving neurodevelopmental outcomes
-> [!faq] PYQ
-> 1. Interventions to improve neurodevelopmental outcome of LBW infants at 1 year of age (DNB 2017/2)
-
  - Family centric [[Neonatalogy/Developmentally Supportive Care\|developmentally supportive care]]
 	- positioning of baby 'as if in-utero' - universal flexion, achieved with swaddling, soft boundaries and a padded foot wall
 	- clustering of activities like pricking for sample, diaper change, examination of newborn
@@ -213,9 +195,6 @@
 	- efforts to improve bonding with mother/family and neonate, early initiation of KMC, NNS, oro-motor suckling
 	- limiting the number of painful procedures
 ## Discharge criteria
-> [!faq] PYQ
-> 1. Enumerate the criteria of discharge of LBW baby from SCNU (DNB 2019/1)5
-
 ### Weight Criteria
 - Minimum weight of **1800 grams** (some guidelines may accept **1500 grams** if the baby is otherwise stable).
 - Consistent weight gain of **15–20 grams per day** for **3 consecutive days**.
@@ -231,10 +210,10 @@
 - **Normal vital signs** (heart rate, respiratory rate, oxygen saturation).
 ### Parental Readiness
 - Parents/caregivers trained in:
-  - **[[Neonatalogy/Kangaroo Mother Care\|Kangaroo Mother Care]] (KMC)**
-  - **Breastfeeding techniques**
-  - **Danger signs recognition**
-  - **Hygiene and thermal care**
+    - **[[Neonatalogy/Kangaroo Mother Care\|Kangaroo Mother Care]] (KMC)**
+    - **Breastfeeding techniques**
+    - **Danger signs recognition**
+    - **Hygiene and thermal care**
 - Confident and capable of caring for the baby at home.
 ### Follow-Up Plan
 - A clear follow-up schedule including:
