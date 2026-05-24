@@ -36,6 +36,7 @@
 2. [[Neonatalogy/Neonatal Hypocalcemia\|Neonatal Hypocalcemia]]
 3. [[Neonatalogy/Neonatal Hypoglycemia\|Neonatal Hypoglycemia]]
 4. [[Neonatalogy/Polycythemia\|Polycythemia]]
+5. [[Neonatalogy/Neonatal Hyperbilirubinemia\|Neonatal Hyperbilirubinemia]]
 ## Sepsis in Newborn
 1. [[Neonatalogy/Scoring to Predict Mortality in Neonatology\|Scoring to Predict Mortality in Neonatology]]
 2. [[Neonatalogy/Sepsis in newborn\|Sepsis in newborn]]
