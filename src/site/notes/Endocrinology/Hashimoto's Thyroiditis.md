@@ -6,7 +6,7 @@
 
 - Most common cause of [[Endocrinology/Acquired Hypothyroidism\|acquired hypothyroidism]] and thyroid disease in children and adolescents.
 - Replaces former designation "simple adolescent goiter".
-- Peak incidence during adolescence (11-15 years); may present as early as first year of life.
+- Peak incidence during adolescence (11–15 years); may present as early as first year of life.
 - Strong female predominance; Female:Male ratio 4-6:1.
 - Prevalence: 1-2% of school-age children and 6-8% of adolescents possess thyroid autoantibodies.
 
@@ -103,11 +103,11 @@ Requires age-specific pediatric reference ranges to avoid erroneous over-diagnos
 
 Dosing requirements decrease with advancing age/weight.
 
-|Age Group|Daily L-T4 Dose Requirement|
-|:--|:--|
-|**1 - 3 years**|4 - 6 mcg/kg/day|
-|**3 - 10 years**|3 - 5 mcg/kg/day|
-|**10 - 16 years**|2 - 4 mcg/kg/day|
+| Age Group         | Daily L-T4 Dose Requirement |
+| :---------------- | :-------------------------- |
+| **1 - 3 years**   | 4 - 6 mcg/kg/day            |
+| **3 - 10 years**  | 3 - 5 mcg/kg/day            |
+| **10 - 16 years** | 2 - 4 mcg/kg/day            |
 
 ### High-Yield Pharmacotherapy Precautions
 

@@ -73,7 +73,7 @@ Symptoms are often insidious in children.
 	- Tapered off once the patient is biochemically euthyroid.
 2. Anti-Thyroid Drugs (ATDs) - Thionamides
 	- Inhibit thyroid peroxidase (TPO), blocking organification and coupling steps.
-	- Methimazole (MMI):
+	- **Methimazole (MMI):**
 		- First-line drug of choice in children.
 		- Dose: 0.2–1.0 mg/kg/day (Max 30–45 mg) given once daily (improves adherence).
 		- Less hepatotoxicity risk than PTU.

@@ -4,7 +4,7 @@
 
 ### Definition and Genetics
 
-- [[Endocrinology/Pendred Syndrome\|Pendred syndrome]] is a genetic clinical syndrome classically characterized by the combination of congenital bilateral sensorineural deafness and the development of a goiter.
+- Pendred syndrome is a genetic clinical syndrome classically characterized by the combination of congenital bilateral sensorineural deafness and the development of a goiter.
 - The disorder is caused by biallelic loss-of-function mutations in the _SLC26A4_ gene.
 - This gene encodes for the anion exchanger protein known as pendrin, which acts as a chloride-iodide transport protein.
 
