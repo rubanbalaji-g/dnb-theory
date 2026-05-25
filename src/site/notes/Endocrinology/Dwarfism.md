@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/endocrinology/dwarfism/","dgPassFrontmatter":true}
+{"dg-publish":true,"uptext":"Back to Index (🧪Endocrinology)","uplink":"/endocrinology/endocrinology/","permalink":"/endocrinology/dwarfism/","dgPassFrontmatter":true}
 ---
 
 ## Definition and Pathophysiology

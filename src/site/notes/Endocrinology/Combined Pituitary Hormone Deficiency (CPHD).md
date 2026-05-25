@@ -4,7 +4,7 @@
 
 ### Definition and Pathogenesis
 
-- [[Endocrinology/Combined Pituitary Hormone Deficiency (CPHD)\|Combined Pituitary Hormone Deficiency (CPHD)]], or Multiple Pituitary Hormone Deficiency (MPHD), is defined as the underproduction of two or more anterior pituitary hormones, including growth hormone (GH), thyroid-stimulating hormone (TSH), adrenocorticotropic hormone (ACTH), gonadotropins (LH/FSH), and prolactin.
+- Combined Pituitary Hormone Deficiency (CPHD), or Multiple Pituitary Hormone Deficiency (MPHD), is defined as the underproduction of two or more anterior pituitary hormones, including growth hormone (GH), thyroid-stimulating hormone (TSH), adrenocorticotropic hormone (ACTH), gonadotropins (LH/FSH), and prolactin.
 - **Genetic Forms:** Mutations in genes encoding sequentially expressed transcription factors responsible for pituitary ontogeny are a primary cause.
     - _PROP1:_ The most common genetic cause of CPHD. It causes deficiencies in GH, TSH, prolactin, gonadotropins, and frequently a progressive, later-onset deficiency of ACTH.
     - _POU1F1 (PIT1):_ Causes deficiencies limited to GH, prolactin, and TSH.
@@ -28,7 +28,7 @@
 
 ### Management
 
-- Therapy involves lifelong physiological replacement of the deficient hormones.
-- If both ACTH and TSH are deficient, glucocorticoid replacement (hydrocortisone) must absolutely be initiated _before_ thyroid hormone (levothyroxine) replacement; administering thyroxine first accelerates cortisol clearance and can precipitate a fatal acute [[Endocrinology/Adrenal Crisis\|adrenal crisis]].
+- Therapy involves lifelong physiological **replacement of the deficient hormones**.
+- If both ACTH and TSH are deficient, **glucocorticoid replacement (hydrocortisone) must absolutely be initiated _before_ thyroid hormone (levothyroxine) replacement**; administering thyroxine first accelerates cortisol clearance and can precipitate a fatal acute [[Endocrinology/Adrenal Crisis\|adrenal crisis]].
 - Increased "stress dosing" of hydrocortisone is mandatory during periods of febrile illness, trauma, or surgery.
 - Therapy also includes recombinant human GH to achieve normal adult height and sex steroids at an appropriate age to induce puberty.

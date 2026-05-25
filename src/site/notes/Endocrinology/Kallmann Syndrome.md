@@ -4,7 +4,7 @@
 
 ## Definition and Pathogenesis
 
-- [[Endocrinology/Kallmann Syndrome\|Kallmann syndrome]] is a genetic disorder classically characterized by the combination of isolated hypogonadotropic hypogonadism and an impaired or completely absent sense of smell (hyposmia or anosmia).
+- Kallmann syndrome is a genetic disorder classically characterized by the combination of isolated hypogonadotropic hypogonadism and an impaired or completely absent sense of smell (hyposmia or anosmia).
 - The primary pathophysiological defect is the disrupted embryonic migration of gonadotropin-releasing hormone (GnRH) neurons from the nasal placode to their final destination in the hypothalamus.
 
 ## Genetics

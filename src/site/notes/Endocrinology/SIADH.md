@@ -36,54 +36,43 @@
 ```mermaid
 %%{init: {"themeVariables": { "lineWidth": "3px", "lineColor": "#000000" } }}%%
 graph TD
-    %% SIADH Evaluation Flowchart
+    A["Hyponatremia: Serum Na+ < 135 mEq/L"] --> B{Check Serum Osmolality}
     
-    Start(["Check Serum Sodium Na+"]) --> VerifyHypo{"Serum Na+ < 135 mEq/L?"}
-    VerifyHypo -- No --> NormNa["Normal Sodium. Continue Clinical Monitoring."]
-    VerifyHypo -- Yes --> CheckOsm["Measure Serum & Urine Osmolality"]
+    B -->|"Greater than 295 mOsm/kg"| C[Hypertonic/Isotonic Hyponatremia <br> e.g., Hyperglycemia, Pseudohyponatremia]
+    B -->|"275 - 295 mOsm/kg"| C
+    B -->|"Less than 275 mOsm/kg"| D[True Hypotonic Hyponatremia]
     
-    %% Confirm Hypoosmolar Hyponatremia
-    CheckOsm --> ConfirmLowOsm{"Serum Osmolality < 275-280 mOsm/kg?"}
-    ConfirmLowOsm -- No --> PseudoOrTrans["Suggests Pseudohyponatremia or Translocational Hyponatremia <br> (e.g., hyperglycemia)"]
+    D --> E{Assess Volume Status}
     
-    %% Assess Appropriateness of Urine Osmolality
-    ConfirmLowOsm -- Yes --> AppropUrineOsm{"Urine Osmolality > 100 mOsm/kg?"}
-    AppropUrineOsm -- No --> WaterIntake["Consider Primary Polydipsia, Beer Potomania, or Low Solute Intake"]
+    E -->|Hypovolemic| F[Dehydration, Diuretics, GI losses]
+    E -->|Hypervolemic| G[Heart Failure, Cirrhosis, Nephrotic Syndrome]
+    E -->|Euvolemic| H{Check Urine Osmolality}
     
-    %% Evaluate Volume Status
-    AppropUrineOsm -- Yes --> CheckVolumeStatus["Assess Volume Status"]
-    CheckVolumeStatus --> DetermineStatus{"Status:"}
+    H -->|"Less than 100 mOsm/kg"| I[Primary Polydipsia, Beer Potomania]
+    H -->|"Greater than 100 mOsm/kg"| J{Check Urine Sodium & Endocrine Function}
     
-    DetermineStatus -- Hypovolemic --> LowVolume["Look for Extrarenal/Renal losses, Diuretics"]
-    DetermineStatus -- Hypervolemic --> HighVolume["Consider Heart Failure, Cirrhosis, Nephrotic Syndrome"]
-    DetermineStatus -- Euvolemic --> RuleOutConditions["Evaluate for essential SIADH criteria & rule out mimics"]
+    J -->|"U_Na Less than 30 mEq/L OR Abnormal Cortisol/TSH"| K[Adrenal Insufficiency, Hypothyroidism, or Diuretic use]
+    J -->|"U_Na Greater than 30 mEq/L AND Normal Cortisol/TSH"| L[SIADH Confirmed]
     
-    %% Essential Diagnostic Criteria for SIADH
-    RuleOutConditions --> AssessUrineNa{"Urine Na+ > 40 mEq/L with normal intake?"}
+    L --> M{Assess Symptom Severity}
     
-    AssessUrineNa -- Yes --> RuleOutOtherCauses["Rule out Other Causes"]
-    RuleOutOtherCauses --> AssessAdrenal{"Rule out Glucocorticoid Deficiency / Hypothyroidism?"}
-    AssessAdrenal -- No --> SpecificTreatment["Specific treatment for Adrenal Insufficiency or Hypothyroidism"]
+    M -->|Severe: Seizures, Coma, Severe Confusion| N["Emergency Treatment: <br> 3% Hypertonic Saline bolus <br> Limit correction to < 8-10 mEq/L in 24h"]
+    M -->|Mild to Moderate: Headache, Nausea, Mild Confusion| O["First-Line Treatment: <br> Fluid Restriction < 800-1000 mL/day <br> Address underlying cause"]
     
-    AssessAdrenal -- Yes --> AssessRenal{"Normal Renal Function & No Diuretics?"}
-    AssessRenal -- No --> DiureticOrRenal["Consider diuretic effect or renal dysfunction"]
-    
-    AssessRenal -- Yes --> Diagnosed(["Diagnosis of SIADH Established"])
-    
-    AssessUrineNa -- No --> LowUNa["Check for low effective arterial blood volume and high Uosm"]
-    
-    %% Clinical High-Contrast Theme Styling
-    classDef startNode fill:#e8f5e9,stroke:#2e7d32,stroke-width:2px,color:#2e7d32;
-    classDef endNode fill:#ffebee,stroke:#c62828,stroke-width:2px,color:#c62828;
-    classDef decisionNode fill:#fffde7,stroke:#fbc02d,stroke-width:2px,color:#fbc02d;
-    classDef actionNode fill:#e1f5fe,stroke:#0288d1,stroke-width:2px,color:#0288d1;
-    classDef altPathNode fill:#f3e5f5,stroke:#7b1fa2,stroke-width:2px,color:#7b1fa2;
-    
-    class Start,NormNa startNode;
-    class VerifyHypo,ConfirmLowOsm,AppropUrineOsm,DetermineStatus,AssessUrineNa,AssessAdrenal,AssessRenal decisionNode;
-    class CheckOsm,CheckVolumeStatus,RuleOutConditions,RuleOutOtherCauses actionNode;
-    class Diagnosed endNode;
-    class PseudoOrTrans,WaterIntake,LowVolume,HighVolume,LowUNa,DiureticOrRenal,SpecificTreatment altPathNode;
+    O --> P["Second-Line if Fluid Restriction Fails: <br> Oral Salt Tablets + Loop Diuretics, or Vasopressin Antagonists /Vaptans/"]
+
+    %% Class Definitions %%
+    classDef assessment fill:#e3f2fd,stroke:#1565c0,stroke-width:2px,color:#1565c0;
+    classDef decision fill:#fff3e0,stroke:#ef6c00,stroke-width:2px,color:#ef6c00;
+    classDef outcome fill:#e0f2f1,stroke:#00695c,stroke-width:2px,color:#00695c;
+    classDef standardTx fill:#f3e5f5,stroke:#6a1b9a,stroke-width:2px,color:#6a1b9a;
+    classDef critical fill:#ffebee,stroke:#c62828,stroke-width:3px,color:#c62828;
+
+    class A assessment;
+    class B,E,H,J,M decision;
+    class C,D,F,G,I,K,L outcome;
+    class O,P standardTx;
+    class N critical;
 ```
 - **Serum Chemistry:**
     - Hyponatremia (Sodium <135 mEq/L).

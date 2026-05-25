@@ -102,7 +102,7 @@ Normal pubertal development (thelarche present) but absent menarche due to anato
 - **Syndromic Stigmata:**
     - _Turner Syndrome:_ Webbed neck, low posterior hairline, shield chest, widely spaced nipples, high-arched palate, multiple pigmented nevi.
     - _Prader-Willi:_ Hypotonia, morbid obesity, small hands/feet.
-    - _Kallmann Syndrome:_ Anosmia/hyposmia, midline facial defects (cleft lip/palate).
+    - _[[Endocrinology/Kallmann Syndrome\|Kallmann Syndrome]]:_ Anosmia/hyposmia, midline facial defects (cleft lip/palate).
 - **Genital Examination:** Assess estrogenization of vaginal mucosa (thin, red, dry suggests hypoestrogenism). Rule out imperforate hymen or clitoromegaly (virilizing disorder).
 - **Neurological Examination:** Fundoscopy, visual fields (optic glioma/craniopharyngioma), cranial nerves (olfaction).
 
