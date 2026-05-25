@@ -18,16 +18,16 @@
 
 ## Etiological Classification
 
-|Category|Central [[Endocrinology/Diabetes Insipidus\|Diabetes Insipidus]]|[[Nephrology/Nephrogenic diabetes insipidus\|Nephrogenic Diabetes Insipidus]]|
-|:--|:--|:--|
-|**Genetic Defects**|Autosomal dominant (AVP-NPII variants). Wolfram syndrome (DIDMOAD) via autosomal recessive _WFS1_ or _WFS2/CISD2_ mutations.|X-linked recessive (_AVPR2_ / V2 receptor mutations). Autosomal recessive/dominant (_AQP2_ water channel mutations).|
-|**Malformations**|Septo-optic dysplasia, holoprosencephaly, anencephaly. Familial pituitary hypoplasia with absent stalk.|Polycystic kidney disease, medullary cystic disease.|
-|**Neoplasms**|Craniopharyngioma, germinoma, pinealoma. Optic glioma, hematologic malignancies (leukemia).|Infiltrating lesions rarely (amyloidosis).|
-|**Infiltrative / Inflammatory**|[[Hematology/Langerhans Cell Histiocytosis\|Langerhans cell histiocytosis]], neurosarcoidosis. Lymphocytic infundibuloneurohypophysitis.|Sarcoidosis.|
-|**Infectious**|[[Neurology/Meningitis\|Meningitis]] (tuberculous, bacterial), encephalitis. Congenital cytomegalovirus, toxoplasmosis.|None directly; secondary to systemic effects.|
-|**Trauma / Vascular**|Neurosurgery, head trauma, cerebral hemorrhage. Hypoxic brain death.|Sickle cell anemia (vascular sickling in renal medulla).|
-|**Metabolic / Endocrine**|Increased AVP metabolism during pregnancy (placental vasopressinase).|Chronic hypercalcemia, severe hypokalemia.|
-|**Drugs / Toxins**|Ethanol, phenytoin, opiate antagonists, alpha-adrenergic agents.|Lithium, demeclocycline, foscarnet, amphotericin, methicillin, rifampin.|
+| Category                        | Central Diabetes Insipidus                                                                                                   | [[Nephrology/Nephrogenic diabetes insipidus\|Nephrogenic Diabetes Insipidus]]                                                                                   |
+| :------------------------------ | :--------------------------------------------------------------------------------------------------------------------------- | :------------------------------------------------------------------------------------------------------------------- |
+| **Genetic Defects**             | Autosomal dominant (AVP-NPII variants). Wolfram syndrome (DIDMOAD) via autosomal recessive _WFS1_ or _WFS2/CISD2_ mutations. | X-linked recessive (_AVPR2_ / V2 receptor mutations). Autosomal recessive/dominant (_AQP2_ water channel mutations). |
+| **Malformations**               | Septo-optic dysplasia, holoprosencephaly, anencephaly. Familial pituitary hypoplasia with absent stalk.                      | Polycystic kidney disease, medullary cystic disease.                                                                 |
+| **Neoplasms**                   | Craniopharyngioma, germinoma, pinealoma. Optic glioma, hematologic malignancies (leukemia).                                  | Infiltrating lesions rarely (amyloidosis).                                                                           |
+| **Infiltrative / Inflammatory** | [[Hematology/Langerhans Cell Histiocytosis\|Langerhans cell histiocytosis]], neurosarcoidosis. Lymphocytic infundibuloneurohypophysitis.                               | Sarcoidosis.                                                                                                         |
+| **Infectious**                  | [[Neurology/Meningitis\|Meningitis]] (tuberculous, bacterial), encephalitis. Congenital cytomegalovirus, toxoplasmosis.                            | None directly; secondary to systemic effects.                                                                        |
+| **Trauma / Vascular**           | Neurosurgery, head trauma, cerebral hemorrhage. Hypoxic brain death.                                                         | Sickle cell anemia (vascular sickling in renal medulla).                                                             |
+| **Metabolic / Endocrine**       | Increased AVP metabolism during pregnancy (placental vasopressinase).                                                        | Chronic hypercalcemia, severe hypokalemia.                                                                           |
+| **Drugs / Toxins**              | Ethanol, phenytoin, opiate antagonists, alpha-adrenergic agents.                                                             | Lithium, demeclocycline, foscarnet, amphotericin, methicillin, rifampin.                                             |
 
 ## Clinical Manifestations
 
@@ -152,7 +152,7 @@ graph TD
 
 ## Management
 
-### Central [[Endocrinology/Diabetes Insipidus\|Diabetes Insipidus]]
+### Central Diabetes Insipidus
 
 - **Pharmacotherapy:** Desmopressin (DDAVP), a synthetic AVP analog with potent V2-specific antidiuretic activity and prolonged half-life, remains treatment of choice.
 - Formulations include oral tablets, sublingual melts, or intranasal preparations.
