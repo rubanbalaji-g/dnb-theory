@@ -35,82 +35,55 @@
 ## Diagnostic Evaluation
 ```mermaid
 %%{init: {"themeVariables": { "lineWidth": "3px", "lineColor": "#000000" } }}%%
-
 graph TD
-
-%% SIADH Evaluation Flowchart
-
-Start(["Check Serum Sodium (Na+)"]) --> VerifyHypo{"Serum Na+ < 135 mEq/L?"}
-
-VerifyHypo -- "No" --> NormNa["Normal Sodium\nContinue Clinical Monitoring"]
-
-VerifyHypo -- "Yes" --> CheckOsm["Measure Serum &\nUrine Osmolality"]
-
-%% Confirm Hypoosmolar Hyponatremia
-
-CheckOsm --> ConfirmLowOsm{"Serum Osmolality\n< 275-280 mOsm/kg?"}
-
-ConfirmLowOsm -- "No" --> PseudoOrTrans["Suggests Pseudohyponatremia or\nTranslocational Hyponatremia\n(e.g., hyperglycemia)"]
-
-%% Assess Appropriateness of Urine Osmolality
-
-ConfirmLowOsm -- "Yes" --> AppropUrineOsm{"Urine Osmolality\n> 100 mOsm/kg?"}
-
-AppropUrineOsm -- "No" --> WaterIntake["Consider Primary Polydipsia,\nBeer Potomania, or\nLow Solute Intake"]
-
-%% Evaluate Volume Status
-
-AppropUrineOsm -- "Yes" --> CheckVolumeStatus["Assess Volume Status"]
-
-CheckVolumeStatus --> DetermineStatus{"Volume Status?"}
-
-DetermineStatus -- "Hypovolemic" --> LowVolume["Look for Extrarenal/Renal\nlosses, Diuretics"]
-
-DetermineStatus -- "Hypervolatile" --> HighVolume["Consider Heart Failure,\nCirrhosis, Nephrotic Syndrome"]
-
-DetermineStatus -- "Euvolemic" --> RuleOutConditions["Evaluate for Essential\nSIADH Criteria &\nRule Out Mimics"]
-
-%% Essential Diagnostic Criteria for SIADH
-
-RuleOutConditions --> AssessUrineNa{"Urine Na+ > 40 mEq/L\nwith Normal Intake?"}
-
-AssessUrineNa -- "Yes" --> RuleOutOtherCauses["Rule Out Other Causes"]
-
-RuleOutOtherCauses --> AssessAdrenal{"Rule Out Glucocorticoid\nDeficiency / Hypothyroidism?"}
-
-AssessAdrenal -- "No" --> SpecificTreatment["Specific Treatment for\nAdrenal Insufficiency\nor Hypothyroidism"]
-
-AssessAdrenal -- "Yes" --> AssessRenal{"Normal Renal Function\n& No Diuretics?"}
-
-AssessRenal -- "No" --> DiureticOrRenal["Consider Diuretic Effect\nor Renal Dysfunction"]
-
-AssessRenal -- "Yes" --> Diagnosed(["Diagnosis of SIADH\nEstablished"])
-
-AssessUrineNa -- "No" --> LowUNa["Check for Low Effective\nArterial Blood Volume\nand High Uosm"]
-
-%% Styling Class Definitions (Strict High-Contrast & Color-Matched Hierarchy)
-
-classDef startNode fill:#e8f5e9,stroke:#2e7d32,stroke-width:3px,color:#1b5e20;
-
-classDef decisionNode fill:#fffde7,stroke:#f57f17,stroke-width:3px,color:#5f5000;
-
-classDef actionNode fill:#e3f2fd,stroke:#1565c0,stroke-width:3px,color:#0d47a1;
-
-classDef endNode fill:#e0f2f1,stroke:#00695c,stroke-width:3px,color:#004d40;
-
-classDef altNode fill:#ffebee,stroke:#c62828,stroke-width:3px,color:#b71c1c;
-
-%% Apply Classes to Nodes
-
-class Start startNode;
-
-class NormNa,PseudoOrTrans,WaterIntake,LowVolume,HighVolume,LowUNa,DiureticOrRenal,SpecificTreatment altNode;
-
-class VerifyHypo,ConfirmLowOsm,AppropUrineOsm,DetermineStatus,AssessUrineNa,AssessAdrenal,AssessRenal decisionNode;
-
-class CheckOsm,CheckVolumeStatus,RuleOutConditions,RuleOutOtherCauses actionNode;
-
-class Diagnosed endNode;
+    %% SIADH Evaluation Flowchart
+    
+    Start(["Check Serum Sodium Na+"]) --> VerifyHypo{"Serum Na+ < 135 mEq/L?"}
+    VerifyHypo -- No --> NormNa["Normal Sodium. Continue Clinical Monitoring."]
+    VerifyHypo -- Yes --> CheckOsm["Measure Serum & Urine Osmolality"]
+    
+    %% Confirm Hypoosmolar Hyponatremia
+    CheckOsm --> ConfirmLowOsm{"Serum Osmolality < 275-280 mOsm/kg?"}
+    ConfirmLowOsm -- No --> PseudoOrTrans["Suggests Pseudohyponatremia or Translocational Hyponatremia <br> (e.g., hyperglycemia)"]
+    
+    %% Assess Appropriateness of Urine Osmolality
+    ConfirmLowOsm -- Yes --> AppropUrineOsm{"Urine Osmolality > 100 mOsm/kg?"}
+    AppropUrineOsm -- No --> WaterIntake["Consider Primary Polydipsia, Beer Potomania, or Low Solute Intake"]
+    
+    %% Evaluate Volume Status
+    AppropUrineOsm -- Yes --> CheckVolumeStatus["Assess Volume Status"]
+    CheckVolumeStatus --> DetermineStatus{"Status:"}
+    
+    DetermineStatus -- Hypovolemic --> LowVolume["Look for Extrarenal/Renal losses, Diuretics"]
+    DetermineStatus -- Hypervolemic --> HighVolume["Consider Heart Failure, Cirrhosis, Nephrotic Syndrome"]
+    DetermineStatus -- Euvolemic --> RuleOutConditions["Evaluate for essential SIADH criteria & rule out mimics"]
+    
+    %% Essential Diagnostic Criteria for SIADH
+    RuleOutConditions --> AssessUrineNa{"Urine Na+ > 40 mEq/L with normal intake?"}
+    
+    AssessUrineNa -- Yes --> RuleOutOtherCauses["Rule out Other Causes"]
+    RuleOutOtherCauses --> AssessAdrenal{"Rule out Glucocorticoid Deficiency / Hypothyroidism?"}
+    AssessAdrenal -- No --> SpecificTreatment["Specific treatment for Adrenal Insufficiency or Hypothyroidism"]
+    
+    AssessAdrenal -- Yes --> AssessRenal{"Normal Renal Function & No Diuretics?"}
+    AssessRenal -- No --> DiureticOrRenal["Consider diuretic effect or renal dysfunction"]
+    
+    AssessRenal -- Yes --> Diagnosed(["Diagnosis of SIADH Established"])
+    
+    AssessUrineNa -- No --> LowUNa["Check for low effective arterial blood volume and high Uosm"]
+    
+    %% Clinical High-Contrast Theme Styling
+    classDef startNode fill:#e8f5e9,stroke:#2e7d32,stroke-width:2px,color:#2e7d32;
+    classDef endNode fill:#ffebee,stroke:#c62828,stroke-width:2px,color:#c62828;
+    classDef decisionNode fill:#fffde7,stroke:#fbc02d,stroke-width:2px,color:#fbc02d;
+    classDef actionNode fill:#e1f5fe,stroke:#0288d1,stroke-width:2px,color:#0288d1;
+    classDef altPathNode fill:#f3e5f5,stroke:#7b1fa2,stroke-width:2px,color:#7b1fa2;
+    
+    class Start,NormNa startNode;
+    class VerifyHypo,ConfirmLowOsm,AppropUrineOsm,DetermineStatus,AssessUrineNa,AssessAdrenal,AssessRenal decisionNode;
+    class CheckOsm,CheckVolumeStatus,RuleOutConditions,RuleOutOtherCauses actionNode;
+    class Diagnosed endNode;
+    class PseudoOrTrans,WaterIntake,LowVolume,HighVolume,LowUNa,DiureticOrRenal,SpecificTreatment altPathNode;
 ```
 - **Serum Chemistry:**
     - Hyponatremia (Sodium <135 mEq/L).
@@ -131,27 +104,27 @@ class Diagnosed endNode;
 
 ## Differential Diagnosis
 
-|Feature|[[Endocrinology/SIADH\|SIADH]]|Cerebral Salt Wasting (CSW)|Systemic Dehydration|Primary Polydipsia|
-|:--|:--|:--|:--|:--|
-|**Pathophysiology**|Excess AVP action|Excess ANP/natriuretic peptides|Fluid/salt loss|Compulsive water intake|
-|**Intravascular Volume**|Normal or High|Low (Hypovolemia)|Low|Normal or High|
-|**Blood Pressure**|Normal|Decreased/Orthostatic|Decreased|Normal|
-|**Urine Sodium**|High (>30 mEq/L)|Very High (>150 mEq/L)|Low (<20-30 mEq/L)|Normal|
-|**Serum Uric Acid**|Low|Normal or High|High|Normal|
-|**BUN**|Low|High|High|Low/Normal|
-|**Vasopressin Level**|High|Low (Suppressed)|High|Low|
+| Feature                  | SIADH             | Cerebral Salt Wasting (CSW)     | Systemic Dehydration | Primary Polydipsia      |
+| :----------------------- | :---------------- | :------------------------------ | :------------------- | :---------------------- |
+| **Pathophysiology**      | Excess AVP action | Excess ANP/natriuretic peptides | Fluid/salt loss      | Compulsive water intake |
+| **Intravascular Volume** | Normal or High    | Low (Hypovolemia)               | Low                  | Normal or High          |
+| **Blood Pressure**       | Normal            | Decreased/Orthostatic           | Decreased            | Normal                  |
+| **Urine Sodium**         | High (>30 mEq/L)  | Very High (>150 mEq/L)          | Low (<20-30 mEq/L)   | Normal                  |
+| **Serum Uric Acid**      | Low               | Normal or High                  | High                 | Normal                  |
+| **BUN**                  | Low               | High                            | High                 | Low/Normal              |
+| **Vasopressin Level**    | High              | Low (Suppressed)                | High                 | Low                     |
 
 ## Management
 
-### Chronic, Euvolemic, or Mild [[Endocrinology/SIADH\|SIADH]]
+### Chronic, Euvolemic, or Mild SIADH
 
 - **Primary Therapy:** Strict oral fluid restriction. Limit intake to 1000 mL/m2/day (covers obligate renal solute load and insensible losses).
 - **Pharmacologic Adjuncts (if fluid restriction compromises nutrition/growth):**
-    - **Urea:** Oral administration induces safe osmotic diuresis. Highly effective in pediatric [[Endocrinology/SIADH\|SIADH]] and NSIAD.
+    - **Urea:** Oral administration induces safe osmotic diuresis. Highly effective in pediatric SIADH and NSIAD.
     - **Vaptans (Tolvaptan, Conivaptan):** Non-peptide V2 receptor antagonists (aquaretics). Produce rapid free water excretion. _Caveats:_ Not FDA approved in children. Risk of excessively rapid overcorrection, hepatotoxicity, and extreme thirst. Ineffective in NSIAD (activating V2 mutations).
     - **Demeclocycline/Lithium:** Induce nephrogenic DI. Historically used but limited in pediatrics due to significant renal and systemic toxicity.
 
-### Acute, Severe, or Symptomatic [[Endocrinology/SIADH\|SIADH]] (Na <120 mEq/L with neurological compromise)
+### Acute, Severe, or Symptomatic SIADH (Na <120 mEq/L with neurological compromise)
 
 - **Medical Emergency:** Immediate intervention required to reverse cerebral edema.
 - **Hypertonic Saline:** Administer 3% Sodium Chloride intravenously.
@@ -160,4 +133,4 @@ class Diagnosed endNode;
     - Raise serum sodium _only_ high enough to resolve critical mental status changes.
     - Maximum correction rate: **0.5 mEq/L/hr** or **12 mEq/L/24 hr**.
     - _Complication of rapid correction:_ Central Pontine Myelinolysis (Osmotic Demyelination Syndrome). Causes irreversible axonal demyelination and permanent brain damage within 24-48 hours.
-- **Contraindications:** Avoid isotonic (0.9%) saline. Administering normal saline in [[Endocrinology/SIADH\|SIADH]] frequently worsens hyponatremia because the sodium is rapidly excreted while the free water is retained.
+- **Contraindications:** Avoid isotonic (0.9%) saline. Administering normal saline in SIADH frequently worsens hyponatremia because the sodium is rapidly excreted while the free water is retained.
