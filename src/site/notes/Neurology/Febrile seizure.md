@@ -27,9 +27,9 @@
 
 ### IV. CLINICAL EVALUATION
 1. **History:** Focus on seizure semiology (focal vs. generalized), duration, fever onset, and post-ictal state. Assess family history and developmental status.
-2. **Examination:** - Search for extracranial focus (Otitis media, pharyngitis, [[Nephrology/UTI\|UTI]]).
+2. **Examination:** - Search for extracranial focus (Otitis media, pharyngitis, UTI).
    - Neurologic: Check for meningeal signs (Kernig’s/Brudzinski’s - unreliable <12 months), fontanelle tension, and focal deficits.
-3. **Red Flags:** Persistent altered sensorium (>1 hour post-seizure), petechial rash, bulging fontanelle, or focal neurological signs.
+1. **Red Flags:** Persistent altered sensorium (>1 hour post-seizure), petechial rash, bulging fontanelle, or focal neurological signs.
 
 ### V. INVESTIGATIONS
 1. **Lumbar Puncture (LP):**

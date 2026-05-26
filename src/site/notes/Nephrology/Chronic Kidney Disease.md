@@ -4,13 +4,13 @@
 
 ## Definition and Staging
 
-- [[Nephrology/Chronic Kidney Disease\|Chronic kidney disease]] (CKD) is defined as kidney damage lasting for at least 3 months, characterized by structural or functional abnormalities of the kidney, with or without a decreased glomerular filtration rate (GFR).
+- Chronic kidney disease (CKD) is defined as kidney damage lasting for at least 3 months, characterized by structural or functional abnormalities of the kidney, with or without a decreased glomerular filtration rate (GFR).
 - Alternatively, it is defined as a GFR < 60 mL/min/1.73 m² for $\ge$ 3 months, with or without other signs of kidney damage.
 - Kidney damage manifests as abnormalities in blood or urine composition (e.g., persistent hematuria or proteinuria), abnormal imaging tests, or abnormalities on kidney biopsy.
 - Because renal maturation increases from infancy to reach adult values at approximately 2 years of age, standardized CKD stages based on GFR apply primarily to children older than 2 years.
 - The estimated GFR (eGFR) in children is most widely calculated using the bedside Schwartz equation.
 
-### Stages of [[Nephrology/Chronic Kidney Disease\|Chronic Kidney Disease]]
+### Stages of Chronic Kidney Disease
 
 |Stage|GFR (mL/min/1.73 m²)|Clinical Description|
 |:--|:--|:--|
@@ -64,7 +64,7 @@
 
 ## Diagnostic Evaluation
 
-- Initial evaluation must identify the underlying etiology and detect any reversible factors (e.g., urinary tract obstruction, active [[Nephrology/UTI\|UTI]], severe hypertension, dehydration, or concurrent drug toxicity).
+- Initial evaluation must identify the underlying etiology and detect any reversible factors (e.g., urinary tract obstruction, active UTI, severe hypertension, dehydration, or concurrent drug toxicity).
 - Blood investigations should include complete blood counts, urea, creatinine, electrolytes, total protein, albumin, pH, and bicarbonate.
 - Assessment of CKD-MBD requires measuring serum calcium, phosphate, alkaline phosphatase, intact parathyroid hormone (PTH), and 25-hydroxyvitamin D.
 - Anemia workup mandates iron studies, including serum ferritin, transferrin, total iron-binding capacity, and percent transferrin saturation (TSAT).

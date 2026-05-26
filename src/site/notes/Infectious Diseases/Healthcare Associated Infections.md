@@ -66,7 +66,7 @@ HAIs are frequently associated with the use of invasive medical devices.
 
 #### B. Catheter-Associated Urinary Tract Infections (CAUTI)
 
-- **Definition:** Symptomatic [[Nephrology/UTI\|UTI]] in a patient with an indwelling urinary catheter in place for >2 days.
+- **Definition:** Symptomatic UTI in a patient with an indwelling urinary catheter in place for >2 days.
 - **Pathogenesis:** Biofilm formation on the catheter surface facilitates ascending infection from perineal flora or contaminated hands.
 - **Common Pathogens:** _E. coli_ (most common), _Klebsiella_, _Pseudomonas_, _Enterococcus_, _Candida_.
 - **Clinical:** Fever, suprapubic tenderness, rigors; often asymptomatic bacteriuria (which should generally not be treated).

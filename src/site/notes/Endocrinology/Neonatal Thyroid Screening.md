@@ -128,10 +128,10 @@ Immediate and profound transition required to shift from intrauterine anabolic s
 
 ## Screening Strategies
 
-|Strategy|Methodology|Advantages|Disadvantages|
-|:--|:--|:--|:--|
-|**Primary TSH**|Measures TSH only. Most common approach globally.|Highly sensitive for primary CH. Detects mild/compensated CH.|Misses central (secondary) CH. Misses delayed TSH elevations.|
-|**Primary T4 + Reflex TSH**|Measures total T4. If <10th percentile, reflex TSH performed.|Detects primary CH, central CH, and Thyroxine-Binding Globulin (TBG) deficiency.|High false positive rate in prematurity (low TBG/T4). May miss mild primary CH with normal T4.|
+| Strategy                    | Methodology                                                   | Advantages                                                                       | Disadvantages                                                                                  |
+| :-------------------------- | :------------------------------------------------------------ | :------------------------------------------------------------------------------- | :--------------------------------------------------------------------------------------------- |
+| **Primary TSH**             | Measures TSH only. Most common approach globally.             | Highly sensitive for primary CH. Detects mild/compensated CH.                    | Misses central (secondary) CH. Misses delayed TSH elevations.                                  |
+| **Primary T4 + Reflex TSH** | Measures total T4. If <10th percentile, reflex TSH performed. | Detects primary CH, central CH, and Thyroxine-Binding Globulin (TBG) deficiency. | High false positive rate in prematurity (low TBG/T4). May miss mild primary CH with normal T4. |
 
 ## Thresholds & Interpretation
 

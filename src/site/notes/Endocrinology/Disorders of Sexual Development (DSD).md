@@ -147,7 +147,7 @@ Characterized by male karyotype with ambiguous or complete female external genit
 - **Congenital Lipoid Adrenal Hyperplasia (StAR deficiency):** Defective cholesterol conversion. Complete female phenotype in XY. Salt-wasting.
 - **17α-Hydroxylase/17,20-Lyase Deficiency (_CYP17A1_):** Blocks synthesis of DHEA/androstenedione. Female/ambiguous genitalia. Hypertension and hypokalemia.
 - **17β-Hydroxysteroid Dehydrogenase Type 3 Deficiency (_HSD17B3_):** Impairs conversion of androstenedione to testosterone. Female external genitalia with blind vaginal pouch, but Wolffian structures present. Massive virilization at puberty due to extratesticular conversion.
-- **5α-Reductase Type 2 Deficiency (_SRD5A2_):** Impaired conversion of T to DHT. Ambiguous genitalia (pseudovaginal perineoscrotal hypospadias). Severe pubertal virilization often leading to male gender role adoption. High T/DHT ratio (>17) post-hCG.
+- **5α-Reductase Type 2 Deficiency (_SRD5A2_):** Impaired conversion of T to DHT. Ambiguous genitalia (pseudovaginal perineoscrotal hypospadias). Severe pubertal virilization often leading to male gender role adoption. **High T/DHT ratio (>17) post-hCG.**
 
 #### Disorders of Androgen Action
 
@@ -169,14 +169,14 @@ Characterized by male karyotype with ambiguous or complete female external genit
 
 ## Syndromic Associations of DSD
 
-|Syndrome|Gene|Clinical Features|
-|:--|:--|:--|
-|**Smith-Lemli-Opitz**|_DHCR7_|[[Neurology/Microcephaly\|Microcephaly]], 2-3 toe syndactyly, cleft palate, elevated 7-dehydrocholesterol.|
-|**CHARGE**|_CHD7_|Coloboma, Heart defects, Choanal atresia, Retardation, Genital/Ear anomalies.|
-|**Pallister-Hall**|_GLI3_|Hypothalamic hamartoma, postaxial polydactyly, imperforate anus, bifid epiglottis.|
-|**WAGR**|11p13 del|[[Hematology/Wilms Tumor\|Wilms tumor]], Aniridia, Genitourinary anomalies, Retardation.|
-|**Hand-Foot-Genital**|_HOXA13_|Short thumbs/great toes, hypospadias, bicornuate uterus.|
-|**Genitopatellar**|_KAT6B_|Absent patellae, flexion contractures, ambiguous genitalia, agenesis corpus callosum.|
+| Syndrome              | Gene      | Clinical Features                                                                      |
+| :-------------------- | :-------- | :------------------------------------------------------------------------------------- |
+| **Smith-Lemli-Opitz** | _DHCR7_   | [[Neurology/Microcephaly\|Microcephaly]], 2-3 toe syndactyly, cleft palate, **elevated 7-dehydrocholesterol**. |
+| **CHARGE**            | _CHD7_    | Coloboma, Heart defects, Choanal atresia, Retardation, Genital/Ear anomalies.          |
+| **Pallister-Hall**    | _GLI3_    | Hypothalamic hamartoma, postaxial polydactyly, imperforate anus, bifid epiglottis.     |
+| **WAGR**              | 11p13 del | [[Hematology/Wilms Tumor\|Wilms tumor]], Aniridia, Genitourinary anomalies, Retardation.                       |
+| **Hand-Foot-Genital** | _HOXA13_  | Short thumbs/great toes, hypospadias, bicornuate uterus.                               |
+| **Genitopatellar**    | _KAT6B_   | Absent patellae, flexion contractures, ambiguous genitalia, agenesis corpus callosum.  |
 
 ## Diagnostic Evaluation of DSD
 

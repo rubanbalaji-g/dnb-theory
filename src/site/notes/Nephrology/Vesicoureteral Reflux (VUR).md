@@ -4,7 +4,7 @@
 
 ### Definition and Pathophysiology
 
-- [[Nephrology/Vesicoureteral Reflux (VUR)\|Vesicoureteral reflux (VUR)]] is the retrograde flow of urine from the bladder into the ureters and renal pelvis at rest or during micturition.
+- Vesicoureteral reflux (VUR) is the retrograde flow of urine from the bladder into the ureters and renal pelvis at rest or during micturition.
 - The normal ureterovesical junction acts as a one-way flap-valve due to the oblique insertion of the ureter into the bladder musculature and an adequate length of the submucosal ureteral tunnel.
 - VUR occurs when the submucosal tunnel is congenitally short or absent, leading to valvular incompetence.
 - The condition predisposes the kidney to pyelonephritis by facilitating the ascent of colonized bladder bacteria into the upper urinary tract, which can trigger severe inflammation and subsequent renal scarring (reflux nephropathy).
@@ -20,26 +20,26 @@
 
 - The severity of VUR is evaluated and graded based on the International Reflux Study classification using a contrast voiding cystourethrogram (VCUG).
 
-|Grade|Radiographic Appearance on VCUG|
-|:--|:--|
-|**Grade I**|Reflux solely into a non-dilated ureter.|
-|**Grade II**|Reflux into the upper collecting system (renal pelvis and calyces) without any dilation.|
-|**Grade III**|Reflux into a dilated ureter and/or mild-to-moderate blunting of the calyceal fornices.|
-|**Grade IV**|Reflux into a grossly dilated and moderately tortuous ureter, with complete obliteration of the sharp angles of the calyceal fornices.|
-|**Grade V**|Massive reflux with gross dilation and tortuosity of the ureter, renal pelvis, and calyces, accompanied by loss of papillary impressions.|
-
+| Grade         | Radiographic Appearance on VCUG                                                                                                           |
+| :------------ | :---------------------------------------------------------------------------------------------------------------------------------------- |
+| **Grade I**   | Reflux solely into a non-dilated ureter.                                                                                                  |
+| **Grade II**  | Reflux into the upper collecting system (renal pelvis and calyces) without any dilation.                                                  |
+| **Grade III** | Reflux into a dilated ureter and/or mild-to-moderate blunting of the calyceal fornices.                                                   |
+| **Grade IV**  | Reflux into a grossly dilated and moderately tortuous ureter, with complete obliteration of the sharp angles of the calyceal fornices.    |
+| **Grade V**   | Massive reflux with gross dilation and tortuosity of the ureter, renal pelvis, and calyces, accompanied by loss of papillary impressions. |
+![Pasted image 20260526122319.png](/img/user/+%C4%B0mages/Pasted%20image%2020260526122319.png)
 ### Clinical Presentation and Risk Factors
 
-- VUR is most frequently diagnosed in young children following an episode of a febrile [[Nephrology/Urinary Tract Infection\|urinary tract infection]] ([[Nephrology/UTI\|UTI]]).
+- VUR is most frequently diagnosed in young children following an episode of a febrile [[Nephrology/Urinary Tract Infection\|urinary tract infection]] (UTI).
 - It may also be identified postnatally during the routine evaluation of antenatally detected hydronephrosis.
-- VUR frequently coexists with Bladder Bowel Dysfunction (BBD), a condition characterized by voiding postponement, constipation, and uninhibited bladder contractions. The presence of BBD doubles the risk of recurrent UTIs and delays the spontaneous resolution of VUR.
-- VUR is a highly familial trait, with an estimated 32% of siblings of an [[Statistics/Index\|index]] patient also having the condition, suggesting an autosomal dominant pattern with variable penetrance.
+- VUR frequently coexists with **Bladder Bowel Dysfunction (BBD)**, a condition characterized by voiding postponement, constipation, and uninhibited bladder contractions. The presence of BBD doubles the risk of recurrent UTIs and delays the spontaneous resolution of VUR.
+- VUR is a highly familial trait, with an estimated 32% of siblings of an index patient also having the condition, suggesting an autosomal dominant pattern with variable penetrance.
 
 ### Diagnostic Evaluation
 
-- **Renal and Bladder Ultrasound (USG):** Recommended after the first episode of [[Nephrology/UTI\|UTI]] in all children to assess for hydroureteronephrosis, bladder wall thickness, and post-void residual urine (indicating BBD). USG alone has poor sensitivity for detecting VUR.
-- **Voiding Cystourethrogram (VCUG):** The gold standard for diagnosing and grading VUR. Current guidelines recommend VCUG in children if they have a recurrent [[Nephrology/UTI\|UTI]], an abnormal ultrasound scan, or if a non-_E. coli_ [[Nephrology/UTI\|UTI]] occurs in a child under 2 years of age.
-- **Dimercaptosuccinic Acid (DMSA) Scintigraphy:** The gold standard for identifying reflux nephropathy and permanent renal scarring. A late-phase DMSA scan should be performed 4–6 months following a [[Nephrology/UTI\|UTI]] in patients with recurrent infections or documented high-grade VUR.
+- **Renal and Bladder Ultrasound (USG):** Recommended after the first episode of UTI in all children to assess for hydroureteronephrosis, bladder wall thickness, and post-void residual urine (indicating BBD). USG alone has poor sensitivity for detecting VUR.
+- **Voiding Cystourethrogram (VCUG):** The gold standard for diagnosing and grading VUR. Current guidelines recommend VCUG in children if they have a recurrent UTI, an abnormal ultrasound scan, or if a non-_E. coli_ UTI occurs in a child under 2 years of age.
+- **Dimercaptosuccinic Acid (DMSA) Scintigraphy:** The gold standard for identifying reflux nephropathy and permanent renal scarring. A late-phase DMSA scan should be performed 4–6 months following a UTI in patients with recurrent infections or documented high-grade VUR.
 
 ### Management
 
@@ -61,7 +61,7 @@ graph TD
 - **Antimicrobial Prophylaxis:** The primary goal is to maintain sterile urine to prevent pyelonephritis while awaiting spontaneous resolution.
     - Current guidelines strongly suggest prophylaxis for children with high-grade (Grades III–V) VUR.
     - Prophylaxis is generally not recommended for low-grade VUR without BBD, but may be considered in infants or in patients with recurrent UTIs accompanied by BBD.
-    - First-line agents include oral Cotrimoxazole or Nitrofurantoin (in children > 3 months) or Cephalexin (in infants < 3 months) administered as a single bedtime dose.
+    - First-line agents include **oral Cotrimoxazole or Nitrofurantoin** (in children > 3 months) or Cephalexin (in infants < 3 months) administered as a single bedtime dose.
     - Prophylaxis may be discontinued if the child is older than 2 years, is fully toilet trained, has no BBD, and has been free of febrile UTIs for at least 1 year.
 - **Surgical Correction:** Indicated for patients with high-grade VUR who suffer recurrent breakthrough febrile UTIs despite compliant antibiotic prophylaxis, patients with deteriorating renal function, or based on parental preference.
     - **Open Ureteral Reimplantation:** The gold standard surgical procedure (e.g., Cohen cross-trigonal reimplantation) creating a new, longer submucosal tunnel. It boasts a success rate of 95–98%.

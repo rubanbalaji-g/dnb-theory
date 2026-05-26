@@ -40,21 +40,21 @@ Characterized by absent or diminished gonadotropin secretion from hypothalamic-p
 
 Characterized by primary gonadal failure. Lack of sex steroid production eliminates negative feedback, elevating gonadotropins.
 
-|Category|Specific Etiology|Pathophysiology & Features|
-|:--|:--|:--|
-|**Chromosomal**|[[Genetics/Turner Syndrome\|Turner Syndrome]] (45,X & mosaicism)|Most common cause. Short stature, webbed neck, cubitus valgus, streak gonads.|
-|**Gonadal Dysgenesis**|46,XY with _SRY_ deletion (Swyer Syndrome)|XY karyotype, female phenotype, streak gonads.|
-||46,XX Gonadal Dysgenesis|_FSHR_ mutations, Perrault syndrome (sensorineural deafness).|
-||Trisomy 13, 18, 21|Associated severe dysmorphism and intellectual disability.|
-|**Steroidogenic Defects**|_CYP17A1_ (17α-hydroxylase deficiency)|Hypertension, hypokalemia, sexual infantilism.|
-||_CYP19A1_ (Aromatase deficiency)|Failure of estrogen synthesis. Virilization, tall stature, delayed epiphyseal closure.|
-||_StAR_ deficiency|Congenital lipoid adrenal hyperplasia, primary adrenal failure.|
-|**Ovarian Insults**|Chemotherapy / Alkylating agents|Cyclophosphamide, busulfan exposure destroys primordial follicles.|
-||Pelvic / Abdominal Irradiation|Dose-dependent follicle destruction (>10-15 Gy causes acute failure).|
-||Autoimmune Oophoritis|Autoimmune polyendocrinopathy (APS).|
-||Infections|Mumps oophoritis.|
-||Metabolic|[[Metabolic Disorders/Galactosemia\|Galactosemia]], Carbohydrate-deficient glycoprotein syndrome.|
-|**Receptor Defects**|Gonadotropin Resistance|_FSHR_ or _LHR_ mutations (Savage syndrome).|
+| Category                  | Specific Etiology                          | Pathophysiology & Features                                                             |
+| :------------------------ | :----------------------------------------- | :------------------------------------------------------------------------------------- |
+| **Chromosomal**           | [[Genetics/Turner Syndrome\|Turner Syndrome]] (45,X & mosaicism)     | Most common cause. Short stature, webbed neck, cubitus valgus, streak gonads.          |
+| **Gonadal Dysgenesis**    | 46,XY with _SRY_ deletion (Swyer Syndrome) | XY karyotype, female phenotype, streak gonads.                                         |
+|                           | 46,XX Gonadal Dysgenesis                   | _FSHR_ mutations, Perrault syndrome (sensorineural deafness).                          |
+|                           | Trisomy 13, 18, 21                         | Associated severe dysmorphism and intellectual disability.                             |
+| **Steroidogenic Defects** | _CYP17A1_ (17α-hydroxylase deficiency)     | Hypertension, hypokalemia, sexual infantilism.                                         |
+|                           | _CYP19A1_ (Aromatase deficiency)           | Failure of estrogen synthesis. Virilization, tall stature, delayed epiphyseal closure. |
+|                           | _StAR_ deficiency                          | Congenital lipoid adrenal hyperplasia, primary adrenal failure.                        |
+| **Ovarian Insults**       | Chemotherapy / Alkylating agents           | Cyclophosphamide, busulfan exposure destroys primordial follicles.                     |
+|                           | Pelvic / Abdominal Irradiation             | Dose-dependent follicle destruction (>10-15 Gy causes acute failure).                  |
+|                           | Autoimmune Oophoritis                      | Autoimmune polyendocrinopathy (APS).                                                   |
+|                           | Infections                                 | Mumps oophoritis.                                                                      |
+|                           | Metabolic                                  | [[Metabolic Disorders/Galactosemia\|Galactosemia]], Carbohydrate-deficient glycoprotein syndrome.                        |
+| **Receptor Defects**      | Gonadotropin Resistance                    | _FSHR_ or _LHR_ mutations (Savage syndrome).                                           |
 
 ### Eugonadotropic / Structural Abnormalities (Isolated Amenorrhea)
 

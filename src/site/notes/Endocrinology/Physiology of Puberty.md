@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/endocrinology/physiology-of-puberty/","dgPassFrontmatter":true}
+{"dg-publish":true,"uptext":"Back to Index (🧪Endocrinology)","uplink":"/endocrinology/endocrinology/","permalink":"/endocrinology/physiology-of-puberty/","dgPassFrontmatter":true}
 ---
 
 ## Core Definitions & Fundamental Processes
@@ -83,7 +83,7 @@
 - Binds cognate G-protein-coupled receptor KISS1R (formerly GPR54) on GnRH neurons.
 - Potently stimulates pulsatile GnRH release.
 - KNDy neurons locate in arcuate nucleus of hypothalamus.
-- Coexpress kisspeptin, neurokinin B (NKB), dynorphin.
+- Coexpress **kisspeptin, neurokinin B (NKB), dynorphin.**
 - NKB, cognate receptor (TAC3R) act collaboratively with kisspeptin.
 - Synchronize pulsatile discharge of KNDy neural network.
 - Dynorphin acts as inhibitory modulator.
@@ -109,7 +109,7 @@
 - Transcriptional regulators upregulated in hypothalamus: Enhanced at puberty 1 (EAP1), Oct-2, thyroid transcription factor-1 (TTF-1).
 - Transactivate promoters of GnRH, related genes.
 - Epigenetic mechanisms actively repress _KISS1_ transcription during childhood.
-- Mediated by polycomb complex proteins (EED, Cbx7).
+- Mediated by **polycomb complex proteins (EED, Cbx7).**
 - Puberty onset marks increased DNA methylation of repressor promoters.
 - Decreases EED binding to _KISS1_ promoter, lifting kisspeptin synthesis repression.
 - MicroRNAs (miR-200/429 family, miR-155) act as critical epigenetic switches regulating pre-pubertal GnRH production rise.

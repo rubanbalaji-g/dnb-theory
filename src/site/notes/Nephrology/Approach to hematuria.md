@@ -47,22 +47,22 @@ graph TD
 - Upper urinary tract sources of hematuria originate within the nephron, including the glomerulus, tubular system, or interstitium.
 - Lower urinary tract sources originate from the pelvicalyceal system, ureter, bladder, or urethra.
 
-|Category|Specific Etiologies|Clinical Correlates|
+|Category| Specific Etiologies                                  |Clinical Correlates|
 |:--|:--|:--|
-|**Glomerular**|Postinfectious Glomerulonephritis (PIGN)|Often follows a streptococcal throat or skin infection; presents with edema, oliguria, and hypertension.|
-||IgA Nephropathy|Coincides with upper respiratory or gastrointestinal infections; presents with recurrent gross hematuria.|
-||IgA Vasculitis (Henoch-Schönlein Purpura)|Systemic vasculitis presenting with a palpable purpuric rash, arthritis, abdominal pain, and nephritis.|
-||[[Nephrology/Hemolytic uremic syndrome (HUS)\|Hemolytic Uremic Syndrome (HUS)]]|Follows gastrointestinal illness; presents with microangiopathic hemolytic anemia, thrombocytopenia, and [[Nephrology/Acute Kidney Injury\|acute kidney injury]].|
-||[[Nephrology/Alport Syndrome\|Alport Syndrome]] / Thin Basement Membrane Disease|Hereditary conditions presenting with persistent microscopic hematuria and a family history of kidney failure or deafness.|
-||Membranoproliferative Glomerulonephritis|Presents with mixed nephritic-nephrotic picture and persistent hypocomplementemia.|
-||[[Rheumatology/Lupus Nephritis\|Lupus Nephritis]]|Associated with systemic lupus erythematosus; presents with systemic signs such as rash and joint pain.|
-|**Non-Glomerular**|[[Nephrology/Urinary Tract Infection\|Urinary Tract Infection]] ([[Nephrology/UTI\|UTI]])|The most common cause of gross hematuria; presents with dysuria, frequency, and fever.|
-||Idiopathic Hypercalciuria|Common metabolic cause; can present with painless gross or microscopic hematuria, or dysuria.|
-||Urolithiasis (Kidney Stones)|Presents with severe renal colic, flank pain, and hematuria.|
-||Anatomic Abnormalities|Includes hydronephrosis, multicystic dysplastic kidney, polycystic kidney disease, or [[Hematology/Wilms Tumor\|Wilms tumor]]; often presents with a palpable abdominal mass.|
-||Trauma|Hematuria following blunt or penetrating injury to the abdomen or back.|
-||Coagulopathy / Bleeding Disorders|Hemophilia or thrombocytopenia can cause spontaneous urinary tract bleeding.|
-||Chemical / Hemorrhagic Cystitis|Associated with adenovirus infections or nephrotoxic medications like cyclophosphamide.|
+|**Glomerular**| Postinfectious Glomerulonephritis (PIGN)             |Often follows a streptococcal throat or skin infection; presents with edema, oliguria, and hypertension.|
+|| IgA Nephropathy                                      |Coincides with upper respiratory or gastrointestinal infections; presents with recurrent gross hematuria.|
+|| IgA Vasculitis (Henoch-Schönlein Purpura)            |Systemic vasculitis presenting with a palpable purpuric rash, arthritis, abdominal pain, and nephritis.|
+|| [[Nephrology/Hemolytic uremic syndrome (HUS)\|Hemolytic Uremic Syndrome (HUS)]]                  |Follows gastrointestinal illness; presents with microangiopathic hemolytic anemia, thrombocytopenia, and [[Nephrology/Acute Kidney Injury\|acute kidney injury]].|
+|| [[Nephrology/Alport Syndrome\|Alport Syndrome]] / Thin Basement Membrane Disease |Hereditary conditions presenting with persistent microscopic hematuria and a family history of kidney failure or deafness.|
+|| Membranoproliferative Glomerulonephritis             |Presents with mixed nephritic-nephrotic picture and persistent hypocomplementemia.|
+|| [[Rheumatology/Lupus Nephritis\|Lupus Nephritis]]                                  |Associated with systemic lupus erythematosus; presents with systemic signs such as rash and joint pain.|
+|**Non-Glomerular**| [[Nephrology/Urinary Tract Infection\|Urinary Tract Infection]] (UTI)                    |The most common cause of gross hematuria; presents with dysuria, frequency, and fever.|
+|| Idiopathic Hypercalciuria                            |Common metabolic cause; can present with painless gross or microscopic hematuria, or dysuria.|
+|| Urolithiasis (Kidney Stones)                         |Presents with severe renal colic, flank pain, and hematuria.|
+|| Anatomic Abnormalities                               |Includes hydronephrosis, multicystic dysplastic kidney, polycystic kidney disease, or [[Hematology/Wilms Tumor\|Wilms tumor]]; often presents with a palpable abdominal mass.|
+|| Trauma                                               |Hematuria following blunt or penetrating injury to the abdomen or back.|
+|| Coagulopathy / Bleeding Disorders                    |Hemophilia or thrombocytopenia can cause spontaneous urinary tract bleeding.|
+|| Chemical / Hemorrhagic Cystitis                      |Associated with adenovirus infections or nephrotoxic medications like cyclophosphamide.|
 
 ## Clinical Evaluation and Diagnostic Approach
 
@@ -144,7 +144,7 @@ graph TD
 - For active urolithiasis, pain management with nonsteroidal anti-inflammatory drugs and adequate hydration are prioritized; small ureteral stones (<5 mm) frequently pass spontaneously.
 - Medical expulsive therapy, such as an alpha-adrenergic blocker (e.g., tamsulosin), may facilitate the passage of distal ureteral stones.
 
-### Urinary Tract Infections ([[Nephrology/UTI\|UTI]])
+### Urinary Tract Infections (UTI)
 
 - Acute cystitis and pyelonephritis should be treated promptly with empiric antibiotics, modified subsequently based on urine culture sensitivity results.
 - Oral antibiotics for 7 to 10 days are generally safe and effective for uncomplicated UTIs in stable, outpatient children.

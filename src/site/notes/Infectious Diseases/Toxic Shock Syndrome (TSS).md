@@ -73,7 +73,7 @@ Diagnosis is clinical, supported by laboratory evidence of multisystem involveme
     - _GI:_ Vomiting or diarrhea at onset.
     - _Muscular:_ Severe myalgia or CPK >2x upper limit of normal.
     - _Mucous Membrane:_ Vaginal, oropharyngeal, or conjunctival hyperemia.
-    - _Renal:_ BUN or Creatinine >2x normal or pyuria without [[Nephrology/UTI\|UTI]].
+    - _Renal:_ BUN or Creatinine >2x normal or pyuria without UTI.
     - _Hepatic:_ Bilirubin or Transaminases >2x normal.
     - _Hematologic:_ Platelets <100,000/mm³.
     - _CNS:_ Disorientation or alteration in consciousness without focal signs.

@@ -2,164 +2,183 @@
 {"dg-publish":true,"uplink":"/nephrology/nephrology/","uptext":"Back to Index (🫘 Nephrology)","permalink":"/nephrology/urinary-tract-infection/","dgPassFrontmatter":true}
 ---
 
-## Epidemiology and Etiology
+## Introduction And Epidemiology
 
-- [[Nephrology/Urinary Tract Infection\|Urinary tract infection]] ([[Nephrology/UTI\|UTI]]) is one of the most common bacterial infections in childhood, affecting 7-8% of girls and up to 2% of boys in the first decade of life.
-- The prevalence varies with age: during the first 3 months of life, UTIs are most common in uncircumcised febrile males, with a prevalence of 20%, which is significantly higher than in circumcised males and females.
-- Beyond 6 months of age and during infancy, the incidence becomes much higher in girls, with peaks correlating to toilet training and the onset of sexual activity.
-- _Escherichia coli_ is the predominant uropathogen responsible for 85-90% of cystitis and pyelonephritis cases.
-- Other Gram-negative bacteria causing [[Nephrology/UTI\|UTI]] include _Klebsiella_, _Proteus_, _Pseudomonas_, _Enterobacter_, and _Citrobacter_ species.
-- Gram-positive organisms such as _Enterococcus_ species and _Streptococcus agalactiae_ are frequent in neonates, while _Staphylococcus saprophyticus_ accounts for >15% of UTIs in sexually active female adolescents.
-- Viral causes (like adenovirus types 11 and 21) are implicated in acute hemorrhagic cystitis, and fungal infections (like _Candida_) are seen in immunocompromised patients or following prolonged antimicrobial therapy.
+- Urinary tract infection (UTI) is a very common bacterial infection during childhood.
+- It affects approximately 1.7% of boys and 8.4% of girls before they reach the age of seven years.
+- Delaying the diagnosis and treatment can cause irreversible damage to the developing kidneys.
+- Long-term complications include renal scarring, hypertension, and renal insufficiency.
 
-## Predisposing Risk Factors
+## Etiology And Risk Factors
 
-- Female anatomy and short urethra.
-- Uncircumcised male status in the first year of life, allowing uropathogens to colonize the prepuce.
-- Age younger than 1 year, attributed to an incompletely developed immune system.
-- Bladder-bowel dysfunction (BBD) and constipation, which lead to incomplete bladder emptying, urinary retention, and stasis.
-- Structural anomalies such as primary [[Nephrology/Vesicoureteral Reflux (VUR)\|vesicoureteral reflux (VUR)]], posterior urethral valves, and obstructive uropathy.
-- Neurogenic bladder, repeated catheterization, or presence of foreign bodies.
+- **Escherichia coli (E. coli)** is the most common causative organism, accounting for >70% of cases.
+- Uncommon organisms include non-E. coli bacteria and fungi.
+- Fungal UTIs are typically seen in immunocompromised patients, intensive care unit settings, prolonged antibiotic usage, and with indwelling catheters.
+- Almost 50% of children with recurrent UTI and 10% presenting with a single UTI have an associated urological abnormality.
 
-## Clinical Features
+### Common Risk Factors
 
-### Symptoms by Age Group
+- Poor perineal hygiene and the unnecessary use of diapers.
+- Congenital anomalies of the kidney and urinary tract (CAKUT), including vesicoureteral reflux (VUR), pelvic ureteric junction obstruction, and obstructive uropathy.
+- Anatomic variations like phimosis in boys and vulval synechiae in girls.
+- Bladder-bowel dysfunction (BBD) presenting as urinary urgency, frequency, voiding postponement, incontinence, and constipation.
 
-- **Neonates (< 2 months):** Clinical manifestations are non-specific and typically mimic sepsis, including fever, hypothermia, vomiting, irritability, lethargy, poor feeding, failure to thrive, and prolonged jaundice.
-- **Infants and Toddlers (2–24 months):** Fever is frequently the only symptom, particularly a temperature $\ge 39^\circ \text{C}$ lasting more than 48 hours without an obvious focus. Other symptoms include vomiting, lethargy, abdominal pain, malodorous or cloudy urine, crying during micturition, and hematuria.
-- **Older Children (> 2 years):** Symptoms are more localized and include fever, dysuria, urgency, urinary frequency, incontinence, suprapubic pain, cloudy urine, and loin/flank pain indicating acute pyelonephritis.
+## Clinical Presentation And Definitions
 
-### Physical Examination Findings
+### Symptomatology By Age
 
-|Clinical Finding|Likely Underlying Diagnosis|
+- Infants often present with non-specific symptoms such as fever, vomiting, diarrhea, and poor weight gain.
+- Older children typically present with fever, dysuria, urgency, frequency, and abdominal or flank pain.
+
+### Standard Definitions
+
+|Term|Definition|
 |:--|:--|
-|Palpable kidney or poor urinary stream|Obstructive uropathy, neurogenic bladder|
-|Costovertebral angle/renal angle tenderness|Acute pyelonephritis|
-|Palpable bladder or suprapubic tenderness|Obstructive uropathy, neurogenic bladder|
-|Palpable fecolith in the abdomen|Constipation / Bladder-bowel dysfunction (BBD)|
-|Sacral dimple, tuft of hair, lipoma|Occult meningomyelocele / Spinal dysraphism|
-|Abnormal external genitalia (phimosis, labial adhesions)|Anatomic predisposition to [[Nephrology/UTI\|UTI]]|
+|**Leukocyturia**|Presence of >=10 leukocytes/mm3 in fresh uncentrifuged sample, or >5 leukocytes/HPF in centrifuged sample.|
+|**Bacteriuria**|Presence of one or more bacteria per oil immersion field in a freshly voided uncentrifuged sample.|
+|**Acute Pyelonephritis**|Bacterial infection involving the upper urinary tract and kidney parenchyma.|
+|**Cystitis**|Bacterial infection localizing to the bladder, with dysuria, frequency, urgency, and suprapubic tenderness.|
+|**Febrile UTI**|Fever (temperature >= 38 C) with positive urine culture yielding a significant colony count of a single uropathogen.|
+|**Recurrent UTI**|Two episodes of urinary tract infection during any time period in childhood.|
 
-## Diagnosis
+## Diagnostic Approach
 
-### Urine Collection Methods
+### Sample Collection Strategies
 
-- Clean-catch midstream urine is the preferred method for collection in toilet-trained children due to an acceptable contamination rate (around 5%) and cost-effectiveness.
-- For non-toilet-trained, clinically stable children, a clean-catch should be attempted initially; if unsuccessful, catheterization or suprapubic aspiration (SPA) is recommended.
-- In sick infants, urethral catheterization or SPA under ultrasound guidance are the preferred methods to avoid treatment delays.
-- Urine collection via adhesive bags or nappy pads has unacceptably high contamination rates (30-80%) and must not be used for sending urine cultures, though they may occasionally be used for urinalysis.
+- Urine samples should be processed within 30 minutes of collection to avoid contamination.
+- Samples must never be collected using a urobag or minicom.
 
-### Urinalysis (Screening Tests)
+|Patient Group|Preferred Collection Method|
+|:--|:--|
+|**Toilet-trained children**|Midstream clean-catch method.|
+|**Non-toilet-trained (Stable)**|Attempt clean-catch initially.|
+|**Sick infants / Non-toilet-trained**|Simple urethral catheterization or suprapubic aspiration.|
 
-- A urine dipstick combining leukocyte esterase and nitrite is the suggested first-line screening test, demonstrating good sensitivity (84%) and specificity (88%) when either is positive.
-- Nitrite has excellent specificity (99%) but poor sensitivity (47%), often yielding false negatives in young infants due to frequent voiding and low dietary nitrate conversion times.
-- Urine microscopy in a fresh uncentrifuged sample demonstrating leukocyturia ($\ge 10 \text{ leukocytes/mm}^3$) or bacteriuria can be used as an alternative screening tool.
-- The absence of pyuria does not exclusively rule out a [[Nephrology/UTI\|UTI]], especially in infants or with atypical non-_E. coli_ infections.
+### Laboratory Investigations
 
-### Urine Culture (Confirmatory)
+- **Screening Test:** A positive urine dipstick for leukocyte esterase and nitrite combination is suggested as a first-line screening tool for presumptive UTI.
+- **Microscopy:** Urine microscopy for bacteriuria and leukocyturia in a freshly voided sample is an acceptable alternative to the dipstick.
+- **Gold Standard:** Diagnosis is confirmed by isolating a single species of microorganism in a significant number from a properly collected culture.
 
-- Diagnosis of [[Nephrology/UTI\|UTI]] must be confirmed based on the significant growth of a single uropathogen in an appropriate clinical context.
-- The significance of the colony-forming units (CFU) depends on the method of collection:
-    - **Suprapubic Aspiration:** Growth of $\ge 10^3 \text{ CFU/mL}$ is diagnostic.
-    - **Urethral Catheterization:** Growth of $\ge 10^4 \text{ CFU/mL}$ is significant.
-    - **Clean-Catch Sample:** Growth of $\ge 10^4 \text{ to } 10^5 \text{ CFU/mL}$ of a single uropathogen is considered diagnostic.
-- Asymptomatic bacteriuria is characterized by significant bacterial growth without clinical symptoms and does not require antibiotic treatment, as it resolves spontaneously and treatment does not prevent scarring.
+### Significant Colony Counts For Diagnosis
 
-### Diagnostic Algorithm
+- The Indian Society of Pediatric Nephrology (ISPN) has lowered the threshold for positive cultures to prevent missing true UTIs.
 
-```mermaid
-graph TD;
-    A[Child with Suspected UTI] --> B[Urine Dipstick / Microscopy];
-    B --> C{LE and/or Nitrite Positive?};
-    C -- Yes --> D[Presumptive UTI];
-    D --> E[Start Empirical Antibiotics pending Culture];
-    E --> F[Urine Culture];
-    C -- No --> G{Risk factors present or Age < 6 months?};
-    G -- Yes --> E;
-    G -- No --> H[Wait for Urine Culture Results];
-    H --> F;
-    F --> I{Culture Positive for Significant CFU?};
-    I -- Yes --> J[Confirmed UTI];
-    I -- No --> K[Evaluate Alternative Diagnoses];
-```
+|Method of Collection|Significant Colony Count (CFU/mL)|
+|:--|:--|
+|**Suprapubic Aspiration**|Any number (>= 10^3).|
+|**Urethral Catheterization**|>= 10^4.|
+|**Midstream Clean-Catch**|>= 10^4 to 10^5.|
 
-## Management
+### Asymptomatic Bacteriuria
 
-### General Principles and Route of Administration
+- Defined as significant bacteriuria without pyuria or clinical symptoms.
+- It is often associated with nonvirulent E. coli colonization and is more common in girls.
+- It should not be treated with antibiotics, and urine cultures are not indicated in asymptomatic children.
 
-- Antibiotic therapy must be initiated promptly, preferably within 48-72 hours of fever onset, to minimize the risk of permanent kidney scarring.
-- Oral antibiotic therapy is equally as efficacious as initial intravenous therapy for febrile [[Nephrology/UTI\|UTI]] and is preferred for all children.
-- Intravenous (IV) antibiotics are strictly indicated for: (i) infants younger than 2 months of age, (ii) severely ill or toxic-appearing children (urosepsis), and (iii) patients unable to tolerate oral intake.
-- When IV antibiotics are initiated, the treatment can be safely stepped down to oral therapy after 3-4 days once clinical improvement is noted.
-- Routine repeat urine cultures after the completion of antibiotic therapy are not required unless symptoms fail to resolve despite 48-72 hours of appropriate antibiotics.
-- Initial empirical therapy does not need to be altered based purely on in vitro sensitivity reports if the child is demonstrating excellent in vivo clinical resolution.
+## Management Strategies
 
-### Antimicrobial Selection and Duration
+### Principles Of Antimicrobial Therapy
 
-|Infection Type|Antibiotic Options|Recommended Duration|
+- Antibiotic therapy must be initiated promptly, preferably within 48 to 72 hours of fever onset to minimize kidney damage.
+- The oral route is preferred over intravenous therapy for acute febrile UTI.
+- Intravenous antibiotics are reserved for infants less than 2 months of age, severely ill patients, and those unable to tolerate oral intake.
+- Change of initial therapy is only suggested for clinical treatment failure, regardless of in vitro sensitivity patterns.
+- Routine repeat urine cultures are not required if the patient shows good clinical response.
+
+### Treatment Duration And Regimens
+
+|Clinical Scenario|Recommended Therapy Duration|Primary Antibiotic Choices|
 |:--|:--|:--|
-|**Acute Febrile [[Nephrology/UTI\|UTI]] / Pyelonephritis** (Oral)|3rd-generation cephalosporins (Cefixime, Cefpodoxime), Amoxicillin-clavulanic acid|7 to 10 days|
-|**Acute Febrile [[Nephrology/UTI\|UTI]] / Pyelonephritis** (IV)|Ceftriaxone, Cefotaxime, Amikacin, Gentamicin, Ampicillin-sulbactam|7 to 10 days (3-4 days IV, remainder oral)|
-|**Cystitis / Lower [[Nephrology/UTI\|UTI]]** (Oral)|1st-generation cephalosporins (Cephalexin, Cefadroxil), Amoxicillin-clavulanic acid|3 to 7 days|
+|**Acute Symptomatic Febrile UTI**|7 to 10 days.|3rd-generation cephalosporins or amoxycillin-clavulanic acid.|
+|**Cystitis in Adolescents**|3 to 7 days.|1st-generation cephalosporins (cephalexin) or amoxycillin-clavulanic acid.|
 
-### Treatment Algorithm
+### Approach Based On Severity
 
+#### Uncomplicated First UTI
+
+- Seen in children >3 months who are nontoxic and accepting oral feeds.
+- Start oral antibiotics and evaluate clinical and pyuria improvement by 48 hours.
+
+#### Complicated Or Atypical UTI
+
+- Risk features include age <3 months, fever >39 C, lethargy, dehydration, renal angle tenderness, elevated creatinine, or non-E. coli infections.
+- Requires hospitalization, intravenous fluids, and empirical intravenous antibiotics.
+- Switch to oral antimicrobials after 48 hours once symptomatic improvement is achieved.
+
+### Common Antimicrobial Dosages
+
+|Antimicrobial Agent|Dose (mg/kg/day)|Remarks|
+|:--|:--|:--|
+|**Oral Cefixime**|10 in two divided doses|Good broad-spectrum agent.|
+|**Oral Amoxicillin-Clavulanic Acid**|30-50 in two divided doses|Used for uncomplicated UTI.|
+|**IV Amikacin**|10-15 in one to two divided doses|Once-a-day dosing is effective.|
+|**IV Ceftriaxone**|75-100 in one to two divided doses|Safe and effective as monotherapy.|
+
+## Imaging Guidelines
+
+- The updated ISPN guidelines advise a less aggressive approach to imaging, aiming primarily to detect high-grade VUR.
+
+|Imaging Modality|Indications|Clinical Value|
+|:--|:--|:--|
+|**Ultrasound Scan**|All patients following an episode of UTI.|Detects anomalies and provides clues for BBD without radiation.|
+|**Micturating Cystourethrography (MCU)**|Abnormal ultrasound, recurrent UTI, or first UTI caused by non-E.coli in children <2 years.|Enables grading of VUR and provides anatomic delineation.|
+|**Acute-Phase DMSA Scan**|Not recommended.|Low specificity for VUR and cannot differentiate acute infection from permanent scar.|
+|**Late-Phase DMSA Scan**|Done 4 to 6 months post-UTI in recurrent UTI or high-grade VUR.|Gold standard for detecting permanent kidney scarring.|
+```mermaid
+graph TD
+    A[Confirmed UTI Episode] --> B[Assess for BBD and Perform Ultrasound Scan]
+    B --> C{Are there specific risk factors present?}
+    C -- Yes: Abnormal Ultrasound OR Recurrent UTI OR Non-E.coli in child <2 years --> D[Perform Micturating Cystourethrography]
+    C -- No: Normal Ultrasound and isolated E.coli UTI --> E[Watch for recurrence and monitor]
+    D --> F{Is High-Grade VUR Present OR does UTI recur?}
+    F -- Yes --> G[Perform Late-Phase DMSA Scan at 4 to 6 months]
+    F -- No --> E
 ```
-graph TD;
-    A[Confirmed Urinary Tract Infection] --> B{Clinical Presentation};
-    B -- Cystitis / Lower UTI --> C[Oral Antibiotics for 3-7 days];
-    B -- Febrile UTI / Pyelonephritis --> D{Age < 2 months, Sepsis, or Poor Oral Intake?};
-    D -- No --> E[Oral Antibiotics];
-    D -- Yes --> F[IV Antibiotics for 3-4 days];
-    E --> G[Assess Clinical Response at 48-72h];
-    F --> G;
-    G -- Responding --> H[Step down to / Continue Oral Antibiotics Total 7-10 days];
-    G -- Not Responding --> I[Repeat Urine Culture & Perform Renal USG to rule out complications];
+## Prevention And Prophylaxis
+
+### Antimicrobial Prophylaxis
+
+- Routine antibiotic prophylaxis is not suggested for patients with a normal urinary tract and no bladder-bowel dysfunction.
+- It is also not suggested for children with antenatally detected hydronephrosis awaiting evaluation.
+- **Indications:** High-grade VUR (Grades 3-5), recurrent febrile UTI with BBD, and pending radiological evaluation after a first episode.
+- **Preferred Agents:** Cotrimoxazole (1-2 mg/kg of trimethoprim) or nitrofurantoin (1-2 mg/kg) in children older than 3 months. Cephalexin is preferred for young infants under 3 months.
+- **Discontinuation Criteria:** Prophylaxis can be stopped in children >2 years if they are toilet trained, have no BBD, and have had no febrile UTIs in the preceding year.
+
+### Non-Antibiotic Interventions
+
+- **Urotherapy:** Recommended for all children with BBD to prevent recurrence. It includes behavioral modifications, fluid intake optimization, and regular voiding habits.
+- **Cranberry Products:** Can be considered for preventing recurrent UTI in children with a normal urinary tract.
+- **Circumcision:** Considered a potential intervention to reduce the risk of recurrence in at-risk children.
+- **Surgical Reimplantation:** Reserved for patients with high-grade VUR experiencing recurrent breakthrough febrile UTIs despite antibiotic prophylaxis.
+
+## Follow-Up And Monitoring
+
+- Ensure symptomatic improvement and documented normal urine analysis at the end of treatment.
+- Monitor growth periodically.
+- Blood pressure should be evaluated every 6 to 12 months.
+- Assess renal function annually in children with a history of severe complicated UTI or recurrent episodes.
+- Monitor for proteinuria after successful treatment, as it may indicate pyelonephritic renal scarring requiring medical intervention.
+## Algorithm for MRCPCH based on NICE guidelines
+```mermaid
+graph TD
+    A[Child with Confirmed UTI] --> B{Age Group}
+    
+    %% Under 6 Months
+    B -->|Under 6 Months| C{Clinical Presentation}
+    C -->|Responds well within 48h| D[Ultrasound within 6 weeks. <br> If abnormal, consider MCUG.]
+    C -->|Atypical UTI| E[Ultrasound during acute infection. <br> DMSA scan 4 to 6 months after. <br> MCUG recommended.]
+    C -->|Recurrent UTI| F[Ultrasound during acute infection. <br> DMSA scan 4 to 6 months after. <br> MCUG recommended.]
+    
+    %% 6 Months to under 3 Years
+    B -->|6 Months to under 3 Years| G{Clinical Presentation}
+    G -->|Responds well within 48h| H[No routine imaging. <br> Note: If non-E. coli, Ultrasound within 6 weeks.]
+    G -->|Atypical UTI| I[Ultrasound during acute infection. <br> DMSA scan 4 to 6 months after. <br> Consider MCUG if specific features present.]
+    G -->|Recurrent UTI| J[Ultrasound within 6 weeks. <br> DMSA scan 4 to 6 months after.]
+    
+    %% 3 Years or Older
+    B -->|3 Years or Older| K{Clinical Presentation}
+    K -->|Responds well within 48h| L[No routine imaging. <br> Note: If non-E. coli, Ultrasound within 6 weeks.]
+    K -->|Atypical UTI| M[Ultrasound during acute infection.]
+    K -->|Recurrent UTI| N[Ultrasound within 6 weeks. <br> DMSA scan 4 to 6 months after.]
 ```
-
-## Imaging Following [[Nephrology/UTI\|UTI]]
-
-### Imaging Modalities and Indications
-
-- **Ultrasonography (USG):** Recommended for all children following their first episode of [[Nephrology/UTI\|UTI]]. It is non-invasive, radiation-free, and detects anatomical abnormalities, obstruction, and signs of BBD. It should be performed acutely if clinical improvement is absent at 48 hours to rule out pyonephrosis or abscess.
-- **Micturating Cystourethrography (MCU):** The gold standard for diagnosing and grading VUR, PUV, and bladder anomalies. However, it is invasive and involves radiation. MCU is selectively indicated in children with:
-    1. Abnormal USG findings (e.g., hydroureteronephrosis, bladder wall thickening).
-    2. Recurrent UTIs.
-    3. [[Nephrology/UTI\|UTI]] caused by a non-_E. coli_ uropathogen in children less than 2 years of age.
-- **Dimercaptosuccinic Acid (DMSA) Scintigraphy:**
-    - _Acute-phase DMSA:_ Not recommended in the evaluation of febrile [[Nephrology/UTI\|UTI]], as it has low specificity for predicting high-grade VUR and does not alter acute management.
-    - _Late-phase DMSA:_ Recommended 4 to 6 months after the acute infection solely for detecting permanent renal cortical scarring. It is restricted to children with recurrent UTIs or documented high-grade VUR (Grades III-V).
-
-### Imaging Algorithm
-
-```
-graph TD;
-    A[First Episode of UTI] --> B[Renal and Bladder Ultrasonography];
-    B --> C{USG Abnormal?};
-    C -- No --> D{Age < 2 yrs AND Non-E.coli UTI?};
-    D -- No --> E[Routine Surveillance / Follow-up];
-    D -- Yes --> F[Micturating Cystourethrography MCU];
-    C -- Yes --> F;
-    F --> G{High-Grade VUR III-V Detected OR Recurrent UTI?};
-    G -- Yes --> H[Late-Phase DMSA Scintigraphy at 4-6 months];
-    G -- No --> E;
-    I[Recurrent UTI Episode] --> F;
-```
-
-## Prevention of Recurrent [[Nephrology/UTI\|UTI]]
-
-### Antibiotic Prophylaxis
-
-- Antibiotic prophylaxis is strongly not recommended for children with a normal urinary tract and absence of BBD, as it does not prevent scarring but increases antimicrobial resistance.
-- It is not recommended for the prevention of symptomatic [[Nephrology/UTI\|UTI]] in infants with isolated antenatally detected hydronephrosis awaiting evaluation.
-- Prophylaxis is indicated for the prevention of recurrent febrile [[Nephrology/UTI\|UTI]] in patients with high-grade primary VUR (Grades III-V).
-- It may be considered in preference to surveillance for patients presenting with recurrent febrile [[Nephrology/UTI\|UTI]] and BBD, regardless of the presence of VUR.
-- **Drugs and Dosages:** Cotrimoxazole (2 mg/kg/day of trimethoprim) or Nitrofurantoin (1-2 mg/kg/day) as a single bedtime dose are the first-line agents in children older than 3 months. Cephalexin (10-12.5 mg/kg/day) or Cefadroxil (5 mg/kg/day) are used in early infancy to prevent interference with bilirubin metabolism.
-- **Discontinuation:** Prophylaxis can be stopped in children older than 2 years of age who meet all three criteria: (i) successfully toilet-trained, (ii) complete absence of BBD, and (iii) free of febrile [[Nephrology/UTI\|UTI]] for the preceding 1 year.
-
-### Other Preventive Strategies and Surgical Intervention
-
-- **Urotherapy for Bladder-Bowel Dysfunction (BBD):** All toilet-trained children with [[Nephrology/UTI\|UTI]] must be evaluated for BBD. BBD significantly increases the risk of [[Nephrology/UTI\|UTI]] recurrence and delays VUR resolution. Urotherapy (hydration, timed voiding, optimal posture, treatment of constipation) is the first-line and highly recommended preventive strategy for all BBD patients.
-- **Circumcision:** Circumcision significantly reduces the relative risk of [[Nephrology/UTI\|UTI]] and is suggested as an intervention for at-risk male infants (those with high-grade VUR or severe recurrent UTIs).
-- **Cranberry Products:** Can be used to prevent recurrences in children with recurrent [[Nephrology/UTI\|UTI]] and normal urinary tracts (anti-adhesive effect via proanthocyanidins), though compliance may be limited by taste and volume.
-- **Surgical VUR Correction (Reimplantation/Endoscopic):** Medical management with prophylaxis is the first line for high-grade VUR. Surgical reimplantation is strictly reserved for patients with recurrent breakthrough febrile UTIs despite maximal antibiotic prophylaxis and optimized BBD management, or based on parental preference to avoid long-term antibiotics. Endoscopic bulking agent injection is an alternative but carries a lower success rate.
