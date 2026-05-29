@@ -21,7 +21,7 @@
 |**4**|15 - 29|Severe reduction in GFR.|
 |**5**|< 15|Kidney failure (End-Stage Kidney Disease, ESKD); often requiring dialysis or transplantation.|
 
-- Severity is additionally categorized by the degree of albuminuria using the urine protein-to-creatinine ratio (Up/Uc): A1 (Normal/mild <150 mg/g), A2 (Moderately increased 150-500 mg/g), and A3 (Severely increased >500 mg/g).
+- Severity is additionally categorized by the degree of albuminuria using the urine protein-to-creatinine ratio (U<sub>p</sub>/U<sub>c</sub>): A1 (Normal/mild <150 mg/g), A2 (Moderately increased 150-500 mg/g), and A3 (Severely increased >500 mg/g).
 
 ## Etiology of CKD in Children
 
@@ -65,10 +65,10 @@
 ## Diagnostic Evaluation
 
 - Initial evaluation must identify the underlying etiology and detect any reversible factors (e.g., urinary tract obstruction, active UTI, severe hypertension, dehydration, or concurrent drug toxicity).
-- Blood investigations should include complete blood counts, urea, creatinine, electrolytes, total protein, albumin, pH, and bicarbonate.
-- Assessment of CKD-MBD requires measuring serum calcium, phosphate, alkaline phosphatase, intact parathyroid hormone (PTH), and 25-hydroxyvitamin D.
+- Blood investigations should include **complete blood counts, urea, creatinine, electrolytes, total protein, albumin, pH, and bicarbonate.**
+- Assessment of CKD-MBD requires measuring s**erum calcium, phosphate, alkaline phosphatase, intact parathyroid hormone (PTH), and 25-hydroxyvitamin D.**
 - Anemia workup mandates iron studies, including serum ferritin, transferrin, total iron-binding capacity, and percent transferrin saturation (TSAT).
-- Renal ultrasonography is routinely performed to evaluate kidney size, echogenicity, loss of corticomedullary differentiation, and to screen for structural CAKUT anomalies.
+- **Renal ultrasonography** is routinely performed to evaluate kidney size, echogenicity, loss of corticomedullary differentiation, and to screen for structural CAKUT anomalies.
 - A kidney biopsy is indicated if there is an unexplained decline in kidney function, substantial new-onset proteinuria, or clinical suspicion of a progressive glomerular disease (e.g., IgA nephropathy or [[Rheumatology/Lupus Nephritis\|lupus nephritis]]).
 
 ## Comprehensive Management
@@ -77,9 +77,9 @@
 
 ### Retarding Disease Progression
 
-- Strict blood pressure control is paramount; the target is to maintain systolic and diastolic pressures between the 50th and 75th percentiles for age, sex, and height.
+- Strict **blood pressure control** is paramount; the target is to maintain systolic and diastolic pressures between the 50th and 75th percentiles for age, sex, and height.
 - Angiotensin-converting enzyme (ACE) inhibitors (e.g., enalapril) or angiotensin receptor blockers (ARBs) are the preferred first-line antihypertensive agents.
-- RAAS blockade provides significant renoprotection by reducing intraglomerular perfusion pressure, lowering proteinuria, and mitigating tubulointerstitial inflammation.
+- RAAS blockade provides significant renoprotection by **reducing intraglomerular perfusion pressure**, lowering proteinuria, and mitigating tubulointerstitial inflammation.
 - Potential nephrotoxins, including nonsteroidal anti-inflammatory drugs (NSAIDs), radiocontrast agents, and specific herbal medications, must be strictly avoided.
 
 ### Nutritional Support and Growth
@@ -92,17 +92,16 @@
 
 ### Management of Specific Complications
 
-|Therapy Target|Pharmacological and Clinical Interventions|
-|:--|:--|
-|**Hypertension and Fluid Overload**|In addition to ACEi/ARBs, therapy may require calcium channel blockers, beta-blockers, or loop diuretics (furosemide) for overt fluid overload. Severe refractory cases may necessitate centrally acting agents like clonidine.|
-|**Anemia**|Iron supplementation (oral or intravenous) is initiated if TSAT is $\le$ 20% or ferritin is $\le$ 100 ng/mL. Iron-replete patients require recombinant human [[Hematology/Erythropoietin\|erythropoietin]] (50–150 U/kg/dose given 2-3 times a week) or Darbepoetin alfa, targeting a hemoglobin of 11–12 g/dL.|
-|**CKD-MBD (Bone Disease)**|Dietary phosphate restriction (limiting dairy products) is the first step. Enteral phosphate binders (calcium carbonate or calcium acetate) are administered with meals. Active vitamin D metabolites, specifically 1,25-dihydroxyvitamin D3 (calcitriol), are required to suppress secondary hyperparathyroidism and optimize calcium absorption.|
-|**Metabolic Acidosis**|Systemic alkalinization is achieved with oral sodium bicarbonate or sodium citrate solutions, which mitigates bone buffering and slows the progression of CKD.|
-|**Electrolyte Imbalance**|Polyuric CAKUT patients require massive free water and salt supplementation. Conversely, oliguric patients with glomerular disease require strict sodium and potassium restriction to prevent fatal hyperkalemia and pulmonary edema.|
-
+| Therapy Target                      | Pharmacological and Clinical Interventions                                                                                                                                                                                                                                                                                                                 |
+| :---------------------------------- | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Hypertension and Fluid Overload** | In addition to ACEi/ARBs, therapy may require **calcium channel blockers, beta-blockers, or loop diuretics** (furosemide) for overt fluid overload. Severe refractory cases may necessitate centrally acting agents like clonidine.                                                                                                                        |
+| **Anemia**                          | **Iron supplementation** (oral or intravenous) is initiated if TSAT is $\le$ 20% or ferritin is $\le$ 100 ng/mL. Iron-replete patients require recombinant human **[[Hematology/Erythropoietin\|erythropoietin]]** (50–150 U/kg/dose given 2-3 times a week) or Darbepoetin alfa, targeting a hemoglobin of 11–12 g/dL.                                                               |
+| **CKD-MBD (Bone Disease)**          | **Dietary phosphate restriction** (limiting dairy products) is the first step. Enteral phosphate binders (calcium carbonate or calcium acetate) are administered with meals. Active vitamin D metabolites, specifically **1,25-dihydroxyvitamin D3** (calcitriol), are required to suppress secondary hyperparathyroidism and optimize calcium absorption. |
+| **Metabolic Acidosis**              | **Systemic alkalinization** is achieved with oral sodium bicarbonate or sodium citrate solutions, which mitigates bone buffering and slows the progression of CKD.                                                                                                                                                                                         |
+| **Electrolyte Imbalance**           | Polyuric CAKUT patients require massive free water and salt supplementation. Conversely, oliguric patients with glomerular disease require strict sodium and potassium restriction to prevent fatal hyperkalemia and pulmonary edema.                                                                                                                      |
 ### Kidney Replacement Therapy (KRT)
 
 - Initiation of dialysis or preemptive transplantation is strongly recommended when the GFR falls below 8 to 12 mL/min/1.73 m², or earlier if intractable symptoms arise.
-- Indications for KRT include medically refractory fluid overload, severe therapy-resistant hypertension, persistent uremic gastrointestinal symptoms, profound growth retardation, and progressive neurological deterioration.
+- Indications for KRT include medically refractory **fluid overload, severe therapy-resistant hypertension, persistent uremic gastrointestinal symptoms, profound growth retardation, and progressive neurological deterioration.**
 - Chronic peritoneal dialysis (PD) is often the preferred initial modality in children as it can be performed at home via an automated cycler, providing steady clearance, fewer dietary restrictions, and allowing for uninterrupted schooling.
 - Kidney transplantation from a living-related or deceased donor is the ultimate, definitive therapy for pediatric ESKD, providing superior patient survival, improved neurocognitive outcomes, and the best potential for catch-up growth.

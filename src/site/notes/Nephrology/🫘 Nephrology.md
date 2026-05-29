@@ -26,7 +26,7 @@
 4. [[Nephrology/Nephrogenic diabetes insipidus\|Nephrogenic diabetes insipidus]]
 5. [[Nephrology/Polycystic Kidney Diseases\|Polycystic Kidney Diseases]]
 6. [[Nephrology/Alport Syndrome\|Alport Syndrome]]
-## Acute Kidney Syndrome and Vascular issues
+## Acute Kidney Syn drome and Vascular issues
 1. [[Nephrology/Acute Kidney Injury\|Acute Kidney Injury]]
 2. [[Nephrology/Hemolytic uremic syndrome (HUS)\|Hemolytic uremic syndrome (HUS)]]
 3. [[Nephrology/Cortical Necrosis\|Cortical Necrosis]]

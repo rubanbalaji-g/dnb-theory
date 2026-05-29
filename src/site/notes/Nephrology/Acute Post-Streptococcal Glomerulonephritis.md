@@ -2,11 +2,11 @@
 {"dg-publish":true,"uplink":"/nephrology/nephrology/","uptext":"Back to Index (🫘 Nephrology)","permalink":"/nephrology/acute-post-streptococcal-glomerulonephritis/","dgPassFrontmatter":true}
 ---
 
-## Pathogenesis of [[Nephrology/Acute Post-Streptococcal Glomerulonephritis\|Acute Post-Streptococcal Glomerulonephritis]]
+## Pathogenesis of Acute Post-Streptococcal Glomerulonephritis
 
 ### Nephritogenic Strains and Latency
 
-- [[Nephrology/Acute Post-Streptococcal Glomerulonephritis\|Acute post-streptococcal glomerulonephritis]] (APSGN) is the prototypical postinfectious, immune complex-mediated glomerulonephritis.
+- Acute post-streptococcal glomerulonephritis (APSGN) is the prototypical postinfectious, immune complex-mediated glomerulonephritis.
 - The disease is triggered by antecedent infection with specific nephritogenic strains of Group A $\beta$-hemolytic streptococci (_Streptococcus pyogenes_), and occasionally by group C or G streptococci.
 - Different serotypes of the M virulence protein are associated with specific infection sites: M types 1, 2, 4, and 12 typically cause streptococcal pharyngitis, whereas M types 47, 49, and 55 are associated with pyoderma (impetiginous skin infections).
 - The latency period between the onset of infection and the development of nephritis varies according to the site of infection: it is generally 1 to 2 weeks following a respiratory or throat infection, and 3 to 6 weeks following a skin infection.
@@ -15,14 +15,14 @@
 
 - The pathogenesis involves multiple simultaneous mechanisms resulting from both streptococcal and host factors, ultimately leading to immune complex formation and severe complement activation.
 
-|Pathogenic Mechanism|Description and Evidence|
-|:--|:--|
-|**Nephritogenic Antigens**|Two primary streptococcal antigenic fractions are implicated: Nephritis-Associated Plasmin Receptor (NAPlr), identified as glyceraldehyde 3-phosphate dehydrogenase (GAPDH), and Streptococcal Pyrogenic Exotoxin B (SPEB) along with its zymogen precursor (zSPEB).|
-|**In-Situ Immune Complex Formation**|SPEB is a cationic antigen that localizes within the subepithelial space and is the only streptococcal antigen definitively demonstrated within the characteristic electron-dense subepithelial "humps".|
-|**Plasmin Activation**|NAPlr binds plasmin, which facilitates immune complex deposition, degrades the extracellular matrix, and promotes localized glomerular inflammation.|
-|**Circulating Immune Complexes**|Circulating antibodies directed against SPEB and NAPlr are frequently found in the sera of patients with APSGN, leading to circulating immune complex deposition.|
-|**Autoimmune Reactivity**|Streptococcal neuraminidase can alter host IgG by desialization; the host then produces anti-IgG antibodies (rheumatoid factor), resulting in anti-IgG glomerular deposits.|
-|**Complement Activation**|The alternative complement pathway is intensely activated by the antigen-antibody complexes, leading to markedly depressed serum C3 levels and glomerular inflammation.|
+| Pathogenic Mechanism                 | Description and Evidence                                                                                                                                                                                                                                                 |
+| :----------------------------------- | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Nephritogenic Antigens**           | Two primary streptococcal antigenic fractions are implicated: **Nephritis-Associated Plasmin Recepto**r (NAPlr), identified as glyceraldehyde 3-phosphate dehydrogenase (GAPDH), and Streptococcal Pyrogenic Exotoxin B (SPEB) along with its zymogen precursor (zSPEB). |
+| **In-Situ Immune Complex Formation** | SPEB is a cationic antigen that localizes within the subepithelial space and is the only streptococcal antigen definitively demonstrated within the characteristic electron-dense **subepithelial "humps".**                                                             |
+| **Plasmin Activation**               | NAPlr binds plasmin, which facilitates immune complex deposition, degrades the extracellular matrix, and promotes localized glomerular inflammation.                                                                                                                     |
+| **Circulating Immune Complexes**     | Circulating antibodies directed against SPEB and NAPlr are frequently found in the sera of patients with APSGN, leading to circulating immune complex deposition.                                                                                                        |
+| **Autoimmune Reactivity**            | Streptococcal neuraminidase can alter host IgG by desialization; the host then produces anti-IgG antibodies (rheumatoid factor), resulting in anti-IgG glomerular deposits.                                                                                              |
+| **Complement Activation**            | The alternative complement pathway is intensely activated by the antigen-antibody complexes, leading to markedly depressed serum C3 levels and glomerular inflammation.                                                                                                  |
 
 ## Clinical Features
 
@@ -48,9 +48,9 @@
 ### Laboratory Evaluation
 
 - Urinalysis reveals dysmorphic red blood cells, RBC casts, granular casts, leukocytes, and mild to moderate proteinuria (usually 1-2+ on dipstick).
-- Blood tests indicate reduced renal function with elevated blood urea nitrogen (BUN) and serum creatinine, hemodilution resulting in normocytic anemia, and reactive thrombocytosis or hyponatremia/hyperkalemia associated with oliguria.
+- Blood tests indicate reduced renal function with **elevated blood urea nitrogen (BUN) and serum creatinine**, hemodilution resulting in normocytic anemia, and reactive thrombocytosis or hyponatremia/hyperkalemia associated with oliguria.
 - Serologic evidence of a recent streptococcal infection is mandatory; the Antistreptolysin O (ASO) titer is elevated in over 80% of patients following pharyngitis, whereas the anti-DNAse B titer is more reliably elevated following streptococcal skin infections.
-- Serum complement C3 and CH50 levels are significantly reduced in >90% of patients during the acute phase; importantly, these levels typically return to normal within 8 to 12 weeks.
+- **Serum complement C3 and CH50 levels are significantly reduced** in >90% of patients during the acute phase; importantly, these levels typically return to normal within 8 to 12 weeks.
 - Complement C4 levels are typically normal or only mildly depressed.
 
 ### Renal Pathology

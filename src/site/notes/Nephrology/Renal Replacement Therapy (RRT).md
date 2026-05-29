@@ -4,7 +4,7 @@
 
 ## Overview 
 
-- [[Nephrology/Renal Replacement Therapy (RRT)\|Renal replacement therapy (RRT)]] encompasses treatments intended to substitute for impaired kidney function over an extended period, utilized when kidney dysfunction progresses to the point where homeostasis and survival can no longer be sustained with maximal medical management.
+- Renal replacement therapy (RRT) encompasses treatments intended to substitute for impaired kidney function over an extended period, utilized when kidney dysfunction progresses to the point where homeostasis and survival can no longer be sustained with maximal medical management.
 - RRT encompasses dialysis modalities—peritoneal dialysis (PD), intermittent hemodialysis (IHD), and continuous kidney replacement therapies (CKRT)—as well as kidney transplantation, which is the ultimate goal and definitive therapy for children with end-stage kidney disease (ESKD).
 - The choice of modality depends on the acuity of the kidney injury, the hemodynamic stability of the patient, the goals of therapy (fluid removal versus rapid toxin clearance), patient size, and institutional resources.
 

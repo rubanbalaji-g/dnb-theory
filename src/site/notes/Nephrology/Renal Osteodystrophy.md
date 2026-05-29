@@ -4,13 +4,13 @@
 
 ### Definition and Overview
 
-- [[Nephrology/Renal Osteodystrophy\|Renal osteodystrophy]] is a specific term used to describe the distinct bone pathology that occurs as a complication of [[Nephrology/Chronic Kidney Disease\|chronic kidney disease]] (CKD).
+- Renal osteodystrophy is a specific term used to describe the distinct bone pathology that occurs as a complication of [[Nephrology/Chronic Kidney Disease\|chronic kidney disease]] (CKD).
 - It is a core component of the broader systemic condition known as CKD-Mineral and Bone Disorder (CKD-MBD), which encompasses alterations in mineral ion homeostasis, bone turnover, mineralization, volume, linear growth, and cardiovascular disease such as vascular calcification.
 - The condition is characterized by profound abnormalities in bone turnover (which can be high or low), skeletal mineralization, and bone volume, and it is nearly universal in patients at the start of dialysis therapy.
 
 ### Pathophysiology
 
-- The pathogenesis of [[Nephrology/Renal Osteodystrophy\|renal osteodystrophy]] is driven by a complex interplay between the kidneys, gut, bone, and parathyroid glands that disrupts mineral homeostasis as the glomerular filtration rate (GFR) declines.
+- The pathogenesis of renal osteodystrophy is driven by a complex interplay between the kidneys, gut, bone, and parathyroid glands that disrupts mineral homeostasis as the glomerular filtration rate (GFR) declines.
 - Circulating fibroblast growth factor 23 (FGF23) levels increase in very early CKD due to decreased renal FGF23 clearance, altered bone biology, and an early decline in renal Klotho, which is a critical FGF23 co-factor.
 - Elevated FGF23 suppresses renal 1-alpha-hydroxylase activity, causing 1,25-dihydroxyvitamin D (calcitriol) levels to fall, which in turn significantly reduces intestinal calcium absorption.
 - The combination of low 1,25-dihydroxyvitamin D and low ionized calcium levels stimulates parathyroid hormone (PTH) release from the parathyroid glands, resulting in secondary hyperparathyroidism.

@@ -4,8 +4,8 @@
 
 ### Definition and Purpose
 
-- The [[Nephrology/Renal Angina Index (RAI)\|Renal Angina Index (RAI)]] is a validated scoring system utilized primarily at the time of Pediatric Intensive Care Unit (ICU) admission to predict a child's risk of developing severe [[Nephrology/Acute Kidney Injury\|acute kidney injury]] (AKI).
-- The [[Statistics/Index\|index]] functions by combining baseline patient risk factors (such as a history of transplantation or the need for intensive life support) with early functional evidence of [[Nephrology/Acute Kidney Injury\|acute kidney injury]] (such as changes in serum creatinine or the degree of fluid overload).
+- The Renal Angina Index (RAI) is a validated scoring system utilized primarily at the time of Pediatric Intensive Care Unit (ICU) admission to predict a child's risk of developing severe [[Nephrology/Acute Kidney Injury\|acute kidney injury]] (AKI).
+- The index functions by combining baseline patient risk factors (such as a history of transplantation or the need for intensive life support) with early functional evidence of acute kidney injury (such as changes in serum creatinine or the degree of fluid overload).
 - It serves as a critical early prognostication tool, identifying patients who are at a high risk for severe AKI early in their ICU course, which carries significant implications for initiating anticipatory and preventive management strategies.
 - The scoring system specifically incorporates a patient's history of hematopoietic stem cell transplantation (HSCT) into its risk grading, recognizing this as a highly significant predisposing factor for AKI.
 

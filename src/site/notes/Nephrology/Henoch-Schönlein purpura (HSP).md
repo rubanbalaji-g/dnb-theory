@@ -5,13 +5,13 @@
 ## Definition and Overview
 
 - IgA vasculitis, formerly known as [[Nephrology/Henoch-Schönlein purpura (HSP)\|Henoch-Schönlein purpura (HSP)]], is the most common childhood vasculitis.
-- It is a clinical, multisystem disorder defined by the presence of palpable purpura accompanied by one or more of the following features: arthritis or arthralgia, abdominal pain, renal involvement, or predominant IgA deposition.
+- It is a clinical, multisystem disorder defined by the presence of **palpable purpura** accompanied by one or more of the following features: **arthritis or arthralgia, abdominal pain, renal involvement, or predominant IgA deposition.**
 - While the disease largely affects the pediatric population and generally carries a favorable prognosis, the development of IgA vasculitis with nephritis is a feared complication that contributes to a poor long-term prognosis.
 
 ## Pathogenesis
 
 - The pathogenesis of IgA vasculitis with nephritis is similar to that of IgA nephropathy.
-- The primary mechanism involves the mucosal production of galactose-deficient IgA1 (GdIgA1), which acts as an autoantigen.
+- The primary mechanism involves the mucosal production of **galactose-deficient IgA1 (GdIgA1),** which acts as an autoantigen.
 - This triggers an IgG autoimmune response, leading to the circulation and subsequent deposition of macromolecular IgA1 immune complexes within the kidneys.
 - The deposition of these complexes leads to complement activation, resulting in glomerular inflammation and subsequent renal damage.
 

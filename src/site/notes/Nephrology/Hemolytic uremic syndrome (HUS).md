@@ -4,7 +4,7 @@
 
 ## Definition and Overview
 
-- [[Nephrology/Hemolytic uremic syndrome (HUS)\|Hemolytic uremic syndrome (HUS)]] is a primary cause of community-acquired [[Nephrology/Acute Kidney Injury\|acute kidney injury]] (AKI) in children and represents the most common form of thrombotic microangiopathy (TMA) in the pediatric population.
+- Hemolytic uremic syndrome (HUS) is a primary cause of community-acquired [[Nephrology/Acute Kidney Injury\|acute kidney injury]] (AKI) in children and represents the most common form of thrombotic microangiopathy (TMA) in the pediatric population.
 - The condition is classically defined by a clinical triad comprising microangiopathic hemolytic anemia (MAHA), consumptive thrombocytopenia, and [[Nephrology/Acute Kidney Injury\|acute kidney injury]].
 - While the final clinical manifestation of TMA is uniform across different etiologies, the underlying pathophysiology varies significantly, heavily influencing specific management strategies.
 
