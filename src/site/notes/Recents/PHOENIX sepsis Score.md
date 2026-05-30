@@ -20,12 +20,12 @@
 - Evaluates organ dysfunction strictly across four physiological systems.
 - Excludes liver and renal criteria utilized in adult SOFA scores due to poor mortality predictability in pediatric cohorts.
 
-|Domain|Point Allocation|Evaluated Clinical Parameters|
-|:--|:--|:--|
-|**Respiratory**|0-3 Points|PaO2/FiO2 ratio, SpO2/FiO2 ratio, requirement for invasive or non-invasive mechanical ventilation.|
-|**Cardiovascular**|0-6 Points|Age-adjusted severe hypotension, blood lactate concentrations (> 5 mmol/L scores high), requirement for vasoactive medications.|
-|**Coagulation**|0-3 Points|Platelet count (< 100,000/µL), INR, Fibrinogen levels, D-dimer levels.|
-|**Neurologic**|0-3 Points|Glasgow Coma Scale (GCS) or AVPU score, pupil reactivity.|
+| Domain             | Point Allocation | Evaluated Clinical Parameters                                                                                                   |
+| :----------------- | :--------------- | :------------------------------------------------------------------------------------------------------------------------------ |
+| **Respiratory**    | 0-3 Points       | PaO2/FiO2 ratio, SpO2/FiO2 ratio, requirement for invasive or non-invasive mechanical ventilation.                              |
+| **Cardiovascular** | 0-6 Points       | Age-adjusted severe hypotension, blood lactate concentrations (> 5 mmol/L scores high), requirement for vasoactive medications. |
+| **Coagulation**    | 0-3 Points       | Platelet count (< 100,000/µL), INR, Fibrinogen levels, D-dimer levels.                                                          |
+| **Neurologic**     | 0-3 Points       | Glasgow Coma Scale (GCS) or AVPU score, pupil reactivity.                                                                       |
 
 ## Clinical and Prognostic Significance
 

@@ -2,6 +2,12 @@
 {"dg-publish":true,"uptext":"⟵ Back to (🚸 Social Pediatrics)","uplink":"/social-pediatics/social-pediatrics/","permalink":"/social-pediatics/india-newborn-action-plan-inap-2030/","dgPassFrontmatter":true}
 ---
 
+> [!atomic] Summary
+> * **Launch and Vision:** Initiated in September 2014 by the MoHFW, INAP focuses on ensuring zero preventable newborn deaths and stillbirths.
+> * **2030 Targets:** Accelerated goals aim to achieve a _single-digit Neonatal Mortality Rate (NMR) and Stillbirth Rate (SBR) of less than 10 per 1000 births_.
+> * **Strategic Pillars:** The operational framework spans six key intervention packages: Preconception/Antenatal Care, Labour/Childbirth Care, Immediate Newborn Care, Healthy Newborn Care, Small/Sick Newborn Care, and Care Beyond Survival.
+> * **Key Interventions:** Seamlessly integrates major health programs including _PMSMA_ (pregnancy care), _LaQshya_ (intrapartum quality), _MAA_ (breastfeeding), and _RBSK_ (early pediatric screening).
+> * **Health System Strengthening:** Tracks progress and enforces accountability using Bottleneck Assessments (BNA), robust data tracking (HMIS, SRS, NFHS), and Maternal Perinatal Death Surveillance.
 ## Introduction and Vision
 * **Launch:** Instituted by the Ministry of Health and Family Welfare (MoHFW), Government of India, in September 2014.
 * **Genesis:** It is India's concerted strategic response to the global Every Newborn Action Plan (ENAP), aligned with the 67th World Health Assembly resolution.

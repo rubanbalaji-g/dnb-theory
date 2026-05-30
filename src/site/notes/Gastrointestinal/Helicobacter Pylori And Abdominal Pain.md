@@ -32,9 +32,9 @@
 ### Invasive Endoscopic Testing
 
 - **Gold Standard:** Esophagogastroduodenoscopy (EGD) with mucosal biopsy.
-- **Visual Findings:** The hallmark pediatric finding is marked antral nodularity, presenting with a gooseflesh or cobblestone appearance.
-- **Biopsy Protocol:** Minimum of 6 samples required (two from the antrum and two from the corpus for histology; the remaining for culture and rapid urease testing).
-- **Histopathology:** Giemsa or Warthin-Starry silver stain highlights organisms adhering to the epithelium; accompanied by severe neutrophilic and lymphocytic infiltrate.
+	- **Visual Findings:** The hallmark pediatric finding is marked antral nodularity, presenting with a gooseflesh or cobblestone appearance.
+	- **Biopsy Protocol:** Minimum of 6 samples required (two from the antrum and two from the corpus for histology; the remaining for culture and rapid urease testing).
+	- **Histopathology:** Giemsa or Warthin-Starry silver stain highlights organisms adhering to the epithelium; accompanied by severe neutrophilic and lymphocytic infiltrate.
 - **Rapid Urease Test:** Rapid bedside detection of ammonia production utilizing a biopsy gel medium.
 
 ### Non-Invasive Testing

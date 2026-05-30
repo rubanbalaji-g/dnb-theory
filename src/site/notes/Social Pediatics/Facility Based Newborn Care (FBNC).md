@@ -2,7 +2,13 @@
 {"dg-publish":true,"uptext":"⟵ Back to (🚸 Social Pediatrics)","uplink":"/social-pediatics/social-pediatrics/","permalink":"/social-pediatics/facility-based-newborn-care-fbnc/","dgPassFrontmatter":true}
 ---
 
-## Introduction
+> [!atomic] Summary
+> - The Facility Based Newborn Care initiative under the National Health Mission aims to reduce the neonatal mortality rate to below 12 per 1000 live births by providing a tiered care system for newborns.
+> - **Level I care** is provided at Newborn Care Corners (NBCC) in all delivery points and focuses on essential newborn care and resuscitation.
+> - **Level II care** is delivered at Newborn Stabilization Units (NBSU) in referral units to manage mild to moderately sick newborns using tools like CPAP and phototherapy.
+> - **Level III care** is offered at Special Newborn Care Units (SNCU) or Mother-Newborn Care Units (MNCU) in larger hospitals for comprehensive secondary care.
+> - The revised 2025 guidelines emphasize the MNCU model for zero mother-baby separation, CPAP availability, enhanced newborn screening, and digital record integration.
+## **Introduction**
 - Flagship initiative under RMNCH+A strategy of National Health Mission (NHM), Ministry of Health & Family Welfare
 - Provides tiered, facility-based care to sick and small newborns (birth to 28 days) at all levels of public health facilities
 - Revised Operational Guidelines released November 2025 (after 14 years) – emphasize quality improvement, Mother-Newborn Care Units (MNCU), CPAP provision, [[Neonatalogy/Newborn Screening\|newborn screening]] and zero-separation policy

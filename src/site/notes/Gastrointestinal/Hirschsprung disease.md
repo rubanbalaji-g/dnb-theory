@@ -46,15 +46,15 @@
 |**Rectal Suction Biopsy**|**Gold Standard.** Must be obtained 2-3 cm above the dentate line. Confirms the total absence of ganglion cells.|
 |**Histochemical Staining**|Reveals increased thick, knotted acetylcholinesterase (AChE)-positive hypertrophied nerve fibers and a loss of calretinin immunoreactivity in the aganglionic segment.|
 
-## Differential Diagnosis: [[Gastrointestinal/Hirschsprung disease\|Hirschsprung Disease]] Versus Functional Constipation
+## Differential Diagnosis: Hirschsprung Disease Versus Functional Constipation
 
-|Clinical Feature|[[Gastrointestinal/Hirschsprung disease\|Hirschsprung Disease]]|Functional Constipation|
-|---|---|---|
-|**Onset Of Symptoms**|Neonatal period or infancy.|Toddler or preschool age (acquired).|
-|**Meconium Passage**|Delayed (>48 hours).|Normal (<48 hours).|
-|**Encopresis / Soiling**|Rare or completely absent.|Extremely common (overflow incontinence).|
-|**Withholding Behavior**|Rare or absent.|Common (retentive posturing).|
-|**Digital Rectal Exam**|Empty ampulla, tight sphincter, squirt sign present.|Enlarged ampulla filled with hard stool.|
+| Clinical Feature         | Hirschsprung Disease                             | Functional Constipation                   |
+| ------------------------ | ---------------------------------------------------- | ----------------------------------------- |
+| **Onset Of Symptoms**    | Neonatal period or infancy.                          | Toddler or preschool age (acquired).      |
+| **Meconium Passage**     | Delayed (>48 hours).                                 | Normal (<48 hours).                       |
+| **Encopresis / Soiling** | Rare or completely absent.                           | Extremely common (overflow incontinence). |
+| **Withholding Behavior** | Rare or absent.                                      | Common (retentive posturing).             |
+| **Digital Rectal Exam**  | Empty ampulla, tight sphincter, squirt sign present. | Enlarged ampulla filled with hard stool.  |
 
 ## Management Protocol
 

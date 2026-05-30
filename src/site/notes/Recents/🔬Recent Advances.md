@@ -82,7 +82,7 @@
 10. [[Recents/Non Invasive Co2 Monitoring\|Non Invasive Co2 Monitoring]]
 ## General Pediatrics and Miscellaneous
 1. [[Recents/Tele-pediatrics and Hybrid Healthcare Models\|Tele-pediatrics and Hybrid Healthcare Models]]
-2. [[Recents/National Rare Disease Policy 2025\|National Rare Disease Policy 2025]]
+2. [[Recents/National Policy for Rare Diseases (NPRD)\|National Policy for Rare Diseases (NPRD)]]
 3. [[Recents/Impact of Screen Time on Neurodevelopment (2026 Guidelines)\|Impact of Screen Time on Neurodevelopment (2026 Guidelines)]]
 4. [[Recents/Recent Changes in the Protection of Children from Sexual Offences (POCSO) Act\|Recent Changes in the Protection of Children from Sexual Offences (POCSO) Act]]
 5. [[Recents/Simulation in Medical Education\|Simulation in Medical Education]]

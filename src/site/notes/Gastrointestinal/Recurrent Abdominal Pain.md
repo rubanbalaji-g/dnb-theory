@@ -8,7 +8,7 @@
 - Affects approximately 10% of school-aged children.
 - Often referred to as [[Gastrointestinal/Functional Abdominal Pain\|functional abdominal pain]] when no underlying organic cause is identified.
 
-## Diagnostic Features Of Functional [[Gastrointestinal/Recurrent Abdominal Pain\|Recurrent Abdominal Pain]]
+## Diagnostic Features Of Functional Recurrent Abdominal Pain
 
 ### Clinical Presentation
 
@@ -18,12 +18,12 @@
 
 ### Rome IV Classification Subtypes
 
-|Subtype|Diagnostic Criteria|
-|:--|:--|
-|[[Gastrointestinal/Functional Abdominal Pain\|Functional abdominal pain]] - not otherwise specified|Episodic or continuous periumbilical pain occurring $\ge$4 times/month for >2 months; insufficient criteria for other functional disorders.|
-|Irritable bowel syndrome|Abdominal pain $\ge$4 days/month associated with defecation, change in stool frequency, or change in stool form.|
-|Functional dyspepsia|Postprandial fullness, early satiety, epigastric pain/burning not relieved by defecation.|
-|Abdominal [[Neurology/Migraine\|migraine]]|Paroxysmal intense periumbilical/midline pain >1 hour; associated with anorexia, nausea, vomiting, headache, photophobia, pallor.|
+| Subtype                                                 | Diagnostic Criteria                                                                                                                          |
+| :------------------------------------------------------ | :------------------------------------------------------------------------------------------------------------------------------------------- |
+| [[Gastrointestinal/Functional Abdominal Pain\|Functional abdominal pain]] - not otherwise specified | Episodic or continuous periumbilical pain occurring $\ge$ 4 times/month for >2 months; insufficient criteria for other functional disorders. |
+| Irritable bowel syndrome                                | Abdominal pain $\ge$ 4 days/month associated with defecation, change in stool frequency, or change in stool form.                            |
+| Functional dyspepsia                                    | Postprandial fullness, early satiety, epigastric pain/burning not relieved by defecation.                                                    |
+| Abdominal [[Neurology/Migraine\|migraine]]                                  | Paroxysmal intense periumbilical/midline pain >1 hour; associated with anorexia, nausea, vomiting, headache, photophobia, pallor.            |
 
 ### Absence Of Alarm (Red Flag) Signs
 

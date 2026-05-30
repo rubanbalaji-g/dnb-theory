@@ -42,12 +42,12 @@
 
 Anomalies are present in up to 50% of infants with EA/TEF.
 
-|Category|Specific Associations|
-|---|---|
-|**VACTERL Association**|Vertebral, Anorectal, Cardiac, Tracheal, Esophageal, Renal, and Limb anomalies (present in 15% of cases).|
-|**Cardiac Anomalies**|Most common association (30-32%); includes ventricular septal defect, patent ductus arteriosus, and [[Cardiology/Tetralogy of Fallot\|tetralogy of Fallot]].|
-|**Other Systems**|Vertebral anomalies (24%), imperforate anus (10%).|
-|**Syndromic**|CHARGE syndrome, Feingold syndrome, Trisomy 18, and Trisomy 21.|
+| Category                | Specific Associations                                                                                                        |
+| ----------------------- | ---------------------------------------------------------------------------------------------------------------------------- |
+| **VACTERL Association** | Vertebral, Anorectal, Cardiac, Tracheal, Esophageal, Renal, and Limb anomalies (present in 15% of cases).                    |
+| **Cardiac Anomalies**   | Most common association (30-32%); includes ventricular septal defect, patent ductus arteriosus, and [[Cardiology/Tetralogy of Fallot\|tetralogy of Fallot]]. |
+| **Other Systems**       | Vertebral anomalies (24%), imperforate anus (10%).                                                                           |
+| **Syndromic**           | CHARGE syndrome, Feingold syndrome, Trisomy 18, and Trisomy 21.                                                              |
 
 ## Diagnostic Evaluation
 

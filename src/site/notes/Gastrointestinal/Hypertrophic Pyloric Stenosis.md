@@ -4,7 +4,7 @@
 
 ## Definition And Epidemiology
 
-- [[Gastrointestinal/Hypertrophic Pyloric Stenosis\|Hypertrophic pyloric stenosis]] is an acquired condition characterized by progressive idiopathic hypertrophy of the pyloric circular muscle.
+- Hypertrophic pyloric stenosis is an acquired condition characterized by progressive idiopathic hypertrophy of the pyloric circular muscle.
 - This hypertrophy causes narrowing and elongation of the pyloric channel, leading to gastric outlet obstruction.
 - The condition is not present at birth and develops entirely postnatally.
 
@@ -76,7 +76,7 @@
 
 ### Surgical And Medical Interventions
 
-- The definitive surgical procedure is the Ramstedt pyloromyotomy, which involves a longitudinal incision and blunt splitting of the hypertrophied circular muscle down to, but sparing, the submucosal layer.
+- The definitive surgical procedure is the **Ramstedt pyloromyotomy**, which involves a longitudinal incision and blunt splitting of the hypertrophied circular muscle down to, but sparing, the submucosal layer.
 - Surgery can be performed via open approaches, laparoscopically, or through emerging endoscopic techniques like gastric peroral endoscopic myotomy.
 - Conservative medical therapy utilizing intravenous followed by oral atropine sulfate acts as a muscle relaxant but is reserved strictly for patients unfit for general anesthesia, as it carries a lower success rate and mandates a longer hospital stay.
 

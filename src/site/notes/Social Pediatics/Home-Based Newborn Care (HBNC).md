@@ -2,8 +2,14 @@
 {"dg-publish":true,"uptext":"⟵ Back to (🚸 Social Pediatrics)","uplink":"/social-pediatics/social-pediatrics/","permalink":"/social-pediatics/home-based-newborn-care-hbnc/","dgPassFrontmatter":true}
 ---
 
+> [!atomic] Summary
+> * **Definition & Purpose:** HBNC delivers essential, low-cost interventions through community health workers (ASHAs) directly at the family's doorstep to reduce the _Neonatal Mortality Rate (NMR)_.
+> * **Visit Schedule:** The schedule includes 7 visits for home deliveries (Days 1, 3, 7, 14, 21, 28, and 42) and 6 visits for institutional deliveries (starting on Day 3).
+> * **Newborn Care & Monitoring:** Interventions prioritize essential care (maintaining the warm chain, hygiene, and breastfeeding), physical growth tracking, and immediate screening for critical danger signs like poor feeding, abnormal temperatures, or fast breathing.
+> * **Maternal Health:** ASHAs monitor the mother for postpartum complications, provide family planning counseling, and encourage nutritional health and postnatal check-ups.
+> * **Impact:** By providing performance-based incentives for completed visits, HBNC ensures a continuous care bridge that empowers communities and significantly reduces infant mortality from prematurity and sepsis.
 ## Definition
-[[Social Pediatics/Home-Based Newborn Care (HBNC)\|Home-Based Newborn Care (HBNC)]] is a comprehensive package of highly effective, low-cost interventions provided by a trained community health worker (ASHA) at the doorstep of the beneficiary. It aims to reduce Neonatal Mortality Rate (NMR) by providing essential care, identifying danger signs early, and ensuring prompt referral of sick neonates.
+Home-Based Newborn Care (HBNC) is a comprehensive package of highly effective, low-cost interventions provided by a trained community health worker (ASHA) at the doorstep of the beneficiary. It aims to reduce Neonatal Mortality Rate (NMR) by providing essential care, identifying danger signs early, and ensuring prompt referral of sick neonates.
 
 ## Objectives
 - Ensuring essential newborn care (warmth, hygiene, and breastfeeding).

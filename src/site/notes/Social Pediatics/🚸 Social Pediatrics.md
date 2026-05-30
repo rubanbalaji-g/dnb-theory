@@ -2,7 +2,6 @@
 {"dg-publish":true,"permalink":"/social-pediatics/social-pediatrics/","dgPassFrontmatter":true}
 ---
 
-
 ## Neonatal and Child Health Programs
 * [[Social Pediatics/India Newborn Action Plan (INAP) 2030\|India Newborn Action Plan (INAP) 2030]]
 * [[Social Pediatics/Facility Based Newborn Care (FBNC)\|Facility Based Newborn Care (FBNC)]]

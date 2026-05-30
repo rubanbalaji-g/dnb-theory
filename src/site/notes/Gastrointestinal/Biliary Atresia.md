@@ -21,13 +21,13 @@
 
 |Variant|Characteristics|
 |:--|:--|
-|**Isolated [[Gastrointestinal/Biliary Atresia\|Biliary Atresia]]**|Accounts for 80-90% of cases. Typical variant. Elevated direct bilirubin at 24-48 hours implies prenatal onset.|
-|**Syndromic [[Gastrointestinal/Biliary Atresia\|Biliary Atresia]]**|Accounts for ~15% of cases. Associated with [[Gastrointestinal/Biliary Atresia\|biliary atresia]] splenic malformation (BASM) syndrome. Features include polysplenia/asplenia, situs inversus, absent inferior vena cava, preduodenal portal vein, cardiac anomalies.|
-|**Cystic [[Gastrointestinal/Biliary Atresia\|Biliary Atresia]]**|Accounts for ~5% of cases. Obvious cyst within obliterated biliary tree. Detectable on antenatal ultrasound.|
-|**CMV IgM-Positive [[Gastrointestinal/Biliary Atresia\|Biliary Atresia]]**|Accounts for ~10% of cases. Non-Caucasian predominance, older age at diagnosis, higher aspartate aminotransferase, larger spleens, prominent CD4+ Th1+ T-cell infiltrate. Associated with poorer surgical outcome.|
+|**Isolated Biliary Atresia**|Accounts for 80-90% of cases. Typical variant. Elevated direct bilirubin at 24-48 hours implies prenatal onset.|
+|**Syndromic Biliary Atresia**|Accounts for ~15% of cases. Associated with biliary atresia splenic malformation (BASM) syndrome. Features include polysplenia/asplenia, situs inversus, absent inferior vena cava, preduodenal portal vein, cardiac anomalies.|
+|**Cystic Biliary Atresia**|Accounts for ~5% of cases. Obvious cyst within obliterated biliary tree. Detectable on antenatal ultrasound.|
+|**CMV IgM-Positive Biliary Atresia**|Accounts for ~10% of cases. Non-Caucasian predominance, older age at diagnosis, higher aspartate aminotransferase, larger spleens, prominent CD4+ Th1+ T-cell infiltrate. Associated with poorer surgical outcome.|
 
-### Anatomical Types
-
+### Anatomical Types (Kasai Types)
+![Pasted image 20260530014705.png](/img/user/+%C4%B0mages/Pasted%20image%2020260530014705.png)
 - **Type 1:** Atresia of distal bile duct with patent proximal extrahepatic bile duct.
 - **Type 2:** Atresia of common hepatic duct.
 - **Type 3:** Nonpatency of entire extrahepatic biliary system and intrahepatic ducts at hilum. Comprises >95% of cases.

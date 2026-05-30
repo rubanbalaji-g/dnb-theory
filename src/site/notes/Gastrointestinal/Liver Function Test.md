@@ -51,11 +51,11 @@ Assess canalicular bile flow and biliary tree patency.
 
 Assess functional liver mass and reserve. Crucial for determining disease severity.
 
-### Prothrombin Time (Pt) And International Normalized Ratio (INR)
+### Prothrombin Time (PT) And International Normalized Ratio (INR)
 
 - Liver synthesizes factor V and vitamin K-dependent factors (II, VII, IX, X).
-- Pt/INR serves as highly sensitive, dynamic marker of acute hepatic synthetic capability.
-- Factor VII has shortest half-life (4-6 hours); depletes first in [[Gastrointestinal/Acute Liver Failure\|acute liver failure]], elevating Pt/INR rapidly.
+- PT/INR serves as highly sensitive, dynamic marker of acute hepatic synthetic capability.
+- Factor VII has shortest half-life (4-6 hours); depletes first in [[Gastrointestinal/Acute Liver Failure\|acute liver failure]], elevating PT/INR rapidly.
 - Prolongation of PT >3 seconds above control considered abnormal.
 - Correction of coagulopathy following intravenous vitamin K administration confirms vitamin K malabsorption (cholestasis) rather than intrinsic hepatocellular synthetic failure.
 - PT >15 seconds (INR >1.5) with encephalopathy, or PT >20 seconds (INR >2.0) without encephalopathy defines [[Gastrointestinal/Acute Liver Failure\|acute liver failure]] in pediatrics.
@@ -80,7 +80,7 @@ Assess functional liver mass and reserve. Crucial for determining disease severi
 
 | Clinical Entity             | Key Biochemical Findings                                                                                                                                                        |
 | :-------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| Acute Viral Hepatitis       | Massive transaminase elevation (ALT > AST); variable bilirubin; normal albumin initially; Pt/INR normal unless progressing to [[Gastrointestinal/Acute Liver Failure\|acute liver failure]].                          |
+| Acute Viral Hepatitis       | Massive transaminase elevation (ALT > AST); variable bilirubin; normal albumin initially; PT/INR normal unless progressing to [[Gastrointestinal/Acute Liver Failure\|acute liver failure]].                          |
 | [[Gastrointestinal/Acute Liver Failure\|Acute Liver Failure]]     | Progressive coagulopathy (INR >1.5-2.0) unresponsive to vitamin K; hypoglycemia; hyperammonemia; transaminases may paradoxically drop as liver mass undergoes massive necrosis. |
 | [[Gastrointestinal/Autoimmune hepatitis\|Autoimmune Hepatitis]]    | Elevated transaminases; hypergammaglobulinemia (elevated IgG); positive autoantibodies (ANA, SMA, LKM-1); interface hepatitis on biopsy.                                        |
 | [[Gastrointestinal/Biliary Atresia\|Biliary Atresia]]         | Conjugated hyperbilirubinemia; disproportionately elevated 𝛾GT (>200 IU/L) and ALP; mildly elevated transaminases; normal synthetic function initially.                        |

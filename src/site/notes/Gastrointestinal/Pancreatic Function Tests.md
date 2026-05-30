@@ -9,7 +9,7 @@
 - Clinical steatorrhea and severe malabsorption manifest only after 90-98% destruction of acinar cell mass.
 - Categorized primarily into direct (stimulatory) and indirect (non-stimulatory) tests.
 
-## Indirect [[Gastrointestinal/Pancreatic Function Tests\|Pancreatic Function Tests]]
+## Indirect Pancreatic Function Tests
 
 - Measure downstream consequences of malabsorption or quantify specific pancreatic enzymes in stool, blood, or breath.
 - Preferred for initial screening; highly sensitive for moderate-to-severe EPI; exhibits low sensitivity for mild disease.
@@ -18,13 +18,12 @@
 
 - Most commonly utilized non-invasive screening test.
 - Employs monoclonal enzyme-linked immunosorbent assay (ELISA).
-- Detects human chymotrypsin-like elastases (CELA) 3A and 3B, resisting intestinal degradation.
+- Detects **human chymotrypsin-like elastases** (CELA) 3A and 3B, resisting intestinal degradation.
 - **Advantages:** Unaffected by exogenous porcine pancreatic enzyme replacement therapy (PERT). Requires single small stool sample (>1 gram). Stable at room temperature for weeks.
 - **Interpretation:**
-    - > 200 ug/g: Normal pancreatic function.
-        
+    - \> 200 ug/g: Normal pancreatic function.
     - 100-200 ug/g: Intermediate/mild dysfunction.
-    - <100 ug/g: Diagnostic for severe EPI.
+    - \<100 ug/g: Diagnostic for severe EPI.
 - **Limitations:** Yields falsely low results in dilute, watery stools (infectious diarrhea, short bowel syndrome, ileostomy output).
 
 ### 72-Hour Fecal Fat Excretion (Coefficient Of Fat Absorption)
@@ -57,7 +56,7 @@
 - Less sensitive and specific exocrine marker.
 - Cross-reacts with porcine enzymes; utilized primarily to monitor PERT compliance in established EPI.
 
-## Direct [[Gastrointestinal/Pancreatic Function Tests\|Pancreatic Function Tests]]
+## Direct Pancreatic Function Tests
 
 - Evaluate direct acinar and ductal secretory capacity.
 - Utilize intravenous secretagogues: cholecystokinin (CCK) (stimulates acinar enzyme secretion) and/or secretin (stimulates ductal fluid/bicarbonate secretion).
@@ -65,7 +64,7 @@
 ### Test Modalities
 
 - **Endoscopic Pancreatic Function Testing (ePFT):** Intravenous secretin/CCK administered. Duodenal fluid aspirated endoscopically after 10 minutes. Fluid analyzed for volume, pH, bicarbonate, and enzymes. Bicarbonate <80 mmol/L indicates exocrine insufficiency.
-- **Secretin-Enhanced Magnetic Resonance Cholangiopancreatography (MR [[Respiratory/PFT\|PFT]]):** Non-invasive, radiation-free alternative quantifying fluid output and ductal morphology. Pediatric standardization and protocols remain pending.
+- **Secretin-Enhanced Magnetic Resonance Cholangiopancreatography (MR PFT):** Non-invasive, radiation-free alternative quantifying fluid output and ductal morphology. Pediatric standardization and protocols remain pending.
 
 ### Clinical Utility And Limitations
 
