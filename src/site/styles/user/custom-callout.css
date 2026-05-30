@@ -14,9 +14,13 @@ body .callout[data-callout="def"] {
     --callout-color: 120, 145, 247;
 }
 
-/* "atomic": Deep Plum */
-body .callout[data-callout="atomic"] {
-    --callout-color: 109, 40, 217;
+/* "atomic": Theme-aware Purple */
+.theme-light body .callout[data-callout="atomic"] {
+    --callout-color: 124, 58, 237; /* #7C3AED */
+}
+
+.theme-dark body .callout[data-callout="atomic"] {
+    --callout-color: 167, 139, 250; /* #A78BFA */
 }
 
 /* --- 2. NEW NO-ICON CALLOUTS --- */
