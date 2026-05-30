@@ -17,7 +17,6 @@ body .callout[data-callout="def"] {
 /* "atomic": Deep Plum */
 body .callout[data-callout="atomic"] {
     --callout-color: 109, 40, 217;
-    background-color: #F5F3FF; /* Lavender background override */
 }
 
 /* --- 2. NEW NO-ICON CALLOUTS --- */
