@@ -5,8 +5,8 @@
 
 ### Definition and Epidemiology
 
-- [[Development/Specific Learning Disability (SLD)\|Specific learning disability (SLD)]] is defined as a persistent impairment in reading (dyslexia), writing (dysgraphia), and/or arithmetic (dyscalculia) skills in an individual with preserved cognition, vision, hearing, and adequate opportunities.
-- The Diagnostic and Statistical Manual of Mental Disorders, Fifth Edition (DSM-5) classifies SLD as a neurodevelopmental disorder with specific specifiers recognizing impairments in reading, written expression, and mathematics.
+- Specific learning disability (SLD) is defined as a persistent impairment in reading (dyslexia), writing (dysgraphia), and/or arithmetic (dyscalculia) skills in an individual with preserved cognition, vision, hearing, and adequate opportunities.
+- The Diagnostic and Statistical Manual of Mental Disorders, Fifth Edition (DSM-5) classifies SLD as a **neurodevelopmental disorder with specific specifiers** recognizing impairments in reading, written expression, and mathematics.
 - SLD affects 5-15% of school-going children, with dyslexia representing the most common presentation, accounting for 80% of all specific learning disabilities.
 - The prevalence of math learning disability is approximately 7%, with an additional 10% of students identified as low achieving in mathematics.
 - The incidence of impairment in written expression (IWE) is estimated at 6.9-14.7%, with the relative risk being approximately 2.5 times higher for males than for females.
@@ -15,7 +15,7 @@
 
 - Learning disorders are generally caused by functionally disrupted networks in the cerebral cortex, despite the presence of intact gross neuroanatomy.
 - There is a high degree of heritability in learning disorders, with genetic influence estimates ranging from 45% to 80%.
-- Specific genetic loci, such as the DYX2 locus on chromosome 6p22 and the DYX3 locus on 2p12, have been identified and associated with reading disorders.
+- Specific genetic loci, such as the **DYX2** locus on chromosome 6p22 and the DYX3 locus on 2p12, have been identified and associated with reading disorders.
 - Functional brain imaging in dyslexic individuals consistently demonstrates inefficient functioning and underactivation of the left hemisphere posterior brain systems, known as the neural signature of dyslexia.
 - Math learning disabilities possess a heritability estimate of approximately 0.50 and are frequently observed in specific genetic syndromes, including [[Genetics/Fragile X Syndrome\|Fragile X syndrome]], [[Genetics/Turner Syndrome\|Turner syndrome]], and 22q11.2 deletion syndrome.
 - Impairments in written expression arise from breakdowns in transcription (handwriting and spelling) and executive functions, which overwhelm the child's working memory capacity and limit the cognitive resources available for discourse and text generation.
@@ -36,8 +36,8 @@
 - The affected academic skills must be substantially and quantifiably below those expected for the individual's chronologic age and cause significant interference with academic or occupational performance.
 - Impairment must be confirmed through individually administered standardized achievement measures and comprehensive clinical assessment.
 - The DSM-5 specifies current severity for written expression and other domains as Mild (can compensate with accommodations), Moderate (unlikely to become proficient without intensive specialized teaching), or Severe (requires ongoing intensive individualized teaching).
-- The educational system frequently utilizes a Response to Intervention (RtI) model for identification.
-- The RtI model requires schools to screen for learning difficulties, intervene using evidence-based treatments, closely monitor progress, and only proceed to a multidisciplinary evaluation for an Individualized Education Program (IEP) if the child fails to respond adequately.
+- The educational system frequently utilizes a Response to Intervention (RTI) model for identification.
+- The RTI model requires schools to screen for learning difficulties, intervene using evidence-based treatments, closely monitor progress, and only proceed to a multidisciplinary evaluation for an Individualized Education Program (IEP) if the child fails to respond adequately.
 
 ### Differential Diagnosis and Comorbidities
 
@@ -49,10 +49,10 @@
 
 ### Management and Interventions
 
-|Intervention Modality|Specific Strategies and Implementations|
-|:--|:--|
-|**Educational Accommodations (Bypass Strategies)**|Development of a 504 Plan or Individualized Education Program (IEP) to provide accommodations in the regular classroom. Includes extended time on examinations, preferential seating, and alternative testing formats (e.g., oral instead of written reports).|
-|**Assistive Technology**|Utilization of text-to-speech programs, voice-to-text dictation software, calculators for math assignments, and word processors with spelling and grammar check capabilities.|
-|**Reading Remediation**|Evidence-based intervention providing systematic instruction in five key areas: phonemic awareness, phonics, reading fluency, vocabulary development, and reading comprehension strategies.|
-|**Writing Remediation**|Implementation of Self-Regulated Strategy Development (SRSD) to teach planning, organizing, and revising skills. Direct, multisensory handwriting instruction to achieve automaticity in lower-level transcription skills.|
-|**Mathematics Remediation**|Explicit, skill-based instruction over several weeks to months, focusing on specific problem types. Use of concrete materials, guided repeated practice, and direct modeling to build math fact retrieval and procedural fluency.|
+| Intervention Modality                              | Specific Strategies and Implementations                                                                                                                                                                                                                        |
+| :------------------------------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Educational Accommodations (Bypass Strategies)** | Development of a 504 Plan or Individualized Education Program (IEP) to provide accommodations in the regular classroom. Includes extended time on examinations, preferential seating, and alternative testing formats (e.g., oral instead of written reports). |
+| **Assistive Technology**                           | Utilization of text-to-speech programs, voice-to-text dictation software, calculators for math assignments, and word processors with spelling and grammar check capabilities.                                                                                  |
+| **Reading Remediation**                            | Evidence-based intervention providing systematic instruction in five key areas: phonemic awareness, phonics, reading fluency, vocabulary development, and reading comprehension strategies.                                                                    |
+| **Writing Remediation**                            | Implementation of Self-Regulated Strategy Development (SRSD) to teach planning, organizing, and revising skills. Direct, multisensory handwriting instruction to achieve automaticity in lower-level transcription skills.                                     |
+| **Mathematics Remediation**                        | Explicit, skill-based instruction over several weeks to months, focusing on specific problem types. Use of concrete materials, guided repeated practice, and direct modeling to build math fact retrieval and procedural fluency.                              |

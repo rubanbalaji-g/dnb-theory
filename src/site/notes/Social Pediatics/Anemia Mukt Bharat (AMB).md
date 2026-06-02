@@ -36,11 +36,11 @@
 - Administered at Anganwadi centres/immunization sessions
 
 ### 5–9 years
-- Weekly: 1 pink sugar-coated IFA tablet (45 mg elemental iron + 400 mcg folic acid)
+- Weekly: 1 <span style="color:rgb(255, 138, 117)">pink</span> sugar-coated IFA tablet (45 mg elemental iron + 400 mcg folic acid)
 - School-based + out-of-school through Junior WIFS
 
 ### 10–19 years
-- Weekly: 1 blue IFA tablet (60 mg elemental iron + 500 mcg folic acid)
+- Weekly: 1 <span style="color:rgb(255, 138, 117)">blue </span>IFA tablet (60 mg elemental iron + 500 mcg folic acid)
 - School Health Programme + RKSK Saathiya sessions
 
 ## Deworming

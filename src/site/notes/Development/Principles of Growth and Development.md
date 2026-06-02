@@ -9,7 +9,7 @@
 - The terms 'growth' and 'development' are not interchangeable, as they represent two different facets of change dynamics: quantity and quality.
 - Growth and development usually proceed concurrently and are closely interlinked; factors affecting one process generally impact the other.
 
-## Core [[Development/Principles of Growth and Development\|Principles of Growth and Development]]
+## Core Principles of Growth and Development
 
 ### Continuous and Orderly Process
 

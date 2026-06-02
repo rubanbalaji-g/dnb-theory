@@ -17,12 +17,12 @@
 
 ### The Package of Six Services
 The ICDS scheme delivers an integrated package of six core services, fostering convergence between the MWCD and the Ministry of Health and Family Welfare (MoHFW):
-1.  **Supplementary Nutrition (SNP):** To bridge the caloric and protein gap between the recommended dietary allowance and actual intake (delivered by AWW).
-2.  **Pre-school Non-formal Education:** Early childhood care and education (ECCE) for 3-6 year olds (delivered by AWW).
-3.  **Nutrition & Health Education (NHED):** Counseling for women aged 15-45 years on infant and young child feeding (IYCF) practices (delivered by AWW/ANM).
-4.  **Immunization:** Routine universal immunization (delivered by ANM; AWW assists).
-5.  **Health Check-ups:** Antenatal care, postnatal care, and child anthropometry (delivered by ANM/Medical Officer).
-6.  **Referral Services:** Referring sick/malnourished children to Primary Health Centres (PHCs) or Nutritional Rehabilitation Centres (NRCs) (initiated by AWW/ANM).
+1.  **<span style="color:rgb(255, 138, 117)">S</span>upplementary Nutrition (SNP):** To bridge the caloric and protein gap between the recommended dietary allowance and actual intake (delivered by AWW).
+2.  **<span style="color:rgb(255, 138, 117)">H</span>ealth Check-ups:** Antenatal care, postnatal care, and child anthropometry (delivered by ANM/Medical Officer).
+3. **<span style="color:rgb(255, 138, 117)">I</span>mmunization:** Routine universal immunization (delivered by ANM; AWW assists).
+4.  **Pre-school <span style="color:rgb(255, 138, 117)">N</span>on-formal <span style="color:rgb(255, 138, 117)">E</span>ducation:** Early childhood care and education (ECCE) for 3-6 year olds (delivered by AWW).
+5.  **<span style="color:rgb(255, 138, 117)">R</span>eferral Services:** Referring sick/malnourished children to Primary Health Centres (PHCs) or Nutritional Rehabilitation Centres (NRCs) (initiated by AWW/ANM).
+6. **Nutrition & Health Education (NHED):** Counseling for women aged 15-45 years on infant and young child feeding (IYCF) practices (delivered by AWW/ANM).
 
 ---
 

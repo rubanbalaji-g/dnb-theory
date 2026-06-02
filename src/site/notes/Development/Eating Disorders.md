@@ -4,7 +4,7 @@
 
 ## Definition and Core Concepts
 
-- [[Development/Eating Disorders\|Eating disorders]] (EDs) are psychiatric conditions characterized by severe body dissatisfaction, overvaluation of a thin body ideal, and dysfunctional cognitive and weight control behaviors.
+- Eating disorders (EDs) are psychiatric conditions characterized by severe body dissatisfaction, overvaluation of a thin body ideal, and dysfunctional cognitive and weight control behaviors.
 - Anorexia nervosa (AN) typically affects 15 to 19-year-old girls and involves a significant overestimation of body size and shape, coupled with a relentless pursuit of thinness.
 - AN presents with an intense fear of becoming fat despite the patient being significantly underweight (often body weight <85% of expected).
 - Bulimia nervosa (BN) generally affects 10 to 19-year-old youth (chiefly females) and tends to emerge in later adolescence, sometimes evolving directly from preexisting AN.
@@ -17,7 +17,7 @@
 |:--|:--|:--|
 |**Typical Onset**|Early to middle adolescence (15–19 years).|Later adolescence (10–19 years).|
 |**Personality Traits**|Above-average intelligence, perfectionist, conflict-avoidant, and risk-aversive.|High impulsivity and frequent features of borderline personality disorder.|
-|**Psychiatric Comorbidities**|High rates of anxiety, obsessive-compulsive symptoms, and emotional "numbness" to starvation.|Pronounced mood swings, depression, [[Development/Posttraumatic Stress Disorder (PTSD)\|posttraumatic stress disorder (PTSD)]], and higher risk of suicidal ideation.|
+|**Psychiatric Comorbidities**|High rates of anxiety, obsessive-compulsive symptoms, and emotional "numbness" to starvation.|Pronounced mood swings, depression, [[Development/Post Traumatic Stress Disorder (PTSD)\|Post Traumatic Stress Disorder (PTSD)]], and higher risk of suicidal ideation.|
 
 ### DSM-5 Diagnostic Criteria
 
@@ -28,7 +28,23 @@
 |**Compensatory Acts**|Persistent behavior interfering with weight gain despite being at a significantly low weight.|Recurrent inappropriate compensatory behaviors (vomiting, laxatives, exercise) to prevent weight gain.|
 |**Timeframe/Frequency**|Continuous restrictive behaviors causing persistent significantly low weight.|Binge eating and compensatory behaviors occur at least once a week for 3 months.|
 |**Subtypes**|Restricting type (weight loss via fasting/dieting/exercise); Binge-eating/purging type.|N/A (Severity is based on the number of compensatory episodes per week).|
+### Types of Anorexia Nervosa
 
+According to the Diagnostic and Statistical Manual of Mental Disorders, Fifth Edition (DSM-5), Anorexia Nervosa (AN) is classified into two primary subtypes based on the predominant behaviors exhibited by the patient during the preceding three months:
+
+#### 1. Restricting Type
+* **Mechanism:** Weight loss is accomplished primarily through severe caloric restriction (dieting, fasting) and/or excessive, compulsive exercise.
+* **Behavioral Characteristics:** The patient has not engaged in recurrent episodes of binge eating or purging behavior over the last 3 months.
+* **Clinical Profile:** Often associated with highly perfectionistic traits, rigid adherence to rules, social withdrawal, and profound obsessionality regarding food, caloric intake, and body shape.
+
+#### 2. Binge-Eating/Purging Type
+* **Mechanism:** The patient engages in recurrent episodes of binge eating, purging behavior, or both.
+* **Purging Behaviors:** Includes self-induced vomiting, or the inappropriate use of laxatives, diuretics, or enemas to compensate for caloric intake or ease anxiety after eating.
+* **Clinical Profile:** Associated with higher rates of impulsivity, emotional lability, and substance use. These patients are at a higher risk for acute medical complications (e.g., severe electrolyte imbalances like hypokalemia, metabolic alkalosis, dental enamel erosion, parotid gland hypertrophy) compared to the restricting type.
+
+#### 3. Atypical Anorexia Nervosa (OSFED)
+* Clinically relevant but formally categorized under Other Specified Feeding or Eating Disorders (OSFED) in DSM-5.
+* **Criteria:** All psychological and behavioral criteria for AN are met; however, despite significant and rapid weight loss, the individual's current weight remains within or above the normal range.
 ### Comparison of Eating and Weight Control Habits
 
 |Habit|Anorexia Nervosa|Bulimia Nervosa|
@@ -63,7 +79,7 @@
 - The treatment of both AN and BN is ideally provided by an interdisciplinary team comprising a physician, nurse, registered dietitian, and mental health provider.
 - The approach should utilize the biopsychosocial model, framing the ED as a "maladaptive coping mechanism" and avoiding placing blame on the patient or the parents.
 - **Nutritional Rehabilitation (AN):**
-    - The initial goal is to achieve steady weight gain (0.5–1 lb/week) by increasing energy intake by 100–200 kcal increments toward a target of approximately 90% of expected body weight.
+    - The initial goal is to achieve steady weight gain (0.25-0.5 kg/week) by increasing energy intake by 100–200 kcal increments toward a target of approximately 90% of expected body weight.
     - Refeeding must proceed carefully, monitoring for [[Nutrition/Refeeding Syndrome\|refeeding syndrome]] (characterized by rapid drops in serum phosphorus, magnesium, and potassium) which can precipitate tachycardia, heart failure, and neurologic symptoms.
     - Fat content may initially need to be lowered to 15–20% to accommodate fat phobia, alongside calcium and vitamin D supplementation to address osteopenia.
 - **Inpatient Medical Hospitalization (AN):** Indicated for physiological instability, including a heart rate <50 beats/min, blood pressure <80/50 mm Hg, profound hypothermia (<36.1°C), severe electrolyte disturbances, or body weight <80% of healthy expected weight.

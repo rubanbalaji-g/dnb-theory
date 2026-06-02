@@ -7,7 +7,7 @@ The Surakshit Matritva Aashwasan (SUMAN) initiative was launched by the Ministry
 
 ## Core Vision And Objectives
 * To end all preventable maternal and newborn deaths and morbidities.
-* To provide a positive birth experience through Respectful Maternity Care (RMC).
+* To provide a positive birth experience through **Respectful Maternity Care (RMC).**
 * To ensure zero tolerance for denial of services at public health facilities.
 * To guarantee 100% free and cashless services for the target demographic.
 * To establish a highly responsive grievance redressal mechanism.

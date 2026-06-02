@@ -20,7 +20,7 @@
 
 ### Etiology and Risk Factors
 
-- **Psychiatric Comorbidities:** Youth with conversion disorder have significantly increased rates of comorbid psychopathology, particularly internalizing disorders (such as anxiety and depression) and [[Development/Posttraumatic Stress Disorder (PTSD)\|posttraumatic stress disorder (PTSD)]].
+- **Psychiatric Comorbidities:** Youth with conversion disorder have significantly increased rates of comorbid psychopathology, particularly internalizing disorders (such as anxiety and depression) and [[Development/Post Traumatic Stress Disorder (PTSD)\|Post Traumatic Stress Disorder (PTSD)]].
 - **Learned Complaints and Secondary Gain:** According to operant conditioning learning, symptoms can be reinforced by "secondary gain," which includes increased attention and sympathy from others or a decrease in unpleasant responsibilities (e.g., school pressures).
 - **Symptom Modeling:** Social learning theory suggests that somatic symptoms may result from observational learning within the family unit; family members with similar physical complaints often serve as "symptom models".
 - **Sociocultural Factors:** Somatization and conversion reactions are especially common in cultures that accept physical illness as a valid reason for disability but do not accept psychological symptoms.

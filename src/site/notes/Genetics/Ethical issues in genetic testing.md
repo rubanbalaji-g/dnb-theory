@@ -17,7 +17,7 @@
 |**Carrier Testing**|Infringes on future autonomy to know carrier status; risks parental stigmatization.|Defer in asymptomatic minors until reproductive age unless immediate childhood health implications exist.|
 |**Predictive Testing (Childhood-Onset)**|Psychosocial burden on the family.|Highly recommended if early intervention reduces morbidity or mortality.|
 |**Predictive Testing (Adult-Onset)**|Violates the child's right to remain in ignorance; induces severe psychological distress; offers no immediate medical benefit.|Strongly discouraged and generally deferred until the child reaches maturity.|
-|**[[Neonatalogy/Newborn Screening\|Newborn Screening]]**|Bypasses traditional informed consent (opt-out models); debates over scope expansion and residual blood spot retention.|Support mandatory offering but respect informed parental refusal.|
+|**[[Newborn Screening\|Newborn Screening]]**|Bypasses traditional informed consent (opt-out models); debates over scope expansion and residual blood spot retention.|Support mandatory offering but respect informed parental refusal.|
 |**Pharmacogenomic Testing**|Risk of incidentally uncovering non-pharmacological disease risks.|Acceptable with permission, but broader implications must be discussed prior to testing.|
 
 ## Informed Consent and Surrogate Decision-Making

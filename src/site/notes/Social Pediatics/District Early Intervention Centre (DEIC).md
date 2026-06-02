@@ -2,8 +2,15 @@
 {"dg-publish":true,"uptext":"⟵ Back to (🚸 Social Pediatrics)","uplink":"/social-pediatics/social-pediatrics/","permalink":"/social-pediatics/district-early-intervention-centre-deic/","dgPassFrontmatter":true}
 ---
 
+> [!atomic] Summary
+> * **DEIC Overview:** Established under the _Rashtriya Bal Swasthya Karyakram_ (RBSK), the District Early Intervention Centre is a pivotal secondary-tier hub providing accessible, multidisciplinary care at zero cost to beneficiaries.
+> * **Core Objectives:** Focuses on managing and treating children (0–18 years) who screen positive for the "4Ds" (Defects at birth, Deficiencies, Diseases, and Developmental delays), with a heavy emphasis on the critical 0–6 years _early intervention_ window.
+> * **Location & Infrastructure:** Ideally located within District Hospitals or Medical Colleges for immediate access to advanced care, featuring child-friendly, barrier-free designs with specialized therapeutic zones like sensory rooms and audiology chambers.
+> * **Multidisciplinary Team:** Delivers holistic care through a diverse staff comprising medical professionals (e.g., Pediatricians, Dental Surgeons), rehabilitation experts (e.g., Physiotherapists, Clinical Psychologists), and paramedical/support staff.
+> * **Services & Workflow:** Manages referrals from facility, community, and school screenings through a cohesive multidisciplinary triage, providing medical management, free surgical linkages, developmental therapies, and nutritional rehabilitation.
+> * **Tracking & Public Health Impact:** Ensures continuity of care via digital tracking on the centralized RBSK portal, acting as a vital bridge between passive screening and active management while eliminating out-of-pocket expenses for vulnerable populations.
 ## Introduction
-The [[Social Pediatics/District Early Intervention Centre (DEIC)\|District Early Intervention Centre (DEIC)]] is the pivotal secondary-tier referral and management hub established under the [[Social Pediatics/Rashtriya Bal Swasthya Karyakram (RBSK)\|Rashtriya Bal Swasthya Karyakram (RBSK)]], a flagship child health program of the Ministry of Health and Family Welfare (MoHFW), under the National Health Mission (NHM). It is designed to provide accessible, comprehensive, and multidisciplinary care for children identified with specific health conditions.
+The District Early Intervention Centre (DEIC) is the pivotal secondary-tier referral and management hub established under the [[Social Pediatics/Rashtriya Bal Swasthya Karyakram (RBSK)\|Rashtriya Bal Swasthya Karyakram (RBSK)]], a flagship child health program of the Ministry of Health and Family Welfare (MoHFW), under the National Health Mission (NHM). It is designed to provide accessible, comprehensive, and multidisciplinary care for children identified with specific health conditions.
 
 ## Core Objectives
 * To provide multidisciplinary medical, surgical, and rehabilitative interventions under one roof at zero cost to the beneficiaries.
@@ -27,7 +34,7 @@ To provide holistic care, the DEIC is mandated to be staffed by a specialized mu
 ## Core Services And Patient Workflow
 
 ### 1. Referral Mechanism
-Children are referred to the DEIC through three primary screening pathways:
+Children are referred to the DEIC through **three primary screening pathways**:
 * Facility-Based Screening: Newborns screened at delivery points (Labor rooms, SNCUs, Postnatal wards) for visible birth defects by Medical Officers or Staff Nurses.
 * Community-Based Screening: Children aged 0-6 years screened at Anganwadi Centers by Mobile Health Teams (MHTs) and ASHA workers.
 * School-Based Screening: Children aged 6-18 years screened at government and government-aided schools by MHTs.

@@ -7,7 +7,12 @@
 - Depression in the pediatric population is characterized by a persistent sad or irritable mood that causes significant impairment in functioning at home, school, or work.
 - The clinical presentation often varies by developmental stage; young children frequently present with prominent irritability and somatic complaints, whereas adolescents more commonly exhibit disturbances in energy, activity level, appetite, and sleep.
 - Because of cognitive and linguistic immaturity, symptoms of depression in young children are often observed by caregivers rather than self-reported.
+### Beck's Cognitive Triad
+Proposed by psychiatrist Aaron T. Beck, it describes the core cognitive components of depression:
 
+- **Worthlessness:** Negative views about oneself (feeling defective or inadequate).
+- **Helplessness:** Negative views about the world (feeling defeated or that current experiences are overwhelmingly demanding).
+- **Hopelessness:** Negative views about the future (believing current suffering will continue indefinitely).
 ### The SIGECAPS Mnemonic for Depressive Symptoms
 
 |Letter|Symptom Domain|Clinical Manifestation|
@@ -53,7 +58,7 @@
 
 - The treatment of pediatric depression typically utilizes psychotherapy, medication management, or a combination of the two, with combination therapy often yielding the most positive response rates.
 - **Mild Depression:** In the absence of major risk factors (e.g., suicidality or psychosis), initial management involves guided self-help, watchful waiting, sleep hygiene optimization, physical exercise, and supportive therapy.
-- **Psychotherapy:** Cognitive Behavioral Therapy (CBT) is highly effective and focuses on identifying and correcting cognitive distortions while teaching behavior activation, problem-solving, and emotional regulation. Interpersonal Therapy (IPT) is also utilized to resolve interpersonal conflicts and enhance social communication.
+- **Psychotherapy:** **Cognitive Behavioral Therapy (CBT)** is highly effective and focuses on identifying and correcting cognitive distortions while teaching behavior activation, problem-solving, and emotional regulation. **Interpersonal Therapy (IPT)** is also utilized to resolve interpersonal conflicts and enhance social communication.
 - **Pharmacotherapy (SSRIs):**
     - Selective Serotonin Reuptake Inhibitors (SSRIs) are the only class of medications currently approved by the U.S. Food and Drug Administration (FDA) for major depressive disorder in children.
     - _Fluoxetine_ is the antidepressant of choice and is approved for children 8 years and older; _escitalopram_ is approved for adolescents 12 years and older.

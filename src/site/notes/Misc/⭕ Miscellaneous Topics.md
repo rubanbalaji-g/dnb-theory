@@ -89,4 +89,5 @@
 49. [[Misc/Vaccine Failure\|Vaccine Failure]]
 50. [[Misc/Hepatitis A Vaccine\|Hepatitis A Vaccine]]
 51. [[Misc/Vaccine Co-Administration and Interchangeability\|Vaccine Co-Administration and Interchangeability]]
-
+## Other Topics
+1. [[Misc/Palliative Care\|Palliative Care]]

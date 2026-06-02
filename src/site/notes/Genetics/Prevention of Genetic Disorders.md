@@ -52,9 +52,9 @@ Secondary prevention focuses on early detection of an affected fetus or neonate 
 - Medical Termination of Pregnancy (MTP): Guided by national laws (e.g., MTP Act in India) allowing termination for significant fetal abnormalities.
 - [[Neonatalogy/Fetal Therapy\|Fetal therapy]]: In utero interventions, such as transfusions for Rh isoimmunization or surgery for myelomeningocele.
 
-### [[Neonatalogy/Newborn Screening\|Newborn Screening]] (NBS)
+### [[Newborn Screening\|Newborn Screening]] (NBS)
 
-[[Neonatalogy/Newborn Screening\|Newborn screening]] prevents severe handicap by detecting functional defects and inborn errors of metabolism before irreversible damage occurs.
+[[Newborn screening\|Newborn screening]] prevents severe handicap by detecting functional defects and inborn errors of metabolism before irreversible damage occurs.
 
 |Screening Category|Target Conditions|Methodology|
 |:--|:--|:--|

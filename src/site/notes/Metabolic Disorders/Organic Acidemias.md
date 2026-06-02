@@ -64,7 +64,7 @@
 
 - **High Performance Liquid Chromatography (HPLC):** Gold standard for quantifying plasma amino acids.
 - **Urine Organic Acids (GC-MS):** Essential for identifying [[Metabolic Disorders/Organic Acidemias\|organic acidemias]].
-- **Tandem Mass Spectrometry (TMS):** Utilized for [[Neonatalogy/Newborn Screening\|Newborn Screening]] on dried blood spots.
+- **Tandem Mass Spectrometry (TMS):** Utilized for [[Newborn Screening\|Newborn Screening]] on dried blood spots.
 - **Molecular Genetics:** Gene panel testing or [[Genetics/Exome Sequencing\|exome sequencing]] for definitive diagnosis.
 
 ## Management Principles

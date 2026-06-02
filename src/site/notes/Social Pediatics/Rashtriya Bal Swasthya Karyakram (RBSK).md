@@ -2,6 +2,12 @@
 {"dg-publish":true,"uptext":"⟵ Back to (🚸 Social Pediatrics)","uplink":"/social-pediatics/social-pediatrics/","permalink":"/social-pediatics/rashtriya-bal-swasthya-karyakram-rbsk/","dgPassFrontmatter":true}
 ---
 
+> [!atomic] Summary
+> * **Program Overview:** Launched in February 2013 under the National Health Mission, RBSK is a comprehensive child health program providing free screening, early intervention, and treatment for children aged 0–18 years.
+> * **The 4 ‘D’s Framework:** It aims to screen approximately 27 crore children for 32 specific conditions categorized into _Defects at birth_, _Deficiencies_, _Childhood Diseases_, and _Developmental delays & disabilities_ (plus 3 optional conditions like sickle cell anaemia).
+> * **Targeted Screening:** Mobile Health Teams (MHTs) conduct systematic screenings twice a year at Anganwadi Centres for children aged 0–6 years, and once a year at schools for children aged 6–18 years, alongside newborn screenings by health workers. 
+> * **District Early Intervention Centre (DEIC):** Children identified with conditions are referred to a multidisciplinary DEIC located at district hospitals for diagnostic confirmation, therapy, assistive devices, and further referral for free surgeries if needed.
+> * **RBSK 2.0 (2026 Updates):** The program is evolving to include expanded focus on mental health, behavioral issues, and non-communicable disease risk factors, fully integrated with digital health tracking via ABDM/ABHA.
 ## Introduction
 - Flagship programme launched February 2013 under National Health Mission (NHM), Ministry of Health & Family Welfare
 - Comprehensive child health screening and early intervention services for 0–18 years
@@ -22,7 +28,7 @@
 ## The 4 ‘D’s and 32 Conditions
 ### **1. Defects at Birth (9 Conditions)**
 
-These are conditions identified at delivery points or through [[Neonatalogy/Newborn Screening\|newborn screening]]:
+These are conditions identified at delivery points or through [[newborn screening\|newborn screening]]:
 
 1. **Neural Tube Defect** 
 2. **Down's Syndrome**
@@ -70,7 +76,7 @@ States have the flexibility to include these based on local epidemiological need
 3. **Beta [[Hematology/Thalassemia\|Thalassemia]]**
 
 ## Screening Strategies
-- [[Neonatalogy/Newborn Screening\|Newborn screening]] at delivery points and home by ASHA
+- Newborn screening at delivery points and home by ASHA
 - Community-based screening (0–6 years) by Mobile Health Teams (MHT) twice yearly at Anganwadi Centres
 - School-based screening (6–18 years) by MHT once yearly
 - Use of standardized checklists, [[Development/Growth Charts\|growth charts]] and age-appropriate developmental tools

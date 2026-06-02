@@ -15,7 +15,7 @@
 
 - Genetic factors play a highly significant role, with the variance in risk attributed to genetic effects ranging from 70% to 85%.
 - Concordance rates are substantially higher among monozygotic twins (20% to 83%) compared to dizygotic twins (4% to 19%), and first-degree relatives have an incidence rate that is three times higher than the general population.
-- Brain structure and function abnormalities implicated in stuttering include white matter deficits in the left hemisphere, overactivity in the right cortical region, underactivity in the auditory cortex, and abnormal basal ganglia activation.
+- Brain structure and function abnormalities implicated in stuttering include **white matter deficits in the left hemisphere, overactivity in the right cortical region, underactivity in the auditory cortex, and abnormal basal ganglia activation.**
 - Environmental and temperamental factors, such as inherent insecurity or sensitive temperament, can exacerbate the condition, particularly when parents draw undue attention to the child's speech interruptions or demand precise articulation.
 
 ### Clinical Features

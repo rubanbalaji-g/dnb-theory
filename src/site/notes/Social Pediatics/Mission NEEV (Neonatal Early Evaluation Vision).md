@@ -2,8 +2,15 @@
 {"dg-publish":true,"uptext":"⟵ Back to (🚸 Social Pediatrics)","uplink":"/social-pediatics/social-pediatrics/","permalink":"/social-pediatics/mission-neev-neonatal-early-evaluation-vision/","dgPassFrontmatter":true}
 ---
 
+> [!atomic] Summary
+> * **Program Overview:** Launched by the Government of NCT of Delhi under RBSK, Mission NEEV is a digitally integrated _newborn screening_ initiative aiming to universally screen institutional deliveries for early anomaly detection.
+> * **Core Objectives:** Focuses on early identification before facility discharge, establishing a centralized digital database (NEEV Portal) for tracking, and ensuring timely linkage to tertiary care under the "Catch Early, Treat Early" mandate.
+> * **Three Screening Pillars:** Comprehensively screens for **Visible Birth Defects** (structural anomalies via physical exam), **Functional Birth Defects** (hearing, critical congenital heart disease via _Pulse Oximetry_, and vision), and **Metabolic Birth Defects** (such as _Congenital Hypothyroidism_ and G6PD Deficiency via heel-prick dried blood spots).
+> * **Digital Integration:** Utilizes a robust IT architecture featuring a Unique VBD Identifier, Bluetooth-linked mobile apps to eliminate manual transcription errors, barcoded sample tracking, and automated SMS alerts for parents.
+> * **Follow-Up & Management:** Ensures that infants failing initial screens are recalled for confirmatory testing and seamlessly linked to District Early Intervention Centers (DEIC) for free, multidisciplinary long-term care.
+> * **Key Advantages:** Offers universal portability of health records across facilities via a cloud-based portal and provides real-time epidemiological data to guide future health policy and resource allocation.
 ## Introduction And Rationale
-- Definition: Mission NEEV is a comprehensive, digitally integrated [[Neonatalogy/Newborn Screening\|newborn screening]] and surveillance initiative.
+- Definition: Mission NEEV is a comprehensive, digitally integrated newborn screening and surveillance initiative.
 - Implementing Agency: Launched by the Government of NCT of Delhi, supported by the Delhi State Health Mission, and functioning under the broader umbrella of the [[Social Pediatics/Rashtriya Bal Swasthya Karyakram (RBSK)\|Rashtriya Bal Swasthya Karyakram (RBSK)]].
 - Target Demographic: Aimed at universally screening institutional deliveries (covering approximately 1.5 lakh newborns annually in its primary phase).
 - Core Rationale: To transition from a reactive healthcare model to a proactive, preemptive strategy, ensuring the early detection of anomalies that cause significant neonatal mortality or long-term severe morbidity (e.g., intellectual disability, sudden cardiac death).

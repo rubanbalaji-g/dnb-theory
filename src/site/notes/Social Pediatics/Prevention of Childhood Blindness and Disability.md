@@ -40,7 +40,7 @@
 - Genetic counselling & prenatal diagnosis for hereditary disorders
 
 ### Secondary Prevention
-- Universal [[Neonatalogy/Newborn Screening\|newborn screening]] & RBSK screening (0–18 years)
+- Universal [[newborn screening\|newborn screening]] & RBSK screening (0–18 years)
 - Early vision & hearing screening (red reflex test, otoacoustic emission)
 - ROP screening in all preterm <32 weeks/<1500g (as per AIIMS/ROP guidelines)
 - School eye screening under NPCBVI & RBSK

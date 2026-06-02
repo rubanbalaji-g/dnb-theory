@@ -35,7 +35,7 @@
 4. [[Development/Pica\|Pica]]
 5. [[Development/Tourette Syndrome\|Tourette Syndrome]]
 6. [[Development/Pediatric Autoimmune Neuropsychiatric Disorders Associated with Streptococcal Infections (PANDAS)\|Pediatric Autoimmune Neuropsychiatric Disorders Associated with Streptococcal Infections (PANDAS)]]
-7. [[Development/Posttraumatic Stress Disorder (PTSD)\|Posttraumatic Stress Disorder (PTSD)]]
+7. [[Development/Post Traumatic Stress Disorder (PTSD)\|Post Traumatic Stress Disorder (PTSD)]]
 8. [[Development/Depressive Disorders in Children and Adolescents\|Depressive Disorders in Children and Adolescents]]
 9. [[Development/Mood Disorders in Adolescence\|Mood Disorders in Adolescence]]
 10. [[Development/Suicide and Self-Harm in Adolescence\|Suicide and Self-Harm in Adolescence]]
@@ -46,6 +46,9 @@
 15. [[Development/Temper Tantrums\|Temper Tantrums]]
 16. [[Development/Lying in Children and Adolescents\|Lying in Children and Adolescents]]
 17. [[Development/Childhood Schizophrenia\|Childhood Schizophrenia]]
+18. [[Development/Oppositional Defiant Disorder\|Oppositional Defiant Disorder]]
+19. [[Development/Conduct Disorder in Children\|Conduct Disorder in Children]]
+20. [[Development/Thumb Sucking\|Thumb Sucking]]
 ## Sleep Disorders
 1. [[Development/Sleep Disorders in Children\|Sleep Disorders in Children]]
 2. [[Development/Nightmares\|Nightmares]]

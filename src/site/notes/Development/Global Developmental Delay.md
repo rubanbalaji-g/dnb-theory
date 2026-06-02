@@ -4,7 +4,7 @@
 
 ## Definition and Epidemiology
 
-- [[Development/Global Developmental Delay\|Global developmental delay]] is defined as a significant delay in acquiring milestones in two or more of the following domains: gross and fine motor, speech and language, cognition, socio-personal, and activities of daily living.
+- Global developmental delay is defined as a significant delay in acquiring milestones in two or more of the following domains: gross and fine motor, speech and language, cognition, socio-personal, and activities of daily living.
 - Above 5 years of age, the term intellectual disability (ID) replaces the term mental retardation.
 - The diagnosis of ID requires significant impairment in general intellectual function (reasoning, memory, learning, problem-solving), typically indicated by an intelligence quotient (IQ) score approximately 2 standard deviations below the mean (<70 or 75).
 - The definition also requires significant impairment in adaptive behavior, emphasizing deficits in conceptual, social, and practical skills that impact daily functioning.
@@ -69,12 +69,12 @@
 - **Neuroimaging:** Magnetic resonance imaging (MRI) of the brain is preferred over CT and is indicated for macrocephaly, [[Neurology/Microcephaly\|microcephaly]], abnormal neurological examination findings, or a history of seizures.
 - **Metabolic Testing:** Pursued especially when there is unexplained GDD/ID, regression, or specific clinical clues; standard workup via the Treatable Intellectual Disability Endeavor (TIDE) protocol includes plasma amino acids, acylcarnitine profile, total homocysteine, and urine organic acids.
 - **Electroencephalogram (EEG):** Recommended only if there is a clinical history suspicious for seizures or significant language regression.
-- **Psychologic Testing:** Formal diagnosis requires individually administered tests of intelligence (e.g., Bayley Scales of Infant and Toddler Development for children under 42 months, or Wechsler Scales for older children) and standardized measures of adaptive functioning (e.g., Vineland Adaptive Behavior Scale) evaluated across multiple environments.
+- **Psychologic Testing:** Formal diagnosis requires individually administered tests of intelligence (e.g., **Bayley Scales of Infant and Toddler Development for children** under 42 months, or **Wechsler Scales for older children**) and standardized measures of adaptive functioning (e.g., Vineland Adaptive Behavior Scale) evaluated across multiple environments.
 
 ## Management and Supportive Care
 
 - **Multidisciplinary Team:** Care requires coordination among pediatricians, neurologists, geneticists, psychologists, psychiatrists, occupational therapists, physiotherapists, speech-language pathologists, and social workers.
-- **Educational Interventions:** In the United States, the Individuals with Disabilities Education Act (IDEA) mandates an individualized family service plan (IFSP) for infants and toddlers up to 36 months in natural environments, and an individualized education program (IEP) for school-aged children.
+- **Educational Interventions:** Section 31 of the RPwD Act guarantees every child with a benchmark disability the right to free education in an appropriate environment until the age of 18.
 - **Behavioral Management:** Functional behavioral assessment should be utilized to determine the antecedents and consequences of challenging behaviors, followed by specific behavioral intervention plans and parent training.
 - **Pharmacotherapy:** No medications are currently available to improve the core cognitive deficits of ID. However, pharmacotherapy is highly effective for associated psychiatric disorders (e.g., stimulants or alpha-agonists for [[Development/ADHD\|ADHD]], antipsychotics for aggression and self-injury, and SSRIs for anxiety or depression).
 - **Targeted Metabolic Treatments:** Early identification of specific inborn errors of metabolism allows for treatments such as dietary modifications (e.g., for PKU), enzyme replacement therapy, or substrate reduction therapy that can significantly improve outcomes.

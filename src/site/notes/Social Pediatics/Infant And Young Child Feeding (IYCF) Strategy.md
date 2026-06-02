@@ -2,6 +2,14 @@
 {"dg-publish":true,"uptext":"⟵ Back to (🚸 Social Pediatrics)","uplink":"/social-pediatics/social-pediatrics/","permalink":"/social-pediatics/infant-and-young-child-feeding-iycf-strategy/","dgPassFrontmatter":true}
 ---
 
+> [!atomic] Summary
+> * **Program Overview:** Developed by WHO and UNICEF and adopted by India, the IYCF strategy promotes optimal feeding practices to improve child survival and development during the critical first 1000 days of life.
+> * **Breastfeeding Guidelines:** Strongly recommends _early initiation_ within one hour of birth, feeding of colostrum while avoiding pre-lacteal feeds, **Exclusive Breastfeeding (EBF)** for six months, and continuing breastfeeding up to two years or more.
+> * **Complementary Feeding (CF):** Mandates the introduction of nutrient-dense, semi-solid foods at exactly six months, progressing according to MACS criteria (Meal frequency, Amount, Consistency, and Snacks).
+> * **Responsive & Maternal Care:** Promotes active, patient feeding that responds to hunger cues, alongside counseling for maternal nutrition and micronutrient supplementation during pregnancy and lactation.
+> * **Legislation & Initiatives:** Backed by the IMS Act which prohibits promotion of infant milk substitutes, and supported by programs like the _MAA (Mothers Absolute Affection)_ initiative and _POSHAN Abhiyaan_.
+> * **Key Indicators:** Evaluates success using specific metrics such as Minimum Dietary Diversity (MDD), Minimum Meal Frequency (MMF), and Minimum Acceptable Diet (MAD).
+> * **Specific Clinical Circumstances:** Advises that mothers living with HIV should breastfeed for at least 12 months while on lifelong ART, as the benefits outweigh transmission risks.
 ## Definition And Global Framework
 * The IYCF strategy is a comprehensive framework developed by WHO and UNICEF (2002) and adopted by the Government of India to improve child survival, growth, and development.
 * **Goal:** To protect, promote, and support optimal feeding practices for infants and young children, focusing on the first 1000 days of life (conception to two years).
@@ -17,10 +25,10 @@
 ### 2. [[Nutrition/Complementary Feeding\|Complementary Feeding]] (CF)
 * **Timely Initiation:** Introduction of semi-solid, nutrient-dense foods at exactly six months (180 days) of age.
 * **MACS Criteria for Quality CF:**
-  * **Meal Frequency:** 2–3 times/day (6–8 months); 3–4 times/day (9–23 months) with 1–2 additional nutritious snacks.
-  * **Amount:** Starting with 2–3 tablespoons per feed, gradually increasing to a half-teacup (125ml), and finally a full teacup (250ml) by 12 months.
-  * **Consistency:** Transitioning from pureed/smooth (6 months) to thick mashed (8 months) to finger foods (9 months) and finally family pot food (12 months).
-  * **Snacks:** Nutrient-dense items (fruits, yogurt) provided between main meals.
+	* **Meal Frequency:** 2–3 times/day (6–8 months); 3–4 times/day (9–23 months) with 1–2 additional nutritious snacks.
+	* **Amount:** Starting with 2–3 tablespoons per feed, gradually increasing to a half-teacup (125ml), and finally a full teacup (250ml) by 12 months.
+	* **Consistency:** Transitioning from pureed/smooth (6 months) to thick mashed (8 months) to finger foods (9 months) and finally family pot food (12 months).
+	* **Snacks:** Nutrient-dense items (fruits, yogurt) provided between main meals.
 
 ### 3. Active And Responsive Feeding
 * Feeding the child slowly and patiently; encouraging but not forcing.
@@ -39,8 +47,6 @@
 ### 2. Baby-Friendly Hospital Initiative (BFHI) / MAA Program
 * Implementation of the "Ten Steps to Successful Breastfeeding."
 * **MAA (Mothers Absolute Affection):** A flagship program in India to revitalize breastfeeding support at public health facilities through capacity building of healthcare providers and community-level awareness.
-
-
 
 ## WHO/UNICEF Core IYCF Indicators (2021 Update)
 * **Early Initiation of Breastfeeding:** Proportion of children born in the last 24 months who were put to the breast within one hour of birth.

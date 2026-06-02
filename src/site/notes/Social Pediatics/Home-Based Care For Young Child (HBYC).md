@@ -2,6 +2,12 @@
 {"dg-publish":true,"uptext":"⟵ Back to (🚸 Social Pediatrics)","uplink":"/social-pediatics/social-pediatrics/","permalink":"/social-pediatics/home-based-care-for-young-child-hbyc/","dgPassFrontmatter":true}
 ---
 
+> [!atomic] Summary
+> * **Overview & Objectives:** HBYC extends the HBNC program, targeting children aged _3 to 15 months_ to bridge the care gap up to the preschool period and reduce mortality from illnesses like diarrhea and pneumonia.
+> * **Service Delivery:** ASHA workers conduct five scheduled visits at the _3rd, 6th, 9th, 12th, and 15th_ months, earning a performance-based incentive for completing the health checklist.
+> * **Nutrition & Growth:** Interventions emphasize exclusive breastfeeding, timely _complementary feeding_ (using MACS principles), and rigorous growth monitoring via WHO charts and MUAC tape to catch acute malnutrition.
+> * **Development & WASH:** The program actively promotes Early Childhood Development (ECD) through stimulated play and communication, while emphasizing essential household Water, Sanitation, and Hygiene (WASH) practices.
+> * **Health & Referral:** ASHAs track immunizations, provide prophylactic Vitamin A and IFA, distribute ORS/Zinc, and are trained to immediately refer children exhibiting danger signs like severe wasting (MUAC < 11.5 cm), lethargy, or fast breathing.
 ## Introduction And Objectives
 * Program Overview: An extension of the [[Social Pediatics/Home-Based Newborn Care (HBNC)\|Home-Based Newborn Care (HBNC)]] program, launched under the National Health Mission (NHM) by the Ministry of Health and Family Welfare (MoHFW), India.
 * Target Age Group: Children from 3 months up to 15 months of age.

@@ -7,11 +7,11 @@
 ### Structural Brain Alterations
 
 - Advanced neuroimaging utilizing diffusion tensor imaging demonstrates an inverse correlation between high screen time in toddlers and the microstructural integrity of cerebral white matter tracts.
-- Excessive screen exposure leads to decreased myelination in the arcuate fasciculus, which is essential for expressive and receptive language, and the uncinate fasciculus, which is crucial for emotional regulation.
+- Excessive screen exposure leads to **decreased myelination in the arcuate fasciculus**, which is essential for expressive and receptive language, and the uncinate fasciculus, which is crucial for emotional regulation.
 
 ### Dopaminergic Pathway Disruption
 
-- Fast-paced, hyper-stimulating digital media trigger unnatural, repetitive spikes in the brain's dopamine reward circuitry.
+- Fast-paced, hyper-stimulating digital media trigger unnatural, repetitive spikes in the **brain's dopamine reward circuitry.**
 - This chronic overstimulation results in dopamine receptor downregulation, causing profound anhedonia, irritability, and severe attention deficits when the child interacts with the physical world.
 
 ### The Video Deficit And Technoference
@@ -24,7 +24,7 @@
 ### Speech, Language, And Behavior
 
 - For every 30 minutes of daily handheld screen time utilized by an infant, registry data indicates a 49% increased risk of expressive speech delay.
-- Exposure to 4 to 6 hours of daily screen time can induce a "Virtual Autism" phenotype, presenting with classic red flags such as poor eye contact and delayed name response.
+- Exposure to 4 to 6 hours of daily screen time can induce a **"Virtual Autism" phenotype**, presenting with classic red flags such as poor eye contact and delayed name response.
 - Unlike neurobiological autism, this pseudo-autism is highly reversible if caught early and managed with a strict digital fast and intensive parent-mediated play therapy.
 - The rapid scene changes in modern media mimic and exacerbate Attention Deficit Hyperactivity Disorder traits by impairing executive functioning and emotional self-regulation.
 

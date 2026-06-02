@@ -19,18 +19,18 @@
     - _Complex vocal tics_ include recognizable words, uttering obscenities (coprolalia), repeating one's own words (palilalia), or repeating the last heard phrase (echolalia).
 - **Premonitory Urge and Suppressibility:** A hallmark of TS is a premonitory urge or feeling of tension preceding the movement, which is temporarily relieved after the tic is performed. Patients have the ability to voluntarily suppress the tics for brief periods.
 - **Temporal Course:** Tic severity typically peaks between the ages of 10 and 12 years and markedly attenuates in roughly 65% of individuals by 18 to 20 years of age. Tics frequently exacerbate during periods of stress, excitement, or exhaustion.
-- **Malignant [[Development/Tourette Syndrome\|Tourette Syndrome]]:** A severe variant characterized by highly disabling, potentially life-threatening symptoms, including extreme rage attacks, severe self-injurious behavior (e.g., cervical myelopathy from neck thrusting, severe biting of lips), and depression with suicidal ideation.
+- **Malignant Tourette Syndrome:** A severe variant characterized by highly disabling, potentially life-threatening symptoms, including extreme rage attacks, severe self-injurious behavior (e.g., cervical myelopathy from neck thrusting, severe biting of lips), and depression with suicidal ideation.
 
 ### Etiology and Pathophysiology
 
 - TS is a highly heritable polygenic condition, with monozygotic twin concordance rates approximating 80%.
 - The disorder has a strong male predominance, with a gender ratio ranging from 2:1 to 4:1.
-- Pathophysiologically, it results from dysfunctional corticostriatal-thalamocortical motor pathways within the basal ganglia, striatum, and frontal lobes.
+- Pathophysiologically, it results from **dysfunctional corticostriatal-thalamocortical motor pathways** within the basal ganglia, striatum, and frontal lobes.
 - It involves abnormalities in central neurotransmitter systems, specifically dopamine, serotonin, and norepinephrine, which is corroborated by the clinical responsiveness of tics to dopamine-blocking and dopamine-depleting medications.
 
-### The "[[Development/Tourette Syndrome\|Tourette Syndrome]] Triad" and Comorbidities
+### The "Tourette Syndrome Triad" and Comorbidities
 
-- The clinical presentation is best recognized through the "[[Development/Tourette Syndrome\|Tourette syndrome]] triad," highlighting the frequent clustering of tics, Attention-Deficit/Hyperactivity Disorder ([[Development/ADHD\|ADHD]]), and Obsessive-Compulsive Disorder (OCD).
+- The clinical presentation is best recognized through the "Tourette syndrome triad," highlighting the frequent clustering of tics, Attention-Deficit/Hyperactivity Disorder ([[Development/ADHD\|ADHD]]), and Obsessive-Compulsive Disorder (OCD).
 - **[[Development/ADHD\|ADHD]]:** The most common comorbidity, occurring in 60% to 80% of clinically referred children with TS.
 - **OCD:** Occurs in 20% to 60% of TS patients. The intrusive thoughts and stereotyped compulsions of OCD share neurobiology with tics and strongly cluster in affected families.
 - Additional associations include learning disabilities, depression, anxiety, and oppositional behaviors.

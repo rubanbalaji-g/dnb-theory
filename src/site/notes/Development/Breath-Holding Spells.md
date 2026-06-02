@@ -52,7 +52,7 @@
 - Distraction to another activity or a change in conversation is highly effective in aborting an impending tantrum or breath-holding spell.
 - If the breath-holding spell occurs in the middle of a temper tantrum, parents are advised to completely ignore the breath-holding behavior once it has started.
 - Without secondary reinforcement (e.g., excessive parental panic or capitulation to the child's demands), the breath-holding behavior generally extinguishes and disappears.
-- For general non-compliance and tantrums, "time-out" techniques are recommended, utilizing a period of approximately 1 minute for each year of the child's age.
+- For general non-compliance and tantrums, **"time-out" techniques** are recommended, utilizing a period of approximately 1 minute for each year of the child's age.
 
 ### Medical and Psychiatric Interventions
 

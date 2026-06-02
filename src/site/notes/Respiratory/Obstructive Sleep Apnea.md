@@ -8,9 +8,14 @@
 - It is characterized by repeated episodes of prolonged upper airway obstruction occurring during sleep.
 - These episodes occur despite continued or increased respiratory effort by the patient.
 - Obstruction results in either a complete cessation of airflow (apnea) or a partial cessation (hypopnea).
-- Hypopnea is defined as a greater than 30% reduction in airflow accompanied by a $\ge 3\%$ oxygen desaturation or a sleep arousal.
 - Primary snoring differs as it lacks associated ventilatory abnormalities like hypoxemia or hypercapnia on polysomnography.
 - Primary snoring may still associate with subtle breathing abnormalities and adverse neurodevelopmental outcomes.
+## Criteria
+- **Apnea:** A cessation of airflow lasting $\ge 10$ seconds (or $\ge 2$ missed breaths in pediatric populations).
+- **Hypopnea:** A reduction in airflow ($\ge 30\%$) accompanied by an oxygen desaturation (typically $\ge 3\%$ or $\ge 4\%$) or an arousal.
+- **AHI (Apnea-Hypopnea Index):** The average number of these events per hour of sleep.
+    - _Adults:_ $\ge 5$ events/hour with symptoms (or $\ge 15$ events/hour asymptomatic).
+    - _Pediatrics:_ $\ge 1$ event/hour is often considered abnormal.
 
 ## Pathophysiology
 

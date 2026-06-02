@@ -84,7 +84,7 @@ flowchart TD
 ### Investigations
 
 - **Diagnostic Marker:** Elevated Succinylacetone in blood or urine is pathognomonic.
-- **[[Neonatalogy/Newborn Screening\|Newborn Screening]] (NBS):** Succinylacetone is the preferred target, as testing tyrosine alone misses cases.
+- **[[Newborn Screening\|Newborn Screening]] (NBS):** Succinylacetone is the preferred target, as testing tyrosine alone misses cases.
 - **Biochemistry:**
     - Elevated plasma Tyrosine, Methionine, and Phenylalanine.
     - Markedly elevated Alpha-fetoprotein (AFP), often >100,000 ng/mL.

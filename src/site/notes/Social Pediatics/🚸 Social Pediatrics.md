@@ -35,18 +35,21 @@
 ## Social Welfare, Rights, and Legal Frameworks
 * [[Social Pediatics/Child Rights and UNCRC\|Child Rights and UNCRC]]
 * [[Social Pediatics/National Policy For Children\|National Policy For Children]]
-* [[Social Pediatics/POCSO Act - A Pediatrician's Perspective and Role\|POCSO Act - A Pediatrician's Perspective and Role]]
+* [[Social Pediatics/Sexual abuse of Children and POCSO\|Sexual abuse of Children and POCSO]]
 * [[Social Pediatics/Juvenile Justice Act\|Juvenile Justice Act]]
 * [[Social Pediatics/CARA Guidelines for Adoption\|CARA Guidelines for Adoption]]
 * [[Social Pediatics/Pre-Conception and Pre-Natal Diagnostic Techniques (PCPNDT) Act\|Pre-Conception and Pre-Natal Diagnostic Techniques (PCPNDT) Act]]
 * [[Social Pediatics/Beti Bachao Beti Padho (BBBP)\|Beti Bachao Beti Padho (BBBP)]]
 * [[Social Pediatics/Child Labour – Issues and Pediatrician’s Role\|Child Labour – Issues and Pediatrician’s Role]]
 * [[Social Pediatics/Orphaned Child - Social, Clinical, And Legal Perspectives\|Orphaned Child - Social, Clinical, And Legal Perspectives]]
+* [[Social Pediatics/Child Abuse\|Child Abuse]]
 ## Maternal, Adolescent, and School Health
 * [[Social Pediatics/National Health Mission And RMNCH+A\|National Health Mission And RMNCH+A]]
 * [[Social Pediatics/Rashtriya Kishor Swasthya Karyakram (RKSK)\|Rashtriya Kishor Swasthya Karyakram (RKSK)]]
 * [[Social Pediatics/School Health Services In India\|School Health Services In India]]
 * [[Social Pediatics/Janani Shishu Suraksha Karyakram (JSSK)\|Janani Shishu Suraksha Karyakram (JSSK)]]
+* [[Janani Suraksha Yojna\|Janani Suraksha Yojna]]
+* [[Pradhan Mantri Surakshit Matritva Abhiyan\|Pradhan Mantri Surakshit Matritva Abhiyan]]
 * [[Social Pediatics/Surakshit Matritva Aashwasan (SUMAN) Program\|Surakshit Matritva Aashwasan (SUMAN) Program]]
 * [[Social Pediatics/Mother and Child Protection (MCP) Card\|Mother and Child Protection (MCP) Card]]
 ## Health Systems, Digital Health, and Quality

@@ -28,7 +28,7 @@ In its simplest terms, **telemedicine** is "healing from a distance". It is the 
 * Triad Of Communication: Involves the Registered Medical Practitioner (RMP), the child, and the caregiver/parent.
 * Caregiver Role: Heavy reliance on caregivers for providing an accurate history, obtaining vitals (temperature, weight), and facilitating physical examination maneuvers on camera.
 * Legal Age: Consent must be obtained from a legally authorized representative (parent/guardian) for minors under 18 years of age. Assent should be sought from older children and adolescents.
-* Non-Accidental Trauma: High [[Statistics/Index\|index]] of suspicion must be maintained; red flags for child abuse may be difficult to detect via telemedicine.
+* Non-Accidental Trauma: High index of suspicion must be maintained; red flags for child abuse may be difficult to detect via telemedicine.
 
 ## Telemedicine Practice Guidelines (India)
 

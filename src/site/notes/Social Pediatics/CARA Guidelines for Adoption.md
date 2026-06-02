@@ -83,13 +83,10 @@
 
 ### Relative Adoption
 - Adoption by relatives permitted as per regulations.
-
 ### Step-parent Adoption
 - Allowed with consent of biological parent and legal procedures.
-
 ### Special Needs Children
 - Priority placement and relaxation of certain criteria.
-
 ### Inter-country Adoption
 - Considered when in-country adoption unavailable.
 - Must comply with Hague Convention safeguards.

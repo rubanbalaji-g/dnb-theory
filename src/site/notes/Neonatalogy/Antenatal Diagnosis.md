@@ -90,7 +90,7 @@ Prevention strategies operate at three levels: Primary, Secondary, and Tertiary.
 
 ### C. Tertiary Prevention (Postnatal)
 *Goal: Minimize disability in the affected newborn.*
-1.  **[[Neonatalogy/Newborn Screening\|Newborn Screening]] (NBS):**
+1.  **[[Newborn Screening\|Newborn Screening]] (NBS):**
     * Screening for treatable metabolic errors (Hypothyroidism, CAH, G6PD, [[Metabolic Disorders/Phenylketonuria\|Phenylketonuria]]).
 2.  **Early Surgical Correction:**
     * Timely repair of congenital heart defects, cleft lip/palate, clubfoot (Ponseti).

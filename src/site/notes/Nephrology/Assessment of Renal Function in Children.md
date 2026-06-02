@@ -3,20 +3,19 @@
 ---
 
 ## Children Requiring Renal Function Assessment
-
-- Children presenting with signs of severe glomerular injury or acute nephritic syndrome, characterized by the abrupt onset of gross hematuria (cola-colored urine), oliguria, edema, and hypertension.
-- Children exhibiting nephrotic-range proteinuria, hypoalbuminemia, anasarca, or significant hyperlipidemia, which are classic signs of [[Nephrology/Nephrotic Syndrome\|nephrotic syndrome]].
-- Children with persistent microscopic hematuria lasting for more than 2 weeks, or those presenting with recurrent gross hematuria accompanied by proteinuria or reduced renal function.
-- Infants and children with a history of recurrent febrile urinary tract infections (UTIs), atypical UTIs caused by non-_E. coli_ organisms, or those exhibiting abnormal voiding patterns such as a poor urinary stream, straining, or persistent dribbling.
-- Children presenting with unexplained growth retardation, failure to thrive, rickets, or severe refractory anemia, which are frequently associated with advanced [[Nephrology/Chronic Kidney Disease\|chronic kidney disease]] (CKD) or tubular transport disorders.
-- Neonates with a history of perinatal asphyxia, extremely low birth weight, necrotizing enterocolitis, or hemodynamically significant patent ductus arteriosus, as these are high-risk conditions for [[Nephrology/Acute Kidney Injury\|acute kidney injury]] (AKI).
-- Children with physical examination findings indicative of renal abnormalities, such as palpable abdominal masses (suggesting multicystic dysplastic kidney, polycystic kidney disease, hydronephrosis, or Wilms’ tumor), palpable bladder, or costovertebral angle tenderness.
-- Children with systemic diseases known to involve the kidneys, including systemic lupus erythematosus (SLE), IgA vasculitis (Henoch-Schönlein purpura), diabetes mellitus, [[Hematology/Sickle Cell Disease\|sickle cell disease]], or congenital malformation syndromes.
-- Children exposed to nephrotoxic medications, including aminoglycosides, nonsteroidal anti-inflammatory drugs (NSAIDs), colistin, amphotericin B, calcineurin inhibitors, or chemotherapeutic agents.
-- Patients demonstrating symptoms of impaired concentrating ability, such as unexplained polyuria, excessive thirst, nocturnal enuresis, or recurrent episodes of severe dehydration.
-- Children with a confirmed family history of hereditary nephropathies, polycystic kidney disease, familial hematuria (such as [[Nephrology/Alport Syndrome\|Alport syndrome]]), or urolithiasis.
-- Fetuses and neonates with antenatally detected [[Nephrology/Congenital Anomalies of the Kidney and Urinary Tract (CAKUT)\|congenital anomalies of the kidney and urinary tract (CAKUT)]], particularly those presenting with bilateral hydronephrosis, oligohydramnios, or an abnormal bladder on prenatal ultrasonography.
-
+|**Clinical Category**|**Specific Indications & Signs**|
+|---|---|
+|**Acute Nephritic / Glomerular Injury**|Gross hematuria (cola-colored urine), oliguria, edema, and hypertension.|
+|**Nephrotic Syndrome**|Nephrotic-range proteinuria, hypoalbuminemia, anasarca (severe generalized swelling), or significant hyperlipidemia.|
+|**Persistent / Recurrent Hematuria**|Microscopic hematuria >2 weeks, or recurrent gross hematuria paired with proteinuria or reduced kidney function.|
+|**UTI & Voiding Abnormalities**|Recurrent febrile UTIs, atypical UTIs (non-_E. coli_), poor urinary stream, straining, or persistent dribbling.|
+|**Systemic & Chronic Conditions**|Systemic lupus erythematosus (SLE), Henoch-Schönlein purpura (IgA vasculitis), diabetes, sickle cell disease, or congenital malformation syndromes.|
+|**High-Risk Neonatal Conditions**|Perinatal asphyxia, extremely low birth weight, necrotizing enterocolitis, or hemodynamically significant patent ductus arteriosus (PDA).|
+|**Antenatal & Congenital (CAKUT)**|Antenatally detected CAKUT, bilateral hydronephrosis, oligohydramnios, or abnormal bladder on prenatal ultrasound.|
+|**Physical Exam Findings**|Palpable abdominal masses (e.g., Wilms' tumor, polycystic kidneys), palpable bladder, or costovertebral angle tenderness.|
+|**Impaired Concentration / Tubular Signs**|Unexplained polyuria, excessive thirst, nocturnal enuresis (bedwetting), or recurrent severe dehydration.|
+|**Chronic Failure to Thrive**|Unexplained growth retardation, failure to thrive, rickets, or severe refractory anemia.|
+|**Family & Medication History**|Confirmed family history of hereditary nephropathies (e.g., Alport syndrome, PKD, urolithiasis) or exposure to nephrotoxic drugs (NSAIDs, aminoglycosides, etc.).|
 ## Tests Used to Assess Renal Function
 
 ### Glomerular Filtration Rate (GFR) Estimation and Measurement

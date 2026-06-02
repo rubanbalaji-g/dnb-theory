@@ -4,18 +4,18 @@
 
 ### Definition and Classification Update
 
-- Under the _Diagnostic and Statistical Manual of Mental Disorders, Fifth Edition_ (DSM-5), the umbrella category of [[Development/Pervasive Developmental Disorders\|Pervasive Developmental Disorders]] (PDD) has been consolidated into a single diagnosis: [[Development/Autism Spectrum Disorder\|Autism Spectrum Disorder]] ([[Cardiology/ASD\|ASD]]).
-- Diagnostic terms previously falling under this category, such as Asperger syndrome and Pervasive Developmental Disorder–Not Otherwise Specified (PDD-NOS), are no longer used as independent diagnoses and are now incorporated entirely into the [[Cardiology/ASD\|ASD]] category.
+- Under the _Diagnostic and Statistical Manual of Mental Disorders, Fifth Edition_ (DSM-5), the umbrella category of Pervasive Developmental Disorders (PDD) has been consolidated into a single diagnosis: [[Development/Autism Spectrum Disorder\|Autism Spectrum Disorder]] (ASD).
+- Diagnostic terms previously falling under this category, such as Asperger syndrome and Pervasive Developmental Disorder–Not Otherwise Specified (PDD-NOS), are no longer used as independent diagnoses and are now incorporated entirely into the ASD category.
 
 ### Pervasive Developmental Disorder–Not Otherwise Specified (PDD-NOS)
 
-- Historically, PDD-NOS was used to define a population that exhibited many symptoms of [[Cardiology/ASD\|ASD]] across multiple developmental domains but did not meet the full criteria for classic autism.
-- Under the current DSM-5 criteria, individuals previously diagnosed with PDD-NOS are considered to have an [[Cardiology/ASD\|ASD]].
-- The clinical presentation in these individuals typically evolves over time; some children may develop more severe [[Cardiology/ASD\|ASD]] symptoms, whereas others may progress and mature without long-term impairments.
+- Historically, PDD-NOS was used to define a population that exhibited many symptoms of ASD across multiple developmental domains but did not meet the full criteria for classic autism.
+- Under the current DSM-5 criteria, individuals previously diagnosed with PDD-NOS are considered to have an ASD.
+- The clinical presentation in these individuals typically evolves over time; some children may develop more severe ASD symptoms, whereas others may progress and mature without long-term impairments.
 
 ### Core Clinical Features
 
-- The disorders formerly grouped as PDDs (now [[Cardiology/ASD\|ASD]]) represent a category of disability characterized by three cardinal features:
+- The disorders formerly grouped as PDDs (now ASD) represent a category of disability characterized by three cardinal features:
     - **Social Deficits:** Manifestations include poor eye contact, a lack of joint attention (the inability to spontaneously seek or share interests), an inability to form relationships, and a lack of social reciprocity.
     - **Communication Impairments:** Features include delayed language development, limited conversational abilities, echolalia, and the scripting of memorized statements.
     - **Restrictive, Repetitive, and Stereotyped Patterns:** Characteristic behaviors involve motor stereotypies (e.g., hand flapping, spinning, rocking, finger wiggling, and pacing), an insistence on sameness, rigid inflexibility, highly restrictive fixations, and heightened sensory awareness.

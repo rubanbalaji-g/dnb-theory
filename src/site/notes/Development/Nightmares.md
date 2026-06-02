@@ -11,7 +11,7 @@
 - Because they are tied to REM sleep, [[Development/Nightmares\|nightmares]] are characteristically concentrated in the second half or the last third of the night, when the REM stage of sleep is most prominent,.
 - They are much more common in the pediatric population than partial arousal (non-REM) parasomnias.
 - [[Development/Nightmares\|Nightmares]] can be a common presenting behavioral or psychiatric concern during the preschool years.
-- Furthermore, they can occur as a primary symptom of underlying distress, such as in children experiencing complicated bereavement or [[Development/Posttraumatic Stress Disorder (PTSD)\|posttraumatic stress disorder (PTSD)]].
+- Furthermore, they can occur as a primary symptom of underlying distress, such as in children experiencing complicated bereavement or [[Development/Post Traumatic Stress Disorder (PTSD)\|Post Traumatic Stress Disorder (PTSD)]].
 
 ### Clinical Features
 

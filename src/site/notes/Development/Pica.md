@@ -4,18 +4,18 @@
 
 ### Definition and Diagnostic Criteria
 
-- [[Development/Pica\|Pica]] is defined as the persistent ingestion of non-nutritive, non-food substances (e.g., plaster, charcoal, paint, clay, dirt, and wool) for a period of at least one month.
+- Pica is defined as the persistent ingestion of non-nutritive, non-food substances (e.g., plaster, charcoal, paint, clay, dirt, and wool) for a period of at least one month.
 - The eating behavior must be inappropriate for the child's developmental level; a minimum age of 2 years is typically required to differentiate it from the normal mouthing and tasting behavior of infants and toddlers.
 - The behavior must not be part of a culturally supported or socially normative practice (such as geophagia in certain rural societies).
-- A distinct diagnosis of [[Development/Pica\|pica]] is made only if the eating behavior is severe enough to warrant independent clinical attention, especially when it presents alongside other mental or neurodevelopmental disorders.
+- A distinct diagnosis of Pica is made only if the eating behavior is severe enough to warrant independent clinical attention, especially when it presents alongside other mental or neurodevelopmental disorders.
 
 ### Etiology and Risk Factors
 
-- [[Development/Pica\|Pica]] is most commonly observed in children under 5 years of age.
+- Pica is most commonly observed in children under 5 years of age.
 - Biological and nutritional risk factors include deficiencies in essential minerals, most notably iron, zinc, and calcium.
 - Psychosocial and environmental risk factors include low socioeconomic status, maternal deprivation, parental neglect or abuse, and family disorganization leading to poor supervision.
 - The condition is highly prevalent in children with significant developmental delays, intellectual disability, and [[Development/Autism Spectrum Disorder\|autism spectrum disorder]].
-- [[Development/Pica\|Pica]] can also be associated with obsessive-compulsive and schizophrenic disorders, and the prevalence tends to increase alongside the severity of concurrent intellectual disability.
+- Pica can also be associated with obsessive-compulsive and schizophrenic disorders, and the prevalence tends to increase alongside the severity of concurrent intellectual disability.
 
 ### Clinical Complications
 

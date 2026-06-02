@@ -21,7 +21,7 @@
 |**Movement & Position**|Anterior tibialis EMG leads, Body position sensors, Video recording|Leg movements, sleeping posture, and unusual episodic nocturnal behaviors.|
 |**Acoustic**|Snore microphone|Presence, frequency, and intensity of snoring.|
 
-### Clinical Indications for [[Development/Polysomnography\|Polysomnography]]
+### Clinical Indications for Polysomnography
 
 - **[[Respiratory/Obstructive Sleep Apnea\|Obstructive Sleep Apnea]] (OSA):** The American Academy of Pediatrics recommends obtaining a PSG for any child or adolescent who regularly snores and exhibits complaints or findings of OSA during routine health maintenance visits.
 - **Post-Operative Evaluation:** A follow-up sleep study approximately 6 weeks post-adenotonsillectomy is strongly indicated for high-risk patients (e.g., those with obesity, craniofacial anomalies, Down syndrome, or moderate-to-severe baseline OSA) or in children whose symptoms persist after surgery.
@@ -30,7 +30,7 @@
 
 ### Diagnostic Parameters and Interpretation
 
-- **Apnea-Hypopnea [[Statistics/Index\|Index]] (AHI):** The AHI is the most frequently used PSG parameter for evaluating sleep-disordered breathing, as it quantifies the number of apneic and hypopneic events (both obstructive and central) per hour of sleep.
+- **Apnea-Hypopnea Index (AHI):** The AHI is the most frequently used PSG parameter for evaluating sleep-disordered breathing, as it quantifies the number of apneic and hypopneic events (both obstructive and central) per hour of sleep.
 - **Pediatric Cutoffs for OSA:** In children 12 years of age and younger, an obstructive AHI greater than or equal to 1 is generally considered the diagnostic cutoff for OSA. In older adolescents, the adult cutoff of an AHI greater than or equal to 5 is typically utilized.
 - **Evaluating Mild OSA:** When the AHI falls between one and five obstructive events per hour, the clinician must assess additional PSG parameters—such as elevated CO2 (indicating obstructive hypoventilation), oxygen desaturation, and respiratory-related arousals—alongside clinical symptoms to determine further management.
 - **Narcolepsy Criteria:** PSG findings that support a diagnosis of narcolepsy include a rapid eye movement (REM) sleep latency of less than or equal to 15 minutes, or an MSLT showing a mean sleep latency of less than or equal to 8 minutes accompanied by two or more sleep-onset REM periods.
@@ -38,5 +38,5 @@
 
 ### Alternative Diagnostic Modalities
 
-- In clinical situations where formal, in-lab [[Development/Polysomnography\|polysomnography]] is unavailable, alternative diagnostic tests may be ordered to assess for sleep-disordered breathing.
-- These acceptable alternative modalities include nocturnal video recording, nocturnal oximetry, daytime nap [[Development/Polysomnography\|polysomnography]], or ambulatory (at-home) [[Development/Polysomnography\|polysomnography]].
+- In clinical situations where formal, in-lab polysomnography is unavailable, alternative diagnostic tests may be ordered to assess for sleep-disordered breathing.
+- These acceptable alternative modalities include nocturnal video recording, nocturnal oximetry, daytime nap polysomnography, or ambulatory (at-home) polysomnography.

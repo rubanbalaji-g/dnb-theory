@@ -6,7 +6,7 @@
 
 - Intellectual disability (historically termed mental retardation) is characterized by significant impairments in both intellectual functioning and adaptive behavior, originating before adulthood.
 - While many cases stem from unalterable genetic or chromosomal anomalies, several etiologies are entirely preventable through primary and secondary public health interventions.
-- The cornerstone of preventing cognitive handicap lies in prenatal care, universal [[Neonatalogy/Newborn Screening\|newborn screening]], timely immunizations, and aggressive early intervention.
+- The cornerstone of preventing cognitive handicap lies in prenatal care, universal [[newborn screening\|newborn screening]], timely immunizations, and aggressive early intervention.
 
 ### Major Preventable Etiologies
 
@@ -21,7 +21,7 @@
 
 |Preventable Cause|Pathophysiological Impact|Preventive Strategy & Management|
 |:--|:--|:--|
-|**[[Endocrinology/Congenital Hypothyroidism\|Congenital Hypothyroidism]]**|Inadequate thyroid hormone disrupts early CNS maturation, myelination, and neuronal connectivity.|Universal [[Neonatalogy/Newborn Screening\|newborn screening]]; immediate and lifelong initiation of oral levothyroxine therapy to preserve normal IQ.|
+|**[[Endocrinology/Congenital Hypothyroidism\|Congenital Hypothyroidism]]**|Inadequate thyroid hormone disrupts early CNS maturation, myelination, and neuronal connectivity.|Universal [[newborn screening\|newborn screening]]; immediate and lifelong initiation of oral levothyroxine therapy to preserve normal IQ.|
 |**Fetal Alcohol Spectrum Disorder**|Ethanol toxicity causes direct neuronal cell death, impaired neuronal migration, and intrauterine growth restriction.|Primary prevention via public awareness campaigns; absolute avoidance of alcohol consumption during pregnancy.|
 |**[[Metabolic Disorders/Phenylketonuria\|Phenylketonuria]] (PKU)**|Phenylalanine accumulation causes direct neurotoxicity, seizures, and demyelination.|Newborn metabolic screening; strict lifelong adherence to a phenylalanine-restricted diet, particularly during maternal pregnancies.|
 |**Congenital Infections (TORCH)**|Direct viral or parasitic destruction of fetal neural tissue, leading to [[Neurology/Microcephaly\|microcephaly]], [[Neurology/Hydrocephalus\|hydrocephalus]], and chorioretinitis.|[[Misc/Maternal Immunization\|Maternal immunization]] (e.g., [[Misc/Rubella Vaccine\|Rubella vaccine]]); promoting safe sexual practices; prenatal screening and treatment for syphilis and toxoplasmosis.|

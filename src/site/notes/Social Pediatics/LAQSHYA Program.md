@@ -3,7 +3,7 @@
 ---
 
 ## Introduction
-The [[Social Pediatics/LAQSHYA Program\|LAQSHYA program]] is a targeted quality improvement initiative launched by the Ministry of Health and Family Welfare (MoHFW), Government of India. It aims to accelerate the decline of maternal mortality, neonatal mortality, and stillbirth rates by systematically improving the quality of care in Labor Rooms (LR) and Maternity Operation Theatres (MOT).
+The LAQSHYA program is a targeted quality improvement initiative launched by the Ministry of Health and Family Welfare (MoHFW), Government of India. It aims to accelerate the decline of maternal mortality, neonatal mortality, and stillbirth rates by systematically improving the quality of care in Labor Rooms (LR) and Maternity Operation Theatres (MOT).
 
 ## Core Objectives
 * Reduce maternal and newborn morbidity and mortality, specifically aiming to reduce stillbirths and neonatal deaths due to birth asphyxia and sepsis.

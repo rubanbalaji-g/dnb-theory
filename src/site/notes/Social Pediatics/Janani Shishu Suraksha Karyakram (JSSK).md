@@ -2,6 +2,12 @@
 {"dg-publish":true,"uptext":"⟵ Back to (🚸 Social Pediatrics)","uplink":"/social-pediatics/social-pediatrics/","permalink":"/social-pediatics/janani-shishu-suraksha-karyakram-jssk/","dgPassFrontmatter":true}
 ---
 
+> [!atomic] Summary
+> * **Launch & Core Objective**: Launched on **1 June 2011** by the _Ministry of Health & Family Welfare_, the **Janani Shishu Suraksha Karyakram (JSSK)** is an entitlement-based scheme designed to achieve **100% institutional deliveries with zero out-of-pocket expenditure (OOPE)**, ultimately aiming to reduce maternal and neonatal mortality.
+> * **Target Beneficiaries**: The scheme provides **completely free, cashless services** to all **pregnant women** delivering in public health facilities (regardless of economic status) and **sick newborns (0–30 days)**.
+> * **Key Entitlements**: Services include **free deliveries** (including C-sections), **drugs, diagnostics, blood transfusions, nutritional diets** (up to 3 days for normal delivery, 7 days for C-section, and for mothers of sick newborns), and **free multi-way transport** (pick-up, inter-facility referral, and drop-back).
+> * **Implementation & Integration**: Operating across all public health tiers, JSSK converges with key healthcare initiatives like **FBNC (SNCU links)**, **RBSK**, **ABDM** (for digital tracking), and the **108/102 ambulance networks**. 
+> * **Impact & 2026 Updates**: The scheme benefits over **2.5 crore individuals annually**, driving down delivery costs to zero. Recent **2025–26 updates** include full **ABDM integration for digital cards**, expanded transport fleets, and post-discharge immunization tracking via **U-WIN**.
 ## Introduction
 - Launched on 1 June 2011 by Ministry of Health & Family Welfare under National Health Mission (NHM)
 - Entitlement-based scheme providing completely free and cashless services to all pregnant women delivering in public health institutions and to sick newborns up to 30 days of life

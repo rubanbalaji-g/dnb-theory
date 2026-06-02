@@ -2,6 +2,12 @@
 {"dg-publish":true,"uptext":"⟵ Back to (🚸 Social Pediatrics)","uplink":"/social-pediatics/social-pediatrics/","permalink":"/social-pediatics/saans-campaign/","dgPassFrontmatter":true}
 ---
 
+> [!atomic] Summary
+> * **Program Overview:** Launched in November 2019 under the National Health Mission, SAANS is an annual campaign targeting childhood pneumonia, aiming to reduce pneumonia-specific mortality to <3 per 1000 live births by 2025.
+> * **Core Objectives:** Aims to generate community awareness, promote early care-seeking, strengthen case management capacity, and accelerate the coverage of the _Pneumococcal Conjugate Vaccine_ (PCV).
+> * **The PPT Strategy:** Operates on a three-pronged framework to **Protect** (via exclusive breastfeeding and nutrition), **Prevent** (through complete vaccination and reducing air pollution), and **Treat** (via early recognition of danger signs and prompt care).
+> * **Implementation Activities:** Involves health workers conducting door-to-door screenings to identify suspected cases, administering pre-referral _Amoxicillin_, and ensuring facilities are equipped with essential supplies like oxygen and _pulse oximeters_.
+> * **Monitoring & Recent Focus:** Utilizes real-time tracking via digital portals and integrates with broader programs like RBSK; the 2025–26 campaign emphasized health facility strengthening in high-burden districts.
 ## Introduction
 - SAANS: Social Awareness and Action to Neutralise Pneumonia Successfully
 - Launched by Ministry of Health & Family Welfare (MoHFW) in November 2019 under National Health Mission

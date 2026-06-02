@@ -2,6 +2,13 @@
 {"dg-publish":true,"uptext":"⟵ Back to (🚸 Social Pediatrics)","uplink":"/social-pediatics/social-pediatrics/","permalink":"/social-pediatics/navjaat-shishu-suraksha-karyakram-nssk/","dgPassFrontmatter":true}
 ---
 
+> [!atomic] Summary
+> * **NSSK Overview:** Launched in 2009 under the Ministry of Health & Family Welfare, this initiative aims to reduce early neonatal mortality and morbidity, particularly from _birth asphyxia_.
+> * **Primary Goal:** Ensures that at least one trained health personnel is available at every delivery point to provide basic newborn care and resuscitation.
+> * **Four Key Pillars:** Focuses on the prevention of hypothermia (via warm chain and KMC), prevention of infection, early initiation of _exclusive breastfeeding_, and basic newborn resuscitation.
+> * **Resuscitation Algorithm:** Mandates initial steps (warm, dry, stimulate) within 30 seconds; if the newborn has apnoea or a heart rate <100, Positive Pressure Ventilation (PPV) is initiated, escalating to chest compressions or medication if necessary.
+> * **Essential Care Practices:** Highlights practices such as delayed cord clamping, Vitamin K prophylaxis, Kangaroo Mother Care (KMC) for stable low-birth-weight babies, and counseling for home-based care.
+> * **Overall Impact:** Serving as a cost-effective intervention and NHM key performance indicator, it has significantly contributed to lowering India's Neonatal Mortality Rate (NMR) and reducing long-term complications like _cerebral palsy_.
 ## Introduction
 - Government of India initiative launched in 2009 under National Rural Health Mission (NRHM, now NHM) by Ministry of Health & Family Welfare
 - Aims to reduce early neonatal mortality & morbidity, especially due to birth asphyxia (major contributor to NMR in India)
