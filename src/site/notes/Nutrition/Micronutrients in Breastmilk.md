@@ -7,7 +7,6 @@ Breast milk is the "gold standard" for infant nutrition, providing a unique matr
 A defining characteristic of micronutrients in breast milk is their **high bioavailability**. Although the absolute concentration of certain minerals (like iron and zinc) may be lower in human milk compared to animal milk, their absorption rates are significantly higher due to the presence of specific carrier proteins and favorable ratios of other constituents,.
 
 ---
-
 ## I. Fat-Soluble Vitamins in Breast Milk
 
 The concentration of fat-soluble vitamins in breast milk can be influenced by maternal stores and dietary intake.
@@ -38,7 +37,6 @@ The concentration of fat-soluble vitamins in breast milk can be influenced by ma
 - **Prophylaxis:** All newborns should receive Vitamin K prophylaxis (0.5–1 mg IM) at birth to prevent bleeding, regardless of feeding method, but it is critical for breastfed infants due to delayed gut colonization,.
 
 ---
-
 ## II. Water-Soluble Vitamins in Breast Milk
 
 Water-soluble vitamins in breast milk are strongly correlated with maternal dietary intake. Deficiencies in the mother can lead to deficiencies in the infant.
@@ -61,7 +59,6 @@ Water-soluble vitamins in breast milk are strongly correlated with maternal diet
 - **Adequacy:** This amount is sufficient to prevent [[Nutrition/Scurvy\|scurvy]] in infants. Pasteurization or boiling of animal milk destroys Vitamin C, putting artificially fed infants at risk if not fortified, whereas breastfeeding protects against this.
 
 ---
-
 ## III. Minerals and Trace Elements
 
 While the total mineral content (ash) of human milk is lower than that of cow's milk (0.2 g vs. 0.7 g), the bioavailability is superior.
@@ -94,7 +91,6 @@ While the total mineral content (ash) of human milk is lower than that of cow's 
 - **Iodine:** 7 $\mu$g/100 ml. Levels depend on maternal iodine status. Deficiency in the mother can lead to hypothyroidism in the infant.
 
 ---
-
 ## IV. Variations in Breast Milk Composition
 
 ### 1. Preterm Milk (PTM) vs. Term Milk

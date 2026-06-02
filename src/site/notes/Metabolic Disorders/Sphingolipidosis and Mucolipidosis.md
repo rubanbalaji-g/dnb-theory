@@ -8,7 +8,6 @@
 * **Mucolipidoses:** Disorders where the stored material includes both mucopolysaccharides (GAGs) and lipids, typically due to defects in enzyme trafficking/targeting rather than the degradative enzymes themselves.
 
 ---
-
 ## PART I: SPHINGOLIPIDOSES
 
 ### 1. ETIOLOGY AND PATHOPHYSIOLOGY
@@ -62,7 +61,6 @@
     * *Clinical:* Extreme irritability (unexplained crying), fevers, stiffness, optic atrophy.
 
 ---
-
 ## PART II: MUCOLIPIDOSES (ML)
 
 ### 1. DEFINITION AND PATHOPHYSIOLOGY
@@ -99,7 +97,6 @@
 * **Clinical:** Corneal clouding + Achlorhydria (high gastrin) + Severe developmental delay. No skeletal deformities.
 
 ---
-
 ## PART III: COMPARISON AND DIAGNOSIS
 
 ### 1. DIFFERENTIAL DIAGNOSIS (TABLE)

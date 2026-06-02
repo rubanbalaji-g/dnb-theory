@@ -2,7 +2,6 @@
 {"dg-publish":true,"permalink":"/neonatalogy/apnea-of-prematurity/","noteIcon":"","created":"2024-07-12T01:12:00","dgPassFrontmatter":true}
 ---
 
-
 ## Definition
 - cessation of breathing for more than 20 seconds or shorted if accompanied by
 	- bradycardia

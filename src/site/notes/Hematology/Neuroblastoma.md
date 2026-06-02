@@ -13,7 +13,7 @@
 - Peak incidence occurs at 2 years of age.
 - Originates from primordial neural crest cells destined for adrenal medulla and sympathetic ganglia.
 - Slight male and White population preponderance.
-- Spontaneous involution or maturation occurs frequently; in situ [[Hematology/Neuroblastoma\|neuroblastoma]] detected in 1 in 259 infant autopsies.
+- Spontaneous involution or maturation occurs frequently; in situ neuroblastoma detected in 1 in 259 infant autopsies.
 
 ## Etiology And Pathogenesis
 
@@ -21,8 +21,8 @@
 
 - Etiology largely unknown.
 - Familial cases represent 1-2%; associated with younger diagnostic age.
-- Germline gain-of-function variants in _ALK_ gene linked to familial [[Hematology/Neuroblastoma\|neuroblastoma]].
-- Germline pathogenic variants in _PHOX2B_ predispose to syndromic [[Hematology/Neuroblastoma\|neuroblastoma]].
+- Germline gain-of-function variants in _ALK_ gene linked to familial neuroblastoma.
+- Germline pathogenic variants in _PHOX2B_ predispose to syndromic neuroblastoma.
 - _BARD1_ gene identified as major genetic contributor.
 - _MYCN_ proto-oncogene amplification detected in 20% of primary tumors; strongly predicts advanced stage and poor prognosis.
 - Segmental chromosomal aberrations (SCA) confer increased recurrence risk: loss of heterozygosity of 1p, 11q, 14q; gain of 17q,.
@@ -87,9 +87,9 @@ _Note: PHOX2B exhibits high specificity and sensitivity for neuroblastic tumors.
 
 ## Staging Systems
 
-Historical use of International [[Hematology/Neuroblastoma\|Neuroblastoma]] Staging System (INSS) replaced by image-based International [[Hematology/Neuroblastoma\|Neuroblastoma]] Risk Group Staging System (INRGSS).
+Historical use of International Neuroblastoma Staging System (INSS) replaced by image-based International Neuroblastoma Risk Group Staging System (INRGSS).
 
-### International [[Hematology/Neuroblastoma\|Neuroblastoma]] Risk Group Staging System (INRGSS)
+### International Neuroblastoma Risk Group Staging System (INRGSS)
 
 |Stage|Definition|
 |:--|:--|
@@ -102,14 +102,14 @@ Historical use of International [[Hematology/Neuroblastoma\|Neuroblastoma]] Stag
 
 Prognosis strongly dictated by clinical and biologic characteristics.
 
-|Prognostic Factor|Favorable Profile|Unfavorable Profile|
-|:--|:--|:--|
-|**Age At Diagnosis**|<18 months|$\ge$ 18 months.|
-|**Stage (INRGSS)**|L1, L2, MS|M.|
-|**MYCN Status**|Nonamplified|Amplified.|
-|**Tumor Ploidy (DNA [[Statistics/Index\|Index]])**|Hyperdiploid (in infants)|Diploid.|
-|**Histology (INPC)**|Differentiated; Low/Intermediate MKI|Undifferentiated; High MKI.|
-|**Chromosomal Aberrations**|Absent|Present (LOH 1p, 11q; Gain 17q).|
+| Prognostic Factor              | Favorable Profile                    | Unfavorable Profile              |
+| :----------------------------- | :----------------------------------- | :------------------------------- |
+| **Age At Diagnosis**           | <18 months                           | $\ge$ 18 months.                 |
+| **Stage (INRGSS)**             | L1, L2, MS                           | M.                               |
+| **MYCN Status**                | Nonamplified                         | Amplified.                       |
+| **Tumor Ploidy (DNA Index)**\| | Hyperdiploid (in infants)            | Diploid.                         |
+| **Histology (INPC)**           | Differentiated; Low/Intermediate MKI | Undifferentiated; High MKI.      |
+| **Chromosomal Aberrations**    | Absent                               | Present (LOH 1p, 11q; Gain 17q). |
 
 ## Management And Therapeutics
 
@@ -148,7 +148,7 @@ Therapy risk-adapted incorporating age, stage, and molecular features.
     - **GM-CSF:** Co-administered with Dinutuximab.
 - Long-term survival approximately 50% despite intensive multimodal intervention.
 
-### Oncologic Emergencies In [[Hematology/Neuroblastoma\|Neuroblastoma]]
+### Oncologic Emergencies In Neuroblastoma
 
 - **Spinal Cord Compression:** Invading paraspinal tumors cause neurologic deficits. Managed emergently with Dexamethasone and rapid initiation of chemotherapy. Surgical laminectomy reserved for chemotherapy failure (high risk of subsequent kyphoscoliosis),.
 - **Opsoclonus-Myoclonus-Ataxia Syndrome (OMAS):** Managed via immune modulation (Corticosteroids, Intravenous Immunoglobulin, Rituximab). Neurologic sequelae frequently persist despite tumor eradication.

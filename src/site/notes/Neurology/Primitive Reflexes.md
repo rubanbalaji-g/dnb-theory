@@ -21,7 +21,6 @@
 - Head positioned in midline during assessment to prevent tone alteration.
 
 ---
-
 ## Chronology of [[Neurology/Primitive Reflexes\|Primitive Reflexes]]
 
 |Reflex|Onset (Gestational Age)|Fully Developed|Duration/Disappearance (Postnatal)|
@@ -33,7 +32,6 @@
 |**Parachute**|7–8 months|10–11 months|Remains throughout life|
 
 ---
-
 ## Specific Reflexes: Elicitation and Interpretation
 
 ### 1. Moro Reflex
@@ -87,7 +85,6 @@
     - Absence beyond 10-12 months indicates abnormal developmental reflexes and motor delay.
 
 ---
-
 ## Clinical Significance and Pathology
 
 ### Indicators of CNS Depression

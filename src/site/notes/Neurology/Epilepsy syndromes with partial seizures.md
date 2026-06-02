@@ -11,7 +11,6 @@ Focal epilepsies are characterized by seizures originating within networks limit
 4.  **Epileptic Encephalopathies with Focal Features:** e.g., Rasmussen’s, CSWS.
 
 ---
-
 ### II. Self-Limiting (Benign) Focal Epilepsies
 These are the most common childhood epilepsy syndromes (15–25% of pediatric epilepsy).
 
@@ -50,7 +49,6 @@ These are the most common childhood epilepsy syndromes (15–25% of pediatric ep
 * **Prognosis:** Variable; less likely to remit spontaneously compared to Panayiotopoulos.
 
 ---
-
 ### III. Symptomatic / Structural Focal Epilepsies
 
 #### 1. Temporal Lobe Epilepsy (TLE)
@@ -77,7 +75,6 @@ The most common form of focal epilepsy in adolescents and adults.
 * **Genetics:** **ADNFLE (Autosomal Dominant Nocturnal Frontal Lobe Epilepsy)** – Mutation in nicotinic acetylcholine receptor (*CHRNA4*).
 
 ---
-
 ### IV. Specific Etiology-Linked Syndromes
 
 #### 1. Rasmussen’s Encephalitis
@@ -103,7 +100,6 @@ The most common form of focal epilepsy in adolescents and adults.
 * **Course:** Seizures often start in infancy, leading to hemiparesis and calcification (tram-track sign).
 
 ---
-
 ### V. Acquired Epileptic Aphasia ([[Neurology/Landau-Kleffner Syndrome\|Landau-Kleffner Syndrome]])
 * **Nature:** An epileptic encephalopathy with focal EEG features but global cognitive impact.
 * **Clinical:** Normal early development $\rightarrow$ Subacute onset of **Verbal Auditory Agnosia** ("Word deafness") $\rightarrow$ Loss of speech.
@@ -112,7 +108,6 @@ The most common form of focal epilepsy in adolescents and adults.
 * **Treatment:** Steroids (high dose), IVIG, Benzodiazepines.
 
 ---
-
 ### VI. Management Summary
 
 | Modality | Indication | Agents/Procedure |

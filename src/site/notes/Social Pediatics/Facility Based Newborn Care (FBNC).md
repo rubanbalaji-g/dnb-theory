@@ -11,7 +11,7 @@
 ## **Introduction**
 - Flagship initiative under RMNCH+A strategy of National Health Mission (NHM), Ministry of Health & Family Welfare
 - Provides tiered, facility-based care to sick and small newborns (birth to 28 days) at all levels of public health facilities
-- Revised Operational Guidelines released November 2025 (after 14 years) – emphasize quality improvement, Mother-Newborn Care Units (MNCU), CPAP provision, [[newborn screening\|newborn screening]] and zero-separation policy
+- Revised Operational Guidelines released November 2025 (after 14 years) – emphasize quality improvement, Mother-Newborn Care Units (MNCU), CPAP provision, [[Neonatalogy/Newborn Screening\|newborn screening]] and zero-separation policy
 - Goal: Reduce neonatal mortality rate (NMR) to <12/1000 live births by strengthening secondary-level care without need for mechanical ventilation/surgery
 
 ## Core Components – Three-Tiered Structure
@@ -46,7 +46,7 @@
 	- Advanced CPAP, exchange transfusion, total parenteral nutrition, advanced phototherapy
 	- Zero-separation policy in MNCU (mother beds inside unit)
 	- Lactation Management Centre (LMC) for expressed breast milk
-	- [[Newborn screening\|Newborn screening]] (hearing, metabolic, [[Endocrinology/Congenital Hypothyroidism\|congenital hypothyroidism]])
+	- [[Neonatalogy/Newborn Screening\|Newborn screening]] (hearing, metabolic, [[Endocrinology/Congenital Hypothyroidism\|congenital hypothyroidism]])
 	- Follow-up of high-risk newborns
 - Infrastructure: Centralized oxygen, CPAP/ventilators (non-invasive), radiant warmers/incubators, phototherapy, infusion pumps, monitors, lab support
 - Human resources: 1 Paediatrician/FBNC-trained MO per shift + 3:1 nurse:bed ratio (24×7), support staff, developmental care specialists
@@ -64,6 +64,6 @@
 ## Key 2025 Updates (Revised Guidelines)
 - Emphasis on MNCU model for zero mother-baby separation
 - Provision of CPAP at NBSU/SNCU level
-- Strengthened [[newborn screening\|newborn screening]] at delivery points
+- Strengthened [[Neonatalogy/Newborn Screening\|newborn screening]] at delivery points
 - Integration with ABDM for digital records and follow-up
 - Quality Improvement (QI) cycles mandatory for all units

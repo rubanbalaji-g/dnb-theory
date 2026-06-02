@@ -45,7 +45,6 @@ Admission is required if the child presents with any of the following IMNCI dang
 - **Caregiver Issues:** If the mother/caregiver is unable to provide adequate home care or if the home environment is not conducive to recovery.
 
 ---
-
 ### 3. Discharge Criteria
 
 Discharge planning involves two stages: transferring from the stabilization phase (inpatient) to the rehabilitation phase (often community-based), and finally declaring the child "cured."

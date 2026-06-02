@@ -38,7 +38,6 @@ Copper is an essential trace element primarily involved in oxidative metabolism,
 **Dietary Sources:** Liver, shellfish (oysters), meat, nuts, legumes, whole grains, and cocoa,.
 
 ---
-
 ## B) Zinc
 
 Zinc is the second most abundant trace element in the body. It is ubiquitous in cellular functions, acting as a catalyst, structural ion, and regulatory ion.
@@ -77,7 +76,6 @@ Zinc is the second most abundant trace element in the body. It is ubiquitous in 
 **Dietary Sources:** Red meat, shellfish (oysters), poultry, liver, eggs, and dairy. Phytates in cereals reduce bioavailability,.
 
 ---
-
 ## C) Magnesium
 
 Magnesium is a major intracellular cation, with over 80% located in bone and skeletal muscle. It is critical for metabolic and electrical stability in the body.

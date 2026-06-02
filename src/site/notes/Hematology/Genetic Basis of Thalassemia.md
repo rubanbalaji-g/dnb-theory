@@ -63,5 +63,5 @@
 ### Modifying Genetic Factors
 
 - **$\alpha$-gene Deletions:** Co-inheritance of $\alpha$-thalassemia in a $\beta$-thalassemia patient decreases disease severity. Improves $\alpha:\beta$ chain imbalance.
-- **$\alpha$-gene Triplication:** Co-inheritance of extra $\alpha$-genes in a $\beta$-thalassemia trait patient worsens disease severity. Exacerbates chain imbalance, causing non-transfusion-dependent [[Hematology/Thalassemia\|thalassemia]] (intermedia) phenotype.
-- **Promoter Polymorphisms:** Polymorphisms in regulatory genes (e.g., _BCL11A_ transcription factor) increase HbF production. Lessens disease severity by replacing missing $\beta$-chains with $\gamma$-chains.
+- **$\alpha$-gene Triplication:** Co-inheritance of extra $\alpha$-genes in a $\beta$-thalassemia trait patient worsens disease severity. Exacerbates chain imbalance, causing non-transfusion-dependent thalassemia (intermedia) phenotype.
+	- **Promoter Polymorphisms:** Polymorphisms in regulatory genes (e.g., _BCL11A_ transcription factor) increase HbF production. Lessens disease severity by replacing missing $\beta$-chains with $\gamma$-chains.

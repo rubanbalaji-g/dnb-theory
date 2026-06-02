@@ -25,7 +25,7 @@
 
 ### Clinical Manifestations
 
-- If not detected by [[newborn screening\|newborn screening]], infants with SCID most often present with severe, persistent infections during early infancy.
+- If not detected by [[Neonatalogy/Newborn Screening\|newborn screening]], infants with SCID most often present with severe, persistent infections during early infancy.
 - Common infectious presentations include **[[Gastrointestinal/Chronic Diarrhea\|chronic diarrhea]], [[Respiratory/Recurrent Pneumonia\|recurrent pneumonia]], persistent otitis media, bacterial sepsis, and severe cutaneous infections.**
 - Patients demonstrate extreme susceptibility to opportunistic pathogens, classically presenting with severe oral thrush from _Candida albicans_, pneumonia from _Pneumocystis jirovecii_ (PJP), and severe infections from parainfluenza 3 virus, adenovirus, respiratory syncytial virus (RSV), cytomegalovirus (CMV), and Epstein-Barr virus (EBV).
 - Exposure to live-attenuated vaccines—such as rotavirus, measles-mumps-rubella-varicella (MMRV), oral poliovirus (OPV), or the bacille Calmette-Guérin ([[Misc/BCG\|BCG]]) vaccine—frequently results in life-threatening, disseminated vaccine-strain infections.
@@ -36,11 +36,11 @@
 
 ### Newborn Screening
 
-- [[Newborn screening\|Newborn screening]] allows for the early detection and treatment of SCID prior to the onset of severe infections, which has dramatically improved survival rates.
+- [[Neonatalogy/Newborn Screening\|Newborn screening]] allows for the early detection and treatment of SCID prior to the onset of severe infections, which has dramatically improved survival rates.
 - The standard screening assay utilizes a quantitative polymerase chain reaction (PCR) to measure T-cell receptor excision circles (TRECs) from dried blood spots.
 - TRECs are episomal DNA byproducts formed during the V(D)J rearrangement of T-cell receptor genes; they do not replicate during cell division and serve as a highly accurate biomarker for enumerating recent thymic emigrants.
 - A low or absent TREC count raises high suspicion for SCID and mandates immediate confirmatory immunologic evaluation.
-- Some [[newborn screening\|newborn screening]] programs additionally assay kappa excision circles (KRECs) to simultaneously identify severe B-cell defects like agammaglobulinemia.
+- Some [[Neonatalogy/Newborn Screening\|newborn screening]] programs additionally assay kappa excision circles (KRECs) to simultaneously identify severe B-cell defects like agammaglobulinemia.
 
 ### Laboratory Diagnosis
 

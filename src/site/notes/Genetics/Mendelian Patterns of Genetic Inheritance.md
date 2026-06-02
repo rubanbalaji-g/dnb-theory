@@ -43,7 +43,7 @@
 
 ### Clinical Examples
 
-- [[Respiratory/Cystic Fibrosis\|Cystic Fibrosis]], Sickle Cell Anemia, [[Hematology/Thalassemia\|Thalassemia]], [[Metabolic Disorders/Phenylketonuria\|Phenylketonuria]], and [[Neuromuscular/Spinal Muscular Atrophy\|Spinal Muscular Atrophy]].
+- [[Respiratory/Cystic Fibrosis\|Cystic Fibrosis]], Sickle Cell Anemia, Thalassemia, [[Metabolic Disorders/Phenylketonuria\|Phenylketonuria]], and [[Neuromuscular/Spinal Muscular Atrophy\|Spinal Muscular Atrophy]].
 
 ## X-Linked Recessive Inheritance
 

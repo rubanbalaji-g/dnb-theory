@@ -40,7 +40,6 @@ Causes are broadly divided into Vascular (Stroke) and Non-Vascular (Mimics).
 * **MELAS:** Mitochondrial stroke-like episodes.
 
 ---
-
 ## Management 
 
 **1. Acute Stabilization (The "ABC" Approach)**

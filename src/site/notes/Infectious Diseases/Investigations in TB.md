@@ -112,7 +112,6 @@ CT of the chest is more sensitive than CXR for detecting:
 - **Spinal TB (Pott's Spine):** Superior for assessing vertebral body destruction, disc space involvement (paradiscal), pre/para-vertebral abscess, and spinal cord compression.
 
 ---
-
 ## 3. Immunological Investigations
 
 These tests indicate infection (Latent TB Infection - TBI) but do not differentiate between infection and active disease. They are supportive tools in high-burden settings.

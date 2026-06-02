@@ -61,7 +61,7 @@ Patients typically appear normal at birth, with multisystem involvement developi
 ### Screening Tests
 
 - **Cyanide-Nitroprusside Test:** Urine turns deep red/magenta, detecting sulfhydryl groups. False negatives can occur with low protein intake, and false positives occur in cystinuria.
-- **[[Newborn Screening\|Newborn Screening]] (NBS):** Detects elevated methionine. Note that it may miss B6-responsive forms or remethylation defects where methionine levels are low.
+- **[[Neonatalogy/Newborn Screening\|Newborn Screening]] (NBS):** Detects elevated methionine. Note that it may miss B6-responsive forms or remethylation defects where methionine levels are low.
 
 ### Confirmatory Tests
 

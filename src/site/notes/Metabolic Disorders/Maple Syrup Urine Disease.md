@@ -32,7 +32,7 @@
 
 ## Diagnostic Investigations
 
-- **[[Newborn Screening\|Newborn Screening]] (NBS):** Tandem Mass Spectrometry (TMS) detects elevated Leucine/Isoleucine and the presence of Alloisoleucine.
+- **[[Neonatalogy/Newborn Screening\|Newborn Screening]] (NBS):** Tandem Mass Spectrometry (TMS) detects elevated Leucine/Isoleucine and the presence of Alloisoleucine.
 - **Plasma Amino Acids:** Reveals markedly elevated Leucine, Isoleucine, and Valine alongside decreased Alanine.
 - **Alloisoleucine:** The presence of Alloisoleucine in plasma is pathognomonic for MSUD.
 - **Urine Organic Acids:** Demonstrates elevated branched-chain $\alpha$-ketoacids and hydroxyacids.

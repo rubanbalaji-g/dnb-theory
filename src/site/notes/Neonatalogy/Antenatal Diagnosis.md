@@ -8,7 +8,6 @@
 * **Goal:** Early detection to allow for parental counseling, preparation, in-utero therapy, or termination of pregnancy (secondary prevention).
 
 ---
-
 ## 2. METHODS OF DETECTION (PRENATAL DIAGNOSIS)
 Detection methods are classified into **Screening** (non-invasive, applied to population) and **Diagnostic** (invasive, applied to high-risk).
 
@@ -44,7 +43,7 @@ Indicated if screening is positive, previous history of genetic disease, or adva
 
 | Procedure                           | Gestation | Tissue Sampled       | Risk of Loss | Common Indications                                        |
 | :---------------------------------- | :-------- | :------------------- | :----------- | :-------------------------------------------------------- |
-| **[[Neonatalogy/Chorionic Villus Sampling (CVS)\|Chorionic Villus Sampling (CVS)]]** | 10–13 wks | Trophoblasts         | 0.5–1%       | Karyotype, DNA analysis ([[Hematology/Thalassemia\|Thalassemia]]), Enzyme assay.      |
+| **[[Neonatalogy/Chorionic Villus Sampling (CVS)\|Chorionic Villus Sampling (CVS)]]** | 10–13 wks | Trophoblasts         | 0.5–1%       | Karyotype, DNA analysis (Thalassemia), Enzyme assay.      |
 | [[Neonatalogy/Amniocentesis\|Amniocentesis]]                   | 15–20 wks | Amniocytes           | 0.3–0.5%     | Karyotype, infections (CMV), biochemical errors.          |
 | **[[Neonatalogy/Cordocentesis\|Cordocentesis]] (FBS)**         | >18 wks   | Fetal Blood          | 1–2%         | Rapid karyotype, fetal anemia/hydrops workup.             |
 | **Fetoscopy**                       | 2nd Trim  | Direct Visualization | High         | Rare. Used for fetal skin biopsy or laser surgery (TTTS). |
@@ -56,7 +55,6 @@ Indicated if screening is positive, previous history of genetic disease, or adva
 * **Whole [[Genetics/Exome Sequencing\|Exome Sequencing]] (WES):** Newer modality for identifying single-gene disorders when CMA is normal.
 
 ---
-
 ## 3. PREVENTION OF CONGENITAL MALFORMATIONS
 Prevention strategies operate at three levels: Primary, Secondary, and Tertiary.
 
@@ -78,7 +76,7 @@ Prevention strategies operate at three levels: Primary, Secondary, and Tertiary.
     * Drugs (Warfarin, Retinoids, Thalidomide).
 5.  **Genetic Counseling:**
     * Consanguinity discouragement.
-    * Carrier screening for recessive traits ([[Hematology/Thalassemia\|Thalassemia]], SMA).
+    * Carrier screening for recessive traits (Thalassemia, SMA).
 
 ### B. Secondary Prevention (Antenatal)
 *Goal: Early detection and limiting the birth of affected fetuses or in-utero treatment.*
@@ -90,7 +88,7 @@ Prevention strategies operate at three levels: Primary, Secondary, and Tertiary.
 
 ### C. Tertiary Prevention (Postnatal)
 *Goal: Minimize disability in the affected newborn.*
-1.  **[[Newborn Screening\|Newborn Screening]] (NBS):**
+1.  **[[Neonatalogy/Newborn Screening\|Newborn Screening]] (NBS):**
     * Screening for treatable metabolic errors (Hypothyroidism, CAH, G6PD, [[Metabolic Disorders/Phenylketonuria\|Phenylketonuria]]).
 2.  **Early Surgical Correction:**
     * Timely repair of congenital heart defects, cleft lip/palate, clubfoot (Ponseti).

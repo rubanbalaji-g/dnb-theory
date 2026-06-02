@@ -28,10 +28,10 @@
 
 ### Hemoglobinopathies & Thalassemias
 
-#### [[Hematology/Thalassemia\|Thalassemia]] Syndromes
+#### Thalassemia Syndromes
 
-- **[[Hematology/Thalassemia\|Thalassemia]] Trait:** Marked hypochromia, microcytosis, target cells, fine basophilic stippling.
-- **[[Hematology/Thalassemia\|Thalassemia]] Major:** Severe hypochromia, extreme microcytosis, massive anisocytosis.
+- **Thalassemia Trait:** Marked hypochromia, microcytosis, target cells, fine basophilic stippling.
+- **Thalassemia Major:** Severe hypochromia, extreme microcytosis, massive anisocytosis.
 - **Specific Features:** Fragmented RBCs, teardrop cells, numerous nucleated RBCs, polychromatophilia.
 
 #### [[Hematology/Sickle Cell Disease\|Sickle Cell Disease]] (HbSS)
@@ -81,18 +81,17 @@
 - **RBC Morphology:** Schistocytes (RBC fragments), helmet cells, burr cells, triangular shapes, microspherocytes.
 
 ---
-
 ## Summary of Specific Erythrocyte Morphologies
 
 |Morphologic Finding|Pathophysiologic Description|Key Differential Diagnoses|
 |:--|:--|:--|
-|**Target Cells**|Increased surface-to-volume ratio|[[Hematology/Thalassemia\|Thalassemia]], HbC/HbE disease, Liver disease, Severe iron deficiency, Asplenia, Abetalipoproteinemia.|
+|**Target Cells**|Increased surface-to-volume ratio|Thalassemia, HbC/HbE disease, Liver disease, Severe iron deficiency, Asplenia, Abetalipoproteinemia.|
 |**Spherocytes**|Decreased surface-to-volume ratio, hyperdense|Hereditary spherocytosis, [[Hematology/Autoimmune Hemolytic Anemia\|Autoimmune hemolytic anemia]], ABO incompatibility, Burns, Hypersplenism.|
 |**Schistocytes**|Helmet/triangular fragments from vascular impact|MAHA (DIC, HUS, TTP), Kasabach-Merritt syndrome, Artificial heart valves, Severe burns.|
 |**Acanthocytes**|Irregular, wide-based spicules (spur cells)|Liver disease, Abetalipoproteinemia, Hypothyroidism, Post-splenectomy.|
 |**Echinocytes**|Evenly distributed short spicules (burr cells)|Renal failure, PK deficiency, Liver disease, Dehydration, Artifact.|
-|**Teardrop Cells**|Dacrocytes; stretched during marrow exit|[[Hematology/Thalassemia\|Thalassemia]] major, Myelofibrosis, Bone marrow infiltration, Leukoerythroblastic reaction.|
+|**Teardrop Cells**|Dacrocytes; stretched during marrow exit|Thalassemia major, Myelofibrosis, Bone marrow infiltration, Leukoerythroblastic reaction.|
 |**Elliptocytes**|Oval or cigar-shaped erythrocytes|Hereditary elliptocytosis, Iron deficiency, Megaloblastic anemia, Sickle cell trait/disease.|
-|**Basophilic Stippling**|Aggregated ribosomal RNA (coarse or fine)|Lead poisoning (coarse), [[Hematology/Thalassemia\|Thalassemia]] (fine), Hemolytic anemias, Iron deficiency.|
+|**Basophilic Stippling**|Aggregated ribosomal RNA (coarse or fine)|Lead poisoning (coarse), Thalassemia (fine), Hemolytic anemias, Iron deficiency.|
 |**Howell-Jolly Bodies**|Densely stained nuclear DNA remnants|Asplenia/Hyposplenia, [[Hematology/Sickle Cell Disease\|Sickle cell disease]], Megaloblastic anemia, Severe IDA.|
-|**Nucleated RBCs**|Immature RBCs escaping marrow prematurely|Severe hemolysis ([[Hematology/Thalassemia\|Thalassemia]], Sickle cell), Hypoxia, Acute bleeding, Leukoerythroblastic reaction.|
+|**Nucleated RBCs**|Immature RBCs escaping marrow prematurely|Severe hemolysis (Thalassemia, Sickle cell), Hypoxia, Acute bleeding, Leukoerythroblastic reaction.|

@@ -59,7 +59,7 @@
 
 - Primary immunodeficiency diseases, including [[Infectious Diseases/Immunology/Severe Combined Immunodeficiency (SCID)\|Severe Combined Immunodeficiency (SCID)]], Wiskott-Aldrich syndrome, leukocyte adhesion deficiency, hyper-IgM syndrome, and chronic granulomatous disease.
 - Severe acquired [[Hematology/Aplastic Anemia\|aplastic anemia]] and inherited bone marrow failure syndromes such as [[Hematology/Fanconi Anemia\|Fanconi anemia]], dyskeratosis congenita, Shwachman-Diamond syndrome, and Diamond-Blackfan anemia.
-- Hemoglobinopathies, specifically [[Hematology/Thalassemia\|thalassemia]] major and severe [[Hematology/Sickle Cell Disease\|sickle cell disease]].
+- Hemoglobinopathies, specifically thalassemia major and severe [[Hematology/Sickle Cell Disease\|sickle cell disease]].
 - Inherited metabolic diseases, including mucopolysaccharidosis type 1 (Hurler syndrome) and adrenoleukodystrophy, to prevent irreversible neurologic damage.
 
 ## Patient Preparation (Conditioning Regimen)

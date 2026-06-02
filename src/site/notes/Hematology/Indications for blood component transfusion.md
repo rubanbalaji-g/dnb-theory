@@ -48,7 +48,7 @@ Neonatal physiology dictates distinct transfusion thresholds. Physiologic anemia
 
 Episodic transfusion indicated for overt stroke, transient pure red cell aplasia, splenic sequestration, acute chest syndrome, multiorgan failure, and preoperative optimization. Chronic transfusion therapy indicated for stroke prevention (abnormal transcranial doppler velocities), silent cerebral infarcts, recurrent acute chest syndrome, and pulmonary hypertension. Transfusion target necessitates maintaining hemoglobin s fraction <30% for stroke prevention. Extended red cell antigen matching (c, e, kell antigens) prevents high rates of alloimmunization.
 
-#### [[Hematology/Thalassemia\|thalassemia]] major
+#### thalassemia major
 
 Transfusion-dependent beta-thalassemia requires regular transfusions to suppress ineffective erythropoiesis, prevent bony deformities, and permit normal growth. Initiate regular transfusions for persistent hemoglobin <7.0 g/dl on two occasions separated by two weeks. Transfuse patients with hemoglobin >7.0 g/dl if exhibiting growth disturbance, facial bone changes, recurrent fractures, or severe extramedullary hematopoiesis. Pre-transfusion hemoglobin target maintained between 9.5-10.5 g/dl. Post-transfusion target 14-15 g/dl. Transfusion interval typical every 2-5 weeks.
 

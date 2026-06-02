@@ -2,7 +2,6 @@
 {"dg-publish":true,"uptext":"Back to Index (📈 Development and Growth)","uplink":"/development/developmental-pediatrics/","permalink":"/development/specific-learning-disability-sld/","dgPassFrontmatter":true}
 ---
 
-
 ### Definition and Epidemiology
 
 - Specific learning disability (SLD) is defined as a persistent impairment in reading (dyslexia), writing (dysgraphia), and/or arithmetic (dyscalculia) skills in an individual with preserved cognition, vision, hearing, and adequate opportunities.

@@ -29,7 +29,6 @@ Head circumference (HC) is a surrogate marker for brain volume. Brain growth is 
 * **Reference Charts:** WHO Growth Standards (0–5 years) and IAP/CDC charts (>5 years).
 
 ---
-
 ## 2. Definition of [[Neurology/Microcephaly\|Microcephaly]]
 [[Neurology/Microcephaly\|Microcephaly]] is a clinical sign, not a diagnosis, indicating a small head size relative to age and sex.
 
@@ -38,7 +37,6 @@ Head circumference (HC) is a surrogate marker for brain volume. Brain growth is 
 * **Relative [[Neurology/Microcephaly\|Microcephaly]]:** HC drops from a higher percentile to a lower percentile over time (crossing major centiles downward), even if absolute value is > -2 SD.
 
 ---
-
 ## 3. Etiology of [[Neurology/Microcephaly\|Microcephaly]]
 Classified based on timing (onset) and pathophysiology.
 
@@ -76,7 +74,6 @@ Classified based on timing (onset) and pathophysiology.
     * Premature fusion of sutures (e.g., sagittal, coronal) restricting growth.
 
 ---
-
 ## 4. Diagnostic Approach to a Child with [[Neurology/Microcephaly\|Microcephaly]]
 
 ### Step 1: Confirmation of [[Neurology/Microcephaly\|Microcephaly]]

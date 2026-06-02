@@ -44,7 +44,6 @@ Ataxia in children is classified based on the temporal course: Acute, Episodic, 
 4.  **Neoplastic:** Slow-growing astrocytoma.
 
 ---
-
 ## II. Investigations for Acute Onset Ataxia
 The goal is to differentiate benign self-limiting causes (ACA, intoxication) from life-threatening ones (Tumor, Stroke, [[Neurology/ADEM\|ADEM]]).
 
@@ -75,7 +74,6 @@ The goal is to differentiate benign self-limiting causes (ACA, intoxication) fro
 * **EEG:** If non-convulsive status is suspected (fluctuating responsiveness).
 
 ---
-
 ## III. Treatment of Acute Onset Ataxia
 Management depends entirely on the underlying etiology.
 

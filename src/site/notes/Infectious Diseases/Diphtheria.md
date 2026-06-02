@@ -85,7 +85,6 @@ Diagnosis is primarily clinical and treatment should not be delayed for laborato
 - **Contacts:** Close contacts should receive chemoprophylaxis (erythromycin or benzathine penicillin) and a booster dose of vaccine.
 
 ---
-
 # Diphtheria Myocarditis
 
 ### 1. Incidence and Pathophysiology
@@ -128,7 +127,6 @@ The onset of cardiac involvement is characteristically between **7 and 14 days**
 - **Prognosis:** Mortality in patients with toxic cardiomyopathy is high (35–60%). However, survivors usually recover complete cardiac function, although some may have permanent conduction defects.
 
 ---
-
 # Antitoxin Therapy in Diphtheria
 
 ### 1. Introduction

@@ -26,7 +26,6 @@ Clinically most useful for establishing differential diagnosis.
 5.  **Mixed:** Chronic headache with superimposed acute exacerbations.
 
 ---
-
 ### II. Causes of Headache in Children (Based on Temporal Pattern)
 
 | Pattern | Common Causes | Less Common / Serious Causes |
@@ -37,7 +36,6 @@ Clinically most useful for establishing differential diagnosis.
 | **Chronic Non-Progressive** | **Chronic Tension-Type Headache.**<br>**Psychogenic:** Conversion, Somatization.<br>**Analgesic Overuse Headache.** | **Refractive Errors.**<br>**Post-concussion syndrome.** |
 
 ---
-
 ### III. Approach to a 10-Year-Old Child with Headache
 
 #### Step 1: Detailed History (The "OLDCARTS" Mnemonic)

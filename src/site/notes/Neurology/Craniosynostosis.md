@@ -15,7 +15,7 @@
 * **Primary (Isolated):** Due to intrinsic defect in the suture (genetic/developmental). Most common.
 * **Secondary:** Due to underlying systemic pathology or mechanical constraint.
     * *Metabolic:* Hyperthyroidism, Rickets, Hypophosphatasia, Mucopolysaccharidosis.
-    * *Hematologic:* [[Hematology/Thalassemia\|Thalassemia]], Sickle cell anemia (marrow expansion).
+    * *Hematologic:* Thalassemia, Sickle cell anemia (marrow expansion).
     * *Mechanical:* [[Neurology/Microcephaly\|Microcephaly]] (failure of brain growth), shunted [[Neurology/Hydrocephalus\|hydrocephalus]] (over-drainage).
     * *Teratogens:* Valproate, Phenytoin, Fluconazole.
 

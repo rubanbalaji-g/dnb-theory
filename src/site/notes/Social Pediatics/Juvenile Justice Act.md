@@ -26,7 +26,6 @@ The Act divides children coming into contact with the system into two distinct l
 * **The 16-18 Year Exception:** If a child aged 16 to 18 years commits a *heinous offense*, the JJB conducts a preliminary assessment of their physical and mental capacity to understand the consequences of the crime. Based on this, the JJB may transfer the case to a Children's Court to try the juvenile as an adult.
 
 ---
-
 ## The Pediatrician’s View and Role
 
 The pediatrician is a crucial interface between the healthcare system, law enforcement, and the judicial system in ensuring the child's rights and well-being are protected.

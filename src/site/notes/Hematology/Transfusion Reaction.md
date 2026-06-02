@@ -113,7 +113,7 @@ Stringent donor screening and nucleic acid amplification testing markedly reduce
 
 - Pathophysiology involves cumulative [[Emergencies/Iron Toxicity\|iron toxicity]] since human physiology lacks active iron excretion mechanisms.
 - Each milliliter of packed red blood cells delivers approximately 1 mg of elemental iron.
-- Condition uniquely affects chronically transfused patients ([[Hematology/Thalassemia\|thalassemia]] major, [[Hematology/Sickle Cell Disease\|sickle cell disease]], bone marrow failure syndromes).
+- Condition uniquely affects chronically transfused patients (thalassemia major, [[Hematology/Sickle Cell Disease\|sickle cell disease]], bone marrow failure syndromes).
 - Organ toxicity targets:
     - Cardiac: Myocardial iron deposition causes cardiomyopathy, arrhythmias, and intractable heart failure; leading cause of mortality.
     - Hepatic: Portal fibrosis, regenerative nodules, cirrhosis, eventual liver failure.

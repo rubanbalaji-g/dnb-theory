@@ -36,7 +36,6 @@ Symptoms depend on the size, location, and status (intact vs. ruptured) of the c
 3. **Aspiration:** Diagnostic aspiration is generally **contraindicated** due to risks of anaphylaxis and spillage (secondary dissemination), unless done as part of the PAIR procedure.
 
 ---
-
 ### Management
 
 Management is stage-specific and multimodal, involving chemotherapy, percutaneous procedures, and surgery.

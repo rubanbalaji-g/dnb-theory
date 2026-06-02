@@ -73,4 +73,4 @@
 - Family history of recurrent miscarriages, stillbirths, congenital anomalies, intellectual disability, metabolic disease, or sudden infant death.
 - Abnormal prenatal screening or diagnostic test results, or identification of fetal malformations by ultrasonography during pregnancy.
 - Consanguineous marriage, significant teratogen exposure, or advanced parental age.
-- Carrier screening in high-risk ethnic groups, cancer predisposition syndromes presenting in childhood, or [[newborn screening\|newborn screening]] abnormalities.
+- Carrier screening in high-risk ethnic groups, cancer predisposition syndromes presenting in childhood, or [[Neonatalogy/Newborn Screening\|newborn screening]] abnormalities.

@@ -2,7 +2,6 @@
 {"dg-publish":true,"uplink":"/id/","uptext":"Back to Index (Infectious Diseases)","permalink":"/infectious-diseases/dengue/","dgPassFrontmatter":true}
 ---
 
-
 ## Approach to [[Infectious Diseases/Dengue\|dengue]]
   <!-- htmlmin:ignore -->
 ```mermaid

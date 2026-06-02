@@ -74,10 +74,9 @@
 - **Clinical:** Goitrous CH. Severity varies with dietary iodine intake.
 
 ---
-
 ## DIAGNOSTIC EVALUATION OF DYSHORMONOGENESIS
 
-### 1. [[Newborn Screening\|Newborn Screening]] and Initial Labs
+### 1. [[Neonatalogy/Newborn Screening\|Newborn Screening]] and Initial Labs
 
 - **Screening:** Detected via high TSH (>15-30 mU/L) on filter paper spot.
 - **Confirmatory Serum:** Elevated TSH, low Free T4 (FT4).
@@ -148,7 +147,7 @@ Genetic defects in transcription factors essential for thyroid morphogenesis acc
 
 ## Investigations & Diagnosis
 
-- **[[Newborn Screening\|Newborn Screening]]:** Hallmark finding is elevated TSH with low free T4 (FT4).
+- **[[Neonatalogy/Newborn Screening\|Newborn Screening]]:** Hallmark finding is elevated TSH with low free T4 (FT4).
 - **Radionuclide Scintigraphy (99mTc or 123I):** Gold standard imaging. Demonstrates exact location of ectopic tissue or confirms complete absence of uptake (agenesis, TSHR defects, maternal blocking antibodies).
 - **Neck Ultrasound:** Confirms absence of normally located gland. Highly user-dependent; frequently misses ectopic glands.
 - **Serum Thyroglobulin (Tg):** Low or undetectable in true agenesis and TSHR defects; characteristically elevated in ectopy.

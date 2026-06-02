@@ -83,7 +83,7 @@ Used to obtain fetal tissue for genetic/genomic analysis when screening is abnor
 
 | Procedure | Timing | Tissue | Indications |
 | :--- | :--- | :--- | :--- |
-| **CVS** | 10–13 wks | Trophoblast | Early genetic diagnosis ([[Hematology/Thalassemia\|Thalassemia]], SMA). |
+| **CVS** | 10–13 wks | Trophoblast | Early genetic diagnosis (Thalassemia, SMA). |
 | **[[Neonatalogy/Amniocentesis\|Amniocentesis]]** | 15–20 wks | Amniocytes | Karyotype, CMA, Infection (CMV), Enzyme assays. |
 | **[[Neonatalogy/Cordocentesis\|Cordocentesis]]** | >18 wks | Fetal Blood | Rapid karyotype (late gestation), Fetal anemia. |
 

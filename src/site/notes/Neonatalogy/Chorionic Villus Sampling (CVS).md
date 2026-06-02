@@ -32,7 +32,7 @@ Used when **early diagnosis** (First Trimester) is desired for termination or ma
 
 **B. Molecular (DNA Analysis)**
 * **Single Gene Disorders:** Ideally suited for families with known history of:
-    * **[[Hematology/Thalassemia\|Thalassemia]] Major** (Commonest indication in India).
+    * **Thalassemia Major** (Commonest indication in India).
     * [[Neuromuscular/Spinal Muscular Atrophy\|Spinal Muscular Atrophy]] (SMA).
     * Duchenne Muscular Dystrophy (DMD).
     * [[Respiratory/Cystic Fibrosis\|Cystic Fibrosis]].

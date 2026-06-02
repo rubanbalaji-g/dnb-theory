@@ -12,7 +12,6 @@ The following table outlines the features of Partial (Focal) Epilepsy, classifie
 | **Focal to Bilateral Tonic-Clonic Seizures**<br>(Formerly: Secondarily Generalized) | **Progression:** spread of discharge from a focal focus to bilateral networks (corpus callosum/thalamocortical). | **Consciousness:** Initially preserved (aura) then lost.<br>**Evolution:** Focal onset $\rightarrow$ Generalization.<br>**Post-ictal:** Deep sleep, Todd’s paresis (transient focal weakness). | **Onset:** Asymmetrical tonic posturing (Figure of 4).<br>**Progression:** Bilateral symmetric tonic stiffening followed by rhythmic clonic jerking. | **Onset:** Focal spikes or sharp waves.<br>**Progression:** Rapid generalization to high-amplitude polyspikes and slow waves obscuring focal onset. |
 
 ---
-
 ### Treatment of Simple [[Neurology/Partial Seizures\|Partial Seizures]] (Focal Aware Seizures)
 
 **1. General Management Principles**

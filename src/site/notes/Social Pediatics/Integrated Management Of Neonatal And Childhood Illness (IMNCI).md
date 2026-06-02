@@ -33,7 +33,6 @@ IMNCI uses a universal three-tier color-coded triage system to guide immediate a
 | <span style="color: #4CAF50; font-weight:bold;">GREEN (Mild)</span>      | Safe    | Simple advice and home care. Management by the caregiver at **Home**.                                                                                               |
 
 ---
-
 ## Part 1: Management Of The Sick Young Infant (0 Up To 2 Months)
 
 The assessment of the young infant involves checking for Possible Severe Bacterial Infection (PSBI), jaundice, diarrhea, and feeding problems.
@@ -74,7 +73,6 @@ The assessment of the young infant involves checking for Possible Severe Bacteri
 | No feeding problem AND Weight for age is not low. | <span style="color: #4CAF50; font-weight:bold;">NO FEEDING PROBLEM</span> | - Praise the mother.<br>- Advise on exclusive breastfeeding. |
 
 ---
-
 ## Part 2: Management Of The Sick Child (2 Months Up To 5 Years)
 
 ### 1. Check For General Danger Signs
@@ -150,7 +148,6 @@ Before assessing specific symptoms, ALWAYS check for General Danger Signs. The p
 | Some palmar pallor. | <span style="color: #ffd700; font-weight:bold;">ANEMIA</span> | - Give Iron and Folic Acid (IFA) drops/syrup.<br>- Give Albendazole if child > 1 year.<br>- Follow up in 14 days. |
 
 ---
-
 ## Pre-Referral Treatment Principles
 When a child is classified in the <span style="color: #ff1493; font-weight:bold;">PINK</span> category, immediate life-saving interventions must be provided before transfer to prevent mortality during transit.
 - **First Dose of Appropriate Antibiotic:** Usually IM Ampicillin + Gentamicin for infants, or IM Ceftriaxone.

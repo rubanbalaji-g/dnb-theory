@@ -47,7 +47,6 @@ There are two main types of F-75: Milk-based and Cereal-based. Cereal-based F-75
 _[Sources: 232, 361, 434]_
 
 ---
-
 ### 2. F-100 (Catch-up Diet)
 
 F-100 is the therapeutic diet used during the **Rehabilitation Phase** (usually from Week 2 onwards) after the child has stabilized, regained appetite, and lost edema.
@@ -87,7 +86,6 @@ F-100 is the therapeutic diet used during the **Rehabilitation Phase** (usually 
 _[Sources: 233, 440]_
 
 ---
-
 ### 3. Comparison of F-75 and F-100
 
 |Feature|F-75 (Stabilization)|F-100 (Rehabilitation)|

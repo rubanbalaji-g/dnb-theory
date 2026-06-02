@@ -16,7 +16,7 @@
 |Category|Specific Causes|
 |:--|:--|
 |**Inadequate Intake**|Unfortified goat milk feeding, severe malnutrition (marasmus, kwashiorkor), delayed weaning, prolonged heating/boiling of food.|
-|**Increased Demand**|Rapid growth (prematurity, infancy, pregnancy), chronic hemolytic anemia (sickle cell, [[Hematology/Thalassemia\|thalassemia]], pyruvate kinase deficiency), hypermetabolic states (infections, hyperthyroidism), extensive skin disease (psoriasis).|
+|**Increased Demand**|Rapid growth (prematurity, infancy, pregnancy), chronic hemolytic anemia (sickle cell, thalassemia, pyruvate kinase deficiency), hypermetabolic states (infections, hyperthyroidism), extensive skin disease (psoriasis).|
 |**Defective Absorption**|[[Gastrointestinal/Celiac disease\|Celiac disease]], tropical sprue, inflammatory bowel disease, chronic diarrheal states, jejunal resection, enteroenteric fistulas.|
 |**Drug-Induced**|Folate antagonists (methotrexate, pyrimethamine, trimethoprim, pentamidine), anticonvulsants (phenytoin, phenobarbital), oral contraceptives, sulfasalazine.|
 |**Genetic/Metabolic**|Hereditary folate malabsorption (mutations in proton-coupled folate transporter _SLC46A1_), methylenetetrahydrofolate reductase (MTHFR) deficiency, glutamate formiminotransferase deficiency.|

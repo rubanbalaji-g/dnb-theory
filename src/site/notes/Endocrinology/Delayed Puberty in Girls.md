@@ -20,7 +20,7 @@ Characterized by absent or diminished gonadotropin secretion from hypothalamic-p
 - **Constitutional Delay of Growth and Puberty (CDGP):** Extreme variant of normal pubertal timing. Strong genetic basis.
 - **Nutritional Disorders:** Malnutrition, anorexia nervosa, bulimia, undernutrition.
 - **Exercise-Induced:** Athletic amenorrhea (excessive physical training/energy deficit).
-- **Systemic Chronic Illness:** Renal failure, liver disease, [[Gastrointestinal/Celiac disease\|celiac disease]], inflammatory bowel disease, [[Respiratory/Cystic Fibrosis\|cystic fibrosis]], [[Hematology/Thalassemia\|thalassemia]], [[Hematology/Sickle Cell Disease\|sickle cell disease]], renal tubular acidosis.
+- **Systemic Chronic Illness:** Renal failure, liver disease, [[Gastrointestinal/Celiac disease\|celiac disease]], inflammatory bowel disease, [[Respiratory/Cystic Fibrosis\|cystic fibrosis]], thalassemia, [[Hematology/Sickle Cell Disease\|sickle cell disease]], renal tubular acidosis.
 - **Endocrinopathies:** Hypothyroidism, hyperprolactinemia, poorly controlled Type 1 Diabetes Mellitus, [[Endocrinology/Cushing Syndrome\|Cushing syndrome]].
 
 #### Permanent / Isolated (Irreversible)

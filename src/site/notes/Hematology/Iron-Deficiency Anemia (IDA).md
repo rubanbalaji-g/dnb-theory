@@ -89,7 +89,7 @@
 
 - Hemoglobin/Hematocrit: Reduced below age and sex-matched normative limits.
 - Red Cell Indices: Mean Corpuscular Volume (MCV), Mean Corpuscular Hemoglobin (MCH), and Mean Corpuscular Hemoglobin Concentration (MCHC) significantly reduced.
-- Red Cell Distribution Width (RDW): Elevated (>14.5%). Indicates marked anisocytosis. Differentiates from [[Hematology/Thalassemia\|thalassemia]] trait where RDW remains normal (<13%).
+- Red Cell Distribution Width (RDW): Elevated (>14.5%). Indicates marked anisocytosis. Differentiates from thalassemia trait where RDW remains normal (<13%).
 - Reticulocyte Count: Relative percentage may appear elevated, but absolute or corrected reticulocyte [[Statistics/Index\|index]] is low or normal (<1.5%), reflecting hypoproliferative marrow response.
 - Platelet Count: Variable. Reactive thrombocytosis common due to [[Hematology/Erythropoietin\|erythropoietin]] cross-reactivity. Severe IDA may present with thrombocytopenia.
 
@@ -154,7 +154,7 @@ _Note: Diagnosis of beta-thalassemia trait via elevated HbA2 may be masked by co
 
 - Bone marrow megaloblastosis reverses within days, but not applicable for isolated IDA. Reticulocyte crisis observed at 5 to 10 days post-initiation.
 - Hemoglobin concentration rises 0.25 to 0.4 g/dL/day initially. Target minimum increase of 1 g/dL at 1 month of therapy.
-- Failure to respond mandates reassessment: Evaluate compliance, inadequate dose, persistent occult hemorrhage, concurrent malabsorption ([[Gastrointestinal/Celiac disease\|celiac disease]]), concurrent inflammation, incorrect diagnosis ([[Hematology/Thalassemia\|thalassemia]] trait), or [[Hematology/IRIDA\|IRIDA]].
+- Failure to respond mandates reassessment: Evaluate compliance, inadequate dose, persistent occult hemorrhage, concurrent malabsorption ([[Gastrointestinal/Celiac disease\|celiac disease]]), concurrent inflammation, incorrect diagnosis (thalassemia trait), or [[Hematology/IRIDA\|IRIDA]].
 
 ### Parenteral Iron Therapy
 

@@ -62,7 +62,6 @@ Human milk is "species-specific," uniquely adapted to meet the nutritional, immu
 |**Iron**|0.15 mg (High absorption)|0.1 mg (Poor absorption)|
 
 ---
-
 ## Difference in Milk Composition: Preterm vs. Term
 
 Mothers delivering prematurely produce "Preterm Milk" (PTM), which is biologically adapted to meet the rapid growth needs and immature physiology of the preterm infant. This difference typically persists for about 4 weeks.
@@ -89,7 +88,6 @@ Mothers delivering prematurely produce "Preterm Milk" (PTM), which is biological
 - **Enhanced Protection:** PTM contains higher concentrations of **Secretory IgA (sIgA)**, lysozyme, and lactoferrin compared to term milk. This provides enhanced protection against Necrotizing Enterocolitis (NEC) and sepsis, to which preterms are highly susceptible.
 
 ---
-
 ## Immunological Factors in Human Milk
 
 Human milk acts as a "living fluid," providing [[Infectious Diseases/Immunology/Passive Immunity\|Passive Immunity]] and modulating the infant's active immune system. These factors are absent in formula.

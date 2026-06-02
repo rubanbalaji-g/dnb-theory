@@ -83,7 +83,6 @@ The metabolic system is fragile. Feeding must be started slowly to avoid **[[Nut
 - **Frequency:** Small, frequent feeds every 2 hours (12 feeds/day) initially to prevent hypoglycemia and overloading the gut. Use a cup and spoon (katori-spoon), never a bottle.
 
 ---
-
 ### Phase II: Rehabilitation (Weeks 2–6)
 
 #### Step 8: Achieve Catch-up Growth

@@ -53,7 +53,7 @@
 
 |Condition|Specific Transfusion Precautions|
 |:--|:--|
-|**[[Hematology/Thalassemia\|Thalassemia]]**|Match ABO, Cc, Ee, and Kell antigens to reduce alloimmunization risk. - Utilize leukocyte-depleted packed red cells.|
+|**Thalassemia**|Match ABO, Cc, Ee, and Kell antigens to reduce alloimmunization risk. - Utilize leukocyte-depleted packed red cells.|
 |**[[Hematology/Sickle Cell Disease\|Sickle Cell Disease]]**|Provide extended antigen-matched blood for C, E, and K antigens. - Limit simple transfusion volume to 10-15 mL/kg. - Restrict post-transfusion hemoglobin to maximum 10 g/dL to avoid hyperviscosity syndrome. - Monitor for delayed hemolytic [[Hematology/Transfusion Reaction\|transfusion reaction]]; clinically mimics vaso-occlusive crisis due to anamnestic humoral response.|
 |**[[Hematology/Glucose-6-Phosphate Dehydrogenase Deficiency\|Glucose-6-Phosphate Dehydrogenase Deficiency]]**|Transfuse packed red blood cells for acute hemolysis with hemoglobin below 7 g/dL. - Transfuse for persistent hemoglobinuria with hemoglobin below 9 g/dL.|
 

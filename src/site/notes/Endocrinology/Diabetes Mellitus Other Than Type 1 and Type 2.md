@@ -2,7 +2,6 @@
 {"dg-publish":true,"uptext":"Back to Index (🧪Endocrinology)","uplink":"/endocrinology/endocrinology/","permalink":"/endocrinology/diabetes-mellitus-other-than-type-1-and-type-2/","dgPassFrontmatter":true}
 ---
 
-
 ## Genetic Defects of Beta-Cell Function: MODY
 
 ### Key Characteristics

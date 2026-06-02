@@ -78,7 +78,7 @@ Often associated with Pancreatic Sufficiency and milder lung disease.
 - Should match one clinical and one laboratory criteria
 	- Clinical criteria
 		- Clinical suspicion of CF – [[Respiratory/Recurrent Pneumonia\|recurrent pneumonia]], Meconium ileus in the first 24 hours, failure to thrive, steatorrhea, [[Respiratory/Nasal Polyps\|nasal polyps]]
-		- [[Newborn screening\|Newborn screening]] test positive (positive immunoreactive trypsinogen test)
+		- [[Neonatalogy/Newborn Screening\|Newborn screening]] test positive (positive immunoreactive trypsinogen test)
 		- Family history of cystic fibrosis
 	- Laboratory criteria
 		- 2 different CF mutations

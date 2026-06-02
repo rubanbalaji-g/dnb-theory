@@ -96,7 +96,6 @@
 |**P2 Cortical Branches**|Medial temporal lobes, occipital lobes, calcarine cortex, visual association areas.|
 
 ---
-
 ## SMALL-VESSEL / PENETRATING MICROCIRCULATION
 
 - Originate from MCA stem, Circle of Willis (A1, anterior/posterior communicating, P1 segments), basilar, vertebral arteries.
@@ -105,7 +104,6 @@
 - Highly susceptible to atherothrombotic occlusion or lipohyalinotic thickening causing lacunar infarcts.
 
 ---
-
 ## REGIONAL BRAINSTEM BLOOD SUPPLY
 
 - Extensive overlapping arterial supply dictates distinct clinical stroke syndromes based on specific occlusions.

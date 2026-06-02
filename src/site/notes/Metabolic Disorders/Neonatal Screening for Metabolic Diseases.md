@@ -2,8 +2,8 @@
 {"dg-publish":true,"uplink":"/metabolic-disorders/metabolic-disorders/","uptext":"Back to Index (Metabolic Disorders)","permalink":"/metabolic-disorders/neonatal-screening-for-metabolic-diseases/","dgPassFrontmatter":true}
 ---
 
-## 1. Introduction and Role of [[Newborn Screening\|Newborn Screening]]
-[[Newborn screening\|Newborn screening]] (NBS) is a comprehensive public health strategy aimed at the early identification of infants affected by certain genetic, metabolic, hormonal, and functional conditions. 
+## 1. Introduction and Role of [[Neonatalogy/Newborn Screening\|Newborn Screening]]
+[[Neonatalogy/Newborn Screening\|Newborn screening]] (NBS) is a comprehensive public health strategy aimed at the early identification of infants affected by certain genetic, metabolic, hormonal, and functional conditions. 
 * **Primary Role:** Secondary prevention. It aims to detect disorders **presymptomatically** (before clinical signs appear) to initiate timely intervention.
 * **Public Health Impact:**
     * **Reduction of Mortality:** Prevents neonatal and infant deaths caused by metabolic crises (e.g., salt wasting in CAH, hyperammonemia in UCDs).

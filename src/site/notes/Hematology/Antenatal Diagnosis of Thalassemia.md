@@ -12,7 +12,7 @@
 
 ## Pathophysiological Basis for Antenatal Screening
 
-### Alpha [[Hematology/Thalassemia\|Thalassemia]] Syndromes
+### Alpha Thalassemia Syndromes
 
 - Alpha-globin gene deletions reduce alpha-chain synthesis.
 - Four-gene deletion causes hemoglobin Barts hydrops fetalis.
@@ -21,7 +21,7 @@
 - Results in death in utero or shortly after birth.
 - [[Neonatalogy/Antenatal Diagnosis\|Antenatal diagnosis]] enables life-saving fetal packed red blood cell transfusions.
 
-### Beta [[Hematology/Thalassemia\|Thalassemia]] Syndromes
+### Beta Thalassemia Syndromes
 
 - Impaired beta-globin chain production causes alpha-to-beta chain imbalance.
 - Absent beta-chain synthesis leads to beta0-thalassemia.
@@ -70,9 +70,9 @@
 
 |Target Syndrome|Molecular Technique|Diagnostic Target|
 |:--|:--|:--|
-|**Beta [[Hematology/Thalassemia\|thalassemia]]**|End point polymerase chain reaction|Common specific mutations.|
-|**Beta [[Hematology/Thalassemia\|thalassemia]]**|Sanger sequencing|Full beta-globin gene analysis.|
-|**Alpha [[Hematology/Thalassemia\|thalassemia]]**|Multiplex ligation probe amplification|Alpha-globin gene deletions and mutations.|
+|**Beta thalassemia**|End point polymerase chain reaction|Common specific mutations.|
+|**Beta thalassemia**|Sanger sequencing|Full beta-globin gene analysis.|
+|**Alpha thalassemia**|Multiplex ligation probe amplification|Alpha-globin gene deletions and mutations.|
 
 ### Specific Targeted Mutations
 

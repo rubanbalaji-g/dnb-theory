@@ -64,7 +64,7 @@
 
 ### 4. Other Potential Uses
 
-- **Hemolytic Anemias:** Used as an adjunct in G6PD deficiency and [[Hematology/Thalassemia\|Thalassemia]] to reduce oxidative hemolysis.
+- **Hemolytic Anemias:** Used as an adjunct in G6PD deficiency and Thalassemia to reduce oxidative hemolysis.
 - **Skin Conditions:** Topical or oral use for wound healing and reduction of scarring (e.g., phrynoderma).
 - **Fatty Liver:** Investigated for use in Non-Alcoholic Fatty Liver Disease (NAFLD).
 

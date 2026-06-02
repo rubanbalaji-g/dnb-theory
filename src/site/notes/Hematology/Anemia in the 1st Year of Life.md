@@ -97,15 +97,15 @@
 
 |MCV Classification|Low MCV (Microcytic)|Normal MCV (Normocytic)|High MCV (Macrocytic)|
 |:--|:--|:--|:--|
-|**Low/Normal Reticulocyte**|Iron deficiency, [[Hematology/Thalassemia\|Thalassemia]] trait, Lead poisoning, Chronic disease.|TEC, Renal failure, Bone marrow infiltration, Infection.|Folate/B12 deficiency, DBA, Hypothyroidism, Down syndrome.|
-|**High Reticulocyte**|[[Hematology/Thalassemia\|Thalassemia]] syndromes.|Acute bleeding, Membrane defects (spherocytosis), Enzyme defects (G6PD), Hemoglobinopathies.|Active hemolysis (marked reticulocytosis), Dyserythropoietic anemia.|
+|**Low/Normal Reticulocyte**|Iron deficiency, Thalassemia trait, Lead poisoning, Chronic disease.|TEC, Renal failure, Bone marrow infiltration, Infection.|Folate/B12 deficiency, DBA, Hypothyroidism, Down syndrome.|
+|**High Reticulocyte**|Thalassemia syndromes.|Acute bleeding, Membrane defects (spherocytosis), Enzyme defects (G6PD), Hemoglobinopathies.|Active hemolysis (marked reticulocytosis), Dyserythropoietic anemia.|
 
 |Peripheral Smear Finding|Associated Conditions|
 |:--|:--|
 |**Spherocytes**|Hereditary spherocytosis, ABO incompatibility, [[Hematology/Autoimmune Hemolytic Anemia\|Autoimmune hemolytic anemia]].|
 |**Schistocytes**|Microangiopathic hemolytic anemia, [[Hematology/Disseminated Intravascular Coagulation\|Disseminated intravascular coagulation]], Hemolytic uremic syndrome.|
-|**Target Cells**|[[Hematology/Thalassemia\|Thalassemia]], Hemoglobin C disease, Liver disease, Post-splenectomy.|
-|**Heinz Bodies**|[[Hematology/Thalassemia\|Thalassemia]], G6PD deficiency, Unstable hemoglobins.|
+|**Target Cells**|Thalassemia, Hemoglobin C disease, Liver disease, Post-splenectomy.|
+|**Heinz Bodies**|Thalassemia, G6PD deficiency, Unstable hemoglobins.|
 |**Pyknocytes**|Infantile pyknocytosis, [[Nutrition/Vitamin E Deficiency\|Vitamin E deficiency]].|
 
 |Differentiating Feature|[[Hematology/Diamond-Blackfan anemia (DBA)\|Diamond-Blackfan Anemia (DBA)]]|Transient Erythroblastopenia of Childhood (TEC)|

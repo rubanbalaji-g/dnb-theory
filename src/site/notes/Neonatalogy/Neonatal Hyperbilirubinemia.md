@@ -160,7 +160,6 @@ These thresholds are based on expert opinion rather than strong evidence on when
 | | Exchange | 15 | 16 | 16 | 17 | 18.1 | 18.7 | 19.3 | 19.9 |
 
 ---
-
 ### Guidelines For Treatment of Jaundice in Neonates $\ge$35 wks
 *(Adapted from AAP Guidelines, Pediatrics 2004)*
 
@@ -190,7 +189,6 @@ These thresholds are based on expert opinion rather than strong evidence on when
 |                  | Exchange     |    25    |     22      |    19     |
 
 ---
-
 ### Risk Categories Definitions ($\ge$35 wks)
 * **Low Risk:** $\ge$38 wks & well
 * **Medium risk:** $\ge$38 wks + risk factors **OR** 35-37 wks & well

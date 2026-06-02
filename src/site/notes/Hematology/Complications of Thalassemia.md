@@ -59,7 +59,7 @@
 #### Cardiac complications
 
 - Myocardial iron deposition causes heart failure and arrhythmias.
-- Represents primary cause of mortality in [[Hematology/Thalassemia\|thalassemia]] major.
+- Represents primary cause of mortality in thalassemia major.
 - **Diagnosis**:
     - Cardiac T2 star magnetic resonance imaging.
     - Value less than 10 ms indicates severe iron loading and high cardiac risk.

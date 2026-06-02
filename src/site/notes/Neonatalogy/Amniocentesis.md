@@ -16,7 +16,7 @@
 * **Abnormal Screening:** High-risk NIPT/NIPS, abnormal Combined/Quadruple test.
 * **Ultrasound Anomalies:** Detection of soft markers or structural defects.
 * **Previous History:** Previous child with chromosomal abnormality or metabolic disorder.
-* **Parental Carrier Status:** Balanced translocation or autosomal recessive trait (e.g., [[Hematology/Thalassemia\|Thalassemia]], SMA).
+* **Parental Carrier Status:** Balanced translocation or autosomal recessive trait (e.g., Thalassemia, SMA).
 * **Biochemical:** Elevated maternal serum AFP (to test amniotic AFP + Acetylcholinesterase for NTDs).
 
 ### B. Infectious (Fetal Infection)

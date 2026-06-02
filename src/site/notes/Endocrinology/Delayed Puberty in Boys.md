@@ -31,7 +31,7 @@
 
 - **Pathogenesis:** Adaptive suppression of HPG axis to conserve energy during chronic stress or negative energy balance.
 - **Nutritional:** Anorexia nervosa, malnutrition.
-- **Systemic Illness:** [[Gastrointestinal/Celiac disease\|Celiac disease]], inflammatory bowel disease, [[Respiratory/Cystic Fibrosis\|cystic fibrosis]], chronic renal failure, sickle cell anemia, [[Hematology/Thalassemia\|thalassemia]].
+- **Systemic Illness:** [[Gastrointestinal/Celiac disease\|Celiac disease]], inflammatory bowel disease, [[Respiratory/Cystic Fibrosis\|cystic fibrosis]], chronic renal failure, sickle cell anemia, thalassemia.
 - **Endocrine:** Hypothyroidism, poorly controlled diabetes mellitus, hyperprolactinemia.
 - **Excessive Exercise:** Elite athletes, wrestlers ("making weight").
 ### Persistent Hypogonadotropic Hypogonadism (HH)

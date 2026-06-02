@@ -2,7 +2,6 @@
 {"dg-publish":true,"uptext":"Back to Index (🧬 Genetics)","uplink":"/genetics/genetics/","permalink":"/genetics/translocations-in-genetics-and-their-inheritance-patterns/","dgPassFrontmatter":true}
 ---
 
-
 ## Definition And Classification
 
 - A translocation is a chromosomal abnormality caused by the rearrangement of parts between non-homologous chromosomes.

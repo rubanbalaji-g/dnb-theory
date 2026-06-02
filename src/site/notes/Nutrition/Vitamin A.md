@@ -2,7 +2,6 @@
 {"dg-publish":true,"uplink":"/nutrition/nutrition/","uptext":"Back to Index (Nutrition)","permalink":"/nutrition/vitamin-a/","dgPassFrontmatter":true}
 ---
 
-
 ## Metabolism
 ![](https://i.ibb.co/bgpjnq8j/Vitamin-A-pathway-excalidraw.png)
 ## Functions of [[Nutrition/Vitamin A\|Vitamin A]] in the Human Body

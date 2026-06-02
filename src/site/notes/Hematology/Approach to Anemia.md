@@ -53,7 +53,7 @@
 
 - Membrane defects: Hereditary spherocytosis, elliptocytosis, stomatocytosis, pyknocytosis.
 - Enzymatic defects: Pyruvate kinase deficiency, Glucose-6-phosphate dehydrogenase (G6PD) deficiency.
-- Hemoglobin defects: [[Hematology/Thalassemia\|Thalassemia]] syndromes, [[Hematology/Sickle Cell Disease\|sickle cell disease]], unstable hemoglobins.
+- Hemoglobin defects: Thalassemia syndromes, [[Hematology/Sickle Cell Disease\|sickle cell disease]], unstable hemoglobins.
 
 #### Extracorpuscular (Extrinsic) Defects
 
@@ -61,17 +61,16 @@
 - Non-immune: Infection ([[Infectious Diseases/Malaria\|malaria]], sepsis, CMV), microangiopathic (HUS, TTP, DIC, Kasabach-Merritt syndrome), hypersplenism.
 
 ---
-
 ## Diagnostic Investigations
 
 ### Clinical Evaluation
 
 #### History
 
-- Age of onset: Physiological anemia (2 months); [[Hematology/Thalassemia\|Thalassemia]] major (9-12 months); Diamond-Blackfan anemia (newborn/infancy).
+- Age of onset: Physiological anemia (2 months); Thalassemia major (9-12 months); Diamond-Blackfan anemia (newborn/infancy).
 - Dietary history: Formula, cow milk, weaning foods, [[Development/Pica\|pica]].
 - Prematurity, perinatal blood loss, neonatal jaundice.
-- Family history: Inherited bone marrow failure, [[Hematology/Sickle Cell Disease\|sickle cell disease]], [[Hematology/Thalassemia\|thalassemia]], gallstones, splenectomy.
+- Family history: Inherited bone marrow failure, [[Hematology/Sickle Cell Disease\|sickle cell disease]], thalassemia, gallstones, splenectomy.
 - Medications, toxic exposures, chronic illnesses.
 
 #### Physical Examination
@@ -93,7 +92,7 @@
 
 |MCV Category|Common Etiologies|
 |:--|:--|
-|**Microcytic** (Low MCV)|Iron deficiency, [[Hematology/Thalassemia\|Thalassemia]] trait/major, Lead toxicity, Anemia of chronic disease, Sideroblastic anemia, Copper deficiency.|
+|**Microcytic** (Low MCV)|Iron deficiency, Thalassemia trait/major, Lead toxicity, Anemia of chronic disease, Sideroblastic anemia, Copper deficiency.|
 |**Normocytic** (Normal MCV)|Acute blood loss, Infection, Renal failure, Liver disease, Malignancy, [[Hematology/Aplastic Anemia\|Aplastic anemia]], Transient erythroblastopenia of childhood (TEC), Bone marrow infiltration, Hemolysis (RBC enzyme/membrane defects).|
 |**Macrocytic** (High MCV)|Normal newborn, B12/Folate deficiency, Diamond-Blackfan anemia, [[Hematology/Fanconi Anemia\|Fanconi anemia]], Liver disease, Hypothyroidism, Down syndrome, Increased erythropoiesis (reticulocytosis), Drugs.|
 
@@ -107,13 +106,13 @@
 |Morphologic Finding|Associated Diagnostic Conditions|
 |:--|:--|
 |**Spherocytes**|Hereditary spherocytosis, immune hemolytic anemia, hypersplenism.|
-|**Target Cells**|[[Hematology/Thalassemia\|Thalassemia]], Hemoglobin C/E disease, liver disease, postsplenectomy, severe iron deficiency.|
+|**Target Cells**|Thalassemia, Hemoglobin C/E disease, liver disease, postsplenectomy, severe iron deficiency.|
 |**Schistocytes**|Hemolytic-uremic syndrome, TTP, DIC, Kasabach-Merritt syndrome.|
 |**Sickled Cells**|Sickle cell anemias (SS, SC, S$\beta$-thalassemia).|
 |**Elliptocytes**|Hereditary elliptocytosis, iron deficiency, megaloblastic anemia.|
 |**Dacrocytes (Teardrop)**|Myelodysplasia, leukemia, [[Hematology/Neuroblastoma\|neuroblastoma]], marrow infiltration.|
 |**Howell-Jolly Bodies**|Asplenia, hyposplenia, severe iron deficiency.|
-|**Heinz Bodies**|Normal newborn, [[Hematology/Thalassemia\|thalassemia]], asplenia, [[Gastrointestinal/Chronic Liver Disease\|chronic liver disease]], Heinz body hemolytic anemia.|
+|**Heinz Bodies**|Normal newborn, thalassemia, asplenia, [[Gastrointestinal/Chronic Liver Disease\|chronic liver disease]], Heinz body hemolytic anemia.|
 
 ### Second-Tier Specific Investigations
 

@@ -14,7 +14,7 @@
 ### Historical Clues
 
 - Family history reveals anemia, jaundice, early-onset gallstones, splenectomy, or cholecystectomy.
-- Ethnic origin indicates specific risks: sickle trait in African ancestry, [[Hematology/Thalassemia\|thalassemia]] trait in Mediterranean ancestry, [[Hematology/Glucose-6-Phosphate Dehydrogenase Deficiency\|glucose-6-phosphate dehydrogenase deficiency]] in Sephardic Jews.
+- Ethnic origin indicates specific risks: sickle trait in African ancestry, thalassemia trait in Mediterranean ancestry, [[Hematology/Glucose-6-Phosphate Dehydrogenase Deficiency\|glucose-6-phosphate dehydrogenase deficiency]] in Sephardic Jews.
 - Neonatal history reveals prominent early jaundice or phototherapy requirement.
 - Recurrent anemia episodes associate with reticulocytosis.
 - Anemia remains unresponsive to hematinics or iron supplementation.
@@ -37,7 +37,7 @@
 |**Inheritance**|Primarily inherited (exceptions exist like paroxysmal nocturnal hemoglobinuria).|Primarily acquired.|
 |**Membrane defects**|Hereditary spherocytosis, hereditary elliptocytosis, hereditary pyropoikilocytosis, hereditary stomatocytosis.|Paroxysmal nocturnal hemoglobinuria, spur cell anemia.|
 |**Enzyme defects**|[[Hematology/Glucose-6-Phosphate Dehydrogenase Deficiency\|Glucose-6-phosphate dehydrogenase deficiency]], pyruvate kinase deficiency.|None|
-|**Hemoglobin defects**|Sickle cell syndromes, [[Hematology/Thalassemia\|thalassemia]] syndromes, unstable hemoglobins.|None|
+|**Hemoglobin defects**|Sickle cell syndromes, thalassemia syndromes, unstable hemoglobins.|None|
 |**Immune-mediated**|None|[[Hematology/Autoimmune Hemolytic Anemia\|Autoimmune hemolytic anemia]] (warm, cold), isoimmune (hemolytic disease of newborn, [[Hematology/Transfusion Reaction\|transfusion reaction]]), drug-induced.|
 |**Non-immune acquired**|None|Microangiopathic hemolytic anemia, hypersplenism, infections ([[Infectious Diseases/Malaria\|malaria]], sepsis), toxins, thermal injury.|
 
@@ -90,9 +90,9 @@
 |**Sickle cells**|[[Hematology/Sickle Cell Disease\|Sickle cell disease]].|Polymerization of deoxygenated hemoglobin s.|
 |**Target cells**|Hemoglobinopathies (hemoglobin c, sickle cell), thalassemias, liver disease.|Increased membrane surface area to volume ratio.|
 |**Elliptocytes**|Hereditary elliptocytosis.|Horizontal membrane skeleton linkage defects.|
-|**Basophilic stippling**|[[Hematology/Thalassemia\|Thalassemia]], lead toxicity, pyrimidine 5-nucleotidase deficiency.|Ribosomal ribonucleic acid aggregates.|
+|**Basophilic stippling**|Thalassemia, lead toxicity, pyrimidine 5-nucleotidase deficiency.|Ribosomal ribonucleic acid aggregates.|
 |**Acanthocytes**|Liver disease, abetalipoproteinemia.|Altered cholesterol-to-phospholipid membrane ratio.|
-|**Teardrop cells**|[[Hematology/Thalassemia\|Thalassemia]] major, myelofibrosis.|Extramedullary hematopoiesis or marrow fibrosis.|
+|**Teardrop cells**|Thalassemia major, myelofibrosis.|Extramedullary hematopoiesis or marrow fibrosis.|
 
 #### Specific Diagnostic Assays
 

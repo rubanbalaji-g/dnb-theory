@@ -56,7 +56,7 @@ v## Overview of [[Endocrinology/Congenital Adrenal Hyperplasia\|Congenital Adren
 - Elevated baseline 17OHP (>2000 ng/dL in classic disease).
 - Elevated 21-deoxycortisol.
 - Gold standard: Intravenous ACTH stimulation test demonstrating exaggerated 17OHP response.
-- [[Newborn screening\|Newborn screening]] utilizes 17OHP assays (must measure >24 hours post-birth to avoid false positives).
+- [[Neonatalogy/Newborn Screening\|Newborn screening]] utilizes 17OHP assays (must measure >24 hours post-birth to avoid false positives).
 
 #### Treatment Principles
 
@@ -152,11 +152,11 @@ v## Overview of [[Endocrinology/Congenital Adrenal Hyperplasia\|Congenital Adren
 |**Aldosterone**|- Suppressed / Low (secondary to suppressed PRA).|
 |**Potassium**|- Hypokalemia (variable, absent in many early presentations).|
 |**Androgens**|- Elevated Testosterone, Androstenedione, DHEA.|
-|**17-Hydroxyprogesterone (17-OHP)**|- Mildly to moderately elevated.- May trigger false-positive [[newborn screening\|newborn screening]] for 21-hydroxylase deficiency.|
+|**17-Hydroxyprogesterone (17-OHP)**|- Mildly to moderately elevated.- May trigger false-positive [[Neonatalogy/Newborn Screening\|newborn screening]] for 21-hydroxylase deficiency.|
 
 #### Ancillary Testing
 
-- **[[Newborn Screening\|Newborn Screening]]:** May detect elevated 17-OHP, prompting further steroid profiling.
+- **[[Neonatalogy/Newborn Screening\|Newborn Screening]]:** May detect elevated 17-OHP, prompting further steroid profiling.
 - **Genetic Testing:** _CYP11B1_ gene sequencing confirms molecular diagnosis. Required to confirm nonclassic cases reliably.
 - **Bone Age Radiograph:** Advanced skeletal maturation relative to chronologic age.
 - **Pelvic Ultrasound:** Confirms presence of Müllerian structures (uterus, ovaries) in virilized 46,XX neonates.

@@ -28,7 +28,7 @@
 ## The 4 ‘D’s and 32 Conditions
 ### **1. Defects at Birth (9 Conditions)**
 
-These are conditions identified at delivery points or through [[newborn screening\|newborn screening]]:
+These are conditions identified at delivery points or through [[Neonatalogy/Newborn Screening\|newborn screening]]:
 
 1. **Neural Tube Defect** 
 2. **Down's Syndrome**
@@ -73,7 +73,7 @@ Conditions affecting physical, cognitive, or behavioral development:
 States have the flexibility to include these based on local epidemiological needs: 
 1. **[[Endocrinology/Congenital Hypothyroidism\|Congenital Hypothyroidism]]** 
 2. **Sickle Cell Anaemia** 
-3. **Beta [[Hematology/Thalassemia\|Thalassemia]]**
+3. **Beta Thalassemia**
 
 ## Screening Strategies
 - Newborn screening at delivery points and home by ASHA

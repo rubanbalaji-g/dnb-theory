@@ -22,7 +22,6 @@ The etiology is highly age-dependent. Causes are broadly classified into **Acute
 5.  **Vascular:** Arterial ischemic stroke, Venous sinus thrombosis (dehydration/infection related).
 
 ---
-
 ### II. Investigation of a Case of Convulsions
 
 The goal of investigation is three-fold:

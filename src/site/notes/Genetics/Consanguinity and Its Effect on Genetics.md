@@ -30,7 +30,7 @@ Consanguinity heavily impacts pediatric practice, disproportionately increasing 
 |:--|:--|
 |Reproductive Wastage|Increased rates of spontaneous abortions, stillbirths, and unexplained neonatal deaths, often due to lethal AR malformation syndromes or severe inborn errors of metabolism.|
 |Autosomal Recessive Disorders|Dramatically increased incidence of severe single-gene disorders, including [[Neuromuscular/Spinal Muscular Atrophy\|spinal muscular atrophy]], leukodystrophies, primary [[Neurology/Microcephaly\|microcephaly]], and metabolic conditions like [[Metabolic Disorders/Phenylketonuria\|phenylketonuria]] and [[Metabolic Disorders/Galactosemia\|galactosemia]].|
-|Hematological And Immune|Higher prevalence of [[Hematology/Thalassemia\|thalassemia]], [[Hematology/Sickle Cell Disease\|sickle cell disease]], and severe combined immunodeficiency.|
+|Hematological And Immune|Higher prevalence of thalassemia, [[Hematology/Sickle Cell Disease\|sickle cell disease]], and severe combined immunodeficiency.|
 |Congenital Malformations|Absolute risk for significant congenital anomalies in first-cousin offspring increases by 2% to 3% over the baseline population risk, totaling 4% to 6%. Common defects include [[Neurology/Neural Tube Defects\|neural tube defects]] and congenital heart defects.|
 |Neurodevelopmental|Strong epidemiological correlation with severe intellectual disability, [[Development/Global Developmental Delay\|global developmental delay]], autism spectrum disorders, and hereditary non-syndromic deafness.|
 

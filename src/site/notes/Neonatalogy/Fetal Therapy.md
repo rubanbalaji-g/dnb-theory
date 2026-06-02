@@ -17,7 +17,6 @@ Before undertaking any intervention, the following must be met:
 6.  **Consent:** Informed consent regarding risks to mother and fetus (and future pregnancies).
 
 ---
-
 ## 3. CLASSIFICATION OF [[Neonatalogy/Fetal Therapy\|FETAL THERAPY]]
 Therapy is broadly classified based on invasiveness:
 1.  **Medical (Transplacental):** Drugs given to mother $\rightarrow$ Placenta $\rightarrow$ Fetus.
@@ -26,7 +25,6 @@ Therapy is broadly classified based on invasiveness:
 4.  **Ex-Utero Intrapartum Treatment (EXIT):** Procedures during delivery while on placental support.
 
 ---
-
 ## 4. MEDICAL [[Neonatalogy/Fetal Therapy\|FETAL THERAPY]] (Pharmacologic)
 Non-invasive and most commonly used.
 
@@ -57,7 +55,6 @@ Non-invasive and most commonly used.
 * **CMV:** High-dose **Valacyclovir** (reducing viral load and hearing loss).
 
 ---
-
 ## 5. MINIMALLY INVASIVE SURGICAL THERAPY
 Performed under Ultrasound or Fetoscopic guidance.
 
@@ -85,7 +82,6 @@ Performed under Ultrasound or Fetoscopic guidance.
     * Fetoscopic lysis of constricting bands to prevent limb amputation.
 
 ---
-
 ## 6. OPEN [[Neonatalogy/Fetal Surgery\|FETAL SURGERY]]
 Involves maternal laparotomy and hysterotomy. Highest risk to mother (uterine rupture).
 
@@ -98,7 +94,6 @@ Involves maternal laparotomy and hysterotomy. Highest risk to mother (uterine ru
 * *Current Status:* Standard option for eligible candidates.
 
 ---
-
 ## 7. EXIT PROCEDURE (Ex Utero Intrapartum Treatment)
 * **Concept:** A specialized delivery, not just a C-section.
 * **Indication:** Major airway obstruction (Cervical Teratoma, Lymphangioma, CHAOS).
@@ -110,11 +105,10 @@ Involves maternal laparotomy and hysterotomy. Highest risk to mother (uterine ru
     5.  Cord clamped only *after* airway is secure.
 
 ---
-
 ## 8. FUTURE DIRECTIONS: GENE & [[Infectious Diseases/Immunology/Stem Cell Therapy\|Stem Cell Therapy]]
 * **In-Utero Stem Cell Transplantation (IUSCT):**
     * *Rationale:* Fetal immune tolerance allows engraftment without rejection.
-    * *Potential:* Osteogenesis Imperfecta, [[Hematology/Thalassemia\|Thalassemia]], Sickle Cell.
+    * *Potential:* Osteogenesis Imperfecta, Thalassemia, Sickle Cell.
 * **Gene Editing (CRISPR-Cas9):**
     * Experimental correction of monogenic disorders (e.g., Surfactant Protein B deficiency, SMA) in animal models.
 

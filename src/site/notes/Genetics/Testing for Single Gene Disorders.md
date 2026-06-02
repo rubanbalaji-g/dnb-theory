@@ -32,7 +32,7 @@
 - Amplifies target DNA sequences to rapidly detect known mutations.
 - **Size Analysis**: Utilized for testing [[Respiratory/Cystic Fibrosis\|cystic fibrosis]].
 - **Restriction Fragment Length Polymorphism (RFLP)**: Applied in testing for [[Neuromuscular/Spinal Muscular Atrophy\|spinal muscular atrophy]].
-- **Amplification-Refractory Mutation System (ARMS) PCR**: Used for detecting founder mutations like [[Hematology/Thalassemia\|thalassemia]].
+- **Amplification-Refractory Mutation System (ARMS) PCR**: Used for detecting founder mutations like thalassemia.
 - **Real-Time PCR**: Rapid technique yielding results within one hour utilizing special kits.
 
 ### Chromosome Microarray (CMA)

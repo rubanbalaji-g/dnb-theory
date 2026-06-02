@@ -57,7 +57,7 @@
 
 ## Management of Anemia (Therapeutic)
 - Mild/Moderate: Therapeutic IFA (double prophylactic dose) + dietary counseling + deworming + 3-month follow-up
-- Severe: Hospital referral, injectable iron (if oral intolerance), blood transfusion if Hb <7 g/dL or cardiac failure; investigate underlying causes ([[Hematology/Thalassemia\|thalassemia]] screen, stool for occult blood, [[Infectious Diseases/Malaria\|malaria]])
+- Severe: Hospital referral, injectable iron (if oral intolerance), blood transfusion if Hb <7 g/dL or cardiac failure; investigate underlying causes (thalassemia screen, stool for occult blood, [[Infectious Diseases/Malaria\|malaria]])
 - Nutritional counseling: Iron-rich foods + vitamin C; avoid tea/milk with meals
 
 ## Pediatrician’s Role & Integration

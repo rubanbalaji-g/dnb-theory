@@ -11,7 +11,6 @@ Movement disorders are neurological conditions characterized by an abnormality i
 3.  **Ataxic:** Disorders of coordination (Cerebellar).
 
 ---
-
 ### 2. Common Hyperkinetic Disorders
 
 #### A. Tics (Most Common)
@@ -70,13 +69,11 @@ Movement disorders are neurological conditions characterized by an abnormality i
 * **Association:** [[Development/Autism Spectrum Disorder\|Autism Spectrum Disorder]] ([[Cardiology/ASD\|ASD]]), but also common in normal children ("Physiologic Stereotypies").
 
 ---
-
 ### 3. Functional (Psychogenic) Movement Disorders
 * Common in adolescents.
 * **Features:** Abrupt onset, distractibility, entrainment (movement changes frequency to match the examiner's tapping), and variability.
 
 ---
-
 ### 4. Summary of Clinical Differentiators
 
 | Disorder | Rhythmic? | Suppressible? | During Sleep? | Key Feature |

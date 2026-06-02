@@ -8,7 +8,6 @@
 * **Setting:** Triage takes place in the **Reception Area** of the Special Care Newborn Unit (SCNU) immediately upon arrival.
 
 ---
-
 ## 2. STEPS OF TRIAGE (FBNC GUIDELINES)
 The triage process follows a hierarchical approach: **RAPID ASSESSMENT $\rightarrow$ CLASSIFICATION $\rightarrow$ IMMEDIATE MANAGEMENT.**
 
@@ -42,7 +41,6 @@ Based on the assessment, the newborn is classified into one of three categories:
 | **III. NON-URGENT** | Stable newborns requiring monitoring or minor interventions. | Detailed assessment, admission, or counseling. | **GREEN** |
 
 ---
-
 ## 3. DETAILED SIGNS & MANAGEMENT (FBNC/IMNCI)
 
 ### A. CATEGORY I: EMERGENCY SIGNS (Requires Immediate Resuscitation)
@@ -81,7 +79,6 @@ While triage prioritizes, the following specific criteria mandate admission to S
 7.  **Refusal to Feed** or inability to suck.
 
 ---
-
 ## 4. IMNCI INTEGRATION (THE "YOUNG INFANT" 0-2 MONTHS)
 IMNCI guidelines are used for screening and referral. In the triage setting, "Pink/Red" classification confirms the need for admission.
 
@@ -104,7 +101,6 @@ IMNCI guidelines are used for screening and referral. In the triage setting, "Pi
 * **GREEN (Not Sick):** Routine care.
 
 ---
-
 ## 5. INITIAL STABILIZATION AT ADMISSION ("S.T.A.B.L.E.")
 Once triaged and decision to admit is made, stabilize using the STABLE framework before shifting to the specific bed.
 

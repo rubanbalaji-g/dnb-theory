@@ -15,7 +15,6 @@ The spectrum is often overlapping, but the four major entities are:
 4.  **[[Respiratory/Bronchogenic Cysts\|Bronchogenic Cysts]]:** Foregut duplication cysts arising from abnormal budding.
 
 ---
-
 ### 2. Description of Specific Malformations 
 
 #### A. CPAM (formerly CCAM)
@@ -47,7 +46,6 @@ Crucial feature: **Systemic arterial supply** (usually thoracic/abdominal aorta)
 * Risk: Infection, compression of airway, malignant transformation.
 
 ---
-
 ### 3. Diagnosis 
 
 #### A. [[Neonatalogy/Antenatal Diagnosis\|Antenatal Diagnosis]] (Routine USG)
@@ -73,7 +71,6 @@ Crucial feature: **Systemic arterial supply** (usually thoracic/abdominal aorta)
     * Delineates anatomical extent.
 
 ---
-
 ### 4. Management
 
 #### A. Fetal Management

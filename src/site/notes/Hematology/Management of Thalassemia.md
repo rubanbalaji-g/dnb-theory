@@ -10,7 +10,7 @@
 
 ## TRANSFUSION THERAPY
 
-- Cornerstone of Transfusion-Dependent [[Hematology/Thalassemia\|Thalassemia]] (TDT) treatment.
+- Cornerstone of Transfusion-Dependent Thalassemia (TDT) treatment.
 - Aim: Suppress ineffective erythropoiesis, promote normal growth, prevent bone deformities.
 
 ### Indications
@@ -70,7 +70,7 @@
 ### Hemoglobin F (HbF) Inducers
 
 - **Hydroxyurea**: DNA antimetabolite upregulating HbF synthesis.
-    - Efficacy: Highly utilized in Non-Transfusion-Dependent [[Hematology/Thalassemia\|Thalassemia]] (NTDT). Lowers risk of leg ulcers, pulmonary hypertension, and extramedullary hematopoiesis. Efficacy in TDT limited.
+    - Efficacy: Highly utilized in Non-Transfusion-Dependent Thalassemia (NTDT). Lowers risk of leg ulcers, pulmonary hypertension, and extramedullary hematopoiesis. Efficacy in TDT limited.
     - Dosage: Initial dose 10 mg/kg/day; escalate slowly to maximum 20 mg/kg/day.
     - Monitoring: Risk of significant cytopenias. Frequent CBC with differential mandated.
 
@@ -130,7 +130,7 @@
 
 ## MANAGEMENT OF SPECIFIC SYNDROMES
 
-### Non-Transfusion-Dependent [[Hematology/Thalassemia\|Thalassemia]] (NTDT) / [[Hematology/Thalassemia\|Thalassemia]] Intermedia
+### Non-Transfusion-Dependent Thalassemia (NTDT) / Thalassemia Intermedia
 
 - Phenotype: Homozygous or compound heterozygous maintaining Hb 7-10 g/dL without chronic transfusions.
 - Complications: Marked medullary expansion, extramedullary hematopoiesis, leg ulcers, pulmonary hypertension, thrombosis. Extramedullary hematopoiesis compressing spinal cord requires emergent radiation.

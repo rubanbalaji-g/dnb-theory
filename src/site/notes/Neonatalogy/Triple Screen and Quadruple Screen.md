@@ -42,7 +42,6 @@ Indicated for women presenting late or where NT scan was not available.
 * **Role:** Screening test (not diagnostic). High-risk results require confirmation via Karyotype.
 
 ---
-
 ## PART 2: UTILITY OF TESTS IN OTHER DISORDERS 
 
 Beyond Down Syndrome, these screening modalities detect other chromosomal, structural, and metabolic anomalies.

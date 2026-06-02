@@ -24,14 +24,14 @@ The clinical presentation is highly variable and categorized into three main phe
 |---|---|---|
 |**Acute Neonatal**|First few days of life|Sepsis-like presentation with poor feeding, vomiting, lethargy, and coma. Pathognomonic "Sweaty Feet" or "Rancid Cheese" odor. Severe hypotonia, seizures, and cerebral edema.|
 |**Chronic Intermittent**|Infancy or childhood|Recurrent episodes of vomiting, lethargy, and ketoacidosis resembling diabetic ketoacidosis. Triggered by catabolic stress (infection, fasting) or high protein intake. Complications include [[Gastrointestinal/Acute Pancreatitis\|acute pancreatitis]], neutropenia, pancytopenia, and failure to thrive.|
-|**Asymptomatic**|Detected via [[Newborn Screening\|Newborn Screening]] (NBS)|Normal clinical phenotype, often associated with a common recurring missense mutation c.932C>T (p.A282V) resulting in partial IVD enzyme activity reduction.|
+|**Asymptomatic**|Detected via [[Neonatalogy/Newborn Screening\|Newborn Screening]] (NBS)|Normal clinical phenotype, often associated with a common recurring missense mutation c.932C>T (p.A282V) resulting in partial IVD enzyme activity reduction.|
 
 ## Investigations
 
 |Investigation Type|Diagnostic Findings|
 |---|---|
 |**Routine Screening Labs**|High anion gap metabolic acidosis, severe ketosis, and moderate to severe hyperammonemia. Hematologic evaluation shows neutropenia, thrombocytopenia, or pancytopenia. Hypoglycemia and hypocalcemia may be present.|
-|**[[Newborn Screening\|Newborn Screening]] (NBS)**|Tandem Mass Spectrometry (TMS) detects elevated Isovalerylcarnitine (C5-carnitine).|
+|**[[Neonatalogy/Newborn Screening\|Newborn Screening]] (NBS)**|Tandem Mass Spectrometry (TMS) detects elevated Isovalerylcarnitine (C5-carnitine).|
 |**Urine Organic Acids**|Massive diagnostic elevation of Isovalerylglycine (hallmark) and 3-hydroxyisovaleric acid.|
 |**Confirmatory Tests**|Molecular analysis of the _IVD_ gene or specific IVD enzyme assay in cultured fibroblasts.|
 

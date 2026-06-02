@@ -78,7 +78,7 @@
 
 ### Hemoglobinopathies
 
-- **[[Hematology/Thalassemia\|Thalassemia]] Major/Intermedia:**
+- **Thalassemia Major/Intermedia:**
     - Indicated for secondary hypersplenism causing falling steady-state hemoglobin or rising transfusion requirements.
     - Criteria include annual packed RBC requirement >200-250 mL/kg/year with uncontrolled iron overload.
     - Indicated for symptomatic massive splenomegaly posing rupture risk or causing severe leukopenia/thrombocytopenia.
@@ -103,7 +103,7 @@
 |:--|:--|
 |**Hemolytic Anemia**|Severe HS, Symptomatic HE, Pyruvate kinase deficiency|
 |**Immune Cytopenias**|Refractory chronic ITP (>1 yr), Refractory wAIHA|
-|**Hemoglobinopathies**|[[Hematology/Thalassemia\|Thalassemia]] with PRBC need >200-250 mL/kg/yr, Sickle cell with recurrent sequestration|
+|**Hemoglobinopathies**|Thalassemia with PRBC need >200-250 mL/kg/yr, Sickle cell with recurrent sequestration|
 |**Trauma**|Hemodynamically unstable splenic rupture|
 
 ## Conditions Contraindicating Splenectomy
@@ -121,7 +121,7 @@
 - Highest risk in children <5 years of age at time of surgery.
 - Overall risk: 2-5 per 1000 asplenic patient-years; lifelong risk of 5%.
 - Over 50% of OPSI episodes occur within first 2 years post-splenectomy.
-- Risk magnitude varies by underlying disease: 2-4% in trauma or ITP; 8-30% in [[Hematology/Thalassemia\|thalassemia]], [[Hematology/Sickle Cell Disease\|sickle cell disease]], or preexisting reticuloendothelial blockade.
+- Risk magnitude varies by underlying disease: 2-4% in trauma or ITP; 8-30% in thalassemia, [[Hematology/Sickle Cell Disease\|sickle cell disease]], or preexisting reticuloendothelial blockade.
 - **Pathogens:** Encapsulated bacteria dominate. _Streptococcus pneumoniae_ (>60% of cases), _Haemophilus influenzae_, and _Neisseria meningitidis_.
 - **Animal Bites:** High risk for fulminant sepsis from _Capnocytophaga canimorsus_ or _C. cynodegmi_ following dog bites/licks.
 - **Protozoal Infections:** Increased susceptibility to severe [[Infectious Diseases/Malaria\|malaria]] and babesiosis.
@@ -137,7 +137,7 @@
 ## Pulmonary Hypertension
 
 - Late complication increasingly recognized post-splenectomy.
-- Particularly prevalent when splenectomy performed for chronic hemolytic conditions ([[Hematology/Thalassemia\|Thalassemia]], [[Hematology/Sickle Cell Disease\|Sickle Cell Disease]], Hereditary Spherocytosis).
+- Particularly prevalent when splenectomy performed for chronic hemolytic conditions (Thalassemia, [[Hematology/Sickle Cell Disease\|Sickle Cell Disease]], Hereditary Spherocytosis).
 - Pathogenesis linked to ongoing chronic hemolysis and circulation of procoagulant erythrocyte microparticles previously cleared by spleen.
 
 ## Surgical And Perioperative Complications

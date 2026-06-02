@@ -48,7 +48,7 @@
 
 ### Hematological Disorders
 
-- [[Hematology/Sickle Cell Disease\|Sickle Cell Disease]] and Transfusion-Dependent [[Hematology/Thalassemia\|Thalassemia]] management involves targeting the BCL11A erythroid enhancer.
+- [[Hematology/Sickle Cell Disease\|Sickle Cell Disease]] and Transfusion-Dependent Thalassemia management involves targeting the BCL11A erythroid enhancer.
 - Disruption of this enhancer suppresses BCL11A, leading to high levels of Fetal Hemoglobin (HbF) production.
 - Exagamglogene autotemcel represents the first approved [[Genetics/CRISPR\|CRISPR]] therapy providing functional cures for these conditions.
 

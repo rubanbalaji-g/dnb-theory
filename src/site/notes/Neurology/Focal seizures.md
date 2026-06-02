@@ -2,7 +2,6 @@
 {"dg-publish":true,"uplink":"/neurology/neurology/","uptext":"Back to Index (Neurology)","permalink":"/neurology/focal-seizures/","dgPassFrontmatter":true}
 ---
 
-
 # Types
 - Focal seizure with preserved awareness
 - Focal seizure with impaired awareness

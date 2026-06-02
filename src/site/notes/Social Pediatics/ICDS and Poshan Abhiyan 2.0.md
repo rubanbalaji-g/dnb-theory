@@ -25,7 +25,6 @@ The ICDS scheme delivers an integrated package of six core services, fostering c
 6. **Nutrition & Health Education (NHED):** Counseling for women aged 15-45 years on infant and young child feeding (IYCF) practices (delivered by AWW/ANM).
 
 ---
-
 ## 2. SAKSHAM ANGANWADI AND POSHAN 2.0 (MISSION POSHAN 2.0)
 
 ### Introduction & Evolution

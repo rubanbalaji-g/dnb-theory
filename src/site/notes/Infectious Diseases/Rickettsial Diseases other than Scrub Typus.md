@@ -58,7 +58,6 @@ A mild, self-limiting disease often misdiagnosed as chickenpox.
     - Fever and regional lymphadenopathy are common.
 
 ---
-
 ## II. Typhus Group (TG)
 
 ### 1. Epidemic Typhus (Louse-Borne Typhus)
@@ -86,7 +85,6 @@ A milder zoonosis distributed worldwide.
     - The course is usually self-limiting (12–14 days).
 
 ---
-
 ## III. Other Related Infections
 
 ### Q Fever
@@ -101,7 +99,6 @@ A milder zoonosis distributed worldwide.
 - **Features:** Tick-borne leukopenia, thrombocytopenia, and fever. Rash is less common than in rickettsial diseases.
 
 ---
-
 ## Diagnostic Approach
 
 1. **Clinical Suspicion:** Based on the triad of fever, rash, and headache, especially with a history of tick exposure or travel to endemic areas. Presence of an **eschar** (Tache Noire) is a vital clue for SFG (and scrub typhus).

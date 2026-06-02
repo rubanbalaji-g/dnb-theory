@@ -18,7 +18,6 @@ Intervention is justified only if:
 6.  **Consent:** Comprehensive counseling regarding risks to current and future pregnancies.
 
 ---
-
 ## 3. CLASSIFICATION OF SURGICAL MODALITIES
 [[Neonatalogy/Fetal Surgery\|Fetal surgery]] is classified by the level of invasiveness and access route.
 
@@ -67,7 +66,6 @@ Requires maternal laparotomy and hysterotomy. Highest risk profile (uterine rupt
     4.  Cord clamped only after ventilation is established.
 
 ---
-
 ## 4. PERIOPERATIVE MANAGEMENT
 The success of [[Neonatalogy/Fetal Surgery\|fetal surgery]] relies heavily on preventing the primary complication: **Preterm Labor**.
 
@@ -79,7 +77,6 @@ The success of [[Neonatalogy/Fetal Surgery\|fetal surgery]] relies heavily on pr
     * *Goal:* Accelerate fetal lung maturation to reduce RDS and IVH if the surgery precipitates delivery.
 
 ---
-
 ## 5. SPECIFIC INDICATIONS AND EVIDENCE
 
 ### A. Myelomeningocele (Spina Bifida)
@@ -103,7 +100,6 @@ The success of [[Neonatalogy/Fetal Surgery\|fetal surgery]] relies heavily on pr
 * **TOTAL Trial:** Showed significant survival benefit of FETO in severe left-sided CDH.
 
 ---
-
 ## 6. COMPLICATIONS
 ### Maternal (The "Innocent Bystander")
 * **Surgical:** Hemorrhage, Infection, Bladder injury.

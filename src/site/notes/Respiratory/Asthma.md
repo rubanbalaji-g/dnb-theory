@@ -2,7 +2,6 @@
 {"dg-publish":true,"uplink":"/respiratory/respiratory-system/","uptext":"Back to Index (🫁Respiratory System)","permalink":"/respiratory/asthma/","dgPassFrontmatter":true}
 ---
 
-
 Source
 
 1. [GINA Main Report 2024 (ginasthma.org)](https://ginasthma.org/wp-content/uploads/2024/05/GINA-2024-Strategy-Report-24_05_22_WMS.pdf)

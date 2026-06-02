@@ -2,8 +2,6 @@
 {"dg-publish":true,"uplink":"/infectious-diseases/infectious-diseases/","uptext":"Back to Index (Infectious Diseases)","permalink":"/infectious-diseases/diagnostic-approach-to-fever-with-rash/","dgPassFrontmatter":true}
 ---
 
-
-
 ## 1. Introduction
 
 Fever associated with a rash (fever and exanthem) is a common and vexing clinical presentation in pediatric practice. The etiology ranges from self-limiting viral illnesses to life-threatening bacterial infections like meningococcemia and rickettsial diseases. A systematic approach is required to promptly identify children with serious treatable infections while avoiding unnecessary investigations in those with benign viral exanthems.

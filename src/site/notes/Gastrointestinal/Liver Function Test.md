@@ -2,7 +2,6 @@
 {"dg-publish":true,"uplink":"/gastrointestinal/gastroenterology/","uptext":"Back to Index (🍴 Gastoenterology)","permalink":"/gastrointestinal/liver-function-test/","dgPassFrontmatter":true}
 ---
 
-
 ## Markers Of Hepatocellular Injury
 
 Assess integrity of hepatocyte membrane.

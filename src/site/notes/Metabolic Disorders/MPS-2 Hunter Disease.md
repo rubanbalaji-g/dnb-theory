@@ -51,7 +51,7 @@ Clinical spectrum ranges from severe (neuropathic) to attenuated (somatic).
 ## 5. DIAGNOSIS
 * **Screening:**
     * **Urine GAGs:** Quantitative elevation of **Dermatan Sulfate** and **Heparan Sulfate**.
-    * [[Newborn Screening\|Newborn Screening]] (NBS): Available in some regions (assaying enzyme activity in dried blood spots).
+    * [[Neonatalogy/Newborn Screening\|Newborn Screening]] (NBS): Available in some regions (assaying enzyme activity in dried blood spots).
 * **Confirmatory (Gold Standard):**
     * **Enzyme Assay:** Deficient **iduronate-2-sulfatase** activity in plasma, leukocytes, or fibroblasts.
     * *Note:* Normal activity of other sulfatases (to rule out Multiple Sulfatase Deficiency).

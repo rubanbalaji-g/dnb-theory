@@ -2,7 +2,6 @@
 {"dg-publish":true,"permalink":"/hematology/iron-deficiency-anemia/","noteIcon":"","dgPassFrontmatter":true}
 ---
 
-
 3r4t- 30-50% prevalence
 - <10% of dietary iron is absorbed
 # Causes of Iron deficieny
@@ -80,7 +79,7 @@
 ## menzter [[Statistics/Index\|index]]
 - menzter [[Statistics/Index\|index]] = MCV/ RBC
 	- if >13 - IDA
-	- if <13 - [[Hematology/Thalassemia\|Thalassemia]]
+	- if <13 - Thalassemia
 
 # Prevention of anemia
 > [!Question] DNB 2018, DNB 1998
