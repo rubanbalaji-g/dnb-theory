@@ -9,11 +9,11 @@
 - Most common primary hepatic neoplasm; constitutes two-thirds of pediatric liver tumors.
 - Peak incidence <3 years of age; median presentation age 1 year.
 
-|Etiology Category|Specific Associated Conditions|
-|:--|:--|
-|**Perinatal Factors**|Prematurity, very low birth weight.|
-|**Overgrowth Syndromes**|Beckwith-Wiedemann syndrome, isolated hemihyperplasia, Simpson-Golabi-Behmel syndrome.|
-|**Genetic Syndromes**|Familial adenomatous polyposis, Trisomy 18, Li-Fraumeni syndrome, Glycogen storage disease type 1, Alagille syndrome.|
+| Etiology Category        | Specific Associated Conditions                                                                                        |
+| :----------------------- | :-------------------------------------------------------------------------------------------------------------------- |
+| **Perinatal Factors**    | Prematurity, very low birth weight.                                                                                   |
+| **Overgrowth Syndromes** | Beckwith-Wiedemann syndrome, isolated hemihyperplasia, Simpson-Golabi-Behmel syndrome.                                |
+| **Genetic Syndromes**    | Familial adenomatous polyposis, Trisomy 18, Li-Fraumeni syndrome, Glycogen storage disease type 1, Alagille syndrome. |
 
 ## Pathologic And Molecular Features
 
@@ -27,16 +27,16 @@
 - **Clinical Signs:** Asymptomatic upper abdominal mass. Systemic symptoms (weight loss, anorexia) present in advanced disease. Jaundice remains uncommon.
 - **Metastasis:** Preferentially spreads to lungs and regional lymph nodes.
 
-|Diagnostic Modality|Key Findings And Clinical Utility|
-|:--|:--|
-|**Tumor Markers**|Alpha-fetoprotein (AFP) highly elevated in 90% cases. Low AFP (<100 ng/mL) at diagnosis portends poor prognosis.$\beta$-hCG occasional elevation causes pseudoprecocious puberty.|
-|**Radiologic Imaging**|Abdominal ultrasound, CT, or MRI delineates intrahepatic disease extent. Chest CT mandatory for lung metastasis screening.|
-|**Staging System**|PRETEXT (Presurgical EXTent of disease) evaluates hepatic quadrant involvement to determine upfront surgical resectability.|
+| Diagnostic Modality    | Key Findings And Clinical Utility                                                                                                                                                     |
+| :--------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| **Tumor Markers**      | **Alpha-fetoprotein (AFP)** highly elevated in 90% cases. Low AFP (<100 ng/mL) at diagnosis portends poor prognosis.$\beta$-hCG occasional elevation causes pseudoprecocious puberty. |
+| **Radiologic Imaging** | Abdominal ultrasound, CT, or MRI delineates intrahepatic disease extent. Chest CT mandatory for lung metastasis screening.                                                            |
+| **Staging System**     | PRETEXT (Presurgical EXTent of disease) evaluates hepatic quadrant involvement to determine upfront surgical resectability.                                                           |
 
 ## Management Principles And Prognosis
 
 - **Surgical Resection:** Complete excision essential for cure; achievable upfront in approximately 30% cases.
-- **Chemotherapy:** Platinum-based regimens form therapeutic backbone (Cisplatin, Vincristine, 5-Fluorouracil, Doxorubicin). Utilized as neoadjuvant therapy for unresectable tumors or adjuvant therapy post-resection.
+- **Chemotherapy:** Platinum-based regimens form therapeutic backbone (**Cisplatin, Vincristine, 5-Fluorouracil, Doxorubicin**). Utilized as neoadjuvant therapy for unresectable tumors or adjuvant therapy post-resection.
 - **Refractory Disease:** Unresectable primary tumors require orthotopic [[Gastrointestinal/Liver Transplantation\|liver transplantation]] following neoadjuvant chemotherapy.
 - **Prognosis:** Overall survival approaches 70-80%. Localized disease curable in >90% cases with multimodal therapy.
 # Hepatocellular Carcinoma

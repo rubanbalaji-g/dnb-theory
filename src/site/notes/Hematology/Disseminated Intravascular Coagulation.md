@@ -6,7 +6,7 @@
 
 Acquired clinicopathologic syndrome characterized by widespread, unregulated pathologic activation of coagulation system. Process leads to microvascular thrombi, systemic fibrin deposition, and rapid consumption of platelets, procoagulant clotting factors, and anticoagulant proteins.
 
-## Pathophysiology Of [[Hematology/Disseminated Intravascular Coagulation\|Disseminated Intravascular Coagulation]]
+## Pathophysiology Of Disseminated Intravascular Coagulation
 
 Complex pathogenesis involves loss of localized hemostasis and excessive coagulation activation. Divided into three overlapping pathologic processes.
 

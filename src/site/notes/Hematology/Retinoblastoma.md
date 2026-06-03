@@ -14,7 +14,7 @@
 
 ## Genetic Classification
 
-Pathogenesis follows Knudson "two-hit" model of oncogenesis, requiring biallelic inactivation of _RB1_ tumor suppressor gene on chromosome 13q14.
+Pathogenesis follows **Knudson "two-hit" model of oncogenesis**, requiring biallelic inactivation of _RB1_ tumor suppressor gene on chromosome 13q14.
 
 |Feature|Hereditary (Heritable)|Sporadic (Non-Heritable)|
 |---|---|---|
@@ -22,9 +22,18 @@ Pathogenesis follows Knudson "two-hit" model of oncogenesis, requiring biallelic
 |**Presentation**|Bilateral, multifocal, earlier onset (<2 years).|Unilateral, unifocal, later onset.|
 |**Mutation Origin**|First hit germline; second hit somatic.|Both hits somatic within retinal cells.|
 |**Second Malignancies**|High risk (osteosarcoma, soft tissue sarcoma, melanoma).|No increased risk.|
-
 _Note: Approximately 10-15% of unilateral unifocal cases harbor germline RB1 mutations._
 
+## International Classification
+The standard classification for intraocular retinoblastoma is the **International Classification for Retinoblastoma (ICRB)**. It is primarily used to predict the likelihood of saving the eye (ocular salvage) with modern therapies like chemotherapy.
+
+| Group       | Description / Criteria                                                                                                                                                                                                                                                                                            | Ocular Salvage Potential                |
+| :---------- | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :-------------------------------------- |
+| **Group A** | Very low-risk small tumors ($\le 3\text{ mm}$) away from critical structures:<br>• All tumors $\le 3\text{ mm}$ in greatest dimension.<br>• Located $> 3\text{ mm}$ from the fovea and $> 1.5\text{ mm}$ from the optic disc.<br>• No vitreous or subretinal seeding.                                             | Very High ($> 95\%$)                    |
+| **Group B** | Low-risk larger or central tumors:<br>• All remaining tumors confined to the retina not in Group A.<br>• Tumors $> 3\text{ mm}$ or located close to the fovea ($\le 3\text{ mm}$) or optic disc ($\le 1.5\text{ mm}$).<br>• Clear subretinal fluid ($\le 3\text{ mm}$ from tumor margin) but **no seeding**.      | High                                    |
+| **Group C** | Moderate-risk localized seeding:<br>• Discrete, localized tumors with focal vitreous or subretinal seeding.<br>• Seeding must be $\le 3\text{ mm}$ from the primary tumor margin.                                                                                                                                 | Moderate                                |
+| **Group D** | High-risk diffuse seeding:<br>• Massive or diffuse tumors.<br>• Diffuse vitreous or subretinal seeding located $> 3\text{ mm}$ from the primary tumor.<br>• Subretinal fluid involving more than half the retina.                                                                                                 | Low to Moderate                         |
+| **Group E** | Very high-risk, extensive disease with no hope of vision preservation:<br>• Tumor touches the lens or causes anterior segment invasion.<br>• Neovascular glaucoma, opaque media, or phthisis bulbi (shrunken eye).<br>• Tumor necrosis causing aseptic orbital cellulitis or retrobulbar optic nerve involvement. | Very Low (Enucleation usually required) |
 ## Clinical Manifestations
 
 - Leukocoria (white pupillary reflex): Most common presenting sign.
