@@ -9,7 +9,7 @@
 - Provide safe and effective control of pain, anxiety, and motion to allow necessary therapeutic and diagnostic procedures.
 - Ensure appropriate amnesia and decreased awareness of the intensive care environment.
 - Facilitate mechanical ventilation by improving patient-ventilator synchrony and overcoming patient-ventilation dys-synchrony.
-- Decrease systemic or myocardial oxygen consumption and metabolic demand (e.g., in septic shock, cardiogenic shock, or severe acute [[Neonatalogy/Respiratory Distress Syndrome\|respiratory distress syndrome]]).
+- Decrease systemic or myocardial oxygen consumption and metabolic demand (e.g., in septic shock, cardiogenic shock, or severe acute [[neonatalogy/Respiratory Distress in Newborns\|respiratory distress syndrome]]).
 - Blunt the physiologic stress response, which can trigger systemic inflammatory response syndrome (SIRS).
 
 ### Continuum of Sedation

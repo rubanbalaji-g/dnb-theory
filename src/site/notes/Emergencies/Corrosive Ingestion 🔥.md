@@ -24,7 +24,7 @@
 ### Respiratory and Systemic Effects
 
 - Respiratory involvement is a critical emergency, manifesting as hoarseness of voice, dyspnea, and stridor secondary to rapidly progressing laryngeal edema.
-- Aspiration of the corrosive agent can result in chemical pneumonitis, pulmonary edema, and acute [[Neonatalogy/Respiratory Distress Syndrome\|respiratory distress syndrome]] (ARDS).
+- Aspiration of the corrosive agent can result in chemical pneumonitis, pulmonary edema, and acute [[neonatalogy/Respiratory Distress in Newborns\|respiratory distress syndrome]] (ARDS).
 - Severe systemic absorption of specific agents can lead to metabolic acidosis, hepatic dysfunction, and renal failure.
 
 ### Delayed Complications

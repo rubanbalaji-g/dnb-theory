@@ -67,7 +67,7 @@ P2 precedes A2. The split narrows on inspiration and widens on expiration.
 
 ## 5. DIAGNOSTIC UTILITY IN PEDIATRICS
 Assessment of S2 is critical for bedside diagnosis:
-* **Screening for PAH:** A loud, palpable P2 is often the first clinical sign of pulmonary hypertension in VSD/PDA patients.
+* **Screening for PAH:** A loud, palpable P2 is often the first clinical sign of pulmonary hypertension in VSD/[[neonatalogy/PDA\|PDA]] patients.
 * **Severity of PS:** The wider the split and the softer the P2, the more severe the stenosis.
 * **Severity of TOF:** A single, loud S2 (A2) suggests severe RV outflow obstruction where P2 is not heard.
 

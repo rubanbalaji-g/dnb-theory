@@ -69,14 +69,14 @@ The INAP operational framework spans the continuum of care from pre-pregnancy to
 * **Key Interventions:**
     * Tiered expansion of [[Social Pediatics/Facility Based Newborn Care (FBNC)\|Facility Based Newborn Care (FBNC)]].
     * Establishment of Special Newborn Care Units (SNCUs) at district hospitals and Newborn Stabilization Units (NBSUs) at First Referral Units.
-    * Institutionalization of [[Neonatalogy/Kangaroo Mother Care\|Kangaroo Mother Care]] (KMC) units for low birth weight infants.
+    * Institutionalization of [[neonatalogy/Kangaroo Mother Care\|Kangaroo Mother Care]] (KMC) units for low birth weight infants.
     * Provision of non-invasive ventilation (CPAP) and safe oxygen delivery systems in SNCUs.
 
 ### 6. Care Beyond Newborn Survival
 * **Objective:** Optimize long-term neurodevelopmental outcomes and manage congenital anomalies.
 * **Key Interventions:**
     * **[[Social Pediatics/Rashtriya Bal Swasthya Karyakram (RBSK)\|Rashtriya Bal Swasthya Karyakram (RBSK)]]:** Early pediatric screening for the "4 Ds": Defects at birth, Diseases, Deficiencies, and Developmental delays.
-    * Establishment of District Early Intervention Centers (DEICs) for longitudinal follow-up, early stimulation, and rehabilitation of high-risk [[Neonatalogy/SNCU\|SNCU]] graduates.
+    * Establishment of District Early Intervention Centers (DEICs) for longitudinal follow-up, early stimulation, and rehabilitation of high-risk [[neonatalogy/SNCU\|SNCU]] graduates.
 
 ## Health System Strengthening and Monitoring
 * **Bottleneck Assessment (BNA):** INAP relies on systematic BNA tools across states to dynamically identify and rectify gaps in health workforce, supply chain, and financing.

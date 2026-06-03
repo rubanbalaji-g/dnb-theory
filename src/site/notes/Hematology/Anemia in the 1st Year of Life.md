@@ -15,7 +15,7 @@
 
 #### Hemorrhage (Acute or Chronic)
 
-- Prenatal: Fetomaternal transplacental bleeding (spontaneous, traumatic [[Neonatalogy/Amniocentesis\|amniocentesis]]), intraplacental bleeding, retroplacental abruption, or twin-to-twin transfusion syndrome.
+- Prenatal: Fetomaternal transplacental bleeding (spontaneous, traumatic [[neonatalogy/Amniocentesis\|amniocentesis]]), intraplacental bleeding, retroplacental abruption, or twin-to-twin transfusion syndrome.
 - Twin-to-twin transfusion: Occurs in 15% of monochorionic twins; donor twin presents anemic, pale, with oligohydramnios.
 - Intrapartum: Obstetric accidents, cord malformations, placental anomalies.
 - Postnatal: Traumatic delivery causing intracranial/intra-abdominal hemorrhage, cephalhematoma, coagulation factor deficiencies, or severe thrombocytopenia.

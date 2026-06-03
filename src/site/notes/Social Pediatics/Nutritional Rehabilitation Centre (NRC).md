@@ -31,7 +31,7 @@ Management at the NRC is strictly protocol-driven and divided into Stabilization
 
 ### 2. Prevent And Treat Hypothermia
 * Axillary temperature < 35.0°C (95°F).
-* Ensure "warm chain" ([[Neonatalogy/Kangaroo Mother Care\|Kangaroo Mother Care]], radiant warmers, wrapping, avoiding exposure).
+* Ensure "warm chain" ([[neonatalogy/Kangaroo Mother Care\|Kangaroo Mother Care]], radiant warmers, wrapping, avoiding exposure).
 * Monitor temperature 2-hourly until stable.
 
 ### 3. Treat And Prevent Dehydration

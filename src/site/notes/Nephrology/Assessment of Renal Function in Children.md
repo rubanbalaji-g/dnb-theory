@@ -10,7 +10,7 @@
 |**Persistent / Recurrent Hematuria**|Microscopic hematuria >2 weeks, or recurrent gross hematuria paired with proteinuria or reduced kidney function.|
 |**UTI & Voiding Abnormalities**|Recurrent febrile UTIs, atypical UTIs (non-_E. coli_), poor urinary stream, straining, or persistent dribbling.|
 |**Systemic & Chronic Conditions**|Systemic lupus erythematosus (SLE), Henoch-Schönlein purpura (IgA vasculitis), diabetes, sickle cell disease, or congenital malformation syndromes.|
-|**High-Risk Neonatal Conditions**|Perinatal asphyxia, extremely low birth weight, necrotizing enterocolitis, or hemodynamically significant patent ductus arteriosus (PDA).|
+|**High-Risk Neonatal Conditions**|Perinatal asphyxia, extremely low birth weight, necrotizing enterocolitis, or hemodynamically significant patent ductus arteriosus ([[neonatalogy/PDA\|PDA]]).|
 |**Antenatal & Congenital (CAKUT)**|Antenatally detected CAKUT, bilateral hydronephrosis, oligohydramnios, or abnormal bladder on prenatal ultrasound.|
 |**Physical Exam Findings**|Palpable abdominal masses (e.g., Wilms' tumor, polycystic kidneys), palpable bladder, or costovertebral angle tenderness.|
 |**Impaired Concentration / Tubular Signs**|Unexplained polyuria, excessive thirst, nocturnal enuresis (bedwetting), or recurrent severe dehydration.|

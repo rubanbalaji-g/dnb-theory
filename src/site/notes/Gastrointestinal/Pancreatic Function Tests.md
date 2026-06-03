@@ -38,7 +38,7 @@
 
 - Measures cationic trypsinogen escaping into bloodstream from damaged pancreas.
 - **Clinical Utility:**
-    - [[Neonatalogy/Newborn Screening\|Newborn screening]] for [[Respiratory/Cystic Fibrosis\|cystic fibrosis]]: Markedly elevated at birth due to ductal obstruction.
+    - [[neonatalogy/Newborn Screening\|Newborn screening]] for [[Respiratory/Cystic Fibrosis\|cystic fibrosis]]: Markedly elevated at birth due to ductal obstruction.
     - Declines progressively as pancreatic acinar mass undergoes fibrotic destruction over time.
     - Levels <20 ng/mL specific for established EPI.
     - Evaluates pancreatic phenotype in Shwachman-Diamond syndrome (low levels in children <3 years).

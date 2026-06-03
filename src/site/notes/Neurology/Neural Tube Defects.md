@@ -47,7 +47,7 @@ Prevention is primarily focused on peri-conceptional Folic Acid supplementation.
 ### 2. Secondary Prevention (Prenatal Screening)
 * **Maternal Serum Alpha-Fetoprotein (MSAFP):** Elevated in 80-90% of Open NTDs (performed at 15-20 weeks).
 * **Targeted Ultrasound:** "Lemon sign" (scalloping of frontal bones) and "Banana sign" (curved cerebellum) indicate Chiari II malformation associated with myelomeningocele.
-* **[[Neonatalogy/Amniocentesis\|Amniocentesis]]:** Elevated Acetylcholinesterase in amniotic fluid is diagnostic of ONTD.
+* **[[neonatalogy/Amniocentesis\|Amniocentesis]]:** Elevated Acetylcholinesterase in amniotic fluid is diagnostic of ONTD.
 
 ## MANAGEMENT
 Management is multidisciplinary, involving Neonatologists, Neurosurgeons, Urologists, and Physiotherapists.
@@ -60,7 +60,7 @@ Management is multidisciplinary, involving Neonatologists, Neurosurgeons, Urolog
 ### 2. Surgical Management
 * **Primary Closure:** Definitive surgical repair of the defect within 24 to 48 hours of birth.
 * **Ventriculoperitoneal (VP) Shunt:** Required in 80-90% of cases due to associated [[Neurology/Hydrocephalus\|Hydrocephalus]] or Chiari II malformation.
-* **[[Neonatalogy/Fetal Surgery\|Fetal Surgery]]:** In-utero repair (MOMS trial) reduces the need for shunting and improves motor outcomes but carries maternal risks.
+* **[[neonatalogy/Fetal Surgery\|Fetal Surgery]]:** In-utero repair (MOMS trial) reduces the need for shunting and improves motor outcomes but carries maternal risks.
 
 ### 3. Long-term Multidisciplinary Care
 * **Urological:** Intermittent catheterization (CIC) and Anticholinergics to manage neurogenic bladder and prevent renal scarring.

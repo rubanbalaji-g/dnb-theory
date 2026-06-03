@@ -93,4 +93,4 @@ Recent advances target the underlying genetic defect, significantly altering the
 - Without disease-modifying therapy, type 1 is fatal by 2 years, while type 2 survival extends to the 2nd or 3rd decade.
 - With targeted therapies and multidisciplinary care, survival and motor function improve dramatically, particularly when initiated presymptomatically.
 - Genetic counseling must be offered; the condition carries an autosomal recessive 25% recurrence risk for future siblings.
-- [[Neonatalogy/Antenatal Diagnosis\|Antenatal diagnosis]] is possible via chorionic villus sampling between the 10th and 12th gestational weeks.
+- [[neonatalogy/Antenatal Diagnosis\|Antenatal diagnosis]] is possible via chorionic villus sampling between the 10th and 12th gestational weeks.

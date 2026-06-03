@@ -25,7 +25,7 @@
 
 ### Role in ARDS and Oxygenation Indices
 
-- In the management of Pediatric Acute [[Neonatalogy/Respiratory Distress Syndrome\|Respiratory Distress Syndrome]] ([[Emergencies/PARDS\|PARDS]]), pulse oximetry plays a pivotal role in severity stratification when invasive arterial blood gas (ABG) sampling for PaO2 is unavailable.
+- In the management of Pediatric Acute [[neonatalogy/Respiratory Distress in Newborns\|Respiratory Distress Syndrome]] ([[Emergencies/PARDS\|PARDS]]), pulse oximetry plays a pivotal role in severity stratification when invasive arterial blood gas (ABG) sampling for PaO2 is unavailable.
 - The SpO2 is used to calculate the Oxygen Saturation [[Statistics/Index\|Index]] (OSI), defined as: (FiO2 × mean airway pressure × 100) / SpO2.
 - The SpO2/FiO2 (SF) ratio is utilized as a surrogate diagnostic marker for children receiving non-invasive full-face mask ventilation.
 - To accurately calculate the SF ratio and OSI, the SpO2 must be documented at ≤ 97%, as values above this threshold limit the mathematical reliability of the [[Statistics/Index\|index]].

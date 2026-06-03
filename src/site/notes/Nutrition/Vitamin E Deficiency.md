@@ -45,9 +45,9 @@
 ### 1. Premature Infants
 
 - **Hemolytic Anemia of Prematurity:** Used to prevent or treat hemolytic anemia characterized by reticulocytosis, low hemoglobin, and hyperbilirubinemia appearing at 4–6 weeks of age. Premature infants are born with low stores and often face high oxidative stress.
-- **[[Neonatalogy/Retinopathy of prematurity\|Retinopathy of Prematurity]] (ROP):** Due to its antioxidant properties, it has been used to reduce the severity of ROP, although maintaining physiological levels is the current goal.
+- **[[neonatalogy/Retinopathy of prematurity\|Retinopathy of Prematurity]] (ROP):** Due to its antioxidant properties, it has been used to reduce the severity of ROP, although maintaining physiological levels is the current goal.
 - **Bronchopulmonary Dysplasia (BPD):** Used as an antioxidant therapy to potentially mitigate lung injury caused by oxygen toxicity.
-- **[[Neonatalogy/Intraventricular hemorrhage\|Intraventricular Hemorrhage]] (IVH):** Some studies suggest a role in reduction, though this is not a standard monotherapy.
+- **[[neonatalogy/Intraventricular hemorrhage\|Intraventricular Hemorrhage]] (IVH):** Some studies suggest a role in reduction, though this is not a standard monotherapy.
 
 ### 2. Malabsorption Syndromes
 

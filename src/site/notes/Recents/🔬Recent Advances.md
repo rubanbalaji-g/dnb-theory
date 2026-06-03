@@ -12,7 +12,7 @@
 7. [[Recents/Stem Cell Therapy for Bronchopulmonary Dysplasia\|Stem Cell Therapy for Bronchopulmonary Dysplasia]]
 8. [[Recents/Human Milk Oligosaccharides (HMOs)\|Human Milk Oligosaccharides (HMOs)]]
 9. [[Recents/Nirsevimab for RSV Prophylaxis\|Nirsevimab for RSV Prophylaxis]]
-10. [[Neonatalogy/NRP Algorithm - 9th edition\|NRP Algorithm - 9th edition]]
+10. [[neonatalogy/NRP Algorithm - 9th edition\|NRP Algorithm - 9th edition]]
 11. [[Recents/Intrauterine Fetal Therapy\|Intrauterine Fetal Therapy]]
 ## Neurology and Development
 1. [[Recents/Gene Therapy in Spinal Muscular Atrophy (SMA)\|Gene Therapy in Spinal Muscular Atrophy (SMA)]]

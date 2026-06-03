@@ -88,7 +88,7 @@ Management focuses on supporting the mother, correcting technique, and maintaini
 - **Correction of Attachment (The 4 Signs):**
     - Ensure: 1) Mouth wide open, 2) Lower lip turned outward, 3) Chin touching the breast, 4) More areola visible above the mouth than below.
 - **Prematurity/LBW:**
-    - **[[Neonatalogy/Kangaroo Mother Care\|Kangaroo Mother Care]] (KMC):** Provides warmth and promotes frequent breastfeeding.
+    - **[[neonatalogy/Kangaroo Mother Care\|Kangaroo Mother Care]] (KMC):** Provides warmth and promotes frequent breastfeeding.
     - **Expressed Breast Milk (EBM):** If the baby cannot suck, feed EBM using a **paladai (cup/spoon)** or gavage tube.
     - **Non-nutritive Sucking:** Allow nuzzling at the breast to mature the sucking reflex.
 - **Nipple Confusion:**

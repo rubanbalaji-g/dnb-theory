@@ -35,7 +35,7 @@
 
 ## 4. INVESTIGATIONS
 * **Screening Tests:**
-    * **[[Neonatalogy/Newborn Screening\|Newborn Screening]] (NBS):** Measures total galactose and/or GALT enzyme activity.
+    * **[[neonatalogy/Newborn Screening\|Newborn Screening]] (NBS):** Measures total galactose and/or GALT enzyme activity.
     * **Urine Reducing Substances:** Positive **Clinitest** (detects galactose) with Negative **Clinistix** (specific for glucose). *Note: False negatives possible if infant is not feeding or vomiting*.
 * **Confirmatory Tests:**
     * **RBC GALT Enzyme Activity (Gold Standard):** Absent or markedly reduced activity. *Caution: Avoid testing after blood transfusion (false negative)*.

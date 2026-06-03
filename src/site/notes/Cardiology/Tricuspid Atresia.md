@@ -21,7 +21,7 @@
 ## Hemodynamics
 
 - **Flow Pathway** : Systemic venous return $\rightarrow$ RA $\rightarrow$ ASD/PFO $\rightarrow$ LA (mixes with pulmonary venous return) $\rightarrow$ LV $\rightarrow$ Aorta (Systemic).
-- **Pulmonary Flow Source** : LV $\rightarrow$ [[Cardiology/VSD\|VSD]] $\rightarrow$ Hypoplastic RV $\rightarrow$ Pulmonary Artery (PA) OR via Patent Ductus Arteriosus (PDA).
+- **Pulmonary Flow Source** : LV $\rightarrow$ [[Cardiology/VSD\|VSD]] $\rightarrow$ Hypoplastic RV $\rightarrow$ Pulmonary Artery (PA) OR via Patent Ductus Arteriosus ([[neonatalogy/PDA\|PDA]]).
 - **Physiologic Determinants** : Degree of pulmonary blood flow (PBF) dictated by [[Cardiology/VSD\|VSD]] size, great artery relationship, and Right Ventricular Outflow Tract (RVOT) obstruction.
 
 ## Classification
@@ -42,7 +42,7 @@ _(Note: Subclassified into A (Pulmonary Atresia), B (Pulmonary Stenosis), C (No 
 - **Heart Failure** : Tachypnea / Poor feeding / Diaphoresis at 4-8 weeks (Type II / unrestricted PBF).
 - **Apical Impulse** : LV type impulse (Unique among cyanotic CHD).
 - **JVP** : Prominent 'a' wave (RA contraction against atretic valve).
-- **Auscultation** : Single S2 / Holosystolic murmur at left sternal border ([[Cardiology/VSD\|VSD]]) / Continuous murmur (PDA).
+- **Auscultation** : Single S2 / Holosystolic murmur at left sternal border ([[Cardiology/VSD\|VSD]]) / Continuous murmur ([[neonatalogy/PDA\|PDA]]).
 
 ## Diagnostics
 

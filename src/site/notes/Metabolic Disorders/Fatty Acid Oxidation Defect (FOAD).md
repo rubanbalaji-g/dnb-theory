@@ -54,7 +54,7 @@
 * **Clinical**: 
     * Presentation: 3 months to 5 years.
     * Fasting intolerance causing hypoketotic hypoglycemia and sudden death.
-    * **Prognosis**: Excellent if diagnosed ([[Neonatalogy/Newborn Screening\|newborn screening]]) and fasting avoided. No cardiomyopathy.
+    * **Prognosis**: Excellent if diagnosed ([[neonatalogy/Newborn Screening\|newborn screening]]) and fasting avoided. No cardiomyopathy.
 
 **2. Very Long-Chain Acyl-CoA Dehydrogenase (VLCAD) Deficiency**
 * **Genetics**: *ACADVL* gene.
@@ -114,7 +114,7 @@
 4.  **Anaplerotic Therapy**: **Triheptanoin** (C7 fatty acid) for long-chain defects (provides propionyl-CoA/succinyl-CoA for Krebs cycle).
 5.  **Emergency Protocol**: "Sick day regimen" with high carbohydrate intake (e.g., glucose polymer solutions) at first sign of illness.
 
-## VII. [[Neonatalogy/Newborn Screening\|NEWBORN SCREENING]] (NBS)
+## VII. [[neonatalogy/Newborn Screening\|NEWBORN SCREENING]] (NBS)
 * Tandem Mass Spectrometry (MS/MS) on dried blood spots.
 * Detects elevated acylcarnitines presymptomatically.
 * Significantly reduces mortality and morbidity (especially for MCAD).

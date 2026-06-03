@@ -16,7 +16,7 @@
 ## Important Definitions
 
 ### Prenatal Diagnostic Techniques
-- Includes ultrasonography, [[Neonatalogy/Amniocentesis\|amniocentesis]], chorionic villus sampling and other genetic diagnostic procedures used during pregnancy.
+- Includes ultrasonography, [[neonatalogy/Amniocentesis\|amniocentesis]], chorionic villus sampling and other genetic diagnostic procedures used during pregnancy.
 
 ### Sex Selection
 - Any procedure, technique, test or administration for selecting sex before or after conception.

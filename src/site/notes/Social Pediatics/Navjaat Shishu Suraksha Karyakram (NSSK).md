@@ -22,7 +22,7 @@
 - Integrate with other RMNCH+A components (SBA, HBNC, NBSU/SNCU)
 
 ## Key Components (The 4 Pillars of NSSK)
-- **Prevention of hypothermia**: Warm chain (immediate drying, skin-to-skin contact, delayed bathing, [[Neonatalogy/Kangaroo Mother Care\|Kangaroo Mother Care]] for LBW)
+- **Prevention of hypothermia**: Warm chain (immediate drying, skin-to-skin contact, delayed bathing, [[neonatalogy/Kangaroo Mother Care\|Kangaroo Mother Care]] for LBW)
 - **Prevention of infection**: 5 cleans, hand hygiene, aseptic cord care, exclusive breastfeeding, [[Misc/Maternal Immunization\|maternal immunization]]
 - **Early initiation of breastfeeding**: Within 1 hour, exclusive till 6 months, techniques of positioning & attachment
 - **Basic newborn resuscitation**: For non-breathing/asphyxiated babies
@@ -41,7 +41,7 @@
 	- Delayed cord clamping (1–3 min)
 	- Vitamin K prophylaxis, eye prophylaxis
 	- Weighing, APGAR scoring, identification
-- **[[Neonatalogy/Kangaroo Mother Care\|Kangaroo Mother Care]] (KMC)**: For all stable LBW babies (<2500g); continuous skin-to-skin, exclusive breastfeeding
+- **[[neonatalogy/Kangaroo Mother Care\|Kangaroo Mother Care]] (KMC)**: For all stable LBW babies (<2500g); continuous skin-to-skin, exclusive breastfeeding
 - **Monitoring**: Danger signs recognition, timely referral
 - **Counseling**: Mother & family on [[Social Pediatics/Home-Based Newborn Care (HBNC)\|home-based newborn care (HBNC)]]
 

@@ -28,7 +28,7 @@
 ## The 4 ‘D’s and 32 Conditions
 ### **1. Defects at Birth (9 Conditions)**
 
-These are conditions identified at delivery points or through [[Neonatalogy/Newborn Screening\|newborn screening]]:
+These are conditions identified at delivery points or through [[neonatalogy/Newborn Screening\|newborn screening]]:
 
 1. **Neural Tube Defect** 
 2. **Down's Syndrome**
@@ -38,7 +38,7 @@ These are conditions identified at delivery points or through [[Neonatalogy/Newb
 6. **[[Misc/Congenital Cataract\|Congenital Cataract]]**
 7. **Congenital Deafness**
 8. **Congenital Heart Disease**
-9. **[[Neonatalogy/Retinopathy of prematurity\|Retinopathy of Prematurity]] (ROP)**
+9. **[[neonatalogy/Retinopathy of prematurity\|Retinopathy of Prematurity]] (ROP)**
 ### **2. Deficiencies (5 Conditions)**
 
 Common nutritional deficiencies identified during community and school screening: 

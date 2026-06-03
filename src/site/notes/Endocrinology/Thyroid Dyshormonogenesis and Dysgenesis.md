@@ -76,7 +76,7 @@
 ---
 ## DIAGNOSTIC EVALUATION OF DYSHORMONOGENESIS
 
-### 1. [[Neonatalogy/Newborn Screening\|Newborn Screening]] and Initial Labs
+### 1. [[neonatalogy/Newborn Screening\|Newborn Screening]] and Initial Labs
 
 - **Screening:** Detected via high TSH (>15-30 mU/L) on filter paper spot.
 - **Confirmatory Serum:** Elevated TSH, low Free T4 (FT4).
@@ -147,7 +147,7 @@ Genetic defects in transcription factors essential for thyroid morphogenesis acc
 
 ## Investigations & Diagnosis
 
-- **[[Neonatalogy/Newborn Screening\|Newborn Screening]]:** Hallmark finding is elevated TSH with low free T4 (FT4).
+- **[[neonatalogy/Newborn Screening\|Newborn Screening]]:** Hallmark finding is elevated TSH with low free T4 (FT4).
 - **Radionuclide Scintigraphy (99mTc or 123I):** Gold standard imaging. Demonstrates exact location of ectopic tissue or confirms complete absence of uptake (agenesis, TSHR defects, maternal blocking antibodies).
 - **Neck Ultrasound:** Confirms absence of normally located gland. Highly user-dependent; frequently misses ectopic glands.
 - **Serum Thyroglobulin (Tg):** Low or undetectable in true agenesis and TSHR defects; characteristically elevated in ectopy.
@@ -164,6 +164,6 @@ Genetic defects in transcription factors essential for thyroid morphogenesis acc
 
 
 [^perchlorate]: The **perchlorate discharge test** is a diagnostic procedure used to detect defects in **iodide organification**, often seen in conditions like [[Endocrinology/Pendred Syndrome\|Pendred syndrome]]. It involves administering radioactive iodine followed by potassium perchlorate; if the thyroid cannot properly "trap" and bind the iodine into proteins, the perchlorate forces the unbound iodine out, causing a significant drop (discharge) in thyroid radioactivity levels.
-[^blt]: **Brain-lung-thyroid syndrome** is a rare genetic disorder caused by mutations in the **NKX2-1 gene**, which is essential for the development of these three specific organs. It typically presents as a clinical triad of **[[Endocrinology/Congenital Hypothyroidism\|congenital hypothyroidism]]**, infant **[[Neonatalogy/Respiratory Distress Syndrome\|respiratory distress syndrome]]**, and a movement disorder known as **benign hereditary chorea**. Because the severity of symptoms varies, some individuals may only exhibit one or two of these features throughout their lives.
+[^blt]: **Brain-lung-thyroid syndrome** is a rare genetic disorder caused by mutations in the **NKX2-1 gene**, which is essential for the development of these three specific organs. It typically presents as a clinical triad of **[[Endocrinology/Congenital Hypothyroidism\|congenital hypothyroidism]]**, infant **[[neonatalogy/Respiratory Distress in Newborns\|respiratory distress syndrome]]**, and a movement disorder known as **benign hereditary chorea**. Because the severity of symptoms varies, some individuals may only exhibit one or two of these features throughout their lives.
 [^bls]: **Bamforth-Lazarus syndrome** is an extremely rare genetic condition caused by mutations in the **TTF-2 (FKHL15)** gene, which is critical for early organ development. It is primarily characterized by the triad of **thyroid dysgenesis** (often resulting in an absent or misplaced thyroid), a **cleft palate**, and **spiky hair**. Some individuals with this syndrome may also exhibit additional features like choanal atresia (blocked nasal passages) or bifid epiglottis.
 [^alagille]: **Alagille syndrome** is a complex genetic disorder, typically caused by mutations in the **JAG1 gene**, that leads to a shortage of bile ducts within the liver (**bile duct paucity**). This results in [[Gastrointestinal/Chronic Liver Disease\|chronic liver disease]] and is classically associated with a specific group of features, including **butterfly vertebrae**, distinctive facial characteristics, heart defects (like peripheral pulmonic stenosis), and eye abnormalities (**posterior embryotoxon**).

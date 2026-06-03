@@ -14,11 +14,11 @@ The HBNC scheme is the cornerstone of an ASHA's neonatal responsibilities, aimed
 	* Home Delivery: 7 visits on days 1, 3, 7, 14, 21, 28, and 42.
 * Core Activities During HBNC:
 	* Anthropometry: Recording birth weight and monitoring weight gain.
-	* Temperature Regulation: Measuring temperature, demonstrating skin-to-skin contact, and promoting [[Neonatalogy/Kangaroo Mother Care\|Kangaroo Mother Care]] (KMC) for low birth weight (LBW) and preterm babies.
+	* Temperature Regulation: Measuring temperature, demonstrating skin-to-skin contact, and promoting [[neonatalogy/Kangaroo Mother Care\|Kangaroo Mother Care]] (KMC) for low birth weight (LBW) and preterm babies.
 	* Feeding Support: Counseling on early initiation of breastfeeding, exclusive breastfeeding (EBF), and identifying attachment/positioning issues.
 	* Essential Newborn Care: Examining the umbilical cord (preventing harmful applications), skin care, and eye care.
 	* Danger Sign Identification: Active screening for lethargy, poor suck, fast breathing (>60/min), severe chest indrawing, hypothermia (<36.5 C), or fever (>37.5 C).
-	* Referral: Facilitating immediate referral of sick neonates to the nearest Special Newborn Care Unit ([[Neonatalogy/SNCU\|SNCU]]) or [[Social Pediatics/First Referral Unit (FRU)\|First Referral Unit (FRU)]].
+	* Referral: Facilitating immediate referral of sick neonates to the nearest Special Newborn Care Unit ([[neonatalogy/SNCU\|SNCU]]) or [[Social Pediatics/First Referral Unit (FRU)\|First Referral Unit (FRU)]].
 
 ### Prevention Of Vertical Transmission And Birth Preparedness
 * Tracking pregnant women, ensuring Institutional Deliveries under Janani Suraksha Yojana (JSY) and [[Social Pediatics/Janani Shishu Suraksha Karyakram (JSSK)\|Janani Shishu Suraksha Karyakram (JSSK)]] to ensure clean and safe delivery practices.

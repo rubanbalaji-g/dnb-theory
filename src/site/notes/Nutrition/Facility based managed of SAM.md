@@ -24,7 +24,7 @@ Children with SAM have impaired thermoregulation due to loss of insulating fat a
 
 - **Definition:** Axillary temperature < 35°C (95°F) or Rectal temperature < 35.5°C (95.5°F).
 - **Management:**
-    - **Rewarm:** Place the child in skin-to-skin contact ([[Neonatalogy/Kangaroo Mother Care\|Kangaroo Mother Care]]) or under a radiant warmer/heater.
+    - **Rewarm:** Place the child in skin-to-skin contact ([[neonatalogy/Kangaroo Mother Care\|Kangaroo Mother Care]]) or under a radiant warmer/heater.
     - **Cover:** Ensure the head is covered (cap) as significant heat is lost from the head. Clothe the child properly.
     - **Monitor:** Check temperature every 30 minutes during rewarming, then every 2 hours.
     - **Avoid:** Rapid rewarming (hot water bottles) which can cause vasodilation and shock.

@@ -84,7 +84,7 @@ Fetal and neonatal megakaryocytes exhibit higher proliferative potential but rem
 | current coagulopathy                                                               | platelet count <50,000/mm3      |
 | preoperative status                                                                | platelet count <50,000/mm3      |
 | neonatal alloimmune thrombocytopenia (previously affected sibling with hemorrhage) | platelet count <50,000/mm3      |
-| major bleeding (significant [[Neonatalogy/Intraventricular hemorrhage\|intraventricular hemorrhage]])                           | platelet count <1,00,000/mm3    |
+| major bleeding (significant [[neonatalogy/Intraventricular hemorrhage\|intraventricular hemorrhage]])                           | platelet count <1,00,000/mm3    |
 | major surgery                                                                      | platelet count <1,00,000/mm3    |
 
 #### specific thrombocytopenic conditions

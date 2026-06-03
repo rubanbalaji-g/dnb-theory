@@ -19,7 +19,7 @@
 - Zero alpha-to-beta synthesis ratio occurs.
 - Hemoglobin Barts (gamma-chain tetramers) constitutes 80-100% of fetal hemoglobin.
 - Results in death in utero or shortly after birth.
-- [[Neonatalogy/Antenatal Diagnosis\|Antenatal diagnosis]] enables life-saving fetal packed red blood cell transfusions.
+- [[neonatalogy/Antenatal Diagnosis\|Antenatal diagnosis]] enables life-saving fetal packed red blood cell transfusions.
 
 ### Beta Thalassemia Syndromes
 
@@ -60,7 +60,7 @@
 |Modality|Gestational Age|Sample Source|Current Status|
 |:--|:--|:--|:--|
 |**Chorionic villus sampling**|10-14 weeks|Chorionic villus biopsy|Established standard.|
-|**[[Neonatalogy/Amniocentesis\|Amniocentesis]]**|15-20 weeks|Fetal fibroblasts|Established standard.|
+|**[[neonatalogy/Amniocentesis\|Amniocentesis]]**|15-20 weeks|Fetal fibroblasts|Established standard.|
 |**Noninvasive prenatal testing**|Not specified|Cell-free deoxyribonucleic acid|Under investigation.|
 
 ## Molecular Diagnostic Modalities

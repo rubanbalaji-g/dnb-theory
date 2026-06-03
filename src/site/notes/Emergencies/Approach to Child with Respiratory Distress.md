@@ -90,7 +90,7 @@ G3 --> H4
 |---|---|---|
 |Ala nasi flaring, suprasternal/supraclavicular retractions, stridor|Upper airway obstruction|Croup, Epiglottitis, Foreign body, [[Infectious Diseases/Diphtheria\|Diphtheria]]|
 |Subcostal/intercostal retractions, prolonged expiration, wheeze|Lower airway obstruction|[[Respiratory/Asthma\|Asthma]], [[Respiratory/Acute Bronchiolitis\|Acute bronchiolitis]]|
-|Intercostal/subcostal retractions, grunting, crepitations|Lung parenchyma|[[Respiratory/Community Acquired Pneumonia\|Community acquired pneumonia]], Acute [[Neonatalogy/Respiratory Distress Syndrome\|respiratory distress syndrome]]|
+|Intercostal/subcostal retractions, grunting, crepitations|Lung parenchyma|[[Respiratory/Community Acquired Pneumonia\|Community acquired pneumonia]], Acute [[neonatalogy/Respiratory Distress in Newborns\|respiratory distress syndrome]]|
 |See-saw breathing, irregular breathing, bradypnea|Central disordered control|Raised intracranial pressure, Brain injury|
 
 ### Pathophysiological mechanisms

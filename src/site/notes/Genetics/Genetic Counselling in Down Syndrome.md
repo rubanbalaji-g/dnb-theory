@@ -54,8 +54,8 @@
 - First-trimester combined screening utilizes Nuchal Translucency (NT), Pregnancy-Associated Plasma Protein A (PAPP-A), and free beta-hCG to achieve an 85-90% detection rate,.
 - Non-Invasive Prenatal Testing (NIPT) analyzes cell-free fetal DNA from maternal blood after 10 weeks of gestation, offering >99% sensitivity with a false-positive rate of <0.1%,.
 - Positive screening results must be confirmed with invasive diagnostic procedures.
-- [[Neonatalogy/Chorionic Villus Sampling (CVS)\|Chorionic Villus Sampling (CVS)]] can be performed at 10-13 weeks of gestation, carrying a 0.5-1% miscarriage risk,.
-- [[Neonatalogy/Amniocentesis\|Amniocentesis]] is performed at 15-20 weeks of gestation and represents the gold standard with a 0.1-0.3% procedure-related loss risk.
+- [[neonatalogy/Chorionic Villus Sampling (CVS)\|Chorionic Villus Sampling (CVS)]] can be performed at 10-13 weeks of gestation, carrying a 0.5-1% miscarriage risk,.
+- [[neonatalogy/Amniocentesis\|Amniocentesis]] is performed at 15-20 weeks of gestation and represents the gold standard with a 0.1-0.3% procedure-related loss risk.
 - [[Genetics/Preimplantation Genetic Testing\|Preimplantation Genetic Testing]] (PGT) combined with In Vitro Fertilization (IVF) is the preferred reproductive option if a parent is identified as a balanced translocation carrier.
 
 ## Psychosocial Support

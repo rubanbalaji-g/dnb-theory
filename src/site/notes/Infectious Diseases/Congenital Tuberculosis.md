@@ -14,7 +14,7 @@ Unlike postnatal TB, which is almost exclusively airborne, congenital TB has uni
 
 - **Mechanism:** This occurs when the mother has a primary infection or disseminated disease (miliary/meningeal) resulting in bacillemia. Tubercle bacilli infect the placenta (placentitis) and spread to the fetus through the **umbilical vein**.
 - **Primary Complex:** Since the oxygenated blood from the umbilical vein first passes through the fetal liver, the **primary focus (Ghon complex) is typically formed in the liver** or the periportal lymph nodes.
-- **Dissemination:** From the liver, bacilli enter the [[Neonatalogy/Fetal circulation\|fetal circulation]] and disseminate to other organs, including the lungs, spleen, and bone marrow.
+- **Dissemination:** From the liver, bacilli enter the [[neonatalogy/Fetal circulation\|fetal circulation]] and disseminate to other organs, including the lungs, spleen, and bone marrow.
 
 ### 2. Aspiration or Ingestion (Infected Amniotic Fluid)
 

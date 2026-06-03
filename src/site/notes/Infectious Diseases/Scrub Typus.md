@@ -66,7 +66,7 @@ The incubation period typically ranges from 6 to 21 days (usually 9–11 days). 
 
 Severe complications arise from widespread vasculitis and include:
 
-- **Respiratory:** Acute [[Neonatalogy/Respiratory Distress Syndrome\|Respiratory Distress Syndrome]] (ARDS), interstitial pneumonia.
+- **Respiratory:** Acute [[neonatalogy/Respiratory Distress in Newborns\|Respiratory Distress Syndrome]] (ARDS), interstitial pneumonia.
 - **Cardiovascular:** Myocarditis, shock.
 - **Neurological:** Meningoencephalitis, aseptic [[Neurology/Meningitis\|meningitis]].
 - **Renal:** [[Nephrology/Acute Kidney Injury\|Acute Kidney Injury]] (AKI).

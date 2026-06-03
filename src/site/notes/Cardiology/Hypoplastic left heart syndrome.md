@@ -11,7 +11,7 @@
 - Other contributing mechanisms include intrinsic myocardial cell defects and genetic mutations involving genes such as GJA1, NKX2-5, NOTCH1, and MYH6.
 - HLHS is associated with genetic anomalies in up to 15% of cases, including [[Genetics/Turner Syndrome\|Turner syndrome]], Trisomy 13, 18, and 21, Holt-Oram syndrome, and Jacobsen syndrome.
 
-## Pathophysiology and [[Neonatalogy/Fetal circulation\|Fetal Circulation]]
+## Pathophysiology and [[neonatalogy/Fetal circulation\|Fetal Circulation]]
 
 - Survival depends entirely on the morphological right ventricle maintaining both the pulmonary and systemic circulations.
 - Oxygenated pulmonary venous blood returning to the left atrium must cross the atrial septum via a patent foramen ovale or an atrial septal defect into the right atrium, where it undergoes complete mixing with systemic venous blood.

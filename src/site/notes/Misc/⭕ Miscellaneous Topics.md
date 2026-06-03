@@ -12,7 +12,7 @@
 7. [[Misc/Ophthalmic Findings In Diabetes Mellitus\|Ophthalmic Findings In Diabetes Mellitus]]
 8. [[Misc/Ophthalmic Findings In Acute Leukemia\|Ophthalmic Findings In Acute Leukemia]]
 9. [[Misc/Blindness in Children\|Blindness in Children]]
-10. [[Neonatalogy/Retinopathy of prematurity\|Retinopathy of prematurity]]
+10. [[neonatalogy/Retinopathy of prematurity\|Retinopathy of prematurity]]
 11. [[Misc/Proptosis\|Proptosis]]
 12. [[Misc/Neonatal Vision Assessment In India\|Neonatal Vision Assessment In India]]
 ## Ear

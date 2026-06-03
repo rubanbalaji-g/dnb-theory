@@ -12,7 +12,7 @@ BPD is multifactorial, resulting from the interaction between an immature lung a
     * *Atelectotrauma:* Repeated alveolar collapse and reopening.
 3.  **Oxygen Toxicity:** Production of Reactive Oxygen Species (ROS) causing free radical damage.
 4.  **Infection/Inflammation:** Chorioamnionitis (antenatal) or postnatal sepsis stimulating proinflammatory cytokines.
-5.  **Patent Ductus Arteriosus (PDA):** Pulmonary overcirculation and edema.
+5.  **Patent Ductus Arteriosus ([[neonatalogy/PDA\|PDA]]):** Pulmonary overcirculation and edema.
 6.  **Fluid Overload:** excessive fluid administration in the first week of life.
 
 ## II. Pathogenesis

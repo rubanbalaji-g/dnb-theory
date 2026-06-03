@@ -35,7 +35,7 @@
 - Profound hepatomegaly, splenomegaly, and generalized lymphadenopathy.
 - Hemorrhagic manifestations include petechiae, widespread ecchymoses, epistaxis, and gastrointestinal bleeding.
 - Central nervous system involvement produces mental status changes, lethargy, seizures, and coma.
-- Rapid progression to multiorgan failure, acute [[Neonatalogy/Respiratory Distress Syndrome\|respiratory distress syndrome]], and shock.
+- Rapid progression to multiorgan failure, acute [[neonatalogy/Respiratory Distress in Newborns\|respiratory distress syndrome]], and shock.
 
 ## Laboratory Profile
 

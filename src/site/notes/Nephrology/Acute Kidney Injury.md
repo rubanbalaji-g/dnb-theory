@@ -33,7 +33,7 @@
 - Prematurity and extremely low birth weight (ELBW) are highly associated with reduced nephron endowment and abnormal function.
 - Perinatal asphyxia and hypoxic-ischemic encephalopathy alter renal blood flow during the critical transition to extra-uterine life.
 - Necrotizing enterocolitis (NEC) triggers severe systemic inflammatory responses and hypotension.
-- Hemodynamically significant patent ductus arteriosus (hs-PDA) and the use of maternal nephrotoxic medications (NSAIDs, ACE inhibitors) significantly impair neonatal renal perfusion.
+- Hemodynamically significant patent ductus arteriosus (hs-[[neonatalogy/PDA\|PDA]]) and the use of maternal nephrotoxic medications (NSAIDs, ACE inhibitors) significantly impair neonatal renal perfusion.
 
 ## Pathophysiology
 

@@ -21,7 +21,7 @@
 |Period|Etiological Factors|
 |:--|:--|
 |**Antenatal**|Genetic syndromes (Fragile X, Rett syndrome, Prader-Willi), Chromosomal disorders (Down syndrome, Klinefelter syndrome, 1p36 deletion), Cortical malformations (lissencephaly), Intrauterine infections (syphilis, toxoplasmosis, rubella, cytomegalovirus, Zika virus), Teratogen exposure (fetal alcohol syndrome), Inborn errors of metabolism.|
-|**Perinatal & Neonatal**|Hypoxic ischemic encephalopathy, Kernicterus, Hypoglycemic brain injury, Hypothyroidism, Neonatal [[Neurology/Meningitis\|meningitis]] or encephalitis, [[Neonatalogy/Intraventricular hemorrhage\|Intraventricular hemorrhage]], Periventricular leukomalacia.|
+|**Perinatal & Neonatal**|Hypoxic ischemic encephalopathy, Kernicterus, Hypoglycemic brain injury, Hypothyroidism, Neonatal [[Neurology/Meningitis\|meningitis]] or encephalitis, [[neonatalogy/Intraventricular hemorrhage\|Intraventricular hemorrhage]], Periventricular leukomalacia.|
 |**Postnatal**|Deficiency of vitamin B12, iodine, or B1; Toxins (lead exposure); Traumatic head injury; Postnatal central nervous system infections; Severe nutritional deficiencies.|
 
 ## Clinical Features and Red Flags

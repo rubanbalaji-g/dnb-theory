@@ -76,7 +76,7 @@ These are due to ongoing viral replication and tissue damage in the neonate. The
     - **Salt-and-Pepper Retinopathy:** Pigmentary changes in the retina. It is the most common ocular finding but usually does not significantly affect vision.
     - **Microphthalmia** and **Congenital Glaucoma**.
 - **Cardiac:**
-    - **Patent Ductus Arteriosus (PDA):** The most common cardiac lesion.
+    - **Patent Ductus Arteriosus ([[neonatalogy/PDA\|PDA]]):** The most common cardiac lesion.
     - **Peripheral Pulmonary Artery Stenosis (PAS):** Highly characteristic of CRS.
     - Ventricular Septal Defect ([[Cardiology/VSD\|VSD]]) and Atrial Septal Defect ([[Cardiology/ASD\|ASD]]) may also occur.
 - **Neurologic:**
@@ -140,7 +140,7 @@ There is no specific antiviral therapy for CRS. Management is supportive and mul
 - **Ophthalmology:**
     - **Cataracts:** Surgical removal is indicated but may be delayed until inflammation subsides to prevent complications.
     - **Glaucoma:** Requires immediate management to preserve vision.
-- **Cardiology:** Surgical or catheter-based correction of PDA and stenosis.
+- **Cardiology:** Surgical or catheter-based correction of [[neonatalogy/PDA\|PDA]] and stenosis.
 - **Audiology:** Early hearing screening (BERA/OAE). Hearing aids and cochlear implants for sensorineural hearing loss. Early speech therapy is crucial.
 - **Neurology:** Physical therapy and special education for developmental delay and [[Neurology/Cerebral Palsy\|cerebral palsy]].
 
@@ -188,6 +188,6 @@ If a pregnant woman is exposed to a suspected case of rubella:
 |**General**|IUGR, "Blueberry muffin" rash, Radiolucent bone disease|
 |**Eye**|**Cataracts**, Salt-and-pepper retinopathy, Microphthalmia|
 |**Ear**|**Sensorineural Hearing Loss** (most common)|
-|**Heart**|**PDA**, Peripheral Pulmonary Artery Stenosis|
+|**Heart**|**[[neonatalogy/PDA\|PDA]]**, Peripheral Pulmonary Artery Stenosis|
 |**CNS**|[[Neurology/Microcephaly\|Microcephaly]], Meningoencephalitis, Calcifications|
 |**Late Onset**|Diabetes Mellitus, Thyroiditis, PRP|

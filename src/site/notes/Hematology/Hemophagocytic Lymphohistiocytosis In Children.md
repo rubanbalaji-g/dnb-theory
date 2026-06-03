@@ -50,7 +50,7 @@ Clinical presentation is typically severe and acute, mimicking hyperferritinemic
 - **Systemic Features:** Fever (90-100%), weight loss, irritability.
 - **Reticuloendothelial:** Splenomegaly (84-100%), hepatomegaly (70-100%), lymphadenopathy (20-50%).
 - **Dermatologic:** Maculopapular and/or petechial rash (10-60%).
-- **Pulmonary:** Respiratory distress (40-90%), acute [[Neonatalogy/Respiratory Distress Syndrome\|respiratory distress syndrome]] (ARDS).
+- **Pulmonary:** Respiratory distress (40-90%), acute [[neonatalogy/Respiratory Distress in Newborns\|respiratory distress syndrome]] (ARDS).
 - **Hepatic/Hematologic:** Jaundice, liver failure, pancytopenia, bleeding, coagulopathy.
 - **Central Nervous System (50%):** Seizures, ataxia, altered mental status, coma, cranial nerve palsies.
 - **Isolated CNS HLH:** Neuroinflammatory disease occasionally presents without systemic cytopenias or splenomegaly, delaying diagnosis.

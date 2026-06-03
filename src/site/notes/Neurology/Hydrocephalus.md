@@ -71,7 +71,7 @@ Classified broadly into Non-Communicating (Obstructive) and Communicating (Non-o
 
 * **Acquired:**
     * **Tumors:** Supratentorial (compressing 3rd vent) or Infratentorial (Medulloblastoma, Ependymoma, Astrocytoma compressing 4th vent).
-    * **[[Neonatalogy/Intraventricular hemorrhage\|Intraventricular Hemorrhage]] (IVH):** Acute clot obstructing the aqueduct.
+    * **[[neonatalogy/Intraventricular hemorrhage\|Intraventricular Hemorrhage]] (IVH):** Acute clot obstructing the aqueduct.
     * **Ventriculitis:** Pyogenic pus organizing and blocking foramina.
 
 #### 2. Communicating (Non-Obstructive)

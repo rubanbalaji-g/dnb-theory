@@ -46,7 +46,7 @@
 * **Confirmatory Test (Gold Standard):**
     * **Enzyme Assay:** Absent or reduced **Serum Biotinidase Activity**.
     * *Note:* Unlike other metabolic enzymes often requiring tissue, biotinidase is abundant in serum.
-* **[[Neonatalogy/Newborn Screening\|Newborn Screening]] (NBS):**
+* **[[neonatalogy/Newborn Screening\|Newborn Screening]] (NBS):**
     * Many programs screen for this using colorimetric or fluorometric enzyme assays on dried blood spots.
 
 ## 5. DIAGNOSIS DIFFERENTIAL

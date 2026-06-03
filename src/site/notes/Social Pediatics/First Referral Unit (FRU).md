@@ -22,10 +22,10 @@ An FRU must be equipped to handle perinatal and childhood emergencies to reduce 
 ### 2. Newborn Stabilization Unit (NBSU)
 * Definition: A 4-bedded step-down or stabilization unit within the FRU.
 * Capabilities: 
-	- Provision of [[Neonatalogy/Kangaroo Mother Care\|Kangaroo Mother Care]] (KMC) for low birth weight and preterm infants.
+	- Provision of [[neonatalogy/Kangaroo Mother Care\|Kangaroo Mother Care]] (KMC) for low birth weight and preterm infants.
 	- Administration of intravenous fluids and broad-spectrum antibiotics for suspected neonatal sepsis.
-	- Provision of phototherapy for [[Neonatalogy/Neonatal Hyperbilirubinemia\|neonatal hyperbilirubinemia]].
-	- Stabilization and safe referral of extremely premature infants or those with severe birth asphyxia (HIE) to a Special Newborn Care Unit ([[Neonatalogy/SNCU\|SNCU]]).
+	- Provision of phototherapy for [[neonatalogy/Neonatal Hyperbilirubinemia\|neonatal hyperbilirubinemia]].
+	- Stabilization and safe referral of extremely premature infants or those with severe birth asphyxia (HIE) to a Special Newborn Care Unit ([[neonatalogy/SNCU\|SNCU]]).
 
 ### 3. Pediatric Ward And Emergency Care
 * Designed for the admission and management of common childhood illnesses as per the Facility-Based Integrated Management of Neonatal and Childhood Illnesses (F-IMNCI) guidelines.
@@ -48,4 +48,4 @@ The FRU is heavily integrated into ongoing public health initiatives to ensure z
 
 ## Role In The Referral Pathway
 * Hub and Spoke Model: The FRU acts as the "Hub" for surrounding PHCs and Sub-Centers. High-risk pregnancies and sick children identified by ASHA workers or PHC doctors are referred here.
-* Upward Referral: If an infant requires mechanical ventilation, surfactant replacement therapy, or pediatric surgery, the FRU's mandate is to stabilize the patient, arrange a JSSK-funded advanced life support ambulance, and transfer the child to a District Hospital [[Neonatalogy/SNCU\|SNCU]] or Medical College.
+* Upward Referral: If an infant requires mechanical ventilation, surfactant replacement therapy, or pediatric surgery, the FRU's mandate is to stabilize the patient, arrange a JSSK-funded advanced life support ambulance, and transfer the child to a District Hospital [[neonatalogy/SNCU\|SNCU]] or Medical College.

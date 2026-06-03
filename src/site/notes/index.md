@@ -30,7 +30,7 @@ Care of the newborn from birth through the neonatal period, including high-risk 
 
 > [!orange] 👶Neonatology
 > Normal newborn care, prematurity, neonatal intensive care, and common neonatal disorders.  
-> [[Neonatalogy/👶 Neonatology\|View Notes →]]
+> [[neonatalogy/👶 Neonatology\|View Notes →]]
 
 ## Emergency & Acute Care
 Recognition and management of pediatric emergencies and critically ill children.

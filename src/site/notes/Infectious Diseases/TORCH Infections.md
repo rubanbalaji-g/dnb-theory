@@ -77,7 +77,7 @@ The acronym **TORCH** refers to a group of pathogens that can cause congenital o
 - **Classic Triad (Gregg’s Triad):**
     1. **Cataracts:** Nuclear cataracts, microphthalmia.
     2. **Sensorineural Hearing Loss (Deafness):** Most common permanent sequela.
-    3. **Congenital Heart Disease:** Patent Ductus Arteriosus (PDA) and Pulmonary Artery Stenosis.
+    3. **Congenital Heart Disease:** Patent Ductus Arteriosus ([[neonatalogy/PDA\|PDA]]) and Pulmonary Artery Stenosis.
 - **Extended Syndrome:**
     - "Blueberry muffin" rash (dermal erythropoiesis).
     - [[Neurology/Microcephaly\|Microcephaly]], meningoencephalitis.

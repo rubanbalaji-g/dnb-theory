@@ -13,12 +13,12 @@ Prenatal diagnosis (PND) of Primary Immunodeficiency Diseases (PIDs) is indicate
 PND can be categorized into Molecular, Biochemical, and Functional/Phenotypic methods.
 
 ### 1. Molecular Diagnosis (Gold Standard)
-* **[[Neonatalogy/Chorionic Villus Sampling (CVS)\|Chorionic Villus Sampling (CVS)]]:**
+* **[[neonatalogy/Chorionic Villus Sampling (CVS)\|Chorionic Villus Sampling (CVS)]]:**
     * **Timing:** 10–12 weeks of gestation.
     * **Procedure:** Ultrasound-guided aspiration of trophoblastic tissue.
     * **Utility:** DNA extraction for Targeted Mutation Analysis or Linkage Analysis (RFLP).
     * **Common Targets:** *IL2RG* (X-SCID), *WAS* (Wiskott-Aldrich), *BTK* (X-linked Agammaglobulinemia), *CYBB* (CGD).
-* **[[Neonatalogy/Amniocentesis\|Amniocentesis]]:**
+* **[[neonatalogy/Amniocentesis\|Amniocentesis]]:**
     * **Timing:** 15–18 weeks of gestation.
     * **Utility:** Culture of amniocytes for DNA analysis. Lower risk of maternal cell contamination compared to CVS but performed later in pregnancy.
 
@@ -27,7 +27,7 @@ Used for metabolic PIDs where the enzyme deficiency is expressed in fetal tissue
 * **Adenosine Deaminase (ADA) Deficiency:** Measured in cultured amniocytes or chorionic villi.
 * **Purine Nucleoside Phosphorylase (PNP) Deficiency:** Enzyme activity assays in fetal cells.
 
-### 3. Fetal Blood Sampling ([[Neonatalogy/Cordocentesis\|Cordocentesis]])
+### 3. Fetal Blood Sampling ([[neonatalogy/Cordocentesis\|Cordocentesis]])
 * **Timing:** 18–22 weeks of gestation.
 * **Method:** Ultrasound-guided percutaneous umbilical blood sampling (PUBS).
 * **Applications:**

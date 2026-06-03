@@ -60,6 +60,6 @@ Advanced genomic technologies are essential for diagnosing consanguinity-related
 ### Screening And Reproductive Options
 
 - **Expanded Carrier Screening (ECS):** Highly recommended pre-conceptionally, utilizing NGS panels to simultaneously screen for hundreds of AR conditions.
-- **Prenatal Diagnosis:** Options include chorionic villus sampling or [[Neonatalogy/Amniocentesis\|amniocentesis]] for couples identified as carriers of specific severe AR traits.
+- **Prenatal Diagnosis:** Options include chorionic villus sampling or [[neonatalogy/Amniocentesis\|amniocentesis]] for couples identified as carriers of specific severe AR traits.
 - **[[Genetics/Preimplantation Genetic Testing\|Preimplantation Genetic Testing]]:** [[Genetics/Preimplantation Genetic Testing\|Preimplantation genetic testing]] for monogenic defects (PGT-M) combined with in vitro fertilization ensures only unaffected embryos are transferred.
 - Routine high-resolution fetal anomaly ultrasounds are mandated for all consanguineous pregnancies to detect structural malformations.

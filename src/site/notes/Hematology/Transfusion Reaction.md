@@ -131,9 +131,9 @@ Unique physiological vulnerabilities predispose premature neonates to specific t
 - Pathophysiology remains multifactorial.
 - Proposed mechanisms implicate inflammatory substances within packed red blood cell units, oxidative stress, gut immaturity, pre-transfusion small bowel hypoxia, and disturbances in mesenteric blood flow post-transfusion.
 
-### [[Neonatalogy/Retinopathy of prematurity\|Retinopathy of prematurity]] and bronchopulmonary dysplasia
+### [[neonatalogy/Retinopathy of prematurity\|Retinopathy of prematurity]] and bronchopulmonary dysplasia
 
-- Red blood cell transfusion serves as independent risk factor for [[Neonatalogy/Retinopathy of prematurity\|retinopathy of prematurity]].
+- Red blood cell transfusion serves as independent risk factor for [[neonatalogy/Retinopathy of prematurity\|retinopathy of prematurity]].
 - Pathophysiology relates to transfusion of adult hemoglobin possessing lower oxygen affinity compared to fetal hemoglobin, causing excessive oxygen release.
 - Resultant severe oxidative stress damages developing retinal vessels.
 - Pro-inflammatory and anti-inflammatory mediators accumulating in stored red blood cells contribute significantly to bronchopulmonary dysplasia pathogenesis.

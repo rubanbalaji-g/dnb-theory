@@ -69,8 +69,8 @@
 ### Prenatal And Carrier Testing
 
 - Chorionic villus sampling performed at 10-12 weeks gestation.
-- [[Neonatalogy/Amniocentesis\|Amniocentesis]] performed after 15 weeks gestation.
-- Fetal blood sampling via [[Neonatalogy/Cordocentesis\|cordocentesis]] feasible at 18-20 weeks.
+- [[neonatalogy/Amniocentesis\|Amniocentesis]] performed after 15 weeks gestation.
+- Fetal blood sampling via [[neonatalogy/Cordocentesis\|cordocentesis]] feasible at 18-20 weeks.
 - Carrier detection utilizes targeted mutation analysis.
 - FVIII/vWF:Ag ratio <1.0 detects 80% of carriers with 95% accuracy.
 

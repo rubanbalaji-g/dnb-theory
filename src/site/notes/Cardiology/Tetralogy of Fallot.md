@@ -52,7 +52,7 @@
 
 - Right aortic arch (20% to 25% of cases).
 - Coronary artery anomalies (e.g., Left anterior descending artery originating from right coronary artery in 5% to 10% of cases).
-- Patent ductus arteriosus (PDA).
+- Patent ductus arteriosus ([[neonatalogy/PDA\|PDA]]).
 - Multiple VSDs.
 - Atrioventricular septal defect (AVSD).
 - Absent pulmonary valve syndrome.

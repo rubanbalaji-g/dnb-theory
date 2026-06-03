@@ -74,7 +74,7 @@ Diagnostic evaluation relies on identifying the exact biochemical blockage utili
 |**Argininosuccinic Aciduria (ASL)**|High|Moderately High|Normal|High argininosuccinic acid|
 |**Argininemia (ARG1)**|Mild/High|Normal|Normal|High arginine|
 
-_Confirmatory Tests:_ Molecular genetics via gene panel testing is the standard of care. [[Neonatalogy/Newborn Screening\|Newborn screening]] detects citrullinemia and argininosuccinic aciduria but frequently misses OTC and CPS1 deficiencies.
+_Confirmatory Tests:_ Molecular genetics via gene panel testing is the standard of care. [[neonatalogy/Newborn Screening\|Newborn screening]] detects citrullinemia and argininosuccinic aciduria but frequently misses OTC and CPS1 deficiencies.
 
 ## Management
 

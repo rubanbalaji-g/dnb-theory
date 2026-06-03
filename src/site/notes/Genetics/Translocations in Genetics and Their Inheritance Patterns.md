@@ -58,5 +58,5 @@
     - For a female carrier of a t(14;21) translocation, the risk of having a child with Down syndrome is approximately 10-15%.
     - For a male carrier of a t(14;21) translocation, the risk is approximately 1-2% due to sperm competition and selection factors.
     - A carrier of a t(21q21q) translocation faces a 100% recurrence risk for Down syndrome in all live-born offspring.
-- **Reproductive Options:** Prenatal diagnosis is facilitated via chorionic villus sampling or [[Neonatalogy/Amniocentesis\|amniocentesis]]. Pre-implantation genetic testing for structural rearrangements (PGT-SR) allows couples to select balanced or normal embryos before implantation.
+- **Reproductive Options:** Prenatal diagnosis is facilitated via chorionic villus sampling or [[neonatalogy/Amniocentesis\|amniocentesis]]. Pre-implantation genetic testing for structural rearrangements (PGT-SR) allows couples to select balanced or normal embryos before implantation.
 - **Family Screening:** Pedigree analysis is strictly mandatory for all families with a child diagnosed with an unbalanced translocation to identify any phenotypically silent carriers.

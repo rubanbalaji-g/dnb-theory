@@ -105,4 +105,4 @@ Index Patient -> DNA (gene deletion screening via PCR/MLPA) -> If No Gene Deleti
 
 - Accurate pedigree charting tracing back at least two generations is essential.
 - Identify carrier status of females by CPK screening (normal in 20% of carriers) and targeted DNA studies.
-- **Prenatal Diagnosis:** Fetal sex identification is the first step. If male, [[Neonatalogy/Chorionic Villus Sampling (CVS)\|Chorionic Villus Sampling (CVS)]] is conducted at the 11th to 12th week of gestation for multiplex PCR or Southern blot analysis.
+- **Prenatal Diagnosis:** Fetal sex identification is the first step. If male, [[neonatalogy/Chorionic Villus Sampling (CVS)\|Chorionic Villus Sampling (CVS)]] is conducted at the 11th to 12th week of gestation for multiplex PCR or Southern blot analysis.

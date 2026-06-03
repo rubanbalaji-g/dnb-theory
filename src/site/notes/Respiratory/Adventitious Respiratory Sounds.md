@@ -34,7 +34,7 @@
 - **Anatomical Level:** The presence of crepitations localizes the primary pathology to the lung parenchyma, specifically the alveoli and interstitial spaces.
 - **Clinical Conditions:**
     - Infectious etiologies include viral or bacterial community-acquired pneumonia.
-    - Non-infectious etiologies include acute [[Neonatalogy/Respiratory Distress Syndrome\|respiratory distress syndrome]] (ARDS), and cardiogenic or non-cardiogenic pulmonary edema (such as that seen in severe [[Infectious Diseases/Malaria\|malaria]], systemic inflammation, or congestive heart failure).
+    - Non-infectious etiologies include acute [[neonatalogy/Respiratory Distress in Newborns\|respiratory distress syndrome]] (ARDS), and cardiogenic or non-cardiogenic pulmonary edema (such as that seen in severe [[Infectious Diseases/Malaria\|malaria]], systemic inflammation, or congestive heart failure).
 
 ### 4. Grunting
 

@@ -48,7 +48,7 @@ Crucial feature: **Systemic arterial supply** (usually thoracic/abdominal aorta)
 ---
 ### 3. Diagnosis 
 
-#### A. [[Neonatalogy/Antenatal Diagnosis\|Antenatal Diagnosis]] (Routine USG)
+#### A. [[neonatalogy/Antenatal Diagnosis\|Antenatal Diagnosis]] (Routine USG)
 * **Appearance:** Hyperechoic lung mass (microcystic) or hypoechoic cysts (macrocystic).
 * **Prognostic Factor:** **CPAM Volume Ratio (CVR)**.
     * Formula: $(L \times H \times W \times 0.52) \div \text{Head Circumference}$.
@@ -78,7 +78,7 @@ Crucial feature: **Systemic arterial supply** (usually thoracic/abdominal aorta)
 * **Hydrops Present / CVR > 1.6:**
     * Maternal Steroids (Betamethasone) - shrinks lesion (Type 3/microcystic).
     * Thoraco-amniotic shunt (for macrocystic).
-    * *Rare:* [[Neonatalogy/Fetal Surgery\|Fetal surgery]] or EXIT procedure.
+    * *Rare:* [[neonatalogy/Fetal Surgery\|Fetal surgery]] or EXIT procedure.
 
 #### B. Postnatal Management (Symptomatic)
 * **Immediate Surgery:** Indicated for respiratory distress.

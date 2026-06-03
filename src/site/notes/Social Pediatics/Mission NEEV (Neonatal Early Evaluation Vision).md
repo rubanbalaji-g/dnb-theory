@@ -36,13 +36,13 @@ Targets critical systemic dysfunctions that are phenotypically silent at birth:
 	- Utilizes [[Emergencies/Pulse Oximetry\|Pulse Oximetry]] on day 2 or 3 of life.
 	- Pre-ductal (right hand) and post-ductal (either foot) SpO2 are recorded to detect ductus-dependent systemic or pulmonary circulatory defects.
 - Vision Assessment:
-	- Screening for [[Neonatalogy/Retinopathy of prematurity\|Retinopathy of Prematurity]] (ROP) in eligible premature/low birth weight infants utilizing digital retinal imaging.
+	- Screening for [[neonatalogy/Retinopathy of prematurity\|Retinopathy of Prematurity]] (ROP) in eligible premature/low birth weight infants utilizing digital retinal imaging.
 
 ### 3. Metabolic Birth Defects (IEM) Screening
 Focuses on highly prevalent, life-threatening, but easily treatable Inborn Errors of Metabolism (IEM):
 - [[Endocrinology/Congenital Hypothyroidism\|Congenital Hypothyroidism]] (CH): Early levothyroxine initiation prevents irreversible intellectual disability.
 - [[Endocrinology/Congenital Adrenal Hyperplasia\|Congenital Adrenal Hyperplasia]] (CAH): Prevents fatal salt-wasting crises and ambiguous genitalia complications.
-- G6PD Deficiency: Prevents severe [[Neonatalogy/Neonatal Hyperbilirubinemia\|neonatal hyperbilirubinemia]] and subsequent kernicterus.
+- G6PD Deficiency: Prevents severe [[neonatalogy/Neonatal Hyperbilirubinemia\|neonatal hyperbilirubinemia]] and subsequent kernicterus.
 - Methodology: Heel-prick dried blood spot (DBS) collection is performed, ideally synchronized with routine birth vaccinations to minimize pain, strictly prior to discharge.
 
 ## Workflow And Digital Integration Architecture

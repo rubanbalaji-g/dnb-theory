@@ -69,4 +69,4 @@
 |:--|:--|
 |**Local (<4 weeks)**|Acute peripancreatic fluid collection, acute necrotic collection.|
 |**Local (>4 weeks)**|Pancreatic pseudocyst (encapsulated fluid without necrosis), walled-off necrosis.|
-|**Systemic**|Systemic inflammatory response syndrome (SIRS), acute [[Neonatalogy/Respiratory Distress Syndrome\|respiratory distress syndrome]], renal failure, shock, [[Hematology/Disseminated Intravascular Coagulation\|disseminated intravascular coagulation]], gastrointestinal hemorrhage.|
+|**Systemic**|Systemic inflammatory response syndrome (SIRS), acute [[neonatalogy/Respiratory Distress in Newborns\|respiratory distress syndrome]], renal failure, shock, [[Hematology/Disseminated Intravascular Coagulation\|disseminated intravascular coagulation]], gastrointestinal hemorrhage.|

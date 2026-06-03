@@ -44,7 +44,7 @@ The Surakshit Matritva Aashwasan (SUMAN) initiative was launched by the Ministry
 For the pediatric practitioner, SUMAN reinforces and guarantees access to critical neonatal interventions:
 * Essential Newborn Care (ENC): Immediate drying, tactile stimulation, and maintenance of the warm chain.
 * Neonatal Resuscitation: Assured availability of trained personnel (NSSK certified) and functional newborn care corners (NBCC) at all delivery points.
-* Nutrition And KMC: Uninterrupted support for early initiation of exclusive breastfeeding within one hour and implementation of [[Neonatalogy/Kangaroo Mother Care\|Kangaroo Mother Care]] for premature and low birth weight infants.
+* Nutrition And KMC: Uninterrupted support for early initiation of exclusive breastfeeding within one hour and implementation of [[neonatalogy/Kangaroo Mother Care\|Kangaroo Mother Care]] for premature and low birth weight infants.
 * Sick Newborn Care: Guaranteed free treatment of neonatal sepsis, birth asphyxia, and prematurity complications at Special Newborn Care Units (SNCUs) and First Referral Units (FRUs).
 * Immunization: Assured administration of zero-dose vaccines ([[Misc/BCG\|BCG]], OPV, [[Gastrointestinal/Hepatitis B\|Hepatitis B]]) prior to discharge.
 

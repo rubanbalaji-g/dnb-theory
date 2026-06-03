@@ -10,7 +10,7 @@
 
 ## Primary Clinical Indications
 
-### Patent Ductus Arteriosus (PDA)
+### Patent Ductus Arteriosus ([[neonatalogy/PDA\|PDA]])
 
 - Determines hemodynamic significance utilizing transductal diameter (>1.5 mm), unrestrictive pulsatile flow, Left Atrium-to-Aortic Root (LA:Ao) ratio (>1.5), and absent or reversed end-diastolic flow in the descending aorta or mesenteric arteries.
 - 2026 protocols emphasize expectant management, guiding medical or surgical closure strictly for infants demonstrating severe ductal steal causing acute end-organ compromise.

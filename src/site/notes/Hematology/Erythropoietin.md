@@ -41,7 +41,7 @@
 - **Limitations:**
     - Delayed therapeutic response (takes approximately 2 weeks).
     - Fails to provide prompt correction in acute symptomatic states.
-- **Contraindications:** Routine early use NOT recommended. Associated with conflicting data regarding increased risks of severe [[Neonatalogy/Retinopathy of prematurity\|retinopathy of prematurity]] (ROP) and necrotizing enterocolitis.
+- **Contraindications:** Routine early use NOT recommended. Associated with conflicting data regarding increased risks of severe [[neonatalogy/Retinopathy of prematurity\|retinopathy of prematurity]] (ROP) and necrotizing enterocolitis.
 
 ### [[Hematology/Autoimmune Hemolytic Anemia\|Autoimmune Hemolytic Anemia]]
 

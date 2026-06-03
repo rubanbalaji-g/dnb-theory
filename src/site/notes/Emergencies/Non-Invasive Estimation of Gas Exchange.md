@@ -38,7 +38,7 @@
 
 ### Non-Invasive Oxygenation Indices
 
-- In the management of pediatric acute [[Neonatalogy/Respiratory Distress Syndrome\|respiratory distress syndrome]] ([[Emergencies/PARDS\|PARDS]]), the traditional diagnostic criteria rely heavily on invasive arterial blood gas measurements (e.g., PaO2/FiO2 ratio or Oxygenation [[Statistics/Index\|Index]]).
+- In the management of pediatric acute [[neonatalogy/Respiratory Distress in Newborns\|respiratory distress syndrome]] ([[Emergencies/PARDS\|PARDS]]), the traditional diagnostic criteria rely heavily on invasive arterial blood gas measurements (e.g., PaO2/FiO2 ratio or Oxygenation [[Statistics/Index\|Index]]).
 - To decrease the dependence on invasive arterial sampling, non-invasive surrogates utilizing SpO2 have been validated for diagnosing and risk-stratifying [[Emergencies/PARDS\|PARDS]].
 - These non-invasive indices are only considered valid and accurate when the patient's SpO2 is < 97%, to avoid the masking effect of the flat upper portion of the oxyhemoglobin dissociation curve.
 

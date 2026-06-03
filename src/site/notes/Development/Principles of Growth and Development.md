@@ -89,7 +89,7 @@
 - Infancy and early childhood are the most crucial ages for development, heavily reliant on a secure physical and psychosocial environment.
 - Poverty is a critical risk factor, chronically exposing children to a scarcity of opportunities, excessive stress, malnutrition, and environmental toxins.
 - Suboptimal parenting, lack of emotional warmth, and institutionalization during early life profoundly increase the risk of poor growth, attachment disorders, and poor cognition.
-- Protective factors such as secure homes, educated parents, responsive caregiving, and [[Neonatalogy/Kangaroo Mother Care\|kangaroo mother care]] can completely offset socioeconomic disadvantages and pave the way for optimal developmental outcomes.
+- Protective factors such as secure homes, educated parents, responsive caregiving, and [[neonatalogy/Kangaroo Mother Care\|kangaroo mother care]] can completely offset socioeconomic disadvantages and pave the way for optimal developmental outcomes.
 
 ### Nutritional Influences
 

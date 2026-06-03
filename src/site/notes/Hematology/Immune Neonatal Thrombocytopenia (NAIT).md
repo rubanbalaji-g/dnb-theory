@@ -54,7 +54,7 @@
 - Subsequent pregnancies face higher severity and earlier onset risks.
 - Management requires specialized maternal-fetal medicine input.
 - Ascertain paternal zygosity: Homozygous paternal status guarantees affected fetus; heterozygous status indicates 50% risk.
-- Fetal typing: Noninvasive prenatal testing using cell-free fetal DNA (cffDNA) preferred over [[Neonatalogy/Amniocentesis\|amniocentesis]].
+- Fetal typing: Noninvasive prenatal testing using cell-free fetal DNA (cffDNA) preferred over [[neonatalogy/Amniocentesis\|amniocentesis]].
 - Therapeutic regimen: Maternal IVIG infusions.
 - Timing: Initiate at 12 weeks gestation for mothers with previously affected ICH pregnancy; initiate at 20 weeks for previously affected non-ICH pregnancy.
 - Augmentation: Add or escalate corticosteroids if IVIG monotherapy proves insufficient.

@@ -74,4 +74,4 @@
 |**Indications**|Serum iron concentration $>500$ $\mu$g/dL OR the presence of moderate to severe symptoms (e.g., metabolic acidosis, lethargy) regardless of the serum iron level.|
 |**Dosage**|Continuous intravenous infusion initiated at $15$ mg/kg/hr (maximum dose: $6$ g/24 hr).|
 |**Adverse Effects**|Hypotension (which can be mitigated by titrating the dose up slowly).|
-|**Complications of Prolonged Use**|Infusions lasting $>24$ hours are associated with acute [[Neonatalogy/Respiratory Distress Syndrome\|respiratory distress syndrome]] (ARDS) and _Yersinia_ sepsis.|
+|**Complications of Prolonged Use**|Infusions lasting $>24$ hours are associated with acute [[neonatalogy/Respiratory Distress in Newborns\|respiratory distress syndrome]] (ARDS) and _Yersinia_ sepsis.|

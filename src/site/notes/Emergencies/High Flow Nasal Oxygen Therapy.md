@@ -26,7 +26,7 @@
 ### HFNC Settings and Flow Rate Guidelines
 
 - The definition of "high flow" varies according to the age and size of the pediatric patient: a flow rate $>1 \text{ L/min}$ is considered high flow for neonates, $>3 \text{ L/min}$ is high flow for toddlers, and $>5 \text{ L/min}$ is classified as high flow for older children.
-- To define "At-risk" Pediatric Acute [[Neonatalogy/Respiratory Distress Syndrome\|Respiratory Distress Syndrome]] ([[Emergencies/PARDS\|PARDS]]) in non-intubated children, the minimum high flow oxygen requirements are $<1 \text{ year}: 2 \text{ L/min}$, $1-5 \text{ years}: 4 \text{ L/min}$, $5-10 \text{ years}: 6 \text{ L/min}$, and $>10 \text{ years}: 8 \text{ L/min}$.
+- To define "At-risk" Pediatric Acute [[neonatalogy/Respiratory Distress in Newborns\|Respiratory Distress Syndrome]] ([[Emergencies/PARDS\|PARDS]]) in non-intubated children, the minimum high flow oxygen requirements are $<1 \text{ year}: 2 \text{ L/min}$, $1-5 \text{ years}: 4 \text{ L/min}$, $5-10 \text{ years}: 6 \text{ L/min}$, and $>10 \text{ years}: 8 \text{ L/min}$.
 - The humidifier temperature must be maintained optimally around $32-36 ^\circ\text{C}$ to ensure the gas is adequately warmed and humidified.
 - The $FiO_2$ should be carefully titrated to achieve and maintain a target oxygen saturation ($SpO_2$) of $92%-97%$.
 

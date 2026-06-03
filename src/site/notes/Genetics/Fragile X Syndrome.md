@@ -50,4 +50,4 @@
 
 - Affected males transmit the premutation to all daughters, confirming no male-to-male transmission.
 - Carrier females face a 50% chance of transmitting the mutation; the risk of expansion to a full mutation corresponds with maternal repeat size, exceeding 90% if >100 repeats are present.
-- Prenatal diagnosis is accessible via chorionic villus sampling or [[Neonatalogy/Amniocentesis\|amniocentesis]] utilizing TP-PCR.
+- Prenatal diagnosis is accessible via chorionic villus sampling or [[neonatalogy/Amniocentesis\|amniocentesis]] utilizing TP-PCR.

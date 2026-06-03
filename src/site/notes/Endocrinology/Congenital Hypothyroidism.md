@@ -39,7 +39,7 @@ Defect in hypothalamus or pituitary.
 - Incidence: 1:16,000 to 1:30,000.
 - Pathophysiology: Deficient TSH stimulation.
 - Associated features: Midline facial defects, hypoglycemia, micropenis, cryptorchidism, prolonged jaundice (suggests multiple pituitary hormone deficiencies).
-- Undetected by isolated TSH [[Neonatalogy/Newborn Screening\|newborn screening]]; requires T4-primary screening or clinical suspicion.
+- Undetected by isolated TSH [[neonatalogy/Newborn Screening\|newborn screening]]; requires T4-primary screening or clinical suspicion.
 
 ### Peripheral / Consumptive Hypothyroidism
 
@@ -97,7 +97,7 @@ Autosomal recessive inheritance.
 
 ## Diagnostic Evaluation
 
-### [[Neonatalogy/Newborn Screening\|Newborn Screening]] (NBS)
+### [[neonatalogy/Newborn Screening\|Newborn Screening]] (NBS)
 
 - **Timing:** Dried Blood Spot (DBS) collected via heelprick on filter paper at 2-4 days of life (avoiding initial 24-hour physiological TSH surge).
 - **Strategies:**

@@ -10,8 +10,8 @@
 - National program operates under Rashtriya bal swasthya karyakram.
 - Initiative specifically targets defects at birth.
 - Ministry of health and family welfare governs targeted assessment protocols.
-- National neonatology forum provides specialized guidelines addressing [[Neonatalogy/Retinopathy of prematurity\|retinopathy of prematurity]].
-- Primary clinical targets include [[Misc/Congenital Cataract\|congenital cataract]] and [[Neonatalogy/Retinopathy of prematurity\|retinopathy of prematurity]].
+- National neonatology forum provides specialized guidelines addressing [[neonatalogy/Retinopathy of prematurity\|retinopathy of prematurity]].
+- Primary clinical targets include [[Misc/Congenital Cataract\|congenital cataract]] and [[neonatalogy/Retinopathy of prematurity\|retinopathy of prematurity]].
 - Screening identifies congenital glaucoma and structural anomalies including coloboma and anophthalmia.
 - Evaluation isolates severe ocular manifestations secondary to congenital infections.
 
@@ -52,7 +52,7 @@
 - Infants demonstrate ability to follow targets briefly by one month of postnatal age.
 - Normal neurological development produces distinct blinking response when exposed to bright light.
 
-## Targeted Screening For [[Neonatalogy/Retinopathy of prematurity\|Retinopathy Of Prematurity]]
+## Targeted Screening For [[neonatalogy/Retinopathy of prematurity\|Retinopathy Of Prematurity]]
 
 - Represents most heavily standardized component within Indian neonatal vision protocols.
 - Standardization strictly required due to extremely high regional disease burden.
@@ -69,7 +69,7 @@
 
 ### Systemic Risk Factors Mandating Expanded Screening
 
-- Presence of severe [[Neonatalogy/Respiratory Distress Syndrome\|respiratory distress syndrome]].
+- Presence of severe [[neonatalogy/Respiratory Distress in Newborns\|respiratory distress syndrome]].
 - Administration of prolonged oxygen therapy exceeding forty-eight hours.
 - Utilization of invasive mechanical ventilation.
 - Episodes of severe clinical shock.
@@ -88,7 +88,7 @@
 - Perform early screening strictly between day fourteen and twenty of life.
 - Alternative timeline requires screening at thirty-one weeks post-menstrual age.
 - Protocol dictates utilizing whichever early marker occurs later.
-- Accelerated schedule crucial for detecting severe aggressive [[Neonatalogy/Retinopathy of prematurity\|retinopathy of prematurity]].
+- Accelerated schedule crucial for detecting severe aggressive [[neonatalogy/Retinopathy of prematurity\|retinopathy of prematurity]].
 
 ### Technical Screening Methodology
 
@@ -132,7 +132,7 @@
 - Perform surgical intervention ideally within first four to six weeks of life.
 - Prompt intervention strictly prevents irreversible stimulus-deprivation amblyopia.
 
-### [[Neonatalogy/Retinopathy of prematurity\|Retinopathy Of Prematurity]] Interventions
+### [[neonatalogy/Retinopathy of prematurity\|Retinopathy Of Prematurity]] Interventions
 
 - Diagnosis of sight-threatening type one disease requires emergent therapeutic action.
 - Initiate destructive treatment strictly within forty-eight to seventy-two hours following positive diagnosis.

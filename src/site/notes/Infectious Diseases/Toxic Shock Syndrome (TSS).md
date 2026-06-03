@@ -55,7 +55,7 @@ Clinically distinct from Staphylococcal TSS in several ways:
 - **Pain:** Severe, localized pain at a site of soft tissue infection is a hallmark early symptom, often preceding physical findings of infection (e.g., in necrotizing fasciitis).
 - **Focal Infection:** Most patients have an identifiable focus, such as cellulitis, fasciitis, or pneumonia.
 - **Rash:** A scarlatiniform or generalized rash occurs but is less common than in Staphylococcal TSS.
-- **Course:** Progression to shock and acute [[Neonatalogy/Respiratory Distress Syndrome\|respiratory distress syndrome]] (ARDS) is often rapid and fulminant.
+- **Course:** Progression to shock and acute [[neonatalogy/Respiratory Distress in Newborns\|respiratory distress syndrome]] (ARDS) is often rapid and fulminant.
 
 ## 5. Diagnostic Criteria #Diagnostic_criteria 
 

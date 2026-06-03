@@ -77,4 +77,4 @@
 
 - Prognosis heavily depends on the underlying subtype, with mut⁰ carrying the highest morbidity and poorest outcome.
 - Major long-term morbidities include irreversible intellectual disability, basal ganglia damage, and chronic renal failure.
-- While early diagnosis via [[Neonatalogy/Newborn Screening\|Newborn Screening]] significantly improves initial survival, it does not completely prevent long-term systemic complications.
+- While early diagnosis via [[neonatalogy/Newborn Screening\|Newborn Screening]] significantly improves initial survival, it does not completely prevent long-term systemic complications.

@@ -102,14 +102,14 @@ Historical use of International Neuroblastoma Staging System (INSS) replaced by 
 
 Prognosis strongly dictated by clinical and biologic characteristics.
 
-| Prognostic Factor              | Favorable Profile                    | Unfavorable Profile              |
-| :----------------------------- | :----------------------------------- | :------------------------------- |
-| **Age At Diagnosis**           | <18 months                           | $\ge$ 18 months.                 |
-| **Stage (INRGSS)**             | L1, L2, MS                           | M.                               |
-| **MYCN Status**                | Nonamplified                         | Amplified.                       |
-| **Tumor Ploidy (DNA Index)**\| | Hyperdiploid (in infants)            | Diploid.                         |
-| **Histology (INPC)**           | Differentiated; Low/Intermediate MKI | Undifferentiated; High MKI.      |
-| **Chromosomal Aberrations**    | Absent                               | Present (LOH 1p, 11q; Gain 17q). |
+| Prognostic Factor            | Favorable Profile                    | Unfavorable Profile              |
+| :--------------------------- | :----------------------------------- | :------------------------------- |
+| **Age At Diagnosis**         | <18 months                           | $\ge$ 18 months.                 |
+| **Stage (INRGSS)**           | L1, L2, MS                           | M.                               |
+| **MYCN Status**              | Nonamplified                         | Amplified.                       |
+| **Tumor Ploidy (DNA Index)** | Hyperdiploid (in infants)            | Diploid.                         |
+| **Histology (INPC)**         | Differentiated; Low/Intermediate MKI | Undifferentiated; High MKI.      |
+| **Chromosomal Aberrations**  | Absent                               | Present (LOH 1p, 11q; Gain 17q). |
 
 ## Management And Therapeutics
 

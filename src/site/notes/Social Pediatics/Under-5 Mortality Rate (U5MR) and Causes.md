@@ -25,7 +25,7 @@
 - Birth asphyxia & birth trauma: 10–12%
 - Neonatal sepsis & infections: 8–10%
 - Congenital anomalies: 5–7%
-- Others: [[Neonatalogy/Respiratory Distress Syndrome\|Respiratory distress syndrome]], hypothermia, jaundice
+- Others: [[neonatalogy/Respiratory Distress in Newborns\|Respiratory distress syndrome]], hypothermia, jaundice
 
 ### Post-Neonatal & Child (1–59 months)
 - Acute Respiratory Infections (pneumonia): 15–17%

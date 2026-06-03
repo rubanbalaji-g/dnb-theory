@@ -18,7 +18,7 @@
 ## Target Population & Facilities
 - All children birth to 12 years (newborns, infants, under-5 and school-age)
 - Facilities covered:
-  - District Hospitals (DH): 4 departments – Paediatric OPD, Paediatric Ward, [[Neonatalogy/SNCU\|SNCU]], Nutrition Rehabilitation Centre (NRC)
+  - District Hospitals (DH): 4 departments – Paediatric OPD, Paediatric Ward, [[neonatalogy/SNCU\|SNCU]], Nutrition Rehabilitation Centre (NRC)
   - Sub-District Hospitals (SDH): 3 departments – Paediatric OPD, Paediatric Ward, SNCU/NBSU
   - Functional FRU-CHCs: 2 departments – Paediatric OPD, NBSU/SNCU (if available)
   - LaQshya-certified facilities & Medical Colleges: All 4 departments

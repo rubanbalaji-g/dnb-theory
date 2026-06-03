@@ -56,8 +56,8 @@ Anatomical categorization aids in targeted clinical evaluation.
 
 ## Clinical Evaluation And Management Approach
 
-- [[Neonatalogy/Antenatal Diagnosis\|Antenatal Diagnosis]]: Level II ultrasonography anomaly scan at 18-20 weeks detects 60-80% of major defects.
-- Postnatal Evaluation: Comprehensive dysmorphology examination, anthropometry, and [[Neonatalogy/Newborn Screening\|newborn screening]] protocols.
+- [[neonatalogy/Antenatal Diagnosis\|Antenatal Diagnosis]]: Level II ultrasonography anomaly scan at 18-20 weeks detects 60-80% of major defects.
+- Postnatal Evaluation: Comprehensive dysmorphology examination, anthropometry, and [[neonatalogy/Newborn Screening\|newborn screening]] protocols.
 - Prophylaxis: Periconceptional folic acid fortification prevents 50-70% of [[Neurology/Neural Tube Defects\|neural tube defects]].
 - Public Health Programs: Rashtriya Bal Swasthya Karyakram facilitates free screening and treatment for defects, deficiencies, diseases, and disabilities.
 - Long-Term Care: Multidisciplinary clinics for neurodevelopmental support, managing secondary complications, and transitioning to adult services.

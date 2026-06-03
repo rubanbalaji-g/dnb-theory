@@ -16,7 +16,7 @@
 |---|---|
 |**Pediatric and Developmental**|Unexplained intellectual disability, [[Development/Global Developmental Delay\|global developmental delay]], multiple congenital anomalies, dysmorphic features, ambiguous genitalia, and autism spectrum disorders.|
 |**Reproductive and Endocrine**|Primary amenorrhea, infertility, recurrent miscarriages, prior history of stillbirths or neonatal deaths.|
-|**Prenatal Testing**|Advanced maternal age, abnormal fetal ultrasound findings, unexplained [[Neonatalogy/Fetal growth restriction\|fetal growth restriction]], abnormal noninvasive prenatal testing (NIPT).|
+|**Prenatal Testing**|Advanced maternal age, abnormal fetal ultrasound findings, unexplained [[neonatalogy/Fetal growth restriction\|fetal growth restriction]], abnormal noninvasive prenatal testing (NIPT).|
 |**Oncology and Hematology**|Tumor surveillance (especially leukemia using bone marrow aspirates) and evaluation for chromosome instability syndromes.|
 
 ## Methodologies and Techniques

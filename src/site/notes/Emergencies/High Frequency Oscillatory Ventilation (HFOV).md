@@ -19,7 +19,7 @@
 - Because of this squared relationship, even a small change in tidal volume during high frequency ventilation may lead to significant changes in minute ventilation.
 - The optimal frequency on HFOV is often described as the corner frequency ($Fc$), at which optimal gas exchange occurs in combination with the least injurious pressures.
 - Corner frequency is defined by the equation $Fc = 1/(2\pi RC)$, where $R$ is resistance and $C$ is compliance.
-- The corner frequency is altered by the underlying lung diseases, notably increasing in lung pathologies with short time constants and low compliance, such as Pediatric Acute [[Neonatalogy/Respiratory Distress Syndrome\|Respiratory Distress Syndrome]] ([[Emergencies/PARDS\|PARDS]]).
+- The corner frequency is altered by the underlying lung diseases, notably increasing in lung pathologies with short time constants and low compliance, such as Pediatric Acute [[neonatalogy/Respiratory Distress in Newborns\|Respiratory Distress Syndrome]] ([[Emergencies/PARDS\|PARDS]]).
 - During HFOV, the oscillations are produced by a piston or micro-processor flow controller at a selected rate and displacement.
 - A continuous bias flow of oxygenated, humidified gas is passed in front of an oscillating membrane, which actively pushes and pulls the gas into and out of the patient.
 - This active expiration is an attribute entirely unique to HFOV among high-frequency modes.
@@ -130,7 +130,7 @@
 ### Clinical Evidence and Trials
 
 - In the neonatal population, a systematic review and meta-analysis summarizing patient data from 10 randomized controlled trials failed to reveal any mortality benefit or decrease in the incidence of Bronchopulmonary Dysplasia (BPD).
-- However, compared with conventional ventilation, neonatal HFOV use resulted in a reduction in the need for surgical closure of patent ductus arteriosus and a reduction in the risk of [[Neonatalogy/Retinopathy of prematurity\|retinopathy of prematurity]] stage 2 or more.
+- However, compared with conventional ventilation, neonatal HFOV use resulted in a reduction in the need for surgical closure of patent ductus arteriosus and a reduction in the risk of [[neonatalogy/Retinopathy of prematurity\|retinopathy of prematurity]] stage 2 or more.
 - A Cochrane review of elective HFOV comprising 19 studies concluded that HFOV compared to CMV revealed no mortality benefit at 28 to 30 days of age or at approximately term equivalent age.
 - In adults, the OSCAR study showed similar all-cause 30-day mortality in the HFOV (41.7%) and CMV (41.1%) groups, but noted a higher use of sedatives and muscle relaxants in the HFOV group.
 - The adult OSCILLATE study was stopped early because it showed a significantly higher mortality in the HFOV group (47%) compared to the controlled ventilation group (35%), alongside a greater requirement for inotropic and vasopressor support.

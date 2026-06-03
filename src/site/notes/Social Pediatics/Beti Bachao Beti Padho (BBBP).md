@@ -25,7 +25,7 @@ The primary driver for the BBBP initiative was the persistent decline in the Chi
 - **Enforcement of PC&PNDT Act:** Strict implementation of the Pre-Conception and Pre-Natal Diagnostic Techniques Act, 1994, to regulate and prevent the misuse of technology for sex determination.
 - **Universal Registration:** Ensuring 100% registration of births and deaths.
 - **Antenatal Care (ANC):** Strengthening the registration of pregnancies in the first trimester and promoting institutional deliveries.
-- **Newborn Care:** Ensuring the survival of the girl child through the establishment of Newborn Care Corners (NBCC) and Special Newborn Care Units ([[Neonatalogy/SNCU\|SNCU]]).
+- **Newborn Care:** Ensuring the survival of the girl child through the establishment of Newborn Care Corners (NBCC) and Special Newborn Care Units ([[neonatalogy/SNCU\|SNCU]]).
 
 ### 2. Education Sector Interventions (Ministry of Education)
 - **Enrollment Drives:** Implementation of "Sarva Shiksha Abhiyan" to ensure universal enrollment of girls in schools.

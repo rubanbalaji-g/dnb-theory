@@ -63,7 +63,7 @@
 - Trophectoderm mosaicism may not accurately reflect the inner cell mass.
 - Misdiagnosis occurs in 1-2% of cases due to allele drop-out, mosaicism, or technical errors.
 - Cycle cancellation can occur if all embryos are affected or fail to develop to the blastocyst stage.
-- Confirmatory prenatal diagnosis via Chorionic Villus Sampling or [[Neonatalogy/Amniocentesis\|amniocentesis]] is strongly recommended for pregnancies achieved via testing.
+- Confirmatory prenatal diagnosis via Chorionic Villus Sampling or [[neonatalogy/Amniocentesis\|amniocentesis]] is strongly recommended for pregnancies achieved via testing.
 
 ## Ethical And Legal Framework In India
 

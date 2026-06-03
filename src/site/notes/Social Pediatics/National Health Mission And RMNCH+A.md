@@ -27,8 +27,8 @@ RMNCH+A is operationalized through a 5x5 matrix focusing on 5 life stages and 5 
 * Facility-Based Newborn Care (FBNC): Establishment of a three-tier system:
     * Newborn Care Corners (NBCC) at delivery points for essential newborn care and resuscitation (NSSK - Navjaat Shishu Suraksha Karyakram).
     * Newborn Stabilization Units (NBSU) at FRUs/CHCs.
-    * Special Newborn Care Units ([[Neonatalogy/SNCU\|SNCU]]) at District Hospitals for sick neonates.
-* [[Neonatalogy/Kangaroo Mother Care\|Kangaroo Mother Care]] (KMC): Promoted for low birth weight and preterm infants at facilities and home.
+    * Special Newborn Care Units ([[neonatalogy/SNCU\|SNCU]]) at District Hospitals for sick neonates.
+* [[neonatalogy/Kangaroo Mother Care\|Kangaroo Mother Care]] (KMC): Promoted for low birth weight and preterm infants at facilities and home.
 * India Newborn Action Plan (INAP): Targeted interventions for ending preventable newborn deaths and stillbirths.
 
 ### 2. Child Health

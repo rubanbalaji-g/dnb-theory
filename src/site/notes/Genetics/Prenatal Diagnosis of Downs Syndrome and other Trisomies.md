@@ -40,9 +40,9 @@ Prenatal diagnosis of chromosomal trisomies, predominantly Trisomy 21 (Down synd
 
 |Procedure|Gestational Timing|Tissue Sampled|Procedure-Related Risk|
 |:--|:--|:--|:--|
-|[[Neonatalogy/Chorionic Villus Sampling (CVS)\|Chorionic Villus Sampling (CVS)]]|10 to 13 weeks|Placental chorionic villi via transabdominal or transcervical route|0.5-1.0% risk of pregnancy loss|
-|[[Neonatalogy/Amniocentesis\|Amniocentesis]]|15 to 20 weeks|Amniotic fluid containing desquamated fetal amniocytes|0.1-0.3% risk of pregnancy loss; represents the gold standard|
-|[[Neonatalogy/Cordocentesis\|Cordocentesis]]|> 18 weeks|Fetal blood from the umbilical vein|Slightly higher than [[Neonatalogy/Amniocentesis\|amniocentesis]]; used for rapid [[Genetics/Karyotyping\|karyotyping]]|
+|[[neonatalogy/Chorionic Villus Sampling (CVS)\|Chorionic Villus Sampling (CVS)]]|10 to 13 weeks|Placental chorionic villi via transabdominal or transcervical route|0.5-1.0% risk of pregnancy loss|
+|[[neonatalogy/Amniocentesis\|Amniocentesis]]|15 to 20 weeks|Amniotic fluid containing desquamated fetal amniocytes|0.1-0.3% risk of pregnancy loss; represents the gold standard|
+|[[neonatalogy/Cordocentesis\|Cordocentesis]]|> 18 weeks|Fetal blood from the umbilical vein|Slightly higher than [[neonatalogy/Amniocentesis\|amniocentesis]]; used for rapid [[Genetics/Karyotyping\|karyotyping]]|
 
 _(Data derived from)_
 

@@ -29,7 +29,7 @@ The number of visits depends on the place of delivery:
 ## Key Components Of HBNC
 
 ### 1. Essential Newborn Care
-- **Thermal Protection:** Maintaining the "warm chain." Promoting skin-to-skin contact and [[Neonatalogy/Kangaroo Mother Care\|Kangaroo Mother Care]] (KMC), especially for low birth weight (LBW) infants. Delaying the first bath until 72 hours.
+- **Thermal Protection:** Maintaining the "warm chain." Promoting skin-to-skin contact and [[neonatalogy/Kangaroo Mother Care\|Kangaroo Mother Care]] (KMC), especially for low birth weight (LBW) infants. Delaying the first bath until 72 hours.
 - **Hygiene:** Proper cord care (keeping it dry/no application), eye care, and skin care.
 - **Breastfeeding Support:** Counseling on early initiation (within 1 hour) and exclusive breastfeeding (EBF). Correcting attachment and positioning issues.
 

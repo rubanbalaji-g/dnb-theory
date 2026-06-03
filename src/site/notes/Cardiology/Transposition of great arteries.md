@@ -21,7 +21,7 @@
 
 |Subtype|Anatomic Features|Pathophysiology & Clinical Presentation|
 |:--|:--|:--|
-|**D-TGA with Intact Ventricular Septum (IVS)**|Isolated/simple TGA; no [[Cardiology/VSD\|VSD]].|Hypoxemia within first days of life following ductus arteriosus closure. Survival entirely dependent on patent foramen ovale (PFO)/atrial septal defect ([[Cardiology/ASD\|ASD]]) and patent ductus arteriosus (PDA) for mixing.|
+|**D-TGA with Intact Ventricular Septum (IVS)**|Isolated/simple TGA; no [[Cardiology/VSD\|VSD]].|Hypoxemia within first days of life following ductus arteriosus closure. Survival entirely dependent on patent foramen ovale (PFO)/atrial septal defect ([[Cardiology/ASD\|ASD]]) and patent ductus arteriosus ([[neonatalogy/PDA\|PDA]]) for mixing.|
 |**D-TGA with Ventricular Septal Defect ([[Cardiology/VSD\|VSD]])**|[[Cardiology/VSD\|VSD]] present, typically perimembranous.|Increased pulmonary blood flow. Severity of cyanosis determined by degree of mixing at ventricular level. Congestive heart failure develops around 4-10 weeks of age.|
 |**D-TGA with [[Cardiology/VSD\|VSD]] and Pulmonary Stenosis (LVOTO)**|Associated with subaortic stenosis or dynamic/acquired left ventricular outflow tract obstruction (LVOTO).|Mimics [[Cardiology/Tetralogy of Fallot\|Tetralogy of Fallot]] physiology, but obstruction is in the LV. Results in left-to-right anatomic shunting with limited effective pulmonary blood flow.|
 
@@ -42,7 +42,7 @@
 
 - **Chest Radiograph (CXR):** Classic "egg on a string" appearance; narrow mediastinal silhouette; absent thymic shadow.
 - **Electrocardiogram ([[Misc/ECG\|ECG]]):** Right axis deviation; right ventricular hypertrophy.
-- **Echocardiography:** Gold standard. Subcostal view confirms posterior PA arising from LV and anterior aorta arising from RV. Parasternal short-axis shows semilunar valves as two circles (aorta anterior/rightward). Evaluates mixing lesions (PFO, [[Cardiology/VSD\|VSD]], PDA) and coronary artery anatomy.
+- **Echocardiography:** Gold standard. Subcostal view confirms posterior PA arising from LV and anterior aorta arising from RV. Parasternal short-axis shows semilunar valves as two circles (aorta anterior/rightward). Evaluates mixing lesions (PFO, [[Cardiology/VSD\|VSD]], [[neonatalogy/PDA\|PDA]]) and coronary artery anatomy.
 
 ### Surgical Management
 

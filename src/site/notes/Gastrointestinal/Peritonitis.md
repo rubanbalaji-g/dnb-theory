@@ -44,7 +44,7 @@
 - Rebound tenderness, abdominal wall rigidity, paucity of body motion (patient lies perfectly still).
 - Decreased or absent bowel sounds secondary to paralytic ileus.
 - Massive fluid exudation into peritoneal cavity and systemic vasodilative substances lead to rapid shock development.
-- Complications: Basilar atelectasis, intrapulmonary shunting, acute [[Neonatalogy/Respiratory Distress Syndrome\|respiratory distress syndrome]].
+- Complications: Basilar atelectasis, intrapulmonary shunting, acute [[neonatalogy/Respiratory Distress in Newborns\|respiratory distress syndrome]].
 
 ## Diagnosis & Management
 

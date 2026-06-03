@@ -43,18 +43,18 @@ Secondary prevention focuses on early detection of an affected fetus or neonate 
 |Second-Trimester Quadruple Marker|15 to 20 weeks|AFP, hCG, Unconjugated Estriol (uE3), Inhibin-A|Screens for aneuploidies and [[Neurology/Neural Tube Defects\|neural tube defects]].|
 |Non-Invasive Prenatal Testing (NIPT)|> 10 weeks|Cell-free fetal DNA (cffDNA)|>99% sensitivity for Trisomy 21, 18, 13.|
 |Fetal Ultrasonography|18 to 20 weeks|Structural markers (choroid plexus cysts, echogenic focus)|Detects major malformations.|
-|[[Neonatalogy/Chorionic Villus Sampling (CVS)\|Chorionic Villus Sampling (CVS)]]|10 to 13 weeks|Placental chorionic villi|Early invasive definitive diagnosis.|
-|[[Neonatalogy/Amniocentesis\|Amniocentesis]]|15 to 20 weeks|Amniotic fluid (fetal desquamated cells)|Gold standard for chromosomal/metabolic testing.|
-|[[Neonatalogy/Cordocentesis\|Cordocentesis]]|> 18 weeks|Fetal blood from umbilical vein|Rapid [[Genetics/Karyotyping\|karyotyping]] for late-presentation cases.|
+|[[neonatalogy/Chorionic Villus Sampling (CVS)\|Chorionic Villus Sampling (CVS)]]|10 to 13 weeks|Placental chorionic villi|Early invasive definitive diagnosis.|
+|[[neonatalogy/Amniocentesis\|Amniocentesis]]|15 to 20 weeks|Amniotic fluid (fetal desquamated cells)|Gold standard for chromosomal/metabolic testing.|
+|[[neonatalogy/Cordocentesis\|Cordocentesis]]|> 18 weeks|Fetal blood from umbilical vein|Rapid [[Genetics/Karyotyping\|karyotyping]] for late-presentation cases.|
 
 ### Management of Affected Pregnancies
 
 - Medical Termination of Pregnancy (MTP): Guided by national laws (e.g., MTP Act in India) allowing termination for significant fetal abnormalities.
-- [[Neonatalogy/Fetal Therapy\|Fetal therapy]]: In utero interventions, such as transfusions for Rh isoimmunization or surgery for myelomeningocele.
+- [[neonatalogy/Fetal Therapy\|Fetal therapy]]: In utero interventions, such as transfusions for Rh isoimmunization or surgery for myelomeningocele.
 
-### [[Neonatalogy/Newborn Screening\|Newborn Screening]] (NBS)
+### [[neonatalogy/Newborn Screening\|Newborn Screening]] (NBS)
 
-[[Neonatalogy/Newborn Screening\|Newborn screening]] prevents severe handicap by detecting functional defects and inborn errors of metabolism before irreversible damage occurs.
+[[neonatalogy/Newborn Screening\|Newborn screening]] prevents severe handicap by detecting functional defects and inborn errors of metabolism before irreversible damage occurs.
 
 |Screening Category|Target Conditions|Methodology|
 |:--|:--|:--|

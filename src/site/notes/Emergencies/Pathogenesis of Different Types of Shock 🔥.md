@@ -63,7 +63,7 @@
 ### Respiratory System (Lungs)
 
 - Shock frequently leads to respiratory failure, manifesting as tachypnea and hyperventilation as the body attempts to compensate for metabolic acidosis (Kussmaul breathing).
-- Endothelial damage and dysregulated inflammatory cascades increase pulmonary capillary permeability, leading to non-cardiac pulmonary edema and Acute [[Neonatalogy/Respiratory Distress Syndrome\|Respiratory Distress Syndrome]] (ARDS).
+- Endothelial damage and dysregulated inflammatory cascades increase pulmonary capillary permeability, leading to non-cardiac pulmonary edema and Acute [[neonatalogy/Respiratory Distress in Newborns\|Respiratory Distress Syndrome]] (ARDS).
 - The exudation of proteinaceous edema fluid into the alveoli inactivates surfactant, creating stress concentrators and causing widespread alveolar collapse (atelectasis).
 - This results in severe ventilation-perfusion mismatch, increased intrapulmonary shunting, and refractory hypoxemia.
 

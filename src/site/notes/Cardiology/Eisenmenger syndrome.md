@@ -34,7 +34,7 @@
 
 |Shunt Type|Anatomy|Pathophysiology|Clinical Course|
 |:--|:--|:--|:--|
-|**Post-Tricuspid**|[[Cardiology/VSD\|VSD]], PDA, Aortopulmonary window|Exposes pulmonary circulation to both volume and pressure overload.|Early onset of PVD (often first years of life).|
+|**Post-Tricuspid**|[[Cardiology/VSD\|VSD]], [[neonatalogy/PDA\|PDA]], Aortopulmonary window|Exposes pulmonary circulation to both volume and pressure overload.|Early onset of PVD (often first years of life).|
 |**Pre-Tricuspid**|[[Cardiology/ASD\|ASD]] (Secundum, Sinus Venosus)|Exposes pulmonary circulation to volume overload only.|Late onset. Rare progression to ES ("Eisenmenger [[Cardiology/ASD\|ASD]]") requiring genetic predisposition.|
 
 ## Clinical Features
@@ -48,7 +48,7 @@
 ### Physical Signs
 
 - Central cyanosis and digital clubbing.
-- **Differential Cyanosis:** Seen in PDA with reversed shunt. Pink upper body (brain/arms receive saturated blood) and cyanotic lower body (desaturated blood enters descending aorta).
+- **Differential Cyanosis:** Seen in [[neonatalogy/PDA\|PDA]] with reversed shunt. Pink upper body (brain/arms receive saturated blood) and cyanotic lower body (desaturated blood enters descending aorta).
 - Right ventricular heave and palpable pulmonary artery pulsation.
 
 ### Auscultation
@@ -83,7 +83,7 @@
 
 - Prominent central pulmonary arteries with rapid tapering (peripheral pruning).
 - RV enlargement.
-- Calcification in PDA location (between descending aorta and left PA) or within dilated central PAs.
+- Calcification in [[neonatalogy/PDA\|PDA]] location (between descending aorta and left PA) or within dilated central PAs.
 
 ### Echocardiography
 

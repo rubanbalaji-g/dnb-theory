@@ -26,7 +26,7 @@
 |Etiologic Category|Specific Conditions|Key Clinical Features|
 |:--|:--|:--|
 |Congenital And Developmental|Optic nerve hypoplasia, microphthalmia, congenital cataracts, Peters anomaly, congenital [[Neurology/Hydrocephalus\|hydrocephalus]].|Often associated with chromosomal syndromes, structural anterior segment dysgenesis, or central nervous system malformations.|
-|Perinatal And Neonatal|[[Neonatalogy/Retinopathy of prematurity\|Retinopathy of prematurity]], hypoxia-ischemia, birth trauma.|[[Neonatalogy/Retinopathy of prematurity\|Retinopathy of prematurity]] strongly linked to extreme prematurity, low birth weight, and oxygen therapy.|
+|Perinatal And Neonatal|[[neonatalogy/Retinopathy of prematurity\|Retinopathy of prematurity]], hypoxia-ischemia, birth trauma.|[[neonatalogy/Retinopathy of prematurity\|Retinopathy of prematurity]] strongly linked to extreme prematurity, low birth weight, and oxygen therapy.|
 |Infectious And Inflammatory|[[Neurology/Meningitis\|Meningitis]], toxoplasmosis, rubella, cytomegalovirus, herpes simplex, trachoma, [[Misc/Ophthalmia Neonatorum\|ophthalmia neonatorum]].|Untreated gonococcal [[Misc/Ophthalmia Neonatorum\|ophthalmia neonatorum]] carries severe risk for rapid corneal perforation and blindness.|
 |Nutritional Deficiencies|[[Nutrition/Vitamin A\|Vitamin A]] deficiency.|Precipitated by acute gastroenteritis or measles; causes severe keratomalacia and irreversible bilateral blindness.|
 |Neurodegenerative Disorders|Tay-Sachs disease, leukodystrophies, mucopolysaccharidoses, Batten disease.|Progressive visual loss accompanies cerebral storage issues and motor decline.|
@@ -39,7 +39,7 @@
 - Clinical manifestations vary with age, functional abilities, mode of onset, laterality, and severity.
 - Nystagmus or strabismus frequently represent initial clues in non-verbal infants.
 - Defective ocular fixation or abnormal visual interactions demand comprehensive evaluation.
-- Leukocoria mandates urgent exclusion of [[Hematology/Retinoblastoma\|retinoblastoma]], dense cataracts, or severe [[Neonatalogy/Retinopathy of prematurity\|retinopathy of prematurity]].
+- Leukocoria mandates urgent exclusion of [[Hematology/Retinoblastoma\|retinoblastoma]], dense cataracts, or severe [[neonatalogy/Retinopathy of prematurity\|retinopathy of prematurity]].
 - Toddlers exhibit excessive timidity, clumsiness, or unexplained behavioral changes.
 - Older children demonstrate progressive deterioration in school performance and profound indifference to school activities.
 - School-age children often attempt concealing visual disabilities from parents and teachers.
@@ -64,7 +64,7 @@
 
 ## High-Yield Blinding Conditions
 
-### [[Neonatalogy/Retinopathy of prematurity\|Retinopathy Of Prematurity]]
+### [[neonatalogy/Retinopathy of prematurity\|Retinopathy Of Prematurity]]
 
 - Complex vascular disease affecting developing retinal vasculature in premature infants.
 - Chief risk factors include birth before 32 weeks gestation, birth weight under 1500 grams, and supplemental oxygen therapy.

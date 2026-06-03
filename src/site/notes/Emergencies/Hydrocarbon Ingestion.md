@@ -40,7 +40,7 @@
 
 |System|Clinical Findings and Progression|
 |:--|:--|
-|**Respiratory**|Symptoms develop early, typically within $6$ hours, secondary to aspiration during ingestion or vomiting. Presentations range from mild cough, tachypnea, and localized wheezing to severe acute [[Neonatalogy/Respiratory Distress Syndrome\|respiratory distress syndrome]] (ARDS) and complete respiratory failure.|
+|**Respiratory**|Symptoms develop early, typically within $6$ hours, secondary to aspiration during ingestion or vomiting. Presentations range from mild cough, tachypnea, and localized wheezing to severe acute [[neonatalogy/Respiratory Distress in Newborns\|respiratory distress syndrome]] (ARDS) and complete respiratory failure.|
 |**Neurological**|Hypoxia and acidosis manifest as restlessness, drowsiness, seizures, and coma. Direct CNS toxicity may cause ataxia, altered mental status, and choreoathetosis.|
 |**Cardiovascular**|Tachycardia is common; severe ventricular dysrhythmias are specifically associated with aromatic and halogenated hydrocarbon abuse or exposure.|
 |**Systemic / Gastrointestinal**|Poorly absorbed agents like gasoline and kerosene cause considerable direct irritation to the gastrointestinal mucosa, leading to nausea and vomiting. Fever and leukocytosis are very common systemic responses to chemical pneumonitis and do not necessarily imply a bacterial superinfection.|

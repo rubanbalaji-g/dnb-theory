@@ -34,12 +34,12 @@
 - Approaches include antegrade (venous) or retrograde (arterial) delivery systems.
 - Membranous [[Cardiology/VSD\|VSD]] closure carries small risk of complete heart block.
 
-### Patent Ductus Arteriosus (PDA)
+### Patent Ductus Arteriosus ([[neonatalogy/PDA\|PDA]])
 
 - Closure indicated to treat heart failure and prevent pulmonary vascular disease or endarteritis.
 - Small PDAs managed with intravascular coils.
 - Moderate-to-large PDAs managed with umbrella devices, vascular plugs (e.g., Nit-Occlud).
-- Stenting of PDA serves as alternative to surgical Blalock-Taussig shunt in duct-dependent pulmonary circulation.
+- Stenting of [[neonatalogy/PDA\|PDA]] serves as alternative to surgical Blalock-Taussig shunt in duct-dependent pulmonary circulation.
 
 ## Transcatheter Valvular Interventions
 

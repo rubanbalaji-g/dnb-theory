@@ -46,7 +46,7 @@
 
 - Pregnancy increases risk for intensive care admission, mechanical ventilation, and stillbirth.
 - Messenger ribonucleic acid vaccines generate robust maternal immunity.
-- Facilitates effective protective antibody transfer to [[Neonatalogy/Fetal circulation\|fetal circulation]].
+- Facilitates effective protective antibody transfer to [[neonatalogy/Fetal circulation\|fetal circulation]].
 - Demonstrates no significant association with adverse pregnancy outcomes.
 
 ### Contraindications And Precautions

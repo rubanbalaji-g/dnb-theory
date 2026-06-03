@@ -29,7 +29,7 @@
 |Craniofacial|Bilateral cleft lip and palate, microphthalmia, iris coloboma, retinal dysplasia, low-set malformed ears, sloping forehead.|
 |Dermatological|Cutis aplasia congenita (punched-out scalp defects), prominent capillary hemangiomas over the forehead and nape.|
 |Musculoskeletal|Postaxial polydactyly of hands and feet, rocker-bottom feet, clenched hands, severe hypotonia.|
-|Cardiovascular|Congenital heart defects in 80% of cases, primarily [[Cardiology/VSD\|VSD]], [[Cardiology/ASD\|ASD]], and PDA.|
+|Cardiovascular|Congenital heart defects in 80% of cases, primarily [[Cardiology/VSD\|VSD]], [[Cardiology/ASD\|ASD]], and [[neonatalogy/PDA\|PDA]].|
 |Gastrointestinal and Genitourinary|Omphalocele, echogenic polycystic kidneys, cryptorchidism in males, bicornuate uterus in females.|
 
 ## Diagnostic Evaluation

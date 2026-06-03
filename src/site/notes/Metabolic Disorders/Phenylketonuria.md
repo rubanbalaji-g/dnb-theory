@@ -56,7 +56,7 @@ Infants appear completely normal at birth due to effective placental clearance o
 
 |Investigation Type|Details and Findings|
 |:--|:--|
-|**[[Neonatalogy/Newborn Screening\|Newborn Screening]] (NBS)**|Uses Tandem Mass Spectrometry (TMS) at 24–48 hours of life, targeting elevated Phe and increased Phe:Tyrosine ratio.|
+|**[[neonatalogy/Newborn Screening\|Newborn Screening]] (NBS)**|Uses Tandem Mass Spectrometry (TMS) at 24–48 hours of life, targeting elevated Phe and increased Phe:Tyrosine ratio.|
 |**Plasma Amino Acids**|Quantitative measurement reveals elevated phenylalanine and low or normal tyrosine.|
 |**Cofactor Screening**|Mandatory for all hyperphenylalaninemia cases to rule out BH4 deficiency by measuring urine/blood pterins (neopterin, biopterin) and DHPR enzyme activity.|
 |**Molecular Genetics**|_PAH_ gene sequencing confirms the diagnosis in 98% of cases.|

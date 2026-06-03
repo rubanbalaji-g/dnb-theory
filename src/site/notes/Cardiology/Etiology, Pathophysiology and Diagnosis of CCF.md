@@ -21,9 +21,9 @@
 |Time of Onset|Specific Cardiac Lesions|
 |:--|:--|
 |**Birth–1 week**|Duct-dependent systemic circulation ([[Cardiology/Hypoplastic left heart syndrome\|hypoplastic left heart syndrome]], critical aortic stenosis, severe coarctation, interrupted aortic arch); obstructed total anomalous pulmonary venous return (TAPVR); congenital mitral/tricuspid valve regurgitation; neonatal Ebstein anomaly.|
-|**1–4 weeks**|Patent ductus arteriosus (PDA) in preterms; ventricular septal defect ([[Cardiology/VSD\|VSD]]) with coarctation; persistent truncus arteriosus; [[Cardiology/Transposition of great arteries\|transposition of great arteries]] (TGA) with large VSD/PDA; critical aortic stenosis; congenital mitral/tricuspid regurgitation; single ventricle with unrestrictive pulmonary flow.|
-|**1–2 months**|TGA with VSD/PDA; endocardial cushion defects; [[Cardiology/VSD\|VSD]]; PDA; severe coarctation; anomalous left coronary artery from pulmonary artery ([[Cardiology/ALCAPA\|ALCAPA]]); single ventricle with unrestrictive flow.|
-|**2–6 months**|[[Cardiology/VSD\|VSD]]; PDA; endocardial cushion defect; [[Cardiology/ALCAPA\|ALCAPA]]; coarctation; single ventricle with unrestrictive pulmonary flow.|
+|**1–4 weeks**|Patent ductus arteriosus ([[neonatalogy/PDA\|PDA]]) in preterms; ventricular septal defect ([[Cardiology/VSD\|VSD]]) with coarctation; persistent truncus arteriosus; [[Cardiology/Transposition of great arteries\|transposition of great arteries]] (TGA) with large VSD/[[neonatalogy/PDA\|PDA]]; critical aortic stenosis; congenital mitral/tricuspid regurgitation; single ventricle with unrestrictive pulmonary flow.|
+|**1–2 months**|TGA with VSD/[[neonatalogy/PDA\|PDA]]; endocardial cushion defects; [[Cardiology/VSD\|VSD]]; [[neonatalogy/PDA\|PDA]]; severe coarctation; anomalous left coronary artery from pulmonary artery ([[Cardiology/ALCAPA\|ALCAPA]]); single ventricle with unrestrictive flow.|
+|**2–6 months**|[[Cardiology/VSD\|VSD]]; [[neonatalogy/PDA\|PDA]]; endocardial cushion defect; [[Cardiology/ALCAPA\|ALCAPA]]; coarctation; single ventricle with unrestrictive pulmonary flow.|
 
 ### Correctable/Subtle Causes of CCF
 

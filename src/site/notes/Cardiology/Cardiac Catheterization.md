@@ -18,7 +18,7 @@ Diagnostic [[Cardiology/Cardiac Catheterization\|cardiac catheterization]] utili
 
 ### Interventional Indications
 
-- Preferred alternative to surgery (patent ductus arteriosus [PDA] closure, atrial septal defect [ASD] closure, balloon valvuloplasty).
+- Preferred alternative to surgery (patent ductus arteriosus [[[PDA\|[PDA]]] closure, atrial septal defect [ASD] closure, balloon valvuloplasty).
 - High-risk surgical candidates (e.g., transcatheter superior sinus venosus [[Cardiology/ASD\|ASD]] closure with pulmonary hypertension).
 
 ## Pre-Procedure Preparation
@@ -46,7 +46,7 @@ Ultrasound (US) guidance routinely utilized. Improves success rate, decreases co
 |:--|:--|
 |**Femoral Vein/Artery**|Standard approach. "Syringe technique" useful in spontaneous breathing (gentle continuous negative pressure during advancement). Start with smallest sheath (4-5 Fr for diagnostic). Upsize only for intervention.|
 |**Internal Jugular Vein (IJV)**|Right IJV preferred. Provides straight trajectory to heart. Default access if femoral veins occluded. Ideal for right ventricle (RV) endomyocardial biopsy and superior cavopulmonary anastomosis evaluation.|
-|**Common Carotid/Axillary Artery**|Ideal trajectory for PDA stents, aortic balloon valvuloplasty, and modified Blalock-Taussig shunt interventions in small infants.|
+|**Common Carotid/Axillary Artery**|Ideal trajectory for [[neonatalogy/PDA\|PDA]] stents, aortic balloon valvuloplasty, and modified Blalock-Taussig shunt interventions in small infants.|
 |**Umbilical Vein**|Used in neonates. Straight course. Facilitates balloon atrial septostomy (Rashkind procedure) crossing foramen ovale.|
 |**Transhepatic**|Utilized when bilateral femoral occlusion exists or in interrupted inferior vena cava (IVC).|
 

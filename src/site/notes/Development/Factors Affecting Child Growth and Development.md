@@ -41,7 +41,7 @@
 
 - Maternal malnutrition involving both macronutrients and micronutrients severely restricts birth weight and negatively affects subsequent child neurodevelopment.
 - Teenage pregnancy, advanced maternal age (over 35–40 years), high parity, and short inter-pregnancy intervals negatively influence fetal size and increase the risk of chromosomal anomalies like Down syndrome.
-- Obstetric complications, including pregnancy-induced hypertension, pre-eclampsia, and multiple pregnancies, lead to placental insufficiency and [[Neonatalogy/Fetal growth restriction\|fetal growth restriction]].
+- Obstetric complications, including pregnancy-induced hypertension, pre-eclampsia, and multiple pregnancies, lead to placental insufficiency and [[neonatalogy/Fetal growth restriction\|fetal growth restriction]].
 - Chronic maternal systemic diseases (such as [[Nephrology/Chronic Kidney Disease\|chronic kidney disease]] or heart failure) and acquired infections (rubella, syphilis, cytomegalovirus, toxoplasmosis, and HIV) severely impact the physical growth and brain development of the fetus.
 - Severe maternal emotional stress and anxiety during the first trimester can alter fetal brain growth, reduce head circumference, and increase the child's risk for inattention, conduct disorders, and autism through dysregulation of the hypothalamic-pituitary-adrenal axis.
 
@@ -77,7 +77,7 @@
 
 - Perinatal asphyxia and severe hypoxia damage the developing brain, causing major neurocognitive disabilities and hypoxic-ischemic encephalopathy.
 - High serum bilirubin levels (hyperbilirubinemia) can cross the blood-brain barrier, resulting in kernicterus, [[Neurology/Cerebral Palsy\|cerebral palsy]], and developmental delays.
-- Neonatal hypoglycemia, polycythaemia, and [[Neonatalogy/Intraventricular hemorrhage\|intraventricular hemorrhage]] further exacerbate the risk of long-term intellectual disability and attention-deficit disorders.
+- Neonatal hypoglycemia, polycythaemia, and [[neonatalogy/Intraventricular hemorrhage\|intraventricular hemorrhage]] further exacerbate the risk of long-term intellectual disability and attention-deficit disorders.
 
 ## Postnatal Nutritional and Medical Factors
 

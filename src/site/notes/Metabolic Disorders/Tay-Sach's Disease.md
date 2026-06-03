@@ -54,7 +54,7 @@
     * **Respiratory:** Suctioning, chest physiotherapy for secretion management.
 * **Prevention:**
     * **Carrier Screening:** Enzyme assay or DNA testing recommended for high-risk populations (Ashkenazi Jews).
-    * **Prenatal Diagnosis:** CVS or [[Neonatalogy/Amniocentesis\|amniocentesis]] for enzyme analysis.
+    * **Prenatal Diagnosis:** CVS or [[neonatalogy/Amniocentesis\|amniocentesis]] for enzyme analysis.
 
 ## 6. PROGNOSIS
 * **Infantile Form:** Invariably fatal. Death typically occurs by **2 to 4 years** of age, usually due to bronchopneumonia.

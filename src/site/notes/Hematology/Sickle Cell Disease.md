@@ -33,7 +33,7 @@
 
 ## Diagnosis & Evaluation
 
-### [[Neonatalogy/Newborn Screening\|Newborn Screening]]
+### [[neonatalogy/Newborn Screening\|Newborn Screening]]
 
 - Mandatory state screening utilizes isoelectric focusing (IEF) or high-performance liquid chromatography (HPLC) from dried blood spots.
 - Hemoglobins reported in order of quantitative predominance.

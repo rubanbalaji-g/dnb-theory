@@ -4,7 +4,7 @@
 
 ## Basics
 1. [[Cardiology/Development of Heart\|Development of Heart]]
-2. [[Neonatalogy/Fetal circulation\|Fetal circulation]]
+2. [[neonatalogy/Fetal circulation\|Fetal circulation]]
 ## Murmurs and heart sounds
 1. [[Cardiology/Innocent vs Organic Murmurs\|Innocent vs Organic Murmurs]]
 2. [[Cardiology/S2 in clinical practice\|S2 in clinical practice]]

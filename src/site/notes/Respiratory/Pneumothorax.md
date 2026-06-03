@@ -21,7 +21,7 @@
 | Category  | Causes                                                                                                                                                                     |
 | --------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Traumatic | • Noniatrogenic: Blunt, penetrating trauma. <br>• Iatrogenic: Thoracotomy, thoracentesis, tracheostomy, mechanical ventilation, high-flow therapy, tube/needle puncture.   |
-| Neonatal  | [[Neonatalogy/Respiratory Distress Syndrome\|Respiratory Distress Syndrome]] (RDS), meconium aspiration, mechanical ventilation. Oligohydramnios (renal agenesis, obstructive uropathy) leading pulmonary hypoplasia. |
+| Neonatal  | [[neonatalogy/Respiratory Distress in Newborns\|Respiratory Distress Syndrome]] (RDS), meconium aspiration, mechanical ventilation. Oligohydramnios (renal agenesis, obstructive uropathy) leading pulmonary hypoplasia. |
 
 ### Contributory Factors
 

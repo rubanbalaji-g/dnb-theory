@@ -78,7 +78,7 @@
     * **Enzyme Assay**: Gold standard. Measured in leukocytes, plasma, or fibroblasts.
     * **Molecular Genetics**: Gene panel or sequencing (essential for carrier testing in Hunter/X-linked).
 * **Prenatal Diagnosis**:
-    * Enzyme assay or DNA analysis on [[Neonatalogy/Chorionic Villus Sampling (CVS)\|Chorionic Villus Sampling (CVS)]] or amniocytes.
+    * Enzyme assay or DNA analysis on [[neonatalogy/Chorionic Villus Sampling (CVS)\|Chorionic Villus Sampling (CVS)]] or amniocytes.
 
 ## 7. Management
 * **Definitive Therapy**:

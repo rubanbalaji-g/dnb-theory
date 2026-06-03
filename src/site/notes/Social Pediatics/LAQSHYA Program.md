@@ -42,7 +42,7 @@ For the pediatrician, LAQSHYA mandates strict compliance with immediate newborn 
 * Cord Care: Practice of delayed cord clamping (1-3 minutes) in term and preterm vigorous infants to prevent neonatal anemia.
 * Nutrition: Ensuring early skin-to-skin contact and initiation of exclusive breastfeeding within one hour of birth.
 * Infection Prevention: Strict asepsis during delivery, clean cord care (no harmful applications), and prevention of health-care-associated infections (sepsis) through standardized hand hygiene and instrument sterilization.
-* Preterm Care: Administration of antenatal corticosteroids for threatened preterm labor and immediate [[Neonatalogy/Kangaroo Mother Care\|Kangaroo Mother Care]] (KMC) post-stabilization.
+* Preterm Care: Administration of antenatal corticosteroids for threatened preterm labor and immediate [[neonatalogy/Kangaroo Mother Care\|Kangaroo Mother Care]] (KMC) post-stabilization.
 
 ## Certification And Evaluation Process
 Facilities are assessed based on National Quality Assurance Standards (NQAS).
