@@ -30,17 +30,17 @@
                               <div class="backlinks">
                                     <div class="backlink-title">{{ meta.uiStrings.backlinkHeader }}</div>
                                           <div class="backlink-list">
-                                          {%- set currentNode = graph.nodes[page.url] or graph.nodes[graph.homeAlias] -%}
-                                          {%- if currentNode -%}
-                                                {%- if currentNode.backLinks.length === 0 -%}
+                                          {%- set backlinkData = page.url | getBacklinks -%}
+                                          {%- if backlinkData -%}
+                                                {%- if backlinkData.resolvedBackLinks.length === 0 -%}
                                                       <div class="backlink-card">
                                                             <span class="no-backlinks-message">{{ meta.uiStrings.noBacklinksMessage }}</span>
                                                       </div>
                                                 {%- endif -%}
-                                                {%- for backlink in currentNode.backLinks -%}
-                                                      {%- if graph.nodes[backlink].url != page.url -%}
+                                                {%- for blNode in backlinkData.resolvedBackLinks -%}
+                                                      {%- if blNode.url != page.url -%}
                                                       <div class="backlink-card">
-                                                            {%- if not meta.noteIconsSettings.backlinks -%}<i  data-lucide="link"></i> {%- endif -%}<a href="{{graph.nodes[backlink].url}}" data-note-icon="{{graph.nodes[backlink].noteIcon}}" class="backlink">{{graph.nodes[backlink].title}}</a>
+                                                            {%- if not meta.noteIconsSettings.backlinks -%}<i  data-lucide="link"></i> {%- endif -%}<a href="{{blNode.url}}" data-note-icon="{{blNode.noteIcon}}" class="backlink">{{blNode.title}}</a>
                                                       </div>
                                                       {%- endif -%}
                                                 {%- endfor -%}

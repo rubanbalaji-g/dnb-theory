@@ -7,9 +7,9 @@ eleventyExcludeFromCollections: true
   "title": {% if post.data.title %}{{post.data.title | jsonify | safe }}{% else %}{{post.fileSlug | jsonify | safe }}{% endif %},
   "date": "{{ post.date }}",
   "url": "{{ post.url }}",
-  "content": {{ post.templateContent | striptags(true) | truncate(1000) | jsonify | safe }},
+  "content": {{ post | searchIndexContent | jsonify | safe }},
   "tags": [
-    {% set sTags = post.templateContent | searchableTags %}
+    {% set sTags = post.rawInput | searchableTags %}
     {% if sTags %}{{ sTags | safe }}{% endif %}
     {% if post.data.tags %}
       {% if sTags %},{% endif %}

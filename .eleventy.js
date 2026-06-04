@@ -119,9 +119,36 @@ module.exports = function (eleventyConfig) {
     sharedGraph = null;
   });
 
-  // Build file tree and graph once per build by scanning the filesystem directly.
+  // Build file tree once per build by scanning the filesystem directly.
   eleventyConfig.addGlobalData("filetree", () => buildFileTree());
-  eleventyConfig.addGlobalData("graph", () => getSharedGraph());
+
+  // NOTE: graph is NOT registered as global data to avoid Eleventy's data
+  // cascade copying ~325 MB of property arrays into every page's data object.
+  // Instead, use getSharedGraph() directly in filters and transforms.
+
+  // Filter: get backlink data for a page URL (used by sidebar.njk)
+  eleventyConfig.addFilter("getBacklinks", function (pageUrl) {
+    const graph = getSharedGraph();
+    const node = graph.nodes[pageUrl] || graph.nodes[graph.homeAlias];
+    if (!node) return null;
+    return {
+      backLinks: node.backLinks,
+      // Resolve each backlink URL to its node data
+      resolvedBackLinks: node.backLinks
+        .map((bl) => graph.nodes[bl])
+        .filter(Boolean),
+    };
+  });
+
+  // Filter: serialize the graph for the client-side graph.json output
+  eleventyConfig.addFilter("graphJson", function () {
+    const graph = getSharedGraph();
+    return JSON.stringify({
+      nodes: graph.nodes,
+      links: graph.links,
+      homeAlias: graph.homeAlias,
+    });
+  });
 
   eleventyConfig.setLiquidOptions({
     dynamicPartials: true,
@@ -303,6 +330,26 @@ module.exports = function (eleventyConfig) {
 
   eleventyConfig.setLibrary("md", markdownLib);
 
+  eleventyConfig.addFilter("searchIndexContent", function (post) {
+    if (!post || !post.rawInput) return "";
+    let content = post.rawInput;
+    // Strip front matter if present
+    if (content.startsWith("---")) {
+      const endOffset = content.indexOf("---", 3);
+      if (endOffset !== -1) {
+        content = content.substring(endOffset + 3);
+      }
+    }
+    // Clean up content: strip code blocks, HTML tags, wiki link brackets, normalize whitespace
+    content = content
+      .replace(/```[\s\S]*?```/g, "")
+      .replace(/<[^>]*>/g, "")
+      .replace(/\[\[(.*?)\]\]/g, "$1")
+      .replace(/\s+/g, " ")
+      .trim();
+    return content.substring(0, 1000);
+  });
+
   eleventyConfig.addFilter("isoDate", function (date) {
     return date && date.toISOString();
   });
@@ -363,7 +410,7 @@ module.exports = function (eleventyConfig) {
       return str;
     }
 
-    const parsed = parse(str);
+    let parsed = parse(str);
 
     function fillPictureSourceSets(src, cls, alt, meta, width, imageTag) {
       imageTag.tagName = "picture";
@@ -516,9 +563,17 @@ module.exports = function (eleventyConfig) {
       });
     }
 
-    return parsed.innerHTML;
+    const result = parsed.innerHTML;
+    // Release DOM tree references to allow GC between pages
+    parsed = null;
+    return result;
   });
 
+  // NOTE: htmlMinifier is disabled to reduce memory pressure during production builds.
+  // It parses the full HTML of every page into an AST, which with 1000+ pages consumes
+  // several GB of heap. The file size savings are minimal (~5-10%) compared to the memory cost.
+  // To re-enable, uncomment the block below and increase NODE_OPTIONS max-old-space-size.
+  /*
   eleventyConfig.addTransform("htmlMinifier", async (content, outputPath) => {
     if (
       (process.env.NODE_ENV === "production" || process.env.ELEVENTY_ENV === "prod") &&
@@ -537,12 +592,12 @@ module.exports = function (eleventyConfig) {
           keepClosingSlash: true,
         });
       } catch {
-        // If the html minifying fails for some reason due to some malformed text, just return the content as is.
         return content;
       }
     }
     return content;
   });
+  */
 
   eleventyConfig.addPassthroughCopy("src/site/img");
   eleventyConfig.addPassthroughCopy("src/site/scripts");
