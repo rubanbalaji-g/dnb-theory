@@ -124,7 +124,8 @@
 - Represents most severe complication of modern replacement therapy.
 - Neutralizing IgG alloantibodies target exogenous FVIII.
 - Occurs in 20-30% of severe [[Hematology/Hemophilia A\|Hemophilia A]] patients.
-- Risk factors: Large gene deletions, African-American ethnicity, early intensive factor exposure (trauma, surgery).
+- Risk factors: Large gene deletions, African-American ethnicity, early intensive factor expo
+- Results from decreased blood levels of functional procoagulansure (trauma, surgery).
 - **Quantification:** Bethesda Assay. 1 Bethesda Unit (BU) neutralizes 1 IU/mL of factor activity.
 
 #### Management Of Inhibitors

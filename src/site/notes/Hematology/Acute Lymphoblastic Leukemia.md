@@ -68,14 +68,14 @@ Single most powerful prognostic indicator.
 
 ### Prognostic Factors Profile
 
-| Factor                     | Favorable Profile                                | Adverse Profile                                                               |
-| :------------------------- | :----------------------------------------------- | :---------------------------------------------------------------------------- |
-| **Age**                    | 1 to 10 years                                    | <1 year (infant) or $\ge$ 10 years                                            |
-| **Initial WBC Count**      | <50,000/μL                                       | $\ge$ 50,000/μL                                                               |
-| **Immunophenotype**        | B-precursor cell                                 | T-cell (historically), Mature B-cell                                          |
-| **Extramedullary Disease** | Absent                                           | Central nervous system (CNS3) or testicular involvement                       |
-| **Cytogenetics (Ploidy)**  | Hyperdiploidy (>50 chromosomes), DNA [[Statistics/Index\|index]] >1.16 | Hypodiploidy (<44 chromosomes), DNA [[Statistics/Index\|index]] <0.81                               |
-| **Translocations**         | t(12;21) / ETV6-RUNX1, Trisomies 4 and 10        | t(9;22) / BCR-ABL1 (Philadelphia), KMT2A (MLL) rearrangement, iAMP21, Ph-like |
+| Factor                     | Favorable Profile                                  | Adverse Profile                                                               |
+| :------------------------- | :------------------------------------------------- | :---------------------------------------------------------------------------- |
+| **Age**                    | 1 to 10 years                                      | <1 year (infant) or $\ge$ 10 years                                            |
+| **Initial WBC Count**      | <50,000/μL                                         | $\ge$ 50,000/μL                                                               |
+| **Immunophenotype**        | B-precursor cell                                   | T-cell (historically), Mature B-cell                                          |
+| **Extramedullary Disease** | Absent                                             | Central nervous system (CNS3) or testicular involvement                       |
+| **Cytogenetics (Ploidy)**  | Hyperdiploidy (>50 chromosomes), DNA index \|>1.16 | Hypodiploidy (<44 chromosomes), DNA index <0.\|81                             |
+| **Translocations**         | t(12;21) / ETV6-RUNX1, Trisomies 4 and 10          | t(9;22) / BCR-ABL1 (Philadelphia), KMT2A (MLL) rearrangement, iAMP21, Ph-like |
 
 ## Advanced Risk Grouping
 

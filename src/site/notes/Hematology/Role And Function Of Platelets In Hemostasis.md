@@ -81,7 +81,7 @@
 |**Alpha Granules**|Store vWF, fibrinogen, Factor V, PF4|Gray platelet syndrome|
 |**Dense Granules**|Store ADP, ATP, Calcium, Serotonin|Hermansky-Pudlak syndrome, Chediak-Higashi syndrome|
 
-## Differential Diagnosis Of [[Hematology/Platelet Disorders\|Platelet Disorders]]
+## Differential Diagnosis Of Platelet Disorders
 
 ### Quantitative Disorders (Thrombocytopenia)
 

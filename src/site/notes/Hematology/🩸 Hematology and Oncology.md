@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/hematology/hematology-and-oncology/","noteIcon":"","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/hematology/hematology-and-oncology/","dgPassFrontmatter":true}
 ---
 
 ## Fetal Hematopoiesis
@@ -7,12 +7,13 @@
 2. [[Hematology/Hemoglobin Evolution - Embryo to Adult\|Hemoglobin Evolution - Embryo to Adult]]
 
 ## Inherited Bone Marrow Failure Syndromes
-1. [[Hematology/Inherited bone marrow failure syndromes (IBMFS)\|Inherited bone marrow failure syndromes (IBMFS)]]
-2. [[Hematology/Fanconi Anemia\|Fanconi Anemia]]
-3. [[Hematology/Shwachman-Diamond syndrome (SDS)\|Shwachman-Diamond syndrome (SDS)]]
-4. [[Hematology/Dyskeratosis congenita (DC)\|Dyskeratosis congenita (DC)]]
-5. [[Hematology/Diamond-Blackfan anemia (DBA)\|Diamond-Blackfan anemia (DBA)]]
-6. [[Hematology/Congenital amegakaryocytic thrombocytopenia\|Congenital amegakaryocytic thrombocytopenia]]
+1. [[Hematology/Myelodysplastic Syndromes\|Myelodysplastic Syndromes]]
+2. [[Hematology/Inherited bone marrow failure syndromes (IBMFS)\|Inherited bone marrow failure syndromes (IBMFS)]]
+3. [[Hematology/Fanconi Anemia\|Fanconi Anemia]]
+4. [[Hematology/Shwachman-Diamond syndrome (SDS)\|Shwachman-Diamond syndrome (SDS)]]
+5. [[Hematology/Dyskeratosis congenita (DC)\|Dyskeratosis congenita (DC)]]
+6. [[Hematology/Diamond-Blackfan anemia (DBA)\|Diamond-Blackfan anemia (DBA)]]
+7. [[Hematology/Congenital amegakaryocytic thrombocytopenia\|Congenital amegakaryocytic thrombocytopenia]]
 ## Anemias
 1. [[Hematology/Approach to Anemia\|Approach to Anemia]]
 2. [[Hematology/Anemia in the 1st Year of Life\|Anemia in the 1st Year of Life]]
@@ -61,6 +62,7 @@
 9. [[Hematology/Disseminated Intravascular Coagulation\|Disseminated Intravascular Coagulation]]
 10. [[Hematology/Immune Neonatal Thrombocytopenia (NAIT)\|Immune Neonatal Thrombocytopenia (NAIT)]]
 11. [[Hematology/Immune Thrombocytopenic Purpura (ITP)\|Immune Thrombocytopenic Purpura (ITP)]]
+12. [[Hematology/Thrombotic Thrombocytopenic Purpura\|Thrombotic Thrombocytopenic Purpura]]
 ## Leukemias and Lymphomas
 1. [[Hematology/Tumor Lysis Syndrome\|Tumor Lysis Syndrome]]
 2. [[Hematology/Oncological Emergencies other than TLS\|Oncological Emergencies other than TLS]]
@@ -71,6 +73,7 @@
 7. [[Hematology/Hodgkin Lymphoma\|Hodgkin Lymphoma]]
 8. [[Hematology/Non-Hodgkin Lymphoma\|Non-Hodgkin Lymphoma]]
 9. [[Hematology/Immunophenotyping Of Leukemias\|Immunophenotyping Of Leukemias]]
+10. [[Hematology/Myeloproliferative Syndromes\|Myeloproliferative Syndromes]]
 ## Other malignancies
 1. [[Hematology/Neuroblastoma\|Neuroblastoma]]
 2. [[Hematology/Supratentorial Intracranial Tumors In Children\|Supratentorial Intracranial Tumors In Children]]

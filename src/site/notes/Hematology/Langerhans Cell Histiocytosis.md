@@ -4,7 +4,7 @@
 
 ## Introduction And Pathogenesis
 
-[[Hematology/Langerhans Cell Histiocytosis\|Langerhans cell histiocytosis]] (LCH) is a rare, diverse group of proliferative disorders characterized by clonal accumulation of cells of the monocyte-dendritic cell lineage.
+Langerhans cell histiocytosis (LCH) is a rare, diverse group of proliferative disorders characterized by clonal accumulation of cells of the monocyte-dendritic cell lineage.
 
 - **Cellular Origin:** Arises from an immature cell of myeloid origin in an arrested state of development, not a mature skin Langerhans cell.
 - **Genetics:** Driven by somatic activating pathogenic variants in the mitogen-activated protein kinase (MAPK) signaling pathway.

@@ -68,7 +68,7 @@ graph TD
 
 ### Mechanisms Of Renal Dysfunction
 
-Multiple mechanisms contribute to [[Nephrology/Acute Kidney Injury\|acute kidney injury]] during [[Hematology/Tumor Lysis Syndrome\|tumor lysis syndrome]] (TLS):
+Multiple mechanisms contribute to [[Nephrology/Acute Kidney Injury\|acute kidney injury]] during tumor lysis syndrome (TLS):
 
 - Precipitation of uric acid crystals within renal tubules.
 - Precipitation of xanthine crystals. Occurs when urine pH exceeds 7.5 and following initiation of allopurinol.
@@ -79,7 +79,7 @@ Multiple mechanisms contribute to [[Nephrology/Acute Kidney Injury\|acute kidney
 
 Diagnosis encompasses both laboratory derangements and clinical manifestations.
 
-### Laboratory [[Hematology/Tumor Lysis Syndrome\|Tumor Lysis Syndrome]]
+### Laboratory Tumor Lysis Syndrome
 
 Defined as $\ge$ 25% increase from baseline (or absolute value exceeding cut-offs) in $\ge$ 2 of the following serum biochemical parameters:
 
@@ -88,14 +88,22 @@ Defined as $\ge$ 25% increase from baseline (or absolute value exceeding cut-off
 - **Phosphorus:** >6.5 mg/dL.
 - **Corrected Serum Calcium:** <7 mg/dL.
 
-### Clinical [[Hematology/Tumor Lysis Syndrome\|Tumor Lysis Syndrome]]
+### Clinical Tumor Lysis Syndrome
 
 Defined as the presence of laboratory TLS accompanied by specific clinical manifestations:
 
 - Seizures.
 - [[Cardiology/Cardiac arrhythmias\|Cardiac arrhythmias]].
 - [[Nephrology/Acute Kidney Injury\|Acute kidney injury]].
-
+## Grading of TLS
+| **Grade** | **Description**      | **Renal (Creatinine / Urine Output)**                                       | **Cardiac (Arrhythmia)**                                          | **Neurological (Seizures)**                              |
+| --------- | -------------------- | --------------------------------------------------------------------------- | ----------------------------------------------------------------- | -------------------------------------------------------- |
+| **0**     | **None**             | Normal or baseline                                                          | None                                                              | None                                                     |
+| **1**     | **Mild**             | Creatinine $1.5 \times$ ULN*<br><br>  <br><br>or volume depletion           | Mild arrhythmia; no intervention needed                           | None                                                     |
+| **2**     | **Moderate**         | Creatinine $>1.5 \text{ to } 3.0 \times$ ULN                                | Symptomatic arrhythmia; controlled by medication                  | One brief, generalized seizure; controlled by medication |
+| **3**     | **Severe**           | Creatinine $>3.0 \text{ to } 6.0 \times$ ULN                                | Severe, symptomatic arrhythmia; poorly controlled                 | Seizures that are poorly controlled; multiple episodes   |
+| **4**     | **Life-Threatening** | Creatinine $>6.0 \times$ ULN<br><br>  <br><br>or requires dialysis / anuria | Life-threatening arrhythmia; urgent intervention or pacing needed | Prolonged, repetitive seizures; status epilepticus       |
+| **5**     | **Fatal**            | Death                                                                       | Death                                                             | Death                                                    |
 ## Risk Stratification By Malignancy Type
 
 |Stratification Criteria|[[Hematology/Acute Lymphoblastic Leukemia\|Acute Lymphoblastic Leukemia]]|[[Hematology/Acute Myeloid Leukemia\|Acute Myeloid Leukemia]]|[[Hematology/Non-Hodgkin Lymphoma\|Non-Hodgkin Lymphoma]]|Solid Tumors|

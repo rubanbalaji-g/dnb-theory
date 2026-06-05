@@ -86,7 +86,7 @@
 
 ## Differential Diagnosis By Etiology
 
-### [[Hematology/Platelet Disorders\|Platelet Disorders]]
+### Platelet Disorders
 
 - Manifest with mucocutaneous bleeding: epistaxis, petechiae, superficial ecchymoses, mucosal oozing.
 - Hemarthrosis extremely rare.

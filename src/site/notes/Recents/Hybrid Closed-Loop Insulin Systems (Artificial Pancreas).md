@@ -36,8 +36,6 @@
 |**Time Below Range (TBR)**|Glucose <70 mg/dL.|<4% (with <1% below 54 mg/dL)|
 |**Time In Tight Range (TITR)**|Glucose maintained between 70–144 mg/dL.|>50%|
 
-_Data derived from recent ISPAD consensus guidelines._
-
 ## Recent Technological Advances (2025–2026)
 
 - **Missed Bolus Protection:** Systems like MiniMed 780G deliver automatic correction boluses every 5 minutes, maintaining >76% Time In Range even when adolescents miss meal announcements.

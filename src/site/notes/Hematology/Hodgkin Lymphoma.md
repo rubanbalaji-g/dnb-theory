@@ -41,22 +41,19 @@ World Health Organization classification delineates two distinct disease groups:
 
 ### Immunophenotypic Profile
 
-|Cellular Marker|Classical [[Hematology/Hodgkin Lymphoma\|Hodgkin Lymphoma]]|Nodular Lymphocyte-Predominant|
-|:--|:--|:--|
-|**CD15**|Positive (70%)|Negative|
-|**CD30**|Positive (100%)|Negative|
-|**CD45 (Leukocyte Common Antigen)**|Negative|Positive|
-|**CD20 (B-cell marker)**|Negative/Rarely Positive (20-30%)|Positive (100%)|
-|**Pax5**|Positive|Positive|
-
-_[Data compiled from immunophenotypic profiles]_.
-
+| Cellular Marker                     | Classical Hodgkin Lymphoma\|      | Nodular Lymphocyte-Predominant |
+| :---------------------------------- | :-------------------------------- | :----------------------------- |
+| **CD15**                            | Positive (70%)                    | Negative                       |
+| **CD30**                            | Positive (100%)                   | Negative                       |
+| **CD45 (Leukocyte Common Antigen)** | Negative                          | Positive                       |
+| **CD20 (B-cell marker)**            | Negative/Rarely Positive (20-30%) | Positive (100%)                |
+| **Pax5**                            | Positive                          | Positive                       |
 ## Clinical Manifestations
 
 ### Constitutional Symptoms
 
 - Present in approximately 20-30% of patients.
-- Classified as 'B' symptoms; carry significant adverse prognostic value.
+- Classified as **'B' symptoms**; carry significant adverse prognostic value.
 - **Fever:** Unexplained, recurrent temperatures >38°C for >3 days.
 - **Weight Loss:** Unexplained loss exceeding 10% of total body weight over preceding 6 months.
 - **Night Sweats:** Drenching character.

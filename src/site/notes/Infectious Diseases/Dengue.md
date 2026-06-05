@@ -2,7 +2,7 @@
 {"dg-publish":true,"uplink":"/id/","uptext":"Back to Index (Infectious Diseases)","permalink":"/infectious-diseases/dengue/","dgPassFrontmatter":true}
 ---
 
-## Approach to [[Infectious Diseases/Dengue\|dengue]]
+## Approach to dengue
   <!-- htmlmin:ignore -->
 ```mermaid
 graph TD
@@ -52,9 +52,9 @@ graph TD
 
 ## Introduction
 
-- [[Infectious Diseases/Dengue\|Dengue]] is a rapidly spreading mosquito-borne viral disease caused by the [[Infectious Diseases/Dengue\|dengue]] virus, which belongs to the Flavivirus genus of the Flaviviridae family. 
+- Dengue is a rapidly spreading mosquito-borne viral disease caused by the dengue virus, which belongs to the Flavivirus genus of the Flaviviridae family. 
 - It has become a major public health problem globally, with a 30-fold increase in incidence over the last five decades. 
-- The disease is endemic in more than 128 countries, with the South-East Asia and Western Pacific regions being the most seriously affected. In India, [[Infectious Diseases/Dengue\|dengue]] is hyper-endemic, and all four serotypes (DENV-1, DENV-2, DENV-3, and DENV-4) have been reported. 
+- The disease is endemic in more than 128 countries, with the South-East Asia and Western Pacific regions being the most seriously affected. In India, dengue is hyper-endemic, and all four serotypes (DENV-1, DENV-2, DENV-3, and DENV-4) have been reported. 
 - These serotypes are antigenically similar but different enough to elicit cross-protection for only a few months after infection; infection with one serotype confers lifelong immunity to that specific serotype only.
 
 - The virus is transmitted by female _Aedes_ mosquitoes, primarily _Aedes aegypti_ and _Aedes albopictus_. 

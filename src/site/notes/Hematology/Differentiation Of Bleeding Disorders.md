@@ -36,7 +36,7 @@
 
 ## Etiological Classification
 
-### [[Hematology/Platelet Disorders\|Platelet Disorders]]
+### Platelet Disorders
 
 - **Immune Destruction:** [[Hematology/Immune Thrombocytopenic Purpura (ITP)\|Immune thrombocytopenic purpura (ITP)]] features autoantibodies against platelet glycoproteins.
 - **Microangiopathic Consumption:** Hemolytic uremic syndrome, thrombotic thrombocytopenic purpura, [[Hematology/Disseminated Intravascular Coagulation\|disseminated intravascular coagulation]].
