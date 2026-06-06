@@ -7,7 +7,6 @@
 * **Goal:** To prioritize treatment and reduce the "Golden Hour" delay, thereby decreasing neonatal mortality.
 * **Setting:** Triage takes place in the **Reception Area** of the Special Care Newborn Unit (SCNU) immediately upon arrival.
 
----
 ## 2. STEPS OF TRIAGE (FBNC GUIDELINES)
 The triage process follows a hierarchical approach: **RAPID ASSESSMENT $\rightarrow$ CLASSIFICATION $\rightarrow$ IMMEDIATE MANAGEMENT.**
 
@@ -34,13 +33,11 @@ Performed within seconds of arrival. Do not move to the next step until the prev
 ### Step 2: Classification
 Based on the assessment, the newborn is classified into one of three categories:
 
-| Category | Definition | Action Required | Color Code (Triage) |
-| :--- | :--- | :--- | :--- |
-| **I. EMERGENCY SIGNS** | Life-threatening conditions. Immediate risk of death. | **Resuscitate IMMEDIATELY.** Do not delay for registration or detailed history. | **RED** |
-| **II. PRIORITY SIGNS** | Serious illness requiring urgent attention but breathing/circulation is stable. | **Assess & Admit rapidly.** Prioritize over non-urgent cases. | **YELLOW** |
-| **III. NON-URGENT** | Stable newborns requiring monitoring or minor interventions. | Detailed assessment, admission, or counseling. | **GREEN** |
-
----
+| Category                                                       | Definition                                                                                                         | Action Required                                                                                                    | Description                                                                                                                                                                                                                              |
+| :------------------------------------------------------------- | :----------------------------------------------------------------------------------------------------------------- | :----------------------------------------------------------------------------------------------------------------- | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| <span style="color:#ff3333">I. EMERGENCY SIGNS (RED)</span>    | <span style="color:#ff3333">Life-threatening conditions. <br> Immediate risk of death.</span>                      | <span style="color:#ff3333">Resuscitate IMMEDIATELY. <br>Do not delay for registration or detailed history.</span> | <span style="color:#ff3333"><ul><li>Gasping</li><li>Central Cyanosis</li><li>Shock</li><li>Hypothermia</li><li>Active Convulsion</li></ul></span>                                                                                        |
+| <span style="color:#ffa500">II. PRIORITY SIGNS (YELLOW)</span> | <span style="color:#ffa500">Serious illness requiring urgent attention but breathing/circulation is stable.</span> | <span style="color:#ffa500">Assess & Admit rapidly. <br>Prioritize over non-urgent cases.</span>                   | <span style="color:#ffa500"><ul><li>Tiny Baby</li><li>Temperature Instability</li><li>Respiratory Distress</li><li>Severe Jaundice</li><li>Bleeding</li><li>Abdominal Distension</li><li>Major Congenital Abnormalities</li></ul></span> |
+| <span style="color:#00cc44">III. NON-URGENT (GREEN)</span>     | <span style="color:#00cc44">Stable newborns requiring monitoring or minor interventions.</span>                    | <span style="color:#00cc44">Detailed assessment, admission, or counseling.</span>                                  | <span style="color:#00cc44">All other</span>                                                                                                                                                                                             |
 ## 3. DETAILED SIGNS & MANAGEMENT (FBNC/IMNCI)
 
 ### A. CATEGORY I: EMERGENCY SIGNS (Requires Immediate Resuscitation)
@@ -78,7 +75,6 @@ While triage prioritizes, the following specific criteria mandate admission to S
 6.  **Major Malformations** requiring surgical or medical support.
 7.  **Refusal to Feed** or inability to suck.
 
----
 ## 4. IMNCI INTEGRATION (THE "YOUNG INFANT" 0-2 MONTHS)
 IMNCI guidelines are used for screening and referral. In the triage setting, "Pink/Red" classification confirms the need for admission.
 
@@ -100,7 +96,6 @@ IMNCI guidelines are used for screening and referral. In the triage setting, "Pi
 * **YELLOW (Local Infection):** Pus from umbilicus/eyes $\rightarrow$ OPD management/Home care.
 * **GREEN (Not Sick):** Routine care.
 
----
 ## 5. INITIAL STABILIZATION AT ADMISSION ("S.T.A.B.L.E.")
 Once triaged and decision to admit is made, stabilize using the STABLE framework before shifting to the specific bed.
 

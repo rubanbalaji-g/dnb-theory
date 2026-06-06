@@ -18,7 +18,7 @@ Detection methods are classified into **Screening** (non-invasive, applied to po
     * **Nasal Bone:** Absence is a soft marker for Trisomy 21.
     * **Dating:** Most accurate assessment of gestational age.
 * **Second Trimester (18–20 weeks) – "Target Scan" / "Level II Scan":**
-    * **Structural Survey:** Detects NTDs (anencephaly, spina bifida), renal agenesis, limb defects, cardiac anomalies.
+    * **Structural Survey:** Detects NTDs, renal agenesis, limb defects, cardiac anomalies.
     * **Soft Markers:** E.g., echogenic intracardiac focus, choroid plexus cyst, renal pyelectasis (warrants further evaluation).
 * **Fetal Echocardiography (20–22 weeks):**
     * Indicated if maternal diabetes, SLE, previous child with CHD, or abnormal Level II scan.

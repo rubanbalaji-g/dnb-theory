@@ -40,8 +40,3 @@ Initially restricted to high-risk pregnancies, now recommended as an option for 
     * **Vanishing Twin:** DNA from a demised co-twin.
     * **Maternal Malignancy:** Tumors shed cell-free DNA.
 * **Test Failure:** Usually due to low Fetal Fraction (high BMI).
-
-## 7. SUMMARY
-* **Gold Standard Screening:** Most accurate screening method for Trisomy 21.
-* **Safety:** Zero risk of miscarriage (non-invasive).
-* **Limitation:** Does not detect NTDs (still requires USG/AFP) and is cost-prohibitive in some settings.

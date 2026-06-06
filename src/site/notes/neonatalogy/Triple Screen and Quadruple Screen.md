@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/neonatalogy/triple-screen-and-quadruple-screen/","dgPassFrontmatter":true}
 ---
 
-## PART 1: ANTENATAL SCREENING FOR DOWN SYNDROME 
+## ANTENATAL SCREENING FOR DOWN SYNDROME 
 
 ### 1. Introduction
 * **Goal:** To identify pregnancies at "High Risk" (>1:250) for Trisomy 21, warranting invasive diagnostic testing (Amniocentesis/CVS).
@@ -42,7 +42,7 @@ Indicated for women presenting late or where NT scan was not available.
 * **Role:** Screening test (not diagnostic). High-risk results require confirmation via Karyotype.
 
 ---
-## PART 2: UTILITY OF TESTS IN OTHER DISORDERS 
+## UTILITY OF TESTS IN OTHER DISORDERS 
 
 Beyond Down Syndrome, these screening modalities detect other chromosomal, structural, and metabolic anomalies.
 

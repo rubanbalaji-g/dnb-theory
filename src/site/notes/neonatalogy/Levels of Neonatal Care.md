@@ -60,7 +60,7 @@ Care is provided at three distinct levels corresponding to the health infrastruc
     * **Doctors:** Medical officer skilled in newborn care.
 
 ### C. Special Newborn Care Unit ([[neonatalogy/SNCU\|SNCU]])
-* **Bed Strength:** Minimum 8, Maximum 16 (based on 3 beds/1000 annual deliveries + 30% extramural buffer).
+* **Bed Strength:** Minimum 8 (based on 3 beds/1000 annual deliveries + 30% extramural buffer).
 * **Space Requirement:** **100 sq. ft. per bed** minimum.
     * *Baby Care Area:* 50 sq. ft./bed.
     * *Ancillary Area:* 50 sq. ft./bed (Stations, Lab, Mothers' area).
