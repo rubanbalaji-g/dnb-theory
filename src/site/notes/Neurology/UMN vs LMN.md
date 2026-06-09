@@ -22,13 +22,13 @@ Involves the Anterior Horn Cell, Nerve Root, Peripheral Nerve, or Neuromuscular 
 
 ## 2. CLINICAL DIFFERENTIATION
 
-| Feature | Upper Motor Neuron (UMN) | Lower Motor Neuron (LMN) |
-| :--- | :--- | :--- |
-| **Muscle Tone** | **Hypertonia (Spasticity):** "Clasp-knife" type; velocity-dependent resistance. | **Hypotonia (Flaccidity):** Loss of tone due to loss of efferent supply. |
-| **Power/Weakness** | **Pyramidal Distribution:** Affects functional groups (Extensors of arm, Flexors of leg). | **Segmental/Focal:** Affects specific muscles supplied by the damaged nerve/root. |
-| **Deep Tendon Reflexes** | **Exaggerated (Hyperreflexia):** Loss of descending inhibition. Clonus may be present. | **Diminished or Absent (Areflexia):** Interruption of the reflex arc. |
-| **Superficial Reflexes** | **Absent:** Abdominal, Cremasteric reflexes are lost. | **Present:** Unless the segmental nerve supplying the skin is involved. |
-| **Plantar Response** | **Extensor (Babinski Sign positive):** Dorsiflexion of great toe, fanning of others. | **Flexor or Absent (mute):** No pathological extension. |
-| **Wasting (Atrophy)** | **Disuse Atrophy:** Mild and occurs late (weeks/months). | **Neurogenic Atrophy:** Severe, rapid (days/weeks). |
-| **Fasciculations** | **Absent.** | **Present:** Spontaneous twitching (classic in SMA/Polio). |
+| Feature                  | Upper Motor Neuron (UMN)                                                                  | Lower Motor Neuron (LMN)                                                          |
+| :----------------------- | :---------------------------------------------------------------------------------------- | :-------------------------------------------------------------------------------- |
+| **Muscle Tone**          | **Hypertonia (Spasticity):** "Clasp-knife" type; velocity-dependent resistance.           | **Hypotonia (Flaccidity):** Loss of tone due to loss of efferent supply.          |
+| **Power/Weakness**       | **Pyramidal Distribution:** Affects functional groups (Extensors of arm, Flexors of leg). | **Segmental/Focal:** Affects specific muscles supplied by the damaged nerve/root. |
+| **Deep Tendon Reflexes** | **Exaggerated (Hyperreflexia):** Loss of descending inhibition. Clonus may be present.    | **Diminished or Absent (Areflexia):** Interruption of the reflex arc.             |
+| **Superficial Reflexes** | **Absent:** Abdominal, Cremasteric reflexes are lost.                                     | **Present:** Unless the segmental nerve supplying the skin is involved.           |
+| **Plantar Response**     | **Extensor (Babinski Sign positive):** Dorsiflexion of great toe, fanning of others.      | **Flexor or Absent (mute):** No pathological extension.                           |
+| **Wasting (Atrophy)**    | **Disuse Atrophy:** Mild and occurs late (weeks/months).                                  | **Neurogenic Atrophy:** Severe, rapid (days/weeks).                               |
+| **Fasciculations**       | **Absent.**                                                                               | **Present:** Spontaneous twitching (classic in SMA/Polio).                        |
 

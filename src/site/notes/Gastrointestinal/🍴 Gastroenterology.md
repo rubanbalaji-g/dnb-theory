@@ -33,6 +33,8 @@
 4. [[Gastrointestinal/Antibiotic Associated Diarrhea\|Antibiotic Associated Diarrhea]]
 5. [[Gastrointestinal/Oral Rehydration Solution\|Oral Rehydration Solution]]
 6. [[Gastrointestinal/Antisecretory Agents\|Antisecretory Agents]]
+## Constipation
+1. [[Gastrointestinal/Constipation in children\|Constipation in children]]
 ## Nutrition and Malabsorption
 1. [[Gastrointestinal/Approach to a child with Malnutrition\|Approach to a child with Malnutrition]]
 2. [[Gastrointestinal/Carbohydrate Intolerance\|Carbohydrate Intolerance]]

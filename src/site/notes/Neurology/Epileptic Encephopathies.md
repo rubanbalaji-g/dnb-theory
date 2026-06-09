@@ -16,7 +16,7 @@ These syndromes typically present at specific ages due to the maturation levels 
 
 - **Onset:** First 2 months of life (often neonatal).
 - **Seizure Type:** Fragmentary, severe myoclonic seizures, and erratic [[Neurology/Focal seizures\|focal seizures]].
-- **Etiology:** Predominantly metabolic (e.g., Non-ketotic hyperglycinemia, [[Metabolic Disorders/Organic Acidemias\|organic acidemias]]),.
+- **Etiology:** Predominantly metabolic (e.g., Non-ketotic hyperglycinemia, [[Metabolic Disorders/Organic Acidemias\|organic acidemias]]).
 - **EEG:** **Burst-suppression pattern** (periods of flat background interrupted by high-voltage spikes). This pattern is often enhanced by sleep.
 - **Prognosis:** Ominous; high mortality and severe impairment.
 
@@ -24,27 +24,27 @@ These syndromes typically present at specific ages due to the maturation levels 
 
 - **Onset:** Neonatal to early infancy (first 3 months).
 - **Seizure Type:** Primarily **tonic spasms** (singly or in clusters).
-- **Etiology:** Structural brain malformations (e.g., hemimegalencephaly) or genetic variants (e.g., _STXBP1_, _KCNQ2_),.
+- **Etiology:** Structural brain malformations (e.g., hemimegalencephaly) or genetic variants (e.g., _STXBP1_, _KCNQ2_).
 - **EEG:** **Burst-suppression pattern** (consistent during both sleep and wakefulness).
 - **Evolution:** Often progresses to West syndrome and later Lennox-Gastaut syndrome.
 
 #### **3. Epilepsy of Infancy with Migrating [[Neurology/Focal seizures\|Focal Seizures]] (EIMFS)**
 
 - **Clinical Features:** Multifocal seizures with autonomic symptoms (apnea, flushing). Seizures are nearly continuous.
-- **Genetics:** Strongly associated with _KCNT1_ (gain-of-function) mutations,.
+- **Genetics:** Strongly associated with _KCNT1_ (gain-of-function) mutations.
 - **EEG:** Ictal rhythms migrating from one brain region to another contiguous or contralateral region.
 ### B. Infancy
 
 #### **1. West Syndrome ([[Neurology/Infantile Spasms\|Infantile Spasms]])**
 
 - **Triad:**
-    1. **Epileptic Spasms:** Sudden flexion, extension, or mixed movements of proximal muscles, often occurring in clusters upon awakening,.
+    1. **Epileptic Spasms:** Sudden flexion, extension, or mixed movements of proximal muscles, often occurring in clusters upon awakening.
     2. **Psychomotor Regression:** Arrest or loss of developmental milestones.
-    3. **Hypsarrhythmia:** Chaotic, high-voltage background with multifocal spikes and sharp waves on EEG,.
-- **Etiology:** Diverse. Includes structural (Tuberous Sclerosis Complex - TSC), genetic (_ARX_, _CDKL5_), or metabolic causes,.
+    3. **Hypsarrhythmia:** Chaotic, high-voltage background with multifocal spikes and sharp waves on EEG.
+- **Etiology:** Diverse. Includes structural (Tuberous Sclerosis Complex - TSC), genetic (_ARX_, _CDKL5_), or metabolic causes.
 - **Management:**
-    - **First-line:** ACTH (Adrenocorticotropic hormone) or high-dose oral corticosteroids,.
-    - **TSC-associated:** **Vigabatrin** is the drug of choice,.
+    - **First-line:** ACTH (Adrenocorticotropic hormone) or high-dose oral corticosteroids.
+    - **TSC-associated:** **Vigabatrin** is the drug of choice.
     - **Prognosis:** Variable; better in cryptogenic cases. Often evolves into Lennox-Gastaut syndrome.
 
 #### **2. Dravet Syndrome (Severe Myoclonic Epilepsy of Infancy)**
@@ -56,17 +56,17 @@ These syndromes typically present at specific ages due to the maturation levels 
     - **Triggers:** Hyperthermia (fever, hot bath), photic stimulation.
 - **Management:**
     - **Contraindicated:** Sodium channel blockers (Carbamazepine, Phenytoin, Lamotrigine) as they exacerbate seizures.
-    - **Effective Agents:** Valproate, Clobazam, Stiripentol, Cannabidiol (CBD), and Fenfluramine,.
+    - **Effective Agents:** Valproate, Clobazam, Stiripentol, Cannabidiol (CBD), and Fenfluramine.
 ### C. Childhood
 
 #### **1. Lennox-Gastaut Syndrome (LGS)**
 
-- **Onset:** 2–10 years (peak 3–5 years),.
+- **Onset:** 2–10 years (peak 3–5 years).
 - **Triad:**
-    1. **Multiple Seizure Types:** Tonic (especially nocturnal), Atonic ("drop attacks"), and Atypical Absence are characteristic,.
+    1. **Multiple Seizure Types:** Tonic (especially nocturnal), Atonic ("drop attacks"), and Atypical Absence are characteristic.
     2. **Cognitive Impairment:** Intellectual regression is invariable.
     3. **EEG:** Slow spike-and-wave discharges (<2.5 Hz) and Generalized Paroxysmal Fast Activity (GPFA) in sleep.
-- **Management:** Highly refractory. Valproate, Lamotrigine, Topiramate, Clobazam, Rufinamide, and Epidiolex (CBD) are used,. Corpus callosotomy may be palliative for drop attacks.
+- **Management:** Highly refractory. Valproate, Lamotrigine, Topiramate, Clobazam, Rufinamide, and Epidiolex (CBD) are used. Corpus callosotomy may be palliative for drop attacks.
 
 #### **2. [[Neurology/Landau-Kleffner Syndrome\|Landau-Kleffner Syndrome]] (LKS)**
 
@@ -84,31 +84,31 @@ These syndromes typically present at specific ages due to the maturation levels 
 
 - **Clinical Features:** Onset 3–5 years with myoclonic jerks followed immediately by atonic loss of tone (drop attacks). Generalized tonic-clonic seizures may occur.
 - **Prognosis:** Variable; better than LGS.
-- **Management:** Valproate, Ethosuximide, Levetiracetam. The **Ketogenic Diet** is particularly effective,.
+- **Management:** Valproate, Ethosuximide, Levetiracetam. The **Ketogenic Diet** is particularly effective.
 
 ## Etiology and Pathophysiology
 
 The etiology of EE is categorized into:
 
-1. **Genetic:** Single gene mutations affecting ion channels (_SCN1A, KCNQ2_), synaptic transmission (_STXBP1_), or cell signaling (_mTOR_ pathway),.
-2. **Structural:** Malformations of cortical development (e.g., Lissencephaly, Focal Cortical Dysplasia), Tuberous Sclerosis,.
-3. **Metabolic:** Pyridoxine dependency, Biotinidase deficiency, GLUT-1 deficiency, Mitochondrial disorders (e.g., Alpers-Huttenlocher due to _POLG_),,.
+1. **Genetic:** Single gene mutations affecting ion channels (_SCN1A, KCNQ2_), synaptic transmission (_STXBP1_), or cell signaling (_mTOR_ pathway).
+2. **Structural:** Malformations of cortical development (e.g., Lissencephaly, Focal Cortical Dysplasia), Tuberous Sclerosis.
+3. **Metabolic:** Pyridoxine dependency, Biotinidase deficiency, GLUT-1 deficiency, Mitochondrial disorders (e.g., Alpers-Huttenlocher due to _POLG_).
 4. **Infectious/Inflammatory:** Congenital infections (TORCH), [[Neurology/Autoimmune Encephalitis\|Autoimmune encephalitis]] (e.g., Anti-NMDA receptor).
 5. **Unknown:** Previously termed cryptogenic.
 
 ## Diagnostic Evaluation
 
 1. **Video-EEG:** Essential for classifying seizure types (e.g., spasms vs. myoclonus) and identifying syndromic patterns (e.g., hypsarrhythmia, burst-suppression).
-2. **Neuroimaging (MRI):** High-resolution MRI (epilepsy protocol) to identify structural lesions like focal cortical dysplasia or tuberous sclerosis,.
+2. **Neuroimaging (MRI):** High-resolution MRI (epilepsy protocol) to identify structural lesions like focal cortical dysplasia or tuberous sclerosis.
 3. **Genetic Testing:** Gene panels or Whole [[Genetics/Exome Sequencing\|Exome Sequencing]] are crucial, especially for early-onset encephalopathies (e.g., _SCN1A_ for Dravet, _KCNT1_ for EIMFS).
-4. **Metabolic Screening:** Indicated in infants with refractory seizures. Tests include CSF/plasma amino acids, urine organic acids, and trial of Pyridoxine (Vitamin B6),.
+4. **Metabolic Screening:** Indicated in infants with refractory seizures. Tests include CSF/plasma amino acids, urine organic acids, and trial of Pyridoxine (Vitamin B6).
 
 ## Management Principles
 
 Management is challenging as these conditions are often drug-resistant.
 ### 1. Pharmacotherapy
 
-- **Broad Spectrum:** Valproate, Clobazam, Topiramate, and Levetiracetam are broad-spectrum agents often used in LGS and Dravet,.
+- **Broad Spectrum:** Valproate, Clobazam, Topiramate, and Levetiracetam are broad-spectrum agents often used in LGS and Dravet.
 - **Syndrome Specific:**
     - **West Syndrome:** ACTH or Vigabatrin.
     - **Dravet Syndrome:** Fenfluramine, Stiripentol, CBD.
@@ -127,12 +127,12 @@ The **Ketogenic Diet** is highly effective for metabolic epilepsies like GLUT-1 
 - **Vagus Nerve Stimulation (VNS):** For refractory LGS or multifocal epilepsy not amenable to resection.
 ### 4. Immunotherapy
 
-Steroids (Prednisone/Methylprednisolone) and IVIG are used for LKS, CSWS, West Syndrome, and autoimmune-mediated epilepsies (e.g., FIRES),.
+Steroids (Prednisone/Methylprednisolone) and IVIG are used for LKS, CSWS, West Syndrome, and autoimmune-mediated epilepsies (e.g., FIRES).
 
 ## Prognosis
 
 The prognosis is generally guarded. While some syndromes like _Benign familial neonatal seizures_ have favorable outcomes, the epileptic encephalopathies (West, LGS, Dravet) typically carry a high risk of:
 
 - **Intractable Epilepsy:** Failure of multiple AEDs.
-- **Cognitive Decline:** Ranging from learning disabilities to profound intellectual disability,.
+- **Cognitive Decline:** Ranging from learning disabilities to profound intellectual disability.
 - **Mortality:** Increased risk of Sudden Unexpected Death in Epilepsy (SUDEP) and [[Respiratory/Aspiration Pneumonia\|aspiration pneumonia]].

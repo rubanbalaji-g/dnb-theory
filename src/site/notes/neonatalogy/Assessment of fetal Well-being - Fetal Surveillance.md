@@ -2,7 +2,8 @@
 {"dg-publish":true,"permalink":"/neonatalogy/assessment-of-fetal-well-being-fetal-surveillance/","dgPassFrontmatter":true}
 ---
 
-## 1. INTRODUCTION
+
+6 Important Domains of SARNAT staging - Mnemonic## 1. INTRODUCTION
 * **Definition:** A spectrum of prenatal and intrapartum tests designed to monitor fetal health, primarily to detect **fetal hypoxia and acidosis**.
 * **Goal:** To prevent intrauterine fetal death (IUFD) and long-term neurological injury ([[Neurology/Cerebral Palsy\|cerebral palsy]]) through timely intervention.
 

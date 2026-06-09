@@ -72,10 +72,6 @@ Duchenne Muscular Dystrophy (DMD) and Becker Muscular Dystrophy (BMD) are dystro
 - **Genetic Studies:** Multiplex PCR and [[Genetics/Multiplex Ligation-Dependent Probe Amplification (MLPA)\|Multiplex Ligation-Dependent Probe Amplification (MLPA)]] detect gene deletions (65-70%) or duplications. Restriction Fragment Length Polymorphism (RFLP) and haplotypic analysis are used for non-deleted patients.
 - **Muscle Biopsy:** Indicated for mutation-negative cases or to differentiate DMD from BMD. Routine H&E shows necrosis, regeneration, variable fiber diameter, central nuclei, and replacement by fibrofatty tissue. Immunohistochemical staining uses dystrophin antibodies (α, β, γ); dystrophin is absent in DMD and reduced/patchy in BMD.
 
-### Diagnostic Algorithm
-
-Index Patient -> DNA (gene deletion screening via PCR/MLPA) -> If No Gene Deletion -> Southern Blot or Duplication analysis -> Haplotypic analysis -> Muscle Immunohistochemistry / Western blot -> Confirms diagnosis and enables detection of point mutation.
-
 ### Pharmacotherapy
 
 - **Corticosteroids:** The current standard of care. Reduces apoptosis and decelerates myofibre necrosis, prolonging ambulation.

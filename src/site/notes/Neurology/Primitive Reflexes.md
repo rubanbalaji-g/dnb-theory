@@ -94,9 +94,9 @@
 
 ### Indicators of [[Neurology/Cerebral Palsy\|Cerebral Palsy]] (CP)
 
-- **Persistence:** Persistence of [[Neurology/Primitive Reflexes\|primitive reflexes]] (e.g., ATNR, Moro, Rooting) beyond typical disappearance age is a hallmark clinical feature of CP.
+- **Persistence:** Persistence of primitive reflexes (e.g., ATNR, Moro, Rooting) beyond typical disappearance age is a hallmark clinical feature of CP.
 - **Delayed [[Neurology/Postural Reflexes\|Postural Reflexes]]:** Absence of parachute and Landau reflexes further supports CP diagnosis.
-- **Prognostic Value:** Persistent [[Neurology/Primitive Reflexes\|primitive reflexes]] beyond 2 years of age predict a poor neuromotor outcome and non-ambulatory status in CP.
+- **Prognostic Value:** Persistent primitive reflexes beyond 2 years of age predict a poor neuromotor outcome and non-ambulatory status in CP.
 
 ### Differential Diagnosis via Reflexes
 

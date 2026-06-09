@@ -103,7 +103,7 @@
 |Condition|Distinguishing Clinical Features|
 |---|---|
 |**Friedreich Ataxia**|Shows areflexia and distal weakness similar to Charcot-Marie-Tooth disease. Differentiated by clear ataxia, loss of joint position sense, and a sensory neuropathy pattern on neurophysiology.|
-|**Guillain-Barré Syndrome**|Acute onset over hours to days. Presents with ascending, bilaterally symmetrical flaccid weakness. Frequently has an antecedent infectious trigger.|
+|**[[Neuromuscular/Guillain-Barré Syndrome\|Guillain-Barré Syndrome]]**|Acute onset over hours to days. Presents with ascending, bilaterally symmetrical flaccid weakness. Frequently has an antecedent infectious trigger.|
 |**Chronic Inflammatory Demyelinating Polyneuropathy**|Subacute to chronic progression. Involves both proximal and distal weakness. Concomitant sensory loss is present.|
 |**Spinal Muscular Atrophy**|Presents with tongue fasciculations and polyminimyoclonus. Face is relatively spared. Sensory pathways are unaffected.|
 

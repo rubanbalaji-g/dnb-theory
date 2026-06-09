@@ -5,7 +5,7 @@
 ## Embryonic Origin And Outgrowth
 
 - Development commences 3rd-4th week gestation.
-- Hepatic diverticulum arises from ventral endodermal layer of distal foregut.
+- Hepatic diverticulum arises from **ventral endodermal layer** of distal foregut.
 - Diverticulum divides into two primary domains:
     - Rostral (cranial) bud: Forms liver parenchyma, intrahepatic bile ducts.
     - Caudal bud (pars cystica): Forms gallbladder, cystic duct, extrahepatic common bile duct.
@@ -16,8 +16,8 @@
 
 - Ventral foregut endoderm acquires competence via signals from cardiac mesoderm (fibroblast growth factors) and septum transversum (bone morphogenetic proteins).
 - Bipotential hepatoblast progenitors differentiate into hepatocytes or cholangiocytes (bile duct epithelial cells).
-- Hepatocyte lineage represents default transcriptional program.
-- Cholangiocyte differentiation directed by specific spatial niches (portal vein regions) and signaling pathways (SOX9, Notch, Wnt, TGF-B, Hippo-Yap).
+- **Hepatocyte lineage represents default** transcriptional program.
+- Cholangiocyte differentiation directed by specific spatial niches (portal vein regions) and signaling pathways (**SOX9, Notch, Wnt, TGF-B, Hippo-Yap**).
 
 ## Intrahepatic Biliary Development
 

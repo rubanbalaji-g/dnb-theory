@@ -29,21 +29,21 @@ Head circumference (HC) is a surrogate marker for brain volume. Brain growth is 
 * **Reference Charts:** WHO Growth Standards (0–5 years) and IAP/CDC charts (>5 years).
 
 ---
-## 2. Definition of [[Neurology/Microcephaly\|Microcephaly]]
-[[Neurology/Microcephaly\|Microcephaly]] is a clinical sign, not a diagnosis, indicating a small head size relative to age and sex.
+## 2. Definition of Microcephaly
+Microcephaly is a clinical sign, not a diagnosis, indicating a small head size relative to age and sex.
 
 * **Statistical Definition:** Occipitofrontal circumference (OFC) more than **2 Standard Deviations (SD)** below the mean (< 3rd percentile) for age, sex, and ethnicity.
-* **Severe [[Neurology/Microcephaly\|Microcephaly]]:** OFC more than **3 SD** below the mean.
-* **Relative [[Neurology/Microcephaly\|Microcephaly]]:** HC drops from a higher percentile to a lower percentile over time (crossing major centiles downward), even if absolute value is > -2 SD.
+* **Severe Microcephaly:** OFC more than **3 SD** below the mean.
+* **Relative Microcephaly:** HC drops from a higher percentile to a lower percentile over time (crossing major centiles downward), even if absolute value is > -2 SD.
 
 ---
-## 3. Etiology of [[Neurology/Microcephaly\|Microcephaly]]
+## 3. Etiology of Microcephaly
 Classified based on timing (onset) and pathophysiology.
 
-### A. Primary [[Neurology/Microcephaly\|Microcephaly]] (Congenital/Genetic)
+### A. Primary Microcephaly (Congenital/Genetic)
 *Defect in neurogenesis or neuronal migration; usually present at birth.*
 1.  **Genetic (Isolated):**
-    * **Autosomal Recessive Primary [[Neurology/Microcephaly\|Microcephaly]] (MCPH):** Genes *ASPM* (most common), *MCPH1*, *WDR62*.
+    * **Autosomal Recessive Primary Microcephaly (MCPH):** Genes *ASPM* (most common), *MCPH1*, *WDR62*.
 2.  **Chromosomal/Syndromic:**
     * **Trisomies:** Down (T21), Edwards (T18), Patau (T13).
     * **Deletion Syndromes:** Cri-du-chat (5p-), Wolf-Hirschhorn (4p-).
@@ -54,7 +54,7 @@ Classified based on timing (onset) and pathophysiology.
     * Holoprosencephaly.
     * Agenesis of Corpus Callosum.
 
-### B. Secondary [[Neurology/Microcephaly\|Microcephaly]] (Acquired/Environmental)
+### B. Secondary Microcephaly (Acquired/Environmental)
 *Normal initial brain development followed by insult/destruction.*
 1.  **Intrauterine Infections (TORCH):**
     * Cytomegalovirus (CMV) - most common infectious cause.
@@ -74,12 +74,12 @@ Classified based on timing (onset) and pathophysiology.
     * Premature fusion of sutures (e.g., sagittal, coronal) restricting growth.
 
 ---
-## 4. Diagnostic Approach to a Child with [[Neurology/Microcephaly\|Microcephaly]]
+## 4. Diagnostic Approach to a Child with Microcephaly
 
-### Step 1: Confirmation of [[Neurology/Microcephaly\|Microcephaly]]
+### Step 1: Confirmation of Microcephaly
 * **Measurement:** Use non-stretchable tape. Measure **maximum occipitofrontal circumference** (glabella to most prominent point of occiput). Repeat three times.
 * **Plotting:** Use appropriate chart (Fenton for preterm, WHO for <5y).
-* **Parental HC:** Measure parents to rule out **Benign Familial [[Neurology/Microcephaly\|Microcephaly]]** (use Weaver curves).
+* **Parental HC:** Measure parents to rule out **Benign Familial Microcephaly** (use Weaver curves).
 
 ### Step 2: Detailed History
 * **Antenatal:** Maternal fever/rash (Zika/Rubella), drug intake (antiepileptics, alcohol), radiation, maternal PKU.
@@ -109,7 +109,7 @@ Classified based on timing (onset) and pathophysiology.
 **B. Genetic Testing (If Dysmorphic or MRI abnormal)**
 * **Karyotype:** If Trisomy suspected.
 * **Chromosomal Microarray (CMA):** First-line for developmental delay + dysmorphism (detects microdeletions).
-* **Whole [[Genetics/Exome Sequencing\|Exome Sequencing]] (WES):** For suspected Mendelian disorders or Primary [[Neurology/Microcephaly\|Microcephaly]] (MCPH panel).
+* **Whole [[Genetics/Exome Sequencing\|Exome Sequencing]] (WES):** For suspected Mendelian disorders or Primary Microcephaly (MCPH panel).
 
 **C. Infection Screen (If Calcifications/HSM present)**
 * **TORCH titers:** IgM/IgG.
@@ -121,7 +121,7 @@ Classified based on timing (onset) and pathophysiology.
 * Ammonia/Lactate.
 
 ### Summary Flowchart
-1.  **[[Neurology/Microcephaly\|Microcephaly]] Confirmed** -> Check Parents.
+1.  **Microcephaly Confirmed** -> Check Parents.
 2.  **Parents Small?** -> Benign Familial -> Observation.
 3.  **Parents Normal?** -> Assess for Dysmorphism/Delay.
 4.  **Dysmorphic?** -> Genetic Workup (CMA/Karyotype).

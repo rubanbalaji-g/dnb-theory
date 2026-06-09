@@ -13,10 +13,10 @@
 
 Diagnosis requires symptom duration of at least 1 month.
 
-|Age Group|Rome IV Criteria (Requires $\ge$2 criteria)|
-|:--|:--|
-|**Infants up to 4 years**|- $\le$2 defecations per week.- History of excessive stool retention.- History of painful/hard bowel movements.- History of large-diameter stools.- Presence of large rectal fecal mass.*(If toilet trained: $\ge$1 episode/week of incontinence, large stools obstructing toilet)*.|
-|**Children $\ge$4 years**|- $\le$2 defecations in the toilet per week.- $\ge$1 episode of fecal incontinence per week.- History of retentive posturing/volitional stool retention.- History of painful/hard bowel movements.- Presence of large rectal fecal mass.- History of large-diameter stools obstructing toilet.|
+| Age Group                  | Rome IV Criteria (Requires $\ge$ 2 criteria)                                                                                                                                                                                                                                                                        |
+| :------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| **Infants up to 4 years**  | - $\le$ 2 defecations per week.- History of excessive stool retention.<br>- History of painful/hard bowel movements.<br>- History of large-diameter stools.<br>- Presence of large rectal fecal mass.*(If toilet trained: $\ge$ 1 episode/week of incontinence, large stools obstructing toilet)*.                  |
+| **Children $\ge$ 4 years** | - $\le$ 2 defecations in the toilet per week.<br>- $\ge$1 episode of fecal incontinence per week.<br>- History of retentive posturing/volitional stool retention.<br>- History of painful/hard bowel movements.<br>- Presence of large rectal fecal mass.<br>- History of large-diameter stools obstructing toilet. |
 
 ## ETIOLOGY & RISK FACTORS
 

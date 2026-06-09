@@ -31,11 +31,11 @@ Forms the sacral and coccygeal spinal cord.
 ## 3. NEURAL CREST CELLS ("The 4th Germ Layer")
 As the neural folds fuse, cells at the crest of the neuroectoderm detach and migrate laterally. They are multipotent.
 
-| Derivative Group | Structures Formed |
-| :--- | :--- |
-| **Ganglia** | Dorsal root ganglia, Sympathetic chain, Parasympathetic ganglia, Cranial nerve ganglia |
-| **Cells** | Schwann cells, Satellite cells, Melanocytes (skin), Chromaffin cells (adrenal medulla) |
-| **Head & Neck** | Odontoblasts, Meninges (Pia/Arachnoid), Pharyngeal arch cartilages |
+| Derivative Group | Structures Formed                                                                      |
+| :--------------- | :------------------------------------------------------------------------------------- |
+| **Ganglia**      | Dorsal root ganglia, Sympathetic chain, Parasympathetic ganglia, Cranial nerve ganglia |
+| **Cells**        | Schwann cells, Satellite cells, Melanocytes (skin), Chromaffin cells (adrenal medulla) |
+| **Head & Neck**  | Odontoblasts, Meninges (Pia/Arachnoid), Pharyngeal arch cartilages                     |
 
 ## 4. DEVELOPMENT OF THE SPINAL CORD
 

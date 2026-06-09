@@ -17,16 +17,16 @@
 
 Malformations classified by imaging morphology and underlying genetic/pathologic mechanisms.
 
-|Disorder|Morphologic Hallmark|Key Genes / Etiology|Clinical Associations|
-|:--|:--|:--|:--|
-|**Lissencephaly**|Smooth brain without gyri (Agyria)|_PAFAH1B1 (LIS1)_, _DCX_, _TUBA1A_|Intractable spasms, [[Neurology/Microcephaly\|microcephaly]], eye abnormalities.|
-|**Pachygyria**|Few large, broad gyri|17p13.3 deletion (Miller-Dieker)|Severe congenital muscular dystrophies, peroxisomal disorders.|
-|**Cobblestone Malformation**|Nodular gray-white interface|_POMT1_, _POMT2_, _FKTN_, _LARGE_|Muscular dystrophy, [[Neurology/Infantile Spasms\|infantile spasms]], encephalocele.|
-|**Heterotopia**|Gray matter within white matter|_FLNA_, _DCX_|Intractable seizures.|
-|**Polymicrogyria**|Many small convolutions, shallow sulci|Congenital CMV, _AKT3_, _PIK3CA_|Oromotor discoordination, refractory epilepsy, hearing loss.|
-|**Schizencephaly**|Cleft extending to ventricular surface|_COL4A1_, _SHH_, In-utero insult|Hemiparesis, seizures, absent septum pellucidum.|
-|**Hemimegalencephaly**|Asymmetric enlarged telencephalon|_AKT1_, _PIK3CA_, _PTEN_, _MTOR_|Hemi-hypertrophy, Proteus syndrome, hypomelanosis of Ito.|
-|**Focal Cortical Dysplasia**|Focal abnormal cortical lamination|_DEPDC5_, _TSC1_, _TSC2_, _MTOR_|Intractable focal epilepsy.|
+| Disorder                     | Morphologic Hallmark                   | Key Genes / Etiology               | Clinical Associations                                                                |
+| :--------------------------- | :------------------------------------- | :--------------------------------- | :----------------------------------------------------------------------------------- |
+| **Lissencephaly**            | Smooth brain without gyri (Agyria)     | _PAFAH1B1 (LIS1)_, _DCX_, _TUBA1A_ | Intractable spasms, [[Neurology/Microcephaly\|microcephaly]], eye abnormalities.     |
+| **Pachygyria**               | Few large, broad gyri                  | 17p13.3 deletion (Miller-Dieker)   | Severe congenital muscular dystrophies, peroxisomal disorders.                       |
+| **Cobblestone Malformation** | Nodular gray-white interface           | _POMT1_, _POMT2_, _FKTN_, _LARGE_  | Muscular dystrophy, [[Neurology/Infantile Spasms\|infantile spasms]], encephalocele. |
+| **Heterotopia**              | Gray matter within white matter        | _FLNA_, _DCX_                      | Intractable seizures.                                                                |
+| **Polymicrogyria**           | Many small convolutions, shallow sulci | Congenital CMV, _AKT3_, _PIK3CA_   | Oromotor discoordination, refractory epilepsy, hearing loss.                         |
+| **Schizencephaly**           | Cleft extending to ventricular surface | _COL4A1_, _SHH_, In-utero insult   | Hemiparesis, seizures, absent septum pellucidum.                                     |
+| **Hemimegalencephaly**       | Asymmetric enlarged telencephalon      | _AKT1_, _PIK3CA_, _PTEN_, _MTOR_   | Hemi-hypertrophy, Proteus syndrome, hypomelanosis of Ito.                            |
+| **Focal Cortical Dysplasia** | Focal abnormal cortical lamination     | _DEPDC5_, _TSC1_, _TSC2_, _MTOR_   | Intractable focal epilepsy.                                                          |
 
 ## Specific Disorder Profiles
 

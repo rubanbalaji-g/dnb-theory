@@ -3,11 +3,12 @@
 ---
 
 ## Basics of Renal System & Renal Physiology 
-1. [[Nephrology/Development of Glomerular Filtration\|Development of Glomerular Filtration]]
-2. [[Nephrology/Congenital Anomalies of the Kidney and Urinary Tract (CAKUT)\|Congenital Anomalies of the Kidney and Urinary Tract (CAKUT)]]
-3. [[Nephrology/Tubular Resorption in Kidneys\|Tubular Resorption in Kidneys]]
-4. [[Nephrology/Assessment of Renal Function in Children\|Assessment of Renal Function in Children]]
-5. [[Nephrology/Renal Angina Index (RAI)\|Renal Angina Index (RAI)]]
+1. [[Nephrology/Development of Kidney and Gonads\|Development of Kidney and Gonads]]
+2. [[Nephrology/Development of Glomerular Filtration\|Development of Glomerular Filtration]]
+3. [[Nephrology/Congenital Anomalies of the Kidney and Urinary Tract (CAKUT)\|Congenital Anomalies of the Kidney and Urinary Tract (CAKUT)]]
+4. [[Nephrology/Tubular Resorption in Kidneys\|Tubular Resorption in Kidneys]]
+5. [[Nephrology/Assessment of Renal Function in Children\|Assessment of Renal Function in Children]]
+6. [[Nephrology/Renal Angina Index (RAI)\|Renal Angina Index (RAI)]]
 ## Approach to common presentations
 1. [[Nephrology/Approach to hematuria\|Approach to hematuria]]
 2. [[Nephrology/Recurrent Hematuria\|Recurrent Hematuria]]
@@ -23,9 +24,10 @@
 1. [[Nephrology/Renal Tubular Acidosis (RTA)\|Renal Tubular Acidosis (RTA)]]
 2. [[Nephrology/Fanconi syndrome\|Fanconi syndrome]]
 3. [[Nephrology/Bartter syndrome\|Bartter syndrome]]
-4. [[Nephrology/Nephrogenic diabetes insipidus\|Nephrogenic diabetes insipidus]]
-5. [[Nephrology/Polycystic Kidney Diseases\|Polycystic Kidney Diseases]]
-6. [[Nephrology/Alport Syndrome\|Alport Syndrome]]
+4. [[Nephrology/Comparision of Tubulopathies\|Comparision of Tubulopathies]]
+5. [[Nephrology/Nephrogenic diabetes insipidus\|Nephrogenic diabetes insipidus]]
+6. [[Nephrology/Polycystic Kidney Diseases\|Polycystic Kidney Diseases]]
+7. [[Nephrology/Alport Syndrome\|Alport Syndrome]]
 ## Acute Kidney Syn drome and Vascular issues
 1. [[Nephrology/Acute Kidney Injury\|Acute Kidney Injury]]
 2. [[Nephrology/Hemolytic uremic syndrome (HUS)\|Hemolytic uremic syndrome (HUS)]]

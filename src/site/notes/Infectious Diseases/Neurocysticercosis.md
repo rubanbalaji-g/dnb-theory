@@ -4,7 +4,7 @@
 
 ## Introduction and Definition
 
-- [[Infectious Diseases/Neurocysticercosis\|Neurocysticercosis]] (NCC) is a parasitic infection of the central nervous system (CNS) caused by the larval stage (cysticercus) of the pork tapeworm, _Taenia solium_.
+- Neurocysticercosis (NCC) is a parasitic infection of the central nervous system (CNS) caused by the larval stage (cysticercus) of the pork tapeworm, _Taenia solium_.
 - It is considered the most common parasitic infection of the CNS worldwide and a leading cause of acquired epilepsy, particularly in developing countries.
 - The disease is characterized by the presence of cysts in the brain parenchyma, ventricles, subarachnoid space, or spinal cord, leading to a wide spectrum of neurological manifestations.
 

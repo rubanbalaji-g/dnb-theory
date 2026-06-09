@@ -28,11 +28,11 @@
 
 #### MCA Vascular Territories
 
-|Artery / Segment|Structures Supplied|
-|:--|:--|
-|**Lenticulostriate Arteries**|Putamen, outer globus pallidus, posterior limb internal capsule, adjacent corona radiata, caudate nucleus (majority).|
-|**Superior Division (M2)**|Frontal cortex, superior parietal cortex.|
-|**Inferior Division (M2)**|Inferior parietal cortex, temporal cortex.|
+| Artery / Segment              | Structures Supplied                                                                                                   |
+| :---------------------------- | :-------------------------------------------------------------------------------------------------------------------- |
+| **Lenticulostriate Arteries** | Putamen, outer globus pallidus, posterior limb internal capsule, adjacent corona radiata, caudate nucleus (majority). |
+| **Superior Division (M2)**    | Frontal cortex, superior parietal cortex.                                                                             |
+| **Inferior Division (M2)**    | Inferior parietal cortex, temporal cortex.                                                                            |
 ### Anterior Cerebral Artery (ACA)
 
 - Divided into precommunal (A1) and postcommunal (A2) segments.
@@ -41,10 +41,10 @@
 
 #### ACA Vascular Territories
 
-|Artery / Segment|Structures Supplied|
-|:--|:--|
-|**Precommunal (A1) Deep Branches**|Anterior limb internal capsule, anterior perforate substance, amygdala, anterior hypothalamus, inferior head of caudate nucleus.|
-|**Postcommunal (A2) Cortical Branches**|Frontal pole, superomedial border of frontal and parietal lobes.|
+| Artery / Segment                        | Structures Supplied                                                                                                              |
+| :-------------------------------------- | :------------------------------------------------------------------------------------------------------------------------------- |
+| **Precommunal (A1) Deep Branches**      | Anterior limb internal capsule, anterior perforate substance, amygdala, anterior hypothalamus, inferior head of caudate nucleus. |
+| **Postcommunal (A2) Cortical Branches** | Frontal pole, superomedial border of frontal and parietal lobes.                                                                 |
 
 ### Anterior Choroidal Artery
 
@@ -75,11 +75,11 @@
 
 #### Basilar Artery Branches
 
-|Branch Type|Quantity|Structures Supplied|
-|:--|:--|:--|
-|**Paramedian Branches**|7-10|Wedge of pons on either side of midline.|
-|**Short Circumferential Branches**|5-7|Lateral two-thirds of pons, middle and superior cerebellar peduncles.|
-|**Bilateral Long Circumferential**|Paired|Cerebellar hemispheres (via Superior Cerebellar Artery, Anterior Inferior Cerebellar Artery).|
+| Branch Type                        | Quantity | Structures Supplied                                                                           |
+| :--------------------------------- | :------- | :-------------------------------------------------------------------------------------------- |
+| **Paramedian Branches**            | 7-10     | Wedge of pons on either side of midline.                                                      |
+| **Short Circumferential Branches** | 5-7      | Lateral two-thirds of pons, middle and superior cerebellar peduncles.                         |
+| **Bilateral Long Circumferential** | Paired   | Cerebellar hemispheres (via Superior Cerebellar Artery, Anterior Inferior Cerebellar Artery). |
 
 ### Posterior Cerebral Artery (PCA)
 
@@ -90,10 +90,10 @@
 
 #### PCA Vascular Territories
 
-|Artery / Segment|Structures Supplied|
-|:--|:--|
-|**P1 Penetrating Branches**|Midbrain, subthalamus, thalamus (via thalamogeniculate, artery of Percheron, posterior choroidal arteries).|
-|**P2 Cortical Branches**|Medial temporal lobes, occipital lobes, calcarine cortex, visual association areas.|
+| Artery / Segment            | Structures Supplied                                                                                         |
+| :-------------------------- | :---------------------------------------------------------------------------------------------------------- |
+| **P1 Penetrating Branches** | Midbrain, subthalamus, thalamus (via thalamogeniculate, artery of Percheron, posterior choroidal arteries). |
+| **P2 Cortical Branches**    | Medial temporal lobes, occipital lobes, calcarine cortex, visual association areas.                         |
 
 ---
 ## SMALL-VESSEL / PENETRATING MICROCIRCULATION

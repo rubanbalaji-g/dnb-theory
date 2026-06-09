@@ -14,7 +14,7 @@
 ## SLE
 1. [[Rheumatology/Pediatric SLE\|Pediatric SLE]]
 2. [[Rheumatology/Lupus Nephritis\|Lupus Nephritis]]
-## [[Rheumatology/Kawasaki Disease\|Kawasaki Disease]]
+## Kawasaki Disease
 1. [[Rheumatology/Kawasaki Disease\|Kawasaki Disease]]
 2. [[Rheumatology/Kawasaki - AHA Statment Summary\|Kawasaki - AHA Statment Summary]]
 3. [[Infectious Diseases/Kawasaki Vs MIS-C\|Kawasaki Vs MIS-C]]

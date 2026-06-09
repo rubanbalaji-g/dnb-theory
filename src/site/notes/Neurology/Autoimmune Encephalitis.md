@@ -106,8 +106,7 @@ _Note: Alternative causes must be reasonably excluded for all categories._
     - Unknown immune mechanism; T-cell mediated suspicion.
     - Features: Progressive refractory [[Neurology/Focal seizures\|focal seizures]], cognitive decline, progressive unilateral hemispheric atrophy.
     - Management: Functional hemispherectomy. Poor response to standard immunotherapy.
-- **[[Neurology/Common Movement Disorders in Children#^OMAS2\|Opsoclonus-Myoclonus Ataxia Syndrome ]](OMAS):**
-{ #OMAS1}
+- **[[Neurology/Common Movement Disorders in Children#^OMAS2\|Opsoclonus-Myoclonus Ataxia Syndrome ]](OMAS):** ^ OMAS1
 
     - Autoimmune B-cell trafficking disorder.
     - Features: Subacute irritability, tremor, ataxia, chaotic eye movements (opsoclonus).

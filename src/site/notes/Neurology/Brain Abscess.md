@@ -62,7 +62,16 @@ The microbiology correlates strongly with the predisposing condition. Streptococ
 |**Neonates**|_Citrobacter koseri_ (high risk of abscess), _Proteus mirabilis, Serratia marcescens, Cronobacter sakazakii_.|
 |**Immunocompromised**|_Toxoplasma gondii, Nocardia, Aspergillus, Candida, Cryptococcus_, _Listeria monocytogenes_.|
 |**Unknown Source**|Often _Streptococci_ or Anaerobes.|
-## 4. Investigations
+## 4. Stages of Brain abscess
+
+|Stage|Timeline|Pathology|Neuroimaging Features|
+|:--|:--|:--|:--|
+|**Early Cerebritis**|Days 1–3|- Localized inflammation.- Progressive edema.|- Low-density parenchymal lesion (CT).- Increased T2/FLAIR signal (MRI).|
+|**Late Cerebritis**|Days 4–9|- Central necrosis.- Microabscesses merge.- Peak perilesional edema.|- Irregular enhancement.- Restricted diffusion on DWI.|
+|**Early Capsule**|Days 10–14|- Fibrous capsule development.- Neovascularization.|- Distinct ring-enhancing lesion.- Marked surrounding edema.|
+|**Late Capsule**|> 14 days|- Thickened, mature capsule.- Reduced edema.|- Circumscribed ring-enhancement.- Fluid-filled necrotic cavity.|
+
+## 5. Investigations
 ### 1. Neuroimaging (Diagnostic modality of choice)
 - **MRI Brain (Contrast-Enhanced):** Superior to CT for early diagnosis (cerebritis stage), posterior fossa lesions, and differentiating abscess from tumor.
 	- _Findings:_ A ring-enhancing lesion with a hypointense center (T1) and hyperintense center (T2) surrounded by perilesional edema.
@@ -78,7 +87,7 @@ The microbiology correlates strongly with the predisposing condition. Streptococ
 - **Contraindication:** Generally **contraindicated** in large focal abscesses due to the risk of brain herniation.
 - **CSF Findings:** If done safely (rarely), may show elevated protein, mild pleocytosis, and normal glucose. Cultures are usually negative unless the abscess has ruptured into the ventricle.
 
-## Treatment of Brain Abscess
+## 6. Treatment of Brain Abscess
 
 Management involves a combination of medical therapy and neurosurgical intervention.
 

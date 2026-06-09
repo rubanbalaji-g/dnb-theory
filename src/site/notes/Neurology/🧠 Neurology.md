@@ -33,9 +33,10 @@
 8. [[Neurology/Status Epilepticus Management\|Status Epilepticus Management]]
 9. [[Neurology/Paroxysmal Non-Epileptic Events\|Paroxysmal Non-Epileptic Events]]
 10. [[Neurology/Epileptic Encephopathies\|Epileptic Encephopathies]]
+11. [[Neurology/Absence Seizures\|Absence Seizures]]
 ### Named Syndromes
 1. [[Neurology/Benign Rolandic Epilepsy\|Benign Rolandic Epilepsy]]
-2. [[Neurology/Landau-Kleffner Syndrome\|Neurology/Landau-Kleffner Syndrome]]
+2. [[Neurology/Landau-Kleffner Syndrome\|Landau-Kleffner Syndrome]]
 3. [[Neurology/Infantile Spasms\|Infantile Spasms]]
 ## Headache
 1. [[Neurology/Classification and Approach to Headaches\|Classification and Approach to Headaches]]
