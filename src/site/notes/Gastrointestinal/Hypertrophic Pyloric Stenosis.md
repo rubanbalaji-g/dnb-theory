@@ -22,7 +22,7 @@
 
 ### Pathogenesis
 
-- A deficiency in nitric oxide occurs due to reduced neuronal nitric oxide synthase (NOS), which prevents normal smooth muscle relaxation.
+- A deficiency in nitric oxide occurs due to **reduced neuronal nitric oxide synthase (NOS)**, which prevents normal smooth muscle relaxation.
 - This lack of relaxation triggers compensatory hyperperistalsis, which subsequently leads to muscle hypertrophy.
 - Histological examination reveals degeneration of intramuscular ganglion cells within Auerbach plexus.
 - Hormonally, formula feeding increases gastrin levels and decreases vasoactive intestinal peptide (VIP), further promoting pyloric contraction.

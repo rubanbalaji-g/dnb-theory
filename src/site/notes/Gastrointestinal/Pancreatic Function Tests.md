@@ -30,7 +30,8 @@
 
 - Gold standard for diagnosing fat malabsorption.
 - Involves strict 3-day stool collection paired with exact dietary fat intake recall.
-- **Formula:** Coefficient of fat absorption (CFA) = [(Fat intake - Fecal fat excretion) / Fat intake] x 100.
+- **Formula:**
+$$\text{Coefficient of fat absorption (CFA)} = \frac{\text{Fat Intake} - \text{Fecal Fat Excretion}}{\text{Fat Intake}} \times 100$$
 - **Interpretation:** Normal CFA >85% (infants <6 months); >93-95% (older children and adults).
 - **Limitations:** Cumbersome, unpleasant processing. Cannot differentiate pancreatic insufficiency from intestinal mucosal diseases (e.g., [[Gastrointestinal/Celiac disease\|celiac disease]]).
 
@@ -63,8 +64,12 @@
 
 ### Test Modalities
 
-- **Endoscopic Pancreatic Function Testing (ePFT):** Intravenous secretin/CCK administered. Duodenal fluid aspirated endoscopically after 10 minutes. Fluid analyzed for volume, pH, bicarbonate, and enzymes. Bicarbonate <80 mmol/L indicates exocrine insufficiency.
-- **Secretin-Enhanced Magnetic Resonance Cholangiopancreatography (MR PFT):** Non-invasive, radiation-free alternative quantifying fluid output and ductal morphology. Pediatric standardization and protocols remain pending.
+- **Endoscopic Pancreatic Function Testing (ePFT):** 
+	- Intravenous secretin/CCK administered. 
+	- Duodenal fluid aspirated endoscopically after 10 minutes. Fluid analyzed for volume, pH, bicarbonate, and enzymes. Bicarbonate <80 mmol/L indicates exocrine insufficiency.
+- **Secretin-Enhanced Magnetic Resonance Cholangiopancreatography (MR PFT):** 
+	- Non-invasive, radiation-free alternative quantifying fluid output and ductal morphology. 
+	- Pediatric standardization and protocols remain pending.
 
 ### Clinical Utility And Limitations
 

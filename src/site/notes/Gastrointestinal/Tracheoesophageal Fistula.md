@@ -66,7 +66,7 @@ Anomalies are present in up to 50% of infants with EA/TEF.
 
 ### Initial Stabilization
 
-- **Airway And Decompression:** Maintain a patent airway and keep the infant strictly nil per os (NPO). Place a Replogle tube (sump catheter) in the proximal pouch with continuous suction to prevent salivary aspiration.
+- **Airway And Decompression:** Maintain a patent airway and keep the infant strictly nil per os (NPO). Place a **Replogle tube** (sump catheter) in the proximal pouch with continuous suction to prevent salivary aspiration.
 - **Positioning:** Prone or semi-upright positioning minimizes gastric acid reflux through the distal fistula.
 - **Medical Therapy:** Initiate intravenous fluids, broad-spectrum antibiotics, and acid suppression (H2 blockers or proton pump inhibitors).
 - **Ventilation Warning:** Avoid endotracheal intubation with positive pressure ventilation if possible, as it increases gastric distension and rupture risk.

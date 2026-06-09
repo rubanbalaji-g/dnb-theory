@@ -19,35 +19,35 @@
 
 ## Clinical Presentation
 
-|Feature|Extrahepatic [[Gastrointestinal/Biliary Atresia\|Biliary Atresia]]|Idiopathic Neonatal Hepatitis|
-|:--|:--|:--|
-|**General Appearance**|Healthy, well-appearing term infant; normal initial weight gain.|Often ill-appearing; failure to thrive common.|
-|**Stool Color**|Persistently acholic (pale/white).|Variable; may be pigmented or transiently pale.|
-|**Urine Color**|Dark, high-colored.|Dark.|
-|**Associated Anomalies**|[[Gastrointestinal/Biliary Atresia\|Biliary Atresia]] Splenic Malformation syndrome (polysplenia, asplenia, situs inversus, preduodenal portal vein).|None specific; diverse multisystem manifestations suggest alternative metabolic/genetic diagnoses.|
+| Feature                  | Extrahepatic Biliary Atresia\|                                                                                                                        | Idiopathic Neonatal Hepatitis                                                                      |
+| :----------------------- | :---------------------------------------------------------------------------------------------------------------------------------------------------- | :------------------------------------------------------------------------------------------------- |
+| **General Appearance**   | Healthy, well-appearing term infant; normal initial weight gain.                                                                                      | Often ill-appearing; failure to thrive common.                                                     |
+| **Stool Color**          | Persistently acholic (pale/white).                                                                                                                    | Variable; may be pigmented or transiently pale.                                                    |
+| **Urine Color**          | Dark, high-colored.                                                                                                                                   | Dark.                                                                                              |
+| **Associated Anomalies** | [[Gastrointestinal/Biliary Atresia\|Biliary Atresia]] Splenic Malformation syndrome (polysplenia, asplenia, situs inversus, preduodenal portal vein). | None specific; diverse multisystem manifestations suggest alternative metabolic/genetic diagnoses. |
 
 ## Diagnostic Investigations
 
-|Investigation|Extrahepatic [[Gastrointestinal/Biliary Atresia\|Biliary Atresia]]|Idiopathic Neonatal Hepatitis|
-|:--|:--|:--|
-|**Ultrasonography**|Small, contracted, or absent gallbladder with irregular walls. Triangular cord sign present (echogenic density >3 mm cranial to portal vein bifurcation). Non-visualization of common bile duct.|Gallbladder typically normal. Triangular cord sign absent.|
-|**Hepatobiliary Scintigraphy (HIDA)**|Normal initial radiotracer uptake; absolute failure of intestinal biliary excretion at 24 hours despite phenobarbital priming.|Poor hepatocellular uptake initially; intestinal excretion often demonstrable, especially following phenobarbital priming.|
-|**Matrix Metalloproteinase-7 (MMP-7)**|Markedly elevated; highly sensitive and specific diagnostic biomarker.|Typically normal or mildly elevated.|
-|**Intraoperative Cholangiogram**|Gold standard diagnostic test; fails to fill intrahepatic biliary tree or drain into small bowel.|Demonstrates patent extrahepatic and intrahepatic biliary tracts.|
+| Investigation                          | Extrahepatic Biliary Atresia\|                                                                                                                                                                   | Idiopathic Neonatal Hepatitis                                                                                              |
+| :------------------------------------- | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :------------------------------------------------------------------------------------------------------------------------- |
+| **Ultrasonography**                    | Small, contracted, or absent gallbladder with irregular walls. Triangular cord sign present (echogenic density >3 mm cranial to portal vein bifurcation). Non-visualization of common bile duct. | Gallbladder typically normal. Triangular cord sign absent.                                                                 |
+| **Hepatobiliary Scintigraphy (HIDA)**  | Normal initial radiotracer uptake; absolute failure of intestinal biliary excretion at 24 hours despite phenobarbital priming.                                                                   | Poor hepatocellular uptake initially; intestinal excretion often demonstrable, especially following phenobarbital priming. |
+| **Matrix Metalloproteinase-7 (MMP-7)** | Markedly elevated; highly sensitive and specific diagnostic biomarker.                                                                                                                           | Typically normal or mildly elevated.                                                                                       |
+| **Intraoperative Cholangiogram**       | Gold standard diagnostic test; fails to fill intrahepatic biliary tree or drain into small bowel.                                                                                                | Demonstrates patent extrahepatic and intrahepatic biliary tracts.                                                          |
 
 ## Histopathology (Liver Biopsy)
 
-|Feature|Extrahepatic [[Gastrointestinal/Biliary Atresia\|Biliary Atresia]]|Idiopathic Neonatal Hepatitis|
-|:--|:--|:--|
-|**Bile Ducts**|Marked ductular proliferation; hypoplastic or obliterated main ducts.|Normal or hypoplastic bile ducts; ductular proliferation absent.|
-|**Portal Tracts**|Expanded portal tracts, prominent portal stromal edema, bridging fibrosis.|Minimal portal expansion; fibrosis generally absent.|
-|**Parenchyma/Lobules**|Prominent bile plugs within ducts.|Altered lobular architecture, focal hepatocellular necrosis.|
-|**Cellular Changes**|Minimal giant cell transformation initially (though can occasionally occur).|Widespread multinucleated giant cell transformation; lobular cholestasis in canalicular pattern.|
+| Feature                | Extrahepatic Biliary Atresia\|                                               | Idiopathic Neonatal Hepatitis                                                                    |
+| :--------------------- | :--------------------------------------------------------------------------- | :----------------------------------------------------------------------------------------------- |
+| **Bile Ducts**         | Marked ductular proliferation; hypoplastic or obliterated main ducts.        | Normal or hypoplastic bile ducts; ductular proliferation absent.                                 |
+| **Portal Tracts**      | Expanded portal tracts, prominent portal stromal edema, bridging fibrosis.   | Minimal portal expansion; fibrosis generally absent.                                             |
+| **Parenchyma/Lobules** | Prominent bile plugs within ducts.                                           | Altered lobular architecture, focal hepatocellular necrosis.                                     |
+| **Cellular Changes**   | Minimal giant cell transformation initially (though can occasionally occur). | Widespread multinucleated giant cell transformation; lobular cholestasis in canalicular pattern. |
 
 ## Management And Prognosis
 
-|Category|Extrahepatic [[Gastrointestinal/Biliary Atresia\|Biliary Atresia]]|Idiopathic Neonatal Hepatitis|
-|:--|:--|:--|
-|**Primary Treatment**|Urgent surgical intervention; Kasai hepatoportoenterostomy (Roux-en-Y) mandated optimally between 45-60 days of age.|Supportive medical management; nutritional rehabilitation, fat-soluble vitamin supplementation, ursodeoxycholic acid.|
-|**Disease Progression**|Inevitable progression to end-stage liver disease, [[Gastrointestinal/Portal Hypertension\|portal hypertension]], and biliary cirrhosis without surgical drainage.|Vast majority resolve spontaneously over several months.|
-|**Long-Term Outcome**|Leading indication for pediatric [[Gastrointestinal/Liver Transplantation\|liver transplantation]] worldwide.|Excellent overall prognosis; rare progression to [[Gastrointestinal/Chronic Liver Disease\|chronic liver disease]].|
+| Category                | Extrahepatic Biliary Atresia\|                                                                                                                                     | Idiopathic Neonatal Hepatitis                                                                                         |
+| :---------------------- | :----------------------------------------------------------------------------------------------------------------------------------------------------------------- | :-------------------------------------------------------------------------------------------------------------------- |
+| **Primary Treatment**   | Urgent surgical intervention; Kasai hepatoportoenterostomy (Roux-en-Y) mandated optimally between 45-60 days of age.                                               | Supportive medical management; nutritional rehabilitation, fat-soluble vitamin supplementation, ursodeoxycholic acid. |
+| **Disease Progression** | Inevitable progression to end-stage liver disease, [[Gastrointestinal/Portal Hypertension\|portal hypertension]], and biliary cirrhosis without surgical drainage. | Vast majority resolve spontaneously over several months.                                                              |
+| **Long-Term Outcome**   | Leading indication for pediatric [[Gastrointestinal/Liver Transplantation\|liver transplantation]] worldwide.                                                      | Excellent overall prognosis; rare progression to [[Gastrointestinal/Chronic Liver Disease\|chronic liver disease]].   |
