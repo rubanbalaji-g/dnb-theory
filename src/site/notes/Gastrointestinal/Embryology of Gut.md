@@ -17,7 +17,7 @@
 ## MIDGUT ROTATION AND FIXATION
 
 - Primitive gut originates as straight tube from stomach to rectum.
-- Normal development mandates sequential herniation, rotation, and fixation of midgut.
+- Normal development mandates **sequential herniation, rotation, and fixation of midgut.**
 - Alternative hypothesis (Kluth) suggests malrotation results from failure of localized duodenal loop growth rather than true rotation disorder.
 
 ### Chronology of Normal Rotation
@@ -62,7 +62,7 @@
 - Most patients present in first year of life; 50% in first week, 75% in first month.
 - **Midgut Volvulus:** Life-threatening surgical emergency.
 - Infarction of intestine develops rapidly, within 2 to 4 hours.
-- Bilious emesis strictly indicates malrotation with volvulus until proven otherwise. Dark green liquid vomit characteristic.
+- **Bilious emesis strictly indicates malrotation with volvulus until proven otherwise.** Dark green liquid vomit characteristic.
 - Sudden onset colicky abdominal pain, severe irritability.
 - Bloody mucus or loose stool with blood (marker of intestinal ischemia).
 - Normal physical examination findings hallmark of early midgut volvulus.
