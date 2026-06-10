@@ -7,7 +7,7 @@
 - A pedigree chart constitutes a standardized graphical representation of a family's medical history and genetic relationships across multiple generations.
 - It maps the biological relationships and the segregation of specific clinical traits, genetic diseases, or phenotypes within a kindred.
 - Drawing and interpreting a pedigree acts as an inexpensive and integral tool for diagnosing single gene disorders.
-- **Proband ([[Statistics/Index\|Index]] Case):** The affected individual through whom a family comes to medical attention, indicated by an arrow.
+- **Proband (Index Case):** The affected individual through whom a family comes to medical attention, indicated by an arrow.
 - **Consultand:** The individual seeking genetic counselling or testing.
 - **Kindred:** The extended family depicted in the chart.
 

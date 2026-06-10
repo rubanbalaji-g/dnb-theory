@@ -39,8 +39,7 @@
 
 |Imaging Modality|Diagnostic Role and Key Findings|
 |:--|:--|
-|**Doppler Ultrasonography**|The first-line screening tool. Direct signs include peak systolic velocity (PSV) > 180–200 cm/s and a renal-aortic ratio > 2–3.5. Indirect signs in the renal parenchyma include a _tardus et parvus_ (slow and small) waveform and a resistive [[Statistics/Index\|index]] (RI) < 0.55.|
-|**Computed Tomography Angiography (CTA)**|A highly sensitive (88%) and specific (81%) noninvasive modality that provides excellent spatial resolution for small intrarenal branches, though it involves radiation and contrast exposure.|
+|**Doppler Ultrasonography**|The first-line screening tool. Direct signs include peak systolic velocity (PSV) > 180–200 cm/s and a renal-aortic ratio > 2–3.5. Indirect signs in the renal parenchyma include a _tardus et parvus_ (slow and small) waveform and a resistive Index ted Tomography Angiography (CTA)**|A highly sensitive (88%) and specific (81%) noninvasive modality that provides excellent spatial resolution for small intrarenal branches, though it involves radiation and contrast exposure.|
 |**Magnetic Resonance Angiography (MRA)**|An alternative to CTA that avoids radiation, though it requires longer acquisition times (often needing sedation) and has slightly lower sensitivity compared to DSA.|
 |**Digital Subtraction Angiography (DSA)**|The gold standard for diagnosing RAS. Allows for exact anatomical localization and intravascular pressure measurements, and importantly, facilitates concurrent therapeutic angioplasty.|
 |**Renal Scintigraphy (MAG3/DMSA)**|While not recommended for primary diagnosis due to low sensitivity, it is highly valuable for assessing differential renal function pre- and post-intervention.|

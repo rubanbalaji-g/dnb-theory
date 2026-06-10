@@ -64,7 +64,7 @@ Early detection is vital to prevent morbidity and mortality. Pediatric TB is oft
 ### A. Active Case Finding and Contact Investigation
 
 - **Reverse Contact Tracing:** In any child diagnosed with TB, an active search for the infectious source case (usually an adult in the household) must be conducted.
-- **Contact Screening:** All close contacts of an infectious [[Statistics/Index\|index]] case should be screened for symptoms. Children <5 years and symptomatic contacts require urgent evaluation.
+- **Contact Screening:** All close contacts of an infectious IIndex dened for symptoms. Children <5 years and symptomatic contacts require urgent evaluation.
 - **Intensified Case Finding (ICF):** Routine screening of high-risk groups, such as CLHIV, malnourished children (SAM), and those attending crowded settings (e.g., daycares), using a symptom checklist (fever, cough, weight loss, history of contact).
 
 ### B. Diagnostic Approach for Early Detection
@@ -101,7 +101,7 @@ The National Tuberculosis Elimination Program (NTEP) and IAP emphasize a systema
 
 ### Conclusion
 
-The strategy for controlling pediatric TB has evolved from simple chemotherapy to a comprehensive public health approach involving infection control, targeted preventive therapy for high-risk contacts, and the use of rapid molecular diagnostics for early and accurate detection. Clinicians must maintain a high [[Statistics/Index\|index]] of suspicion and utilize modern diagnostic algorithms to ensure timely management.
+The strategy for controlling pediatric TB has evolved from simple chemotherapy to a comprehensive public health approach involving infection control, targeted preventive therapy for high-risk contacts, and the use of rapid molecular diagnostics for early and accurate detection. Clinicians must maintain a high Index of suspicion and utilize modern diagnostic algorithms to ensure timely management.
 
 ### Summary of Key Interventions
 
@@ -110,5 +110,5 @@ The strategy for controlling pediatric TB has evolved from simple chemotherapy t
 |**[[Misc/BCG\|BCG]] Vaccine**|Newborns|Prevent severe [[Infectious Diseases/Disseminated TB\|disseminated TB]] ([[Neurology/Meningitis\|Meningitis]], Miliary).|
 |**Infection Control**|Hospitals/Homes|Masking infectious adults, ventilation, isolation.|
 |**TPT (Preventive Therapy)**|Contacts <5y, PLHIV|Isoniazid (6mo) or 3HP to prevent progression to active disease.|
-|**Contact Tracing**|Household|Screen all contacts of [[Statistics/Index\|index]] cases; Reverse tracing for infected children.|
+|**Contact Tracing**|Household|Screen all contacts of Index cases; Reverse tracing for infected children.|
 |**Early Diagnosis**|Presumptive cases|**Upfront [[Genetics/NAAT\|NAAT]] (CBNAAT)** on Gastric Aspirate/Induced Sputum.|

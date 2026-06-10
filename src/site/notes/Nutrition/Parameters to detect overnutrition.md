@@ -12,9 +12,7 @@ Detection relies on a combination of anthropometric measurements, clinical asses
 
 Anthropometry is the gold standard for assessing nutritional status. The specific parameters and cut-offs vary by age group.
 
-### A. Body Mass [[Statistics/Index\|Index]] (BMI)
-
-BMI is the most commonly used measure for overweight and obesity in children and adolescents. It is an excellent proxy for direct measurement of body fat.
+### A. Body Mass Index  commonly used measure for overweight and obesity in children and adolescents. It is an excellent proxy for direct measurement of body fat.
 
 - **Formula:** $Weight (kg) / Height (m)^2$.
 - **Physiological Trajectory:** BMI changes with age. It is low at birth ($\approx$13 kg/m²), increases to $\approx$17 kg/m² at one year, decreases to a nadir ($\approx$15 kg/m²) at 6 years, and increases again toward adulthood.
@@ -51,7 +49,7 @@ This is the primary parameter for children under 5 years of age.
 - **Interpretation (WHO Standards):**
     - **Overweight:** > +2 SD (Z-score).
     - **Obesity:** > +3 SD (Z-score).
-    - **Broca’s [[Statistics/Index\|Index]] (Older Children/Adults):** Ideal weight (kg) = Height (cm) - 100. Weight-for-height > 120% of ideal is considered obesity.
+    - **Broca’s Index (Older Children/Adults):** Ideal weight (kg) = Height (cm) - 100. Weight-for-height > 120% of ideal is considered obesity.
 
 ### C. Skin Fold Thickness (SFT)
 

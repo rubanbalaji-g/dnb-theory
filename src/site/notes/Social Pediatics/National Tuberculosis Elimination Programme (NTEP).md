@@ -47,7 +47,7 @@
 - Pre-treatment evaluation & monthly monitoring ([[Misc/ECG\|ECG]], LFT, hearing)
 
 ## TB Preventive Therapy (TPT)
-- **All household contacts <5 years** of pulmonary TB [[Statistics/Index\|index]] case offered TPT after active TB ruled out (CXR + clinical evaluation)
+- **All household contacts <5 years** of pulmonary TB Index  active TB ruled out (CXR + clinical evaluation)
 - Preferred regimens:
   - 3HP (Isoniazid + Rifapentine weekly × 3 months) – >2 years
   - 6H (Isoniazid daily × 6 months)

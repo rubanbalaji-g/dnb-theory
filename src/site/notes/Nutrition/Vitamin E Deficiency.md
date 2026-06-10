@@ -117,7 +117,7 @@ Deficiency is rare in healthy individuals consuming a varied diet. It is almost 
     - Deficiency: <0.5 mg/dL.
 - **Vitamin E to Lipid Ratio:**
     - Because Vitamin E circulates bound to lipids, serum levels can be artificially elevated in hyperlipidemia and low in hypolipidemia.
-    - The ratio of Serum Vitamin E (mg) to Total Serum Lipids (g) is the most accurate [[Statistics/Index\|index]].
+    - The ratio of Serum Vitamin E (mg) to Total Serum Lipids (g) is the most accurate Index.
     - **Normal Ratio:** >0.8 mg/g (adults/older children) and >0.6 mg/g (infants).
 
 ## Hypervitaminosis E (Toxicity)

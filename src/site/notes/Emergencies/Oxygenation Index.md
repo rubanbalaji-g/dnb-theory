@@ -31,7 +31,7 @@
 - The formula for calculating the Oxygen Saturation Index is: $$OSI = \frac{\text{Mean Airway Pressure} \times FiO_2}{SpO_2} \times 100$$
 - The OSI also reliably stratifies [[Emergencies/PARDS\|PARDS]] severity and dictates management pathways when OI cannot be calculated due to a lack of arterial access.
 
-|[[Emergencies/PARDS\|PARDS]] Severity|Oxygen Saturation [[Statistics/Index\|Index]] (OSI) Criteria|
+|[[Emergencies/PARDS\|PARDS]] Severity|Oxygen Saturation Index (OSI) Criteria|
 |:--|:--|
 |Mild|$5 \le OSI < 7.5$|
 |Moderate|$7.5 \le OSI < 12.3$|

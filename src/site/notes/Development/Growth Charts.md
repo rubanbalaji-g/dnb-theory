@@ -43,7 +43,7 @@ The World Health Organization (WHO) [[Development/Growth Charts\|growth charts]]
     - Weight-for-age
     - Length/Height-for-age
     - Weight-for-Length/Height
-    - Body Mass [[Statistics/Index\|Index]] (BMI)-for-age (provided for children under 5 years for the first time).
+    - Body Mass Index (BMI)-for-age (provided for children under 5 years for the first time).
     - Head circumference
     - Mid-upper arm circumference (MUAC)
     - Subscapular and triceps skinfold thickness.

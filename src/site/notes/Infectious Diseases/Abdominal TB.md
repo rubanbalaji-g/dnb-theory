@@ -40,7 +40,7 @@ The onset is usually insidious. Symptoms may be constitutional or abdominal.
 
 ## Diagnostic Approach
 
-Diagnosis requires a high [[Statistics/Index\|index]] of suspicion and a multi-modality approach as no single test is pathognomonic.
+Diagnosis requires a high Index of suspicion and a multi-modality approach as no single test is pathognomonic.
 
 ### 1. Imaging Modalities
 

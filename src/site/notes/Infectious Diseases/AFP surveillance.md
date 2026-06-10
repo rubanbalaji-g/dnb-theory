@@ -90,7 +90,7 @@ Once an AFP case is identified, a standardized sequence of activities must be fo
         - Residual paralysis suspected.
     - The child is re-examined 60–90 days after onset to check for **residual paralysis** (a hallmark of polio).
 7. **Contact Sampling:**
-        - If stool specimens from the [[Statistics/Index\|index]] case are inadequate (late collection, poor condition), stool samples are collected from 3–5 close contacts (children <5 years) to increase sensitivity.
+        - If stool specimens from the Index case are inadequate (late collection, poor condition), stool samples are collected from 3–5 close contacts (children <5 years) to increase sensitivity.
 ### C. AFP Case Classification (Virological Scheme)
 
 The final classification of an AFP case depends on laboratory results and the Expert Review Committee (ERC):

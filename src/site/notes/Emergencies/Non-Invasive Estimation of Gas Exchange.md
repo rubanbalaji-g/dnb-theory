@@ -27,7 +27,7 @@
     - Endotracheal tube (ETT) position, accidental displacement, or acute obstruction.
     - Patient-ventilator asynchrony.
     - The quality and effectiveness of chest compressions during cardiopulmonary resuscitation (CPR).
-- Advanced ventilator management utilizes ETCO2 to calculate derived parameters indicative of the severity of lung injury, such as the dead space to tidal volume ratio, End Tidal Alveolar Dead Space Fraction (AVDSF), and the Ventilation [[Statistics/Index\|Index]].
+- Advanced ventilator management utilizes ETCO2 to calculate derived parameters indicative of the severity of lung injury, such as the dead space to tidal volume ratio, End Tidal Alveolar Dead Space Fraction (AVDSF), and the Ventilation Index.
 - A major limitation of [[Emergencies/Capnography\|capnography]] is that its reliability is highly dependent on pulmonary blood flow; its use is largely limited to patients exhibiting a perfusing rhythm and weighing more than 2 kg.
 
 ### Transcutaneous Carbon Dioxide (TcPCO2) Monitoring
@@ -38,14 +38,14 @@
 
 ### Non-Invasive Oxygenation Indices
 
-- In the management of pediatric acute [[neonatalogy/Respiratory Distress in Newborns\|respiratory distress syndrome]] ([[Emergencies/PARDS\|PARDS]]), the traditional diagnostic criteria rely heavily on invasive arterial blood gas measurements (e.g., PaO2/FiO2 ratio or Oxygenation [[Statistics/Index\|Index]]).
+- In the management of pediatric acute [[neonatalogy/Respiratory Distress in Newborns\|respiratory distress syndrome]] ([[Emergencies/PARDS\|PARDS]]), the traditional diagnostic criteria rely heavily on invasive arterial blood gas measurements (e.g., PaO2/FiO2 ratio or Oxygenation Index).
 - To decrease the dependence on invasive arterial sampling, non-invasive surrogates utilizing SpO2 have been validated for diagnosing and risk-stratifying [[Emergencies/PARDS\|PARDS]].
 - These non-invasive indices are only considered valid and accurate when the patient's SpO2 is < 97%, to avoid the masking effect of the flat upper portion of the oxyhemoglobin dissociation curve.
 
-|Non-Invasive [[Statistics/Index\|Index]]|Calculation Formula|Clinical Utility & Stratification|
+|Non-Invasive Index|Calculation Formula|Clinical Utility & Stratification|
 |:--|:--|:--|
 |**SpO2/FiO2 (SF) Ratio**|SpO2 ÷ FiO2|* Used in non-intubated patients receiving non-invasive ventilation (NIV) via full-face mask with a minimum CPAP of 5 cm H2O. * An SF ratio ≤ 264 is used as a threshold to diagnose [[Emergencies/PARDS\|PARDS]].|
-|**Oxygenation Saturation [[Statistics/Index\|Index]] (OSI)**|(Mean Airway Pressure × FiO2 × 100) ÷ SpO2|* Used for risk stratification of disease severity in mechanically ventilated patients. * Mild [[Emergencies/PARDS\|PARDS]]: OSI 5 to < 7.5. * Moderate [[Emergencies/PARDS\|PARDS]]: OSI 7.5 to < 12.3. * Severe [[Emergencies/PARDS\|PARDS]]: OSI ≥ 12.3.|
+|**Oxygenation Saturation Index (OSI)**|(Mean Airway Pressure × FiO2 × 100) ÷ SpO2|* Used for risk stratification of disease severity in mechanically ventilated patients. * Mild [[Emergencies/PARDS\|PARDS]]: OSI 5 to < 7.5. * Moderate [[Emergencies/PARDS\|PARDS]]: OSI 7.5 to < 12.3. * Severe [[Emergencies/PARDS\|PARDS]]: OSI ≥ 12.3.|
 
 ### Advanced Tissue Gas Exchange Monitoring
 

@@ -1,109 +1,82 @@
 ---
-{"dg-publish":true,"uplink":"/metabolic-disorders/metabolic-disorders/","uptext":"Back to Index (Metabolic Disorders)","permalink":"/metabolic-disorders/neonatal-screening-for-metabolic-diseases/","dgPassFrontmatter":true}
+{"dg-publish":true,"uplink":"/nephrology/nephrology/","uptext":"Back to Index (🫘 Nephrology)","permalink":"/metabolic-disorders/neonatal-screening-for-metabolic-diseases/","dgPassFrontmatter":true}
 ---
 
-## 1. Introduction and Role of [[neonatalogy/Newborn Screening\|Newborn Screening]]
-[[neonatalogy/Newborn Screening\|Newborn screening]] (NBS) is a comprehensive public health strategy aimed at the early identification of infants affected by certain genetic, metabolic, hormonal, and functional conditions. 
-* **Primary Role:** Secondary prevention. It aims to detect disorders **presymptomatically** (before clinical signs appear) to initiate timely intervention.
-* **Public Health Impact:**
-    * **Reduction of Mortality:** Prevents neonatal and infant deaths caused by metabolic crises (e.g., salt wasting in CAH, hyperammonemia in UCDs).
-    * **Prevention of Morbidity:** Prevents irreversible sequelae such as intellectual disability (e.g., in [[Endocrinology/Congenital Hypothyroidism\|Congenital Hypothyroidism]], PKU), physical disability, and growth failure.
-    * **Genetic Counseling:** Identifies [[Statistics/Index\|index]] cases, allowing for family screening and prenatal diagnosis for future pregnancies.
-    * **Epidemiological Data:** Helps estimate the true burden of IEMs in the population (e.g., Indian incidence of CH is ~1:1172, significantly higher than global averages).
+## Autosomal Recessive Polycystic Kidney Disease (ARPKD)
 
-## 2. Criteria for Selection: In Which Conditions is NBS Useful?
-Disorders selected for NBS must generally satisfy the **Wilson and Jungner Criteria**:
-1.  **Important Health Problem:** The condition should be frequent or have severe consequences (high mortality/morbidity).
-2.  **Latent Stage:** There must be a recognizable asymptomatic phase.
-3.  **Natural History:** The disease progression must be well understood.
-4.  **Effective Treatment:** Treatment must be available and more effective if started early.
-5.  **Reliable Test:** A suitable, acceptable, and accurate screening test must be available.
+### Genetics and Pathophysiology
 
-### A. The "Core Panel" (Recommended for India)
-Based on prevalence and treatability in the Indian context (NNF/ICMR recommendations):
-1.  **[[Endocrinology/Congenital Hypothyroidism\|Congenital Hypothyroidism]] (CH):**
-    * *Incidence:* 1:1000 – 1:1500 (High in India).
-    * *Utility:* Early thyroxine therapy prevents profound intellectual disability ("Cretinism").
-2.  **[[Endocrinology/Congenital Adrenal Hyperplasia\|Congenital Adrenal Hyperplasia]] (CAH):**
-    * *Incidence:* ~1:5700.
-    * *Utility:* Prevents life-threatening salt-wasting crises and incorrect gender assignment in females.
-3.  **[[Hematology/Glucose-6-Phosphate Dehydrogenase Deficiency\|Glucose-6-Phosphate Dehydrogenase Deficiency]] (G6PD):**
-    * *Utility:* Prevents severe neonatal jaundice, kernicterus, and hemolysis by avoiding triggers (oxidative drugs, fava beans).
+- Autosomal recessive polycystic kidney disease (ARPKD) is a severe, monogenic hepatorenal fibrocystic disorder with an estimated incidence of 1 in 20,000 live births and a carrier frequency of 1:70.
+- Classic ARPKD is caused by biallelic pathogenic variants in the _PKHD1_ gene (located on chromosome 6), which encodes fibrocystin/polyductin (FPC), a large protein localized to the primary apical cilium, basal body, and endoplasmic reticulum.
+- A rare, atypical form of ARPKD is caused by mutations in the _DZIP1L_ gene, presenting with moderate cystic kidney disease but lacking clinically apparent liver involvement.
+- Pathologically, the kidneys are massively enlarged and feature innumerable microcysts derived from ectatic, dilated collecting ducts radiating from the medulla to the cortex.
+- ARPKD is a dual-organ disease characterized universally by congenital hepatic fibrosis (CHF) resulting from a ductal plate malformation, leading to bile duct proliferation, progressive hepatic fibrosis, and Caroli syndrome.
 
-### B. Expanded Screening (Inborn Errors of Metabolism - IEM)
-With the advent of Tandem Mass Spectrometry (LC-MS/MS), 40+ disorders can be screened from a single blood spot.
-* **Amino Acid Disorders:** [[Metabolic Disorders/Phenylketonuria\|Phenylketonuria]] (PKU), [[Metabolic Disorders/Maple Syrup Urine Disease\|Maple Syrup Urine Disease]] (MSUD), [[Metabolic Disorders/Homocystinuria\|Homocystinuria]], [[Metabolic Disorders/Tyrosinemia\|Tyrosinemia]].
-* **Fatty Acid Oxidation Disorders (FAODs):** MCAD deficiency, VLCAD deficiency. Important for preventing sudden infant death.
-* **[[Metabolic Disorders/Organic Acidemias\|Organic Acidemias]] (OAs):** Methylmalonic acidemia, Propionic acidemia, [[Metabolic Disorders/Isovaleric Acidemia\|Isovaleric acidemia]], Glutaric Aciduria Type 1.
-* **Other Defects:** [[Metabolic Disorders/Galactosemia\|Galactosemia]] (GALT deficiency), Biotinidase Deficiency, [[Respiratory/Cystic Fibrosis\|Cystic Fibrosis]].
+### Clinical Manifestations
 
-## 3. Methodology: How It Is Done
-NBS is a system, not just a test. The workflow involves several critical steps:
+- The clinical spectrum is highly variable, with the most severe presentations diagnosed antenatally via the detection of bilaterally enlarged, hyperechoic kidneys and oligohydramnios.
+- Neonates classically present with Potter sequence (oligohydramnios complex), characterized by pulmonary hypoplasia, flattened nose, micrognathia, low-set ears, and limb-positioning defects, leading to significant perinatal mortality from respiratory failure.
+- Infants who survive the neonatal period frequently develop severe systemic hypertension requiring aggressive multi-drug therapy within the first few weeks of life.
+- A subset of patients presents later in infancy or childhood with a predominantly hepatic phenotype, manifesting as [[Gastrointestinal/Portal Hypertension\|portal hypertension]], hepatosplenomegaly, gastroesophageal varices, hypersplenism (thrombocytopenia), and recurrent ascending cholangitis.
+- Hyponatremia is frequently observed in the first weeks of life but is typically transient, while progressive decline in glomerular filtration rate (GFR) leads to end-stage kidney disease (ESKD) in approximately 50% of classical cases by 10 years of age.
 
-### A. Pre-Analytical Phase (Sampling)
-* **Timing:**
-    * **Ideal:** Between **48 to 72 hours** of life.
-    * *Reasoning:* Allows for stabilization of TSH (post-birth surge) and ensures the baby has received protein feeds (essential for detecting PKU/amino acidopathies).
-    * *Pre-discharge:* If discharged <24 hours, a sample should be taken, but a repeat sample is often required at 1–2 weeks.
-* **Collection Method:**
-    * **Heel Prick:** Blood is collected from the plantar surface of the heel (medial or lateral aspect to avoid calcaneus).
-    * **Dried Blood Spot (DBS):** Drops are applied to a specific filter paper (Whatman 903/Guthrie card).
-    * **Drying:** Air-dried horizontally for at least 3-4 hours away from sunlight/heat.
-    * **Transport:** Placed in an envelope (with desiccant if humid) and couriered to the central laboratory within 24 hours.
+### Diagnostic Evaluation
 
-### B. Analytical Phase (Laboratory Testing)
-Different technologies are used based on the analyte:
-1.  **Immunoassays (ELISA / DELFIA):** * Used for: TSH (CH), 17-OHP (CAH), IRT ([[Respiratory/Cystic Fibrosis\|Cystic Fibrosis]]).
-    * *DELFIA (Dissociation-Enhanced Lanthanide Fluorescent Immunoassay)* is the gold standard due to high sensitivity.
-2.  **Tandem Mass Spectrometry (LC-MS/MS):**
-    * Used for: Amino acids (PKU, MSUD) and Acylcarnitines (FAODs, OAs).
-    * *Mechanism:* Weighs molecules to identify abnormal metabolite patterns. High throughput, multiplexing capability.
-3.  **Enzymatic/Colorimetric Assays:**
-    * Used for: [[Metabolic Disorders/Galactosemia\|Galactosemia]] (GALT activity), G6PD deficiency, Biotinidase.
+- Prenatal and postnatal renal ultrasonography demonstrates bilaterally enlarged, reniform kidneys with uniformly increased echogenicity (a "salt and pepper" pattern) and loss of corticomedullary differentiation.
+- High-resolution ultrasonography may reveal small elliptical cysts arranged radially in the medulla and cortex.
+- Liver ultrasonography often reveals periportal echogenicity, intrahepatic bile duct dilatation, and macroscopic cysts consistent with Caroli disease.
+- Diagnosis relies on the modified Zerres criteria, which combine typical renal imaging with clinical/pathological signs of congenital hepatic fibrosis, absence of renal cysts in parents, or a confirmed ARPKD sibling.
+- Genetic testing with a comprehensive gene panel validates the diagnosis and distinguishes ARPKD from early-onset dominant forms or phenocopies.
 
-### C. Post-Analytical Phase (Reporting & Follow-up)
-* **Recall:** Notification of parents/pediatricians immediately for "Screen Positive" results.
-* **Confirmatory Testing:** A fresh sample (venous blood/urine) is sent for diagnostic tests (e.g., serum TSH/T4, plasma amino acids, urine organic acids, gene sequencing).
+### Management
 
-## 4. Interpretation of NBS Results
-Interpretation requires clinical correlation and understanding of physiology.
+- Neonatal management is primarily supportive, often requiring aggressive mechanical ventilation for pulmonary hypoplasia and management of spontaneous [[Respiratory/Pneumothorax\|pneumothorax]].
+- Strict blood pressure control is paramount; renin-angiotensin-aldosterone system (RAAS) blockade with angiotensin-converting enzyme (ACE) inhibitors or angiotensin receptor blockers (ARBs) serves as first-line therapy.
+- Severe massive nephromegaly severely restricting diaphragmatic excursion or enteral feeding may necessitate early unilateral or bilateral nephrectomy.
+- Dialysis (peritoneal or hemodialysis) and eventual kidney transplantation are required for ESKD, and select patients with severe [[Gastrointestinal/Portal Hypertension\|portal hypertension]] or recurrent cholangitis may require combined liver-kidney transplantation.
 
-### A. Result Categories
-1.  **Screen Negative (Normal):** Probability of disease is low. *Note:* Does not completely rule out mild variants or errors.
-2.  **Screen Positive (Abnormal):** The analyte value is outside the established cut-off (e.g., TSH > 20 mIU/L).
-    * **Action:** Requires immediate follow-up. This is **NOT** a diagnosis; it indicates high risk.
-3.  **Borderline:** Value is marginally elevated. usually requires a repeat DBS sample.
+## Autosomal Dominant Polycystic Kidney Disease (ADPKD)
 
-### B. Factors Affecting Interpretation (Potential False Positives/Negatives)
-* **Prematurity/LBW:**
-    * *CH:* Delayed TSH rise (hypothalamic immaturity).
-    * *CAH:* 17-OHP is naturally higher in preterms (stress response), causing false positives. Use weight-stratified cut-offs.
-    * *[[Metabolic Disorders/Tyrosinemia\|Tyrosinemia]]:* Transient [[Metabolic Disorders/Tyrosinemia\|tyrosinemia]] of newborn is common.
-* **Timing of Sample:**
-    * *<24 hours:* High TSH surge (false positive for CH).
-    * *Before feeds:* False negative for PKU/Galactosemia (metabolites haven't accumulated).
-* **Maternal Factors:**
-    * Maternal steroid intake (suppresses fetal 17-OHP).
-    * Maternal thyroid antibodies.
-* **Transfusion:** Can mask G6PD deficiency or [[Metabolic Disorders/Galactosemia\|Galactosemia]] (donor cells are normal). Sample should be taken *before* transfusion or 3-4 months later.
+### Genetics and Pathophysiology
 
-### C. Algorithm for Abnormal Results
-1.  **Critical Value (e.g., extremely high Ammonia/Acylcarnitine):** Immediate admission, stop feeds, start glucose/IVF, collect confirmatory sample.
-2.  **Elevated Value (Asymptomatic):** Recall for repeat DBS or confirmatory serum testing.
-3.  **Confirmation:**
-    * *CH:* Serum T3, T4, TSH.
-    * *CAH:* Serum 17-OHP, Electrolytes.
-    * *IEM:* TMS (plasma), GC-MS (urine), Genetic testing (Next-Gen Sequencing).
+- Autosomal dominant polycystic kidney disease (ADPKD) is the most common hereditary kidney disease, affecting 1 in 400 to 1,000 individuals, and accounts for nearly 5% of all ESKD cases.
+- The disorder is genetically heterogeneous; approximately 78% of cases are caused by mutations in the _PKD1_ gene (chromosome 16p13.3) encoding polycystin-1 (PC1), and 15% by mutations in the _PKD2_ gene (chromosome 4q22) encoding polycystin-2 (PC2).
+- Emerging atypical genetic variants causing ADPKD include mutations in _GANAB_, _DNAJB11_, and _ALG9_, which often present with mild renal enlargement but significant interstitial fibrosis or polycystic liver disease.
+- A contiguous gene deletion syndrome involving adjacent _TSC2_ and _PKD1_ genes causes a severe, very early-onset cystic phenotype with features of tuberous sclerosis.
+- Pathophysiologically, defective polycystin function in the primary cilium alters intracellular [[Endocrinology/Calcium Homeostasis\|calcium homeostasis]], increases cyclic AMP (cAMP) levels, and upregulates the mechanistic target of rapamycin (mTOR) pathway.
+- These cellular alterations drive abnormal tubular epithelial cell proliferation, fluid secretion (mediated by CFTR channels), and continuous cyst expansion from any segment of the nephron.
 
-## 5. Summary of Key NBS Conditions & Markers
+### Clinical Manifestations in Childhood
 
-| Disorder | Primary Marker | Screening Technology | Confirmatory Test |
-| :--- | :--- | :--- | :--- |
-| **[[Endocrinology/Congenital Hypothyroidism\|Congenital Hypothyroidism]]** | TSH (Thyroid Stimulating Hormone) | DELFIA / ELISA | Serum Free T4, TSH |
-| **CAH** | 17-OHP (17-Hydroxyprogesterone) | DELFIA / ELISA | Serum 17-OHP, Electrolytes |
-| **G6PD Deficiency** | G6PD Enzyme Activity | Fluorescent Spot / Spectrophotometry | Quantitative Enzyme Assay |
-| **[[Metabolic Disorders/Phenylketonuria\|Phenylketonuria]] (PKU)** | Phenylalanine (Phe) | LC-MS/MS | Plasma Amino Acids (HPLC) |
-| **[[Metabolic Disorders/Galactosemia\|Galactosemia]]** | GALT Enzyme / Total Galactose | Enzymatic / Fluorometric | GALT Enzyme Assay |
-| **MSUD** | Leucine / Isoleucine | LC-MS/MS | Plasma Amino Acids |
-| **Biotinidase Deficiency** | Biotinidase Enzyme Activity | Colorimetric / Fluorometric | Serum Biotinidase |
-| **[[Respiratory/Cystic Fibrosis\|Cystic Fibrosis]]** | IRT (Immunoreactive Trypsinogen) | DELFIA / ELISA | Sweat Chloride / Genetics |
+- While ADPKD is traditionally considered an adult-onset disease, progressive structural kidney damage (cyst formation and kidney enlargement) begins in utero or early childhood.
+- Hypertension is a frequent and early manifestation in children, affecting 20-40% of pediatric patients, and is associated with larger Total Kidney Volume (TKV) and faster disease progression.
+- Masked hypertension and loss of nocturnal blood pressure dipping are common, making 24-hour ambulatory blood pressure monitoring (ABPM) a critical evaluation tool in pediatric ADPKD.
+- Macroscopic or microscopic hematuria may occur due to cyst hemorrhage, nephrolithiasis, or urinary tract infections.
+- Impaired urinary concentrating capacity leads to early polyuria, polydipsia, and nocturnal enuresis.
+- Extrarenal manifestations include an increased left ventricular mass Index (LVMI), early vascular dysfunction (increased pulse wave velocity), and mitral valve prolapse.
+- Very Early Onset (VEO) ADPKD, diagnosed before 18 months of age, presents with massive nephromegaly and hypertension, mimicking ARPKD, and carries a high risk of progression to ESKD in childhood.
+
+### Diagnosis
+
+- Renal ultrasonography is the primary screening modality, demonstrating bilaterally enlarged kidneys with multiple distinct macrocysts.
+- For at-risk individuals aged 15 to 39 years with a positive family history, the presence of three or more unilateral or bilateral kidney cysts is sufficient for establishing an ADPKD diagnosis.
+- Total Kidney Volume (TKV) measured via Magnetic Resonance Imaging (MRI) is the most reliable biomarker for predicting the risk of functional decline and [[Nephrology/Chronic Kidney Disease\|chronic kidney disease]] progression.
+- In families without a known history (de novo mutations occur in 8-10% of cases) or in children with VEO ADPKD, genetic panel testing is strongly advised to differentiate from ARPKD and other ciliopathies.
+
+### Management
+
+- Lifestyle modifications include high water intake to suppress endogenous arginine vasopressin (AVP) production, dietary sodium restriction, and maintaining a normal body mass Index.
+- Strict blood pressure control is paramount to slow cardiovascular and renal progression; ACE inhibitors or ARBs are the preferred first-line agents, targeting a blood pressure below the 50th to 75th percentile for age, sex, and height.
+- Tolvaptan, a vasopressin V2 receptor antagonist, decreases cAMP levels and has been shown to reduce TKV growth and GFR decline in rapidly progressive adult ADPKD; pediatric clinical trials are currently underway.
+- Pravastatin (an HMG-CoA reductase inhibitor) has demonstrated efficacy in significantly slowing the progression of height-adjusted TKV in children and young adults with ADPKD.
+
+## Differential Diagnosis of Cystic Kidney Diseases
+
+|Disease Entity|Genetics|Renal Phenotype|Extrarenal Phenotype|
+|:--|:--|:--|:--|
+|**ARPKD**|_PKHD1_, _DZIP1L_ (Recessive)|Bilateral, symmetrically enlarged hyperechoic kidneys; microcysts; dilated collecting ducts.|Congenital hepatic fibrosis, Caroli syndrome, [[Gastrointestinal/Portal Hypertension\|portal hypertension]], pulmonary hypoplasia.|
+|**ADPKD**|_PKD1_, _PKD2_ (Dominant)|Bilateral enlarged kidneys; discrete macroscopic cysts distributed throughout all nephron segments.|Biliary/liver cysts, intracranial berry aneurysms, mitral valve prolapse, hernias.|
+|**Nephronophthisis**|_NPHP1_ to _NPHP20_ (Recessive)|Normal to small kidneys; cysts strictly at the corticomedullary junction; severe tubulointerstitial fibrosis.|Retinal degeneration (Senior-Løken), cerebellar vermis aplasia (Joubert syndrome), hepatic fibrosis.|
+|**Multicystic Dysplastic Kidney (MCDK)**|Usually sporadic, non-genetic|Unilateral (usually); kidney replaced by non-communicating cysts of varying sizes; atretic ureter.|Contralateral vesicoureteral reflux or ureteropelvic junction obstruction in 20-40%.|
+|**Tuberous Sclerosis Complex**|_TSC1_, _TSC2_ (Dominant)|Multiple bilateral angiomyolipomas and focal/microcystic renal cysts.|Subependymal giant cell astrocytomas, cardiac rhabdomyomas, facial angiofibromas, seizures.|
+|**ADTKD (HNF1B Nephropathy)**|_HNF1B_ (Dominant)|Normal or small kidneys; cortical/medullary cysts; hyperuricemia.|Maturity-onset diabetes of the young (MODY5), pancreatic hypoplasia, genital tract malformations.|

@@ -33,7 +33,7 @@
 |**Cornelia de Lange Syndrome**|Synophrys, long and thick eyelashes, short nasal bridge with anteverted nares, thin downturned upper lip, micrognathia, and severe limb reduction defects (micromelia, phocomelia, or oligodactyly).|
 |**Rubinstein-Taybi Syndrome**|Broad thumbs and broad halluces (great toes) with valgus deviation, down-slanting palpebral fissures, prominent beaked nose, and highly arched palate.|
 |**Trisomy 13 (Patau Syndrome)**|Cleft lip and palate (often midline), microphthalmia, iris coloboma, postaxial polydactyly, sloping forehead, and aplasia cutis congenita (scalp defects).|
-|**Trisomy 18 (Edwards Syndrome)**|Clenched hands with overlapping fingers ([[Statistics/Index\|index]] finger over 3rd, 5th digit over 4th), rocker-bottom feet with prominent talus, micrognathia, and narrow hips.|
+|**Trisomy 18 (Edwards Syndrome)**|Clenched hands with overlapping fingers (Index finger over 3rd, 5th digit over 4th), rocker-bottom feet with prominent talus, micrognathia, and narrow hips.|
 |**[[Genetics/Williams Syndrome\|Williams Syndrome]]**|Round face with full cheeks and lips, long philtrum, stellate pattern in the iris, and supravalvular aortic stenosis.|
 |**Fetal Alcohol Spectrum Disorder**|Short palpebral fissures, flat nasal bridge, smooth and flat philtrum, thin upper vermilion border of the lip, radioulnar synostosis, and cardiac septal defects.|
 

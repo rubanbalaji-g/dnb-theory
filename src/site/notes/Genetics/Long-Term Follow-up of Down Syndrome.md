@@ -46,7 +46,7 @@
 
 ## Gastrointestinal and Immunologic Monitoring
 
-- Maintain a high [[Statistics/Index\|index]] of suspicion for [[Gastrointestinal/Celiac disease\|Celiac disease]]; test if the child exhibits [[Gastrointestinal/Chronic Diarrhea\|chronic diarrhea]], constipation, growth faltering, unexplained anemia, or behavioral changes.
+- Maintain a high Index of suspicion for [[Gastrointestinal/Celiac disease\|Celiac disease]]; test if the child exhibits [[Gastrointestinal/Chronic Diarrhea\|chronic diarrhea]], constipation, growth faltering, unexplained anemia, or behavioral changes.
 - Manage gastroesophageal reflux disease and chronic constipation proactively to prevent feeding refusal and respiratory complications.
 - Administer routine immunizations strictly according to schedule.
 - Consider additional preventative strategies for common respiratory pathogens due to subtle T-cell and B-cell lymphopenia and defects in neutrophil chemotaxis.

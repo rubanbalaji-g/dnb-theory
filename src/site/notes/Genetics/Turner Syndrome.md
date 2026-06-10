@@ -66,4 +66,4 @@
 
 - Prophylactic laparoscopic gonadectomy is mandated if Y-chromosome material is detected due to high malignant transformation risk.
 - Infertility options include oocyte donation and in vitro fertilization (IVF).
-- Pregnancy poses high risks, requiring pre-conception cardiovascular screening, with aortic diameter [[Statistics/Index\|index]] >2.5 cm/m2 serving as an absolute contraindication.
+- Pregnancy poses high risks, requiring pre-conception cardiovascular screening, with aortic diameter Index >2.5 cm/m2 serving as an absolute contraindication.

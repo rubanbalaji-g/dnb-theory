@@ -21,7 +21,7 @@
 ## Anthropometric Parameters Assessed
 
 - For infants and toddlers (under 2 years), routine parameters plotted include weight for age, length for age, head circumference for age, and weight for length,.
-- For children older than 5 years, height for age and Body Mass [[Statistics/Index\|Index]] (BMI) for age are the most important parameters for defining normal or abnormal growth and nutritional status.
+- For children older than 5 years, height for age and Body Mass Index (BMI) for age are the most important parameters for defining normal or abnormal growth and nutritional status.
 - BMI is calculated as weight in kilograms divided by the square of height in meters, and it must be interpreted strictly relative to age and gender,,.
 - The normal BMI trajectory is characterized by a relatively flat curve between 2 and 5 years of age, making age-specific plotting crucial for accurate interpretation,.
 

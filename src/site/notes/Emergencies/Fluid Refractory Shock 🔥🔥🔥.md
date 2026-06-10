@@ -14,7 +14,7 @@
 - The child must be urgently transferred to the Pediatric Intensive Care Unit (PICU) for advanced multi-modal monitoring.
 - A central venous line must be secured immediately to facilitate the safe delivery of vasoactive infusions and to monitor Central Venous Pressure (CVP) and Superior Vena Caval Oxygen Saturation (ScvO2).
 - Invasive arterial blood pressure monitoring should be established to accurately guide the rapid titration of vasoactive agents.
-- Bedside functional echocardiography is highly recommended to objectively assess the Cardiac [[Statistics/Index\|Index]], Stroke [[Statistics/Index\|Index]], Systemic Vascular Resistance [[Statistics/Index\|Index]] (SVRI), and to detect underlying sepsis-induced myocardial dysfunction.
+- Bedside functional echocardiography is highly recommended to objectively assess the Cardiac Index, Stroke Index, Systemic Vascular Resistance Index (SVRI), and to detect underlying sepsis-induced myocardial dysfunction.
 
 ## Pharmacological Management (Vasoactive Therapy)
 

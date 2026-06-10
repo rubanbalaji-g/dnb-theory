@@ -2,143 +2,102 @@
 {"dg-publish":true,"uptext":"Back to Index(🩸 Hematology and Oncology)","uplink":"/hematology/hematology/","permalink":"/hematology/approach-to-anemia/","dgPassFrontmatter":true}
 ---
 
-## Definition
+## Definition and Pathophysiologic Mechanisms
 
-- Hemoglobin concentration or red cell mass >2 standard deviations below age and sex mean.
-- Physiologic state defined by tissue hypoxia secondary to inadequate oxygen-carrying capacity.
+- Hemolysis indicates premature destruction of red blood cells, reducing survival below normal 110-120 days.
+- Anemia develops when destruction rate exceeds compensatory bone marrow production capacity.
+- Normal marrow increases erythropoiesis six to eightfold under maximal stimulation during chronic hemolysis.
+- Destruction occurs via two primary pathophysiologic mechanisms: intravascular space destruction or extravascular reticuloendothelial system destruction.
+
+## Clinical Evaluation
+
+### Historical Clues
+
+- Family history reveals anemia, jaundice, early-onset gallstones, splenectomy, or cholecystectomy.
+- Ethnic origin indicates specific risks: sickle trait in African ancestry, thalassemia trait in Mediterranean ancestry, [[Hematology/Glucose-6-Phosphate Dehydrogenase Deficiency\|glucose-6-phosphate dehydrogenase deficiency]] in Sephardic Jews.
+- Neonatal history reveals prominent early jaundice or phototherapy requirement.
+- Recurrent anemia episodes associate with reticulocytosis.
+- Anemia remains unresponsive to hematinics or iron supplementation.
+- Drug exposures, infections, or chemical exposures precipitate acute hemolytic events.
+- Dark urine passage correlates with dipyrroluria or hemoglobinuria.
+
+### Physical Examination Findings
+
+- General findings include pallor, fatigue, tachypnea, and tachycardia.
+- Jaundice provides prominent evidence of unconjugated hyperbilirubinemia.
+- Splenomegaly universally present in inherited membrane defects, thalassemias, and autoimmune hemolytic anemias.
+- Gallstones present secondary to chronic bilirubin excretion.
+- Skeletal changes manifest as frontal bossing, prominent facial bones, and maxillary hyperplasia due to massive marrow expansion.
+- Chronic leg ulcers occur notably in [[Hematology/Sickle Cell Disease\|sickle cell disease]].
 
 ## Etiologic Classification
 
-### Impaired Red Cell Formation
+|Category|Intrinsic (Corpuscular) Defects|Extrinsic (Extracorpuscular) Defects|
+|---|---|---|
+|**Inheritance**|Primarily inherited (exceptions exist like paroxysmal nocturnal hemoglobinuria).|Primarily acquired.|
+|**Membrane defects**|Hereditary spherocytosis, hereditary elliptocytosis, hereditary pyropoikilocytosis, hereditary stomatocytosis.|Paroxysmal nocturnal hemoglobinuria, spur cell anemia.|
+|**Enzyme defects**|[[Hematology/Glucose-6-Phosphate Dehydrogenase Deficiency\|Glucose-6-phosphate dehydrogenase deficiency]], pyruvate kinase deficiency.|None|
+|**Hemoglobin defects**|Sickle cell syndromes, thalassemia syndromes, unstable hemoglobins.|None|
+|**Immune-mediated**|None|[[Hematology/Autoimmune Hemolytic Anemia\|Autoimmune hemolytic anemia]] (warm, cold), isoimmune (hemolytic disease of newborn, [[Hematology/Transfusion Reaction\|transfusion reaction]]), drug-induced.|
+|**Non-immune acquired**|None|Microangiopathic hemolytic anemia, hypersplenism, infections ([[Infectious Diseases/Malaria\|malaria]], sepsis), toxins, thermal injury.|
 
-#### Nutritional Deficiency
+## Stepwise Laboratory Investigation
 
-- Decreased dietary intake: Excessive cow milk (iron deficiency); vegan diet ([[Hematology/Vitamin B12 Deficiency\|vitamin B12 deficiency]]).
-- Increased demand: Rapid growth (iron); hemolysis (folic acid).
-- Decreased absorption: Intrinsic factor deficiency (B12); malabsorption syndromes (iron, folate).
-- Specific nutrient deficiencies: Iron, folate, vitamin B12, vitamin C, protein, vitamin B6, thyroxine.
+### Primary Screening: Confirming Accelerated Destruction
 
-#### Bone Marrow Failure
+- Pathologic red cell destruction produces distinct biochemical markers differentiating extravascular from intravascular compartments.
 
-- Single cell line failure:
-    - Red cell precursors: Congenital red cell aplasia (Diamond-Blackfan anemia), acquired red cell aplasia (Transient erythroblastopenia of childhood [TEC]).
-    - Megakaryocytes: Amegakaryocytic thrombocytopenic purpura, thrombocytopenia-absent radii (TAR).
-    - White cell precursors: Congenital neutropenias.
-- Trilineage failure (Pancytopenia):
-    - Congenital: [[Hematology/Fanconi Anemia\|Fanconi anemia]], dyskeratosis congenita, Shwachman-Diamond syndrome.
-    - Acquired: Idiopathic, secondary to drugs, radiation, toxins, viral infections (parvovirus B19, HIV).
+#### Differentiation of Hemolysis Site
 
-#### Bone Marrow Infiltration
+|Biomarker|Extravascular Hemolysis|Intravascular Hemolysis|
+|---|---|---|
+|**Unconjugated bilirubin**|Elevated.|Elevated.|
+|**Serum lactate dehydrogenase**|Elevated.|Markedly elevated.|
+|**Plasma haptoglobin**|Decreased.|Markedly decreased or absent.|
+|**Plasma free hemoglobin**|Normal.|Markedly elevated.|
+|**Urine findings**|Increased urobilinogen.|Hemoglobinuria, hemosiderinuria.|
+|**Plasma methemalbumin**|Normal.|Elevated.|
 
-- Benign: Osteopetrosis, storage diseases.
-- Malignant: Primary (leukemia, myelofibrosis), secondary ([[Hematology/Neuroblastoma\|neuroblastoma]], lymphoma).
+### Secondary Screening: Evaluating Compensatory Erythropoiesis
 
-#### Dyshematopoietic Anemias
+- Marrow response evaluation dictates functional capacity.
+- Reticulocyte count heavily elevated, frequently reaching 10-20%, occasionally up to 80%.
+- Reticulocyte Index calculates true marrow response: Index = reticulocyte % x (observed hematocrit/normal hematocrit) x (1/maturation factor).
+- Increased mean corpuscular volume reflects large volume of young reticulocytes entering circulation.
+- Red cell distribution width widens substantially as hemoglobin falls and varying cell sizes emerge.
+- Peripheral smear displays nucleated red blood cells and polychromasia.
+- Bone marrow aspiration demonstrates striking erythroid hyperplasia with erythroid:myeloid ratio reversing to 1:1.
 
-- Anemia of chronic disease.
-- Renal failure, hepatic disease.
-- Disseminated malignancy, connective tissue diseases.
-- Sideroblastic anemias.
+### Tertiary Screening: Identifying Specific Etiology
 
-### Blood Loss
+#### Direct Antiglobulin Test
 
-- Overt or occult hemorrhage.
-- Perinatal: Fetomaternal, intraplacental, retroplacental, twin-to-twin transfusion.
-- Gastrointestinal: Cow milk protein allergy, Meckel diverticulum, inflammatory bowel disease, polyps, parasites.
-- Menstrual: Heavy menstrual bleeding.
+- Functions as pivotal branch point distinguishing immune from non-immune etiologies.
+- Detects immunoglobulin g or complement (c3) fixed directly to red cell membrane.
+- Positive result establishes immune etiology including [[Hematology/Autoimmune Hemolytic Anemia\|autoimmune hemolytic anemia]], hemolytic transfusion reactions, or specific drug-induced mechanisms.
+- Reagent specificity differentiates warm [[Hematology/Autoimmune Hemolytic Anemia\|autoimmune hemolytic anemia]] (predominantly immunoglobulin g) from cold agglutinin disease (predominantly complement c3).
+- Negative result directs evaluation toward intrinsic corpuscular defects, microangiopathic processes, or non-immune acquired causes.
 
-### Hemolytic Anemia
+#### Peripheral Blood Smear Morphological Clues
 
-#### Corpuscular (Intrinsic) Defects
+- Evaluation of cellular morphology provides immediate diagnostic direction regarding specific underlying structural or mechanical defects.
 
-- Membrane defects: Hereditary spherocytosis, elliptocytosis, stomatocytosis, pyknocytosis.
-- Enzymatic defects: Pyruvate kinase deficiency, Glucose-6-phosphate dehydrogenase (G6PD) deficiency.
-- Hemoglobin defects: Thalassemia syndromes, [[Hematology/Sickle Cell Disease\|sickle cell disease]], unstable hemoglobins.
+|Morphological Finding|Diagnostic Association|Pathophysiologic Mechanism|
+|---|---|---|
+|**Spherocytes**|Hereditary spherocytosis, [[Hematology/Autoimmune Hemolytic Anemia\|autoimmune hemolytic anemia]].|Membrane surface area loss relative to volume; antibody-mediated membrane plucking.|
+|**Schistocytes, helmet cells, burr cells**|Microangiopathic hemolytic anemia, hemolytic uremic syndrome, [[Hematology/Disseminated Intravascular Coagulation\|disseminated intravascular coagulation]], mechanical valves.|Mechanical fragmentation from fibrin strands or abnormal vascular surfaces.|
+|**Bite cells, blister cells**|[[Hematology/Glucose-6-Phosphate Dehydrogenase Deficiency\|Glucose-6-phosphate dehydrogenase deficiency]], unstable hemoglobins.|Splenic pitting of precipitated denatured hemoglobin (Heinz bodies).|
+|**Sickle cells**|[[Hematology/Sickle Cell Disease\|Sickle cell disease]].|Polymerization of deoxygenated hemoglobin s.|
+|**Target cells**|Hemoglobinopathies (hemoglobin c, sickle cell), thalassemias, liver disease.|Increased membrane surface area to volume ratio.|
+|**Elliptocytes**|Hereditary elliptocytosis.|Horizontal membrane skeleton linkage defects.|
+|**Basophilic stippling**|Thalassemia, lead toxicity, pyrimidine 5-nucleotidase deficiency.|Ribosomal ribonucleic acid aggregates.|
+|**Acanthocytes**|Liver disease, abetalipoproteinemia.|Altered cholesterol-to-phospholipid membrane ratio.|
+|**Teardrop cells**|Thalassemia major, myelofibrosis.|Extramedullary hematopoiesis or marrow fibrosis.|
 
-#### Extracorpuscular (Extrinsic) Defects
+#### Specific Diagnostic Assays
 
-- Immune: Alloimmunization (Rh, ABO), autoimmune (warm/cold antibodies), drug-induced.
-- Non-immune: Infection ([[Infectious Diseases/Malaria\|malaria]], sepsis, CMV), microangiopathic (HUS, TTP, DIC, Kasabach-Merritt syndrome), hypersplenism.
-
----
-## Diagnostic Investigations
-
-### Clinical Evaluation
-
-#### History
-
-- Age of onset: Physiological anemia (2 months); Thalassemia major (9-12 months); Diamond-Blackfan anemia (newborn/infancy).
-- Dietary history: Formula, cow milk, weaning foods, [[Development/Pica\|pica]].
-- Prematurity, perinatal blood loss, neonatal jaundice.
-- Family history: Inherited bone marrow failure, [[Hematology/Sickle Cell Disease\|sickle cell disease]], thalassemia, gallstones, splenectomy.
-- Medications, toxic exposures, chronic illnesses.
-
-#### Physical Examination
-
-- General: Pallor, tachypnea, tachycardia, flow murmurs, heart failure signs.
-- Dysmorphic features: Radial limb abnormalities (bone marrow failure syndromes like TAR or Fanconi).
-- Organomegaly: Splenomegaly (hemolysis, storage disease), hepatomegaly, lymphadenopathy (malignancy, infection).
-- Skin: Petechiae, purpura, jaundice, leg ulcers.
-
-### Primary Laboratory Studies
-
-- Hemoglobin, hematocrit, erythrocyte count.
-- Red cell indices: Mean corpuscular volume (MCV), mean corpuscular hemoglobin (MCH), mean corpuscular hemoglobin concentration (MCHC), red cell distribution width (RDW).
-- Reticulocyte count (absolute and relative).
-- Peripheral blood smear.
-- Leukocyte count, differential count, platelet count.
-
-### Algorithmic Approach Based on MCV
-
-|MCV Category|Common Etiologies|
-|:--|:--|
-|**Microcytic** (Low MCV)|Iron deficiency, Thalassemia trait/major, Lead toxicity, Anemia of chronic disease, Sideroblastic anemia, Copper deficiency.|
-|**Normocytic** (Normal MCV)|Acute blood loss, Infection, Renal failure, Liver disease, Malignancy, [[Hematology/Aplastic Anemia\|Aplastic anemia]], Transient erythroblastopenia of childhood (TEC), Bone marrow infiltration, Hemolysis (RBC enzyme/membrane defects).|
-|**Macrocytic** (High MCV)|Normal newborn, B12/Folate deficiency, Diamond-Blackfan anemia, [[Hematology/Fanconi Anemia\|Fanconi anemia]], Liver disease, Hypothyroidism, Down syndrome, Increased erythropoiesis (reticulocytosis), Drugs.|
-
-### Algorithmic Approach Based on Reticulocyte Count
-
-- **Reticulocyte [[Statistics/Index\|Index]] >3% (High):** Indicates appropriate marrow response to destruction or loss. Causes include hemolysis, hemorrhage, splenic sequestration, recovery from nutritional deficiency.
-- **Reticulocyte [[Statistics/Index\|Index]] <3% (Low/Normal):** Indicates impaired red cell formation. Causes include nutritional deficiency (Iron, B12, Folate), [[Hematology/Aplastic Anemia\|aplastic anemia]], pure red cell aplasia, parvovirus B19 infection, bone marrow infiltration.
-
-### Peripheral Blood Smear Findings
-
-|Morphologic Finding|Associated Diagnostic Conditions|
-|:--|:--|
-|**Spherocytes**|Hereditary spherocytosis, immune hemolytic anemia, hypersplenism.|
-|**Target Cells**|Thalassemia, Hemoglobin C/E disease, liver disease, postsplenectomy, severe iron deficiency.|
-|**Schistocytes**|Hemolytic-uremic syndrome, TTP, DIC, Kasabach-Merritt syndrome.|
-|**Sickled Cells**|Sickle cell anemias (SS, SC, S$\beta$-thalassemia).|
-|**Elliptocytes**|Hereditary elliptocytosis, iron deficiency, megaloblastic anemia.|
-|**Dacrocytes (Teardrop)**|Myelodysplasia, leukemia, [[Hematology/Neuroblastoma\|neuroblastoma]], marrow infiltration.|
-|**Howell-Jolly Bodies**|Asplenia, hyposplenia, severe iron deficiency.|
-|**Heinz Bodies**|Normal newborn, thalassemia, asplenia, [[Gastrointestinal/Chronic Liver Disease\|chronic liver disease]], Heinz body hemolytic anemia.|
-
-### Second-Tier Specific Investigations
-
-#### Suspected Iron Deficiency
-
-- Serum iron, total iron-binding capacity (TIBC), transferrin saturation.
-- Serum ferritin (reflects body iron stores; <15 ng/mL diagnostic of iron deficiency).
-- Stool for occult blood, Meckel diverticulum scan, gastrointestinal endoscopy.
-
-#### Suspected Megaloblastic Anemia
-
-- Serum vitamin B12, RBC and serum folate levels.
-- Serum methylmalonic acid, serum homocysteine levels.
-- Bone marrow aspiration (megaloblastic appearance, hypersegmented neutrophils).
-
-#### Suspected Hemolytic Anemia
-
-- **Evidence of Hemolysis:** Unconjugated hyperbilirubinemia, low/absent serum haptoglobin, elevated lactate dehydrogenase (LDH), hemoglobinuria, hemosiderinuria, increased urinary urobilinogen.
-- **Immune Evaluation:** Direct antiglobulin test (DAT/Coombs test) for IgG or complement C3.
-- **Membrane Defects:** Osmotic fragility test, osmotic gradient ektacytometry, eosin-5-maleimide (EMA) binding test, flow cytometric analysis for PNH (CD55, CD59).
-- **Hemoglobin Defects:** Hemoglobin electrophoresis, High-performance liquid chromatography (HPLC), quantitative HbF, heat-stability test, globin gene analysis.
-- **Enzyme Defects:** Specific enzyme assays (G6PD, pyruvate kinase), Heinz body preparation, genetic testing.
-
-#### Suspected Bone Marrow Failure / Infiltration
-
-- **Bone Marrow Aspirate and Biopsy:** Evaluates cellularity, morphology (normoblastic, megaloblastic, sideroblastic), abnormal infiltrates (blasts, storage cells), and dyserythropoiesis.
-- **Cytogenetics:** Conventional [[Genetics/Karyotyping\|karyotyping]], fluorescence in situ hybridization (FISH), chromosomal breakage studies ([[Hematology/Fanconi Anemia\|Fanconi anemia]]).
-- **Viral PCR:** Parvovirus B19, CMV, EBV, [[Infectious Diseases/HIV\|HIV]].
-- **Specific Assays:** Erythrocyte adenosine deaminase activity (elevated in Diamond-Blackfan anemia), telomere length (Dyskeratosis congenita).
+- **Membrane defects:** Eosin-5-maleimide binding test utilizes flow cytometry to detect band 3 reduction, offering high sensitivity for hereditary spherocytosis. Incubated osmotic fragility test demonstrates premature lysis in hypotonic solutions.
+- **Enzyme deficiencies:** Specific quantitative spectrophotometric enzyme assays confirm glucose-6-phosphate dehydrogenase or pyruvate kinase reductions. Testing must be deferred post-acute hemolysis in [[Hematology/Glucose-6-Phosphate Dehydrogenase Deficiency\|glucose-6-phosphate dehydrogenase deficiency]] due to falsely normal levels in young reticulocytes.
+- **Hemoglobinopathies:** High-performance liquid chromatography or cellulose acetate hemoglobin electrophoresis quantifies variant hemoglobins.
+- **Paroxysmal nocturnal hemoglobinuria:** Flow cytometric analysis definitively identifies absence of glycosylphosphatidylinositol-anchored surface proteins cd55 and cd59 on erythrocytes and granulocytes.
+- **Unusual immune defects:** Donath-Landsteiner test identifies paroxysmal cold hemoglobinuria via biphasic immunoglobulin g autoantibody that binds in cold and lyses upon warming.

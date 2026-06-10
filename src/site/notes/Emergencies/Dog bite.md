@@ -19,19 +19,17 @@
 |**Category II**|Nibbling of uncovered skin; minor scratches or abrasions without bleeding|Wound management and Anti-rabies vaccine|
 |**Category III**|Single or multiple transdermal bites or scratches; licks on broken skin; contamination of mucous membrane with saliva|Wound management, Rabies immunoglobulin, and Anti-rabies vaccine|
 
-_Table adapted from the National Guidelines on Rabies Prophylaxis_
-
-## Comprehensive Management of [[Emergencies/Dog bite\|Dog Bite]] in Children
+## Comprehensive Management of Dog Bite in Children
 
 - Post-exposure prophylaxis requires a simultaneous three-pronged approach depending on the specific category of exposure.
 
 ### 1. Management of the Animal Bite Wound(s)
 
-- Physical removal of the virus: Prompt, gentle, and thorough washing of the wound with soap or detergent, followed by flushing with copious amounts of running water, is the most critical initial step.
-- Chemical inactivation: After thorough washing and drying, chemical viricidal agents such as povidone-iodine or alcohol must be applied to the wound.
-- Biological neutralization: For Category III exposures, Rabies Immunoglobulin (RIG) should be infiltrated deep into and around the wound.
+- Physical removal of the virus: Prompt, gentle, and **thorough washing** of the wound with soap or detergent, followed by flushing with copious amounts of running water, is the most critical initial step.
+- Chemical inactivation: After thorough washing and drying, chemical viricidal agents such as **povidone-iodine or alcohol** must be applied to the wound.
+- Biological neutralization: For Category III exposures, **Rabies Immunoglobulin** (RIG) should be infiltrated deep into and around the wound.
 - Harmful practices to avoid: The wound should not be touched with bare hands, and irritants like soil, chilies, oil, turmeric, or lime should never be applied; if already applied, they must be washed off with soap or detergent.
-- Surgical precautions: Suturing of the bite wound should be avoided as much as therapeutically possible.
+- Surgical precautions: **Suturing of the bite wound should be avoided** as much as therapeutically possible.
 - If suturing is surgically unavoidable, it must be delayed by a few hours after adequate wound cleansing and local RIG infiltration.
 - Only minimum loose sutures should be applied to arrest life-threatening bleeding.
 - Cauterization of the wound is contraindicated as it leaves bad scars and provides no additional benefit over soap and water washing.

@@ -53,7 +53,7 @@
 - Masked hypertension and loss of nocturnal blood pressure dipping are common, making 24-hour ambulatory blood pressure monitoring (ABPM) a critical evaluation tool in pediatric ADPKD.
 - Macroscopic or microscopic hematuria may occur due to cyst hemorrhage, nephrolithiasis, or urinary tract infections.
 - Impaired urinary concentrating capacity leads to early polyuria, polydipsia, and nocturnal enuresis.
-- Extrarenal manifestations include an increased left ventricular mass [[Statistics/Index\|index]] (LVMI), early vascular dysfunction (increased pulse wave velocity), and mitral valve prolapse.
+- Extrarenal manifestations include an increased left ventricular mass Index (LVMI), early vascular dysfunction (increased pulse wave velocity), and mitral valve prolapse.
 - Very Early Onset (VEO) ADPKD, diagnosed before 18 months of age, presents with massive nephromegaly and hypertension, mimicking ARPKD, and carries a high risk of progression to ESKD in childhood.
 
 ### Diagnosis
@@ -65,7 +65,7 @@
 
 ### Management
 
-- Lifestyle modifications include high water intake to suppress endogenous arginine vasopressin (AVP) production, dietary sodium restriction, and maintaining a normal body mass [[Statistics/Index\|index]].
+- Lifestyle modifications include high water intake to suppress endogenous arginine vasopressin (AVP) production, dietary sodium restriction, and maintaining a normal body mass Index.
 - Strict blood pressure control is paramount to slow cardiovascular and renal progression; ACE inhibitors or ARBs are the preferred first-line agents, targeting a blood pressure below the 50th to 75th percentile for age, sex, and height.
 - Tolvaptan, a vasopressin V2 receptor antagonist, decreases cAMP levels and has been shown to reduce TKV growth and GFR decline in rapidly progressive adult ADPKD; pediatric clinical trials are currently underway.
 - Pravastatin (an HMG-CoA reductase inhibitor) has demonstrated efficacy in significantly slowing the progression of height-adjusted TKV in children and young adults with ADPKD.

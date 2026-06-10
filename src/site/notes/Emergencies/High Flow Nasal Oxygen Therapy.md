@@ -2,52 +2,93 @@
 {"dg-publish":true,"uptext":"Back to Index (🚑 Emergencies and Critical Care)","uplink":"/emergencies/emergencies-and-critical-care/","dgPassFrontmatter":true,"permalink":"/emergencies/high-flow-nasal-oxygen-therapy/"}
 ---
 
-### Mechanism of Action and Physiological Benefits
+## Introduction and Definition
 
-- High-flow nasal cannula (HFNC) oxygen therapy is a modality of non-invasive ventilation (NIV) that delivers heated and humidified, very high flow oxygen through the nose.
-- It acts by providing a set flow that reduces airway resistance and generates an undetermined, yet significant, pharyngeal distending pressure.
-- This distending pressure helps to stent the lower airways, overcome airway resistance, and open atelectatic alveoli, thereby reducing the patient's overall work of breathing.
-- The continuous high flow washes out nasopharyngeal dead space, which improves oxygenation and facilitates carbon dioxide ($CO_2$) clearance.
-- HFNC therapy also assists in muco-ciliary clearance, inhibits the broncho-constrictor reflex, and increases the end-expiratory lung volume.
+- High Flow Nasal Oxygen (HFNO) therapy, also known as Heated Humidified High Flow Nasal Cannula (HFNC), is a non-invasive respiratory support modality.
+- It delivers heated and fully humidified oxygen at flow rates that meet or exceed the patient's peak inspiratory flow demand.
+- High flow is generally defined by age and size parameters.
+- It is considered > 1 L/min for neonates, > 3 L/min for toddlers, and > 5 L/min for older children.
 
-### Clinical Indications
+## Physiological Mechanisms of Action
 
-- HFNC is primarily utilized for children presenting with acute hypoxemic respiratory failure or severe respiratory distress.
-- It is heavily utilized and predominantly studied in infants suffering from [[Respiratory/Acute Bronchiolitis\|acute bronchiolitis]].
-- It serves as a critical respiratory support option in severe community-acquired pneumonia to prevent further clinical deterioration.
-- In infants experiencing severe respiratory distress or respiratory failure, the timely application of HFNC may successfully avert the need for mechanical ventilation and endotracheal intubation.
+- HFNO provides a continuous set flow that effectively reduces inspiratory airway resistance.
+- It acts through several physiological benefits to enhance oxygenation and ventilation.
 
-### Advantages Over Traditional Non-Invasive Ventilation
+|Mechanism|Clinical Effect|
+|:--|:--|
+|**Dead Space Washout**|Continuous high flow flushes the nasopharyngeal dead space. This expels retained $CO_2$, prevents rebreathing, and raises the effective fraction of inspired oxygen ($FiO_2$).|
+|**Positive End-Expiratory Pressure (PEEP)**|Generates an undetermined but significant pharyngeal distending pressure. This mild PEEP splints the lower airways, overcomes resistance, and opens atelectatic alveoli.|
+|**Increased Lung Volume**|By recruiting collapsed alveoli, it significantly increases the end-expiratory lung volume (EELV) and functional residual capacity. This improves ventilation-perfusion matching.|
+|**Active Humidification**|Delivery of gas heated to $34-37^{\circ}C$ with nearly 100% relative humidity preserves mucosal integrity. It optimizes ciliary function, promotes muco-ciliary clearance, and prevents secretion thickening.|
+|**Reduced Work of Breathing**|The heated and humidified gas reduces the metabolic energy expended on conditioning inspired air. This ultimately unloads the respiratory muscles.|
 
-- Contrary to standard NIV modalities like Continuous Positive Airway Pressure (CPAP) or Bi-level Positive Airway Pressure (BiPAP), HFNC does not require a tight-fitting nasal or facial mask interface.
-- The absence of a restrictive mask significantly improves patient tolerance, minimizes claustrophobia, and facilitates easier application in the Pediatric Intensive Care Unit (PICU).
-- In resource-limited settings, an indigenous HFNC circuit can be effectively assembled using an oxygen-air blender to regulate the Fraction of Inspired Oxygen ($FiO_2$), a servo-controlled heated wire humidifier, corrugated tubing, and appropriately sized nasal prongs.
+## Indications and Contraindications
 
-### HFNC Settings and Flow Rate Guidelines
+### Indications
 
-- The definition of "high flow" varies according to the age and size of the pediatric patient: a flow rate $>1 \text{ L/min}$ is considered high flow for neonates, $>3 \text{ L/min}$ is high flow for toddlers, and $>5 \text{ L/min}$ is classified as high flow for older children.
-- To define "At-risk" Pediatric Acute [[neonatalogy/Respiratory Distress in Newborns\|Respiratory Distress Syndrome]] ([[Emergencies/PARDS\|PARDS]]) in non-intubated children, the minimum high flow oxygen requirements are $<1 \text{ year}: 2 \text{ L/min}$, $1-5 \text{ years}: 4 \text{ L/min}$, $5-10 \text{ years}: 6 \text{ L/min}$, and $>10 \text{ years}: 8 \text{ L/min}$.
-- The humidifier temperature must be maintained optimally around $32-36 ^\circ\text{C}$ to ensure the gas is adequately warmed and humidified.
-- The $FiO_2$ should be carefully titrated to achieve and maintain a target oxygen saturation ($SpO_2$) of $92%-97%$.
+|Category|Specific Clinical Scenarios|
+|:--|:--|
+|**Primary Respiratory Failure**|Acute hypoxemic respiratory failure (Type I) with $SpO_2$ < 90%. Severe respiratory distress due to acute bronchiolitis, asthma, or community-acquired pneumonia.|
+|**Neonatal Conditions**|Apnea of prematurity, respiratory distress syndrome (RDS), and transient tachypnea of the newborn. Used as an alternative or weaning step from Continuous Positive Airway Pressure (CPAP).|
+|**Post-Operative Support**|Respiratory support following major surgeries, such as tonsillectomy and adenoidectomy. Weaning therapy from invasive mechanical ventilation or CPAP/BiPAP.|
+|**Procedural Support**|Transnasal Humidified Rapid-Insufflation Ventilatory Exchange (THRIVE) extends the safe apnea time during difficult intubation, general anesthesia induction, and painless endoscopic procedures.|
+
+### Contraindications
+
+|Category|Specific Clinical Scenarios|
+|:--|:--|
+|**Absolute Contraindications**|Complete upper airway obstruction, choanal atresia, basilar skull fractures, facial trauma, and un-drained pneumothorax.|
+|**Relative Contraindications**|Impending respiratory failure requiring immediate intubation. Decreased level of consciousness or inability to protect the airway. Severe hypercapnic respiratory failure ($pH < 7.25$) where non-invasive ventilation is preferred.|
+
+## Equipment and Setup
+
+- The HFNO system requires specific integrated components to function optimally.
+- **Air-Oxygen Blender:** Allows precise titration of $FiO_2$ from 21% to 100% independent of the flow rate.
+- **Heated Humidifier:** Actively warms the gas mixture to $34-37^{\circ}C$.
+- **Heated Delivery Circuit:** Insulated tubing prevents temperature drops and circuit condensation (rainout).
+- **Nasal Interface:** Soft, beveled nasal prongs are used. The prongs must be non-occlusive and should occupy less than 50% of the nostril aperture to allow egress of expired gas.
+
+### Flow Rate Guidelines
+
+- Flow rates are generally prescribed based on the patient's body weight.
 
 |Patient Weight|Recommended HFNC Flow Rate|Circuit Type Required|
 |:--|:--|:--|
-|$<12 \text{ kg}$|$2 \text{ L/kg/min}$|Pediatric circuit|
-|$12-15 \text{ kg}$|$2 \text{ L/kg/min}$|Adult circuit|
-|$15-30 \text{ kg}$|$35 \text{ L/min}$|Adult circuit|
-|$30-45 \text{ kg}$|$45 \text{ L/min}$|Adult circuit|
+|**Neonates (1000 - 3000g)**|3 to 5 L/min (maximum 8 L/min).|Neonatal circuit.|
+|**< 12 kg**|2 L/kg/min.|Pediatric circuit.|
+|**12 - 15 kg**|2 L/kg/min.|Adult circuit.|
+|**15 - 30 kg**|35 L/min.|Adult circuit.|
+|**30 - 45 kg**|45 L/min.|Adult circuit.|
+|**> 50 kg**|50 L/min up to 60 L/min.|Adult circuit.|
 
-- Alternatively, weight-based flow rates can be set at $1-2 \text{ L/kg/min}$ for the first $10 \text{ kg}$ of body weight, and $0.5 \text{ L/kg/min}$ for the next $10 \text{ kg}$, up to an absolute maximum of $20-25 \text{ L/kg/min}$.
+## Monitoring and Assessment of Efficacy
 
-### Monitoring, Weaning, and Escalation
+- Close continuous monitoring is mandatory, especially during the first 1 to 2 hours of initiation.
+- Key clinical parameters include respiratory rate, heart rate, work of breathing, and continuous pulse oximetry ($SpO_2$).
+- Target $SpO_2$ is generally maintained between 92% and 97%.
 
-- The effectiveness of HFNC must be continuously assessed within the first 1 to 2 hours by monitoring the respiratory rate, heart rate, work of breathing, and $FiO_2$ requirements.
-- Once the child's clinical trajectory shows sustained improvement, weaning is initiated by first reducing the $FiO_2$ down to $30%-40%$.
-- Following the $FiO_2$ reduction, the flow rate is systematically decreased to $0.5-1 \text{ L/kg/min}$ before transitioning the child to simple nasal prongs or a face mask.
-- Escalation to endotracheal intubation or more advanced mechanical ventilation is strictly indicated if the child exhibits worsening severe respiratory distress, cyanosis, central nervous system signs of hypoxia (like lethargy or coma), or an inability to maintain a target $SpO_2 \ge 92%$ despite optimal HFNC support.
+### Predictors of HFNO Failure
 
-### Limitations and Controversies
+- Identifying early failure is critical to prevent delayed intubation and clinical deterioration.
+- **Clinical Signs of Failure:** An increasing $FiO_2$ requirement > 50%, worsening respiratory acidosis ($PCO_2 > 60$ mm Hg, $pH < 7.20$), or recurrent apnea.
+- **ROX Index:** A validated objective tool used to predict HFNO failure.
+    - Calculation: $(SpO_2 / FiO_2) / Respiratory Rate$.
+    - Interpretation: A lower score indicates a higher risk of failure and need for mechanical ventilation.
+    - Predictors for Failure: ROX index < 2.85 at 2 hours, < 3.47 at 6 hours, or < 3.85 at 12 hours strongly predict the need for intubation.
 
-- Whether HFNC is equivalent or inferior in efficacy compared to traditional NIV remains debatable due to a lack of sufficient, high-quality pediatric data.
-- A large systematic review encompassing over 2100 children concluded that HFNC, although safe, does not offer superior clinical benefits for children with bronchiolitis when compared to other oxygen delivery modes; consequently, NICE guidelines continue to recommend CPAP for impending respiratory failure in these patients.
-- Furthermore, in the specific management of [[Infectious Diseases/COVID-19\|COVID-19]] pneumonia for children at risk of [[Emergencies/PARDS\|PARDS]], CPAP or BILEVEL devices are explicitly preferred over HFNC, particularly if the $SpO_2/FiO_2$ (S/F) ratio falls between 221 and 264.
+## Weaning Protocol
+
+- Weaning should be considered only when the patient shows sustained clinical stabilization for 12 to 24 hours.
+- **Step 1:** The $FiO_2$ is systematically reduced first. It should be weaned to a target of 30% to 40%.
+- **Step 2:** Once $FiO_2$ is stabilized at lower limits, the flow rate is gradually decreased.
+- Flow is reduced by 0.5 to 1.0 L/kg/min every 4 to 12 hours under close clinical monitoring.
+- **Step 3:** Discontinuation. HFNO therapy is typically ceased when the flow rate drops below 0.5 L/kg/min (or 2 L/min) and $SpO_2$ is maintained > 92% on minimal $FiO_2$.
+- The patient may then be transitioned to simple low-flow nasal prongs or room air.
+
+## Complications and Nursing Care
+
+- Though non-invasive, HFNO is associated with specific complications requiring proactive nursing care.
+- **Gastric Distension:** The continuous positive pressure can cause air swallowing and abdominal distension. An orogastric or nasogastric tube is often recommended for air decompression.
+- **Nasal Trauma:** Although less common than with CPAP, pressure areas on the nasal septum or skin irritation can occur. Meticulous attention to prong sizing and securement is required.
+- **Air Leaks:** Over-distension can rarely cause pneumothorax or pneumomediastinum, especially if the prongs occlude the nares entirely.
+- **Hemodynamic Alterations:** High intra-thoracic pressures may occasionally impede venous return, causing mild hypotension.

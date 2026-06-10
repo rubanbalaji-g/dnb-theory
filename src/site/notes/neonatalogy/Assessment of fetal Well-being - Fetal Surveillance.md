@@ -63,7 +63,7 @@ Fetal surveillance is indicated in pregnancies where the risk of fetal demise ex
 **4. Modified BPP**
 * A rapid screening tool combining:
     1.  **NST** (Acute marker)
-    2.  **Amniotic Fluid [[Statistics/Index\|Index]] (AFI)** (Chronic marker)
+    2.  **Amniotic Fluid Index (AFI)** (Chronic marker)
 * Normal if both are normal.
 
 ### C. Doppler Velocimetry (Hemodynamic Monitoring)

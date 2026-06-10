@@ -64,7 +64,7 @@ Infantile beriberi has a more subtle onset than adult forms but can progress rap
 ### Clinical Diagnosis
 
 - Diagnosis is often based on the clinical setting (dietary history) and compatible symptoms (unexplained cardiac failure or aphonia).
-- A high [[Statistics/Index\|index]] of suspicion is required as prompt treatment can be lifesaving.
+- A high Index of suspicion is required as prompt treatment can be lifesaving.
 
 ### Biochemical Tests
 

@@ -28,7 +28,7 @@ The syndrome is driven by the shift from a catabolic (starvation) state to an an
 
 According to NICE guidelines, patients are at high risk if they have one or more of the following:
 
-- Body Mass [[Statistics/Index\|Index]] (BMI) < 16 kg/m².
+- Body Mass Index (BMI) < 16 kg/m².
 - Unintentional weight loss of >15% in the previous 3–6 months.
 - Little or no nutritional intake for >10 days.
 - Low levels of potassium, phosphorus, or magnesium before refeeding.

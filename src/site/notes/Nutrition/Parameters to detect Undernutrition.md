@@ -22,7 +22,7 @@ Anthropometry is the gold standard for evaluating nutritional status.
 ### A. Weight
 
 - **Weight-for-Age (WFA):**
-    - It is the most commonly used [[Statistics/Index\|index]] but does not distinguish between acute and chronic malnutrition (wasting vs. stunting).
+    - It is the most commonly used Index but does not distinguish between acute and chronic malnutrition (wasting vs. stunting).
     - **Underweight:** Defined as WFA < -2 SD (Z-score) on WHO Growth Standards.
     - **Growth Monitoring:** Serial weight measurements plotted on a "Road to Health" chart are vital. A flattening or downward curve indicates growth faltering even if the single reading is within normal limits.
     - **Low Weight:** In IMNCI, low weight is defined as weight-for-age line below the -2 SD (yellow track on MCP card).
@@ -51,7 +51,7 @@ Anthropometry is the gold standard for evaluating nutritional status.
     - **Yellow (11.5 to 12.4 cm):** Moderate Acute Malnutrition (MAM).
     - **Green ($\ge$ 12.5 cm):** Normal.
 
-### E. Body Mass [[Statistics/Index\|Index]] (BMI)
+### E. Body Mass Index (BMI)
 
 - **Formula:** Weight (kg) / Height ($m^2$).
 - **Application:**
@@ -161,7 +161,7 @@ For infants **< 6 months**, SAM is defined by:
 ## 7. Other Parameters
 
 - **Age-Independent Indices:** Used when exact age is unknown.
-    - _Rao and Singh [[Statistics/Index\|Index]]:_ Weight/Height$^2$.
-    - _Kanawati [[Statistics/Index\|Index]]:_ MUAC / Head Circumference ratio (< 0.25 indicates severe malnutrition).
+    - _Rao and Singh Index:_ Weight/Height$^2$.
+    - _Kanawati Index:_ MUAC / Head Circumference ratio (< 0.25 indicates severe malnutrition).
 - **Biochemical:** Low serum albumin, transferrin, and pre-albumin are indicators, but anthropometry is preferred for diagnosis.
 - **Developmental Assessment:** Malnutrition affects brain growth; assessment of developmental milestones (gross motor, fine motor) is integral, using tools like the Trivandrum Developmental Screening Chart (TDSC).

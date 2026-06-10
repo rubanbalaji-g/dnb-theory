@@ -116,7 +116,7 @@ With decreasing PICU mortality rates, the focus of pediatric critical care has s
   3. Moderate disability.
   4. Severe disability.
   5. Coma or vegetative state.
-  6. Brain death / Death.
+  6. [[Emergencies/Brain Death\|Brain death]] / Death.
 * **Utility:** Patients are scored at pre-admission baseline, at PICU discharge, and at follow-up. An increase of >= 1 point from baseline indicates newly acquired morbidity.
 
 ### B. Functional Status Scale (FSS)

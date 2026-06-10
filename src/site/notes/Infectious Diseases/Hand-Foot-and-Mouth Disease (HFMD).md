@@ -87,7 +87,7 @@ Diagnosis is primarily clinical based on the characteristic distribution of lesi
 ### 1. Clinical Diagnosis
 
 - Presence of oral ulcers combined with vesicular rash on hands and feet in a young child.
-- **Atypical cases:** May be harder to diagnose and require a high [[Statistics/Index\|index]] of suspicion, especially if the rash is generalized or bullous.
+- **Atypical cases:** May be harder to diagnose and require a high Index of suspicion, especially if the rash is generalized or bullous.
 ### 2. Laboratory Diagnosis
 
 Laboratory confirmation is generally not required for mild cases but is crucial for severe cases or outbreaks.

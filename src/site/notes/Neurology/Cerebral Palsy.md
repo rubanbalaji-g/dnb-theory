@@ -197,7 +197,7 @@ Performed if neuroimaging is normal (approx. 10–15% cases) or if there are "Re
 
 #### 6. Functional Assessment (for Management Planning)
 * **Gait Analysis:** 3D Gait analysis in ambulant children to plan orthopedic surgery.
-* **Hip Surveillance (X-ray Pelvis):** Annual/Bi-annual X-rays to monitor "Reimer’s Migration [[Statistics/Index\|Index]]" (Risk of hip dislocation).
+* **Hip Surveillance (X-ray Pelvis):** Annual/Bi-annual X-rays to monitor "Reimer’s Migration Index" (Risk of hip dislocation).
 ## Management of [[Neurology/Cerebral Palsy\|Cerebral Palsy]] (CP)
 ### 1. Goals and Principles
 * **Goal:** To maximize functional independence, prevent secondary deformities, and improve Quality of Life (QoL), rather than "curing" the neurological deficit.

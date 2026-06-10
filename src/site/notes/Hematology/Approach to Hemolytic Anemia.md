@@ -62,7 +62,7 @@
 
 - Marrow response evaluation dictates functional capacity.
 - Reticulocyte count heavily elevated, frequently reaching 10-20%, occasionally up to 80%.
-- Reticulocyte [[Statistics/Index\|index]] calculates true marrow response: [[Statistics/Index\|Index]] = reticulocyte % x (observed hematocrit/normal hematocrit) x (1/maturation factor).
+- Reticulocyte Index  response: Index = reticulocyte % x (observed hematocrit/normal hematocrit) x (1/maturation factor).
 - Increased mean corpuscular volume reflects large volume of young reticulocytes entering circulation.
 - Red cell distribution width widens substantially as hemoglobin falls and varying cell sizes emerge.
 - Peripheral smear displays nucleated red blood cells and polychromasia.

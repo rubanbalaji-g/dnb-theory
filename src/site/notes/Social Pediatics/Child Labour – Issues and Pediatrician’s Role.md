@@ -66,7 +66,7 @@
 
 ## Role of Pediatrician (Multifaceted – High-Yield)
 ### 1. **Clinical Role (OPD/Emergency/Inpatient)**
-   - High [[Statistics/Index\|index]] of suspicion: Growth faltering, unexplained injuries, poor hygiene, school absenteeism, behavioural changes  
+   - High Index injuries, poor hygiene, school absenteeism, behavioural changes  
    - Detailed history: Occupation, hours of work, family background, school attendance  
    - Comprehensive examination: Anthropometry, developmental assessment, signs of abuse/neglect/toxicity  
    - Management: Treat acute illnesses, nutritional rehabilitation, immunization catch-up, psychosocial support  

@@ -29,7 +29,7 @@ Based on the pathophysiology and clinical presentation:
 
 ## 3. CLINICAL APPROACH: "WHEN TO SUSPECT"
 
-### Key Red Flags ([[Statistics/Index\|Index]] of Suspicion)
+### Key Red Flags (Index of Suspicion)
 1.  **Sepsis Mimicry:** Neonates appearing septic (lethargy, refusal to feed) with negative cultures or no response to antibiotics.
 2.  **Sudden Deterioration:** Rapid decline in a previously healthy neonate after a symptom-free interval.
 3.  **Family History:** Consanguinity, unexplained sibling deaths, or SIDS.

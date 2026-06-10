@@ -36,7 +36,7 @@ Data without utility is not a robust measure; it must drive change.
 * Specificity: Changes in the measure should specifically reflect changes in the quality of care, rather than external confounding variables.
 
 ### Risk Adjustability
-* Essential in pediatrics to account for variations in patient complexity, age, gestational maturity, and underlying comorbidities (case-mix [[Statistics/Index\|index]]).
+* Essential in pediatrics to account for variations in patient complexity, age, gestational maturity, and underlying comorbidities (case-mix Index).
 * Comparing unadjusted mortality rates between a Level IV surgical NICU and a Level II step-down unit lacks robustness; risk adjustment ensures fair benchmarking.
 
 ## Alignment With The Donabedian Framework

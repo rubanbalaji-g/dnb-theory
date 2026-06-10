@@ -48,7 +48,7 @@
 |:--|:--|:--|
 |**Primary Objective**|Assesses the presence, strength, and direction of a linear association.|Quantifies the relationship to predict the exact value of an outcome based on a predictor.|
 |**Variable Hierarchy**|Treats both variables symmetrically; there is no designated independent or dependent variable.|Strictly defines one independent (explanatory) variable and one dependent (response) variable.|
-|**Mathematical Output**|Produces a single dimensionless [[Statistics/Index\|index]] score ($r$).|Produces a linear equation ($y = \alpha + \beta x$) establishing the intercept and slope.|
+|**Mathematical Output**|Produces a single dimensionless Index a linear equation ($y = \alpha + \beta x$) establishing the intercept and slope.|
 
 ### Limitations and Clinical Caveats
 

@@ -50,8 +50,9 @@
 6. [[Emergencies/Hydrocarbon Ingestion\|Hydrocarbon Ingestion]]
 7. [[Emergencies/Iron Toxicity\|Iron Toxicity]]
 8. [[Emergencies/Snake Bite 🔥🔥🔥\|Snake Bite 🔥🔥🔥]]
-9. [[Emergencies/Scorpion Sting 🔥\|Scorpion Sting 🔥]]
+9. [[Emergencies/Scorpion Sting\|Scorpion Sting]]
 10. [[Emergencies/Dog bite\|Dog bite]]
+11. [[Emergencies/Detergent Ingestion\|Detergent Ingestion]]
 ## Sepsis and Shock
 1. [[Emergencies/Pathogenesis of Different Types of Shock 🔥\|Pathogenesis of Different Types of Shock 🔥]]
 2. [[Emergencies/Septic Shock 🔥🔥🔥\|Septic Shock 🔥🔥🔥]]
@@ -60,5 +61,5 @@
 5. [[Emergencies/Fluid Refractory Shock 🔥🔥🔥\|Fluid Refractory Shock 🔥🔥🔥]]
 6. [[Emergencies/Biomarkers of Sepsis\|Biomarkers of Sepsis]]
 ## Miscellaneous
-1. [[Emergencies/Brain Death 🔥\|Brain Death 🔥]]
+1. [[Emergencies/Brain Death\|Brain Death]]
 2. [[Emergencies/Pain Pathway\|Pain Pathway]]

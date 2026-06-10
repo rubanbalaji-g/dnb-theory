@@ -34,7 +34,7 @@ India faces a unique challenge described as "The Development Paradox," where eco
     - Among children aged 5–9 years, approximately 4% are overweight or obese.
     - In the 10–19 years age group, the prevalence is 5%.
     - Nearly 50–80% of obese children become obese adults.
-- **The "Asian Paradox":** South Asian populations have a specific phenotype characterized by higher fat mass and more centrally distributed fat (abdominal obesity) compared to white Caucasians of similar Body Mass [[Statistics/Index\|Index]] (BMI). This puts them at higher risk for obesity-associated diseases at lower BMI thresholds.
+- **The "Asian Paradox":** South Asian populations have a specific phenotype characterized by higher fat mass and more centrally distributed fat (abdominal obesity) compared to white Caucasians of similar Body Mass Index at higher risk for obesity-associated diseases at lower BMI thresholds.
 
 ## Etiopathogenesis: The Link Between Undernutrition and Overnutrition
 

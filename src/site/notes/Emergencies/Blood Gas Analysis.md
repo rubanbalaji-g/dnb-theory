@@ -82,14 +82,14 @@
 - If either the $pH$ or $PaCO_2$ is normal while the other remains abnormal, a mixed metabolic and respiratory disorder exists.
 - Physiological compensation never completely normalizes the $pH$; if the $pH$ is entirely normal in the setting of abnormal $PCO_2$ or $HCO_3^-$, there is invariably a mixed acid-base disorder present in opposite directions.
 
-|Primary Disorder|Compensatory Response Equation|
-|:--|:--|
-|Metabolic Acidosis|Expected $PaCO_2 = (1.5 \times HCO_3^-) + 8 \pm 2$ (Winter's Formula). Alternatively, $PCO_2$ falls by 1.25 mmHg per 1 mmol/L fall in $HCO_3^-$.|
-|Metabolic Alkalosis|Expected $PaCO_2 = (0.7 \times HCO_3^-) + 21 \pm 2$. Alternatively, $PCO_2$ rises by 0.75 mmHg per 1 mmol/L increase in $HCO_3^-$.|
-|Acute Respiratory Acidosis|$HCO_3^-$ increases by 1 mmol/L for every 10 mmHg increase in $PCO_2$ above 40. Expected fall in $pH$ is 0.08 per 10 mmHg increase in $PaCO_2$.|
-|Chronic Respiratory Acidosis|$HCO_3^-$ increases by 4 mmol/L for every 10 mmHg increase in $PCO_2$ above 40. Expected fall in $pH$ is 0.03 per 10 mmHg increase in $PaCO_2$.|
-|Acute Respiratory Alkalosis|$HCO_3^-$ falls by 2 mmol/L for every 10 mmHg decrease in $PCO_2$ below 40. Expected increase in $pH$ is 0.08 per 10 mmHg fall in $PaCO_2$.|
-|Chronic Respiratory Alkalosis|$HCO_3^-$ falls by 5 mmol/L for every 10 mmHg decrease in $PCO_2$ below 40. Expected increase in $pH$ is 0.03 per 10 mmHg fall in $PaCO_2$.|
+| Primary Disorder              | Compensatory Response Equation                                                                                                                   |
+| :---------------------------- | :----------------------------------------------------------------------------------------------------------------------------------------------- |
+| Metabolic Acidosis            | Expected $PaCO_2 = (1.5 \times HCO_3^-) + 8 \pm 2$ (Winter's Formula). Alternatively, $PCO_2$ falls by 1.25 mmHg per 1 mmol/L fall in $HCO_3^-$. |
+| Metabolic Alkalosis           | Expected $PaCO_2 = (0.7 \times HCO_3^-) + 21 \pm 2$. Alternatively, $PCO_2$ rises by 0.75 mmHg per 1 mmol/L increase in $HCO_3^-$.               |
+| Acute Respiratory Acidosis    | $HCO_3^-$ increases by 1 mmol/L for every 10 mmHg increase in $PCO_2$ above 40. Expected fall in $pH$ is 0.08 per 10 mmHg increase in $PaCO_2$.  |
+| Chronic Respiratory Acidosis  | $HCO_3^-$ increases by 4 mmol/L for every 10 mmHg increase in $PCO_2$ above 40. Expected fall in $pH$ is 0.03 per 10 mmHg increase in $PaCO_2$.  |
+| Acute Respiratory Alkalosis   | $HCO_3^-$ falls by 2 mmol/L for every 10 mmHg decrease in $PCO_2$ below 40. Expected increase in $pH$ is 0.08 per 10 mmHg fall in $PaCO_2$.      |
+| Chronic Respiratory Alkalosis | $HCO_3^-$ falls by 4 mmol/L for every 10 mmHg decrease in $PCO_2$ below 40. Expected increase in $pH$ is 0.03 per 10 mmHg fall in $PaCO_2$.      |
 
 - To determine whether a respiratory acidosis is acute or chronic, the ratio of $\Delta[H^+] / \Delta PaCO_2$ can be evaluated.
 - A $\Delta[H^+] / \Delta PaCO_2$ ratio $<0.3$ indicates a chronic respiratory acidosis, $>0.8$ signifies an acute respiratory acidosis, and $0.3-0.8$ suggests an acute-on-chronic respiratory acidosis.
@@ -99,11 +99,11 @@
 ### Advanced Metabolic Analysis: Anion Gap and Gap-Gap Ratio
 
 - The Anion Gap (AG) is an estimate of the unmeasured anions in the plasma and is critical for evaluating metabolic acidosis.
-- AG is calculated using the formula: $$AG = [Na^+] - ([Cl^-] + [HCO_3^-])$$.
+- AG is calculated using the formula: $$AG = [Na^+] - ([Cl^-] + [HCO_3^-])$$
 - Potassium ($K^+$) is often excluded from the calculation due to its low extracellular concentration.
 - The normal reference range for AG is $12 \pm 4$ mEq/L (or $8-16$ mEq/L if $K^+$ is included in the equation).
 - Because albumin constitutes a major portion of the unmeasured anions, the AG must be corrected for hypoalbuminemia.
-- For every 1 g/dL decrease in serum albumin below normal, the calculated AG should be increased by $2.5 - 3$ mEq/L.
+- **For every 1 g/dL decrease in serum albumin below normal, the calculated AG should be increased by 2.5 - 3 mEq/L.**
 - A Normal Anion Gap (Hyperchloremic) Acidosis results when the loss of $HCO_3^-$ is compensated by a proportional increase in chloride levels; common causes include diarrhea, renal tubular acidosis, early renal insufficiency, and massive isotonic saline infusion.
 - A High Anion Gap Acidosis occurs when $HCO_3^-$ is consumed by the addition of unmeasured acids without an increase in chloride.
 - Causes of high AG acidosis include sepsis, ketoacidosis (diabetic, alcoholic, starvation), lactic acidosis, end-stage renal failure, and intoxications (methanol, ethylene glycol, paraldehyde, salicylates).
@@ -148,4 +148,4 @@
 - The [[Emergencies/Oxygenation Index\|Oxygenation Index]] is a highly robust parameter often utilized in mechanically ventilated children because it incorporates mean airway pressure (MAP).
 - OI is calculated as: $$OI = \frac{\text{Mean Airway Pressure} \times FiO_2}{PaO_2} \times 100$$
 - An OI of $4-8$ signifies mild pediatric ARDS, $8-16$ indicates moderate ARDS, and $\ge16$ defines severe ARDS. An OI $\ge25$ strongly indicates severe hypoxemic respiratory failure.
-- If arterial access is unavailable, the Oxygenation Saturation [[Statistics/Index\|Index]] (OSI) can be calculated using [[Emergencies/Pulse Oximetry\|pulse oximetry]]: $$OSI = \frac{\text{Mean Airway Pressure} \times FiO_2}{SpO_2} \times 100$$
+- If arterial access is unavailable, the Oxygenation Saturation Index (OSI) can be calculated using [[Emergencies/Pulse Oximetry\|pulse oximetry]]: $$OSI = \frac{\text{Mean Airway Pressure} \times FiO_2}{SpO_2} \times 100$$

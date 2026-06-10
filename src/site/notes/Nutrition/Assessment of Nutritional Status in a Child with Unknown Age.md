@@ -14,7 +14,7 @@ Nutritional assessment usually relies heavily on age-dependent indices like Weig
 
 ### 2. Age-Independent Anthropometric Indices
 
-These indicators rely on the principle that in malnutrition, labile tissues like fat and muscle are depleted while static tissues like the skeleton (bones) are relatively preserved. Comparing a labile measure to a skeletal measure provides an [[Statistics/Index\|index]] of nutritional status.
+These indicators rely on the principle that in malnutrition, labile tissues like fat and muscle are depleted while static tissues like the skeleton (bones) are relatively preserved. Comparing a labile measure to a skeletal measure provides an Index of nutritional status.
 
 #### A. Weight-for-Height/Length (Wasting)
 
@@ -62,7 +62,7 @@ Several ratios have been developed to assess nutrition without age.
     - A height-measuring stick where height is calibrated against the expected MUAC for that height (instead of cm).
     - **Method:** The child stands against the stick. The level of their height corresponds to a specific MUAC value (e.g., the 80% or 85% of expected MUAC for that height).
     - **Interpretation:** If the child's actual measured MUAC is lower than the value indicated by their height on the stick, they are malnourished.
-2. **Rao and Singh [[Statistics/Index\|Index]] (Weight/Height²):**
+2. **Rao and Singh Index (Weight/Height²):**
     
     - **Calculation:** Weight (kg) / [Height (cm)]².
     - **Interpretation:**
@@ -70,7 +70,7 @@ Several ratios have been developed to assess nutrition without age.
             
         - 0.0013 – 0.0015: Moderate Malnutrition.
         - < 0.0013: Severe Malnutrition.
-3. **Kanawati and McLaren [[Statistics/Index\|Index]] (MUAC/Head Circumference Ratio):**
+3. **Kanawati and McLaren Index (MUAC/Head Circumference Ratio):**
     
     - **Principle:** Head circumference is relatively spared in malnutrition, while MUAC decreases.
     - **Calculation:** Mid-arm Circumference (cm) / Head Circumference (cm).
@@ -80,7 +80,7 @@ Several ratios have been developed to assess nutrition without age.
         - 0.28 – 0.31: Mild Malnutrition.
         - 0.25 – 0.28: Moderate Malnutrition.
         - < 0.25: Severe Malnutrition.
-4. **Dugdale's [[Statistics/Index\|Index]]:**
+4. **Dugdale's Index:**
     
     - Calculation: Weight (kg) / Height (cm)^1.6.
     - Interpretation: < 0.79 indicates malnutrition; > 0.79 is normal.

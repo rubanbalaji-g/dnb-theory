@@ -21,7 +21,7 @@
 | mixed      | 5%  | mix of two                                              |                     |
 ## Pathogenesis
 - reduction in umbilical blood flow - redistribution of blood from liver - reduction of abdominal circumference
-- elevated placental resistance - decreased umbilical artery end-diastolic flow - increased pulsatility [[Statistics/Index\|index]] - later can cause absent end-diastolic flow or reversed end-diastolic flow
+- elevated placental resistance - decreased umbilical artery end-diastolic flow - increased pulsatility Index - later can cause absent end-diastolic flow or reversed end-diastolic flow
 - redirection of blood to vital organs - end-diastolic flow increases in cerebral arteries - <span style=color:pink>brain sparing effect</span>
 
 ### difference between early FGR and late FGR
@@ -80,7 +80,7 @@
 ### Neonatal management
 - High risk of short and long term complications
 - 20-30% of recurrence in subsequent pregnancies
-- feed to be started with high [[Statistics/Index\|index]] of suspesion
+- feed to be started with high Index of suspesion
 #### short term complications 
 - hypoglycemia
 - [[neonatalogy/Polycythemia\|polycythemia]]

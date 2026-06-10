@@ -34,7 +34,7 @@
 ### 2. Clinical Presentation
 Symptoms often begin in the neonatal period and persist.
 
-* **Neonatal Period (High [[Statistics/Index\|Index]] of Suspicion):**
+* **Neonatal Period (High Index of Suspicion):**
     * **Unexplained Respiratory Distress:** Term infant requiring $O_2$ without risk factors (e.g., Meconium, sepsis).
     * **Neonatal Rhinitis:** Continuous nasal discharge from birth.
 

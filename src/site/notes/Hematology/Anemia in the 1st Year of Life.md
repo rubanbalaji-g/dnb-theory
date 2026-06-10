@@ -92,8 +92,8 @@
 
 - Initial evaluation: Complete blood count (CBC), reticulocyte count, peripheral blood smear, RBC indices.
 - Reticulocyte count dictates physiological classification:
-    - Elevated (>3% [[Statistics/Index\|index]]): Accelerated destruction (hemolysis) or blood loss.
-    - Decreased (<1.5% [[Statistics/Index\|index]]): Impaired production (nutritional deficiency, marrow failure, TEC).
+    - Elevated (>3% Index): Accelerated destruction (hemolysis) or blood loss.
+    - Decreased (<1.5% Index): Impaired production (nutritional deficiency, marrow failure, TEC).
 
 |MCV Classification|Low MCV (Microcytic)|Normal MCV (Normocytic)|High MCV (Macrocytic)|
 |:--|:--|:--|:--|

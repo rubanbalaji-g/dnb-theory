@@ -20,9 +20,9 @@
 - Erythrocytosis commonly seen.
 - Increased nucleated red blood cells present.
 - Reticulocytosis variable depending heavily on syndrome severity.
-- Mentzer [[Statistics/Index\|index]] calculates mean corpuscular volume divided by red blood cell count.
-- Mentzer [[Statistics/Index\|index]] less than 13% strongly suggests thalassemia.
-- Mentzer [[Statistics/Index\|index]] greater than 13% suggests [[Hematology/Iron Deficiency Anemia\|iron deficiency anemia]].
+- Mentzer Index calculates mean corpuscular volume divided by red blood cell count.
+- Mentzer Index less than 13% strongly suggests thalassemia.
+- Mentzer Index sts [[Hematology/Iron Deficiency Anemia\|iron deficiency anemia]].
 
 ### Hematological Parameter Variations Across Syndromes
 

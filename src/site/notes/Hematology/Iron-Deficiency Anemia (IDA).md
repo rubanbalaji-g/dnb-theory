@@ -90,7 +90,7 @@
 - Hemoglobin/Hematocrit: Reduced below age and sex-matched normative limits.
 - Red Cell Indices: Mean Corpuscular Volume (MCV), Mean Corpuscular Hemoglobin (MCH), and Mean Corpuscular Hemoglobin Concentration (MCHC) significantly reduced.
 - Red Cell Distribution Width (RDW): Elevated (>14.5%). Indicates marked anisocytosis. Differentiates from thalassemia trait where RDW remains normal (<13%).
-- Reticulocyte Count: Relative percentage may appear elevated, but absolute or corrected reticulocyte [[Statistics/Index\|index]] is low or normal (<1.5%), reflecting hypoproliferative marrow response.
+- Reticulocyte Count: Relative percentage may appear elevated, but absolute or corrected reticulocyte Index is low or normal (<1.5%), reflecting hypoproliferative marrow response.
 - Platelet Count: Variable. Reactive thrombocytosis common due to [[Hematology/Erythropoietin\|erythropoietin]] cross-reactivity. Severe IDA may present with thrombocytopenia.
 
 ### Peripheral Blood Smear

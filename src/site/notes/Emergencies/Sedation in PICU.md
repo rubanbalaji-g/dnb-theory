@@ -38,7 +38,7 @@
 
 - Continuous monitoring of the child's face, mouth, and chest wall movement is essential.
 - Use of physiological monitors: Electrocardiogram ([[Misc/ECG\|ECG]]), continuous [[Emergencies/Pulse Oximetry\|pulse oximetry]], and non-invasive/invasive blood pressure monitoring.
-- Objective assessment tools include the Bispectral [[Statistics/Index\|Index]] (BIS) to assess the depth of sedation, especially in chemically paralyzed patients.
+- Objective assessment tools include the Bispectral Index (BIS) to assess the depth of sedation, especially in chemically paralyzed patients.
 - Clinical scoring systems are utilized to titrate medications, such as the COMFORT scale or the State Behavioral Scale (SBS) (target scores generally depend on the clinical requirement, e.g., SBS $-1$ to $0$ for moderate sedation).
 
 ### Protocolized Sedation and Weaning

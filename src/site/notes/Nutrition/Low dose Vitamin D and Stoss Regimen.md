@@ -52,7 +52,7 @@ This approach involves the administration of physiological or slightly pharmacol
 
 - **Hypercalcemia:** The massive influx of Vitamin D can lead to dangerously high serum calcium levels (hypercalcemia),.
 - **Hypercalciuria and Nephrocalcinosis:** High calcium excretion in the urine is a frequent complication, which significantly increases the risk of renal stones and nephrocalcinosis (permanent calcium deposits in the kidney tissue),,.
-- **Toxicity:** There is a narrow therapeutic [[Statistics/Index\|index]] with such high doses, increasing the risk of Vitamin D toxicity ([[Nutrition/Hypervitaminosis D\|Hypervitaminosis D]]).
+- **Toxicity:** There is a narrow therapeutic Index increasing the risk of Vitamin D toxicity ([[Nutrition/Hypervitaminosis D\|Hypervitaminosis D]]).
 - **Monitoring Requirements:** Due to toxicity risks, closer monitoring of serum calcium and urinary calcium is ideally required, which may not always be feasible in resource-limited settings.
 
 ### 3. Intermediate/Alternative Strategies

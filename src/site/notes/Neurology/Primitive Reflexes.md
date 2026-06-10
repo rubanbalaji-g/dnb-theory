@@ -39,7 +39,7 @@
 - **Elicitation Method 1:** Support infant in semierect position. Allow head to fall backward onto examiner's hand.
 - **Elicitation Method 2:** Support head in midline with one hand, back with the other. Raise infant to 45°. Let head fall through 10°. Repeat three times.
 - **Normal Response:**
-	- **Phase 1 (Abduction and Extension):** The infant abruptly abducts and extends the arms, spreading them outward. The hands open, and the fingers flare, typically with the thumb and [[Statistics/Index\|index]] finger forming a distinct "C" shape.
+	- **Phase 1 (Abduction and Extension):** The infant abruptly abducts and extends the arms, spreading them outward. The hands open, and the fingers flare, typically with the thumb and Index finger forming a distinct "C" shape.
 	- **Phase 2 (Adduction and Flexion):** The infant then brings the arms back toward the midline in a smooth, clasping, or embracing motion, often flexing the arms over the chest.
 - **Clinical Nuances:**
     - **Absent in term newborn:** Ominous sign. Suggests significant diffuse CNS dysfunction.
@@ -48,7 +48,7 @@
 
 ### 2. Palmar Grasp and Traction Response
 
-- **Elicitation:** Place [[Statistics/Index\|index]] finger into infant's open palm. Gently press palmar surface. Avoid touching dorsal surface.
+- **Elicitation:** Place Index finger into infant's open palm. Gently press palmar surface. Avoid touching dorsal surface.
 - **Normal Response:** Forced grasp of examiner's finger.
 - **Traction Component:** By 37 weeks gestation, grasp is strong enough to lift infant from bed with gentle traction.
 - **Clinical Nuances:**

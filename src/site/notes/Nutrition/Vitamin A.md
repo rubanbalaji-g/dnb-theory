@@ -106,7 +106,7 @@ Supportive care is crucial to save the eye in cases of corneal involvement:
 
 ## Hazards of [[Nutrition/Vitamin A\|Vitamin A]] in Pediatric Practice
 
-While essential, [[Nutrition/Vitamin A\|Vitamin A]] has a narrow therapeutic [[Statistics/Index\|index]]. Toxicity ([[Nutrition/Hypervitaminosis A\|Hypervitaminosis A]]) can result from excessive intake of preformed [[Nutrition/Vitamin A\|vitamin A]] (retinol), often due to overzealous use of supplements or consumption of liver/fish liver oils,.
+While essential, [[Nutrition/Vitamin A\|Vitamin A]] has a narrow therapeutic Index. Toxicity ([[Nutrition/Hypervitaminosis A\|Hypervitaminosis A]]) can result from excessive intake of preformed [[Nutrition/Vitamin A\|vitamin A]] (retinol), often due to overzealous use of supplements or consumption of liver/fish liver oils,.
 
 ### Acute [[Nutrition/Hypervitaminosis A\|Hypervitaminosis A]]
 

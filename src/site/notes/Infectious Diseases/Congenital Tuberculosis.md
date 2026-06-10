@@ -58,7 +58,7 @@ The revised **Cantwell’s Criteria** are commonly used to define [[Infectious D
 
 ## Diagnostic Evaluation
 
-Diagnosis requires a high [[Statistics/Index\|index]] of suspicion.
+Diagnosis requires a high Index of suspicion.
 
 ### 1. Microbiological Confirmation (Gold Standard)
 

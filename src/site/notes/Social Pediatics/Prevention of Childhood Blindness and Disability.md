@@ -64,7 +64,7 @@
 - Integration with NHM, MCP Card, HBNC, POSHAN Abhiyaan
 
 ## Role of Pediatrician
-- High [[Statistics/Index\|index]] of suspicion during routine visits (well-baby clinic, immunization)
+- High Index utine visits (well-baby clinic, immunization)
 - Red reflex test at every newborn visit
 - Timely referral for ROP screening in NICU graduates
 - Growth & developmental monitoring using MCP card & RBSK tools

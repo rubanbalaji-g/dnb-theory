@@ -45,6 +45,6 @@
 
 ## Recent Developments & Way Forward (2026)
 - >88 crore ABHA created; integration with RBSK 2.0, JANANI, U-WIN completed
-- ABDM [[Statistics/Index\|Index]] & SAHI (Strategy for AI in Health) for predictive analytics in child health
+- ABDM Index I in Health) for predictive analytics in child health
 - Focus on newborn ABHA at delivery points; full lifecycle coverage under RMNCH+A
 - Pediatricians as key stakeholders: drive ABHA creation during routine immunization/well-baby visits

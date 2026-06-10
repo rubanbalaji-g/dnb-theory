@@ -28,7 +28,7 @@ To be effective, a score must possess:
 
 ### 4. Major Physiologic & Combined Scores (The "Gold Standards")
 
-#### A. CRIB (Clinical Risk [[Statistics/Index\|Index]] for Babies) #scoring 
+#### A. CRIB (Clinical Risk Indexfor Babies) #scoring 
 Designed for VLBW infants (<1500g).
 * **CRIB I (1993):**
     * **Timing:** Data collected in first 12 hours.
@@ -72,7 +72,7 @@ Applicable to **all** birth weights and gestations.
     * **Flaw:** "Circular logic" – sicker babies get more treatment, but aggressive treatment can inflate the score independent of actual mortality risk (Treatment Bias).
 
 ### 6. Transport Scores
-* **TRIPS (Transport Risk [[Statistics/Index\|Index]] of Physiologic Stability):**
+* **TRIPS (Transport Risk Indexof Physiologic Stability):**
     * Assesses stability at the referring hospital and on admission to NICU.
     * **Components:** Temperature, BP, Respiratory status, Response to noxious stimuli.
     * **Use:** Audit of transport team quality.

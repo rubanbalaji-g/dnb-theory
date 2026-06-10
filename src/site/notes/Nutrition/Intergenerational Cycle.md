@@ -19,7 +19,7 @@ The cycle moves through distinct life stages, with the nutritional status of the
 - The cycle often manifests initially as **Low Birth Weight (LBW)** or **Intrauterine Growth Retardation (IUGR)**.
 - The fetus depends entirely on the transfer of nutrients from the mother via the uteroplacental supply line.
 - Maternal malnutrition leads to fetal malnutrition; a process described as "Maternal malnutrition begets fetal malnutrition".
-- **Small Baby Syndrome:** This term refers to thin babies with loose skin folds, low weight for length, and low Ponderal [[Statistics/Index\|index]], who are candidates for early onset adult diseases,.
+- **Small Baby Syndrome:** This term refers to thin babies with loose skin folds, low weight for length, and low Ponderal Index, who are candidates for early onset adult diseases,.
 - Birth weight serves as a "biological indicator of social deprivation" and reflects the intrauterine environment.
 
 ### 2. Infancy and Early Childhood (Growth Failure)

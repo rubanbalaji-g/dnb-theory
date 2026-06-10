@@ -75,7 +75,7 @@ The clinical presentation is protean ("the great imitator"). It can range from a
 
 ## 5. Diagnostic Approach
 
-Diagnosis requires a high [[Statistics/Index\|index]] of suspicion as bacteriologic confirmation is difficult (paucibacillary).
+Diagnosis requires a high Index of suspicion as bacteriologic confirmation is difficult (paucibacillary).
 
 ### A. Radiological Investigations
 

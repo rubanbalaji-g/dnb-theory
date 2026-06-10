@@ -6,9 +6,9 @@ Childhood obesity is a complex, multifactorial chronic disease defined by excess
 
 ### 1. Definition and Classification
 
-Obesity is defined as an excess of body fat. Since direct measurement of body fat is difficult in clinical settings, **Body Mass [[Statistics/Index\|Index]] (BMI)** is the standard proxy used for assessment.
+Obesity is defined as an excess of body fat. Since direct measurement of body fat is difficult in clinical settings, **Body Mass Index (BMI)** is the standard proxy used for assessment.
 
-- **Formula:** $BMI = \frac{Weight (kg)}{Height (m)^2}$
+- **Formula:** $$BMI = \frac{Weight (kg)}{Height (m)^2}$$
 - **Adiposity Rebound:** BMI is high in infancy, decreases to a nadir around 5–6 years, and then increases through adolescence. This physiological rise is called "adiposity rebound". Early adiposity rebound is a risk factor for adult obesity.
 
 **Diagnostic Criteria:**

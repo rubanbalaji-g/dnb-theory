@@ -120,7 +120,7 @@ graph TD
 - Manifests prolonged unexplained fever with fewer than 4 principal clinical features.
 - Most common in infants <6 months of age.
 - Carries highest risk for developing coronary artery abnormalities due to delayed diagnosis.
-- Demands high [[Statistics/Index\|index]] of suspicion and evaluation via specific laboratory and echocardiographic algorithms.
+- Demands high Index graphic algorithms.
 
 ### Laboratory Criteria For Incomplete KD
 

@@ -85,7 +85,7 @@
 
 - Required for up to 10% of patients exhibiting standard treatment failure or azathioprine intolerance.
 - Mycophenolate mofetil (20 mg/kg twice daily) combined with prednisolone.
-- Calcineurin inhibitors (cyclosporine A, tacrolimus) utilized for refractory cases. Require careful monitoring due to narrow therapeutic [[Statistics/Index\|index]] and nephrotoxicity risk.
+- Calcineurin inhibitors (cyclosporine A, tacrolimus) utilized for refractory cases. Require careful monitoring due to narrow therapeutic Index and nephrotoxicity risk.
 - Rituximab (anti-B lymphocyte monoclonal antibody) and infliximab demonstrating anecdotal success.
 
 ### [[Gastrointestinal/Liver Transplantation\|liver transplantation]]

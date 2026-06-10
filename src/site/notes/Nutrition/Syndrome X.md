@@ -41,7 +41,7 @@ The development of [[Nutrition/Syndrome X\|Syndrome X]] is deeply rooted in earl
 ### Epidemiology and the "Triple Burden"
 
 - **Double/Triple Burden:** Developing countries face the coexistence of undernutrition (stunting/wasting), micronutrient deficiencies, and overnutrition (obesity). [[Nutrition/Syndrome X\|Syndrome X]] is the manifestation of the overnutrition side of this burden, often in individuals who were undernourished as fetuses.
-- **Asian Paradox:** South Asians tend to develop [[Nutrition/Syndrome X\|Syndrome X]] risk factors at a lower Body Mass [[Statistics/Index\|Index]] (BMI) compared to Caucasians. This is often due to a higher percentage of body fat and central adiposity for a given BMI ("Thin Fat Indian").
+- **Asian Paradox:** South Asians tend to develop [[Nutrition/Syndrome X\|Syndrome X]] risk factors at a lower Body Mass Index (BMI) compared to Caucasians. This is often due to a higher percentage of body fat and central adiposity for a given BMI ("Thin Fat Indian").
 
 ### Clinical Assessment and Diagnosis
 
@@ -49,7 +49,7 @@ Diagnosis in children and adolescents requires careful evaluation of anthropomet
 
 #### 1. Anthropometry
 
-- **Body Mass [[Statistics/Index\|Index]] (BMI):** Used to screen for overweight (>85th percentile) and obesity (>95th percentile).
+- **Body Mass Index (BMI):** Used to screen for overweight (>85th percentile) and obesity (>95th percentile).
 - **Central Adiposity:**
     - **Waist-Hip Ratio (WHR):** A WHR > 0.9 in males and > 0.8 in females indicates central (apple-shaped) obesity, which is metabolically more harmful than peripheral (pear-shaped) obesity.
     - **Skinfold Thickness:** Increased thickness at triceps, subscapularis, and supra-iliac regions indicates high body fat.

@@ -19,14 +19,14 @@
 
 ## Clinical Manifestations
 
-|System|Clinical Features|
-|:--|:--|
-|**Craniofacial**|[[Neurology/Microcephaly\|Microcephaly]], prominent occiput (dolichocephaly), micrognathia, retrognathia, low-set malformed "fawn-like" ears, short palpebral fissures, cleft lip and palate.|
-|**Musculoskeletal**|Clenched hands ([[Statistics/Index\|index]] finger overlapping the third digit, fifth digit overlapping the fourth), rocker-bottom feet with prominent calcanei, hypoplastic nails, short sternum, severe hypertonia, limited hip abduction, shield-shaped chest.|
-|**Cardiovascular**|Congenital heart disease present in >90% of cases ([[Cardiology/VSD\|VSD]], [[Cardiology/ASD\|ASD]], [[neonatalogy/PDA\|PDA]], polyvalvular dysplasia, [[Cardiology/Tetralogy of Fallot\|Tetralogy of Fallot]]).|
-|**Neurological**|Profound intellectual disability, severe [[Development/Global Developmental Delay\|global developmental delay]], central apnea, neonatal seizures, structural anomalies like agenesis of the corpus callosum.|
-|**Gastrointestinal**|Omphalocele, esophageal atresia, [[Gastrointestinal/Tracheoesophageal Fistula\|tracheoesophageal fistula]], Meckel diverticulum, [[Gastrointestinal/Biliary Atresia\|biliary atresia]].|
-|**Genitourinary**|Horseshoe kidney, ectopic kidneys, cryptorchidism, prominent clitoris.|
+|System| Clinical Features                                                                                                                                                                                                                             |
+| :------------------- | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+|**Craniofacial**| [[Neurology/Microcephaly\|Microcephaly]], prominent occiput (dolichocephaly), micrognathia, retrognathia, low-set malformed "fawn-like" ears, short palpebral fissures, cleft lip and palate.                                                 |
+|**Musculoskeletal**| Clenched hands (Index \|finger overlapping the third digit, fifth digit overlapping the fourth), rocker-bottom feet with prominent calcanei, hypoplastic nails, short sternum, severe hypertonia, limited hip abduction, shield-shaped chest. |
+|**Cardiovascular**| Congenital heart disease present in >90% of cases ([[Cardiology/VSD\|VSD]], [[Cardiology/ASD\|ASD]], [[neonatalogy/PDA\|PDA]], polyvalvular dysplasia, [[Cardiology/Tetralogy of Fallot\|Tetralogy of Fallot]]).                                               |
+|**Neurological**| Profound intellectual disability, severe [[Development/Global Developmental Delay\|global developmental delay]], central apnea, neonatal seizures, structural anomalies like agenesis of the corpus callosum.                                 |
+|**Gastrointestinal**| Omphalocele, esophageal atresia, [[Gastrointestinal/Tracheoesophageal Fistula\|tracheoesophageal fistula]], Meckel diverticulum, [[Gastrointestinal/Biliary Atresia\|biliary atresia]].                                                       |
+|**Genitourinary**| Horseshoe kidney, ectopic kidneys, cryptorchidism, prominent clitoris.                                                                                                                                                                        |
 
 ## Prenatal Screening and Diagnosis
 

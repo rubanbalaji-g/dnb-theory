@@ -6,16 +6,14 @@
 
 - The diagnosis of [[Emergencies/PARDS\|PARDS]] is established using the Pediatric Acute Lung Injury Consensus Conference (PALICC) 2015 criteria,.
 
-|Criterion|Definition|
+|Criterion| Definition                                                                                                                              |
 |:--|:--|
-|**Age**|Exclude patients with perinatal-related lung disease.|
-|**Timing**|Onset within 7 days of a known clinical insult.|
-|**Origin of Edema**|Respiratory failure not fully explained by cardiac failure or fluid overload.|
-|**Chest Imaging**|Findings of new infiltrate(s) consistent with acute pulmonary parenchymal disease.|
-|**Oxygenation (Non-Invasive)**|Full face-mask Bi-level ventilation or CPAP $\ge$ 5 cm H2O yielding a PaO2/FiO2 (PF) ratio $\le$ 300 or SpO2/FiO2 (SF) ratio $\le$ 264.|
-|**Oxygenation (Invasive)**|Stratified using [[Emergencies/Oxygenation Index\|Oxygenation Index]] or Oxygen Saturation [[Statistics/Index\|Index]] (OSI).|
-
-- Severity stratification based on invasive mechanical ventilation oxygenation criteria:
+|**Age**| Exclude patients with perinatal-related lung disease.                                                                                   |
+|**Timing**| Onset within 7 days of a known clinical insult.                                                                                         |
+|**Origin of Edema**| Respiratory failure not fully explained by cardiac failure or fluid overload.                                                           |
+|**Chest Imaging**| Findings of new infiltrate(s) consistent with acute pulmonary parenchymal disease.                                                      |
+|**Oxygenation (Non-Invasive)**| Full face-mask Bi-level ventilation or CPAP $\ge$ 5 cm H2O yielding a PaO2/FiO2 (PF) ratio $\le$ 300 or SpO2/FiO2 (SF) ratio $\le$ 264. |
+|**Oxygenation (Invasive)**| Stratified using [[Emergencies/Oxygenation Index\|Oxygenation Index]] or Oxygen SaturationIndex on based on invasive mechanical ventilation oxygenation criteria:
     - **Mild [[Emergencies/PARDS\|PARDS]]:** 4 $\le$ OI < 8 or 5 $\le$ OSI < 7.5.
     - **Moderate [[Emergencies/PARDS\|PARDS]]:** 8 $\le$ OI < 16 or 7.5 $\le$ OSI < 12.3.
     - **Severe [[Emergencies/PARDS\|PARDS]]:** OI $\ge$ 16 or OSI $\ge$ 12.3.

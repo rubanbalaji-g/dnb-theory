@@ -15,7 +15,7 @@ Children bear a disproportionate burden of environmental health threats. They ar
 
 ### Respiratory System
 * Indoor Air Pollution: In developing regions, indoor combustion of solid biomass fuels generates extremely high PM2.5 levels, serving as a primary driver of acute lower respiratory tract infections (ALRTI) like severe pneumonia.
-* Lung Development: Chronic exposure to high ambient Air Quality [[Statistics/Index\|Index]] (AQI) environments leads to measurable deficits in lung function growth and altered alveolar architecture.
+* Lung Development: Chronic exposure to high ambient Air Quality Index (AQI) environments leads to measurable deficits in lung function growth and altered alveolar architecture.
 * Morbidity: Exposure acts as a potent trigger for exacerbations of reactive airway disease, increases the lifetime prevalence of childhood [[Respiratory/Asthma\|asthma]], and exacerbates [[Respiratory/Allergic Rhinitis\|allergic rhinitis]].
 
 ### Pediatric Neurodevelopment
