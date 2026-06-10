@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"uptext":"Back to Index (🚑 Emergencies and Critical Care)","uplink":"/emergencies/emergencies-and-critical-care/","dg-path":"pulse-oximetry","permalink":"/pulse-oximetry/","dgPassFrontmatter":true}
+{"dg-publish":true,"uptext":"Back to Index (🚑 Emergencies and Critical Care)","uplink":"/emergencies/emergencies-and-critical-care/","dgPassFrontmatter":true,"permalink":"/emergencies/pulse-oximetry/"}
 ---
 
 ## Overview of Pulse Oximetry
