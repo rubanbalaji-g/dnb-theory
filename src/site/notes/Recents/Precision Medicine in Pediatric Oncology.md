@@ -29,7 +29,7 @@
 ## Precision Immunotherapy And Nanomedicine
 
 - **Engineered Cellular Therapies:** Innovations include dual-targeted Chimeric Antigen Receptor T-cells (targeting CD19 and CD22) and off-the-shelf allogeneic CAR-Natural Killer cells.
-- **Bispecific T-cell Engagers:** Blinatumomab acts as a frontline consolidation strategy for intermediate and high-risk pediatric acute lymphoblastic leukemia, replacing highly toxic chemotherapy blocks.
+- **Bispecific T-cell Engagers:** *Blinatumomab* acts as a frontline consolidation strategy for intermediate and high-risk pediatric acute lymphoblastic leukemia, replacing highly toxic chemotherapy blocks.
 - **Artificial Intelligence:** AI algorithms analyze pharmacogenomic profiles (e.g., TPMT, NUDT15 variants) to predict and prevent severe chemotherapy toxicities before drug administration.
 - **3D Nano-Printing:** Creates personalized, chewable polypills combining multiple chemotherapeutic agents tailored precisely to a child's body surface area and metabolic rate.
 

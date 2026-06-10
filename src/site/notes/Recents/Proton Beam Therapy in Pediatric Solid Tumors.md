@@ -5,7 +5,7 @@
 ## Introduction And Mechanism Of Action
 
 - Proton Beam Therapy (PBT) represents the preferred radiation modality for children and adolescents requiring curative-intent radiotherapy.
-- PBT utilizes the Bragg peak phenomenon to deliver precise radiation dose deposition at a specific target depth.
+- PBT utilizes the **Bragg peak phenomenon** to deliver precise radiation dose deposition at a specific target depth.
 - The beam stops precisely at the tumor target, entirely eliminating the exit dose and preventing unnecessary radiation to developing organs located behind the tumor bed.
 - It successfully reduces the low-dose radiation bath to uninvolved tissues by 50 to 70 percent, significantly lowering the overall integral dose.
 
