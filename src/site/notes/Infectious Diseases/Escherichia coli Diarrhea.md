@@ -28,7 +28,7 @@ The mechanism of disease varies by pathotype, generally involving colonization, 
 - **Mechanism:** EPEC uses a Type III secretion system to inject effector proteins (e.g., Tir) into the host cell. Intimin (a bacterial outer membrane protein) binds to Tir, triggering cytoskeletal rearrangement (actin polymerization) and pedestal formation. This leads to malabsorption and diarrhea.
 
 ### C. Shiga toxin-producing E. coli (STEC/EHEC)
-- **Adherence:** Like EPEC, STEC produces A/E lesions via intimin and Tir.
+- **Adherence:** Like EPEC, STEC produces **A/E lesions** via intimin and Tir.
 - **Toxins:** The distinguishing feature is the production of **Shiga toxins (Stx1 and Stx2)**.
 - **Systemic Effects:** Stx1 inhibits protein synthesis in endothelial cells. Stx2 is particularly associated with vascular endothelial injury leading to thrombotic microangiopathy, resulting in [[Nephrology/Hemolytic uremic syndrome (HUS)\|Hemolytic Uremic Syndrome (HUS)]].
 
@@ -44,13 +44,13 @@ The incubation period and clinical presentation vary by pathotype (Table 1).
 
 **Table 1: Clinical Syndromes of Diarrheagenic *E. coli***
 
-| Pathotype | Primary Symptom | Stool Character | Fever | Specific Associations |
-| :--- | :--- | :--- | :--- | :--- |
-| **ETEC** | Watery diarrhea | Non-bloody, non-mucoid | Absent or Low | Traveler's diarrhea; explosive onset; self-limiting (3-5 days). |
-| **EPEC** | Watery diarrhea | Non-bloody | Low-grade | Vomiting common; risk of persistent diarrhea and malnutrition in infants <2 years. |
-| **STEC** | Hemorrhagic Colitis | **Bloody**, becoming copious | **Absent** | Severe abdominal cramps; **HUS** (triad of anemia, thrombocytopenia, renal failure) occurs in 5-10%. |
-| **EIEC** | [[Gastrointestinal/Dysentery\|Dysentery]] | Blood, mucus, leukocytes | **Present** | Urgency, tenesmus, cramping; clinically indistinguishable from Shigellosis. |
-| **EAEC** | Watery/Mucoid | Mucoid, rarely bloody | Low-grade | Persistent diarrhea (>14 days); failure to thrive. |
+| Pathotype | Primary Symptom                           | Stool Character              | Fever         | Specific Associations                                                                                |
+| :-------- | :---------------------------------------- | :--------------------------- | :------------ | :--------------------------------------------------------------------------------------------------- |
+| **ETEC**  | Watery diarrhea                           | Non-bloody, non-mucoid       | Absent or Low | Traveler's diarrhea; explosive onset; self-limiting (3-5 days).                                      |
+| **EPEC**  | Watery diarrhea                           | Non-bloody                   | Low-grade     | Vomiting common; risk of persistent diarrhea and malnutrition in infants <2 years.                   |
+| **STEC**  | Hemorrhagic Colitis                       | **Bloody**, becoming copious | Absent        | Severe abdominal cramps; **HUS** (triad of anemia, thrombocytopenia, renal failure) occurs in 5-10%. |
+| **EIEC**  | [[Gastrointestinal/Dysentery\|Dysentery]] | Blood, mucus, leukocytes     | **Present**   | Urgency, tenesmus, cramping; clinically indistinguishable from Shigellosis.                          |
+| **EAEC**  | Watery/Mucoid                             | Mucoid, rarely bloody        | Low-grade     | Persistent diarrhea (>14 days); failure to thrive.                                                   |
 
 ## 5. Diagnosis
 Routine stool cultures do not distinguish DEC pathotypes from normal flora. Specific methods are required.

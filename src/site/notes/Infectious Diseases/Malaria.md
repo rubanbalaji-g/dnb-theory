@@ -4,7 +4,7 @@
 
 ## Introduction and Epidemiology
 
-- **Definition:** [[Infectious Diseases/Malaria\|Malaria]] is an acute febrile illness caused by intraerythrocytic protozoa of the genus _Plasmodium_ and transmitted by the bite of an infective female _Anopheles_ mosquito.
+- **Definition:** Malaria is an acute febrile illness caused by intraerythrocytic protozoa of the genus _Plasmodium_ and transmitted by the bite of an infective female _Anopheles_ mosquito.
 - **Burden:** It is a leading cause of morbidity and mortality worldwide, with children under 5 years accounting for a significant percentage of deaths. In India, _P. falciparum_ and _P. vivax_ are the major contributors, with _P. falciparum_ accounting for nearly 50% of cases.
 - **Elimination Goals:** The National Strategic Plan (NSP) 2023–2027 in India aims for zero indigenous cases by 2027 and maintenance of malaria-free status by 2030.
 
@@ -21,7 +21,7 @@
 ## Life Cycle and Pathogenesis
 
 The life cycle involves two hosts: Humans (intermediate host) and Mosquitoes (definitive host).
-![Malaria Life Cycle|695](https://www.cdc.gov/dpdx/malaria/modules/malaria_LifeCycle.gif?_=05237)
+![malaria LifeCycle](https://images.pedianotes.in/2026/06/ZG9e6j5jIESwNFsFwwwF)
 ### Human Cycle (Asexual)
 
 - **Pre-erythrocytic (Hepatic) Phase:** Sporozoites injected by the mosquito enter hepatocytes within minutes. They multiply asexually (schizogony) to form schizonts. Rupture releases thousands of merozoites into circulation.

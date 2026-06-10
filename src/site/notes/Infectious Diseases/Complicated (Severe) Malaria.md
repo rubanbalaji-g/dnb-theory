@@ -13,7 +13,7 @@ The pathogenesis involves a complex interplay of parasite and host factors:
 - **Cytoadherence and Sequestration:** _P. falciparum_ infected red blood cells (iRBCs) develop "knobs" on their surface, allowing them to adhere to the vascular endothelium of deep organs (brain, kidneys, lungs). This prevents the clearance of iRBCs by the spleen and causes microvascular obstruction, leading to tissue anoxia and organ dysfunction.
 - **Rosetting:** The clumping of uninfected RBCs to iRBCs further blocks blood flow.
 - **Cytokine Storm:** Rupture of schizonts releases toxins that stimulate the excessive production of pro-inflammatory cytokines (e.g., TNF-alpha, IL-1). These mediators drive fever, hypoglycemia, bone marrow suppression, and tissue injury.
-- ** hemolysis:** Extensive destruction of both infected and uninfected RBCs leads to severe anemia.
+- **Hemolysis:** Extensive destruction of both infected and uninfected RBCs leads to severe anemia.
 
 ### Clinical Features and Diagnostic Criteria
 

@@ -96,7 +96,7 @@
 - The clinical course is generally much milder than Bartter syndrome.
 - Many patients may remain entirely asymptomatic.
 - Common symptoms relate to salt craving, prominent fatigue, generalized weakness, and nocturia.
-- Chronic hypomagnesemia frequently triggers muscle cramps, carpopedal spasms, and tetanic episodes.
+- Chronic **hypomagnesemia** frequently triggers muscle cramps, carpopedal spasms, and tetanic episodes.
 - Long-standing hypomagnesemia can promote calcium pyrophosphate crystal deposition.
 - This leads to chondrocalcinosis and severe joint pain.
 - Severe electrolyte depletion can prolong the cardiac action potential, resulting in a prolonged QT interval and risk of ventricular arrhythmias.

@@ -16,7 +16,7 @@
 - Transmission strictly follows the fecal-oral route through the ingestion of infective embryonated eggs from contaminated soil, water, or agricultural produce.
 
 ## Life Cycle
-![](https://www.cdc.gov/dpdx/ascariasis/modules/Ascariasis_LifeCycle_19.jpg?_=68319)
+![Ascariasis LifeCycle 19](https://images.pedianotes.in/2026/06/1cbliz5oy7W8RdRFchlJ)
 
 |Migration Phase|Biological Events|
 |---|---|

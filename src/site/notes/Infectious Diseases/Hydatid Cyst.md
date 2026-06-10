@@ -7,6 +7,7 @@
 Hydatid disease (cystic echinococcosis) is a zoonotic infection caused by the larval stage of the tapeworm _Echinococcus granulosus_. It is characterized by the formation of cystic lesions, predominantly in the liver and lungs.
 
 ### Epidemiology and Life Cycle
+![Echinococcus gran LifeCycle lg](https://images.pedianotes.in/2026/06/B6ycKVqu6cLjSxHLQCge)
 
 - **Definitive Host:** Dogs and other canines (harbor adult worms in intestine).
 - **Intermediate Host:** Sheep, cattle, goats, pigs (harbor larval cysts in viscera).

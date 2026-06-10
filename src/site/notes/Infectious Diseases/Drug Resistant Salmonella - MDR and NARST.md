@@ -31,7 +31,6 @@
 ## 3. Mechanisms of Development of Drug Resistance
 
 The development of drug resistance in _S._ Typhi is a multifactorial process involving genetic adaptation and selective pressure from antibiotic use.
-![final_output.png](/img/user/+%C4%B0mages/final_output.png)
 ### A. Plasmid-Mediated Resistance (MDR Development)
 
 The primary mechanism for the development of MDR-ST is the acquisition of plasmids.
@@ -49,7 +48,7 @@ Unlike the plasmid-mediated resistance seen in MDR strains, resistance to quinol
 
 ### C. Mechanisms for Extensively Drug-Resistant (XDR) Strains
 
-- **Genetic Acquisition:** Recent XDR isolates have been found to possess a combination of resistance genes including <span style="color:rgb(240, 0, 176)"><i>blaTEM1</i> (beta-lactamase), <i>dhfR7</i>, <i>sul1</i>, <i>catA1</i>, <i>qnrS</i>, and <i>blaCTX-M-15</i> (Extended-Spectrum Beta-Lactamase), alongside the <i>gyrA</i> point mutation.</span>
+- **Genetic Acquisition:** Recent XDR isolates have been found to possess a combination of resistance genes including <span style="color:rgb(240, 0, 176)">blaTEM1 (beta-lactamase), dhfR7, sul1, catA1, qnrS, and blaCTX-M-15 (Extended-Spectrum Beta-Lactamase), alongside the gyrA point mutation.</span>
 - **Enzymatic Inactivation:** Resistance to third-generation cephalosporins is mediated by the production of Extended-Spectrum Beta-Lactamases (ESBLs) such as SHV-12, CTX-M types, or AmpC beta-lactamases (e.g., ACC-1).
 
 ### D. Role of Environmental and Host Factors

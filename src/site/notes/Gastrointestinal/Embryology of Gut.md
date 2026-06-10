@@ -8,11 +8,11 @@
 - Formed during gastrulation; derived from definitive endoderm.
 - Divided into three distinct anatomic segments: foregut, midgut, and hindgut.
 
-|Gut Segment|Embryologic Derivatives|
-|:--|:--|
-|**Foregut**|Esophagus, stomach, proximal duodenum, liver, extrahepatic biliary tract, pancreas.|
-|**Midgut**|Distal duodenum, jejunum, ileum, cecum, ascending colon, proximal transverse colon (to mid-transverse).|
-|**Hindgut**|Distal transverse colon, descending colon, sigmoid colon, rectum, upper anal canal.|
+| Gut Segment | Embryologic Derivatives                                                                                 |
+| :---------- | :------------------------------------------------------------------------------------------------------ |
+| **Foregut** | Esophagus, stomach, proximal duodenum, liver, extrahepatic biliary tract, pancreas.                     |
+| **Midgut**  | Distal duodenum, jejunum, ileum, cecum, ascending colon, proximal transverse colon (to mid-transverse). |
+| **Hindgut** | Distal transverse colon, descending colon, sigmoid colon, rectum, upper anal canal.                     |
 
 ## MIDGUT ROTATION AND FIXATION
 

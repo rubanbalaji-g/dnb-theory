@@ -133,11 +133,9 @@ Successful management requires early recognition, aggressive resuscitation, sour
 Empiric therapy must cover both _S. aureus_ (including MRSA) and _S. pyogenes_.
 
 - **Protein Synthesis Inhibitor (The "Eagle Effect"):**
-    
     - **Clindamycin:** Clindamycin is a crucial component of therapy. Unlike beta-lactams, its efficacy is not affected by the inoculum size (Eagle effect). More importantly, it is a protein synthesis inhibitor that suppresses the production of bacterial toxins (TSST-1, SpeA) and M-proteins.
     - _Dose:_ Parenteral Clindamycin is recommended as adjunctive therapy.
 - **Bactericidal Agent:**
-    
     - A beta-lactamase-resistant antistaphylococcal agent (e.g., **Nafcillin** or **Oxacillin**) or **Cefazolin** is used for MSSA.
     - **Vancomycin** is added if MRSA is suspected or prevalent in the community.
     - For Streptococcal TSS, **Penicillin G** + **Clindamycin** is the standard regimen.

@@ -264,7 +264,7 @@ graph TD
 ### Acute Resuscitation And Stabilization
 
 - Treat severe dehydration with intravenous fluids (Ringer's lactate or normal saline).
-- Correct electrolyte imbalances (hypokalemia, hypomagnesemia, acidosis/alkalosis).
+- Correct electrolyte imbalances (hypokalemia, hypomagnesemia, pacidosis/alkalosis).
 - Avoid total parenteral nutrition unless severe enteropathy precludes enteral absorption.
 
 ### Nutritional Rehabilitation

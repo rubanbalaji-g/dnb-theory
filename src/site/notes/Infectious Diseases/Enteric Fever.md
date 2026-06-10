@@ -40,7 +40,7 @@ The clinical presentation varies by age. The classic "step-ladder" fever pattern
 - **Physical Findings:**
     - **Coated Tongue:** Central white fur with red margins.
     - **Hepatosplenomegaly:** Soft, tender splenomegaly is palpable by the end of the first week.
-    - <span style="color:rgb(255, 73, 41)"><b>Rose Spots:</b></span> Blanching, erythematous maculopapular lesions (2–4 mm) on the trunk/chest. They appear around day 7–10, fade in 2–3 days, and are harder to see in dark-skinned patients.
+    - <span style="color:rgb(255, 73, 41)">Rose Spots:</span>Blanching, erythematous maculopapular lesions (2–4 mm) on the trunk/chest. They appear around day 7–10, fade in 2–3 days, and are harder to see in dark-skinned patients.
     - **Relative Bradycardia:** Pulse-temperature dissociation (<span style="color:rgb(255, 73, 41)">Faget's sign</span>) is less common in children than adults.
 
 ### 4.2. Neonatal and Infant Typhoid

@@ -19,24 +19,24 @@ CNS tuberculosis is almost always a result of hematogenous dissemination from a 
 
 - **Adhesive Arachnoiditis:** The thick exudate accumulates primarily at the base of the brain (basal cisterns), obstructing cerebrospinal fluid (CSF) flow and absorption, leading to **communicating [[Neurology/Hydrocephalus\|hydrocephalus]]**. It also encases cranial nerves (III, VI, VII, and II), causing palsies.
 - **Vasculitis:** The exudate infiltrates the adventitia of cerebral blood vessels (infectious vasculitis), causing inflammation, spasm, thrombosis, and occlusion. This leads to **cerebral infarctions** (strokes), most commonly affecting the basal ganglia and internal capsule.
-- **Cerebral Edema:** A combination of cytotoxic edema (from ischemia) and interstitial edema (from [[Neurology/Hydrocephalus\|hydrocephalus]]) contributes to raised intracranial pressure (ICP) and brain damage,.
+- **Cerebral Edema:** A combination of cytotoxic edema (from ischemia) and interstitial edema (from [[Neurology/Hydrocephalus\|hydrocephalus]]) contributes to raised intracranial pressure (ICP) and brain damage.
 
 ## Clinical Manifestations
 
 ### 1. Tuberculous [[Neurology/Meningitis\|Meningitis]] (TBM)
 
-The onset is usually insidious, progressing over 2–3 weeks, though it can be rapid in infants. The clinical course is classically divided into three stages, which have significant prognostic value,.
+The onset is usually insidious, progressing over 2–3 weeks, though it can be rapid in infants. The clinical course is classically divided into three stages, which have significant prognostic value.
 
 - **Stage I (Prodromal Phase):** Lasts 1–2 weeks. Symptoms are nonspecific and include low-grade fever, malaise, anorexia, irritability, headache, and stagnation of weight gain. Infants may show loss of developmental milestones. Sensorium is clear, and there are no focal neurological deficits.
 - **Stage II (Meningitic Phase):** Onset is more abrupt. Signs of meningeal irritation (nuchal rigidity, Kernig’s and Brudzinski’s signs) appear. There is lethargy, drowsiness, severe vomiting, and seizures. **Cranial nerve palsies** (commonly VI, III, VII) and mild focal deficits (e.g., hemiparesis) may develop.
-- **Stage III (Paralytic/Comatose Phase):** Characterized by severe clouding of sensorium, stupor, or deep coma. There are signs of severe raised ICP, decerebrate or decorticate posturing, dense hemiplegia/paraplegia, and irregular vital signs (Cushing’s triad). The prognosis in this stage is poor,.
+- **Stage III (Paralytic/Comatose Phase):** Characterized by severe clouding of sensorium, stupor, or deep coma. There are signs of severe raised ICP, decerebrate or decorticate posturing, dense hemiplegia/paraplegia, and irregular vital signs (Cushing’s triad). The prognosis in this stage is poor.
 
 ### 2. Intracranial Tuberculoma
 
 Tuberculomas are granulomatous masses that may present as space-occupying lesions. They can be solitary or multiple and are often located infratentorially (cerebellum/brainstem) in children.
 
 - **Presentation:** Seizures (focal or generalized), headache, vomiting, and focal neurological signs depending on the location. Fever is often absent.
-- **Paradoxical Enlargement:** Tuberculomas may appear or enlarge during successful anti-TB treatment (paradoxical reaction) due to immune reconstitution,.
+- **Paradoxical Enlargement:** Tuberculomas may appear or enlarge during successful anti-TB treatment (paradoxical reaction) due to immune reconstitution.
 
 ### 3. Spinal Tuberculous Arachnoiditis
 
@@ -44,7 +44,7 @@ This is a rare complication where the gelatinous exudate encases the spinal cord
 
 ## Diagnosis
 
-Diagnosis of pediatric [[Infectious Diseases/CNS TB\|CNS TB]] is challenging due to the paucibacillary nature of the disease and nonspecific symptoms. A high [[Statistics/Index\|index]] of suspicion is required.
+Diagnosis of pediatric [[Infectious Diseases/CNS TB\|CNS TB]] is challenging due to the paucibacillary nature of the disease and nonspecific symptoms. A high index of suspicion is required.
 
 ### 1. Clinical Criteria and History
 
@@ -67,13 +67,13 @@ Lumbar puncture is the cornerstone of diagnosis (contraindicated if there are si
 - **Culture (MGIT/LJ):** The gold standard but takes weeks.
 - **Nucleic Acid Amplification Tests ([[Genetics/NAAT\|NAAT]]):**
     - **Cartridge-Based [[Genetics/NAAT\|NAAT]] (CBNAAT/GeneXpert/TrueNat):** NTEP guidelines recommend **Upfront [[Genetics/NAAT\|NAAT]]** on CSF for all suspected TBM cases.
-    - Sensitivity is moderate (~30–60%) but Specificity is very high (98–100%). A positive Xpert result confirms TBM and detects Rifampicin resistance. However, **a negative [[Genetics/NAAT\|NAAT]] does not rule out TBM**,.
+    - Sensitivity is moderate (~30–60%) but Specificity is very high (98–100%). A positive Xpert result confirms TBM and detects Rifampicin resistance. However, **a negative [[Genetics/NAAT\|NAAT]] does not rule out TBM**.
 
 ### 4. Neuroimaging
 
-**Contrast-Enhanced CT (CECT) or MRI** of the brain is essential. MRI is more sensitive than CT,.
+**Contrast-Enhanced CT (CECT) or MRI** of the brain is essential. MRI is more sensitive than CT.
 
-- **Basal Meningeal Enhancement:** Thick, enhancing exudates in the basal cisterns. This is a pathognomonic feature,.
+- **Basal Meningeal Enhancement:** Thick, enhancing exudates in the basal cisterns. This is a pathognomonic feature.
 - **[[Neurology/Hydrocephalus\|Hydrocephalus]]:** Communicating type (ventricular dilatation with basal exudates).
 - **Infarcts:** Typically in the "tubercular zone" (basal ganglia, thalamus, internal capsule) due to lenticulostriate arteritis.
 - **Tuberculomas:** Ring-enhancing lesions with perilesional edema.
@@ -101,7 +101,7 @@ If a child presents with insidious fever and neurological symptoms:
 ## Differential Diagnosis
 
 - **Partially Treated Pyogenic [[Neurology/Meningitis\|Meningitis]]:** CSF may show lymphocytes and low sugar, but glucose is usually not as low as TBM, and gram stain/culture may help.
-- **Viral Meningoencephalitis:** CSF sugar is usually normal. Onset is more acute. MRI shows temporal lobe involvement (HSV) or thalamic lesions (JE),.
+- **Viral Meningoencephalitis:** CSF sugar is usually normal. Onset is more acute. MRI shows temporal lobe involvement (HSV) or thalamic lesions (JE).
 - **Cryptococcal [[Neurology/Meningitis\|Meningitis]]:** In immunocompromised children; India ink/Antigen test positive.
 - **[[Infectious Diseases/Neurocysticercosis\|Neurocysticercosis]]:** Differentiated by neuroimaging features (scolex, size) and serology.
 
@@ -115,7 +115,7 @@ Treatment must be started immediately on clinical suspicion without waiting for 
 
 - **Intensive Phase (IP):** 2 months of **HRZE** (Isoniazid, Rifampicin, Pyrazinamide, Ethambutol).
 - **Continuation Phase (CP):** 10 months of **HRE** (Isoniazid, Rifampicin, Ethambutol).
-    - _Note:_ The CP contains 3 drugs (HRE) instead of 2 (HR) to prevent resistance amplification,.
+    - _Note:_ The CP contains 3 drugs (HRE) instead of 2 (HR) to prevent resistance amplification.
     - Daily therapy is mandatory.
 
 **Dosages (Daily):**
@@ -131,7 +131,7 @@ Treatment must be started immediately on clinical suspicion without waiting for 
 
 Steroids are **strongly recommended** in TBM and Tuberculomas with edema.
 
-- **Rationale:** They reduce meningeal inflammation, vasculitis, and intracranial pressure, thereby reducing mortality and severe neurological sequelae,,.
+- **Rationale:** They reduce meningeal inflammation, vasculitis, and intracranial pressure, thereby reducing mortality and severe neurological sequelae.
 - **Indication:** TBM Stages II and III (and often Stage I), spinal block, raised ICP.
 - **Regimen:**
     - **Prednisolone:** 2 mg/kg/day (or Dexamethasone 0.6 mg/kg/day).
@@ -145,7 +145,7 @@ Steroids are **strongly recommended** in TBM and Tuberculomas with edema.
 - **Raised Intracranial Pressure (ICP):** Mannitol or hypertonic saline, head elevation, and ventilatory support if comatose.
 - **Hyponatremia:** Common due to **[[Endocrinology/SIADH\|SIADH]]** (Syndrome of Inappropriate ADH secretion) or **CSW** (Cerebral Salt Wasting).
     - [[Endocrinology/SIADH\|SIADH]]: Fluid restriction.
-    - CSW: Aggressive fluid and salt replacement. Correct identification is vital as treatments are opposite,.
+    - CSW: Aggressive fluid and salt replacement. Correct identification is vital as treatments are opposite.
 - **Seizures:** Treat with anticonvulsants (Levetiracetam is preferred; Phenytoin/Carbamazepine induce hepatic enzymes and may lower Rifampicin levels, requiring dose adjustments).
 
 ### 4. General Care
@@ -163,10 +163,10 @@ The outcome depends primarily on the **stage of disease** at the start of treatm
 - **Sequelae:** Occur in 1/3rd of survivors.
     - **Neurological:** Hemiplegia, quadriplegia, dystonia, cranial nerve palsies.
     - **Sensory:** Blindness (optic atrophy), deafness (drug toxicity or disease).
-    - **Cognitive:** Intellectual disability, behavioral problems, [[Development/ADHD\|ADHD]],.
+    - **Cognitive:** Intellectual disability, behavioral problems, [[Development/ADHD\|ADHD]].
 
 ## Prevention
 
 - **[[Misc/BCG\|BCG]] Vaccination:** Provides significant protection (up to 80%) against severe forms of childhood TB like TBM and miliary TB.
-- **TB Preventive Treatment (TPT):** Contact tracing of all pulmonary TB patients. Children <5 years exposed to active TB must receive TPT (Isoniazid) after ruling out active disease to prevent progression to TBM,.
+- **TB Preventive Treatment (TPT):** Contact tracing of all pulmonary TB patients. Children <5 years exposed to active TB must receive TPT (Isoniazid) after ruling out active disease to prevent progression to TBM.
 

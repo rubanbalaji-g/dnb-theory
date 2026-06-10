@@ -15,7 +15,7 @@ Radiographic abnormalities of the long bones are often the most helpful diagnost
 This is the most characteristic lesion, primarily affecting the femur and humerus.
 
 - **Wegner’s Sign:** A serrated or "saw-tooth" appearance at the epiphyseal margin. This represents points of calcified cartilage along the nutrient cartilage canals.
-- **Wimberger’s Sign:** Localized demineralization or erosion of the **medial aspect of the proximal tibial metaphysis**. This is a classic and highly specific sign of congenital syphilis,.
+- **Wimberger’s Sign:** Localized demineralization or erosion of the **medial aspect of the proximal tibial metaphysis**. This is a classic and highly specific sign of congenital syphilis.
 - **Irregularity of Provisional Calcification:** Bands of metaphyseal lucency may occur at the epiphyseal plate.
 
 ### B. Periostitis
@@ -28,7 +28,7 @@ This is the most characteristic lesion, primarily affecting the femur and humeru
 
 - **Pneumonia Alba:** Chest X-ray may show complete opacification of lung fields or a diffuse, fluffy infiltrate. This represents obliterative fibrosis and scarring of alveolar walls.
 - **Late Manifestations (>2 years):**
-    - **Saber Shins:** Anterior bowing of the midportion of the tibia due to chronic periostitis,.
+    - **Saber Shins:** Anterior bowing of the midportion of the tibia due to chronic periostitis.
     - **Clutton Joints:** Symmetrical hydrarthrosis (effusion) of the knees, usually painless.
     - **Higouménakis Sign:** Unilateral or bilateral thickening of the sternoclavicular third of the clavicle.
 
@@ -38,25 +38,25 @@ A definitive diagnosis is established when _Treponema pallidum_ is identified in
 
 ### A. Direct Visualization (The Gold Standard)
 
-- **Dark-field Microscopy:** The visualization of spirochetes in specimens from moist lesions (e.g., bullae, snuffles discharge, mucous patches), placenta, or umbilical cord confirms the diagnosis,.
+- **Dark-field Microscopy:** The visualization of spirochetes in specimens from moist lesions (e.g., bullae, snuffles discharge, mucous patches), placenta, or umbilical cord confirms the diagnosis.
 - **Direct Fluorescent Antibody (DFA):** Staining of exudates or tissues with specific antitreponemal antibodies can identify the organism if darkfield microscopy is unavailable.
 
 ### B. Serological Confirmation
 
 - **Quantitative Non-treponemal Tests (RPR/VDRL):**
-    - A serum quantitative nontreponemal titer in the infant that is **fourfold (4x) or greater** than the mother’s titer (e.g., Mother 1:4, Infant 1:16) is diagnostic of congenital syphilis,.
+    - A serum quantitative nontreponemal titer in the infant that is **fourfold (4x) or greater** than the mother’s titer (e.g., Mother 1:4, Infant 1:16) is diagnostic of congenital syphilis.
     - **Note:** Tests should be performed on infant serum, not cord blood, to avoid contamination with maternal blood.
 - **Treponemal Tests (TPHA/TP-PA/FTA-ABS):**
-    - A reactive treponemal test after the infant is **18 months of age** confirms the diagnosis. By this age, passively transferred maternal antibodies have disappeared,.
-    - _IgM Assays:_ Specific IgM tests (e.g., IgM-FTA-ABS or IgM immunoblotting) can detect endogenous fetal antibody production. However, due to variable sensitivity (false negatives) and specificity, they are often used as supportive rather than definitive singular diagnostic tools in some settings,.
+    - A reactive treponemal test after the infant is **18 months of age** confirms the diagnosis. By this age, passively transferred maternal antibodies have disappeared.
+    - _IgM Assays:_ Specific IgM tests (e.g., IgM-FTA-ABS or IgM immunoblotting) can detect endogenous fetal antibody production. However, due to variable sensitivity (false negatives) and specificity, they are often used as supportive rather than definitive singular diagnostic tools in some settings.
 
 ### C. Molecular Methods
 
-- **Polymerase Chain Reaction (PCR):** PCR assays on neonatal blood, CSF, or lesions are highly specific and are increasingly used to detect _T. pallidum_ DNA, confirming the diagnosis even when serology is equivocal,.
+- **Polymerase Chain Reaction (PCR):** PCR assays on neonatal blood, CSF, or lesions are highly specific and are increasingly used to detect _T. pallidum_ DNA, confirming the diagnosis even when serology is equivocal.
 
 ### D. CSF Analysis (Neurosyphilis)
 
-- **CSF VDRL:** A reactive VDRL in the cerebrospinal fluid is considered specific for neurosyphilis, although it may have low sensitivity,.
+- **CSF VDRL:** A reactive VDRL in the cerebrospinal fluid is considered specific for neurosyphilis, although it may have low sensitivity.
 # Management of a Neonate Born to a VDRL Positive Mother
 
 ## Introduction
@@ -76,11 +76,11 @@ The mother is considered **Inadequately Treated** if she:
 - Received **No treatment** or undocumented treatment.
 - Was treated **< 4 weeks** before delivery.
 - Was treated with a **non-penicillin regimen** (e.g., erythromycin).
-- Shows evidence of relapse or reinfection (4-fold rise in titer),.
+- Shows evidence of relapse or reinfection (4-fold rise in titer).
 
 ## Step 2: Evaluation and Treatment Scenarios
 
-Based on the risk stratification, infants are categorized into four scenarios,,.
+Based on the risk stratification, infants are categorized into four scenarios,.
 
 ### Scenario 1: Proven or Highly Probable Disease
 
@@ -141,7 +141,7 @@ Based on the risk stratification, infants are categorized into four scenarios,,.
 
 ## Step 3: Follow-up Monitoring
 
-Proper follow-up is essential to ensure cure and exclude developmental sequelae,.
+Proper follow-up is essential to ensure cure and exclude developmental sequelae.
 
 1. **Serology (RPR/VDRL):**
     - Repeat at 2, 4, 6, and 12 months.
