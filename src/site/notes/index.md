@@ -37,7 +37,7 @@ Recognition and management of pediatric emergencies and critically ill children.
 
 > [!blue] 🚑Pediatric Emergencies
 > Initial stabilization, resuscitation, and emergency management protocols.  
-> [[Emergencies/🚑 Emergencies and Critical Care\|View Notes →]]
+> [[Emergencies/🚑 Emergencies and Critical Care\|View Notes -->]]
 
 ## Systemic Pediatrics
 Organ-system–based approach to pediatric diseases.
@@ -48,7 +48,7 @@ Organ-system–based approach to pediatric diseases.
 
 > [!red] 🦠Infectious Diseases
 > Viral, bacterial, fungal, and parasitic infections in children.  
-> [[Infectious Diseases/🦠 Infectious Diseases and Immunology\|View Notes →]]
+> [[Infectious Diseases/🦠 Infectious Diseases\|View Notes →]]
 
 > [!red] 🍴Gastroenterology
 > Disorders of the gastrointestinal tract, liver, and pancreas.  
