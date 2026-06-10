@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"uptext":"Back to Index (🚑 Emergencies and Critical Care)","uplink":"/emergencies/emergencies-and-critical-care/","dg-path":"hfov","permalink":"/hfov/","dgPassFrontmatter":true}
+{"dg-publish":true,"uptext":"Back to Index (🚑 Emergencies and Critical Care)","uplink":"/emergencies/emergencies-and-critical-care/","dgPassFrontmatter":true,"permalink":"/emergencies/high-frequency-oscillatory-ventilation-hfov/"}
 ---
 
 ### Introduction and Definition

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"uptext":"Back to Index (🚑 Emergencies and Critical Care)","uplink":"/emergencies/emergencies-and-critical-care/","dg-path":"oxygenation-index","permalink":"/oxygenation-index/","dgPassFrontmatter":true}
+{"dg-publish":true,"uptext":"Back to Index (🚑 Emergencies and Critical Care)","uplink":"/emergencies/emergencies-and-critical-care/","dgPassFrontmatter":true,"permalink":"/emergencies/oxygenation-index/"}
 ---
 
 ### Definition and Pathophysiological Basis

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"uptext":"Back to Index (🚑 Emergencies and Critical Care)","uplink":"/emergencies/emergencies-and-critical-care/","dg-path":"pain-in-PICU","permalink":"/pain-in-picu/","dgPassFrontmatter":true}
+{"dg-publish":true,"uptext":"Back to Index (🚑 Emergencies and Critical Care)","uplink":"/emergencies/emergencies-and-critical-care/","dgPassFrontmatter":true,"permalink":"/emergencies/pain-management-in-picu/"}
 ---
 
 ## Definition and Physiology of Pain

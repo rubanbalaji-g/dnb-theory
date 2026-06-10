@@ -13,23 +13,23 @@
 - Therapy does not repair the mutated beta-globin gene directly.
 - It utilizes targeted gene editing to reactivate Fetal Hemoglobin (HbF) production.
 
-|Mechanism Stage|Physiological Action|
-|:--|:--|
-|**Normal Pathophysiology**|Transcription factor BCL11A binds to gamma-globin promoter regions shortly after birth, silencing HbF production.|
-|**CRISPR Action**|Cas9 endonuclease guided by single-guide RNA (sgRNA) creates a precise double-strand DNA break at the BCL11A erythroid-specific enhancer.|
-|**Cellular Repair**|Cells utilize error-prone Non-Homologous End Joining (NHEJ) repair, introducing insertions/deletions (indels) that destroy the enhancer sequence.|
-|**Therapeutic Result**|BCL11A expression is drastically reduced in the red blood cell lineage, reactivating gamma-globin genes. Pancellular HbF production resumes, preventing HbS polymerization.|
+| Mechanism Stage            | Physiological Action                                                                                                                                                        |
+| :------------------------- | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Normal Pathophysiology** | Transcription factor **BCL11A** binds to gamma-globin promoter regions shortly after birth, silencing HbF production.                                                       |
+| **CRISPR Action**          | Cas9 endonuclease guided by single-guide RNA (sgRNA) creates a precise double-strand DNA break at the BCL11A erythroid-specific enhancer.                                   |
+| **Cellular Repair**        | Cells utilize error-prone Non-Homologous End Joining (NHEJ) repair, introducing insertions/deletions (indels) that destroy the enhancer sequence.                           |
+| **Therapeutic Result**     | BCL11A expression is drastically reduced in the red blood cell lineage, reactivating gamma-globin genes. Pancellular HbF production resumes, preventing HbS polymerization. |
 
 ## Clinical Procedure: Exagamglogene Autotemcel (Casgevy)
 
 - Exagamglogene autotemcel (Casgevy) represents the first approved CRISPR/Cas9 therapy.
 
-|Procedural Phase|Clinical Execution|
-|:--|:--|
-|**Mobilization**|Patient undergoes stem cell mobilization using Plerixafor; G-CSF is contraindicated due to Vaso-Occlusive Crisis (VOC) risk. CD34+ cells are collected via apheresis.|
-|**Manufacturing**|Cells undergo ex vivo electroporation with Cas9 protein and sgRNA, followed by quality checks and cryopreservation.|
-|**Conditioning**|Patient requires admission for myeloablative chemotherapy utilizing high-dose Busulfan.|
-|**Infusion**|Edited CD34+ cells are infused via central venous catheter. Requires 4 to 6 weeks of strict isolation and transfusion support until engraftment.|
+| Procedural Phase  | Clinical Execution                                                                                                                                                        |
+| :---------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| **Mobilization**  | Patient undergoes stem cell mobilization using **Plerixafor**; G-CSF is contraindicated due to Vaso-Occlusive Crisis (VOC) risk. CD34+ cells are collected via apheresis. |
+| **Manufacturing** | Cells undergo ex vivo electroporation with Cas9 protein and sgRNA, followed by quality checks and cryopreservation.                                                       |
+| **Conditioning**  | Patient requires admission for myeloablative chemotherapy utilizing high-dose Busulfan.                                                                                   |
+| **Infusion**      | Edited CD34+ cells are infused via central venous catheter. Requires 4 to 6 weeks of strict isolation and transfusion support until engraftment.                          |
 
 ## Clinical Efficacy and Safety Profile
 
@@ -51,7 +51,7 @@
 ### National Initiatives
 
 - National Sickle Cell Anaemia Elimination Mission (NSCAEM) targets disease elimination by 2047.
-- Development of "BIRSA 101" (May 2026) marks India's first indigenous, affordable CRISPR-based gene therapy, pioneered by CSIR-IGIB and transferred for scaled manufacturing.
+- Development of "**BIRSA 101**" (May 2026) marks India's first indigenous, affordable CRISPR-based gene therapy, pioneered by CSIR-IGIB and transferred for scaled manufacturing.
 
 ### Future Horizons
 
