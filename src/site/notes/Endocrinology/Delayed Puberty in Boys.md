@@ -60,7 +60,7 @@ Characterized by low LH, low FSH, and low testosterone.
 #### Acquired HH
 
 - **Tumors:** Craniopharyngioma, glioma, germinoma, pituitary adenoma (prolactinoma).
-- **Infiltrative:** [[Hematology/Langerhans Cell Histiocytosis\|Langerhans cell histiocytosis]], [[Gastrointestinal/Hemochromatosis\|hemochromatosis]], sarcoidosis.
+- **Infiltrative:** [[Hematology/Langerhans Cell Histiocytosis\|Langerhans cell histiocytosis]], [[Gastrointestinal/Neonate Hemochromatosis\|hemochromatosis]], sarcoidosis.
 - **Iatrogenic:** Cranial radiation, neurosurgery, chronic glucocorticoids, opiates.
 
 ### Hypergonadotropic Hypogonadism (Primary Testicular Failure)

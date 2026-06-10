@@ -163,13 +163,13 @@
 
 ### Risk Level Classification And Follow-Up Protocol
 
-|Maximal Risk Level|Associated Coronary Status|Required Surveillance Protocol|Chronic Medical Therapy|
-|:--|:--|:--|:--|
-|Level 1|Normal architecture.|Assessment at 4 to 6 weeks.|Low-dose aspirin for 6 weeks.|
-|Level 2|Dilation strictly resolving.|Assessment at 1 to 2 weeks, then 1 year.|Low-dose aspirin for 6 weeks.|
-|Level 3.1|Persistent small aneurysm.|Echocardiogram at 6 weeks, 6 months, 12 months, then yearly.|Continuous low-dose aspirin.|
-|Level 4.1|Persistent medium aneurysm.|Echocardiogram at 6 weeks, 3 months, 6 months, 12 months, then yearly.|Low-dose aspirin plus clopidogrel.|
-|Level 5.1|Persistent large/giant aneurysm.|Echocardiogram every 6 to 12 months long-term.|Low-dose aspirin, dual antiplatelets, plus systemic anticoagulation.|
+| Maximal Risk Level | Associated Coronary Status       | Required Surveillance Protocol                                         | Chronic Medical Therapy                                              |
+| :----------------- | :------------------------------- | :--------------------------------------------------------------------- | :------------------------------------------------------------------- |
+| Level 1            | Normal architecture.             | Assessment at 4 to 6 weeks.                                            | Low-dose aspirin for 6 weeks.                                        |
+| Level 2            | Dilation strictly resolving.     | Assessment at 1 to 2 weeks, then 1 year.                               | Low-dose aspirin for 6 weeks.                                        |
+| Level 3.1          | Persistent small aneurysm.       | Echocardiogram at 6 weeks, 6 months, 12 months, then yearly.           | Continuous low-dose aspirin.                                         |
+| Level 4.1          | Persistent medium aneurysm.      | Echocardiogram at 6 weeks, 3 months, 6 months, 12 months, then yearly. | Low-dose aspirin plus clopidogrel.                                   |
+| Level 5.1          | Persistent large/giant aneurysm. | Echocardiogram every 6 to 12 months long-term.                         | Low-dose aspirin, dual antiplatelets, plus systemic anticoagulation. |
 
 ## Advanced Surveillance Imaging
 

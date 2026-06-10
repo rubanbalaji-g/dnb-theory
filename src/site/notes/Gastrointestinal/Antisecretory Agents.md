@@ -13,9 +13,9 @@
 - Bacterial enterotoxins elevate intracellular cyclic adenosine monophosphate (cAMP), cyclic guanosine monophosphate (cGMP), or calcium.
 - Elevated secondary messengers open cellular chloride channels, precipitating massive water secretion.
 - Results in large stool volumes persisting during fasting state.
-- [[Gastrointestinal/Antisecretory Agents\|Antisecretory agents]] directly counteract ion secretion pathways, mitigating fluid loss.
+- Antisecretory agents directly counteract ion secretion pathways, mitigating fluid loss.
 
-## Specific [[Gastrointestinal/Antisecretory Agents\|Antisecretory Agents]]
+## Specific Antisecretory Agents
 
 ### Racecadotril
 

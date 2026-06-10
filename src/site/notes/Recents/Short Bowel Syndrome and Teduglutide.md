@@ -13,11 +13,11 @@
 
 - Endogenous Glucagon-Like Peptide-2 (GLP-2) is secreted by distal ileum L-cells to drive intestinal adaptation, but SBS patients suffer from chronic GLP-2 deficiency following resection.
 
-|Pharmacological Parameter|Mechanism And Clinical Action|
-|:--|:--|
-|**Drug Engineering**|Teduglutide is a recombinant GLP-2 analog featuring a glycine substitution at position 2, rendering it highly resistant to Dipeptidyl Peptidase-4 (DPP-4) degradation and extending its half-life.|
-|**Physiological Effects**|Stimulates crypt stem cell proliferation, dramatically increases villus height and mucosal surface area, enhances splanchnic blood flow, upregulates tight junction proteins to improve barrier function, and slows gastric emptying.|
-|**Clinical Dosing**|Approved for pediatric SBS-IF patients aged 1 year and older, administered at 0.05 mg/kg/day via subcutaneous injection.|
+| Pharmacological Parameter | Mechanism And Clinical Action                                                                                                                                                                                                         |
+| :------------------------ | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| **Drug Engineering**      | **Teduglutide** is a recombinant GLP-2 analog featuring a glycine substitution at position 2, rendering it highly resistant to Dipeptidyl Peptidase-4 (DPP-4) degradation and extending its half-life.                                |
+| **Physiological Effects** | Stimulates crypt stem cell proliferation, dramatically increases villus height and mucosal surface area, enhances splanchnic blood flow, upregulates tight junction proteins to improve barrier function, and slows gastric emptying. |
+| **Clinical Dosing**       | Approved for pediatric SBS-IF patients aged 1 year and older, administered at 0.05 mg/kg/day via subcutaneous injection.                                                                                                              |
 
 ## Clinical Efficacy And Response Predictors (2025-2026 Evidence)
 
@@ -39,6 +39,6 @@
 
 ## Indian Context And Future Pipeline
 
-- Exorbitant drug costs completely restrict access for the vast majority of Indian patients, maintaining heavy reliance on surgical interventions like the Serial Transverse Enteroplasty (STEP) procedure.
+- Exorbitant drug costs completely restrict access for the vast majority of Indian patients, maintaining heavy reliance on surgical interventions like the **Serial Transverse Enteroplasty (STEP) procedure.**
 - Emerging 2026 pipeline therapies include next-generation, long-acting GLP-2 analogues (Apraglutide, Glepaglutide) designed for convenient once-weekly subcutaneous injections.
 - Impending patent expirations are anticipated to introduce affordable generic biosimilars, vastly improving access in Low- and Middle-Income Countries.

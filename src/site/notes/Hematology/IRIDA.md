@@ -61,7 +61,7 @@ Before considering [[Hematology/IRIDA\|IRIDA]], common causes of oral iron resis
 
 - Parenteral iron administration increases serum ferritin levels in a dose-dependent manner.
 - Raises clinical concern for iron overload.
-- Iron loading pattern typically reticuloendothelial rather than parenchymal (differentiating it from primary [[Gastrointestinal/Hemochromatosis\|hemochromatosis]]).
+- Iron loading pattern typically reticuloendothelial rather than parenchymal (differentiating it from primary [[Gastrointestinal/Neonate Hemochromatosis\|hemochromatosis]]).
 
 ### Ineffective Therapies
 

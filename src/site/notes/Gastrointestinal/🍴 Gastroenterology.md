@@ -51,7 +51,7 @@
 7. [[Gastrointestinal/Liver Abscess\|Liver Abscess]]
 8. [[Gastrointestinal/Autoimmune hepatitis\|Autoimmune hepatitis]]
 9. [[Gastrointestinal/Wilson Disease\|Wilson Disease]]
-10. [[Gastrointestinal/Hemochromatosis\|Hemochromatosis]]
+10. [[Gastrointestinal/Neonate Hemochromatosis\|Hemochromatosis]]
 ## Advanced Liver Diseases
 1. [[Gastrointestinal/Acute Liver Failure\|Acute Liver Failure]]
 2. [[Gastrointestinal/Chronic Liver Disease\|Chronic Liver Disease]]

@@ -109,7 +109,7 @@ Lifelong medical compliance mandated to prevent severe organ damage or death.
 ### Surgical Intervention
 
 - **[[Gastrointestinal/Liver Transplantation\|Liver Transplantation]]:** Indicated for fulminant [[Gastrointestinal/Acute Liver Failure\|acute liver failure]] with encephalopathy, or decompensated cirrhosis unresponsive to medical chelation.
-- **Transplant Scoring:** King's College Criteria (score ≥ 11 indicates urgent listing) or Wilson's disease [[Statistics/Index\|index]] (Bilirubin, INR, AST, WBC, Albumin; score ≥ 11 mandates transplant).
+- **Transplant Scoring:** King's College Criteria (score ≥ 11 indicates urgent listing) or Wilson's disease index (Bilirubin, INR, AST, WBC, Albumin; score ≥ 11 mandates transplant).
 - Transplantation curative for hepatic defect; resolves altered copper metabolism.
 
 ### Surveillance And Screening

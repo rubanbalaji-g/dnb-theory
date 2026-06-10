@@ -19,12 +19,12 @@
 
 - Integration of molecular diagnostics directly dictates the application of novel targeted agents.
 
-|Targeted Agent|Target And Mechanism|Pediatric Clinical Indication|
-|:--|:--|:--|
-|**Tovorafenib**|Systemic pan-RAF inhibitor|Pediatric low-grade gliomas harboring BRAF alterations (fusions or V600 mutations).|
-|**Revumenib**|Menin inhibitor blocking menin-KMT2A interaction|Relapsed or refractory KMT2A-rearranged leukemias.|
-|**Dordaviprone (ONC201)**|DRD2 antagonist and ClpP agonist|H3K27M-mutated diffuse midline gliomas, including DIPG.|
-|**Larotrectinib / Entrectinib**|TRK inhibitor|Any pediatric solid tumor harboring an NTRK gene fusion.|
+| Targeted Agent                  | Target And Mechanism                             | Pediatric Clinical Indication                                                       |
+| :------------------------------ | :----------------------------------------------- | :---------------------------------------------------------------------------------- |
+| **Tovorafenib**                 | Systemic pan-RAF inhibitor                       | Pediatric low-grade gliomas harboring BRAF alterations (fusions or V600 mutations). |
+| **Revumenib**                   | Menin inhibitor blocking menin-KMT2A interaction | Relapsed or refractory KMT2A-rearranged leukemias.                                  |
+| **Dordaviprone (ONC201)**       | DRD2 antagonist and ClpP agonist                 | H3K27M-mutated diffuse midline gliomas, including DIPG.                             |
+| **Larotrectinib / Entrectinib** | TRK inhibitor                                    | Any pediatric solid tumor harboring an NTRK gene fusion.                            |
 
 ## Precision Immunotherapy And Nanomedicine
 

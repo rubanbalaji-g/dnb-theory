@@ -2,7 +2,7 @@
 {"dg-publish":true,"uptext":"Back to Index (🚑 Emergencies and Critical Care)","uplink":"/emergencies/emergencies-and-critical-care/","permalink":"/emergencies/biomarkers-of-sepsis/","dgPassFrontmatter":true}
 ---
 
-## Early [[Emergencies/Biomarkers of Sepsis\|Biomarkers of Sepsis]]
+## Early Biomarkers of Sepsis
 
 - Biomarkers in sepsis are critical laboratory parameters used for the early identification of systemic infection, assessment of disease severity, and continuous monitoring of the patient's response to therapeutic interventions.
 - A combination of biochemical markers and tissue oxygenation parameters must be routinely utilized, as isolated clinical parameters can be easily confounded by external factors such as pain, fever, and medications.

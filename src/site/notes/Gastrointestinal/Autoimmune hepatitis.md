@@ -55,7 +55,7 @@
 
 - Elevated serum aminotransferases (100 to >1000 IU/L).
 - Elevated total bilirubin (2-10 mg/dL) in severe cases.
-- Normal to slightly increased alkaline phosphatase and gamma-glutamyl transpeptidase. Alkaline phosphatase to aspartate aminotransferase ratio $\ge$3 strongly suggests autoimmune sclerosing cholangitis overlap.
+- Normal to slightly increased alkaline phosphatase and gamma-glutamyl transpeptidase. Alkaline phosphatase to aspartate aminotransferase ratio $\ge$ 3 strongly suggests autoimmune sclerosing cholangitis overlap.
 - Marked polyclonal hypergammaglobulinemia (IgG >16 g/L).
 - Hypoalbuminemia and prolonged prothrombin time reflect impaired hepatocellular synthetic function in severe disease.
 - Normochromic normocytic anemia, leukopenia, and thrombocytopenia present in advanced [[Gastrointestinal/Portal Hypertension\|portal hypertension]].
@@ -64,7 +64,7 @@
 ### histopathology
 
 - Essential for definitive diagnosis and fibrosis staging.
-- Interface hepatitis: Dense mononuclear and plasma cell infiltrate in portal tracts disrupting parenchymal limiting plate.
+- **Interface hepatitis:** Dense mononuclear and plasma cell infiltrate in portal tracts disrupting parenchymal limiting plate.
 - Hepatocyte swelling, pyknotic necroses, and acinar inflammation.
 - Connective tissue bridging collapse expanding from portal area into lobules.
 - Hyaline droplets in Kupffer cells positive for IgG by immunohistochemistry.

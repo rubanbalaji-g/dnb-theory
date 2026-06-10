@@ -22,7 +22,7 @@
 
 | Age Category             | Common Etiologies                                                                                                                                                                                                                 |
 | :----------------------- | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Neonates/Infants**     | [[Metabolic Disorders/Galactosemia\|Galactosemia]], [[Metabolic Disorders/Tyrosinemia\|tyrosinemia]] type 1, gestational alloimmune liver disease (neonatal [[Gastrointestinal/Hemochromatosis\|hemochromatosis]]), mitochondrial hepatopathies, hemophagocytic lymphohistiocytosis, viral (herpes simplex virus, cytomegalovirus, echovirus). |
+| **Neonates/Infants**     | [[Metabolic Disorders/Galactosemia\|Galactosemia]], [[Metabolic Disorders/Tyrosinemia\|tyrosinemia]] type 1, gestational alloimmune liver disease (neonatal [[Gastrointestinal/Neonate Hemochromatosis\|hemochromatosis]]), mitochondrial hepatopathies, hemophagocytic lymphohistiocytosis, viral (herpes simplex virus, cytomegalovirus, echovirus). |
 | **Children/Adolescents** | Acetaminophen toxicity, viral hepatitis (A, B, E), [[Gastrointestinal/Autoimmune hepatitis\|autoimmune hepatitis]], [[Gastrointestinal/Wilson Disease\|Wilson disease]], indeterminate/idiopathic (40-50% of cases).                                                                                              |
 
 ## Clinical Manifestations

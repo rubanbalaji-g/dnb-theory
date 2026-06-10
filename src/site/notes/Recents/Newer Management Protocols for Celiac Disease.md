@@ -22,7 +22,7 @@
 ## Dietary Management Updates
 
 - A strict, lifelong GFD remains the foundational cornerstone of therapy.
-- The 2024 GFD Position Paper explicitly defines safe GFD thresholds as strictly below 20 ppm of gluten.
+- The 2024 GFD Position Paper explicitly defines safe GFD thresholds as strictly below **20 ppm of gluten.**
 - Protocols emphasize pediatric-specific education regarding cross-contamination and food labeling compliance.
 - Indian Council of Medical Research (ICMR) guidelines prioritize integrating dietitian counseling and community patient support groups to improve adherence in resource-limited settings.
 
@@ -44,6 +44,6 @@
 
 ## Investigational And Adjunctive Therapies (2025–2026 Advances)
 
-- **Tissue Transglutaminase (TG2) Inhibitors:** Phase 2/3 trial data (2026) for ZED1227 demonstrates significant mucosal protection and systemic multiomic reversal during acute gluten challenges.
-- **Microbiome And Immune-Modulators:** Agents like amlitelimab and ritlecitinib are currently in Phase 2 clinical trials targeting non-responsive celiac disease.
+- **Tissue Transglutaminase (TG2) Inhibitors:** Phase 2/3 trial data (2026) for <span style="color:rgb(255, 138, 117)">ZED1227</span> demonstrates significant mucosal protection and systemic multiomic reversal during acute gluten challenges.
+- **Microbiome And Immune-Modulators:** Agents like <span style="color:rgb(255, 138, 117)">amlitelimab</span> and <span style="color:rgb(255, 138, 117)">ritlecitinib</span> are currently in Phase 2 clinical trials targeting non-responsive celiac disease.
 - **Digital Health Interventions:** NASPGHAN highlights the integration of Artificial Intelligence diagnostics and behavioral telehealth frameworks (e.g., the GROW Program) to enhance adherence and quality of life.

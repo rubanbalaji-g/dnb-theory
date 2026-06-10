@@ -7,7 +7,7 @@
 - Inflammatory disorder of pancreatic parenchyma.
 - Diagnosis requires minimum two of three criteria:
     - Compatible abdominal pain.
-    - Serum amylase and/or lipase $\ge$3 times upper limit of normal.
+    - Serum amylase and/or lipase $\ge$ 3 times upper limit of normal.
     - Suggestive cross-sectional imaging findings.
 
 ### Severity Classification
@@ -21,7 +21,7 @@
 ## Pathophysiology
 
 - Initial insult triggers pathological intracellular trypsinogen activation.
-- Cathepsin B activates trypsinogen to trypsin within acinar cells.
+- **Cathepsin B** activates trypsinogen to trypsin within acinar cells.
 - Trypsin activates additional proenzymes, precipitating autodigestion.
 - Abnormal sustained calcium release impairs mitochondrial permeability, depletes ATP, and induces acinar necrosis.
 - Proinflammatory cytokines released, triggering systemic inflammatory response syndrome (SIRS).

@@ -148,7 +148,7 @@ Intrinsic myocardial disease without associated structural heart deformity. Hete
 
 ### Etiology & Genetics
 
-- Most pediatric cases are idiopathic. Secondary infiltrative causes (amyloidosis, sarcoidosis, [[Gastrointestinal/Hemochromatosis\|hemochromatosis]]) are exceptionally rare in children.
+- Most pediatric cases are idiopathic. Secondary infiltrative causes (amyloidosis, sarcoidosis, [[Gastrointestinal/Neonate Hemochromatosis\|hemochromatosis]]) are exceptionally rare in children.
 - 25-30% exhibit positive family history.
 - **Sarcomeric Mutations:** TNNI3, TNNT2, MYH7, ACTC1, TTN, FLNC.
 - **Non-sarcomeric Mutations:** BAG3, DES (Desmin - associated with AV block), LMNA.

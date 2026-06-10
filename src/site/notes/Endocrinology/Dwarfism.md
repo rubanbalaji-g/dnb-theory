@@ -67,7 +67,7 @@
 |:--|:--|
 |**Neoplastic**|Craniopharyngioma (most common), germinoma, hypothalamic/optic glioma.|
 |**Infectious**|[[Neurology/Meningitis\|Meningitis]], encephalitis, tuberculosis, toxoplasmosis, pituitary abscess.|
-|**Infiltrative**|[[Hematology/Langerhans Cell Histiocytosis\|Langerhans cell histiocytosis]], sarcoidosis, [[Gastrointestinal/Hemochromatosis\|hemochromatosis]].|
+|**Infiltrative**|[[Hematology/Langerhans Cell Histiocytosis\|Langerhans cell histiocytosis]], sarcoidosis, [[Gastrointestinal/Neonate Hemochromatosis\|hemochromatosis]].|
 |**Iatrogenic**|Cranial/spinal irradiation, neurosurgery, chemotherapy.|
 |**Traumatic**|Severe head injury, perinatal insult (breech delivery).|
 |**Vascular**|Aneurysm, pituitary infarction.|

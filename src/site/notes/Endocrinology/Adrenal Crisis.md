@@ -64,7 +64,7 @@
 
 - **X-Linked Adrenoleukodystrophy (ALD):** Caused by mutations in the _ABCD1_ gene, leading to the accumulation of very-long-chain fatty acids (VLCFAs) that are toxic to the adrenal cortex and central nervous system myelin. It is a frequent cause of adrenal failure in preadolescent boys, and [[Endocrinology/Adrenal Crisis\|adrenal crisis]] may precede neurological symptoms by years.
 - **Other Metabolic Defects:** Smith-Lemli-Opitz syndrome (defect in cholesterol synthesis), Wolman disease (lysosomal acid lipase deficiency causing bilateral adrenal calcifications), and mitochondrial disorders (e.g., Kearns-Sayre syndrome) can present with primary adrenal failure.
-- **Infiltrative Diseases:** Primary adrenal lymphoma, metastatic cancers, amyloidosis, [[Gastrointestinal/Hemochromatosis\|hemochromatosis]], and sarcoidosis can progressively destroy the adrenal cortex, leading to a crisis under stress.
+- **Infiltrative Diseases:** Primary adrenal lymphoma, metastatic cancers, amyloidosis, [[Gastrointestinal/Neonate Hemochromatosis\|hemochromatosis]], and sarcoidosis can progressively destroy the adrenal cortex, leading to a crisis under stress.
 
 ### Secondary and Tertiary Adrenal Insufficiency
 

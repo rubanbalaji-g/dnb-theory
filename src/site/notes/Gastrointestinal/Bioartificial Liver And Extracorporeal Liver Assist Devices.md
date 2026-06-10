@@ -37,9 +37,6 @@
 |Core Components|Albumin-containing dialysate|Human liver cells, liver cell lines, porcine hepatocytes|
 |Liver Functions Provided|Detoxifying function only|Synthetic, detoxifying, and biotransformatory functions|
 |Theoretical Advantage|Basic toxin filtration|Mimics complex hepatocyte and Kupffer cell properties|
-
-_Data compiled from._
-
 ## Clinical Outcomes And Efficacy
 
 ### Biochemical And Neurological Impact

@@ -125,11 +125,11 @@ Immune-mediated cytopenias are frequent manifestations.
 
 - Diagnosis remains clinical, supported by classification criteria developed originally for research homogeneity.
 
-|Criteria Set|Diagnostic Threshold|Key Distinguishing Features|
-|:--|:--|:--|
-|1997 ACR|4 out of 11 criteria|High specificity. Focuses on clinical features like malar rash, photosensitivity, oral ulcers, arthritis, serositis, renal, neurologic, hematologic parameters.|
-|2012 SLICC|4 criteria (≥1 clinical AND ≥1 immunologic) OR biopsy-proven nephritis with positive ANA/anti-dsDNA|High sensitivity. Expands clinical definitions to include non-scarring alopecia and hypocomplementemia.|
-|2019 EULAR/ACR|Entry criterion: ANA ≥ 1:80. Additive score ≥ 10|Weighted scoring system. Assigns specific point values per clinical domain. Class III/IV nephritis carries highest point value.|
+| Criteria Set   | Diagnostic Threshold                                                                                | Key Distinguishing Features                                                                                                                                     |
+| :------------- | :-------------------------------------------------------------------------------------------------- | :-------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1997 ACR       | 4 out of 11 criteria                                                                                | High specificity. Focuses on clinical features like malar rash, photosensitivity, oral ulcers, arthritis, serositis, renal, neurologic, hematologic parameters. |
+| 2012 SLICC     | 4 criteria (≥1 clinical AND ≥1 immunologic) OR biopsy-proven nephritis with positive ANA/anti-dsDNA | High sensitivity. Expands clinical definitions to include non-scarring alopecia and hypocomplementemia.                                                         |
+| 2019 EULAR/ACR | Entry criterion: **ANA ≥ 1:80**. Additive score ≥ 10                                                | Weighted scoring system. Assigns specific point values per clinical domain. Class III/IV nephritis carries highest point value.                                 |
 
 ## Management
 
@@ -156,6 +156,7 @@ Immune-mediated cytopenias are frequent manifestations.
 	- Mainstay foundational therapy for all patients. 
 	- Prevents disease flares, treats cutaneous/MSK symptoms, improves lipid profile, reduces thrombotic risk. 
 	- Dose limited to <5 mg/kg/day to minimize retinal toxicity. 
+	- Adverse Events: Retinal Toxicity and Hyperpigmentation
 	- Requires annual ophthalmologic examination with spectral-domain OCT.
 - Nonsteroidal Anti-Inflammatory Drugs (NSAIDs): 
 	- Naproxen or Ibuprofen provide symptomatic relief for mild arthritis, fever, and mild serositis. 
@@ -261,5 +262,5 @@ Immune-mediated cytopenias are frequent manifestations.
 - Advancements in protocolized pharmacotherapy have greatly improved survival metrics. Five-year and 10-year survival rates approach 99% and 97% respectively.
 - Early Mortality Drivers: Intercurrent severe infections, [[Rheumatology/Macrophage Activation Syndrome\|macrophage activation syndrome]], severe lupus cerebritis, and uncontrolled rapidly progressive [[Rheumatology/Lupus Nephritis\|lupus nephritis]].
 - Late Morbidity Drivers: Accelerated atherosclerosis causing early myocardial infarction. Chronic corticosteroid use risking osteoporosis, avascular necrosis, severe growth failure, cataracts, and diabetes. Progressive renal damage culminating in end-stage renal disease (ESRD) necessitating dialysis or transplantation.
-- Monitoring Strategy: Routine clinical assessment utilizing Systemic Lupus Erythematosus Disease Activity [[Statistics/Index\|Index]] (SLEDAI) score. Score ranges from 0 to 105; clinical target requires maintaining score <4.
+- Monitoring Strategy: Routine clinical assessment utilizing Systemic Lupus Erythematosus Disease Activity Index (SLEDAI) score. Score ranges from 0 to 105; clinical target requires maintaining score <4.
 - Continuous multidisciplinary pediatric care and structured subsequent transition to adult rheumatology are absolutely imperative for lifelong disease control.

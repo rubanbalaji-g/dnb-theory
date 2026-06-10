@@ -13,14 +13,14 @@
     - Although pain typically serves an adaptive and protective role, it may have adverse effects on an individual's function and social and psychologic well-being.
     - Verbal description is merely one of several behaviors used to express pain; the inability to communicate does not negate the possibility that a human experiences pain.
 
-## The Neurophysiologic [[Emergencies/Pain Pathway\|Pain Pathway]] (Nociception)
+## The Neurophysiologic Pain Pathway (Nociception)
 
 - Nociception refers to the specific peripheral and central nervous system mechanisms responsible for transmitting nerve impulses associated with tissue damage or noxious stimuli.
 - The neurophysiologic pathway encompasses peripheral sensing, spinal cord transmission, and complex central neural connectivity.
 
 ### Peripheral Receptors and Nerve Fibers
 
-- The [[Emergencies/Pain Pathway\|pain pathway]] begins in the periphery, where specialized nerve fibers transmit signals originating from peripheral mechanoreceptors and chemoreceptors.
+- The pain pathway begins in the periphery, where specialized nerve fibers transmit signals originating from peripheral mechanoreceptors and chemoreceptors.
 - The primary fibers responsible for transmitting these nociceptive impulses are largely, but not exclusively, the small, unmyelinated C fibers and the thinly myelinated A-delta fibers.
 - Visceral pain receptors are located in the mesentery, on the serosal surfaces, and within the muscles and mucosa of viscera.
 - These visceral receptors typically respond to mechanical stimuli (such as distention or twisting of muscles, serosa, or mesentery) or chemical stimuli (such as acid, inflammation, or ischemia in the mucosa).

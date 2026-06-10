@@ -33,11 +33,11 @@
 - Immunoglobulin A1 molecule possesses hinge region with glycan chains containing beta-1,3-linked galactose.
 - Pathologic state features reduced galactosylation of these O-glycan chains.
 - Results in production of abnormally glycosylated, polymeric galactose-deficient Immunoglobulin A1.
-- Galactose-deficient molecules recognized by anti-glycan Immunoglobulin A1 or Immunoglobulin G antibodies.
+- **Galactose-deficient molecules recognized by anti-glycan Immunoglobulin A1 or Immunoglobulin G antibodies.**
 - Forms circulating immune complexes.
 - Deposition occurs in walls of small arteries across skin, gastrointestinal tract, joints, and kidneys.
 - Alternative or lectin complement pathway activation initiates inflammatory cascade.
-- Infiltration of neutrophils and deposition of nuclear fragments leads to leukocytoclastic vasculitis.
+- Infiltration of neutrophils and deposition of nuclear fragments leads to **leukocytoclastic vasculitis.**
 - Gravity-dependent deposition explains distinct rash distribution in ambulatory patients.
 
 ## Clinical Manifestations
@@ -115,12 +115,12 @@
 
 - Multidisciplinary approach required. Focuses on hydration, nutrition, and tailored pharmacotherapy.
 
-|Disease Severity|Clinical Presentation|Management Strategy|
-|:--|:--|:--|
-|Mild|Isolated rash, mild arthralgia, normal renal parameters.|Supportive care. Rest, adequate hydration. Acetaminophen or nonsteroidal anti-inflammatory drugs for pain relief.|
-|Moderate|Disabling abdominal pain, significant arthritis, early renal involvement.|Oral prednisolone (one to two milligrams per kilogram per day) for one to two weeks, followed by taper. Reduces tissue edema, arthritis, and abdominal pain. Decreases intussusception rate.|
-|Severe|Nephrotic range proteinuria, progressive renal deterioration, pulmonary hemorrhage, gastrointestinal bleed.|High-dose intravenous methylprednisolone. Adjunct immunosuppressants including azathioprine, cyclophosphamide, cyclosporine, or mycophenolate mofetil.|
-|Refractory|End-stage renal disease, rapidly progressive glomerulonephritis.|Intravenous immunoglobulin, plasmapheresis, or renal transplantation.|
+| Disease Severity | Clinical Presentation                                                                                       | Management Strategy                                                                                                                                                                          |
+| :--------------- | :---------------------------------------------------------------------------------------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Mild             | Isolated rash, mild arthralgia, normal renal parameters.                                                    | Supportive care. Rest, adequate hydration. Acetaminophen or nonsteroidal anti-inflammatory drugs for pain relief.                                                                            |
+| Moderate         | Disabling abdominal pain, significant arthritis, early renal involvement.                                   | Oral prednisolone (one to two milligrams per kilogram per day) for one to two weeks, followed by taper. Reduces tissue edema, arthritis, and abdominal pain. Decreases intussusception rate. |
+| Severe           | Nephrotic range proteinuria, progressive renal deterioration, pulmonary hemorrhage, gastrointestinal bleed. | High-dose intravenous methylprednisolone. Adjunct immunosuppressants including azathioprine, cyclophosphamide, cyclosporine, or mycophenolate mofetil.                                       |
+| Refractory       | End-stage renal disease, rapidly progressive glomerulonephritis.                                            | Intravenous immunoglobulin, plasmapheresis, or renal transplantation.                                                                                                                        |
 
 ### Pharmacologic Nuances
 

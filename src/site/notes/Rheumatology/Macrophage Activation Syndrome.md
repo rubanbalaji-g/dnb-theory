@@ -42,7 +42,7 @@
 - Precipitous fall in multiple blood cell lines including leukopenia, anemia, and thrombocytopenia.
 - Platelet count drop typically occurs earliest.
 - Paradoxical drop in erythrocyte sedimentation rate alongside persistently high C-reactive protein.
-- Sedimentation rate drop driven by profound hypofibrinogenemia.
+- **Sedimentation rate drop driven by profound hypofibrinogenemia**.
 - Extreme hyperferritinemia, often exceeding 10,000 nanograms per milliliter.
 - Glycosylated ferritin fraction classically falls below 20 percent.
 - Coagulopathy features prolonged prothrombin time, elevated D-dimers, and consumption of clotting factors.
