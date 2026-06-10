@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"uptext":"Back to Index (🔬Recent Advances)","uplink":"/Recents/","dg-path":"Recents/PALICC2-updates","permalink":"/recents/palicc-2-updates/","dgPassFrontmatter":true}
+{"dg-publish":true,"uptext":"Back to Index (🔬Recent Advances)","uplink":"/Recents/recents/","dg-path":"Recents/PALICC2-updates","permalink":"/recents/palicc-2-updates/","dgPassFrontmatter":true}
 ---
 
 ## Diagnostic Criteria Refinements

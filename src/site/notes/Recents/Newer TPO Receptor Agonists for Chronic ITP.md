@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"uptext":"Back to Index (🔬Recent Advances)","uplink":"/Recents/","dg-path":"Recents/newer-TPO-in-ITP","permalink":"/recents/newer-tpo-in-itp/","dgPassFrontmatter":true}
+{"dg-publish":true,"uptext":"Back to Index (🔬Recent Advances)","uplink":"/Recents/recents/","dg-path":"Recents/newer-TPO-in-ITP","permalink":"/recents/newer-tpo-in-itp/","dgPassFrontmatter":true}
 ---
 
 ## Introduction And Disease Burden

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"uptext":"Back to Index (🔬Recent Advances)","uplink":"/Recents/","dg-path":"Recents/new-protocol-celias","permalink":"/recents/new-protocol-celias/","dgPassFrontmatter":true}
+{"dg-publish":true,"uptext":"Back to Index (🔬Recent Advances)","uplink":"/Recents/recents/","dg-path":"Recents/new-protocol-celias","permalink":"/recents/new-protocol-celias/","dgPassFrontmatter":true}
 ---
 
 ## Introduction And Rationale

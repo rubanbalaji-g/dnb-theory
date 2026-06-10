@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"uptext":"Back to Index (🔬Recent Advances)","uplink":"/Recents/","dg-path":"Recents/malaria-vaccine-implement","permalink":"/recents/malaria-vaccine-implement/","dgPassFrontmatter":true}
+{"dg-publish":true,"uptext":"Back to Index (🔬Recent Advances)","uplink":"/Recents/recents/","dg-path":"Recents/malaria-vaccine-implement","permalink":"/recents/malaria-vaccine-implement/","dgPassFrontmatter":true}
 ---
 
 ## Introduction and Significance

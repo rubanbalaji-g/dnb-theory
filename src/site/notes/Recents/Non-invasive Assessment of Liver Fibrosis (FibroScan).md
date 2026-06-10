@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"uptext":"Back to Index (🔬Recent Advances)","uplink":"/Recents/","dg-path":"Recents/fibroscan","permalink":"/recents/fibroscan/","dgPassFrontmatter":true}
+{"dg-publish":true,"uptext":"Back to Index (🔬Recent Advances)","uplink":"/Recents/recents/","dg-path":"Recents/fibroscan","permalink":"/recents/fibroscan/","dgPassFrontmatter":true}
 ---
 
 ## Introduction And Mechanism

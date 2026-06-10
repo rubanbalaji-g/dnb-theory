@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"uptext":"Back to Index (🔬Recent Advances)","uplink":"/Recents/","dg-path":"Recents/precison-medicine-onco","permalink":"/recents/precison-medicine-onco/","dgPassFrontmatter":true}
+{"dg-publish":true,"uptext":"Back to Index (🔬Recent Advances)","uplink":"/Recents/recents/","dg-path":"Recents/precison-medicine-onco","permalink":"/recents/precison-medicine-onco/","dgPassFrontmatter":true}
 ---
 
 ## Introduction And Rationale

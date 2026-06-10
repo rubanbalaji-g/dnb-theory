@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"uptext":"Back to Index (🔬Recent Advances)","uplink":"/Recents/","dg-path":"Recents/screen-time-and-neurodevelopment","permalink":"/recents/screen-time-and-neurodevelopment/","dgPassFrontmatter":true}
+{"dg-publish":true,"uptext":"Back to Index (🔬Recent Advances)","uplink":"/Recents/recents/","dg-path":"Recents/screen-time-and-neurodevelopment","permalink":"/recents/screen-time-and-neurodevelopment/","dgPassFrontmatter":true}
 ---
 
 ## Neurobiological Mechanisms And Pathophysiology

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"uptext":"Back to Index (🔬Recent Advances)","uplink":"/Recents/","dg-path":"Recents/non-invasive-co2-monitor","permalink":"/recents/non-invasive-co2-monitor/","dgPassFrontmatter":true}
+{"dg-publish":true,"uptext":"Back to Index (🔬Recent Advances)","uplink":"/Recents/recents/","dg-path":"Recents/non-invasive-co2-monitor","permalink":"/recents/non-invasive-co2-monitor/","dgPassFrontmatter":true}
 ---
 
 ## Introduction And Clinical Rationale

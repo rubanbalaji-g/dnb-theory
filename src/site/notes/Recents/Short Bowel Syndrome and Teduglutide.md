@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"uptext":"Back to Index (🔬Recent Advances)","uplink":"/Recents/","dg-path":"Recents/SBS-and-teduglutide","permalink":"/recents/sbs-and-teduglutide/","dgPassFrontmatter":true}
+{"dg-publish":true,"uptext":"Back to Index (🔬Recent Advances)","uplink":"/Recents/recents/","dg-path":"Recents/SBS-and-teduglutide","permalink":"/recents/sbs-and-teduglutide/","dgPassFrontmatter":true}
 ---
 
 ## Introduction To Pediatric Short Bowel Syndrome

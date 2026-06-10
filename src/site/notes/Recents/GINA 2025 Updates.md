@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"uptext":"Back to Index (🔬Recent Advances)","uplink":"/Recents/","dg-path":"Recents/GINA-2025-updates","permalink":"/recents/gina-2025-updates/","dgPassFrontmatter":true}
+{"dg-publish":true,"uptext":"Back to Index (🔬Recent Advances)","uplink":"/Recents/recents/","dg-path":"Recents/GINA-2025-updates","permalink":"/recents/gina-2025-updates/","dgPassFrontmatter":true}
 ---
 
 ## Core Paradigm Shifts

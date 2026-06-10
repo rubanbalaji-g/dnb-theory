@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"uptext":"Back to Index (🔬Recent Advances)","uplink":"/Recents/","dg-path":"Recents/CART-therapy-ALL","permalink":"/recents/cart-therapy-all/","dgPassFrontmatter":true}
+{"dg-publish":true,"uptext":"Back to Index (🔬Recent Advances)","uplink":"/Recents/recents/","dg-path":"Recents/CART-therapy-ALL","permalink":"/recents/cart-therapy-all/","dgPassFrontmatter":true}
 ---
 
 ## Introduction and Mechanism of Action

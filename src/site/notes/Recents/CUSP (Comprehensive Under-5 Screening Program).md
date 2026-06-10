@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"uptext":"Back to Index (🔬Recent Advances)","uplink":"/Recents/","dg-path":"Recents/cusp","permalink":"/recents/cusp/","dgPassFrontmatter":true}
+{"dg-publish":true,"uptext":"Back to Index (🔬Recent Advances)","uplink":"/Recents/recents/","dg-path":"Recents/cusp","permalink":"/recents/cusp/","dgPassFrontmatter":true}
 ---
 
 ## Introduction And Core Philosophy

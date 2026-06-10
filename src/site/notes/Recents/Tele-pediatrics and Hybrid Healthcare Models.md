@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"uptext":"Back to Index (🔬Recent Advances)","uplink":"/Recents/","dg-path":"Recents/telepediatrics","permalink":"/recents/telepediatrics/","dgPassFrontmatter":true}
+{"dg-publish":true,"uptext":"Back to Index (🔬Recent Advances)","uplink":"/Recents/recents/","dg-path":"Recents/telepediatrics","permalink":"/recents/telepediatrics/","dgPassFrontmatter":true}
 ---
 
 ## Core Definitions and Legal Framework

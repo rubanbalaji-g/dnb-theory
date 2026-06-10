@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"uptext":"Back to Index (🔬Recent Advances)","uplink":"/Recents/","dg-path":"Recents/national-rare-disease-policy-2025","permalink":"/recents/national-rare-disease-policy-2025/","dgPassFrontmatter":true}
+{"dg-publish":true,"uptext":"Back to Index (🔬Recent Advances)","uplink":"/Recents/recents/","dg-path":"Recents/national-rare-disease-policy-2025","permalink":"/recents/national-rare-disease-policy-2025/","dgPassFrontmatter":true}
 ---
 
 ## Core Classifications and Definitions

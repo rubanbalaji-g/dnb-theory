@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"uptext":"Back to Index (🔬Recent Advances)","uplink":"/Recents/","dg-path":"Recents/hexavalent-in-UIP","permalink":"/recents/hexavalent-in-uip/","dgPassFrontmatter":true}
+{"dg-publish":true,"uptext":"Back to Index (🔬Recent Advances)","uplink":"/Recents/recents/","dg-path":"Recents/hexavalent-in-UIP","permalink":"/recents/hexavalent-in-uip/","dgPassFrontmatter":true}
 ---
 
 ## Introduction And Rationale

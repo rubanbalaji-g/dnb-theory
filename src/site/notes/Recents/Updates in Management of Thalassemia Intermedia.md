@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"uptext":"Back to Index (🔬Recent Advances)","uplink":"/Recents/","dg-path":"Recents/NTDT-updates","permalink":"/recents/ntdt-updates/","dgPassFrontmatter":true}
+{"dg-publish":true,"uptext":"Back to Index (🔬Recent Advances)","uplink":"/Recents/recents/","dg-path":"Recents/NTDT-updates","permalink":"/recents/ntdt-updates/","dgPassFrontmatter":true}
 ---
 
 ## Disease Classification And Core Principles
@@ -18,13 +18,20 @@
 - The drug functions by boosting fetal hemoglobin (HbF) levels while actively suppressing ineffective erythropoiesis and EMH.
 - Indian pediatric cohorts demonstrate a 60 to 70% response rate, manifesting as a hemoglobin rise of at least 1 g/dL, particularly in HbE/β-thalassemia genotypes.
 
-### Erythroid Maturation Agents
+## Thaliomide
+*   **Mechanism:** Induces fetal hemoglobin (HbF) to bind excess alpha-globin, reducing red blood cell destruction 
+*   **Efficacy:** ~63% of transfusion-dependent patients achieve complete transfusion independence.
+*   **Utility:** A cheap, accessible alternative when stem cell transplants or gene therapies are unavailable.
+*   **Dosage:** Starts at low doses (e.g., 50 mg/day) and is usually paired with aspirin to prevent blood clots.
+*   **Risks:** Causes severe birth defects (strict contraception mandatory), nerve damage (requires routine monitoring), and drowsiness.
 
-- Luspatercept has emerged as a game-changing, first-in-class erythroid maturation agent.
-- It is indicated for symptomatic adolescents and children 6 years and older who demonstrate refractoriness to hydroxyurea.
-- The BEYOND trial extension (2025) confirms sustained hemoglobin increases of 1 g/dL or more in 77% of responders.
-- Luspatercept significantly reduces intermittent transfusion requirements and improves quality of life.
+### Erythroid Maturation Agent: Luspatercept
 
+- **Mechanism:** Promotes late-stage red blood cell maturation by blocking TGF-$\beta$ signaling.
+- **Efficacy:** Significantly reduces the number of transfusions needed and raises hemoglobin levels.
+- **Utility:** FDA-approved to lower transfusion burden and help prevent iron overload.
+- **Dosage:** Administered via subcutaneous injection once every 3 weeks.
+- **Risks:** Causes fatigue, bone pain, high blood pressure, and carries a risk for blood clots.
 ### Emerging Therapeutics
 
 - Mitapivat, an experimental pyruvate kinase activator, demonstrates emerging efficacy for hemoglobin gains in highly specific genotypes.
