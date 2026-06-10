@@ -22,18 +22,18 @@
 ### Hypoxic-Ischemic Encephalopathy (HIE)
 
 - Crucial for prognostication during therapeutic hypothermia.
-- Consistently high crSO2 (>80–85%) combined with severely low FTOE (<0.1) on day 2 or 3 demonstrates "luxury perfusion".
+- Consistently high crSO2 (>80–85%) combined with severely low FTOE (<0.1) on day 2 or 3 demonstrates "**luxury perfusion**".
 - This phenomenon reflects widespread neuronal necrosis where dead neurons cease oxygen consumption, acting as an early predictor of poor neurodevelopmental outcomes.
 
 ### Hemodynamically Significant Patent Ductus Arteriosus (hsPDA)
 
-- Detects the "ductal steal" phenomenon prior to gross systemic hypotension.
+- Detects the "**ductal steal**" phenomenon prior to gross systemic hypotension.
 - Severe left-to-right shunting induces systemic hypoperfusion, manifested as a sharp decline in renal (rrSO2) and splanchnic (srSO2) saturations (<40%) while the brain-sparing effect maintains crSO2.
 
 ### Hemodynamic Shock And Autoregulation
 
 - Somatic rSO2 drops hours before cerebral rSO2 during hypovolemic or cardiogenic shock, functioning as an early-warning radar for impending cardiovascular collapse.
-- Advanced multi-modal software continuously correlates crSO2 with invasive mean arterial pressure (MAP) to evaluate cerebral pressure-passivity.
+- Advanced multi-modal software continuously correlates crSO2 with invasive mean arterial pressure (MAP) to evaluate cerebral **pressure-passivity.**
 - Loss of autoregulation (perfect synchrony between crSO2 and MAP) mandates immediate aggressive vasopressor support to optimize the infant's specific autoregulatory range.
 
 ### Necrotizing Enterocolitis (NEC) Prediction

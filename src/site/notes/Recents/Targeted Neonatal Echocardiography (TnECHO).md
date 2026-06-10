@@ -12,7 +12,7 @@
 
 ### Patent Ductus Arteriosus ([[neonatalogy/PDA\|PDA]])
 
-- Determines hemodynamic significance utilizing transductal diameter (>1.5 mm), unrestrictive pulsatile flow, Left Atrium-to-Aortic Root (LA:Ao) ratio (>1.5), and absent or reversed end-diastolic flow in the descending aorta or mesenteric arteries.
+- Determines hemodynamic significance utilizing **transductal diameter (>1.5 mm), unrestrictive pulsatile flow, Left Atrium-to-Aortic Root (LA:Ao) ratio (>1.5), and absent or reversed end-diastolic flow in the descending aorta or mesenteric arteries**.
 - 2026 protocols emphasize expectant management, guiding medical or surgical closure strictly for infants demonstrating severe ductal steal causing acute end-organ compromise.
 
 ### Neonatal Shock Phenotyping
@@ -41,13 +41,12 @@
 
 ## Recent Technological Advances (2025-2026)
 
-- Tissue Doppler Imaging (TDI): Provides load-independent assessment of longitudinal systolic (s' wave) and diastolic (E', A' waves) myocardial tissue velocities.
-- Speckle Tracking Echocardiography (STE): Measures Global Longitudinal Strain (GLS) by tracking acoustic speckles, predicting cardiac failure in severe sepsis or BPD up to 24-48 hours before conventional EF decline occurs.
+- **Tissue Doppler Imaging (TDI):** Provides load-independent assessment of longitudinal systolic (s' wave) and diastolic (E', A' waves) myocardial tissue velocities.
+- **Speckle Tracking Echocardiography (STE):** Measures Global Longitudinal Strain (GLS) by tracking acoustic speckles, predicting cardiac failure in severe sepsis or BPD up to 24-48 hours before conventional EF decline occurs.
 - Artificial Intelligence (AI): FDA/EMA-cleared AI algorithms automatically recognize optimal views and instantly calculate Velocity Time Integral (VTI) and EF without human bias, drastically flattening the learning curve and reducing inter-operator variability.
 
 ## Indian Context and Medicolegal Aspects
 
-- The National Neonatology Forum (NNF) and Indian Academy of Pediatrics (IAP) have formally incorporated TnECHO competencies into DM and DNB Neonatology curriculums.
 - Tele-TnECHO models are deployed by apex medical colleges to interpret complex Doppler flows remotely for rural Special Newborn Care Units (SNCUs).
 - The Pre-Conception and Pre-Natal Diagnostic Techniques (PCPNDT) Act stringently regulates ultrasound machines, posing historical administrative barriers for bedside NICU registration in smaller hospitals.
 - The greatest clinical pitfall is treating the image rather than the baby, necessitating formal fellowship training with a minimum requirement of 100-150 supervised scans to ensure quality assurance.
