@@ -40,7 +40,7 @@
 ### Clinical Application and Management Implications
 
 - The calculated OI directly influences the escalation of respiratory support and the employment of rescue therapies in critically ill children.
-- An $OI \ge 25$ strongly indicates severe hypoxemic respiratory failure and is associated with exceptionally high mortality.
+- An OI · 25 strongly indicates severe hypoxemic respiratory failure and is associated with exceptionally high mortality.
 - High-Frequency Oscillatory Ventilation (HFOV) is indicated as a rescue therapy and may be deployed when the OI exceeds 15 despite the application of high levels of Positive End-Expiratory Pressure (PEEP) on conventional mechanical ventilation.
 - In patients with severe PARDS ($OI > 15$), if optimal settings on Conventional Mechanical Ventilation (CMV) yield plateau pressures $\ge 30$ cm $H_2O$, transitioning to HFOV should be strongly considered to prevent ventilator-induced lung injury.
 - Inhaled Nitric Oxide (iNO) is utilized as a potent pulmonary vasodilator to improve ventilation-perfusion matching; an improvement in the Oxygenation Index within one hour signifies a positive response to iNO therapy.

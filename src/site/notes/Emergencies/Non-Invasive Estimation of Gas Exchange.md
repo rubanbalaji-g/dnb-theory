@@ -42,10 +42,10 @@
 - To decrease the dependence on invasive arterial sampling, non-invasive surrogates utilizing SpO2 have been validated for diagnosing and risk-stratifying [[Emergencies/PARDS\|PARDS]].
 - These non-invasive indices are only considered valid and accurate when the patient's SpO2 is < 97%, to avoid the masking effect of the flat upper portion of the oxyhemoglobin dissociation curve.
 
-|Non-Invasive Index|Calculation Formula|Clinical Utility & Stratification|
-|:--|:--|:--|
-|**SpO2/FiO2 (SF) Ratio**|SpO2 ÷ FiO2|* Used in non-intubated patients receiving non-invasive ventilation (NIV) via full-face mask with a minimum CPAP of 5 cm H2O. * An SF ratio ≤ 264 is used as a threshold to diagnose [[Emergencies/PARDS\|PARDS]].|
-|**Oxygenation Saturation Index (OSI)**|(Mean Airway Pressure × FiO2 × 100) ÷ SpO2|* Used for risk stratification of disease severity in mechanically ventilated patients. * Mild [[Emergencies/PARDS\|PARDS]]: OSI 5 to < 7.5. * Moderate [[Emergencies/PARDS\|PARDS]]: OSI 7.5 to < 12.3. * Severe [[Emergencies/PARDS\|PARDS]]: OSI ≥ 12.3.|
+| Non-Invasive Index                     | Calculation Formula                                   | Clinical Utility & Stratification                                                                                                                                                                                                                           |
+| :------------------------------------- | :---------------------------------------------------- | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **SpO2/FiO2 (SF) Ratio**               | $$\frac{SpO_2}{FiO_2}$$                               | * Used in non-intubated patients receiving non-invasive ventilation (NIV) via full-face mask with a minimum CPAP of 5 cm H2O. * An SF ratio ≤ 264 is used as a threshold to diagnose [[Emergencies/PARDS\|PARDS]].                                          |
+| **Oxygenation Saturation Index (OSI)** | $$OI = \frac{M_{aw} \times FiO_2}{PaO_2} \times 100$$ | * Used for risk stratification of disease severity in mechanically ventilated patients. * Mild [[Emergencies/PARDS\|PARDS]]: OSI 5 to < 7.5. * Moderate [[Emergencies/PARDS\|PARDS]]: OSI 7.5 to < 12.3. * Severe [[Emergencies/PARDS\|PARDS]]: OSI ≥ 12.3. |
 
 ### Advanced Tissue Gas Exchange Monitoring
 

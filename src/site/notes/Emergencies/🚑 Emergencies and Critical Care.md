@@ -27,7 +27,7 @@
 5. [[Emergencies/Oxygenation Index\|Oxygenation Index (OI)]]
 6. [[Emergencies/Ventilation Perfusion Ratio\|Ventilation Perfusion Ratio]]
 ## Pediatric Critical Conditions
-1. [[Emergencies/Respiratory Failure 🔥🔥🔥\|Respiratory Failure 🔥🔥🔥]]
+1. [[Emergencies/Respiratory Failure\|Respiratory Failure]]
 2. [[Emergencies/PARDS\|PARDS]]
 ## Emergency Room Basics
 1. [[Emergencies/Pediatric Triage 🔥\|Pediatric Triage 🔥]]
