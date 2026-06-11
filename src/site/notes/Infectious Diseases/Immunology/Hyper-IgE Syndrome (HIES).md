@@ -2,127 +2,82 @@
 {"dg-publish":true,"uptext":"Back to Index (🦠 Infectious Diseases)","uplink":"/infectious-diseases/infectious-diseases/","permalink":"/infectious-diseases/immunology/hyper-ig-e-syndrome-hies/","dgPassFrontmatter":true}
 ---
 
-## Introduction
+## Introduction And Classification
 
-Hyper-IgE Syndrome (HIES) is a rare primary immunodeficiency disorder. It presents with highly elevated serum IgE levels, severe eczema, and recurrent infections. It is genetically and clinically heterogeneous. The syndrome is inherited in both autosomal dominant and autosomal recessive patterns. It requires a high index of clinical suspicion for early diagnosis and management.
+Hyper-IgE syndromes represent a group of primary immunodeficiency diseases characterised by a strong atopic diathesis, highly elevated serum immunoglobulin E (IgE), and recurrent skin and pulmonary infections. These disorders demonstrate significant genetic heterogeneity.
 
-## Genetics And Pathogenesis
-
-The pathogenesis of HIES depends on its genetic inheritance pattern. The clinical phenotype varies significantly based on the underlying molecular defect.
-
-### Genetic Variants And Mechanisms
-
-|Feature|Autosomal Dominant HIES (Job Syndrome)|Autosomal Recessive HIES|
+|Genetic Defect|Inheritance|Associated Syndrome|
 |:--|:--|:--|
-|**Gene Mutation**|_STAT3_ gene.|_DOCK8_ gene (most common).|
-|**Genetic Mechanism**|Heterozygous pathogenic variants act via a dominant negative effect.|Pathogenic variants cause loss of function.|
-|**Signaling Defect**|Compromises pathways downstream of IL-6, IL-10, and IL-22 receptors.|Results in poor T-cell proliferation.|
-|**Cellular Impact**|Profound deficiency in T-helper type 17 (Th17) cells.|Causes T-cell lymphopenia. Reduces regulatory T cells (Tregs) and Natural Killer (NK) cells.|
-|**Immune Skewing**|Skews the immune system toward a Th2 response.|Impaired cellular viral defense.|
+|_STAT3_|Autosomal dominant|Classic Job syndrome|
+|_DOCK8_|Autosomal recessive|DOCK8 deficiency|
+|_IL6R_ / _IL6ST_|Autosomal recessive / dominant|IL-6 receptor / signal transducer deficiency|
+|_ZNF341_|Autosomal recessive|_ZNF341_ deficiency|
+|_PGM3_|Autosomal recessive|_PGM3_ deficiency|
 
-### Pathophysiological Consequences
+## Autosomal Dominant Hyper-IgE Syndrome (Job Syndrome)
 
-- The _STAT3_ defect impairs neutrophil chemotaxis.
-- It also reduces macrophage microbicidal ability.
-- This reduction is due to a failure of helper T-cells to produce interferon-gamma.
-- The resulting Th2 skewing triggers massive IgE and histamine overproduction.
-- This massive histamine release blunts classic inflammatory reactions.
+### Pathophysiology
 
-## Clinical Manifestations
+- The condition is caused by heterozygous pathogenic variants in the signal transducer and activator of transcription 3 (_STAT3_) gene.
+- These variants exert a dominant-negative effect resulting in loss of function.
+- The genetic defect compromises signaling downstream of multiple receptors.
+    - Affected pathways include interleukin (IL)-6, type I interferon, IL-22, IL-10, and epidermal growth factor receptors.
+- This dysregulation leads to a marked deficiency or complete absence of T-helper type 17 (Th17) cells.
 
-The clinical presentation involves multiple organ systems. AD _STAT3_ deficiency produces prominent non-immunologic features alongside recurrent infections.
+### Clinical Manifestations
 
-### Cutaneous Manifestations
+Patients present with a combination of immunologic and non-immunologic features.
 
-- Patients classically present with early-onset, severe, pruritic eczema.
-- Recurrent _Staphylococcus aureus_ skin abscesses are a hallmark feature.
-- These abscesses uniquely lack the classic signs of acute inflammation.
-- They lack typical warmth, erythema, and tenderness.
-- Because of this blunted inflammatory response, they are termed "cold" abscesses.
+#### Immunologic Features
 
-### Respiratory Complications
+- Recurrent staphylococcal skin abscesses are a hallmark.
+    - These are often described as **"cold" abscesses** because they lack classical signs of inflammation.
+- Early-onset atopic dermatitis or a pruritic pustular dermatosis is common.
+- Chronic mucocutaneous candidiasis affects more than 70% of patients.
+- Recurrent pneumonias frequently occur and typically result in the formation of pneumatoceles and bronchiectasis.
+    - Common respiratory pathogens include _Staphylococcus aureus_, _Streptococcus pneumoniae_, _Haemophilus influenzae_, _Aspergillus_, and _Pneumocystis jirovecii_.
 
-- Patients experience recurrent bacterial pneumonias.
-- These pneumonias characteristically result in large, persistent lung pneumatoceles.
-- The resulting cavities are highly susceptible to secondary opportunistic colonization.
-- Secondary colonizing organisms frequently include _Aspergillus_ species and _Pneumocystis jirovecii_.
+#### Non-Immunologic Features
 
-### Infectious Susceptibilities
+- Patients develop characteristic **coarse facial features.**
+    - These include a prominent forehead, deep-set wide-spaced eyes, a broad nasal bridge, a wide fleshy nasal tip, and mild prognathism.
+- Skeletal and connective tissue abnormalities are prominent.
+    - Findings include hyperextensible joints, osteoporosis with recurrent minimal-trauma fractures, and scoliosis.
+    - Delayed shedding of primary teeth is a classic dental finding.
+- Vascular anomalies such as coronary and cerebral aneurysms may occur.
 
-- Chronic mucocutaneous candidiasis occurs in over 70% of AD patients.
-- Patients with the AR _DOCK8_ variant exhibit profound susceptibility to severe cutaneous viral infections.
-- These viral infections include disseminated herpes simplex and varicella.
-- Severe molluscum contagiosum and human papillomavirus infections are also prominent in _DOCK8_ deficiency.
+### Laboratory Evaluation
 
-### Musculoskeletal And Connective Tissue Features
-
-- Non-immunologic features are prominent in AD _STAT3_ deficiency.
-- Skeletal abnormalities include delayed shedding of primary teeth.
-- Joint hyperextensibility and severe scoliosis are frequently observed.
-- Osteopenia is common and leads to recurrent minimal-trauma fractures.
-- Vascular complications such as coronary and cerebral aneurysms may occur.
-
-### Characteristic Facies
-
-- _STAT3_ deficiency is associated with distinct facial dysmorphism. ![Pasted image 20260523105255.png|right|300](/img/user/+%C4%B0mages/Pasted%20image%2020260523105255.png)
-- Features include a prominent forehead.
-- Patients typically have deep-set and wide-spaced eyes.
-- A broad nasal bridge and a wide, fleshy nasal tip are characteristic.
-- Facial asymmetry is also frequently noted.
-
-## Laboratory Diagnosis
-
-Basic screening and advanced targeted evaluations are necessary to confirm the diagnosis.
-
-### Diagnostic Laboratory Profile
-
-|Parameter|Expected Finding in HIES|
+|Parameter|Typical Findings in STAT3 Deficiency|
 |:--|:--|
-|**Total Serum IgE**|Exceptionally high, typically exceeding 2,000 IU/mL. Levels can fluctuate and may decline in adulthood.|
-|**Other Immunoglobulins**|Serum concentrations of IgG, IgA, and IgM are usually normal.|
-|**Complete Blood Count**|Marked eosinophilia is consistently observed. This is a key diagnostic marker.|
-|**Tissue Evaluation**|Eosinophilia is prominent in sputum and histologic sections of affected tissues.|
-|**Flow Cytometry (Lymphocytes)**|Normal absolute percentages of T, B, and NK lymphocytes.|
-|**Flow Cytometry (T-cell subsets)**|Specific absence or severe deficiency of Th17 cells. Decreased percentage of memory T cells (CD45RO).|
-|**In Vitro Functional Testing**|Normal T-lymphocyte proliferative responses to mitogens. Very low or completely absent response to specific recall antigens.|
+|**Immunoglobulins**|Exceptionally high serum IgE (>2,000 IU/mL), although it may decrease in adulthood. IgG, IgA, and IgM are usually normal.|
+|**Complete Blood Count**|Pronounced blood and sputum eosinophilia are present.|
+|**Lymphocyte Subsets**|Normal percentages of T, B, and natural killer (NK) cells. Decreased memory T cells and absent Th17 cells.|
+|**Immune Function**|Poor specific antibody and cell-mediated responses to neoantigens.|
 
-## Differential Diagnosis
+## Autosomal Recessive Hyper-IgE Syndromes
 
-Several other primary immunodeficiencies present with severe eczema, elevated IgE, and eosinophilia. They must be carefully differentiated from HIES.
+These syndromes typically lack the somatic, skeletal, and dental features seen in classic Job syndrome.
 
-### Immunodeficiency Syndromes with Elevated IgE
+### DOCK8 Deficiency
 
-|Condition|Distinguishing Clinical Features|Underlying Defect|
-|:--|:--|:--|
-|**Wiskott-Aldrich Syndrome**|Classic triad of eczema, recurrent infections, and congenital thrombocytopenia. Bleeding manifestations present early.|_WASP_ gene mutation affecting actin filament assembly. Features structurally small, defective platelets.|
-|**Omenn Syndrome**|Presents with severe generalized erythroderma, scaling skin, massive lymphadenopathy, and intractable diarrhea.|Hypomorphic SCID mutations. Unregulated expansion of autoreactive oligoclonal T cells.|
-|**IPEX Syndrome**|Severe autoimmune endocrinopathies like insulin-dependent diabetes mellitus in infancy. Intractable watery diarrhea caused by autoimmune enteropathy.|Tregopathy presenting with massive IgE levels and severe food allergies.|
+- Pathogenic variants in the _DOCK8_ gene cause a severe combined immunodeficiency.
+- Patients present with early-onset, severe eczema and multiple food allergies.
+- There is a marked susceptibility to severe cutaneous viral infections.
+    - Pathogens include herpes simplex virus, varicella, human papillomavirus, and molluscum contagiosum.
+- Patients frequently suffer from recurrent respiratory infections and are susceptible to cancer development, such as squamous cell carcinoma and lymphoma.
+- Laboratory findings reveal T-cell lymphopenia, reduced regulatory T cells, low NK cells, and highly elevated IgE.
 
 ## Management
 
-Therapy is predominantly supportive. It must be aggressively directed at the prevention and early treatment of specific infections.
+### Medical And Supportive Therapy
 
-### Antimicrobial Prophylaxis
+- Antimicrobial and antifungal prophylaxis is essential for infection prevention.
+    - A combination of trimethoprim-sulfamethoxazole (for bacterial and _Pneumocystis_ prophylaxis) and itraconazole (for fungal prophylaxis) is widely recommended.
+- Aggressive topical skin care is required to manage eczema and associated cutaneous infections.
+- Immunoglobulin replacement therapy may be indicated if there is a documented deficiency in specific antibody production.
 
-- Continuous antimicrobial prophylaxis is strongly recommended.
-- Trimethoprim-sulfamethoxazole (TMP-SMX) is utilized daily.
-- This prevents recurrent _Staphylococcus aureus_ and _Streptococcus pneumoniae_ infections.
+### Definitive Therapies
 
-### Antifungal Prophylaxis
-
-- Systemic antifungal agents are routinely utilized.
-- Itraconazole is the preferred agent.
-- It is crucial for preventing invasive _Aspergillus_ and _Candida_ infections.
-
-### Immunomodulatory Therapy
-
-- Immunoglobulin replacement therapy (IgRT) may be considered.
-- It acts as a beneficial adjunctive treatment.
-- It assists in overall infection prevention for selected patients.
-
-### Curative Therapies
-
-- For patients with AR _DOCK8_ deficiency, allogeneic hematopoietic stem cell transplantation (HSCT) is the definitive treatment.
-- It is the curative treatment of choice.
-- HSCT is routinely performed early in life.
-- Early intervention prevents severe long-term complications and the development of malignancy.
+- Hematopoietic stem cell transplantation (HSCT) provides a curative option for specific variants.
+    - It is highly recommended early in life for patients with DOCK8 deficiency to prevent severe long-term complications and malignancy.

@@ -2,95 +2,95 @@
 {"dg-publish":true,"uplink":"/infectious-diseases/infectious-diseases/","uptext":"Back to Index (🦠 Infectious Diseases)","permalink":"/infectious-diseases/common-variable-immunodeficiency/","dgPassFrontmatter":true}
 ---
 
-## Overview Of The Disorder
+## Introduction
 
-- Common variable immunodeficiency is a heterogeneous group of antibody-deficient disorders.
-- It is characterized by impaired interaction between T-cells and B-cells.
-- This cellular impairment results in a **failure of isotype switching from IgM to IgG.**
-- Patients exhibit severe hypogammaglobulinemia and a distinct lack of protective antibody titers.
-- The disorder is noted to be familial in approximately one-fourth of all cases.
+Common variable immunodeficiency is a syndrome characterized by marked hypogammaglobulinemia.
 
-## Etiology And Pathophysiology
+- It typically presents after an initial period of apparent normal immune function.
+- It is the most prevalent of all primary antibody deficiency defects.
+- The condition affects males and females with an almost equal sex distribution.
 
-### Genetic Mutations
+## Pathophysiology And Genetics
 
-- There is no single genetic defect responsible for all cases of this disease.
-- Monogenic forms of the disease have been identified in about 20% of affected patients.
-- Associated genetic mutations include the **TNFRSF13B, ICOS**, MSH5, TNFRSF13C, CD27, CD81, CD19, MS4A1, CR2, NFKB2, and LRBA genes.
+The disease is primarily a phenotypic diagnosis.
 
-### Cellular Abnormalities
+- Most cases demonstrate a complex, polygenic inheritance pattern.
+- Patients often have normal numbers of circulating B cells.
+- Lymphoid cortical follicles are frequently present.
+- The core defect lies in the inability of blood B cells to differentiate normally into immunoglobulin-producing plasma cells.
+- This developmental block leads to a characteristic deficiency of switched memory B cells.
 
-- Patients demonstrate various B-cell maturational defects upon phenotypic analysis.
-- Decreased or absent numbers of switched memory B-cells are commonly observed.
-- This reduction closely correlates with disease severity, autoimmunity, and malignancy risks.
-- T-cell functional abnormalities are also frequently present in these patients.
-- These abnormalities include decreased lymphocyte proliferation to mitogens and reduced expression of various cytokines.
+|Genetic Variants|Associated Features|
+|:--|:--|
+|**CTLA4**|Pronounced lymphoproliferation and autoimmunity.|
+|**LRBA**|Pronounced lymphoproliferation, enteropathy, and autoimmunity.|
+|**ICOS**|Autoimmunity and neoplasia.|
+|**NFKB1 / NFKB2**|Autoimmunity.|
+|**CD19 / CD20 / CD21 / CD81**|Hypogammaglobulinemia.|
 
 ## Clinical Manifestations
 
-### Age Of Presentation
-
-- The diagnosis is strictly established after the fourth year of life.
-- There are two primary peak ages for the onset of clinical symptoms.
-- The first peak occurs in young children aged 1 to 5 years.
-- The second peak occurs in older adolescents and young adults aged 16 to 20 years.
-- Additional studies note diagnosis peaks extending between 30 and 40 years of age.
+Patients most commonly present with symptoms before 20 years of age. The clinical course is highly variable.
 
 ### Infectious Complications
 
-- Patients experience recurrent and severe pyogenic infections.
-- Sinopulmonary infections are predominantly caused by Streptococcus pneumoniae, Haemophilus influenzae, and Mycoplasma.
-- Recurrent pneumonias frequently lead to bronchiectasis and progressive chronic lung disease.
-- Patients with low serum IgM levels carry a significantly increased risk for developing bronchiectasis.
-- Gastrointestinal infections are common and are typically caused by Giardia, Campylobacter, and Salmonella.
-- Chronic diarrhea and intestinal malabsorption frequently occur.
-- Inflammation induced by gastrointestinal infections can result in protein-losing enteropathy.
-- This enteropathy may further exacerbate the underlying hypogammaglobulinemia.
+- Recurrent sinopulmonary infections are the hallmark presentation.
+    - These include frequent episodes of sinusitis, otitis, and pneumonia.
+- Repeated pulmonary infections frequently result in bronchiectasis.
+- Patients have an increased risk of sepsis and meningitis.
+    - These severe infections are typically caused by encapsulated bacteria.
+- Enterovirus meningoencephalitis is notably rare, which distinguishes it from X-linked agammaglobulinemia.
 
-### Non-Infectious Complications
+### Autoimmune And Gastrointestinal Features
 
-- Autoimmunity affects nearly 30% of all individuals with this disorder.
-- Autoimmune manifestations include autoimmune cytopenias, autoimmune chronic hepatitis, hypothyroidism, and lupus-like disease.
-- Patients may also develop inflammatory bowel disease, atrophic gastritis with achlorhydria, and chronic arthritis.
-- Unexplained polyclonal lymphoproliferation results in marked lymphadenopathy and splenomegaly.
-- Pseudolymphoma syndromes such as lymphoid interstitial pneumonia and nodular lymphoid hyperplasia can develop.
-- Granulomas may form on various organs.
-- Patients carry a substantially increased risk for malignancies like non-Hodgkin lymphoma and gastric carcinoma.
+- A spruelike enteropathy is frequently observed.
+- Various autoimmune cytopenias can occur.
+    - Hemolytic anemia and thrombocytopenia are common manifestations.
+- Gastrointestinal autoimmunity includes gastric atrophy, achlorhydria, and pernicious anemia.
+- Alopecia areata may also develop.
 
-## Diagnostic Evaluation
+### Lymphoproliferative And Malignant Complications
 
-### Required Criteria
+- Patients frequently present with enlarged tonsils and lymph nodes.
+- Splenomegaly is present in approximately 25% of patients.
+- Nodular lymphoid hyperplasia can affect the intestinal tract.
+- **Noncaseating sarcoid-like granulomas** can develop in multiple organs.
+    - When involving the lungs, it is termed granulomatous and lymphocytic interstitial lung disease.
+- There is a significantly increased risk for developing B-cell lymphomas.
 
-- The patient must exhibit increased susceptibility to infection, autoimmune manifestations, or granulomatous disease.
-- Unexplained polyclonal lymphoproliferation or a family history of antibody deficiency strongly supports the diagnosis.
-- Laboratory tests must show a marked decrease in IgG and IgA levels.
-- Serum IgM levels can be low or remain within the normal range.
-- The serum IgG level is typically persistently below 250 to 300 mg/dL.
-- Patients exhibit a remarkably poor antibody response to vaccines or completely absent isohemagglutinins.
-- Switched-memory B-cells are typically less than 70% of the age-related normal value.
-- Flow cytometry generally shows normal numbers of circulating B-lymphocytes (CD19+).
-- This normal B-cell count helps definitively differentiate the condition from X-linked agammaglobulinemia.
+## Diagnosis And Laboratory Evaluation
 
-### Exclusion Criteria
+Diagnosis requires specific criteria based on quantitative immunoglobulin levels and cellular analysis.
 
-- Secondary causes of hypogammaglobulinemia must be thoroughly excluded.
-- Severe T-cell deficiency must be explicitly ruled out prior to diagnosis.
-- This is achieved by assessing CD4+ cell counts and naive CD4+ percentages.
+|Diagnostic Parameter|Typical Findings|
+|:--|:--|
+|**Immunoglobulin G (IgG)**|Must be <2 standard deviations below the age-adjusted norms.|
+|**Immunoglobulin A (IgA)**|Levels are typically low.|
+|**Immunoglobulin M (IgM)**|Levels are typically low.|
+|**B Lymphocytes**|Absolute counts may be normal or variable.|
+|**Memory B Cells**|Decreased frequency of switched memory B cells is characteristic.|
 
-## Treatment And Prognosis
+## Management
 
-### Immunoglobulin Replacement
+Therapy is centered on preventing infections and managing complications.
 
-- **Lifelong immunoglobulin G replacement therapy** is the fundamental primary treatment.
-- Intravenous immunoglobulin or subcutaneous immunoglobulin can be safely administered.
-- Therapy is formally indicated to minimize the frequency of infections, especially when baseline IgG is below 400 mg/dL.
-- Maintenance dosing should target serum IgG trough levels of 500 to 1700 mg/dL.
-- Much higher doses may be required for patients with enteric protein loss due to severe enteropathy.
+### Immunoglobulin Replacement Therapy
 
-### Adjunctive Therapies And Prognosis
+- Lifelong immunoglobulin replacement therapy is the standard of care.
+- It can be administered via intravenous or subcutaneous routes.
+- This therapy significantly decreases the frequency of sinopulmonary infections.
+- Adequate dosing mitigates the progression of chronic lung disease and bronchiectasis.
+- However, immunoglobulin replacement does not improve autoimmune or lymphoproliferative complications.
+    - The presence of these complications confers a poorer prognosis.
 
-- Antibiotic prophylaxis is commonly utilized for recurrent sinopulmonary tract infections.
-- Aggressive medical management of all acute infections is necessary to prevent chronic lung disease.
-- Hematopoietic stem cell transplantation is generally not recommended as standard therapy.
-- Survival rates following hematopoietic stem cell transplantation for this disorder are less than 50%.
-- Overall morbidity and mortality are equally associated with both infectious and non-infectious complications.
+### Antimicrobial Therapy
+
+- Judicious use of appropriate antibiotics is required for documented acute infections.
+- Prophylactic antibiotics are frequently utilized in conjunction with immunoglobulin therapy.
+    - Macrolides, such as azithromycin, are often chosen for patients with chronic recurrent respiratory tract infections.
+
+### Targeted And Immunomodulatory Therapies
+
+- Specific biologic therapies are available for certain genetic variants.
+    - **Abatacept (a CTLA4-Ig fusion protein)** is successfully used for treating cytopenias and lymphoproliferation in patients with CTLA4 haploinsufficiency and LRBA deficiency.
+- Corticosteroids or other immunosuppressants may be required to manage severe autoimmune manifestations.

@@ -5,7 +5,7 @@
 ## Pathophysiological Rationale and Cell Sources
 
 - Bronchopulmonary dysplasia is a chronic lung disease of prematurity characterized by arrested alveolar development, inflammation, fibrosis, and dysmorphic pulmonary vascular assembly resulting from hyperoxia and volutrauma.
-- Stem cell therapy represents a regenerative approach aiming to restore physiological alveolarization, decrease chronic inflammation, and repair damaged lung architecture.
+- [[Infectious Diseases/Immunology/Stem Cell Therapy\|Stem cell therapy]] represents a regenerative approach aiming to restore physiological alveolarization, decrease chronic inflammation, and repair damaged lung architecture.
 - Mesenchymal stem cells are the primary and most widely studied cell source.
 - Cells are predominantly harvested from allogeneic neonatal tissues, specifically umbilical cord blood and Wharton’s jelly.
 - These sources are preferred due to their low immunogenicity, high proliferative capacity, and ethical feasibility.
@@ -35,7 +35,7 @@
 
 ## Clinical Evidence and Safety Profile
 
-- Recent meta-analyses demonstrate that mesenchymal stem cell therapy significantly reduces the overall incidence and severity of bronchopulmonary dysplasia.
+- Recent meta-analyses demonstrate that mesenchymal [[Infectious Diseases/Immunology/Stem Cell Therapy\|stem cell therapy]] significantly reduces the overall incidence and severity of bronchopulmonary dysplasia.
 - Clinical trials report faster weaning from oxygen, reduced pulmonary hypertension, and significant neurodevelopmental gains at 18 to 24 months corrected age.
 - Indian feasibility studies demonstrate safety in preterm infants under 32 weeks, highlighting reduced inflammatory markers with no infusion reactions.
 - Phase trials confirm excellent short-term safety with no acute anaphylaxis or respiratory decompensation.
@@ -44,6 +44,6 @@
 
 ## Current Guidelines and Implementation
 
-- Mesenchymal stem cell therapy remains strictly investigational per ESPNIC, AAP, IAP, and ICMR guidelines.
+- Mesenchymal [[Infectious Diseases/Immunology/Stem Cell Therapy\|stem cell therapy]] remains strictly investigational per ESPNIC, AAP, IAP, and ICMR guidelines.
 - Routine clinical use is not currently endorsed outside registered clinical trials or Centers of Excellence.
 - Guidelines continue to emphasize evidence-based prevention, including antenatal steroids, caffeine, and lung-protective ventilation, alongside trial enrollment for high-risk preterm infants.

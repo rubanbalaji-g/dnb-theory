@@ -2,78 +2,134 @@
 {"dg-publish":true,"uptext":"Back to Index (🦠 Infectious Diseases)","uplink":"/infectious-diseases/infectious-diseases/","permalink":"/infectious-diseases/immunology/febrile-neutropenia/","dgPassFrontmatter":true}
 ---
 
-## Definition And Classification
+## Definitions and Severity Grading
 
-- Neutropenia is defined as a decrease in the absolute number of circulating segmented neutrophils and bands in the peripheral blood.
-- The absolute neutrophil count is calculated by multiplying the total white blood cell count by the percentage of segmented neutrophils plus bands.
-- The lower limit of normal for the absolute neutrophil count in White children older than 12 months is 1,500 cells/ $\mu$L.
-- In Black children older than 12 months, the limit is 1,200 cells/ $\mu$L due to the prevalence of the Duffy negative blood group.
-- Patients face a substantial risk of developing life-threatening pyogenic infections primarily when severe neutropenia occurs.
+Neutropenia is defined as a decrease in the absolute number of circulating segmented neutrophils and band forms in the peripheral blood. The absolute neutrophil count is calculated by multiplying the total white blood cell count by the percentage of segmented neutrophils plus bands. Normal neutrophil counts must always be stratified for the age and race of the patient.
 
-|Severity Category|Absolute Neutrophil Count Range|
+|Severity Category|Absolute Neutrophil Count|Clinical Significance|
+|:--|:--|:--|
+|Mild Neutropenia|1000 to 1500 /$\mu$L|Usually asymptomatic unless associated with other immune defects.|
+|Moderate Neutropenia|500 to 1000 /$\mu$L|Moderate risk of infection.|
+|Severe Neutropenia|< 500 /$\mu$L|Substantial risk for developing life-threatening infections.|
+|Agranulocytosis|< 200 /$\mu$L|Extremely high risk of fatal bacterial and fungal sepsis.|
+
+## Etiology of Neutropenia
+
+Neutropenia can be classified as acquired or inherited. In the context of febrile neutropenia, acquired causes such as chemotherapy or severe systemic infections are the most common triggers.
+
+|Category|Specific Causes|
 |:--|:--|
-|**Mild Neutropenia**|1,000 to 1,500 cells/ $\mu$L.|
-|**Moderate Neutropenia**|500 to 1,000 cells/ $\mu$L.|
-|**Severe Neutropenia**|Less than 500 cells/ $\mu$L.|
-|**Agranulocytosis**|Less than 200 cells/ $\mu$L.|
+|Infections|Viral pathogens including cytomegalovirus, Epstein-Barr virus, HIV, influenza, measles, and SARS-CoV-2. Bacterial infections including sepsis, _Brucella_, pertussis, and tuberculosis. Fungal and protozoan infections like malaria and histoplasmosis.|
+|Drug-Induced|Antineoplastic agents such as antimetabolites, alkylating agents, and cytotoxic antibiotics. Antimicrobial agents like chloramphenicol, sulfonamides, and trimethoprim-sulfamethoxazole. Anticonvulsants and nonsteroidal antiinflammatory drugs.|
+|Bone Marrow Replacement|Hematologic malignancies including leukemia and lymphoma. Metastatic solid tumors such as neuroblastoma. Myelofibrosis and myelodysplasia.|
+|Immune-Mediated|Autoimmune neutropenia of infancy or secondary to systemic lupus erythematosus. Alloimmune neonatal neutropenia.|
+|Reticuloendothelial|Hypersplenism leading to sequestration.|
 
-## Etiology
+## Pathophysiology and Clinical Manifestations
 
-### Acquired Causes
+Patients with an absolute neutrophil count below 500 /$\mu$L are at a substantial risk for developing infections.
 
-- Acquired causes are the most frequent etiology of acute neutropenia in childhood.
-- **Transient neutropenia following viral infections** is the most common acute cause.
-- Implicated viruses include influenza A and B, SARS-CoV-2, adenovirus, and respiratory syncytial virus.
-- **Drug-induced neutropenia** can arise from antimicrobial agents, antithyroid drugs, antipsychotics, and antiepileptics.
-- **Cytotoxic anticancer drugs** predictably cause profound severe neutropenia by targeting rapidly replicating myeloid precursors.
-- **Immune-mediated causes** include alloimmune neonatal neutropenia and autoimmune neutropenia of infancy.
-- **Nutritional deficiencies** of copper, vitamin B12, or folic acid can cause ineffective myelopoiesis.
+- These infections primarily arise from the patient's endogenous flora as well as from nosocomial organisms.
+- The integrity of the skin and mucous membranes significantly influences the risk of infection.
+    - Mucositis and the presence of indwelling central venous lines predispose patients to a much greater risk of infection.
+- The usual signs and symptoms of local infection and inflammation may be markedly diminished.
+    - This includes a lack of exudate, fluctuance, and regional lymphadenopathy.
+    - The diminished response is directly due to the inability to form pus in the absence of neutrophils.
+- Despite the lack of localizing signs, patients with agranulocytosis still experience fever and feel pain at sites of inflammation.
 
-### Inherited Causes
+### Common Sites and Pathogens
 
-|Condition|Underlying Defect And Clinical Features|
+- The most common clinical presentation includes fever, frequent infections, aphthous stomatitis, and gingivitis.
+- Localized infections frequently include cellulitis, furunculosis, perirectal inflammation, colitis, sinusitis, and otitis media.
+- Serious and life-threatening infections include pneumonia, deep tissue abscess, and sepsis.
+- The most common bacterial pathogens causing infections in neutropenic patients are _Staphylococcus aureus_ and gram-negative bacteria.
+    - Central venous catheter-related infections are frequently caused by Staphylococcal species and _Candida_ species.
+    - Multidrug-resistant strains of _Pseudomonas aeruginosa_ and _Klebsiella pneumoniae_ are also highly significant pathogens.
+- Viral infections can also cause severe lower respiratory tract disease during periods of profound neutropenia.
+    - Seasonal respiratory viruses include influenza, respiratory syncytial virus, parainfluenza virus, and human metapneumovirus.
+
+## Evaluation and Risk Stratification
+
+The initial approach to a pediatric patient with fever and neutropenia requires rapid assessment and the implementation of a validated risk stratification strategy.
+
+### Risk Stratification
+
+Risk stratification should be adopted and incorporated into routine clinical management.
+
+- High-risk patients include those undergoing allogeneic hematopoietic stem cell transplantation.
+    - Patients with prolonged neutropenia are also considered high risk.
+    - Children receiving high-dose corticosteroids are at high risk for invasive fungal disease.
+- Low-risk patients are those without prolonged neutropenia or severe immunosuppressive features.
+    - These patients may be candidates for outpatient management if adequate infrastructure exists.
+
+### Initial Laboratory and Imaging Evaluation
+
+- Blood cultures must be obtained immediately at the onset of fever and neutropenia.
+    - Cultures must be drawn from all lumens of central venous catheters.
+    - Clinicians should consider obtaining peripheral blood cultures concurrently with central venous catheter cultures.
+- A urinalysis and urine culture should be considered if a clean-catch midstream specimen is readily available.
+- Chest radiography should only be obtained in patients presenting with specific respiratory signs or symptoms.
+
+## Management of Fever and Neutropenia
+
+Management approaches include the use of prophylactic antimicrobials, preemptive antimicrobials, and therapeutic empirical antibiotics.
+
+### Initial Empirical Antibacterial Therapy
+
+|Risk Category|Recommended Management Strategy|
 |:--|:--|
-|**Cyclic Neutropenia**|Autosomal dominant _ELANE_ gene variants cause regular 21-day oscillations with the absolute neutrophil count dropping below 200 cells/ $\mu$L.|
-|**Severe Congenital Neutropenia**|Marrow arrest at the promyelocyte stage consistently yields absolute neutrophil counts less than 200 cells/ $\mu$L.|
-|**Shwachman-Diamond Syndrome**|Autosomal recessive _SBDS_ gene variants cause neutropenia, exocrine pancreatic insufficiency, and metaphyseal dysostosis.|
-|**Chédiak-Higashi Syndrome**|_LYST_ gene variants cause giant cytoplasmic granules, progressive neutropenia, partial albinism, and impaired neutrophil degranulation.|
+|High-Risk Patients|Use monotherapy with an antipseudomonal $\beta$-lactam. A fourth-generation cephalosporin or a carbapenem may also be used. Reserve the addition of a second gram-negative agent or a glycopeptide for clinically unstable patients. Dual coverage is also indicated when a resistant infection is suspected or the center has a high rate of resistant pathogens.|
+|Low-Risk Patients|Consider initial outpatient management or early step-down to outpatient care. This requires the infrastructure to ensure careful monitoring and follow-up. Consider oral antibiotic administration if the child is able to tolerate this route reliably.|
 
-## Clinical Manifestations And Pathogens
+### Ongoing Management and Therapy Modification
 
-- The most common clinical presentation includes fever, frequent infections, aphthous stomatitis, and severe gingivitis.
-- Focal infections highly associated with febrile neutropenia include cellulitis, perirectal inflammation, and deep tissue abscesses.
-- Classic signs of local inflammation, such as exudate and fluctuance, may be severely diminished due to the inability to form pus.
-- Despite the absence of visible pus, neutropenic patients with active infections still experience fever and localized pain.
-- Common offending pathogens are _Staphylococcus aureus_ and gram-negative bacteria such as _Escherichia coli_ and _Pseudomonas_ species.
-- Patients with cyclic neutropenia are specifically at risk for intestinal perforation leading to life-threatening clostridial sepsis during their neutropenic nadir.
+- Careful daily reassessment of the patient's clinical status is required.
+- In patients who are responding to the initial empirical antibiotic therapy, modifications should be made swiftly.
+    - Discontinue double coverage for gram-negative infections or empirical glycopeptides after 24 to 72 hours.
+    - This should be done if there is no specific microbiologic indication to continue combination therapy.
+- Do not modify the initial empirical antibacterial regimen solely based on persistent fever in children who remain clinically stable.
+- In children with persistent fever who become clinically unstable, the initial empirical regimen must be escalated.
+    - Escalation should include broader coverage for resistant gram-negative, gram-positive, and anaerobic bacteria.
 
-## Evaluation And Risk Stratification
+### Empirical Antifungal Management
 
-- A validated risk stratification strategy must be systematically incorporated into routine management.
-- High-risk patients for invasive fungal disease include those with acute myeloid leukemia, high-risk acute lymphoblastic leukemia, or relapsed acute leukemia.
-- Patients undergoing allogeneic hematopoietic stem cell transplantation are also categorized as high risk.
-- Children experiencing prolonged neutropenia or receiving high-dose corticosteroids are categorized as high risk.
-- All other pediatric patients presenting with febrile neutropenia should be categorized as low risk.
-- Blood cultures must be obtained immediately from all lumens of any indwelling central venous catheters.
-- Clinicians should consider obtaining concurrent peripheral blood cultures.
-- Chest radiography should only be obtained in patients exhibiting specific respiratory signs or symptoms.
+Prolonged neutropenia carries a high risk of invasive fungal disease. Invasive fungal disease represents a life-threatening complication that significantly affects patient outcomes.
 
-## Management
+#### Fungal Diagnostics
 
-### Empirical Antibacterial Therapy
+- In high-risk patients with prolonged fever and neutropenia ($\ge$ 96 hours), serum galactomannan should generally not be used to guide empirical antifungal management.
+- Do not use $\beta$-D-glucan testing in this setting.
+- Do not use fungal polymerase chain reaction testing in the blood.
+- Perform a computed tomography scan of the lungs to evaluate for fungal pulmonary disease.
+- Consider imaging of the abdomen in patients even without localizing signs or symptoms.
+- Do not routinely perform computed tomography of the sinuses in patients without localizing signs or symptoms.
 
-- High-risk patients must be initiated on monotherapy utilizing an antipseudomonal beta-lactam, a fourth-generation cephalosporin, or a carbapenem.
-- A second gram-negative agent or an empirical glycopeptide is reserved strictly for clinically unstable patients or suspected resistant infections.
-- If the patient is clinically responding, double coverage or empirical glycopeptides must be discontinued after 24 to 72 hours.
-- The initial empirical regimen should not be modified based solely on persistent fever if the child remains clinically stable.
-- Low-risk patients may be considered for step-down outpatient management or oral antibiotics if tolerated reliably.
-- Empirical antibiotics must be discontinued if blood cultures remain negative at 48 hours, the patient is afebrile for 24 hours, and there is clear evidence of marrow recovery.
-- In low-risk patients, empirical antibiotics can be discontinued at 72 hours if blood cultures are negative and the patient is afebrile for 24 hours, regardless of marrow recovery.
+#### Fungal Treatment
 
-### Empirical Antifungal Therapy
+- Initiate caspofungin or liposomal amphotericin B for empirical antifungal therapy.
+    - This is indicated in high-risk patients with prolonged fever and neutropenia ($\ge$ 96 hours) that is unresponsive to broad-spectrum antibacterial agents.
+- In low-risk patients with prolonged fever and neutropenia ($\ge$ 96 hours), clinicians should consider withholding empirical antifungal therapy.
 
-- High-risk patients with prolonged febrile neutropenia persisting beyond 96 hours must be systematically evaluated for invasive fungal disease.
-- A computed tomography scan of the lungs must be performed as part of this evaluation.
-- The use of beta-D-glucan assays and fungal polymerase chain reaction testing in the blood is explicitly not recommended for this evaluation.
-- Empirical antifungal therapy with caspofungin or liposomal amphotericin B must be initiated in high-risk patients unresponsive to broad-spectrum antibacterial agents after 96 hours.
-- In low-risk patients experiencing prolonged febrile neutropenia, clinicians should consider safely withholding empirical antifungal therapy.
+### Cessation of Antimicrobial Treatment
+
+- Empirical antibiotics should be discontinued in all patients who meet specific recovery criteria.
+    - Blood cultures must be negative at 48 hours.
+    - The patient must have been afebrile for at least 24 hours.
+    - There must be evidence of bone marrow recovery and rising neutrophil counts.
+
+## Adjunctive Therapies
+
+### Granulocyte Colony-Stimulating Factor
+
+- Granulocyte colony-stimulating factor therapy is generally effective at raising the absolute neutrophil count.
+- The routine use of granulocyte colony-stimulating factor is not universally indicated for all acute episodes of febrile neutropenia but is highly valuable in specific hypoproliferative states.
+    - It is used for patients with severe chronic neutropenia and symptomatic idiopathic neutropenias.
+    - For drug-induced neutropenia, subcutaneous administration of recombinant human granulocyte colony-stimulating factor should be considered if the patient is symptomatic with infection.
+
+### Granulocyte Transfusions
+
+- Granulocyte transfusions have historically been used sparingly in older infants and children.
+- They may be considered for patients with neutropenic infections when severe neutropenia is prolonged.
+    - The primary indication is severe neutropenia with a bacterial, yeast, or fungal infection that is unresponsive or progressive despite appropriate antimicrobial therapy.
+- The preferred granulocyte dose requires donors to be stimulated with granulocyte colony-stimulating factor plus dexamethasone.
+- Transfusions should be given daily until either the infection resolves or the blood neutrophil count is sustained above 1500 /$\mu$L for a few days.

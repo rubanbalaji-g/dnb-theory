@@ -34,13 +34,13 @@
 
 - The severity of NEC is classified using the Modified Bell's staging system to guide prognosis and management.
 
-|Stage|Systemic Signs|Local Abdominal Signs|Radiological Signs|
-|:--|:--|:--|:--|
-|Stage 1 (Suspect)|Temperature instability, apnea, bradycardia.|Mild abdominal distension, large gastric residuals, occult or gross blood in stool.|Normal bowel gas pattern or mild ileus.|
-|Stage 2A (Mildly ill)|Same as Stage 1.|Prominent abdominal distension, absent bowel sounds, abdominal tenderness.|Ileus, pneumatosis intestinalis.|
-|Stage 2B (Moderately ill)|Mild metabolic acidosis, thrombocytopenia.|Abdominal wall edema with palpable loops and tenderness.|Portal venous gas, with or without ascites.|
-|Stage 3A (Advanced)|Hypotension, mixed acidosis, disseminated intravascular coagulation (DIC).|Worsening abdominal wall erythema, generalized peritonitis, marked tenderness.|Definite ascites, severe pneumatosis.|
-|Stage 3B (Advanced)|Refractory shock, clinical deterioration.|Severe peritonitis.|Pneumoperitoneum (indicating bowel perforation).|
+| Stage                     | Systemic Signs                                                             | Local Abdominal Signs                                                                     | Radiological Signs                                   |
+| :------------------------ | :------------------------------------------------------------------------- | :---------------------------------------------------------------------------------------- | :--------------------------------------------------- |
+| Stage 1 (Suspect)         | Temperature instability, apnea, bradycardia.                               | Mild abdominal distension, large gastric residuals, **occult or gross** blood in stool.** | Normal bowel gas pattern or mild ileus.              |
+| Stage 2A (Mildly ill)     | Same as Stage 1.                                                           | Prominent abdominal distension, **absent bowel sounds, abdominal tenderness.**            | Ileus, **pneumatosis intestinalis.**                 |
+| Stage 2B (Moderately ill) | **Mild metabolic acidosis, thrombocytopenia.**                             | Abdominal wall edema with palpable loops and tenderness.                                  | **Portal venous gas**, with or without ascites.      |
+| Stage 3A (Advanced)       | Hypotension, mixed acidosis, disseminated intravascular coagulation (DIC). | Worsening abdominal wall erythema, generalized peritonitis, marked tenderness.            | **Definite ascites,** severe pneumatosis.            |
+| Stage 3B (Advanced)       | Refractory shock, clinical deterioration.                                  | Severe peritonitis.                                                                       | **Pneumoperitoneum** (indicating bowel perforation). |
 
 ## Differential Diagnosis
 

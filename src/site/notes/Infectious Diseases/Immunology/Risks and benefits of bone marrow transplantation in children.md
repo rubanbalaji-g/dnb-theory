@@ -4,63 +4,95 @@
 
 ## Overview of Bone Marrow Transplantation
 
-- Bone marrow transplantation, or hematopoietic stem cell transplantation (HSCT), is a therapeutic procedure utilizing allogeneic (donor-derived) or autologous (patient-derived) stem cells to treat a wide variety of malignant and nonmalignant conditions.
-- The procedure involves a preparative conditioning regimen utilizing chemotherapy and/or irradiation to eliminate the host's hematopoietic system, suppress the immune system to prevent rejection, and significantly reduce tumor burden in cases of malignancy.
-- The infused graft contains mature blood cells, including T cells, natural killer (NK) cells, and dendritic cells, which repopulate the recipient’s lymphohematopoietic system and provide a critical graft-versus-leukemia (GVL) effect by eliminating residual malignant cells.
+- Hematopoietic stem cell transplantation (HSCT) utilizes either allogeneic (donor-derived) or autologous (patient-derived) stem cells to treat various malignant and nonmalignant disorders.
+- **Autologous transplantation** serves as a rescue strategy after delivering lethal doses of chemotherapy and/or radiotherapy.
+- **Allogeneic transplantation** is utilized to treat genetic diseases of blood cells, primary immunodeficiencies, inherited metabolic diseases, and hematologic malignancies.
+- The conditioning regimen serves to eliminate the patient's existing hematopoietic system, suppress the immune system to prevent rejection, and significantly reduce the tumor burden.
+- The infused graft contains mature donor blood cells (T cells, B cells, natural killer cells, dendritic cells) that establish a new immune system.
+- This new immune system provides a critical graft-versus-leukemia (GVL) effect, eliminating residual malignant cells.
 
-## Benefits and Clinical Indications
+## Benefits: Clinical Indications and Curative Potential
 
-### Malignant Disorders
+The primary benefit of HSCT is its ability to offer a definitive, life-saving cure for conditions that are otherwise rapidly fatal or associated with severe lifelong morbidity.
 
-- In [[Hematology/Acute Lymphoblastic Leukemia\|acute lymphoblastic leukemia]] (ALL), allogeneic HSCT benefits pediatric patients in their first complete remission if they exhibit high-risk features, or in second or subsequent remissions, achieving a 3-year overall survival rate of 70–80%.
-- For [[Hematology/Acute Myeloid Leukemia\|acute myeloid leukemia]] (AML), HSCT serves as a robust postremission consolidation therapy for high-risk patients, yielding better event-free survival than chemotherapy alone, with a 3-year overall survival of 60–70%.
-- HSCT is a proven curative treatment for [[Hematology/Chronic Myelogenous Leukemia\|chronic myelogenous leukemia]] (CML), with leukemia-free survival reaching 45–80%, though its upfront use is now generally reserved for patients who fail or cannot tolerate tyrosine kinase inhibitor therapy.
-- In [[Hematology/Juvenile Myelomonocytic Leukemia\|juvenile myelomonocytic leukemia]] (JMML), HSCT cures approximately 50–60% of patients, overcoming the otherwise aggressive and rapidly fatal natural history of the disease.
-- For relapsed or refractory Hodgkin and non-Hodgkin lymphomas, as well as high-risk solid tumors like [[Hematology/Neuroblastoma\|neuroblastoma]] and brain tumors, autologous HSCT offers survival rates of 50–60% for patients with sensitive disease and minimal tumor burden.
+|Disease Category|Specific Disorders|Expected Benefit and Survival Outcomes|
+|:--|:--|:--|
+|**Hematologic Malignancies**|Acute Lymphoblastic Leukemia (ALL)|Yields 70-80% 3-year overall survival (OS) in high-risk first or second complete remission.|
+||Acute Myeloid Leukemia (AML)|Provides better event-free survival than chemotherapy alone for high-risk patients, yielding 60-70% OS.|
+||Chronic Myelogenous Leukemia (CML)|Offers leukemia-free survival of 45-80%, utilized primarily for patients intolerant to tyrosine kinase inhibitors.|
+||Juvenile Myelomonocytic Leukemia (JMML)|Cures approximately 50-60% of patients with this aggressive malignancy.|
+||Lymphomas and Solid Tumors|Autologous HSCT rescues relapsed Hodgkin and non-Hodgkin lymphomas (50-60% event-free survival) and high-risk neuroblastomas.|
+|**Primary Immunodeficiencies**|Severe Combined Immunodeficiency (SCID)|Provides a definitive cure, with survival approaching 95% when performed optimally in the first 100 days of life.|
+||Wiskott-Aldrich, LAD, CGD|Curative treatment; survival approaches 100% with an HLA-identical sibling donor.|
+|**Inherited Bone Marrow Failure**|Fanconi Anemia, Aplastic Anemia|Rescues bone marrow failure and prevents clonal hematopoiesis. Achieves >90% 5-year OS in Fanconi anemia; >80% long-term survival in severe aplastic anemia.|
+|**Hemoglobinopathies**|Thalassemia Major|Offers >90% probability of survival with complete transfusion independence in patients without severe liver damage.|
+||Sickle Cell Disease|Curative for patients with recurrent vasoocclusive crises or strokes, offering an 80-90% probability of cure.|
+|**Metabolic Diseases**|Hurler Syndrome, Adrenoleukodystrophy|Engrafts microglial cells that deliver necessary enzymes to the central nervous system, preventing irreversible neurologic damage.|
 
-### Non-Malignant Disorders
+## Early Risks and Complications
 
-- The most favorable HSCT outcomes are often achieved in non-malignant congenital or acquired disorders, as the risk of disease recurrence is extremely low and transplantation-related mortality is substantially reduced compared to malignant conditions.
-- HSCT is the definitive and potentially curative treatment for [[Infectious Diseases/Immunology/Severe Combined Immunodeficiency (SCID)\|Severe Combined Immunodeficiency (SCID)]], achieving a 95% survival rate when performed optimally within the first 100 days of life.
-- Other primary immunodeficiencies successfully cured by HSCT include Wiskott-Aldrich syndrome (where survival approaches 100% with a matched sibling), hyper-IgM syndrome, leukocyte adhesion deficiency, and [[Infectious Diseases/Immunology/Chronic Granulomatous Disease (CGD)\|Chronic Granulomatous Disease (CGD)]].
-- For acquired severe [[Hematology/Aplastic Anemia\|aplastic anemia]], matched-sibling bone marrow transplantation provides a long-term survival probability exceeding 80%.
-- Inherited bone marrow failure syndromes, such as [[Hematology/Fanconi Anemia\|Fanconi anemia]], are cured of their [[Hematology/Aplastic Anemia\|aplastic anemia]] and protected from subsequent clonal hematopoietic disorders via HSCT, with a 5-year overall survival greater than 90% if performed prior to leukemic transformation.
-- HSCT is currently the only curative treatment for hemoglobinopathies; in thalassemia major patients without significant liver damage who have received regular iron chelation, the probability of survival with complete transfusion independence exceeds 90%.
-- In [[Hematology/Sickle Cell Disease\|sickle cell disease]], HSCT offers an 80–90% probability of cure for patients experiencing severe vasoocclusive crises or strokes, effectively halting disease progression.
-- For inherited metabolic diseases like mucopolysaccharidosis type 1 (Hurler syndrome) and adrenoleukodystrophy, HSCT enables the engraftment of microglial cells that deliver necessary enzymes directly to the central nervous system, preventing irreversible neurologic damage.
+### Acute Graft-Versus-Host Disease (GVHD)
 
-## Risks and Complications
-
-### Graft-Versus-Host Disease (GVHD)
-
-- Acute GVHD is a major cause of morbidity and mortality, occurring when alloreactive donor T cells recognize recipient tissues as foreign, leading to a massive inflammatory attack primarily targeting the skin, liver, and gastrointestinal tract.
-- Significant acute GVHD develops in approximately 30% of matched sibling recipients and up to 60% of unrelated donor recipients, typically manifesting within the first 2 to 8 weeks post-transplant.
-- Severe (Grade IV) acute GVHD is a life-threatening and often fatal condition characterized by generalized erythroderma, severe liver impairment, and gross gastrointestinal bleeding or ileus.
-- Chronic GVHD occurs months to years after transplantation and represents the leading cause of nonrelapse mortality and morbidity in long-term survivors.
-- Chronic GVHD functions as a systemic disorder of immune regulation, producing severe autoimmune-like symptoms such as scleroderma, sicca syndrome, progressive bronchiolitis obliterans, and cirrhosis, which profoundly impact the patient's quality of life.
+- Acute GVHD is a major cause of mortality and morbidity following allogeneic HSCT.
+- The disease is caused by alloreactive donor T cells attacking recipient tissues.
+- Significant acute GVHD develops in approximately 30% of matched sibling recipients and up to 60% of unrelated donor recipients.
+- It typically manifests within the first 2 to 8 weeks post-transplant.
+- Target organs include the skin (maculopapular rash), liver (elevated bilirubin and transaminases), and gastrointestinal tract (anorexia, vomiting, severe diarrhea).
+- Severe multiorgan disease (Grade IV) is a life-threatening and frequently fatal condition.
 
 ### Infectious Complications
 
-- HSCT recipients experience a transient but profound state of immune deficiency, making life-threatening infections a leading risk.
-- In the preengraftment phase (the first 30 days), severe neutropenia and conditioning-induced mucosal damage place patients at extreme risk for bacterial sepsis and [[Infectious Diseases/Invasive Fungal Diseases\|invasive fungal diseases]] caused by _Candida_ and _Aspergillus_ species.
-- In the postengraftment phase, delayed T-cell and B-cell recovery predisposes patients to severe viral infections, notably cytomegalovirus (CMV), Epstein-Barr virus (EBV), adenovirus, and varicella-zoster virus.
-- CMV pneumonia carries a massive case fatality rate of 85% in the absence of early antiviral treatment, while EBV reactivation can lead to fatal posttransplant lymphoproliferative disease (PTLD).
+- HSCT recipients experience a transient but profound state of immune deficiency.
+- During the pre-engraftment phase, severe neutropenia and mucositis render patients highly susceptible to bacterial sepsis (enteric gram-negative bacilli) and invasive fungal diseases (Candida, Aspergillus).
+- In the post-engraftment phase, delayed cellular recovery predisposes patients to severe viral infections.
+- Cytomegalovirus (CMV) infection is a frequent complication, and CMV pneumonia carries a case fatality rate of 85% in the absence of early treatment.
+- Epstein-Barr virus (EBV) reactivation can lead to post-transplant lymphoproliferative disease (PTLD).
+- Disseminated adenovirus infection can cause fatal hepatitis, enteritis, and pneumonia in recipients of T-cell-depleted grafts.
 
 ### Graft Failure and Rejection
 
-- Primary graft failure (the failure to achieve a neutrophil count of 0.5 × 10^9/L) or secondary graft failure (the loss of peripheral counts after initial transient engraftment) exposes patients to a high risk of fatal infection.
-- Graft rejection is typically mediated immunologically by residual host T-lymphocytes surviving the conditioning regimen, and the risk is highest in HLA-disparate transplants, T-cell–depleted grafts, or when utilizing reduced-intensity conditioning regimens.
+- Graft failure exposes patients to a high risk of fatal infection.
+- Primary graft failure is defined as the failure to achieve a neutrophil count of 0.5 x 10^9/L.
+- Secondary graft failure is the loss of peripheral blood counts after initial engraftment.
+- Immune-mediated rejection occurs when residual host T-lymphocytes survive the conditioning regimen and reject the donor cells.
+- The risk is highest in HLA-disparate transplants, T-cell-depleted grafts, and when utilizing reduced-intensity conditioning regimens.
 
 ### Venoocclusive Disease (VOD)
 
-- Also known as sinusoidal obstruction syndrome, VOD results from conditioning-induced endothelial damage within the liver.
-- It typically presents within 30 days of transplantation with marked hepatomegaly, right upper quadrant tenderness, jaundice, fluid retention, and ascites.
-- The severe form of VOD can rapidly progress to multiorgan dysfunction and carries a mortality rate exceeding 80% if untreated.
+- Also known as sinusoidal obstruction syndrome, VOD results from conditioning-induced endothelial damage to the liver.
+- It typically presents within 30 days of transplantation.
+- Clinical features include massive hepatomegaly, jaundice, fluid retention, and ascites.
+- The severe form of VOD has a mortality rate exceeding 80% without appropriate treatment with agents like defibrotide.
 
-### Late Effects and Organ Toxicity
+## Long-Term Risks and Late Complications
 
-- Endocrine complications include severe growth impairment (particularly due to total body irradiation affecting the hypothalamic-pituitary axis and cartilage plates), primary ovarian or testicular failure, delayed puberty, and a high risk of permanent infertility.
-- Patients are at elevated risk for [[Endocrinology/Metabolic Syndrome\|metabolic syndrome]], dyslipidemia, and cardiotoxicity, especially if exposed to pre-transplant anthracyclines or chest radiation.
-- The risk of developing secondary malignancies, such as myelodysplastic syndromes, secondary leukemias, thyroid carcinoma, and brain tumors, is significantly elevated compared to the general pediatric population.
-- Neurocognitive deficits and progressive leukoencephalopathy can occur, particularly in young children who receive total body irradiation or cranial radiation.
-- Other long-term complications include restrictive pulmonary disease, renal toxicity, cataracts, dental abnormalities, and significant psychological late effects including depression, anxiety, and posttraumatic stress.
+As supportive care improves, a growing number of pediatric patients become long-term survivors, facing risks from previous therapies.
+
+|Organ System|Late Effect or Complication|
+|:--|:--|
+|**Immunologic**|Chronic graft-versus-host disease (GVHD), prolonged immunodeficiency.|
+|**Endocrine**|Growth impairment, growth hormone deficiency, primary ovarian or testicular failure, delayed puberty, infertility, hypothyroidism.|
+|**Cardiovascular**|Metabolic syndrome (dyslipidemia, hypertension, diabetes mellitus), cardiomyopathy, atherosclerosis.|
+|**Oncologic**|Secondary malignancies (myelodysplastic syndrome, secondary leukemia, thyroid carcinoma, brain tumors).|
+|**Neurologic**|Neurocognitive deficits, leukoencephalopathy (especially with prior cranial radiation or TBI).|
+|**Other Systems**|Restrictive pulmonary fibrosis, renal toxicity, cataracts, dental abnormalities, osteoporosis, avascular necrosis.|
+
+### Chronic Graft-Versus-Host Disease
+
+- Chronic GVHD is the major cause of nonrelapse mortality and morbidity in long-term HSCT survivors.
+- The incidence in pediatric patients is approximately 25%.
+- It functions as a systemic disorder of immune regulation, producing autoimmune-like symptoms.
+- Manifestations include scleroderma, sicca syndrome, progressive bronchiolitis obliterans, chronic diarrhea, and cirrhosis.
+- Chronic GVHD requires continuous immunosuppressive therapy for 1 to 3 years, prolonging susceptibility to opportunistic infections.
+
+### Endocrine and Growth Impairment
+
+- Children given HSCT before puberty may develop severe growth impairment, precluding achievement of normal adult height.
+- Total body irradiation causes direct damage to cartilage plates and the hypothalamic-pituitary axis, leading to growth hormone deficiency.
+- Patients receiving TBI or high doses of alkylating agents frequently experience primary gonadal failure, resulting in delayed puberty and a high risk of permanent infertility.
+
+### Secondary Malignancies
+
+- The overall risk of developing a secondary cancer is significantly higher after HSCT than in the general population.
+- The most frequently diagnosed neoplasms include myelodysplastic syndromes, secondary acute leukemias, thyroid carcinoma, brain tumors, and epithelial cancers.
+- Risk factors include the use of total body irradiation, chronic GVHD, and an intrinsic genetic predisposition (e.g., Fanconi anemia).

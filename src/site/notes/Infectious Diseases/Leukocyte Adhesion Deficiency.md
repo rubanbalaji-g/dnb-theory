@@ -13,11 +13,11 @@
 
 ### Specific Subtypes Of LAD
 
-|Subtype|Genetic Defect|Immunologic Mechanism|Distinctive Clinical Features|
-|:--|:--|:--|:--|
-|**LAD Type 1**|Autosomal recessive defect in the _ITGB2_ gene.|Absence or severe reduction of the CD18 subunit of $\beta_2$-integrins.|Classic severe infections lacking pus formation.|
-|**LAD Type 2**|Defect in the fucose transporter.|Absence of sialyl Lewis X, which prevents selectin-mediated rolling.|Milder infections, intellectual disability, and the Bombay blood phenotype.|
-|**LAD Type 3**|Pathogenic variants in the _FERMT3_ gene (Kindlin-3).|Defective integrin activation.|Infectious features of LAD-1 combined with a severe Glanzmann thrombasthenia-like bleeding disorder.|
+| Subtype        | Genetic Defect                                        | Immunologic Mechanism                                                   | Distinctive Clinical Features                                                                            |
+| :------------- | :---------------------------------------------------- | :---------------------------------------------------------------------- | :------------------------------------------------------------------------------------------------------- |
+| **LAD Type 1** | Autosomal recessive defect in the _ITGB2_ gene.       | Absence or severe reduction of the CD18 subunit of $\beta_2$-integrins. | Classic severe infections lacking pus formation.                                                         |
+| **LAD Type 2** | Defect in the fucose transporter.                     | Absence of sialyl Lewis X, which prevents selectin-mediated rolling.    | Milder infections, intellectual disability, and the **Bombay blood phenotype.**                          |
+| **LAD Type 3** | Pathogenic variants in the _FERMT3_ gene (Kindlin-3). | Defective integrin activation.                                          | Infectious features of LAD-1 combined with a **severe Glanzmann thrombasthenia-like bleeding disorder.** |
 
 ## Clinical Manifestations
 

@@ -39,7 +39,7 @@ Regimen selection is strictly stratified by age and weight.
 
 ## Treatment Failure Definitions
 
-- **Virological Failure:** Plasma viral load remains $\ge$1000 copies/mL after at least 6 months of compliant therapy.
+- **Virological Failure:** Plasma viral load remains $\ge$ 1000 copies/mL after at least 6 months of compliant therapy.
 - **Immunological Failure:** Persistent decline in CD4 count or percentage.
 - **Clinical Failure:** New or recurrent WHO Stage 3 or 4 events or neuro-regression after 6 months of therapy.
 

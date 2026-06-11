@@ -2,86 +2,78 @@
 {"dg-publish":true,"uptext":"Back to Index (🦠 Infectious Diseases)","uplink":"/infectious-diseases/infectious-diseases/","permalink":"/infectious-diseases/immunology/stem-cell-therapy/","dgPassFrontmatter":true}
 ---
 
-## Methods of Harvesting and Storing Stem Cells
+## General Principles
 
-- Bone marrow originally represented the only source of hematopoietic progenitor cells for transplantation.
-- Peripheral blood hematopoietic stem cells are widely utilized and are harvested after being mobilized into the peripheral circulation by cytokines alone (such as granulocyte colony-stimulating factor), a combination of cytokines and cytotoxic agents, or a CXCR4 antagonist.
-- Umbilical cord blood serves as an additional source of hematopoietic progenitors, offering the advantage of immediate availability of cells that are cryopreserved and stored in banks.
+- Hematopoietic stem cell transplantation utilizes either allogeneic or autologous stem cells.
+- Allogeneic transplantation uses donor-derived stem cells to treat genetic diseases of blood cells, inherited metabolic diseases, and bone marrow failure.
+- Autologous transplantation uses patient-derived stem cells as a rescue strategy.
+- It is administered after delivering otherwise lethal doses of chemotherapy with or without radiotherapy.
+- The infused graft contains mature blood cells of donor origin, including T cells, B cells, natural killer cells, and dendritic cells.
+- These mature donor cells repopulate the recipient’s lymphohematopoietic system and establish a new immune system.
+- The new immune system provides a critical graft-versus-leukemia effect.
+- Immunocompetent donor cells help eliminate residual leukemia cells that survived the conditioning regimen.
 
-## Principles of [[Infectious Diseases/Immunology/Stem Cell Therapy\|Stem Cell Therapy]]
-
-### Types of Hematopoietic Stem Cell Transplantation
-
-- Hematopoietic stem cell transplantation (HSCT) utilizes either allogeneic (donor-derived) or autologous (patient-derived) stem cells to cure both malignant and nonmalignant disorders.
-- Autologous transplantation serves as a rescue strategy, administered after delivering otherwise lethal doses of chemotherapy, with or without radiotherapy, to treat malignancies such as relapsed lymphoma or selected solid tumors.
-- Allogeneic transplantation is utilized to treat children with hematologic malignancies (e.g., leukemia, myelodysplastic syndromes) as well as genetic diseases of blood cells, inherited metabolic diseases, and bone marrow failure.
-
-### Sources of Hematopoietic Stem Cells
+## Sources of Stem Cells
 
 - Bone marrow originally represented the sole source of hematopoietic progenitor cells used for transplantation.
-- Peripheral blood hematopoietic stem cells are now widely utilized and are harvested after being mobilized into the peripheral circulation.
+- Peripheral blood hematopoietic stem cells are now widely utilized.
+- They are harvested after being mobilized into the peripheral circulation by cytokines alone or with cytotoxic agents.
+- A CXCR4 antagonist can also be extremely effective in mobilizing hematopoietic progenitors.
 - Umbilical cord blood serves as an additional, immediately available source of hematopoietic progenitors.
 
-### Preparative (Conditioning) Regimens
+## Patient Preparation and Conditioning Regimens
 
-- Protocols for allogeneic HSCT begin with a preparative conditioning regimen that utilizes chemotherapy, sometimes combined with irradiation.
-- The primary principle of the preparative regimen is to eliminate the patient's existing hematopoietic system and suppress the recipient's immune system, specifically T cells, to prevent graft rejection.
-- In patients with malignancies, the conditioning regimen additionally serves to significantly reduce the overall tumor burden before the intravenous infusion of donor hematopoietic cells.
-- Reduced-intensity conditioning regimens are frequently employed in pediatric patients; these regimens are primarily immunosuppressive and aim to induce a state of reduced immune competence in the recipient to avoid rejecting the donor cells, without being fully myeloablative.
+- Protocols for transplantation begin with a preparative conditioning regimen.
+- This utilizes chemotherapy, sometimes combined with irradiation.
+- The primary principle is to eliminate the patient's existing hematopoietic system.
+- It suppresses the recipient's immune system, specifically T cells, to prevent graft rejection.
+- In patients with malignancies, the conditioning regimen additionally serves to significantly reduce the overall tumor burden.
+- Reduced-intensity conditioning regimens are frequently employed in pediatric patients.
+- These regimens are primarily immunosuppressive and aim to induce a state of reduced immune competence.
+- This avoids rejecting the donor cells without being fully myeloablative, thereby reducing toxicity.
 
-### Immunologic Principles and the Graft-Versus-Leukemia Effect
+## Histocompatibility and Donor Selection
 
-- The immunology of HSCT is unique among transplants because the infused graft contains not only stem cells but also mature blood cells of donor origin, including T cells, B cells, natural killer cells, and dendritic cells.
-- These mature donor cells repopulate the recipient’s lymphohematopoietic system and establish a new immune system.
-- The new immune system provides a critical graft-versus-leukemia (GVL) effect, where immunocompetent donor cells help eliminate residual leukemia cells that survived the conditioning regimen.
-- The GVL effect is primarily T-cell–mediated, utilizing alloreactions directed against histocompatibility antigens displayed on the recipient's leukemia cells.
-- Because some of these histocompatibility antigens are also present on normal recipient tissues (particularly the skin, gastrointestinal tract, and liver), alloreactive donor immune cells may attack these tissues, causing acute or chronic graft-versus-host disease (GVHD),.
+- The success of allogeneic stem cell transplantation relies heavily on minimizing the diversity between the donor and recipient in histocompatibility antigens.
+- Human leukocyte antigens must be matched for successful engraftment.
+- This includes major histocompatibility complex class I molecules and class II molecules.
+- Disparities in human leukocyte antigen alleles serve as independent risk factors for the development of graft-versus-host disease.
+- The traditionally preferred donor is an identical sibling.
+- Any pair of siblings has a 25 percent chance of being perfectly matched.
+- Alternative options include matched unrelated volunteer donors from international registries.
+- Full-haplotype mismatched family members and unrelated umbilical cord blood donors are also viable alternatives.
 
-### Histocompatibility and Donor Selection
+## Clinical Indications
 
-- The success of allogeneic HSCT relies heavily on minimizing the diversity between the donor and recipient in major and minor histocompatibility antigens.
-- Human leukocyte antigens (HLA) must be matched, including major histocompatibility complex (MHC) class I molecules (HLA-A, HLA-B, HLA-C) that present peptides to CD8+ T cells, and MHC class II molecules (HLA-DR, HLA-DQ, HLA-DP) that present peptides to CD4+ T cells.
-- Disparities in HLA alleles between the donor and recipient serve as independent risk factors for the development of both acute and chronic GVHD.
-- The traditionally preferred donor for HSCT is an HLA-identical sibling, as any pair of siblings has a 25% chance of being HLA identical.
-- When an HLA-identical sibling is unavailable, alternative options include matched unrelated volunteer donors, full-haplotype mismatched family members, and unrelated umbilical cord blood donors.
-
-## Indications of [[Infectious Diseases/Immunology/Stem Cell Therapy\|Stem Cell Therapy]]
-
-### Malignant Disorders
-
-- [[Hematology/Acute Lymphoblastic Leukemia\|Acute lymphoblastic leukemia]] (ALL) in patients in their first complete remission with high-risk features, or in second or subsequent remissions.
-- [[Hematology/Acute Myeloid Leukemia\|Acute myeloid leukemia]] (AML) in the first complete remission for high-risk patients, or in advanced disease phases.
-- Philadelphia chromosome-positive [[Hematology/Chronic Myelogenous Leukemia\|chronic myelogenous leukemia]] (CML), particularly for patients with a poor response or intolerance to tyrosine kinase inhibitors.
-- [[Hematology/Juvenile Myelomonocytic Leukemia\|Juvenile myelomonocytic leukemia]] (JMML) and myelodysplastic syndromes.
-- Autologous stem cell transplantation is indicated for relapsed Hodgkin and [[Hematology/Non-Hodgkin Lymphoma\|non-Hodgkin lymphoma]], stage IV or relapsed [[Hematology/Neuroblastoma\|neuroblastoma]], very high-risk Ewing sarcoma, and high-risk central nervous system tumors.
-
-### Non-Malignant Disorders
-
-- Primary immunodeficiency diseases, including [[Infectious Diseases/Immunology/Severe Combined Immunodeficiency (SCID)\|Severe Combined Immunodeficiency (SCID)]], Wiskott-Aldrich syndrome, leukocyte adhesion deficiency, hyper-IgM syndrome, and chronic granulomatous disease.
-- Severe acquired [[Hematology/Aplastic Anemia\|aplastic anemia]] and inherited bone marrow failure syndromes such as [[Hematology/Fanconi Anemia\|Fanconi anemia]], dyskeratosis congenita, Shwachman-Diamond syndrome, and Diamond-Blackfan anemia.
-- Hemoglobinopathies, specifically thalassemia major and severe [[Hematology/Sickle Cell Disease\|sickle cell disease]].
-- Inherited metabolic diseases, including mucopolysaccharidosis type 1 (Hurler syndrome) and adrenoleukodystrophy, to prevent irreversible neurologic damage.
-
-## Patient Preparation (Conditioning Regimen)
-
-- Patient preparation involves a conditioning regimen that utilizes chemotherapy, sometimes in conjunction with irradiation (such as total body irradiation).
-- The primary goals of the preparative regimen are to eliminate the patient's existing hematopoietic system, suppress the recipient's immune system to prevent graft rejection, and significantly reduce the tumor burden in patients with malignancies.
-- Reduced-intensity conditioning regimens are frequently employed in pediatric patients; these are primarily immunosuppressive rather than myeloablative, aiming to induce reduced immune competence to avoid rejection of donor cells while minimizing toxicity.
-- Preparative regimens are tailored to specific diseases; for example, patients with [[Hematology/Fanconi Anemia\|Fanconi anemia]] require reduced doses of cyclophosphamide and minimal radiation due to extreme sensitivity to DNA crosslinking agents.
-
-## Potential Complications of [[Infectious Diseases/Immunology/Stem Cell Therapy\|Stem Cell Therapy]]
+| Disease Category               | Specific Indications                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
+| :----------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Malignant Disorders**        | <ul><li>Acute lymphoblastic leukemia in first complete remission for patients at very high risk of relapse.</li><li>Acute myeloid leukemia in first complete remission or advanced disease.</li><li>Juvenile myelomonocytic leukemia.</li><li>Myelodysplastic syndromes.</li><li>Relapsed Hodgkin and non-Hodgkin lymphomas (autologous).</li><li>Stage IV or relapsed neuroblastoma (autologous).</li><li>High-risk central nervous system tumors (autologous).</li></ul> |
+| **Bone Marrow Failure**        | <ul><li>Severe acquired aplastic anemia.</li><li>Fanconi anemia.</li><li>Diamond-Blackfan anemia.</li><li>Shwachman-Diamond syndrome.</li></ul>                                                                                                                                                                                                                                                                                                                            |
+| **Hemoglobinopathies**         | <ul><li>Thalassemia major.</li><li>Severe sickle cell disease with recurrent vasoocclusive crises or strokes.</li></ul>                                                                                                                                                                                                                                                                                                                                                    |
+| **Primary Immunodeficiencies** | <ul><li>Severe combined immunodeficiency.</li><li>Wiskott-Aldrich syndrome.</li><li>Leukocyte adhesion deficiency.</li><li>Chronic granulomatous disease.</li></ul>                                                                                                                                                                                                                                                                                                        |
+| **Metabolic Diseases**         | <ul><li>Mucopolysaccharidosis type 1 (Hurler syndrome).</li><li>Adrenoleukodystrophy.</li><li>Infantile malignant osteopetrosis.</li></ul>                                                                                                                                                                                                                                                                                                                                 |
+## Complications and Risks
 
 ### Early Complications
 
-- **Acute Graft-Versus-Host Disease (GVHD):** Occurs within the first 2 to 8 weeks when alloreactive donor T cells attack recipient tissues, manifesting as an erythematous maculopapular rash, vomiting, diarrhea, and liver disease with elevated bilirubin and transaminases.
-- **Infections:** Profound immunodeficiency leads to pre-engraftment susceptibility to bacterial sepsis (e.g., enteric gram-negative bacilli) and [[Infectious Diseases/Invasive Fungal Diseases\|invasive fungal diseases]] (e.g., _Candida_, _Aspergillus_). Post-engraftment risks include severe viral infections like Cytomegalovirus (CMV), Epstein-Barr virus (associated with post-transplant lymphoproliferative disease), and Adenovirus.
-- **Graft Failure:** Can be primary (failure to achieve a neutrophil count of 0.5 × 10^9/L) or secondary (loss of peripheral counts post-engraftment), caused by an inadequate stem cell dose, viral infections, or immune-mediated rejection by surviving host T cells.
-- **Venoocclusive Disease (VOD):** Also known as sinusoidal obstruction syndrome, this presents within 30 days with hepatomegaly, jaundice, weight gain, and ascites due to conditioning-induced endothelial damage.
+- Acute graft-versus-host disease occurs when alloreactive donor T cells recognize recipient tissues as foreign.
+- It leads to a massive inflammatory attack primarily targeting the skin, liver, and gastrointestinal tract.
+- Significant **acute graft-versus-host disease** typically manifests within the first two to eight weeks post-transplant.
+- Infectious complications arise because recipients experience a transient but profound state of immune deficiency.
+- The **pre-engraftment phase** features severe neutropenia placing patients at extreme risk for bacterial sepsis and invasive fungal diseases.
+- The **post-engraftment phase** predisposes patients to severe viral infections like cytomegalovirus and Epstein-Barr virus.
+- Primary graft failure is the failure to achieve a neutrophil count of 0.5 cells per microliter.
+- Secondary graft failure is the loss of peripheral counts after an initial transient engraftment.
+- Graft rejection is typically mediated immunologically by residual host T-lymphocytes surviving the conditioning regimen.
+- Venoocclusive disease, or sinusoidal obstruction syndrome, results from conditioning-induced endothelial damage within the liver.
 
 ### Late Complications
 
-- **Chronic GVHD:** A disorder of immune regulation developing >3 months post-transplant, characterized by systemic autoimmune-like symptoms such as scleroderma, sicca syndrome, arthritis, and bronchiolitis obliterans.
-- **Endocrine Dysfunction:** Includes growth impairment due to growth hormone deficiency, hypothyroidism, primary ovarian or testicular failure, delayed puberty, and a high risk of permanent infertility.
-- **Cardiovascular Effects:** Increased risk of [[Endocrinology/Metabolic Syndrome\|metabolic syndrome]], dyslipidemia, hypertension, and cardiomyopathy, particularly following total body irradiation or pre-transplant anthracycline exposure.
-- **Secondary Malignancies:** Elevated risk for myelodysplastic syndromes, secondary leukemias, thyroid carcinoma, brain tumors, and epithelial cancers.
-- **Other Toxicities:** Restrictive pulmonary disease, renal toxicity, leukoencephalopathy, neurocognitive deficits, cataracts, and dental abnormalities.
+| Organ System       | Late Complications                                                                                                                                                                                                                                                                                           |
+| :----------------- | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Immunologic**    | <ul><li>Chronic graft-versus-host disease functions as a systemic disorder of immune regulation.</li><li>It produces severe autoimmune-like symptoms such as scleroderma, progressive bronchiolitis obliterans, and cirrhosis.</li></ul>                                                                     |
+| **Endocrine**      | <ul><li>Severe growth impairment occurs due to total body irradiation affecting the hypothalamic-pituitary axis.</li><li>Primary ovarian or testicular failure leads to delayed puberty.</li><li>There is a high risk of permanent infertility.</li><li>Hypothyroidism is a frequent complication.</li></ul> |
+| **Oncologic**      | <ul><li>The risk of developing secondary malignancies is significantly elevated.</li><li>Common secondary neoplasms include myelodysplastic syndromes, secondary leukemias, thyroid carcinoma, and brain tumors.</li></ul>                                                                                   |
+| **Cardiovascular** | <ul><li>Patients face an elevated risk for metabolic syndrome and dyslipidemia.</li><li>Cardiotoxicity is prevalent if exposed to pre-transplant anthracyclines or chest radiation.</li></ul>                                                                                                                |
+| **Neurologic**     | <ul><li>Neurocognitive deficits and progressive leukoencephalopathy can occur.</li><li>This is particularly seen in young children who receive cranial radiation.</li></ul>                                                                                                                                  |
+| **Other Systems**  | <ul><li>Restrictive pulmonary disease.</li><li>Renal toxicity.</li><li>Cataracts.</li><li>Dental abnormalities.</li></ul>                                                                                                                                                                                    |

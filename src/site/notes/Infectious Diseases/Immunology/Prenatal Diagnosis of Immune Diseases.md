@@ -2,113 +2,116 @@
 {"dg-publish":true,"uplink":"/infectious-diseases/infectious-diseases/","uptext":"Back to Index (Infectious Diseases)","permalink":"/infectious-diseases/immunology/prenatal-diagnosis-of-immune-diseases/","dgPassFrontmatter":true}
 ---
 
-## **Introduction** 
-Tuberculosis (TB) remains a major cause of childhood morbidity and mortality globally, particularly in developing countries like India. Children, especially those under 5 years of age, are highly susceptible to severe forms of the disease (e.g., [[Infectious Diseases/Disseminated TB\|disseminated TB]], [[Neurology/Meningitis\|meningitis]]) following infection. The management of childhood TB has shifted significantly from passive case finding to active strategies focusing on prevention and early detection to break the chain of transmission and improve outcomes.
+## Introduction To Primary Immune Deficiencies
 
-## 1. Prevention of Tuberculosis
+Primary immune deficiency diseases comprise more than 450 distinct disorders. These conditions fundamentally impair the development or functional capacity of the immune system. Most of these disorders result from a single gene pathogenic variant. More complex inheritance patterns can also occur. Diagnostic delays frequently lead to irreversible end-organ damage or fatal outcomes. Prenatal diagnosis allows for early identification and optimal perinatal management.
 
-Prevention strategies can be broadly categorized into preventing infection (infection control), preventing disease in infected individuals (preventive therapy), and vaccination.
+## Indications For Prenatal Diagnosis
 
-### A. Vaccination ([[Misc/BCG\|BCG]])
+Prenatal evaluation is strongly indicated when there is a known family history of a primary immune deficiency or when specific fetal anomalies are detected during routine obstetric care.
 
-Bacille Calmette-Guérin ([[Misc/BCG\|BCG]]) is a live attenuated vaccine derived from _Mycobacterium bovis_.
+### Family History
 
-- **Role:** It does not prevent primary infection or reactivation of latent TB, but it provides significant protection (approx. 85-90%) against severe, life-threatening forms of extrapulmonary TB in children, such as miliary TB and [[Neurology/Tubercular Meningitis\|tubercular meningitis]].
-- **Schedule:** In endemic countries like India, it is administered at birth or as early as possible.
-- **Contraindications:** Congenital immunodeficiency and symptomatic HIV infection.
-- **Complications:** [[Misc/BCG\|BCG]] lymphadenitis (isolated axillary/cervical node enlargement) is a known complication, usually managed conservatively unless suppuration occurs.
+- A known proband in the family strongly indicates the need for targeted genetic testing.
+- Identifying the specific genetic variant in the proband is the cornerstone for facilitating prenatal diagnosis in subsequent pregnancies.
 
-### B. Tuberculosis Preventive Treatment (TPT)
+### Fetal Ultrasonography Findings
 
-This is the cornerstone of preventing the progression from Latent TB Infection (TBI) to active TB disease.
+Advanced fetal ultrasound and fetal echocardiography can identify structural anomalies suggestive of underlying immune defects.
 
-- **Rationale:** Young children (<5 years) and immunocompromised hosts have a high risk of progression to active disease shortly after infection.
-    
-- **Target Populations:**
-    
-    1. **Household Contacts (HHC) < 5 years:** All children under 5 years in contact with a microbiologically confirmed pulmonary TB patient should receive TPT after ruling out active disease.
-    2. **People Living with HIV (PLHIV):** All CLHIV >12 months without active TB symptoms should receive TPT. Infants <12 months with HIV in contact with active TB should also receive TPT.
-    3. **Other High-Risk Groups:** Children on immunosuppressive therapy, anti-TNF treatment, dialysis, or preparing for organ transplant.
-    4. **HHC > 5 years:** Recent guidelines recommend TPT for older children and adolescents who are household contacts of pulmonary TB patients, ideally after testing for TBI (TST/IGRA) and ruling out active disease.
-- **Regimens:**
-    
-    - **6H:** Isoniazid (10 mg/kg/day) daily for 6 months.
-    - **3HP:** Isoniazid and Rifapentine weekly for 3 months (recommended for children >2 years).
-    - **Window Prophylaxis:** For children <5 years exposed to active TB but testing negative (TST/IGRA), prophylaxis is started. TST is repeated after 8-12 weeks; if positive, treatment continues; if negative and contact has ceased, it is stopped.
-- **Management of MDR-TB Contacts:**
-    
-    - Contacts of MDR-TB patients require careful evaluation. TPT with **Levofloxacin (6 months)** is recommended for contacts of fluoroquinolone-sensitive MDR-TB cases.
-
-### C. Airborne Infection Control (AIC)
-
-Preventing the transmission of _M. tuberculosis_ in healthcare and household settings is critical.
-
-- **Administrative Controls:** Early identification, isolation, and treatment of infectious cases (adults) to reduce transmission to children.
-- **Environmental Controls:** Ensuring adequate ventilation (natural or mechanical) in patient care areas and homes. Sunlight acts as a natural disinfectant.
-- **Personal Protection:** Use of surgical masks by infectious patients (cough etiquette) and N95 respirators by healthcare workers during high-risk procedures.
-
-### D. Prevention of Perinatal Tuberculosis
-
-- **Maternal Screening:** Pregnant women with symptoms or history of contact should be screened. Active TB in the mother should be treated with standard regimens (excluding streptomycin).
-- **Neonate Management:**
-    - If the mother has active TB, the neonate is evaluated for congenital TB.
-    - If the neonate has no active disease, **INH preventive therapy** is started immediately.
-    - [[Misc/BCG\|BCG]] is administered at birth.
-    - Breastfeeding is encouraged (unless the mother has breast lesions) with the mother using a mask.
-    - Separation is only required if the mother is non-adherent to therapy, has MDR-TB, or is too ill to care for the baby.
-
-## 2. Early Detection of Tuberculosis
-
-Early detection is vital to prevent morbidity and mortality. Pediatric TB is often paucibacillary, making diagnosis challenging.
-
-### A. Active Case Finding and Contact Investigation
-
-- **Reverse Contact Tracing:** In any child diagnosed with TB, an active search for the infectious source case (usually an adult in the household) must be conducted.
-- **Contact Screening:** All close contacts of an infectious Index case should be screened for symptoms. Children <5 years and symptomatic contacts require urgent evaluation.
-- **Intensified Case Finding (ICF):** Routine screening of high-risk groups, such as CLHIV, malnourished children (SAM), and those attending crowded settings (e.g., daycares), using a symptom checklist (fever, cough, weight loss, history of contact).
-
-### B. Diagnostic Approach for Early Detection
-
-The National Tuberculosis Elimination Program (NTEP) and IAP emphasize a systematic approach:
-
-1. **Clinical Suspicion (Presumptive TB):**
-    
-    - Persistent fever and/or cough >2 weeks.
-    - Significant weight loss (>5% in 3 months) or no weight gain.
-    - History of contact with an infectious TB case.
-2. **Upfront Molecular Testing (The Game Changer):**
-    
-    - **[[Genetics/NAAT\|NAAT]] (Nucleic Acid Amplification Test):** Tests like **CBNAAT (GeneXpert)** or **TrueNat** are now the primary diagnostic tools for children. They detect _M. tuberculosis_ and Rifampicin resistance simultaneously within hours.
-    - **Specimens:** Sputum (expectorated or induced) or Gastric Aspirate (GA) are standard. Alternative specimens like nasopharyngeal aspirates or stool are increasingly used for molecular testing in children who cannot produce sputum.
-    - **Advantage:** High sensitivity compared to smear microscopy and rapid detection of drug resistance (MDR-TB).
-3. **Chest Imaging:**
-    
-    - **Chest X-ray (CXR):** An essential screening tool. Findings highly suggestive of TB include hilar/paratracheal lymphadenopathy, miliary shadows, or fibrocavitary lesions.
-    - **CT Scan:** Used in complex cases (e.g., persistent pneumonia, neuro-TB) when CXR is inconclusive.
-4. **Tuberculin Skin Test (TST) / IGRA:**
-    
-    - **TST (Mantoux):** A positive test (>10 mm induration, or >5 mm in HIV/malnourished) indicates infection but not necessarily disease. It is a supportive tool, especially in culture-negative cases.
-    - **IGRA:** Interferon-Gamma Release Assays (e.g., QuantiFERON) are more specific than TST (no [[Misc/BCG\|BCG]] cross-reactivity) but do not differentiate latent infection from active disease.
-
-### C. Diagnostic Algorithm (Summary)
-
-- **Step 1:** Screen for symptoms (Fever, Cough, Weight loss, Contact).
-- **Step 2:** Perform Chest X-ray.
-- **Step 3:**
-    - If CXR is suggestive: Obtain samples (Gastric Aspirate/Induced Sputum) for **Upfront [[Genetics/NAAT\|NAAT]]**.
-    - If CXR is non-specific: Give a course of antibiotics. If symptoms persist, investigate for TB.
-- **Step 4:** If [[Genetics/NAAT\|NAAT]] positive: Treat as microbiological confirmed TB. If [[Genetics/NAAT\|NAAT]] negative but clinical suspicion is high (clinically diagnosed TB): Treat based on "Golden Triad" (Symptoms + X-ray + TST/Contact history).
-
-### Conclusion
-
-The strategy for controlling pediatric TB has evolved from simple chemotherapy to a comprehensive public health approach involving infection control, targeted preventive therapy for high-risk contacts, and the use of rapid molecular diagnostics for early and accurate detection. Clinicians must maintain a high Index of suspicion and utilize modern diagnostic algorithms to ensure timely management.
-
-### Summary of Key Interventions
-
-|**Intervention**|**Target**| **Key Action**                                                                                                           |
+|Fetal Ultrasound Finding|Associated Immune Disease|Pathogenesis And Details|
 |:--|:--|:--|
-|**[[Misc/BCG\|BCG]] Vaccine**|Newborns| Prevent severe [[Infectious Diseases/Disseminated TB\|disseminated TB]] ([[Neurology/Meningitis\|Meningitis]], Miliary). |
-|**Infection Control**|Hospitals/Homes| Masking infectious adults, ventilation, isolation.                                                                       |
-|**TPT (Preventive Therapy)**|Contacts <5y, PLHIV| Isoniazid (6mo) or 3HP to prevent progression to active disease.                                                         |
-|**Contact Tracing**|Household| Screen all contacts of Index \|cases; Reverse tracing for infected children.                                             |
-|**Early Diagnosis**|Presumptive cases| **Upfront [[Genetics/NAAT\|NAAT]] (CBNAAT)** on Gastric Aspirate/Induced Sputum.                                         |
+|Conotruncal cardiac anomalies|DiGeorge syndrome (Chromosome 22q11.2 deletion syndrome)|Disrupts development of the third and fourth pharyngeal pouches during early embryogenesis.|
+|Intrauterine growth restriction|Schimke immuno-osseous dysplasia|Associated with spondyloepiphyseal dysplasia and bone marrow failure.|
+|Intrauterine growth restriction|Trichohepatoenteric syndrome|Associated with early-onset intractable diarrhea and facial dysmorphic features.|
+|Extreme intrauterine growth restriction|MOPD1 deficiency (Roifman syndrome)|Associated with spondyloepiphyseal dysplasia and microcephaly.|
+|Intrauterine polyhydramnios|Immunodeficiency with multiple intestinal atresias|Caused by _TTC7A_ pathogenic variants. Early demise is common.|
+|Death in utero|IL6ST deficiency (loss of function)|Causes a fatal Stuve-Wiedemann-like syndrome with skeletal dysplasia.|
+
+## Genetic Counseling
+
+Genetic counseling is a critical component of managing families with a recognized history of primary immune deficiency diseases.
+
+### Role Of The Physician
+
+- Counseling is best performed by a physician who has direct knowledge of the clinical manifestations of the specific disease.
+- Identifying a patient's specific genetic subgroup by DNA analysis is primarily useful for genetic counseling and prenatal diagnosis.
+- This genetic identification is highly recommended for the first affected patient in a kindred.
+
+### Counseling In Severe Combined Immunodeficiency (SCID)
+
+- Genetic counseling is the most compelling reason for genetic sequencing to identify the pathogenic gene variant in SCID.
+- Early identification of the variant can lead to a significantly better transplant experience.
+- It allows clinicians to avoid or reduce dosages of conditioning agents during hematopoietic stem cell transplantation.
+
+### Counseling In Calcium Channel Defects
+
+- Genetic testing is strictly required to identify specific pathogenic variants in genes such as _ORAI1_ or _STIM1_.
+- This identification directly aids in genetic counseling and guides prenatal diagnosis for future pregnancies.
+
+## Carrier Screening And Testing Modalities
+
+Definitive prenatal diagnosis and carrier screening rely on targeted molecular genetics and specialized cellular assays.
+
+### Carrier Screening In Chronic Granulomatous Disease (CGD)
+
+- The X-linked carrier state is usually easily diagnosed in the mother.
+    - This is accomplished using the dihydrorhodamine flow cytometric assay.
+    - The assay measures oxidant production through increased fluorescence.
+    - Female carriers typically display a bimodal response to cellular stimulation.
+- All possibly affected females should be tested by the dihydrorhodamine assay to exclude the carrier state.
+- A subset of extremely lyonized carriers with less than 5% positive cells may experience chronic clinical problems.
+
+### DNA Analysis In Carriers
+
+- Diagnosis by DNA analysis is strongly recommended in suspected carriers with a normal dihydrorhodamine test who are related to a known proband.
+- A normal dihydrorhodamine test in an obligate carrier is a rare finding.
+    - This may indicate that the affected patient has a spontaneous _de novo_ mutation.
+    - In such instances, the mother may not actually be a carrier of the disease.
+
+## Early Postnatal Testing And Newborn Screening
+
+When targeted prenatal diagnosis is not performed, early postnatal testing serves as a critical safety net for identifying severe defects before the onset of symptomatic infections.
+
+### T-Cell Receptor Excision Circles (TRECs)
+
+- Severe combined immunodeficiency is included in the newborn screening program using the T-cell receptor excision circles assay.
+    - T-cell receptor excision circles are circular DNA fragments.
+    - They are generated during the V(D)J rearrangement of the T-cell receptor variable region.
+    - Because they do not replicate during cell division, they serve as an accurate biomarker.
+    - They reliably identify low numbers of recent thymic emigrants.
+- Quantitative polymerase chain reaction is used to detect these levels.
+
+### Kappa Recombination Excision Circles (KRECs)
+
+- Kappa excision circles are generated during early B-cell development.
+    - Assaying kappa excision circles simultaneously with TRECs expands the diagnostic yield of the newborn screen.
+    - It allows for the early postnatal identification of infants with agammaglobulinemia.
+
+### Evaluating Maternal Engraftment
+
+- Infants with severe combined immunodeficiency completely lack the capacity to reject foreign tissues.
+    - Transplacental passage of maternal T-lymphocytes during pregnancy can result in maternal engraftment within the immunodeficient fetus.
+    - Postnatally, this manifests with a phenotype closely resembling graft-versus-host disease.
+    - The presentation is characterized by severe erythroderma, hepatosplenomegaly, and diarrhea.
+- Fluorescence in situ hybridization for the X and Y chromosomes can definitively confirm maternal cell engraftment in male infants.
+
+## Prenatal Alloimmune Complications
+
+Prenatal immune evaluations must also consider acquired alloimmune conditions that develop in utero.
+
+### Alloimmune Neonatal Neutropenia
+
+- This condition occurs after the transplacental transfer of maternal alloantibodies.
+    - These immunoglobulin G antibodies are directed against specific antigens on the fetal neutrophils.
+    - Prenatal sensitization induces the production of these maternal antibodies.
+- Infants typically present within the first two weeks of life with severe neutropenia and infections.
+- The condition spontaneously resolves by approximately seven weeks of age as the maternal antibodies naturally decay.
+
+### Hemolytic Disease Of The Newborn
+
+- Hemolytic disease of the newborn is a severe alloimmune condition developing in the fetus.
+    - It is driven by maternal immunoglobulin G antibodies transferring via the placenta.
+    - These antibodies attack and lyse the red blood cells within the fetal circulation.
+- This destruction results in reticulocytosis and severe anemia.
+- Fetal death may occur _in utero_ due to progressive heart failure, a condition known as hydrops fetalis.

@@ -2,60 +2,156 @@
 {"dg-publish":true,"uptext":"Back to Index (🦠 Infectious Diseases)","uplink":"/infectious-diseases/infectious-diseases/","permalink":"/infectious-diseases/immunology/functions-of-phagocytes/","dgPassFrontmatter":true}
 ---
 
-### Primary Roles in Innate and Adaptive Immunity
+## Introduction To The Phagocytic System
 
-- The phagocyte system encompasses both granulocytes (neutrophils, eosinophils, basophils) and mononuclear phagocytes (monocytes and tissue macrophages), which serve as the rapid effector arm of the innate immune system.
-- The primary, defining properties of phagocytes are large-particle ingestion (phagocytosis) and microbial killing.
-- Phagocytes participate primarily in the innate immune response but also secrete chemotactic signals to attract dendritic cells and other initiators of the acquired (adaptive) immune response.
-- Macrophages specifically perform antigen processing and presentation, displaying degraded foreign protein fragments on their cell surface in conjunction with class II MHC proteins for interaction with CD4+ helper T cells.
-- Phagocytes regulate inflammation and promote tissue repair by turning off the inflammatory cascade and clearing tissue debris.
+- The phagocytic system serves as the rapid effector arm of the innate immune response.
+- It consists of two major cell types.
+    - Granulocytes include neutrophils, eosinophils, and basophils.
+    - Mononuclear phagocytes include circulating monocytes and tissue macrophages.
+- Phagocytes primarily perform large-particle ingestion and microbial killing.
+- They initiate acquired immunity by releasing chemotactic signals to attract dendritic cells.
+- Primary defects in phagocyte function account for less than twenty percent of primary immunodeficiencies.
+- Phagocyte defects classically present with deep tissue infections, adenitis, osteomyelitis, or cutaneous lesions.
 
-### Mechanisms of Migration and Microbial Killing
+## Hematopoiesis And Phagocyte Kinetics
 
-- Circulating neutrophils detect low levels of chemokines from infection sites, adhere to the vascular endothelium via selectins and integrins, and transmigrate into tissues.
-- Phagocytes ingest microbes coated by opsonins (such as immunoglobulin and complement component C3b) into a closed vacuole known as the phagosome.
-- Microbial destruction within the phagosome occurs via two concomitant pathways: degranulation and the oxidative burst.
-- Degranulation involves the fusion of neutrophil granule membranes with the phagosome, delivering potent antimicrobial proteins and peptides.
-- The oxidative burst involves the assembly and activation of the nicotinamide-adenine dinucleotide phosphate (NADPH)–dependent oxidase at the phagosome membrane.
-- The NADPH oxidase generates large amounts of superoxide from molecular oxygen, which decomposes to produce highly microbicidal hydrogen peroxide and singlet oxygen.
-- Myeloperoxidase (MPO) from azurophil granules catalyzes the reaction of hydrogen peroxide with chloride ions to create hypochlorous acid, a potent agent that destroys pathogens.
-- Phagocytes also secrete a wide variety of cytokines and chemokines (e.g., IL-1, TNF, IL-8) that recruit additional neutrophils, monocytes, and macrophages to the site of infection.
+### Neutrophil Maturation
 
-## Defects of Phagocyte Functions
+- Hematopoietic progenitor cells reside in the bone marrow.
+- Pluripotential stem cells give rise to common myeloid progenitor cells.
+- These differentiate into committed single-lineage progenitors.
+- Myelopoiesis is regulated by glycoproteins like granulocyte colony-stimulating factor (G-CSF) and granulocyte-macrophage colony-stimulating factor (GM-CSF).
+    - These growth factors stimulate cell division and induce transcription factors.
+    - The transcription factor PU.1 is essential for myelopoiesis.
+- Intramedullary granulocyte maturation involves nuclear condensation and granule accumulation.
+    - Promyelocytes acquire peroxidase-positive azurophilic (primary) granules.
+    - Myelocytes and metamyelocytes subsequently acquire specific (secondary) granules.
+    - Tertiary granules and secretory vesicles develop in the final maturation stage.
 
-### Disorders of Microbicidal Activity (Chronic Granulomatous Disease)
+### Neutrophil And Monocyte Kinetics
 
-- [[Infectious Diseases/Immunology/Chronic Granulomatous Disease (CGD)\|Chronic Granulomatous Disease (CGD)]] is caused by genetic defects in the subunits of the NADPH oxidase complex (most commonly an X-linked defect in _CYBB_ encoding gp91phox, or autosomal recessive defects in p47phox, p67phox, or p22phox).
-- Pathophysiologically, phagocytes in CGD possess normal chemotaxis and degranulation but fail to generate the microbicidal reactive oxygen species necessary to kill catalase-positive microorganisms.
-- Patients typically present with recurrent pneumonias, severe suppurative lymphadenitis, deep hepatic or subcutaneous abscesses, and osteomyelitis caused by organisms such as _Staphylococcus aureus_, _Aspergillus_, _Serratia marcescens_, _Burkholderia cepacia_, and _Nocardia_.
-- A hallmark of CGD is the formation of exuberant inflammatory granulomas that can obstruct the gastric outlet, pylorus, or urinary tract.
-- Diagnosis is established by evaluating the neutrophil oxidative burst using the dihydrorhodamine (DHR) reduction assay via flow cytometry.
-- Management includes lifelong antimicrobial prophylaxis with trimethoprim/sulfamethoxazole (TMP/SMX) and itraconazole, alongside subcutaneous interferon-gamma; definitive cure requires hematopoietic stem cell transplantation (HSCT).
+|Kinetic Parameter|Neutrophils|Mononuclear Phagocytes|
+|---|---|---|
+|Average time in mitosis|7 to 9 days|30 to 48 hours|
+|Average time in postmitosis|3 to 7 days|Not applicable|
+|Average circulating half-life|6 hours|36 to 104 hours|
+|Average daily turnover rate|1.8 × 10^8 cells/kg|1.8 × 10^9 cells/kg|
+|Average survival in tissues|Hours to days|Months|
+## The Phagocytic Response
 
-### Disorders of Adhesion (Leukocyte Adhesion Deficiencies)
+### Vascular Adherence And Transmigration
 
-- Leukocyte Adhesion Deficiency Type 1 (LAD-1) is an autosomal recessive disorder caused by a defect in the _ITGB2_ gene encoding the CD18 subunit of $\beta_2$-integrins.
-- Due to absent or severely reduced $\beta_2$-integrins, neutrophils cannot firmly adhere to endothelial intercellular adhesion molecules (ICAM-1 and ICAM-2) or recognize iC3b-opsonized microbes, preventing transmigration and phagocytosis.
-- LAD-1 classically presents with delayed separation of the umbilical cord, severe omphalitis, and recurrent bacterial infections of the skin and mucosal surfaces characterized by a distinct lack of pus formation.
-- Patients exhibit extreme, persistent neutrophilic leukocytosis (often >30,000 to >100,000/µL during active infection).
-- LAD Type 2 results from a fucose transporter defect leading to an absence of sialyl Lewis X (required for selectin-mediated rolling), presenting with milder infections, severe intellectual disability, and the Bombay blood phenotype.
-- LAD Type 3 involves defective integrin activation due to pathogenic variants in _FERMT3_ (Kindlin-3), presenting with LAD-1-like infections and a Glanzmann thrombasthenia-like bleeding disorder.
-- Treatment for severe LAD-1 relies on prophylactic antibiotics and early allogeneic HSCT.
+- Circulating neutrophils detect low levels of chemokines from sites of infection.
+- Neutrophils loosely adhere to the endothelium through low-affinity receptors called selectins.
+- They roll along the endothelium to form the marginated pool.
+- Inflammatory effectors trigger changes in surface adhesion molecules.
+- Neutrophils undergo qualitative and quantitative changes in beta-2 integrin adhesion receptors (CD11/CD18).
+- Tight adhesion occurs between neutrophils and endothelial cells.
+- The neutrophil transmigrates through the endothelium into the tissue.
 
-### Disorders of Degranulation (Chédiak-Higashi Syndrome)
+### Chemotaxis And Recognition
 
-- Chédiak-Higashi Syndrome is an autosomal recessive disorder caused by pathogenic variants in the _LYST_ gene, leading to the defective coalescence of lysosomal granules and the formation of giant primary granules in all granule-bearing cells.
-- The abnormal granules result in reduced contents of hydrolytic enzymes, severely impairing the intracellular killing of microorganisms, particularly _Staphylococcus aureus_.
-- Clinical features include partial oculocutaneous albinism (silvery hair, photophobia), progressive sensory and motor peripheral neuropathy, and a mild bleeding diathesis due to a platelet storage pool defect.
-- Patients are at a uniquely high risk of developing a fatal, accelerated phase of hemophagocytic lymphohistiocytosis (HLH), characterized by pancytopenia and massive lymphohistiocytic infiltration of organs.
-- Treatment includes high-dose ascorbic acid to temporarily improve neutrophil function, but definitive treatment for the accelerated phase requires HSCT.
+- The neutrophil senses a gradient of chemokines and migrates to the infection site.
+- Migration involves rounds of **receptor engagement, signal transduction, and actin microfilament remodeling.**
+- Neutrophils recognize pathogens via specific receptors.
+    - Fc immunoglobulin receptors.
+    - Complement receptors.
+    - Toll-like receptors.
 
-### Myeloperoxidase (MPO) Deficiency
+### Ingestion And Phagosome Formation
 
-- MPO deficiency is a common autosomal recessive disorder affecting the generation of hypochlorous acid in neutrophils and monocytes.
-- The condition is usually clinically silent due to intact redundant killing mechanisms, though rarely it can present with disseminated candidiasis in patients with concurrent diabetes mellitus.
+- Neutrophils ingest microbes that are coated by opsonins.
+    - Opsonins include immunoglobulins and complement components like C3b.
+- Pathogens are engulfed into a closed vacuole termed the phagosome.
 
-### Disorders of Motility and Chemotaxis
+### Intracellular Killing Mechanisms
 
-- Pure primary chemotactic defects are exceptionally rare; however, conditions like "Lazy Leukocyte Syndrome" present with impaired neutrophil locomotion and frequent bacterial infections like stomatitis and otitis despite normal bone marrow reserves.
-- Actin-binding protein deficiency leads to slow mobility of leukocytes resulting in recurrent infections.
+#### Degranulation
+
+- Neutrophil granule membranes fuse with the phagosome membrane.
+- Fusion delivers potent antimicrobial proteins and small peptides into the phagosome.
+
+#### Oxidative Burst (NADPH Oxidase Pathway)
+
+- The nicotinamide adenine dinucleotide phosphate (NADPH)-dependent oxidase assembles at the phagosome membrane.
+- Cytosolic components (p67phox, p47phox, p40phox, and Rac2) translocate to the membrane.
+- They combine with the transmembrane flavocytochrome b558 (composed of gp91phox and p22phox).
+- The active oxidase generates superoxide from molecular oxygen.
+- Superoxide decomposes to form hydrogen peroxide and singlet oxygen.
+- Myeloperoxidase from azurophil granules catalyzes the reaction of hydrogen peroxide with chloride ions.
+- This reaction creates hypochlorous acid, a potent microbicidal agent.
+
+## Diagram Of Phagocytosis And Oxidative Burst
+
+```mermaid
+graph TD
+    subgraph Vascular Phase
+        A[Circulating Neutrophil] -->|Selectins| B[Rolling on Endothelium]
+        B -->|Chemokines & Integrins CD11/CD18| C[Tight Adhesion]
+        C --> D[Transmigration/Diapedesis]
+    end
+    subgraph Tissue Phase
+        D -->|Actin Remodeling| E[Chemotaxis to Microbe]
+        E -->|Fc & Complement Receptors| F[Recognition & Opsonization]
+        F --> G[Ingestion into Phagosome]
+    end
+    subgraph Intracellular Killing
+        G --> H[Degranulation of Primary/Secondary Granules]
+        G --> I[NADPH Oxidase Assembly]
+        I -->|O2 conversion| J[Superoxide Production]
+        J -->|Superoxide Dismutase| K[Hydrogen Peroxide]
+        K -->|Myeloperoxidase + Cl-| L[Hypochlorous Acid HOCl]
+        L --> M[Microbial Destruction]
+    end
+```
+
+## Primary Immunodeficiencies Affecting Phagocytes
+
+- Genetic defects can interrupt normal phagocyte physiology at multiple stages.
+
+### Defects In Neutrophil Production
+
+- Severe congenital neutropenia is characterized by an arrest in myeloid maturation at the promyelocyte stage.
+- It commonly results from pathogenic variants in the ELANE gene.
+- Recessive forms arise from variants in HAX1 or G6PC3.
+- Patients lack adequate peripheral neutrophils to combat pyogenic infections.
+
+### Defects In Adhesion And Chemotaxis
+
+- Leukocyte adhesion deficiency type 1 results from an absence of CD11/CD18 beta-2 integrins.
+    - Neutrophils cannot adhere firmly to intercellular adhesion molecules.
+    - Patients exhibit striking neutrophilia but infections lack pus formation.
+- Leukocyte adhesion deficiency type 2 is caused by a loss of fucosylation.
+    - It affects the generation of sialyl Lewis X, which is critical for low-affinity rolling.
+- Leukocyte adhesion deficiency type 3 is caused by pathogenic variants in KINDLIN3.
+    - It results in impaired integrin activation and severe bleeding tendencies.
+
+### Defects In Microbicidal Activity
+
+- Chronic granulomatous disease is caused by the failure to express functional NADPH oxidase components.
+    - Pathogenic variants affect gp91phox, p22phox, p47phox, or p67phox.
+    - Neutrophils phagocytose bacteria normally but fail to produce superoxide.
+    - Patients suffer recurrent infections from catalase-positive organisms like Staphylococcus aureus and Aspergillus.
+- Myeloperoxidase deficiency prevents the conversion of hydrogen peroxide to hypochlorous acid.
+    - It is usually clinically silent but may present with disseminated candidiasis in diabetics.
+
+### Defects In Degranulation And Vesicular Trafficking
+
+- Chédiak-Higashi syndrome involves an autosomal recessive defect in the LYST gene.
+    - It causes disordered coalescence of lysosomal granules.
+    - Neutrophils contain abnormally giant primary granules.
+    - Secondary lysosomes have reduced contents of hydrolytic enzymes.
+    - This results in impaired killing of microorganisms and progressive neuropathy.
+- Specific granule deficiency arises from the functional loss of myeloid transcription factors.
+    - It leads to an absence of secondary granules and their contents, impairing bactericidal activity.
+
+## Summary Of Selected Phagocyte Disorders
+
+| Disorder Category | Specific Disease                | Gene/Defect            | Impaired Physiological Function     |
+| ----------------- | ------------------------------- | ---------------------- | ----------------------------------- |
+| Adhesion          | Leukocyte adhesion deficiency 1 | CD18                   | Tight adherence and transmigration, |
+| Adhesion          | Leukocyte adhesion deficiency 2 | GDP-fucose transporter | Selectin-mediated rolling,          |
+| Microbicidal      | Chronic granulomatous disease   | gp91phox, p47phox      | NADPH oxidase respiratory burst,    |
+| Microbicidal      | Myeloperoxidase deficiency      | Missense variant       | Generation of hypochlorous acid,    |
+| Degranulation     | Chédiak-Higashi syndrome        | LYST                   | Granule fusion and exocytosis,      |
+| Degranulation     | Specific granule deficiency     | Gfi-1 or C/EBP epsilon | Formation of specific granules      |

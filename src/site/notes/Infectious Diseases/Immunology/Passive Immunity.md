@@ -4,20 +4,20 @@
 
 ### Introduction
 
-Immunization is the process of inducing immunity against a specific disease. Immunity can be acquired actively or passively. **[[Infectious Diseases/Immunology/Passive Immunity\|Passive Immunity]]** is achieved by the administration of preformed antibodies, rather than stimulating the host's immune system to produce its own antibodies (active immunity).
+Immunization is the process of inducing immunity against a specific disease. Immunity can be acquired actively or passively. **Passive Immunity** is achieved by the administration of preformed antibodies, rather than stimulating the host's immune system to produce its own antibodies (active immunity).
 
-The key characteristics of [[Infectious Diseases/Immunology/Passive Immunity\|Passive Immunity]] are:
+The key characteristics of Passive Immunity are:
 
 - **Immediate Protection:** It provides immediate protection upon administration, which is critical in post-exposure scenarios or for pathogens with rapid disease progression.
-- **Transient Nature:** Unlike active immunity, [[Infectious Diseases/Immunology/Passive Immunity\|Passive Immunity]] does not generate immunologic memory. Protection is temporary, lasting only weeks to months as the transferred antibodies are catabolized.
+- **Transient Nature:** Unlike active immunity, Passive Immunity does not generate immunologic memory. Protection is temporary, lasting only weeks to months as the transferred antibodies are catabolized.
 
-### Types of [[Infectious Diseases/Immunology/Passive Immunity\|Passive Immunity]]
+### Types of Passive Immunity
 
-1. **Natural [[Infectious Diseases/Immunology/Passive Immunity\|Passive Immunity]]:**
+1. **Natural Passive Immunity:**
     
     - **Transplacental:** Transfer of maternal IgG antibodies to the fetus, providing protection during the first few months of life.
     - **Breastfeeding:** Transfer of secretory IgA and other factors to the infant via breast milk, protecting mucosal surfaces.
-2. **Artificial [[Infectious Diseases/Immunology/Passive Immunity\|Passive Immunity]]:**
+2. **Artificial Passive Immunity:**
     
     - Achieved through the administration of antibody-containing preparations derived from humans, animals, or recombinant technology.
 
@@ -35,7 +35,7 @@ Clinical products available for passive immunization fall into four main categor
 
 ### Clinical Applications in Pediatrics
 
-The clinical applications of [[Infectious Diseases/Immunology/Passive Immunity\|Passive Immunity]] in pediatrics are broad, categorized primarily into replacement therapy, prophylaxis (pre- and post-exposure), and treatment of specific diseases.
+The clinical applications of Passive Immunity in pediatrics are broad, categorized primarily into replacement therapy, prophylaxis (pre- and post-exposure), and treatment of specific diseases.
 
 #### 1. Replacement Therapy for Immunodeficiencies
 
@@ -46,7 +46,7 @@ For children with defects in antibody production (e.g., X-linked Agammaglobuline
 
 #### 2. Prophylaxis Against Infectious Diseases
 
-[[Infectious Diseases/Immunology/Passive Immunity\|Passive Immunity]] is crucial for preventing infection after exposure (Post-Exposure Prophylaxis - PEP) or before exposure in high-risk infants.
+Passive Immunity is crucial for preventing infection after exposure (Post-Exposure Prophylaxis - PEP) or before exposure in high-risk infants.
 
 - **Respiratory Syncytial Virus (RSV):**
     - _Palivizumab:_ A monoclonal antibody used for prophylaxis in high-risk infants (prematurity, [[Respiratory/Chronic Lung Disease\|chronic lung disease]], congenital heart disease).
@@ -62,7 +62,7 @@ For children with defects in antibody production (e.g., X-linked Agammaglobuline
 
 #### 3. Treatment of Infectious and Inflammatory Diseases
 
-[[Infectious Diseases/Immunology/Passive Immunity\|Passive Immunity]] is used therapeutically to neutralize toxins or modulate the immune response.
+Passive Immunity is used therapeutically to neutralize toxins or modulate the immune response.
 
 - **[[Rheumatology/Kawasaki Disease\|Kawasaki Disease]] & MIS-C:** High-dose IVIG is the standard of care to reduce systemic inflammation and prevent coronary artery aneurysms in [[Rheumatology/Kawasaki Disease\|Kawasaki disease]] and Multisystem Inflammatory Syndrome in Children (MIS-C).
 - **Botulism:**
