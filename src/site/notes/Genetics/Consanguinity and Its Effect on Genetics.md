@@ -46,7 +46,7 @@ Advanced genomic technologies are essential for diagnosing consanguinity-related
 
 ### [[Genetics/Next-Generation Sequencing (NGS)\|Next-Generation Sequencing (NGS)]]
 
-- Whole [[Genetics/Exome Sequencing\|exome sequencing]] and whole genome sequencing provide an exceptionally high diagnostic yield in consanguineous families.
+- Whole [[Genetics/Sanger Sequencing\|exome sequencing]] and whole genome sequencing provide an exceptionally high diagnostic yield in consanguineous families.
 - Homozygosity mapping utilizes bioinformatic pipelines to filter variants within identified homozygous blocks, drastically simplifying the identification of the causal AR gene.
 
 ## Genetic Counselling And Management

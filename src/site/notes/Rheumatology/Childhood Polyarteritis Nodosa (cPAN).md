@@ -25,7 +25,7 @@ Highly variable, multisystem involvement.
 - **Laboratory:** Strikingly elevated ESR and CRP. Leukocytosis, thrombocytosis, anemia of chronic disease. 
 - **Immunology:** ANCA is characteristically NEGATIVE.
 - **Infectious workup:** ASOT / Anti-DNase B (to rule out streptococcal association), HBV, HCV.
-- **Genetics:** Targeted sequencing or whole [[Genetics/Exome Sequencing\|exome sequencing]] for ADA2 gene mutations.
+- **Genetics:** Targeted sequencing or whole [[Genetics/Sanger Sequencing\|exome sequencing]] for ADA2 gene mutations.
 - **Imaging (Vascular):** CT/MR Angiography or conventional catheter angiography of renal, mesenteric, and celiac arteries. 
     - Hallmark finding: "Beads on a string" appearance (alternating microaneurysms and focal stenoses).
 - **Histopathology (Definitive):** Deep skin biopsy (including subcutaneous fat), muscle, or sural nerve biopsy showing necrotizing arteritis of medium/small arteries without granulomas.

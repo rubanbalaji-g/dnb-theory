@@ -92,7 +92,7 @@ Adopt a hypothesis-driven approach, prioritizing least invasive and highest-yiel
 |**First-Tier Genetic**|Chromosomal Microarray (CMA)|First-line for developmental delay, intellectual disability, dysmorphism, or multiple congenital anomalies; detects copy number variants.|
 |**First-Tier Genetic**|Conventional [[Genetics/Karyotyping\|Karyotyping]]|Suspected classic aneuploidy (e.g., Trisomy 21) or to detect balanced rearrangements.|
 |**Targeted Testing**|FISH or MLPA|Suspected specific microdeletion or microduplication (e.g., 22q11.2 deletion syndrome, [[Genetics/Williams Syndrome\|Williams syndrome]]).|
-|**Second-Tier Genetic**|Whole [[Genetics/Exome Sequencing\|Exome Sequencing]] (WES)|Unresolved cases, consanguinity, or strong family history following a negative CMA; utilizes a trio approach (proband plus parents).|
+|**Second-Tier Genetic**|Whole [[Genetics/Sanger Sequencing\|Exome Sequencing]] (WES)|Unresolved cases, consanguinity, or strong family history following a negative CMA; utilizes a trio approach (proband plus parents).|
 |**Ancillary**|Imaging and Biochemical|Echocardiography for murmurs, renal ultrasound, skeletal survey, brain MRI, and metabolic screening (e.g., urine glycosaminoglycans) based on specific clinical clues.|
 
 ## Step 5: Multidisciplinary Management Planning

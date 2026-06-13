@@ -206,7 +206,7 @@ Characterized by male karyotype with ambiguous or complete female external genit
     - AMH serves as biomarker of Sertoli cell presence/function.
     - **hCG Stimulation Test:** Assesses Leydig cell capacity to synthesize testosterone and differentiates enzymatic blocks (e.g., T/DHT ratio for 5α-reductase deficiency, Androstenedione/T ratio for 17β-HSD3).
 - **Genetic Diagnostics:**
-    - Microarray (CGH), specific DSD gene panels, or whole [[Genetics/Exome Sequencing\|exome sequencing]] (WES) to identify _WT1_, _SF1_, _SOX9_, _SRY_ mutations.
+    - Microarray (CGH), specific DSD gene panels, or whole [[Genetics/Sanger Sequencing\|exome sequencing]] (WES) to identify _WT1_, _SF1_, _SOX9_, _SRY_ mutations.
 
 ### Imaging and Surgical Evaluation
 

@@ -2,7 +2,7 @@
 {"dg-publish":true,"uplink":"/nutrition/nutrition/","uptext":"Back to Index (Nutrition)","permalink":"/nutrition/double-burden-of-malnutrition/","dgPassFrontmatter":true}
 ---
 
-The "[[Nutrition/Double Burden of Malnutrition\|Double Burden of Malnutrition]]" refers to the coexistence of undernutrition along with overweight and obesity, or diet-related non-communicable diseases (NCDs), within individuals, households, and populations throughout life.
+The "Double Burden of Malnutrition" refers to the coexistence of undernutrition along with overweight and obesity, or diet-related non-communicable diseases (NCDs), within individuals, households, and populations throughout life.
 
 - **Broad Definition:** Malnutrition is a general term encompassing both undernutrition (resulting from inadequate consumption, poor absorption, or excessive loss of nutrients) and overnutrition (resulting from excessive intake of specific nutrients).
 - **The Paradox:** It represents a paradox where undernutrition (wasting, stunting, micronutrient deficiencies) and obesity coexist. This phenomenon is increasingly observed in developing countries like India due to nutritional and epidemiological transitions.

@@ -2,7 +2,7 @@
 {"dg-publish":true,"uplink":"/nutrition/nutrition/","uptext":"Back to Index (Nutrition)","permalink":"/nutrition/diagnosis-of-sam/","dgPassFrontmatter":true}
 ---
 
-### 1. Definition and Diagnostic Criteria (Children 6–59 Months)
+## 1. Definition and Diagnostic Criteria (Children 6–59 Months) 
 
 SAM is defined by the presence of **any one** of the following three criteria in a child aged 6 to 59 months:
 

@@ -52,7 +52,7 @@ Indicated if screening is positive, previous history of genetic disease, or adva
 * **Karyotype:** Detects aneuploidy (Trisomy 21) and large structural rearrangements.
 * **FISH (Fluorescence In Situ Hybridization):** Rapid detection (24-48 hrs) of specific trisomies (13, 18, 21, X, Y).
 * **Chromosomal Microarray (CMA):** Gold standard for structural anomalies with normal karyotype; detects microdeletions/duplications.
-* **Whole [[Genetics/Exome Sequencing\|Exome Sequencing]] (WES):** Newer modality for identifying single-gene disorders when CMA is normal.
+* **Whole [[Genetics/Sanger Sequencing\|Exome Sequencing]] (WES):** Newer modality for identifying single-gene disorders when CMA is normal.
 
 ---
 ## 3. PREVENTION OF CONGENITAL MALFORMATIONS

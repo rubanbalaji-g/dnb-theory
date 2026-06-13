@@ -12,7 +12,7 @@
 ## Classification And Etiology
 
 The urea cycle requires five catalytic enzymes, a cofactor-synthesizing enzyme, and transport proteins.
-![Pasted image 20260511235940.png](/img/user/+%C4%B0mages/Pasted%20image%2020260511235940.png)
+![Pasted image 20260612191125.png](/img/user/+%C4%B0mages/Pasted%20image%2020260612191125.png)
 
 |Defect Location|Specific Enzyme Or Transporter|Associated Disorder|
 |---|---|---|

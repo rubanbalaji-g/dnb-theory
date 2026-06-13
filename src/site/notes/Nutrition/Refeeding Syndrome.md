@@ -2,118 +2,138 @@
 {"dg-publish":true,"uplink":"/nutrition/nutrition/","uptext":"Back to Index (Nutrition)","permalink":"/nutrition/refeeding-syndrome/","dgPassFrontmatter":true}
 ---
 
-[[Nutrition/Refeeding Syndrome\|Refeeding syndrome]] is a potentially fatal condition that occurs in response to the rapid reintroduction of nutrition (oral, enteral, or parenteral) in a malnourished patient. It is characterized by rapid electrolyte and fluid shifts resulting from the metabolic changes triggered by feeding.
+## Definition and Core Concepts
 
-### Pathophysiology
-
-The syndrome is driven by the shift from a catabolic (starvation) state to an anabolic (growth/storage) state.
-
-- **Starvation State (Reductive Adaptation):**
-    
-    - When intake is insufficient, the body conserves energy and prolongs life through "reductive adaptation".
-    - Insulin levels fall, and glucagon increases.
-    - Fat and muscle stores are mobilized for energy.
-    - Intracellular stores of electrolytes (phosphate, potassium, magnesium) become depleted, although serum levels may remain normal due to homeostatic mechanisms and reduced renal excretion.
-    - The heart becomes smaller and weaker with reduced cardiac output.
-  
-- **Refeeding State:**
-    
-    - **Insulin Surge:** The reintroduction of carbohydrates/nutrition causes a sudden surge in insulin.
-    - **Intracellular Shift:** Insulin stimulates the cellular uptake of glucose, potassium, magnesium, and phosphate for protein synthesis and glycogen storage.
-    - **Serum Depletion:** This rapid uptake leads to profound hypophosphatemia, hypokalemia, and hypomagnesemia in the blood.
-    - **Fluid Retention:** Insulin stimulates the sodium-potassium pump, causing sodium retention. The kidneys, already adapted to conserve sodium, cannot excrete the excess, leading to fluid overload and expansion of the extracellular volume.
-    - **Thiamine Depletion:** Reactivation of carbohydrate metabolism consumes thiamine (Vitamin B1), risking acute deficiency.
-
-### Risk Factors
-
-According to NICE guidelines, patients are at high risk if they have one or more of the following:
-
-- Body Mass Index (BMI) < 16 kg/m².
-- Unintentional weight loss of >15% in the previous 3–6 months.
-- Little or no nutritional intake for >10 days.
-- Low levels of potassium, phosphorus, or magnesium before refeeding.
-
-Or two or more of the following:
-
-- BMI < 18.5 kg/m².
-- Unintentional weight loss >10% in the previous 3–6 months.
-- Little or no nutritional intake for >5 days.
-- History of alcohol/drug use, chemotherapy, or diuretic use.
-
-### Clinical Manifestations
-
-The clinical features are diverse and primarily result from electrolyte deficiencies and fluid overload (Table 63.1):
-
-- **Cardiovascular:**
-    - Heart failure due to fluid overload and weakened myocardium (from atrophy and hypophosphatemia).
-    - Hypotension, arrhythmias, and sudden death.
-- **Respiratory:**
-    - Respiratory failure due to impaired diaphragm contractility (severe hypophosphatemia).
-    - Dyspnea and pulmonary edema.
-- **Neurological:**
-    - Paresthesia, weakness, paralysis (hypokalemia/hypophosphatemia).
-    - Confusion, delirium, seizures, and coma.
-    - Wernicke’s encephalopathy (due to [[Nutrition/Thiamine Deficiency\|thiamine deficiency]]).
-- **Hematologic:**
-    - Hemolysis, thrombocytopenia, and leukocyte dysfunction.
-- **Gastrointestinal:**
-    - Lactase deficiency is common due to mucosal atrophy.
-
-### Management of [[Nutrition/Refeeding Syndrome\|Refeeding Syndrome]]
-
-Management involves anticipating the risk, starting feeds cautiously ("start low, go slow"), and aggressively monitoring and correcting electrolytes.
-
-#### 1. Prevention and Initial Feeding Strategy
-
-- **Identification:** Recognize patients at risk (e.g., anorexia nervosa, severe acute malnutrition).
-- **Thiamine Supplementation:** Administer thiamine and multivitamin supplements before or with the start of feeding to prevent Wernicke's encephalopathy.
-- **Caloric Restriction:**
-    - Avoid aggressive refeeding.
-    - For Severe Acute Malnutrition (SAM), start with **Starter Diet (F-75)**. This provides 75 kcal/100 mL and only 0.9 g protein/100 mL.
-    - The target initial volume is usually 130 mL/kg/day (100 kcal/kg/day), but reduced to 100 mL/kg/day if severe edema is present.
-    - Feeds should be small and frequent (every 2 hours) to avoid overwhelming metabolic capacity.
-- **Avoid Diuretics:** Edema should be treated by nutritional rehabilitation, not diuretics, to avoid exacerbating electrolyte imbalances.
-
-#### 2. Electrolyte Replacement and Monitoring
-
-Serum electrolyte levels must be monitored daily. Deficits should be corrected as follows (based on guidance for adolescents/eating disorders):
-
-- **Hypophosphatemia:**
-    - **Phosphate 2.5–2.9 mg/dL:** Phos-Na-K supplement, 1 packet (250 mg) orally three times daily.
-    - **Phosphate 2.0–2.4 mg/dL:** Phos-Na-K, 2 packets (500 mg) orally three times daily.
-    - **Phosphate <2.0 mg/dL:** Consider IV Na-K-Phos (0.24 mmol/kg, max 15 mmol/dose) and intensive care consultation.
-- **Hypokalemia:**
-    - **Potassium 3.1–3.4 mmol/L:** Extended-release KCl 20 mEq orally (recheck in 8–12 hours).
-    - **Potassium 2.5–3.0 mmol/L:** Extended-release KCl 40 mEq orally (recheck in 8–12 hours).
-    - **Potassium <2.5 mmol/L:** Immediate oral or IV replacement and intensive care consultation.
-    - _Note:_ In SAM protocols, extra potassium (3–4 mEq/kg/day) is added routinely to feeds for at least 2 weeks.
-- **Hypomagnesemia:**
-    - **Magnesium 1.3–1.7 mg/dL:** Magnesium oxide 1 tablet (133–200 mg elemental Mg) twice daily.
-    - **Magnesium 1.0–1.2 mg/dL:** Magnesium oxide 2 tablets twice daily.
-    - **Magnesium <1.0 mg/dL:** IV Magnesium sulfate (50 mg/kg, max 2 g) and intensive care consultation.
-    - _Note:_ In SAM, magnesium is routinely supplemented (0.4–0.6 mEq/kg daily).
-
-#### 3. Monitoring for Complications
-
-- **Fluid Overload:** Monitor pulse rate and respiratory rate carefully. An increase in pulse by 25 beats/min or respiratory rate by 5 breaths/min indicates fluid overload/heart failure. If this occurs, stop feeds/infusions and reassess.
-- **Blood Glucose:** Monitor for hyperglycemia (due to insulin resistance) or hypoglycemia (due to liver dysfunction).
-
-#### 4. Transition to Rehabilitation
-
-- Only advance to higher calorie feeds (Catch-up F-100: 100 kcal/100 mL, ~2.9 g protein) when the child has stabilized:
-    - Return of appetite (eating well).
-    - Resolution or reduction of edema.
-    - No medical complications.
-- The transition should be gradual (over ~3 days) to prevent precipitating heart failure. Replace F-75 with F-100 gradually, increasing volume by 10 mL per feed until some food is left uneaten.
+- Refeeding syndrome occurs during the reintroduction of nutrition in a malnourished patient.
+- The nutrition can be provided via oral, enteral, or parenteral routes.
+- Parenteral feeding carries the highest risk for precipitating this syndrome.
+- Rapid electrolyte and fluid shifts occur in response to an **insulin surge.**
+- This insulin surge is triggered by the new presence of nutrients.
+- These shifts can lead to numerous severe medical complications.
+- The condition may progress to life-threatening outcomes.
+- These fatal outcomes include coma, heart failure, and sudden death.
 
 ### Nutrition Recovery Syndrome
 
-A distinct but related entity known as "Nutrition Recovery Syndrome" may occur during therapy (typically day 20-40). It is characterized by:
+- This is a related concept describing an apparent clinical worsening during therapy.
+- It is marked by an increase in liver size, hypertrichosis, and gynecomastia.
+- Parotid swelling, abdominal distension, ascites, and splenomegaly may occur.
+- Eosinophilia and an encephalitis-like picture are also documented.
+- Self-limited tremors during treatment are known as the 'kwashi shake'.
+- This is considered a self-limited condition.
+- It is attributed to excess hormones secreted during recovery rather than dietary protein excess.
+- Dysmyelination, vitamin deficiencies, and neurotransmitter imbalances are possible underlying causes.
+- A high solute load on the kidneys is another contributing factor.
+- The term 'refeeding syndrome' is specifically used when hyperphosphatemia is present.
+- In clinical practice, the child should be observed carefully.
+- Nutritional therapy must be continued despite these transient signs.
 
-- Hepatomegaly (enlargement of the liver).
-- Abdominal distension and ascites.
-- Hypertrichosis (excessive hair growth).
-- Parotid swelling.
-- Gynaecomastia.
-- Eosinophilia.
-- This is a self-limiting condition attributed to hormonal changes during recovery rather than protein excess, though it requires differentiation from heart failure.
+## Pathophysiology
+
+- The primary mechanism involves an increase in the supply of energy.
+- This energy is usually in the form of carbohydrates.
+- This supply is accompanied by a sudden increase in sodium pump activity.
+- Too sudden a supply risks causing a rapid release of accumulated intracellular sodium.
+- This causes a rapid expansion of extracellular and plasma volumes.
+- Concurrently, there is an increased cellular uptake of glucose.
+- Potassium, magnesium, and phosphate are also driven rapidly into the cells.
+- Metabolic pathways for adenosine triphosphate (ATP) production are reactivated.
+- This reactivation further depletes serum phosphorus levels.
+
+## Risk Factors and High-Risk Populations
+
+- Risk is greatest within the first 7 days of the start of feeding.
+- Low body weight is identified as the primary risk factor.
+- The initial caloric load is less predictive of risk than the degree of weight loss.
+- Early accounts of the syndrome were among starved survivors of wartime sieges.
+- Prisoners of war also developed this when given sudden access to unlimited food.
+
+### Vulnerable Patient Populations
+
+- Patients with anorexia nervosa and other restrictive eating disorders.
+- Patients with chronic conditions causing malnutrition, such as cancer or congenital heart disease.
+- Patients with malabsorptive syndromes, including inflammatory bowel disease and cystic fibrosis.
+- Patients with cerebral palsy.
+- Patients with a history of bariatric surgery or bowel resections.
+
+### National Institutes for Clinical Excellence (NICE) Guidelines
+
+The NICE guidelines help identify patients at high risk for developing refeeding syndrome.
+
+|High Risk Criteria (One or more present)|Moderate Risk Criteria (Two or more present)|
+|:--|:--|
+|Body Mass Index (BMI) < 16 kg/m2|BMI < 18.5 kg/m2|
+|Unintentional weight loss > 15% in the previous 3 to 6 months|Unintentional weight loss > 10% in the previous 3 to 6 months|
+|Little or no nutritional intake for > 10 days|Little or no nutritional intake for > 5 days|
+|Low levels of potassium, phosphorus, or magnesium before refeeding|History of alcohol or drug use|
+|Not Applicable|History of using insulin, chemotherapy, antacids, or diuretics|
+
+## Clinical Manifestations and Complications
+
+The clinical signs of refeeding syndrome span multiple organ systems. They are primarily driven by specific electrolyte shifts and vitamin deficiencies.
+
+|Pathological State|Organ System|Clinical Signs and Symptoms|
+|:--|:--|:--|
+|**Hypophosphatemia**|Cardiac|Hypotension, decreased stroke volume, death.|
+||Respiratory|Impaired diaphragm contractility, dyspnea, respiratory failure.|
+||Neurologic|Paresthesia, weakness, confusion, disorientation, lethargy, areflexic paralysis, seizures, coma.|
+||Hematologic|Leukocyte dysfunction, hemolysis, thrombocytopenia.|
+|**Hypokalemia**|Cardiac|Arrhythmias.|
+||Respiratory|Respiratory failure.|
+||Neurologic|Weakness, paralysis.|
+||Gastrointestinal|Nausea, vomiting, constipation.|
+||Muscular|Rhabdomyolysis, muscle necrosis.|
+|**Hypomagnesemia**|Cardiac|Arrhythmias, death.|
+||Neurologic|Weakness, tremor, tetany, seizures, altered mental status, coma.|
+||Gastrointestinal|Nausea, vomiting, diarrhea.|
+||Other|Refractory hypokalemia, refractory hypocalcemia.|
+|**Thiamine/Vitamin Deficiency**|Neurologic/Metabolic|Encephalopathy, lactic acidosis, death.|
+|**Sodium Retention**|Cardiac/Pulmonary|Fluid overload, pulmonary edema, cardiac compromise.|
+|**Hyperglycemia**|Systemic|Hypotension, hypercapnia, respiratory failure, ketoacidosis, coma, dehydration, impaired immune function.|
+
+## Prevention and Management
+
+### Dietary Advancement
+
+- In Severe Acute Malnutrition (SAM), pushing nutrition too quickly risks inducing the syndrome.
+- Treatment must proceed in an ordered progression.
+- The metabolic machinery must be repaired before attempting to promote weight gain.
+- A controlled transition over 3 days is recommended when moving from stabilization to rehabilitation phases.
+- This transition helps prevent refeeding syndrome.
+- Historically, lower-calorie refeeding with cautious advancement was the standard key to prevention.
+- Starting diets at 1000 to 1200 calories per day were widely recommended.
+- Diets as low as 500 calories per day were historically recommended in Europe.
+- These cautious approaches are still strictly recommended for patients with extreme malnutrition.
+- Extreme malnutrition is defined as less than 60% of the median BMI for age and sex.
+
+#### Nuances in Adolescent Management
+
+- In the United States, the majority of hospitalized patients are adolescents with acute, moderate malnutrition.
+- In this specific population, studies have demonstrated the feasibility of higher-calorie refeeding.
+- Refeeding beginning at greater than 1400 calories per day is documented.
+- Randomized clinical trials show efficacy and safety in starting with 2000 calories per day.
+- This applies to hospitalized adolescents with moderate malnutrition secondary to anorexia nervosa.
+
+### Electrolyte Monitoring and Repletion
+
+- Serum electrolyte levels must be monitored daily in hospital settings.
+- Electrolyte shifts are often lower than expected when using structured protocols.
+- Decreased electrolyte levels must be corrected promptly with supplementation.
+- Declining electrolytes that remain within the normal range generally do not require treatment.
+
+#### Specific Repletion Guidelines
+
+The following guidance is suggested for electrolyte repletion in adolescents with eating disorders.
+
+|Electrolyte|Severity Level|Treatment / Action Required|
+|:--|:--|:--|
+|**Phosphorus**|2.5 to 2.9 mg/dL|Phos-Na-K 1 packet (250 mg) three times a day.|
+||2.0 to 2.4 mg/dL|Phos-Na-K 2 packets (500 mg) three times a day.|
+||< 2.0 mg/dL|IV Na-K-Phos 0.24 mmol/kg (max 15 mmol/dose). Consider intensive care consultation.|
+|**Potassium**|3.1 to 3.4 mmol/L|Extended release KCl 20 mEq PO. Recheck in 8 to 12 hours.|
+||2.5 to 3.0 mmol/L|Extended release KCl 40 mEq PO. Recheck in 8 to 12 hours.|
+||2.2 to 2.4 mmol/L|Extended release KCl 40 mEq PO stat.|
+||< 2.2 mmol/L|IV KCl. Consider intensive care consultation.|
+|**Magnesium**|1.3 to 1.7 mg/dL|Magnesium oxide 1 tablet (133 to 200 mg elemental Mg) twice a day.|
+||1.0 to 1.2 mg/dL|Magnesium oxide 2 tablets twice a day.|
+||< 1.0 mg/dL|IV Mg-SO4 at 50 mg/kg (max 2 g/dose). Consider intensive care consultation.|

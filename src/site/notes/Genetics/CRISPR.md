@@ -4,9 +4,9 @@
 
 ## Definition And Core Principles
 
-- [[Genetics/CRISPR\|CRISPR]] constitutes a genome-editing technology derived from the adaptive immune system of prokaryotes.
+- CRISPR constitutes a genome-editing technology derived from the adaptive immune system of prokaryotes.
 - It enables precise, targeted modifications in genomic DNA to permanently correct monogenic defects.
-- Unlike conventional gene therapy that adds exogenous genes, [[Genetics/CRISPR\|CRISPR]] directly edits the native DNA sequence.
+- Unlike conventional gene therapy that adds exogenous genes, CRISPR directly edits the native DNA sequence.
 
 ## Components And Mechanism Of Action
 
@@ -25,11 +25,11 @@
 - Non-Homologous End Joining (NHEJ) represents an error-prone repair mechanism causing small insertions or deletions (indels) that result in gene knockout or disruption.
 - Homology-Directed Repair (HDR) enables precise correction or sequence insertion utilizing an exogenous homologous donor DNA template.
 
-## Advanced [[Genetics/CRISPR\|CRISPR]] Iterations
+## Advanced CRISPR Iterations
 
 - Base editing utilizes a catalytically impaired Cas9 fused to a deaminase enzyme to convert single DNA bases without creating double-strand breaks.
 - Prime editing operates as a search-and-replace tool using a pegRNA and Cas9-reverse transcriptase fusion to write new genetic information without double-strand breaks.
-- [[Genetics/CRISPR\|CRISPR]] interference (CRISPRi) and activation (CRISPRa) modify gene expression by targeting promoter regions without altering the underlying DNA sequence.
+- CRISPR interference (CRISPRi) and activation (CRISPRa) modify gene expression by targeting promoter regions without altering the underlying DNA sequence.
 
 ## Delivery Systems
 
@@ -50,7 +50,7 @@
 
 - [[Hematology/Sickle Cell Disease\|Sickle Cell Disease]] and Transfusion-Dependent Thalassemia management involves targeting the BCL11A erythroid enhancer.
 - Disruption of this enhancer suppresses BCL11A, leading to high levels of Fetal Hemoglobin (HbF) production.
-- Exagamglogene autotemcel represents the first approved [[Genetics/CRISPR\|CRISPR]] therapy providing functional cures for these conditions.
+- Exagamglogene autotemcel represents the first approved CRISPR therapy providing functional cures for these conditions.
 
 ### Neuromuscular And Immunological Disorders
 
@@ -59,7 +59,7 @@
 
 ### Oncology And Metabolic Disorders
 
-- Chimeric Antigen Receptor (CAR) T-cell therapy employs [[Genetics/CRISPR\|CRISPR]] to knock out TRAC and PD-1 genes, creating allogeneic off-the-shelf cells for pediatric leukemia.
+- Chimeric Antigen Receptor (CAR) T-cell therapy employs CRISPR to knock out TRAC and PD-1 genes, creating allogeneic off-the-shelf cells for pediatric leukemia.
 - In vivo editing manages metabolic conditions like Hereditary Transthyretin Amyloidosis by knocking out the TTR gene in the liver.
 
 ## Advantages And Limitations

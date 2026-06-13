@@ -100,7 +100,7 @@ The etiology of EE is categorized into:
 
 1. **Video-EEG:** Essential for classifying seizure types (e.g., spasms vs. myoclonus) and identifying syndromic patterns (e.g., hypsarrhythmia, burst-suppression).
 2. **Neuroimaging (MRI):** High-resolution MRI (epilepsy protocol) to identify structural lesions like focal cortical dysplasia or tuberous sclerosis.
-3. **Genetic Testing:** Gene panels or Whole [[Genetics/Exome Sequencing\|Exome Sequencing]] are crucial, especially for early-onset encephalopathies (e.g., _SCN1A_ for Dravet, _KCNT1_ for EIMFS).
+3. **Genetic Testing:** Gene panels or Whole [[Genetics/Sanger Sequencing\|Exome Sequencing]] are crucial, especially for early-onset encephalopathies (e.g., _SCN1A_ for Dravet, _KCNT1_ for EIMFS).
 4. **Metabolic Screening:** Indicated in infants with refractory seizures. Tests include CSF/plasma amino acids, urine organic acids, and trial of Pyridoxine (Vitamin B6).
 
 ## Management Principles

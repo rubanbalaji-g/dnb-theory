@@ -24,7 +24,7 @@
 |Testing Tier|Modality|Clinical Indications|Diagnostic Yield|
 |---|---|---|---|
 |**Tier 1: First-Line Agnostic**|Chromosomal Microarray (CMA)|Unexplained GDD/ID, [[Development/Autism Spectrum Disorder\|autism spectrum disorder]], congenital anomalies.|15-20%.|
-|**Tier 1: First-Line Agnostic**|[[Genetics/Exome Sequencing\|Exome Sequencing]] (ES) / Genome Sequencing (GS)|Unexplained ID/GDD; Trio testing (proband and parents) preferred.|38-63%.|
+|**Tier 1: First-Line Agnostic**|[[Genetics/Sanger Sequencing\|Exome Sequencing]] (ES) / Genome Sequencing (GS)|Unexplained ID/GDD; Trio testing (proband and parents) preferred.|38-63%.|
 |**Tier 1: Targeted**|Fragile X Testing (FMR1 PCR)|All males with nonsyndromic ID; females with suggestive family history.|~1-2%.|
 |**Tier 2: Phenotype-Driven**|Metabolic Screening|Regression, multisystem involvement, abnormal MRI findings.|1-5%.|
 |**Tier 2: Phenotype-Driven**|Targeted Gene Panels|Specific clinical clues (e.g., epilepsy, skeletal dysplasia).|Variable.|

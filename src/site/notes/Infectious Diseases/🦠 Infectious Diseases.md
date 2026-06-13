@@ -70,6 +70,7 @@
 9. [[Infectious Diseases/Disseminated TB\|Disseminated TB]]
 10. [[Infectious Diseases/Congenital Tuberculosis\|Congenital Tuberculosis]]
 11. [[Infectious Diseases/Drugs used in TB\|Drugs used in TB]]
+12. [[Infectious Diseases/ATT induced Hepatitis\|ATT induced Hepatitis]]
 ## Viral Diseases
 1. [[Infectious Diseases/Dengue\|Dengue]]
 2. [[Infectious Diseases/Congenital Rubella Syndrome\|Congenital Rubella Syndrome]]

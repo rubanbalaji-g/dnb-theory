@@ -119,7 +119,7 @@
 |**PTEN Gene Testing**|Indicated for all individuals with ASD and a head circumference greater than 2.5 standard deviations above the mean.|
 |**Neuroimaging (MRI)**|Indicated only for significant developmental regression, seizures, [[Neurology/Microcephaly\|microcephaly]], or focal neurologic findings. Not routinely indicated for macrocephaly alone.|
 |**Electroencephalogram (EEG)**|Indicated when there is clinical suspicion of seizures, spells, or significant developmental regression.|
-|**Whole [[Genetics/Exome Sequencing\|Exome Sequencing]] (WES)**|Considered if initial genetic testing is negative; identifies single-nucleotide variants and provides a molecular diagnosis in nearly 30% of neurodevelopmental disorders.|
+|**Whole [[Genetics/Sanger Sequencing\|Exome Sequencing]] (WES)**|Considered if initial genetic testing is negative; identifies single-nucleotide variants and provides a molecular diagnosis in nearly 30% of neurodevelopmental disorders.|
 
 ## Management
 

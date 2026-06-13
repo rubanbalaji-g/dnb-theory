@@ -34,7 +34,7 @@ Currently classified into **Structural/Metabolic (Symptomatic)** and **Unknown (
     * **Ictal:** High-voltage slow wave followed by voltage attenuation (electrodecremental response).
 * **Neuroimaging (MRI Brain):** Mandatory to identify structural substrates (tubers, malformations).
 * **Metabolic Screen:** If MRI is normal (Tandem Mass Spectrometry, Urine organic acids, Ammonia, Lactate).
-* **Genetic Testing:** Whole [[Genetics/Exome Sequencing\|Exome Sequencing]] (WES) or Epilepsy Gene Panels if etiology remains obscure.
+* **Genetic Testing:** Whole [[Genetics/Sanger Sequencing\|Exome Sequencing]] (WES) or Epilepsy Gene Panels if etiology remains obscure.
 
 ### 5. Management
 Early treatment is critical to improve neurodevelopmental outcomes (Lead Time Bias).

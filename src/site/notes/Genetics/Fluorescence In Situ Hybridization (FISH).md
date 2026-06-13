@@ -2,59 +2,74 @@
 {"dg-publish":true,"uptext":"Back to Index (🧬 Genetics)","uplink":"/genetics/genetics/","permalink":"/genetics/fluorescence-in-situ-hybridization-fish/","dgPassFrontmatter":true}
 ---
 
-## Definition
-Fluorescence in situ hybridization (FISH) is a targeted molecular cytogenetic technique that uses fluorescently labeled DNA probes to detect and localize the presence or absence of specific DNA sequences on chromosomes. 
+## Introduction And Definition
 
-## Principle
-The core principle relies on the complementary base pairing of a fluorescently labeled single-stranded DNA probe with a denatured, single-stranded target DNA sequence in the patient's sample. The hybridized fluorescent signals are then visualized using a fluorescence microscope.
+- Fluorescence in situ hybridization (FISH) is a high-resolution molecular cytogenetic technique.
+- It utilizes fluorochrome-labeled DNA probes to target specific genetic sequences.
+- These probes hybridize to complementary target sequences on metaphase chromosomes or interphase nuclei.
+- FISH is designed to identify the presence, absence, or rearrangement of specific DNA segments.
+- It detects subtle chromosomal abnormalities that fall below the resolution of standard cytogenetic studies.
 
-## Methodology
-1. **Sample Preparation:** Cells are arrested in metaphase (for structural details) or kept in interphase (for rapid enumeration).
-2. **Denaturation:** Both the patient's DNA (target) and the fluorescent probe are heated to separate double-stranded DNA into single strands.
-3. **Hybridization:** The sample and probes are mixed and incubated together, allowing the probe to anneal to its complementary target sequence.
-4. **Washing:** Unbound or loosely bound probes are washed away to minimize background noise.
-5. **Counterstaining:** Chromosomes are stained with a contrasting dye, typically DAPI (4',6-diamidino-2-phenylindole), which fluoresces blue.
-6. **Microscopy:** Analyzed using an epifluorescence microscope equipped with specific emission filters.
+## Principles And Methodology
 
-## Types of Probes
-1. **Locus-Specific Probes:** Bind to a specific, small region of a chromosome. Used to detect microdeletions, microduplications, and specific gene amplifications.
-2. **Centromeric Repeat Probes:** Bind to repetitive sequences at the centromere. Ideal for determining the number of copies of a particular chromosome (aneuploidy screening) in interphase cells.
-3. **Whole Chromosome Painting Probes:** A cocktail of probes targeting multiple sequences along an entire chromosome. Used primarily in metaphase to identify complex structural rearrangements and marker chromosomes.
+### Core Mechanism
 
-## Clinical Applications in Pediatrics
+- The procedure begins with DNA denaturation.
+- Double-stranded chromosomal DNA on a cytogenetic slide is heated to form single-stranded DNA.
+- A fluorescently labeled, single-stranded DNA probe is introduced.
+- The slide undergoes renaturation or reannealing.
+- The probe hybridizes specifically to its complementary DNA sequence within the chromosomal genome.
+- The resulting probe signal is visualized and imaged using fluorescence microscopy.
 
-### 1. Rapid Aneuploidy Detection
-* **Prenatal and Neonatal:** Interphase FISH on uncultured amniocytes, chorionic villi, or neonatal blood for rapid detection of common aneuploidies (Trisomy 13, 18, 21, and sex chromosome abnormalities like Turner or Klinefelter syndromes) within 24 to 48 hours.
+### Interphase Versus Metaphase Analysis
 
-### 2. Microdeletion and Microduplication Syndromes
-Used when clinical suspicion points to a specific syndrome:
-* **DiGeorge Syndrome (Velocardiofacial syndrome):** 22q11.2 deletion.
-* **Prader-Willi and Angelman Syndromes:** 15q11-q13 deletion.
-* **Williams Syndrome:** 7q11.23 deletion (elastin gene).
-* **Wolf-Hirschhorn Syndrome:** 4p- deletion.
-* **Cri-du-Chat Syndrome:** 5p- deletion.
+- FISH can be performed on uncultured, non-dividing cells (interphase) or cultured, dividing cells (metaphase).
+- Interphase FISH provides rapid results within 24 to 48 hours because it skips the cell culture step.
+- Metaphase FISH allows documentation of the exact chromosomal location of the probe.
+- Metaphase analysis is highly useful for visualizing complex structural rearrangements.
 
-### 3. Pediatric Hematology and Oncology
-* **Leukemias:** Detection of specific translocations guiding prognosis and management.
-    * t(9;22) BCR-ABL rearrangement in Chronic Myeloid Leukemia (CML) and some Acute Lymphoblastic Leukemias (ALL).
-    * t(12;21) ETV6-RUNX1 in pediatric ALL (good prognosis).
-* **Solid Tumors:** 
-    * N-MYC amplification in Neuroblastoma.
-    * EWSR1 rearrangement in Ewing Sarcoma.
+## Types Of FISH Probes
 
-### 4. Identification of Marker Chromosomes
-* Characterizing extra, structurally abnormal chromosomes noted on standard karyotyping.
+|Probe Type|Target Sequence|Primary Clinical Utility|
+|---|---|---|
+|**Centromeric Probes**|Repetitive alpha-satellite sequences at the centromere.|Rapid aneuploidy detection (e.g., trisomies 13, 18, 21).|
+|**Locus-Specific Probes**|Unique, single-copy DNA sequences.|Identification of microdeletion and microduplication syndromes.|
+|**Whole-Chromosome Painting**|Multiple-copy probes spanning an entire chromosome.|Detection of complex translocations and structural rearrangements.|
+|**Break-Apart Probes**|Sequences flanking a specific gene locus.|Identification of gene rearrangements, especially in hematological malignancies.|
 
-## Advanced Variations
-* **Multiplex FISH (M-FISH) and Spectral Karyotyping (SKY):** Uses combinations of fluorochromes to assign a unique spectral color to each of the 24 human chromosomes, identifying complex translocations and cryptic rearrangements.
-* **Comparative Genomic Hybridization (CGH):** An evolution of FISH principles using competitive hybridization of patient and control DNA to detect copy number variations across the whole genome.
+## Clinical Indications In Pediatrics
 
-## Advantages
-* **High Resolution:** Can detect microdeletions (1 to 2 Megabases) that are invisible on standard G-banded karyotyping (resolution limit 5 to 10 Megabases).
-* **Does Not Require Dividing Cells:** Interphase FISH can be performed on non-dividing cells, significantly reducing turnaround time and allowing analysis of solid tissue samples.
-* **High Specificity and Sensitivity:** Directly visualizes the target with robust accuracy.
+### Rapid Aneuploidy Screening
 
-## Limitations
-* **Target Specific:** It is not a genome-wide screening tool. The clinician must suspect a specific genetic condition to order the correct probe.
-* **Cannot Detect Small Mutations:** Point mutations, small insertions/deletions, and single nucleotide variants are not detectable.
-* **Replaced by Microarray for Global Delay:** Chromosomal microarray is now preferred over FISH for the initial evaluation of unexplained global developmental delay or multiple congenital anomalies because it screens the entire genome for copy number variations.
+- FISH is highly useful for rapid prenatal diagnosis of common fetal aneuploidies.
+- It targets chromosomes 13, 18, 21, X, and Y using uncultured amniocytes or chorionic villi.
+- It is also utilized postnatally on blood or buccal cells for preliminary detection of conditions like Patau or Edwards syndrome.
+
+### Microdeletion Syndromes
+
+- FISH facilitated the clinical characterization of submicroscopic deletion syndromes involving 50 to 200 kilobases of DNA.
+- It uses the HIRA (TUPLE1) probe to detect 22q11.2 deletions in DiGeorge syndrome.
+- It uses the elastin (ELN) specific probe to confirm 7q11.23 deletions in Williams syndrome.
+
+### Disorders Of Sexual Development
+
+- Interphase FISH provides rapid sex assignment in newborns presenting with ambiguous genitalia.
+- It detects hidden Y-chromosome material using SRY or DYZ3 probes in patients with Turner syndrome.
+
+### Pediatric Oncology
+
+- FISH detects acquired somatic translocations in pediatric malignancies.
+- It is frequently used to identify the t(9;22) Philadelphia chromosome in leukemia.
+
+## Advantages And Limitations
+
+|Feature|Description|
+|---|---|
+|**Advantages**|Rapid turnaround time of 24 to 48 hours.|
+||Does not require dividing cells or cell culture when using interphase nuclei.|
+||Offers higher resolution than conventional G-banded karyotyping.|
+||Highly sensitive for detecting low-level mosaicism (1% to 5%).|
+|**Limitations**|It is a targeted approach, meaning it only detects abnormalities in the specific regions probed.|
+||Cannot detect point mutations, small indels, or genome-wide copy number variations.|
+||It has largely been replaced by chromosomal microarray (CMA) as a first-tier test for unexplained developmental delay.|
+||Currently reserved mostly for confirming abnormalities detected by CMA or for targeted rapid screening.|

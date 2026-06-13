@@ -109,7 +109,7 @@ Classified based on timing (onset) and pathophysiology.
 **B. Genetic Testing (If Dysmorphic or MRI abnormal)**
 * **Karyotype:** If Trisomy suspected.
 * **Chromosomal Microarray (CMA):** First-line for developmental delay + dysmorphism (detects microdeletions).
-* **Whole [[Genetics/Exome Sequencing\|Exome Sequencing]] (WES):** For suspected Mendelian disorders or Primary Microcephaly (MCPH panel).
+* **Whole [[Genetics/Sanger Sequencing\|Exome Sequencing]] (WES):** For suspected Mendelian disorders or Primary Microcephaly (MCPH panel).
 
 **C. Infection Screen (If Calcifications/HSM present)**
 * **TORCH titers:** IgM/IgG.

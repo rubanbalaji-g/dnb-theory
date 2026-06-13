@@ -4,66 +4,93 @@
 
 ## Introduction And Definition
 
-- High-throughput, semi-quantitative molecular technique designed to detect abnormal gene copy numbers (deletions and duplications) and specific point mutations across multiple genomic targets simultaneously.
-- Rapid diagnostic test capable of delivering precise clinical results within 1 to 2 days.
-- Amplifies specifically designed, hybridized probes rather than amplifying the target patient DNA directly.
+- Multiplex ligation-dependent probe amplification (MLPA) is an advanced, high-throughput, semi-quantitative molecular cytogenetic technique.
+- It is designed to detect abnormal gene copy numbers, including submicroscopic deletions and duplications.
+- It can also identify specific point mutations across multiple genomic targets simultaneously.
+- Unlike standard polymerase chain reaction (PCR) which amplifies the target patient DNA directly, MLPA amplifies specifically designed, hybridized probes.
 
-## Core Principles And Probe Design
+## Core Principles
 
-- Relies on the hybridization of two adjacent target-specific probes to a single DNA strand.
-- Enzymatic ligation occurs only when both probes are perfectly hybridized to directly adjacent target sequences.
-- PCR amplification occurs exclusively for the ligated probes, generating an amount of amplified product directly proportional to the target DNA present in the sample.
+- The method relies on the hybridization of two adjacent target-specific probes to a single DNA strand.
+- Both probes must be perfectly hybridized to directly adjacent target sequences to undergo enzymatic ligation.
+- PCR amplification occurs exclusively for these ligated probes.
+- The amount of amplified probe product is directly proportional to the amount of target DNA present in the patient's sample.
 
-### Structural Components Of MLPA Probes
+## Structural Design Of Probes
 
-|Probe Element|Characteristics|
-|---|---|
-|**Left Probe Oligonucleotide (LPO)**|Contains a universal forward primer sequence and a target-specific sequence.|
-|**Right Probe Oligonucleotide (RPO)**|Contains a target-specific sequence, a variable-length stuffer sequence, and a universal reverse primer sequence.|
-|**Stuffer Sequence**|Determines the unique total length of the final amplified fragment, allowing multiplexing and size-based separation via capillary electrophoresis.|
+- Each MLPA probe consists of two separate oligonucleotides.
+
+### Left Probe Oligonucleotide
+
+- This section contains a universal forward primer sequence.
+- It also includes a target-specific sequence.
+
+### Right Probe Oligonucleotide
+
+- This section contains a target-specific sequence.
+- It includes a variable-length "stuffer" sequence.
+- It ends with a universal reverse primer sequence.
+- The stuffer sequence is crucial for multiplexing.
+- It ensures that each ligated probe pair has a unique total length, allowing separation by capillary electrophoresis.
 
 ## Sequential Methodology
 
-- **DNA Denaturation**: Patient genomic DNA (50-250 ng) is heated to 98°C to separate double-stranded DNA into single strands.
-- **Hybridization**: The probe mix is added, allowing left and right probe oligonucleotides to hybridize to their specific adjacent target sequences during an overnight incubation at 60°C.
-- **Ligation**: A heat-stable DNA ligase (Ligase-65) covalently links the adjacent probes. Strict perfect complementarity is required; a single nucleotide mismatch prevents ligation.
-- **Amplification**: PCR is performed using a single pair of universal fluorescently labeled primers. Because all probes share universal primers, amplification bias is minimized. Unligated probes possess only one primer binding site and do not amplify exponentially.
-- **Fragment Separation**: Amplified PCR products are separated by size using capillary electrophoresis, generating a sequential pattern of peaks known as an electropherogram.
+### DNA Denaturation
 
-## Data Analysis And Normalization
+- The genomic DNA of the patient is heated to 98°C.
+- This separates the double-stranded DNA into single strands to allow access for the probes.
 
-- Raw peak areas or heights undergo intra-sample normalization against internal control probes and inter-sample normalization against healthy reference DNA.
+### Hybridization
 
-|Dosage Quotient (DQ)|Copy Number Interpretation|
-|---|---|
-|**~1.0**|Normal copy number (2 alleles).|
-|**~0.5**|Heterozygous deletion (1 allele).|
-|**~1.5**|Heterozygous duplication (3 alleles).|
-|**0**|Homozygous deletion (0 alleles).|
+- The specific MLPA probe mix is added to the sample.
+- The left and right probe oligonucleotides hybridize to their specific adjacent target sequences.
+- This occurs during an overnight incubation period at 60°C.
+
+### Ligation
+
+- A highly specific heat-stable DNA ligase, known as **Ligase-65**, is introduced.
+- It covalently links the adjacent left and right probes.
+- Ligation strictly requires perfect complementarity at the probe junction.
+- A single nucleotide mismatch at the ligation site prevents successful ligation.
+
+### Amplification And Separation
+
+- PCR amplification is performed using a single pair of universal fluorescently labeled primers.
+- Because all probes utilize the same universal primers, amplification bias is minimized.
+- Unligated probes are not amplified exponentially because they only possess one primer binding site.
+- The amplified PCR products, or amplicons, are separated based on their unique sizes using capillary electrophoresis.
+
+## Data Analysis And Interpretation
+
+- Raw data peak areas are analyzed using specialized software.
+- Intra-sample normalization compares each peak against reference control peaks within the same patient sample.
+- Inter-sample normalization compares the normalized probe signals to those obtained from healthy reference DNA.
+- The results are reported as a Dosage Quotient (DQ).
+- A normal copy number of two alleles yields a DQ of approximately 1.0.
+- A heterozygous deletion yields a DQ of roughly 0.5.
+- A heterozygous duplication yields a DQ of around 1.5.
+- A homozygous deletion yields a DQ of 0.
 
 ## Clinical Applications In Pediatrics
 
-### Neuromuscular And Neurodevelopmental Disorders
-
-- **[[Neuromuscular/Spinal Muscular Atrophy\|Spinal Muscular Atrophy]] (SMA)**: Gold standard first-line diagnostic test. Accurately quantifies SMN1 and SMN2 copy numbers to confirm diagnosis and predict phenotypic severity.
-- **Duchenne/Becker Muscular Dystrophy (DMD/BMD)**: Detects large exonic deletions and duplications in the DMD gene, accounting for 65-75% of pathogenic variants.
-- **Rett Syndrome**: Detects large deletions or duplications in the MECP2 gene.
-- **[[Neuromuscular/Charcot-Marie-Tooth Disease\|Charcot-Marie-Tooth Disease]] Type 1A (CMT1A)**: Detects PMP22 gene duplication.
-
-### Imprinting Disorders
-
-- **Methylation-Specific MLPA (MS-MLPA)**: Utilizes probes containing restriction enzyme recognition sites sensitive to DNA methylation to simultaneously detect copy number changes and altered methylation patterns.
-- Diagnostic tool for Prader-Willi Syndrome, Angelman Syndrome, Beckwith-Wiedemann Syndrome, and Silver-Russell Syndrome.
-
-### Microdeletion And Microduplication Syndromes
-
-- Evaluates subtelomeric rearrangements, a significant cause of idiopathic intellectual disability.
-- Detects classical contiguous gene deletion syndromes like DiGeorge Syndrome (22q11.2) and [[Genetics/Williams Syndrome\|Williams Syndrome]] (7q11.23).
+|Disease Category|Specific Conditions|Target Gene Or Region|
+|---|---|---|
+|**Neuromuscular Disorders**|Spinal muscular atrophy (SMA)|_SMN1_ and _SMN2_ copy number quantification.|
+||Duchenne and Becker muscular dystrophy|_DMD_ exonic deletions and duplications.|
+|**Neurodevelopmental Disorders**|Rett syndrome|_MECP2_ large deletions or duplications.|
+|**Peripheral Neuropathies**|Charcot-Marie-Tooth disease type 1A and Hereditary neuropathy with liability to pressure palsies|_PMP22_ gene duplication or deletion.|
+|**Imprinting Disorders**|Prader-Willi syndrome, Angelman syndrome, Beckwith-Wiedemann syndrome|Evaluated using Methylation-Specific MLPA (MS-MLPA) to assess methylation patterns and copy number.|
+|**Microdeletion Syndromes**|DiGeorge syndrome, Williams syndrome|Targeted screening for classical contiguous gene deletion syndromes.|
 
 ## Advantages And Limitations
 
-|Feature|Advantages|Limitations|
-|---|---|---|
-|**Diagnostic Scope**|High multiplexing capacity (up to 50-60 distinct genomic targets in a single tube).|Targeted approach; detects copy number changes only in specific sequences targeted by the probes.|
-|**Resolution Limits**|Capable of detecting single exon deletions/duplications, exceeding the resolution of standard FISH or [[Genetics/Karyotyping\|karyotyping]].|Cannot detect balanced rearrangements (translocations, inversions), point mutations, intronic variants, or triplet repeats.|
-|**Logistics**|Cost-effective, high throughput, and requires minute amounts of genomic DNA (as low as 20 ng).|Susceptible to benign Single Nucleotide Polymorphisms (SNPs) at the ligation site, which can falsely indicate a deletion (allele drop-out).|
+|Feature|Description|
+|---|---|
+|**Advantages**|High multiplexing capacity allows analysis of up to 50 to 60 distinct genomic targets in a single reaction.|
+||It is highly cost-effective and provides a faster turnaround time compared to next-generation sequencing for targeted testing.|
+||It offers a high resolution capable of detecting single exon deletions or duplications.|
+||It requires very low genomic DNA input, functioning with as little as 20 nanograms.|
+|**Limitations**|It utilizes a targeted approach, meaning it only detects copy number changes in the specific sequences targeted by the probes.|
+||It cannot detect balanced chromosomal translocations or inversions.|
+||It is susceptible to benign single nucleotide polymorphisms at the probe ligation site, which can falsely indicate a deletion known as allele drop-out.|
+||It does not broadly detect point mutations, intronic variants, or triplet repeat expansions.|

@@ -70,7 +70,7 @@ Presentation varies by age of onset and severity.
 * **[[Genetics/Next-Generation Sequencing (NGS)\|Next-Generation Sequencing (NGS)]]:**
     * Single gene (if diagnosis clear).
     * **LSD Gene Panels:** Preferred for overlapping phenotypes.
-    * Whole [[Genetics/Exome Sequencing\|Exome Sequencing]] (WES) for difficult cases.
+    * Whole [[Genetics/Sanger Sequencing\|Exome Sequencing]] (WES) for difficult cases.
 
 ## 5. SPECIFIC IMPORTANT DISORDERS (SUMMARY)
 

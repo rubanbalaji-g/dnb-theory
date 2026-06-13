@@ -66,16 +66,15 @@ Removes physiologically deposited fibrin. Plasminogen converts to enzymatically 
 
 Regulate extension of clotting process to prevent systemic thrombosis.
 
-|Inhibitor|Primary Function / Target Substrates|
-|:--|:--|
-|**Antithrombin (AT)**|Serine protease inhibitor; neutralizes thrombin, FIXa, FXa, FXIa, FXIIa.|
-|**Tissue Factor Pathway Inhibitor (TFPI)**|Inactivates FXa/FVIIa/TF complex. Limits FX activation.|
-|**Activated Protein C (APC)**|Inactivates FVa, FVIIIa.|
-|**Protein S**|Cofactor for Protein C; inhibits prothrombinase complex.|
-|**Thrombin Activatable Fibrinolysis Inhibitor (TAFI)**|Attenuates fibrinolysis; removes C-terminal lysine/arginine residues preventing plasminogen binding.|
+| Inhibitor                                              | Primary Function / Target Substrates                                                                 |
+| :----------------------------------------------------- | :--------------------------------------------------------------------------------------------------- |
+| **Antithrombin (AT)**                                  | Serine protease inhibitor; neutralizes thrombin, FIXa, FXa, FXIa, FXIIa.                             |
+| **Tissue Factor Pathway Inhibitor (TFPI)**             | Inactivates FXa/FVIIa/TF complex. Limits FX activation.                                              |
+| **Activated Protein C (APC)**                          | Inactivates FVa, FVIIIa.                                                                             |
+| **Protein S**                                          | Cofactor for Protein C; inhibits prothrombinase complex.                                             |
+| **Thrombin Activatable Fibrinolysis Inhibitor (TAFI)** | Attenuates fibrinolysis; removes C-terminal lysine/arginine residues preventing plasminogen binding. |
 ## Coagulation Cascade 
-![Pasted image 20260426221609.png](/img/user/+%C4%B0mages/Pasted%20image%2020260426221609.png)
-Source: [Osmosis](https://osmosis.org)
+![Pasted image 20260612055428](https://images.pedianotes.in/2026/06/xFAUFjoIMGlkhqeOIQM5)
 
 ### In Vivo Cell-Based Model Of Coagulation
 

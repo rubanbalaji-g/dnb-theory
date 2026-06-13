@@ -8,7 +8,7 @@
 - The disorder is caused by a deficiency of the hepatic enzyme Phenylalanine Hydroxylase (PAH).
 - The genetic defect involves the _PAH_ gene located on chromosome 12q23.2.
 - Classic PKU accounts for >98% of cases, while 1-3% of cases result from defects in the synthesis or recycling of its cofactor, Tetrahydrobiopterin (BH4).
-![Pasted image 20260512004523.png](/img/user/+%C4%B0mages/Pasted%20image%2020260512004523.png)
+![Pasted image 20260612190119.png](/img/user/+%C4%B0mages/Pasted%20image%2020260612190119.png)
 ## Pathophysiology
 
 ### Metabolic Block And Neurotoxicity

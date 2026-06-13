@@ -9,10 +9,10 @@
 
 ## Four Foundational Pillars
 
-- Staff Education: Shifting the role of the NICU nurse from an exclusive direct care provider to an active mentor, coach, and teacher for the family.
-- Parent Education: Implementing a standardized, progressive curriculum that builds parental competence and confidence in handling neonatal intensive care demands.
-- NICU Institutional Culture: Restructuring administrative policies to facilitate 24/7 parental presence, open visitation, and complete transparency.
-- Psychological and Peer Support: Providing institutional psychological care, social work resources, and structured peer-to-peer mentoring by veteran NICU graduate parents.
+- **Staff Education**: Shifting the role of the NICU nurse from an exclusive direct care provider to an active mentor, coach, and teacher for the family.
+- **Parent Education**: Implementing a standardized, progressive curriculum that builds parental competence and confidence in handling neonatal intensive care demands.
+- **NICU Institutional Culture**: Restructuring administrative policies to facilitate 24/7 parental presence, open visitation, and complete transparency.
+- **Psychological and Peer Support:** Providing institutional psychological care, social work resources, and structured peer-to-peer mentoring by veteran NICU graduate parents.
 
 ## Key Implementation Components
 
@@ -23,14 +23,14 @@
 
 ## Clinical Benefits
 
-|Beneficiary Category|Specific Clinical Outcomes|
-|:--|:--|
-|Neonatal Benefits|Accelerated rates of daily weight gain and linear growth.|
-|Neonatal Benefits|Statistically significant escalation in exclusive breastfeeding rates at discharge.|
-|Neonatal Benefits|Marked reduction in the incidence of late-onset sepsis associated with early full enteral feeds.|
-|Neonatal Benefits|Decreased length of stay and reduced one-month readmissions.|
-|Parental Benefits|Demonstrable reductions in maternal and paternal stress indexes.|
-|Parental Benefits|Lower postpartum depression incidence and maximized parental self-efficacy, reducing anxiety during the transition home.|
+| Beneficiary Category | Specific Clinical Outcomes                                                                                               |
+| :------------------- | :----------------------------------------------------------------------------------------------------------------------- |
+| Neonatal Benefits    | Accelerated rates of daily weight gain and linear growth.                                                                |
+|                      | Statistically significant escalation in exclusive breastfeeding rates at discharge.                                      |
+|                      | Marked reduction in the incidence of late-onset sepsis associated with early full enteral feeds.                         |
+|                      | Decreased length of stay and reduced one-month readmissions.                                                             |
+| Parental Benefits    | Demonstrable reductions in maternal and paternal stress indexes.                                                         |
+|                      | Lower postpartum depression incidence and maximized parental self-efficacy, reducing anxiety during the transition home. |
 
 ## Indian Context and Implementation Barriers
 

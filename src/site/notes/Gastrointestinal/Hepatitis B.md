@@ -20,7 +20,7 @@
 ## Clinical Manifestations
 
 - Pediatric infections predominately asymptomatic.
-- Prodromal phase features serum sickness-like syndrome: arthralgia, macular/urticarial rashes, papular acrodermatitis (Gianotti-Crosti syndrome).
+- Prodromal phase features serum sickness-like syndrome: arthralgia, macular/urticarial rashes, papular acrodermatitis **(Gianotti-Crosti syndrome)**.
 - Acute symptomatic phase: anorexia, nausea, malaise, fatigue, jaundice.
 - Extrahepatic manifestations: polyarteritis nodosa, membranous glomerulonephritis, leukocytoclastic vasculitis, [[Neuromuscular/Guillain-Barré Syndrome\|Guillain-Barré syndrome]], [[Hematology/Aplastic Anemia\|aplastic anemia]].
 

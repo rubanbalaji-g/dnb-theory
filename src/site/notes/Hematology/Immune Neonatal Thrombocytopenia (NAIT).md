@@ -106,4 +106,4 @@
 ## Prognosis
 
 - Excellent if hemorrhage avoided. Self-limiting disease.
-- Major morbidity and mortality linked strictly to _in utero_ or perinatal intracranial hemorrhage `. Early detection in subsequent pregnancies prevents neurological devastation`.
+- Major morbidity and mortality linked strictly to _in utero_ or perinatal intracranial hemorrhage. Early detection in subsequent pregnancies prevents neurological devastation.

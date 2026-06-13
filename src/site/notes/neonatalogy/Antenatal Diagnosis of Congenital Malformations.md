@@ -89,7 +89,7 @@ Used to obtain fetal tissue for genetic/genomic analysis when screening is abnor
 
 **Laboratory Advances:**
 * **Chromosomal Microarray (CMA):** First-line test for structural anomalies (detects microdeletions missed by karyotype).
-* **Whole [[Genetics/Exome Sequencing\|Exome Sequencing]] (WES):** For syndromic fetuses with normal CMA.
+* **Whole [[Genetics/Sanger Sequencing\|Exome Sequencing]] (WES):** For syndromic fetuses with normal CMA.
 
 ### 5. Summary of Diagnostic Flow
 1.  **Risk Assessment:** Age, Family History, Teratogen exposure.

@@ -11,7 +11,7 @@
 
 ## Components And Signal Processing
 
-- Requires an Edi catheter, which is a specialized, biocompatible nasogastric or orogastric tube embedded with an array of distal micro-electrodes.
+- Requires an **Edi catheter**, which is a specialized, biocompatible nasogastric or orogastric tube embedded with an array of distal micro-electrodes.
 - Electrodes capture the crural diaphragmatic electromyogram signal representing direct output from the brainstem's respiratory center.
 - Ventilator software filters the raw signal to eliminate cardiac electrocardiogram artifacts and esophageal peristalsis noise to yield the processed Edi waveform.
 - Edi peak represents the maximum diaphragmatic contraction at end-inspiration, reflecting total neural inspiratory effort.

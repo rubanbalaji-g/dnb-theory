@@ -39,7 +39,7 @@
 ### Neuroimaging And Confirmation
 
 - **MRI Brain:** Bilateral symmetric T2 hyperintensities in the basal ganglia, thalamus, and brainstem indicating Leigh syndrome. Corpus callosum agenesis or cysts specifically suggest Pyruvate Carboxylase defects.
-- **Confirmation:** Whole [[Genetics/Exome Sequencing\|Exome Sequencing]] (WES) or targeted gene panels (_DLD_, _SDHA_, _FH_, _PC_) are the standard of care, largely replacing invasive enzymatic assays.
+- **Confirmation:** Whole [[Genetics/Sanger Sequencing\|Exome Sequencing]] (WES) or targeted gene panels (_DLD_, _SDHA_, _FH_, _PC_) are the standard of care, largely replacing invasive enzymatic assays.
 
 ## Management
 

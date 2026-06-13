@@ -45,7 +45,7 @@
 
 ### Incidental and Secondary Findings
 
-- Whole [[Genetics/Exome Sequencing\|Exome Sequencing]] (WES) and Whole Genome Sequencing (WGS) often reveal pathogenic variants unrelated to the primary testing indication.
+- Whole [[Genetics/Sanger Sequencing\|Exome Sequencing]] (WES) and Whole Genome Sequencing (WGS) often reveal pathogenic variants unrelated to the primary testing indication.
 - Laboratories recommend reporting actionable secondary findings, raising dilemmas over whether parents can opt-out of adult-onset findings for their children.
 - Pre-test counseling is critical to determine parent preferences regarding medically actionable versus non-actionable secondary findings.
 
