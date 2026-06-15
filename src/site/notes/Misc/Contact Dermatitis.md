@@ -5,24 +5,24 @@
 ## Introduction And Classification
 
 - Represents broad group of eczematous eruptions characterized by erythema, edema, and pruritus.
-- Clinically subdivided into irritant [[Misc/Contact Dermatitis\|contact dermatitis]] and allergic [[Misc/Contact Dermatitis\|contact dermatitis]].
-- Irritant [[Misc/Contact Dermatitis\|contact dermatitis]] occurs more frequently in young children.
+- Clinically subdivided into irritant contact dermatitis and allergic contact dermatitis.
+- Irritant contact dermatitis occurs more frequently in young children.
 - Allergic reactions increase in frequency alongside immune system maturation.
 
 ## Pathophysiology And Etiology
 
 |Dermatitis Type|Pathophysiology|Common Triggering Agents|
 |:--|:--|:--|
-|Irritant [[Misc/Contact Dermatitis\|Contact Dermatitis]]|Nonspecific direct tissue injury causing immediate epidermal inflammation. Atopic dermatitis predisposes individuals to severe reactions.|Saliva, urine, feces, fragrances, detergents, dyes, henna, plants, caterpillars, abrasive materials, chafing.|
-|Allergic [[Misc/Contact Dermatitis\|Contact Dermatitis]]|T-cell-mediated delayed hypersensitivity reaction. Antigen penetrates skin and conjugates with cutaneous protein. Hapten-protein complex undergoes transport to regional lymph nodes via Langerhans cells. Sensitized T-cells disseminate systematically. Re-exposure provokes inflammatory reaction within 8-12 hours.|Urushiol from poison ivy, nickel, neomycin, fragrances, shoe rubber accelerators, chemical sunscreens, methylisothiazolinone.|
+|Irritant Contact Dermatitis|Nonspecific direct tissue injury causing immediate epidermal inflammation. Atopic dermatitis predisposes individuals to severe reactions.|Saliva, urine, feces, fragrances, detergents, dyes, henna, plants, caterpillars, abrasive materials, chafing.|
+|Allergic Contact Dermatitis|T-cell-mediated delayed hypersensitivity reaction. Antigen penetrates skin and conjugates with cutaneous protein. Hapten-protein complex undergoes transport to regional lymph nodes via Langerhans cells. Sensitized T-cells disseminate systematically. Re-exposure provokes inflammatory reaction within 8-12 hours.|Urushiol from poison ivy, nickel, neomycin, fragrances, shoe rubber accelerators, chemical sunscreens, methylisothiazolinone.|
 
 ## Clinical Manifestations
 
-|Disease Phase|Irritant [[Misc/Contact Dermatitis\|Contact Dermatitis]]|Allergic [[Misc/Contact Dermatitis\|Contact Dermatitis]]|
-|:--|:--|:--|
-|Acute Presentation|Erythematous, scaling, and fissured skin directly localized to exposure site.|Intensely pruritic, erythematous, edematous, and vesiculobullous lesions.|
-|Chronic Presentation|Chronic hypertrophic flat-topped papules and infiltrative nodules.|Lichenification, profound scaling, fissuring, and post-inflammatory pigmentary changes.|
-|Distribution|Strictly confined to irritant contact area. Spares protected skin folds.|Airborne sensitizers affect exposed areas like face. May disseminate systematically if antigen enters circulation.|
+| Disease Phase        | Irritant Contact Dermatitis                      | Allergic Contact Dermatitis                                                           |
+| :------------------- | :---------------------------------------------------------------------------- | :----------------------------------------------------------------------------------------------------------------- |
+| Acute Presentation   | Erythematous, scaling, and fissured skin directly localized to exposure site. | Intensely pruritic, erythematous, edematous, and vesiculobullous lesions.                                          |
+| Chronic Presentation | Chronic hypertrophic flat-topped papules and infiltrative nodules.            | Lichenification, profound scaling, fissuring, and post-inflammatory pigmentary changes.                            |
+| Distribution         | Strictly confined to irritant contact area. Spares protected skin folds.      | Airborne sensitizers affect exposed areas like face. May disseminate systematically if antigen enters circulation. |
 
 ## Specific Clinical Variants
 

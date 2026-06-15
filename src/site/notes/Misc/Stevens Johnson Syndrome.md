@@ -6,7 +6,7 @@
 
 - Rare, severe blistering drug hypersensitivity reaction.
 - Lies on continuous clinical spectrum alongside Toxic Epidermal Necrolysis.
-- [[Misc/Stevens Johnson Syndrome\|Stevens Johnson Syndrome]] strictly defined by affected body surface area < 10%.
+- Stevens Johnson Syndrome strictly defined by affected body surface area < 10%.
 - Overlap syndrome features 10 to 30% affected body surface area.
 - Toxic Epidermal Necrolysis defined by > 30% affected body surface area.
 

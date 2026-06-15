@@ -14,7 +14,7 @@
 
 ## Clinical Manifestations
 
-### Infantile [[Misc/Seborrheic Dermatitis\|Seborrheic Dermatitis]]
+### Infantile Seborrheic Dermatitis
 
 - Onset typically occurs within first 4 weeks of life.
 - Illness remains self-limiting, generally resolving by 12 weeks to 1 year of age.
@@ -26,7 +26,7 @@
 - Intractable seborrhea-like dermatitis associated with [[Gastrointestinal/Chronic Diarrhea\|chronic diarrhea]] and failure to thrive mandates urgent evaluation for systemic immune dysfunction.
 - Chronic treatment-resistant pattern occasionally indicates underlying [[Hematology/Langerhans Cell Histiocytosis\|Langerhans cell histiocytosis]].
 
-### Adolescent [[Misc/Seborrheic Dermatitis\|Seborrheic Dermatitis]]
+### Adolescent Seborrheic Dermatitis
 
 - Disease onset universally follows puberty.
 - Follows chronic relapsing course, generally lacking spontaneous resolution.

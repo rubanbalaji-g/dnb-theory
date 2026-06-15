@@ -29,7 +29,7 @@
 4. [[Misc/Bullous Lesions In Children And Newborns\|Bullous Lesions In Children And Newborns]]
 5. [[Misc/Maculopapular Lesions In Children and Newborns\|Maculopapular Lesions In Children and Newborns]]
 6. [[Misc/Petechial And Purpuric Rashes In Children And Newborns\|Petechial And Purpuric Rashes In Children And Newborns]]
-7. [[Misc/Trichotillomania\|Trichotillomania]]
+7. [[Misc/Hair Growth Cycle And Disorders Of Hair In Children\|Trichotillomania]]
 8. [[Misc/Ectodermal Dysplasias\|Ectodermal Dysplasias]]
 9. [[Misc/Scabies\|Scabies]]
 10. [[Misc/Acne Vulgaris In Adolescence\|Acne Vulgaris In Adolescence]]
