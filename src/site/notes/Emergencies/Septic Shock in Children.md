@@ -89,12 +89,11 @@ graph TD
     
     Q4 -->|Yes| J["Refractory shock: ECMO"]
 ```
-
-<i><sup>Management of Septic Shock(AHA)</i></sup>
+Management of Septic Shock(AHA)
 ![Pasted image 20260615202628.png](/img/user/+%C4%B0mages/Pasted%20image%2020260615202628.png)
-<sup><i>Initial Management of Septic Shock (Surving Sepsis Guidelienes)</i></sup>
+Initial Management of Septic Shock (Surving Sepsis Guidelienes)
 ![Pasted image 20260615202652.png](/img/user/+%C4%B0mages/Pasted%20image%2020260615202652.png)
-<sup><i>Fluid and Vasopressor in Septic Shock (Surviving Sepsis Guidelines)</i></sup>
+Fluid and Vasopressor in Septic Shock (Surviving Sepsis Guidelines)
 ### Early Recognition and Therapeutic Endpoints
 
 - The initial hours following the diagnosis of sepsis and septic shock are termed the "golden hours," and aggressive interventions during this window are heavily associated with higher survival rates and reduced multi-organ dysfunction.
