@@ -57,8 +57,8 @@
 11. [[Emergencies/Detergent Ingestion\|Detergent Ingestion]]
 ## Sepsis and Shock
 1. [[Emergencies/Pathogenesis of Different Types of Shock 🔥\|Pathogenesis of Different Types of Shock]]
-2. [[Emergencies/Septic Shock 🔥🔥🔥\|Septic Shock]]
-3. [[Emergencies/Cardiogenic Shock 🔥\|Cardiogenic Shock]]
+2. [[Emergencies/Septic Shock in Children\|Septic Shock]]
+3. [[Emergencies/Cardiogenic Shock\|Cardiogenic Shock]]
 4. [[Emergencies/Hypovolemic Shock 🔥🔥🔥\|Hypovolemic Shock]]
 5. [[Emergencies/Fluid Refractory Shock 🔥🔥🔥\|Fluid Refractory Shock]]
 6. [[Emergencies/Biomarkers of Sepsis\|Biomarkers of Sepsis]]
