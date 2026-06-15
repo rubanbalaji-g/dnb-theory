@@ -24,7 +24,7 @@
 - It is attributed to excess hormones secreted during recovery rather than dietary protein excess.
 - Dysmyelination, vitamin deficiencies, and neurotransmitter imbalances are possible underlying causes.
 - A high solute load on the kidneys is another contributing factor.
-- The term 'refeeding syndrome' is specifically used when hyperphosphatemia is present.
+- The term 'refeeding syndrome' is specifically used when hypophosphatemia is present.
 - In clinical practice, the child should be observed carefully.
 - Nutritional therapy must be continued despite these transient signs.
 

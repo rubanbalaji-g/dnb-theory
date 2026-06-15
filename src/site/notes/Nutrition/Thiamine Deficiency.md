@@ -6,7 +6,7 @@
 
 ### Dietary Causes
 
-- **Breastfed Infants:** Infantile [[Nutrition/Thiamine Deficiency\|thiamine deficiency]] typically occurs in breastfed infants of thiamine-deficient mothers.
+- **Breastfed Infants:** Infantile thiamine deficiency typically occurs in breastfed infants of thiamine-deficient mothers.
     - Mothers may be asymptomatic or have subclinical deficiency.
     - Maternal diets based exclusively on polished rice are a primary risk factor, as milling removes the thiamine-rich husk.
 - **Defective Formula:** Epidemics have occurred in infants fed soy-based formulas deficient in thiamine.

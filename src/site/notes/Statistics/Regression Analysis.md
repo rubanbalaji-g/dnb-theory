@@ -4,7 +4,7 @@
 
 ### Definition and Core Principles
 
-- [[Statistics/Regression Analysis\|Regression analysis]] is a statistical tool used to investigate and quantify the relationship between one or more independent variables (predictors) and an outcome (dependent) variable.
+- Regression analysis is a statistical tool used to investigate and quantify the relationship between one or more independent variables (predictors) and an outcome (dependent) variable.
 - It goes beyond merely describing the strength and direction of an association by quantifying the exact mathematical relationship, thus generating a regression equation.
 - The two primary clinical and research purposes of regression are predicting the value of an outcome variable based on known predictors, and controlling (adjusting) for confounding variables to isolate the true effect of a specific exposure or intervention.
 - Regression models are classified as "simple" when there is only one independent variable, and "multiple" (or multivariable) when there are two or more independent variables influencing the outcome.
@@ -24,7 +24,7 @@
 - Utilized when the dependent variable is continuous (e.g., blood pressure, weight), predicting its value based on continuous, ordinal, or categorical independent variables.
 - The simple linear regression equation is expressed as $y = b_0 + b_1x$.
 - The $b_0$ parameter is the intercept (or constant), representing the expected baseline value of the outcome variable (y) when the independent variable (x) is exactly zero.
-- The $b_1$ parameter is the slope (regression coefficient), representing the exact amount of change in the outcome variable for each one-unit increase in the independent variable.
+- The $b_1$ parameter is the slope (**regression coefficient**), representing the exact amount of change in the outcome variable for each one-unit increase in the independent variable.
 - The Coefficient of Determination ($R^2$) assesses the goodness-of-fit of the model, indicating the specific proportion or percentage of the variance in the outcome variable that is explained by the independent variables.
 - Key statistical assumptions for linear regression include Linearity, Independence of observations, Normal distribution of residuals, and Equal variance (Homoscedasticity).
 - In multiple linear regression, there must also be an absence of multicollinearity (strong correlation between the independent variables themselves), which can cause unstable estimates and falsely inflated standard errors.

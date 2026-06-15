@@ -16,7 +16,7 @@
 
 ## Clinical Manifestations By Subtype
 
-### [[Misc/Pediculosis\|Pediculosis]] Capitis
+### Pediculosis Capitis
 
 - Peak incidence in children aged 3 to 12 years.
 - Transmitted via head-to-head contact or fomites including combs and towels.
@@ -25,14 +25,14 @@
 - Favors occipital region and above ears.
 - Complications include secondary pyoderma, hair matting, and occipital lymphadenopathy.
 
-### [[Misc/Pediculosis\|Pediculosis]] Corporis
+### Pediculosis Corporis
 
 - Associated with poor hygiene and cold climates.
 - Primary lesion features pruritic red macule with central hemorrhagic punctum.
 - Predilection for shoulders, trunk, and buttocks.
 - Chronic infestation produces vagabond's skin (lichenified, hyperpigmented plaques).
 
-### [[Misc/Pediculosis\|Pediculosis]] Pubis
+### Pediculosis Pubis
 
 - Transmitted via sexual contact or skin-to-skin exposure.
 - Manifests in children occasionally as eyelash or eyebrow infestation.
@@ -48,10 +48,10 @@
 
 ### Pharmacotherapy
 
-|Pharmacologic Agent|Administration Specifics|Clinical Notes|
-|:--|:--|:--|
-|Permethrin 1% Lotion|Apply to wet hair for 10 minutes, rinse. Repeat in 7 days.|First-line therapy. Safe for infants older than 2 months.|
-|Malathion 0.5% Lotion|Apply to dry hair for 8-12 hours.|Flammable. Contraindicated in infants younger than 24 months.|
-|Ivermectin|Administer 0.5% topical lotion or 200 micrograms/kg oral dose.|Oral administration reserved for difficult cases (weight exceeding 15 kg).|
-|Lindane 1% Shampoo|Apply overnight or for 10 minutes.|Alternative therapy only. High systemic neurotoxicity risk.|
-|Spinosad 0.9%|Single 10-minute application.|Safe for infants older than 6 months.|
+| Pharmacologic Agent   | Administration Specifics                                       | Clinical Notes                                                             |
+| :-------------------- | :------------------------------------------------------------- | :------------------------------------------------------------------------- |
+| Permethrin 1% Lotion  | Apply to wet hair for 10 minutes, rinse. Repeat in 7 days.     | First-line therapy. Safe for infants older than 2 months.                  |
+| Malathion 0.5% Lotion | Apply to dry hair for 8-12 hours.                              | Flammable. Contraindicated in infants younger than 24 months.              |
+| Ivermectin            | Administer 0.5% topical lotion or 200 micrograms/kg oral dose. | Oral administration reserved for difficult cases (weight exceeding 15 kg). |
+| Lindane 1% Shampoo    | Apply overnight or for 10 minutes.                             | Alternative therapy only. High systemic neurotoxicity risk.                |
+| Spinosad 0.9%         | Single 10-minute application.                                  | Safe for infants older than 6 months.                                      |

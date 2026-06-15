@@ -15,7 +15,7 @@ These are the most easily quantifiable and most frequently reported conflicts. T
 
 ### B. Non-Financial (Personal/Intellectual) Conflicts
 These are subjective, harder to quantify, but equally capable of introducing bias.
-* **Academic Competitiveness:** A peer reviewer intentionally delaying or unfairly critiquing a [[Statistics/manuscript\|manuscript]] from a rival research group.
+* **Academic Competitiveness:** A peer reviewer intentionally delaying or unfairly critiquing a manuscript from a rival research group.
 * **Personal Relationships:** Mentorship biases, family ties, or personal animosity with co-investigators or peer-reviewed authors.
 * **Intellectual/Ideological Bias:** Deeply held religious, political, or academic beliefs that prevent an objective evaluation of contrary data (e.g., an author whose entire career is built on a specific disease model reviewing a paper that disproves that model).
 
@@ -27,7 +27,7 @@ These are subjective, harder to quantify, but equally capable of introducing bia
 ## 4. The Disclosure Process (ICMJE Guidelines)
 The International Committee of Medical Journal Editors (ICMJE) mandates standardized disclosure.
 * **The "Transparency, Not Prohibition" Principle:** The existence of a COI does not disqualify an author from publishing or conducting research. The ethical requirement is complete and transparent disclosure.
-* **Timeframe:** Authors must disclose all relevant financial and non-financial relationships that occurred within the **36 months (3 years)** prior to [[Statistics/manuscript\|manuscript]] submission.
+* **Timeframe:** Authors must disclose all relevant financial and non-financial relationships that occurred within the **36 months (3 years)** prior to manuscript submission.
 * **Perception Rule:** Authors must disclose any relationship that a reasonable reader might perceive as a potential conflict, even if the author believes it did not influence their work.
 
 ## 5. Management and Mitigation Strategies

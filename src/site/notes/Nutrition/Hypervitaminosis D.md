@@ -4,14 +4,14 @@
 
 ## Definition and Overview
 
-- [[Nutrition/Hypervitaminosis D\|Hypervitaminosis D]] is a condition of Vitamin D toxicity resulting from excessive intake of Vitamin D or its active metabolites.
+- Hypervitaminosis D is a condition of Vitamin D toxicity resulting from excessive intake of Vitamin D or its active metabolites.
 - It is characterized principally by hypercalcemia and its associated systemic manifestations.
 - Toxic levels are generally defined as serum 25-hydroxyvitamin D (25-OHD) levels **>100 ng/mL (>250 nmol/L)**.
 - It is a potential complication of the treatment of rickets or hypoparathyroidism, or the result of accidental overdose.
 
 ## Etiology
 
-[[Nutrition/Hypervitaminosis D\|Hypervitaminosis D]] is almost exclusively caused by exogenous intake; it does not occur due to excessive sunlight exposure because cutaneous synthesis is self-regulated (UVB converts excess previtamin D3 into inactive metabolites).
+Hypervitaminosis D is almost exclusively caused by exogenous intake; it does not occur due to excessive sunlight exposure because cutaneous synthesis is self-regulated (UVB converts excess previtamin D3 into inactive metabolites).
 
 - **Excessive Supplementation:**
     - Misuse of prescribed or non-prescription Vitamin D supplements is the most common cause.
@@ -24,22 +24,22 @@
 - **Use of Active Metabolites:**
     - Toxicity can result from the intake of synthetic analogs like calcitriol (1,25-dihydroxyvitamin D) or alfacalcidol.
 - **Individual Susceptibility:**
-    - Certain conditions like [[Genetics/Williams Syndrome\|Williams syndrome]] (idiopathic infantile hypercalcemia) were historically linked to hypersensitivity to Vitamin D, though they are now understood as distinct genetic entities often included in the differential diagnosis,.
+    - Certain conditions like [[Genetics/Williams Syndrome\|Williams syndrome]] (idiopathic infantile hypercalcemia) were historically linked to hypersensitivity to Vitamin D, though they are now understood as distinct genetic entities often included in the differential diagnosis.
 
 ## Pathophysiology
 
-The primary driver of morbidity in [[Nutrition/Hypervitaminosis D\|hypervitaminosis D]] is severe **hypercalcemia**.
+The primary driver of morbidity in hypervitaminosis D is severe **hypercalcemia**.
 
 - **Mechanisms of Hypercalcemia:**
     - **Excessive Bone Resorption:** This is the dominant mechanism. High levels of Vitamin D metabolites stimulate osteoclasts to resorb bone, releasing calcium into the extracellular fluid.
-    - **Increased Intestinal Absorption:** Vitamin D enhances the absorption of calcium and phosphorus from the gut,.
+    - **Increased Intestinal Absorption:** Vitamin D enhances the absorption of calcium and phosphorus from the gut.
 - **Metabolite Interactions:**
     - **Elevated 25-OHD:** In typical toxicity, 25-OHD levels are massively elevated (>100 ng/mL).
     - **Displacement of 1,25(OH)2D:** Massive amounts of 25-OHD can saturate Vitamin D-binding proteins (DBP). This displaces 1,25(OH)2D, increasing the concentration of **free** (unbound) 1,25(OH)2D, which is biologically active, even if the _total_ serum 1,25(OH)2D is normal or low.
     - **Receptor Binding:** At very high concentrations, 25-OHD itself may bind to and activate the Vitamin D receptor (VDR), mimicking the action of the active hormone.
 - **Renal Effects:**
     - Hypercalcemia leads to **[[Nephrology/Nephrogenic diabetes insipidus\|nephrogenic diabetes insipidus]]** by impairing the concentrating ability of the kidney, causing polyuria and dehydration.
-    - Hypercalciuria (excess calcium in urine) predisposes to nephrocalcinosis and nephrolithiasis,.
+    - Hypercalciuria (excess calcium in urine) predisposes to nephrocalcinosis and nephrolithiasis.
     - The combination of dehydration (prerenal) and nephrocalcinosis can lead to acute or chronic renal insufficiency.
 
 ## Clinical Manifestations
@@ -48,15 +48,15 @@ Symptoms are primarily sequelae of hypercalcemia and can involve multiple organ 
 
 ### Gastrointestinal
 
-- Anorexia (loss of appetite),.
+- Anorexia (loss of appetite).
 - Nausea and vomiting.
-- Constipation (due to decreased smooth muscle tone),.
+- Constipation (due to decreased smooth muscle tone).
 - Abdominal pain.
-- Pancreatitis (rare complication of hypercalcemia),.
+- Pancreatitis (rare complication of hypercalcemia).
 
 ### Renal
 
-- **Polyuria and Polydipsia:** Due to compromised renal concentrating mechanisms,.
+- **Polyuria and Polydipsia:** Due to compromised renal concentrating mechanisms.
 - **Dehydration:** Secondary to vomiting and polyuria.
 - **Nephrocalcinosis:** Deposition of calcium in the renal parenchyma.
 - **Renal Failure:** Azotemia and rising creatinine due to renal damage and dehydration.
@@ -67,11 +67,11 @@ Symptoms are primarily sequelae of hypercalcemia and can involve multiple organ 
 - Headache.
 - Lethargy, stupor, or coma in severe cases.
 - Hypotonia (muscle weakness).
-- [[Neurology/Pseudotumor Cerebri\|Pseudotumor cerebri]] (increased intracranial pressure) has been described, though more typical of [[Nutrition/Vitamin A\|Vitamin A]] toxicity,.
+- [[Neurology/Pseudotumor Cerebri\|Pseudotumor cerebri]] (increased intracranial pressure) has been described, though more typical of [[Nutrition/Vitamin A\|Vitamin A]] toxicity.
 
 ### Cardiovascular
 
-- Hypertension,.
+- Hypertension.
 - Arrhythmias (shortened QT interval).
 - Metastatic calcification (calcification of soft tissues and blood vessels).
 
@@ -89,7 +89,7 @@ Symptoms are primarily sequelae of hypercalcemia and can involve multiple organ 
     - _Note:_ This helps distinguish Vitamin D toxicity from Primary Hyperparathyroidism, where phosphate is typically low.
 - **Serum Alkaline Phosphatase (ALP):** Usually normal or low (suppressed bone turnover contrary to rickets).
 - **Parathyroid Hormone (PTH):** **Suppressed/Low**. The parathyroid glands are inhibited by high calcium and Vitamin D levels.
-- **25-Hydroxyvitamin D (25-OHD):** Markedly elevated (**>100 ng/mL** or >250 nmol/L),.
+- **25-Hydroxyvitamin D (25-OHD):** Markedly elevated (**>100 ng/mL** or >250 nmol/L).
 - **1,25-Dihydroxyvitamin D (1,25(OH)2D):** Usually **normal** or even low.
     - _Reason:_ The renal 1$\alpha$-hydroxylase enzyme is downregulated by low PTH, high phosphate, and the high Vitamin D levels themselves.
 - **Urine:** Hypercalciuria (increased calcium excretion).
@@ -151,4 +151,4 @@ Treatment is a medical emergency aimed at reducing serum calcium levels and prev
 - **Complications:**
     - **Nephrocalcinosis:** Can be permanent.
     - **[[Nephrology/Chronic Kidney Disease\|Chronic Kidney Disease]] (CKD):** Severe or prolonged toxicity can lead to permanent renal damage and hypertension.
-    - **Fatalities:** Extreme hypercalcemia can lead to cardiac arrest or renal failure and death,.
+    - **Fatalities:** Extreme hypercalcemia can lead to cardiac arrest or renal failure and death.

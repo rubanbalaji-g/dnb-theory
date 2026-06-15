@@ -3,12 +3,12 @@
 ---
 
 ### Definition and Clinical Utility
-* A [[Statistics/Funnel Plot\|funnel plot]] is a simple, informal graphical method (a scatterplot) used primarily in the context of systematic reviews and meta-analyses to assess the presence of publication bias.
+* A funnel plot is a simple, informal graphical method (a scatterplot) used primarily in the context of systematic reviews and meta-analyses to assess the presence of publication bias.
 * Publication bias occurs when the published literature represents an incomplete subset of all studies conducted on a topic, often because studies with small or non-significant effects are selectively excluded from publication.
 * The plot helps reviewers visually identify if such negative or non-significant studies have been left out of the meta-analysis.
 
 ### Construction and Components
-* The [[Statistics/Funnel Plot\|funnel plot]] is constructed by plotting individual studies based on their effect size against their precision. 
+* The funnel plot is constructed by plotting individual studies based on their effect size against their precision. 
 * A vertical line is typically drawn through the center of the plot, representing the pooled treatment effect (the assumed true population mean) derived from the meta-analysis.
 
 | Plot Component | Description and Scaling |
@@ -20,7 +20,7 @@
 
 ### Interpretation of the Plot
 * The fundamental principle behind the [[Statistics/Funnel Plot\|funnel plot]] relies on sampling variability: smaller studies are less precise and more affected by random variation, while larger studies provide a more precise estimate of the true population mean.
-![Pasted image 20260409023238.png](/img/user/+%C4%B0mages/Pasted%20image%2020260409023238.png)
+![Pasted image 20260614203118.png](/img/user/+%C4%B0mages/Pasted%20image%2020260614203118.png)
 
 | Plot Appearance | Study Distribution | Clinical Implication |
 | :--- | :--- | :--- |

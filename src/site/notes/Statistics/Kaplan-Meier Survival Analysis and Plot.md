@@ -10,8 +10,7 @@
 
 ### Graphical Components of the Plot
 
-- The Kaplan-Meier plot translates complex longitudinal survival data into an accessible visual format.
-![Pasted image 20260409024947.png](/img/user/+%C4%B0mages/Pasted%20image%2020260409024947.png)
+- The Kaplan-Meier plot translates complex longitudinal survival data into an accessible visual format. ![Pasted image 20260614203143.png](/img/user/+%C4%B0mages/Pasted%20image%2020260614203143.png)
 
 | Plot Component      | Description and Clinical Significance                                                                                                                                                                     |
 | :------------------ | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |

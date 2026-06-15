@@ -88,7 +88,7 @@ Deficiency is rare in healthy individuals consuming a varied diet. It is almost 
 - **Muscle Weakness:** Proximal muscle weakness and myopathy.
 - **Pigmentary Retinopathy:** Can progress to visual field constriction and blindness.
 
-## Management of [[Nutrition/Vitamin E Deficiency\|Vitamin E Deficiency]]
+## Management of Vitamin E Deficiency
 
 ### 1. Prevention
 

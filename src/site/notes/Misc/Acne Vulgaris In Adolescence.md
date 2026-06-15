@@ -10,7 +10,7 @@
 - Affects both sexes equally overall; nodulocystic variant manifests more frequently in males.
 - Pathogenesis multifactorial; involves direct pilosebaceous unit inflammation.
 - Increased sebum secretion driven by enhanced sebaceous gland sensitivity to circulating androgens.
-- Microbial colonization primarily involves Propionibacterium acne.
+- Microbial colonization primarily involves ***Propionibacterium acne***.
 - Follicular occlusion occurs via keratin plugs forming comedones, retaining sebum, promoting microbial growth.
 - Distended follicle rupture releases inflammatory mediators into dermis, stimulating intense inflammation.
 

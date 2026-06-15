@@ -10,14 +10,14 @@ To qualify as an author, an individual must meet **ALL FOUR** of the following c
 
 1. **Substantial Contribution:** Substantial contributions to the conception or design of the work; OR the acquisition, analysis, or interpretation of data for the work.
 2. **Drafting or Critical Revision:** Drafting the work OR reviewing and revising it critically for important intellectual content.
-3. **Final Approval:** Final approval of the specific version of the [[Statistics/manuscript\|manuscript]] to be published.
+3. **Final Approval:** Final approval of the specific version of the manuscript to be published.
 4. **Accountability:** Agreement to be accountable for all aspects of the work, ensuring that questions related to the accuracy or integrity of any part of the work are appropriately investigated and resolved.
 
 ## 3. Responsibilities of Specific Author Roles
 * **Corresponding Author:** * Acts as the primary point of contact with the editorial office during the submission, peer review, and publication process.
     * Responsible for ensuring all administrative requirements (authorship details, ethics committee approvals, clinical trial registrations, conflict of interest disclosures) are properly completed.
     * Expected to be available post-publication to respond to critiques, data sharing requests, and queries.
-* **First Author:** Typically the researcher who performed the bulk of the experimental work/data collection and drafted the [[Statistics/manuscript\|manuscript]].
+* **First Author:** Typically the researcher who performed the bulk of the experimental work/data collection and drafted the manuscript.
 * **Senior (Last) Author:** Often the principal investigator, unit head, or mentor who provided the overarching research vision, funding, and critical supervision.
 
 ## 4. Contributors Who Do Not Qualify for Authorship (Acknowledgments)

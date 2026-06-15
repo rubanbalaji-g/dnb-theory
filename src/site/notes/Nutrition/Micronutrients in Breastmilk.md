@@ -6,7 +6,6 @@ Breast milk is the "gold standard" for infant nutrition, providing a unique matr
 
 A defining characteristic of micronutrients in breast milk is their **high bioavailability**. Although the absolute concentration of certain minerals (like iron and zinc) may be lower in human milk compared to animal milk, their absorption rates are significantly higher due to the presence of specific carrier proteins and favorable ratios of other constituents,.
 
----
 ## I. Fat-Soluble Vitamins in Breast Milk
 
 The concentration of fat-soluble vitamins in breast milk can be influenced by maternal stores and dietary intake.
@@ -90,7 +89,6 @@ While the total mineral content (ash) of human milk is lower than that of cow's 
 - **Selenium:** Important antioxidant; levels correlate with maternal intake.
 - **Iodine:** 7 $\mu$g/100 ml. Levels depend on maternal iodine status. Deficiency in the mother can lead to hypothyroidism in the infant.
 
----
 ## IV. Variations in Breast Milk Composition
 
 ### 1. Preterm Milk (PTM) vs. Term Milk
@@ -103,7 +101,7 @@ Micronutrient composition varies significantly based on the gestational age of t
 
 ### 2. Comparison with Cow's Milk (Micronutrient Perspective)
 
-Table: Comparison of Micronutrients (per 100 ml),
+Table: Comparison of Micronutrients (per 100 ml)
 
 |Nutrient|Human Milk|Cow's Milk|Significance|
 |:--|:--|:--|:--|

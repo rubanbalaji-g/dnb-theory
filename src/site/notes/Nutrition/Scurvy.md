@@ -2,7 +2,7 @@
 {"dg-publish":true,"uplink":"/nutrition/nutrition/","uptext":"Back to Index (Nutrition)","permalink":"/nutrition/scurvy/","dgPassFrontmatter":true}
 ---
 
-- **Definition:** [[Nutrition/Scurvy\|Scurvy]] is the clinical manifestation of severe Vitamin C (ascorbic acid) deficiency.
+- **Definition:** Scurvy is the clinical manifestation of severe Vitamin C (ascorbic acid) deficiency.
 - **Physiological Role:** Vitamin C acts as a cofactor for the hydroxylation of lysine and proline, which is essential for collagen synthesis. It maintains the integrity of connective tissue, blood vessels, bone (osteoid), and dentine.
 - **Etiology:**
     - **Dietary:** Occurs in infants fed predominantly on boiled or evaporated animal milk without fruit/vegetable supplementation (heat destroys Vitamin C).
@@ -10,23 +10,23 @@
     - **Other:** Severe malnutrition or chronic debilitating conditions.
 ## Pathophysiology of Radiological Changes
 
-The primary defect in [[Nutrition/Scurvy\|scurvy]] is the impairment of collagen synthesis due to the lack of vitamin C, which is a cofactor for the hydroxylation of lysine and proline. This leads to defective formation of osteoid (bone matrix) and connective tissue,.
+The primary defect in scurvy is the impairment of collagen synthesis due to the lack of vitamin C, which is a cofactor for the hydroxylation of lysine and proline. This leads to defective formation of osteoid (bone matrix) and connective tissue.
 
 - **Mechanism of White Line of Fraenkel:**
     - In normal growth, cartilage cells proliferate and calcify (provisional calcification), and are then replaced by osteoid laid down by osteoblasts.
-    - In [[Nutrition/Scurvy\|scurvy]], calcification of the cartilage continues normally, but the osteoblasts fail to lay down osteoid on the calcified cartilage matrix.
-    - This results in the persistence and widening of the zone of provisional calcification (calcified cartilage), which accumulates at the metaphysis, creating the dense white line seen on X-rays,.
+    - In scurvy, calcification of the cartilage continues normally, but the osteoblasts fail to lay down osteoid on the calcified cartilage matrix.
+    - This results in the persistence and widening of the zone of provisional calcification (calcified cartilage), which accumulates at the metaphysis, creating the dense white line seen on X-rays.
 - **Mechanism of Trümmerfeld Zone:**
     - The "Trümmerfeld" (field of debris) represents an area of structural weakness directly beneath the calcified cartilage.
     - Due to the lack of new bony trabeculae (osteoid) to support the calcified cartilage, the primary trabeculae are brittle and poorly formed.
     - Mechanical stress causes fractures in this weak area, leading to a zone of debris consisting of broken bone trabeculae and connective tissue.
 - **Mechanism of Pelkan Spurs:**
-    - These are caused by compression fractures of the brittle, calcified provisional zone (White line) which is mushroomed outward laterally by the mechanical forces of weight-bearing or muscle pull,,.
+    - These are caused by compression fractures of the brittle, calcified provisional zone (White line) which is mushroomed outward laterally by the mechanical forces of weight-bearing or muscle pull.
 - **Mechanism of Subperiosteal Hemorrhage:**
     - Vitamin C deficiency causes increased capillary fragility and defective connective tissue, leading to loosening of the periosteal attachment to the bone.
-    - This predisposes the patient to bleeding under the periosteum (subperiosteal), which lifts the periosteum off the bone shaft,.
+    - This predisposes the patient to bleeding under the periosteum (subperiosteal), which lifts the periosteum off the bone shaft.
 - **Mechanism of Ground Glass Appearance:**
-    - The resorption of bone continues normally while the formation of new bone matrix (osteoid) is arrested. This imbalance leads to generalized atrophy of the marrow trabeculae, resulting in the "ground glass" osteopenia and thinning of the cortex,.
+    - The resorption of bone continues normally while the formation of new bone matrix (osteoid) is arrested. This imbalance leads to generalized atrophy of the marrow trabeculae, resulting in the "ground glass" osteopenia and thinning of the cortex.
 
 ## Clinical Features
 
@@ -69,17 +69,17 @@ The clinical picture typically evolves after 3–6 months of deficient intake.
 
 Radiological changes in [[Nutrition/Scurvy\|scurvy]] are most prominent at the distal ends of long bones, particularly the knees (distal femur and proximal tibia) and wrists, which are sites of rapid growth.
 
-- **Ground Glass Appearance:** The shafts of the long bones exhibit a ground-glass appearance (blurring of trabecular markings) due to trabecular atrophy and generalized osteoporosis,.
-- **Pencil-Thin Cortex:** The cortex of the long bones becomes significantly thinned, appearing like a "pencil outline" of the diaphysis and epiphysis,.
-- **White Line of Fraenkel:** An irregular, thickened, and dense white line is seen at the metaphysis. This represents the zone of provisional calcification,.
-- **Trümmerfeld Zone (Zone of Rarefaction):** A linear band of radiolucency (rarefaction) is observed immediately proximal and parallel to the white line of Fraenkel. This is often the site of fractures,.
-- **Pelkan Spurs:** A lateral prolongation or spur formation at the metaphyseal margins (cortical ends),.
-- **Wimberger Ring Sign:** The ossification centers of the epiphyses show a ground-glass appearance surrounded by a dense, sclerotic white ring. This sharp outlining is characteristic,.
+- **Ground Glass Appearance:** The shafts of the long bones exhibit a ground-glass appearance (blurring of trabecular markings) due to trabecular atrophy and generalized osteoporosis.
+- **Pencil-Thin Cortex:** The cortex of the long bones becomes significantly thinned, appearing like a "pencil outline" of the diaphysis and epiphysis.
+- **White Line of Fraenkel:** An irregular, thickened, and dense white line is seen at the metaphysis. This represents the zone of provisional calcification.
+- **Trümmerfeld Zone (Zone of Rarefaction):** A linear band of radiolucency (rarefaction) is observed immediately proximal and parallel to the white line of Fraenkel. This is often the site of fractures.
+- **Pelkan Spurs:** A lateral prolongation or spur formation at the metaphyseal margins (cortical ends).
+- **Wimberger Ring Sign:** The ossification centers of the epiphyses show a ground-glass appearance surrounded by a dense, sclerotic white ring. This sharp outlining is characteristic.
 - **Subperiosteal Hemorrhage:**
     - During the active phase, this is not visible on plain radiographs.
     - During the healing phase, the elevated periosteum becomes calcified and radiopaque, often giving the bone a dumbbell or club-shaped appearance.
     - Large hematomas may be visualized earlier using MRI.
-- **Epiphyseal Separation:** Separation of the epiphysis may occur along the line of destruction (Trümmerfeld zone), leading to displacement or compression against the shaft,.
+- **Epiphyseal Separation:** Separation of the epiphysis may occur along the line of destruction (Trümmerfeld zone), leading to displacement or compression against the shaft.
 
 
 ## Role of Blood Level of Vitamin C in Diagnosis
@@ -91,15 +91,15 @@ While the diagnosis of [[Nutrition/Scurvy\|scurvy]] is primarily clinical and ra
     - **Limitation:** Plasma levels reflect recent dietary intake rather than total body tissue stores. Therefore, biochemical tests are often considered not very useful for a definitive diagnosis compared to clinical signs.
 - **Leukocyte Ascorbate Levels:**
     - The concentration of vitamin C in leukocytes is a better indicator of body stores than plasma levels.
-    - **Cut-off:** A level of **$\le$10 $\mu$g/$10^8$ white blood cells** indicates deficiency.
+    - **Cut-off:** A level of **$\le$ 10 $\mu$g/$10^8$ white blood cells** indicates deficiency.
     - **Role:** This can identify "latent [[Nutrition/Scurvy\|scurvy]]" even before clinical signs appear. However, this test is technically difficult to perform and not routinely available.
 - **Urinary Excretion (Load Test):**
     - This test assesses tissue saturation. A test dose of ascorbic acid is administered.
     - In healthy individuals, approximately 80% of the dose is excreted in the urine within 3–5 hours.
     - In deficiency, the tissues retain the vitamin, and significantly less appears in the urine.
 - **Clinical Context:**
-    - Diagnosis is usually confirmed by the characteristic physical findings (e.g., gum bleeding, perifollicular hemorrhage, tenderness) and radiological evidence,.
-    - A rapid clinical response to vitamin C therapy (100–200 mg/day) often serves as a retrospective confirmation of the diagnosis,.
+    - Diagnosis is usually confirmed by the characteristic physical findings (e.g., gum bleeding, perifollicular hemorrhage, tenderness) and radiological evidence.
+    - A rapid clinical response to vitamin C therapy (100–200 mg/day) often serves as a retrospective confirmation of the diagnosis.
 
 ## Management
 

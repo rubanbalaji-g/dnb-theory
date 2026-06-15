@@ -8,7 +8,7 @@ Folate (Vitamin B9) plays a pivotal role in DNA and RNA synthesis and one-carbon
 
 ### Hematological Manifestations
 
-The hallmark of [[Hematology/Folate Deficiency\|folate deficiency]] is megaloblastic anemia, which is morphologically indistinguishable from that caused by [[Hematology/Vitamin B12 Deficiency\|Vitamin B12 deficiency]].
+The hallmark of folate deficiency is megaloblastic anemia, which is morphologically indistinguishable from that caused by [[Hematology/Vitamin B12 Deficiency\|Vitamin B12 deficiency]].
 
 - **Anemia:** Children present with nonspecific symptoms of anemia, including progressive pallor, fatigue, lethargy, and irritability.
 - **Pancytopenia:** Severe deficiency affects all myeloid cell lines, leading to leukopenia and thrombocytopenia in addition to anemia.
@@ -30,10 +30,10 @@ Since the intestinal mucosa has a high turnover rate, it is frequently affected 
 
 ### Neurological Manifestations
 
-Unlike [[Hematology/Vitamin B12 Deficiency\|Vitamin B12 deficiency]], nutritional [[Hematology/Folate Deficiency\|folate deficiency]] typically does not cause subacute combined degeneration of the cord. However, specific forms and severe states have profound neurological implications.
+Unlike [[Hematology/Vitamin B12 Deficiency\|Vitamin B12 deficiency]], nutritional folate deficiency typically does not cause subacute combined degeneration of the cord. However, specific forms and severe states have profound neurological implications.
 
 - **Irritability and Behavioral Changes:** Listlessness and apathy are common constitutional symptoms.
-- **Cerebral [[Hematology/Folate Deficiency\|Folate Deficiency]]:** This is a specific neurological syndrome where serum folate is normal, but cerebrospinal fluid (CSF) folate is low due to transport defects. It manifests in infancy (4–6 months) with:
+- **Cerebral Folate Deficiency:** This is a specific neurological syndrome where serum folate is normal, but cerebrospinal fluid (CSF) folate is low due to transport defects. It manifests in infancy (4–6 months) with:
     - Severe irritability and sleep disturbances.
     - [[Neurology/Microcephaly\|Microcephaly]] and developmental delay.
     - Cerebellar ataxia and hypotonia.

@@ -232,7 +232,7 @@ This is the most common form, caused by inadequate sunlight exposure or dietary 
 ##### **A. Stoss Therapy (Mega-dose Therapy)**
 
 - **Regimen:** Administration of a massive dose of Vitamin D (300,000 to 600,000 IU).
-- **Administration:** Can be given orally (preferred) or intramuscularly. Usually divided into 2–4 doses given over 24 hours,.
+- **Administration:** Can be given orally (preferred) or intramuscularly. Usually divided into 2–4 doses given over 24 hours.
 - **Indications:** Ideal for patients where adherence to daily therapy is questionable (poor compliance).
 - **Disadvantages:** Risk of hypercalcemia, hypercalciuria, and nephrocalcinosis.
 
@@ -242,8 +242,8 @@ This is the most common form, caused by inadequate sunlight exposure or dietary 
 - **Dosage Guidelines:**
     - **< 6 months:** 2000 IU/day.
     - **6–12 months:** 2000 IU/day.
-    - **> 12 months:** 3000–6000 IU/day,.
-- **Alternative Intermittent Dosing:** If daily compliance is difficult, 60,000 IU can be given once weekly or fortnightly for a total of 600,000 IU,.
+    - **> 12 months:** 3000–6000 IU/day.
+- **Alternative Intermittent Dosing:** If daily compliance is difficult, 60,000 IU can be given once weekly or fortnightly for a total of 600,000 IU.
 
 ##### **Adjunctive Calcium Supplementation**
 
@@ -255,7 +255,7 @@ This is the most common form, caused by inadequate sunlight exposure or dietary 
 
 - After the 12-week treatment course, reduce to a daily maintenance dose:
     - **< 12 months:** 400 IU/day.
-    - **> 12 months:** 600 IU/day,.
+    - **> 12 months:** 600 IU/day.
 
 ##### **Monitoring**
 
@@ -285,25 +285,25 @@ These are rare genetic disorders causing rickets despite normal Vitamin D intake
 - **Diagnosis:** Normal 25(OH)D, markedly low 1,25(OH)₂D.
 - **Management:**
     - **Drug of Choice:** Calcitriol (1,25(OH)₂D) or Alfacalcidol (1$\alpha$-OHD).
-    - **Dosage:** Initial dose 0.25–2 $\mu$g/day (or 1–2 $\mu$g daily). Maintenance doses are lower (0.25 $\mu$g/day) once healed,.
+    - **Dosage:** Initial dose 0.25–2 $\mu$g/day (or 1–2 $\mu$g daily). Maintenance doses are lower (0.25 $\mu$g/day) once healed.
     - **Calcium:** Oral supplementation (30–50 mg/kg) during the initial phase.
     - **Monitoring:** Target low-normal serum calcium and high-normal PTH to avoid hypercalciuria and nephrocalcinosis. Urinary calcium should be <4 mg/kg/day.
 
 ##### **B. VDDR Type 2A (Vitamin D Receptor Defect)**
 
-- **Pathophysiology:** Mutation in the _VDR_ gene causing end-organ resistance to 1,25(OH)₂D. Often associated with alopecia,.
+- **Pathophysiology:** Mutation in the _VDR_ gene causing end-organ resistance to 1,25(OH)₂D. Often associated with alopecia.
 - **Diagnosis:** Markedly elevated 1,25(OH)₂D levels.
 - **Management:** Treatment is difficult and often unsatisfactory.
     - **High-Dose Vitamin D:** A trial of high doses (50–60 $\mu$g/day of calcitriol or huge doses of vitamin D2/D3) can be attempted.
     - **Calcium:** High dose oral calcium (1000–3000 mg/day).
-    - **Intravenous Calcium:** Long-term IV calcium infusion may be required for severe cases unresponsive to oral therapy to bypass the intestinal absorption defect,.
+    - **Intravenous Calcium:** Long-term IV calcium infusion may be required for severe cases unresponsive to oral therapy to bypass the intestinal absorption defect.
 
 #### 4. [[Nephrology/Chronic Kidney Disease\|Chronic Kidney Disease]] (Renal Rickets)
 
-- **Pathophysiology:** Impaired renal conversion of 25(OH)D to 1,25(OH)₂D and phosphate retention,.
+- **Pathophysiology:** Impaired renal conversion of 25(OH)D to 1,25(OH)₂D and phosphate retention.
 - **Management:**
-    - **Phosphate Restriction:** Dietary restriction and use of oral phosphate binders (e.g., calcium carbonate),.
-    - **Active Vitamin D:** Calcitriol (or alfacalcidol) is required as the kidney cannot hydroxylate Vitamin D,.
+    - **Phosphate Restriction:** Dietary restriction and use of oral phosphate binders (e.g., calcium carbonate).
+    - **Active Vitamin D:** Calcitriol (or alfacalcidol) is required as the kidney cannot hydroxylate Vitamin D.
     - **Calcium:** Supplementation to maintain normal serum levels and suppress PTH.
 
 ### Phosphopenic Rickets: Management
@@ -316,30 +316,30 @@ The most common heritable form, caused by _PHEX_ gene mutations leading to eleva
 
 - **Burosumab:**
     - A monoclonal antibody against FGF23.
-    - **Mechanism:** Normalizes serum phosphate by blocking FGF23 activity,.
-    - **Status:** Currently accepted as the standard of care where available; usually for children >1 year,.
+    - **Mechanism:** Normalizes serum phosphate by blocking FGF23 activity.
+    - **Status:** Currently accepted as the standard of care where available; usually for children >1 year.
 - **Conventional Therapy (Oral Phosphate + Active Vitamin D):**
-    - **Oral Phosphate:** 40–70 mg/kg/day of elemental phosphorus (1–3 g/day) divided into 4–5 doses,.
+    - **Oral Phosphate:** 40–70 mg/kg/day of elemental phosphorus (1–3 g/day) divided into 4–5 doses.
         - _Formulation:_ Joulie’s solution or neutral phosphate tablets.
         - _Side Effect:_ Diarrhea is common.
     - **Active Vitamin D:** Calcitriol (Rocaltrol) or Alfacalcidol is **mandatory** to prevent secondary hyperparathyroidism caused by phosphate administration.
         - _Dosage:_ Calcitriol 20–40 ng/kg/day (max 2 $\mu$g/day).
-- **Monitoring:** Essential to prevent complications like **nephrocalcinosis** (from overtreatment with calcium/vitamin D) and **secondary hyperparathyroidism** (from excessive phosphate lowering calcium),.
+- **Monitoring:** Essential to prevent complications like **nephrocalcinosis** (from overtreatment with calcium/vitamin D) and **secondary hyperparathyroidism** (from excessive phosphate lowering calcium).
     - Monitor serum calcium, phosphate, ALP, PTH, and urine calcium/creatinine ratio.
     - Renal ultrasound for nephrocalcinosis.
 
 #### 2. Hereditary Hypophosphatemic Rickets with Hypercalciuria (HHRH)
 
-- **Pathophysiology:** Mutation in _SLC34A3_ (sodium-phosphate cotransporter). Unlike XLH, 1,25(OH)₂D levels are elevated, leading to hypercalciuria,.
+- **Pathophysiology:** Mutation in _SLC34A3_ (sodium-phosphate cotransporter). Unlike XLH, 1,25(OH)₂D levels are elevated, leading to hypercalciuria.
 - **Management:**
-    - **Phosphate Monotherapy:** Oral phosphate replacement (1–2.5 g/day) is the mainstay,.
-    - **Contraindication:** Vitamin D (Calcitriol) is **not** typically needed and may worsen hypercalciuria because endogenous 1,25(OH)₂D is already high,. Treatment of hypophosphatemia alone normalizes 1,25(OH)₂D levels and corrects hypercalciuria.
+    - **Phosphate Monotherapy:** Oral phosphate replacement (1–2.5 g/day) is the mainstay.
+    - **Contraindication:** Vitamin D (Calcitriol) is **not** typically needed and may worsen hypercalciuria because endogenous 1,25(OH)₂D is already high. Treatment of hypophosphatemia alone normalizes 1,25(OH)₂D levels and corrects hypercalciuria.
 
 #### 3. Tumor-Induced Osteomalacia (Oncogenic Rickets)
 
 - **Pathophysiology:** Mesenchymal tumors secrete excess FGF23.
 - **Management:**
-    - **Surgical Excision:** Complete removal of the tumor is curative and reverses biochemical abnormalities,.
+    - **Surgical Excision:** Complete removal of the tumor is curative and reverses biochemical abnormalities.
     - **Medical Therapy:** If the tumor cannot be located or resected, manage medically identical to XLH (Phosphate + Calcitriol) or use Burosumab.
 
 #### 4. Rickets of Prematurity
@@ -358,7 +358,7 @@ Occurs in very low birth weight infants (<1000g) due to interruption of placenta
 
 #### 5. Rickets in Distal [[Nephrology/Renal Tubular Acidosis (RTA)\|Renal Tubular Acidosis (RTA)]]
 
-- **Pathophysiology:** Metabolic acidosis leads to bone demineralization and hypercalciuria,.
+- **Pathophysiology:** Metabolic acidosis leads to bone demineralization and hypercalciuria.
 - **Management:**
     - **Alkali Therapy:** Correction of acidosis (e.g., with bicarbonates/citrates) allows bone healing.
     - **Supplements:** Potassium and phosphate supplementation may be required.
@@ -367,7 +367,7 @@ Occurs in very low birth weight infants (<1000g) due to interruption of placenta
 
 - **Pathophysiology:** Generalized proximal tubular dysfunction losing phosphate, bicarbonate, glucose, and amino acids.
 - **Management:**
-    - Replacement of losses: Phosphate, bicarbonate, potassium, and fluid,.
+    - Replacement of losses: Phosphate, bicarbonate, potassium, and fluid.
     - Specific treatment of the underlying cause (e.g., cystinosis).
 
 ## Resistant Rickets
@@ -443,5 +443,3 @@ The biochemical workup is critical for diagnosis. The following flowchart logic 
 |**XLH (Hypophosphatemic)**|Normal|**Very Low**|High|Normal|**Low/Inappropriate**|Low|
 |**HHRH**|Normal|Low|High|Low|**High**|**High**|
 |**[[Nephrology/Chronic Kidney Disease\|Chronic Kidney Disease]]**|Low/N|**High**|High|High|Low|Low/N|
-
-**

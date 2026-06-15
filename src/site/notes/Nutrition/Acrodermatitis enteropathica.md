@@ -4,7 +4,7 @@
 
 ## Definition and Overview
 
-- **[[Nutrition/Acrodermatitis enteropathica\|Acrodermatitis Enteropathica]] (AE)** is a rare, autosomal recessive genetic disorder characterized by the inability to absorb zinc from the intestine.
+- **Acrodermatitis Enteropathica (AE)** is a rare, autosomal recessive genetic disorder characterized by the inability to absorb zinc from the intestine.
 - It represents a severe form of zinc deficiency caused by a primary defect in the intestinal zinc transport mechanism.
 - The condition is historically significant as it highlighted the essential role of zinc in human nutrition and health.
 - Without treatment, the disease is progressive and can be fatal, but it responds dramatically to zinc supplementation, allowing for a normal life expectancy.
@@ -28,7 +28,7 @@ Zinc is a ubiquitous trace element essential for the function of over 200 metall
 
 ## Clinical Features
 
-The clinical presentation of [[Nutrition/Acrodermatitis enteropathica\|Acrodermatitis Enteropathica]] is classic and often described by a triad of symptoms.
+The clinical presentation of Acrodermatitis Enteropathica is classic and often described by a triad of symptoms.
 
 ### Onset
 
@@ -117,7 +117,7 @@ The clinical appearance can mimic several other dermatological and nutritional c
 
 ## Management
 
-[[Nutrition/Acrodermatitis enteropathica\|Acrodermatitis Enteropathica]] is a treatable condition with an excellent prognosis if managed early. Therapy is lifelong.
+Acrodermatitis Enteropathica is a treatable condition with an excellent prognosis if managed early. Therapy is lifelong.
 
 ### 1. Zinc Supplementation (Mainstay of Treatment)
 

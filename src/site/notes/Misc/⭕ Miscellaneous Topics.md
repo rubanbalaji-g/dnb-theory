@@ -37,6 +37,8 @@
 12. [[Misc/Erythema Multiforme\|Erythema Multiforme]]
 13. [[Misc/Pediculosis\|Pediculosis]]
 14. [[Misc/Nevus Disorders\|Nevus Disorders]]
+15. [[Misc/Hypopigmented lesions in Children\|Hypopigmented lesions in Children]]
+16. [[Misc/Fungal Skin Infections in children\|Fungal Skin Infections in children]]
 ## Vaccines
 1. [[Misc/Cold Chain\|Cold Chain]]
 2. [[Misc/Vaccine Vial Monitor\|Vaccine Vial Monitor]]

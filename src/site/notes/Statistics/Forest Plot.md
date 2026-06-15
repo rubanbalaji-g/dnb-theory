@@ -4,14 +4,14 @@
 
 ### Definition and Purpose
 
-- A [[Statistics/Forest Plot\|Forest plot]] is a specific graphical illustration commonly used to present the results of a meta-analysis.
+- A Forest plot is a specific graphical illustration commonly used to present the results of a meta-analysis.
 - It visually displays the point estimates and confidence intervals for all the selected individual studies, alongside the combined overall summary effect.
 - In a standard layout, the plot is usually accompanied by descriptive text including the name of each study (or the author and year of publication), a summary of the raw results for each study, the calculated weight of each study, the overall effect estimate, and statistical tests of heterogeneity.
 
 ### Components and Interpretation
 
-- The graphical elements of a [[Statistics/Forest Plot\|Forest plot]] convey specific statistical information regarding the individual trials and the pooled data.
-![Pasted image 20260409022750.png](/img/user/+%C4%B0mages/Pasted%20image%2020260409022750.png)
+- The graphical elements of a Forest plot convey specific statistical information regarding the individual trials and the pooled data.
+![Pasted image 20260614202258.png](/img/user/+%C4%B0mages/Pasted%20image%2020260614202258.png)
 
 |Component|Description and Interpretation|
 |:--|:--|

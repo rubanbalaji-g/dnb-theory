@@ -6,8 +6,8 @@
 
 Iodine is an essential micronutrient present in minute quantities in the human body (15–20 mg), primarily in the thyroid gland. It is a critical substrate for the synthesis of thyroid hormones, thyroxine (T4) and triiodothyronine (T3), which are the main determinants of basal metabolic rate. These hormones play a pivotal role in somatic growth and brain development, particularly in the fetus and during the first three years of postnatal life.
 
-- **Physiological Role:** Iodine is essential for the synthesis of thyroid hormones (T3 and T4),.
-- **Sources:** Sea foods, plants grown in iodine-rich soil, drinking water, and iodized salt,,. The Himalayan belt and Ganges valley are areas of severe deficiency in India due to soil leaching.
+- **Physiological Role:** Iodine is essential for the synthesis of thyroid hormones (T3 and T4).
+- **Sources:** Sea foods, plants grown in iodine-rich soil, drinking water, and iodized salt,. The Himalayan belt and Ganges valley are areas of severe deficiency in India due to soil leaching.
 
 ## Iodine Deficiency Disorders (IDD)
 
@@ -27,7 +27,7 @@ The clinical manifestations of iodine deficiency vary depending on the age of on
 
 Iodine deficiency in the mother leads to inadequate availability of T4 to the fetus.
 
-- **Abortion and Stillbirth:** Increased risk of fetal loss,.
+- **Abortion and Stillbirth:** Increased risk of fetal loss.
 - **Congenital Anomalies:** Increased risk of birth defects.
 - **Neurological Damage:** Maternal hypothyroidism adversely affects early brain development, leading to permanent damage.
 - **Perinatal Mortality:** Increased rates of perinatal death.
@@ -40,13 +40,13 @@ Iodine deficiency in the mother leads to inadequate availability of T4 to the fe
 
 #### C. Child and Adolescent
 
-- **Goiter:** The earliest and most visible manifestation. It is an adaptive response (hypertrophy and hyperplasia) to increase thyroid hormone production under TSH stimulation,.
+- **Goiter:** The earliest and most visible manifestation. It is an adaptive response (hypertrophy and hyperplasia) to increase thyroid hormone production under TSH stimulation.
     - _Endemic Goiter:_ Defined when the prevalence of goiter in a population is >5%.
     - _Simple Colloid Goiter:_ Often due to subclinical deficiency.
-- **Hypothyroidism:** Clinical features include growth retardation, fatigue, cold intolerance, and dry skin,.
+- **Hypothyroidism:** Clinical features include growth retardation, fatigue, cold intolerance, and dry skin.
 - **Impaired Mental Function:** Even in clinically euthyroid children, deficiency is associated with abnormalities in psychoneuromotor and intellectual development, poor school performance, and fine motor skill deficits.
 - **Cretinism:** The most severe manifestation of severe iodine deficiency during fetal and early life. It presents in two types:
-    - **Neurological Cretinism:** Characterized by mental retardation, deaf-mutism, spastic diplegia, and squint,.
+    - **Neurological Cretinism:** Characterized by mental retardation, deaf-mutism, spastic diplegia, and squint.
     - **Myxedematous Cretinism:** Characterized by severe hypothyroidism, short stature, and coarse features. This form is often seen in areas with combined selenium and iodine deficiency.
 
 #### D. Adult
@@ -61,10 +61,10 @@ Assessment is performed at the individual level for diagnosis and at the populat
 
 ### 1. Biochemical Indicators
 
-- **Urinary Iodine Excretion (UIE):** Since >90% of dietary iodine is excreted in urine, this is the most useful indicator of recent iodine intake,.
+- **Urinary Iodine Excretion (UIE):** Since >90% of dietary iodine is excreted in urine, this is the most useful indicator of recent iodine intake.
     - _Normal:_ >100 $\mu$g/L.
     - _Insufficient:_ <100 $\mu$g/L.
-    - _Severe Deficiency:_ <20 $\mu$g/L,,.
+    - _Severe Deficiency:_ <20 $\mu$g/L,.
 - **Thyroid Function Tests:**
     - **Serum TSH:** Elevated in deficiency (especially sensitive in neonates).
     - **Serum T3/T4:** T4 may be low or low-normal; T3 may be normal or elevated (adaptive mechanism).
@@ -98,7 +98,7 @@ Based on Median Urinary Iodine Levels:
 ### 2. Interactions with Other Micronutrients
 
 - **Goitrogens:** Substances in food (e.g., cabbage, cauliflower, cassava) interfere with iodine utilization.
-- **Selenium Deficiency:** Selenium is required for the deiodinase enzyme (conversion of T4 to T3). Combined deficiency exacerbates hypothyroidism and causes myxedematous cretinism,.
+- **Selenium Deficiency:** Selenium is required for the deiodinase enzyme (conversion of T4 to T3). Combined deficiency exacerbates hypothyroidism and causes myxedematous cretinism.
 - **Iron Deficiency:** Iron is a component of thyroid peroxidase; anemia impairs thyroid metabolism.
 
 ## Prevention and Control
@@ -109,8 +109,8 @@ The goal is virtually virtual elimination of IDD. Prevention relies on increasin
 
 - **Infants (0–12 months):** 90 $\mu$g/day.
 - **Children (1–5 years):** 90 $\mu$g/day.
-- **Children (6–12 years):** 120 $\mu$g/day,.
-- **Adolescents and Adults:** 150 $\mu$g/day,.
+- **Children (6–12 years):** 120 $\mu$g/day.
+- **Adolescents and Adults:** 150 $\mu$g/day.
 - **Pregnant and Lactating Women:** 200–250 $\mu$g/day (higher demand).
 
 ### 2. Universal Salt Iodization (USI)
@@ -118,13 +118,13 @@ The goal is virtually virtual elimination of IDD. Prevention relies on increasin
 - **Strategy:** This is the most successful global public health intervention. It involves fortification of all salt for human and animal consumption with iodine.
 - **Formulation:** In India, Potassium Iodate ($KIO_3$) is used due to its stability in hot and humid climates.
 - **Targets (National Iodine Deficiency Disorders Control Program):**
-    - **Manufacturing Level:** Salt must contain **30 ppm** (parts per million) of iodine,.
-    - **Consumer Level:** Salt must contain **15 ppm** of iodine to account for losses during transport and storage,,.
+    - **Manufacturing Level:** Salt must contain **30 ppm** (parts per million) of iodine.
+    - **Consumer Level:** Salt must contain **15 ppm** of iodine to account for losses during transport and storage,.
 - **Monitoring:** Regular testing of salt samples using spot testing kits and monitoring urinary iodine in the population are essential components of the program.
 
 ### 3. Alternative Supplementation Strategies
 
-- **Double Fortified Salt (DFS):** Salt fortified with both Iron and Iodine. This is an innovative strategy (e.g., tried in Andhra Pradesh) to tackle the dual burden of anemia and goiter simultaneously,.
+- **Double Fortified Salt (DFS):** Salt fortified with both Iron and Iodine. This is an innovative strategy (e.g., tried in Andhra Pradesh) to tackle the dual burden of anemia and goiter simultaneously.
 - **Iodized Oil:** In areas of severe endemicity where iodized salt is not yet available or effective, oral or intramuscular administration of iodized oil (e.g., Lipiodol) can provide protection for 6–12 months.
 - **Water Iodization:** Used in some specific small communities.
 
