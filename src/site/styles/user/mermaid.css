@@ -1,0 +1,34 @@
+mermaid.flowchartConfig = {
+    width: 100%
+}
+
+/* Ensure Mermaid sub-containers and SVGs stretch to fill available workspace width */
+.mermaid, 
+.mermaid svg,
+.mermaid .nodes-chart {
+    width: 100% !important;
+    max-width: 100% !important;
+}
+
+/* Force node containers to expand horizontally based on content, up to max space */
+.mermaid .node foreignObject {
+    width: 100% !important;
+    overflow: visible !important;
+}
+
+/* Force the internal wrapper block to dynamically size up */
+.mermaid .node .label-container {
+    width: 100% !important;
+    min-width: 450px; /* Adjust this value if you want a wider baseline for text cards */
+}
+
+/* Fix the bold element coloring bug */
+/* This forces all bold text inside a node to strictly inherit the theme color of its parent box */
+.mermaid .node b, 
+.mermaid .node strong, 
+.mermaid .node h1, 
+.mermaid .node h2, 
+.mermaid .node h3 {
+    color: inherit !important;
+    font-weight: 700 !important;
+}
