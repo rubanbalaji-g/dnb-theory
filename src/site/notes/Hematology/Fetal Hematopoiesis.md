@@ -12,7 +12,7 @@
 - CMPs differentiate into all non-lymphoid blood lineages.
 - Regulation dependent on specific transcription factors and local hematopoietic growth factors.
 
-## Anatomic Stages of [[Hematology/Fetal Hematopoiesis\|Fetal Hematopoiesis]]
+## Anatomic Stages of Fetal Hematopoiesis
 
 - Process conceptualized into three overlapping developmental waves.
 

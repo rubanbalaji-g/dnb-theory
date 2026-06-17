@@ -2,13 +2,13 @@
 {"dg-publish":true,"uplink":"/development/developmental-pediatrics/","uptext":"Back to Index (📈 Development and Growth)","permalink":"/development/growth-charts-and-anthropometry/","dgPassFrontmatter":true}
 ---
 
-- [[Development/Growth Charts\|Growth charts]] are essential surveillance tools in pediatric practice that represent the frequency distribution curves (percentiles or z-scores) of anthropometric parameters in a reference population.
+- Growth charts are essential surveillance tools in pediatric practice that represent the frequency distribution curves (percentiles or z-scores) of anthropometric parameters in a reference population.
 - Plotting a single value determines if a child is within the normal range at a specific point in time, while sequential plotting allows monitoring of growth trends and trajectories against the median.
 - Growth parameters are highly sensitive indicators of overall well-being, chronic disease status, nutritional adequacy, and psychosocial stress.
 
 ## Types of Growth Standards and References
 
-- The selection of appropriate [[Development/Growth Charts\|growth charts]] depends on the age of the child and the clinical context.
+- The selection of appropriate growth charts depends on the age of the child and the clinical context.
 - It is critical to distinguish between a "growth standard" (which prescribes how children should optimally grow) and a "growth reference" (which describes how a specific population actually grew).
 
 |Feature|WHO Multicentre Growth Reference Study (MGRS) Charts|CDC 2000 [[Development/Growth Charts\|Growth Charts]]|Indian Academy of Pediatrics (IAP) Charts|

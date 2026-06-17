@@ -6,9 +6,9 @@
 
 - Iron poisoning is a potentially fatal pediatric emergency, with severity directly related to the amount of elemental iron ingested.
 - Adult iron preparations and prenatal vitamins are the most toxic sources, whereas children's vitamins, multivitamin preparations, and nonionic forms (carbonyl iron, iron polysaccharide) rarely contain enough elemental iron to cause significant toxicity.
-### [[Emergencies/Iron Toxicity\|Iron Toxicity]] Based on Ingested Dose
+### Iron Toxicity Based on Ingested Dose
 
-- The risk assessment and severity of [[Emergencies/Iron Toxicity\|iron toxicity]] are determined strictly by the amount of **elemental iron** ingested, rather than the total weight of the iron salt tablet.
+- The risk assessment and severity of iron toxicity are determined strictly by the amount of **elemental iron** ingested, rather than the total weight of the iron salt tablet.
 - The therapeutic dose for treating [[Hematology/Iron Deficiency Anemia\|iron deficiency anemia]] is typically 3 to 6 mg/kg/day.
 - Acute ingestions exceeding these therapeutic limits are categorized based on the milligram per kilogram (mg/kg) of elemental iron ingested, which correlates with expected clinical manifestations.
 

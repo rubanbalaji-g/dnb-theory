@@ -142,7 +142,6 @@ L --> Q[<b>Conservative Mgmt</b><br>Rewarm and topical creams]:::step
 - Resolves rapidly upon external warming.
 
 #### Chilblains (Pernio)
-![Pasted image 20260502223547.png|right|250](/img/user/+%C4%B0mages/Pasted%20image%2020260502223547.png)
 - Idiopathic condition triggered by cold, damp exposure.
 - Presents as painful, edematous, bluish-red papular or nodular lesions.
 - Affects acral locations including fingers, toes, and ears.

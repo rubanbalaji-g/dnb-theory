@@ -2,7 +2,7 @@
 {"dg-publish":true,"uptext":"Back to Index (🚑 Emergencies and Critical Care)","uplink":"/emergencies/emergencies-and-critical-care/","permalink":"/emergencies/pediatric-tachycardia-algorithm/","dgPassFrontmatter":true}
 ---
 
-![Pasted image 20260324214253.png](/img/user/+%C4%B0mages/Pasted%20image%2020260324214253.png)
+![Pasted image 20260616123459](https://images.pedianotes.in/2026/06/zWrjwAngG2s8I3tg5aMm)
 ### Initial Assessment and Categorization
 
 - The evaluation of a child presenting with a rhythm disturbance hinges on two primary considerations: the child's typical heart rate/rhythm for their age and the patient's hemodynamic status (clinical condition).

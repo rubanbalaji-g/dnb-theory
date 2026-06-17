@@ -46,8 +46,8 @@ graph TD
     style L fill:#ffb3ba,stroke:#c00,stroke-width:2px
     style G fill:#baffc9,stroke:#333,stroke-width:1px
     style H fill:#ffdfba,stroke:#333,stroke-width:1px
-
 ```
+
 <!-- /htmlmin:ignore -->
 
 ## Introduction
@@ -63,7 +63,7 @@ graph TD
 
 ## Pathophysiology
 
-The pathophysiology of [[Infectious Diseases/Dengue\|dengue]] is complex and involves the interplay of viral replication and the host immune response. The core mechanisms leading to severe disease include Antibody-Dependent Enhancement (ADE), cytokine storm, vasculopathy, and coagulopathy.
+The pathophysiology of Dengue is complex and involves the interplay of viral replication and the host immune response. The core mechanisms leading to severe disease include Antibody-Dependent Enhancement (ADE), cytokine storm, vasculopathy, and coagulopathy.
 
 <!-- htmlmin:ignore -->
 ```mermaid
@@ -132,7 +132,7 @@ graph TD
 
 ### Vasculopathy and Plasma Leakage
 
-- The hallmark of severe [[Infectious Diseases/Dengue\|dengue]] is increased vascular permeability leading to plasma leakage into serous cavities (pleural, peritoneal, and pericardial spaces). 
+- The hallmark of severe Dengue is increased vascular permeability leading to plasma leakage into serous cavities (pleural, peritoneal, and pericardial spaces). 
 - This vasculopathy is caused by the disruption of the endothelial glycocalyx and endothelial dysfunction triggered by cytokines and viral proteins like NS1. 
 - The NS1 viral protein can directly activate Toll-like receptor-4 and disrupt the endothelial cell monolayer integrity. 
 - Plasma leakage results in hemoconcentration (rising hematocrit), hypovolemia, and potentially shock.
@@ -146,7 +146,7 @@ graph TD
 
 ## Clinical Manifestations and Phases
 
-The clinical course of [[Infectious Diseases/Dengue\|dengue]] illness is dynamic and passes through three phases: the febrile phase, the critical phase, and the convalescent phase.
+The clinical course of Dengue illness is dynamic and passes through three phases: the febrile phase, the critical phase, and the convalescent phase.
 
 ### Febrile Phase
 
@@ -158,7 +158,7 @@ The clinical course of [[Infectious Diseases/Dengue\|dengue]] illness is dynamic
 ### Critical Phase
 
 - This phase usually begins at defervescence (when fever drops), typically on days 3–7 of illness. It lasts for 24–48 hours and is characterized by increased capillary permeability. 
-- Plasma leakage results in hemoconcentration, where the hematocrit rises 20% or more above baseline. Significant plasma leakage can lead to shock ([[Infectious Diseases/Dengue\|Dengue]] Shock Syndrome - DSS), defined by narrow pulse pressure (<20 mmHg), hypotension, cold clammy extremities, and delayed capillary refill. 
+- Plasma leakage results in hemoconcentration, where the hematocrit rises 20% or more above baseline. Significant plasma leakage can lead to shock (Dengue Shock Syndrome - DSS), defined by narrow pulse pressure (<20 mmHg), hypotension, cold clammy extremities, and delayed capillary refill. 
 - Severe organ impairment (hepatitis, encephalitis, myocarditis) and severe bleeding may also occur during this phase.
 
 ### Convalescent (Recovery) Phase
@@ -170,10 +170,10 @@ The clinical course of [[Infectious Diseases/Dengue\|dengue]] illness is dynamic
 
 ## Disease Classification
 
-The World Health Organization (WHO) classifies [[Infectious Diseases/Dengue\|dengue]] into three categories to guide management:
+The World Health Organization (WHO) classifies Dengue into three categories to guide management:
 
-1. **[[Infectious Diseases/Dengue\|Dengue]] without Warning Signs (Group A):** Patients with fever and two or more symptoms like nausea, vomiting, rash, aches, and leukopenia, but no warning signs.
-2. **[[Infectious Diseases/Dengue\|Dengue]] with Warning Signs (Group B):** Patients presenting with any of the following warning signs requiring strict observation:
+1. **Dengue without Warning Signs (Group A):** Patients with fever and two or more symptoms like nausea, vomiting, rash, aches, and leukopenia, but no warning signs.
+2. **Dengue with Warning Signs (Group B):** Patients presenting with any of the following warning signs requiring strict observation:
     - Abdominal pain or tenderness.
     - Persistent vomiting.
     - Clinical fluid accumulation (ascites, pleural effusion).
@@ -181,30 +181,14 @@ The World Health Organization (WHO) classifies [[Infectious Diseases/Dengue\|den
     - Lethargy or restlessness.
     - Liver enlargement >2 cm.
     - Laboratory: Increasing hematocrit concurrent with rapidly decreasing platelet count.
-3. **Severe [[Infectious Diseases/Dengue\|Dengue]] (Group C):** Defined by the presence of one or more of the following:
+3. **Severe Dengue (Group C):** Defined by the presence of one or more of the following:
     - Severe plasma leakage leading to shock or respiratory distress.
     - Severe bleeding as evaluated by the clinician.
     - Severe organ involvement (AST/ALT >1000, impaired consciousness, myocardial dysfunction).
 <!-- htmlmin:ignore -->
-```mermaid
-mindmap
-  root((Dengue))
-    ("Warning Signs")
-      ("Abdominal pain <br>or tenderness")
-      ("Persistent vomiting")
-      ("Clinical fluid <br>accumulation")
-      ("Mucosal bleed")
-      ("Lethargy, <br>restlessness")
-      ("Liver enlargement <br> #62; 2 cm")
-      ("Lab: increase in HCT<br>with rapid decrease<br>in platelet count")
-    ("Severe Dengue Criteria")
-      ("Severe plasma leakage<br>leading to shock<br>&lpar; DSS &rpar;")
-      ("Severe bleeding")
-      ("Severe organ impairment<br>&lpar; liver, CNS, heart &rpar;")
-
-```
+![mermaid](https://images.pedianotes.in/2026/06/VdHBohwCRA9Cx2lHr12M)
 <!-- /htmlmin:ignore -->
-![](https://i.ibb.co/Z6bG2fcS/pdfeditor-IM6u5-KTx-O2.png)
+![pdfeditor IM6u5 KTx O2](https://images.pedianotes.in/2026/06/SRQQam20RdczJuvQCxw0)
 
 ## Diagnosis
 
@@ -232,13 +216,13 @@ Management is supportive and revolves around judicious fluid therapy to maintain
 
 - **Group A (Home Management):** Patients without warning signs who can tolerate oral fluids and have normal urine output.
 - **Group B (In-patient Management):** Patients with warning signs or high-risk co-morbidities (infants, pregnancy, diabetes, obesity).
-- **Group C (Emergency Management):** Patients with severe [[Infectious Diseases/Dengue\|dengue]], shock, or severe organ impairment.
+- **Group C (Emergency Management):** Patients with severe Dengue, shock, or severe organ impairment.
 
-### Group A: Management of Mild [[Infectious Diseases/Dengue\|Dengue]]
+### Group A: Management of Mild Dengue
 
 Patients are managed at home with bed rest and adequate oral hydration (ORS, fruit juices). Fever is managed with paracetamol (10-15 mg/kg/dose). NSAIDs like aspirin and ibuprofen must be avoided as they increase bleeding risk and cause gastritis. Patients and caregivers must be educated to monitor for warning signs and return to the hospital immediately if they develop.
 
-### Group B: Management of [[Infectious Diseases/Dengue\|Dengue]] with Warning Signs
+### Group B: Management of Dengue with Warning Signs
 
 Admission is required. The goal is to prevent shock.
 
@@ -252,9 +236,9 @@ Admission is required. The goal is to prevent shock.
     - If the patient deteriorates or HCT rises, increase the fluid rate to 5–10 mL/kg/hour.
     - Fluids are usually tapered and stopped after 24–48 hours when the plasma leak resolves.
 4. **Monitoring:** Vitals every 1–4 hours, urine output 4–6 hourly, and HCT 6–12 hourly. Target urine output is 0.5 mL/kg/hour.
-![](https://i.ibb.co/MYjdnhQ/Picture1.png)
+![Picture1](https://images.pedianotes.in/2026/06/JdASvP5IAI5gJ0kO1wMA)
 
-### Group C: Management of Severe [[Infectious Diseases/Dengue\|Dengue]] (Shock)
+### Group C: Management of Severe Dengue (Shock)
 
 These patients require emergency treatment, preferably in an ICU. Management differs for compensated versus decompensated shock.
 
@@ -268,7 +252,7 @@ Signs include tachycardia, tachypnea, cool peripheries, delayed capillary refill
     - **No Improvement:** Check HCT.
         - If HCT is high/rising: Give a second bolus of 10–20 mL/kg over 1 hour. Colloids (dextran 40 or gelatin) may be considered if crystalloids fail.
         - If HCT is falling/low with shock: Suspect severe bleeding. Transfuse Whole Blood (10 mL/kg) or Packed RBCs (5 mL/kg).
-![](https://i.ibb.co/qLHXwqgS/Picture2.png)
+![Picture2](https://images.pedianotes.in/2026/06/ixq0bfZccgWdCYqCx4g1)
 
 #### Decompensated (Hypotensive) Shock
 
@@ -281,7 +265,7 @@ Signs include unrecordable BP, profound hypotension, and absent peripheral pulse
         - If HCT high: Repeat bolus 10–20 mL/kg (colloid preferred) over 15-30 minutes. Up to 3 boluses can be given.
         - If HCT low: Transfuse blood immediately.
     - **Refractory Shock:** If shock persists despite adequate fluid volume (approx. 40-60 ml/kg total), initiate inotropes (epinephrine/norepinephrine/dopamine). Evaluate for other causes like acidosis, hypocalcemia, hypoglycemia, or occult hemorrhage.
-![](https://i.ibb.co/VcMLDr0C/Picture3.png)
+![Picture3](https://images.pedianotes.in/2026/06/JJAkAzeUrlWu3zQ4P1ps)
 ### Management of Hemorrhage
 
 Prophylactic platelet transfusion is not recommended, even with counts <20,000/mm³, as it does not reduce bleeding risk and may cause fluid overload. Therapeutic transfusion is indicated only for:
@@ -304,18 +288,18 @@ Fluid overload is a common iatrogenic complication caused by excessive fluid adm
 - **[[Nephrology/Acute Kidney Injury\|Acute Kidney Injury]] (AKI):** Maintain perfusion. If fluid unresponsive or fluid overloaded, consider renal replacement therapy (dialysis).
 - **Hemophagocytic Lymphohistiocytosis (HLH):** A rare, life-threatening hyper-inflammatory syndrome characterized by persistent fever, pancytopenia, and high ferritin. It may require steroids or IVIG.
 
-## [[Infectious Diseases/Dengue\|Dengue]] in Specific Populations
+## Dengue in Specific Populations
 
 ### Pediatrics
 
-Children are at higher risk for severe [[Infectious Diseases/Dengue\|dengue]] and shock due to their smaller vascular volume and higher capillary permeability.
+Children are at higher risk for severe Dengue and shock due to their smaller vascular volume and higher capillary permeability.
 
 - **Infants:** Infants <1 year are a high-risk group. They may present with shock without distinct prior clinical changes. Fluids should be managed with extreme caution, often using 0.45% saline in young infants.
-- **Neonatal [[Infectious Diseases/Dengue\|Dengue]]:** Can present as sepsis-like illness. History of maternal fever is crucial.
+- **Neonatal Dengue:** Can present as sepsis-like illness. History of maternal fever is crucial.
 
 ### Comorbidities
 
-- **Pregnancy:** [[Infectious Diseases/Dengue\|Dengue]] in pregnancy carries risks of hemorrhage, vertical transmission, and fetal distress. Fluid management is challenging due to physiological hypervolemia. Delivery during the critical phase carries a high risk of massive postpartum hemorrhage.
+- **Pregnancy:** Dengue in pregnancy carries risks of hemorrhage, vertical transmission, and fetal distress. Fluid management is challenging due to physiological hypervolemia. Delivery during the critical phase carries a high risk of massive postpartum hemorrhage.
 - **Obesity:** Ideal body weight must be used for fluid calculations to avoid overdose.
 - **Co-infections:** Co-infection with [[Infectious Diseases/Malaria\|Malaria]], Typhoid, or Chikungunya is possible and complicates management. Treatment for co-infections (e.g., antimalarials, antibiotics) should be initiated if suspected/confirmed.
 

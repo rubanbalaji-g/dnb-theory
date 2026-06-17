@@ -2,8 +2,7 @@
 {"dg-publish":true,"uptext":"Back to Index (🚑 Emergencies and Critical Care)","uplink":"/emergencies/emergencies-and-critical-care/","permalink":"/emergencies/pediatric-cardiac-arrest-alogrithm/","dgPassFrontmatter":true}
 ---
 
-![Pasted image 20260324213624.png](/img/user/+%C4%B0mages/Pasted%20image%2020260324213624.png)
-
+![Pasted image 20260616122655](https://images.pedianotes.in/2026/06/SSBAQAaBfdHOz12foiW7)
 
 - The pediatric cardiac arrest algorithm is a structured, stepwise approach utilized for the immediate management of a child presenting with absent or ineffective cardiac mechanical activity.
 - Upon detecting a pulseless arrest, the initial intervention is the prompt initiation of high-quality cardiopulmonary resuscitation (CPR) following the C-A-B (Compressions-Airway-Breathing) sequence.
@@ -50,11 +49,11 @@
 
 - Identifying and treating the precipitating cause is critical for successful resuscitation and must be integrated continuously into the algorithm.
 
-| The "Hs" (Metabolic/Systemic) | The "Ts" (Toxic/Structural) |
-| :---------------------------- | :-------------------------- |
-| Hypovolemia                  | Toxins                      |
-| Hypoxia                      | Tamponade (cardiac)         |
-| Hydrogen ion (acidosis)      | Tension [[Respiratory/Pneumothorax\|pneumothorax]]        |
-| Hypoglycemia                 | Thrombosis (coronary)       |
-| Hypo- / Hyperkalemia         | Thrombosis (pulmonary)      |
-| Hypothermia                  | Trauma                      |
+| The "Hs" (Metabolic/Systemic) | The "Ts" (Toxic/Structural)                        |
+| :---------------------------- | :------------------------------------------------- |
+| Hypovolemia                   | Toxins                                             |
+| Hypoxia                       | Tamponade (cardiac)                                |
+| Hydrogen ion (acidosis)       | Tension [[Respiratory/Pneumothorax\|pneumothorax]] |
+| Hypoglycemia                  | Thrombosis (coronary)                              |
+| Hypo- / Hyperkalemia          | Thrombosis (pulmonary)                             |
+| Hypothermia                   | Trauma                                             |

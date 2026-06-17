@@ -13,7 +13,7 @@
 1. [[Statistics/Characteristics of a Good Research Question\|Characteristics of a Good Research Question]]
 2. [[Statistics/PICO Framework\|PICO(T) Framework]]
 3. [[Statistics/Study Designs in Medical Research\|Study Designs in Medical Research]]
-4. [[Statistics/Observational Studies\|Observational Studies]]
+4. [[Statistics/Cross-Sectional Studies\|Observational Studies]]
 5. [[Statistics/Cohort Study\|Cohort Study]]
 6. [[Statistics/Case Control Study\|Case Control Study]]
 7. [[Statistics/Randomized Controlled Trials (RCT)\|Randomized Controlled Trials (RCT)]]
@@ -41,9 +41,8 @@
 3. [[Statistics/Number Needed to Treat (NNT) and Number Needed to Harm (NNH)\|Number Needed to Treat (NNT) and Number Needed to Harm (NNH)]]
 ## Diagnostic & Screening Statistics
 1. [[Statistics/Sensitivity, Specificity, PPV and NPV\|Sensitivity, Specificity, PPV and NPV]]
-2. [[Statistics/Evaluation of a Diagnostic Test Study\|Evaluation of a Diagnostic Test Study]]
-3. [[Statistics/Receiver Operating Characteristic (ROC) Curve and Area Under the Curve (AUC)\|Receiver Operating Characteristic (ROC) Curve and Area Under the Curve (AUC)]]
-4. [[Statistics/Wilson and Jungner Criteria for Screening\|Wilson and Jungner Criteria for Screening]]
+2. [[Statistics/Receiver Operating Characteristic (ROC) Curve and Area Under the Curve (AUC)\|Receiver Operating Characteristic (ROC) Curve and Area Under the Curve (AUC)]]
+3. [[Statistics/Wilson and Jungner Criteria for Screening\|Wilson and Jungner Criteria for Screening]]
 ## Inferential Statistics & Hypothesis Testing
 1. [[Statistics/Hypothesis Testing\|Hypothesis Testing]]
 2. [[Statistics/P-Value in Statistical Hypothesis Testing\|P-Value in Statistical Hypothesis Testing]]

@@ -22,7 +22,7 @@
 ### Diagnosis
 
 - Electron microscopy of the kidney biopsy is the gold standard for morphological diagnosis, classically revealing diffuse thickening, thinning, splitting, and layering (the "basket-weave" appearance) of the glomerular basement membrane (GBM).
-- Immunofluorescence of the kidney or skin biopsy demonstrates the absence or altered mosaic expression of the $\alpha$3, $\alpha$4, or $\alpha$5(IV) collagen chains, which can confirm the diagnosis even before characteristic EM changes appear.
+- Immunofluorescence of the kidney or skin biopsy demonstrates the absence or altered mosaic expression of the $\alpha$3, $\alpha$ 4, or $\alpha$  5(IV) collagen chains, which can confirm the diagnosis even before characteristic EM changes appear.
 - Genetic testing utilizing [[Genetics/Next-Generation Sequencing (NGS)\|next-generation sequencing (NGS)]] provides a definitive and non-invasive diagnosis, identifying the exact pathogenic variant.
 
 ### Management and Prognosis

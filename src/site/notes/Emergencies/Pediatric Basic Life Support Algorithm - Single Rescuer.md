@@ -2,7 +2,7 @@
 {"dg-publish":true,"uptext":"Back to Index (🚑 Emergencies and Critical Care)","uplink":"/emergencies/emergencies-and-critical-care/","permalink":"/emergencies/pediatric-basic-life-support-algorithm-single-rescuer/","dgPassFrontmatter":true}
 ---
 
-![Pasted image 20260324213748.png](/img/user/+%C4%B0mages/Pasted%20image%2020260324213748.png)
+![Pasted image 20260616123013](https://images.pedianotes.in/2026/06/9AIjylvVcEbz3LZT6RGq)
 ### Initial Assessment and Pulse Check
 
 - The initial step in a single-rescuer pediatric BLS scenario is to verify unresponsiveness and assess for absent or abnormal breathing (e.g., gasping).

@@ -2,8 +2,8 @@
 {"dg-publish":true,"uplink":"/statistics/statistics/","uptext":"Back to Index (🔢 Statistics)","permalink":"/statistics/hypothesis-testing/","dgPassFrontmatter":true}
 ---
 
-## 1. Introduction to [[Statistics/Hypothesis Testing\|Hypothesis Testing]]
-A hypothesis is a formal, testable statement predicting the relationship between two or more variables. In pediatric biomedical research, [[Statistics/Hypothesis Testing\|hypothesis testing]] is the core statistical method used to make inferences about a population based on sample data, allowing clinicians to differentiate true physiological effects from random chance. 
+## 1. Introduction to Hypothesis Testing
+A hypothesis is a formal, testable statement predicting the relationship between two or more variables. In pediatric biomedical research, hypothesis testing is the core statistical method used to make inferences about a population based on sample data, allowing clinicians to differentiate true physiological effects from random chance. 
 
 ## 2. The Null Hypothesis ($H_0$)
 * **Definition:** The Null Hypothesis postulates that there is no true difference, no association, or no treatment effect between the groups being compared. It represents the "status quo" or the assumption of baseline equality.
@@ -33,8 +33,8 @@ The decision to reject $H_0$ depends on the $p$-value, which is the probability 
 * **$p$ < $\alpha$ (Level of Significance, usually 0.05):** The results are statistically significant. Reject $H_0$ and accept $H_1$.
 * **$p$ $\ge$ $\alpha$:** The results are not statistically significant. Fail to reject $H_0$ (Note: We "fail to reject" rather than "accept" $H_0$, as lack of evidence of a difference is not proof of equivalence).
 
-## 6. Errors in [[Statistics/Hypothesis Testing\|Hypothesis Testing]]
-Because [[Statistics/Hypothesis Testing\|hypothesis testing]] is based on probabilities derived from samples, errors can occur when extrapolating to the true population.
+## 6. Errors in Hypothesis Testing
+Because hypothesis testing is based on probabilities derived from samples, errors can occur when extrapolating to the true population.
 
 ### A. Type I Error (α Error / False Positive)
 * **Definition:** Rejecting the Null Hypothesis ($H_0$) when it is actually true in reality.

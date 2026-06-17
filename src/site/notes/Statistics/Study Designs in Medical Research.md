@@ -4,7 +4,7 @@
 
 ## Overview of Biomedical Study Designs
 
-- In biomedical and clinical research, study designs are broadly categorized into two main groups: [[Statistics/Observational Studies\|observational studies]] and interventional (or experimental) studies.
+- In biomedical and clinical research, study designs are broadly categorized into two main groups: [[Statistics/Cross-Sectional Studies\|observational studies]] and interventional (or experimental) studies.
 - In an observational study, the researcher merely observes the subjects and collects data without applying any active intervention or altering the subjects' natural environment or treatments.
 - In an interventional or experimental study, the researcher actively applies a specific intervention—such as a novel drug, a surgical technique, a medical device, or an educational program—to evaluate its safety, efficacy, and clinical outcomes,.
 

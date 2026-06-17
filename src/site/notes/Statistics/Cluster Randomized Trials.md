@@ -23,7 +23,7 @@
 
 | Feature | Cluster Randomization | Cluster Sampling |
 | :--- | :--- | :--- |
-| **Primary Application** | Experimental interventional studies (Randomized Controlled Trials). | [[Statistics/Observational Studies\|Observational studies]], census, and surveys. |
+| **Primary Application** | Experimental interventional studies (Randomized Controlled Trials). | [[Statistics/Cross-Sectional Studies\|Observational studies]], census, and surveys. |
 | **Core Mechanism** | Randomly allocating pre-existing groups (clusters) to different therapeutic or intervention arms. | Directly sampling entire units (e.g., a city or school) from a population using probability methods like simple random sampling. |
 | **Subject Inclusion** | All individuals within the allocated clusters typically receive the assigned intervention or standard of care. | Every member of the population belongs to one group, but only the individuals within the specifically sampled clusters are surveyed or measured. |
 | **Methodological Distinction** | Designed to compare the efficacy of treatments across different groups. | Designed to survey a population efficiently; unlike stratified sampling (which samples elements from *every* group), cluster sampling only gathers data from the *selected* clusters. |

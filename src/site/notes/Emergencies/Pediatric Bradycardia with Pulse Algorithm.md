@@ -2,7 +2,7 @@
 {"dg-publish":true,"uptext":"Back to Index (🚑 Emergencies and Critical Care)","uplink":"/emergencies/emergencies-and-critical-care/","permalink":"/emergencies/pediatric-bradycardia-with-pulse-algorithm/","dgPassFrontmatter":true}
 ---
 
-![Pasted image 20260324214014.png](/img/user/+%C4%B0mages/Pasted%20image%2020260324214014.png)
+![Pasted image 20260616123244](https://images.pedianotes.in/2026/06/ynDxXHWEW6bWcOqX5rYv)
 
 ### Initial Assessment and Stabilization
 
@@ -41,11 +41,11 @@
 
 - While actively managing the bradyarrhythmia, the clinician must continuously look for and treat any underlying contributing factors, which are easily remembered by the "Hs" and "Ts" mnemonic.
 
-|The "Hs"|The "Ts"|
-|:--|:--|
-|Hypovolemia|Toxins|
-|Hypoxia / ventilation problems|Tamponade (cardiac)|
-|Hydrogen ion (acidosis)|Tension [[Respiratory/Pneumothorax\|pneumothorax]]|
-|Hypoglycemia|Thrombosis (coronary or pulmonary)|
-|Hypo- / Hyperkalemia|Trauma (causing hypovolemia)|
-|Hypothermia / Hyperthermia||
+| The "Hs"                       | The "Ts"                                           |
+| :----------------------------- | :------------------------------------------------- |
+| Hypovolemia                    | Toxins                                             |
+| Hypoxia / ventilation problems | Tamponade (cardiac)                                |
+| Hydrogen ion (acidosis)        | Tension [[Respiratory/Pneumothorax\|pneumothorax]] |
+| Hypoglycemia                   | Thrombosis (coronary or pulmonary)                 |
+| Hypo- / Hyperkalemia           | Trauma (causing hypovolemia)                       |
+| Hypothermia / Hyperthermia     |                                                    |

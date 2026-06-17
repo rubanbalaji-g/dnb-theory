@@ -26,7 +26,7 @@
 4. [[Emergencies/Pulmonary Graphics Monitoring\|Pulmonary Graphics Monitoring]]
 5. [[Emergencies/Oxygenation Index\|Oxygenation Index (OI)]]
 6. [[Emergencies/Ventilation Perfusion Ratio\|Ventilation Perfusion Ratio]]
-7. [[Emergencies/Feeding in PICU\|Feeding in PICU]]
+7. [[Emergencies/Nutrition In Critically Ill Children\|Nutrition In Critically Ill Children]]
 ## Pediatric Critical Conditions
 1. [[Emergencies/Respiratory Failure\|Respiratory Failure]]
 2. [[Emergencies/PARDS\|PARDS]]
@@ -62,6 +62,7 @@
 4. [[Emergencies/Hypovolemic Shock 🔥🔥🔥\|Hypovolemic Shock]]
 5. [[Emergencies/Fluid Refractory Shock 🔥🔥🔥\|Fluid Refractory Shock]]
 6. [[Emergencies/Biomarkers of Sepsis\|Biomarkers of Sepsis]]
+7. [[Emergencies/Management of SAM Patient in Shock\|Management of SAM Patient in Shock]]
 ## Miscellaneous
 1. [[Emergencies/Brain Death\|Brain Death]]
 2. [[Emergencies/Pain Pathway\|Pain Pathway]]

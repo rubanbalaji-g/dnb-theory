@@ -14,17 +14,17 @@
 - [[Emergencies/Salicylate Poisoning\|Salicylate poisoning]] is broadly categorized into acute and chronic ingestions, with acute toxicity being much more prevalent in pediatric patients.
 - Significant insensible fluid losses occur due to vomiting, diaphoresis, tachypnea, and heat generated from the uncoupling of oxidative phosphorylation.
 
-|Severity / Type|Characteristic Clinical Features|
-|:--|:--|
-|**Early Acute**|Nausea, vomiting, diaphoresis, and tinnitus or difficulty hearing.|
-|**Moderate Acute**|Tachypnea, hyperpnea, tachycardia, and altered mental status.|
-|**Severe Acute**|Mild hyperthermia, coma, and seizures.|
-|**Chronic Salicylism**|Insidious presentation, frequently featuring altered mental status, noncardiogenic pulmonary edema, and acidemia at lower serum levels than acute toxicity.|
+| Severity / Type        | Characteristic Clinical Features                                                                                                                            |
+| :--------------------- | :---------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Early Acute**        | Nausea, vomiting, diaphoresis, and tinnitus or difficulty hearing.                                                                                          |
+| **Moderate Acute**     | Tachypnea, hyperpnea, tachycardia, and altered mental status.                                                                                               |
+| **Severe Acute**       | Mild hyperthermia, coma, and seizures.                                                                                                                      |
+| **Chronic Salicylism** | Insidious presentation, frequently featuring altered mental status, noncardiogenic pulmonary edema, and acidemia at lower serum levels than acute toxicity. |
 
 ## Diagnostic and Laboratory Evaluation
 
 - Initial evaluation requires an arterial blood gas (ABG) analysis, serum glucose, complete blood count, renal function tests, liver transaminases, coagulation parameters, and an electrocardiogram.
-- Serial serum salicylate levels must be drawn every $2-4$ hours until they are consistently downtrending (three consecutive levels $<30$ mg/dL and decreasing by at least $10-20%$ each time) because absorption is highly erratic and often delayed.
+- Serial serum salicylate levels must be drawn every $2-4$ hours until they are consistently downtrending (three consecutive levels $<30$ mg/dL and decreasing by at least $10-20\%$ each time) because absorption is highly erratic and often delayed.
 - An acetaminophen level should be checked in all patients presenting with intentional salicylate overdose, as co-ingestions are common.
 - A chest radiograph is indicated for any patient with respiratory distress to screen for noncardiogenic pulmonary edema.
 - The Done nomogram is of poor predictive value and should not be utilized for clinical management.

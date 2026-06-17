@@ -28,7 +28,7 @@ The rating begins based on study design but is modified by specific criteria:
 5.  **Publication Bias:** Selective reporting of studies/outcomes.
 
 ### B. Factors that Increase Quality (Upgrading)
-*Applied primarily to [[Statistics/Observational Studies\|observational studies]]:*
+*Applied primarily to [[Statistics/Cross-Sectional Studies\|observational studies]]:*
 1.  **Large Magnitude of Effect:** Strong or very strong association (e.g., RR >2 or <0.5).
 2.  **Dose-Response Gradient:** Evidence of a relationship between dose/exposure and outcome.
 3.  **Confounding Factors:** When all plausible residual confounders would decrease the observed effect.

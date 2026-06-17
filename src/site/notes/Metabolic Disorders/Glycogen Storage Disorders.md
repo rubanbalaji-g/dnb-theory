@@ -2,8 +2,6 @@
 {"dg-publish":true,"uplink":"/metabolic-disorders","uptext":"Back to Index (Metabolic Disorders)","permalink":"/metabolic-disorders/glycogen-storage-disorders/","dgPassFrontmatter":true}
 ---
 
-# [[Metabolic Disorders/Glycogen Storage Disorders\|Glycogen Storage Disorders]]
-
 ## Definition And Pathophysiology
 
 - Inherited errors of metabolism resulting from defects in enzymes or transport proteins involved in glycogen synthesis or degradation.

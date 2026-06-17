@@ -2,48 +2,116 @@
 {"dg-publish":true,"uplink":"/statistics/statistics/","uptext":"Back to Index (🔢 Statistics)","permalink":"/statistics/chi-square-test/","dgPassFrontmatter":true}
 ---
 
-### Definition and Core Concepts
+## Overview Of The Chi-Square Test
 
-- The [[Statistics/Chi-Square Test\|Chi-square test]] is a non-parametric statistical procedure used to analyze unordered categorical or nominal data.
-- It operates by comparing the actual observed frequencies of an event against the theoretical expected frequencies, assuming the null hypothesis is true.
-- The test evaluates the deviation between these observed and expected counts to determine if the difference is statistically significant or simply due to random chance.
-- It is exclusively a test of significance and provides no information regarding the strength of association or the magnitude of the effect size.
+The Chi-square test is a fundamental non-parametric statistical procedure utilized extensively in medical research and epidemiology. It is designed specifically for the analysis of unordered categorical or qualitative data.
 
-### Types of Chi-Square Tests
+- The test operates by comparing the actual observed frequencies within a sample to the theoretical expected frequencies.
+- The theoretical frequency represents the expected value if the null hypothesis is entirely true.
+- The primary purpose is to determine whether significant differences exist between sample proportions and population proportions.
+- The calculated statistic relies on the Chi-square distribution, which is a continuous and asymmetrical probability distribution.
+- The shape of this distribution depends completely on the degrees of freedom.
 
-- **Test of Independence (Association):** Used to assess whether two categorical variables (e.g., a specific exposure and a clinical outcome) are related or completely independent of each other.
-- **Goodness-of-Fit Test:** Assesses the degree of agreement between an empirically observed frequency distribution and a theoretically predicted frequency distribution.
-- **Test for Trend:** Applied to a contingency table where one variable has two categories and the other has multiple ordered (ordinal) categories to assess differences in the trend of proportions.
+## Types Of Chi-Square Tests
 
-### Assumptions and Prerequisites
+Depending on the specific research question and study design, the basic principles of the test can be applied in three distinct ways.
 
-- **Data Format:** Data must be presented as raw counts or frequencies, not as percentages or proportions.
-- **Independence of Observations:** Each subject must contribute data to only one cell in the contingency table, meaning there are no repeated measurements on the same individual.
-- **Minimum Expected Frequencies (Rule of 5):** For the test to be mathematically valid, at least 80% of the expected cell frequencies must be greater than 5, and no expected frequency should be less than 1.
-- If the sample size is small (e.g., less than 40) or the expected frequency rule is violated, Fisher's exact test should be used instead of the [[Statistics/Chi-Square Test\|Chi-square test]].
-- Yates' continuity correction is often applied in 2x2 tables to improve the approximation of the discrete probability of observed frequencies to the continuous Chi-square distribution, thereby reducing the risk of a Type I false-positive error.
+### Goodness Of Fit Test
 
-### Calculation Principles
+- This test evaluates a single categorical variable.
+- It compares the observed frequencies of an event against a theoretically expected frequency distribution.
+- **Null Hypothesis**: The observed frequencies match the expected frequencies perfectly.
+- **Alternative Hypothesis**: There is a significant discrepancy between observed and expected frequencies.
 
-- **Expected Frequency:** For any given cell in a contingency table, this is calculated by multiplying the respective row total by the column total, and dividing the product by the overall total sample size.
-- **Test Statistic Formula:** The statistic is calculated as the sum of all cells using the formula $\sum \frac{(O - E)^2}{E}$, where O is the observed frequency and E is the expected frequency.
-- **Degrees of Freedom (df):** Calculated as $(Rows - 1) \times (Columns - 1)$. For a standard 2x2 contingency table, the degrees of freedom is 1.
+### Test Of Independence Or Association
 
-### Illustrative Example: Passive Smoking and Coronary Death
+- This is the most common application in medical literature.
+- It evaluates whether two different categorical variables are associated or completely independent of each other.
+- Data are organized into a contingency table (e.g., rows for exposure, columns for disease outcome).
+- **Null Hypothesis**: The row variables and column variables are independent. One variable predicts nothing about the other.
 
-- **Clinical Setting:** A researcher wishes to investigate if there is an association between passive smoking (the exposure) and coronary death (the outcome).
-- **Hypotheses:**
-    - The null hypothesis ($H_0$) states that the row variables and column variables are independent, meaning passive smoking status has no bearing on the risk of coronary death.
-    - The alternative hypothesis ($H_1$) states that there is a significant association between passive smoking and coronary death.
-- **Contingency Table Setup:** A cohort of 250 patients is surveyed and divided based on their exposure and outcome into a 2x2 contingency table.
+### Test For Trend
 
-|Patient Status|Coronary Death (Positive Outcome)|No Coronary Death (Negative Outcome)|Total|
+- This variation assesses the association between a binary outcome variable and an ordinal categorical variable.
+- It evaluates whether there is a linear trend in the proportions across the ordered categories.
+- It possesses greater statistical power for detecting specific linear departures from the null hypothesis compared to the standard test of independence.
+
+## Core Mathematical Principles And Formulas
+
+The execution of the test requires meticulous calculation of expected counts and the subsequent test statistic.
+
+### Calculation Of Expected Frequency
+
+- The theoretical expected frequency must be calculated for each individual cell within the contingency table.
+- It is calculated using the marginal totals of the table. $$Expected\ Frequency\ (T) = \frac{Row\ Total \times Column\ Total}{Overall\ Total}$$
+
+### The Basic Chi-Square Statistic
+
+- The test statistic quantifies the cumulative deviation between actual data and theoretical expectations.
+- A larger test statistic indicates stronger evidence against the null hypothesis. $$\chi^2 = \sum \frac{(Actual - Expected)^2}{Expected}$$
+
+### Degrees Of Freedom
+
+- The probability value (p-value) cannot be determined from the test statistic alone.
+- The degrees of freedom must be calculated to locate the correct critical value on the probability distribution.
+- For a contingency table, the formula relies on the number of rows (R) and columns (C). $$df = (R - 1) \times (C - 1)$$
+- A standard 2x2 fourfold table always possesses 1 degree of freedom.
+
+## The 2x2 Fourfold Contingency Table
+
+The simplest and most frequent application of the test compares two binary variables.
+
+|Treatment / Exposure Group|Disease Present|Disease Absent|Total|
 |:--|:--|:--|:--|
-|**Passive Smoking (Exposure Positive)**|50|100|150|
-|**No Passive Smoking (Exposure Negative)**|20|80|100|
-|**Total**|70|180|250|
+|**Group A (Exposed)**|a|b|a + b|
+|**Group B (Unexposed)**|c|d|c + d|
+|**Total**|a + c|b + d|a + b + c + d|
 
-- **Interpretation and Analysis:** The expected frequencies are calculated for each cell; for example, the expected deaths in passive smokers would be $(150 \times 70) / 250 = 42$.
-- The Chi-square statistic is computed by summing the squared differences between the observed and expected frequencies, divided by the expected frequencies across all four cells.
-- This calculated test statistic is then compared against the critical value from the standard Chi-square distribution table for 1 degree of freedom.
-- If the computed statistic is larger than the critical value (yielding a p-value < 0.05), the null hypothesis is rejected, leading to the clinical conclusion that there is a statistically significant association between passive smoking and coronary death.
+### Yates Continuity Correction
+
+- The standard test relies on a continuous probability distribution to approximate discrete probability frequencies.
+- To improve this approximation in smaller samples, the Yates continuity correction is sometimes applied to 2x2 tables.
+- It is utilized when the total sample size is greater than or equal to 40, but the expected frequency in any cell is between 1 and 5.
+- The correction subtracts 0.5 from the absolute difference before squaring, making the test more conservative. $$\chi^2 = \sum \frac{(|Actual - Expected| - 0.5)^2}{Expected}$$
+- Many modern statisticians consider this correction overly conservative. It increases the risk of Type II errors.
+- With the advent of computational software, Fisher's exact test is now generally preferred over Yates' correction.
+
+## Core Assumptions And Limitations
+
+Violating the underlying assumptions compromises the validity of the resulting p-value.
+
+### Data Requirements
+
+- Data must consist of absolute raw frequencies or counts.
+- The test cannot be performed on percentages, proportions, or continuous interval data.
+- Observations must be strictly independent. A single subject can contribute data to only one cell in the table.
+
+### The Rule Of 5
+
+- The accuracy of the continuous approximation depends heavily on the expected frequencies.
+- At least 80% of the cells must have an expected frequency greater than or equal to 5.
+- Absolutely no cell should have an expected frequency less than 1.
+
+### Limitation Regarding Effect Size
+
+- The test is strictly a significance test. It only provides a p-value.
+- It indicates whether an association exists, but it gives absolutely no information regarding the strength or magnitude of that association.
+- Researchers must calculate the Odds Ratio or Relative Risk separately to understand the clinical effect size.
+
+## Alternative Tests For Categorical Data
+
+When the standard assumptions are not met, alternative statistical procedures must be deployed.
+
+|Clinical Scenario|Suggested Statistical Test|Rationale And Characteristic|
+|:--|:--|:--|
+|**Independent samples, expected cell counts < 5**|Fisher's Exact Test|Used when the "Rule of 5" is violated or sample size is very small (<40). It calculates the exact probability using the hypergeometric distribution rather than an approximation.|
+|**Paired or matched observations**|McNemar's Test|Used for dependent data (e.g., pre-test/post-test crossover designs on the same subjects). It evaluates subjects who changed their status.|
+|**Evaluating specific covariates**|Logistic Regression|While Chi-square tests association, logistic regression allows for predictive modeling and adjustment for multiple confounding variables simultaneously.|
+
+## Handling Larger Contingency Tables (R x C)
+
+- When evaluating variables with more than two categories (e.g., a 3x4 table), the standard test can still be applied.
+- However, a significant overall p-value only indicates that at least one group differs from the rest.
+- It does not specify exactly where the differences lie.
+- To identify specific differences, post-hoc pairwise comparisons must be conducted.
+- During post-hoc testing, the Bonferroni correction should be strictly applied to adjust the significance level, thereby preventing the inflation of Type I errors.

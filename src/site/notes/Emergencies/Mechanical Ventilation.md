@@ -490,7 +490,7 @@ Physiological indices can help predict extubation outcomes.
 	* An age-appropriate respiratory rate during spontaneous breathing suggests a stable drive.
 * **Rapid Shallow Breathing Index (RSBI)**:
 	* In adults, RSBI is calculated as rate divided by tidal volume in liters ($f/V_t$).
-	* In children, RSBI is standardized to body weight:$$RSBI_{peds} = \frac{RR}{V_t / Weight}$$
+	* In children, RSBI is standardized to body weight: $$RSBI_{peds} = \frac{RR}{V_t / Weight}$$
 	* Measured in:
       $$breaths/min/mL/kg$$
 	* A weight-adjusted RSBI value of $\le 8\ breaths/min/mL/kg$ predicts extubation success.

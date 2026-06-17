@@ -4,7 +4,7 @@
 
 ### Definition and Concept
 
-- A [[Statistics/Confidence Interval\|confidence interval]] (CI) is an estimated range of probable values, calculated from sample data, within which we expect to find the true but unknown population parameter.
+- A confidence interval (CI) is an estimated range of probable values, calculated from sample data, within which we expect to find the true but unknown population parameter.
 - It represents our uncertainty regarding the exact true population value and provides a range that gives a specific level of confidence.
 - The interval is composed of two boundaries: a lower confidence limit and an upper confidence limit.
 - The mathematical calculation of a CI relies heavily on the Standard Error (SE).
