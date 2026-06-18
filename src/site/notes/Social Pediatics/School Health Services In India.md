@@ -37,8 +37,8 @@ Children are screened for 30 specific health conditions categorized as:
 ### 2. Nutrition Services (PM POSHAN Scheme)
 * Formerly known as the Mid-Day Meal Scheme.
 * Provides at least one-third of the daily calorie requirement and half of the protein requirement.
-* Primary (Class 1-5): 450 calories and 12g protein.
-* Upper Primary (Class 6-8): 700 calories and 20g protein.
+* Primary (Class 1-5): **450 calories and 12g protein.**
+* Upper Primary (Class 6-8): **700 calories and 20g protein**.
 * Weekly Iron and Folic Acid Supplementation (WIFS): Blue IFA tablet (60mg elemental iron + 500mcg folic acid) administered every Monday.
 * [[Social Pediatics/National Deworming Day (NDD)\|National Deworming Day (NDD)]]: Biannual administration of Tablet Albendazole (400mg) in February and August.
 

@@ -68,13 +68,13 @@
 
 ### Specific Therapies
 
-|Therapy Type|Description and Efficacy|
-|:--|:--|
-|**Motivational Therapy**|Uses a star chart for dry nights to encourage the child.|
-|**Enuresis Alarm**|A moisture sensor in the underwear activates an alarm when voiding begins. It trains the child to awaken. Success rates range from 30% to 60%.|
-|**Desmopressin Acetate**|A synthetic ADH analog that reduces overnight urine production. It is highly effective for patients with nocturnal polyuria. Nighttime fluid restriction is mandatory during use.|
-|**Anticholinergic Drugs**|Medications like oxybutynin or tolterodine are used for therapy-resistant cases. They are indicated for children with an overactive bladder or reduced bladder capacity.|
-|**Imipramine**|A tricyclic antidepressant with mild anticholinergic effects. It reduces urine output slightly but carries a risk of potentially lethal cardiotoxicity on overdose.|
+| Therapy Type              | Description and Efficacy                                                                                                                                                          |
+| :------------------------ | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Motivational Therapy**  | Uses a star chart for dry nights to encourage the child.                                                                                                                          |
+| **Enuresis Alarm**        | A moisture sensor in the underwear activates an alarm when voiding begins. It trains the child to awaken. Success rates range from 30% to 60%.                                    |
+| **Desmopressin Acetate**  | A synthetic ADH analog that reduces overnight urine production. It is highly effective for patients with nocturnal polyuria. Nighttime fluid restriction is mandatory during use. |
+| **Anticholinergic Drugs** | Medications like oxybutynin or tolterodine are used for therapy-resistant cases. They are indicated for children with an overactive bladder or reduced bladder capacity.          |
+| **Imipramine**            | A tricyclic antidepressant with mild anticholinergic effects. It reduces urine output slightly but carries a risk of potentially lethal cardiotoxicity on overdose.               |
 
 ### Treatment Resistance
 

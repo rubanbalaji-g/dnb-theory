@@ -21,11 +21,11 @@
 ## Children Eligible for Adoption
 ### Categories
 - Orphan:
-  - Child without biological/adoptive parents or legal guardian.
+	- Child without biological/adoptive parents or legal guardian.
 - Abandoned:
-  - Deserted child declared legally free after due inquiry.
+	- Deserted child declared legally free after due inquiry.
 - Surrendered:
-  - Child relinquished voluntarily by parents/guardian.
+	- Child relinquished voluntarily by parents/guardian.
 
 ### Legally Free for Adoption
 - Child Welfare Committee (CWC) declares child legally free for adoption after due procedure.
@@ -39,9 +39,9 @@
 
 ### Age Criteria
 - Composite age limits vary with age of child:
-  - Up to 4 years child: maximum composite age 90 years.
-  - 4–8 years child: maximum 100 years.
-  - 8–18 years child: maximum 110 years.
+	- Up to 4 years child: maximum composite age 90 years.
+	- 4–8 years child: maximum 100 years.
+	- 8–18 years child: maximum 110 years.
 - Minimum age difference between child and either parent: 25 years.
 
 ### Marital Status
@@ -56,10 +56,10 @@
 ## Adoption Procedure
 
 ### Registration
-- PAPs register online through CARINGS portal (Child Adoption Resource Information and Guidance System).
+- PAPs register online through **CARINGS portal (Child Adoption Resource Information and Guidance System).**
 
 ### Home Study Report (HSR)
-- Conducted by Specialized Adoption Agency (SAA) or authorized social worker.
+- Conducted by **Specialized Adoption Agency (SAA)** or authorized social worker.
 - Evaluates family environment, financial stability and preparedness.
 - Valid for 3 years.
 
@@ -100,10 +100,10 @@
 
 ### Counseling
 - Counsel adoptive parents regarding:
-  - Nutrition and immunization.
-  - Developmental monitoring.
-  - Emotional and behavioral issues.
-  - Attachment disorders and trauma.
+	- Nutrition and immunization.
+	- Developmental monitoring.
+	- Emotional and behavioral issues.
+	- Attachment disorders and trauma.
 
 ### Follow-up Care
 - Developmental surveillance.

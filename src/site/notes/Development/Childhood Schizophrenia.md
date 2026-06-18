@@ -56,14 +56,14 @@
 - Medical and neurologic conditions that can cause psychotic symptoms include epilepsy (especially temporal lobe or idiopathic occipital epilepsy), strokes, neoplasms, endocrine disorders, genetic syndromes (e.g., velocardiofacial syndrome), [[Neurology/Autoimmune Encephalitis\|autoimmune encephalitis]], and permanent sequelae of toxic exposures.
 - Substance-induced psychotic disorders must be excluded; offending agents include cannabis, hallucinogens (LSD, psilocybin), stimulants, amphetamines, corticosteroids, and anticholinergics.
 
-|Red Flags Suggesting Secondary (Medical) Psychosis|
-|:--|
-|Very early age of onset ($\le$13 years)|
-|Acute or subacute onset (days to $\le$1 month)|
-|Presence of catatonia or dyskinesias|
-|Depressed level of consciousness, disorientation, somnolence, or recent memory decline|
-|Multimodal hallucinations (visual, auditory, olfactory, gustatory)|
-|Intractability despite adequate antipsychotic therapy|
+| Red Flags Suggesting Secondary (Medical) Psychosis                                     |
+| :------------------------------------------------------------------------------------- |
+| Very early age of onset ($\le$ 13 years)                                               |
+| Acute or subacute onset (days to $\le$ 1 month)                                        |
+| Presence of catatonia or dyskinesias                                                   |
+| Depressed level of consciousness, disorientation, somnolence, or recent memory decline |
+| Multimodal hallucinations (visual, auditory, olfactory, gustatory)                     |
+| Intractability despite adequate antipsychotic therapy                                  |
 
 ### Clinical Evaluation
 
@@ -77,8 +77,8 @@
 
 - Management requires integrated psychopharmacologic, psychotherapeutic, psychoeducational, and case management services due to the chronic and severely impairing nature of the disorder.
 - **Psychopharmacology:** First-generation and second-generation antipsychotic medications are the cornerstone of treatment for reducing positive psychotic symptoms.
-    - The FDA-approved second-generation antipsychotics for schizophrenia in patients $\ge$13 years include risperidone, aripiprazole, quetiapine, olanzapine, and lurasidone.
-    - Paliperidone is FDA-approved for patients $\ge$12 years.
+    - The FDA-approved second-generation antipsychotics for schizophrenia in patients $\ge$ 13 years include risperidone, aripiprazole, quetiapine, olanzapine, and lurasidone.
+    - Paliperidone is FDA-approved for patients $\ge$ 12 years.
     - Clozapine is highly effective for both positive and negative symptoms but is reserved for treatment-resistant cases due to the severe risks of agranulocytosis and seizures.
     - All antipsychotics carry risks of sedation, weight gain, and extrapyramidal symptoms, requiring rigorous metabolic and neurologic monitoring.
 - **Psychosocial and Educational Interventions:** Psychoeducation regarding the illness is critical to improve treatment adherence, as over 75% of youth with schizophrenia discontinue their medication within 6 months. Specialized educational programs, school liaisons, and cognitive remediation therapies are essential to address the profound academic and social deficits.

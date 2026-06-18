@@ -23,7 +23,7 @@
 
 ## Key Components (The 4 Pillars of NSSK)
 - **Prevention of hypothermia**: Warm chain (immediate drying, skin-to-skin contact, delayed bathing, [[neonatalogy/Kangaroo Mother Care\|Kangaroo Mother Care]] for LBW)
-- **Prevention of infection**: 5 cleans, hand hygiene, aseptic cord care, exclusive breastfeeding, [[Misc/Maternal Immunization\|maternal immunization]]
+- **Prevention of infection**: 6 cleans, hand hygiene, aseptic cord care, exclusive breastfeeding, [[Misc/Maternal Immunization\|maternal immunization]]
 - **Early initiation of breastfeeding**: Within 1 hour, exclusive till 6 months, techniques of positioning & attachment
 - **Basic newborn resuscitation**: For non-breathing/asphyxiated babies
 

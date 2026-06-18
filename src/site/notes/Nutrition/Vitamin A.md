@@ -4,15 +4,15 @@
 
 ## Metabolism
 ![](https://i.ibb.co/bgpjnq8j/Vitamin-A-pathway-excalidraw.png)
-## Functions of [[Nutrition/Vitamin A\|Vitamin A]] in the Human Body
+## Functions of Vitamin A in the Human Body
 
-[[Nutrition/Vitamin A\|Vitamin A]] (retinol) is an essential fat-soluble micronutrient with pleiotropic effects on human physiology. Its functions can be broadly categorized as follows:
+Vitamin A (retinol) is an essential fat-soluble micronutrient with pleiotropic effects on human physiology. Its functions can be broadly categorized as follows:
 
 - **Maintenance of Vision:**
     - It is critical for vision in dim light (scotopic vision). Retinol is converted to retinal, which combines with the protein opsin to form **rhodopsin** (visual purple) in the rod cells of the retina.
     - It is also required for the synthesis of **iodopsin** in cone cells, which is essential for color vision and bright-light vision.
 - **Maintenance of Epithelial Integrity:**
-    - [[Nutrition/Vitamin A\|Vitamin A]] is necessary for the differentiation and maintenance of mucus-secreting epithelial tissues in the eyes, respiratory tract, gastrointestinal tract, and urinary tract.
+    - Vitamin A is necessary for the differentiation and maintenance of mucus-secreting epithelial tissues in the eyes, respiratory tract, gastrointestinal tract, and urinary tract.
     - It prevents keratinization (drying and hardening) of these tissues, maintaining a moist barrier against pathogens.
 - **Immune Function:**
     - Often termed the "anti-infective" vitamin, it enhances both cellular and humoral immunity.

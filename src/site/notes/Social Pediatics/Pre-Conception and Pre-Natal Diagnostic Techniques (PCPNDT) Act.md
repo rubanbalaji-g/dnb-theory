@@ -56,10 +56,10 @@ At least one of the following:
 
 ### Registration
 - Mandatory registration of:
-  - Ultrasound clinics.
-  - Imaging centers.
-  - Genetic counseling centers.
-  - Genetic laboratories.
+	- Ultrasound clinics.
+	- Imaging centers.
+	- Genetic counseling centers.
+	- Genetic laboratories.
 - Registration certificate must be displayed prominently.
 
 ### Regulation of Ultrasound Use
@@ -96,10 +96,10 @@ Functions:
 
 ## Records and Documentation
 - Proper maintenance of:
-  - Form F.
-  - Referral slips.
-  - Consent forms.
-  - Ultrasound records.
+	- Form F.
+	- Referral slips.
+	- Consent forms.
+	- Ultrasound records.
 - Records preserved for minimum prescribed duration.
 - Deficiency or incomplete records considered violation.
 

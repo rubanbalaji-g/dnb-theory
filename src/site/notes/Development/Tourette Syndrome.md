@@ -4,7 +4,7 @@
 
 ### Definition and Diagnostic Criteria
 
-- [[Development/Tourette Syndrome\|Tourette syndrome]] (TS) is a common neurodevelopmental disorder characterized by the presence of both multiple motor tics and one or more vocal (phonic) tics.
+- Tourette syndrome (TS) is a common neurodevelopmental disorder characterized by the presence of both multiple motor tics and one or more vocal (phonic) tics.
 - Under current diagnostic criteria, the tics must have been present at some time during the illness, wax and wane in frequency, and persist for more than 1 year since the first tic onset.
 - The onset of the disorder must occur before the age of 18 years, with most children developing tics between 5 and 7 years of age.
 - The disturbance must not be attributable to the physiological effects of a substance (e.g., cocaine) or another general medical condition (e.g., Huntington disease, postviral encephalitis).

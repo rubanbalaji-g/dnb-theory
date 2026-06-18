@@ -62,12 +62,12 @@
 ### International Tools and Their Applicability
 
 - An ideal screening tool for Indian children would be brief, inexpensive, possess excellent psychometric properties, be available in local Indian languages, feature culturally adapted items, and require minimal training.
-- The Denver Developmental Screening Test (DDST / Denver II) is a globally popular tool used to screen children from birth to 6 years across gross motor, fine motor, language, and personal-social domains.
+- The **Denver Developmental Screening Test (DDST / Denver II)** is a globally popular tool used to screen children from birth to 6 years across gross motor, fine motor, language, and personal-social domains.
 - However, the DDST has a highly suboptimal specificity (43-80%), which leads to massive over-identification of false positives, causing unnecessary parental apprehension and overburdening the diagnostic referral system,.
 - The Bayley Infant Neurodevelopmental Screen (BINS) assesses neurological processes and cognitive functions in children aged 3 to 24 months, but it lacks validation in Indian children and cannot be used beyond 2 years of age,.
-- The Ages and Stages Questionnaire (ASQ) is a parent-completed questionnaire spanning 1 to 66 months, assessing communication, gross motor, fine motor, problem-solving, and personal-adaptive skills.
+- The **Ages and Stages Questionnaire (ASQ)** is a parent-completed questionnaire spanning 1 to 66 months, assessing communication, gross motor, fine motor, problem-solving, and personal-adaptive skills.
 - The ASQ has been successfully validated in India after translation into Hindi and the substitution of culturally inappropriate items; when administered by an interviewer to Indian parents, it demonstrated a high sensitivity of 83.3%, specificity of 75.4%, and a negative predictive value of 84.6%.
-- Parents' Evaluation of Developmental Status (PEDS) utilizes parental concerns to categorize children into high, moderate, or low risk for developmental disabilities; however, a study in India found its psychometric properties to be sub-optimal when compared to the Developmental Profile II, suggesting it should primarily be used to identify children requiring more in-depth screening when time is constrained.
+- **Parents' Evaluation of Developmental Status (PEDS)** utilizes parental concerns to categorize children into high, moderate, or low risk for developmental disabilities; however, a study in India found its psychometric properties to be sub-optimal when compared to the Developmental Profile II, suggesting it should primarily be used to identify children requiring more in-depth screening when time is constrained.
 
 ### Indigenous Indian Screening Tools
 

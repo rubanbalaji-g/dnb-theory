@@ -23,8 +23,8 @@
 ## Vaccine & Schedule
 - MR vaccine (live attenuated): 0.5 ml subcutaneous
 - Routine schedule (UIP):
-  - MR-1: 9–12 months
-  - MR-2: 16–24 months
+	- MR-1: 9–12 months
+	- MR-2: 16–24 months
 - Campaign dose: Single supplementary dose irrespective of previous vaccination status
 - Auto-disable (AD) syringes used; cold-chain maintained (2–8°C)
 - [[Social Pediatics/Safe Injection Practices\|Safe injection practices]] and biomedical waste management mandatory

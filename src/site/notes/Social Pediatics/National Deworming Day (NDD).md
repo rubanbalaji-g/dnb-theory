@@ -3,7 +3,7 @@
 ---
 
 ## Introduction
-[[Social Pediatics/National Deworming Day (NDD)\|National Deworming Day (NDD)]] is a flagship initiative launched in February 2015 by the Ministry of Health and Family Welfare (MoHFW), Government of India. It is one of the largest single-day public health programs in the world, aimed at performing mass deworming to reduce the prevalence of Soil-Transmitted Helminths (STH) among children and adolescents.
+National Deworming Day (NDD) is a flagship initiative launched in February 2015 by the Ministry of Health and Family Welfare (MoHFW), Government of India. It is one of the largest single-day public health programs in the world, aimed at performing mass deworming to reduce the prevalence of Soil-Transmitted Helminths (STH) among children and adolescents.
 
 ## Rationale And Objectives
 * **Prevalence:** India has a high burden of STH, primarily involving Roundworm (Ascaris lumbricoides), Whipworm (Trichuris trichiura), and Hookworm (Ancylostoma duodenale/Necator americanus).

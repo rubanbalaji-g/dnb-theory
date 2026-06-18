@@ -15,25 +15,34 @@ The foundation of the BFHI is the "Ten Steps to Successful Breastfeeding." The 2
    * **1a.** Comply fully with the *International Code of Marketing of Breast-milk Substitutes* and relevant World Health Assembly resolutions.
    * **1b.** Have a written infant feeding policy that is routinely communicated to staff and parents.
    * **1c.** Establish ongoing monitoring and data-management systems.
+
 **2. Staff Competency:**
    * Ensure that staff have sufficient knowledge, competence, and skills to support breastfeeding through mandatory, standardized training.
 
 ### B. Key Clinical Practices
+
 **3. Antenatal Care:**
    * Discuss the importance and management of breastfeeding with pregnant women and their families.
+
 **4. Care Right After Birth:**
    * Facilitate immediate and uninterrupted skin-to-skin contact.
    * Support mothers to initiate breastfeeding as soon as possible after birth (ideally within 1 hour for normal deliveries).
+
 **5. Support Mothers with Breastfeeding:**
    * Support mothers to initiate and maintain breastfeeding and manage common difficulties (e.g., proper positioning, attachment, and hand expression of breast milk).
+
 **6. Supplementing:**
    * Do not provide breastfed newborns any food or fluids other than breast milk, **unless medically indicated**.
+
 **7. Rooming-in:**
    * Enable mothers and their infants to remain together and practice rooming-in 24 hours a day (promoting zero separation).
+
 **8. Responsive Feeding:**
    * Support mothers to recognize and respond to their infants' cues for feeding (also known as feeding on demand).
+
 **9. Counseling on Bottles, Teats, and Pacifiers:**
    * Counsel mothers on the use and risks of feeding bottles, teats, and pacifiers.
+
 **10. Discharge and Ongoing Support:**
    * Coordinate discharge so that parents and their infants have timely access to ongoing support and care (e.g., linking them to community peer support groups or lactation clinics).
 

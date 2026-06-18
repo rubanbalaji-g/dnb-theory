@@ -13,6 +13,9 @@
 - Children 6–59 months
 - Children 5–9 years
 - Adolescents 10–19 years (boys & girls)
+- Women of Reproductive Age (15–49 years) – Non-pregnant and non-lactating women.
+- Pregnant Women
+- Lactating Women – Mothers of infants 0–6 months old.
 
 ### 6 Interventions
 - Prophylactic Iron-Folic Acid (IFA) supplementation

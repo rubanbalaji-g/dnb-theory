@@ -19,11 +19,12 @@
 ## Target Group & Dosage Schedule (Current NHM Guidelines)
 - All children 9–59 months (universal coverage)
 - Total **9 doses** till 5 years of age:
-  | Age Group       | Dose (IU)     | Volume | Timing / Frequency                  |
-  |-----------------|---------------|--------|-------------------------------------|
-  | 9 months        | 100,000      | 1 ml  | With MR-1 vaccine                   |
-  | 16–23 months    | 200,000      | 2 ml  | With DPT booster / MR-2             |
-  | 24–59 months    | 200,000      | 2 ml  | Every 6 months (biannual rounds)    |
+
+| Age Group        | Dose (IU) | Volume | Timing / Frequency               |
+| :--------------- | :-------- | :----- | :------------------------------- |
+| **9 months**     | 100,000   | 1 ml   | With MR-1 vaccine                |
+| **16–23 months** | 200,000   | 2 ml   | With DPT booster / MR-2          |
+| **24–59 months** | 200,000   | 2 ml   | Every 6 months (biannual rounds) |
 - First dose at 9 completed months (co-administered with measles/MR vaccine)
 - Subsequent doses every 6 months up to 59 months
 - Oral oil-based preparation (100,000 IU/ml syrup)

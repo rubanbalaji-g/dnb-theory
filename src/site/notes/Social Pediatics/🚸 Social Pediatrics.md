@@ -48,8 +48,8 @@
 * [[Social Pediatics/Rashtriya Kishor Swasthya Karyakram (RKSK)\|Rashtriya Kishor Swasthya Karyakram (RKSK)]]
 * [[Social Pediatics/School Health Services In India\|School Health Services In India]]
 * [[Social Pediatics/Janani Shishu Suraksha Karyakram (JSSK)\|Janani Shishu Suraksha Karyakram (JSSK)]]
-* [[Janani Suraksha Yojna\|Janani Suraksha Yojna]]
-* [[Pradhan Mantri Surakshit Matritva Abhiyan\|Pradhan Mantri Surakshit Matritva Abhiyan]]
+* [[Social Pediatics/Janani Suraksha Yojna\|Janani Suraksha Yojna]]
+* [[Social Pediatics/Pradhan Mantri Surakshit Matritva Abhiyan\|Pradhan Mantri Surakshit Matritva Abhiyan]]
 * [[Social Pediatics/Surakshit Matritva Aashwasan (SUMAN) Program\|Surakshit Matritva Aashwasan (SUMAN) Program]]
 * [[Social Pediatics/Mother and Child Protection (MCP) Card\|Mother and Child Protection (MCP) Card]]
 ## Health Systems, Digital Health, and Quality
