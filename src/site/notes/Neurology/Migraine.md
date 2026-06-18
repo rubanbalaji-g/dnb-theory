@@ -78,7 +78,7 @@
 
 - can occur in 10.6% of 5-15 yr old children
 
-## [[Neurology/Migraine\|migraine]] without aura
+## migraine without aura
 - recurrent and episodic
 - usual duration 4-72 hrs
 - young children can have much shorter duration (2-72 hrs)
@@ -87,12 +87,12 @@
 - worsening while doing daily activities like walking upstairs or downstairs
 - overlap of abdominal symptoms
   - recurrent vomiting
-  - [[Gastrointestinal/Recurrent Abdominal Pain\|recurrent abdominal pain]]
+  - recurrent abdominal pain
   - early morning vomiting
-- babies with high colicky pain can often end up in [[Neurology/Migraine\|migraine]]
+- babies with high colicky pain can often end up in migraine
 - vomiting + ----> think of raised intracranial pressures
   - vomiting improves after starting daily activities - intracranial pressure
-  - vomiting worsens after starting routine activities - [[Neurology/Migraine\|migraine]]
+  - vomiting worsens after starting routine activities - migraine
 
 - 90% have familial preponderance
 - additional triggers
@@ -102,7 +102,7 @@
   - weather changes
   - pattern association (Monday mornings, before schools, menses)
 
-## [[Neurology/Migraine\|migraine]] with aura
+## migraine with aura
 - most common aura - photopsia
   - flashes of light
   - multicolored
@@ -119,7 +119,7 @@
 > - lower cranial nerve symptoms
 > - distortion (alice in wonderland syndrome)
 
-#### hemiplegic [[Neurology/Migraine\|migraine]]
+#### hemiplegic migraine
 - transient unilateral weakness lasting for hours to days
 - familial and sporadic forms
 - mutations in CACNA1A, ATP1A2, SCN1A
@@ -131,24 +131,24 @@
   - CSF pleocytosis
   - cerebral edema
 
-## [[Neurology/Migraine\|migraine]] with brainstem aura (basilar type [[Neurology/Migraine\|migraine]])
+## migraine with brainstem aura (basilar type migraine)
 disorder of basilar artery
 can cause symptoms as described above
 pupils dialated and ptosis evident
 
 #### syndrome of transient headache and neurological deficit with CSF pleocytosis
-- [[Neurology/Migraine\|migraine]] like headaches with neurological deficits
+- migraine like headaches with neurological deficits
 - not reported in pediatric population
 
 #### childhood periodic syndromes
-- group of recurrent episodic events that frequently occur with [[Neurology/Migraine\|migraine]]
+- group of recurrent episodic events that frequently occur with migraine
 - events include
   - GI related symptoms
     - colic
     - motion sickness
     - [[Gastrointestinal/Recurrent Abdominal Pain\|recurrent abdominal pain]]
     - recurrent vomiting
-    - abdominal [[Neurology/Migraine\|migraine]]
+    - abdominal migraine
   - sleep disorders
     - sleep walking
     - sleep talking
@@ -159,8 +159,8 @@ pupils dialated and ptosis evident
 - must be differentiated from other causes
 - diagnosis of exclusion
 
-#### abdominal [[Neurology/Migraine\|migraine]]
-- [[Neurology/Migraine\|migraine]] without headache
+#### abdominal migraine
+- migraine without headache
 - mid-abdominal pain with free pian between attacks
 - 1-72 hrs
 - must be associated with anorexia, nausea, vomiting, pallor
@@ -173,15 +173,15 @@ pupils dialated and ptosis evident
    - severity
    - use of medicines
    - disability
-- Family history is very important almost all cases of [[Neurology/Migraine\|migraine]] has family history
+- Family history is very important almost all cases of migraine has family history
 - History of potential comorbid conditions
 - drug use
-- some patient with chronic [[Neurology/Migraine\|migraine]] might have increased cranial pressure without papilledema in which CSF drain can relieve pain
-- <ins>CADASIL</ins> (cerebral autosomal dominant arteriopathy with subcortical infracts and leukopathy), moya moya disease, <ins>SMART</ins> (stoke like [[Neurology/Migraine\|migraine]] attacks after radiation therapy) can initially present with [[Neurology/Migraine\|migraine]]
+- some patient with chronic migraine might have increased cranial pressure without papilledema in which CSF drain can relieve pain
+- <ins>CADASIL</ins> (cerebral autosomal dominant arteriopathy with subcortical infracts and leukopathy), moya moya disease, <ins>SMART</ins> (stoke like migraine attacks after radiation therapy) can initially present with migraine
 - indications for neuroimaging
   - neurological imaging abnormal
-  - [[Neurology/Migraine\|migraine]] on awakening
-  - [[Neurology/Migraine\|migraine]] causing waking from sleep
+  - migraine on awakening
+  - migraine causing waking from sleep
   - negative family history
 - imaging indication of choice - ==MRI==
 - in case of acute headache - Do CR to look for blood ---> if negative do  CSF to rule out xanthochromia

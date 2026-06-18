@@ -3,19 +3,19 @@
 ---
 
 ## DEFINITION
-[[Neurology/Neural Tube Defects\|Neural Tube Defects]] (NTDs) are a group of congenital malformations resulting from the failure of the neural tube to close during the 3rd and 4th weeks of gestational age (days 21 to 28 post-conception).
+Neural Tube Defects (NTDs) are a group of congenital malformations resulting from the failure of the neural tube to close during the 3rd and 4th weeks of gestational age (days 21 to 28 post-conception).
 
 ## CLASSIFICATION (TYPES)
 NTDs are broadly classified based on the involvement of overlying skin and the site of the defect.
 
-### 1. Open [[Neurology/Neural Tube Defects\|Neural Tube Defects]] (ONTDs)
+### 1. Open Neural Tube Defects (ONTDs)
 The defect is not covered by skin; neural tissue is exposed.
 * **Anencephaly:** Failure of the anterior neuropore to close; absence of a major portion of the brain, skull, and scalp.
 * **Encephalocele:** Herniation of brain and meninges through a cranial defect (most common in the occipital region).
 * **Myelomeningocele:** Most common form; herniation of both spinal cord and meninges through a vertebral defect.
 * **Myeloschisis:** The most severe form of spina bifida where the spinal cord is exposed as a flattened mass of nervous tissue.
 
-### 2. Closed [[Neurology/Neural Tube Defects\|Neural Tube Defects]] (Slight/Occult)
+### 2. Closed Neural Tube Defects (Slight/Occult)
 The defect is covered by skin.
 * **Spina Bifida Occulta:** Failure of fusion of vertebral arches without protrusion of spinal cord or meninges. Often marked by a tuft of hair, nevus, or dimple.
 * **Meningocele:** Herniation of meninges only; spinal cord remains in the canal.

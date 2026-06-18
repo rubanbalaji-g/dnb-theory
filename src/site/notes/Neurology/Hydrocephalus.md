@@ -54,8 +54,8 @@ Aqueductal stenosis (AS) is the narrowing of the Aqueduct of Sylvius, the critic
 * **Corpus Callosum:** Stretched and thinned.
 * **Tectal Plate Compression:** Dilated suprapineal recess pushes on the midbrain tectum $\rightarrow$ Parinaud’s phenomenon (Sunsetting eyes - inability to gaze upward).
 
-## ETIOLOGY & PATHOPHYSIOLOGY OF [[Neurology/Hydrocephalus\|HYDROCEPHALUS]] 
-### A. Etiology of [[Neurology/Hydrocephalus\|Hydrocephalus]]
+## ETIOLOGY & PATHOPHYSIOLOGY OF HYDROCEPHALUS 
+### A. Etiology of Hydrocephalus
 Classified broadly into Non-Communicating (Obstructive) and Communicating (Non-obstructive).
 
 #### 1. Non-Communicating (Obstructive)
@@ -63,7 +63,7 @@ Classified broadly into Non-Communicating (Obstructive) and Communicating (Non-o
 
 * **Congenital:**
     * **Aqueductal Stenosis:**
-        * *X-linked [[Neurology/Hydrocephalus\|Hydrocephalus]] (L1CAM mutation):* Stenosis + adducted thumbs.
+        * *X-linked Hydrocephalus (L1CAM mutation):* Stenosis + adducted thumbs.
         * *Congenital infection (TORCH):* Toxoplasmosis/CMV causing ependymitis/gliosis.
     * **[[Neurology/Dandy-Walker Malformation\|Dandy-Walker Malformation]]:** Cystic dilation of 4th ventricle + Vermian agenesis + Large posterior fossa.
     * **Chiari II Malformation:** Associated with Myelomeningocele; displacement of cerebellar tonsils blocks CSF exit at foramen magnum/4th ventricle.
@@ -80,12 +80,12 @@ Classified broadly into Non-Communicating (Obstructive) and Communicating (Non-o
 * **Post-Infectious:** Tuberculous [[Neurology/Meningitis\|Meningitis]] (basal arachnoiditis), bacterial [[Neurology/Meningitis\|meningitis]] (fibrosis of granulations).
 * **Post-Hemorrhagic:** IVH (Preterms), Subarachnoid Hemorrhage. Blood products clog arachnoid villi and cause inflammatory fibrosis.
 * **Hyper-secretory (Rare):** Choroid Plexus Papilloma (Production exceeds maximal absorption capacity).
-### B. Pathophysiology of [[Neurology/Hydrocephalus\|Hydrocephalus]]
+### B. Pathophysiology of Hydrocephalus
 
 **1. Fundamental Imbalance**
-[[Neurology/Hydrocephalus\|Hydrocephalus]] results from a disturbance in CSF dynamics where:
+Hydrocephalus results from a disturbance in CSF dynamics where:
 $$\text{Formation} > \text{Absorption}$$
-*(Except in rare [[Neurology/Hydrocephalus\|hydrocephalus]] ex-vacuo which is compensatory to brain atrophy).*
+*(Except in rare hydrocephalus ex-vacuo which is compensatory to brain atrophy).*
 
 **2. Phase I: Acute Compensation**
 * **CSF Displacement:** CSF is shunted to the spinal subarachnoid space (if communicating).

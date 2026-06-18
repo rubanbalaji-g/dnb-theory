@@ -4,7 +4,7 @@
 
 ### 1. Introduction and Definition
 * **Definition:** A stroke is defined as the sudden onset of a focal neurological deficit lasting > 24 hours (or leading to death) caused by a disturbance in blood supply to the brain.
-* **[[Neurology/Pediatric Stroke\|Pediatric Stroke]] Classification:**
+* **Pediatric Stroke Classification:**
     1.  **Perinatal Stroke:** 20 weeks gestation to 28 days of life.
     2.  **Childhood Stroke:** > 28 days to 18 years of age.
 * **Types:**

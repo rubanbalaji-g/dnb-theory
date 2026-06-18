@@ -2,14 +2,14 @@
 {"dg-publish":true,"uplink":"/neurology/neurology/","uptext":"Back to Index (Neurology)","permalink":"/neurology/craniosynostosis/","dgPassFrontmatter":true}
 ---
 
-**[[Neurology/Craniosynostosis\|Craniosynostosis]]** is the premature fusion of one or more cranial sutures, occurring before the cessation of brain growth.
+**Craniosynostosis** is the premature fusion of one or more cranial sutures, occurring before the cessation of brain growth.
 * **Incidence:** Approx 1 in 2,000 to 2,500 live births.
 * **Virchow’s Law:** The primary principle governing the skull deformity.
     * Skull growth is **restricted** in the plane perpendicular to the fused suture.
     * Compensatory **overgrowth** occurs at the patent sutures parallel to the fused suture to accommodate brain expansion.
 
 ##  Classification
-[[Neurology/Craniosynostosis\|Craniosynostosis]] is classified based on etiology and the number of sutures involved.
+Craniosynostosis is classified based on etiology and the number of sutures involved.
 
 **1. Based on Etiology**
 * **Primary (Isolated):** Due to intrinsic defect in the suture (genetic/developmental). Most common.
@@ -27,11 +27,11 @@
 * **Non-Syndromic:** Isolated anomaly (approx 75-85% of cases).
 * **Syndromic:** Associated with other extracranial anomalies/genetic syndromes (approx 15-25% of cases).
 
-## Syndromes Associated with [[Neurology/Craniosynostosis\|Craniosynostosis]]
+## Syndromes Associated with Craniosynostosis
 
 Most syndromic cases are Autosomal Dominant and involve mutations in Fibroblast Growth Factor Receptors (FGFR) or Transcription factors (TWIST).
 
-### Major [[Neurology/Craniosynostosis\|Craniosynostosis]] Syndromes (The "Big 5")
+### Major Craniosynostosis Syndromes (The "Big 5")
 
 | Syndrome                     | Gene / Locus           | Inheritance | Key Clinical Features                                                                                                                                                                                                                              |
 | :--------------------------- | :--------------------- | :---------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |

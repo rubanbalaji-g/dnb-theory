@@ -4,7 +4,8 @@
 
 ### I. DEFINITION AND OVERVIEW
 * **Definition:** The Cerebellopontine (CP) angle is a potential space in the posterior cranial fossa filled with cerebrospinal fluid (CSF), bounded by the pons, cerebellum, and the petrous bone.
-* **Common Pathologies:** * Acoustic Neuroma (Vestibular Schwannoma): ~80-90%.
+* **Common Pathologies:** 
+	* Acoustic Neuroma (Vestibular Schwannoma): ~80-90%.
     * Meningioma: ~5-10%.
     * Epidermoid Cysts: ~5-7%.
     * Others: Facial nerve schwannomas, arachnoid cysts, glomus tumors, and metastatic lesions.
@@ -12,7 +13,7 @@
 
 ### II. ANATOMY OF THE CEREBELLOPONTINE ANGLE
 Understanding the signs requires a detailed knowledge of the boundaries and contents of this space:
-![|300x300](https://upload.wikimedia.org/wikipedia/commons/2/2b/Gray705.png) ![Pasted image 20260417130617.png|300x300](/img/user/+%C4%B0mages/Pasted%20image%2020260417130617.png)
+![|300x300](https://upload.wikimedia.org/wikipedia/commons/2/2b/Gray705.png) 
     * **Anterolateral:** Posterior surface of the petrous temporal bone.
     * **Posteromedial:** Anterolateral surface of the cerebellum and the pons.
     * **Superior:** Tentorium cerebelli.
@@ -23,7 +24,7 @@ Understanding the signs requires a detailed knowledge of the boundaries and cont
     * **Brainstem Components:** Pons and Medulla.
     * **Cerebellar Components:** Flocculus and Cerebellar peduncles.
 
-### III. CLINICAL STAGING OF [[Neurology/CP angle Tumors\|CP ANGLE TUMORS]]
+### III. CLINICAL STAGING OF CP ANGLE TUMORS
 Symptoms typically progress in a predictable sequence based on the "Centrifugal Growth" of the tumor:
 1. **Stage I (Intracanalicular Stage):** Symptoms limited to CN VIII (hearing loss, tinnitus).
 2. **Stage II (Cisternal Stage):** Tumor exits the internal auditory meatus; involvement of CN V and VII.
