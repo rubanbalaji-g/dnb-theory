@@ -62,7 +62,38 @@
 | Inborn errors of metabolism | Jitteriness, poor feeding, lethargy, irritablity, CNS depression | lactate, ammonia, metabolic screening                   |
 | [[neonatalogy/PDA\|PDA]]                         | tachycardia, bounding pulse, murmur, hyperkinetic precordium     | CXR, Echo                                               |
 ### Algorithm
-![AOP Algorithm](https://i.imgur.com/EXjnq3Y.jpg)
+```mermaid
+%%{init: {"themeVariables": { "lineWidth": "3px", "lineColor": "#000000" } }}%%
+graph TD
+    %% Custom High-Contrast Styling Classes (Orange/Brown Theme)
+    classDef clinicalNode fill:#FFEADA,stroke:#D97724,stroke-width:2px,color:#7A3B08;
+    classDef actionNode fill:#FFF3E0,stroke:#E65100,stroke-width:2px,color:#5D4037;
+
+    A[Neonate with apnea] --> B[Emergency treatment:<br>Maintain temperature, ABC]
+    
+    B --> C[Exclude secondary causes of apnea:<br>blood sugar; PCV; ABG;<br>sepsis screen, CXR; serum Na, K, Ca;<br>US head as applicable]
+    
+    C --> D[Start specific treatment]
+    C --> E[Apnea of prematurity]
+    
+    E --> F[Start caffeine/aminophylline]
+    
+    %% Branching after Pharmacotherapy
+    F --> G[No apnea]
+    F --> H[No response]
+    
+    %% Left Branch: Success Pathway
+    G --> I[Continue till 34 weeks]
+    I --> J[Stop drugs if apnea<br>free for 7 days]
+    
+    %% Right Branch: Escalation Pathway
+    H --> K[CPAP]
+    K --> L[No response]
+    L --> M[NIPPV/ SIMV]
+
+    %% Apply Themes
+    class A,B,C,D,E,F,G,H,I,J,K,L,M clinicalNode;
+```
 ### Prevention of recurrence
 #### Caffeine
 - <span style=color:pink>Drug of choice </span>

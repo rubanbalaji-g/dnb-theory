@@ -4,7 +4,7 @@
 
 ### **1. Definition & Classic Tetrad**
 
-[[Nephrology/Nephrotic Syndrome\|Nephrotic Syndrome]] is a clinical syndrome characterized by a collection of findings resulting from massive renal protein loss.
+Nephrotic Syndrome is a clinical syndrome characterized by a collection of findings resulting from massive renal protein loss.
 
 #### **The Classic Tetrad:**
 
@@ -72,7 +72,7 @@ Diagnosis is primarily clinical and biochemical, supported by a kidney biopsy in
 
 ### **6\. Management (ISPN 2021 Guidelines)**
 
-#### **A. Steroid-Sensitive [[Nephrology/Nephrotic Syndrome\|Nephrotic Syndrome]] (SSNS)**
+#### **A. Steroid-Sensitive Nephrotic Syndrome (SSNS)**
 
 ##### **1\. Initial Episode (Presumed MCD)**
 

@@ -113,7 +113,7 @@ graph TD
 - Crystalloids like 0.9% normal saline are preferred over colloids. They are less expensive, equally effective, and carry no risk of transfusion-associated infections.
 - The peripheral venous route is considered safer than the umbilical venous route. Umbilical vein use for PET may be associated with an increased incidence of NEC.
 - The volume of exchange is calculated using the following formula:
-$$Volume (mL) = \frac{Blood volume \times (Observed \ Hematocrit - Desired \ Hematocrit)}{ Observed \ Hematocrit.}$$
+$$Volume (mL) = \frac{\text{Blood volume} \times (Observed \ Hematocrit - Desired \ Hematocrit)}{ Observed \ Hematocrit.}$$
 - The assumed blood volume is approximately 80 to 90 mL/kg for term babies. It is 90 to 100 mL/kg for preterm babies.
 - As a general rule of thumb, the volume of blood exchanged is usually 15 to 20 mL/kg of body weight.
 

@@ -27,7 +27,6 @@
 | **Grade III** | Reflux into a dilated ureter and/or mild-to-moderate blunting of the calyceal fornices.                                                   |
 | **Grade IV**  | Reflux into a grossly dilated and moderately tortuous ureter, with complete obliteration of the sharp angles of the calyceal fornices.    |
 | **Grade V**   | Massive reflux with gross dilation and tortuosity of the ureter, renal pelvis, and calyces, accompanied by loss of papillary impressions. |
-![Pasted image 20260526122319.png](/img/user/+%C4%B0mages/Pasted%20image%2020260526122319.png)
 ### Clinical Presentation and Risk Factors
 
 - VUR is most frequently diagnosed in young children following an episode of a febrile [[Nephrology/Urinary Tract Infection\|urinary tract infection]] (UTI).

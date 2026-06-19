@@ -7,7 +7,7 @@
 * **Paradigm Shift:** Moves away from "termination vs. waiting" to viewing the **"Fetus as a Patient"**.
 * **Goal:** To prevent fetal death or halt the progression of disease that would otherwise result in irreversible organ damage or severe disability.
 
-## 2. PREREQUISITES FOR [[neonatalogy/Fetal Therapy\|FETAL THERAPY]] (Eurofetus Criteria)
+## 2. PREREQUISITES FOR FETAL THERAPY (Eurofetus Criteria)
 Before undertaking any intervention, the following must be met:
 1.  **Accurate Diagnosis:** Confirmed by Level II USG, MRI, or Karyotype/Microarray.
 2.  **Natural History:** The condition must have a known poor prognosis if left untreated.
@@ -17,7 +17,7 @@ Before undertaking any intervention, the following must be met:
 6.  **Consent:** Informed consent regarding risks to mother and fetus (and future pregnancies).
 
 ---
-## 3. CLASSIFICATION OF [[neonatalogy/Fetal Therapy\|FETAL THERAPY]]
+## 3. CLASSIFICATION OF FETAL THERAPY
 Therapy is broadly classified based on invasiveness:
 1.  **Medical (Transplacental):** Drugs given to mother $\rightarrow$ Placenta $\rightarrow$ Fetus.
 2.  **Minimally Invasive (Percutaneous/Fetoscopic):** Needle or endoscope guided by ultrasound.
@@ -25,7 +25,7 @@ Therapy is broadly classified based on invasiveness:
 4.  **Ex-Utero Intrapartum Treatment (EXIT):** Procedures during delivery while on placental support.
 
 ---
-## 4. MEDICAL [[neonatalogy/Fetal Therapy\|FETAL THERAPY]] (Pharmacologic)
+## 4. MEDICAL FETAL THERAPY (Pharmacologic)
 Non-invasive and most commonly used.
 
 ### A. Fetal Lung Maturation (Standard of Care)

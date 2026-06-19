@@ -25,8 +25,6 @@
 | Increased Utilization          | Sepsis, shock, hypothermia, respiratory distress, polycythemia.                                                |
 | Endocrine Deficiency           | Adrenal insufficiency, congenital hypopituitarism.                                                             |
 | Inborn Errors Of Metabolism    | Glycogen storage disease, galactosemia, maple syrup urine disease.                                             |
-|                                |                                                                                                                |
-
 ## Clinical Presentation
 
 - Many neonates with low blood sugar values remain completely asymptomatic.
@@ -81,8 +79,8 @@ graph TD
     G(Trial of oral feeds):::neutral
     H(Monitor the blood<br>sugar after 1 hour):::neutral
     
-    I(> 40 mg/dl):::stable
-    J(< 40 mg/dl):::critical
+    I(more than 40 mg/dl):::stable
+    J(less than 40 mg/dl):::critical
     
     K(IV glucose infusion @ 6 mg/kg/min<br>Monitor hourly till euglycemic<br>and then 6 hourly):::warning
     

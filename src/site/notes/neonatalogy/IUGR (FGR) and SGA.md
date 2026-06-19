@@ -184,8 +184,7 @@
 			- Vitamin D3 - Arbivit / sunsips (800/1) - 0.5 ml/day
 			- Iron - started at 4-6 weeks of life - Tonoferon 2 drops/kg/day
 			- Folate - Folvite / folium 0.1 ml/day
-	- Feed intolerance can occur8. Provide immediate newborn care in case of those deliveries that do not occur  in institutions
-￼￼￼￼￼Kangaroo mother care
+	- Feed intolerance can occur
 		![](https://i.ibb.co/Q3ghG2jZ/IMG-4026.jpg)
 ## Improving neurodevelopmental outcomes
  - Family centric [[neonatalogy/Developmentally Supportive Care\|developmentally supportive care]]

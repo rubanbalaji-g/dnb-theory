@@ -51,7 +51,7 @@
 - While ADPKD is traditionally considered an adult-onset disease, progressive structural kidney damage (cyst formation and kidney enlargement) begins in utero or early childhood.
 - Hypertension is a frequent and early manifestation in children, affecting 20-40% of pediatric patients, and is associated with larger Total Kidney Volume (TKV) and faster disease progression.
 - Masked hypertension and loss of nocturnal blood pressure dipping are common, making 24-hour ambulatory blood pressure monitoring (ABPM) a critical evaluation tool in pediatric ADPKD.
-- Macroscopic or microscopic hematuria may occur due to cyst hemorrhage, nephrolithiasis, or urinary tract infections.
+- Macroscopic or microscopic hematuria may occur due to **cyst hemorrhage, nephrolithiasis, or urinary tract infections.**
 - Impaired urinary concentrating capacity leads to early polyuria, polydipsia, and nocturnal enuresis.
 - Extrarenal manifestations include an increased left ventricular mass Index (LVMI), early vascular dysfunction (increased pulse wave velocity), and mitral valve prolapse.
 - Very Early Onset (VEO) ADPKD, diagnosed before 18 months of age, presents with massive nephromegaly and hypertension, mimicking ARPKD, and carries a high risk of progression to ESKD in childhood.

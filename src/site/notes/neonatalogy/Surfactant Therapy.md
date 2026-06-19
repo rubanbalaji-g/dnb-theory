@@ -44,7 +44,49 @@
 - It is utilized as an adjunct therapy in meconium aspiration syndrome (MAS).
 - Other indications include severe congenital pneumonia, pulmonary hemorrhage, and acute respiratory distress syndrome (ARDS).
 - It is useful in persistent pulmonary hypertension of the newborn (PPHN) associated with underlying atelectasis.
+```mermaid
+%%{init: {"themeVariables": { "lineWidth": "3px", "lineColor": "#000000" } }}%%
+graph TD
+    %% Custom High-Contrast Styling Classes (Orange/Brown Theme)
+    classDef clinicalNode fill:#FFEADA,stroke:#D97724,stroke-width:2px,color:#7A3B08;
+    classDef decisionPos fill:#E8F5E9,stroke:#2E7D32,stroke-width:2px,color:#1B5E20;
+    classDef decisionNeg fill:#FFEBEE,stroke:#C62828,stroke-width:2px,color:#B71C1C;
 
+    %% Initial Assessment Layout
+    GA_Less[< 28 weeks*]
+    GA_More[28 weeks or more]
+
+    %% Left Pathway: Prophylactic Surfactant
+    GA_Less --> Intubated[Intubation at birth or<br>No/ incomplete antenatal steroids*]
+    Intubated --> Prophylactic[May consider prophylactic<br>surfactant after stabilization]
+
+    %% Right Pathway: Respiratory Distress / Rescue Surfactant
+    GA_Less --> RespDistress[Respiratory distress<br>at birth]
+    GA_More --> RespDistress
+    
+    RespDistress --> CPAP[CPAP with FiO2<br>of 0.3 or more]
+    RespDistress --> MechVent[Mechanical ventilation<br>with FiO2 of 0.3 or more]
+    
+    CPAP --> Rescue[Early rescue surfactant within 2 hours]
+    MechVent --> Rescue
+
+    %% Convergence Node
+    Prophylactic --> StabilizationCheck
+    Rescue --> StabilizationCheck
+
+    StabilizationCheck[Good spontaneous respiration and<br>no hemodynamic instability]
+    
+    %% Stabilization Branching
+    StabilizationCheck -->|Yes| Insure[Insure to<br>nasal CPAP]
+    StabilizationCheck -->|No| ContinueVent[Continued on<br>mechanical ventilation]
+    
+    %% Final Re-evaluation
+    Insure --> RepeatDose[Consider giving repeat dose after 12 hours of initial dose<br>If FiO2 0.4 or more or CPAP failure]
+    ContinueVent --> RepeatDose
+
+    %% Apply Themes
+    class GA_Less,GA_More,Intubated,Prophylactic,RespDistress,CPAP,MechVent,Rescue,StabilizationCheck,Insure,ContinueVent,RepeatDose clinicalNode;
+```
 ## Strategies Of Administration
 
 ### Prophylactic Surfactant

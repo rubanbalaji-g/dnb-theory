@@ -41,6 +41,8 @@
 
 ## Management
 
+![Pasted image 20260619082217.png](/img/user/+%C4%B0mages/Pasted%20image%2020260619082217.png)
+
 ### Antiviral Therapy
 
 - Infants with congenital infection from early in utero transmission usually lack active viral disease at birth, so antiviral therapy is not indicated.

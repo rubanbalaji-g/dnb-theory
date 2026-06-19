@@ -25,7 +25,52 @@
 - Definitive diagnosis strictly relies on virologic assays, specifically HIV DNA PCR (detecting proviral DNA) or HIV RNA PCR (detecting viral load) utilizing dried blood spots or whole blood.
 
 ### Testing Schedule And Confirmation
-![](https://i.ibb.co/qY6K0rDT/unnamed.jpg)
+```mermaid
+%%{init: {"themeVariables": { "lineWidth": "3px", "lineColor": "#000000" } }}%%
+graph TD
+    %% Custom Styling Classes for High Contrast (Orange/Brown Theme)
+    classDef clinicalNode fill:#FFEADA,stroke:#D97724,stroke-width:2px,color:#7A3B08;
+    classDef decisionPos fill:#E8F5E9,stroke:#2E7D32,stroke-width:2px,color:#1B5E20;
+    classDef decisionNeg fill:#FFEBEE,stroke:#C62828,stroke-width:2px,color:#B71C1C;
+    classDef finalNode fill:#FFF3E0,stroke:#E65100,stroke-width:2px,color:#5D4037;
+
+    A[Baby born to HIV infected mother] --> B[Consider NAT at birth<br>within 2 days]
+    A -.->|Prophylaxis| Baseline[Start nevirapine 2 mg/kg/dose OD at birth<br>Both nevirapine and zidovudine if high-risk infant<br>Start cotrimoxazole at 4-6 weeks of age]
+    
+    B --> B_Pos[Positive]
+    B --> B_Neg[Negative]
+    
+    B_Pos --> C[Start ART and repeat NAT to confirm infection]
+    
+    B_Neg --> D[HIV 1 DNA PCR DBS at 6 weeks]
+    D --> D_Pos[Positive]
+    D --> D_Neg[Negative]
+    
+    D_Pos --> E[Send whole blood sample for HIV-1 DNA PCR<br>Repeat HIV 1 DNA PCR]
+    E --> E_Pos[Positive]
+    E --> E_Neg[Negative]
+    
+    E_Pos --> F[Collect and send another blood sample for confirmatory HIV-1 PCR<br>Continue cotrimoxazole; start pediatric ART; continue breastfeeding till 2 years]
+    
+    D_Neg --> G[Continue cotrimoxazole; stop NVP<br>at 6 or 12 weeks depending upon infant's risk status]
+    E_Neg --> G
+    
+    G --> H[Repeat HIV 1 DNA PCR DBS at 9 months<br>or earlier if child is symptomatic]
+    H --> H_Pos[Positive]
+    H --> H_Neg[Negative]
+    
+    H_Pos --> F
+    
+    H_Neg --> I[Continue cotrimoxazole till HIV is excluded.<br>Continue breastfeeding at least till 2 years,<br>followed by gradual stoppage over 1 month]
+    
+    I --> J[Establish definitive diagnosis at 18 months or 3 months after cessation of breast feeding,<br>whichever is later, by HIV antibody tests 3 rapid tests]
+
+    %% Class Assignments
+    class A,B,C,D,E,F,G,H,I,J,Baseline clinicalNode;
+    class B_Pos,D_Pos,E_Pos,H_Pos decisionPos;
+    class B_Neg,D_Neg,E_Neg,H_Neg decisionNeg;
+    class J finalNode;
+```
 
 ## Prevention Of Mother-To-Child Transmission
 

@@ -95,8 +95,8 @@
 - Washed maternal platelets or platelets from an antigen-negative donor are the ideal treatment.
 - If antigen-negative platelets are unavailable, random donor platelets must be transfused immediately in emergencies.
 - Intravenous immunoglobulin (IVIG) is administered concurrently at a dose of 1 g/kg/day for 2 days.
-- If the platelet count is less than 30,000 per cubic millimeter, use random donor platelets and IVIG.
-- If the platelet count is between 30,000 and 50,000 per cubic millimeter, IVIG alone is indicated.
+- If the platelet count is less than 25,000 per cubic millimeter, use random donor platelets and IVIG.
+- If the platelet count is between 25,000 and 50,000 per cubic millimeter, IVIG alone is indicated.
 - In neonates with active bleeding or ICH, the target platelet count must be kept at 100,000 per cubic millimeter.
 - Following stabilization, the count should be maintained at 50,000 per cubic millimeter for 7 days.
 

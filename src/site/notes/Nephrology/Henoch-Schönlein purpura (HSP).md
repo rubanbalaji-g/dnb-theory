@@ -4,7 +4,7 @@
 
 ## Definition and Overview
 
-- IgA vasculitis, formerly known as [[Nephrology/Henoch-Schönlein purpura (HSP)\|Henoch-Schönlein purpura (HSP)]], is the most common childhood vasculitis.
+- IgA vasculitis, formerly known as Henoch-Schönlein purpura (HSP), is the most common childhood vasculitis.
 - It is a clinical, multisystem disorder defined by the presence of **palpable purpura** accompanied by one or more of the following features: **arthritis or arthralgia, abdominal pain, renal involvement, or predominant IgA deposition.**
 - While the disease largely affects the pediatric population and generally carries a favorable prognosis, the development of IgA vasculitis with nephritis is a feared complication that contributes to a poor long-term prognosis.
 

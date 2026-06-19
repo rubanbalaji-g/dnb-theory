@@ -6,25 +6,25 @@
 
 - The glomerular capillaries normally provide an effective barrier to the filtration of proteins, and the small amounts filtered are almost completely reabsorbed by the proximal tubule.
 - Normal urinary protein excretion in healthy children is generally defined as $<100$ mg/m²/day.
-- Quantification is best performed using the spot urine protein-to-creatinine ratio (PCR) on a first-morning urine sample,.
-- A normal spot urine PCR is $<0.5$ mg/mg in infants aged 6 to 24 months, and $<0.2$ mg/mg in children older than 2 years,.
-- Nephrotic-range proteinuria is defined by a urine PCR $>2.0$ mg/mg, or $>40$ mg/m²/hr on a timed 24-hour collection,.
+- Quantification is best performed using the spot urine protein-to-creatinine ratio (PCR) on a first-morning urine sample.
+- A normal spot urine PCR is $<0.5$ mg/mg in infants aged 6 to 24 months, and $<0.2$ mg/mg in children older than 2 years.
+- Nephrotic-range proteinuria is defined by a urine PCR $>2.0$ mg/mg, or $>40$ mg/m²/hr on a timed 24-hour collection.
 - Urine dipstick analysis is a semi-quantitative screening tool; a positive test is considered clinically significant if it reads $\ge 1+$ ($>30$ mg/dL) in a sample with a specific gravity $>1.015$.
 - Dipsticks primarily detect albumin and can yield false positives in highly alkaline or concentrated urine, while failing to detect low-molecular-weight tubular proteins.
 
 ## Pathophysiological Classification
 
 - **Glomerular Proteinuria:** Results from increased glomerular capillary permeability to large-molecular-weight proteins like albumin. This can occur due to a loss of the negative charge in the glomerular filtration barrier (e.g., minimal change disease) or structural disruption of the slit diaphragm (e.g., genetic mutations in nephrin or podocin).
-- **Tubular Proteinuria:** Caused by the failure of damaged proximal tubules to reabsorb low-molecular-weight (LMW) proteins, such as $\beta 2$-microglobulin and retinol-binding protein,. This pattern is characteristic of tubulointerstitial diseases, Dent disease, and cystinosis,.
+- **Tubular Proteinuria:** Caused by the failure of damaged proximal tubules to reabsorb low-molecular-weight (LMW) proteins, such as $\beta 2$-microglobulin and retinol-binding protein. This pattern is characteristic of tubulointerstitial diseases, Dent disease, and cystinosis.
 - **Secretory/Overflow Proteinuria:** Occurs when increased plasma production of LMW proteins exceeds the maximal tubular reabsorption capacity, or through the direct tubular secretion of Tamm-Horsfall protein.
 
 ## Clinical Evaluation Approach
 
 ### Differentiating Transient, Orthostatic, and Fixed Proteinuria
 
-- The initial step in evaluating a child with proteinuria is establishing its persistence, as transient proteinuria triggered by fever ($>38.4^\circ C$), vigorous exercise, dehydration, or stress is benign and resolves spontaneously,,.
+- The initial step in evaluating a child with proteinuria is establishing its persistence, as transient proteinuria triggered by fever ($>38.4^\circ C$), vigorous exercise, dehydration, or stress is benign and resolves spontaneously.
 - **Orthostatic (Postural) Proteinuria:** This is the most common cause of persistent proteinuria in school-aged children and adolescents, accounting for up to 60% of cases.
-- Orthostatic proteinuria is diagnosed when a first-morning urine sample shows a normal PCR ($<0.2$ mg/mg), but daytime samples collected after upright posture demonstrate elevated protein levels,,.
+- Orthostatic proteinuria is diagnosed when a first-morning urine sample shows a normal PCR ($<0.2$ mg/mg), but daytime samples collected after upright posture demonstrate elevated protein levels.
 - If the first-morning urine sample consistently shows a PCR $\ge 0.2$ mg/mg or dipstick $\ge 1+$, the patient has fixed proteinuria, which indicates underlying glomerular or tubular kidney disease.
 
 ### History and Physical Examination
@@ -43,17 +43,17 @@
 ## Indications for Kidney Biopsy
 
 - A kidney biopsy is indicated to establish a definitive tissue diagnosis in children with persistent, fixed proteinuria (PCR $>50$ mg/mmol or $>1$ g/1.73m²/day) accompanied by any of the following features:
-- Persistent microscopic or gross hematuria,.
-- Reduced eGFR or unexplained kidney failure,.
-- Persistently low serum complement C3 lasting beyond 12 weeks,.
+- Persistent microscopic or gross hematuria.
+- Reduced eGFR or unexplained kidney failure.
+- Persistently low serum complement C3 lasting beyond 12 weeks.
 - Sustained hypertension or marked hypoalbuminemia.
 - Systemic features suggestive of diseases like [[Rheumatology/Lupus Nephritis\|lupus nephritis]] or IgA vasculitis.
-- Failure to respond to a standard 4 to 6-week course of corticosteroid therapy (steroid-resistant [[Nephrology/Nephrotic Syndrome\|nephrotic syndrome]]),.
+- Failure to respond to a standard 4 to 6-week course of corticosteroid therapy (steroid-resistant [[Nephrology/Nephrotic Syndrome\|nephrotic syndrome]]).
 
 ## Management Principles
 
-- Proteinuria is a potent, independent risk factor for the progression of [[Nephrology/Chronic Kidney Disease\|chronic kidney disease]] (CKD) and requires targeted intervention,.
-- Pharmacological management centers on renin-angiotensin-aldosterone system (RAAS) blockade; Angiotensin-Converting Enzyme inhibitors (ACEi) or Angiotensin II Receptor Blockers (ARBs) are the preferred first-line agents to lower intraglomerular pressure and suppress proteinuria,.
-- Strict blood pressure control is paramount, aiming for a target systolic and diastolic blood pressure below the 50th percentile for the child's age, sex, and height,.
+- Proteinuria is a potent, independent risk factor for the progression of [[Nephrology/Chronic Kidney Disease\|chronic kidney disease]] (CKD) and requires targeted intervention.
+- Pharmacological management centers on renin-angiotensin-aldosterone system (RAAS) blockade; Angiotensin-Converting Enzyme inhibitors (ACEi) or Angiotensin II Receptor Blockers (ARBs) are the preferred first-line agents to lower intraglomerular pressure and suppress proteinuria.
+- Strict blood pressure control is paramount, aiming for a target systolic and diastolic blood pressure below the 50th percentile for the child's age, sex, and height.
 - Dietary sodium restriction is advised to optimize blood pressure control and enhance the antiproteinuric efficacy of RAAS blockade.
 - In patients with confirmed primary or secondary glomerulonephritis on biopsy, targeted immunosuppressive therapy involving corticosteroids, calcineurin inhibitors, or alkylating agents is instituted based on the specific histopathology.

@@ -72,7 +72,7 @@ Applicable to **all** birth weights and gestations.
     * **Flaw:** "Circular logic" – sicker babies get more treatment, but aggressive treatment can inflate the score independent of actual mortality risk (Treatment Bias).
 
 ### 6. Transport Scores
-* **TRIPS (Transport Risk Indexof Physiologic Stability):**
+* **TRIPS (Transport Risk Index of Physiologic Stability):**
     * Assesses stability at the referring hospital and on admission to NICU.
     * **Components:** Temperature, BP, Respiratory status, Response to noxious stimuli.
     * **Use:** Audit of transport team quality.

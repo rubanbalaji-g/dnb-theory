@@ -2,7 +2,7 @@
 {"dg-publish":true,"uplink":"/nephrology/nephrology/","uptext":"Back to Index (🫘 Nephrology)","permalink":"/nephrology/persistent-asymptomatic-proteinuria/","dgPassFrontmatter":true}
 ---
 
-## Overview of [[Nephrology/Persistent Asymptomatic Proteinuria\|Persistent Asymptomatic Proteinuria]]
+## Overview of Persistent Asymptomatic Proteinuria
 
 - The discovery of proteinuria in an asymptomatic child on a routine non-first-morning urine specimen is a relatively common finding, occurring in 5% to 15% of children.
 - However, persistent proteinuria, defined by abnormal protein excretion on repeated testing over a minimum of a 2-week period, is much less common and requires systematic evaluation.

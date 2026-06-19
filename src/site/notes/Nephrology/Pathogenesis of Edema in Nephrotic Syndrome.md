@@ -2,7 +2,7 @@
 {"dg-publish":true,"uplink":"/nephrology/nephrology/","uptext":"Back to Index (🫘 Nephrology)","permalink":"/nephrology/pathogenesis-of-edema-in-nephrotic-syndrome/","dgPassFrontmatter":true}
 ---
 
-## [[Nephrology/Pathogenesis of Edema in Nephrotic Syndrome\|Pathogenesis of Edema in Nephrotic Syndrome]]
+## Pathogenesis of Edema in Nephrotic Syndrome
 
 - Edema is the most common presenting symptom of [[Nephrology/Nephrotic Syndrome\|nephrotic syndrome]], frequently starting as insidious periorbital puffiness before progressing to generalized pitting edema, ascites, pleural effusions, and genital edema.
 - Despite its universal presence in the condition, the precise mechanism driving edema formation remains incompletely understood and is heavily debated.

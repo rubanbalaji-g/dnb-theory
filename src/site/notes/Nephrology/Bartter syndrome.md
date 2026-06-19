@@ -4,7 +4,7 @@
 
 ## Overview and Pathophysiology
 
-- [[Nephrology/Bartter syndrome\|Bartter syndrome]] encompasses a group of rare, primarily autosomal recessive, salt-losing tubulopathies.
+- Bartter syndrome encompasses a group of rare, primarily autosomal recessive, salt-losing tubulopathies.
 - The fundamental defect lies in the impairment of sodium chloride (NaCl) reabsorption within the thick ascending limb (TAL) of the loop of Henle.
 - Defective NaCl reabsorption directly causes severe renal salt wasting and subsequent extracellular fluid volume contraction.
 - This volume depletion acts as a potent stimulus for the renin-angiotensin-aldosterone system (RAAS), resulting in marked secondary [[Endocrinology/Hyperaldosteronism\|hyperaldosteronism]].
@@ -14,7 +14,7 @@
 
 ## Genetic Classification
 
-- [[Nephrology/Bartter syndrome\|Bartter syndrome]] exhibits considerable genetic heterogeneity and is classified according to the specific mutated transport protein.
+- Bartter syndrome exhibits considerable genetic heterogeneity and is classified according to the specific mutated transport protein.
 
 |Type|Gene|Affected Protein / Channel|Inheritance|Key Differentiating Features|
 |:--|:--|:--|:--|:--|
@@ -26,7 +26,7 @@
 
 ## Clinical Manifestations
 
-### Antenatal [[Nephrology/Bartter syndrome\|Bartter Syndrome]] (Types I, II, IV, V)
+### Antenatal Bartter Syndrome (Types I, II, IV, V)
 
 - Typically presents in utero with severe maternal polyhydramnios, driven by massive fetal polyuria, frequently leading to premature delivery.
 - Neonates exhibit life-threatening episodes of hypovolemic dehydration, massive polyuria, and severe salt wasting.
@@ -34,7 +34,7 @@
 - Growth retardation and failure to thrive are invariably observed early in the clinical course.
 - Profound hypercalciuria typically leads to the development of medullary nephrocalcinosis within the first few months of life, with the notable exception of Type IV.
 
-### Classic [[Nephrology/Bartter syndrome\|Bartter Syndrome]] (Type III)
+### Classic Bartter Syndrome (Type III)
 
 - Usually presents later in infancy or early childhood with polyuria, polydipsia, failure to thrive, and recurrent episodes of dehydration.
 - Patients frequently experience muscle weakness, cramps, and fatigue secondary to chronic, profound hypokalemia.

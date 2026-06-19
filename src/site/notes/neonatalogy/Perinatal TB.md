@@ -51,7 +51,33 @@
 - If the placenta is unavailable, consider uterine dilation and curettage for endometrial specimens.
 
 ## Management
+```mermaid
+%%{init: {"themeVariables": { "lineWidth": "3px", "lineColor": "#000000" } }}%%
+graph TD
+    %% Node Styling Classes
+    classDef main fill:#FFEADA,stroke:#D97724,stroke-width:2px,color:#7A3B08;
+    classDef decision fill:#FFF3E0,stroke:#E65100,stroke-width:2px,color:#5D4037;
 
+    A[Mother diagnosed with tuberculosis during pregnancy / after delivery] --> B[Assess for clinical evidence of congenital TB at birth]
+    
+    B -->|Absent| C[Chest X-ray;<br>Gastric aspirates x 2]
+    B -->|Present| D[Chest X-ray;<br>Gastric aspirates x 2;<br>USG abdomen and lumbar puncture]
+    
+    C --> E[No evidence of TB]
+    C --> F[Evidence of TB]
+    
+    D --> G[Start treatment]
+    F --> D
+    
+    E --> H[Give BCG and start INH]
+    H --> I[Evaluate for clinical evidence of<br>tuberculosis every 4-6 weeks]
+    
+    I -->|No evidence| J[Continue INH for 6 months]
+    I -->|Evidence of TB| G
+
+    %% Assigning Classes for consistent orange/brown high-contrast theme
+    class A,B,C,D,E,F,G,H,I,J main;
+```
 ### Treatment Of Perinatal Tuberculosis Disease
 
 - Treatment must be initiated promptly if congenital or postnatal TB is suspected.

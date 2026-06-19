@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/nephrology/approach-to-hematuria/","noteIcon":"","dgPassFrontmatter":true}
 ---
 
+## Algorithm
 ```mermaid
 graph TD
     subgraph "Initial Evaluation"

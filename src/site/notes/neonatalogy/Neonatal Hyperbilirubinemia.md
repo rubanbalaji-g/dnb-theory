@@ -117,15 +117,15 @@
 ## AAP 2022 Nomogram
 These thresholds are based on expert opinion rather than strong evidence on when the potential benefits of phototherapy exceed its potential harms. Use total serum bilirubin concentrations; do not subtract the direct-reacting or conjugated bilirubin from the total serum bilirubin. In rare cases of severe hyperbilirubinemia in which the direct-reacting or conjugated bilirubin exceeds 50% of the TSB, consult an expert. **Hyperbilirubinemia neurotoxicity risk factors include gestational age <38 weeks; albumin <3.0 g/dL; isoimmune hemolytic disease, glucose-6-phosphate dehydrogenase (G6PD) deficiency, or other hemolytic conditions; sepsis; or any significant clinical instability in the previous 24 hours.**
 ### Phototherapy Thresholds for Neonates without Risk Factors
-![Pasted image 20260525003446.png](/img/user/+%C4%B0mages/Pasted%20image%2020260525003446.png)
+![Pasted image 20260619084003](https://images.pedianotes.in/2026/06/mJ9YDANdooPobqL36gYG)
 ### Phototherapy Threshold for neonates with Risk Factors
-![Pasted image 20260525003612.png](/img/user/+%C4%B0mages/Pasted%20image%2020260525003612.png)
+![Pasted image 20260619084015](https://images.pedianotes.in/2026/06/9VjlisSqQNmyXWcARFLO)
 ### Exchange Transfusion Thresholds for neonates without risk factors
-![Pasted image 20260525003905.png](/img/user/+%C4%B0mages/Pasted%20image%2020260525003905.png)
+![Pasted image 20260619084028](https://images.pedianotes.in/2026/06/XTJW8c3klI1fUjSR6lrd)
 ### Exchange Transfusion Thresholds for neonates with risk factors
-![Pasted image 20260525004013.png](/img/user/+%C4%B0mages/Pasted%20image%2020260525004013.png)
+![Pasted image 20260619084039](https://images.pedianotes.in/2026/06/gmVhuz9DaBD2IlRDHvBz)
 ### Algorithm
-![Pasted image 20260525004041.png](/img/user/+%C4%B0mages/Pasted%20image%2020260525004041.png)
+![Pasted image 20260619084055](https://images.pedianotes.in/2026/06/n8MszTrAMVqRFIdvDzAo)
 
 ### Guidelines For Treatment of Jaundice in Neonates < 35 wks
 *(Adapted from NICE Guidelines, RCOG 2010)*
@@ -189,9 +189,9 @@ These thresholds are based on expert opinion rather than strong evidence on when
 |                  | Exchange     |    25    |     22      |    19     |
 
 ---
-### Risk Categories Definitions ($\ge$35 wks)
-* **Low Risk:** $\ge$38 wks & well
-* **Medium risk:** $\ge$38 wks + risk factors **OR** 35-37 wks & well
+### Risk Categories Definitions ($\ge$ 35 wks)
+* **Low Risk:** $\ge$ 38 wks & well
+* **Medium risk:** $\ge$ 38 wks + risk factors **OR** 35-37 wks & well
 * **High Risk:** 35-37 wks + risk factors
 
 **Risk factors:** Isoimmune hemolytic disease, G6PD deficiency, asphyxia, significant lethargy, temperature instability, sepsis, acidosis, S. Albumin <3 g/dl
