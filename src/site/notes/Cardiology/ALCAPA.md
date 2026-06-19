@@ -4,7 +4,7 @@
 
 ## Definition
 - Anomalous Left Coronary Artery from the Pulmonary Artery
-- Historically known as Bland-White-Garland syndrome.
+- Historically known as **Bland-White-Garland syndrome**.
 - Rare congenital anomaly; Left coronary artery (LCA) arises from pulmonary artery (PA) instead of aorta.
 - Prevalence: 1 in 300,000 births.
 

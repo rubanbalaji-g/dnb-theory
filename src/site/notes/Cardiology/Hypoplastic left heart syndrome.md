@@ -4,7 +4,7 @@
 
 ## Introduction and Etiology
 
-- [[Cardiology/Hypoplastic left heart syndrome\|Hypoplastic left heart syndrome]] (HLHS) represents a spectrum of congenital heart anomalies characterized by severe underdevelopment of the left side of the heart, rendering the left ventricle incapable of supporting the systemic circulation.
+- Hypoplastic left heart syndrome (HLHS) represents a spectrum of congenital heart anomalies characterized by severe underdevelopment of the left side of the heart, rendering the left ventricle incapable of supporting the systemic circulation.
 - HLHS accounts for 2% to 3% of all congenital heart defects, with an estimated incidence of 0.2 to 0.26 per 1000 live births and a male-to-female predominance of 1.5:1.
 - Anatomical sub-classifications are based on the status of the mitral and aortic valves: mitral atresia with aortic atresia (MA-AA), mitral stenosis with aortic atresia (MS-AA), and mitral stenosis with aortic stenosis (MS-AS).
 - The etiology is multifactorial, strongly driven by the "no flow–no grow" hypothesis, wherein decreased fetal blood flow through the left heart (e.g., due to severe aortic stenosis) stunts left ventricular development.

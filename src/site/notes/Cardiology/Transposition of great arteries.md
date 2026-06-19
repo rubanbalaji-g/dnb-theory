@@ -49,7 +49,7 @@
 - **Preoperative Palliation:** Balloon atrial septostomy (Rashkind procedure) for restrictive atrial septum to improve mixing and reduce LA pressure.
 - **D-TGA (IVS or small [[Cardiology/VSD\|VSD]]):** Arterial switch operation (ASO). Pulmonary artery and aorta transected and switched; coronary arteries transferred from aortic to pulmonary root.
 - **D-TGA with [[Cardiology/VSD\|VSD]] and LVOTO:**
-    - _Rastelli procedure:_ [[Cardiology/VSD\|VSD]] patch connects LV to aorta; native PA transected/oversewn; RV-to-PA extracardiac conduit placed.
+    - _Rastelli procedure:_ VSD patch connects LV to aorta; native PA transected/oversewn; RV-to-PA extracardiac conduit placed.
     - _Réparation à l'Etage Ventriculaire (REV):_ Infundibular septum resected; intraventricular baffle placed; native PA directly implanted to RV without conduit.
     - _Nikaidoh procedure:_ Aortic root and coronary arteries translocated entirely to LV; biventricular outflow tract reconstruction.
 - **Historical/Alternative Operations:** Mustard or Senning procedures (atrial switch) using pericardial or autologous atrial baffles to redirect venous flow. Used historically or if ASO contraindicated.

@@ -12,25 +12,25 @@ Disturbance in electrical impulse conduction from atria through atrioventricular
 |**Second-Degree (Mobitz I / Wenckebach)**|Progressive PR prolongation terminating in non-conducted P-wave.|Block at AV node level. Normal during sleep (high parasympathetic tone) or in athletes.|
 |**Second-Degree (Mobitz II)**|Stable PR interval preceding non-conducted P-wave.|Block at or below AV node (His-Purkinje). High risk of progression to complete block.|
 |**Second-Degree (High-Grade)**|Two or more consecutive non-conducted P-waves.|Suggests significant disease below AV node.|
-|**Third-Degree (Complete Heart Block - CHB)**|Complete AV dissociation. Regular ventricular escape rhythm independent of atrial rate.|Absence of impulse conduction to ventricles. High risk for syncope, sudden death, or fetal hydrops,.|
+|**Third-Degree (Complete Heart Block - CHB)**|Complete AV dissociation. Regular ventricular escape rhythm independent of atrial rate.|Absence of impulse conduction to ventricles. High risk for syncope, sudden death, or fetal hydrops.|
 
 ## Etiology & Associations
 
 |Category|Etiologies & High-Yield Associations|
 |:--|:--|
-|**Autoimmune (Congenital)**|Transplacental transfer of maternal IgG antibodies (+SSA/Ro, +SSB/La) in Systemic Lupus Erythematosus (SLE) or [[Rheumatology/Sjögren Syndrome\|Sjögren syndrome]],. Accounts for 60–70% of congenital CHB. Represents 80% of cases with structurally normal hearts.|
+|**Autoimmune (Congenital)**|Transplacental transfer of maternal IgG antibodies (+SSA/Ro, +SSB/La) in Systemic Lupus Erythematosus (SLE) or [[Rheumatology/Sjögren Syndrome\|Sjögren syndrome]]. Accounts for 60–70% of congenital CHB. Represents 80% of cases with structurally normal hearts.|
 |**Structural CHD**|Left atrial isomerism (Heterotaxy) (absent/abnormal SA node). Congenitally corrected [[Cardiology/Transposition of great arteries\|transposition of great arteries]] (ccTGA) (40% incidence, increases 2% annually). Atrioventricular canal defects.|
 |**Genetic / Familial**|Familial AV Block (FAVB) linked to SCN5A variants (sodium channel) or Connexin 40. NKX2-5 mutations associated with CHB and Atrial Septal Defect ([[Cardiology/ASD\|ASD]]).|
 |**Postoperative (Acquired)**|1–3% incidence following congenital cardiac surgery. Highest risk procedures involve [[Cardiology/VSD\|VSD]], AV canal, [[Cardiology/Tetralogy of Fallot\|tetralogy of Fallot]], ccTGA, and heterotaxy repairs. Transient AV block (5–10% of cases) resolves within 7–10 days.|
-|**Infectious / Inflammatory**|Viral myocarditis, Lyme carditis (heart block seen in 4-10% of cases), acute rheumatic fever, Chagas disease,,.|
-|**Pharmacologic**|Digoxin, beta-blockers, calcium channel blockers, clonidine, amiodarone, lithium,.|
+|**Infectious / Inflammatory**|Viral myocarditis, Lyme carditis (heart block seen in 4-10% of cases), acute rheumatic fever, Chagas disease,.|
+|**Pharmacologic**|Digoxin, beta-blockers, calcium channel blockers, clonidine, amiodarone, lithium.|
 
 ## Clinical Presentation
 
 ### Fetal Presentation
 
 - Diagnosed primarily between 17–28 weeks gestation.
-- Fetal heart rate <50 beats per minute (bpm) indicates poor prognosis,.
+- Fetal heart rate <50 beats per minute (bpm) indicates poor prognosis.
 - Associated with hydrops fetalis.
 - Immune-mediated endocardial fibroelastosis (EFE) or ventricular dysfunction present in 15–20% of autoimmune cases.
 
@@ -46,15 +46,15 @@ Disturbance in electrical impulse conduction from atria through atrioventricular
 ### Older Child and Adolescent Presentation
 
 - Often asymptomatic at rest.
-- Exertional fatigue or dyspnea,.
+- Exertional fatigue or dyspnea.
 - Dizziness, syncope (Stokes-Adams attacks).
 - Sudden cardiac death risk.
 
 ## Diagnostic Evaluation
 
-- **12-Lead Electrocardiogram ([[Misc/ECG\|ECG]]):** Confirms dissociation of P waves and QRS complexes in CHB. QRS duration normal (<120 ms) if block located high in AV node/Bundle of His,. Wide QRS suggests distal block location.
+- **12-Lead Electrocardiogram ([[Misc/ECG\|ECG]]):** Confirms dissociation of P waves and QRS complexes in CHB. QRS duration normal (<120 ms) if block located high in AV node/Bundle of His. Wide QRS suggests distal block location.
 - **24-Hour Ambulatory [[Misc/ECG\|ECG]] (Holter):** Assesses average diurnal heart rate, longest ventricular pauses, and occult ventricular ectopy.
-- **Echocardiography:** Excludes associated structural heart disease (e.g., ccTGA, heterotaxy). Evaluates ventricular function and rules out EFE,.
+- **Echocardiography:** Excludes associated structural heart disease (e.g., ccTGA, heterotaxy). Evaluates ventricular function and rules out EFE.
 - **Maternal Serology:** Anti-SSA/Ro and anti-SSB/La antibody testing mandated for unexplained fetal or neonatal AV block.
 - **Genetic Testing:** Indicated in Familial AV block without evidence of maternal autoimmune disease.
 
@@ -62,7 +62,7 @@ Disturbance in electrical impulse conduction from atria through atrioventricular
 
 ### Fetal Heart Block Management
 
-- **Corticosteroids (Dexamethasone):** Crosses placenta. Indicated (4–8 mg/day) to decrease conduction system inflammation. Utilized for second-degree heart block, new-onset CHB, hydrops, or cardiac dysfunction,. Efficacy in reversing established CHB remains controversial.
+- **Corticosteroids (Dexamethasone):** Crosses placenta. Indicated (4–8 mg/day) to decrease conduction system inflammation. Utilized for second-degree heart block, new-onset CHB, hydrops, or cardiac dysfunction. Efficacy in reversing established CHB remains controversial.
 - **Intravenous Immunoglobulin (IVIG):** 1 g/kg every 2–3 weeks. Indicated for fetal ventricular dysfunction or EFE.
 - **Beta-Sympathomimetics:** Terbutaline or salbutamol utilized to increase fetal heart rates <55–60 bpm. Controversial efficacy; fails to demonstrate proven survival benefit and risks maternal ectopy.
 
@@ -80,9 +80,9 @@ Guidelines direct permanent cardiac rhythm device implantation based on chronici
 
 #### Class I Indications (Definitive Need)
 
-- Symptomatic bradycardia with any degree of AV block,.
-- Congenital complete AV block accompanied by wide QRS escape rhythm, complex ventricular ectopy, or ventricular dysfunction,.
-- Postoperative high-grade second-degree or third-degree AV block not expected to resolve (typically evaluated >10–14 days post-surgery),,.
+- Symptomatic bradycardia with any degree of AV block.
+- Congenital complete AV block accompanied by wide QRS escape rhythm, complex ventricular ectopy, or ventricular dysfunction.
+- Postoperative high-grade second-degree or third-degree AV block not expected to resolve (typically evaluated >10–14 days post-surgery),.
 - Mobitz Type II second-degree AV block with wide QRS.
 
 #### Class IIa Indications (Reasonable to Perform)
@@ -95,10 +95,10 @@ Guidelines direct permanent cardiac rhythm device implantation based on chronici
 #### Surgical Considerations
 
 - Epicardial pacing systems required for patients lacking systemic venous access to heart (e.g., post-Fontan or Glenn palliation).
-- Endocardial (transvenous) leads avoided in presence of right-to-left intracardiac shunting due to paradoxical embolic stroke risk,.
+- Endocardial (transvenous) leads avoided in presence of right-to-left intracardiac shunting due to paradoxical embolic stroke risk.
 
 ### Sports Participation & Restrictions
 
 - **First-Degree / Mobitz I (Wenckebach):** No competitive sports restrictions if asymptomatic and structurally normal heart.
-- **Complete Right/Left Bundle Branch Block:** No restriction if asymptomatic, structurally normal heart, and absence of rate-dependent progression to complete block,.
+- **Complete Right/Left Bundle Branch Block:** No restriction if asymptomatic, structurally normal heart, and absence of rate-dependent progression to complete block.
 - **Congenital Complete Heart Block:** Contraindicated for competitive sports unless permanent pacemaker implanted. Post-implantation exercise stress testing required to ensure appropriate chronotropic response and normal HV interval.

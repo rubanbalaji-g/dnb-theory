@@ -5,7 +5,8 @@
 ## 1. INTRODUCTION AND COMPONENTS
 The second heart sound (S2) marks the end of ventricular systole and the onset of diastole. It is produced by the vibrations initiated by the closure of the semilunar valves.
 
-* **Components:** * A2 (Aortic closure): Higher pressure, heard all over the precordium.
+* **Components:** 
+	* A2 (Aortic closure): Higher pressure, heard all over the precordium.
     * P2 (Pulmonic closure): Lower pressure, normally heard only at the upper left sternal border (pulmonic area).
 * **Normal Splitting:** During inspiration, increased venous return to the Right Ventricle (RV) delays RV ejection, while decreased pulmonary venous return to the Left Ventricle (LV) hastens LV ejection. This causes A2 to occur earlier and P2 to occur later, resulting in an audible "split."
 

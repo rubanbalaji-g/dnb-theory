@@ -6,7 +6,7 @@
 
 - Severe pulmonary arterial hypertension (PAH) resulting in right-to-left shunting at atrial, ventricular, or pulmonary arterial levels.
 - Represents extreme end-stage of uncorrected congenital heart disease (CHD) with systemic-to-pulmonary shunts.
-- Defined hemodynamically by pulmonary vascular resistance (PVR) >12 Wood units or PVR/systemic vascular resistance (SVR) ratio $\ge$ 1.0.
+- Defined hemodynamically by **pulmonary vascular resistance (PVR) >12 Wood units** or PVR/systemic vascular resistance (SVR) ratio $\ge$ 1.0.
 - Shunt becomes bidirectional or completely right-to-left, with Qp/Qs ratio approximating 1.0 (typically 0.8–1.2).
 
 ## Pathophysiology
@@ -61,14 +61,14 @@
 
 ## Multisystemic Complications
 
-|System|Complications & Pathogenesis|Management Nuances|
-|:--|:--|:--|
-|**Hematologic**|Secondary erythrocytosis (adaptive response to hypoxia). Increased risk of hyperviscosity.|Treat underlying iron deficiency. Avoid routine phlebotomy.|
-|**Hemostatic**|Thrombocytopenia (megakaryocytes bypass lungs), platelet dysfunction, bleeding diathesis.|Avoid routine anticoagulation unless specific indications (PA thrombosis, AF) due to bleeding risk.|
-|**Pulmonary**|Massive PA dilation causing left main coronary compression, PA in-situ thrombosis, hemoptysis (rupture of plexiform lesions).|Hemoptysis can be life-threatening. Reverse anticoagulation, consider selective lung intubation.|
-|**Neurologic**|Paradoxical emboli causing TIA/Stroke, [[Neurology/Brain Abscess\|brain abscess]].|Strict IV line care (filters) to prevent air/paradoxical emboli.|
-|**Renal/Metabolic**|Renal dysfunction (glomerulopathy from hyperviscosity), Hyperuricemia (Gout), Cholelithiasis.|Cautious use of diuretics. Monitor renal function.|
-|**Obstetric**|Pregnancy is strictly contraindicated (mWHO class 4). Maternal mortality 16-50%.|Contraception mandatory. Avoid estrogen. IUD or subdermal devices preferred.|
+| System              | Complications & Pathogenesis                                                                                                  | Management Nuances                                                                                  |
+| :------------------ | :---------------------------------------------------------------------------------------------------------------------------- | :-------------------------------------------------------------------------------------------------- |
+| **Hematologic**     | Secondary erythrocytosis (adaptive response to hypoxia). Increased risk of hyperviscosity.                                    | Treat underlying iron deficiency. Avoid routine phlebotomy.                                         |
+| **Hemostatic**      | Thrombocytopenia (megakaryocytes bypass lungs), platelet dysfunction, bleeding diathesis.                                     | Avoid routine anticoagulation unless specific indications (PA thrombosis, AF) due to bleeding risk. |
+| **Pulmonary**       | Massive PA dilation causing left main coronary compression, PA in-situ thrombosis, hemoptysis (rupture of plexiform lesions). | Hemoptysis can be life-threatening. Reverse anticoagulation, consider selective lung intubation.    |
+| **Neurologic**      | Paradoxical emboli causing TIA/Stroke, [[Neurology/Brain Abscess\|brain abscess]].                                            | Strict IV line care (filters) to prevent air/paradoxical emboli.                                    |
+| **Renal/Metabolic** | Renal dysfunction (glomerulopathy from hyperviscosity), Hyperuricemia (Gout), Cholelithiasis.                                 | Cautious use of diuretics. Monitor renal function.                                                  |
+| **Obstetric**       | Pregnancy is strictly contraindicated (mWHO class 4). Maternal mortality 16-50%.                                              | Contraception mandatory. Avoid estrogen. IUD or subdermal devices preferred.                        |
 
 ## Investigations
 

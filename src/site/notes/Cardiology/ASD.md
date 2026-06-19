@@ -56,7 +56,7 @@
 
 - Right axis deviation, right ventricular hypertrophy.
 - Incomplete right bundle branch block (rSR' pattern in V1) seen in ~90% cases.
-- Crochetage sign: Notch near apex of R wave in inferior limb leads (II, III, aVF). Highly specific for ASD when combined with incomplete RBBB.
+- **Crochetage sign**: Notch near apex of R wave in inferior limb leads (II, III, aVF). Highly specific for ASD when combined with incomplete RBBB.
 - Left axis deviation (-30° to -90°) pathognomonic for ostium primum ASD.
 - Prolonged PR interval common (prolonged interatrial conduction time).
 
@@ -73,7 +73,7 @@
 - Confirms diagnosis, calculates Qp:Qs, evaluates anatomic rims, excludes anomalous venous connections.
 - Transthoracic Echocardiography (TTE): Subcostal, apical 4-chamber, and parasternal short-axis views ideal for assessing defect dimensions.
 - RV volume overload signs: Diastolic septal flattening, paradoxical/anterior systolic ventricular septal motion.
-- T-artifact: Brightening at defect edge due to increased ultrasound reflectivity at tissue-blood interface.
+- **T-artifact**: Brightening at defect edge due to increased ultrasound reflectivity at tissue-blood interface.
 - Transesophageal Echocardiography (TEE): Essential for complex shunts (sinus venosus, coronary sinus) and periprocedural guidance during transcatheter closure.
 
 ### Advanced Modalities

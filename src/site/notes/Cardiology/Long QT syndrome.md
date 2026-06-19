@@ -65,21 +65,21 @@
 
 Clinical tool estimating LQTS likelihood based on [[Misc/ECG\|ECG]], history, and family history.
 
-|Category|Finding|Points|
-|:--|:--|:--|
-|**[[Misc/ECG\|ECG]] Findings**|QTc $\ge$ 480 ms|3|
-||QTc 460–479 ms|2|
-||QTc 450–459 ms (males)|1|
-||QTc 4th minute recovery from exercise test $\ge$ 480 ms|1|
-||Torsades de pointes|2|
-||T-wave alternans|1|
-||Notched T-wave in 3 leads|1|
-||Low heart rate for age (<2nd percentile)|0.5|
-|**Clinical History**|Syncope with stress|2|
-||Syncope without stress|1|
-||Congenital deafness|0.5|
-|**Family History**|Family member with definite LQTS|1|
-||Unexplained sudden cardiac death below age 30|0.5|
+| Category                       | Finding                                                 | Points |
+| :----------------------------- | :------------------------------------------------------ | :----- |
+| **[[Misc/ECG\|ECG]] Findings** | QTc $\ge$ 480 ms                                        | 3      |
+|                                | QTc 460–479 ms                                          | 2      |
+|                                | QTc 450–459 ms (males)                                  | 1      |
+|                                | QTc 4th minute recovery from exercise test $\ge$ 480 ms | 1      |
+|                                | Torsades de pointes                                     | 2      |
+|                                | T-wave alternans                                        | 1      |
+|                                | Notched T-wave in 3 leads                               | 1      |
+|                                | Low heart rate for age (<2nd percentile)                | 0.5    |
+| **Clinical History**           | Syncope with stress                                     | 2      |
+|                                | Syncope without stress                                  | 1      |
+|                                | Congenital deafness                                     | 0.5    |
+| **Family History**             | Family member with definite LQTS                        | 1      |
+|                                | Unexplained sudden cardiac death below age 30           | 0.5    |
 
 - **Scoring Interpretation:** $\le$ 1 point: Low probability. 1.5 to 3 points: Intermediate probability. $\ge$ 3.5 points: High probability.
 
