@@ -68,10 +68,10 @@ _Data derived from diagnostic profiles of neonatal hepatic failure._
 
 Predicts mortality and guides urgent [[Gastrointestinal/Liver Transplantation\|liver transplantation]] listing.
 
-|Category|Criteria Mandating Transplantation|
-|:--|:--|
-|**Acetaminophen-Induced**|Arterial pH <7.30 (post-resuscitation) OR all three of: INR >6.5, creatinine >3.4 mg/dL, and Grade III/IV encephalopathy.|
-|**Non-Acetaminophen**|Prothrombin time >100 seconds (INR >6.5) OR any three of: age <11 years, jaundice to encephalopathy >7 days, bilirubin >17.4 mg/dL (300 umol/L), prothrombin time >50 seconds (INR >3.5), drug toxicity etiology.|
+| Category                  | Criteria Mandating Transplantation                                                                                                                                                                                |
+| :------------------------ | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Acetaminophen-Induced** | Arterial pH <7.30 (post-resuscitation) OR all three of: INR >6.5, creatinine >3.4 mg/dL, and Grade III/IV encephalopathy.                                                                                         |
+| **Non-Acetaminophen**     | Prothrombin time >100 seconds (INR >6.5) OR any three of: age <11 years, jaundice to encephalopathy >7 days, bilirubin >17.4 mg/dL (300 umol/L), prothrombin time >50 seconds (INR >3.5), drug toxicity etiology. |
 
 _Note: In pediatric cohorts, isolated peak INR >4 demonstrates high sensitivity for mortality without transplantation._
 

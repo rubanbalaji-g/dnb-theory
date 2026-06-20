@@ -81,3 +81,29 @@ Recent advancements utilize pangenotypic agents, eliminating necessity for preli
 - Mandate vaccination against [[Gastrointestinal/Hepatitis A\|Hepatitis A]] and B to prevent severe superimposed hepatic injury.
 - DAA therapies facilitate viral eradication before irreversible fibrotic or cirrhotic damage occurs, yielding excellent long-term prognosis.
 ## Perinatal HCV
+```mermaid
+%%{init: {
+  "theme": "base",
+  "themeVariables": {
+    "background": "#ffffff",
+    "primaryColor": "#fff3e6",
+    "primaryTextColor": "#d97706",
+    "primaryBorderColor": "#d97706",
+    "lineColor": "#000000",
+    "lineWidth": "3px",
+    "fontSize": "15px"
+  }
+}}%%
+graph TD
+    A[Pregnant woman with HCV infection:<br>Prenatal and intrapartum care appropriate for obstetric risk factors<br>No currently known intervention to reduce MTCT]
+    --> B[Neonate born to mother with HCV infection<br>Mode of delivery has no effect on perinatal infection risk]
+    
+    B --> C[Exclusive breastfeeding<br>Breastfeeding is not contraindicated except when the mother has<br>cracked, damaged, or bleeding nipples]
+    
+    C --> D[Follow up testing:<br>Should be done at or after 18 months of age for anti-HCV antibodies]
+    
+    D --> E[Negative:<br>HCV infection ruled out;<br>no action required]
+    D --> F[Positive:<br>HCV infection;<br>HCV-RNA assay after age 3 years to confirm chronic HCV infection]
+    
+    F --> G[Consultation with a pediatric gastroenterologist,<br>treatment with direct-acting antiviral DAA regimens<br>if approved for child's age irrespective of disease severity]
+```

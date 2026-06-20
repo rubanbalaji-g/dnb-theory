@@ -5,7 +5,7 @@
 # Congenital Malformations of the Lungs (CTM)
 
 ### 1. Introduction & Classification 
-[[Respiratory/Congenital Thoracic malformations\|Congenital Thoracic Malformations]] (CTM) are a spectrum of developmental anomalies of the lower respiratory tract. They are often diagnosed antenatally due to widespread ultrasonography.
+Congenital Thoracic Malformations (CTM) are a spectrum of developmental anomalies of the lower respiratory tract. They are often diagnosed antenatally due to widespread ultrasonography.
 
 **Classification (Key Entities):**
 The spectrum is often overlapping, but the four major entities are:

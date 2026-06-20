@@ -10,14 +10,15 @@
 - Pericardial space: Contains small amount of serous fluid between layers. Facilitates smooth cardiac movement.
 - Function: Optimizes diastolic coupling between right and left-sided cardiac chambers through transmission of intracavitary filling pressures.
 
-## Acute [[Cardiology/Pericarditis\|Pericarditis]]
+## Acute Pericarditis
 ### Definition
 - Inflammation of pericardial layers.
 - Episode lasting <4-6 weeks.
-- Incessant [[Cardiology/Pericarditis\|pericarditis]]: Lasts >4-6 weeks without remission.
-- Recurrent [[Cardiology/Pericarditis\|pericarditis]]: New signs/symptoms following symptom-free interval of 4-6 weeks.
-- Chronic [[Cardiology/Pericarditis\|pericarditis]]: Lasts >3 months.
+- Incessant pericarditis: Lasts >4-6 weeks without remission.
+- Recurrent pericarditis: New signs/symptoms following symptom-free interval of 4-6 weeks.
+- Chronic pericarditis: Lasts >3 months.
 ### Etiology
+
 | Category                         | Agents / Conditions                                                                                                                                                                                                   |
 | :------------------------------- | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Viral**                        | Enteroviruses (Coxsackievirus, echoviruses), Influenza, Herpesviruses (EBV, CMV, HHV-6), Adenovirus, Varicella, Mumps, Rubella, Parvovirus B19, Hepatitis B/C, HIV, [[Infectious Diseases/COVID-19\|COVID-19]]. Most common cause in developed nations. |
@@ -82,7 +83,7 @@ Diagnosis requires presence of at least two of four criteria:
 
 #### Echocardiography
 
-- Primary imaging modality. Normal in up to 40% of acute [[Cardiology/Pericarditis\|pericarditis]] cases.
+- Primary imaging modality. Normal in up to 40% of acute pericarditis cases.
 - Identifies effusion size. Classifications based on echo-free space at end-diastole: trivial (systole only), small (<10 mm), moderate (10-20 mm), large (21-25 mm), very large (>25 mm).
 - Excludes complications: Identifies concurrent ventricular dysfunction (myopericarditis), signs of tamponade, or constrictive physiology.
 
@@ -105,7 +106,7 @@ Diagnosis requires presence of at least two of four criteria:
 | :---------------------------- | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **NSAIDs + Colchicine**       | First-line therapy. <br>Colchicine disrupts tubulin, inhibits neutrophil chemotaxis/mobility. <br>Proven efficacy preventing recurrences.                                                                                                            |
 | **Corticosteroids**           | E.g., Prednisone 0.2-0.5 mg/kg/day. <br>Associated with increased risk of disease recurrence, prolonged tapering, and corticosteroid-dependence. <br>Reserved for incomplete response, failure of first-line agents, or known autoimmune etiologies. |
-| **IL-1 Receptor Antagonists** | Anakinra, Rilonacept. <br>Highly effective in refractory, colchicine-resistant, or corticosteroid-dependent recurrent [[Cardiology/Pericarditis\|pericarditis]].                                                                                                                  |
+| **IL-1 Receptor Antagonists** | Anakinra, Rilonacept. <br>Highly effective in refractory, colchicine-resistant, or corticosteroid-dependent recurrent pericarditis.                                                                                                                  |
 
 #### Procedural and Lifestyle Management
 
@@ -114,32 +115,32 @@ Diagnosis requires presence of at least two of four criteria:
 
 ### Specific Subtypes
 
-#### Viral [[Cardiology/Pericarditis\|Pericarditis]]
+#### Viral Pericarditis
 
 - Self-limited disease. Mnemonic: Enteroviruses, Influenza, Herpesviruses, Adenovirus.
 - Treatment: Symptomatic management. NSAIDs + Colchicine. Corticosteroids generally contraindicated.
 
-#### Bacterial (Purulent) [[Cardiology/Pericarditis\|Pericarditis]]
+#### Bacterial (Purulent) Pericarditis
 
 - Severe, life-threatening. Fulminant course leading to tamponade.
 - Organisms: _Staphylococcus aureus_ (most common, ~50%), _H. influenzae_, _S. pneumoniae_.
 - Presentation: High fever, tachycardia out of proportion, hypotension, toxemia.
-- Management: Urgent pericardiocentesis/surgical drainage mandatory. Fibrinolysis (streptokinase) may prevent organization. Broad-spectrum IV antibiotics (penicillinase-resistant penicillin + 3rd-generation cephalosporin + Vancomycin for MRSA risk) for 3-4 weeks. High risk of subsequent constrictive [[Cardiology/Pericarditis\|pericarditis]].
+- Management: Urgent pericardiocentesis/surgical drainage mandatory. Fibrinolysis (streptokinase) may prevent organization. Broad-spectrum IV antibiotics (penicillinase-resistant penicillin + 3rd-generation cephalosporin + Vancomycin for MRSA risk) for 3-4 weeks. High risk of subsequent constrictive pericarditis.
 
-#### Tuberculous [[Cardiology/Pericarditis\|Pericarditis]]
+#### Tuberculous Pericarditis
 
 - Most common cause in developing nations. Subacute/insidious onset (fever, night sweats, weight loss).
 - Diagnosis: Serosanguinous/hemorrhagic fluid. Lymphocytic predominance. Elevated Adenosine Deaminase (ADA) level (30-60 U/L). Acid-fast bacilli on auramine-rhodamine stain.
-- Treatment: Multi-drug regimen. Rifampin, Isoniazid, Pyrazinamide, Ethambutol for 2 months. Followed by 4 months Isoniazid + Rifampin. High risk of constrictive [[Cardiology/Pericarditis\|pericarditis]] development.
+- Treatment: Multi-drug regimen. Rifampin, Isoniazid, Pyrazinamide, Ethambutol for 2 months. Followed by 4 months Isoniazid + Rifampin. High risk of constrictive pericarditis development.
 
 #### Post-Cardiac Injury Syndrome (PCIS)
 
-- Encompasses Post-pericardiotomy syndrome (PPS), Post-myocardial infarction (Dressler syndrome), post-traumatic [[Cardiology/Pericarditis\|pericarditis]].
+- Encompasses Post-pericardiotomy syndrome (PPS), Post-myocardial infarction (Dressler syndrome), post-traumatic pericarditis.
 - Pathophysiology: Autoimmune trigger from damaged pericardial/pleural tissues and exposed endogenous antigens.
 - Diagnosis: COPPS criteria (needs 2 of 5): Fever, pericardial/pleuritic pain, friction rub, pericardial effusion, pleural effusion with elevated CRP.
 - Treatment: NSAIDs + Colchicine for 4-6 weeks.
 
-## Constrictive [[Cardiology/Pericarditis\|Pericarditis]]
+## Constrictive Pericarditis
 
 ### Definition and Pathophysiology
 
@@ -195,15 +196,15 @@ Diagnosis requires presence of at least two of four criteria:
 - RV End-Diastolic Pressure > 1/3 of RV Systolic Pressure.
 - Right-to-left ventricle systolic area ratio > 1.1 during inspiration.
 
-### Differentiating Restrictive Cardiomyopathy vs. Constrictive [[Cardiology/Pericarditis\|Pericarditis]]
+### Differentiating Restrictive Cardiomyopathy vs. Constrictive Pericarditis
 
-|Feature|Restrictive Cardiomyopathy|Constrictive [[Cardiology/Pericarditis\|Pericarditis]]|
-|:--|:--|:--|
-|**Physical Exam**|Kussmaul sign may be present, prominent Point of Maximal Impulse (PMI).|Kussmaul sign present, absent PMI. Pericardial knock.|
-|**[[Misc/ECG\|ECG]]**|Low-voltage QRS unusual.|Low-voltage QRS common.|
-|**Echocardiography**|Marked atrial dilation. Reduced longitudinal strain. Septal e' <6 cm/s. Hepatic vein flow reversal on _inspiration_.|May be enlarged. Respirophasic septal shift. Septal e' >8 cm/s (Annulus reversus). Hepatic vein flow reversal on _expiration_.|
-|**MRI / CT**|Normal pericardium.|Thickened (>4 mm) or calcified pericardium.|
-|**[[Cardiology/Cardiac Catheterization\|Cardiac Catheterization]]**|LVEDP exceeds RVEDP by >4 mmHg. RVSP >50 mmHg. No respirophasic changes in wedge-LV gradient.|RVEDP = LVEDP. RVSP <50 mmHg. Dip-and-plateau (square root) sign.|
+| Feature                                                             | Restrictive Cardiomyopathy                                                                                           | Constrictive Pericarditis\|                                                                                                    |
+| :------------------------------------------------------------------ | :------------------------------------------------------------------------------------------------------------------- | :----------------------------------------------------------------------------------------------------------------------------- |
+| **Physical Exam**                                                   | Kussmaul sign may be present, prominent Point of Maximal Impulse (PMI).                                              | Kussmaul sign present, absent PMI. Pericardial knock.                                                                          |
+| **[[Misc/ECG\|ECG]]**                                               | Low-voltage QRS unusual.                                                                                             | Low-voltage QRS common.                                                                                                        |
+| **Echocardiography**                                                | Marked atrial dilation. Reduced longitudinal strain. Septal e' <6 cm/s. Hepatic vein flow reversal on _inspiration_. | May be enlarged. Respirophasic septal shift. Septal e' >8 cm/s (Annulus reversus). Hepatic vein flow reversal on _expiration_. |
+| **MRI / CT**                                                        | Normal pericardium.                                                                                                  | Thickened (>4 mm) or calcified pericardium.                                                                                    |
+| **[[Cardiology/Cardiac Catheterization\|Cardiac Catheterization]]** | LVEDP exceeds RVEDP by >4 mmHg. RVSP >50 mmHg. No respirophasic changes in wedge-LV gradient.                        | RVEDP = LVEDP. RVSP <50 mmHg. Dip-and-plateau (square root) sign.                                                              |
 
 ### Management
 

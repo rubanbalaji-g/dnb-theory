@@ -40,14 +40,14 @@
 - Autosomal recessive transmission accounts for 80 percent of childhood genetic cases.
 - Pathogenic variants of connexin-26 gene represent most frequent nonsyndromic etiology.
 
-|Genetic Inheritance|Syndromic Associations|Key Clinical Features|
-|---|---|---|
-|Autosomal Dominant|Waardenburg syndrome|Dystopia canthorum, heterochromic irises, white forelock.|
-|Autosomal Dominant|Branchiootorenal syndrome|Preauricular pits, branchial clefts, renal anomalies.|
-|Autosomal Recessive|Usher syndrome|Vestibular areflexia, progressive retinitis pigmentosa leading to blindness.|
-|Autosomal Recessive|[[Endocrinology/Pendred Syndrome\|Pendred syndrome]]|Vestibular aqueduct dilation, thyroid goiter.|
-|Autosomal Recessive|Jervell and Lange-Nielsen|Prolonged QT interval, risk of sudden cardiac death.|
-|Sex-Linked|[[Nephrology/Alport Syndrome\|Alport syndrome]]|Nephritis, microscopic hematuria, progressive hearing loss.|
+| Genetic Inheritance | Syndromic Associations                               | Key Clinical Features                                                        |
+| ------------------- | ---------------------------------------------------- | ---------------------------------------------------------------------------- |
+| Autosomal Dominant  | Waardenburg syndrome                                 | Dystopia canthorum, heterochromic irises, white forelock.                    |
+| Autosomal Dominant  | Branchiootorenal syndrome                            | Preauricular pits, branchial clefts, renal anomalies.                        |
+| Autosomal Recessive | Usher syndrome                                       | Vestibular areflexia, progressive retinitis pigmentosa leading to blindness. |
+| Autosomal Recessive | [[Endocrinology/Pendred Syndrome\|Pendred syndrome]] | Vestibular aqueduct dilation, thyroid goiter.                                |
+| Autosomal Recessive | Jervell and Lange-Nielsen                            | Prolonged QT interval, risk of sudden cardiac death.                         |
+| Sex-Linked          | [[Nephrology/Alport Syndrome\|Alport syndrome]]      | Nephritis, microscopic hematuria, progressive hearing loss.                  |
 
 ### Physical And Toxic Causes
 

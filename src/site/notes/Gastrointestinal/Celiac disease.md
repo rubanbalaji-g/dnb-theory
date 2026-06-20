@@ -11,7 +11,7 @@
 ## PATHOPHYSIOLOGY
 
 - **Environmental Trigger:** Gluten (found in wheat, rye, barley). Composed of gliadins and glutenins.
-- **Peptide Resistance:** High glutamine and proline content prevents complete enzymatic digestion in gastrointestinal tract.
+- **Peptide Resistance:** High <span style="color:rgb(255, 138, 117)">glutamine and proline</span> content prevents complete enzymatic digestion in gastrointestinal tract.
 - **Permeability:** Gliadin enhances paracellular permeability (zonulin-mediated pathway), crossing intestinal epithelium into lamina propria.
 - **Deamidation:** Tissue transglutaminase 2 (tTG) deamidates gliadin peptides.
 - **Antigen Presentation:** Deamidated peptides exhibit high affinity for HLA-DQ2 or HLA-DQ8 molecules on antigen-presenting dendritic cells.

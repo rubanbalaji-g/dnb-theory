@@ -79,7 +79,7 @@
 - Target optimal weight loss without intravascular volume depletion.
 - Spironolactone: Aldosterone antagonist, first-line agent. Dose 2-5 mg/kg/day.
 - Furosemide: Added for resistant ascites or to counteract spironolactone-induced hyperkalemia. Dose 0.5-2 mg/kg/day.
-- Optimal diuretic ratio: 5 (spironolactone) to 2 (furosemide).
+- **Optimal diuretic ratio: 5 (spironolactone) to 2 (furosemide)**.
 
 ### refractory ascites interventions
 

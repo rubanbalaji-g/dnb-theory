@@ -63,13 +63,13 @@
 
 ## Patterson Staging
 
-|Stage|Name|Clinical Features|Immunoglobulin E Level|Management|
-|:--|:--|:--|:--|:--|
-|I|Acute|Typical symptoms, infiltrates|Very High|Corticosteroids|
-|II|Remission|Asymptomatic, clear radiograph|Drops 35-50%|Observe|
-|III|Exacerbation|Recurrence of symptoms/infiltrates|Doubles|Resume Corticosteroids|
-|IV|Corticosteroid-Dependent|[[Respiratory/Asthma\|Asthma]] worsens on weaning|Persistently High|Corticosteroids + Antifungals|
-|V|Fibrotic|Irreversible fibrosis, respiratory failure|Variable|Supportive Care|
+| Stage | Name                     | Clinical Features                                 | Immunoglobulin E Level | Management                    |
+| :---- | :----------------------- | :------------------------------------------------ | :--------------------- | :---------------------------- |
+| I     | Acute                    | Typical symptoms, infiltrates                     | Very High              | Corticosteroids               |
+| II    | Remission                | Asymptomatic, clear radiograph                    | Drops 35-50%           | Observe                       |
+| III   | Exacerbation             | Recurrence of symptoms/infiltrates                | Doubles                | Resume Corticosteroids        |
+| IV    | Corticosteroid-Dependent | [[Respiratory/Asthma\|Asthma]] worsens on weaning | Persistently High      | Corticosteroids + Antifungals |
+| V     | Fibrotic                 | Irreversible fibrosis, respiratory failure        | Variable               | Supportive Care               |
 
 ## Management
 

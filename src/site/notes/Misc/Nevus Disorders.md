@@ -53,12 +53,12 @@
 
 - Hamartomatous lesions demonstrating hyperplasia of epidermis or adnexal structures.
 
-|Nevus Variant|Pathophysiology|Clinical Characteristics|
-|:--|:--|:--|
-|Epidermal Nevus|Epidermal hyperplasia.|Linear, verrucous, hyperpigmented plaques arranged along Blaschko lines.|
-|Nevus Sebaceus|Excessive sebaceous gland proliferation. Driven by Hras and Kras mutations.|Yellow-orange, hairless plaque on scalp or face. Develops rubbery nodules during puberty.|
-|Nevus Comedonicus|Malformed, dilated pilosebaceous follicles.|Linear plaques containing horny keratinous plugs simulating comedones.|
-|Becker Nevus|Increased basal melanocytes and epidermal hyperplasia.|Unilateral hyperpigmented patch developing localized hypertrichosis on upper torso.|
+| Nevus Variant     | Pathophysiology                                                             | Clinical Characteristics                                                                  |
+| :---------------- | :-------------------------------------------------------------------------- | :---------------------------------------------------------------------------------------- |
+| Epidermal Nevus   | Epidermal hyperplasia.                                                      | Linear, verrucous, hyperpigmented plaques arranged along Blaschko lines.                  |
+| Nevus Sebaceus    | Excessive sebaceous gland proliferation. Driven by HRAS and KRAS mutations. | Yellow-orange, hairless plaque on scalp or face. Develops rubbery nodules during puberty. |
+| Nevus Comedonicus | Malformed, dilated pilosebaceous follicles.                                 | Linear plaques containing horny keratinous plugs simulating comedones.                    |
+| Becker Nevus      | Increased basal melanocytes and epidermal hyperplasia.                      | Unilateral hyperpigmented patch developing localized hypertrichosis on upper torso.       |
 
 ## Distinct Clinical Nevus Variants
 

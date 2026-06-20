@@ -67,14 +67,14 @@
 - Total score <8 indicates mild/moderate disease.
 - Total score >=8 indicates severe disease.
 
-|Clinical Sign/Symptom|Assigned Points|
-|:--|:--|
-|Facial tenderness|3|
-|Severe headache (retro-orbital)|3|
-|Severe abnormal nasal discharge|2|
-|Fever >=38.5°C|2|
-|Cough|2|
-|Mild headache/Minimal discharge/Congestion|1 Each|
+| Clinical Sign/Symptom                      | Assigned Points |
+| :----------------------------------------- | :-------------- |
+| Facial tenderness                          | 3               |
+| Severe headache (retro-orbital)            | 3               |
+| Severe abnormal nasal discharge            | 2               |
+| Fever >=38.5°C                             | 2               |
+| Cough                                      | 2               |
+| Mild headache/Minimal discharge/Congestion | 1 Each          |
 
 ## Evaluation And Investigations
 

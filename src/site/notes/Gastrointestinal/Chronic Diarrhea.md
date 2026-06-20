@@ -6,7 +6,7 @@
 
 - **[[Gastrointestinal/Acute Diarrhea\|Acute diarrhea]]:** Episode lasts <14 days.
 - **Persistent diarrhea:** Presumed infectious etiology; starts acutely, persists ≥14 days.
-- **[[Gastrointestinal/Chronic Diarrhea\|Chronic diarrhea]]:** Insidious onset; duration >2 weeks in children. Defined quantitatively as stool volume >20 g/kg/day.
+- **Chronic diarrhea:** Insidious onset; duration >2 weeks in children. Defined quantitatively as stool volume >20 g/kg/day.
 
 ## Epidemiology And Global Burden
 

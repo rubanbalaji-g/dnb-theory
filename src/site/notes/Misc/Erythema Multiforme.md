@@ -8,10 +8,10 @@
 - Subdivided into two primary clinical subtypes.
 - Does not progress to Stevens-Johnson syndrome.
 
-|Subtype|Clinical Characteristics|Mucosal Involvement|
-|:--|:--|:--|
-|[[Misc/Erythema Multiforme\|Erythema Multiforme]] Minor|Affects < 10% body surface area.|Absent or limited (often single site like mouth).|
-|[[Misc/Erythema Multiforme\|Erythema Multiforme]] Major|Affects < 10% body surface area. Constitutional symptoms present.|Conspicuous involvement of $\ge$ 2 mucosal sites. Includes severe buccal erosions and hemorrhagic crusts of lips.|
+| Subtype                                                 | Clinical Characteristics                                          | Mucosal Involvement                                                                                               |
+| :------------------------------------------------------ | :---------------------------------------------------------------- | :---------------------------------------------------------------------------------------------------------------- |
+| [[Misc/Erythema Multiforme\|Erythema Multiforme]] Minor | Affects < 10% body surface area.                                  | Absent or limited (often single site like mouth).                                                                 |
+| [[Misc/Erythema Multiforme\|Erythema Multiforme]] Major | Affects < 10% body surface area. Constitutional symptoms present. | Conspicuous involvement of $\ge$ 2 mucosal sites. Includes severe buccal erosions and hemorrhagic crusts of lips. |
 
 ## Etiology And Pathogenesis
 

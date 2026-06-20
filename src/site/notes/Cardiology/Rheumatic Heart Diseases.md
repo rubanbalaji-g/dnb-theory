@@ -65,8 +65,6 @@
 - **Sydenham's Chorea:** Late manifestation (1-6 months post-infection). Semi-purposeful, jerky, involuntary movements. Emotional lability. Self-limiting course of 2-6 weeks.
 - **Subcutaneous Nodules:** Late manifestation. Painless, firm nodules over bony prominences (elbows, shins, occiput). Highly associated with severe carditis.
 - **Erythema Marginatum:** Early, rare. Faintly reddish, non-itching, serpiginous rash with pale centers. Predominantly on trunk.
-![Pasted image 20260412144702.png|250](/img/user/+%C4%B0mages/Pasted%20image%2020260412144702.png)
-Erythema Marginatum
 
 ### Cardiac Manifestations (Carditis & Chronic RHD)
 

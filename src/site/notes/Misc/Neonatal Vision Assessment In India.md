@@ -60,12 +60,12 @@
 
 ### Standardized Screening Criteria
 
-|Screening Category|Required Clinical Parameters|
-|:--|:--|
-|Mandatory evaluation|Birth weight under or equal to two thousand grams.|
-|Mandatory evaluation|Gestational age under or equal to thirty-four weeks.|
-|Discretionary high-risk|Birth weight between two thousand and two thousand five hundred grams combined with systemic risk factors.|
-|Discretionary high-risk|Gestational age between thirty-four and thirty-six weeks combined with systemic risk factors.|
+| Screening Category      | Required Clinical Parameters                                               |
+| :---------------------- | :------------------------------------------------------------------------- |
+| Mandatory evaluation    | Birth weight under or equal to two thousand grams.                         |
+| Mandatory evaluation    | Gestational age under or equal to thirty-four weeks.                       |
+| Discretionary high-risk | Birth weight between 2500 grams combined with systemic risk factors.       |
+| Discretionary high-risk | Gestational age between 34 - 36 weeks combined with systemic risk factors. |
 
 ### Systemic Risk Factors Mandating Expanded Screening
 

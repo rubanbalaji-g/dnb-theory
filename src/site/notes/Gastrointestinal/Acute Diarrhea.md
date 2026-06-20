@@ -4,7 +4,7 @@
 
 ## Definition And Classification
 
-- **[[Gastrointestinal/Acute Diarrhea\|Acute Diarrhea]]:** Passage of >3 loose/watery stools daily, or stool volume >10 mL/kg/day in infants (>200 g/day in older children).
+- **Acute Diarrhea:** Passage of >3 loose/watery stools daily, or stool volume >10 mL/kg/day in infants (>200 g/day in older children).
 - **Duration:** Sudden onset, resolution within 7-14 days.
 - **[[Gastrointestinal/Dysentery\|Dysentery]]:** Acute diarrhoea accompanied by visible blood and mucus, often with tenesmus and fever.
 - **Prolonged Diarrhoea:** Episode lasting 7-13 days.

@@ -62,11 +62,11 @@
 
 ## Genetic Classification
 
-| Disorder                                 | Genetic Defect                                       | Pathogenetic Mechanism                                                                                  |
-| :--------------------------------------- | :--------------------------------------------------- | :------------------------------------------------------------------------------------------------------ |
-| **Classic Hemochromatosis**\|            | _HFE_ gene variants (Cys282Tyr, His63Asn, Ser65Cys). | Reduces endocytic uptake of diferric transferrin by transferrin receptor-1 at basolateral membrane.     |
-| **Juvenile Hemochromatosis (Type 2B)**\| | Hepcidin gene mutations.                             | Primary hepcidin deficiency eliminates negative regulation of ferroportin, causing massive iron influx. |
-| **Hemochromatosis Type 4**\|             | Ferroportin 1 gene mutations.                        | Autosomal dominant defect in iron exporter function.                                                    |
+| Disorder                               | Genetic Defect                                       | Pathogenetic Mechanism                                                                                  |
+| :------------------------------------- | :--------------------------------------------------- | :------------------------------------------------------------------------------------------------------ |
+| **Classic Hemochromatosis**            | _HFE_ gene variants (Cys282Tyr, His63Asn, Ser65Cys). | Reduces endocytic uptake of diferric transferrin by transferrin receptor-1 at basolateral membrane.     |
+| **Juvenile Hemochromatosis (Type 2B)** | Hepcidin gene mutations.                             | Primary hepcidin deficiency eliminates negative regulation of ferroportin, causing massive iron influx. |
+| **Hemochromatosis Type 4**             | Ferroportin 1 gene mutations.                        | Autosomal dominant defect in iron exporter function.                                                    |
 
 ## Clinical Manifestations
 

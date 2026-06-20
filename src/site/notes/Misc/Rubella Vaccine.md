@@ -50,8 +50,8 @@
 
 ## Adverse Reactions
 
-- Mild rash develops in 5% of vaccinees.
-- Joint symptoms including arthralgia and arthritis occur 1 to 3 weeks post-vaccination.
+- **Mild rash** develops in 5% of vaccinees.
+- **Joint symptoms** including arthralgia and arthritis occur 1 to 3 weeks post-vaccination.
 - Joint symptoms predominantly affect susceptible post-pubertal females.
 - Immune thrombocytopenic purpura occurs at frequency of 1 per 30,000 vaccinations.
 - Chronic arthritis lasting less than 6 weeks constitutes notable serious adverse event.

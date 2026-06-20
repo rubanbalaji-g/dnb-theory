@@ -13,7 +13,7 @@
 ### Inactivated Influenza Vaccines
 
 - Comprise split-product vaccines produced from detergent-treated purified virus, or surface antigen subunit vaccines containing purified hemagglutinin and neuraminidase.
-- Quadrivalent vaccines contain two influenza A strains (H1n1 and H3n2) and two influenza B strains.
+- Quadrivalent vaccines contain two influenza A strains (H1N1 and H3N2) and two influenza B strains.
 - Administered via intramuscular route.
 - Demonstrate 63.2 percent efficacy against moderate-to-severe influenza in children 6 to 35 months of age.
 - Efficacy wanes over time, offering clinical protection for approximately 6 to 8 months.

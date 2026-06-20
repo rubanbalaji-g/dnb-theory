@@ -4,7 +4,7 @@
 
 Definitive therapy for end-stage liver disease, [[Gastrointestinal/Acute Liver Failure\|acute liver failure]], unresectable [[Hematology/Hepatic Tumors\|hepatic tumors]], and liver-based metabolic defects. Provides survival exceeding 90% in developed nations, transforming previously fatal conditions into manageable chronic states.
 
-## Indications for [[Gastrointestinal/Liver Transplantation\|Liver Transplantation]]
+## Indications for Liver Transplantation
 
 |Category|Specific Conditions|
 |:--|:--|
@@ -36,12 +36,12 @@ Allocation systems prioritize medical urgency to reduce waitlist mortality.
 
 Overcomes pediatric donor shortage utilizing anatomical segmental divisions.
 
-- **Whole [[Gastrointestinal/Liver Transplantation\|Liver Transplantation]]:** Orthotopic replacement replacing native liver with size-matched deceased donor organ.
+- **Whole Liver Transplantation:** Orthotopic replacement replacing native liver with size-matched deceased donor organ.
 - **Split/Reduced-Size Grafts:** Deceased adult liver divided. Left lateral segment (segments 2, 3) typically utilized for infants.
-- **Living Donor [[Gastrointestinal/Liver Transplantation\|Liver Transplantation]] (LDLT):** Healthy relative donates hepatic segment (left lateral segment commonly). Offers elective scheduling, excellent quality graft, minimal cold ischemia.
-- **Auxiliary [[Gastrointestinal/Liver Transplantation\|Liver Transplantation]]:** Native liver retained, partial donor graft implanted orthotopically or heterotopically.
-- Functions as temporary bridge in ALF, facilitating native liver regeneration and subsequent immunosuppression withdrawal.
-- Provides deficient enzymes in non-cirrhotic metabolic defects (e.g., Crigler-Najjar syndrome).
+- **Living Donor Liver Transplantation (LDLT):** Healthy relative donates hepatic segment (left lateral segment commonly). Offers elective scheduling, excellent quality graft, minimal cold ischemia.
+- **Auxiliary Liver Transplantation:** Native liver retained, partial donor graft implanted orthotopically or heterotopically.
+	- Functions as temporary bridge in ALF, facilitating native liver regeneration and subsequent immunosuppression withdrawal.
+	- Provides deficient enzymes in non-cirrhotic metabolic defects (e.g., Crigler-Najjar syndrome).
 
 ## Post-Transplant Complications and Management
 

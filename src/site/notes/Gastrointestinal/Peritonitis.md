@@ -8,7 +8,7 @@
 - Etiologies include infectious, autoimmune, neoplastic, or chemical processes.
 - Classified into primary (spontaneous), secondary, and tertiary forms.
 
-## Acute Primary [[Gastrointestinal/Peritonitis\|Peritonitis]]
+## Acute Primary Peritonitis
 
 ### Pathophysiology & Etiology
 
@@ -27,7 +27,7 @@
 - Rebound tenderness, abdominal rigidity, hypoactive or absent bowel sounds.
 - Signs may be subtle in cirrhotic patients; suspect in cases of unexplained leukocytosis, azotemia, or metabolic acidosis.
 
-## Acute Secondary [[Gastrointestinal/Peritonitis\|Peritonitis]]
+## Acute Secondary Peritonitis
 
 ### Pathophysiology & Etiology
 
@@ -50,16 +50,16 @@
 
 ### Comparative Evaluation & Treatment
 
-|Feature|Acute Primary [[Gastrointestinal/Peritonitis\|Peritonitis]]|Acute Secondary [[Gastrointestinal/Peritonitis\|Peritonitis]]|
-|:--|:--|:--|
-|**Diagnostic Imaging**|Dilated intestines, bowel wall thickening, increased loop separation.|Free air in peritoneal cavity, obliteration of psoas shadow, ileus.|
-|**Laboratory Findings**|Peripheral leukocytosis with polymorphonuclear (PMN) predominance.|Peripheral WBC count >12,000 cells/mm³ with marked PMN predominance.|
-|**Ascitic Fluid Analysis**|WBC count >250 cells/mm³, >50% PMNs.|Elevated total protein (>1 g/dL), low glucose (<50 mg/dL).|
-|**Microbiology**|Monomicrobial.|Polymicrobial (mixed bacterial flora).|
-|**Medical Management**|Broad-spectrum parenteral antibiotics (cefotaxime or ceftriaxone) for 5-10 days.|Aggressive fluid resuscitation, cardiovascular support, broad-spectrum antibiotics (ampicillin + gentamicin + clindamycin/metronidazole, or piperacillin/tazobactam).|
-|**Surgical Management**|Not indicated. Diagnosed via paracentesis, CT, or laparoscopy.|Surgical emergency. Requires exploration, lavage, and repair of perforated viscus post-stabilization.|
+| Feature                    | Acute Primary Peritonitis\|                                                      | Acute Secondary Peritonitis\|                                                                                                                                         |
+| :------------------------- | :------------------------------------------------------------------------------- | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Diagnostic Imaging**     | Dilated intestines, bowel wall thickening, increased loop separation.            | Free air in peritoneal cavity, obliteration of psoas shadow, ileus.                                                                                                   |
+| **Laboratory Findings**    | Peripheral leukocytosis with polymorphonuclear (PMN) predominance.               | Peripheral WBC count >12,000 cells/mm³ with marked PMN predominance.                                                                                                  |
+| **Ascitic Fluid Analysis** | WBC count >250 cells/mm³, >50% PMNs.                                             | Elevated total protein (>1 g/dL), low glucose (<50 mg/dL).                                                                                                            |
+| **Microbiology**           | Monomicrobial.                                                                   | Polymicrobial (mixed bacterial flora).                                                                                                                                |
+| **Medical Management**     | Broad-spectrum parenteral antibiotics (cefotaxime or ceftriaxone) for 5-10 days. | Aggressive fluid resuscitation, cardiovascular support, broad-spectrum antibiotics (ampicillin + gentamicin + clindamycin/metronidazole, or piperacillin/tazobactam). |
+| **Surgical Management**    | Not indicated. Diagnosed via paracentesis, CT, or laparoscopy.                   | Surgical emergency. Requires exploration, lavage, and repair of perforated viscus post-stabilization.                                                                 |
 
-## Acute Secondary Localized [[Gastrointestinal/Peritonitis\|Peritonitis]] (Peritoneal Abscess)
+## Acute Secondary Localized Peritonitis (Peritoneal Abscess)
 
 ### Pathophysiology & Clinical Features
 

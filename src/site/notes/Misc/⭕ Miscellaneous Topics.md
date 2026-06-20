@@ -15,6 +15,7 @@
 10. [[neonatalogy/Retinopathy of prematurity\|Retinopathy of prematurity]]
 11. [[Misc/Proptosis\|Proptosis]]
 12. [[Misc/Neonatal Vision Assessment In India\|Neonatal Vision Assessment In India]]
+13. [[Misc/Optic Neuritis\|Optic Neuritis]]
 ## Ear
 1. [[Misc/Childhood Deafness And Hearing Loss\|Childhood Deafness And Hearing Loss]]
 2. [[Misc/Hearing Assessment In Children\|Hearing Assessment In Children]]
@@ -29,7 +30,7 @@
 4. [[Misc/Bullous Lesions In Children And Newborns\|Bullous Lesions In Children And Newborns]]
 5. [[Misc/Maculopapular Lesions In Children and Newborns\|Maculopapular Lesions In Children and Newborns]]
 6. [[Misc/Petechial And Purpuric Rashes In Children And Newborns\|Petechial And Purpuric Rashes In Children And Newborns]]
-7. [[Misc/Hair Growth Cycle And Disorders Of Hair In Children\|Trichotillomania]]
+7. [[Misc/Hair Growth Cycle And Disorders Of Hair In Children\|Hair Growth Cycle And Disorders Of Hair In Children]]
 8. [[Misc/Ectodermal Dysplasias\|Ectodermal Dysplasias]]
 9. [[Misc/Scabies\|Scabies]]
 10. [[Misc/Acne Vulgaris In Adolescence\|Acne Vulgaris In Adolescence]]
@@ -39,6 +40,7 @@
 14. [[Misc/Nevus Disorders\|Nevus Disorders]]
 15. [[Misc/Hypopigmented lesions in Children\|Hypopigmented lesions in Children]]
 16. [[Misc/Fungal Skin Infections in children\|Fungal Skin Infections in children]]
+17. [[Misc/Atopic Dermatitis\|Atopic Dermatitis]]
 ## Vaccines
 1. [[Misc/Cold Chain\|Cold Chain]]
 2. [[Misc/Vaccine Vial Monitor\|Vaccine Vial Monitor]]

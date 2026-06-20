@@ -76,7 +76,14 @@
 - Severe obstruction can eliminate airflow turbulence.
 - A lack of audible wheezing (silent chest) combined with severe respiratory distress indicates extremely severe disease.
 
-## Disease Severity Grading
+## Disease Severity Grading (modified Tal staging)
+
+| Score* | Respiratory Rate (<6 months) | Respiratory Rate ($\ge$ 6 months) | Wheezing/crackles | Pulse oximetry in room air (%)† | Use of accessory muscles |
+| :---: | :--- | :--- | :--- | :--- | :--- |
+| **0** | $\le$ 40 | $\le$ 30 | None | $\ge$ 95 | None |
+| **1** | 41 - 55 | 31 - 45 | Expiration only | 92 - 94 | Mild intercostal recessions |
+| **2** | 56 - 70 | 46 - 60 | Expiration and inspiration with stethoscope | 90 - 91 | Moderate intercostal recessions |
+| **3** | >70 | >60 | Expiration and inspiration without stethoscope | $\le$ 89 | Marked intercostal recessions, tracheal tug or head bobbing |
 
 |Severity|Feeding|Respiratory Distress|Oxygen Saturation|
 |---|---|---|---|

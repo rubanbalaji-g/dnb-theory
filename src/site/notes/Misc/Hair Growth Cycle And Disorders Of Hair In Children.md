@@ -16,10 +16,10 @@
 ### Segments Of The Hair Follicle
 
 - The hair follicle divides anatomically into four distinct segments.
-- The infundibulum extends from the skin surface to the opening of the sebaceous duct.
-- The isthmus extends from the sebaceous duct opening downward to the bulge.
-- The lower follicle spans the region between the bulge and the hair bulb.
-- The hair bulb contains specialized matrix cells and the dermal papilla.
+	- The infundibulum extends from the skin surface to the opening of the sebaceous duct.
+	- The isthmus extends from the sebaceous duct opening downward to the bulge.
+	- The lower follicle spans the region between the bulge and the hair bulb.
+	- The hair bulb contains specialized matrix cells and the dermal papilla.
 - Matrix cells and dermal papillae function directly in the formation and maintenance of hair.
 - The bulge locates precisely at the insertion point of the arrector pili muscle.
 - The bulge serves as a critical focus of epidermal stem cells.

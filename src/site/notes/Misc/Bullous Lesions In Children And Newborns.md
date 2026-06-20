@@ -26,10 +26,10 @@
 
 |Subtype|Pathophysiology And Cleavage Plane|Clinical Manifestations And Complications|
 |:--|:--|:--|
-|Epidermolysis Bullosa Simplex|Defect involves keratin 5 or 14 causing cytolysis of basal cells. Intraepidermal cleavage plane,.|Localized variant affects hands and feet predominantly upon walking. Severe variant features grouped herpes-like blisters, nail shedding, and milia formation. Generally heals with minimal to absolutely no scarring.|
-|Junctional Epidermolysis Bullosa|Defect involves laminin 332 or type XVII collagen. Subepidermal cleavage occurs at lamina lucida,.|Severe variant (Herlitz) presents with extensive perioral granulation tissue, anonychia, and rampant dental caries,. Carries high mortality risk secondary to septicemia and severe cachexia.|
-|Dystrophic Epidermolysis Bullosa|Defect directly targets type VII collagen within anchoring fibrils. Subepidermal cleavage occurs at sublamina densa,.|Severe recessive variant features widespread blistering, severe mucosal ulceration, and mitten-hand deformity (pseudosyndactyly),. Heals with profound scarring and carries high predisposition to cutaneous squamous cell carcinoma.|
-|Kindler Syndrome|Pathogenic variant in KIND1 gene encoding kindlin-1 protein. Exhibits multiple cleavage planes.|Features predominant acral blister formation, profound photosensitivity, nail dystrophy, and progressive poikiloderma,,.|
+|Epidermolysis Bullosa Simplex|Defect involves keratin 5 or 14 causing cytolysis of basal cells. Intraepidermal cleavage plane.|Localized variant affects hands and feet predominantly upon walking. Severe variant features grouped herpes-like blisters, nail shedding, and milia formation. Generally heals with minimal to absolutely no scarring.|
+|Junctional Epidermolysis Bullosa|Defect involves laminin 332 or type XVII collagen. Subepidermal cleavage occurs at lamina lucida.|Severe variant (Herlitz) presents with extensive perioral granulation tissue, anonychia, and rampant dental caries.Carries high mortality risk secondary to septicemia and severe cachexia.|
+|Dystrophic Epidermolysis Bullosa|Defect directly targets type VII collagen within anchoring fibrils. Subepidermal cleavage occurs at sublamina densa.|Severe recessive variant features widespread blistering, severe mucosal ulceration, and mitten-hand deformity (pseudosyndactyly).Heals with profound scarring and carries high predisposition to cutaneous squamous cell carcinoma.|
+|Kindler Syndrome|Pathogenic variant in KIND1 gene encoding kindlin-1 protein. Exhibits multiple cleavage planes.|Features predominant acral blister formation, profound photosensitivity, nail dystrophy, and progressive poikiloderma.|
 
 ### Management Of Epidermolysis Bullosa
 
@@ -40,11 +40,11 @@
 
 ## Autoimmune Blistering Disorders
 
-|Disorder Entity|Pathophysiology And Immunology|Clinical Features And Targeted Therapy|
-|:--|:--|:--|
-|Pemphigus Vulgaris|Autoimmune disease driven by immunoglobulin G autoantibodies targeting desmoglein 3 and 1 within desmosomes. Suprabasal intraepidermal cleavage,.|Initially presents as recalcitrant, painful oral ulcers. Erupts as large flaccid bullae on nonerythematous skin with positive Nikolsky sign. Heals without scarring but leaves hyperpigmentation. Managed aggressively with systemic methylprednisolone.|
-|Bullous Pemphigoid|Autoantibodies target 180-kDa (type XVII collagen) or 230-kDa hemidesmosome antigens. Subepidermal blister cleavage.|Tense bullae arise in successive crops on normal, erythematous, eczematous, or urticarial bases. Favors flexural limb aspects, axillae, groin, and central abdomen. Suppressed efficiently with super-potent topical corticosteroids or systemic steroids.|
-|Linear Immunoglobulin A Dermatosis|Most common pediatric autoimmune blistering disorder. Immunoglobulin A antibodies target LABD97 and LAD-1 (BP180 degradation proteins). Subepidermal cleavage,.|Peak incidence noted in preschool years. Tense, sausage-shaped bullae arrange in annular or rosette-like "string of pearls" pattern. Predilection for genitals, buttocks, perioral region, and scalp. Responds highly favorably to oral dapsone therapy.|
+| Disorder Entity                    | Pathophysiology And Immunology                                                                                                                                 | Clinical Features And Targeted Therapy                                                                                                                                                                                                                       |
+| :--------------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------- | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Pemphigus Vulgaris                 | Autoimmune disease driven by immunoglobulin G autoantibodies targeting desmoglein 3 and 1 within desmosomes. Suprabasal intraepidermal cleavage.               | Initially presents as recalcitrant, painful oral ulcers. Erupts as large flaccid bullae on nonerythematous skin with **positive Nikolsky sign**. Heals without scarring but leaves hyperpigmentation. Managed aggressively with systemic methylprednisolone. |
+| Bullous Pemphigoid                 | Autoantibodies target 180-kDa (type XVII collagen) or 230-kDa hemidesmosome antigens. Subepidermal blister cleavage.                                           | Tense bullae arise in successive crops on normal, erythematous, eczematous, or urticarial bases. Favors flexural limb aspects, axillae, groin, and central abdomen. Suppressed efficiently with super-potent topical corticosteroids or systemic steroids.   |
+| Linear Immunoglobulin A Dermatosis | Most common pediatric autoimmune blistering disorder. Immunoglobulin A antibodies target LABD97 and LAD-1 (BP180 degradation proteins). Subepidermal cleavage. | Peak incidence noted in preschool years. Tense, sausage-shaped bullae arrange in annular or rosette-like "string of pearls" pattern. Predilection for genitals, buttocks, perioral region, and scalp. Responds highly favorably to oral dapsone therapy.     |
 
 ## Infectious Bullous Dermatoses
 
@@ -62,9 +62,9 @@
 - Toxic Epidermal Necrolysis defined strictly by affected body surface area > 30%.
 - Precipitated predominantly by sulfonamides, nonsteroidal anti-inflammatory agents, specific antibiotics, and anticonvulsants.
 - Pathogenesis involves drug-specific CD8+ cytotoxic T cells triggering massive keratinocyte apoptosis utilizing perforin and granzyme B.
-- Erythematous macules rapidly develop central necrosis evolving into atypical target lesions, vesicles, bullae, and extensive epidermal denudation,.
+- Erythematous macules rapidly develop central necrosis evolving into atypical target lesions, vesicles, bullae, and extensive epidermal denudation.
 - Severe mucosal ulcerations systematically involve two or more distinct anatomical sites.
-- Positive Nikolsky sign universally documented in affected regions,.
+- Positive Nikolsky sign universally documented in affected regions.
 - Therapeutic management mandates immediate cessation of the offending medication and intensive specialized burn unit care.
 - Biologic or colloid gel dressings critically alleviate pain and reduce insensible fluid loss.
 
@@ -79,6 +79,6 @@
 |Pemphigus Vulgaris|Suprabasal (Intraepidermal).|Direct and indirect immunofluorescence mapping. Tzanck smear.|
 |Epidermolysis Bullosa Simplex|Intraepidermal.|Advanced electron microscopy. Immunofluorescence mapping. Targeted genetic testing.|
 |Junctional Epidermolysis Bullosa|Subepidermal (Lamina lucida).|Electron microscopy. Immunofluorescence mapping. Genetic testing.|
-|Dystrophic Epidermolysis Bullosa|Subepidermal (Sublamina densa),.|Electron microscopy. Immunofluorescence mapping. Genetic testing.|
-|Linear Immunoglobulin A Dermatosis|Subepidermal.|Direct immunofluorescence demonstrating linear Immunoglobulin A deposition at dermoepidermal junction,.|
+|Dystrophic Epidermolysis Bullosa|Subepidermal (Sublamina densa).|Electron microscopy. Immunofluorescence mapping. Genetic testing.|
+|Linear Immunoglobulin A Dermatosis|Subepidermal.|Direct immunofluorescence demonstrating linear Immunoglobulin A deposition at dermoepidermal junction.|
 |Bullous Pemphigoid|Subepidermal.|Direct and indirect immunofluorescence. Routine skin histopathology.|

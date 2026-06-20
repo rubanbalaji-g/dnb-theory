@@ -4,7 +4,7 @@
 
 ## Types Of Pertussis Vaccines
 
-### Whole-Cell [[Misc/Pertussis Vaccine\|Pertussis Vaccine]]
+### Whole-Cell Pertussis Vaccine
 
 - Contains killed _Bordetella pertussis_ bacilli.
 - Adsorbed on insoluble aluminum salts acting as adjuvants.
@@ -13,7 +13,7 @@
 - Associated with longer-lasting immunity and documented herd effect.
 - Immunity wanes over 6-12 years requiring periodic boosters.
 
-### Acellular [[Misc/Pertussis Vaccine\|Pertussis Vaccine]]
+### Acellular Pertussis Vaccine
 
 - Developed primarily due to reactogenicity concerns of whole-cell preparations.
 - Formulated with purified antigens including inactivated pertussis toxin, filamentous hemagglutinin, pertactin, and fimbriae.
@@ -51,7 +51,7 @@
 ### Adverse Effects
 
 - Minor reactions include local pain, swelling, redness, fever, and fussiness.
-- Serious events include hyperpyrexia, persistent crying, hypotonic-hyporesponsive episodes, and seizures.
+- Serious events include **hyperpyrexia, persistent crying, hypotonic-hyporesponsive episodes, and seizures.**
 - Incidence of systemic reactions decreases with subsequent doses.
 - Incidence of local reactions increases with subsequent doses.
 

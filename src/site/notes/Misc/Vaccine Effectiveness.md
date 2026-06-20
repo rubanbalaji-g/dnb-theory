@@ -20,12 +20,12 @@
 
 ## Efficacy Versus Effectiveness
 
-|Feature|Vaccine Efficacy|[[Misc/Vaccine Effectiveness\|Vaccine Effectiveness]]|
-|:--|:--|:--|
-|Core Concept|Ability to protect an individual.|Ability to protect community or population.|
-|Evaluation Setting|Clinical trials, cohort studies, case-control studies.|Real-world immunization programs.|
-|Value Comparison|Generally higher.|Usually lower than efficacy, potentially augmented by herd effect.|
-|Measurement|VE = [(Rate in Unvaccinated - Rate in Vaccinated) / Rate in Unvaccinated] x 100.|Disease rates, odds ratio of disease, seroprevalence studies.|
+| Feature            | Vaccine Efficacy                                                                                                                                 | [[Misc/Vaccine Effectiveness\|Vaccine Effectiveness]]              |
+| :----------------- | :----------------------------------------------------------------------------------------------------------------------------------------------- | :----------------------------------------------------------------- |
+| Core Concept       | Ability to protect an individual.                                                                                                                | Ability to protect community or population.                        |
+| Evaluation Setting | Clinical trials, cohort studies, case-control studies.                                                                                           | Real-world immunization programs.                                  |
+| Value Comparison   | Generally higher.                                                                                                                                | Usually lower than efficacy, potentially augmented by herd effect. |
+| Measurement        | $$VE = \left( \frac{\text{Rate}_{\text{unvaccinated}} - \text{Rate}_{\text{vaccinated}}}{\text{Rate}_{\text{unvaccinated}}} \right) \times 100$$ | Disease rates, odds ratio of disease, seroprevalence studies.      |
 
 ## Measurement Metrics
 

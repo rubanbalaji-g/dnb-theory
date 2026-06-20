@@ -8,7 +8,7 @@
 - Smallest known animal virus (36-nm diameter).
 - Requires concurrent [[Gastrointestinal/Hepatitis B\|hepatitis B]] virus (HBV) infection for replication and infection.
 - Outer viral coat composed of excess [[Gastrointestinal/Hepatitis B\|hepatitis B]] surface antigen (HBsAg).
-- Inner core expresses specific [[Gastrointestinal/Hepatitis D\|hepatitis D]] virus (HDV) antigen.
+- Inner core expresses specific hepatitis D virus (HDV) antigen.
 - Induces direct cytopathic injury to hepatocytes.
 - Associated with severe liver damage.
 

@@ -15,7 +15,7 @@
 ### RTS,S/AS01 Vaccine
 
 - First vaccine recommended for human parasitic disease by World Health Organization.
-- Recombinant fusion protein based on repeat sequence of circumsporozoite protein antigen.
+- **Recombinant fusion protein** based on repeat sequence of circumsporozoite protein antigen.
 - Expressed on surface of _P. falciparum_ sporozoites.
 - Contains S antigen derived from [[Gastrointestinal/Hepatitis B\|hepatitis B]] surface antigen.
 - Utilizes proprietary AS01 liquid adjuvant.

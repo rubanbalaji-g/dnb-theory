@@ -4,7 +4,7 @@
 
 ## DEFINITION & PATHOPHYSIOLOGY
 
-- **[[Gastrointestinal/Hematemesis\|Hematemesis]]:** Expulsion of blood in vomitus.
+- **Hematemesis:** Expulsion of blood in vomitus.
 - **Source:** Indicates upper gastrointestinal (UGI) bleeding proximal to ligament of Treitz (duodenojejunal flexure).
 - **Appearance:** Bright red or "coffee-ground".
 - **Mechanism of Coffee-Ground:** Degradation of heme by gastric acid signifies prolonged contact with gastric secretions.

@@ -89,7 +89,7 @@
 - The condition features myocardial disarray, subendocardial fibrosis, and interstitial fibrosis.
 - The interventricular septum frequently bulges into the left ventricle, causing disproportionate hypertrophy.
 - Left Ventricular Outflow Tract (LVOT) obstruction occurs in about 25% of patients.
-- Systolic anterior motion (SAM) of the anterior mitral valve leaflet contributes to the dynamic outflow obstruction during systole.
+- **Systolic anterior motion (SAM) of the anterior mitral valve leaflet contributes to the dynamic outflow obstruction during systole.**
 - Cellular disarray and fibrosis lead to impaired relaxation and significant diastolic dysfunction.
 
 ### Clinical Presentation

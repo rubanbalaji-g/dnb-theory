@@ -33,10 +33,10 @@
 
 ### Allergic Variants
 
-- Rhus Dermatitis: Caused by urushiol allergen in poison ivy, sumac, or oak. Manifests as linear streaks of vesicles where plant brushed against skin. Black spot variant presents as discrete black lacquer-like glossy papules due to urushiol oxidation.
-- Nickel Dermatitis: Triggered by jewelry or metal closures on clothing. Typically presents as periumbilical or earlobe dermatitis.
-- Shoe Dermatitis: Reaction to antioxidants, rubber accelerators, adhesives, or chromium salts leached by sweat. Involves dorsum or soles of feet while sparing interdigital spaces symmetrically.
-- Cosmetic And Medication Dermatitis: Common offenders include neomycin, topical antihistamines, chemical sunscreens containing oxybenzone, and methylisothiazolinone found in wet wipes and homemade slime.
+- **Rhus Dermatitis**: Caused by urushiol allergen in poison ivy, sumac, or oak. Manifests as linear streaks of vesicles where plant brushed against skin. Black spot variant presents as discrete black lacquer-like glossy papules due to urushiol oxidation.
+- **Nickel Dermatitis**: Triggered by jewelry or metal closures on clothing. Typically presents as periumbilical or earlobe dermatitis.
+- **Shoe Dermatitis**: Reaction to antioxidants, rubber accelerators, adhesives, or chromium salts leached by sweat. Involves dorsum or soles of feet while sparing interdigital spaces symmetrically.
+- **Cosmetic And Medication Dermatitis**: Common offenders include neomycin, topical antihistamines, chemical sunscreens containing oxybenzone, and methylisothiazolinone found in wet wipes and homemade slime.
 
 ## Diagnosis And Management
 

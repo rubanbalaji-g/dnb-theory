@@ -68,7 +68,7 @@
 - Educate parents and child regarding brain-gut axis and visceral hyperalgesia concepts.
 - Reassure regarding benign, non-progressive nature of ailment.
 - Normalize lifestyle; discourage school absenteeism; minimize excessive parental attention to pain behavior.
-- Implement cognitive behavioral therapy, gut-directed hypnotherapy, or guided imagery to enhance coping mechanisms.
+- Implement cognitive behavioral therapy, **gut-directed hypnotherapy,** or guided imagery to enhance coping mechanisms.
 
 ### Dietary Modifications
 

@@ -5,7 +5,7 @@
 ## Definition And Epidemiology
 
 - **Esophageal Atresia (EA):** Lack of communication between proximal and distal esophagus.
-- **[[Gastrointestinal/Tracheoesophageal Fistula\|Tracheoesophageal Fistula]] (TEF):** Abnormal communication between trachea and esophagus.
+- **Tracheoesophageal Fistula (TEF):** Abnormal communication between trachea and esophagus.
 - **Incidence:** Occurs in 1 in 2440 to 5000 live births, with a slight male and preterm infant predominance.
 
 ## Embryology And Pathophysiology
@@ -17,13 +17,13 @@
 
 ## Classification
 
-|Type (Gross/Vogt)|Anatomical Description|Frequency|Radiographic Finding|
-|---|---|---|---|
-|**Type A (Type 2)**|Pure EA (isolated); "long gap"; no fistula.|7-8%|Gasless, scaphoid abdomen.|
-|**Type B (Type 3A)**|EA with proximal TEF.|1-2%|Gasless abdomen.|
-|**Type C (Type 3B)**|EA with distal TEF (most common).|85-88.8%|Gastric air present on radiograph.|
-|**Type D (Type 3C)**|EA with both proximal and distal TEF.|1-2.8%|Gastric air present on radiograph.|
-|**Type E (Type H)**|H-type TEF (fistula without EA).|4-4.2%|Gastric air present on radiograph.|
+| Type (Gross/Vogt)    | Anatomical Description                      | Frequency | Radiographic Finding               |
+| -------------------- | ------------------------------------------- | --------- | ---------------------------------- |
+| **Type A (Type 2)**  | Pure EA (isolated); "long gap"; no fistula. | 7-8%      | Gasless, scaphoid abdomen.         |
+| **Type B (Type 3A)** | EA with proximal TEF.                       | 1-2%      | Gasless abdomen.                   |
+| **Type C (Type 3B)** | EA with distal TEF (most common).           | 85-88.8%  | Gastric air present on radiograph. |
+| **Type D (Type 3C)** | EA with both proximal and distal TEF.       | 1-2.8%    | Gastric air present on radiograph. |
+| **Type E (Type H)**  | H-type TEF (fistula without EA).            | 4-4.2%    | Gastric air present on radiograph. |
 <img src="https://i.ibb.co/1fv52KB9/Esophageal-Atresia-and-Tracheoesophageal-Fistula-figure-1-g149ux-e1675290738234.png" style="background-color: white;">
 ## Clinical Presentation
 
@@ -42,12 +42,12 @@
 
 Anomalies are present in up to 50% of infants with EA/TEF.
 
-| Category                | Specific Associations                                                                                                        |
-| ----------------------- | ---------------------------------------------------------------------------------------------------------------------------- |
-| **VACTERL Association** | Vertebral, Anorectal, Cardiac, Tracheal, Esophageal, Renal, and Limb anomalies (present in 15% of cases).                    |
+| Category                | Specific Associations                                                                                                                                        |
+| ----------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| **VACTERL Association** | Vertebral, Anorectal, Cardiac, Tracheal, Esophageal, Renal, and Limb anomalies (present in 15% of cases).                                                    |
 | **Cardiac Anomalies**   | Most common association (30-32%); includes ventricular septal defect, patent ductus arteriosus, and [[Cardiology/Tetralogy of Fallot\|tetralogy of Fallot]]. |
-| **Other Systems**       | Vertebral anomalies (24%), imperforate anus (10%).                                                                           |
-| **Syndromic**           | CHARGE syndrome, Feingold syndrome, Trisomy 18, and Trisomy 21.                                                              |
+| **Other Systems**       | Vertebral anomalies (24%), imperforate anus (10%).                                                                                                           |
+| **Syndromic**           | CHARGE syndrome, Feingold syndrome, Trisomy 18, and Trisomy 21.                                                                                              |
 
 ## Diagnostic Evaluation
 

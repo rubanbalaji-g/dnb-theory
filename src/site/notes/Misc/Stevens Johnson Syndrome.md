@@ -45,7 +45,7 @@
 - Papules absent, distinguishing from typical [[Misc/Erythema Multiforme\|Erythema Multiforme]].
 - Central necrosis develops rapidly, evolving into atypical target lesions, vesicles, and bullae.
 - Process results in large areas of epidermal denudation.
-- Positive Nikolsky sign characterized by skin denudation with gentle tangential pressure.
+- **Positive Nikolsky sign** characterized by skin denudation with gentle tangential pressure.
 - Skin tenderness minimal to absent, distinguishing clinically from Toxic Epidermal Necrolysis.
 
 ### Mucosal Involvement
@@ -90,8 +90,8 @@
 ### Systemic Therapy
 
 - Systemic immunosuppressive therapy remains controversial but frequently utilized to arrest progression.
-- Intravenous immunoglobulin at 1.5 to 2.0 grams/kilogram/day for 3 days considered in early disease.
-- Cyclosporine administered at 3 milligrams/kilogram/day divided twice daily shows rapid efficacy.
+- **Intravenous immunoglobulin** at 1.5 to 2.0 grams/kilogram/day for 3 days considered in early disease.
+- **Cyclosporine** administered at 3 milligrams/kilogram/day divided twice daily shows rapid efficacy.
 - Anti-Tumor Necrosis Factor agents include Infliximab (5 milligrams/kilogram single dose) or Etanercept.
 - Prophylactic systemic antibiotics strictly not recommended.
 - Systemic antibiotics indicated solely for documented infection or suspected bacteremia (Staphylococcus aureus, Pseudomonas aeruginosa).

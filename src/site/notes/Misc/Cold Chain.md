@@ -30,7 +30,7 @@
 |Measles, MR, MMR|Sensitive to heat and light|Not damaged by freezing|+2°C to +8°C|
 |DPT, DT, Td, Hep B|Relatively heat-stable|Damaged by freezing|+2°C to +8°C|
 
-## [[Misc/Cold Chain\|Cold Chain]] Equipment
+## Cold Chain Equipment
 
 ### Electrical Equipment
 

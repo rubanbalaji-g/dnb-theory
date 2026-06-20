@@ -27,7 +27,7 @@
 
 ### Neurotoxins And Altered Neurotransmitters
 
-- Decreased Fischer ratio (branched-chain amino acids to aromatic amino acids).
+- **Decreased Fischer ratio (branched-chain amino acids to aromatic amino acids).**
 - Aromatic amino acids (phenylalanine, tyrosine, tryptophan) cross blood-brain barrier.
 - Promotes synthesis of false neurotransmitters (octopamine, synephrine).
 - Short-chain fatty acids (propionate, butyrate) competitively inhibit urea cycle enzymes.

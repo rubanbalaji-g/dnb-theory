@@ -4,7 +4,7 @@
 
 ## Etiopathogenesis And Classification
 
-### Pyogenic [[Gastrointestinal/Liver Abscess\|Liver Abscess]]
+### Pyogenic Liver Abscess
 
 - Uncommon in healthy children; carries high mortality risk.
 - Incidence higher in developing nations and immunocompromised states (chronic granulomatous disease, hyper-immunoglobulin E syndrome).
@@ -16,7 +16,7 @@
     - Direct inoculation: Penetrating trauma.
     - Cryptogenic: Unknown source.
 
-### Amebic [[Gastrointestinal/Liver Abscess\|Liver Abscess]]
+### Amebic Liver Abscess
 
 - Most common extraintestinal manifestation of _Entamoeba histolytica_.
 - Trophozoites invade colonic mucosa, reaching liver via portal circulation.
@@ -53,13 +53,13 @@
 
 ## Management Protocol
 
-### Pyogenic [[Gastrointestinal/Liver Abscess\|Liver Abscess]]
+### Pyogenic Liver Abscess
 
 - **Pharmacotherapy:** Initiate broad-spectrum intravenous antibiotics (piperacillin-tazobactam, ampicillin-sulbactam, or third-generation cephalosporin plus metronidazole or clindamycin). Adjust based on culture sensitivities. Duration 4-6 weeks (initial 2 weeks parenteral).
 - **Percutaneous Drainage:** Ultrasound or computed tomography-guided needle aspiration/catheter drainage indicated for large abscesses (>5-7 cm), impending rupture (rim <1 cm), or failure to improve after 3-5 days of antibiotics.
 - **Surgical Intervention:** Reserved for multiseptate/loculated abscesses failing percutaneous drainage, frank intraperitoneal rupture, biliary obstruction, or highly viscous pus.
 
-### Amebic [[Gastrointestinal/Liver Abscess\|Liver Abscess]]
+### Amebic Liver Abscess
 
 - **Pharmacotherapy:** Nitroimidazole (metronidazole 30-50 mg/kg/day or tinidazole) for 7-10 days. Alternatively, dehydroemetine for 2 weeks.
 - **Luminal Eradication:** Administer luminal amebicide (paromomycin, diloxanide furoate, or iodoquinol) for 7 days to eliminate colonic cysts and prevent transmission.

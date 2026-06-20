@@ -2,7 +2,7 @@
 {"dg-publish":true,"uplink":"/misc/miscellaneous-topics/","uptext":"Back to Index (⭕ Misc)","permalink":"/misc/vaccine-vial-monitor/","dgPassFrontmatter":true}
 ---
 
-# [[Misc/Vaccine Vial Monitor\|Vaccine Vial Monitor]] (VVM)
+# Vaccine Vial Monitor (VVM)
 
 ## Definition
 A [[Misc/Vaccine Vial Monitor\|Vaccine Vial Monitor]] (VVM) is a thermochromic chemical indicator label affixed to vaccine vials by the manufacturer. It undergoes a permanent, irreversible, and predictable color change in response to cumulative time and temperature exposure, serving as a proxy indicator for the thermal degradation of the specific vaccine.
@@ -25,11 +25,10 @@ Interpretation relies on comparing the active inner square to the static outer r
 - **Stage 2 (Usable):** Inner square begins to darken but remains distinctly lighter than the outer ring.
 - **Stage 3 (Discard Point):** Inner square is exactly the same color as the outer ring. The vial must be discarded immediately.
 - **Stage 4 (Beyond Discard):** Inner square is darker than the outer ring. The vial must be discarded immediately.
-![VVM.png](/img/user/+%C4%B0mages/VVM.png)
-
+![Pasted image 20260620093838](https://images.pedianotes.in/2026/06/WrrxQOHRAXuOtvnYamaw)
 ## Clinical and Programmatic Significance
-- **[[Misc/Cold Chain\|Cold Chain]] Monitoring:** Acts as the only continuous, vial-specific monitor of cumulative heat exposure during transport, storage, and session use.
-- **Wastage Reduction:** Allows healthcare workers to safely use vaccines even if minor, undocumented [[Misc/Cold Chain\|cold chain]] excursions have occurred, provided the VVM is in Stage 1 or 2, thereby minimizing unnecessary discard.
+- **Cold Chain Monitoring:** Acts as the only continuous, vial-specific monitor of cumulative heat exposure during transport, storage, and session use.
+- **Wastage Reduction:** Allows healthcare workers to safely use vaccines even if minor, undocumented cold chain excursions have occurred, provided the VVM is in Stage 1 or 2, thereby minimizing unnecessary discard.
 - **[[Misc/Open Vial Policy\|Open Vial Policy]] (OVP) Integration:** VVM status is a mandatory prerequisite for utilizing multi-dose vials for up to 28 days post-opening. A VVM reaching Stage 3 overrides the 28-day allowance, mandating immediate discard.
 
 ## Limitations

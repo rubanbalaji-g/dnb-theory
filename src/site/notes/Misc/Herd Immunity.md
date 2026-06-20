@@ -5,9 +5,9 @@
 ## Definitions
 
 - [[Misc/Herd Immunity\|Herd immunity]] refers to proportion of subjects possessing immunity within a given population.
-- Herd effect signifies reduction of infection or disease in unimmunized segment resulting from immunizing a population proportion.
+- **Herd effect** signifies reduction of infection or disease in unimmunized segment resulting from immunizing a population proportion.
 - [[Misc/Herd Immunity\|Herd immunity]] threshold denotes minimum population proportion requiring immunization to eliminate disease.
-- Herd protection describes unimmunized individuals remaining protected within a herd due to protection rendered by immunized members.
+- **Herd protection** describes unimmunized individuals remaining protected within a herd due to protection rendered by immunized members.
 - [[Misc/Herd Immunity\|Herd immunity]] results from immunization or infection transmitted from human to human.
 - Herd effect results from immunization or health interventions reducing transmission probability.
 

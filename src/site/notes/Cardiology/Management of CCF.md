@@ -4,7 +4,7 @@
 
 ## Core Management Principles
 
-[[Cardiology/Management of CCF\|Management of CCF]] utilizes a structured, four-pronged approach targeting inadequate cardiac output.
+Management of CCF utilizes a structured, four-pronged approach targeting inadequate cardiac output.
 
 - Reduce cardiac work.
 - Augment myocardial contractility.

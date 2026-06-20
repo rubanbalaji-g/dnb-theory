@@ -5,18 +5,18 @@
 ## Definition And Overview
 
 - Denotes occurrence of clinical disease in an individual despite receiving vaccination.
-- Categorized into primary [[Misc/Vaccine Failure\|vaccine failure]] and secondary [[Misc/Vaccine Failure\|vaccine failure]].
+- Categorized into primary vaccine failure and secondary vaccine failure.
 - Generally remains rare following administration of measles, [[Infectious Diseases/Diphtheria\|diphtheria]], and tetanus vaccines.
 
 ## Classification And Comparative Profile
 
-|Feature|Primary [[Misc/Vaccine Failure\|Vaccine Failure]]|Secondary [[Misc/Vaccine Failure\|Vaccine Failure]]|
-|:--|:--|:--|
-|Core Definition|Inability of recommended vaccine dose(s) to induce an immune response.|Occurrence of clinical disease despite prior successful induction of immune response.|
-|Pathophysiology|Complete failure of initial seroconversion or cell-mediated immunity generation.|Waning of protective immunity and immunological memory over time.|
-|Common Causes|Maternal antibody interference, concomitant infections, [[Misc/Cold Chain\|cold chain]] interruptions.|Natural decline in antibody titers, inadequate generation of memory B cells.|
-|Classic Examples|Oral poliovirus vaccine, [[Misc/Measles Vaccine\|Measles vaccine]].|Bacillus Calmette-Guérin, [[Misc/Pertussis Vaccine\|Pertussis vaccine]], [[Misc/Typhoid Vaccine\|Typhoid vaccine]].|
-|Management Strategy|Administer multiple primary doses or delay vaccination until maternal antibodies wane.|Administer scheduled booster doses to sustain protective antibody titers.|
+| Feature             | Primary Vaccine Failure\|                                                                              | Secondary Vaccine Failure\|                                                                                         |
+| :------------------ | :----------------------------------------------------------------------------------------------------- | :------------------------------------------------------------------------------------------------------------------ |
+| Core Definition     | Inability of recommended vaccine dose(s) to induce an immune response.                                 | Occurrence of clinical disease despite prior successful induction of immune response.                               |
+| Pathophysiology     | Complete failure of initial seroconversion or cell-mediated immunity generation.                       | Waning of protective immunity and immunological memory over time.                                                   |
+| Common Causes       | Maternal antibody interference, concomitant infections, [[Misc/Cold Chain\|cold chain]] interruptions. | Natural decline in antibody titers, inadequate generation of memory B cells.                                        |
+| Classic Examples    | Oral poliovirus vaccine, [[Misc/Measles Vaccine\|Measles vaccine]].                                    | Bacillus Calmette-Guérin, [[Misc/Pertussis Vaccine\|Pertussis vaccine]], [[Misc/Typhoid Vaccine\|Typhoid vaccine]]. |
+| Management Strategy | Administer multiple primary doses or delay vaccination until maternal antibodies wane.                 | Administer scheduled booster doses to sustain protective antibody titers.                                           |
 
 ## Etiological Factors
 

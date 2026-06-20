@@ -28,12 +28,14 @@
 - Provides definitive threshold estimation and central nervous system auditory pathway evaluation.
 - Essential diagnostic tool for infants, uncooperative children, and cases failing otoacoustic emission screens.
 - Remains completely unaffected by patient sedation or general anesthesia.
+![Pasted image 20260620074246.png|450](/img/user/+%C4%B0mages/Pasted%20image%2020260620074246.png)
 
 ## Acoustic Immittance Testing
 
 - Assesses functional status and compliance of tympanic membrane and middle ear structures.
 
 ### Tympanometry Profiles
+![Pasted image 20260620074317.png](/img/user/+%C4%B0mages/Pasted%20image%2020260620074317.png)
 
 |Curve Type|Characteristic Findings|Clinical Significance|
 |:--|:--|:--|

@@ -66,7 +66,7 @@
 - Minor local pain and tenderness occur within 24 hours.
 - Mild fever develops in 5% to 15% of recipients 7 to 12 days post-vaccination.
 - Transient macular rash appears 7 to 10 days post-vaccination in 2% of recipients.
-- Rare complications include thrombocytopenic purpura occurring in 1 per 30,000 vaccinees.
+- Rare complications include **thrombocytopenic purpura** occurring in 1 per 30,000 vaccinees.
 - Toxic shock syndrome risk increases significantly if reconstituted vaccine exceeds 4-hour to 6-hour usage window.
 
 ### Contraindications
