@@ -101,4 +101,4 @@ Organ-system–based approach to pediatric diseases.
 
 > [!purple] 🔬Recent Advances
 > Latest clinical guidelines, breakthrough research, and emerging trends in pediatric medicine.  
-> [[Recents/🔬Recent Advances\|View Notes →]]
+> [[Recents/🔬Recent Advances and advances in applied pediatrics\|View Notes →]]

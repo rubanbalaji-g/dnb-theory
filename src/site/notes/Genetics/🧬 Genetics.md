@@ -23,7 +23,7 @@
 8. [[Genetics/Fragile X Syndrome\|Fragile X Syndrome]]
 9. [[Genetics/Angelman Syndrome and Prader-Willi Syndrome (15q11-13 Imprinting Disorders)\|Angelman Syndrome and Prader-Willi Syndrome (15q11-13 Imprinting Disorders)]]
 10. [[Genetics/Progeria\|Progeria]]
-## Genetic Diagnostics
+## Genetic and Molecular Diagnostics
 1. [[Genetics/Karyotyping\|Karyotyping]]
 2. [[Genetics/Cytogenetic Analysis\|Cytogenetic Analysis]]
 3. [[Genetics/Chromosomal Microarray\|Chromosomal Microarray]]
@@ -35,6 +35,7 @@
 9. [[Genetics/NAAT\|NAAT]]
 10. [[Genetics/Genetic Testing in Intellectual Disability\|Genetic Testing in Intellectual Disability]]
 11. [[Genetics/Fluorescence In Situ Hybridization (FISH)\|Fluorescence In Situ Hybridization (FISH)]]
+12. [[Genetics/Flow Cytometry\|Flow Cytometry]]
 ## Genetics in clinical practice
 1. [[Genetics/Principles of Genetic Counselling\|Principles of Genetic Counselling]]
 2. [[Genetics/Prevention of Genetic Disorders\|Prevention of Genetic Disorders]]
