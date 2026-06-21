@@ -21,7 +21,7 @@
 * **Mucociliary Clearance (The "Escalator"):** Cilia beat in a coordinated, rhythmic wave (Metachronal rhythm) at 10–15 Hz.
 * **Mechanism:** They propel the overlying mucus layer (trapping dust, bacteria, and debris) cephalad (towards the pharynx) to be swallowed or expectorated.
 * **Host Defense:** Primary innate defense mechanism preventing lower respiratory tract infections.
-## [[Respiratory/Primary Ciliary Dyskinesia\|Primary Ciliary Dyskinesia]] (PCD)
+## Primary Ciliary Dyskinesia (PCD)
 
 ### 1. Introduction
 * **Definition:** A genetically heterogeneous, autosomal recessive disorder characterized by abnormal ciliary structure or function, leading to impaired mucociliary clearance.

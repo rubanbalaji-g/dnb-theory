@@ -26,9 +26,9 @@
 
 ## Efficacy and Implementation Models
 
-- Phase III clinical trials proved high efficacy, meeting the WHO goal of $\ge 75%$ protection against clinical [[Infectious Diseases/Malaria\|malaria]].
+- Phase III clinical trials proved high efficacy, meeting the WHO goal of $\ge 75\%$ protection against clinical [[Infectious Diseases/Malaria\|malaria]].
 - Demonstrates 75% efficacy in seasonal transmission regions and 67-68% efficacy in perennial transmission zones.
-- Formulated with a low antigen dose (5 μg), enabling high-volume manufacturing scalability and reducing procurement costs to $2 to $4 per dose.
+- Formulated with a low antigen dose (5 μg), enabling high-volume manufacturing scalability and reducing procurement costs.
 - National rollouts utilize two strategic delivery models based on epidemiology:
     - **Perennial Model:** Age-based delivery seamlessly integrated into routine infant immunization schedules for areas with year-round transmission.
     - **Seasonal Model:** Mass campaigns timed so the 3rd primary dose and the booster dose are administered immediately prior to the onset of the peak high-transmission rainy season.

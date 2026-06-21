@@ -40,7 +40,6 @@
 9. [[Recents/Antimicrobial Stewardship in Pediatrics\|Antimicrobial Stewardship in Pediatrics]]
 10. [[Recents/Chronic Hepatitis B Management Updates\|Chronic Hepatitis B Management Updates]]
 11. [[Recents/Universal Screening for Congenital CMV\|Universal Screening for Congenital CMV]]
-12. [[Recents/Scrub Typhus Management Protocols 2026\|Scrub Typhus Management Protocols 2026]]
 ## Respiratory and Environmental Health
 1. [[Recents/Impact of Ambient Air Quality (AQI) on Pediatric Respiratory Visits\|Impact of Ambient Air Quality (AQI) on Pediatric Respiratory Visits]]
 2. [[Recents/Biologicals in Severe Pediatric Asthma (Omalizumab, Dupilumab)\|Biologicals in Severe Pediatric Asthma (Omalizumab, Dupilumab)]]
